@@ -1,0 +1,527 @@
+﻿Vaccine 24 (2006) 957–963
+Inactivated influenza vaccine effectiveness in children under
+6 years of age during the 2002–2003 season
+Megumi Fujieda a,∗, Akiko Maeda a, Kyoko Kondo a, Masaro Kaji b, Yoshio Hirota a
+a Department of Public Health, Osaka City University Faculty of Medicine, Asahi-machi 1-4-3, Abeno-ku, Osaka 545 8585, Japan b Kurume University, Asahi-machi, Kurume-shi 830 0011, Japan
+Received 8 November 2004; received in revised form 1 August 2005; accepted 12 August 2005
+Available online 7 September 2005
+Abstract
+This study was carried out to investigate the effectiveness of influenza vaccine among 2913 children (1512 vaccinees and 1401 nonvaccinees)
+under 6 years of age during the 2002–2003 season. Study subjects were recruited from 54 paediatric clinics, located in eight areas in Japan.
+Maximum body temperatures were obtained weekly from parents between 2002 December 16 and 2003 April 13. Influenza-like illness (ILI)
+was defined as an acute febrile illness (≥38.0 ◦C) during the peak epidemic period in each study area. The vaccine antigens included were A/New
+Caledonia/20/99(H1N1), A/Panama/2007/99(H3N2) and B/Shandong/7/97. Vaccine effectiveness was analyzed by comparing the frequencies
+of ILI between vaccinees and nonvaccinees. The adjusted odds ratio (OR) and its 95% confidence interval (95% CI) were calculated by the
+proportional odds model using logistic regression with three-level outcome variables (<38.0/38.0–38.9/≥39.0 ◦C). A significantly decreased
+OR of vaccination was observed (OR: 0.76; 95% CI: 0.66–0.88), corresponding to a vaccine effectiveness (1-OR) of 24% (95% CI: 12%–34%).
+When the analysis was confined to those aged ≥2 years, a more pronounced OR (0.67, 0.56–0.79) was obtained with a vaccine effectiveness
+of 33% (21%–44%). On the other hand, no significant vaccine effectiveness was detected among very young children; the ORs were 1.84
+(0.81–4.19) for those <1 year of age and 0.99 (0.72–1.36) for those 1.0–1.9 years of age and 1.07 (0.80–1.44) when these two age groups
+were combined. Thus, among very young children vaccine effectiveness could not be demonstrated.
+© 2005 Elsevier Ltd. All rights reserved.
+Keywords: Influenza vaccine; Effectiveness; Young children
+1. Introduction
+Epidemics of influenza occur almost annually and contribute to hospitalizations and outpatient visits in all age
+groups, especially in people at high risk of complications
+from this disease.
+Recently it was reported that healthy children less than
+2 years of age have high hospitalization rates that are, in
+fact, similar to the rates among older adults for whom annual
+influenza vaccination is recommended [1–3]. In October
+2003, the US Advisory Committee on Immunization Practices recommended that influenza vaccine be administered to
+all children aged 6–23 months from the 2004–2005 season,
+∗ Corresponding author. Tel.: +81 6 6645 3756; fax: +81 6 6645 3757.
+E-mail address: megmeg@med.osaka-cu.ac.jp (M. Fujieda).
+after encouraging the use of influenza vaccines in this age
+group for the 2002–2003 season [4,5].
+Although previous studies have investigated the efficacy of
+influenza vaccine among young children [6–9], their results
+are not consistent. Controversy also exists about the use of
+influenza vaccine in young children without high-risk conditions. Therefore, this study was conducted to assess the
+effectiveness of influenza vaccine among children under 6
+years of age during the 2002–2003 season.
+2. Materials and methods
+2.1. Study subjects
+The study subjects were children under 6 years of age
+who were recruited from the 54 paediatric clinics located
+0264-410X/$ – see front matter © 2005 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.vaccine.2005.08.083
+958 M. Fujieda et al. / Vaccine 24 (2006) 957–963
+in eight different areas in Japan: Hokkaido (2 clinics, 395
+subjects), Iwate (11 clinics, 379 subjects), Tokyo (6 clinics,
+386 subjects), Mie (7 clinics, 353 subjects), Osaka (12 clinics,
+325 subjects), Shikoku (10 clinics, 399 subjects), Fukuoka (4
+clinics, 397 subjects) and Okinawa (2 clinics, 300 subjects)
+between 2002 October 1 and 2002 December 15. A total of
+2934 children (1521 vaccinees and 1413 nonvaccinees) were
+enrolled in this study.
+At each clinic, children who received vaccine on parental
+request were entered into the vaccinated group. Then,
+one or two children, who visited the paediatrician subsequent to each vaccinee and whose parents did not
+request to have their children vaccinated, were enrolled
+into the unvaccinated group. Vaccinations were performed
+using commercial inactivated influenza vaccine containing
+A/New Caledonia/20/99(H1N1), A/Panama/2007/99(H3N2)
+and B/Shandong/7/97. These vaccines contained 30g of
+haemagglutinin per 1.0 ml from each strain. Two doses of
+vaccine were given subcutaneously 2–4 weeks apart. Each
+dose was 0.1 ml for children under 1 year of age, while for
+children 1 year of age and older, each dose was 0.2 ml, in
+accordance with the standard recommendations for vaccine
+use in Japan. Informed consent to participate in the study
+was obtained from all parent(s) or guardian(s), even though
+no intervention was involved. This study was approved by
+the institutional review board associated with the Osaka City
+University Graduate School of Medicine.
+2.2. Information collection
+Three kinds of data were collected for each subject. Two
+kinds of data, physical and environmental characteristics,
+as well as health-related conditions, were collected for use
+as baseline data, while weekly maximum body temperature was collected as part of the attack survey. Physical and
+environmental information was obtained by means of selfadministered questionnaires that were completed by parents
+or guardians at the time of enrolment. The questionnaires
+gathered information about: date of birth; gestational age (six
+categories); birth weight (six categories); preschool attendance; number of family members and number of siblings;
+number of rooms and total room space of the residence; disease onset during the previous influenza season and history
+of hospitalization; and influenza vaccinations within the last
+3 years.
+Information on the following health-related conditions of
+each child was collected from his or her paediatrician by
+using a structured questionnaire: vaccination status; vaccine
+manufacturer and lot number if vaccinated; current body
+weight; physician visits within previous 6 months (for cold
+symptoms, otitis media, digestive symptoms or other reasons); underlying conditions (i.e., heart disease, renal disease,
+diabetes mellitus, anaemia, bronchitis, tonsillitis, urticaria,
+atopy, allergy, other); and long-term treatment with corticosteroids or aspirin. These questionnaires were filled out before
+2002 December 16.
+With respect to the attack survey, the parents were
+requested to fill out a postal questionnaire in which the child’s
+maximum body temperature during the preceding week was
+to be indicated using one of eight categories (<37.0 ◦C and
+37.0 to ≥40.0 ◦C by 0.5 ◦C intervals). This questionnaire was
+to be returned each week to the paediatrician’s office for 17
+weeks, from the 51st week of 2002 (December 16–22) to the
+15th week of 2003 (April 7–13).
+2.3. Viral surveillance
+The National Epidemiological Surveillance of Infectious
+Diseases in Japan provides weekly reports on the numbers
+of clinically diagnosed influenza cases based on data from
+influenza sentinels, consisting of 4824 clinics (3025 paediatricians and 1799 general physicians) as of 2002 January 1. If
+specimens are collected from patients with clinical influenza,
+they are sent to prefectural and municipal public health laboratories (PHLs) for virus isolation.
+Influenza virus isolations during the 2002–2003 season in
+Japan were reported between the 46th week of 2002 (November 11–17) and the 23rd week of 2003 (June 2–8), with the
+first epidemic peak of AH3 in the 4th week of 2003 (January 20–26) and the second peak of type B in the 6th week
+(February 3–9) [10]. During the season, influenza virus isolates at PHLs across the whole country included 4850 type
+AH3 (66%), 2451 type B (34%), and only 1 type AH1 [10].
+Both the AH3 and B virus isolates were antigenically similar to the vaccine strains. The number of reported cases and
+virus isolates showed that the largest epidemic since 1999
+had occurred during the 2002–2003 season [10].
+2.4. Case definition and epidemic
+An influenza-like illness (ILI) was defined as an acute
+febrile illness that occurred during the highest epidemic
+period of influenza in each study area. This period was
+determined by using the following two surveillance data in
+each area [11–13]: the weekly number of clinical influenza
+cases reported by the sentinels; and the weekly number of
+influenza virus isolates at the PHLs. Eventually, the highest epidemic period in each study area was defined to be
+7-week-long. This period was earliest in Fukuoka (southwest Japan), from the 51st week of 2002 to the 5th week of
+2003, and the latest in Iwate (north-east Japan), from the 5th
+to the 11th week of 2003. All subjects were classified into
+three categories according to the highest body temperature
+reported during the epidemic peak: non-disease with fever
+<38.0 ◦C; ILI with fever 38.0–38.9 ◦C; and ILI with fever
+≥39.0 ◦C.
+2.5. Data analyses
+The proportion of subjects with various characteristics
+was compared between vaccinees and nonvaccinees using
+chi-squared or Fisher’s exact test. For continuous variables,
+M. Fujieda et al. / Vaccine 24 (2006) 957–963 959
+the Wilcoxon rank-sum test was employed. To assess vaccine effectiveness independent of confounding factors, the
+adjusted odds ratio (OR) and its 95% confidence interval
+(95% CI) were calculated by a proportional odds model or a
+binary model on logistic regression [14]. Vaccine effectiveness is equivalent to one minus the OR. For adjustment, age
+was included in the model as a categorical variable (0–5 years
+of age by 1 year intervals) rather than as a continuous variable
+in order to simultaneously control the vaccine dose by age.
+These calculations were all conducted using the Statistical
+Analysis System (SAS, Version 8.2) [15].
+3. Results
+Data from a total of 2913 subjects were analyzed since 21
+from among the initial 2934 children were excluded due to
+non-participation in the attack survey. To compare vaccinees
+and nonvaccinees, the baseline characteristics with statistically significant difference are shown in Table 1. Factors that
+were thought to decrease the risk of disease, such as older
+age, heavier body weight, smaller family size, fewer siblings,
+and previous vaccinations, were observed more frequently in
+the vaccinated group. However, children attending preschool
+who have an increased risk of virus exposure were also more
+frequent in the vaccinated group.
+Among the total subjects, 1304 (44.8%) contracted ILI
+with fever ≥38.0 ◦C (19.1% with a fever of 38.0–38.9 ◦C and
+25.7% with fever of ≥39.0 ◦C). Among the 1512 vaccinees,
+41.2% contracted ILI with fever ≥38.0 ◦C (18.5% with a
+fever of 38.0–38.9 ◦C and 22.7% with fever of ≥39.0 ◦C),
+while among the 1401 nonvaccinees, 48.6% contracted ILI
+with fever ≥38.0 ◦C (19.6% with a fever of 38.0–38.9 ◦C and
+29.0% with fever of ≥39.0 ◦C).
+In the first analysis, ORs for ILI were calculated using a
+proportional odds model with a three-level outcome variable
+(maximum body temperature: <38.0, 38.0–38.9, ≥39.0 ◦C)
+(Table 2). The model included six explanatory variables (vaccination, age, number of siblings, physician visits for cold
+symptoms within the last 6 months, disease onset in the previous season, and preschool attendance). When analyzed as
+an entire sample, the adjusted OR of vaccinees decreased
+significantly to 0.76 (95% CI: 0.66–0.88). Thus, vaccine
+effectiveness was estimated to be 24% (95% CI: 12%–34%).
+To consider the fluctuation in vaccine efficacy by study
+area, an additional calculation was performed in the model
+including dummy variables discriminating eight areas.
+Nearly the same OR (0.75, 0.64–0.87) was obtained after
+Table 1
+Baseline characteristics of study participants according to vaccination status
+Characteristics Vaccinee (n = 1512) Nonvaccinee (n = 1401) P valuea
+Male (%) 52 53 0.393
+Age (years) 3.4 2.8 0.000
+Birth weight (%)
+<2000 g 2 1 0.026
+2000–2499 g 8 7
+2500–2999 g 40 36
+3000–3499 g 38 42
+3500–3999 g 11 13
+4000+ g 1 1
+Current body weightb (kg) 14.5 13.1 0.000
+Preschool attendance (%) 62 46 0.000
+Number of family members 4.2 4.4 0.000
+Number of siblings 1.9 2.0 0.000
+Number of rooms 4.4 4.3 0.010
+Total room space (m2) 76.1 69.1 0.000
+Influenza vaccination within last 3 years (%) 70 9 0.000
+Disease onset in previous seasonb (%) 42 39 0.044
+History of hospitalization (%) 33 23 0.000
+Physician visits within last 6 months (%)
+For otitis media 9 7 0.018
+For cold 76 74 0.292
+Underlying illnesses (%)
+Atopy 7 11 0.000
+Except where indicated otherwise, values are mean.
+a Chi-squared test or Wilcoxon rank-sum test.
+b One subject was excluded as data were missing.
+960 M. Fujieda et al. / Vaccine 24 (2006) 957–963
+Table 2
+Distribution of maximum body temperature during influenza epidemic peak and odds ratios of vaccination for ILI among children under 6 years of age by study
+area
+Study areas Vaccination
+status
+Total Body temperature (◦C) Crude Adjusteda
+<38.0 38.0–38.9 39.0+ OR (95% CI) P value OR (95% CI) P value
+Total Nonvaccinee 1401 720 (51) 275 (20) 406 (29) 1 1
+Vaccinee 1512 889 (59) 280 (19) 343 (23) 0.73 (0.64–0.84) 0.000 0.76 (0.66–0.88) 0.000
+Hokkaido Nonvaccinee 197 115 (58) 37 (19) 45 (23) 1 1
+Vaccinee 191 122 (64) 38 (20) 31 (16) 0.76 (0.51–1.13) 0.171 0.76 (0.49–1.18) 0.221
+Iwate Nonvaccinee 195 104 (53) 43 (22) 48 (25) 1 1
+Vaccinee 184 120 (65) 30 (16) 34 (18) 0.63 (0.42–0.94) 0.024 0.70 (0.46–1.08) 0.108
+Tokyo Nonvaccinee 193 88 (46) 44 (23) 61 (32) 1 1
+Vaccinee 193 127 (66) 29 (15) 37 (19) 0.46 (0.31–0.68) 0.000 0.49 (0.32–0.75) 0.001
+Mie Nonvaccinee 176 92 (52) 38 (22) 46 (26) 1 1
+Vaccinee 177 104 (59) 28 (16) 45 (25) 0.83 (0.55–1.24) 0.353 0.72 (0.45–1.14) 0.164
+Osaka Nonvaccinee 160 89 (56) 30 (19) 41 (26) 1 1
+Vaccinee 162 98 (60) 27 (17) 37 (23) 0.83 (0.54–1.27) 0.394 1.02 (0.64–1.64) 0.927
+Shikoku Nonvaccinee 199 102 (51) 31 (16) 66 (33) 1 1
+Vaccinee 198 118 (60) 30 (15) 50 (25) 0.70 (0.48–1.03) 0.069 0.83 (0.55–1.26) 0.376
+Fukuoka Nonvaccinee 198 95 (48) 35 (18) 68 (34) 1 1
+Vaccinee 197 91 (46) 51 (26) 55 (28) 0.93 (0.64–1.34) 0.687 0.93 (0.63–1.38) 0.723
+Okinawa Nonvaccinee 83 35 (42) 17 (20) 31 (37) 1 1
+Vaccinee 210 109 (52) 47 (22) 54 (26) 0.63 (0.39–1.02) 0.060 0.68 (0.40–1.15) 0.151
+Note: The distribution of subjects by body temperature is expressed as number and percentage in parenthesis. OR: odds ratio; CI: confidence interval. a Explanatory variables: vaccination, age, siblings, physician visits for cold symptoms within the last 6 months, disease onset during the previous influenza
+season, and preschool attendance.
+adjusting for study area. The adjusted ORs calculated by area
+ranged from 0.49 to 1.02, and were less than unity except for
+Osaka. A significantly decreased OR was observed in Tokyo
+(OR: 0.49). The crude ORs were less than unity in all study
+areas.
+During the highest epidemic period, the number of type A
+(H3) and B isolates, respectively, out of total samples submitted to PHLs in each study area were 163 (55%) and 15 (5%)
+out of 298 in Hokkaido, 60 (43%) and 40 (28%) out of 141 in
+Iwate, 111 (36%) and 29 (9%) out of 312 in Tokyo, 127 (30%)
+and 19 (5%) out of 419 in Mie, 40 (61%) and 15 (23%) out of
+66 in Osaka, 224 (49%) and 111 (24%) out of 460 in Shikoku,
+58 (45%) and 4 (3%) out of 130 in Fukuoka, and 49 (68%) and
+7 (10%) out of 72 in Okinawa. To assess the relation between
+adjusted OR and circulating virus type, study areas were categorised into two groups according to the proportion of type
+B viruses isolated. The adjusted ORs in the study areas with
+a relatively higher circulation of type B viruses, i.e., >20%
+of total samples, where the isolations of type A viruses were
+43%–61%; it as 0.70 (0.46–1.08) in Iwate, 1.02 (0.64–1.64)
+in Osaka and 0.83 (0.55–1.26) in Shikoku. The OR combined for these three areas, adjusted in the same model as in
+the first analysis, was 0.83 (0.65–1.06). On the other hand,
+in study areas with lower circulation of type B viruses, i.e.,
+less than 10%, where the percentage of type A virus isolates were 30%–68%, adjusted ORs were 0.76 (0.49–1.18)
+in Hokkaido, 0.49 (0.32–0.75) in Tokyo, 0.72 (0.45–1.14) in
+Mie, 0.93 (0.63–1.38) in Fukuoka and 0.68 (0.40–1.15) in
+Okinawa. The adjusted OR combined for these four areas
+in the same way as above was 0.73 (0.61–0.88). Somewhat
+smaller ORs were obtained in the latter four areas than the
+former three areas, but no clear relation between adjusted
+ORs and predominant virus type was indicated.
+In the second analysis, ORs were calculated using binary
+models with three combinations of two-level outcomes
+(<38.0 ◦C versus ≥38.0 ◦C, <39.0 ◦C versus ≥39.0 ◦C, and
+<38.0 ◦C versus ≥39.0 ◦C). In these computations, the same
+explanatory variables as those in the above-mentioned first
+analysis (Table 2) were considered for adjustment. The
+adjusted ORs of vaccination were 0.77 (0.66–0.90) for
+<38.0 ◦C versus ≥38.0 ◦C, 0.74 (0.62–0.88) for <39.0 ◦C
+versus ≥39.0 ◦C, and 0.71 (0.59–0.86) for <38.0 ◦C versus
+≥39.0 ◦C. The lowest OR (0.71) or the highest vaccine effectiveness (29%) was observed in the comparison of <38.0 ◦C
+versus ≥39.0 ◦C. Thus, the calculation applying stricter criteria, or contrasting extreme categories, revealed lower ORs
+and exhibited more pronounced vaccine effectiveness.
+In the third analysis (Table 3), ORs were calculated by age
+category using a proportional odds model. In the age group
+of 2.0–5.9 years, the same explanatory variables as those in
+the first analysis (Table 2) were included in the model, while
+in the calculations by 1-year interval, “age” was excluded
+from the models. In addition, special attention was paid to
+the model construction in two age groups: for the age category <1 year, only two variables, “siblings” and “preschool
+attendance”, were used for adjustment, since the other two
+M. Fujieda et al. / Vaccine 24 (2006) 957–963 961
+Table 3
+Distribution of maximum body temperature and odds ratios of vaccination for ILI among children under 6 years of age-by-age category
+Age (years) Vaccination
+status
+Total Body temperature (◦C) Crude Adjusted
+<38.0 38.0–38.9 39.0+ OR (95% CI) P value OR (95% CI) P value
+2.0–5.9a Nonvaccinee 865 451 (52) 161 (19) 253 (29) 1 1
+Vaccinee 1262 773 (61) 227 (18) 262 (21) 0.67 (0.57–0.79) 0.000 0.67 (0.56–0.79) 0.000
+<1.0b Nonvaccinee 173 93 (54) 34 (20) 46 (27) 1 1
+Vaccinee 24 8 (33) 8 (33) 8 (33) 1.81 (0.82–4.02) 0.143 1.84 (0.81–4.19) 0.145
+1.0–1.9c Nonvaccinee 363 176 (48) 80 (22) 107 (29) 1 1
+Vaccinee 226 108 (48) 45 (20) 73 (32) 1.07 (0.78–1.46) 0.665 0.99 (0.72–1.36) 0.966
+2.0–2.9c Nonvaccinee 264 125 (47) 44 (17) 95 (36) 1 1
+Vaccinee 344 199 (58) 71 (21) 74 (22) 0.59 (0.43–0.80) 0.001 0.61 (0.44–0.84) 0.002
+3.0–3.9c Nonvaccinee 222 118 (53) 42 (19) 62 (28) 1 1
+Vaccinee 365 237 (65) 57 (16) 71 (19) 0.62 (0.44–0.86) 0.004 0.60 (0.43–0.84) 0.003
+4.0–4.9c Nonvaccinee 191 108 (57) 32 (17) 51 (27) 1 1
+Vaccinee 311 190 (61) 63 (20) 58 (19) 0.77 (0.54–1.09) 0.139 0.72 (0.50–1.03) 0.071
+5.0–5.9d Nonvaccinee 188 100 (53) 43 (23) 45 (24) 1 1
+Vaccinee 242 147 (61) 36 (15) 59 (24) 0.81 (0.56–1.18) 0.271 0.80 (0.55–1.16) 0.240
+Note: The distribution of subjects by body temperature is expressed as number and percentage in parenthesis. OR: odds ratio; CI: confidence interval. a Explanatory variables: vaccination, age, siblings, physician visits for cold symptoms within the last 6 months, disease onset during the previous influenza
+season, and preschool attendance.
+b Explanatory variables: vaccination, siblings, and preschool attendance.
+c Explanatory variables: vaccination, siblings, physician visits for cold symptoms within the last 6 months, disease onset during the previous influenza season,
+and preschool attendance.
+d Explanatory variables: vaccination, siblings, physician visits for cold symptoms within the last 6 months, and disease onset during the previous influenza
+season.
+variables, “physician visits for cold symptoms within the
+last 6 months”, and “disease onset in the previous season”
+were not possible variables for this age group; for children
+in the 5.0–5.9 years age group, “preschool attendance” was
+excluded, since almost all children (99%, 425 out of 430)
+attended preschool.
+When children aged 2 years and over were combined, a
+decreased OR (0.67, 0.56–0.79) was observed. The adjusted
+ORs by 1-year interval ranged from 0.60 to 1.84 and were
+less than unity except for children under 1 year. After combining some of these age categories, the adjusted ORs were
+0.74 (0.63–0.86) among children aged 1.0–5.9 years, and 1.07
+(0.80–1.44) among those aged <2.0 years.
+4. Discussion
+The present results must be interpreted carefully. This
+study was conducted using a non-randomized design, in
+which vaccination or non-vaccination were self-selected by
+parents. It is, therefore, essential to consider potential confounders in the analysis, since they are unlikely to be distributed in equal frequency between the groups. In fact,
+vaccine effectiveness in the Mie Prefecture increased 65%
+(from 17% to 28%) after adjustment with the logistic model.
+Thus, we calculated adjusted ORs of vaccination to control
+confounding effects using the available data.
+In addition, the definition of ILI, as an acute febrile illness during an epidemic peak, must have affected the present
+results since this definition inevitably includes noninfluenzal illnesses. To measure the onset of a febrile illness, we
+prospectively collected information on the maximum body
+temperature each week by using a postal questionnaire. This
+method enabled us to observe each individual of the all
+study subjects with an equal intensity throughout an epidemic period. This method also minimized the uncertainty
+in the parents’ answer as well as gave a similar recall stimulus to parents in both groups. Moreover, only a febrile illness
+contracted during an influenza peak epidemic period in each
+area was regarded as a study outcome (ILI). Such procedures that define an epidemic peak by using local data have
+also been used in other studies [16–18]. It is reasonable to
+assume that the extent to which the ILI category includes noninfluenzal illnesses and the non-diseased category includes
+influenza per se was similar in the vaccinated and nonvaccinated groups. Such nondifferential misclassification results
+in an underestimation of vaccine efficacy, but does not affect
+the validity of the study results. Measurement error in maximum body temperature would also have occurred similarly
+among vaccinees and nonvaccinees. Thus, the true association can be considered to be at least as great as that observed.
+It seems likely that parent(s) or guardian(s) who make their
+child immunized tend to be more conscious of their child’s
+health and to measure their child’s body temperature more
+frequently. Thus, the maximum body temperature may have
+been reported to be higher in vaccinees than in nonvaccinees. In this situation, vaccine effectiveness would also be
+underestimated.
+962 M. Fujieda et al. / Vaccine 24 (2006) 957–963
+In the present study, even though most of the virus isolates
+of the 2002–2003 season were antigenically similar to the
+vaccine strain, a relatively low vaccine effectiveness for ILI
+was found for children under 6 years of age: 24% (12%–34%)
+for the group as a whole and 33% (21%–44%) for children 2
+years and over. Similarly, a previous randomized, controlled
+study among children 24–60 months of age showed insufficient vaccine effectiveness: 7% (−30% to 23%) against
+febrile illness and 31% (−95% to 73%) against A/H3N2 and
+45% (−2% to 69%) against type B of serologically confirmed
+influenza [8]. On the other hand, another randomized trial
+among healthy children aged 1–6 years reported a higher vaccine effectiveness of 67% (59%–74%) against influenza-like
+illness [9]. The vaccine effectiveness in our study is thought
+to have been underestimated due to our definition of ILI. The
+presence of the diluting effect caused by noninfluenzal illnesses was reflected in a more pronounced OR when strict
+criteria were used for ILI.
+Among very young children, we obtained a vaccine effectiveness of −84% (−319% to 19%) for children <1 year and
+1% (−36% to 28%) for children 1.0–1.9 years of age. Thus,
+influenza vaccine effectiveness could not be demonstrated in
+these age groups. In a recent randomized, controlled study
+conducted over 2 consecutive influenza seasons, the vaccine efficacy among children 6–24 months of age was not
+consistent. There was a significant vaccine efficacy of 66%
+(34%–82%) against culture-proven influenza in the first year,
+while in the second year, a negative efficacy of −7% (−247%
+to 67%) was found. Meanwhile, in the placebo group, attack
+rates during the same two seasons were 15.9% in the first
+year and 3.3% in the second year [6]. On the other hand, in
+a previous study in which the authors reanalysed the data on
+the subset of children <16 years of age (including very young
+children) from the entire population aged 1–65 years, a higher
+vaccine efficacy was reported, and the estimated efficacy
+against culture positive influenza was 91.4% (63.8%–98.0%)
+for A/H1N1 and 77.3% (20.3%–93.5%) for A/H3N2 [7].
+A few factors have been indicated that help to explain the
+failure to detect vaccine effectiveness in very young children.
+A recent study reported that there is a lower immune response
+to influenza vaccine in children less than 1 year of age than
+in older children aged 1–3 years [19]. It has also been shown
+that influenza epidemics often overlap with the circulation
+of respiratory syncytial virus (RSV) [3] and that the health
+impact of RSV seems to be greater in very young children
+than in older children [20,21]. ILI defined to measure vaccine
+effectiveness is thus diluted more by noninfluenzal illnesses
+among young children than among older children. Furthermore, in our study, the sample size of the young age group was
+too small to clearly demonstrate vaccine efficacy, as shown
+by the wide confidence interval.
+In this study, vaccine effectiveness was observed to be
+39% for those aged 2.0–2.9 years, 40% for those aged 3.0–3.9
+years, and 28% for those aged 4.0–4.9 years; all of these were
+either statistically significant or marginally statistically significant. However, the vaccine effectiveness among children
+aged 5.0–5.9 years was merely 20% and was not statistically
+significant. One possible interpretation is that this age group
+had already acquired natural immunity through the influenza
+virus experiences before this season, as suggested by the high
+proportion of children in this age group attending preschool
+(99%) in the present study. Under these circumstances, the
+differences in susceptibility to the disease between vaccinees
+and nonvaccinees tend to become small. Further analysis was
+performed to adjust for preschool or school attendance of
+the siblings, by adding this variable to the first multivariate
+model. Nearly the same OR was obtained (0.74, 0.64–0.86).
+In the stratified analysis by area performed to consider
+regional variation of influenza epidemic, no clear trend was
+observed. The main concern of these subgroup analyses
+involves loss of statistical power, since the results were based
+on only a small segment of the total subjects. The results were
+therefore susceptible to random variability. Adjusted ORs
+close to null value in Osaka and Fukuoka (1.02 and 0.93,
+respectively) do not necessarily mean no vaccine efficacy in
+these areas. Similarly, the largest reduction in ORs in Tokyo
+(0.49) does not necessarily mean vaccine was most effective
+in this area.
+In summary, a statistically significant, protective effect of
+influenza vaccine against an ILI attack was found in children
+under 6 years of age (24%), with the rate rising to 33% in
+children aged 2.0–5.9 years. However, vaccine effectiveness
+was not clearly shown in children under 2 years of age. There
+are several factors which make it difficult to detect vaccine
+efficacy among very young children, including, among others: a low immune response to the vaccine; susceptibility to
+co-circulating infectious agents; the illness definition used
+to measure the outcome event; and the method of obtaining
+clinical information. Further studies are required by different
+methods, among different places, and in different seasons, to
+clarify the effectiveness of influenza vaccine among young
+children.
+Acknowledgements
+Contributors: Space limitations preclude the inclusion as
+authors of the following individuals who contributed substantially to this cooperative study: Drs. Tatsuru Yamanaka and
+Shuji Nakata in Hokkaido Prefecture; Drs. Yuhei Takasago,
+Mitsuo Kamihara, Yukiko Usui, Shuka Watanabe, Toshiko
+Yamaguchi, Shinji Yoshida, Asaka Nishijima, Tsuneji
+Kanno, Hiroyasu Wada, Eiji Ogawa and Kazuhiko Suzuki
+in Iwate Prefecture; Drs. Takamitsu Matsudaira, Shunsuke
+Numaguchi, Noriyuki Wada, Kinjiro Kodaira, Takayoshi
+Yamada and Akira Kamikawa in Tokyo Prefecture; Drs.
+Hitoshi Kamiya, Takashi Nakano, Hitoshi Ochiai, Ritsue
+Nii, Naoki Yasuda, Takashi Kato, Masakazu Umemoto and
+Masahiro Watanabe in Mie Prefecture; Drs. Urara Kohdera,
+Katsuhiko Kitera, Fumiyoshi Yamaue, Masanobu Mantani,
+Michiaki Hayashida, Rentaro Abumi, Yuko Fukuda, Michiko
+Hatano, Kazuo Wada, Chikara Nakahama, Yoshiyuki Tanaka
+M. Fujieda et al. / Vaccine 24 (2006) 957–963 963
+and Kyoko Takizawa in Osaka Prefecture; Drs. Takao Nagai,
+Takamichi Mukaida, Tetsushi Inoue, Junji Suzue, Fumihiko
+Hamada, Akira Takehiro, Atsuko Nishioka, Hitoshi Jinnai,
+Takuji Fujisawa and Kenkichi Sasaki in Shikoku region; Drs.
+Yoshio Takasaki, Shizuo Shindo, Naoki Tsumura and Yuji
+Yamashita in Fukuoka Prefecture; Drs. Yoshio Ohgimi and
+Yoshinobu Goya in Okinawa Prefecture.
+References
+[1] Neuzil KM, Wright PF, Mitchel EF, Griffin MR. The burden of
+influenza illness in children with asthma and other chronic medical
+conditions. J Pediatr 2000;137:856–64.
+[2] Neuzil KM, Mellen BG, Wright PF, Mitchel EF, Griffin MR. The
+effect of influenza on hospitalizations, outpatient visits, and courses
+of antibiotics in children. N Engl J Med 2000;342:225–31.
+[3] Izurieta HS, Thompson WW, Kramarz P, Shay DK, Davis RL,
+DeStefano F, et al. Influenza and the rates of hospitalization for respiratory disease among infants and young children. N Engl J Med
+2000;342:232–9.
+[4] Center for Disease Control and Prevention. Prevention and control of
+influenza: recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR 2004;53(RR-6):1–39.
+[5] Center for Disease Control and Prevention. Prevention and control of
+influenza: recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR 2002;51(RR-3):1–31.
+[6] Hoberman A, Greenberg DP, Paradise JL, Rockette HE, Lave JR,
+Kearney DH, et al. Effectiveness of inactivated influenza vaccine
+in preventing acute otitis media in young children. A randomized
+controlled trial. JAMA 2003;290:1608–16.
+[7] Neuzil KM, Dupont WD, Wright PF, Edwards KM. Efficacy of
+inactivated and cold-adapted vaccines against influenza A infection, 1985 to 1990: the pediatric experience. Pediatr Infect Dis J
+2001;20:733–40.
+[8] Hurwitz ES, Haber M, Chang A, Shope T, Teo ST, Giesick JS, et
+al. Studies of the 1996–1997 inactivated influenza vaccine among
+children attending day care: immunologic response, protection
+against infection, and clinical effectiveness. J Infect Dis 2000;182:
+1218–21.
+[9] Colombo C, Argiolas L, La Vecchia C, Negri E, Meloni G, Meloni
+T. Influenza vaccine in healthy preschool children. Rev Epidemiol
+Sante Publique 2001;49:157–62.
+[10] National Institute of Infectious Diseases and Tuberculosis and Infectious Diseases Control Division, Ministry of Health, Labour and
+Welfare: Infectious Agents Surveillance Report 2003;24(11):281–8
+[in Japanese].
+[11] Hirota Y, Kaji M, Ide S, Goto S, Oka T. The hemagglutination inhibition antibody responses to an inactivated influenza vaccine among
+healthy adults: with special reference to the prevaccination antibody
+and its interaction with age. Vaccine 1996;14:1597–602.
+[12] Hirota Y, Kaji M, Ide S, Kajiwara J, Kataoka K, Goto S, et al.
+Antibody efficacy as a keen index to evaluate influenza vaccine
+effectiveness. Vaccine 1997;15:962–7.
+[13] Hirota Y, Takeshita S, Ide S, Kataoka K, Ohkubo A, Fukuyoshi S, et
+al. Various factors associated with the manifestation of influenza-like
+illness. Int J Epidemiol 1992;21:574–82.
+[14] SAS Institute Inc. Logistic regression with an ordinal response.
+Logistic regression examples using SAS System. SAS Institute Inc.,
+Cary, NC, 1997;99–110.
+[15] SAS Institute Inc. SAS/STAT User’s Guide, Version 8. SAS Institute
+Inc., Cary, NC, 1999.
+[16] Nichol KL, Margolis KL, Wuorenma J, Sternberg TV. The efficacy
+and cost effectiveness of vaccination against influenza among elderly
+persons living in the community. N Engl J Med 1994;331:778–84.
+[17] Neuzil KM, Reed GW, Mitchel EF, Simonsen L, Griffin MR. Impact
+of influenza on acute cardiopulmonary hospitalizations in pregnant
+women. Am J Epidemiol 1998;148:1094–102.
+[18] Foster DA, Talsma A, Furumoto-Dawson A, Ohmit SE, Margulies
+JR, Arden NH, et al. Influenza vaccine effectiveness in preventing hospitalization for pneumonia in the elderly. Am J Epidemiol
+1992;136:296–307.
+[19] Maeda A, Kohdera U, Fujieda M, Kase T, Hirota Y. Evaluation
+of inactivated influenza vaccine in children aged 6–36 months. In:
+Kawaoka Y, editor. International congress series 1263: options for the
+control of influenza V. Amsterdam: Elsevier B.V.; 2004. p. 666–9.
+[20] Glezen WP, Taber LH, Frank AL, Kasel JA. Risk of primary infection and reinfection with respiratory syncytial virus. Am J Dis Child
+1986;140:543–6.
+[21] Thompson WW, Shay DK, Weintraub E, Brammer L, Cox N, Anderson LJ, et al. Mortality associated with influenza and respiratory
+syncytial virus in the United States. JAMA 2003;289:179–86.

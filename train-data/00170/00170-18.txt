@@ -1,0 +1,398 @@
+﻿INFECTION CONTROL AND HOSPITAL EPIDEMIOLOGY SEPTEMBER 2013 , VOL. 34 , NO. 9
+ORIGINA L ARTICL E
+Issues in Understanding the Impact of the Needlestick Safety and
+Prevention Act on Hospital Sharps Injuries
+Elayne Kornblatt Phillips, RN, PhD;1,2
+ Mark Conaway, PhD;3
+ Ginger Parker, MBA;4
+Jane Perry, MA;4
+ Janine Jagger, PhD1
+OBJECTIVE. Measuring the effect of the Needlestick Safety and Prevention Act (NSPA) is challenging. No agreement exists on a common
+denominator for calculating injury rates. Does it make a difference? How are the law and safety-engineered devices related? What is the
+effect on injuries and costs? This study examines those issues in assessing the impact of the legislation on hospital worker percutaneous
+injuries.
+METHODS. Using a historic prospective design, we analyzed injury data from 85 hospitals. Injury rates were calculated per 100 full-time
+equivalents, 100 staffed beds, and 100 admissions each year from 1995 to 2005. We compared changes for each denominator. We measured
+the proportion of the injury rate attributed to safety-engineered devices. Finally, we estimated a national change in injuries and associated
+costs.
+RESULTS. For all denominators, a precipitous drop in injury rates of greater than one-third (P-c.001) occurred in 2001, immediately
+following the legislation. The decrease was sustained through 2005. Concomitant with the decrease in rates, the proportion of injuries from
+safety-engineered devices nearly tripled (P<.001) across all denominators. We estimated annual reductions of more than 100,000 sharps
+injuries at a cost savings of $69-$415 million.
+CONCLUSIONS. While the data cannot demonstrate cause and effect, the evidence suggests a reduction in hospital worker injury rates
+related to the NSPA, regardless of denominator. It also suggests an association between the increase in safety-engineered devices and the
+reduction in overall injury rates. The decreases observed translate into significant reductions in injuries and associated costs.
+Infect Control Hosp Epidemiol 2013;34(9):935-939
+In the early 1990s, following the first reports of needlestick- PROBLEM
+transmitted human immunodeficiency virus, the Occupational Safety and Health Administration (OSHA) promul-
+ Be y ° n d
+ «*« documented decrease in injuries, there are chalgated the Bloodborne Pathogens Standard (the Standard).1 len § e s m measuring the impact of the NSPA. They include
+Still, throughout the decade, adoption of safety devices in lac k o f a common denominator for comparing injury rates,
+many categories remained low, and sharps injury rates lack of data addressing the influence of safety-engineered dechanged little.2
+'
+4
+ The Needlestick Safety and Prevention Act ^ce proliferation, and lack of understanding the national
+(NSPA), H.R.5178, was signed into law on November 6,2000,
+ effec t o n
+ injuries and related costs.
+and, as mandated, OSHA revised the Standard in 2001 to Comparability of percutaneous injury rates is a key factor
+incorporate the law's requirements.5
+'
+6
+ It required provision of in the capacity to draw conclusions from surveillance data
+safety-engineered sharps to minimize workers' blood expo-
+ o n
+ injuries and to generalize findings. Such comparisons are
+sure risk; inclusion of frontline workers in identification, se- important for benchmarking purposes to compare injury exlection, and evaluation of devices; maintenance of sharps in- perience in an institution over time, to compare occupational
+jury logs containing specific details; and annual review of the risks in one institution to a group of similar institutions, or
+facility's exposure control plan to ensure incorporation of to compare the impact of healthcare worker occupational
+advances in sharps safety technology. In the years following safety policies in one country with those in another. Valid
+the legislation, there was a decline in percutaneous injury comparisons require that the same or similar denominators
+rates among hospital workers.7
+ (Reference 7 discusses a pre- be used for rate calculation. Many denominators have been
+liminary finding from this study.) used to calculate sharps injury rates, including number of
+Affiliations: 1. Division of Infectious Diseases, Department of Medicine, School of Medicine, University of Virginia, Charlottesville, Virginia; 2. School
+of Nursing, University of Virginia, Charlottesville, Virginia; 3. Department of Public Health Sciences, School of Medicine, University of Virginia, Charlottesville, Virginia; 4. Division of Infectious Diseases, Department of Medicine, University of Virginia, Charlottesville, Virginia.
+Received December 3, 2012; accepted April 30, 2013; electronically published July 31, 2013.
+© 2013 by The Society for Healthcare Epidemiology of America. All rights reserved. 0899-823X/2013/3409-0007$15.00. DOI: 10.1086/671733
+https:/www.cambridge.org/core/terms. https://doi.org/10.1086/671733
+Downloaded from https:/www.cambridge.org/core. Kainan University, on 07 Apr 2017 at 04:56:03, subject to the Cambridge Core terms of use, available at
+9 3 6 INFECTION CONTROL AND HOSPITAL EPIDEMIOLOGY SEPTEMBER 2013 , VOL. 34 , NO. 9
+employees, hours worked, full-time equivalents (FTEs), occupied bed census, devices purchased, patient-days, and procedures performed.8
+"
+14
+ This study begins to assess whether
+different denominators yield different conclusions regarding
+the impact of the NSPA on percutaneous injury rates.
+In identifying the influence of safety devices within the
+overall impact of the NSPA, we considered that safety devices
+preceded the legislation and were also a significant focus of
+the legislation. The adoption of safety devices was low before
+the NSPA, and injury rates changed little in the years prior
+to the legislation. A key requirement of the NSPA was the
+purchase and use of safety devices. Therefore, the adoption
+of safety devices, while not a proxy for the impact of the law,
+likely influenced the overall impact of the law. We assess the
+relationship between these 2 factors, from the early days of
+safety devices through the first years following the NSPA. This
+will contribute to a more complete understanding of the
+changes brought about by both the safety devices and the
+legislation.
+METHODS
+Study Design
+We employed a historical prospective design using the Exposure Prevention Information Network (EPINet), a multihospital sharps injury database maintained by the International Healthcare Worker Safety Center at the University of
+Virginia. Since 1993, sharps injury incident reports or summaries were voluntarily contributed by a subset of US hospitals. Data from the years 1995 to 2005 were selected, reflecting 23,908 injuries from 85 hospitals in 10 states. The
+University of Virginia Institutional Review Board approved
+this study.
+Variables
+Incident report forms capture injuries from needles and other
+sharp devices ("sharps injuries"). All data were stripped of
+personal identifiers and merged into an aggregate database.
+Any choice of denominators must be relevant to the outcome and must also be relatively common and available. We
+compared changes in injury rates calculated using 3 different
+hospital-based denominators that met these criteria: number
+of staffed beds, number of admissions, and number of personnel (FTEs). These denominators reflect hospital size, patient turnover, and staff size, each of which might be related
+to injury rates. FTEs include all personnel employed by the
+institution, whether or not they have blood exposure risk.
+Using "at-risk" employees would provide a more accurate
+assessment of risk, but those data are not systematically available. Using all personnel underestimates the overall risk by
+including those who have little or no risk of sharps injury.
+Denominator values were obtained from the American Hospital Association's (AHA) Annual Survey Report for each
+hospital for each year.15
+ We also included in the analysis geographic region (Northeast, Midwest, South, West), type of
+hospital (teaching, nonteaching), and population density
+(metropolitan or nonmetropolitan) as potentially confounding variables.16,17
+We determined safety-device-related injuries from "yes"
+indications on the incident form ("If the item causing the
+injury was a needle or sharp medical device, was it a 'safety
+design' with a shielded, recessed, retractable or blunted needle
+or blade?").
+Analysis
+Hospitals without AHA denominators (30) were removed
+from the sample for calculation of rates. Of the remaining,
+73% contributed data in both the pre- and postlegislation
+period.
+We calculated injury rates for each year using 3 different
+denominators, and for each rate we calculated the proportion
+from safety-engineered and conventional (nonsafety) devices.
+Last, we applied our findings to national estimates of needlestick injuries and costs.
+Primary analyses included hospitals contributing data during the prelegislation or postlegislation period and for which
+the annual denominator was available. In subsequent analyses, we imputed denominators in missing years based on a
+hospital's previous and subsequent reported values. For calculation of rates, we excluded data from hospitals that were
+missing denominator values for all years. For calculation of
+totals and proportion, we included all injuries. Poisson regression, using the chosen denominator as an offset, was used
+to compare injury rates in the pre- and posdegislation periods. These methods were also used to compare pre- and
+postlegislation rates adjusting for type of hospital (teaching,
+nonteaching) and population density (metropolitan or nonmetropolitan).
+RESULTS
+All Injury Rates by Denominator
+During the pre-NSPA period (1995-2000), a cumulative total
+of 184 years of data was collected, representing 13,377 percutaneous injuries. For the post-NSPA period (2001-2005),
+150 years of data were collected, with a total of 5,379 injuries.
+Using FTEs as the denominator, we calculated a rate of
+4.00 injuries per 100 FTEs for the pre-NSPA period. The postNSPA rate was 2.48 injuries per 100 FTEs, a rate ratio of 0.62
+(P<.001; Figure 1A). We obtained similar results for the
+other denominators: a rate ratio of 0.64 (P< .001) per 100
+beds (Figure IB) and 0.57 (P < .001) per 100 admissions (Figure 1C). These results reflect 38%, 36%, and 43% reductions
+from the pre- to post-NSPA periods.
+Applying a Poisson regression model and adjusting injury
+rates for type of hospital, region, and density, the estimated
+decreases in rates from the pre- to post-NSPA years were
+39%, 33%, and 39% for FTEs, beds, and admissions, respectively. When data were reanalyzed to replace missing denominators with values interpolated from previous and subsequent years, the results were nearly identical (reductions
+within 1%) to those using only years with reported values.
+https:/www.cambridge.org/core/terms. https://doi.org/10.1086/671733
+Downloaded from https:/www.cambridge.org/core. Kainan University, on 07 Apr 2017 at 04:56:03, subject to the Cambridge Core terms of use, available at
+NEEDLESTICK SAFETY AND PREVENTION ACT IMPACT ISSUES 93 7
+95 96 97 98 99 00 01 02 03 04 05
+Year B. CN,
+95 96 97 98 99 00 01 02 03 04 05
+Year
+C.
+95 96 97 98 99 00 01 02 03 04 05
+Year
+Injury rates from conventional (non-safety) devices
+^ H Injury rates from safety-engineered devices
+Figure 1. A, Percutaneous injury rates per 100 full-time equivalents
+(FTEs) by year, 1995-2005. The combined rate per 100 FTEs for
+the years 1995-2000 is 4.00 (SE, 0.035). The rate for the years 2001-
+2005 is 2.48 (SE, 0.034), a rate ratio of 0.62 (SE, 0.010; P<.001).
+B, Percutaneous injury rates per 100 beds by year, 1995-2005. The
+Proportion of Injuries from Safety Devices
+Figure 1 also shows the relative proportion of injuries from
+conventional and safety-engineered devices. In each analysis,
+the fraction of injuries attributable to safety devices increased
+concomitantly with an overall reduction in injury rates. From
+1995 to 2000, about 10% of injuries overall were attributable
+to safety devices; in 2001, post-NSPA, this proportion increased to 20% and continued to climb over the next 4 years,
+reaching 45% of overall injuries by 2005.
+DISCUSSION
+Hospital Selection
+Our sample of hospitals was not statistically derived and may
+not be representative of all hospitals. Although self-selected,
+they are diverse in size, geographic location, and ownership.
+In our preliminary analyses, the circumstances and mechanisms of sharps injuries in all hospital groups (eg, large/small,
+teaching/nonteaching) were strikingly similar. Controlling for
+these factors statistically did not alter the findings.
+It is likely that our sample includes hospitals with higher
+safety awareness. If so, then these hospitals probably adopted
+more safety technology or practices than other hospitals before passage of the NSPA, making a reduction more difficult
+to observe than nonparticipating hospitals. However, they
+may also have more vigorously adopted the requirements after
+passage of the NSPA, overestimating the impact compared to
+other hospitals. Since there are no comparable national data
+during the prelegislation years, we cannot address these potential biases.
+Denominators: All Injuries
+For all 3 denominators, percutaneous injury rates for hospital
+healthcare workers decreased significantly in the year following enactment of the NSPA, a reduction that was sustained
+over the 5 years following the legislation. Since denominators
+were relatively stable compared to numerators, changes in
+number of injuries influenced heavily the rate changes. More
+than 80% of our hospitals had postlegislation sharps injury
+rates that were lower than prelegislation rates, supporting the
+conclusion that this was an overall trend.
+Patterns of Injury Rates
+The long-term trends in injury rates for all denominators
+were similar: negligible change in injury rates prior to the
+legislation, followed by a precipitous drop in rates in the year
+combined rate per 100 beds for the years 1995-2000 is 22.09 (SE,
+0.179). The rate for the years 2001-2005 is 14.03 (SE, 0.182), a rate
+ratio of 0.64 (SE, 0.010; P< .001). C, Percutaneous injury rates per
+100 admissions by year, 1995-2005. The combined rate per 100
+admissions for the years 1995-2000 was 0.53 (SE, 0.005). The rate
+for the years 2001-2005 was 0.30 (SE, 0.004), a rate ratio of 0.57
+(SE, 0.009; P<.001).
+https:/www.cambridge.org/core/terms. https://doi.org/10.1086/671733
+Downloaded from https:/www.cambridge.org/core. Kainan University, on 07 Apr 2017 at 04:56:03, subject to the Cambridge Core terms of use, available at
+93 8 INFECTION CONTROL AND HOSPITAL EPIDEMIOLOGY SEPTEMBER 2013 , VOL. 34 , NO. 9
+following the legislation. After 2001, with small variations,
+injury rates remained well below pre-NSPA rates regardless
+of the denominator used (Figure 1). One might expect decreasing rates over the post-NSPA period due to advances in
+safety technology and continued progress in using these devices. We did see an overall downward trend, but the pattern
+was uneven. The pattern similarity across denominators suggests that they may be correlated and therefore produce comparable outcomes or that differences among these variables
+may be masked by the powerful impact of the legislation.
+The conclusion of each analysis, though, is slightly different,
+explaining injury risk as a function of hospital size, patient
+turnover, and staff size.
+Injuries from Safety Devices
+The pattern we observed for proportion of injuries attributable to safety devices was also similar across the 3 denominators, with a relatively stable (and low) proportion before
+the legislation and an increasing proportion in the years after.
+That pattern of safety device proportion of injuries parallels
+the national market share of safety devices, which experienced
+a sharp increase after passage of the NSPA.18
+ An increase in
+proportion of injuries attributable to safety devices may not
+represent a contradiction; any time a sharp device is used,
+the risk of injury exists. If all sharp devices were safety engineered, they would account for 100% of sharps injuries,
+but we would expect the overall injury rate to be even lower
+than the rates observed here.
+We found lower injury rates for safety devices than for
+nonsafety devices (data not shown); however, the denominators used here remained relatively stable for each hospital
+across the study period. Because the sales and presumed use
+of safety devices increased substantially in the post-NSPA
+period and the sales of nonsafety devices decreased, a safety/
+nonsafety-device-specific analysis might have demonstrated
+an even greater difference between the rates. Relevant purchasing data were not available.
+Other System Factors
+Legislation often fails to produce the intended results, so it
+is possible that passing the NSPA alone would not have resulted in the observed reductions. Other factors may have
+contributed to the result. For example, a rise in safety consciousness and adoption of safer practices independent of the
+legislation might have reduced injuries. In fact, all hospital
+occupational injuries and illnesses decreased nationally over
+the study period, but there was no significant drop in 2001
+that paralleled the sharps injury observations.19
+The number and types of safety devices grew substantially,
+and earlier models were refined over the period examined.
+This may have supported and encouraged the adoption of
+safety devices in the absence of a national law. Without these
+devices, the law may have had little effect. However, even
+with many devices on the market, the significant increase in
+market share of safety devices and the overall reduction in
+injuries did not occur until after the legislation.718
+ Again, this
+suggests that the legislation had an independent effect on
+injury rates.
+OSHA's increased efforts to enforce the revised Standard
+likely contributed to the observed decrease in injury rates.
+The number of OSHA citations for violations of the Standard
+more than doubled in the years following passage of the
+NSPA. Similarly, the dollar amount of related penalties increased, from a total of $21,000 in 2001 to $108,200 in 2005.20
+The threat of citations and monetary penalties may well have
+accelerated hospital compliance, resulting in a reduction in
+injuries. If OSHA continues to bring pressure to bear on
+hospitals not in compliance, further reductions may be
+expected.
+Trends in adherence to standard precautions in hospitals
+over the period studied could also affect the risk of injury.21
+The role of safer work practices in risk reduction likely interacts with safety technology.
+Costs Related to Decreases in Injuries
+Administrators and policy makers want to translate changes
+in injuries to changes in exposure-related costs. We did not
+measure these directly, but our findings permit a crude estimate of these changes as well. These estimates are offered
+with a caveat that the sample may not be representative of
+all hospitals, but it was the basis for the Centers for Disease
+Control and Prevention's (CDC) national hospital needlestick
+injury estimates.22
+The most frequently cited national estimate of annual hospital needlestick injuries is 384,325, calculated using EPINet
+and CDC-National Surveillance System for Healthcare Workers data from 1997-1998 (prelegislation).3
+ Using the most
+conservative (lowest) injury rate reduction among the 3 denominators examined, 36%, we estimate that 138,357 needlestick injuries were prevented in each year of the post-NSPA
+period. Follow-up costs of reported percutaneous injuries,
+according to the US General Accounting Office, range from
+$500 to $3,000.23
+ These costs do not include treatment costs
+of infected healthcare workers, wages and time lost, emotional
+distress, or loss of life. We did not factor in the higher cost
+of safety-engineered devices, although these costs will likely
+decline with the increase in production volume. Using these
+costs estimates, we calculated a savings range of $69-$415
+million related to injury follow-up costs for each year since
+2001.
+CONCLUSIONS
+The findings suggest that the 3 denominators chosen worked
+well in demonstrating changes in injury rates over the period
+surrounding the NSPA. The patterns were quite similar, regardless of the denominator examined: marked reduction in
+injury rates in the first year following the legislation, followed
+by consistently lower rates in the years after, demonstrating
+https:/www.cambridge.org/core/terms. https://doi.org/10.1086/671733
+Downloaded from https:/www.cambridge.org/core. Kainan University, on 07 Apr 2017 at 04:56:03, subject to the Cambridge Core terms of use, available at
+NEEDLESTICK SAFETY AND PREVENTION ACT IMPACT ISSUES 93 9
+an association between the NSPA and the injury experience
+of hospital workers. Extrapolating these decreases to the
+country provides national estimates of reductions in number
+of injuries and associated costs.
+Even if hospitals adopted safety devices and practices at a
+high rate, the challenge in nonhospital service delivery venues
+remains. As more care is delivered outside hospitals—in offices, ambulatory centers, and nursing homes—healthcare
+worker safety from contaminated sharps injury must be addressed. The law applies equally to these facilities, and compliance is required.
+Healthcare practitioners, educators, administrators, researchers, device manufacturers, and policy makers all have
+roles to play in addressing the remaining challenges in needlestick risk reduction. Protecting the health of the healthcare
+workforce is critical to preserving the healthcare system.
+ACKNOWLEDGMENTS
+We wish to acknowledge and thank the hospitals contributing data to the
+US EPINet Sharps Injury Surveillance Network.
+Financial support. This research was supported by grant KOI OH 009140
+from the National Institute for Occupational Safety and Health. The International Healthcare Worker Safety Center has received grants from BD,
+Smiths, B. Braun, Ethicon Endo-Surgery, Terumo, and Medikit. The center
+has also received speaking fees to cover travel expenses (E.K.P., G.P., J.J., J.P.)
+and honoraria (J.J., J.P.).
+Potential conflicts of interest. All authors report no conflicts of interest
+relevant to this article. All authors submitted the ICMJE Form for Disclosure
+of Potential Conflicts of Interest, and the conflicts that the editors consider
+relevant to this article are disclosed here.
+Address correspondence to Elayne Kornblatt Phillips, RN, PhD, University
+of Virginia, School of Nursing, PO Box 800782, Charlottesville, VA 22908-
+0782 (ekp2e@virginia.edu).
+Presented in part: National Occupational Injury Research Symposium;
+Morgantown, West Virginia; October 2011.
+REFERENCES
+1. Occupational Safety and Health Administration. Occupational
+exposure to bloodborne pathogens: final rule, 29 CFR
+§1910.1030, 56 Federal Register 2235, 64004-64182 (1991).
+2. Doebbeling BN, Vaughn TE, McCoy KD, et al. Percutaneous
+injury, blood exposure, and adherence to standard precautions:
+are hospital-based health care providers still at risk? Clin Infect
+Dis 2003;37:1006-1013.
+3. Panlilio AL, Orelien JG, Srivastava PU, Jagger J, Cohn RD, Cardo
+DM. Estimate of the annual number of percutaneous injuries
+among hospital-based healthcare workers in the United States,
+1997-1998. Infect Control Hosp Epidemiol 2004;25:556-562.
+4. Jagger J, Perry J, Gomaa A, Phillips EK. The impact of U.S.
+policies to protect healthcare workers from bloodborne pathogens: the critical role of safety-engineered devices. J Infect Public
+Health 2008;1:62-71.
+5. Needlestick Safety and Prevention Act, 114 CFR §106-430, 1901
+(2000).
+6. Occupational Safety and Health Administration. Occupational
+exposure to bloodborne pathogens; needle-sticks and other
+sharps injuries; final rule, 29 CFR §1910.1030, 66 Federal Register 12, 5318-5325 (2001).
+7. Phillips EK, Conaway MR, Jagger JC. Percutaneous injuries before and after the Needlestick Safety and Prevention Act. NEngl
+J Med 2012;366:670-671.
+8. Billiet LS, Parker CR, Tanley PC, Wallas CW. Needlestick injury
+rate reduction during phlebotomy: a comparative study of two
+safety devices. Lab Med 1991;22:120-123.
+9. Younger B, Hunt EH, Robinson C, McLemore C. Impact of a
+shielded safety syringe on needlestick injuries among healthcare
+workers. Infect Control Hosp Epidemiol 1992;13:349-353.
+10. L'Ecuyer PB, Schwab EO, Iademarco E, Barr N, Aton EA, Fraser
+VJ. Randomized prospective study of the impact of three needleless intravenous systems on needlestick injury rates. Infect
+Control Hosp Epidemiol 1996;17:803-808.
+11. Centers for Disease Control and Prevention. Evaluation of blunt
+suture needles in preventing percutaneous injuries among
+health-care workers during gynecologic surgical procedures—
+New York City, March 1993-June 1994. MMWR Morb Mort
+Wkly Rep 1997;46:25-29.
+12. Zakrzewska JM, Greenwood I, Jackson J. Introducing safety syringes into a UK dental school: a controlled study. Brit Dent J
+2001;190:88-92.
+13. Parker G, Perry J, Jagger J. EPINet report: 1999 percutaneous
+injury rates. Adv Exposure Prev 2002;6:7-8.
+14. Sohn S, Eagan J, Sepkowitz KA, Zuccotti G. Effect of implementing safety-engineered devices on percutaneous injury epidemiology. Infect Control Hosp Epidemiol 2004;25:536-542.
+15. American Hospital Association (AHA). AHA hospital statistics,
+1995-2005. Chicago: AHA.
+16. US Census Bureau. Reference resources for understanding Census Bureau geography: census regions and divisions of the
+United States, http://www.census.gov/geo/www/reference.html.
+Accessed December 27, 2011.
+17. US Department of Agriculture, Economic Research Service. 2003
+rural-urban continuum codes. http://www.ers.usda.gov/Data
+/RuralUrbanContinuumCodes/2003/. Accessed December 27,
+2011.
+18. Hogan A. Gaps and successes of safety device market conversion.
+Mater Manag Health Care 2005;14:33-34.
+19. US Department of Labor Bureau of Labor Statistics. Injuries,
+illnesses, and fatalities. http://www.bls.gOv/iif/#data. Accessed
+July 13, 2012.
+20. Perry J, Jagger J. OSHA enforcement activity on BPS: an update.
+http://www.mlo-online.com/articles/0308/0308special_feature
+.pdf. Accessed April 13, 2012.
+21. Standard precautions in hospitals. In: Betsy Lehman Center for
+Patient Safety and Medical Error Reduction, JSI Research and
+Training Institute. Prevention and control of healthcare-associated infections in Massachusetts. Pt 1. Final recommendations
+of the expert panel. Boston: Massachusetts Department of Public
+Health; 2008:42—49. http://guideline.gov/content.aspxfid =
+12917. Accessed April 15, 2013.
+22. Workbook for Designing, Implementing and Evaluating a Sharps
+Injury Prevention Program, http://www.cdc.gov/sharpssafety
+/resources.html. Accessed April 17, 2013.
+23. US General Accounting Office. Occupational safety: selected cost
+and benefit implications of needlestick prevention devices for
+hospitals, GAO-01-60R (2000).
+https:/www.cambridge.org/core/terms. https://doi.org/10.1086/671733
+Downloaded from https:/www.cambridge.org/core. Kainan University, on 07 Apr 2017 at 04:56:03, subject to the Cambridge Core terms of use, available at

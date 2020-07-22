@@ -1,0 +1,1278 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=ierv20
+Expert Review of Vaccines
+ISSN: 1476-0584 (Print) 1744-8395 (Online) Journal homepage: https://www.tandfonline.com/loi/ierv20
+Quadrivalent Ann Arbor strain live-attenuated
+influenza vaccine
+Seth L Toback, Myron J Levin, Stan L Block, Robert B Belshe, Christopher S
+Ambrose & Judith Falloon
+To cite this article: Seth L Toback, Myron J Levin, Stan L Block, Robert B Belshe, Christopher S
+Ambrose & Judith Falloon (2012) Quadrivalent Ann Arbor strain live-attenuated influenza vaccine,
+Expert Review of Vaccines, 11:11, 1293-1303, DOI: 10.1586/erv.12.108
+To link to this article: https://doi.org/10.1586/erv.12.108
+Published online: 09 Jan 2014.
+Submit your article to this journal
+Article views: 639
+View related articles
+Citing articles: 25 View citing articles 
+www.expert-reviews.com 10.1586/ERV.12.108 ISSN 1476-0584 1293
+Vaccine Profile
+© 2012 Expert Reviews Ltd
+Since the 1970s, seasonal influenza vaccines have
+been trivalent, composed of two influenza A
+strains (A/H1N1 and A/H3N2) and one type
+B strain [1]. The viral strains included in the vaccine are chosen annually by the WHO [101] and
+national authorities based on ongoing influenza
+epidemiology and surveillance. Since 1985, two
+antigenically distinct lineages of influenza B
+viruses have circulated globally (Yamagata and
+Victoria) [2], but only one B strain from one
+lineage is chosen for inclusion in trivalent vaccines. Owing to antigenic divergence, limited
+immunologic cross-reactivity exists between
+the B lineages such that immunization against
+one lineage does not provide optimal protection
+against the heterologous lineage [3,102]. Vaccineinduced protection against influenza B has
+been suboptimal owing to frequent mismatch
+between circulating and immunizing B lineages, with mismatches occurring in five out of
+ten influenza seasons in the USA from 2001 to
+2011 and four out of eight influenza seasons in
+the EU from 2003 to 2011 (Figure 1) [4].
+Influenza B is responsible for significant
+morbidity in children and adults worldwide.
+According to surveillance data from the USA and
+Europe, from 2001–2002 through 2010–2011
+(excluding the 2009–2010 pandemic), on
+average 24 and 23% of influenza samples, respectively, were positive for influenza B [4]. Influenza
+B causes disease in all age groups, but older
+children and young adults tend to have higher
+rates of influenza B illness relative to influenza
+A [5,6]. Medically attended illnesses due to influenza A and B are generally similar with regard to
+symptoms, severity and rates of influenza-related
+complications [7–19]. Studies of severe influenza
+disease have demonstrated that influenza B
+infections also cause a significant proportion of
+influenza-attributable hospitalizations [20,21].
+Vaccination is considered the best strategy for
+reducing influenza illness [22]. However, reduced
+efficacy resulting from mismatch between the
+lineage of the B strain included in trivalent
+influenza vaccines and that of the predominant
+circulating strain has resulted in suboptimal protection in recent years. Including influenza B
+viruses of both lineages in an annual formulation
+of seasonal influenza vaccines would eliminate
+potential lineage-level mismatch between immunizing and circulating B viruses and improve
+protection against influenza B. A recent analysis
+by the US CDC projected that between 2001
+and 2009, the benefit of all trivalent vaccines
+being replaced by quadrivalent influenza vaccines would have been 2.74 million fewer cases
+Seth L Toback1
+, Myron
+J Levin2, Stan L Block3,
+Robert B Belshe4,
+Christopher S
+Ambrose*1
+ and
+Judith Falloon1
+1
+MedImmune, LLC, Gaithersburg,
+MD, USA
+2
+University of Colorado Denver School
+of Medicine, Aurora, CO, USA
+3
+Kentucky Pediatric and Adult Research,
+Bardstown, KY, USA
+4
+Saint Louis University School of
+Medicine, Saint Louis, MO, USA
+*Author for correspondence:
+Tel.: +1 301 398 4454
+Fax: +1 301 398 9454
+ambrosec@medimmune.com
+Influenza B is responsible for significant morbidity in children and adults worldwide. For more
+than 25 years, two antigenically distinct lineages of influenza B viruses, B/Yamagata and
+B/Victoria, have cocirculated globally. Current influenza vaccine formulations are trivalent and
+contain two influenza subtype A strains (A/H1N1 and A/H3N2) but only one B strain. In a half
+of recent influenza seasons, the predominant circulating influenza B lineage was different from
+that contained in trivalent influenza vaccines. A quadrivalent live-attenuated influenza vaccine
+(Q/LAIV) that contains two B strains, one from each lineage, has been developed to help provide
+broad protection against influenza B. Q/LAIV was recently approved for use in the USA in eligible
+individuals 2–49 years of age. This review summarizes clinical trial data in support of Q/LAIV.
+Quadrivalent Ann Arbor strain
+live-attenuated influenza
+vaccine
+Expert Rev. Vaccines 11(11), 1293–1303 (2012)
+Expert Review Vaccines
+© 2012 Expert Reviews Ltd
+10.1586/ERV.12.108
+1476-0584
+1744-8395
+Vaccine Profile
+Keywords: adults • children • clinical trials • immunogenicity • influenza B • intranasal • quadrivalent live-attenuated
+influenza vaccine • safety
+For reprint orders, please contact reprints@expert-reviews.com
+1294 Expert Rev. Vaccines 11(11), (2012)
+Vaccine Profile
+of influenza illnesses and 21,440 fewer hospitalizations in the
+USA [23].
+Overview of available influenza vaccines
+Influenza vaccines in current use fall into two categories: trivalent
+inactivated influenza vaccines (TIVs) and trivalent live-attenuated
+influenza vaccines (LAIVs).
+Trivalent inactivated vaccines
+The majority of currently approved seasonal (nonpandemic) influenza vaccines are TIVs of one of the following two formulations:
+split-virion vaccines, which are derived by disrupting whole virus
+preparations, and subunit vaccines, which typically enrich for
+the surface antigens hemagglutinin (HA) and neuraminidase,
+although the only standardized component is HA. Beyond this
+difference, TIVs differ by whether or not they include an adjuvant
+or a preservative, the substrate in which the antigens are produced,
+the dose of antigen included and the route of administration.
+Because split-virion and subunit TIVs are generally only modestly
+immunogenic, some vaccine preparations incorporate adjuvants
+to increase immunogenicity [24]. Most influenza vaccines are produced in chicken eggs; however, several seasonal inactivated influenza vaccines manufactured using cell culture are approved for
+use in the EU. A high-dose TIV that uses 60 µg of HA per strain
+per dose was recently approved for use in individuals ≥65 years
+of age in the USA [1]. The majority of TIVs are administered as
+Figure 1. The percentage of circulating influenza B strains that were a lineage match (homologous lineage) or mismatch
+(heterologous lineage) with the B lineage included in the influenza vaccines by influenza season between 2001 and 2011 in
+the USA and Europe. Lineage match/mismatch (A) in the USA and (B) in Europe. The B lineage contained in the vaccine is indicated
+below each season.
+Adapted with permission from [4].
+2001–
+2002
+Yamagata
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+2002–
+2003
+Victoria
+2003–
+2004
+Victoria
+2004–
+2005
+Yamagata
+2005–
+2006
+Yamagata
+Influenza season and vaccine lineage
+2008–
+2009
+Yamagata
+2006–
+2007
+Victoria
+2007–
+2008
+Victoria
+2009–
+2010
+Victoria
+2010–
+2011
+Victoria
+2001–
+2002
+Yamagata
+2002–
+2003
+Victoria
+Data not
+available
+23
+77
+93
+26
+81
+23
+98
+83
+16
+6
+100
+7
+74
+19
+77
+17
+84
+94
+20
+80
+56
+9
+91
+99
+1 3
+97 94
+92
+6 8
+56
+44 44
+2003–
+2004
+Victoria
+2004–
+2005
+Yamagata
+2005–
+2006
+Yamagata
+Influenza season and vaccine lineage
+Influenza B
+strains by lineage (%)
+Influenza B
+strains by lineage (%)
+Homologous-lineage influenza B Heterologous-lineage influenza B
+2008–
+2009
+Yamagata
+2006–
+2007
+Victoria
+2007–
+2008
+Victoria
+2009–
+2010
+Victoria
+2010–
+2011
+Victoria
+A
+B
+2
+Toback, Levin, Block, Belshe, Ambrose & Falloon
+www.expert-reviews.com 1295
+Vaccine Profile
+intramuscular injections, but some are administered intradermally. Most TIVs are available in a preservative-free formulation,
+yet thimerosal is still a common preservative in multidose formulations. There are as yet no quadrivalent inactivated formulations
+approved for use, but several are being developed [103,104].
+Trivalent LAIVs
+Two trivalent LAIVs are in clinical use, one developed in the
+USA and one in Russia. LAIVs are composed of attenuated live
+influenza viruses that can replicate efficiently only within a limited range of conditions. Viral stocks used to produce LAIVs
+were generated by serial passage in vitro under suboptimal growth
+conditions to select for a set of favorable genetic characteristics.
+LAIV strains are attenuated in that they do not produce classic
+influenza-like illness, cold adapted to allow for efficient replication
+at cooler temperatures such as those found in the nasopharynx,
+and temperature sensitive such that replication is not supported in
+the warmer core temperatures of the lower respiratory tract where
+wild-type influenza viruses grow efficiently [25].
+The genetic backbones of the current LAIVs are derived from
+master donor viruses (MDVs) that supply the cold-adapted, temperature-sensitive and attenuated phenotypes to each seasonal strain.
+The LAIV first approved for use in the USA in 2003 was generated from MDVs A/Ann Arbor/6/60 and B/Ann Arbor/1/66 [26].
+A Russian LAIV is based on the MDVs A/Leningrad/134/17/57
+(H2N2) and B/USSR/60/69 [27]. For each vaccine, the HA and
+neuraminidase for each strain selected for inclusion in an upcoming season’s formulation are inserted into the MDV backbone, with
+the inserted antigens providing strain-specific immunogenicity and
+the MDV conferring the attenuation characteristics. LAIVs are
+administered intranasally. Ann Arbor strain LAIV is approved in
+several countries, including the USA, for use in eligible individuals
+2–49 years of age, in Canada for use in individuals 2–59 years of age
+and in the EU for use in individuals 2–17 years of age. The Russian
+LAIV is approved for use in children and adults over 3 years of age
+in Russia [105].
+Ann Arbor strain LAIV
+The trivalent formulation of the Ann Arbor strain LAIV
+(trivalent LAIV [T/LAIV]) is the foundation for the recently developed quadrivalent LAIV (Q/LAIV). Since the licensure of T/LAIV
+in 2003 in the USA, more than 50 million doses have been distributed for use, with the majority of use occurring in children, adult
+healthcare workers and US military personnel. Safety and efficacy
+have been rigorously assessed in more than 70 clinical studies that
+examined more than 50,000 individuals aged 6 weeks to >90 years.
+In addition, more than 100,000 doses have been administered in
+postmarketing safety studies [28–30]. T/LAIV is safe and effective
+against influenza illness in both children and adults 2–49 years of
+age who are eligible for the vaccine [31–34]. In the USA, T/LAIV
+is not approved for use in individuals 50 years of age and older
+because in a study of T/LAIV conducted in adults 18–64 years of
+age, effectiveness was not demonstrated in the subgroup of adults
+50–64 years of age [35]. In addition, LAIV use is restricted to those
+24 months of age and older owing to an increased rate of medically
+attended wheezing following vaccination in children 6–23 months
+of age [36]. In clinical studies, adverse reactions occurring in ≥10% of
+T/LAIV recipients and at a rate at least 5% greater than in placebo
+recipients included runny nose/nasal congestion in all ages, sore
+throat in adults and fever >100°F in children 2–6 years of age [37].
+T/LAIV efficacy has been best characterized in children. In
+a meta-analysis of eight studies that evaluated T/LAIV efficacy
+against culture-confirmed influenza in children 2–17 years of
+age, the efficacy of two doses of T/LAIV in previously unvaccinated children in year 1 was 83% (95% CI: 78–87%) against
+antigenically similar strains and 79% (95% CI: 73–83%) against
+all strains regardless of antigenic match to the vaccine [33]. The
+decreased efficacy against all strains regardless of antigenic match
+is in part driven by suboptimal protection against heterologous
+lineage influenza B strains not covered by the trivalent formulation [3]. In children of all ages, B strain efficacy has been estimated
+at 86% for antigenically similar influenza B strains but falls to
+31% against heterologous lineage influenza B strains [3].
+To provide broad influenza vaccine coverage and decrease the
+potential for B virus lineage mismatch, a quadrivalent formulation
+of Ann Arbor LAIV (MedImmune, LLC) has been developed.
+Q/LAIV uses the same attenuated vaccine strains at the same doses
+(107.0 ± 0.5 fluorescent focus units of each viral strain per 0.2-ml dose)
+as T/LAIV. Q/LAIV and T/LAIV are produced using identical processes, share the same refrigerated formulation without adjuvant and
+are delivered as a 0.2-ml nasal spray divided between two nostrils.
+All excipients are the same. The only difference between Q/LAIV
+and T/LAIV is that a fourth strain is incorporated in Q/LAIV: A/
+H1N1, A/H3N2 and both B lineages, B/Yamagata and B/Victoria.
+Preclinical studies of LAIV containing two influenza B
+viruses
+Initial studies of Ann Arbor strain LAIV containing two influenza B strains were performed in ferrets, which are the standard
+animal model for influenza because they are easily infected, support virus replication in the lungs, manifest illness and produce a
+vigorous homologous antibody response [3,38]. Several ferret studies
+of bivalent, trivalent and quadrivalent formulations of LAIV that
+contained B strains from both lineages were conducted. In studies
+where animals were challenged with wild-type influenza viruses
+from both B-lineage viruses, animals vaccinated against both B
+lineages demonstrated protection against influenza illness caused by
+both B lineages, whereas controls vaccinated against a single lineage
+demonstrated only lineage-specific protection [3,39]. Cross-reactive
+antibodies to the heterologous lineage virus were not detected, which
+is consistent with previous studies that found poor cross-protection
+between B lineages in naive hosts [3]. These studies also concluded
+that the inclusion of a second B lineage virus did not diminish HA
+inhibition (HAI) antibody production to the other vaccine strains,
+indicating a lack of interference between vaccine strains [39].
+Clinical studies of Q/LAIV
+Based on the similarities between Q/LAIV and T/LAIV, and
+in accordance with the principles outlined in guidance documents from regulatory agencies for the approval or licensure
+Quadrivalent Ann Arbor strain live-attenuated influenza vaccine
+1296 Expert Rev. Vaccines 11(11), (2012)
+Vaccine Profile
+of influenza vaccines [106–108], a bridging strategy was pursued
+for the clinical development of Q/LAIV. Safety and immunogenicity data for Q/LAIV were collected in children and
+adults in two large randomized controlled studies that compared Q/LAIV and T/LAIV. Both studies were designed to
+confirm that inclusion of a second B strain did not meaningfully
+interfere with the immune response against any of the other
+three vaccine strains or result in any important changes in the
+safety profile of the vaccine. Owing to the fact that Q/LAIV
+contains a B strain from the Victoria lineage and a B strain from
+the Yamagata lineage, Q/LAIV was compared with two separate
+T/LAIV formulations that contained either a B/Victoria lineage strain (T/LAIV-B/Victoria) or a B/Yamagata lineage strain
+(T/LAIV-B/Yamagata), along with the same two A strains
+included in Q/LAIV [40,41].
+Immunogenicity of Q/LAIV
+Immune responses in the clinical studies of Q/LAIV were evaluated using the HAI assay to evaluate strain-specific antibody.
+Functional serum antibody titers as measured by HAI are generally regarded as a correlate of protection for inactivated influenza
+vaccines. However, studies have demonstrated that LAIV can
+induce protection from influenza illness in the absence of robust
+serum antibody responses, as measured by fourfold rises in HAI
+[42–45]. Mucosal [46] and cell-mediated immune responses [47]
+are important contributors to LAIV-induced immunity; however, these responses are difficult to measure, and there are no
+standard or widely accepted assays. Although HAI responses
+are not an absolute correlate of protection for LAIVs, they are
+an indicator of a functional immune response to vaccination
+[48–50]. In studies of LAIV-induced immune responses, adults
+demonstrate limited seroresponse (fourfold rise) by HAI [51],
+but young children, particularly those without pre-existing
+antibodies to influenza, can exhibit higher seroresponse rates
+[47,48,50,52–56]. Postvaccination HAI geometric mean titers and
+seroresponse rates have been used previously as biomarkers of
+T/LAIV-induced immunogenicity to demonstrate comparability
+between the frozen and refrigerated formulations of T/LAIV,
+for manufacturing and lot consistency, and for evaluating the
+concomitant administration of T/LAIV with other live virus
+vaccines [53,55,57–59].
+Q/LAIV was first studied in 1800 adults 18–49 years of age
+who were healthy or had stable underlying chronic disease.
+Subjects were randomized 4:1:1 to receive Q/LAIV or T/LAIV
+containing matching A strains and only one of the two matching
+B strains (T/LAIV-B/Yamagata and T/LAIV-B/Victoria) [40].
+Subsequently, a similar pediatric study enrolled 2312 children
+aged 2–17 years who were randomized 3:1:1 as above [41].
+The majority of children in this study were 2–8 years of age
+(n = 1808) and were to receive two doses of vaccine; a smaller
+number of children aged 9–17 years (n = 504) received one dose.
+Baseline HAI antibody titers were assessed prior to dosing in
+all subjects. Postvaccination titers were assessed at a single time
+point for each subject depending on their age and prior vaccination history. For adults, children 9–17 years of age and children
+2–8 years of age who had previously been vaccinated against
+seasonal influenza, postdose samples were collected for HAI
+antibody analysis approximately 1 month after the first dose of
+Q/LAIV; for children 2–8 years of age who had never previously
+been vaccinated, samples were collected 1 month after the second
+dose of Q/LAIV. Vaccine virus strains used in both studies are
+listed in Table 1.
+The adult and pediatric studies provided evidence that
+Q/LAIV was immunologically noninferior to T/LAIV and that
+the addition of the second B strain did not result in meaningful
+immune interference with other strains included in the vaccine
+[37,40,41]. Geometric mean titers (GMTs) of HAI antibody to each
+of the strains in the Q/LAIV formulation were compared with
+those in the T/LAIV formulations. The ratio of these antibody
+responses was determined by dividing the value in the T/LAIV
+arm by the value in the Q/LAIV arm. Thus, a ratio of 1 would
+indicate that the immunogenicity of Q/LAIV and of the T/LAIV
+comparator were identical. The immune response produced by
+Q/LAIV was noninferior to T/LAIV because the upper bounds
+of the two-sided 95% CI for the strain-specific HAI antibody
+GMT ratios were ≤1.5, the prespecified limit for noninferiority
+(see Figure 2A). In addition to GMT ratios, the geometric mean
+fold rise from baseline in HAI antibodies was evaluated because
+it accounts for differences in GMTs at baseline. Results for geometric mean fold rise ratios were similar to those for GMT ratios
+(Figure 2B).
+Post hoc analyses were performed to determine whether the
+immune response to a B lineage strain
+contained in Q/LAIV was higher than
+the immune response to that strain in the
+T/LAIV comparator that did not contain
+it. In children and adults, the proportion
+of subjects achieving a fourfold rise in
+HAI antibody titer from baseline in those
+receiving Q/LAIV and the T/LAIV containing the B lineage being assessed was
+statistically significantly higher than the
+responses observed for those receiving the
+T/LAIV formulation that did not include
+it (Figure 3). Overall, the data confirmed the
+noninferiority of the immune response to
+Table 1. Vaccine strains contained in the quadrivalent live-attenuated
+influenza vaccine, trivalent live-attenuated influenza vaccine
+B/Yamagata and trivalent live-attenuated influenza vaccine
+B/Victoria vaccine formulations used in the adult and pediatric
+quadrivalent live-attenuated influenza vaccine studies.
+Strain Q/LAIV T/LAIV-B/Yamagata T/LAIV-B/Victoria
+A/H1N1 A/South Dakota/6/2007 A/South Dakota/6/2007 A/South Dakota/6/2007
+A/H3N2 A/Uruguay/716/2007 A/Uruguay/716/2007 A/Uruguay/716/2007
+B/Yamagata B/Florida/4/2006 B/Florida/4/2006
+B/Victoria B/Malaysia/2506/2004 B/Malaysia/2506/2004
+Q/LAIV: Quadrivalent live-attenuated influenza vaccine; T/LAIV: Trivalent live-attenuated influenza vaccine.
+Toback, Levin, Block, Belshe, Ambrose & Falloon
+www.expert-reviews.com 1297
+Vaccine Profile
+Q/LAIV to that of T/LAIV, justifying the
+application of the extensive efficacy data for
+T/LAIV to Q/LAIV.
+Safety & tolerability of Q/LAIV
+Safety and tolerability were assessed similarly in both studies of Q/LAIV. Solicited
+symptoms were queried and temperatures
+were taken daily during days 0–14 after any
+dose. Children who, in the judgment of the
+investigator, were too young to voice a complaint of sore throat, headache or muscle
+aches were not included in the denominator
+for those solicited symptoms. The studies
+did not include placebo arms, and since
+solicited symptoms are events that occur
+commonly even in the absence of vaccination, the rate differences between Q/LAIV
+and T/LAIV recipients are more relevant
+than the absolute rates of occurrence of
+these events. Adverse events (AEs) were
+collected during days 0–28 after any dose.
+Serious AEs (SAEs) and new onset chronic
+diseases were collected from 0–180 days
+after the last dose of study vaccine.
+Solicited symptoms
+In the adult study, solicited symptoms
+occurred at similar rates in Q/LAIV and
+T/LAIV recipients, and no statistically
+significant differences between treatments
+were observed (Figure 4A). Runny/stuffy nose
+was the most commonly reported solicited
+symptom and it accounted for the largest
+rate difference: it was reported in 4.1%
+more Q/LAIV than T/LAIV recipients.
+No other solicited symptom occurred with
+a rate difference >1.1%.
+In the pediatric study, solicited symptoms also occurred at similar rates in
+Q/LAIV and T/LAIV subjects. No significant difference in rates of fever ≥38°C
+(100.4°F) were observed between the two
+groups (Q/LAIV: 5.7%; T/LAIV: 3.9%; p > 0.05, Figure 4B).
+However, a small (2.4%) but statistically significant increase in
+fever ≥38°C (100.4°F) after the first dose of Q/LAIV occurred
+in the subset of children who were 2–8 years of age (Q/LAIV:
+6.6%; T/LAIV: 4.2%; p = 0.04). Rates of fever were not
+increased after dose 2 of Q/LAIV compared with T/LAIV.
+Overall, high fever in children 2–8 years of age was uncommon
+(Table 2), the median duration of fever was 1 day and no febrile
+seizures were observed.
+In children and adults, the number and types of AEs were
+generally similar among Q/LAIV and T/LAIV recipients. The
+only events occurring at a statistically increased rate among
+Q/LAIV recipients were pyrexia (Q/LAIV: 1.7%; T/LAIV: 0.7%;
+p = 0.04), headache (Q/LAIV: 0.9%; T/LAIV: 0.2%; p = 0.04)
+and oropharyngeal pain (the term used for sore throat in the
+coding dictionary; Q/LAIV: 0.6%; T/LAIV: 0%; p = 0.03) in
+children 2–17 years of age after dose 1. No treatment-related SAEs
+or new onset chronic diseases were associated with Q/LAIV in
+either study. The rates of SAEs were comparable between Q/LAIV
+and T/LAIV in both studies. No increase in asthma or wheezing
+events was associated with Q/LAIV in either study [109]. In these
+two studies, the safety and tolerability of Q/LAIV were similar
+to that of T/LAIV, supporting the applicability of the extensive
+safety database for T/LAIV to Q/LAIV.
+Figure 2. Comparative immunogenicity of quadrivalent live-attenuated influenza
+vaccine to trivalent live-attenuated influenza vaccine in children and adults.
+(A) Geometric mean titer ratios (T/LAIV ÷ Q/LAIV) after vaccination by strain with
+two-sided 95% CI. Noninferiority was prespecified as an upper bound of the 95% CI of
+the ratio ≤1.5 (noninferiority margin, indicated by dotted line). (B) Geometric mean fold
+rise ratios (T/LAIV ÷ Q/LAIV) after vaccination by strain with two-sided 95% CI.
+Q/LAIV: Quadrivalent live-attenuated influenza vaccine; T/LAIV: Trivalent live-attenuated
+influenza vaccine.
+(A) Data taken from [40] and (B) data taken from [41].
+1.09 1.05 1.04 1.10 1.21 0.92 1.05
+0.00
+0.00
+0.25
+0.50
+0.75
+1.00
+1.25
+1.50
+0.25
+0.50
+Geometric mean titer ratio Geometric mean fold rise ratio
+0.75
+1.00
+1.25
+1.50
+1.75
+2.00
+0.98 1.07 0.99 0.99 0.93 1.13 0.97 0.99
+A/H1N1 A/H3N2
+Adult study Pediatric study
+B/Yamagata B/Victoria
+A/H1N1 A/H3N2 B/Yamagata B/Victoria
+1.07
+A
+B
+Quadrivalent Ann Arbor strain live-attenuated influenza vaccine
+1298 Expert Rev. Vaccines 11(11), (2012)
+Vaccine Profile
+Licensure of Q/LAIV in the USA
+In the US approval, Q/LAIV has the same age indication, warnings and precautions as T/LAIV. Q/LAIV will contain the viral
+strains recommended annually by the WHO and the US FDA.
+In fact, the WHO began identifying candidate vaccine strains
+from both influenza B lineages starting with recommendations
+for the 2011–2012 northern hemisphere seasonal influenza
+vaccine formulation [101]. Q/LAIV is
+contraindicated in individuals who have
+had a severe allergic reaction to any component of the vaccine including egg proteins,
+gentamicin, gelatin and arginine, those who
+have had a serious reaction to any previous influenza vaccine, and in children and
+adolescents receiving concomitant aspirin
+or aspirin-containing therapy. Information
+concerning additional warnings and precautions regarding use of Q/LAIV are
+available in its package insert. Q/LAIV will
+be available commercially in the USA for
+the 2013–2014 influenza season.
+Conclusion
+Influenza B is responsible for significant
+morbidity in children and adults worldwide. Current trivalent influenza vaccines
+provide limited protection against B viruses
+of a different lineage than the one included
+in the vaccine. Vaccination with a quadrivalent influenza vaccine containing strains
+from both B lineages should provide broad
+protection against both influenza A and B.
+In two clinical studies conducted in adults
+18–49 years and children 2–17 years of age,
+the addition of a second B strain did not
+result in immune interference with other
+strains included in the vaccine, and the
+safety and tolerability profiles of Q/LAIV
+and T/LAIV were similar. Seasonal vaccination with Q/LAIV has the potential
+to augment the protection provided by
+T/LAIV by providing protection against
+both lineages of influenza B.
+Expert commentary
+Influenza B accounts for approximately
+a quarter of all influenza infections and
+affects all age groups. The severity of disease and propensity toward complications
+is similar for influenza A and B, but as a
+recent CDC publication stated: “the public
+health impact of influenza B virus has been
+overshadowed by the magnitude of disease
+caused by influenza A viruses” [15]. An editorial associated with this article called for
+additional studies to increase our understanding of influenza B
+and its outcomes [13]. Medical and scientific opinion concerning
+influenza B may still be influenced by early studies that concluded
+that influenza B resulted in less of a disease burden than influenza
+A did [60,61]. Perhaps the severity and historical significance of
+influenza A pandemics has also influenced the underestimation
+of the significance of influenza B infection. The approval of the
+Figure 3. Seroconversion/seroresponse to homologous and heterologous
+lineage B strains in adults and children. (A) Response in adults and (B) in children.
+In all subjects and in the subset of subjects that included baseline serosusceptible adults
+or seronegative children, the proportion of subjects achieving a fourfold rise in
+hemagglutination inhibition (HAI) antibody titer from baseline in those receiving Q/LAIV
+and the T/LAIV containing the B lineage being assessed (homologous responses) was
+statistically significantly higher than the responses observed for those receiving T/LAIV
+that did not include the B lineage (heterologous responses).
+†Serosusceptible = baseline HAI titer ≤8. ‡Seronegative = baseline HAI titer ≤4.
+Q/LAIV: Quadrivalent live-attenuated influenza vaccine; T/LAIV: Trivalent live-attenuated
+influenza vaccine.
+(A) Data taken from [40] and (B) data taken from [41].
+B/Yamagata 0
+20
+10 10
+4
+12 12
+5
+40
+34
+43 45
+14
+39
+83 85
+26
+69
+74
+24
+38
+17
+18
+37
+42
+17
+40
+60
+80
+100
+100
+80
+60
+40
+20
+0
+B/Victoria
+All subjects
+All subjects
+Serosusceptible†
+ subjects
+Seroconversion/seroresponse rate (%) Seroconversion/seroresponse rate (%)
+Seronegative‡
+ subjects
+B/Yamagata B/Victoria
+B/Yamagata B/Victoria B/Yamagata B/Victoria
+Q/LAIV T/LAIV homologous strain T/LAIV heterologous strain
+A
+B
+Toback, Levin, Block, Belshe, Ambrose & Falloon
+www.expert-reviews.com 1299
+Vaccine Profile
+first quadrivalent influenza vaccine may help highlight the importance of influenza B and prompt additional research to further
+characterize disease caused by influenza B.
+There are many benefits to including both influenza B lineages in
+an influenza vaccine. The most obvious is to provide a direct benefit
+to vaccine recipients, particularly when a large number of circulating
+influenza B viruses do not match the lineage chosen for the trivalent
+influenza vaccine. This clinical benefit would occur whenever a
+B strain from the incorrect lineage is chosen for the trivalent vaccine
+or when both lineages are cocirculating to a significant degree. The
+efficacy of the current trivalent LAIV has been shown to decrease
+from 86% versus matched B strains to 31% versus heterologous
+B strains [3]. Moreover, in seasons in which influenza B circulation
+is minimal or B viruses are well matched to the trivalent vaccine
+strain, vaccination with a quadrivalent influenza vaccine would still
+provide benefit to the individual by priming the immune response
+to both lineages of influenza B so that subjects will enter future
+influenza seasons with antibodies to strains from both B lineages.
+An underappreciated benefit of quadrivalent vaccines is the
+potential, from a public health perspective, to improve the public’s
+confidence and acceptance of influenza vaccination [23]. Each
+influenza season in which the trivalent influenza vaccine does
+not match circulating strains allows for the possibility of breakthrough influenza infections, and the resultant widely read news
+stories concerning the poor efficacy of the vaccine erode the public
+perception of the value of influenza vaccination. Quadrivalent
+vaccines may obviate the contribution of an incorrectly chosen
+influenza B lineage in this scenario. Increased acceptance of influenza vaccination would help further the trends toward higher
+rates of vaccination that have been apparent over the last several
+Figure 4. Percentage of subjects reporting solicited symptoms 0–14 days after the first dose of study vaccine by symptom in
+adults and children. (A) Percentage of subjects reporting solicited symptoms in adults and (B) percentage of subjects reporting
+solicited symptoms in children. Fever was defined as a temperature ≥38°C (100.4°F).
+*p = 0.04 (Q/LAIV vs T/LAIV).
+Q/LAIV: Quadrivalent live-attenuated influenza vaccine; T/LAIV: Trivalent live-attenuated influenza vaccine.
+(A) Adapted with permission from [40] and (B) adapted with permission from [41].
+Any
+event
+59.660.0
+43.6
+39.5
+13.6 12.6
+28.2 27.5
+17.6 17.8 19.8
+1.3 1.5
+6.4 5.4
+10.1 9.9
+4.4 4.6 5.5 6.6 3.9
+*
+5.7
+9.8 9.9 9.2 10.3 12.5 12.2
+16.8 15.8
+32.3 32.0
+47.947.4
+19.0
+0
+10
+20
+30
+40
+50
+60
+0
+10
+20
+30
+40
+50
+60
+Runny
+nose
+Cough Headache Decreased
+activity
+Sore
+throat
+Fever Decreased
+appetite
+Q/LAIV T/LAIV
+Muscle
+aches
+Any
+event
+Runny
+nose
+Cough Headache Decreased
+activity
+Solicited symptoms
+Solicited symptoms
+Subjects (%) Subjects (%)
+Sore
+throat
+Fever Decreased
+appetite
+Muscle
+ache
+A
+B
+Quadrivalent Ann Arbor strain live-attenuated influenza vaccine
+1300 Expert Rev. Vaccines 11(11), (2012)
+Vaccine Profile
+years. This, along with the efficacy and safety profile of Q/LAIV,
+is predicted to reduce the morbidity associated with influenza.
+Five-year view
+Other quadrivalent influenza vaccines in development
+The inclusion of a fourth B strain in influenza vaccines has been
+discussed by public health authorities for a number of years;
+however, manufacturing limitations that could have resulted in
+insufficient vaccine supply were a significant concern, given that
+the addition of a fourth strain would require additional capacity
+and extend manufacturing timelines. Currently, manufacturing
+capacity exceeds usage and, because inactivated quadrivalent
+influenza vaccines are projected to be available soon from several
+manufacturers, it seems probable that the supply of a quadrivalent
+vaccine will be sufficient for projected demand [62]. Manufacturers
+are also likely to extend their current practice of manufacturing
+seasonal strains ‘at risk’ – prior to final selection by the WHO
+and local authorities – to meet the timelines needed to have a
+quadrivalent vaccine available early, in time to vaccinate a large
+number of people prior to widespread circulation of influenza in
+the community.
+An inactivated quadrivalent inf luenza vaccine by
+GlaxoSmithKline has completed Phase III development and has
+been submitted for regulatory review in the USA and EU [103].
+Similarly, a quadrivalent inactivated influenza vaccine based on
+the approved trivalent Fluzone® is in Phase III development by
+Sanofi Pasteur (ClinicalTrials.gov identifiers: NCT01218646,
+NCT01481454 and NCT01240746 [104]). Similar to Q/LAIV,
+these quadrivalent vaccines contain two influenza A strains
+(A/H1N1 and A/H3N2) and two B strains (B/Yamagata and
+B/Victoria). Limited published study results are available for these
+novel quadrivalent vaccines. Other manufacturers also report that
+quadrivalent formulations are in development [63].
+Trends in influenza vaccination
+For many years, influenza vaccination was targeted to older adults
+and individuals with high-risk medical conditions. However,
+there has been increasing recognition of the burden of influenza
+in children and younger adults, and several countries have recommended annual influenza vaccination for healthy children;
+some countries, including the USA, have recommended universal
+influenza vaccination of all individuals 6 months of age and
+older. The benefits of influenza vaccination should be enhanced
+by the advent of quadrivalent influenza vaccines that provide
+broad protection against influenza A and B. Policymakers will
+need to determine whether quadrivalent influenza vaccines
+should become the new standard of care for all or for specific
+populations, much as was determined when trivalent vaccines
+replaced bivalent vaccines containing A/H3N2 and one B strain
+in the 1970s.
+Acknowledgements
+All of the authors contributed to the drafting and revision of the manuscript. All of the authors have seen and approved the final manuscript for
+submission.
+Financial & competing interests disclosure
+SL Toback, CS Ambrose and J Falloon are employees of MedImmune,
+LLC. SL Block has received grant/research support from MedImmune,
+LLC; RB Belshe and MJ Levin have consulted on research sponsored by
+MedImmune, LLC. The studies on quadrivalent live-attenuated influenza
+vaccines were conducted and sponsored by MedImmune, LLC. Authors were
+not compensated for drafting and/or reviewing the article. The authors have
+no other relevant affiliations or financial involvement with any organization
+or entity with a financial interest in or financial conflict with the subject
+matter or materials discussed in the manuscript apart from those disclosed.
+Editorial assistance was provided by SE DeRocco and GP Johnson
+of Complete Healthcare Communications, Inc. and was funded by
+MedImmune, LLC.
+Key issues
+• In a half of recent influenza seasons, the predominant circulating influenza B lineage was different from that contained in trivalent
+influenza vaccines. This frequent lineage mismatch between the circulating influenza B virus and the lineage contained in the seasonal
+influenza vaccine has reduced overall influenza vaccine effectiveness.
+• An intranasally administered Ann Arbor strain quadrivalent live-attenuated influenza vaccine (Q/LAIV) composed of two influenza
+A viruses and two influenza B viruses, one each from the Yamagata and Victoria lineages, has been developed for the prevention of
+seasonal influenza. It has been approved for use in the USA.
+• Q/LAIV shares the same core characteristics of trivalent live-attenuated influenza vaccine (T/LAIV; manufacturing process, excipients,
+master donor viruses, strain dosage and delivery system) and builds on the safety and efficacy profile already established for T/LAIV.
+• Two studies conducted in adults and children provide evidence that the addition of the second B strain does not result in meaningful
+immune interference between strains included in the vaccine. The safety profiles of Q/LAIV and T/LAIV are similar.
+• Shifting from trivalent to quadrivalent influenza vaccines is expected to increase protection against influenza by providing coverage
+against circulating viruses from both B lineages.
+Table 2. Fever, days 0–14 after dose 1 in subjects
+2–8 years of age.
+Fever Q/LAIV (%)
+n = 1078
+T/LAIV (%)
+n = 716
+Rate
+difference (%)
+≥38.0 to <38.5°C 2.6 2.0 0.6
+≥38.5 to <39.0°C 2.3 1.4 0.9
+≥39.0 to <39.5°C 1.3 0.6 0.7
+≥39.5 to <40.0°C 0.3 0.3 0.0
+≥40.0°C 0.1 0.0 0.1
+Q/LAIV: Quadrivalent live-attenuated influenza vaccine; T/LAIV: Trivalent
+live-attenuated influenza vaccine.
+Toback, Levin, Block, Belshe, Ambrose & Falloon
+www.expert-reviews.com 1301
+Vaccine Profile
+References
+Papers of special note have been highlighted as:
+• of interest
+•• of considerable interest
+1 Fiore AE, Uyeki TM, Broder K et al.;
+CDC. Prevention and control of influenza
+with vaccines: recommendations of the
+Advisory Committee on Immunization
+Practices (ACIP), 2010. MMWR Recomm.
+Rep. 59(RR-8), 1–62 (2010).
+2 Rota PA, Wallis TR, Harmon MW,
+Rota JS, Kendal AP, Nerome K.
+Cocirculation of two distinct evolutionary
+lineages of influenza type B virus since
+1983. Virology 175(1), 59–68 (1990).
+3 Belshe RB, Coelingh K, Ambrose CS,
+Woo JC, Wu X. Efficacy of live attenuated
+influenza vaccine in children against
+influenza B viruses by lineage and
+antigenic similarity. Vaccine 28(9),
+2149–2156 (2010).
+•	 Describes the efficacy of trivalent
+live-attenuated influenza vaccine (LAIV)
+against influenza B by lineage and
+antigenic match.
+4 Ambrose CS, Levin MJ. The rationale for
+quadrivalent influenza vaccines. Hum.
+Vaccin. Immunother. 8(1), 81–88 (2012).
+•	 Provides an overview of epidemiologic
+data on influenza B and the rationale for
+the development of quadrivalent influenza
+vaccines.
+5 Olson DR, Heffernan RT, Paladini M,
+Konty K, Weiss D, Mostashari F.
+Monitoring the impact of influenza by age:
+emergency department fever and
+respiratory complaint surveillance in New
+York City. PLoS Med. 4(8), e247 (2007).
+6 Grant KA, Carville K, Fielding JE et al.
+High proportion of influenza B
+characterises the 2008 influenza season in
+Victoria. Commun. Dis. Intell. 33(3),
+328–336 (2009).
+7 Bettis R, Iacuzio D, Jung T, Fuchs R,
+Aultman R, Gyldmark M. Impact of
+influenza treatment with oseltamivir on
+health, sleep and daily activities of
+otherwise healthy adults and adolescents.
+Clin. Drug Investig. 26(6), 329–340
+(2006).
+8 Chi CY, Wang SM, Lin CC et al. Clinical
+features of children infected with different
+strains of influenza B in southern Taiwan.
+Pediatr. Infect. Dis. J. 27(7), 640–645
+(2008).
+9 Daley AJ, Nallusamy R, Isaacs D.
+Comparison of influenza A and influenza B
+virus infection in hospitalized children.
+J. Paediatr. Child Health 36(4), 332–335
+(2000).
+10 Hite LK, Glezen WP, Demmler GJ,
+Munoz FM. Medically attended pediatric
+influenza during the resurgence of the
+Victoria lineage of influenza B virus.
+Int. J. Infect. Dis. 11(1), 40–47 (2007).
+11 Hu JJ, Kao CL, Lee PI et al. Clinical
+features of influenza A and B in children
+and association with myositis. J. Microbiol.
+Immunol. Infect. 37(2), 95–98 (2004).
+12 Irving SA, Patel DC, Kieke BA et al.
+Comparison of clinical features and
+outcomes of medically attended influenza
+A and influenza B in a defined population
+over four seasons: 2004–2005 through
+2007–2008. Influenza Other Respi. Viruses
+6(1), 37–43 (2012).
+13 McCullers JA, Hayden FG. Fatal influenza
+B infections: time to reexamine influenza
+research priorities. J. Infect. Dis. 205(6),
+870–872 (2012).
+14 Ng S, Cowling BJ, Fang VJ et al. Effects of
+oseltamivir treatment on duration of
+clinical illness and viral shedding and
+household transmission of influenza virus.
+Clin. Infect. Dis. 50(5), 707–714 (2010).
+15 Paddock CD, Liu L, Denison AM et al.
+Myocardial injury and bacterial pneumonia
+contribute to the pathogenesis of fatal
+influenza B virus infection. J. Infect. Dis.
+205(6), 895–905 (2012).
+16 Peltola V, Ziegler T, Ruuskanen O.
+Influenza A and B virus infections in
+children. Clin. Infect. Dis. 36(3),
+299–305 (2003).
+17 Principi N, Esposito S, Gasparini R,
+Marchisio P, Crovari P; Flu–Flu Study
+Group. Burden of influenza in healthy
+children and their households. Arch. Dis.
+Child. 89(11), 1002–1007 (2004).
+18 Shen CF, Huang SC, Wang SM, Wang JR,
+Liu CC. Decreased leukocytes and other
+characteristics of laboratory findings of
+influenza virus infections in children.
+J. Microbiol. Immunol. Infect. 41(4),
+294–300 (2008).
+19 Esposito S, Cantarutti L, Molteni CG et al.
+Clinical manifestations and socio-economic
+impact of influenza among healthy children
+in the community. J. Infect. 62(5),
+379–387 (2011).
+20 Thompson WW, Shay DK, Weintraub E
+et al. Influenza-associated hospitalizations
+in the United States. JAMA 292(11),
+1333–1340 (2004).
+21 Thompson WW, Shay DK, Weintraub E
+et al. Mortality associated with influenza
+and respiratory syncytial virus in the United
+States. JAMA 289(2), 179–186 (2003).
+22 Cox NJ, Subbarao K. Influenza. Lancet
+354(9186), 1277–1282 (1999).
+23 Reed C, Meltzer MI, Finelli L, Fiore A.
+Public health impact of including two
+lineages of influenza B in a quadrivalent
+seasonal influenza vaccine. Vaccine 30(11),
+1993–1998 (2012).
+•	 Analysis from the CDC providing
+modeling data regarding potentially
+averted outcomes if quadrivalent instead
+of trivalent influenza vaccines had been
+used during the last decade in the USA.
+24 Vesikari T, Pellegrini M, Karvonen A et al.
+Enhanced immunogenicity of seasonal
+influenza vaccines in young children using
+MF59 adjuvant. Pediatr. Infect. Dis. J.
+28(7), 563–571 (2009).
+25 Murphy BR, Coelingh K. Principles
+underlying the development and use of live
+attenuated cold-adapted influenza A and B
+virus vaccines. Viral Immunol. 15(2),
+295–323 (2002).
+26 Maassab HF, Bryant ML. The development
+of live attenuated cold-adapted influenza
+virus vaccine for humans. Rev. Med. Virol.
+9(4), 237–244 (1999).
+27 Aleksandrova GI. Use of the genetic
+recombination method for obtaining
+vaccinal strains of the influenza virus. Vopr.
+Virusol. 4, 387–395 (1977).
+28 Tennis P, Toback SL, Andrews E,
+McQuay LJ, Ambrose CS.
+A postmarketing evaluation of the
+frequency of use and safety of live
+attenuated influenza vaccine use in
+nonrecommended children younger than
+5 years. Vaccine 29(31), 4947–4952
+(2011).
+29 Baxter R, Toback SL, Sifakis F et al.
+A postmarketing evaluation of the safety of
+Ann Arbor strain live attenuated influenza
+vaccine in adults 18–49 years of age.
+Vaccine 30(20), 3053–3060 (2012).
+30 Baxter R, Toback SL, Sifakis F et al.
+A postmarketing evaluation of the safety of
+Ann Arbor strain live attenuated influenza
+vaccine in children 5 through 17 years of
+age. Vaccine 30(19), 2989–2998 (2012).
+31 De Villiers PJ, Steele AD, Hiemstra LA
+et al.; LAIV Elderly Study Trial Network.
+Efficacy and safety of a live attenuated
+influenza vaccine in adults 60 years of age
+and older. Vaccine 28(1), 228–234 (2009).
+32 Nichol KL, Mendelman PM, Mallon KP
+et al. Effectiveness of live, attenuated
+intranasal influenza virus vaccine in
+healthy, working adults: a randomized
+Quadrivalent Ann Arbor strain live-attenuated influenza vaccine
+1302 Expert Rev. Vaccines 11(11), (2012)
+Vaccine Profile
+controlled trial. JAMA 282(2), 137–144
+(1999).
+33 Ambrose CS, Wu X, Knuf M, Wutzler P.
+The efficacy of intranasal live attenuated
+influenza vaccine in children 2 through
+17 years of age: a meta-analysis of
+8 randomized controlled studies. Vaccine
+30(5), 886–892 (2012).
+34 Ambrose CS, Yi T, Falloon J.
+An integrated, multistudy analysis of the
+safety of Ann Arbor strain live attenuated
+influenza vaccine in children aged 2–17
+years. Influenza Other Respi. Viruses 5(6),
+389–397 (2011).
+35 Belshe RB, Nichol KL, Black SB et al.
+Safety, efficacy, and effectiveness of live,
+attenuated, cold-adapted influenza vaccine
+in an indicated population aged 5–49
+years. Clin. Infect. Dis. 39(7), 920–927
+(2004).
+36 Belshe RB, Edwards KM, Vesikari T et al.;
+CAIV-T Comparative Efficacy Study
+Group. Live attenuated versus inactivated
+influenza vaccine in infants and young
+children. N. Engl. J. Med. 356(7),
+685–696 (2007).
+37 FluMist® (influenza vaccine live,
+intranasal) prescribing information.
+MedImmune, MD, USA (2012).
+38 Smith H, Sweet C. Lessons for human
+influenza from pathogenicity studies with
+ferrets. Rev. Infect. Dis. 10(1), 56–75 (1988).
+39 Bandell A, Woo J, Coelingh K. Protective
+efficacy of live-attenuated influenza vaccine
+(multivalent, Ann Arbor strain): a literature
+review addressing interference. Expert Rev.
+Vaccines 10(8), 1131–1141 (2011).
+40 Block SL, Yi T, Sheldon E, Dubovsky F,
+Falloon J. A randomized, double-blind
+noninferiority study of quadrivalent live
+attenuated influenza vaccine in adults.
+Vaccine 29(50), 9391–9397 (2011).
+••	 Describes the safety and immunogenicity
+of quadrivalent LAIV in adults.
+41 Block SL, Falloon J, Hirschfield JA et al.
+Immunogenicity and safety of a
+quadrivalent live attenuated influenza
+vaccine in children. Pediatr. Infect. Dis. J.
+31(7), 745–751 (2012).
+••	 Describes the safety and immunogenicity
+of quadrivalent LAIV in children.
+42 Griffin MR, Walker FJ, Iwane MK,
+Weinberg GA, Staat MA, Erdman DD;
+New Vaccine Surveillance Network Study
+Group. Epidemiology of respiratory
+infections in young children: insights from
+the new vaccine surveillance network.
+Pediatr. Infect. Dis. J. 23(Suppl. 11),
+S188–S192 (2004).
+43 Mallory RM, Malkin E, Ambrose CS et al.
+Safety and immunogenicity following
+administration of a live, attenuated
+monovalent 2009 H1N1 influenza vaccine
+to children and adults in two randomized
+controlled trials. PLoS ONE 5(10), e13755
+(2010).
+44 Edwards KM, Dupont WD, Westrich MK,
+Plummer WD Jr, Palmer PS, Wright PF.
+A randomized controlled trial of coldadapted and inactivated vaccines for the
+prevention of influenza A disease. J. Infect.
+Dis. 169(1), 68–76 (1994).
+45 Treanor JJ, Kotloff K, Betts RF et al.
+Evaluation of trivalent, live, cold-adapted
+(CAIV-T) and inactivated (TIV) influenza
+vaccines in prevention of virus infection
+and illness following challenge of adults
+with wild-type influenza A (H1N1),
+A (H3N2), and B viruses. Vaccine
+18(9–10), 899–906 (1999).
+46 Boyce TG, Gruber WC, Coleman-Dockery
+SD et al. Mucosal immune response to
+trivalent live attenuated intranasal
+influenza vaccine in children. Vaccine
+18(1–2), 82–88 (1999).
+47 Forrest BD, Pride MW, Dunning AJ et al.
+Correlation of cellular immune responses
+with protection against culture-confirmed
+influenza virus in young children. Clin.
+Vaccine Immunol. 15(7), 1042–1053 (2008).
+48 Belshe RB, Mendelman PM, Treanor J
+et al. The efficacy of live attenuated,
+cold-adapted, trivalent, intranasal
+influenzavirus vaccine in children. N. Engl.
+J. Med. 338(20), 1405–1412 (1998).
+49 Belshe RB, Gruber WC, Mendelman PM
+et al. Correlates of immune protection
+induced by live, attenuated, cold-adapted,
+trivalent, intranasal influenza virus
+vaccine. J. Infect. Dis. 181(3),
+1133–1137 (2000).
+50 Tam JS, Capeding MR, Lum LC et al.;
+Pan-Asian CAIV-T Pediatric Efficacy
+Trial Network. Efficacy and safety of a
+live attenuated, cold-adapted influenza
+vaccine, trivalent against cultureconfirmed influenza in young children in
+Asia. Pediatr. Infect. Dis. J. 26(7),
+619–628 (2007).
+51 Block SL, Yogev R, Hayden FG,
+Ambrose CS, Zeng W, Walker RE.
+Shedding and immunogenicity of live
+attenuated influenza vaccine virus in
+subjects 5–49 years of age. Vaccine 26(38),
+4940–4946 (2008).
+52 King JC Jr, Lagos R, Bernstein DI et al.
+Safety and immunogenicity of low and
+high doses of trivalent live cold-adapted
+influenza vaccine administered intranasally
+as drops or spray to healthy children.
+J. Infect. Dis. 177(5), 1394–1397 (1998).
+53 Zangwill KM, Droge J, Mendelman P
+et al. Prospective, randomized, placebocontrolled evaluation of the safety and
+immunogenicity of three lots of intranasal
+trivalent influenza vaccine among young
+children. Pediatr. Infect. Dis. J. 20(8),
+740–746 (2001).
+54 Lee MS, Mahmood K, Adhikary L et al.
+Measuring antibody responses to a live
+attenuated influenza vaccine in children.
+Pediatr. Infect. Dis. J. 23(9), 852–856
+(2004).
+55 Breiman RF, Brooks WA, Goswami D
+et al. A multinational, randomized,
+placebo-controlled trial to assess the
+immunogenicity, safety, and tolerability of
+live attenuated influenza vaccine
+coadministered with oral poliovirus vaccine
+in healthy young children. Vaccine 27(40),
+5472–5479 (2009).
+56 Bracco Neto H, Farhat CK, Tregnaghi
+MW et al.; D153-P504 LAIV Study
+Group. Efficacy and safety of 1 and 2 doses
+of live attenuated influenza vaccine in
+vaccine-naive children. Pediatr. Infect.
+Dis. J. 28(5), 365–371 (2009).
+57 Nolan T, Lee MS, Cordova JM et al. Safety
+and immunogenicity of a live-attenuated
+influenza vaccine blended and filled at two
+manufacturing facilities. Vaccine
+21(11–12), 1224–1231 (2003).
+58 Block SL, Reisinger KS, Hultquist M,
+Walker RE; CAIV-T Study Group.
+Comparative immunogenicities of frozen
+and refrigerated formulations of live
+attenuated influenza vaccine in healthy
+subjects. Antimicrob. Agents Chemother.
+51(11), 4001–4008 (2007).
+59 Nolan T, Bernstein DI, Block SL et al.;
+LAIV Study Group. Safety and
+immunogenicity of concurrent
+administration of live attenuated
+influenza vaccine with measles-mumpsrubella and varicella vaccines to infants
+12 to 15 months of age. Pediatrics 121(3),
+508–516 (2008).
+60 Glezen P. Influenza viruses. In: Influenza
+Viruses. Feigin RD, Cherry JD, Demmler
+GJ, Kalpan SL (Eds). Saunders, PA, USA,
+2395–2413 (2009).
+61 Stuart-Harris CH, Schild GC, Oxford JS.
+Influenza, The Viruses and the Disease.
+Edward Arnold, London, UK (1985).
+62 Collin N, de Radiguès X; WHO H1N1
+Vaccine Task Force. Vaccine production
+capacity for seasonal and pandemic
+(H1N1) 2009 influenza. Vaccine 27(38),
+5184–5186 (2009).
+Toback, Levin, Block, Belshe, Ambrose & Falloon
+www.expert-reviews.com 1303
+Vaccine Profile
+63 Berman-Gorvine M. Quadrivalent FluMist
+clears FDA but won’t be on the market
+until 2013. The Pink Sheet 74(11),
+#00120312005 (2012).
+Websites
+101 WHO. Summary of status of development
+and availability of influenza B (Yamagata
+and Victoria lineage) candidate vaccine
+viruses* and potency testing reagents.
+www.who.int/csr/disease/influenza/
+summary_b_cvv_reagents_4_may_2011.pdf
+(Accessed 20 June 2011)
+102 Couch RB. Vaccines and Related Biological
+Products Advisory Committee meeting.
+Background and presentation of possible
+vaccine options.
+www.fda.gov/ohrms/dockets/ac/07/
+slides/2007-4282S2_11.ppt
+(Accessed 10 October 2011)
+103 GlaxoSmithKline. Regulatory update:
+GSK announces submissions for two
+influenza vaccines.
+www.gsk.com/media/pressreleases/
+2012/2012-pressrelease-963574.htm
+(Accessed 12 March 2012)
+104 NIH. ClinicalTrials.gov.
+http://clinicaltrials.gov
+(Accessed 12 June 2012)
+105 Research Institute of Influenza; Ministry of
+Health and Social Development of the
+Russian Federation. Influenza vaccines.
+www.influenza.spb.ru/en/science_and_
+society/influenza_vaccines
+(Accessed 3 May 2012)
+106 Committee for Medicinal Products for
+Human Use. Guideline on clinical
+evaluation of new vaccines.
+www.emea.europa.eu/docs/en_GB/
+document_library/Scientific_
+guideline/2009/09/WC500003870.pdf
+(Accessed 14 March 2012)
+107 United States Department of Health and
+Human Services, Food and Drug Administration, Center for Biologics Evaluation and
+Research. Guidance for industry: clinical
+data needed to support the licensure of
+pandemic influenza vaccines.
+www.fda.gov/downloads/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/Guidances/Vaccines/
+ucm091985.pdf
+(Accessed 3 April 2012)
+108 United States Department of Health and
+Human Services, Food and Drug
+Administration, Center for Biologics
+Evaluation and Research. Guidance for
+industry: clinical data needed to support
+the licensure of seasonal inactivated
+influenza vaccines.
+www.fda.gov/downloads/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/Guidances/Vaccines/
+ucm091990.pdf
+(Accessed 3 April 2012)
+109 United States Department of Health and
+Human Services, Food and Drug
+Administration, Center for Biologics
+Evaluation and Research. Clinical review
+of supplemental biologics license application for MedImmune’s quadrivalent live
+attenuated influenza vaccine (Q/LAIV).
+www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/
+UCM295380.pdf
+(Accessed 3 April 2012)
+Quadrivalent Ann Arbor strain live-attenuated influenza vaccine

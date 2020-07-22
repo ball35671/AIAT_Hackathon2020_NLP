@@ -1,0 +1,1102 @@
+﻿CLINICAL REVIEW CLINICIAN’S CORNER
+Diagnosis,Microbial Epidemiology, andAntibiotic
+Treatment of Acute Otitis Media in Children
+A Systematic Review
+Tumaini R. Coker, MD, MBA
+Linda S. Chan, PhD
+Sydne J. Newberry, PhD
+Mary Ann Limbos, MD, MPH
+Marika J. Suttorp, MS
+Paul G. Shekelle, MD, PhD
+Glenn S. Takata, MD, MS
+ACUTE OTITIS MEDIA (AOM) IS
+the most common childhood infection for which antibiotics are prescribed in the
+United States.1-3 A study using 2006
+Medical Expenditure Panel Survey data
+demonstrated an average expenditure
+of $350 per child with AOM, totaling
+$2.8 billion.4 Timely and accurate diagnosis and appropriate management
+of AOM may have significant consequences for ambulatory health care utilization and expenditures.
+Multiple systematic reviews on AOM
+diagnosis and management have been
+conducted,5-10 including our 2001
+study,11 which was the basis for the
+2004 American Academy of Pediatrics
+and American Academy of Family Physicians joint practice guidelines.12 Since
+then, new trials have been published,
+the heptavalent pneumococcal conjugate vaccine (PCV7) has become widely
+used, and clinician practice has changed
+regarding antibiotic choice for AOM.13
+Context Acute otitis media (AOM) is the most common condition for which antibiotics are prescribed for US children; however, wide variation exists in diagnosis and
+treatment.
+Objectives To perform a systematic review on AOM diagnosis, treatment, and the
+association of heptavalent pneumococcal conjugate vaccine (PCV7) use with AOM
+microbiology.
+Data Sources PubMed, Cochrane Databases, and Web of Science, searched to identify articles published from January 1999 through July 2010.
+Study Selection Diagnostic studies with a criterion standard, observational studies
+and randomized controlled trials comparing AOM microbiology with and without PCV7,
+and randomized controlled trials assessing antibiotic treatment.
+Data Extraction Independent article review and study quality assessment by 2 investigators with consensus resolution of discrepancies.
+Results Of 8945 citations screened, 135 were included. Meta-analysis was performed
+for comparisons with 3 or more trials. Few studies examined diagnosis; otoscopic findings
+oftympanicmembranebulging(positivelikelihoodratio,51[95%confidenceinterval{CI},
+36-73]) and redness (positive likelihood ratio, 8.4 [95% CI, 7-11]) were associated with
+accurate diagnosis. In the few available studies, prevalence of Streptococcus pneumoniae
+decreased (eg, 33%-48% vs 23%-31% of AOM isolates), while that of Haemophilus
+influenzae increased (41%-43% vs 56%-57%) pre- vs post-PCV7. Short-term clinical
+success was higher for immediate use of ampicillin or amoxicillin vs placebo (73% vs 60%;
+pooled rate difference, 12% [95% CI, 5%-18%]; number needed to treat, 9 [95% CI,
+6-20]),whileincreasingtherateofrashordiarrheaby3%to5%.Twoof4studiesshowed
+greater clinical success for immediate vs delayed antibiotics (95% vs 80%; rate difference,
+15% [95% CI, 6%-24%] and 86% vs 70%; rate difference, 16% [95% CI, 6%-26%]).
+Data are absent on long-term effects on antimicrobial resistance. Meta-analyses in general showed no significant differences in antibiotic comparative effectiveness.
+Conclusions Otoscopic findings are critical to accurate AOM diagnosis. AOM microbiology has changed with use of PCV7. Antibiotics are modestly more effective than
+no treatment but cause adverse effects in 4% to 10% of children. Most antibiotics
+have comparable clinical success.
+JAMA. 2010;304(19):2161-2169 www.jama.com
+See also Patient Page.
+CME available online at
+www.jamaarchivescme.com
+and questions on p 2186.
+Author Affiliations: Department of Pediatrics, Mattel Children’s Hospital, David Geffen School of Medicine at UCLA, Los Angeles, California (Dr Coker);
+RAND, Santa Monica, California (Dr Coker); Division
+of Biostatistics and Outcomes Assessment, Los Angeles County–USC Medical Center, Los Angeles (Dr
+Chan); USC Keck School of Medicine, Los Angeles (Drs
+Chan, Limbos, and Takata); Southern California Evidence-based Practice Center, RAND Health, Santa
+Monica, California (Drs Newberry and Shekelle and
+Ms Suttorp); West Los Angeles VA Medical Center,
+Los Angeles (Dr Shekelle); and Division of General
+Pediatrics, Childrens Hospital Los Angeles, Los Angeles (Dr Takata).
+Corresponding Author: Tumaini R. Coker, MD, MBA,
+UCLA/RAND Center for Adolescent Health Promotion, David Geffen School of Medicine at UCLA, 10960
+Wilshire Blvd, Ste 1550, Los Angeles, CA 90024 (tcoker
+@mednet.ucla.edu).
+Clinical Review Section Editor: Mary McGrae
+McDermott, MD, Contributing Editor. We encourage authors to submit papers for consideration as a
+Clinical Review. Please contact Mary McGrae
+McDermott, MD, at mdm608@northwestern.edu.
+©2010 American Medical Association. All rights reserved. (Reprinted) JAMA, November 17, 2010—Vol 304, No. 19 2161
+Downloaded From: http://jama.jamanetwork.com/ by a Purdue University User on 05/19/2015
+In light of these additional studies
+and practice changes, we conducted a
+systematic review to support the new
+AOM practice guidelines (currently in
+preparation) from the American Academy of Pediatrics. We report on the evidence for (1) the precision and accuracy of AOM diagnosis, (2) the
+association of PCV7 use with changes
+in AOM microbial epidemiology, (3)
+the decision about whether to treat with
+antibiotics, and (4) the comparative effectiveness of different antibiotics for
+uncomplicated AOM in average-risk
+children and associated antibioticrelated adverse events.
+METHODS
+Literature Search and Study
+Selection
+We searched PubMed, the Cochrane
+Controlled Clinical Trials Register Database, the Cochrane Database of Reviews of Effectiveness, and the Web of
+Science for articles published January
+1999 through July 2010 on AOM diagnosis, treatment outcomes, and association of PCV7 use with changes in
+AOM microbiology using Medical Subject Headings terms (eg, otitis media,
+vaccines), key words (eg, diagnostic, microbiology, therapy), and individual antibiotic terms. This search supplemented a previous January 1966
+through March 1999 search with additional key words for PCV7 and newer
+antibiotics.11 We performed reference
+mining of relevant systematic reviews.
+We included articles in any language that studied children aged 4
+weeks to 18 years. We excluded studies on children with immunodeficiencies and craniofacial anomalies. Systematic reviews, randomized controlled
+trials (RCTs), controlled clinical trials,
+and observational studies were included in the initial search; case reports, clinical overviews, editorials, and
+practice guidelines were excluded.
+Observational studies were considered for the PCV7 and diagnostic questions but excluded for the treatment
+question. For the PCV7 question, only
+articles that assessed AOM microbiology (using middle ear fluid) both before and after PCV7 implementation
+were included. For the diagnostic question, we considered studies of children that performed independent comparisons of signs or symptoms with a
+clear criterion standard; studies using
+clinicians in training were excluded. For
+the antibiotic comparative effectiveness question, only studies that examined clinical improvement as an outcome (not just microbiologic findings)
+were included. The search strategy and
+inclusion/exclusion criteria are detailed elsewhere.14
+Data Abstraction
+Two investigators (T.R.C., M.A.L.)
+independently reviewed titles and
+abstracts for potentially relevant
+articles. They then independently
+abstracted data from the full-text
+articles using structured review forms
+that included inclusion/exclusion criteria, outcome measures, and study
+quality. Disagreements were resolved
+by consensus; the principal investigators (P.G.S., G.S.T.) resolved remaining disagreements. The study biostatistician abstracted data (verified by a
+clinician investigator) for pooled
+analyses. One investigator independently abstracted treatment-related
+adverse event data.
+Quality Assessment
+We used the Jadad criteria to assess RCT
+quality,15 AMSTAR16 to assess systematic review quality, and QUADAS17 to
+assess diagnostic study quality.
+Data Synthesis
+For diagnostic studies, we report summary data, including sensitivities and
+specificities, when available. The number of studies was insufficient to allow
+pooling of data across studies. Furthermore, the criterion standards for the diagnostic studies varied widely.
+For studies examining the association between PCV7 use and changes in
+AOM microbial epidemiology, we report summary data; the studies were too
+few in number and lacked enough consistency across study design and population for pooled analysis.
+For treatment studies, an adequate
+number of articles was identified for
+pooled analyses of some comparisons.
+Comparisons were grouped by individual antibiotics rather than by antibiotic class to maximize the clinical relevance of our findings. The only a priori
+exception was to group ampicillin with
+amoxicillin because of similarity. When
+3 or more articles examined the same
+comparison, we used the DerSimonian and Laird random-effects model
+to pool rate differences across studies.18 Sensitivity analysis was performed for pooled significant findings.
+For pooled estimates, we report the
+I
+2 statistic and P value for the 2 test of
+heterogeneity, which tests the null hypothesis that individual study results are
+homogeneous.19,20 I
+2 values near 100%
+represent high degrees of heterogeneity. For assessment of publication bias
+in our pooled analyses, we report the
+Egger asymmetry test.
+We used Stata version 10.0 to perform the meta-analyses.21 The study received a waiver of institutional review
+board review from the RAND Human
+Subjects Protection Committee.
+RESULTS
+The literature searches and reference
+mining yielded 8945 titles. After removal of duplicates and clearly irrelevant titles, 738 went for further review. After 2 rounds of screening, 55
+articles were accepted and combined
+with 80 articles identified from the 2001
+systematic review.11 These included 4
+articles (3 research articles plus 1 systematic review) on diagnosis, 6 on
+PCV7-microbiology, and 125 on antibiotic treatment (FIGURE 1).
+AOM Diagnosis
+In clinical practice, 3 criteria are used
+to diagnose AOM: (1) acute symptoms of infection, (2) evidence of
+middle ear inflammation, and (3) presence of middle ear effusion (MEE).12
+Published research focuses on what
+constitutes acute symptoms of infection and what physical findings are associated with middle ear inflammation or effusion. A challenge with
+ACUTE OTITIS MEDIA IN CHILDREN
+2162 JAMA, November 17, 2010—Vol 304, No. 19 (Reprinted) ©2010 American Medical Association. All rights reserved.
+Downloaded From: http://jama.jamanetwork.com/ by a Purdue University User on 05/19/2015
+interpreting this research is the lack of
+a consistent gold standard, which varied from otolaryngologist-made diagnosis to tympanocentesis.
+We identified 1 systematic review5
+and 3 additional studies22-24 that addressed the question of diagnostic accuracy and precision in identifying any
+or all of the 3 criteria. Detailed data on
+these studies are available in our evidence report14; findings suggest that certain otoscopic signs are strongly associated with AOM, while data on the
+importance of symptoms as a predictor of AOM are less convincing.
+Symptoms. A 2003 review by Rothman et al5 found that ear pain (sensitivities: 54%, 60%, 100%; specificities:
+82% and 92%; positive likelihood ratio
+[LR], 3.0 [95% confidence interval {CI},
+2.1 to 4.3]; positive LR, 7.3 [95% CI,
+4.4 to 12.1]) and ear rubbing (sensitivity:42%;specificity:87%;positiveLR,
+3.3 [95% CI, 2.1 to 5.1]) were modestly associated with AOM diagnosis.
+The review by Rothman et al included
+4 studies examining specific symptoms among 965 total participants.25-28
+In 2 of the studies, participants were
+recruited from otolaryngology practices and may not be representative of
+the general population of children with
+AOM. A more recent single study found
+that among 469 children aged 6 to 36
+months presenting to primary care
+offices with parent-suspected AOM,
+AOM diagnosis was not associated with
+occurrence, duration, or severity of parent-reported symptoms (eg, ear rubbing, ear pain, fever).24
+Otoscopic Signs. One study29 examined in the review by Rothman et al assessed the association of otoscopic findings of middle ear inflammation
+(redness: positive LR, 8.4 [95% CI, 7
+to 11]) and effusion (cloudy: positive
+LR, 34 [95% CI, 28 to 42]; bulging:
+positive LR, 51 [95% CI, 36 to 73]; immobile: positive LR, 31 [95% CI, 26 to
+37]) with AOM (determined by clinical symptoms and the presence of MEE
+on tympanocentesis).5
+A study published subsequently to the
+review by Rothman et al examined the
+accuracy of tympanometric (evaluation of middle ear function by measurement of acoustic impedence) and otoscopic findings compared with
+tympanocentesis as the criterion standard to determine the presence of MEE.
+Among children with MEE on tympanocentesis, 97% had type B (abnormal) tympanometry results, and 100%
+had otoscopic examination findings
+consistent with AOM. These results
+may overestimate the accuracy of tympanometry, because the investigators performing otoscopy were not blinded to
+the tympanometry results, and the criterion standard of tympanocentesis was
+performed only when otoscopic or tympanometric findings suggested MEE.22
+In another study subsequent to the
+review by Rothman et al, 22% of
+AOM cases diagnosed by a general
+practitioner were concurrently diagnosed by an otolaryngologist as otitis
+media with effusion, viral otitis, or a
+normal tympanic membrane.23
+PCV7 and AOM Microbial
+Epidemiology
+Six studies examined the association
+between PCV7 use and changes in
+AOM microbial epidemiology
+(TABLE). These studies fit into 2 categories: observational studies of AOM
+isolates both before and after the 2000
+licensure of PCV7 and PCV7 efficacy
+Figure 1. Article Selection
+135 Included in primary analysis
+125 Assessed AOM antibiotic treatment
+6 Assessed PCV7 and microbiology of AOM
+4 Assessed AOM diagnosis
+234 Articles identified at brief-screener level and
+sent for extended-screener reviewb
+738 Identified and sent for brief-screener reviewa
+8945 Titles identified from literature search
+80 Identified in previous search (assessed AOM
+antibiotic treatment)d
+55 Identified at extended-screener level
+45 Assessed AOM antibiotic treatment
+6 Assessed PCV7 and microbiology of AOM
+4 Assessed AOM diagnosis
+179 Excluded at extended-screener level
+83 Observational study excluded for treatment
+research question
+74 Excluded article type or study design
+19 Research questions not addressed
+2 Included in accepted diagnostic review articlec
+1 Duplicate data
+504 Excluded at brief-screener level
+207 Excluded article type
+190 Research questions not addressed
+84 Study condition other than otitis media
+10 Adult (≥18 y) study population
+7 Nonhuman study
+4 Duplicate
+2 Excluded study population
+8207 Excluded (duplicate or clearly irrelevant)
+AOM indicates acute otitis media; PCV7, heptavalent pneumococcal conjugate vaccine.
+aThe brief screener was a 1-page screener used to screen abstracts to determine if the article contained original research data, met basic inclusion criteria, and addressed research questions.
+bExtended screeners included more detailed information, including study design, sample size and identity, treatment protocol, types of outcomes reported and by whom, potential influencing factors, and study quality.
+cRothman et al.5
+dTakata et al.11
+ACUTE OTITIS MEDIA IN CHILDREN
+©2010 American Medical Association. All rights reserved. (Reprinted) JAMA, November 17, 2010—Vol 304, No. 19 2163
+Downloaded From: http://jama.jamanetwork.com/ by a Purdue University User on 05/19/2015
+RCTs examining AOM-related
+organisms.
+Most studies found that Haemophilus influenzae became more prevalent
+as an AOM isolate and that Streptococcus pneumoniae became less prevalent
+although it remained important.30,31,33
+In an observational study of children
+with persistent AOM or AOM with
+treatment failure, the proportion of
+S pneumoniae MEE isolates decreased
+(from 44% in 1998-2000 to 31% in
+2001-2003, P=.02), while the proportion of H influenzae isolates increased
+(from 43% in 1998-2000 to 57% in
+Table. Studies of the Effects of Heptavalent Pneumococcal Conjugate Vaccine on Microbial Epidemiology of Acute Otitis Media
+Source Age
+Setting and
+Inclusive Years Participants
+Postvaccine/Vaccine Group vs Prevaccine/Control Group, %a
+Culture-Positive Specimens,
+Postvaccine vs Prevaccine
+All Others
+Streptococcus
+pneumoniae
+Haemophilus
+influenzae
+Cohort studies
+Casey and
+Pichichero,30
+2004
+20-22 mo
+(mean)
+Pediatric practice,
+United States,
+1995-2003
+551 patients with AOM
+treatment failure or
+persistent AOM
+1995-1997: n = 103 isolates
+1998-2000: n = 114 isolates
+2001-2003: n = 89 isolates
+31% vs 44% (P = .02)
+1995-1997: 48%
+1998-2000: 44%
+2001-2003: 31%
+Serotypes not examined
+57% vs 43% (P = .01)
+1995-1997: 38%
+1998-2000: 43%
+2001-2003: 57%
+Moraxella
+catarrhalis:
+1% vs 4%
+Streptococcus
+pyogenes:
+2% vs 3%
+Block et al,31
+2004
+7-24 mo Pediatric practice,
+United States,
+1992-1998 and
+2000-2003
+379 patients with severe or
+refractory AOM
+1992-1998: n = 336 isolates
+2000-2003: n = 83 isolates
+For serotype analysis:
+1992-1998: n = 132
+S pneumoniae isolates
+2000-2003: n = 22
+S pneumoniae isolates
+31% vs 48% (P = .007)
+PCV7 serotypes:
+36% vs 70% (P = .005)
+Non-PCV7 serotypes:
+32% vs 22%
+PCV7-related serotypes:
+32% vs 8% (P = .005)
+56% vs 41% (P = .01) M catarrhalis: 11% vs 9%
+S pyogenes:
+2% vs 2%
+McEllistrem
+et al,32
+2005
+Not reported 5 hospitals in the
+United States,
+1999-2002
+505 isolates (No. of children
+not specified)
+1999: n = 182 isolates
+2000: n = 126 isolates
+2001: n = 115 isolates
+2002: n = 82 isolates
+2002 vs 1999:
+PCV7 serotypes:
+52% vs 76% (P  .01)
+Non-PCV7 serotypes:
+32% vs 12% (P  .01)
+PCV-related serotypes:
+13% vs 10%
+P values are trend over
+time, 1999-2002
+Only S pneumoniae
+examined
+Only S pneumoniae
+examined
+Brook and
+Gober,33
+2009
+5 mo-12 y Outpatient practice,
+United States,
+1993-1998 and
+2001-2006
+100 patients with AOM with
+new spontaneous
+perforation
+1992-1998: n = 61 isolates
+2001-1006: n = 63 isolates
+44% vs 54%
+Serotypes not reported
+24% vs 18% MSSA: 8% vs 8%
+MRSA: 10% vs 0%
+(P  .05)
+Randomized
+controlled trials
+Eskola
+et al,34
+2001
+Infants  2 mo
+enrolled
+(6.5-mo
+to 25-mo
+follow-up)
+8 clinics in Finland,
+1995-1999
+1662 (with 2596 episodes
+of AOM)
+Vaccine group: n = 1177
+AOM episodes with
+confirmed MEF
+Control group: n = 1267
+AOM episodes with
+confirmed MEF
+For serotype analysis:
+Vaccine group: n = 271
+S pneumoniae isolates
+Control group: n = 414
+S pneumoniae isolates
+23% vs 33% (P  .001)
+Serotype analysis:
+PCV7 serotype:
+40% vs 60%
+(P  .001)
+Non-PCV7 serotype:
+46% vs 23%
+(P  .001)
+PCV7-related serotype:
+15% vs 20%
+27% vs 23% (P = .02) M catarrhalis: 32% vs 30%
+Veenhoven
+et al,35
+2003
+12-84 mo 2 hospitals in the
+Netherlands,
+1998-2002
+383 patients with recurrent
+AOM; 181 with MEF
+samples
+Vaccine group: n = 60 AOM
+episodes with
+culture-positive MEF
+Control group: n = 54 AOM
+episodes with
+culture-positive MEF
+For serotype analysis:
+Vaccine group: n = 13
+S pneumoniae isolates
+Control group: n = 19
+S pneumoniae isolates
+22% vs 35%
+Serotype analysis:
+PCV7 serotype:
+31% vs 42%
+Non-PCV7 serotype:
+70% vs 58%
+PCV7-related serotype:
+not reported
+35% vs 43% Staphylococcus aureus: 34% vs 17%
+(P = .004)
+Group A S aureus:
+10% vs 7%
+Abbreviations: MEF, middle ear fluid; MRSA, methicillin-resistant Staphylococcus aureus; MSSA, methicillin-sensitive Staphylococcus aureus; PCV7, heptavalent pneumococcal conjugate vaccine. aP values are provided for comparisons with P.05.
+ACUTE OTITIS MEDIA IN CHILDREN
+2164 JAMA, November 17, 2010—Vol 304, No. 19 (Reprinted) ©2010 American Medical Association. All rights reserved.
+Downloaded From: http://jama.jamanetwork.com/ by a Purdue University User on 05/19/2015
+2001-2003, P=.01).30 Another study
+found an increase (as a proportion of
+all S pneumoniae isolates) in nonvaccine serotype S pneumoniae and a decrease in vaccine serotype S pneumoniae (non-PCV7 S pneumoniae: from
+12% in 1999 to 32% in 2002, P.01).32
+In a vaccine-efficacy RCT, investigators found a greater proportion of
+S pneumoniae isolates in the control
+group (33%) than in the PCV7 group
+(23%) (P.001).34 It is important to
+note that study findings did not always reach statistical significance, and
+most studies focused on patients with
+severe or persistent AOM.
+Antibiotics for Uncomplicated AOM
+One hundred twenty-five articles compared the effectiveness of antibiotic
+treatment options in uncomplicated
+AOM. Older articles that examined antibiotics no longer typically used for
+AOM are not discussed here but are included in the evidence reports.14,36
+Benefits of Antibiotic Treatment
+Evidence about the benefits of treating with antibiotics comes from 2 types
+of studies: placebo-controlled studies
+of immediate use of antibiotics and
+studies comparing immediate use of antibiotics with a strategy of observation
+with possible delayed treatment (“waitand-see” or “prescription-to-hold”).
+Ampicillin or Amoxicillin vs Placebo
+We identified 8 studies that compared
+ampicillin or amoxicillin with placebo. One did not report clinical success (only pain resolution) and was not
+included in the pooled analysis.37
+In pooled analysis of the remaining
+7 RCTs, the random-effects pooled rate
+difference for success by day 14 was estimated at 12% (95% CI, 5% to 18%),
+with a 73% success rate for ampicillin/
+amoxicillin and a 60% success rate for
+placebo. The number needed to treat
+(NNT) for clinical success was 9 (95%
+CI, 6 to 20) (eTable 1 [available at http:
+//www.jama.com] and FIGURE 2). The
+more recent, higher-quality studies reported smaller benefits. The I
+2 statistic was 69% (P=.04 by 2 test of heterogeneity), indicating the presence of
+unexplained heterogeneity, which
+could be attributable to differences in
+the populations studied, research methods used, or both. The Egger test did
+not suggest publication bias (P=.77).
+In sensitivity analyses, we excluded
+an outlier38 because its 95% CI favored
+placebo far more strongly than any other
+individual study. The pooled analysis
+with the remaining 6 articles yielded
+rates of 70% vs 54% (pooled rate difference, 13% [95% CI, 8% to 19%]), with
+7 children (95% CI, 5 to 12) needing
+treatment with ampicillin/amoxicillin to
+gain a case of clinical success (I
+2=62%,
+P=.09; P=.18 by Egger test).39-44 When
+we pooled the 4 studies with a quality
+score of 3 or more (of 5), excluding the
+outlier, the rates were 76% vs 67%
+(pooled rate difference, 10% [95% CI,
+6% to 14%]), and the NNT was 10 (95%
+CI, 7 to 18), without evidence of heterogeneity (I
+2=0.0%, P=.48) or publication bias (P=.26).41,43,44
+Other Antibiotics vs Placebo
+We identified 5 studies that compared
+other antibiotics with placebo (eTable
+1), but they are not included in pooled
+analysis because we examined the overall benefit of antibiotics more commonly prescribed for AOM (ie, amoxicillin) over placebo.
+Immediate vs Delayed Antibiotics
+We identified 4 studies of delayed treatment approaches; 2 reported higher
+rates of clinical success with immediate compared with delayed use of antibiotics,45,46 and 2 found no difference.47,48 One article reported rates of
+95% vs 80% (rate difference, 15% [95%
+CI, 6% to 24%]; NNT, 7 [95% CI, 4 to
+17]) favoring amoxicillin over the
+wait-and-see approach for parentperceived success at day 12,49 whereas
+the other reported rates of 86% vs 70%
+(rate difference, 16% [95% CI, 6% to
+26%]; NNT, 6 [95% CI, 4 to 17]), also
+favoring amoxicillin over the prescription-to-hold approach for parentperceived clinical success at day 3.45
+Thirty-four percent46 and 24%46 of participants in the delayed antibiotic
+groups in these studies received delayed antibiotics, respectively.
+Short-term Harms
+of Antibiotic Treatment
+The risk of harms from antibiotic treatment for AOM has been less well studFigure 2. Treatment Success by Day 14 for Ampicillin/Amoxicillin vs Placebo
+Favors
+Placebo
+Favors Ampicillin
+or Amoxicillin
+Treatment Success Event Rate, No./Total (%)
+Study
+Halsted et al,38 1967
+Laxdal et al,39 1970
+Howie and Ploussard,40 1972
+Burke et al,41 1991
+Kaleida et al,42 1991
+Damoiseaux et al,43 2000
+Placebo
+23/25 (92)
+44/49 (90)
+17/36 (47)
+112/114 (98)
+213/401 (53)
+40/112 (36)
+232/250 (93)
+Ampicillin or Amoxicillin
+21/21 (100)
+30/48 (63)
+24/116 (21)
+101/118 (86)
+155/408 (38)
+36/120 (30)
+Le Saux et al, 202/240 (84) 44 2005
+Pooled overall
+Rate Difference, %
+(95% CI)
+−8 (−21 to 5)
+27 (11 to 43)
+27 (9 to 44)
+13 (6 to 19)
+15 (8 to 22)
+6 (−6 to 18)
+9 (3 to 14)
+12 (5 to 18)
+–40 –20 0 20 40
+Rate Difference, % (95% CI)
+Sizes of data markers are proportional to the sample size of each study in the analysis. CI indicates confidence interval.
+ACUTE OTITIS MEDIA IN CHILDREN
+©2010 American Medical Association. All rights reserved. (Reprinted) JAMA, November 17, 2010—Vol 304, No. 19 2165
+Downloaded From: http://jama.jamanetwork.com/ by a Purdue University User on 05/19/2015
+ied than the benefits. Four of the 7 placebo-controlled studies reported on
+harms. One reported the counterintuitive, although not statistically significant, result of more cases of rash
+and diarrhea in placebo-treated patients than in amoxicillin-treated patients.44 Pooled analysis of the other 3
+trials39,41,43 yielded rates of 13% vs 8%
+for diarrhea (pooled rate difference, 5%
+[95% CI, 0% to 10%]; I
+2=23%; P=.30),
+while 2 individual studies had a rate difference of 4% (4% vs 0%) and 3% (8%
+vs 5%) for rash39,41; these differences did
+not reach statistical significance. These
+point estimates are compatible with
+published estimates of the rate of rash
+(3%-10%) and diarrhea (5%-10%).50-53
+In the studies by Little et al45 and Spiro
+et al,47 the rate of diarrhea was higher
+for the antibiotic group than for the prescription-to-hold group (19% vs 9%;
+rate difference, 10% [95% CI, 2% to
+18%] and 23% vs 8%; rate difference,
+14% [95% CI, 6% to 22%] for the 2
+studies, respectively), with a number
+needed to harm (NNH) of 10 (95% CI,
+6 to 50) and 7 (95% CI, 5 to 17),
+respectively.45,47
+McCormick et al49 reported no difference in the rate of antibioticrelated adverse events, and Neumark et
+al48 did not examine adverse events. In
+RCTs comparing amoxicillin with other
+antibiotics, the proportion of amoxicillin-treated children reporting rash
+ranged from 2% to 11% and the proportion reporting diarrhea ranged from
+3% to 16%.54-60
+Long-term Harms
+of Antibiotic Treatment
+None of the studies evaluated the rates
+of longer-term adverse effects of immediate antibiotic treatment, including antibiotic resistance.
+Antibiotic Comparative
+Effectiveness
+eTable 2 describes selected antibiotic
+comparative effectiveness studies and
+pooled analyses for comparisons examining 3 or more studies. The Egger
+test was not suggestive of publication
+bias for any of the pooled analyses.
+The success rate differences were statistically nonsignificant in the pooled
+analyses comparing ampicillin/
+amoxicillin vs ceftriaxone (4 trials,
+I
+2=50.7%), ampicillin/amoxicillin vs cefixime (4 trials, I
+2=22.9%), ampicillin/
+amoxicillin vs cefaclor (4 trials,
+I
+2=13.0%), amoxicillin-clavulanate vs
+ceftriaxone (5 trials, I
+2=22.9%), cefaclor vs azithromycin (3 trials, I
+2=0%),
+and amoxicillin-clavulanate vs 5 days
+of azithromycin (5 trials,I
+2=62.2%) and
+vs 3 or fewer days of azithromycin (7
+trials, I
+2=84.1%).
+Statistically significant differences between treatment regimens were found in
+a few individual studies. Amoxicillinclavulanate was superior to cefaclor (97%
+vs 84%; rate difference, 13% [95% CI, 5%
+to 21%])61; 10 days of amoxicillinclavulanate was superior to 5 days of
+azithromycin (86% vs 70%; rate difference, 16% [95% CI, 2% to 30%])62; 5 days
+of amoxicillin-clavulanate was not as effective as 7 to 10 days (77% vs 88%; rate
+difference, −11% [95% CI, −20% to −3%]
+in the study by Cohen et al63 and 71%
+vs 87%; rate difference, −16% [95% CI,
+−24% to −8%] in the study by Hoberman et al64); and 5 days of ceftibuten was
+not as effective as 10 days of ceftibuten
+(78% vs 98%; rate difference, −20% [95%
+CI, −28% to −12%]).65
+Antibiotic-Related Adverse Events
+In the pooled comparisons, use of ampicillin/amoxicillin resulted in a lower
+rate of diarrhea than cefixime (14% vs
+21%; rate difference, −8% [95% CI,
+−13% to −4%]; NNH, 12 [95% CI, 8 to
+25]; I
+2=0%), and use of amoxicillinclavulanate resulted in a higher rate of
+diarrhea than 1 dose of ceftriaxone
+(20% vs 9%; rate difference, 11% [95%
+CI, 7% to 16%]; NNH, 9 [95% CI, 6 to
+15]; I
+2=10.8%) and higher rates of any
+adverse event compared with 5 days of
+azithromycin (26% vs 9%; rate difference, 16% [95% CI, 7% to 25%]; NNH,
+6 [95% CI, 4 to 14]; I
+2=81.9%).
+COMMENT
+We identified several important findings for AOM diagnosis, microbiology, and antibiotic management.
+Acute otitis media is a clinical diagnosis with 3 components: acute signs
+of infection, evidence of middle ear
+inflammation, and effusion.12 Evidence suggests that certain otoscopic
+findings (ie, a red and immobile or
+bulging tympanic membrane) predict
+AOM, but the accuracy or precision of
+a clinical diagnosis has not been
+determined. A major limitation to the
+evidence regarding diagnosis is the
+lack of a gold standard. The diagnostic tools studied (eg, otoscopy) are
+often part of the only available gold
+standard—a clinical diagnosis. Perhaps the most important way to
+improve diagnosis is to increase clinicians’ ability to recognize and rely on
+key otoscopic findings.
+Since the introduction of PCV7,
+there have been significant shifts in
+AOM microbiology, with S pneumoniae becoming less prevalent and H
+influenzae becoming more prevalent.
+A recent study of a single pediatric
+practice found evidence suggesting
+that this balance may be shifting
+again because of an increase in the
+proportion of AOM with nonvaccine
+S pneumoniae serotypes.66 These data
+and the introduction of PCV13 support the need for ongoing surveillance of AOM isolates.
+Immediate ampicillin/amoxicillin
+treatment has a modest benefit compared with placebo or delayed antibiotics but also may be associated with
+more diarrhea and rash. Of 100 averagerisk children with AOM, approximately 80 would likely get better within
+about 3 days without antibiotics.67 If all
+were treated with immediate ampicillin/
+amoxicillin, an additional 12 would
+likely improve, but 3 to 10 children
+would develop rash and 5 to 10 would
+develop diarrhea. Clinicians need to
+weigh these risks (including possible
+long-term effects on antibiotic resistance) and benefits before prescribing
+immediate antibiotics for uncomplicated AOM.
+Most antibiotics used to treat uncomplicated AOM in children at normal risk have similar rates of clinical
+success; we found no evidence of the
+ACUTE OTITIS MEDIA IN CHILDREN
+2166 JAMA, November 17, 2010—Vol 304, No. 19 (Reprinted) ©2010 American Medical Association. All rights reserved.
+Downloaded From: http://jama.jamanetwork.com/ by a Purdue University User on 05/19/2015
+superiority of any other antibiotic over
+amoxicillin.
+In most cases of uncomplicated AOM
+when amoxicillin is appropriate (eg, excluding children with penicillin allergy and those who previously did not
+improve after a course of amoxicillin),
+there is no evidence for first-line use of
+higher-cost antibiotics (eg, cefdinir, cefixime). For a 20-kg child with AOM,
+a 7-day course of cefdinir costs approximately $96, compared with $34 for an
+equivalent course of amoxicillin (pricing information available at http://www
+.drugstore.com). In an analysis of data
+from the National Ambulatory Medical Care Survey, among visits for AOM
+(visits for a new problem without additional diagnoses requiring antibiotic therapy), amoxicillin was prescribed in 49%, amoxicillin-clavulanate
+in 16%, cefdinir in 14%, and other
+cephalosporins in 6%.13 If just half of
+the 14% of the estimated 8 million children who visit a physician for AOM annually4 were to receive amoxicillin instead of cefdinir (assuming the other
+half were appropriately prescribed cefdinir because of a non–type-1 penicillin allergy), the estimated annual savings would exceed $34 million. This
+estimate does not account for potential additional savings from adopting a
+less aggressive approach to antibiotic
+prescribing that might avoid a certain
+number of prescriptions altogether.
+This review has several limitations
+that must be considered. First, article
+screening and data abstraction were not
+blinded, which may potentially introduce bias. However, there is evidence
+that blinding does not alter the results
+of meta-analyses.68 Second, we may not
+have identified some relevant evidence. For example, we did not search
+EMBASE or seek unpublished data. We
+used statistical tools to detect publication bias but found no evidence of it in
+our pooled analyses. Additionally, our
+findings on diagnosis and microbiology are greatly limited by the small
+number of studies; thus, caution should
+be used in interpreting our findings for
+these topics. To account for variation
+in study quality, we performed sensitivity analyses that pooled only highquality studies. Third, the studies varied widely in their definitions of clinical
+success and in AOM diagnostic criteria. Some studies that did not use all 3
+AOM diagnostic criteria may have included participants without AOM but
+with otitis media with effusion or no
+middle-ear abnormality at all.69,70 Lastly,
+our pooled analyses included studies
+completed before and after the licensing of PCV7. It is not clear how the
+changing microbiology of AOM may
+have influenced study findings; the
+heterogeneity of AOM over the past 20
+years might favor an analysis that does
+not include pooling data from studies
+before and after 2000.69
+One remaining question is what new
+evidence about antibiotic comparative
+effectiveness is needed. It is not enough
+to show statistical significance or lack
+thereof; the clinical importance of any
+difference must also be considered. This
+requires knowing the minimal clinically important difference (MCID) for
+treatment of AOM. Although there currently is no agreed-on value for the
+MCID, assuming an MCID of 5% (representing a “small” effect size, according to Cohen’s classification71) means
+that when existing evidence falls entirely within or outside of this MCID,
+equivalence or significance can be concluded; when it does not, it can be concluded that more information is needed.
+Using this definition, we can conclude equivalence for 2 of the 8 pooled
+analyses in eTable 2 and that effects are
+inconclusive for the remaining 6. The
+MCID has important implications for
+our conclusions; for example, in contrast to a previous systematic review,7
+we are unable to make definitive conclusions regarding the equivalency of
+short- vs long-term regimens analyzed by antibiotic when considering an
+MCID of 5%, except for 7 to 10 days
+of cefaclor vs 3 days of azithromycin.
+To account for both statistical and
+clinical significance, sample sizes for
+AOM comparative effectiveness studies need to be large. Because approximately 80% of AOM cases resolve spontaneously,67 most RCTs will be able to
+test superiority of different antibiotics
+with only the remaining 20%. If the success rate is 88% for the treatment group
+and 80% for the control group, a sample
+size of 1150 per group would provide
+a 95% CI of the difference of 5% to 11%,
+which is outside the ±5% MCID; this
+sample size is much larger than that of
+any published AOM comparative effectiveness study.
+CONCLUSIONS
+We found evidence to guide the diagnosis and management of AOM in children; however, further research is
+needed that (1) examines clinicians’ diagnostic accuracy and precision using
+the 3 AOM diagnostic criteria; (2) continues surveillance of AOM microbiology, especially in view of the newly approved PCV13; and (3) produces more
+high-quality studies on AOM management that include clear diagnostic criteria, a better-defined menu of clinical
+success measures that are universally
+applied, and more investigation into the
+comparative antibiotic-related adverse event rates that assesses whether
+any antibiotic regimen is superior to
+amoxicillin.
+Author Contributions: Dr Shekelle had full access to
+all of the data in the study and takes responsibility for
+the integrity of the data and the accuracy of the data
+analysis.
+Study concept and design: Coker, Chan, Shekelle,
+Takata.
+Acquisition of data: Coker, Chan, Newberry, Limbos,
+Takata.
+Analysis and interpretation of data: Coker, Chan,
+Newberry, Limbos, Suttorp, Shekelle, Takata.
+Drafting of the manuscript: Coker, Chan, Shekelle,
+Takata.
+Critical revision of the manuscript for important intellectual content: Coker, Chan, Newberry, Limbos,
+Suttorp, Shekelle, Takata.
+Statistical analysis: Chan, Suttorp.
+Obtained funding: Shekelle.
+Administrative, technical, or material support:
+Newberry.
+Study supervision: Shekelle, Takata.
+Financial Disclosures: Dr Takata reported owning 100
+shares of Pfizer stock, which he sold at the start of the
+study. No other authors reported disclosures.
+Funding/Support: This article is based on research conducted by the Southern California Evidence-based Practice Center (EPC) under contract with the Agency for
+Healthcare Research and Quality (AHRQ) (contract
+290-2007-10056). This work was commissioned by
+AHRQ as an update to an earlier report and in support of the update of practice guidelines.
+Role of the Sponsor: AHRQ had a role, through its
+sponsorship of the EPC program, in the general methods of EPC systematic reviews and in development of
+the key questions for each review. However, AHRQ
+had no role in the specific conduct of the review; in
+ACUTE OTITIS MEDIA IN CHILDREN
+©2010 American Medical Association. All rights reserved. (Reprinted) JAMA, November 17, 2010—Vol 304, No. 19 2167
+Downloaded From: http://jama.jamanetwork.com/ by a Purdue University User on 05/19/2015
+the collection, management, analysis, and interpretation of the data; or in the preparation, review, or
+approval of the manuscript.
+Disclaimer: The authors of this article are responsible
+for its contents. No statement in this article should be
+construed as an official position of AHRQ or the US
+Department of Health and Human Services.
+Online-Only Material: eTables 1 and 2 are available
+at http://www.jama.com.
+Additional Contributions: Roberta Shanman, MLS
+(RAND Library), conducted the literature searches.
+Martha Timmer, MS (EPC, RAND Health, Santa
+Monica), provided scientific programming and data
+entry support for the evidence report prepared for
+AHRQ. Aneesa Motala, BA, and Breanne Johnsen, BS
+(EPC, RAND Health), contributed to the evidence report and the manuscript. As RAND employees, these
+individuals were compensated from the EPC contract
+for this study but none received additional compensation for their contributions.
+REFERENCES
+1. Daly KA, Brown JE, Lindgren BR, Meland MH, Le
+CT, Giebink GS. Epidemiology of otitis media onset
+by six months of age. Pediatrics. 1999;103(6, pt 1):
+1158-1166.
+2. McCaig LF, Besser RE, Hughes JM. Trends in antimicrobial prescribing rates for children and
+adolescents. JAMA. 2002;287(23):3096-3102.
+3. Teele DW, Klein JO, Rosner B. Epidemiology of otitis media during the first seven years of life in children in greater Boston: a prospective, cohort study.
+J Infect Dis. 1989;160(1):83-94.
+4. Soni A. Ear infections (otitis media) in children
+(0-17): use and expenditures, 2006. Statistical Brief
+No. 228. Agency for Healthcare Research and Quality Web site. http://www.meps.ahrq.gov/mepsweb
+/data_files/publications/st228/stat228.pdf. December 2008. Accessed September 20, 2010.
+5. Simel DL, Rothman R, Keitz S. Update: otitis media, child. In: Simel DL, Rennie D, eds. The Rational
+Clinical Examination: Evidence-Based Clinical Diagnosis. New York, NY: McGraw-Hill; 2009. http//www
+.jamaevidence.com/content/3484986. Accessed September 2, 2010.
+6. Spurling GK, Del Mar CB, Dooley L, Foxlee R. Delayed antibiotics for respiratory infections. Cochrane
+Database Syst Rev. 2007;(3):CD004417.
+7. Kozyrskyj AL, Hildes-Ripstein GE, Longstaffe SE,
+et al. Short course antibiotics for acute otitis media.
+Cochrane Database Syst Rev. 2000;(2):CD001095.
+8. Kozyrskyj AL, Hildes-Ripstein GE, Longstaffe SE,
+et al. Treatment of acute otitis media with a shortened course of antibiotics: a meta-analysis. JAMA.
+1998;279(21):1736-1742.
+9. Rosenfeld RM, Vertrees JE, Carr J, et al. Clinical efficacy of antimicrobial drugs for acute otitis media:
+metaanalysis of 5400 children from thirty-three randomized trials. J Pediatr. 1994;124(3):355-367.
+10. Glasziou PP, Del Mar CB, Sanders SL, Hayem M.
+Antibiotics for acute otitis media in children. Cochrane Database Syst Rev. 2004;(1):CD000219.
+11. Takata GS, Chan LS, Shekelle PG, Morton SC,
+Mason W, Marcy SM. Evidence assessment of management of acute otitis media, I: the role of antibiotics in treatment of uncomplicated acute otitis media.
+Pediatrics. 2001;108(2):239-247.
+12. American Academy of Pediatrics Subcommittee
+on Management of Acute Otitis Media. Diagnosis and
+management of acute otitis media. Pediatrics. 2004;
+113(5):1451-1465.
+13. Coco A, Vernacchio L, Horst M, Anderson A. Management of acute otitis media after publication of the
+2004 AAP and AAFP clinical practice guideline.
+Pediatrics. 2010;125(2):214-220.
+14. Southern California Evidence-based Practice
+Center. Management of Acute Otitis Media, Update.
+Rockville, MD: Agency for Healthcare Research and
+Quality; 2010.
+15. Jadad AR, Moore RA, Carroll D, et al. Assessing
+the quality of reports of randomized clinical trials: is
+blinding necessary? Control Clin Trials. 1996;17
+(1):1-12.
+16. Shea BJ, Grimshaw JM, Wells GA, et al. Development of AMSTAR: a measurement tool to assess
+the methodological quality of systematic reviews. BMC
+Med Res Methodol. 2007;7:10.
+17. Whiting P, Rutjes AW, Reitsma JB, Bossuyt PM,
+Kleijnen J. The development of QUADAS: a tool for
+the quality assessment of studies of diagnostic accuracy included in systematic reviews. BMC Med Res
+Methodol. 2003;3:25.
+18. DerSimonian R, Laird N. Meta-analysis in clinical
+trials. Control Clin Trials. 1986;7(3):177-188.
+19. Higgins JP, Thompson SG, Deeks JJ, Altman DG.
+Measuring inconsistency in meta-analyses. BMJ. 2003;
+327(7414):557-560.
+20. Laird NM, Mosteller F. Some statistical methods
+for combining experimental results. Int J Technol Assess Health Care. 1990;6(1):5-30.
+21. Stata. Version 10 [computer program]. College
+Station, TX: StataCorp; 2007.
+22. SaeedK,CoglianeseCL,McCormickDP,Chonmaitree
+T. Otoscopic and tympanometric findings in acute otitis
+media yielding dry tap at tympanocentesis. Pediatr Infect Dis J. 2004;23(11):1030-1034.
+23. Legros JM, Hitoto H, Garnier F, Dagorne C, Dubin
+J, Fanello S. Reliability of the diagnosis of acute otitis
+media by general practitioners [in French].Arch Pediatr.
+2007;14(5):427-433.
+24. Laine MK, Tähtinen PA, Ruuskanen O, Huovinen
+P, Ruohola A. Symptoms or symptom-based scores
+cannot predict acute otitis media at otitis-prone age.
+Pediatrics. 2010;125(5):e1154-e1161.
+25. Kontiokari T, Koivunen P, Niemelä M, Pokka T,
+Uhari M. Symptoms of acute otitis media. Pediatr Infect Dis J. 1998;17(8):676-679.
+26. Niemela M, Uhari M, Jounio-Ervasti K, Luotonen
+J, Alho OP, Vierimaa E. Lack of specific symptomatology in children with acute otitis media. Pediatr Infect
+Dis J. 1994;13(9):765-768.
+27. Heikkinen T, Ruuskanen O. Signs and symptoms predicting acute otitis media. Arch Pediatr Adolesc Med. 1995;149(1):26-29.
+28. Ingvarsson L. Acute otalgia in children—findings
+and diagnosis. Acta Paediatr Scand. 1982;71(5):
+705-710.
+29. Karma PH, Penttilä MA, Sipilä MM, Kataja MJ.
+Otoscopic diagnosis of middle ear effusion in acute
+and non-acute otitis media, I: the value of different
+otoscopic findings. Int J Pediatr Otorhinolaryngol.
+1989;17(1):37-49.
+30. Casey JR, Pichichero ME. Changes in frequency
+and pathogens causing acute otitis media in
+1995-2003. Pediatr Infect Dis J. 2004;23(9):824-
+828.
+31. Block SL, Hedrick J, Harrison CJ, et al. Communitywide vaccination with the heptavalent pneumococcal conjugate significantly alters the microbiology of
+acute otitis media. Pediatr Infect Dis J. 2004;23
+(9):829-833.
+32. McEllistrem MC, Adams JM, Patel K, et al. Acute
+otitis media due to penicillin-nonsusceptible Streptococcus pneumoniae before and after the introduction of the pneumococcal conjugate vaccine. Clin Infect Dis. 2005;40(12):1738-1744.
+33. Brook I, Gober AE. Bacteriology of spontaneously draining acute otitis media in children before and
+after the introduction of pneumococcal vaccination.
+Pediatr Infect Dis J. 2009;28(7):640-642.
+34. Eskola J, Kilpi T, Palmu A, et al; Finnish Otitis Media Study Group. Efficacy of a pneumococcal conjugate vaccine against acute otitis media. N Engl J Med.
+2001;344(6):403-409.
+35. Veenhoven R, Bogaert D, Uiterwaal C, et al. Effect
+of conjugate pneumococcal vaccine followed by polysaccharide pneumococcal vaccine on recurrent acute
+otitis media: a randomised study. Lancet. 2003;
+361(9376):2189-2195.
+36. Marcy M, Takata G, Chan LS, et al. Management of Acute Otitis Media: Evidence Report/
+Technology Assessment No. 15. Rockville, MD: Agency
+for Healthcare Research and Quality; 2001. Publication 01-E010.
+37. van Buchem FL, Dunk JH, van’t Hof MA. Therapy
+of acute otitis media: myringotomy, antibiotics, or neither? a double-blind study in children. Lancet. 1981;
+2(8252):883-887.
+38. Halsted C, Lepow ML, Balassanian N, Emmerich
+J, Wolinsky E. Otitis media: microbiology and evaluation of therapy. Ann N Y Acad Sci. 1967;145
+(2):372-378.
+39. Laxdal OE, Merida J, Jones RH. Treatment of acute
+otitis media: a controlled study of 142 children. Can
+Med Assoc J. 1970;102(3):263-268.
+40. Howie VM, Ploussard JH. Efficacy of fixed combination antibiotics versus separate components in otitis media: effectiveness of erythromycin estrolate, triple
+sulfonamide, ampicillin, erythromycin estolate-triple
+sulfonamide, and placebo in 280 patients with acute
+otitis media under two and one-half years of age. Clin
+Pediatr (Phila). 1972;11(4):205-214.
+41. Burke P, Bain J, Robinson D, Dunleavey J. Acute
+red ear in children: controlled trial of non-antibiotic
+treatment in general practice. BMJ. 1991;303(6802):
+558-562.
+42. Kaleida PH, Casselbrant ML, Rockette HE, et al.
+Amoxicillin or myringotomy or both for acute otitis media: results of a randomized clinical trial. Pediatrics.
+1991;87(4):466-474.
+43. Damoiseaux RA, van Balen FA, Hoes AW, Verheij
+TJ, de Melker RA. Primary care based randomised,
+double blind trial of amoxicillin versus placebo for acute
+otitis media in children aged under 2 years. BMJ. 2000;
+320(7231):350-354.
+44. Le Saux N, Gaboury I, Baird M, et al. A randomized, double-blind, placebo-controlled noninferiority
+trial of amoxicillin for clinically diagnosed acute otitis
+media in children 6 months to 5 years of age. CMAJ.
+2005;172(3):335-341.
+45. Little P, Moore M, Warner G, Dunleavy J,
+Williamson I. Longer term outcomes from a randomised trial of prescribing strategies in otitis media.
+Br J Gen Pract. 2006;56(524):176-182.
+46. Little P, Gould C, Williamson I, Moore M, Warner
+G, Dunleavey J. Pragmatic randomised controlled trial
+of two prescribing strategies for childhood acute otitis media. BMJ. 2001;322(7282):336-342.
+47. Spiro DM, Tay KY, Arnold DH, Dziura JD, Baker
+MD, Shapiro ED. Wait-and-see prescription for the
+treatment of acute otitis media: a randomized controlled trial. JAMA. 2006;296(10):1235-1241.
+48. Neumark T, Mölstad S, Rose´ n C, et al. Evaluation of phenoxymethylpenicillin treatment of acute otitis media in children aged 2-16. Scand J Prim Health
+Care. 2007;25(3):166-171.
+49. McCormick DP, Chonmaitree T, Pittman C, et al.
+Nonsevere acute otitis media: a clinical trial comparing outcomes of watchful waiting versus immediate
+antibiotic treatment. Pediatrics. 2005;115(6):1455-
+1465.
+50. Bartlett JG. Clinical practice: antibioticassociated diarrhea. N Engl J Med. 2002;346(5):
+334-339.
+51. Adcock BB, Rodman DP. Ampicillin-specific rashes.
+Arch Fam Med. 1996;5(5):301-304.
+52. Geyman JP, Erickson S. The ampicillin rash as a
+diagnostic and management problem: case reports and
+literature review. J Fam Pract. 1978;7(3):493-496.
+53. deShazo RD, Kemp SF. Allergic reactions to drugs
+and biologic agents. JAMA. 1997;278(22):1895-
+1906.
+54. Berman S, Lauer BA. A controlled trial of cefaclor
+ACUTE OTITIS MEDIA IN CHILDREN
+2168 JAMA, November 17, 2010—Vol 304, No. 19 (Reprinted) ©2010 American Medical Association. All rights reserved.
+Downloaded From: http://jama.jamanetwork.com/ by a Purdue University User on 05/19/2015
+versus amoxicillin for treatment of acute otitis media
+in early infancy. Pediatr Infect Dis. 1983;2(1):30-
+33.
+55. Casellas JMJ Jr, Israele V, Marı´n M, et al.
+Amoxicillin-sulbactam versus amoxicillin-clavulanic
+acid for the treatment of non-recurrent-acute otitis
+media in Argentinean children. Int J Pediatr
+Otorhinolaryngol. 2005;69(9):1225-1233.
+56. McLinn SE. Cefaclor in treatment of otitis media
+and pharyngitis in children. Am J Dis Child. 1980;
+134(6):560-563.
+57. Leigh AP, Robinson D, Millar ED. A general practice comparative study of a new third-generation oral
+cephalosporin, cefixime, with amoxycillin in the treatment of acute paediatric otitis media. Br J Clin Pract.
+1989;43(4):140-143.
+58. Owen MJ, Anwar R, Nguyen HK, Swank PR,
+Bannister ER, Howie VM. Efficacy of cefixime in the
+treatment of acute otitis media in children. Am J Dis
+Child. 1993;147(1):81-86.
+59. Kara CO, Ozuer MZ, Kilic I, Yalcin AN, Ergin H.
+Comparison of amoxicillin with second and
+third generation cephalosporins in the treatment
+of acute otitis media. Infez Med. 1998;6(2):
+93-95.
+60. Jacobson JA, Metcalf TJ, Parkin JL, Wenerstrom
+LG, Matsen JM. Evaluation of cefaclor and amoxycillin in the treatment of acute otitis media. Postgrad Med J. 1979;55(suppl 4):39-41.
+61. Subba Rao SD, Macias MP, Dillman CA, Ramos
+BD, Kierszenbaum JS, Soliman AE; Augmentin 415
+Study Group. A randomized, observer-blind trial
+of amoxicillin/clavulanate versus cefaclor in the
+treament of children with acute otitis media.
+J Chemother. 1998;10(6):460-468.
+62. Dagan R, Johnson CE, McLinn S, et al. Bacteriologic and clinical efficacy of amoxicillin/
+clavulanate vs. azithromycin in acute otitis media.
+Pediatr Infect Dis J. 2000;19(2):95-104.
+63. Cohen R, Levy C, Boucherat M, Langue J, de
+La Rocque F. A multicenter, randomized, doubleblind trial of 5 versus 10 days of antibiotic therapy
+for acute otitis media in young children. J Pediatr.
+1998;133(5):634-639.
+64. Hoberman A, Paradise JL, Burch DJ, et al.
+Equivalent efficacy and reduced occurrence of diarrhea from a new formulation of amoxicillin/
+clavulanate potassium (Augmentin) for treatment
+of acute otitis media in children. Pediatr Infect
+Dis J. 1997;16(5):463-470.
+65. Simon MW. Five- vs 10-day treatment of acute
+otitis media with ceftibuten in infants and children.
+Adv Ther. 1997;14(6):312-317.
+66. Casey JR, Adlowitz DG, Pichichero ME. New
+patterns in the otopathogens causing acute otitis
+media six to eight years after introduction of pneumococcal conjugate vaccine. Pediatr Infect Dis J.
+2010;29(4):304-309.
+67. Rosenfeld RM, Kay D. Natural history of
+untreated otitis media. Laryngoscope. 2003;113
+(10):1645-1657.
+68. Berlin JA; University of Pennsylvania Metaanalysis Blinding Study Group. Does blinding of
+readers affect the results of meta-analyses? Lancet.
+1997;350(9072):185-186.
+69. Pichichero ME, Casey JR. Diagnostic inaccuracy
+and subject exclusions render placebo and observational studies of acute otitis media inconclusive.
+Pediatr Infect Dis J. 2008;27(11):958-962.
+70. Chan LS, Takata GS, Shekelle P, Morton SC,
+Mason W, Marcy SM. Evidence assessment of
+management of acute otitis media, II: research gaps
+and priorities for future research. Pediatrics. 2001;
+108(2):248-254.
+71. Cohen J. Statistical Power Analysis for the
+Behavioral Sciences. Rev ed. New York, NY: Academic Press Inc; 1977:179-213.
+The educator is like a good gardener, whose function is to make available healthy, fertile soil in which
+a young plant can grow strong roots; through these it
+will extract the nutrients it requires. The young plant
+will develop in accordance with its own laws of being,
+which are far more subtle than any human can fathom,
+and will develop best when it has the greatest possible freedom to choose exactly the nutrients it needs.
+—E. F. Schumacher (1911-1977)
+ACUTE OTITIS MEDIA IN CHILDREN
+©2010 American Medical Association. All rights reserved. (Reprinted) JAMA, November 17, 2010—Vol 304, No. 19 2169
+Downloaded From: http://jama.jamanetwork.com/ by a Purdue University User on 05/19/2015

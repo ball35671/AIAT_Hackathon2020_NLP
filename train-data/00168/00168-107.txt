@@ -1,0 +1,882 @@
+Seasonal Influenza Vaccination during Pregnancy and the Risks
+of Preterm Delivery and Small for Gestational Age Birth
+Katherine A. Ahrens,a,b Carol Louik,a,b Stephen Kerr,a Allen A. Mitchell,a,b Martha M. Werlera,b
+a
+Slone Epidemiology Center,
+b
+Epidemiology Department, School of Public Health, Boston University, Boston, MA
+Abstract
+Background: Influenza vaccination is routinely recommended for pregnant women, yet information on perinatal
+outcomes is sparse.
+Methods: We investigated the associations between trivalent (seasonal) influenza vaccination during pregnancy and
+the risks of preterm delivery (PTD, live birth <37 weeks gestation) and small for gestational age birth (SGA, <10th
+percentile in weight for sex-specific gestational age) during the influenza seasons 2006–07 through 2009–10. The
+study population included 1619 mothers of live-born, non-malformed singleton infants interviewed as part of the
+Slone Epidemiology Center’s Birth Defects Study. Associations between influenza vaccination and PTD and SGA
+were assessed using Cox and logistic regression models, respectively, with propensity scores used to adjust for
+confounding. Women vaccinated against pandemic H1N1 were excluded from the analysis.
+Results: Influenza vaccination during pregnancy showed a near null association with PTD for influenza seasons
+2006–07 through 2008–09 compared with unvaccinated women [adjusted hazard ratios (aHR) ranged from 0.79
+[95% confidence interval (CI) 0.28, 2.21] in 2007–08 to 1.08 [95% CI: 0.40, 2.95] in 2008–09]. For 2009–10, the risk of
+PTD was higher in vaccinated women (aHR, 7.81 [95% CI: 2.66, 23.0]). Influenza vaccination was not associated
+with appreciable risks for SGA for all seasons with sufficient numbers of exposed SGA.
+Conclusion: Though limited by study size, these findings add support to previous observations of little or no
+increased risk of PTD or SGA associated with seasonal influenza vaccination for three of the four influenza seasons
+in our study. The increased risk of PTD observed for the 2009–10 influenza season warrants further investigation.
+Keywords: infant, small for gestational age, influenza, pregnancy, preterm birth, vaccination.
+The Centers for Disease Control and Prevention
+and the American Congress of Obstetricians and
+Gynecologists recommend seasonal influenza vaccination for all women who will be pregnant during the
+influenza season in order to reduce their considerably
+increased risk of influenza-related mortality and
+morbidity.1–3 Nonetheless, vaccination rates among
+pregnant women in the US remain lower than ideal.4,5
+Pregnant women may be reluctant to be vaccinated
+because of concern that the vaccine may harm them or
+their babies.4,6,7 There is limited evidence regarding
+risks associated with influenza vaccination during
+pregnancy, partly because pregnant women are typically excluded from clinical trials,8,9 leaving a gap in
+knowledge that can affect vaccine uptake.
+Two of the most common adverse pregnancy outcomes are preterm delivery (PTD) and small for gestational age birth (SGA). PTD (live birth before 37
+weeks gestation) and SGA (<10th percentile in weight
+for gestational age) are associated with increased perinatal mortality and both short- and long-term
+morbidity.10–12 Previous studies of seasonal influenza
+vaccination during pregnancy have found null or protective associations for PTD and SGA,13,14 but they
+have often relied on medical records for exposure
+assessment, collected limited information on the gestational timing of the vaccination, studied few first trimester exposures, and/or have not evaluated risks by
+influenza season. The last concern is important since
+antigens and manufacturing processes vary by season
+and risks may similarly vary.
+We sought to examine the associations between seasonal influenza vaccination [and not pandemic H1N1
+(pH1N1) vaccination] during pregnancy and the risks
+of PTD and SGA among a multiyear retrospective
+Correspondence:
+Martha M. Werler, Slone Epidemiology Center, Boston
+University, 1010 Commonwealth Ave., Boston, MA 02215, USA.
+E-mail: werler@bu.edu
+bs_bs_banner
+498 doi: 10.1111/ppe.12152
+© 2014 John Wiley & Sons Ltd
+Paediatric and Perinatal Epidemiology, 2014, 28, 498–509
+cohort of pregnancies resulting in live-born, nonmalformed singleton infants. Exposure to influenza
+vaccination during pregnancy was obtained by selfreport, thereby capturing vaccinations received both
+inside and outside traditional medical provider settings. Vaccination date was also collected, permitting
+consideration of the gestational timing of vaccination.
+Methods
+Study population
+The Birth Defects Study (BDS), also known as the
+Pregnancy Health Interview Study, is an ongoing
+case-control study conducted by the Slone Epidemiology Center at Boston University since 1976.15,16 Cases
+include infants diagnosed with at least one major
+structural malformation. Controls include live-born
+infants without any malformations. For the study
+years included in this analysis (2006–10), malformed
+infants and controls were identified from study hospitals serving the areas surrounding Philadelphia and
+San Diego, as well as Rhode Island, Southern New
+Hampshire, and (via the New York State Congenital
+Malformations Registry) parts of New York State. In
+Massachusetts, cases were identified through its
+statewide birth defect registry and controls from a
+population-based random sample of births. This study
+has been approved by the Institutional Review Boards
+of Boston University and relevant participating institutions, as appropriate.
+Influenza vaccination exposure
+Mothers of cases and controls were interviewed by
+telephone within 6 months of pregnancy completion
+by a study nurse about demographic, reproductive,
+medical and behavioural factors, including the dates
+of their last menstrual period (LMP) and delivery.
+Beginning in July 2006, mothers were asked if they
+received any vaccines, ‘such as tetanus, pertussis,
+whooping cough, meningitis, flu shot or any other
+vaccine’ between 2 months before their LMP and the
+end of the pregnancy. The type and date of vaccination
+were ascertained, as well as the setting where the
+vaccine was administered. If the exact date of vaccination was not known, the respondent was asked if it
+was the beginning, middle, or end of the month and
+the 5th, 15th, or 25th day of that month was recorded,
+respectively. Women who were only able to specify a
+more general range of dates provided the start and
+end dates of this range. All women who reported
+receiving an influenza vaccination during pregnancy
+were asked to provide a release to enable study staff
+to obtain their vaccine record; approximately 60% of
+women complied with this request.
+Reports of seasonal trivalent influenza vaccination
+were categorised according to the timing of receipt:
+anytime during pregnancy (LMP to day before delivery), first trimester (LMP through 14 weeks), second
+trimester (greater than 15 through 28 weeks), and
+third trimester (greater than 29 weeks to day before
+delivery). To maximise the accuracy of gestational
+timing of exposure, we limited our analyses to women
+who could be assigned a single trimester of exposure,
+using the hierarchy of the date from the vaccine provider, then the subject’s reported vaccination date, and
+then the mid-point of the subject’s reported exposure
+date range if that date range spanned only one trimester. Influenza season was determined by vaccination
+date between August 1 and July 31 of the following
+year (e.g. a vaccination date of 15 September 2007 or
+3 March 2008 was considered a ‘2007–08’ influenza
+season exposure). To ensure equal opportunity for
+exposure among non-exposed subjects, we included
+only non-exposed subjects whose LMP dates fell
+within the range of LMP dates reported by exposed
+subjects; the reference group for all analyses was
+women without reports of any influenza vaccination
+(which included pH1N1 vaccination for the 2009–10
+season) between 2 months before and the end of the
+pregnancy.
+Influenza-like illness (ILI)
+In July 2009, assessment of ILI during pregnancy was
+added to the BDS interview by asking the mother if
+she had any ‘flu or flu-like illness’ during pregnancy.
+If she replied affirmatively, further details were
+obtained such as start and end date, duration, specific
+symptoms, test results, and medication used. For this
+analysis, ILI was defined as any self-report of flu or
+flu-like illness.
+Pregnancy outcomes
+Gestational age at delivery and birthweight were
+obtained by self-report from the mother during the
+interview. Gestational age was determined by calculating the difference between the LMP and the day of
+Safety of influenza vaccination during pregnancy 499
+© 2014 John Wiley & Sons Ltd
+Paediatric and Perinatal Epidemiology, 2014, 28, 498–509
+delivery. If the self-reported LMP date differed by
+more than 7 days from the LMP date calculated from
+the reported ultrasound-determined due date, then
+the latter LMP date was used to calculate gestational
+age. If the self-reported LMP date differed by 7 days
+or less from the LMP calculated from the due date, we
+chose to use the self-reported LMP date because it was
+a date familiar to the mother and raised less confusion
+during the course of the interview. SGA was based on
+the sex-specific distribution of birthweights of infants
+born in the US in 1999–2000.17,18
+Study population
+Because PTD and SGA are associated with birth
+defects, we restricted our study to mothers of liveborn non-malformed infants (the BDS control group).
+To estimate seasonal influenza coverage by season
+and study site, we included women who had opportunity for prenatal exposure to seasonal influenza vaccines during the four seasons for which we had
+complete information: 2006–07, 2007–08, 2008–09, and
+2009–10.
+For the risk analyses, we excluded 385 women who
+reported exposure to the pH1N1 monovalent vaccine
+in 2009–10 (either alone or in combination with seasonal influenza vaccination) or pH1N1 trivalent
+vaccine in 2010–11, so that exposure and referent
+groups were consistent across study years; further,
+our findings for pH1N1 have been published.19 Additional exclusions for the risk analyses included:
+known infant deaths, which were not systematically
+ascertained (n = 2); women with multifetal gestations
+(n = 47); subjects with missing birthweight (n = 6); and
+reports of implausible gestational age (<25 or >42
+weeks gestation, n = 2). Analyses also excluded
+women for whom we could either not distinguish seasonal from pH1N1 vaccination in 2009–10 (n = 7) or
+not assign a trimester of exposure based on their date
+ranges (n = 78), but for a sensitivity analysis, these
+women were included.
+Statistical analysis
+We considered our study participants to constitute a
+retrospective cohort of completed pregnancies.20,21
+Thus, we modelled the hazard of PTD using Cox
+regression with influenza vaccination as a timevarying exposure; gestational age, in days beginning
+at LMP, was the timescale.22,23 Full-term pregnancies
+were censored at 37 weeks gestation and women with
+vaccination later than 37 weeks were excluded
+(n = 24). Models were run separately by trimester of
+vaccination. Linear regression models were used to
+evaluate the difference in gestational length (in days)
+by exposure status. The outcome of SGA was a
+dichotomous, compound measure that incorporated
+gestational age; therefore, logistic regression was
+chosen as the appropriate regression model. These
+models were also run separately by trimester of vaccination and included influenza vaccinations up until
+the day before delivery.
+Propensity scores were used as covariates in the
+regression analysis to adjust for confounding and variable selection for the propensity score models was
+based on c-statistics. Variables included in the propensity score were maternal age at conception, race, education, family income, marital status, parity, study
+centre, pre-pregnancy body mass index, family
+history of birth defects, pregnancy intention,
+periconceptional folic acid use, alcohol use, smoking,
+asthma, diabetes, calendar quarter of LMP, infertility
+treatment, treatment for high blood pressure or
+toxemia, inter-pregnancy interval, illicit drug use, gestational weight gain, prenatal care initiation in first trimester, history of miscarriage, and employment
+outside the home. The BDS interview does not identify history of PTD. Inclusion of additional factors and
+several two-way interaction terms between smoking,
+asthma, prenatal care initiation, and pregnancy intention did not affect the score’s ability to predict exposure (i.e. c-statistic changed <1%). Adjusted analyses
+were only conducted when the number of exposed
+cases was four or greater.
+For 2009–10, the only influenza season for which we
+had this information, reports of ILI were tallied by
+seasonal influenza vaccination exposure status and an
+odds ratio was calculated. For women vaccinated
+against seasonal influenza, only reports of ILI occurring after vaccination were included. The association
+between ILI and preterm birth was calculated as an
+odds ratio.
+All analyses were conducted with SAS 9.2 (SAS
+Institute, Cary, NC, USA).
+Results
+Overall, 2136 mothers of live-born non-malformed
+infants were included in estimates of seasonal influenza vaccination coverage for influenza seasons
+500 K. A. Ahrens et al.
+© 2014 John Wiley & Sons Ltd
+Paediatric and Perinatal Epidemiology, 2014, 28, 498–509
+2006–07 through 2009–10. For our analytical cohort of
+pregnancy outcomes, the previously mentioned study
+exclusions were applied (including exclusion of 385
+women vaccinated against monovalent or trivalent
+pH1N1), resulting in 1619 study subjects. The majority
+of our study participants were white (60%, 964/1619),
+25 years or older at time of conception (74%, 1203/
+1619), and had at least a high school education (89%,
+1439/1619; Table 1). When we examined the demographic characteristics of women, by vaccine status,
+according to season, we observed differences for the
+2009–10 season in race, age, study site, and calendar
+quarter of LMP among vaccinated women (Supporting Information Tables S1–6).
+Influenza vaccination
+Thirty per cent (637/2136) of women reported seasonal influenza vaccination during pregnancy for the
+four seasons collectively; for the 2006–07 through
+2009–10 seasons, coverage was 18.4% (92/499), 19.6%
+(140/715), 19.5% (145/743), and 32.7% (261/799),
+respectively (one woman reported seasonal influenza
+vaccination for two consecutive seasons while pregnant; Figure 1). Coverage was on average higher in
+Massachusetts (38%) than other study sites (Philadelphia 25%, San Diego 23%, New York 33%). For our
+analytic cohort, in which gestational timing of vaccination was assessed, seasonal influenza vaccination was
+most commonly received during the second trimester
+of pregnancy (41%, 138/334), followed by the third
+trimester (34%, 114/334) and first trimester (25%,
+82/334); 7% (24/334) of women reported an influenza
+vaccination after 37 weeks gestation.
+Preterm delivery
+In our analytical cohort, 6.6% (n = 107/1619) of pregnancies resulted in PTD (Table 2). Gestational age at
+delivery ranged from 25 to 42 weeks (median, 39). In
+all seasons collectively, compared with women who
+reported no influenza vaccination during pregnancy,
+those who were vaccinated at any time during pregnancy had an adjusted hazard ratio (aHR) of 1.37,
+with a 95% confidence interval (CI) that included the
+null. For vaccination during the first, second, and third
+trimesters, aHRs were 0.66, 1.46, and 1.53, respectively, with all CIs including the null. Findings
+changed minimally when we included as exposed the
+85 women with either unknown influenza vaccination
+type or with a reported vaccination date range that
+spanned more than one trimester (data not shown).
+Stratification by influenza season (Table 3) revealed
+close to null associations with PTD for the 2006–07
+through 2008–09 seasons (aHRs ranged from 0.79 in
+2007–08 to 1.08 in 2008–09; all CIs included the null).
+For the 2009–10 influenza season, the risk of PTD was
+higher in vaccinated women (aHR = 7.81, [95% CI:
+2.66, 23.0]); this risk was greatest for third trimester
+exposure (aHR = 9.78, [95% CI: 2.64, 36.2]; Supporting
+Information Tables S1–6). When we restricted the
+2009–10 exposed group to the 15 women whose vaccination was confirmed by medical record, the aHR for
+exposure anytime during pregnancy remained largely
+unchanged (aHR = 7.32, [95% CI: 1.81, 29.6]). When
+we included the 154 women vaccinated against both
+seasonal and pH1N1 influenza that year, we observed
+an attenuated, but still elevated, risk of PTD
+(aHR = 3.54, [95% CI: 1.49, 8.41]; Supporting Information Tables S1–6). Overall, the average difference in
+gestational length of pregnancy between women vaccinated for seasonal influenza alone and those
+unvaccinated was −0.32 days [95% CI: −1.86, 1.23] and
+for 2009–10, it was −6.22 days [95% CI:−10.5, −1.94]
+(Supporting Information Tables S1–6).
+Because we had no information about prior PTD,
+we repeated the analysis for 2009–10 stratified by
+parity. In primiparous women, the crude HR fell to
+4.82 [95% CI 1.20, 19.3], but there were too few (n = 3)
+exposed PTD subjects to permit an adjusted analysis;
+in multiparous women the crude HR increased to 16.7
+[95% CI 5.39, 52.0].
+SGA
+In our analytical cohort, 10.6% (172/1619) of infants
+were classified as SGA (Table 2). Compared with
+women reporting no influenza vaccination during
+pregnancy, those vaccinated at any time during pregnancy had no increased risk for SGA (aOR = 1.03,
+with a 95% CI that included the null) (Table 2).
+Women with influenza vaccination during the first,
+second, and third trimesters had aORs of 0.44, 1.53,
+and 1.00, respectively; all CIs included the null. Estimates of association with SGA varied for the 2007–08
+through the 2009–10 seasons (Table 4); aORs ranged
+from 0.60 in 2009–10 to 1.40 in 2007–08, with all CIs
+including the null. AORs for the 2006–07 season could
+not be estimated because there were too few exposed
+SGA.
+Safety of influenza vaccination during pregnancy 501
+© 2014 John Wiley & Sons Ltd
+Paediatric and Perinatal Epidemiology, 2014, 28, 498–509
+Table 1. Maternal characteristics, influenza vaccination during pregnancy, preterm delivery (PTD), and small for gestational age (SGA)
+among mothers of non-malformed infants
+All Influenza vaccinationa PTD SGA
+n % n % n % n %
+All 1619 100 334 20.6 107 6.6 172 10.6
+Maternal race
+White 964 59.5 242 25.1 40 4.1 60 6.2
+Black 170 10.5 17 10.0 15 8.8 33 19.4
+Hispanic or Latina 329 20.3 55 16.7 39 11.9 53 16.1
+Other 151 9.3 20 13.2 13 8.6 26 17.2
+Missing 5 0.3 0 0.0 0 0.0 0 0.0
+Maternal age (years)
+<20 120 7.4 13 10.8 7 5.8 18 15.0
+20–24 290 17.9 38 13.1 21 7.2 42 14.5
+25–29 440 27.2 98 22.3 28 6.4 44 10.0
+30–34 485 30.0 125 25.8 29 6.0 39 8.0
+≥35 278 17.2 59 21.2 21 7.6 29 10.4
+Missing 6 0.4 1 16.7 1 16.7 0 0.0
+Maternal educational attainment
+Less than grammar 42 2.6 6 14.3 3 7.1 9 21.4
+Grammar school 138 8.5 19 13.8 14 10.1 25 18.1
+High school 650 40.1 98 15.1 48 7.4 75 11.5
+College 787 48.6 211 26.8 42 5.3 63 8.0
+Missing 2 0.1 0 0 0 0.0 0 0.0
+Body mass index (kg/m2
+)
+<18.5 61 3.8 12 19.7 7 11.5 9 14.8
+18.5–<25 935 57.8 204 21.8 53 5.7 103 11.0
+25–<30 330 20.4 69 20.9 24 7.3 27 8.2
+≥30 235 14.5 40 17.0 19 8.1 25 10.6
+Missing 58 3.6 9 15.5 4 6.9 8 13.8
+Study centre
+Boston 484 29.9 131 27.1 37 7.6 51 10.5
+New York 240 14.8 56 23.3 13 5.4 13 5.4
+Philadelphia 521 32.2 94 18.0 35 6.7 61 11.7
+San Diego 374 23.1 53 14.2 22 5.9 47 12.6
+Calendar quarter of LMP
+January–March 455 28.1 97 21.3 32 7.0 47 10.3
+April–June 437 27.0 120 27.5 35 8.0 46 10.5
+July–September 380 23.5 87 22.9 22 5.8 37 9.7
+October–December 347 21.4 30 8.6 18 5.2 42 12.1
+By flu seasonb
+2006–07 439 100.0 74 16.8 33 7.6c 42 9.6d
+2007–08 589 100.0 107 18.2 43 7.4c 62 10.5d
+2008–09 537 100.0 112 20.9 29 5.5c 66 12.3d
+2009–10 387 100.0 41 10.6 21 5.6c 37 9.6d
+a
+This represents the per cent vaccinated for seasonal influenza within our analytic cohort, not the prevalence of seasonal influenza vaccination among all
+women surveyed during study years (see Figure 1).
+b
+Note ‘by flu season’ columns do not sum to totals because 333 women were included as unexposed in two influenza seasons: (80 in 2006–07 and 2007–08,
+132 in 2007–08 and 2008–09, and 121 in 2008–09 and 2009–10; these included 15 PTD, 31 SGA, 4 PTD and SGA, and 283 normal births).
+c
+This represents the per cent PTD within our analytic cohort, not the risk of PTD among all women surveyed during study years. The overall risks of PTD
+by influenza season were 7.8% (39/499) in 2006–07, 7.7% (55/715) in 2007–08, 7.0% (52/743) in 2008–09, and 5.6% (45/799) in 2009–10.
+dThis represents the per cent SGA within our analytic cohort, not the prevalence of SGA among all women surveyed during study years. The overall risks
+of SGA by influenza season were 10.8% (54/499) in 2006–07, 11.3% (81/715) in 2007–08, 12.0% (89/743) in 2008–09, and 9.3% (74/799) in 2009–10.
+PTD, preterm delivery; SGA, small for gestational age according to reference birthweight percentiles; kg, kilogram; m, metre; LMP, last menstrual period.
+502 K. A. Ahrens et al.
+© 2014 John Wiley & Sons Ltd
+Paediatric and Perinatal Epidemiology, 2014, 28, 498–509
+ILI and preterm delivery
+For the 2009–10 season, ILI during pregnancy was
+reported by 3.1% (1/32) women vaccinated against
+seasonal influenza and 6.4% (22/346) of women not
+vaccinated (OR = 0.48, [95% CI 0.01, 3.16]). The risk of
+preterm birth was 4.3% (1/23) among women reporting ILI and 5.6% (20/355) among women not reporting ILI (OR = 0.76, [95% CI 0.02, 5.24]).
+Comment
+Among a cohort of pregnancies resulting in singleton,
+live-born, non-malformed infants, influenza vaccination at any time during pregnancy showed a modest
+but unstable positive association with PTD. This
+overall risk was entirely caused by an almost
+eightfold increased risk in the 2009–10 season, with a
+CI whose lower bound appreciably excluded the
+null. For SGA, there was no evidence of an
+appreciably increased risk overall or for all seasons
+for which there were sufficient data to estimate risk.
+Influenza vaccination coverage among pregnant
+women increased from 2006–07 through 2009–10,
+which is consistent with national estimates for same
+period.24
+With the exception of our observed risk for PTD in
+the 2009–10 season, our study’s results are in agreement with previous null findings from other studies
+focused on pre-pH1N1 seasonal influenza vaccination
+in pregnancy.25–29 However, they are not in agreement
+with recently observed protective associations for
+these outcomes.30,31 Our finding of an almost eightfold
+increased hazard for PTD associated with the 2009–10
+seasonal influenza vaccination has not been previously
+reported. However, none of these previous studies
+Massachuses Philadelphia San Diego New York
+2006–07 21.2% 11.7% 15.8% 27.9%
+2007–08 28.9% 12.2% 2.8% 27.5%
+2008–09 22.7% 19.2% 18.1% 17.5%
+2009–10 42.7% 30.0% 28.1% 30.6%
+0.0%
+5.0%
+10.0%
+15.0%
+20.0%
+25.0%
+30.0%
+35.0%
+40.0%
+45.0%
+Seasonal influenza vaccinaon coverage during pregnancy
+Figure 1. Prevalence of seasonal influenza vaccination by study site and influenza season among mothers of non-malformed infants
+participating in the Slone Epidemiology Center’s Birth Defects Study, 2006–10. Seasonal coverage was estimated among 2136 women
+during the following influenza seasons: 2006–07 (n = 499), 2007–08 (n = 715), 2008–09 (n = 743), and 2009–10 (n = 799). Individual season
+numbers do not sum to total because of non-mutually exclusive influenza season exposure.
+Safety of influenza vaccination during pregnancy 503
+© 2014 John Wiley & Sons Ltd
+Paediatric and Perinatal Epidemiology, 2014, 28, 498–509
+included an examination of the seasonal trivalent
+vaccine for the 2009–10 influenza season.
+We considered a number of possible explanations
+for our observed increased risk of PTD in the 2009–10
+season. Over half of women vaccinated against influenza that year received the pH1N1 vaccine and were
+therefore excluded from our analysis, introducing the
+possibility of significant bias. In a post-hoc analysis,
+we included women vaccinated against both seasonal
+and pH1N1 influenza that year and observed an
+attenuated, but still elevated, risk of PTD. We also
+found differences in the demographic characteristics
+of women vaccinated against only seasonal influenza
+vaccine during the 2009–10 season compared with
+those vaccinated in previous years. However, our propensity score analysis adjusted for all of these demographic factors. It is also important to note that we did
+not have information on history of PTD; if such a
+history were more common among subjects in the
+2009–10 season compared with previous seasons, it
+could confound the association we observed, as
+history of PTD could both influence the decision to
+get vaccinated and the risk of PTD in the index pregnancy. However, when we limited the 2009–10 analysis to primiparous women who could not have had a
+prior PTD, the risk, though attenuated, was still
+elevated. Unfortunately, numbers were too small (only
+three exposed PTD) to allow adjustment for other
+possible confounders. The question of residual
+confounding by PTD history remains unresolved
+among the multiparous women. Bias caused by
+misclassification is also possible, though we previously found that maternal reports of vaccination
+showed high positive and negative predictive values
+compared with vaccination records,32 and restricting
+the analysis to exposures confirmed by medical record
+had little effect on the overall increased risk. Finally,
+the elevated risk we observed for PTD in 2009–10 was
+based on only nine exposed cases overall and five in
+the third trimester, raising the possibility that our
+Table 2. Association of influenza vaccination during pregnancy with the risks of preterm delivery (PTD) and small for gestational age
+(SGA) among mothers of non-malformed infants
+Influenza vaccination timinga
+All PTDb Unadjusted Adjustedc
+n % n % HR [95% CI] HR [95% CI]
+All 1595 100.0 107 6.7
+None 1285 80.6 83 6.5
+Anytime during pregnancy 310 19.4 24 7.7 1.30 [0.83, 2.05] 1.37 [0.84, 2.23]
+First trimester 82 5.1 4 4.9 0.74 [0.27, 2.02] 0.66 [0.22, 1.97]
+Second trimester 138 8.7 13 9.4 1.49 [0.83, 2.67] 1.46 [0.75, 2.84]
+Third trimester 90 5.6 7 7.8 1.55 [0.71, 3.36] 1.53 [0.66, 3.56]
+All SGAd Unadjusted Adjustedc
+n % n % OR [95% CI] OR [95% CI]
+All 1619 100.0 172 10.6
+None 1285 79.4 142 11.1
+Anytime during pregnancy 334 20.6 30 9.0 0.79 [0.53, 1.20] 1.03 [0.66, 1.62]
+First trimester 82 5.1 4 4.9 0.41 [0.11, 1.13] 0.44 [0.15, 1.29]
+Second trimester 138 8.5 16 11.6 1.06 [0.61, 1.83] 1.53 [0.81, 2.88]
+Third trimester 114 7.0 10 8.8 0.77 [0.40, 1.52] 1.00 [0.48, 2.09]
+a
+Represents the unvaccinated and the vaccinated against seasonal influenza only; 385 vaccinated against pandemic H1N1 were excluded
+from the analysis (including 20 PTD and 32 SGA).
+b
+This represents the per cent preterm birth within our analytic cohort, not the risk of PTD among all women surveyed during study
+years (7.2 %;153/2136).
+c
+Adjusted for propensity score.
+dThis represents the per cent SGA within our analytic cohort, not the prevalence of SGA among all women surveyed during study years
+(10.6 %; 232/2136).
+PTD, preterm delivery; HR, hazard ratio; CI, confidence interval; OR, odds ratio; SGA, small for gestational age according to reference
+birthweight percentiles.
+504 K. A. Ahrens et al.
+© 2014 John Wiley & Sons Ltd
+Paediatric and Perinatal Epidemiology, 2014, 28, 498–509
+findings may be due to chance, though this seems
+unlikely based on the lower confidence bound of 2.7.
+Strengths of our study include the collection of selfreported influenza vaccination exposure information
+and our rigorous analytical design. As 24% of influenza vaccinations in our study were provided outside
+of traditional medical settings (e.g. pharmacies, government flu clinics, schools, workplaces), studies that
+rely solely on vaccinations recorded in the medical
+record can result in exposure misclassification, which
+could bias estimates towards the null.33 Where available, we were also able to use vaccination records to
+verify maternal reports and obtain accurate dates. Our
+comprehensive interview provided data on over 25
+maternal risk factors that enabled us to create and
+evaluate propensity scores for our adjusted analyses.
+Further, we aligned pregnancies according to LMP, so
+that the unvaccinated comparison group had the same
+window of opportunity for influenza vaccination by
+trimester of pregnancy. In contrast, other studies have
+selected the unvaccinated comparison group based on
+the time of delivery, which would be affected by the
+gestational length of the pregnancy.26,34–36
+These considerations notwithstanding, it is noteworthy that the elevated risk for PTD was observed
+only in the one season (2009–10) when two influenza
+vaccines were available – the seasonal and pH1N1
+strains. With the exception of two studies, other investigations related to that season have focused on
+pH1N1, without specific consideration of the risks
+that might be associated with that year’s seasonal
+vaccine. The Vaccines and Medications in Pregnancy
+Surveillance System, a collaborative effort involving a
+pregnancy registry cohort (conducted by the Organization of Teratogen Information Specialists) and our
+case-control BDS, studied the pH1N1 vaccine in pregnancy, including both the 2009–10 season, when the
+pH1N1 was given as a separate monovalent vaccine,
+and subsequent years, when it was combined with the
+seasonal vaccine. The cohort arm identified a threefold
+increase in PTD risk associated with exposure to the
+pH1N1 vaccine in the years 2009–12 compared with
+women not exposed to any vaccine37 (numbers were
+insufficient to consider risks for 2009–10 seasonal
+vaccine alone); in analyses of BDS data, for the
+2009–10 season, we found a comparable threefold risk
+associated with exposure to the pH1N1 vaccine,
+whether or not women were also exposed to that
+year’s seasonal vaccine;19 a subanalysis confined to the
+small proportion of women who received the pH1N1
+Table 3. Association of influenza vaccination during pregnancy with the risk of preterm delivery (PTD) among mothers of nonmalformed infants, stratified by influenza season
+Influenza vaccination timing
+All PTD Unadjusted Adjusteda
+n % n % HR [95% CI] HR [95% CI]
+2006–07 Season
+All 436 100.0 33 7.6
+None 365 83.7 29 7.9
+Anytime during pregnancy 71 16.3 4 5.6 0.79 [0.28, 2.26] 1.03 [0.32, 3.33]
+2007–08 Season
+All 585 100.0 43 7.4
+None 482 82.4 38 7.9
+Anytime during pregnancy 103 17.6 5 4.9 0.64 [0.25, 1.63] 0.79 [0.28, 2.21]
+2008–09 Season
+All 529 100.0 29 5.5
+None 425 80.3 23 5.4
+Anytime during pregnancy 104 19.7 6 5.8 1.12 [0.46, 2.75] 1.08 [0.40, 2.95]
+2009–10 Seasonb
+All 378 100.0 21 5.6
+None 346 91.5 12 3.5
+Anytime during pregnancy 32 8.5 9 28.1 9.96 [4.19, 23.7] 7.81 [2.66, 23.0]
+a
+Adjusted for propensity score.
+b
+Represents the unvaccinated and the vaccinated against seasonal influenza only; 385 vaccinated against pandemic H1N1 were excluded
+from the analysis (including 20 PTD).
+PTD, preterm delivery; HR, hazard ratio; CI, confidence interval.
+Safety of influenza vaccination during pregnancy 505
+© 2014 John Wiley & Sons Ltd
+Paediatric and Perinatal Epidemiology, 2014, 28, 498–509
+vaccine alone revealed some attenuation in risk. Given
+that there was likely some misclassification of the two
+vaccines that year (particularly among women
+without medical vaccination records available), it is
+quite possible that the threefold risk observed for
+pH1N1 was in part explained by the eightfold risk we
+have now observed in association with that year’s seasonal vaccine alone.
+Biological explanations for an increased risk of PTD
+among the women vaccinated with the seasonal
+vaccine could include a greater susceptibility to
+pH1N1 infection (conferring an increased risk of PTD)
+compared with unvaccinated women.38 However, in
+our study, ILI was not more common in women vaccinated against seasonal influenza in 2009–10 nor was
+PTD more common in women reporting ILI. Alternative possible explanations could include a novel
+vaccine antigen exposure, as a new B antigen strain
+was introduced in the trivalent seasonal vaccine that
+year;39 further, production practices by vaccine manufacturers may vary by year potentially introducing
+new antigens.
+Pregnant women are now considered to be among
+the highest priority groups to receive influenza vaccination,3,26,40 as maternal vaccination has been shown to
+benefit both the pregnant woman and her offspring.
+Continuing research on influenza vaccination and
+perinatal outcomes is critical to provide additional
+information on the safety of influenza vaccination
+during pregnancy. This is particularly important as the
+vaccines are not identical from year to year, with variations in both the antigen strains selected and production practices.
+In conclusion, with the exception of PTD associated
+with the 2009–10 seasonal vaccine, our study found no
+meaningful increases in PTD or SGA risks associated
+with seasonal trivalent influenza vaccination during
+pregnancy over the years of our study. These findings
+provide some reassurance to providers and pregnant
+women regarding seasonal influenza vaccine safety.
+The finding for PTD risk during the season when
+there was a separate pandemic vaccine warrants
+further consideration.
+Acknowledgements
+We thank Dawn Jacobs, RN, MPH; Fiona Rice, MPH;
+Rita Krolak, RN; Kathleen Sheehan, RN; Moira Quinn,
+Table 4. Association of influenza vaccination during pregnancy with the risk of small for gestational age (SGA) among mothers of
+non-malformed infants, stratified by influenza season
+All SGA Unadjusted Adjusteda
+Influenza vaccination timing n % n % OR [95% CI] OR [95% CI]
+2006–07 Season
+All 439 100.0 42 9.6
+None 365 83.2 39 10.7
+Anytime during pregnancy 74 16.8 3 4.1 0.35 [0.11, 1.18] – –
+2007–08 Season
+All 589 100.0 62 10.5
+None 482 81.8 50 10.4
+Anytime during pregnancy 107 18.2 12 11.2 1.09 [0.56, 2.13] 1.40 [0.63, 3.11]
+2008–09 Season
+All 537 100.0 66 12.3
+None 425 79.1 55 12.9
+Anytime during pregnancy 112 20.9 11 9.8 0.73 [0.37, 1.45] 1.23 [0.57, 2.63]
+2009–10 Seasonb
+All 387 100.0 37 9.6
+None 346 89.4 33 9.5
+Anytime during pregnancy 41 10.6 4 9.8 1.03 [0.25, 3.13] 0.60 [0.17, 2.04]
+a
+Adjusted for propensity score.
+b
+Represents the unvaccinated and the vaccinated against seasonal influenza only; 385 vaccinated against pandemic H1N1 were excluded
+from the analysis (including 32 SGA).
+OR, odds ratio; CI, confidence interval; and SGA, small for gestational age according to reference birthweight percentiles; ‘ – ’, adjusted
+results not shown (<4 exposed cases).
+506 K. A. Ahrens et al.
+© 2014 John Wiley & Sons Ltd
+Paediatric and Perinatal Epidemiology, 2014, 28, 498–509
+RN; Clare Coughlin, RN; Mary Thibeault, RN; Laurie
+Cincotta, RN; Nancy Rodriquez-Sheridan; Carolina
+Meyers; Ileana Gatica; Laine Catlin-Fletcher; Paula
+Wilder; Joan Shander; Julia Venanzi; Lindsay Andrus;
+Judy Jean, RN; and Mark Abcede for their assistance
+in data collection, and Nastia Dynkin for computer
+programming. We also thank the staff of the Massachusetts Department of Public Health Center for Birth
+Defects Research and Prevention, Dr. Charlotte
+Druschel and the New York State Health Department
+as well as the medical and nursing staff at the following participating hospitals for assistance with case
+ascertainment: Boston Children’s Hospital, Kent Hospital, Southern New Hampshire Medical Center,
+Women & Infants’ Hospital, Abington Memorial Hospital, Albert Einstein Medical Center, Alfred I. duPont
+Hospital for Children, Bryn Mawr Hospital, Children’s Hospital of Philadelphia and their Clinical and
+Translational Research Center (Grant UL1-RR-024134),
+Christiana Care Health Services, Lankenau Hospital,
+Lancaster General Hospital, Temple University Health
+Sciences Center, Reading Hospital & Medical Center,
+Thomas Jefferson University Hospital, Rady Children’s Hospital and Health Center, Kaiser Zion
+Medical Center, Palomar Medical Center, Pomerado
+Hospital, Scripps Mercy Hospital, Scripps Memorial
+Hospital-Chula Vista, Scripps Memorial HospitalEncinitas, Scripps Memorial Hospital-La Jolla, Sharp
+Chula Vista Hospital, Sharp Grossmont Hospital,
+Sharp Mary Birch Hospital, Tri-City Medical Center,
+and UCSD Medical Center. We thank Kate
+Applebaum, Mike LaValley and Natasha Hochberg
+for their analytic review.
+We particularly thank all the mothers who participated in the study.
+At the time of manuscript preparation, Katherine
+Ahrens was a pre-doctoral Boston University Reproductive, Perinatal and Pediatric Epidemiology trainee
+supported by the National Institutes of Health (Grant
+T32 HD052458). Data collection for this project has
+been funded by the Biomedical Advanced Research
+and Development Authority, Office of the Assistant
+Secretary for Preparedness and Response, Department of Health and Human Services (Contract No.
+HHSO100201000038C); the Agency for Healthcare
+Research and Quality (Grant 1R18HS018463-01); and
+the National Institutes of Health (Grants 1R01
+HD059861 and 2 R01 HD46595). The funding sources
+had no involvement in the study design; collection,
+analysis or interpretation of data; writing of
+the report; or decision to submit the article for
+publication.
+Drs. Louik and Mitchell and Mr. Kerr receive
+research support from Novartis Vaccines and Diagnostics (NVD) for an unrelated study of a meningitis
+vaccine. Dr. Mitchell serves as a member of an advisory committee for a pregnancy registry for a multiple
+sclerosis agent conducted by Biogen-Idec and as an
+unpaid consultant to NVD on matters unrelated to
+influenza vaccines. Dr. Werler has provided consultation for Amgen, Bristol-Meyers Squibb and Abbott
+regarding their pregnancy registries for rheumatoid
+arthritis drugs. These companies do not manufacture
+influenza vaccines. Dr. Ahrens has no conflicts to
+disclose.
+References
+1 Centers for Disease Control and Prevention (CDC).
+Prevention and control of seasonal influenza with vaccines.
+Morbidity and Mortality Weekly Report 2013; 62:1–43.
+2 Rasmussen SA, Jamieson DJ, Uyeki TM. Effects of influenza
+on pregnant women and infants. American Journal of
+Obstetrics and Gynecology 2012; 207:S3–S8.
+3 American College of Obstetricians and Gynecologists.
+ACOG Committee opinion no. 558: integrating
+immunizations into practice. Obstetrics and Gynecology 2013;
+121:897–903.
+4 Centers for Disease Control and Prevention (CDC).
+Influenza vaccination coverage among pregnant women –
+United States, 2012–13 influenza season. Morbidity and
+Mortality Weekly Report 2013; 62:787–792.
+5 US Department of Health and Human Services. Healthy
+People 2020. Immunization and Infectious Disease Objective
+12.10. Washington, DC. http://healthypeople.gov/2020/
+[last accessed October 2013].
+6 Naleway A, Smith W, Mullooly J. Delivering influenza
+vaccine to pregnant women. Epidemiologic Reviews 2006;
+28:47.
+7 Ahluwalia I, Harrison L, Jamieson D, Rasmussen S. Receipt
+of Influenza vaccine during pregnancy among women with
+live births – Georgia and Rhode Island, 2004–2007.
+Morbidity and Mortality Weekly Report 2009; 58:972–975.
+8 Ayoub D, Yazbak F. Influenza vaccination during
+pregnancy: a critical assessment of the recommendations of
+the Advisory Committee on Immunization Practices
+(ACIP). Journal of American Physicians and Surgeons 2006;
+11:41–47.
+9 Mitchell A. Studies of drug-induced birth defects. In:
+Pharmacoepidemiology, 5th edn. Editors: Strom B, Kimmel S,
+Hennessy S. West Sussex: Wiley-Blackwell, 2012;
+pp. 487–504.
+10 Kramer MS, Demissie K, Yang H, Platt RW, Sauve R,
+Liston R, et al. The contribution of mild and moderate
+preterm birth to infant mortality. JAMA 2000; 284:843–849.
+Safety of influenza vaccination during pregnancy 507
+© 2014 John Wiley & Sons Ltd
+Paediatric and Perinatal Epidemiology, 2014, 28, 498–509
+11 McCormick M. The contribution of low birth weight to
+infant mortality and childhood morbidity. New England
+Journal of Medicine 1985; 312:82.
+12 Barker DJP. Adult consequences of fetal growth restriction.
+Clinical Obstetrics and Gynecology 2006; 49:270–283.
+13 Bednarczyk RA, Adjaye-Gbewonyo D, Omer SB. Safety of
+influenza immunization during pregnancy for the fetus and
+the neonate. American Journal of Obstetrics and Gynecology
+2012; 207:S38–S46.
+14 Tamma PD, Ault KA, del Rio C, Steinhoff MC, Halsey NA,
+Omer SB. Safety of influenza vaccination during pregnancy.
+American Journal of Obstetrics and Gynecology 2009;
+201:547–552.
+15 Mitchell AA, Rosenberg L, Shapiro S, Slone D. Birth defects
+related to Bendectin use in pregnancy. I. Oral clefts and
+cardiac defects. JAMA 1981; 245:2311–2314.
+16 Werler MM, Hayes C, Louik C, Shapiro S, Mitchell AA.
+Multivitamin supplementation and risk of birth
+defects. American Journal of Epidemiology 1999;
+150:675–682.
+17 Oken E, Kleinman K, Rich-Edwards J, Gillman M. A nearly
+continuous measure of birth weight for gestational age
+using a United States national reference. BMC Pediatrics
+2003; 3:6.
+18 Oken E, Kleinman K, Rich-Edwards J, Gillman M. A nearly
+continuous measure of birth weight for gestational age
+using a United States national reference. BMC Pediatrics.
+2003. 3:6. Supplemental file containing birthweight reference
+charts.
+19 Louik C, Ahrens K, Kerr S, Pyo J, Chambers C, Jones KL,
+et al. Risks and safety of pandemic H1N1 influenza vaccine
+in pregnancy: exposure prevalence, preterm delivery, and
+specific birth defects. Vaccine 2013.
+20 Hernandez-Diaz S, Werler M, Louik C, Mitchell A. Risk of
+gestational hypertension in relation to folic acid
+supplementation during pregnancy. American Journal of
+Epidemiology 2002; 156:806–812.
+21 Hernandez R, Mitchell A, Werler M. Decongestant use
+during pregnancy and its association with preterm delivery.
+Birth Defects Research. Part A, Clinical and Molecular
+Teratology 2010; 88:715–721.
+22 O’Neill M, Hertz-Picciotto I, Pastore L, Weatherley B. Have
+studies of urinary tract infection and preterm delivery used
+the most appropriate methods? Paediatric and Perinatal
+Epidemiology 2003; 17:226–233.
+23 Platt RW. The fetuses-at-risk approach: an evolving
+paradigm. In: Reproductive and Perinatal Epidemiology.
+Editors: Louis GMB, Platt RW. New York: Oxford
+University Press, 2011; pp. 262–275.
+24 Kennedy ED, Ahluwalia IB, Ding H, Lu PJ, Singleton JA,
+Bridges CB. Monitoring seasonal influenza vaccination
+coverage among pregnant women in the United States.
+American Journal of Obstetrics and Gynecology 2012;
+207:S9–S16.
+25 France E, Smith-Ray R, McClure D, Hambidge S, Xu S,
+Yamasaki K, et al. Impact of maternal influenza vaccination
+during pregnancy on the incidence of acute respiratory
+illness visits among infants. Archives of Pediatrics and
+Adolescent Medicine 2006; 160:1277–1283.
+26 Zaman K, Roy E, Arifeen S, Rahman M, Raqib R, Wilson E,
+et al. Effectiveness of maternal influenza immunization in
+mothers and infants. New England Journal of Medicine 2008;
+359:1555–1564.
+27 Munoz F, Greisinger A, Wehmanen O, Mouzoon M,
+Hoyle J, Smith F, et al. Safety of influenza vaccination during
+pregnancy. American Journal of Obstetrics and Gynecology
+2005; 192:1098–1106.
+28 Black S, Shinefield H, France E, Fireman B, Platt S, Shay D.
+Effectiveness of influenza vaccine during pregnancy in
+preventing hospitalizations and outpatient visits for
+respiratory illness in pregnant women and their infants.
+American Journal of Perinatology 2004; 21:333–339.
+29 Kharbanda EO, Vazquez-Benitez G, Lipkind H, Naleway A,
+Lee G, Nordin JD, et al. Inactivated influenza vaccine during
+pregnancy and risks for adverse obstetric events. Obstetrics
+and Gynecology 2013; 122:659–667.
+30 Omer S, Goodman D, Steinhoff M, Rochat R, Klugman K,
+Stoll B, et al. Impact of Maternal Immunization against
+Influenza on Prematurity and Birth Weight. Philadelphia, PA:
+Presentation at Infectious Diseases Society of America,
+October 29, 2009. Available from: https://idsa.confex.com/
+idsa/2009/webprogram/Paper29666.html. Accessed
+October 9, 2014.
+31 Adedinsewo DA, Noory L, Bednarczyk RA, Steinhoff MC,
+Davis R, Ogbuanu C, et al. Impact of maternal characteristics
+on the effect of maternal influenza vaccination on fetal
+outcomes. Vaccine 2013; 31:5827–5833.
+32 Ahrens K, Lash TL, Louik C, Mitchell AA, Werler MM.
+Correcting for exposure misclassification using survival
+analysis with a time-varying exposure. Annals of
+Epidemiology 2012; 22:799–806.
+33 Louik C, Chambers C, Jacobs D, Rice F, Johnson D,
+Mitchell AA. Influenza vaccine safety in pregnancy: can we
+identify exposures? Pharmacoepidemiology and Drug Safety
+2013; 22:33–39.
+34 Omer SB, Goodman D, Steinhoff MC, Rochat R,
+Klugman KP, Stoll BJ, et al. Maternal influenza
+immunization and reduced likelihood of prematurity and
+small for gestational age births: a retrospective cohort study.
+Public Library of Science (PLOS) Medicine 2011; 8:e1000441.
+35 Richards JL, Hansen C, Bredfeldt C, Bednarczyk RA,
+Steinhoff MC, Adjaye-Gbewonyo D, et al. Neonatal
+outcomes after antenatal influenza immunization during the
+2009 H1N1 influenza pandemic: impact on preterm birth,
+birth weight, and small for gestational age birth. Clinical
+Infectious Diseases 2013; 56:1216–1222.
+36 Steinhoff MC, Omer SB, Roy E, El Arifeen S, Raqib R,
+Dodd C, et al. Neonatal outcomes after influenza
+immunization during pregnancy: a randomized controlled
+trial. Canadian Medical Association Journal 2012; 184:645–653.
+37 Chambers CD, Johnson D, Xu R, Luo Y, Louik C,
+Mitchell AA, et al. Risks and safety of pandemic H1N1
+influenza vaccine in pregnancy: Birth defects, spontaneous
+abortion, preterm delivery, and small for gestational age
+infants. Vaccine 2013; 31:5026–5032.
+38 Skowronski DM, De Serres G, Crowcroft NS, Janjua NZ,
+Boulianne N, Hottes TS, et al. Association between the
+2008-09 seasonal influenza vaccine and pandemic H1N1
+508 K. A. Ahrens et al.
+© 2014 John Wiley & Sons Ltd
+Paediatric and Perinatal Epidemiology, 2014, 28, 498–509
+illness during Spring-Summer 2009: four observational
+studies from Canada. Public Library of Science (PLOS)
+Medicine 2010; 7:e1000258.
+39 U.S. Food and Drug Administration. Influenza Virus
+Vaccine Composition and Lot Release, 2014. Available from:
+http://www.fda.gov/BiologicsBloodVaccines/
+GuidanceComplianceRegulatoryInformation/
+Post-MarketActivities/LotReleases/ucm062928.htm
+Accessed October 9, 2014.
+40 Steinhoff MC. Assessments of vaccines for prenatal
+immunization. Vaccine 2013; 31 (Suppl. 4):D27–D30.
+Supporting information
+Additional Supporting Information may be found in
+the online version of this article at the publisher’s
+web-site:
+Table S1. Preterm delivery and maternal characteristics among vaccinated mothers of non-malformed
+infants participating in the Slone Epidemiology
+Center’s Birth Defect Study by influenza season.
+Table S2. Preterm delivery and maternal characteristics among non-vaccinated mothers of non-malformed
+infants participating in the Slone Epidemiology
+Center’s Birth Defect Study by influenza season.
+Table S3. Pregnancy duration and influenza vaccination among mothers of non-malformed infants
+Table S4. Association of seasonal influenza vaccination (with or without monovalent pH1N1 vaccination)
+during pregnancy with the risks of preterm delivery
+(PTD) and small for gestational age (SGA) among
+mothers of non-malformed infants.
+Table S5. Association of influenza vaccination during
+pregnancy with the risk of preterm delivery (PTD)
+among mothers of non-malformed infants, stratified
+by influenza season and by trimester of pregnancy
+Table S6. Association of influenza vaccination during
+pregnancy with the risk of small for gestational age
+(SGA) among mothers of non-malformed infants,
+stratified by influenza season and by trimester of
+pregnancy.
+Safety of influenza vaccination during pregnancy 509
+© 2014 John Wiley & Sons Ltd
+Paediatric and Perinatal Epidemiology, 2014, 28, 498–509
+Copyright of Paediatric & Perinatal Epidemiology is the property of Wiley-Blackwell and its
+content may not be copied or emailed to multiple sites or posted to a listserv without the
+copyright holder's express written permission. However, users may print, download, or email
+articles for individual use.

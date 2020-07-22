@@ -1,0 +1,518 @@
+﻿ORIGINAL ARTICLE
+Pilot study of influenza vaccine effectiveness in urban Australian
+children attending childcarejpc_2098 857..862
+J Kevin Yin,1,2 Monica M Lahra,1,2 Mary Iskander,1 Stephen B Lambert,3,4 Leon Heron,1,2 Michael D Nissen,3,4,5
+Laura Rost,1 Jennifer Murphy,1 Theo P Sloots3,4,5 and Robert Booy1,2
+1
+National Centre for Immunisation Research and Surveillance of Vaccine Preventable Diseases, The Children’s Hospital, Westmead, 2
+Sydney Medical School,
+The University of Sydney, Sydney, New South Wales, 3
+Queensland Paediatric Infectious Disease Laboratory, Queensland Children’s Medical Research Institute
+and, Sir Albert Sakzewski Virus Research Centre, Royal Children’s Hospital, Brisbane, 4
+Clinical Medical Virology Centre, The University of Queensland, and
+5
+Clinical and Statewide Services Division, Pathology Queensland, Royal Brisbane Hospital Campus, Herston, Queensland, Australia
+Background: Influenza outbreaks in the childcare setting are a significant cause of excess winter morbidity. This study explored methods of
+follow up and sample collection for a proposed randomised controlled trial of influenza vaccination in children attending childcare.
+Methods: The study was conducted in four Sydney childcare centres during 2007. Healthy children aged 6–59 months eligible for vaccination
+were recruited in two centres, with another two acting as controls. Data on influenza-like illness (ILI: 37.8°C plus at least one respiratory
+symptom) occurrence were collected weekly. In those children with an ILI, parents were asked to collect nasal swabs and send via surface mail
+for viral polymerase chain reaction. Vaccine efficacy (VE) for ILI was estimated overall and for subgroups aged 6–23 and 24–59 months using the
+formula VE = 1 - relative risk (RR).
+Results: Sixty-three per cent (151/238) of eligible children had parents give consent. Sixty-three children received influenza vaccine and 88
+participated as controls. Of 26 specimens returned, a virus was detected in 18 (69%); none with influenza. Two symptomatic children had positive
+near-patient influenza tests in general practice (one a vaccine failure). The RR with 95% confidence interval in all children and those aged
+6–23 months were less than one, 0.56 (0.32–1.02) and 0.46 (0.15–1.45), respectively.
+Conclusions: This study demonstrated the feasibility and utility of parent-collected and mailed respiratory specimens for VE research in the
+childcare setting. Two-thirds of parent-collected swabs proved positive for at least one virus. Finding ways to reduce reluctance of parents to
+submit samples could improve the representativeness of samples collected and the power of the study. No evidence was found for influenza VE,
+but point estimates were in the direction of protection.
+Key words: children; daycare centres; influenza; pilot; vaccine effectiveness.
+Introduction
+Influenza is a seasonal, vaccine-preventable disease which
+causes excess morbidity and mortality during winter in temperate climates. The health and economic costs associated with
+childhood influenza are substantial.1 For example, in Australia
+during 2002–2005, there were reports of 25 433 hospitalisations
+and four deaths for influenza and pneumonia among children
+aged under 5 years.2 The annual cost due to influenza-related
+diseases in Australia is estimated to exceed $115 million.3
+The World Health Organization recommends annual influenza vaccination as the cornerstone for prevention and control.
+Efficacious influenza vaccines have been available for over
+50 years, and yet, routine use in childhood remains the
+Correspondence: Dr Jiehui Kevin Yin, National Centre for Immunisation
+Research and Surveillance of Vaccine Preventable Diseases, The Children’s
+Hospital at Westmead, Locked Bag 4001, Westmead, NSW 2145, Australia.
+Fax: +61 02 9845 1418; email: keviny@chw.edu.au
+Accepted for publication 14 February 2011.
+What is already known on this topic
+1 Children in childcare are more likely to contract influenza and
+transmit infection to their siblings, parents, extended families
+and child-care workers.
+2 USA, Canada and Western Australia currently have a routine
+influenza vaccine policy in place that includes children 6 months
+of age and older.
+3 Evidence for the effectiveness of influenza vaccine in children
+aged less than 24 months is limited and high quality, appropriately powered, randomised controlled trials are needed.
+What this study adds
+1 It is feasible to follow children weekly for 3 months to obtain
+swabs for influenza-like illness.
+2 Two-thirds of parent-collected swabs were positive for at least
+one virus demonstrating the utility of this approach for future
+studies. Reluctance of parents to submit swabs for analysis may
+be a limitation of this approach.
+doi:10.1111/j.1440-1754.2011.02098.x
+Journal of Paediatrics and Child Health 47 (2011) 857–862
+© 2011 The Authors
+Journal of Paediatrics and Child Health © 2011 Paediatrics and Child Health Division (Royal Australasian College of Physicians)
+857
+exception in most countries. The effectiveness of influenza
+vaccine for children in childcare has been demonstrated for
+children aged 24 months.4–8 Although the US Advisory Committee on Immunisation Practices has recommended children
+aged 6–23 months to be vaccinated with influenza vaccine since
+2004,9 there is ongoing debate about vaccine effectiveness in
+this age group. Three recent systematic reviews10–12 concluded
+that either influenza vaccine was not effective in children
+24 months of age or that there were insufficient data to form
+a conclusion.
+Influenza is transmitted from person to person through
+contact and respiratory droplets; however, the droplets do not
+remain suspended in the air for long nor do they travel far.13
+Transmission of influenza generally requires close contact with
+an infected person or contact with a contaminated surface or
+object.14,15 The childcare setting provides enhanced opportunities for transmission of infections including influenza as there is
+prolonged close interaction between young children and the
+sharing of toys and other objects. Further to this, young children
+are particularly susceptible to infection as they are immunologically naïve to many viruses.
+Commercial childcare in Australia is available in two broad
+categories: daycare centres (DCC) for children aged 6 weeks
+until 6 years and pre-school centres (PSC) for children aged 3 to
+6 years. Commercial childcare usage in Australia is increasing.
+The median attendance time for Australian children who use
+childcare is 10 h per week, but 13% attend 35 h a week or
+more.16 Children in childcare are known to be more likely to
+contract respiratory illnesses, including influenza,17–21 and are
+considered to be major transmitters of influenza to their siblings,
+parents, extended families and care workers.6,8,22,23
+The 2007 influenza season in Australia ran from late May
+until October and notifications peaked during August.24 Australia witnessed antigenically drifted influenza virus (A/Brisbane/
+59/2007 (H1N1)-like and A/Brisbane/10/2007 (H3N2)-like),
+and it was the most severe influenza season since a national
+influenza reporting system was established in 2001.25
+With this study, the primary process issues of conducting
+influenza vaccine research in the childcare environment were
+evaluated, including recruitment, retention, vaccination and
+specimen handling. While this pilot study was not powered to
+assess an efficacy end point, preliminary vaccine efficacy (VE)
+data were also examined.
+Methods
+Subjects
+From July to August 2007, children aged 6–59 months attending
+four childcare centres in New South Wales were recruited for this
+study: two DCC caring for children aged 0–59 months and two
+PSC caring for children aged 36–59 months. The four DCC were
+chosen by convenience (proximity to The Children’s Hospital at
+Westmead) with equal number of children between DCC and
+PSC. One DCC and one PSC were allocated to influenza vaccination, and one DCC and one PSC were allocated to be controls.
+This study was approved by The Royal Alexandra Hospital for
+Children Ethics Committee, and informed parental consent for
+participation was obtained prior to study procedures. The participating children were evaluated in two age groups based on
+age at enrolment: 6–23 months and 24–59 months.
+Vaccine and schedule
+The influenza vaccine administered was a 2007 Southern Hemisphere preparation, purified, inactivated, split vaccine (VAXIGRIP JUNIOR, provided by Sanofi Pasteur, Lyon, France),
+incorporating:
+• A/New Caledonia/20/99 (H1N1)-like strain (A/New Caledonia /20/99 IVR-116);
+• A/Wisconsin/67/2005 (H3N2)-like strain (A/Wisconsin/67/
+2005 NYMCX-161B);
+• B/Malaysia/2506/2004-like strain.
+Children were administrated the vaccine according to the
+standard recommended dose and schedule for age.26 As all children at the centres randomised to receive vaccine were influenza vaccine naïve, each received two doses of vaccine 1 month
+apart – 0.25 mL intramuscular dose for those less than
+36 months of age and 0.5 mL intramuscular dose for those aged
+36–59 months at the time of their first dose. Vaccines were
+administered between 11 July 2007 and 19 September 2007.
+Influenza-like illness surveillance and
+specimen collection
+We defined influenza-like illness (ILI) as an illness with fever
+>37.8°C and with one or more respiratory symptoms (cough,
+blocked nose or runny nose) to maximise sensitivity. As a protective level of antibody is usually detectable within 2 weeks of
+the second dose of vaccine,13,27 ILI surveillance was commenced
+in vaccinated children at this time point. In control children, ILI
+surveillance was arbitrarily commenced from the week ending
+26 August 2007: at this time, just over half (32/62) of the
+children eventually fully vaccinated had received vaccine, and
+from that week, the ratio of child-weeks of follow up in vaccinated and unvaccinated children was similar (Fig. 2). Parent
+education for ILI surveillance was provided at study entry.
+Households received a weekly email or telephone call from 30
+July until 21 October 2007 (12 weeks) to monitor the study
+children for ILI symptoms.
+Parent training for the collection of nasal swabs was conducted by study nurses after the second immunisation. Nasal
+swabs were collected using the Virocult collection system
+(MW950) consisting of a rayon swab on a plastic shaft, with
+viral transport medium-soaked foam pad in the base of the
+transport tube (COPAN Italia, Brescia, Italy), and were returned
+to the Queensland Paediatric Infectious Diseases Laboratory
+using a pre-addressed, postage-paid envelope.
+Laboratory methods
+Returned specimens were tested using previously reported,
+real-time polymerase chain reaction assays with reverse transcription for RNA viruses. A total of 16 viruses were investigated: human rhinoviruses (HRV),28 influenza A, influenza B,
+RSV, adenoviruses, HMPV, parainfluenza viruses I, II and III,29
+bocavirus30 hPyV-WU, hPyV-KI,31 and human coronaviruses:
+OC43, 229E, NL6332 and HKU1.33 While it was not part of the
+Influenza vaccination in daycare JK Yin et al.
+Journal of Paediatrics and Child Health 47 (2011) 857–862
+© 2011 The Authors
+Journal of Paediatrics and Child Health © 2011 Paediatrics and Child Health Division (Royal Australasian College of Physicians)
+858
+study protocol, some children had near-patient influenza tests
+performed by their general practitioners and these were
+reported by parents to study staff.
+Statistical analyses and VE
+ILI incidence rates were calculated using child-weeks in the
+denominator. Rate ratios (RR) and 95% confidence intervals
+were calculated comparing vaccinated and unvaccinated
+groups. These values were used to estimate VE using the
+formula VE = (1 - RR) ¥ 100%. Comparisons were performed in
+three age groups, 6–59 months (all children), 6–23 months and
+24–59 months.
+Results
+Subjects and influenza vaccination
+The average ages of the children in the vaccine and control
+centre were 43.4 (7.7–65.4) and 44.1 (7.9–66.0) months,
+respectively, while the proportions who were males were 50.8
+and 58.0%. Data on non-enrolled children were not recorded.
+There were 239 children in total attending the four childcare
+centres, and 151 children were enrolled giving a recruitment
+rate of 63%. Complete information was available for analysis in
+150 children, with one vaccinated child lost to follow up during
+the study period (Fig. 1).
+ILI surveillance
+There were 481 (62 children) and 792 (88 children) child-weeks
+of follow up in vaccine and control centres, respectively. A total
+of 59 ILIs were identified in all study children, and weekly ILI
+incidence rates are provided (Fig. 2).
+Laboratory results
+Of the 26 swabs received during the study period, 18 (69%) had
+at least one virus identified, with bocavirus being the most
+common virus found in six swabs (Table 1), followed by HRV in
+five swabs. One swab contained three viruses (HRV, adenovirus
+and bocavirus). Thirteen of these swabs were from 12 vaccinated children, with the other half from 13 controls.
+Two positive near-patient influenza tests (one a vaccine
+failure) were reported by parents to the study staff: one was
+from an unvaccinated child in a control centre; the other child
+was vaccinated with the test done 14 days post-second vaccination (Table 1).
+Estimate of VE against ILI
+There were a total of 59 ILIs identified with efficacy point
+estimates in the direction of protection for all age-groups but not
+significant (Table 2).
+Discussion
+The key findings of this pilot study were that a high recruitment
+rate could be achieved, that recruited families were tolerant of
+regular weekly follow up over an extended period (3 months)
+and that there was no evidence of protective efficacy, but point
+estimates of VE for the less-specific end point of ILI were in the
+direction of protection.
+It is inevitable that ILI would include non-influenza infections
+which cause respiratory signs and symptoms, especially as we
+used a sensitive definition (at the expense of specificity), so it
+is not surprising that a range of other viral pathogens were
+identified in our study. A population-based surveillance
+study showed that less than 10% of hospitalised children aged
+59 months with ILI had confirmed influenza infection.34
+Our study has some limitations. The childcare centres were
+not randomised. The commencement midway through an influenza season limited the number of influenza cases identified.
+Less than half the episodes in children of ILI (26 out of 59, 44%)
+had a respiratory sample sent. This reduced sampling is probably
+due to the added burden on parents of sample collection (and
+posting) while a child is ill. In addition, as the childcare centres
+DCC 1
+(62 children)
+PSC 1
+(52 children)
+DCC 2
+(73 children)
+PSC 2
+(52 children)
+Vaccine centre Vaccine centre Control centre Control centre
+25 enrolled 38 enrolled 48 enrolled 40 enrolled
+0 withdrawal 1 withdrawal 0 withdrawal 0 withdrawal
+Aged 6–23 m: n = 9
+Aged 24–59 m: n = 16
+Aged 6–23 m: n = 0
+Aged 24–59 m: n = 37
+Aged 6–23 m: n = 14
+Aged 24–59 m: n = 34
+Aged 6–23 m: n = 0
+Aged 24–59 m: n = 40
+Fig. 1 Flow chart of study participants. DCC,
+daycare centre; m, months; PSC, pre-school
+centre.
+JK Yin et al. Influenza vaccination in daycare
+Journal of Paediatrics and Child Health 47 (2011) 857–862
+© 2011 The Authors
+Journal of Paediatrics and Child Health © 2011 Paediatrics and Child Health Division (Royal Australasian College of Physicians)
+859
+were in the suburbs with relatively lower Socio-Economic
+Indexes for Areas35 (and also involved larger families), this, too,
+may have limited parental cooperation. The participants were
+only followed from the 2nd half of August when the 2007
+season was peaking, so some may have thought that sample
+collection in September or October was too late. Given the
+limited data that were collected on symptomatology and the
+relatively small number of specimens, it was not possible to do
+an extensive analysis comparing symptoms by virus type to
+address if there are differences in symptoms among various
+viruses. Furthermore, the demographic data (e.g. sex, age
+range) of those who did not participate in the study were not
+collected; therefore, it was not possible to identify if there was
+any recruitment bias. Greater efforts are required for future
+studies in (i) improving the proportion of swabs collected and
+sent by initiating ILI follow up before the influenza season starts
+and findings better ways to overcome parents’ reluctance in
+submitting swabs; (ii) obtaining more detailed data on symptomatology of respiratory infection; and (iii) collecting
+de-identified demographic data on those who are not enrolled
+in the study.
+This study showed no evidence for influenza VE. There was
+only a suggestion of protection in that all the point estimates
+were in that direction. Trivalent, live, cold-adapted influenza
+vaccine (CAIV-T) may be a better option for young children and
+has been demonstrated to have significantly higher efficacy than
+inactivated vaccine among young children during moderate36,37
+and high attack-rate influenza seasons.38 CAIV-T was also able
+to provide protection even when the circulating influenza virus
+was an antigenically distinct strain.37
+There were two children with positive results for influenza A
+from the near-patient test. This type of test is known to have
+only moderate sensitivity but high specificity, so a positive test is
+unlikely to be false.39
+(Child-weeks follow up)
+Week ending date (2007)
+19
+Aug
+26
+Aug
+2
+Sep
+9
+Sep
+17
+Sep
+24
+Sep
+1
+Oct
+8
+Oct
+16
+Oct
+23
+Oct
+Vaccinated children 8 32 37 49 56 60 61 62 62 62
+Non-vaccinated children 88 88 88 88 88 88 88 88 88 88
+Fig. 2 Weekly attack rate and child-weeks
+follow up in vaccinated and non-vaccinated children (ILI episodes/child-weeks).
+Table 1 Viruses detected in 26 parent-collected, mailed nasal swabs
+from study children with ILI
+DCC 1 PSC 1 DCC 2 PSC 2
+Vaccine
+centre
+Vaccine
+centre
+Control
+centre
+Control
+centre
+Near-patient
+test
+Influenza A 1 0 0 1
+PCR Influenza A 0 0 0 0
+HRV 1 3 1 0
+Adenovirus 2 0 1 0
+Bocavirus 4 0 2 0
+Parainfluenza 1 0 1 0 0
+Parainfluenza 2 0 0 1 0
+Parainfluenza 3 1 0 2 0
+HMPV 0 1 1 0
+KI 0 0 1 0
+RSV 0 0 0 1
+HKU1 0 0 0 1
+Viruses not listed were not detected in study children. DCC, daycare
+centre; ILI, influenza-like illness; PCR, polymerase chain reaction; PSC,
+pre-school centre.
+Influenza vaccination in daycare JK Yin et al.
+Journal of Paediatrics and Child Health 47 (2011) 857–862
+© 2011 The Authors
+Journal of Paediatrics and Child Health © 2011 Paediatrics and Child Health Division (Royal Australasian College of Physicians)
+860
+Older children (24–59 months) are more likely to have developed natural immunity through previous infection and are
+more likely to have developed better personal hygiene. For
+these reasons, older children are less susceptible to influenza as
+well as other non-influenza infections that may cause ILI.
+Conclusions
+This pilot study has shown the feasibility and value of parentcollected (and mailed) nasal sample for influenza VE research in
+childcare. Two-third of parent-collected swabs proved positive
+for at least one virus. Means of lessening reluctance of parents to
+submit respiratory samples from their children need to be found
+to improve the representativeness of samples collected and the
+power of the study. No evidence was found for influenza VE, but
+point estimates were all in the direction of protection.
+Reference
+1 Lambert SB, Allen KM, Carter RC, Nolan TM. The cost of
+community-managed viral respiratory illnesses in a cohort of healthy
+preschool-aged children. Respir. Res. 2008; 9: 11.
+2 Brotherton J, Wang H, Schaffer A et al. Vaccine preventable diseases
+and vaccination coverage in Australia, 2003 to 2005. Commun. Dis.
+Intell. 2007; 31 (Suppl.): 152.
+3 Newall AT, Scuffham PA. Influenza-related disease: the cost to the
+Australian healthcare system. Vaccine 2008; 26: 6818–23.
+4 Clements DA, Langdon L, Bland C, Walter E. Influenza A vaccine
+decreases the incidence of otitis media in 6- to 30-month-old children
+in day care. Arch. Pediatr. Adolesc. Med. 1995; 149: 1113–7.
+5 Ghendon YZ, Kaira AN, Elshina GA. The effect of mass influenza
+immunization in children on the morbidity of the unvaccinated
+elderly. Epidemiol. Infect. 2006; 134: 71–8.
+6 Hurwitz ES, Haber M, Chang A et al. Effectiveness of influenza
+vaccination of day care children in reducing influenza-related
+morbidity among household contacts. JAMA 2000; 284: 1677–82.
+7 Hurwitz ES, Haber M, Chang A et al. Studies of the 1996–1997
+inactivated influenza vaccine among children attending day care:
+immunologic response, protection against infection, and clinical
+effectiveness. J. Infect. Dis. 2000; 182: 1218–21.
+8 Teo SS, Nguyen-Van-Tam JS, Booy R. Influenza burden of illness,
+diagnosis, treatment, and prevention: what is the evidence in children
+and where are the gaps? [Review] [70 refs]. Arch. Dis. Child. 2005; 90:
+532–6.
+9 Harper SA, Fukuda K, Uyeki TM et al. Prevention and control of
+influenza: recommendations of the Advisory Committee on
+Immunization Practices (ACIP). Morb. Mortal. Wkly. Rep. 2004; 53
+(RR-6): 1–40.
+10 Jefferson T, Rivetti A, Harnden A, Di Pietrantonj C, Demicheli V.
+Vaccines for preventing influenza in healthy children. Cochrane
+Database Syst. Rev. 2008; (16): CD004879.
+11 Manzoli L, Schioppa F, Boccia A, Villari P. The efficacy of influenza
+vaccine for healthy children: a meta-analysis evaluating potential
+sources of variation in efficacy estimates including study quality.
+Pediatr Infect. Dis. J. 2007; 26: 97–106.
+12 Negri E, Colombo C, Giordano L, Groth N, Apolone G, La Vecchia C.
+Influenza vaccine in healthy children: a meta-analysis. Vaccine 2005;
+23: 2851–61.
+13 Fiore AE, Shay DK, Broder K, Iskander JK, Uyeki TM, Mootrey G et al.
+Prevention and control of seasonal influenza with vaccines:
+recommendations of the Advisory Committee on Immunization
+Practices (ACIP), 2009. MMWR Recomm Rep. 2009; 58 (RR-8): 1–52.
+14 Brankston G, Gitterman L, Hirji Z, Lemieux C, Gardam M. Transmission
+of influenza A in human beings. [Review] [63 refs]. Lancet Infect. Dis.
+2007; 7: 257–65.
+15 Glass LM, Glass RJ. Social contact networks for the spread of
+pandemic influenza in children and teenagers. BMC Public Health
+2008; 8: 61.
+16 Australian Bureau of Statistics. Child Care, Australia, Jun 2005
+(Reissue), Cat. no. 4402.0. 2006. Available from: http://
+www.abs.gov.au/ausstats/abs@.nsf/ProductsbyReleaseDate/
+A323B76DC590C5F7CA2576010016F8A8?OpenDocument [accessed
+March 2010].
+17 Hurwitz ES, Gunn WJ, Pinsky PF, Schonberger LB. Risk of respiratory
+illness associated with day-care attendance: a nationwide study.
+Pediatrics 1991; 87: 62–9.
+18 Louhiala PJ, Jaakkola N, Ruotsalainen R, Jaakkola JJ. Form of day care
+and respiratory infections among Finnish children. Am. J. Public
+Health 1995; 85 (Pt 1): 1109–12.
+19 Marbury MC, Maldonado G, Waller L. Lower respiratory illness,
+recurrent wheezing, and day care attendance. Am. J. Respir. Crit. Care
+Med. 1997; 155: 156–61.
+20 Nafstad P, Hagen JA, Oie L, Magnus P, Jaakkola JJ. Day care centers
+and respiratory health. Pediatrics 1999; 103 (Pt 1): 753–8.
+21 Wald ER, Guerra N, Byers C. Frequency and severity of infections
+in day care: three-year follow-up. J. Pediatr. 1991; 118 (Pt 1):
+509–14.
+22 Fox JP, Cooney MK, Hall CE, Foy HM. Influenza virus infections in
+Seattle families, 1975–1979. II. Pattern of infection in invaded
+households and relation of age and prior antibody to occurrence
+of infection and related illness. Am. J. Epidemiol. 1982; 116: 228–42.
+Table 2 Number of ILI episodes and person-time follow up, relative risk, and vaccine efficacy for ILI prevention in each age group
+Age group Vaccination
+status
+Rate (ILI episodes/
+child-weeks)
+Relative rate (95% CI)
+Vaccine efficacy estimate
+6–23 months Vaccinated 0.05 (4/78) 0.46 (0.15–1.45)
+Controls 0.11 (14/126) 54%
+24–59 months Vaccinated 0.03 (11/403) 0.61 (0.30–1.22)
+Controls 0.05 (30/666) 39%
+Total Vaccinated 0.03 (15/481) 0.56 (0.32–1.02)
+Controls 0.06 (44/792) 44%
+CI, confidence interval; ILI, influenza-like illness.
+JK Yin et al. Influenza vaccination in daycare
+Journal of Paediatrics and Child Health 47 (2011) 857–862
+© 2011 The Authors
+Journal of Paediatrics and Child Health © 2011 Paediatrics and Child Health Division (Royal Australasian College of Physicians)
+861
+23 Hall CE, Cooney MK, Fox JP. The Seattle virus watch. IV. Comparative
+epidemiologic observations of infections with influenza A and B
+viruses, 1965–1969, in families with young children. Am. J. Epidemiol.
+1973; 98: 365–80.
+24 Zambon MC, Stockton JD, Clewley JP, Fleming DM. Contribution of
+influenza and respiratory syncytial virus to community cases
+ofinfluenza-like illness: an observational study. Lancet 2001; 358:
+1410–6.
+25 Owen R, Barr IG, Pengilley A et al. Annual report of the national
+influenza surveillance scheme, 2007. Commun. Dis. Intell. 2008; 32:
+208–26.
+26 Sanofi Pasteur Pty LTD. VAXIGRIP © JUNIOR. 2007; Available from:
+http://www.tdgp.com.au/pdfs/VAXIGRIPJuniorPI2007SeasonForAU.pdf
+[accessed 16 May 2010].
+27 Australian Government Department of H, Ageing C. National Health
+and Medical Research Council. The Australian immunisation
+handbook, 9th edition. Available from: http://www.health.gov.au/
+internet/immunise/publishing.nsf/Content/Handbook-home2008
+[accessed 16 May 2010].
+28 Gama RE, Horsnell PR, Hughes PJ et al. Amplification of rhinovirus
+specific nucleic acids from clinical samples using the polymerase
+chain reaction. J. Med. Virol. 1989; 28: 73–7.
+29 Lambert SB, Whiley DM, O’Neill NT et al. Comparing nose-throat
+swabs and nasopharyngeal aspirates collected from children
+with symptoms for respiratory virus identification using
+real-time polymerase chain reaction. Pediatrics 2008; 122:
+e615–e20.
+30 Tozer SJ, Lambert SB, Whiley DM et al. Detection of human bocavirus
+in respiratory, fecal, and blood samples by real-time PCR. J. Med.
+Virol. 2009; 81: 488–93.
+31 Bialasiewicz S, Whiley DM, Lambert SB, Gould A, Nissen MD, Sloots
+TP. Development and evaluation of real-time PCR assays for the
+detection of the newly identified KI and WU polyomaviruses. J. Clin.
+Virol. 2007; 40: 9–14.
+32 Gunson RN, Collins TC, Carman WF. Real-time RT-PCR detection of 12
+respiratory viral infections in four triplex reactions. J. Clin. Virol. 2005;
+33: 341–4.
+33 Dare RK, Fry AM, Chittaganpitch M, Sawanpanyalert P, Olsen SJ,
+Erdman DD. Human coronavirus infections in rural Thailand: a
+comprehensive study using real-time reverse-transcription
+polymerase chain reaction assays. J. Infect. Dis. 2007; 196: 1321–8.
+34 Lambert SB, Allen KM, Druce JD et al. Community epidemiology of
+human metapneumovirus, human coronavirus NL63, and other
+respiratory viruses in healthy preschool-aged children using
+parent-collected specimens. Pediatrics 2007; 120: e929–e37.
+35 Australian Bureau of Statistics. Census of population and housing:
+socio-economic indexes for areas (SEIFA), Australia. 2008. Available
+from: http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/
+2033.0.55.001Main+Features12006?OpenDocument [accessed
+December 2010].
+36 Belshe RB, Edwards KM, Vesikari T et al. Live attenuated versus
+inactivated influenza vaccine in infants and young children.[Erratum
+appears in N. Engl. J. Med. 2007 Mar 22; 356 (12): 1283]. N. Engl. J.
+Med. 2007; 356: 685–96.
+37 Hirota Y, Takeshita S, Ide S et al. Various factors associated with the
+manifestation of influenza-like illness. Int. J. Epidemiol. 1992; 21:
+574–82.
+38 Piedra PA, Gaglani MJ, Kozinetz CA et al. Trivalent live attenuated
+intranasal influenza vaccine administered during the 2003–2004
+influenza type A (H3N2) outbreak provided immediate, direct, and
+indirect protection in children. Pediatrics 2007; 120: e553–e64.
+39 Dwyer DE, Smith DW, Catton MG, Barr IG. Laboratory diagnosis of
+human seasonal and pandemic influenza virus infection. Med. J. Aust.
+2006; 185 (Suppl.): S48–53.
+Influenza vaccination in daycare JK Yin et al.
+Journal of Paediatrics and Child Health 47 (2011) 857–862
+© 2011 The Authors
+Journal of Paediatrics and Child Health © 2011 Paediatrics and Child Health Division (Royal Australasian College of Physicians)
+862

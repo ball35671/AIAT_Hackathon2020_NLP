@@ -1,0 +1,663 @@
+﻿Study of a Needleless Intermittent Intravenous-Access System for Peripheral Infusions:
+Analysis of Staff, Patient, and Institutional Outcomes
+Author(s): Meryl H. Mendelson, Louise J. Short, Clyde B. Schechter, Burt R. Meyers,
+Margarita Rodriguez, Sandra Cohen, John Lozada, Marvalyn DeCambre and Shalom Z.
+Hirschman
+Source: Infection Control and Hospital Epidemiology, Vol. 19, No. 6 (Jun., 1998), pp. 401-
+406
+Published by: Cambridge University Press on behalf of The Society for Healthcare
+Epidemiology of America
+Stable URL: http://www.jstor.org/stable/30142428
+Accessed: 12-04-2016 08:57 UTC
+REFERENCES
+Linked references are available on JSTOR for this article:
+http://www.jstor.org/stable/30142428?seq=1&cid=pdf-reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted
+digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about
+JSTOR, please contact support@jstor.org.
+The Society for Healthcare Epidemiology of America, Cambridge University Press are
+collaborating with JSTOR to digitize, preserve and extend access to Infection Control and Hospital
+Epidemiology
+This content downloaded from 130.113.111.210 on Tue, 12 Apr 2016 08:57:03 UTC
+All use subject to http://about.jstor.org/terms
+ Vol. 1 9 No. 6 INFECTION CONTROL AND HOSPITAL EPIDEMIOLOGY 401
+ STUDY OF A NEEDLELESS INTERMITTENT INTRAVENOUS-
+ ACCESS SYSTEM FOR PERIPHERAL INFUSIONS: ANALYSIS
+ OF STAFF, PATIENT, AND INSTITUTIONAL OUTCOMES
+ Meryl H. Mendelson, MD; Louise J. Short, MD; Clyde B. Schechter, MD; Burt R. Meyers, MD; Margarita Rodriguez, RN;
+ Sandra Cohen, RN; John Lozada, MD; Marvalyn DeCambre, BA; Shalom Z. Hirschman, MD
+ ABSTRACT
+ OBJECTIVE: To assess the effect on staff- and patient-
+ related complications of a needleless intermittent intravenous
+ access system with a reflux valve for peripheral infusions.
+ DESIGN: A 6-month cross-over clinical trial (phase I, 13
+ weeks; phase II, 12 weeks) of a needleless intermittent intravenous
+ access system (NL; study device) compared to a conventional
+ heparin-lock system (CHL, control device) was performed during
+ 1991 on 16 medical and surgical units. A random selection of
+ patients was assessed for local intravenous-site complications; all
+ patients were assessed for the development of nosocomial bac-
+ teremia and device-related complications. Staff were assessed for
+ percutaneous injuries and participated in completion of product
+ evaluations. A cost analysis of the study compared to the control
+ device was performed.
+ SEITING: A 1,100-bed, teaching, referral medical center.
+ PATIENTS AND STAFF PARTICIPANTS: 594 patients
+ during 602 patient admissions, comprising a random sample of all
+ patients with a study or control device inserted within a previous
+ 24-hour period on study and control units, were assessed for local
+ complications. The 16 units included adult inpatient general medi-
+ cine, surgical, and subspecialty units. Pediatrics, obstetrics-
+ gynecology, and intensive-care units were excluded. All patients on
+ study and control units were assessed for development of nosoco-
+ mial bacteremia and device-related complications. All staff who uti-
+ lized, manipulated, or may have been exposed to sharps on study
+ and control units were assessed for percutaneous injuries. Nursing
+ staff completed product evaluations.
+ INTERVENTION: The study device, a needleless inter-
+ mittent intravenous access system with a reflux valve, was com-
+ pared to the control device, a conventional heparin lock, for periph-
+ eral infusions.
+ RESULTS: During the study, 35 percutaneous injuries
+ were reported. Eight injuries were CHL-related; no NL-related
+ injuries were reported (P---.007). An evaluation of 602 patient
+ admissions, 1,134 intermittent access devices, and 2,268 observed
+ indwelling device days demonstrated more pain at the insertion
+ site for CHL than NL; however, no differences in objective signs of
+ phlebitis were noted. Of 773 episodes of positive blood cultures on
+ study and control units, 6 (0.8%) were device-related (assessed by
+ blinded investigator), with no difference between NL and CHL.
+ Complications, including difficulty with infusion (P<.001) and dis-
+ connection of intravenous tubing from device (P<.001), were
+ reported more frequently with CHL than with NL. Of nursing staff
+ responding to a product evaluation survey, 95.2% preferred the
+ study over control device. The projected annual incremental cost
+ to our institution for hospitalwide implementation of NL for inter-
+ mittent access for peripheral infusions was estimated at $82,845, or
+ $230 per 1,000 patient days.
+ CONCLUSIONS: A needleless intermittent intravenous
+ access system with a reflux valve for peripheral infusions is effec-
+ tive in reducing percutaneous injuries to staff and is not associated
+ with an increase in either insertion-site complications or nosoco-
+ mial bacteremia. Institutions should consider these data, available
+ institutional resources, and institution-specific data regarding the
+ frequency and risk of intermittent access-device-related injuries
+ and other types of sharps injuries in their staff when selecting the
+ above or other safety devices (Infect Control Hosp Epidemiol
+ 1998;19:401-406) .
+ Since the December 1991 publication of the Occupa-
+ tional Safety and Health Administration (OSHA) Blood-
+ borne Pathogens Standard, healthcare facilities have been
+ required to evaluate and implement measures to reduce
+ percutaneous injuries.1 Nonetheless, despite the OSHA
+ mandate and a Food and Drug Administration alert (urging
+ the use of needleless or recessed needle systems),2 as well
+ as the development of a variety of devices designed to
+ reduce needlestick injuries, few studies have examined
+ these safety devices comprehensively.
+ From the Division of Infectious Diseases, Department of Medicine (Drs. Mendelson, Meyers, Hirschman) , the Mount Sinai Hospital; the Depart-
+ ment of Community Medicine (Drs. Short and Schechter) , the Mount Sinai Hospital; the Mount Sinai School of Medicine of the City University of New
+ York (Di Lozada, Ms. DeCambre); the Department of Nursing (Ms. Rodriguez, Ms. Cohen) , the Mount Sinai Hospital, New York, New York.
+ The authors wish to acknowledge Drs. Henry Sacks and Phillip Landrigan for consultation in the planning of the study; Ms. Gail Button and the
+ Department of Nursing of the Mount Sinai Medical Center for assistance and cooperation in the implementation of the needleless system and participa-
+ tion in the study; and Drs. Mary Chamberland, David Culver, and David Bell for review of the manuscript.
+ This work was supported by the grant, "Pilot Study of Needlestick Prevention Devices," New York State Department of Health and Braun Medical,
+ Inc.
+ Address reprint requests to Meryl H. Mendelson, MD, Mount Sinai Medical Center, One Gustave L. Levy Place, Box 1090, New York, NY 10029.
+ 97-OA-005. Mendelson MH, Short LJ, Schechter CB, Meyers BR, Rodriguez M, Cohen S, Lozada J, DeCambre M, Hirschman SZ. Study of a needle-
+ less intermittent intravenous access system for peripheral infusions: analysis of staff, patient, and institutional outcomes. Infect Control Hosp Epidemiol
+ 1998;19:401-406.
+This content downloaded from 130.113.111.210 on Tue, 12 Apr 2016 08:57:03 UTC
+All use subject to http://about.jstor.org/terms
+ 402 INFECTION CONTROL AND HOSPITAL EPIDEMIOLOGY June 1998
+ In 1991, the New York State Department of Health
+ sponsored a prospective multicenter pilot study of such
+ devices in 10 hospitals. As part of this study, we evaluated
+ a needleless intermittent intravenous (IV) access system
+ (not compatible with needle access) for peripheral infu-
+ sions. This choice was based on a review of 1990 to 1991
+ surveillance data from the Mount Sinai Medical Center
+ showing that 12.5% of percutaneous injuries (39/313) were
+ related to intermittent IV access devices (heparin locks) for
+ peripheral IV infusion manipulations.3 In addition, there
+ has been at least one documented occupational serocon-
+ version to human immunodeficiency virus (HIV) following
+ a heparin-lock-related injury from a hollow-bore needle
+ that had been used for infusion.4 This report presents our
+ findings related to percutaneous injury rates, patient care,
+ user satisfaction, and cost, following the introduction of a
+ needleless IV infusion system.
+ METHODS
+ From July to December 1991, a crossover clinical trial
+ (phase I, 13 weeks; phase II, 12 weeks) of a needleless inter-
+ mittent IV access system (NL) compared to a conventional
+ heparin-lock system (CHL) for peripheral infusions was con-
+ ducted on 16 medical and surgical units of the Mount Sinai
+ Medical Center, a 1,100-bed, acute-care, teaching hospital in
+ New York City. During each phase, eight nursing units each
+ used CHL or NL; at the crossover point, the devices were
+ switched. The units were similar in staff-to-patient ratio and
+ in type and degree of illness of the patients. During phase I,
+ the units utilizing the NL were three general medical, two
+ general surgical, otolaryngological, orthopedics, and trans-
+ plantation (solid organ, including liver and renal) wards; dur-
+ ing phase II, they were three medical, hematological, onco-
+ logical, cardiothoracic surgical, general surgical, neurologi-
+ cal, and neurosurgical wards.
+ The Safsite needleless access system (NL; Braun
+ Medical, Inc, Bethlehem, PA) consists of a one-way reflux
+ valve connected to extension tubing that fits directly into the
+ hub of an intravenous catheter. Unlike the rubber port of the
+ CHL, the valve of the NL is incompatible with a needle.
+ At the start of each study phase, education was pro-
+ vided to nursing personnel on the study and control units.
+ Information on Universal Precautions and infection control
+ procedures, with particular reference to N catheters and
+ handling of sharp objects, was included. In addition, study-
+ unit personnel received direct hands-on training with NL.
+ Infection control procedures included the following: inter-
+ mittent N devices were to be removed or changed after 48
+ to 72 hours,5 caps were to cover the NL valve at all times, a
+ new cap was to be used following completion of every
+ access procedure, and caps were not to be reused after
+ being removed from the valve. Using a standardized form,
+ we collected details concerning reported percutaneous
+ injuries and associated devices and procedures.6 The hos-
+ pital (OSHA) injury log was used to verify that all reported
+ percutaneous injuries were included. As mucous mem-
+ brane or nonintact skin exposures were not noted as a com-
+ plication during staff manipulation of these devices, such
+ exposures were not collected for analysis.
+ A sample of study and control units was selected ran-
+ domly each day (Monday-Friday) to enroll patients with a
+ CHL or NL inserted within the previous 24 hours. For each
+ patient, sites where a CHL or NL had been removed and cur-
+ rent sites were assessed each day. Observations were per-
+ formed by the study nurse (MR, 85% of observations) and
+ other investigators (QS, JL, MD, 15%). Because the device
+ was exposed to allow for access, observations were not
+ blinded. Scores for current sites were recorded daily, and
+ the past sites with the highest score were recorded. Obser-
+ vations included palpation of the site, followed by dressing
+ removal if the site was tender or redness was observed
+ above the dressing. An assessment of erythema and puru-
+ lence then was made. A score was assigned as follows: 0 (no
+ pain, no redness above dressing); 1 (pain, no redness or
+ cord); 2 (redness >2-3 cm above IV site, no pain or cord;) 3
+ (pain and redness <2-3 cm above IV site, no cord); 4 (pain
+ and redness >2-3 cm above the site, no cord); 5 (pain and
+ redness >2-3 cm above N site with cord); 6 (purulent
+ drainage plus findings #2 or #3 above); 7 (purulent drainage
+ plus findings #4 or #5); 8 (not available for follow-up; modi-
+ fied from Gaukroger PB7 and Mckee JM8). If the patient
+ received a score of 4 to 7, the observer was to notify the staff
+ to change the device. Patients were followed until discharge,
+ death, or until 7 days after discontinuation of NL or CHL.
+ All episodes of bacteremia on study and control units
+ were categorized as device-related, with microbiological or
+ clinical documentation, or non-device-related by an infec-
+ tious disease specialist (BRM or MHM) blinded to device
+ and nursing unit. "Device-related with microbiological and
+ clinical documentation" included those bacteremias with
+ evidence of infection at the N insertion site (ie, erythema
+ or purulence) and culture of purulent material from the
+ insertion site positive for the blood isolate. "Device-related
+ episodes with clinical documentation" included those bac-
+ teremias with clinical signs as noted above, without micro-
+ biological documentation. If the blood isolate was a com-
+ mon skin contaminant (eg, coagulase-negative staphylo-
+ cocci, diphtheroids, Bacillus species, Proprionobacterium
+ species, or micrococci), the patient had to have at least one
+ of the following: fever >380C, chills, or hypotension, and
+ either the organism was grown from =2 blood cultures
+ drawn on separate occasions or the organism was grown
+ from =1 blood culture and the physician instituted appro-
+ priate antimicrobial therapy.9
+ A survey concerning device-related complications
+ and a product evaluation survey were distributed to nurs-
+ ing staff during each study phase.
+ Cost Analysis
+ Use and costs for NL and CHL devices, as well as
+ reported percutaneous injuries related to intermittent
+ access devices for peripheral infusions, were collected and
+ extrapolated to hospitalwide and annual use as detailed in
+ the Appendix. The cost of treatment, counseling, and med-
+ ical work-up following a percutaneous injury at our institu-
+ tion has been estimated at $635.50 per case,10 including
+This content downloaded from 130.113.111.210 on Tue, 12 Apr 2016 08:57:03 UTC
+All use subject to http://about.jstor.org/terms
+ Vol. 19 No. 6 NEEDLELESS INTRAVENOUS SYSTEM: INSTITUTIONAL OUTCOMES 403
+ cost of the injured person's evaluation, counseling, and
+ management (by practitioner time); serological testing;
+ immunizations; antiviral treatment; source serological test-
+ ing and counseling; and opportunity cost of lost work time
+ of the injured person. The incremental expense for annual
+ hospitalwide NL use then was converted to cost per 1,000
+ patient days, based on 359,657 patient days (excluding well-
+ baby nursery days) accrued in 1991.
+ Data Analysis
+ Data were analyzed using Epi Info software (version
+ 5, 1991, CDC, Atlanta, GA) and additional programs written
+ in the C language. Our study design involved a crossover of
+ matched nursing units with an interim examination of the
+ data at the midpoint in time. The ideal unit of analysis,
+ manipulation of the CHL or NL by a healthcare provider,
+ was not observable. Therefore, rates of events per unit of
+ time, assuming an underlying Poisson model, were com-
+ pared using a sequential Wald likelihood-ratio test with a
+ type 1 error rate of 0.05 and 80% power to detect a rate ratio
+ of 0.10.
+ RESULTS
+ Percutaneous Injuries
+ Thirty-five percutaneous injuries were reported dur-
+ ing the study period, of which 27 were unrelated to inter-
+ mittent access devices (14 on study and 13 on control
+ units). All eight intermittent access-device-related injuries
+ occurred on control units (0/25 study weeks for NL vs 8/25
+ study weeks for CHL; P=.007).
+ Local Complications at Insertion Site
+ The insertion sites of 1,134 devices (including 516
+ NL and 618 CHL) in 594 patients were assessed. The num-
+ ber of observed indwelling device days was 2,268:1,070
+ (47.2%) NL and 1,198 (52.8%) CHL. There were an addi-
+ tional 1,201 observation-days following discontinuation of
+ CHL or NL, yielding a total of 3,469 observation days.
+ There were 190 (5.5%) days when devices could not be
+ observed because of unavailability of the patient (ie, patient
+ was off the floor or having a procedure done); however,
+ observations continued on subsequent days.
+ CHL devices were more likely to have a score >0 on
+ the first observation day as compared to NL devices (odds
+ ratio, 2.04; 95% confidence interval, 1.02-4.16; P<.05). How-
+ ever, there was no statistically significant difference in
+ scores for the two devices after the first day. Thus, for the
+ first day of insertion, there were more local problems
+ observed with CHL. However, these represented only pain
+ at the site, without objective signs of phlebitis.
+ Overall Outcome
+ Every patient in the study was followed until dis-
+ charge (76.9%), death (2.3%), or until 7 days after the dis-
+ continuation of their last device (20.1%). The rate of death
+ per 100 devices used did not differ significantly: 1.0 for NL
+ and 1.5 for CHL (P>.05).
+ TABLE 1
+ DEVICE-RELATED COMPLICATIONS
+ Respondents Indicating
+ Complication Occurred At Least
+ One Time With Device
+ Complications NL* CHLt P
+ Respondents 188 (55) 162 (46)
+ Backflow of blood through 77 (41) 47 (29) .01
+ NL valve or CHL adapter*
+ Difficulty with infusion 19 (10) 62 (38) <.001
+ Disconnection of IV tubing
+ from NL or CHL
+ 17 (9) 57 (35) <.001
+ Cap falling off NL or adapter
+ falling off angiocatheter
+ 17 (9) 21 (13) .12
+ Abbreviations: CHL, conventional heparin lock; IV, intravenous; NL, needleless system.
+ * Note: on further analysis, backflow of blood through the valve of the NL valve actually was
+ noted in the extension tubing and not into or through the valve.
+ Bacteremia
+ Of 773 episodes of bacteremia on study and control
+ units, 6 were defined to be device-related, and 21 (2.7%) had
+ an unidentified source. For device-related episodes, two were
+ eliminated from the analysis, because both NL and CHL were
+ present before the positive blood culture. Of the remaining
+ four cases, three were associated with a CHL and one with an
+ NL (P=.3). For unidentified-source cases, 7 had an NL during
+ their hospitalization, and 14 had a CHL (P=.09).
+ Device-Related Complications
+ Of 702 device-complication surveys (Table 1), 350
+ (50%) were completed (188 [54%] of 348 NL and 162 [46%]
+ of 354 CHL; P<.05). Backflow of blood through the valve
+ (NL) or heparin-lock adapter (CHL) was noted to have
+ occurred at least one time for NL by a significantly higher
+ percentage of respondents than for CHL (P=.01). However,
+ several respondents who noted backflow with the NL com-
+ mented that blood was seen in the extension tubing proxi-
+ mal to the valve and did not backflow into or through the
+ valve. Difficulty with infusion (P<.001) and disconnection of
+ IV tubing (P<.001) were reported significantly more fre-
+ quently with CHL than with NL. There was no difference in
+ the frequency of heparin-lock access ports inadvertently
+ disconnecting from angiocatheters for CHL and caps dis-
+ connecting from the valve for NL (P=.15).
+ Staff Satisfaction
+ Response rates for the product evaluation survey
+ were 57% for phase I (n=138) and 47% for phase II (n=93).
+ Responses were as follows: 94% felt completely comfortable
+ with NL after using it =5 times, 99% felt that it was either
+ easy or very easy to use, 88% indicated that no change or a
+ slight change in technique was required, 95% felt worker
+ safety was increased, 84% felt patient safety was increased,
+ and 95% preferred the study device over the standard
+ device. According to 16%, the use of NL was affected by the
+This content downloaded from 130.113.111.210 on Tue, 12 Apr 2016 08:57:03 UTC
+All use subject to http://about.jstor.org/terms
+ 404 INFECTION CONTROL AND HOSPITAL EPIDEMIOLOGY June 1998
+ TABLE 2
+ COST ANALYSIS: ANNUAL PROJECTED HOSPITALWIDE COSTS OF
+ NEEDLELESS OR CONVENTIONAL SYSTEM
+ No
+ Cost Per Total Cost per 1,000
+ Unit or Cost Patient
+ Injury ($) ($) Days ($)
+ Study system
+ Valves 55,003 1.75 96,255
+ Caps 340,837 0.17 57,942
+ Total study system 154,197 429
+ Conventional system
+ Adapters 55,003 0.29 15,951
+ Caps 131,634 0.17 22,378
+ Total conventional system 38,329 107
+ Injuries prevented
+ Injuries 52 635.50 33,046 92
+ Incremental hospitalwide cost 82,822 230
+ Cost per injury prevented 1,593
+ See Appendix for details on cost methodology.
+ urgency of the procedure. Reasons cited included that the
+ NL system is not compatible with "code" medications
+ (which often are prepackaged with long nonremovable nee-
+ dles) and that the NL cannot be used with para-injectors for
+ IV dye in radiological procedures, because the valve is not
+ strong enough to sustain the required pressure of more
+ than 75 psi.
+ Cost Analysis
+ As noted in Table 2, the projected incremental cost
+ for annual hospitalwide implementation of NL for our insti-
+ tution (in 1991) was $82,822, or $230 per 1,000 patient days.
+ The cost per injury prevented (in 1991) was $1,593.
+ DISCUSSION
+ Due to limitations in the effectiveness of education
+ regarding safe practices when handling sharps in reducing
+ percutaneous injuries, the healthcare community needs to
+ find acceptable safety devices that allow a reduction in the
+ use of needles or provide safe covering of needles as soon
+ as possible after use. Investigators have projected the
+ potential for a reduction of up to 88% of sharp injuries either
+ by the elimination of specific sharp devices or by substitu-
+ tion with available safer products.11 An analysis of 1,095 per-
+ cutaneous injuries at 10 New York City hospitals suggested
+ that up to 66% of injuries could be prevented by currently
+ available safer devices.12 Moreover, in the same study,
+ reductions of up to 93% of IV-related injuries were demon-
+ strated in the hospitals using needleless systems.6 It should
+ be noted, however, that there may be a variation in the per-
+ centage of reduction in needlestick injuries following imple-
+ mentation of needleless systems according to the type of
+ system. Systems that still allow needles to enter TV lines
+ have reduced IV-line access-related injuries by 50% to
+ 90%13-16 whereas those that completely eliminate ports for
+ needle access (as in this study) virtually have eliminated
+ such injuries.17
+ We projected a reduction of 52 injuries per year, all
+ from needles inserted into intermittent IV access devices.
+ This number is 33% greater than the number of CHL-
+ related needlesticks reported at our institution during the
+ previous year, likely due to a greater compliance with
+ reporting during the study period. Even the projected
+ reduction of 52 CHL-related injuries per year, based on
+ study data, still may be an underestimate of the actual num-
+ ber, due to the underreporting that is inherent in all needle-
+ stick surveillance data that depends on reporting of injuries
+ by healthcare workers.
+ Although frequency of injury is an important consid-
+ eration in targeting resources for prevention, selection of
+ devices that are designed to prevent injuries likely to result
+ in transmission of bloodborne pathogens should be con-
+ sidered as well. Heparin-lock ports, in contrast to more dis-
+ tal ports of IV tubing, have been demonstrated to contain a
+ substantial amount of visible blood (20% in one series18).
+ Furthermore, in the same study, occult blood was demon-
+ strated on 11% of needles removed from these ports. In the
+ one documented case of HIV transmission from a heparin-
+ lock related injury, the needle, heparin-lock port, and intra-
+ venous tubing all contained visible blood secondary to
+ backflow. Although only one such case has been reported,
+ the potential for HIV transmission with these types of
+ injuries is clear.
+ Since the introduction of devices designed to reduce
+ needlestick injuries, few studies have carefully examined
+ the results of implementation, including effects on patients
+ and staff and the economic impact. Moreover, careful eval-
+ uation of acceptance by users, effectiveness in prevention
+ of injuries, assessment of potential new hazards, and evalu-
+ ation of training required for implementation is necessary
+ to determine applicability to the healthcare environment.19
+ Our study demonstrated a 33% difference in total
+ injuries between the study and control nursing units. While
+ the number of observed device-related injuries in our study
+ was small, and one ordinarily is cautious about drawing
+ conclusions from small numbers, the magnitude of the dif-
+ ference between the experimental and control devices was
+ very large. Even with only eight injuries with CHL, an
+ observed difference of this magnitude is not plausibly
+ attributable to chance (P=.007). Neither can we identify any
+ source of bias in our design that could account for an effect
+ of this size. On the other hand, in that the difference in
+ rates of device-related complications reported are relative-
+ ly small, the difference needs to be interpreted cautiously.
+ Although a 50% response rate to the survey is as good as
+ one can hope for using this methodology, it is not large
+ enough to preclude self-selection as an important factor
+ accounting for the differences.
+ Of respondents to the staff satisfaction survey, 95%
+ preferred the needleless system. The response rate
+ obtained for this survey is at the high end of the range of
+ response rates generally obtained in studies of this nature.
+ Nevertheless, it should be expected that self-selected parThis content downloaded from 130.113.111.210 on Tue, 12 Apr 2016 08:57:03 UTC
+All use subject to http://about.jstor.org/terms
+ Vol. 19 No. 6 NEEDLELESS INTRAVENOUS SYSTEM: INSTITUTIONAL OUTCOMES 405
+ ticipants will produce a biased picture of the results. The
+ preferences for the new device over the standard
+ expressed by our respondents were so strong, however,
+ that, even allowing for appreciable self-selection bias, it is
+ fair to conclude that the nursing population as a whole pre-
+ ferred the device.
+ Analysis of the effect of the NL on patients, including
+ evaluation of the insertion site and episodes of nosocomial
+ bacteremia related to intermittent N access devices, failed
+ to demonstrate a significant difference between the NL and
+ CHL. Although there have been previous studies evaluat-
+ ing patient-related complications from needleless systems,
+ the scope of these reports have not been comparable to
+ ours.14'20
+ Recently, several investigators have reported a possi-
+ ble association of bloodstream infections with the use of
+ needleless intravenous systems for the delivery of infu-
+ sions through central venous catheters.21-25 Maki and col-
+ leagues reported that Hickman catheters with valves were
+ twice as likely to show lumenal contamination (8.3% versus
+ 3.8%). These valves also were associated with an increased
+ incidence of bacteremia. However, the study had a small
+ sample size, as only four bacteremias were reported.21
+ Danzig and colleagues reported a higher incidence of
+ bloodstream infections in home-healthcare patients receiv-
+ ing total parenteral nutrition via central venous catheters
+ using a needleless infusion system.22 An 80% increase in
+ central venous catheter-related bloodstream infections was
+ reported in pediatric hematology-oncology patients receiv-
+ ing home health care.23 A fourth study reported an out-
+ break of nosocomial bacteremia in patients with needleless
+ central and peripheral N systems due to contamination of
+ a multiuse saline solution bag and access pin used to fill
+ syringes for N flushes.24 Most recently, an increased risk
+ of bloodstream infections was reported in intensive-
+ care-unit patients that was associated independently with
+ duration of catheterization and a particular needleless sys-
+ tem.25 In addition to associations with central lines, total
+ parenteral nutrition, and particular needleless systems, it
+ also should be noted that infection control practices may
+ have been contributory in these occurrences. In our study,
+ valves always were covered by a cap when not in use, valves
+ were changed every 48 to 72 hours, and caps were changed
+ after each manipulation of the system.
+ There is very little published data on the cost impact
+ of needleless-system implementation. The projected annu-
+ al incremental cost of implementation for our hospital at the
+ time of the study was calculated at $82,822, or $230 per
+ 1,000 patient days. The incremental cost per exposure pre-
+ vented was estimated at $1,593. Although the number of
+ injuries related to the standard device reported during the
+ study period was higher than in the previous period, per-
+ haps due to increased motivation by staff, it is likely that
+ reporting still was not complete and that a greater number
+ of injuries actually would have been prevented. Substantial
+ underreporting has been noted during other studies, even
+ during the implementation phases of safety devices.26 In
+ the only other study presenting a cost analysis, Gartner
+ analyzed the 6-month cost of a needleless system in a 500-
+ bed facility, showing a cost savings of $1,291.13 However,
+ the institution size, needleless system costs, incidence of
+ needlestick injuries, and needlestick injury costs were dif-
+ ferent than ours. Furthermore, the values included in a cost
+ analysis likely will change over time in any institution, there-
+ by effecting the incremental costs of implementation. Of
+ particular note is the recent change in recommendations
+ for HIV postexposure prophylaxis to include multidrug anti-
+ retroviral therapy, thereby increasing the mean cost per
+ needlestick injury. In addition, the actual cost to an institu-
+ tion of a particular safety device may vary according to indi-
+ vidual or buying-group contracts. Nonetheless, the sub-
+ stantial cost of many safety devices now available remains
+ an important concern to healthcare institutions. Price
+ reductions by industry likely will be necessary to allow
+ healthcare employers to provide proven effective engineer-
+ ing controls to reduce sharps injuries. In addition, perhaps
+ the distribution of dollars spent on healthcare-worker pro-
+ tection from bloodborne pathogens needs to be reevaluat-
+ ed as more effective safety devices become available.
+ We hope this comprehensive analysis of various
+ device-related outcomes may serve as a prototype for insti-
+ tutions to use when selecting and evaluating devices
+ designed to reduce percutaneous injuries.
+ REFERENCES
+ 1. Department of Labor, Occupational Safety and Health Administration
+ Standard: 1910-1030. Bloodborne pathogens. Federal Register December
+ 6, 1991;56:64175-64182.
+ 2. Benson JS. Needlestick and other risks from hypodermic needles on
+ secondary IV, administration sets-piggyback and intermittent N.
+ Department of Health and Human Services Public Health Service, Food
+ and Drug Administration. FDA Safety Alert, April 16, 1992.
+ 3. Mendelson MH, Short Ij, Dong JU, Solomon J, Meyer BR, Hirschman
+ SZ. Analysis of sharps injuries at an 1,100 bed teaching medical center:
+ priorities for injury reducing devices. In: Proceedings of 31st Inter-
+ science Conference on Antimicrobial Agents and Chemotherapy, Chica-
+ go IL. Washington, DC: American Society for Microbiology; 1991.
+ 4. Occupational Safety and Health Administration. Jane Doe, San Francis-
+ co General Hospital; Service Employees International Union, Holiday
+ Inn, Union Square, January 16, 1990. Exhibit no. 214-E OSHA transcript
+ from informal public hearing. Proposed rule on occupational exposure
+ to bloodborne pathogens, pages 693-699.
+ 5. Simmons BP, Hooton T, Wong ES, Allen JR Guidelines for prevention of
+ intravenous therapy related infections. Centers for Disease Control,
+ October 1981.
+ 6. Chiarello L, Nagin D, Laufer E Pilot study of needlestick prevention
+ devices: report to the legislature. Albany, NY: New York State Depart-
+ ment of Health, March 1992.
+ 7. Gaukroger PB, Roberts JG, Manners TA. Infusion thrombophlebitis: A
+ prospective comparison of 645 vialon and teflon cannulae in anaesthetic
+ and postoperative use. Anaesth Intensive Care 1988;16:265-271.
+ 8. Mckee JM, Shell A, Warren TA, Campbell, VP. Complications of intra-
+ venous therapy: a randomized prospective study-vialon vs teflon. J
+ Intraven Nuys 1989;127(5):288-297.
+ 9. Garner JS, Jarvis WR, Emori TG, Horan TC, Hughes JM. CDC definition
+ for nosocomial infections, 1988. Am J Infect Control 1988;16:128-140.
+ 10. Short U, Mendelson MH, Rosa M, Fallick N, Hirschman SZ. Economic
+ implications of accidental needlestick injuries (NSI) at a large urban hos-
+ pital. In: Proceedings of 31st Interscience Conference on Antimicrobial
+ Agents and Chemotherapy, Chicago, IL, Washington DC: American
+ Society of Microbiology; 1991.
+ 11. Juliett E, Jagger J, Chen ML. Projected reduction of needlestick injuries
+ by substitution of safer devices. In: A National Conference on Prevention
+ of Device Mediated Bloodborne Infections, Occupational Safety and Health
+ Administration. Frontline Healthcare Workers conference. Washington,
+ DC; August 1992; Abstract E-510.
+ 12. Mendelson MH, Short L Godbold J, Schechter C, Wu X, Meyers BR, et
+This content downloaded from 130.113.111.210 on Tue, 12 Apr 2016 08:57:03 UTC
+All use subject to http://about.jstor.org/terms
+ 406 INFECTION CONTROL AND HOSPITAL EPIDEMIOLOGY June 1998
+ al. Multivariate analysis of needlestick/sharps injuries (SIs)-10 New
+ York State Hospitals, 1991. In: Proceedings of Third Annual Meeting of
+ the Society for Hospital Epidemiology of America; Chicago, IL; 1993.
+ 13. Gartner K. Impact of a needleless intravenous system in a university
+ hospital. Am J Infect Control 1992;20:75-79.
+ 14. Skolnick R, LaRocca J, Barbra D, Paicius L. Evaluation and implementa-
+ tion of a needleless intravenous system: making needlesticks a needless
+ problem. Am J Infect Control 1993;21:39-41.
+ 15. Rutowski J, Peterson SL. A needleless intravenous system: an effective
+ risk management strategy. Infect Control Hosp Epidemiol 1993;14:
+ 226-227.
+ 16. Orenstein R, Reynolds L, Karabaic M, Lamb A, Markowitz SM, Wong
+ ES. Do protective devices prevent needlestick injuries among health
+ care workers? Am J Infect Control 1995; 23: 344-351.
+ 17. Ippolito G, Decari G, Puro V, Petrosillo N, Arici C, Bertucci R, et al.
+ Device-specific risk of needlestick injury in Italian health care workers.
+ JAMA 1994;272:607-610.
+ 18. Manian FA, Meyer L, Jenne J. Puncture injuries due to needles removed
+ from intravenous lines: should the source patient routinely be tested for
+ blood borne infections? Infect Control Hosp Epidemiol 1993;14:325-330.
+ 19. Gerberding JL. Needlestick prevention: new paradigms for research.
+ Infect Control Hosp Epidemiol 1992;13:257-258.
+ 20. Adams KS, Zehrer CL, Thomas W. Comparison of a needleless system
+ with conventional heparin locks. Am J Infect Control 1993;21:263-269.
+ 21. Maki DG, Stolz S, McCormick R, Spiegel C. Possible association of a
+ commercial needleless system with central venous catheter-related bac-
+ teremia. In: Proceedings of 34th Interscience Conference on Antimicro-
+ bial Agents and Chemotherapy, Orlando Fla. Washington, DC: American
+ Society for Microbiology; October 4-7, 1994. Abstract J 201.
+ 22. Danzig LE, Short LJ, Collins K, Mahoney M, Sepi S, Blariel L, et al.
+ Bloodstream infections associated with a needleless intravenous infu-
+ sions system in patients receiving home infusion therapy. JAMA
+ 1995;273:1862-1864.
+ 23. Kellerman S, Shay D, Howard J, Feusner J, Goes C, Jarvis W, et al.
+ Bloodstream infections associated with needleless devices used for cen-
+ tral versus catheter access in children receiving home health care. In:
+ Proceedings of 35th Interscience Conference on Antimicrobial Agents
+ and Chemotherapy, San Francisco, CA. American Society for Microbiol-
+ ogy; September 17-20, 1995. Abstract J 11.
+ 24. Chodoff A, Pettis A, Schoonmaker D, Shelly M. Polymicrobial gram-
+ negative bacteremia associated with saline solution flush used with a
+ needleless intravenous system. Am J Infect Control 1995; 23:357-363.
+ 25. McDonald LC, Banerjee S, Jarvis W. Central venous catheter (CVC)-
+ associated bloodstream infections (BSI) in intensive care unit patients
+ associated with needleless access devices. Infect Control Hosp Epidemi-
+ ol 1997;18:24.
+ 26. Centers for Disease Control and Prevention. Evaluation of safety devices
+ for preventing percutaneous injuries among health-care workers during
+ phlebotomy procedures-Minneapolis-St. Paul, New York City, and
+ San Francisco, 1993-1995. MMWR 1997;46:21-25.
+ APPENDIX
+ DETAILS OF COST ANALYSIS METHODS
+ 1. The incremental cost of implementing NL was estimated based on device use, cost of devices, and number and cost of preventable injuries. The
+ following formula was used: (projected annual cost NL) - (projected annual cost of CHL) - (projected cost of preventable injuries). The annual
+ cost of NL or CHL for hospitalwide use was estimated as follows: [projected annual number of NL valves (or CHL access ports) -unit cost] + [pro-
+ jected annual number of caps-unit cost]. For NL, caps were used to cover both the valve and connecting end of IV tubing used for intermittent
+ infusion(s); for CHL, caps were utilized to cover the IV tubing only. The cost of preventable injuries was estimated as follows: [ (number of
+ injuries related to peripheral intermittent IV access de-vice) x (institutional cost of percutaneous injury, estimated at $635.50 per case in 199111)].
+ 2. Study period was 25 weeks, devices were used on only half of study units at any one time, and study units represented 71% of total hospital units.
+ Therefore, the number of valves used during the study period was multiplied by (52/25) (2) (100/71) to calculate annual hospitalwide projec-
+ tion.
+ 3. Projected number of caps annually (NL) was based on the following formula: (161) (365 d/y) (5.8 caps/device day), where 161 is the estimated
+ number of intermittent Ws existing on any given day hospitalwide, based on actual audit counts during the study period, and 5.8 caps per device
+ day represents a weighted average based on the following: 56% of intermittent peripheral IV access devices used for medication administration
+ or flushes (mean, 4 accesses/d, 8 caps/d [4 access valve, 4 N tubing]); 44% of intermittent peripheral IV access devices placed only to be avail-
+ able if access needed for flushes only, (3 accesses/d, 3 caps to cover valve only); mean (5.8) = .56 (8) +.44(3).
+ 4. Projected number of caps annually (CHL) based on above formula in (2) but (caps/device day) was 2.24, based on weighted average of (.56
+ [4] + .44 [0]): 4 caps/d for medication administration, 0 caps for flushes only.
+ 5. Projected annual number of percutaneous injuries prevented by using NL was estimated as follows. The total estimated number of CHL-related
+ injuries at the Mount Sinai Medical Center without NL during the 25-week study period included 8 that actually occurred on the control wards,
+ 8 that were estimated would have occurred on the study wards without NL (because study and control wards were matched), and 10 that
+ occurred on wards not involved in the study. Thus, 26 injuries occurred in 25 weeks, or approximately 52 injuries would have occurred in 1 year.
+ The cost of treatment, counseling, and medical work-up following a percutaneous injury at our institution has been estimated at $635.50 per
+ case." Assuming NL had the potential to eliminate all 52 heparin-lock-related injuries, approximately $33,023 would have been saved.
+ 6. There are 359,657 (excluding well-baby nursery) patient days in 1991. Therefore, all costs were divided by 359,657 and then multiplied by 1,000
+ to determine cost per 1,000 patient days.
+ Abbreviations: CHL, conventional heparin-lock system; IV, intravenous; NL, needleless intermittent intravenous access system.
+This content downloaded from 130.113.111.210 on Tue, 12 Apr 2016 08:57:03 UTC
+All use subject to http://about.jstor.org/terms

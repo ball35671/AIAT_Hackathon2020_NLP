@@ -1,0 +1,654 @@
+Vaccine 29 (2011) 1921–1928
+Contents lists available at ScienceDirect
+Vaccine
+journal homepage: www.elsevier.com/locate/vaccine
+A nasally administered trivalent inactivated influenza vaccine is well tolerated,
+stimulates both mucosal and systemic immunity, and potentially protects against
+influenza illness
+J.M. Langleya,g,∗, F. Aoki b, B.J. Wardc, A. McGeer d, J.B. Angel e, G. Stiver f
+, I. Gorfinkel g, D. Shu h,
+L. Whitei
+, B. Laskoj
+, P. Dzongowski k, K. Pappl
+, M. Alexander m, G. Boivinn, L. Fries o
+a Canadian Centre for Vaccinology, Dalhousie University and IWK Health Centre, Halifax, Canada
+b University of Manitoba, Winnipeg, Canada
+c Vaccination Studies Center, Research Institute of the McGill University Health Centre, Montreal, Canada
+d Mount Sinai Hospital, Toronto, Canada
+e Ottawa Hospital and Ottawa Research Institute, Ottawa, Canada
+f Vancouver General Hospital, Vancouver, Canada
+g PrimeHealth Clinical Research, Toronto, Canada
+h Gain Medical Center, Coquitlam, Canada
+i University of Ottawa Health Services, Ottawa, Canada
+j Manna Research, Toronto, Canada
+k London East Medical Centre, London, Canada
+l Probity Medical Research, Waterloo, Canada
+m Alexander Medical Innovations, Niagara Falls, Canada
+n Infectious Diseases Research Centre, Centre Hospitalier Universitaire de Québec, Ste-Foy, Canada
+o GlaxoSmithKline Biologicals, Columbia, MD, United States
+article info
+Article history:
+Received 13 May 2010
+Received in revised form
+16 December 2010
+Accepted 22 December 2010
+Available online 8 January 2011
+Keywords:
+Influenza
+Human
+Intranasal vaccine
+Randomized controlled trial
+abstract
+A randomized placebo-controlled double-blind trial of a nasally administered inactivated trivalent
+influenza vaccine formulated with partially purified meningococcal outer membrane proteins (OMPTIV) was conducted in 1349 healthy adults aged 18–64 years. Subjects received either vaccine containing
+15 g of haemagglutinin (HA) of each of three influenza strains for the 2003–2004 season on days 0 and
+14, or 30 g on day 0 and saline placebo on day 14, or placebo on days 0 and 14. Vaccination was well
+tolerated, with similar reactogenicity as placebo. Compared to placebo, statistically significant increases
+in mean serum haemagglutinin inhibition reciprocal titers and salivary secretory IgA to all 3 antigens
+were seen on day 28 for both vaccine dose groups. The incidence of culture-positive influenza and fever
+>37.8 ◦C and cough and one or more of sore throat, runny nose or nasal congestion, muscle or joint ache,
+headache, fatigue, or chills or culture positive influenza and at least two of these symptoms was low
+(16/1349; 1.2%). In the intent-to-immunize population too few febrile culture-confirmed illness events
+(n = 4) occurred to perform analysis. Fever occurred infrequently, even in the presence of positive cultures and disabling multi-symptom disease. In participants receiving all doses of either vaccine regimen
+the incidence of culture-confirmed influenza with respiratory symptoms and with or without fever was
+0.77% (7/904) vs. 2.03% (9/443) in placebo recipients (p = 0.045, Fisher’s exact test; relative risk reduction
+62%), despite circulation of a drift variant A/H3N2 that was poorly matched to vaccine. An OMP-TIV vaccine was well tolerated and reduced risk of symptomatic culture confirmed influenza. Vaccine efficacy
+will need to be validated in a season with a higher attack rate.
+© 2011 Elsevier Ltd. All rights reserved.
+∗ Corresponding author at: Canadian Center for Vaccinology, IWK Health Centre, 5850 University Avenue, Halifax NSB3G 3G9, Canada. Tel.: +1 902 470 8141;
+fax: +1 902 470 7232.
+E-mail address: joanne.langley@dal.ca (J.M. Langley).
+0264-410X/$ – see front matter © 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.vaccine.2010.12.100
+1922 J.M. Langley et al. / Vaccine 29 (2011) 1921–1928
+1. Introduction
+Annual vaccination is identified as the most important measure to prevent morbidity and mortality associated with seasonal
+influenza each winter [1]. Although currently available influenza
+vaccines provide substantial protection against infection in healthy
+persons, this protection is incomplete [2] and uptake of the vaccine,
+especially among persons at highest risk for complicated influenza
+and their caregivers, remains suboptimal [1].
+Vaccines delivered to the nasal mucosae have the advantage
+of not requiring injection and thus being more acceptable to
+vaccinees. They may also stimulate both systemic and mucosal
+immune responses, thus enhancing personal protection and potentially reducing transmission to others [3]. A prototype monovalent,
+influenza A/H1N1 adjuvanted vaccine had an acceptable safety
+profile and was immunogenic when given nasally to 154 healthy
+adults in two phase 1 clinical trials and so subsequently a trivalent formulation was evaluated in a randomized, double-blind,
+placebo-controlled, dose-ranging clinical trial to assess the safety
+and immunogenicity [4], as well as in a human challenge study [5].
+The adjuvant/delivery system for this vaccine consists of
+hydrophobic, proteinaceous, nanoparticles composed of purified
+Neisseria meningitidis outer membrane proteins (OMPs). These
+nanoparticles can non-covalently associate with amphiphilic antigens, such as the key antigens of inactivated influenza vaccines, the
+viral haemagglutinins and neuraminidase, by virtue of an antigen’s
+hydrophobic anchor sequence.
+We conducted a randomized, placebo-controlled trial to provide a preliminary assessment of the protective efficacy of a
+nasally administered meningococcal outer membrane protein
+adjuvanted trivalent influenza vaccine (hereinafter abbreviated
+OMP-TIV) against laboratory-confirmed influenza infection during
+the 2003–2004 influenza season in Canada.
+2. Materials and methods
+2.1. Vaccine
+Formulation of OMP-TIV product has been previously described
+[4]. The vaccine contains equal parts of three monovalent egggrown, formalin-inactivated influenza antigens formulated with
+OMPs of N. meningitidis serogroup B strain 8047 at an initial ratio
+of OMP to haemagglutinin (HA) of 4:1. After diafiltration to remove
+detergents necessary to keep the OMPs in stable solution in the
+absence of antigen, the overall total protein to HA ratio in the final
+vaccine product is 2.5 to 5:1. The trivalent vaccine stock for this
+study contained HA from each of A/New Caledonia/20/99 [H1N1],
+A/Panama/2007/99 [H3N2] and B/Shangdong/7/97 [H1N1], which
+were the influenza antigens recommended for inclusion for the
+2003–2004 season [1,6]. There were two test articles studied: a lot
+with 75 ± 15 g of iHA from each of the three influenza strains and
+a lot with 150 ± 30 g HA from each of the three influenza strains
+per milliliter. Both lots are sterile, colorless to yellowish opalescent
+and preserved with 0.01% thimerosal. The placebo control was sterile phosphate-buffered isotonic saline with 0.01% thimerosal, and
+was colorless.
+2.2. Study population
+Adults aged 18–64 years inclusive, in good general health as
+determined by a screening evaluation (history, physical examination, selected clinical laboratory tests), who were willing to forgo
+the approved 2003–2004 intramuscular influenza vaccine and who
+gave informed consent, were eligible to participate. Exclusion
+included membership in groups for which annual influenza vaccination is recommended; presence of significant acute or chronic,
+uncontrolled medical or psychiatric illness; pregnancy; infection
+with Human Immunodeficiency Virus, Hepatitis B or Hepatitis C
+Virus; chronic use of any medication or product for symptoms
+of rhinitis or nasal congestion or any chronic nasopharyngeal
+complaint or use of such product within seven days prior to immunization; asthma; symptoms or diagnosis suggesting gag reflex
+impairment or predisposition to aspiration; use of systemic glucocorticosteroids or immunosuppressive medications; receipt of
+investigational drugs in the prior month, presence of febrile or
+upper respiratory tract illness on the day of immunization, and
+known hypersensitivity to mercurials or chicken eggs.
+2.3. Study design
+The study protocol was approved by the Research Ethics Board
+at each participating institution or by a central ethics board. Enrolment was conducted at 28 sites in Canada. Written informed
+consent was obtained from all participants.
+The study was double-blind, randomized and placebocontrolled. Neither the subject nor the site study team (staff
+performing clinical safety or efficacy evaluations and investigators)
+were aware of patient assignment. One research nurse at each site
+was responsible for randomization, maintenance of the treatment
+log, test article preparation and administration. This staff member
+did not perform any safety or efficacy observations and could not
+reveal treatment assignment to participants or other study staff.
+Subjects were assigned centrally within blocks and stratified within
+each site by age ≤49 and >49 years, and history of prior influenza
+immunization within 2 years.
+The primary outcome measure for efficacy was cultureconfirmed influenza illness (CCI) defined as fever (oral temperature
+>37.8 ◦C) and cough and at least one of sore throat, runny nose or
+nasal congestion, muscle or joint ache, headache, fatigue, or chills
+(with symptoms sufficient to impede normal daily activities) and
+a positive nose and throat swab culture for influenza A or B virus
+(Table 1). A co-primary endpoint measure was a positive nose and
+throat swab culture for influenza A or B virus and at least two of
+the following 8 symptoms: fever, cough, sore throat, runny nose or
+nasal congestion, muscle or joint ache, headache, fatigue, or chills.
+The secondary outcome measure, influenza-like illness with evidence of influenza infection, required laboratory confirmation of
+influenza by either a positive culture for influenza A or B virus, or
+positive RT-PCR for influenza A or B virus or a 4-fold rise in reciprocal titer for a circulating influenza strain between days 28 and 180
+and fever and cough and at least one of sore throat, runny nose or
+nasal congestion, muscle or joint ache, headache, fatigue, or chills.
+2.4. Study procedures
+Vaccine and placebo were delivered to the nasal mucosae using
+a VP3/100 nasal spray pump (Valois of America, Greenwich, CCCN)
+with the participant in a sitting position. The test article was
+administered on days 0 and 14 following one of the following
+regimens: (1) meningococcal OMP-adjuvanted trivalent influenza
+vaccine with 15 g of each HA antigen on days 0 and 14, or (2)
+meningococcal OMP-adjuvanted trivalent influenza vaccine with
+30 g of each HA antigen on day 0 and saline placebo on day
+14, or saline placebo on days 0 and 14. The volume administered
+intranasally was 0.20 mL (0.10 mL per nostril). The nose piece of
+the pump was placed in one nostril while the participant occluded
+the other nostril. While the participant gently inhaled through the
+nose, the actuator was fully depressed. The process was repeated
+for the other nostril.
+A complete physical examination was performed and recorded
+at the screening visit. Symptom-focused or complete physical
+J.M. Langley et al. / Vaccine 29 (2011) 1921–1928 1923
+Table 1
+Efficacy outcome measures for influenza.
+Outcome measure Type of endpoint Laboratory method Clinical symptoms
+Positive influenza
+culture
+Influenza RT-PCR positive
+or 4-fold rise in reciprocal
+HAI titer for a circulating
+influenza strain between
+day 28 and end of study
+Fever (oral
+temperature >37.8 ◦C)
+Cough ≥1 of: sore throat,
+runny nose/nasal
+congestion, muscle
+or joint ache,
+headache, fatigue,
+chills
+Culture confirmed influenza (CCI) Primary √ √ √√
+Laboratory confirmed influenza Co-primary √ At least 2 of these 8
+clinical symptoms (e.g.
+cough and headache or
+fever and joint ache or
+sore throat and fatigue)
+Influenza -like illness Secondary One of these 3
+laboratory tests
+positive
+√ √√
+examinations were performed, as appropriate, for evaluation of
+participant complaints throughout the trial. On days 0 and 14 a
+directed physical examination of the ears, nose, throat and cervical and auricular lymph nodes was conducted. Participants were
+monitored for 30 min after the immunization on days 0 and 14
+for any immediate adverse events, and then completed a questionnaire which graded selected complaints as 0 (none), Grade 1
+(mild), Grade 2 (moderate) or Grade 3 (severe). From days 0 to 7
+subjects self-monitored evening oral temperature and completed
+a written memory aid of reactogenicity. On days 3, 7, 17 and 21
+participants reported the maximum oral temperature and severity
+score in the previous days via an interactive voice response system.
+A clinic visit for subject assessment was initiated if symptom complaints exceeded Grade 2. Prior to the day 14 dose subjects were
+questioned about interim adverse events, and a physical exam was
+performed. Coding for adverse events was according toMedical Dictionary for Regulatory Activities (MeDRA®, Chantilly, VA) version
+6.1.
+Blood and nasal mucous samples were collected on days 0
+and 28 for haemagglutiin inhibition (HI) reciprocal titers and salivary secretory IgA (sIgA) measurement, respectively. Nasal mucous
+samples were obtained by instilling 5 mL of sterile phosphatebuffered saline through the nostril with the participant tilting his or
+her head back to a 45◦ angle and waiting 10 s. The participant then
+leaned forward to allow the saline to pour into a sterile sample
+container. This procedure was completed for each nostril.
+Telephone contacts with subjects were made every two weeks
+to solicit adverse events and identify influenza-like illness. Spontaneous illness reports were received via toll-free telephone call
+center and reported to investigators. If the participant illness
+included at least two of the illness criteria, and was severe enough
+to impede normal daily activities then a nurse visit was initiated.
+The nurse verified symptoms, collected nose and throat swabs and
+recorded the participant’s temperature.
+The final clinical visit occurred at approximately 7 months after
+enrolment (April–May) to record changes in concomitant medication, adverse events, and for physical examination or laboratory
+testing if deemed appropriate by the site investigator.
+2.5. Laboratory methods
+Influenza viruses were cultured on MDCK cells in small 1 mL
+vials and cytopathic effects and/or positive hemadsorption tests
+were confirmed by monoclonal antibodies. A multiplex RT-PCR
+test was used to detect influenza A and B viruses as reported
+[7]. Influenza A viruses were subsequently subtyped by another
+RT-PCR assay [8]. Systemic immune responses were assessed by
+serum HI antibody titers specific for the three viruses included
+in the vaccine, prior to vaccination, just prior to the first dose
+and 28 days after the first dose. Sera were tested by standard
+microtitre haemagglutination-inhibition methods after treatment
+with receptor-destroying enzyme. Nasal washes were concentrated approximately 4-fold using CentriconTM centrifugal filter
+devices (50,000 molecular weight cut-off) as described by the manufacturer (Millipore Corporation, Billerica, MA). Strain-specific sIgA
+responses were measured by kinetic enzyme-linked immunosorbent assay (KELISA) as previously described [10]. With the
+following modification: optical density at 650 nm was recorded
+every 12 s for a total run time of 5 min at 25 ± 3 ◦C using a
+Benchmark PlusTM Microplate Spectrophotometer and Microplate
+ManagerTM version 5.2 build 103 Software (Bio-Rad Laboratories,
+Mississauga, ON, Canada) to generate a KELISA rate. A mean rate
+was calculated from the triplicate for each sample. Repeated assays
+on standard samples yielded a day-to-day coefficient of variation
+of ≤20%. A small number of samples required assay at additional
+dilutions to obtain KELISA rates in the linear response range of
+the assay; results were corrected for the dilution factor. Total sIgA
+levels in nasal wash were quantified by radial immunodiffusion
+using BINDARIDTM kits as described by the manufacturer (The Binding Site Ltd., Birmingham, UK). Virus-specific sIgA KELISA rates
+in each sample were then normalized to the arithmetic mean of
+total sIgA determinations for all specimens from the entire study
+population.
+2.6. Data analysis and statistical considerations
+The safety analysis included all enrolled subjects who received
+at least one dose of the test article. Subjects were analyzed according to the actual article received rather than the article to which
+they were randomized. A 1-sided hypothesis test at the overall
+0.025 level of significance was used in primary analyses, or a 2-
+sided hypothesis test at the overall 0.05 level of significance in other
+analyses. The analysis of the primary efficacy endpoint, cultureconfirmed influenza, was based on an intention-to-immunize
+sample (ITI) which included any subject who received at least one
+dose of test article. Subjects were analyzed under the treatment to
+which they were randomized. This method excluded persons who
+were randomized but did not receive test article. (A number of subjects were enrolled but not given the test article because enrollment
+closed when overall study subject accrual targets were met.) The
+additional primary efficacy endpoint, culture-positive influenza A
+or B in participants that met criteria for an illness visit, was based
+on the evaluable subjects (ES) i.e., those who had a complete regimen (i.e. one dose of placebo in the placebo group, at least one dose
+of 30 g, 2 doses of 15 g). The secondary analysis of participants
+with influenza-like illness and evidence of influenza infection (i.e.
+1924 J.M. Langley et al. / Vaccine 29 (2011) 1921–1928
+Table 2
+Demographics and baseline characteristics—intent to immunize population.
+OMP-TIV 15 g × 2 OMP-TIV 30 g × 1 Placebo Total
+N N = 455 (n = 450) (n = 443) (n = 1348)
+Age
+Mean (SD) 37.5 (11.9) 36.9 (12.5) 36.9 (12.5) 37.1 (12.2)
+Median 38 37 36 37
+Age categories
+≤ 49 years 372 (81%) 369 (82%) 365 (82.4%) 1106 (82%)
+≥49 years 83 81 78 242
+Gender
+Male 204 (44.8%) 206 (45.8%) 208 (47%) 618 (45.8%)
+Ethnicity
+White 424 (93.2%) 415 (92.2%) 420 (94.8%) 1259 (93.4%)
+Asian 12 (2.6%) 18 (4.0%) 11 (2.5%) 41 (3.0%)
+African-Canadian 11 (2.4%) 7(1.6%) 7 (2.5%) 25 (1.9%)
+Prior influenza immunization within 2 years 133 (29.2%) 128 (28.4%) 127 (28.7%) 388 (28.8%)
+Any prior influenza immunization 186 (40.9%) 190 (42.2%) 181 (40.9%) 557 (41.3%)
+at least one of culture, PCR or 4-fold antibody rise) was conducted
+on the evaluable subjects.
+For both the ITI and ES comparisons of 2 OMP-TIV doses with
+placebo, 1-sided categorical data analysis models were used that
+adjusted for stratification (age, gender and prior influenza immunization within 2 years) as well as interactions with the vaccination
+group. The final analysis included the vaccination group and those
+covariates which were significantly associated with outcome. Vaccine efficacy estimates are presented as relative risk, their lower
+97.5% confidence bounds, and a p value for the test of zero efficacy.
+Continuous data were summarized using descriptive statistics (n,
+median, mean, range).
+Serum HI antibody reciprocal titers were log transformed (log 2)
+and their means and 95% confidence intervals (CI) presented by
+vaccination group. Titers less than 1:10 or greater than 1:640 were
+treated as 1:5 or 1:1280, respectively, during log transformation.
+Proportions of subjects with HI antibody reciprocal titers of at least
+40 or showing a 4-fold rise from baseline were calculated. Salivary sIgA kinetic enzyme-linked immunosorbent assay levels were
+normalized on a total sIgA content of the specimen. HI antibody
+reciprocal titers and salivary-specific IgA levels were compared
+between groups postimmunization by a linear model (SAS PROC
+GLM). The model adjusted for baseline HI reciprocal titer, age, gender, and prior influenza immunization within 2 years.
+Proportions of subjects in each group having each reactogenicity
+complaint after each dosage administration and overall were calculated; the higher grade severity of immediate complaint and oral
+temperature for two doses was used in the overall summary and
+compared by a generalized Cochran–Mantel–Haenszel test adjusting for site, age and prior influenza immunization within 2 years.
+Maximum reaction rates complaints (Grade 2 or higher) or temperature ≥37.8 ◦C were also compared between each dosage using
+McNemar’s Chi squared test. Adverse events were coded according to system organ class by the Medical Dictionary for Regulatory
+Activities (MeDRA®) version 6.1.
+Safety analysis included all enrolled subjects who received at
+least one dose of test article; subjects were analyzed according to
+actual test article received.
+1349 subjects enrolled
+1348 randomized (99.9%)
+OMP-TIV 15 µg X 2
+(n = 455)
+OMP-TIV 30 µg X1
+(n = 450)
+Placebo
+(n = 443)
+452 completed
+(99.3%)
+442 completed
+(98.2%)
+432 completed
+(97.5%)
+Fig. 1. Participant flow.
+J.M. Langley et al. / Vaccine 29 (2011) 1921–1928 1925
+The software SAS
+® (SAS Institute, version 8.2 or later, Cary, NC)
+was used for all analyses.
+3. Results
+3.1. Demographics
+Of 1349 participants enrolled, 1348 were randomized (99.9%).
+Completion rates in the three study arms are seen in Fig. 1. One
+subject was ineligible for the intent-to-immunize sample, and
+two were ineligible for the evaluable subject population. Thus the
+intent-to-immunize population was 1348, the safety population
+1349 and the evaluable subject population 1347. The demographics
+of the intent-to-immunize population are seen in Table 2
+.
+3.2. Reactogenicity and safety
+There were no significant differences in the incidence of any
+immediate complaint or post-immunization temperature between
+the three study groups (Table 4). Less than 10% of participants
+reported any immediate complaint after either dose of vaccine or
+control. Among the Grade 1 complaints (mild), the most common
+were: burning or stinging in the nose (133/1349; 9.9%), lightheadedness or dizziness (107/1349; 7.9%), itching in the nose, throat
+or eyes (96/1349; 7.1%), and burning or stinging in the throat
+(39/1349; 2.9%). The incidence of these complaints decreased after
+exposure to the second dose of the test article. There were no Grade
+3 complaints; two placebo recipients reported Grade 2 dizziness or
+lightheadedness (2/1349; 0.5%). Fever (37.8–38.2
+◦C) occurred in
+one placebo and one 30
+g dose recipient.
+Considering reactogenicity complaints reported over 7 days
+after either dose, incidence rates were remarkably similar between
+the three treatment groups, and no significant differences between
+active and placebo treatment groups were noted. For each complaint solicited, >50% of subjects in all groups reported no symptom
+(Grade 0) at any time point, and <6% of subjects overall reported any
+complaint at Grade 2 or 3 severity. The most common complaints
+were all of Grade 1 severity and included runny nose (571/1349,
+42.3%), stuffy nose (517/1349, 38.3%), headache (450/1349, 33.4%),
+sneezing (386/1349, 28.6%), sore throat (363/1349, 26.9%), tiredness/fatigue (338/1349, 25.1%), and cough (282/1349, 20.9%). In no
+case did the incidence in any treatment group deviate by more than
+3% from the overall rate.
+Spontaneously reported adverse events occurred in 66.9% of
+the trial population, including 305/455 recipients of two OMP-TIV
+doses at the 15
+g dose level (67.0%), 296/451 recipients of one
+OMP-TIV dose at the 30
+g dose level (65.6%), and 302/443 recipients of placebo (68.2%); there were no clear imbalances among
+MedDRA preferred terms across the treatment groups. There were
+7 serious adverse events, 6 of which were assessed by the investigators as not related to the test article. An episode of hypersensitivity
+in a single participant (15
+g group) was deemed probably related
+to the test article by the local investigator. This event occurred in a
+50-year-old woman who had never previously received influenza
+vaccine, after the second 15
+g dose of vaccine. About 8 min after
+vaccine receipt she developed rash, dyspnea, palpitations, dizziness, blurred vision, tachycardia and hypotension. She improved
+within 15 min of supine positioning and intramuscular diphenhydramine, and had no further sequelae.
+3.3. Immunogenicity
+Statistically significant increases in geometric mean serum HI
+titers and in the proportion of subjects with HI titers
+≥1:40, a level
+suggested as correlating with protection in adults, were observed
+Table 3
+Serum haemagglutination-inhibition and specific salivary sIgA responses to study treatments.
+Serum HI
+antibody
+reciprocal
+titers
+OMP-TIV 15 g × 2 A/New Caledonia/20/99 (H1N1) A/Panama/2007/99 (H3N2) B/Shandong/7/97
+OMP-TIV 30 g × 1 Placebo OMP-TIV 15 g × 2 OMP-TIV 30 g × 1 Placebo OMP-TIV 15 g × 2 OMP-TIV 30 g × 1 Placebo
+N = 447a N = 443 N = 439 N = 447 N = 443 N = 439 N = 447 N = 443 N = 439
+Pre GMT (95% CI) 17.6 (15.5–20.2) 17.6 (15.2–20.4) 17.1 (14.8–21.7) 34.1 (29.8–38.6) 34.3 (29.8–39.4) 33.1 (29.0–37.8) 7.8 (7.3–8.5) 7.8 (7.2–8.4) 7.4 (6.9–7.9)
+N, % with titer ≥40
+(95%CI)
+149, 33.3%
+(29.0–37.9)
+139, 31.4%
+(27.1–35.9)
+138, 31.4%
+(27.3–35.9)
+244, 54.6%
+(49.8–59.3)
+242, 54.6%
+(49.9–59.3)
+238, 54.4%
+(49.4–59.0)
+39, 8.7% (6.3–11.7) 41, 9.3% (6.7–12.4) 37, 8.4% (6.0–11.4)
+Day 28 GMT (95% CI) 39.1* (34.0–44.6) 40.5* (35.2–46.8) 16.9 (14.6–19.6) 75.6* (68.6–83.8) 83.8* (75.6–93.7) 35.0 (30.7–39.9) 9.0* (8.3–9.8) 9.3* (8.5–10.1) 7.5 (7.0–8.1)
+N, % with titer ≥40
+(95% CI)
+268, 60.0%*
+(55.3–64.5)
+254, 57.3%*
+(52.6–62.0)
+135, 30.8%
+(26.6–35.2)
+377, 84.3%*
+(80.6–87.6)
+383, 86.5%*
+(82.9–89.5)
+245, 55.8%
+(51.0–60.5)
+61, 13.7%*
+(10.6–17.2)
+60, 13.5%
+(10.5–17.1)
+42, 9.6% (7.0–12.7)
+N, % with ≥4-fold
+rise (95%CI)
+145, 32.4%*
+(28.1–37.0)
+148, 33.4%*
+(29.0–38.0)
+7, 1.6% (0.6–3.3%) 148, 33.1%*
+(28.8–37.7)
+150, 33.9%*
+(29.5–38.5)
+15, 3.4% (1.9–5.6) 30, 6.7%* (4.6–9.4) 36, 8.1%* (5.8–11.1) 7, 1.6% (0.6–3.3)
+Virus-specific salivary IgA levelsb
+Pre GM (95% CI) 6.1 (5.8–4.8) 5.6 (5.2–5.9) 5.9 (5.5–6.3) 8.1 (7.6–8.6) 8.1 (7.6–8.6) 7.9 (7.5–8.5) 6.2 (5.9–6.6) 5.9 (5.5–6.2) 6.0 (5.6–6.4)
+Day 28 GM (95% CI) 9.3* (8.7–9.9) 8.1* (7.6–8.6) 6.5 (6.1–7.0) 12.9* (12.2–13.7) 11.5* (10.9–12.2) 8.6 (8.1–9.2) 9.3* (8.8–9.9) 7.9* (7.4–8.4) 6.5 (6.1–7.0)
+a N = subjects in ITI population with paired serum HI data. *p < 0.001 vs. placebo group at same time point.
+b Virus-specific salivary IgA levels are expressed as the geometric means of absorbance units per minute in a specific kinetic ELISA as previously described (see Section 2).
+1926 J.M. Langley et al. / Vaccine 29 (2011) 1921–1928
+Fig. 2. Percentage of study population with serum antibody responses to vaccine-specific antigens, day 28, ITI population.
+in both active treatment groups in contrast to placebo recipients
+(Table 3 and Fig. 2). Responses were more frequent, and of larger
+magnitude, for the two influenza A viruses than for the influenza B
+component. Rises in geometric mean salivary sIgA levels specific for
+all 3 antigens were also observed on day 28 for both active vaccine
+regimens compared to placebo (Table 3 and Fig. 3)
+3.4. Efficacy
+The incidence of laboratory confirmed influenza was low in
+the overall study population; with only 16/1347 participants overall having a positive culture (1.2%). The incidence of disease by
+outcomemeasure is seen inTable 5. In the intent-to-immunize population (n = 1348) too few cases of CCI (primary outcome measure)
+occurred to perform a meaningful analysis (n = 4). This result was
+conditioned primarily by the very low incidence of fever (either
+self-observed or nurse-confirmed) in these adult subjects, even in
+the presence of influenza culture positivity and 4–5 other symptoms which interfered with normal daily activities. In participants
+Fig. 3. Mean salivary IgA response to three influenza antigens, day 28, ITI population.
+receiving either active vaccine regimen, and using a clinical outcome of without fever, the incidence of influenza was 0.77% (7/904)
+compared to 2.03% (9/433) in placebo recipients (p = 0.045, Fisher’s
+exact test; relative risk reduction 62%). The addition of RT-PCR as a
+diagnostic tool increased the case rates only slightly and did not
+materially affect the apparent efficacy. Considering seroconversion to circulating strains as evidence of influenza infection (4-fold
+antibody rise) increased the number of cases while slightly decreasing apparent efficacy. The influenza season in Canada peaked
+in December and the predominant strain was A/Fujian/411/02-
+like [H3N2], a drift variant that was not well-matched to the
+vaccine.
+4. Discussion
+In this multicenter phase 2 randomized placebo-controlled trial
+of a nasally administered inactivated influenza vaccine we have
+demonstrated that this novel adjuvanting method produces a vaccine that is minimally reactogenic and immunogenic. A relatively
+mild influenza season among the adult subjects enrolled in this
+study precluded evaluation of efficacy.
+Although the incidence of influenza was too low in our study
+population to convincingly demonstrate vaccine efficacy, we did
+observe a relative risk reduction in symptomatic culture-confirmed
+influenza of 62% compared to placebo recipients despite the circulation of a drift variant. The 2003–2004 influenza season saw the
+emergence of the A/Fujian strain, accounting for 96.8% of H3N2
+isolates in Canada that year [9], which was mismatched with
+A/Panama/2007/99 [H3N2] in the recommended vaccine. Although
+vaccines with strains well matched to circulating virus can result
+in 80% (95% CI 56–91%) efficacy in preventing influenza in healthy
+adults, the efficacy of mismatched vaccines is estimated at 50% (95%
+CI 27–65%) in systematic reviews [2]. National influenza surveillance for 2003–2004 indicated that the age groups most affected
+J.M. Langley et al. / Vaccine 29 (2011) 1921–1928 1927
+Table 4
+Immediate complaints and temperature in healthy adults randomixed to one of two dosing regimens of a nasally administered influenza vaccine or placebo—safety population.
+Overallc OMP-TIV 15 g × 2(N = 455) OMP-TIV 30 g × 1(N = 451) Placebo(N = 443) Total(N = 1349)
+Burning or stinging in the nosea
+Grade 0 410 (90.1%) 400 (88.7%) 406 (91.6%) 1216 (90.1%)
+Grade 1 45 (9.9%) 51 (11.3%) 37 (8.4%) 133 (9.9%)
+Grade 2, Grade 3, or no observation 0 0 0 0
+p valueb 0.521 0.298
+Burning or stinging in the throata
+Grade 0 442 (97.1%) 439 (97.3%) 429 (96.8%) 1310 (97.1%)
+Grade 1 13 (2.9%) 12 (2.7%) 14 (3.2%) 39 (2.9%)
+Grade 2, Grade 3, or no observation 0 0 0 0
+p valueb 0.777 0.943
+Itching in the nose, throat, or eyesa
+Grade 0 423 (93.0%) 413 (91.6%) 417 (94.1%) 1253 (99.5%)
+Grade 1 32 (7.0%) 38 (8.4%) 26 (5.9%) 96 (7.1%)
+Grade 2, Grade 3, or no observation 0 0 0 0
+p valueb 0.365 0.147
+Shortness of breatha
+Grade 0 454 (99.8%) 450 (99.8%) 438 (98.9%) 1342 (99.5%)
+Grade 1 1 (0.2%) 1 (0.2%) 5 (1.1%) 7 (0.5%)
+Grade 2, Grade 3, or no observation 0 0 0 0
+p valueb 0.058 0.061
+Lightheadedness or dizzinessa
+Grade 0 425 (93.4%) 409 (90.7%) 406 (91.6%) 1240 (91.9%)
+Grade 1 30 (6.6%) 42 (9.3%) 35 (7.9%) 107 (7.9%)
+Grade 2 0 0 2 (0.5%) 2 (0.1%)
+Grade 3 or no observation 0 0 0 0
+p valueb 0.215 0.284
+A new rash or a rash that has become itchya
+Grade 0 455 (100%) 449 (99.6%) 443 (100%) 1347 (99.9%)
+Grade 1 0 2 (0.4%) 0 2 (0.1%)
+Grade 2, Grade 3, or no observation 0 0 0 0
+p valueb – 0.306
+Feverishnessa
+Grade 0 452 (99.3%) 451 (100%) 441 (99.5%) 1344 (99.6%)
+Grade 1 3 (0.7%) 0 2 (0.5%) 5 (0.4%)
+Grade 2, Grade 3, or no observation 0 0 0 0
+p valueb 0.646 0.150
+Temperature (◦C)
+<37.8 455 (100%) 450 (99.8%) 442 (99.8%) 1347 (99.9%)
+37.8–38.2 0 1 (0.2%) 1 (0.2%) 2 (0.1%)
+38.3–38.9 0 0 0 0
+≥39.0 0 0 0 0
+No observation 0 0 0 0
+p valueb 0.317 0.977
+a Grade 0 = none = I did not have it at all; Grade 1 = mild = just noticeable; Grade 2 = moderate = unpleasant/uncomfortable but not incapacitating; Grade
+3 = severe = preventing resumption of normal activities.
+b p values between OMP-TIV and placebo groups were based on generalized CMH test adjusting for stratification factors (site, age, and prior influenza immunization [within
+2 years]).
+c The higher grade of severity for all visits was reported. Percentages were based on the safety sample.
+were children <5 years of age (33% of isolates) followed by persons over 65 years (25% of isolates) [9]. Adults 25–64 years of age
+contributed only 20% of confirmed cases. Convincing evidence of
+efficacy of the nasally administered meningococcal outer membrane protein adjuvanted trivalent influenza vaccine would require
+validation in much larger numbers of subjects, and preferably a
+season with a higher attack rate and better match between circulating strains and vaccine antigen. The vaccine was significantly
+immunogenic relative to placebo as measured by both rise in both
+serum HAI titers and salivary IgA levels on day 28, and the majority of recipients had a four-fold rise in antigen-specific antibody
+titers, or an HI titer >1:40, or both on day 28. The vaccine was significantly immunogenic relative to placebo as measured by both
+rise in both serum HAI titers and salivary IgA levels on day 28.
+We have previously shown that local immune responses occur by
+day 14 after immunization [4]. It is important to note that serum
+HAI titers, which are widely used for the evaluation of parenterally delivered influenza vaccines and serve as the basis for annual
+re-registration of these products, capture of only one aspect of the
+immune response to a mucosal vaccine. Past experience with this
+vaccine suggests we should not expect serum HAI responses of the
+same magnitude as those elicited by an intramuscular product. The
+Table 5
+Incidence of influenza according to outcome measure among three study arms.
+OMP-TIV 15 g × 2 OMP-TIV 30 g × 1 Placebo Total
+N = 455 (n = 450) (n = 443) (n = 1348)
+1◦ Outcome measure
+Culture-confirmed influenza (CCI, intent-to-immunize population) 1 0 3 4/1348 (0.3%)
+2◦ Outcome measure
+Culture positive (CCI, but with no requirement for fever (evaluable subjects) 4 3 9 16/1347 (1.2%)
+Influenza-like illness 2 2 4 8/1348 (0.59%)
+1928 J.M. Langley et al. / Vaccine 29 (2011) 1921–1928
+potential efficacy of a mucosal vaccine may depend to a substantial
+extent on secretory IgA or even cellular responses, for which there
+are no gold-standard assays at present or accepted standards for
+protective responses.
+Fever and cough are considered important clinical hallmarks of
+influenza. Interestingly we found the majority of outpatient adults
+with laboratory-confirmed influenza and multi-symptom respiratory disease impeding normal daily activities and cough, could not
+provide confirmation of fever. It is possible that due to the intermittent nature of fever, we were unable to document this sign at
+the time of clinical assessment. However, no specific symptom or
+combination of symptoms is diagnostic of influenza [10]. The combination of fever and cough increases the likelihood ratio that a
+patient has influenza by only 1.9, and absence of these symptoms
+(negative likelihood ratio) performs even more poorly at 0.54 [10].
+Future trials should include as an outcome measure laboratoryconfirmed influenza associated with significant respiratory illness
+both with and without fever.
+The larger sample size of this trial has permitted a more accurate
+estimate of reactogenicity than was possible in earlier and smaller
+phase 1 and 2 studies using a monovalent and trivalent product
+[4,11]. Of over 1300 participants, one vaccine recipient had a fever
+(37.8–38.2 ◦C) in the post-vaccinal period, and less than 10% had
+transient burning or stinging in the nose or itching in the nose,
+throat or eyes. These complaints decreased in frequency after the
+second dose of vaccine. There were no Grade 2 or 3 complaints. One
+subject had a hypersensitivity reaction deemed probably related to
+the test article.
+Ease of administration is an important characteristic of vaccine
+delivery, for both the health care provider and the vaccine recipient. Nasally administered vaccines should be more acceptable than
+injectable ones for up to 10% of the population with a fear of needles [12,13]. Inactivated influenza vaccines based on nasal spray
+administration appear to be more acceptable than nasal drops to
+vaccinees [3]. Programs using nasally administered vaccines could
+also be simpler to implement since vaccine providers would not
+have to have the skill set required for injectable medications, and
+thus potentially less expensive. Vaccines administered by this route
+also have the potential advantage of enhanced production of nasal
+IgA [14].
+Acknowledgments
+We would like to thank the participants, clinical research coordinators, and Janine Linden of IDBiomedical.
+References
+[1] Fiore AE, Shay DK, Haber P, Iskander JK, Uyeki TM, Mootrey G, et al.
+Prevention and control of influenza. Recommendations of the Advisory
+Committee on Immunization Practices (ACIP), 2007. MMWR Recomm Rep
+2007;56(RR–6):1–54.
+[2] Jefferson TO, Rivetti D, Di Pietrantonj C, Rivetti A, Demicheli V. Vaccines
+for preventing influenza in healthy adults. Cochrane Database Syst Rev
+2007;(2):CD001269.
+[3] Eyles J, Williamson D, Alpar H. Intranasal administration of influenza vaccines
+current status. BioDrugs 2000;13(1):35–59.
+[4] Langley JM, Halperin SA, McNeil S, Smith B, Jones T, Burt D, et al. Safety and
+immunogenicity of a proteosome-trivalent inactivated influenza vaccine, given
+nasally to healthy adults. Vaccine 2006;24(10):1601–8.
+[5] Fries L, Lambkin R, Gelder Cea. FlulNsure and inactivated trivalent influenza
+vaccine for intranasal administration is protective in human challenge with
+A/Panama/2007/99 (H3N2). In: Options for the Control of Influenza V. 2003.
+[6] An advisory committee statement (ACS). National Advisory Committee on
+Immunization (NACI). Statement on influenza vaccination for the 2003–2004
+season. Can Commun Dis Rep 2003;29:1–20.
+[7] Boivin G, Cote S, Dery P, De Serres G, Bergeron MG. Multiplex real-time PCR
+assay for detection of influenza and human respiratory syncytial viruses. J Clin
+Microbiol 2004;42(1):45–51.
+[8] Ellis JS, Fleming DM, Zambon MC. Multiplex reverse transcription-PCR for
+surveillance of influenza A and B viruses in England and Wales in 1995 and
+1996. J Clin Microbiol 1997;35(8):2076–82.
+[9] Influenza in Canada: 2003–2004 season. Can Commun Dis Rep
+2005;31(1):1–18.
+[10] Call SA, Vollenweider MA, Hornung CA, Simel DL, McKinney WP. Does this
+patient have influenza? JAMA 2005;293(8):987–97.
+[11] Treanor J, Nolan C, O’Brien D, Burt D, Lowell G, Linden J, et al. Intranasal administration of a proteosome-influenza vaccine is well-tolerated and induces serum
+and nasal secretion influenza antibodies in healthy human subjects. Vaccine
+2006;24(3):254–62.
+[12] Ribner BS, Hall C, Steinberg JP, Bernstein WA, Chakkalakal R, Emamifar A, et al.
+Use of a mandatory declination form in a program for influenza vaccination of
+healthcare workers. Infect Control Hosp Epidemiol 2008;29(4):302–8.
+[13] Deacon B, Abramowitz J. Fear of needles and vasovagal reactions among phlebotomy patients. J Anxiety Disord 2006;20(7):946–60.
+[14] Atmar RL, Keitel WA, Cate TR, Munoz FM, Ruben F, Couch RB. A dose–response
+evaluation of inactivated influenza vaccine given intranasally and intramuscularly to healthy young adults. Vaccine 2007;25(29):5367–73.

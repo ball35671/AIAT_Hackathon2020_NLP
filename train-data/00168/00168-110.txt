@@ -1,0 +1,577 @@
+ARTICLE
+Impact of Maternal Influenza Vaccination During
+Pregnancy on the Incidence of Acute Respiratory
+Illness Visits Among Infants
+Eric K. France, MD, MSPH; Renae Smith-Ray, MA; David McClure, PhD; Simon Hambidge, MD, PhD;
+Stanley Xu, PhD; Kristi Yamasaki, PharmD; David Shay, MD, MPH; Eric Weintraub, MPH;
+Alicia M. Fry, MD, MPH; Steve B. Black, MD; Henry R. Shinefield, MD; John P. Mullooly, PhD;
+Lisa A. Jackson, MD, MPH; for the Vaccine Safety Datalink Team
+Objective: To determine whether influenza vaccination of pregnant women prevents visits for respiratory
+illness in their infants born during the influenza season.
+Design: Retrospective matched cohort study.
+Setting: Four managed care organizations in the United
+States.
+Patients: A total of 41 129 infants (3160 and 37 969 born
+to vaccinated and unvaccinated mothers, respectively)
+born between 1995 and 2001.
+Main Exposure: Maternal influenza vaccination. Infants were considered exposed if their gestational age at
+birth was at least 30 weeks, if the time from maternal vaccination to birth was at least 28 days, and if they were
+exposed to at least 14 days of the influenza season.
+Main Outcome Measures: Incidence of acute respiratory illnesses (outpatient, emergency department, and
+inpatient settings combined) and incident rate ratios
+(IRRs) for infants exposed and unexposed to maternal
+vaccination during the following 4 periods: peak influenza, respiratory syncytial virus predominant, periseasonal, and summer weeks. The time to the first acute respiratory illness during peak influenza weeks was also
+assessed.
+Results: During the peak influenza weeks, infant visit
+rates were 15.4 and 17.1 per 100 person-months for exposed and unexposed infants, respectively (IRR, 0.90; 95%
+confidence interval, 0.80-1.02). Adjusted IRRs for the 4
+periods found a protective effect of infant female sex,
+whereas Medicaid status and maternal high-risk status
+increased infant visit rates. Maternal influenza vaccination did not reduce visit rates during any of the 4 time
+periods (IRR for peak influenza season, 0.96; 95% confidence interval, 0.86-1.07) and did not delay the onset
+of first respiratory illness.
+Conclusion: We were unable to demonstrate that maternal influenza vaccination reduces respiratory illness
+visit rates among their infants.
+Arch Pediatr Adolesc Med. 2006;160:1277-1283
+BEGINNING IN 2004, THE ADvisory Committee on Immunization Practices has
+recommended universal influenza vaccination of children aged 6 to 23 months.1 This recommendation was based primarily on studies
+that found high hospitalization rates for
+infants attributable to influenza illness,2,3
+particularly for infants younger than 6
+months.3 Influenza vaccination of infants younger than 6 months has not succeeded owing to the poor immunogenic
+response elicited by vaccination in this age
+group4,5; also, the immature immune system of neonates has posed a challenge to
+the efforts of vaccinating newborns.6 Tetanus immunization of women during pregnancy has been very successful in reducing the incidence of neonatal tetanus
+worldwide.7 Experts have proposed that
+influenza vaccination of the mother during pregnancy could protect infants during the first few months of life through
+transplacentally acquired antibodies or by
+reducing exposure to a mother with influenza infection.8-10
+To date, 2 small studies have explored
+the effect of maternally acquired antibodies on influenza illness in infants. Puck et
+al11 found a direct correlation between the
+level of cord blood antibody to influenza A
+and the time of culture-documented influenza A infection in 26 infants younger than
+4 months: infants with high levels of antibody to influenza A had a delay in influAuthor Affiliations are listed at
+the end of this article.
+Group Information: The
+Vaccine Safety Datalink Team
+members are listed at the end of
+this article.
+(REPRINTED) ARCH PEDIATR ADOLESC MED/ VOL 160, DEC 2006 WWW.ARCHPEDIATRICS.COM
+1277
+©2006 American Medical Association. All rights reserved.
+Downloaded From: https://jamanetwork.com/ on 10/15/2019
+enza A infection. Reuman et al12 followed up 39 families
+in Houston, Tex, and found no difference in the rate of influenza virus infection between infants based on levels of
+cord blood antibodies to influenza A (H1N1). The onset
+of illness from the beginning of the influenza season was
+significantly later for infants with high antibody levels in
+cord blood (27.0 vs 8.2 days), and the duration of respiratory symptoms (cough and rapid breathing) was shorter.
+In both of these studies, cord blood antibodies to influenza A werefrom naturally acquired infections in the mothers rather than from influenza vaccination during pregnancy. A third study by Englund et al13 assessed the effect
+of maternal influenza vaccination on infant cord blood antibodies to influenza virus and found significantly increased levels of IgG specific to influenza virus in the cord
+blood of infants born to vaccinated mothers compared with
+those born to unvaccinated mothers.
+We undertook this study to determine whether infants born to mothers who received influenza vaccination during their pregnancy had lower incidence rates of
+medically attended acute respiratory illnesses (MAARIs)
+(combined outpatient, inpatient, and emergency department settings) during peak influenza weeks compared with
+infants born to unvaccinated mothers. A study performed in 2003 at Northern California Kaiser Permanente that assessed the effectiveness and safety of the influenza vaccine among pregnant women and their infants
+found no impact of the mother’s vaccination on the rates
+of infant health care visits during the influenza season.14
+Our current study expands on this work by using viral surveillance data to define peak influenza weeks, by requiring 4 weeks from vaccination to birth to ensure maternal
+antibody transfer, and by measuring incidence of acute respiratory illness across 4 periods (peak influenza, respiratory syncytial virus [RSV]–predominant, periseasonal, and
+summer weeks). We hypothesized that the incidence rate
+ratio (IRR) would be less than 1 (ie, protective) during peak
+influenza weeks, whereas the IRRs during the RSVpredominant and summer weeks would equal 1 (ie, no protective effect). Our secondary objectives were to determine whether infants born during the peak influenza weeks
+to vaccinated mothers had a delay in their first acute respiratory illness compared with infants born to unvaccinated mothers and to determine whether the proportion
+of infants with severe MAARIs (eg, pneumonia and hospitalization) differed between these 2 groups.
+METHODS
+STUDY POPULATION
+Infants who were born before or during the influenza season at
+4 managed care organizations (MCOs) (Kaiser Permanente Colorado, Denver; Kaiser Permanente Northern California, Oakland; Kaiser Permanente Northwest, Portland, Ore; and Group
+Health Cooperative, Seattle, Wash) between October 1, 1995,
+and September 30, 2001, were eligiblefor studyinclusion.Motherinfant pairs were included in the final study population if (1)
+the mothers were aged 18 to 45 years and enrolled in the MCO
+for longer than 1 year; (2) the infants’ gestational age was at least
+30 weeks at birth; (3) the infants were continuous MCO members for at least 14 days during the influenza season; and (4) the
+infants had a least 1 outpatient visit during the first 3 months of
+life. To ensure adequate maternal transfer of IgG, an infant was
+considered exposed if the mother was vaccinated against influenza during the pregnancy and there were at least 28 days from
+the vaccination date of the mother to the birth date of the infant.15 Infants of mothers vaccinated within 27 days of birth were
+excluded from the primary analysis. Infants born during the influenza season began contributing person-time on the day after
+their birth hospitalization discharge; if the date of discharge from
+the birth hospitalization was unavailable, person-time began after the first outpatient visit.
+In comparing acute respiratory illness rates between exposed and unexposed infants, important potential confounders include age, MCO site, and season. Unexposed infants were
+therefore matched by birth week and MCO to exposed infants, and thus also matched for influenza season.
+HEALTH SERVICES DATA
+We used data sets created for the Vaccine Safety Datalink (VSD)
+Study to perform all analyses. The VSD is a large, linked database project that is funded by the Centers for Disease Control and
+Prevention (CDC).16 Member enrollment dates, vaccination histories, and inpatient, outpatient, and emergency department visits are included in these data sets. During the study period (1995-
+2001), a specific MCO site would contribute data only for those
+years in which reliable data were available. For example, outpatient data were available from Kaiser Permanente Northwest from
+1997 through 2001. The study was approved by the institutional review boards at each of the 4 MCOs and the CDC.
+Comorbid conditions in the mother were defined by the codes
+from the International Classification of Diseases, Ninth Revision
+(ICD-9) assigned to medical encounters in the year before delivery. Mothers were considered at high risk for complications
+of influenza if, in the year before delivery, they had an ICD-9
+diagnosis code for a high-risk condition (cardiac, pulmonary,
+renal, or hematologic disease; diabetes or metabolic disorders;
+neoplasm or immunodeficiencies; or hepatic or neurological
+disorders1
+). A total of 1617 ICD-9 codes across the 10 conditions were used; this list was developed for a CDC-sponsored
+study of the impact of influenza on adult health care services
+utilization (available from the authors on request). In addition to high-risk status, other maternal variables used in the
+analyses include influenza vaccination status (current and preceding season), age, high-risk status, and Medicaid insurance
+coverage. Other variables used include infant gestational age
+at birth, MCO site, and influenza season.
+Influenza illness in young children is not often coded as influenza, per se, but as a number of illnesses that can be caused
+by the influenza virus (eg, upper respiratory infection, febrile
+illness, sepsis, and pneumonia). A visit was defined as a MAARI
+if any of the following ICD-9 codes were used: 460, 462, 463,
+464.0, 464.10, 464.11, 464.20, 464.21, 464.4, 465.0, 465.8,
+465.9, 478.9, 487.1, 487.8, 490, 078.89, 079.99, or 786.2 for
+viral or upper respiratory infection; 466, 480.8, 480.9, 481.0,
+482.2, 482.3, 482.4, 482.41, 482.49, 484.0, 484.1, 485, 486,
+487.0, or 511.9 for lower respiratory infection or pneumonia;
+038 for sepsis; 780.31 or 779.0 for febrile seizure; or 780.6 for
+fever. To maximize power, we combined outpatient, emergency department, and inpatient visits for acute respiratory illnesses in the primary analysis.
+VIRAL SURVEILLANCE DATA
+AND STUDY PERIODS
+For each influenza season, peak influenza and RSVpredominant weeks were defined using viral surveillance data
+(REPRINTED) ARCH PEDIATR ADOLESC MED/ VOL 160, DEC 2006 WWW.ARCHPEDIATRICS.COM
+1278
+©2006 American Medical Association. All rights reserved.
+Downloaded From: https://jamanetwork.com/ on 10/15/2019
+from each of the MCO sites. Influenza surveillance data for each
+MCO’s area were provided by the CDC and were collected as
+part of the World Health Organization Influenza Surveillance
+system.17 Annual RSV data were collected by the National Respiratory and Enteric Virus Surveillance System at the Respiratory Enteric Viruses Branch of the CDC.18 Laboratories participating in these 2 national surveillance systems are in state
+or local health departments, universities, and hospitals. Because the surveillance data for the Portland area were unreliable for the 1999-2001 influenza seasons, we used the Northern California Kaiser Permanente laboratory viral surveillance
+data to define the peak influenza and RSV-predominant seasons in the Portland area. The 1997-1999 influenza surveillance data for Northern California Kaiser Permanente have a
+sensitivity of 69% and a specificity of 97% in matching peak
+influenza weeks to the 1997-1999 influenza surveillance data
+for Kaiser Permanente Northwest.
+For this study, we defined 4 seasonal study periods:
+1. Peak influenza weeks as any week from October 1 to April
+30 in which influenza accounted for at least 5% of the season’s
+total number of influenza virus isolates. Other viruses such as
+RSV could have been circulating during these weeks.
+2. RSV-predominant weeks as any week from October 1 to
+April 30 in which RSV accounted for at least 5% of the season’s total number of RSV virus isolates and influenza accounted for less than 5% of the season’s total influenza virus
+isolates.
+3. Periseasonal weeks as any week from October 1 to April
+30 in which each week accounted for less than 3% of total RSV
+isolates and less than 3% of influenza virus isolates.
+4. Summer weeks as the period each year from July 1 to September 30.
+STATISTICAL ANALYSIS
+OF THE STUDY HYPOTHESES
+The primary hypothesis of this study was that the incidence of
+MAARI visits during peak influenza weeks would be lower for
+infants born to mothers vaccinated against influenza compared with infants born to unvaccinated mothers and that the
+MAARI incidence rates during the RSV-predominant and summer weeks would be equal between the exposed and unexposed groups. We estimated a priori that there would be 4500
+exposed and 40 000 unexposed infants in the VSD cohort based
+on an observed 2% annual maternal influenza vaccination rate
+at Kaiser Permanente Colorado and on the pregnancy rate across
+the MCOs. We assessed the power of this sample size by 2 methods. First, we determined our ability to see a reduction of a rare
+event, pneumonia, among exposed infants. Given a background incidence of 2.4 per 100 person-months, we would have
+80% power to see a 20% reduction in the incidence of visits
+for pneumonia. Second, we determined that 1900 exposed infants during the peak influenza weeks would be needed to detect a 20% reduction in febrile illness, a common event, based
+on an assumed risk of 0.11 for developing this diagnosis during an 8-week period (estimate based on Kaiser Permanente
+Colorado data). Planned secondary analyses included the time
+to first illness, limited to infants born during the peak influenza weeks, and the severity of MAARI, assessed by comparing the proportion of MAARI coded as upper respiratory infection, pneumonia, and hospitalization.
+Bivariate comparisons between exposed and unexposed infants were evaluated with the 2-tailed, unpaired t(or if not normally distributed, Wilcoxon signed rank) and 2 tests for continuous and discrete variables, respectively. We calculated crude
+IRRs of exposed to unexposed infants during the 4 study periods for MAARI outcomes in all settings while ignoring matching by MCO site and infant birth week. We generated adjusted
+IRRs by Poisson regression, accounting for the matching by MCO
+site and infant birth week while controlling for other covariates. We obtained coefficients and their standard errors using
+generalized estimating equations that take into account the dependence of the data introduced by matching.19 Cox proportional hazards regression modeling was also performed to evaluate the time to the first MAARI outcome between exposed and
+unexposed infants while controlling for other covariates. For
+all regression models, customary residual and influential statistics were examined to assess model fit and to evaluate influential outliers. All analyses were conducted using commercially available software (SAS version 8.2; SAS Institute Inc, Cary,
+NC).
+RESULTS
+Before matching, a total of 54 385 women meeting all other
+inclusion criteria gave birth at the 4 MCOs between October 1 and April 30 of the included study years (1995-
+2001). The proportion of mothers vaccinated against influenza during a given season ranged from 0.7% to 20.8%
+across the 4 MCOs. Diagnoses for a condition that increased maternal risk for a complication from influenza
+infection were present in 11.5% of mothers (range across
+MCOs, 9.2%-12%); almost two thirds of these were for
+a pulmonary condition (primarily asthma). Combined
+data were available from 21 site-specific influenza seasons (6 seasons from 2 sites; 5 seasons from the third site,
+and 4 seasons from the fourth site). There were 124 peak
+influenza weeks, 97 RSV-predominant weeks, 310 periseasonal weeks, and 336 summer weeks among the 4 MCOs.
+Only 1 of the influenza seasons (1997-1998) had a notable mismatch between circulating influenza strains and
+the strains used in the seasonal vaccine.
+In all, 3815 infants were born to vaccinated mothers
+during the study period. The mean number of days between maternal influenza vaccination and birth of the infant was 68 (range, 1-172), and the mean gestational age
+of the infant at the time of maternal vaccination was 29.4
+(range, 9.8-41.6) weeks. Six hundred fifty-five infants were
+exposed less than 28 days in utero and were excluded.
+A total of 37 969 infants born to unvaccinated mothers
+were matched by birth week and MCO to the 3160 infants exposed at least 28 days in utero, yielding 41 129
+infants in the matched cohort (Figure).
+Table 1 compares exposed and unexposed mothers
+and infants across study variables. Vaccinated mothers
+were more likely to have a high-risk condition than were
+unvaccinated mothers (P.001). The mean age of the exposed infants at the end of the influenza season was 65
+(range, 14-177) days; of unexposed infants, 75 (range,
+14-180) days. There were no meaningful differences in
+gestational age or birth weight between the groups. Hospital discharge dates were present in 98.4% of infants.
+Table 2 lists the crude incidence rates for acute respiratory illnesses across the 4 study periods in exposed
+and unexposed populations matched by infant age, MCO
+site, and influenza season. The IRRs across the 4 study
+periods were all similar: 0.90 (95% confidence interval
+[CI], 0.80-1.02) for the peak influenza weeks; 0.93 (95%
+CI, 0.84-1.02) for the RSV-predominant weeks; 1.12 (95%
+(REPRINTED) ARCH PEDIATR ADOLESC MED/ VOL 160, DEC 2006 WWW.ARCHPEDIATRICS.COM
+1279
+©2006 American Medical Association. All rights reserved.
+Downloaded From: https://jamanetwork.com/ on 10/15/2019
+CI, 0.94-1.34) for the periseasonal weeks; and 1.04 (95%
+CI, 0.99-1.10) for the summer weeks. The MAARI incidence during the summer weeks, when the mean age of
+the exposed infants was 210 days, was similar to the
+MAARI incidence during the peak influenza weeks, when
+the mean age of the infants was 65 days.
+Models using generalized estimating equations included the following independent variables: maternal
+vaccination status, infant gestational age at birth, infant
+sex, maternal age, Medicaid coverage, maternal history
+of prior influenza vaccination, and maternal high-risk
+status. Exposed infants were matched to unexposed infants by MCO site and birth week. Female sex was significantly associated with reduced infant MAARI incidence, whereas maternal high-risk status and infant
+Medicaid coverage were significantly associated with
+increased MAARI incidence (Table 3). Maternal influenza vaccination did not reduce MAARI incidence: the
+adjusted IRRs (95% CIs) for the peak influenza, RSVpredominant, periseasonal, and summer periods were
+0.96 (0.86-1.07), 0.95 (0.84-1.06), 1.12 (0.91-1.37),
+and 1.04 (0.98-1.10), respectively.
+For infants born during the peak influenza weeks, the
+mean time in days from birth to the first MAARI did not
+vary by exposure status: exposed and unexposed infants’ mean times to first acute respiratory illness were
+49 and 53 days, respectively (P=.84). A Cox proportional hazards model comparing the time to the first
+Infants Born Between October 1 and April 1
+(n = 116 864)
+Limit to Mothers Aged 18-45 y
+(n = 113 922)
+Limit to Infant Gestational Age ≥30 wk
+(n = 111 495)
+Randomly Select Only 1 Infant in a Multiple Birth Situation
+(n = 109 599)
+Limit to Mothers Enrolled ≥1 y Before Infant’s Date of Birth
+(n = 75 807)
+Limit to Infants Who Had ≥1 Visit Within the First 3 mo of Life
+(n = 54 385)
+Assign Infants to Cohort Based on Mother’s Influenza
+Vaccination Status
+Matched Cohort
+Match by Birth Week, Site, and Sex, Infants Born to Vaccinated
+Mothers to Infants Born to Unvaccinated Mothers
+(n = 41 129)
+Exposed
+Mother Received an Influenza
+Vaccination After August 1,
+at Least 28 d
+Before Infant’s Date of Birth
+(n = 3 160)
+Unexposed
+Mother Did Not Receive an
+Influenza Vaccination During
+the Influenza Season Before
+Infant’s Date of Birth
+(n = 50 570)
+Limit to Infants Who Contributed ≥14 d of Person-Time
+During the Influenza Season
+(n = 60 197)
+Figure. Medically attended acute respiratory illness cohort development
+based on study exclusion criteria.
+Table 1. Comparison of Mother-Infant Pairs
+by Maternal Influenza Vaccination Status*
+Cohort Characteristic
+Maternal
+Influenza
+Vaccination
+No Maternal
+Influenza
+Vaccination
+No. of birth mothers 3160 37 969
+Mothers
+High-risk status, %† 14.9‡ 11.3
+Age, y 30.8 (5.5)‡ 29.7 (5.5)
+Medicaid insurance, % 2.2‡ 3.1
+Influenza vaccination
+in preceding season, %
+25.4‡ 4.5
+Infants
+Gestational age at birth, wk 39.1 (1.6)‡ 39.2 (1.6)
+Birth weight, g 3425 (550)‡ 3442 (539)
+Female, % 49.0 49.0
+Length of stay for birth
+hospitalization, d
+2.3 (1.7)‡ 2.1 (1.6)
+Age at end of influenza
+season, d
+65 (34)‡ 75 (36)
+*Unless otherwise indicated, data are expressed as mean (SD).
+†Maternal high-risk status is explained in the “Health Services Data”
+subsection of the “Methods” section.
+‡Indicates P.05 compared with the group with no maternal influenza
+vaccination.
+Table 2. Incidence Rates for Acute Respiratory Illnesses
+Among Infants Exposed and Unexposed
+to Maternal Influenza Vaccination, 1995-2001
+Acute Respiratory
+Illness by
+Study Period
+MAARI Incidence*
+IRR (95% CI)
+Among
+Exposed
+Infants
+Among
+Unexposed
+Infants
+Peak influenza weeks† 15.4 17.1 0.90 (0.80-1.02)
+RSV-predominant
+weeks‡
+19.0 20.5 0.93 (0.84-1.02)
+Periseasonal weeks§ 15.5 13.8 1.12 (0.94-1.34)
+Summer weeks|| 17.6 16.9 1.04 (0.99-1.10)
+Abbreviations: CI, confidence interval; IRR, incident rate ratio; MAARI,
+medically attended acute respiratory illness; RSV, respiratory syncytial virus.
+*Calculated as number of visits per 100 person-months, with outpatient,
+emergency department, and inpatient visits combined.
+†Indicates any week during influenza season (October 1 to April 30) in
+which influenza accounted for 5% or more of the season’s total number of
+influenza virus isolates.
+‡Indicates any week during influenza season in which RSV accounted for
+5% or more of the season’s total number of RSV virus isolates and less than
+5% of the season’s total influenza virus isolates.
+§Indicates any week during influenza season in which each week
+accounted for less than 3% of total RSV isolates and less than 3% of
+influenza virus isolates.
+||Indicates any week from July 1 to September 30.
+(REPRINTED) ARCH PEDIATR ADOLESC MED/ VOL 160, DEC 2006 WWW.ARCHPEDIATRICS.COM
+1280
+©2006 American Medical Association. All rights reserved.
+Downloaded From: https://jamanetwork.com/ on 10/15/2019
+MAARI between exposed and unexposed infants born during the peak influenza weeks, controlling for maternal
+risk status, maternal age, gestational age, MCO site, and
+season, found no difference between exposed and unexposed infants (hazard ratio, 1.02; 95% CI, 0.83-1.25).
+During peak influenza weeks, of all acute respiratory
+illnesses experienced by exposed infants, 59 (89.4%) were
+an upper respiratory infection, 4 (6.1%) were pneumonia, and 3 (4.5%) were hospitalizations. Similarly, in 851
+(92.9%), 39 (4.3%), and 26 (2.8%) of the unexposed infants, acute respiratory illnesses were upper respiratory
+infections, pneumonia, and hospitalizations, respectively. The proportions between exposed and unexposed infants were not statistically significant (P=.32).
+COMMENT
+Our study found no reduction in the incidence rate of
+MAARIs during peak influenza weeks among infants born
+to mothers vaccinated against influenza during their pregnancy. This finding is consistent with the work by Black
+et al14 performed at Kaiser Permanente Northern California. The presence of other circulating respiratory viruses during the peak influenza weeks could mask any
+potential reduction in MAARI visits associated with maternal influenza vaccination. Similarly, we did not see any
+evidence that maternal influenza vaccination delayed the
+onset or reduced the severity of MAARI illness among
+infants born during the peak influenza weeks. This study
+was designed to maximize the possibility of seeing an effect
+on infant MAARI visits of maternal influenza vaccination, and therefore the analysis was limited to infants who
+had at least 28 days in utero for development and transfer of maternal antibodies, focused on peak influenza
+weeks, required infants to contribute person-time during the influenza season, and used data from a large linked
+database to maximize the number of study subjects. Although our study confirmed known predictors of acute
+respiratory illness visits in infants (sex and Medicaid coverage), we did not see an effect of maternal vaccination
+on rates of infant MAARI health care visits. Although it
+may be that maternal influenza vaccination reduces the
+risk of serious influenza illness among infants during their
+first months of life, this does not translate to a decrease
+in the number of visits to the physician’s office or hospitalizations for acute respiratory illnesses.
+We overestimated the maternal vaccination rate across
+our MCOs, which ranged from 0.7% to 20.8% during the
+6 seasons, and thus had a smaller-than-expected number of infants exposed to maternal influenza vaccination. Because of the smaller sample size, our study is limited in its power to detect a reduced visit rate among
+exposed infants. Although we did not have the power to
+look at the effect of maternal vaccination on rare events
+such as infant pneumonia, our power to assess our primary outcome, MAARI incidence during peak influenza weeks, was good: We had the power to detect a 15%
+or greater reduction in MAARI visits (IRR, 0.85) during
+the peak influenza weeks (=.80;=.05; unexposed background incidence, 17 per 100 person-months).
+Although we had information on important variables
+that predict infant health care services utilization (eg, sex,
+gestational age, and Medicaid coverage), some variables
+predicting the incidence of acute respiratory illness in infants are not available in the VSD data. These include the
+number of siblings in the home, parental smoking status, breastfeeding, and attendance at day care. Glezen et
+al20 studied influenza illness during the first year of life
+and found that having at least 3 siblings constituted a significant risk for infant influenza infection. More data from
+another database are available on the 5530 Colorado infants in this study, which suggest that there may not be
+great differences between families of exposed and unexposed infants, because the numbers of first-time mothers (45% exposed vs 43% unexposed), mothers intending to breastfeed (83% exposed vs 78% unexposed), and
+mothers who smoked (8.4% exposed vs 10% unexposed) are all similar.
+Influenza illness in the first 6 months of life is more
+likely to present as an afebrile upper respiratory infecTable 3. Adjusted IRRs for Acute Respiratory Illnesses Among Matched Infants
+Exposed and Unexposed to Maternal Influenza Vaccination, 1995-2001*
+Independent Variable
+IRR (95% CI) by Study Period†
+Peak Influenza
+Weeks
+RSV-Predominant
+Weeks
+Periseasonal
+Weeks
+Summer
+Weeks
+Exposed infants 0.96 (0.86-1.07) 0.95 (0.84-1.06) 1.12 (0.91-1.37) 1.04 (0.98-1.10)
+Gestation age 0.96 (0.94-0.98) 0.98 (0.96-1.00) 0.96 (0.93-0.98) 0.99 (0.98-1.00)
+Maternal high-risk status‡ 1.14 (1.01-1.27) 1.14 (1.03-1.27) 1.26 (1.10-1.44) 1.22 (1.15-1.29)
+Infant female sex 0.88 (0.82-0.94) 0.85 (0.80-0.91) 0.95 (0.89-1.02) 0.89 (0.86-0.92)
+Medicaid coverage 1.03 (0.85-1.25) 1.29 (1.05-1.58) 1.41 (1.08-1.85) 1.21 (1.11-1.33)
+Maternal age at infant birth 0.98 (0.97-0.98) 0.98 (0.97-0.99) 0.98 (0.97-0.99) 0.99 (0.99-0.99)
+Maternal influenza vaccination
+in the preceding season
+1.06 (0.90-1.23) 1.06 (0.94-1.20) 0.87 (0.68-1.10) 1.08 (1.01-1.16)
+Abbreviations: CI, confidence interval; IRR, incident rate ratio; RSV, respiratory syncytial virus.
+*Calculated as outpatient, emergency department, and inpatient visits combined, and matched by managed care organization site and infant birth date within
+the same week.
+†Study periods are described in the footnotes to Table 2.
+‡Maternal high-risk status is explained in the “Health Services Data” subsection of the “Methods” section.
+(REPRINTED) ARCH PEDIATR ADOLESC MED/ VOL 160, DEC 2006 WWW.ARCHPEDIATRICS.COM
+1281
+©2006 American Medical Association. All rights reserved.
+Downloaded From: https://jamanetwork.com/ on 10/15/2019
+tion compared with the second 6 months of life. Glezen
+et al20 reported that 58% of influenza illness among infants younger than 6 months were afebrile, compared with
+28% among infants aged 6 to 11 months. Parents of afebrile infants with an upper respiratory infection may be
+less likely to seek medical care, and these infants would
+be missed in our study. Higher MAARI incidence rates
+among infants aged 6 to 11 months compared with 0 to
+5 months could explain our finding of similar incidence
+rates of MAARIs for infants during the peak influenza
+(mean age, 2½ months) and the summer weeks (mean
+age, 7 months). Work by the New Vaccine Surveillance
+Network Group21 confirms this lower rate of influenza
+illness among infants younger than 6 months. Outpatient surveillance of all children younger than 5 years at
+2 study sites, in which viral culture or reverse transcriptase polymerase chain reaction testing for influenza virus was performed on nasal and throat swabs, found low
+rates of influenza infection—that is, less than 10% of acute
+respiratory infections occurring among infants aged 0 to
+5 months during the 2002-2003 and 2003-2004 influenza seasons were due to influenza virus.21
+Any study of the effect of maternal influenza vaccination on acute respiratory tract infection in infants faces
+a number of challenges. A randomized placebocontrolled trial would best control for unknown imbalances in confounders; however, given the current national recommendation that all pregnant women be
+vaccinated against influenza, it would be unethical to randomly assign women to vaccination or placebo. Any controlled trial allowing mothers to select vaccination could
+potentially suffer from confounding. The restrictive period studied reduces the number of mother-infant pairs
+available to study: the VSD files have more than 200 000
+newborns during the study years, yet only 40 000 contributed to this work. The small number of peak influenza weeks during the winter months (average, 9.5 weeks
+per influenza season) means that even with large numbers of children, there will be limited person-time experience for analysis. A mismatch between the circulating
+strains of wild influenza virus and the strains used for
+vaccine development could explain the absence of an effect
+of maternal vaccination on MAARI visits. However, only
+1 of the 6 seasons (1997-1998) was considered a fair rather
+than a good match. Finally, influenza cohort studies are
+challenged by the vagaries of the influenza season: the 2
+influenza seasons after our study (2001-2002 and 2002-
+2003) were both unusually mild, whereas the 2003-
+2004 season was early (November to January), eliminating much opportunity for maternal influenza to protect
+infants born during that season against moderate to severe influenza infection. Future work should include multiple influenza seasons, use accurate tools such as viral
+culture and reverse transcriptase polymerase chain reaction to diagnose influenza, and focus on hospitalization as the outcome of interest. Small effect sizes, such
+as a reduction in hospitalization of 10% to 30%, will require large numbers of subjects to detect. Although this
+vaccination did not appear to have an effect on the rates
+of infant health care visits, vaccination is still important
+and is primarily recommended to protect the health of
+the mother.
+Accepted for Publication: July 14, 2006.
+Author Affiliations: Department of Preventive Medicine (Dr France) and Clinical Research Unit (Ms SmithRay and Drs McClure, Hambidge, Xu, and Yamasaki), Kaiser Permanente Colorado, Denver; The National
+Immunization Program, Influenza Branch (Dr Shay), Vaccine Safety Branch (Mr Weintraub), and Respiratory and
+Enteric Viruses Branch (Dr Fry), Division of Viral and
+Rickettsial Diseases, National Center for Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, Ga; Kaiser Permanente Vaccine Study Center, Oakland, Calif (Drs Black and Shinefield); Center for Health
+Research, Kaiser Permanente Northwest, Portland, Ore
+(Dr Mullooly); and The Center for Health Studies, Group
+Health Cooperative, Seattle, Wash (Dr Jackson). The Vaccine Safety Branch has been transferred to the Office of
+the Chief Science Officer, Office of the Director, Centers for Disease Control and Prevention. Ms Smith-Ray
+is now with Human Cognitive Neuroscience at the University of Edinburgh, Edinburgh, Scotland.
+Correspondence: Eric K. France, MD, MSPH, Kaiser
+Permanente Colorado, 10065 E Harvard Ave, Suite 250,
+Denver, CO 80231 (eric.k.france@kp.org).
+Author Contributions: Study concept and design: France,
+Smith-Ray, McClure, Hambidge, Xu, Yamasaki, Shay,
+Weintraub, and Black. Acquisition of data: France, SmithRay, McClure, Weintraub, Shinefield, and Mullooly.
+Analysis and interpretation of data: France, Smith-Ray,
+McClure, Hambidge, Xu, Fry, Mullooly, and Jackson.
+Drafting of the manuscript: France, Smith-Ray, McClure,
+Hambidge, Yamasaki, and Fry. Critical revision of the
+manuscript for important intellectual content: France, SmithRay, McClure, Hambidge, Xu, Shay, Weintraub, Shinefield, and Jackson. Statistical analysis: McClure, Xu,Weintraub, Black, and Mullooly. Obtained funding: France.
+Administrative, technical, and material support: SmithRay, McClure, Yamasaki, Shay, and Fry. Study supervision: France, Hambidge, and Mullooly.
+Group Members: The following are VSD investigators:
+Frank DeStefano, MD, MPH,WilliamW. Thompson, PhD,
+James Baggs, PhD, and Robert L. Davis, MD, MPH (Immunization Safety Office, Office of the Chief Science Officer, Office of the Director, CDC, Atlanta, Ga); Lisa A.
+Jackson, MD, MPH, Karl Bohlke, ScD, and William E. Barlow, PhD (Center for Health Studies, Group Health Cooperative, Seattle, Wash); Steve B. Black, MD, and Henry
+R. Shinefield, MD (Kaiser Vaccine Study Center, Oakland, Calif ); John P. Mullooly, PhD (Center for Health
+Research, Northwest Kaiser Permanente, Portland, Ore);
+Richard Platt, MD, MSc, and Tracy A. Lieu, MD, MPH
+(Harvard Pilgrim Health Care, Boston, Mass); Joel I.Ward,
+MD, Ken Zangwill, MD, and S. Michael Marcy, MD (Center for Vaccine Research, Harbor University of California–
+Los Angeles Medical Center, Torrance); Eric K. France,
+MD, MSPH, Simon Hambidge, MD, PhD, and Jason M.
+Glanz, PhD (Clinical Research Unit, Kaiser Permanente
+of Colorado, Denver); Mike Goodman, PhD (Health Partners Research Foundation, Minneapolis, Minn); and Edward A. Belongia, MD (Marshfield Clinic, Marshfield,
+Wis).
+Financial Disclosure: Drs France and Yamasaki have
+received research funding from Sanofi-Aventis,
+(REPRINTED) ARCH PEDIATR ADOLESC MED/ VOL 160, DEC 2006 WWW.ARCHPEDIATRICS.COM
+1282
+©2006 American Medical Association. All rights reserved.
+Downloaded From: https://jamanetwork.com/ on 10/15/2019
+MedImmune, Inc, and Chiron Corp. Dr Jackson has received speakers bureau funding from Sanofi-Aventis and
+researchfundingfrom GlaxoSmithKlineVaccines andChiron Corp.
+Funding/Support: This study was supported by the CDC
+through an agreement with America’s Health Insurance
+Plans.
+Previous Presentation: This study was presented in part
+at the European Society for Paediatric Infectious Disease Meeting; May 19, 2005; Valencia, Spain.
+Acknowledgment: The manuscript was approved through
+the clearance process of the CDC prior to submission.
+We thank the data management staff at the participating managed care organizations for their work in putting together the VSD files and the staff at America’s Health
+Insurance Plans for their assistance.
+REFERENCES
+1. Harper SA, Fukuda K, Uyeki TM, Cox NJ, Bridges CB; Centers for Disease Control and Prevention (CDC) Advisory Committee on Immunization Practices (ACIP).
+Prevention and control of influenza: recommendations of the Advisory Committee on Immunization Practices [ACIP] [published correction appears in MMWR
+Recomm Rep. 2004;53:743]. MMWR Recomm Rep. 2004;53:1-40.
+2. Izurieta HS, Thompson WW, Kramarz P, et al. Influenza and the rates of hospitalization for respiratory disease among infants and young children. N Engl J Med.
+2000;342:232-239.
+3. Neuzil KM, Mellen BG, Wright PF, Mitchel EF, Griffin MR . The effect of influenza
+on hospitalizations, outpatient visits, and courses of antibiotics in children.
+N Engl J Med. 2000;342:225-231.
+4. Groothuis JR, Levin MR, Rabalais GP, Meiklejohn G, Lauer BA. Immunization of
+high-risk infants younger than 18 months of age with split-product influenza
+vaccine. Pediatrics. 1991;87:823-828.
+5. Piedra PA, Glezen WP, Mbawuike I, et al. Studies on reactogenicity and immunogenicity of attenuated bivalent cold recombinant influenza type A (CRA) and
+inactivated trivalent influenza virus (TI) vaccines in infants and young children.
+Vaccine. 1993;11:718-724.
+6. Siegrist CA. Neonatal and early life vaccinology. Vaccine. 2001;19:3331-3346.
+7. Global Programme for Vaccines and Immunization. Programme Report 1995:
+WHO/GPV/96.01. Geneva, Switzerland: World Health Organization; 1996.
+8. Stephenson M. Protecting kids against influenza begins with maternal immunization.
+Infect Dis Child. September 2001. http://www.idinchildren.com/200109/frameset
+.asp?article=flu.asp. Accessed June 2002.
+9. Englund JA. Maternal immunization with inactivated influenza vaccine: rationale
+and experience. Vaccine. 2003;21:3460-3464.
+10. Terebuh P, Uyeki T, Fukuda K. Impact of influenza on young children and the
+shaping of United States influenza vaccine policy [published correction appears
+in Pediatr Infect Dis J. 2004;23:294]. Pediatr Infect Dis J. 2003;22:S231-S235.
+11. Puck JM, Glezen WP, Frank AL, Six HR. Protection of infants from infection with
+influenza A virus by transplacentally acquired antibody. J Infect Dis. 1980;142:
+844-849.
+12. Reuman PD, Ayoub EM, Small PA. Effect of passive maternal antibody on influenza illness in children: a prospective study of influenza A in mother-infant pairs.
+Pediatr Infect Dis J. 1987;6:398-403.
+13. Englund JA, Mbawuike IN, Hammill H, Holleman MC, Baxter BD, Glezen WP.
+Maternal immunization with influenza or tetanus toxoid vaccine for passive antibody protection in young infants. J Infect Dis. 1993;168:647-656.
+14. Black SB, Shinefield HR, France EK, Fireman BH, Platt ST, Shay D. Effectiveness
+of influenza vaccine during pregnancy in preventing hospitalizations and outpatient visits for respiratory illness in pregnant women and their infants. Am J
+Perinatol. 2004;21:333-339.
+15. Kohler PF, Farr RS. Elevation of cord over maternal IgG immunoglobulin: evidence for an active placental IgG transport. Nature. 1966;210:1070-1071.
+16. Chen RT, Glasser JW, Rhodes PH, et al; Vaccine Safety Datalink Team. Vaccine
+Safety Datalink Project: a new tool for improving vaccine safety monitoring in
+the United States. Pediatrics. 1997;99:765-773.
+17. Centers for Disease Control and Prevention. Flu activity: reports and surveillance methods in the United States. http://www.cdc.gov/flu/weekly/fluactivity
+.htm. Accessed September 8, 2005.
+18. Centers for Disease Control and Prevention. Respiratory syncytial virus trends.
+http://www.cdc.gov/ncidod/dvrd/revb/nrevss/rsvtre1.htm. Accessed September 8 2005.
+19. Zeger SL, Liang KY. Longitudinal data analysis for discrete and continuous
+outcomes. Biometrics. 1986;42:121-130.
+20. Glezen WP, Taber LH, Frank AL, Gruber WC, Piedra PA. Influenza virus infections in infants. Pediatr Infect Dis J. 1997;16:1065-1068.
+21. National Immunization Program, Centers for Disease Control and Prevention.
+Morbidity from influenza infections in infants (and children). http://cdc.confex
+.com/cdc/nic2005/techprogram/paper_8719.htm. Accessed August 9, 2005.
+When Is the Right Time for Toilet Training?
+Only a child can decide when the time for toilet training has come. Any pressure parents may feel from grandparents, nursery schools, or helpful friends had better
+be disregarded. It’s got to be his achievement, not theirs.
+—From Touchpoints by Dr T. Berry Brazelton, 2004
+(REPRINTED) ARCH PEDIATR ADOLESC MED/ VOL 160, DEC 2006 WWW.ARCHPEDIATRICS.COM
+1283
+©2006 American Medical Association. All rights reserved.
+Downloaded From: https://jamanetwork.com/ on 10/15/2019

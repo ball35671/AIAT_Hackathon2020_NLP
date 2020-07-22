@@ -1,0 +1,574 @@
+Downloaded from https://journals.lww.com/greenjournal by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3gMUBbG+M1ZWrSZ5tFj06gTKIFEXBEyrTftVaG7rtdW/b5QhIwu+IqQ== on 10/15/2019
+10/15/2019 on BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3gMUBbG+M1ZWrSZ5tFj06gTKIFEXBEyrTftVaG7rtdW/b5QhIwu+IqQ== by https://journals.lww.com/greenjournal from Downloaded
+Correlates of Seasonal Influenza Vaccine
+Coverage Among Pregnant Women in
+Georgia and Rhode Island
+Indu B. Ahluwalia, MPH, PhD, Denise J. Jamieson, MD, MPH, Sonja A. Rasmussen, MD, MS,
+Denise D’Angelo, MPH, David Goodman, PhD, and Hanna Kim, PhD
+OBJECTIVE: To identify facilitators of and barriers to
+pregnant women being vaccinated against seasonal influenza by identifying factors associated with influenza
+vaccination during pregnancy among women who had
+recently given birth to a live infant.
+METHODS: We analyzed pooled data from Georgia
+(n2,692) and Rhode Island (n2,732) participants in the
+2006 and 2007 surveys of the Pregnancy Risk Assessment
+and Monitoring System, which conducts cross-sectional
+surveys of women with live births. SUDAAN software was
+used for analysis to account for complex survey design.
+We estimated rates of seasonal influenza vaccination
+among pregnant women in Georgia and Rhode Island
+and identified factors associated with being vaccinated.
+RESULTS: The prevalence of immunization for seasonal
+influenza in 2006 and 2007 combined was 18.4% (95%
+confidence interval [CI]: 15.9 –21.1) in Georgia and 31.9%
+(95% CI 29.8 –34.0) in Rhode Island. Multivariable analyses showed that in Georgia, multiparous women were
+significantly less likely to have been vaccinated than
+primiparous women (adjusted odds ratio [OR] 0.60; 95%
+CI 0.40 – 0.89). In Georgia, among those not vaccinated,
+43% indicated that their health care providers did not
+mention anything about the seasonal influenza vaccination. In Rhode Island, women whose health care provider
+encouraged them to be vaccinated (adjusted OR 56.62;
+95% CI 37.43– 85.63) and those who did not smoke
+cigarettes (adjusted OR 1.92; 95% CI 1.25–2.94) were
+significantly more likely to be vaccinated.
+CONCLUSION: Our findings indicate a need for strategies to promote seasonal influenza vaccine use among
+pregnant women. Health care providers can play a significant role in increasing influenza vaccination coverage
+rates among pregnant women by advising women to be
+vaccinated and by addressing their concerns about vaccine safety.
+(Obstet Gynecol 2010;116:949–55)
+LEVEL OF EVIDENCE: III
+Seasonal influenza data and data from the 2009
+H1N1 and previous influenza pandemics1– 6 show
+that pregnant women are at increased risk for morbidity and death from influenza. To reduce the risk
+for seasonal influenza among pregnant women, the
+Advisory Committee on Immunization Practices and
+the American College of Obstetricians and Gynecologists recommend that all women who are pregnant
+or expect to be pregnant during the influenza season
+should be vaccinated with the trivalent inactivated
+influenza vaccine.7,8 In addition to protecting pregnant women, influenza vaccination during pregnancy
+has been shown to decrease the risk for influenza
+among infants up to 6 months of age9 Because influenza vaccine is not recommended for use among
+infants younger than 6 months of age, maternal
+immunization during pregnancy is thus an important
+strategy for preventing infection in these infants.7
+However, despite these recommendations and evidence of the protective effects of seasonal influenza
+From the Applied Sciences Branch, Women’s Health and Fertility Branch,
+Division of Reproductive Health, and the National Center on Birth Defects and
+Developmental Disabilities, Centers for Disease Control and Prevention, Atlanta, Georgia; Georgia Division of Public Health, Atlanta, Georgia; and Rhode
+Island Department of Health, Providence, Rhode Island.
+The authors thank Carol Hoban, MPH, PhD, of the Georgia Pregnancy Risk
+Assessment and Monitoring System Project and Rachel Cain, BS, of the Rhode
+Island Pregnancy Risk Assessment and Monitoring System Project for coordinating the data-collection efforts in their respective states.
+The findings and conclusions in this report are those of the authors and do not
+necessarily represent the official position of the Centers for Disease Control and
+Prevention.
+Corresponding author: Indu B. Ahluwalia, MPH, PhD, Division of Reproductive Health, Centers for Disease Control and Prevention, 4770 Buford Highway,
+NE, Mail Stop K-22, Atlanta, GA 30341-3724; e-mail: Iahluwalia@cdc.gov.
+Financial Disclosure
+The authors did not report any potential conflicts of interest.
+© 2010 by The American College of Obstetricians and Gynecologists. Published
+by Lippincott Williams & Wilkins.
+ISSN: 0029-7844/10
+VOL. 116, NO. 4, OCTOBER 2010 OBSTETRICS & GYNECOLOGY 949
+vaccines, vaccine coverage among pregnant women
+in the United States remains low. Recent data from
+the National Health Interview Survey show that, for
+the United States, rates of seasonal influenza vaccination coverage among pregnant women ranged from
+12.3% during the 2005 to 2006 influenza season to
+24.2% during the 2007 to 2008 season.5,7,10,11
+Low vaccination coverage rates imply that there
+may be barriers to seasonal influenza vaccination
+among pregnant women. Previous study results have
+shown that factors affecting pregnant women’s decisions about whether to get a seasonal influenza vaccination include their knowledge about the vaccines
+and their perceptions of the vaccines’ safety, whether
+their health care providers advised them to get vaccinated or offered to vaccinate them, and the extent of
+their health care providers’ knowledge about the risks
+of influenza during pregnancy.16 –21 Recent estimates
+based on data from the Pregnancy Risk Assessment
+and Monitoring System and from the National Health
+Interview Survey showed that seasonal influenza vaccine coverage varies by state and has increased for
+pregnant women since the 2005 influenza season but
+still remains low compared with other priority
+groups.10,18 Our purpose in conducting this study
+among Pregnancy Risk Assessment and Monitoring
+System participants in Georgia and Rhode Island was
+to identify facilitators of and barriers to pregnant
+women being vaccinated against seasonal influenza
+by identifying demographic, service use, and lifestyle
+factors associated with influenza vaccination during
+pregnancy among women who had recently given
+birth to a live infant.
+MATERIALS AND METHODS
+To identify correlates of influenza vaccine coverage
+among pregnant women, we analyzed populationbased data from Pregnancy Risk Assessment and
+Monitoring System, an ongoing, population-based
+surveillance system that collects data on a wide range
+of maternal behaviors and experiences before, during, and after pregnancy. In collaboration with the
+Centers for Disease Control and Prevention, 37 states
+and New York City currently administer Pregnancy
+Risk Assessment and Monitoring System surveys.
+The primary mode of Pregnancy Risk Assessment
+and Monitoring System data collection is a mail
+survey, and nonresponders are contacted by telephone. Each month, participating jurisdictions mail
+questionnaires to a stratified random sample of 100 –
+300 women who, according to birth certificate data,
+gave birth to a live neonate in the previous 2– 6
+months. All participating jurisdictions use a core
+questionnaire, but they can also add questions from a
+set of standard modules, one of which includes questions about use of the seasonal influenza vaccine. We
+analyzed data from two states, Rhode Island
+(n2,732) and Georgia (n2,692), whose Pregnancy
+Risk Assessment and Monitoring System questionnaires included the influenza module in 2006 and
+2007. To obtain a study sample large enough for us to
+perform multivariable analyses and identify correlates
+of seasonal influenza vaccine coverage by state, we
+pooled data for 2006 and 2007, the 2 most recent
+years for which Pregnancy Risk Assessment and
+Monitoring System data were available. The Pregnancy Risk Assessment and Monitoring System
+project was approved by the Centers for Disease
+Control and Prevention’s Institutional Review Board.
+Variables examined included seasonal influenza
+vaccination coverage among women during their
+most recent pregnancy, demographic and service use
+indicators, and several chronic disease-related risk
+factors. Response rates for the survey were 70% or
+greater for both years in both states. Both states’
+surveys included the question, “Did you get a flu
+vaccination during your most recent pregnancy?” The
+Rhode Island survey asked about health care provider
+offer or encouragement: “At any time during your
+pregnancy, did a doctor, nurse, or other health care
+worker offer you a flu vaccination or tell you to get
+one?” The Georgia survey did not include a question
+on health care provider offer or encouragement but
+the survey asked the following question: “What were
+your reasons for not getting a flu vaccination during
+your most recent pregnancy? For each item, circle Y
+(yes) if it was a reason for you and circle N (no) if it
+was not a reason or did not apply to you.” The
+reasons offered as options were: “My doctor didn’t
+mention anything about a flu vaccination during my
+pregnancy”; “I was worried about the side effects of
+the flu vaccination for me”; “I was worried that the flu
+vaccination might harm my baby”; “I wasn’t pregnant
+during the flu season”; “I was in my first trimester
+during the flu season”; “I don’t normally get a flu
+vaccination”; and “Other” (followed by a blank space
+for women to write in their responses). Demographic
+variables considered in the analysis were maternal
+race and ethnicity (non-Hispanic African American,
+non-Hispanic white, Hispanic, other); maternal age at
+delivery (younger than 20, 20 –24, 25–29, 30 –34, 35
+years or older), marital status (married, other), maternal education (less than high school, high school,
+more than high school), parity at the time of the
+survey (primipara, multipara), Medicaid payment for
+prenatal care (yes or no), and timing of prenatal care
+950 Ahluwalia et al Correlates of Influenza Vaccine Coverage OBSTETRICS & GYNECOLOGY
+in (first trimester, later). Other variables we considered were cigarette smoking (yes or no), body mass
+index (less than 30 kg/m2
+, 30 or greater), and history
+of chronic or pregnancy-induced hypertension and
+diabetes (yes or no for each). These demographic,
+service use, and behavioral variables were available
+for both states.
+Women who did not answer the question regarding receipt of seasonal influenza vaccination (n156
+for Georgia and n94 for Rhode Island) were excluded from our analyses as were those who did not
+provide data for other variables; rates of missing data
+for specific variables ranged from less than 1% to 6%.
+To produce estimates applicable to the total population of women in each state who had recently delivered a liveborn neonate, we used SUDAAN software
+to account for the complex sampling design of the
+Pregnancy Risk Assessment and Monitoring System
+survey. Weighting adjusts for nonresponses of survey
+participants and noncoverage weights correct for discrepancy between sampling frame and actual number
+of births. To identify correlates of vaccine receipt, we
+conducted both bivariable and multivariable logistic
+analyses. Variables included in the models were those
+that previous study results showed to be associated
+with seasonal influenza vaccination among pregnant
+women as well as demographic and service use
+variables. We also examined the comments from
+participants in the Georgia survey about their reasons
+for not getting the seasonal influenza vaccine. Of the
+244 comments written on the survey, 242 were legible. Examination of these comments indicated that
+approximately 70% could be classified into new categories and the rest could either be assigned to
+existing categories or were too idiosyncratic to be
+categorized.
+RESULTS
+The results of our analysis indicated that the percentage of women reporting that they received seasonal
+influenza vaccination during their most recent pregnancy was 18.4% (95% confidence interval [CI]: 15.9 –
+21.1) in Georgia and 31.9% (95% CI 29.8 –34.0) in
+Rhode Island. Results of bivariable analyses of Georgia data showed that non-Hispanic African-American
+women were less likely to have received the seasonal
+influenza vaccine than were non-Hispanic white
+women (Table 1). However, in multivariable analyses,
+only parity was significantly associated with vaccine
+receipt (adjusted odds ratio [OR] 0.60; 95% CI 0.40 –
+0.89) (Table 1).
+Results of bivariable analyses of Rhode Island
+data showed that Hispanic women as well as those
+who did not smoke were more likely than nonHispanic whites or those who smoked to have received the seasonal influenza vaccine and that women
+who were not married and those whose prenatal care
+was not paid for by Medicaid were less likely to have
+received the vaccine than were their counterparts.
+Overall, in Rhode Island, 32% (95% CI 29.9 –34.0) of
+the women received offer or encouragement from
+their health care providers and 68% (95% CI 65.9 –
+70.1) did not report receiving offer or encouragement.
+Women who reported that their health care providers
+encouraged or offered them to be vaccinated were
+more likely to have received the vaccine than women
+whose health care providers did not (65% compared
+with 4%, respectively) (Table 2). Multivariable analyses results, however, showed health care–provider
+encouragement (adjusted OR 56.62; 95% CI 37.43–
+85.63) and not smoking to be significantly associated
+with vaccine receipt (adjusted OR 1.92; 95% CI
+1.25–2.94).
+Among pregnant women in Georgia who did not
+get vaccinated, the most common reasons given for
+not doing so were that their physician did not encourage them and that they normally did not get the
+seasonal influenza vaccination (Table 3). Approximately 6% of women selected “other” and wrote in
+reasons for not being vaccinated other than the
+options presented on the survey questionnaire. Approximately one-third of the written-in reasons overlapped with the categories provided in the question
+itself and the rest or approximately 70% of these
+reasons were different from the options provided in
+the survey. Of the women who cited actual “other”
+reasons for not being vaccinated, 24% indicated that
+no vaccine was available or that there was a vaccine
+shortage at the facility where they went to get immunized; 13% cited concerns about the safety of the
+influenza vaccine and their belief that not enough was
+known about vaccine administration to pregnant
+women (eg, “No research about flu shot and pregnancy”); 12% mentioned that their health care providers discouraged them from being vaccinated (eg,
+“Dr. said I was healthy,” “didn’t need one,” and “my
+MD felt that it was not necessary”); 10% indicated that
+they did not like shots; 7% said they had been
+vaccinated before their pregnancy; and 5% reported
+being allergic to eggs.
+DISCUSSION
+Our results showed that seasonal influenza vaccination coverage among pregnant women and the correlates of that coverage varied by state, but the two
+VOL. 116, NO. 4, OCTOBER 2010 Ahluwalia et al Correlates of Influenza Vaccine Coverage 951
+states also asked different questions. In Georgia, the
+major correlate of vaccine receipt was parity; primiparas were more likely to have received the vaccine
+than were multiparas, perhaps reflecting multiple
+demands and commitments experienced by women
+with children. In Rhode Island, health care–provider
+encouragement to be vaccinated was strongly associated with vaccine receipt among pregnant women;
+the magnitude of this association was similar to that
+observed in a study by Tong et al.17 This association,
+which has also been shown by the results of other
+studies,12–16 suggest that health care providers can
+play a significant role in increasing influenza vaccination coverage rates among pregnant women both by
+advising women to be vaccinated at any time during
+their pregnancy and by addressing women’s concerns
+about being vaccinated during prenatal care visits.
+However, more than 40% of Georgia women who
+were not vaccinated during their pregnancy indicated
+that their physician did not mention influenza vacciTable 1. Estimated Prevalence of Influenza Vaccination During Pregnancy Among Georgia Women by
+Demographic and Clinical Characteristics, 2006 –2007
+Characteristic
+Percentage
+(95% CI)
+Unadjusted Odds Ratio
+(95% CI)
+Adjusted Odds Ratio*
+(95% CI)
+Race and ethnicity (n2,663)
+Non-Hispanic white 20.5 (17.3–25.0) Referent Referent
+Non-Hispanic African American 13.9 (10.5–18.2) 0.61 (0.41–0.91) 0.65 (0.39–1.13)
+Hispanic 15.3 (9.9–22.9) 0.69 (0.40–1.19) 0.50 (0.22–1.13)
+Other 27.8 (15.3–45.0) 1.46 (0.66–3.22) 1.70 (0.73–3.96)
+Maternal age (y) (n2,692)
+Younger than 20 20.9 (14.3–29.7) Referent Referent
+20–24 16.2 (11.8–21.7) 0.73 (0.40–1.31) 1.20 (0.56–2.57)
+25–29 16.4 (12.1–21.9) 0.74 (0.41–1.34) 1.13 (0.48– 2.65)
+30–34 20.7 (15.7–26.9) 0.99 (0.55–1.76) 1.33 (0.53–3.35)
+35 or older 20.6 (14.2–28.9) 0.98 (0.51–1.87) 1.16 (0.44–3.08)
+Marital status (n2,670)
+Married 20.1 (17.6–24.6) Referent Referent
+Not married 16.0 (12.1–19.9) 0.75 (0.53–1.08) 0.87 (0.51–1.47)
+Education (n2,423)
+Less than high school 19.7 (13.0–28.8) 1.02 (0.59–1.78) 1.63 (0.76–3.50)
+High school 15.6 (11.7–20.6) 0.77 (0.51–1.17) 0.99 (0.61–1.63)
+More than high school 19.4 (15.8–23.6) Referent Referent
+Parity (n2,682)
+Primipara 21.0 (16.7–25.3) Referent Referent
+Multipara 16.3 (11.8–20.8) 0.73 (0.51–1.03) 0.60 (0.40–0.89)
+Medicaid paid for prenatal care (n2,642)
+Yes 16.7 (12.9–20.5) Referent Referent
+No 20.1 (16.4–23.8) 1.25 (0.88–1.79) 1.11 (0.67–1.81)
+Prenatal care initiation (n2,610)
+First trimester 18.8 (15.8–21.8) Referent Referent
+Later than first trimester 18.9 (12.6–25.2) 1.01 (0.64–1.58) 1.05 (0.61–1.83)
+Smoking (n2,667)
+Did not smoke cigarettes 18.8 (15.9–21.6) 1.23 (0.71–2.13) 1.28 (0.67–2.44)
+Smoked cigarettes 15.8 (9.0–22.6) Referent Referent
+History of diabetes† (n2,645)
+Yes 17.6 (9.7–25.5) Referent Referent
+No 18.6 (15.8–21.4) 1.07 (0.60–1.91) 0.85 (0.45–1.60)
+History of high blood pressure† (n2,648)
+Yes 18.7 (11.4–26.0) Referent Referent
+No 18.5 (15.7–21.3) 0.99 (0.59–1.66) 1.07 (0.61–1.90)
+Body mass index (kg/m2) (n2,678)
+Less than 30 19.0 (13.5–24.5) Referent Referent
+30 or greater 14.2 (8.5–19.1) 0. 70 (0.42–1.16) 0.74 (0.44–1.26)
+CI, confidence interval.
+* The odds ratios are adjusted for maternal race, age, education, parity, marital status, prenatal services paid for by Medicaid, timing of
+prenatal-care initiation, breastfeeding, smoking, body mass index, and self-reported history of preexisting or pregnancy-induced
+diabetes and high blood pressure. † Self-reported history of diabetes or high blood pressure includes preexisting or pregnancy-induced condition.
+952 Ahluwalia et al Correlates of Influenza Vaccine Coverage OBSTETRICS & GYNECOLOGY
+nation to them while they were pregnant. This suggests that many health care providers may need to be
+educated about the risk for severe influenza complications among pregnant women, the importance of
+influenza vaccine to prevent these complications, and
+the need for women to be counseled accordingly. The
+need for such education has been noted previously.14,21,22 The concern that many of the Georgia
+Pregnancy Risk Assessment and Monitoring System
+participants reported having about lack of information concerning the safety of the influenza vaccine
+highlights the importance of communicating the risks
+Table 2. Estimated Prevalence of Influenza Vaccination During Pregnancy Among Rhode Island Women
+by Demographic and Clinical Characteristics, 2006 –2007
+Characteristic
+Percentage
+(95%CI)
+Unadjusted Odd
+Ratio (95% CI)
+Adjusted Odds
+Ratio* (95% CI)
+Maternal race and ethnicity (n2,629)
+Non-Hispanic white 29.7 (27.1–32.3) Referent Referent
+Non-Hispanic African American 34.4 (26.9–41.8) 1.24 (0.87–1.76) 0.81 (0.49–1.34)
+Hispanic 38.9 (34.2–43.6) 1.51 (1.19–1.91) 1.28 (0.87–1.88)
+Other 28.8 (20.5–37.1) 0.95 (0.62- 1.46) 0.76 (0.43–1.34)
+Maternal age (y) (n2,638)
+Younger than 20 31.0 (23.8–38.1) Referent Referent
+20–24 31.6 (26.9–36.2) 1.03 (0.69–1.53) 1.65 (0.93–2.95)
+25–29 30.3 (26.3–34.3) 0.97 (0.66–1.42) 1.24 (0.67–2.27)
+30–34 34.6 (30.3–38.9) 1.18 (0.80–1.73) 1.51 (0.78–2.09)
+35 or older 31.4 (26.5–36.3) 1.02 (0.68–1.52) 1.06 (0.54–2.10)
+Marital status (n2,575)
+Married 34.4 (31.6–37.2) Referent Referent
+Not married 28.4 (25.2–31.6) 0.76 (0.62–0.92) 0.75 (0.52–1.08)
+Maternal education (n2,612)
+Less than high school 35.4 (29.8–41.0) 1.03 (0.78–1.37) 1.54 (0.95–2.49)
+High school 26.7 (22.9–30.4) 0.69 (0.55–0.87) 1.14 (0.79–1.64)
+More than high school 34.6 (31.6–37.6) Referent Referent
+Parity (n2,575)
+Primipara 31.0 (27.8–34.1) Referent Referent
+Multipara 32.1 (27.9–36.2) 1.05 (0.86–1.28) 0.92 (0.68–1.24)
+Medicaid paid for prenatal care (n2,592)
+Yes 38.3 (32.4–44.2) Referent Referent
+No 30.9 (28.7–33.2) 0.72 (0.55–0.95) 0.80 (0.52–1.23)
+Prenatal care initiation (n2,588)
+First trimester 32.2 (29.9–34.5) Referent Referent
+Later than first trimester 28.6 (23.2–34.0) 0.85 (0.63–1.13) 1.21 (0.82–1.79)
+Smoking (n2,616)
+Did not smoke cigarettes 34.5 (32.1–36.9) 2.13 (1.56–2.86) 1.92 (1.25–2.94)
+Smoked cigarettes 20.0 (15.5–24.4) Referent Referent
+History of diabetes†
+(n2,620)
+Yes 32.3 (30.0–34.6) Referent Referent
+No 28.4 (22.5–34.3) 0.92 (0.64–1.31) 1.06 (0.68–1.64)
+History of high blood pressure†
+(n2,622)
+Yes 32.7 (26.7–38.7) Referent Referent
+No 31.8 (29.5–34.0) 0.96 (0.71–1.28) 0.99 (0.64–1.52)
+Body mass index (kg/m2) (n2,628)
+Less than 30 32.1 (27.2–36.9) Referent Referent
+30 or greater 31.2 (26.1–36.3) 0.92 (0.64–1.31) 0.86 (0.60–1.24)
+Health care provider’s encouragement to
+be vaccinated (n2,613)
+No 3.8 (2.6–4.9) Referent Referent
+Yes 64.6 (61.4–67.8) 46.76 (32.89–66.46) 56.62 (37.43–85.63)
+CI, confidence interval.
+* The odds ratios are adjusted for maternal race, age, education, parity, marital status, prenatal services paid for by Medicaid, timing of
+prenatal-care initiation, breastfeeding, smoking, body mass index, and self-reported history of preexisting or pregnancy-induced
+diabetes, high blood pressure, and health care provider’s encouragement. † A self-reported history of diabetes or high blood pressure indicates either preexisting or pregnancy-induced conditions.
+VOL. 116, NO. 4, OCTOBER 2010 Ahluwalia et al Correlates of Influenza Vaccine Coverage 953
+and benefits of seasonal influenza vaccination, which
+has been noted previously.14,21,22
+Factors that may prevent health care providers
+from recommending or offering influenza vaccinations to pregnant women include lack of facilities for
+vaccination storage and the belief that pregnant
+women should not be vaccinated,12,13,15 factors that
+previous studies have shown need to be addressed to
+facilitate optimal interaction between health care providers and their pregnant patients.12–17 Previous researchers have also called for vaccinations of pregnant women to be incorporated into the routine
+practices of obstetricians17 and to recommend specific
+strategies such as implementation of standing orders
+for seasonal influenza vaccination of pregnant women.23
+A Rhode Island program, Immunize for Life, has
+been working to increase influenza vaccine availability to health care providers and to educate health care
+providers about the importance of vaccinating highrisk populations, including pregnant women. As part
+of this program, the Rhode Island Health Department
+is required to purchase influenza vaccine and distribute it to health care providers enrolled in the program.24 This program appears to have been effective
+in increasing rates of seasonal influenza vaccination
+among pregnant women.18,24 The results of our analyses may be useful to such programs by helping them
+identify women who might benefit from additional
+education or outreach strategies focusing on prevention such as those who have previously given birth
+and those who smoke.
+Each year, more than four million births occur in
+the United States.25 Pregnancy Risk Assessment and
+Monitoring System data on influenza vaccination
+coverage, the effects of health care provider advice,
+and women’s perceived barriers to vaccination may
+provide insights about ways to educate women concerning the importance of seasonal influenza vaccination and to encourage health care providers to counsel pregnant women to be vaccinated. Many women
+and health care providers may not be aware that, in
+2004, both the Advisory Committee on Immunization Practices and the American College of Obstetricians and Gynecologists changed their recommendations concerning the administration of seasonal
+influenza vaccine to pregnant women from administration only during the second or third trimester to
+administration at any time during pregnancy.7 Approximately 25% of Georgia Pregnancy Risk Assessment and Monitoring System participants cited being
+in their first trimester as a reason for not getting the
+influenza vaccine, and others cited concerns about the
+safety of the influenza vaccine for pregnant women;
+both of these responses indicate a need to better
+communicate current vaccination recommendations
+to pregnant women and their health care providers.
+In short, despite evidence from numerous studies that
+seasonal influenza vaccines are safe for use by pregnant women,22 some pregnant women as well as their
+health care providers remain concerned about the
+safety of these vaccines.15–17
+Findings of this study should be interpreted
+within the framework of the following limitations.
+First, because our analyses were based on Pregnancy
+Risk Assessment and Monitoring System data from
+only two states, our results are not generalizable to all
+pregnant women in the United States. In addition,
+only the Rhode Island Pregnancy Risk Assessment
+and Monitoring System survey asked participants
+whether their health care providers encouraged them
+to be vaccinated, and only the Georgia survey asked
+women who were not vaccinated about their reasons
+for not getting the vaccine. Second, Pregnancy Risk
+Assessment and Monitoring System data are based on
+self-reports by women 2– 6 months postpartum and
+therefore may be affected by inaccurate recollections
+of survey participants. Third, the survey information
+about health care providers’ recommendations was
+not confirmed by reports from health care providers;
+however, this was perhaps a rather minor limitation
+given that study results have shown a high correlation
+between health care providers’ and patients’ recollecTable 3. Percentage of Unvaccinated Georgia
+Pregnancy Risk Assessment and
+Monitoring System Respondents
+(n2,237) Who Cited Various Reasons for
+Not Receiving the Influenza Vaccine,
+2006 –2007
+Reason*
+Percentage
+(95% CI)
+I do not normally get a flu
+vaccination
+65.3 (61.6–68.9)
+My physician did not mention
+anything about a flu vaccine
+during my pregnancy
+42.6 (38.9–46.2)
+I was worried that the flu
+vaccination might harm my baby
+27.4 (24.1–30.7)
+I was worried about side effects of
+the flu vaccination for me
+25.5 (22.4–28.7)
+I was in my first trimester during the
+flu season (November–February)
+22.6 (19.6–25.6)
+I was not pregnant during the flu
+season (November–February)
+21.3 (18.3–24.2)
+Other reasons 5.5 ( 3.7–7.2)
+CI, confidence interval.
+* Respondents could select more than one reason.
+954 Ahluwalia et al Correlates of Influenza Vaccine Coverage OBSTETRICS & GYNECOLOGY
+tions of health care providers’ recommendations.26,27
+Despite these limitations, our findings provide insights into influenza vaccination coverage among
+pregnant women, barriers to their vaccination, and
+potential channels for improving coverage.
+Data from the Pregnancy Risk Assessment and
+Monitoring System are used to provide state-specific
+estimates of influenza vaccination coverage of pregnant
+women, which are important for developing state-specific prevention and mitigation strategies. Findings from
+our analysis of Pregnancy Risk Assessment and Monitoring System survey data from Rhode Island and
+Georgia indicate a need for both physicians and pregnant women to be better educated1–8,19,20 regarding
+women’s risk for influenza complications during pregnancy and the protective effects of influenza vaccination
+for women and their infants. Health care providers need
+to more consistently recommend influenza vaccination
+to their pregnant patients and to address women’s
+concerns about vaccination during pregnancy ensuring
+that pregnant women understand the importance of
+getting immunized.
+REFERENCES
+1. Jamieson DJ, Honein MA, Rasmussen SA, Williams JL, Swerdlow DL, Biggerstaff MS, et al. H1N1 2009 influenza virus
+infection during pregnancy in the USA. Lancet 2009;374:
+451– 8.
+2. Cox S, Posner SF, McPheeters M, Jamieson DJ, Kourtis AP,
+Meikle S. Hospitalizations with respiratory illness among pregnant women during influenza season. Obstet Gynecol 2006;
+107:1315–22.
+3. Neuzil KM, Reed GW, Mitchel EF, Simonsen L, Griffin MR.
+Impact of influenza on acute cardiopulmonary hospitalizations
+in pregnant women. Am J Epidemiol 1998;148:1094 –102.
+4. Rasmussen SA, Jamieson DJ, Bresee JS. Pandemic influenza
+and pregnant women. Emerg Infect Dis 2008;14:95–100.
+5. Naleway AL, Smith WJ, Mullooly JP. Delivering influenza
+vaccine to pregnant women. Epidemiol Rev 2006;28:47–53.
+6. Harris JW. Influenza occurring in pregnant women: a statistical
+study of thirteen hundred and fifty cases. JAMA 1919;72:
+978 – 80.
+7. Fiore AE, Shay DK, Broder K, Iskander JK, Uyeki TM,
+Mootrey G, et al. Prevention and control of influenza: recommendations of the Advisory Committee on Immunization
+Practices (ACIP), 2008. MMWR Recomm Rep 2008;57:1– 60.
+8. Influenza vaccination and treatment during pregnancy. ACOG
+Committee Opinion Number 305. American College of Obstetricians and Gynecologists. Obstet Gynecol 2004;104:1125– 6.
+9. Zaman K, Roy E, Arifeen SE, Rahman M, Raqib R, Wilson E,
+et al. Effectiveness of maternal influenza immunization in
+mothers and infants. N Engl J Med 2008;359:1555– 64.
+10. Influenza Vaccination Coverage Levels. Atlanta (GA): Centers
+for Disease Control and Prevention. Available at: http://
+www.cdc.gov/flu/professionals/acip/coveragelevels.htm.
+Retrieved January 5. 2010.
+11. Lu P, Bridges CB, Euler GL, Singleton JA. Influenza vaccination of recommended adult populations, US, 1989 –2005.
+Vaccine 2008;26:1786 –93.
+12. Centers for Disease Control and Prevention (CDC). Influenza
+vaccination in pregnancy: practices among obstetrician–
+gynecologists—United States, 2003–2004 influenza season.
+MMWR Morb Mortal Wkly Rep 2005;54:1050–2.
+13. Silverman NS, Greif A. Influenza vaccination during pregnancy: patients’ and physicians’ attitudes. J Reprod Med
+2001;46:989 –94.
+14. Munoz FM, Greisinger AJ, Wehmanene OA, Mouzoon M,
+Hoyle JC, Smith FA, et al. Safety of influenza vaccination
+during pregnancy. Am J Obstet Gynecol 2005;192:1098 –106.
+15. Esposito S, Tremolati E, Bellasio M, Chiarelli G, Marchisio P,
+Tiso B, et al. Attitudes and knowledge regarding influenza
+vaccination among hospital health workers caring for women
+and children. Vaccine 2007;25:5283–9.
+16. Schrag SJ, Fiore AE, Gonik B, Reef S, Malik T, Singleton JA,
+et al. Vaccination and perinatal infection prevention practices
+among obstetrician– gynecologists. Obstet Gynecol 2003;101:
+704 –10.
+17. Tong A, Biringer A, Ofner-Agostini M, Upshur R, McGeer A.
+A cross-sectional study of maternity care providers’ and women’s knowledge, attitudes, and behaviours towards influenza
+vaccination during pregnancy. J Obstet Gynaecol Can 2008;
+30:404 –10.
+18. Centers for Disease Control and Prevention (CDC). Receipt of
+influenza vaccine during pregnancy among women with live
+births—Georgia and Rhode Island, 2004 –2007. MMWR Morb
+Mortal Wkly Rep 2009;58:972–5.
+19. Widelock D, Csizmas L, Klein S. Influenza, pregnancy, and
+fetal outcomes. Public Health Rep 1963;78:1–11.
+20. Freeman DW, Barno A. Deaths from Asian influenza associated with pregnancy. Am J Obstet Gynecol 1959;78:1172–5.
+21. Brewer NT, Hallman WK. Subjective and objective risk as
+predictors of influenza vaccination during the vaccine shortage
+of 2004 –2005. Clin Infect Dis 2006;43:1379 – 86.
+22. Tamma PD, Ault KA, del Rio C, Steinhoff MC, Halsey NA,
+Omer SB. Safety of influenza vaccination during pregnancy.
+Am J Obstet Gynecol 2009;201:547–52.
+23. Mouzoon ME, Munoz FM, Greisinger AJ, Brehm BJ, Wehmanen OA, Smith FA, et al. Improving influenza immunization in pregnant women and healthcare workers. Am J Manag
+Care 2010;16:209 –16.
+24. Rhode Island Department Health Rhode Island Immunization
+Program. Available at: http://www.health.ri.gov/immunization/
+immunizeforlife.php. Retrieved August 6, 2009.
+25. Tejada-Vera B, Sutton PD. Births, marriages, divorces, and
+deaths: provisional data for April 2009. National Vital Statistics
+Reports 2009;58:1–13.
+26. Sciamanna CN, Goldsten MG, Marcus BH, Lawrence K, Pinto
+BM. Accuracy of recall of exercise counseling among primary
+care patients. Prev Med 2004;39:1063–7.
+27. Pbert L, Adams A, Quirk M, Hebert JR, Ockene JK, Luippold
+RS. The patient exit interviews as an assessment of physiciandelivered smoking intervention: a validation study. Health
+Psychol 1999;18:183– 8.
+VOL. 116, NO. 4, OCTOBER 2010 Ahluwalia et al Correlates of Influenza Vaccine Coverage 955

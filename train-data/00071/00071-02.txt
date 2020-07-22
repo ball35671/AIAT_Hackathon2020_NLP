@@ -1,0 +1,1183 @@
+Articles
+1586 www.thelancet.com Vol 384 November 1, 2014
+Effi cacy of paracetamol for acute low-back pain:
+a double-blind, randomised controlled trial
+Christopher M Williams, Christopher G Maher, Jane Latimer, Andrew J McLachlan, Mark J Hancock, Richard O Day, Chung-Wei Christine Lin
+Summary
+Background Regular paracetamol is the recommended fi rst-line analgesic for acute low-back pain; however, no
+high-quality evidence supports this recommendation. We aimed to assess the effi cacy of paracetamol taken regularly
+or as-needed to improve time to recovery from pain, compared with placebo, in patients with low-back pain.
+Methods We did a multicentre, double-dummy, randomised, placebo controlled trial across 235 primary care centres
+in Sydney, Australia, from Nov 11, 2009, to March 5, 2013. We randomly allocated patients with acute low-back pain in
+a 1:1:1 ratio to receive up to 4 weeks of regular doses of paracetamol (three times per day; equivalent to 3990 mg
+paracetamol per day), as-needed doses of paracetamol (taken when needed for pain relief; maximum 4000 mg
+paracetamol per day), or placebo. Randomisation was done according to a centralised randomisation schedule
+prepared by a researcher who was not involved in patient recruitment or data collection. Patients and staff at all sites
+were masked to treatment allocation. All participants received best-evidence advice and were followed up for 3 months.
+The primary outcome was time until recovery from low-back pain, with recovery defi ned as a pain score of 0 or 1
+(on a 0–10 pain scale) sustained for 7 consecutive days. All data were analysed by intention to treat. This study is
+registered with the Australian and New Zealand Clinical Trial Registry, number ACTN 12609000966291.
+Findings 550 participants were assigned to the regular group (550 analysed), 549 were assigned to the as-needed
+group (546 analysed), and 553 were assigned to the placebo group (547 analysed). Median time to recovery was
+17 days (95% CI 14–19) in the regular group, 17 days (15–20) in the as-needed group, and 16 days (14–20) in the
+placebo group (regular vs placebo hazard ratio 0·99, 95% CI 0·87–1·14; as-needed vs placebo 1·05, 0·92–1·19;
+regular vs as-needed 1·05, 0·92–1·20). We recorded no diff erence between treatment groups for time to recovery
+(adjusted p=0·79). Adherence to regular tablets (median tablets consumed per participant per day of maximum 6;
+4·0  [IQR 1·6–5·7] in the regular group, 3·9 [1·5–5·6] in the as-needed group, and 4·0 [1·5–5·7] in the placebo
+group), and number of participants reporting adverse events (99 [18·5%] in the regular group, 99 [18·7%] in the asneeded group, and 98 [18·5%] in the placebo group) were similar between groups.
+Interpretation Our fi ndings suggest that regular or as-needed dosing with paracetamol does not aff ect recovery time
+compared with placebo in low-back pain, and question the universal endorsement of paracetamol in this patient group.
+Funding National Health and Medical Research Council of Australia and GlaxoSmithKline Australia.
+Introduction
+Low-back pain is the leading cause of disability worldwide.1
+Guidelines for acute low-back pain universally recommend
+paracetamol as the fi rst-line analgesic.2,3 Although the
+eff ect of paracetamol for low-back pain is similar to that of
+other analgesics used for low-back pain,4,5 no direct
+evidence supports this universal recommendation. In a
+systematic review6
+ we noted no evidence to support the
+use of paracetamol for low-back pain. All seven of the
+included trials had substantial methodological fl aws, and
+only one trial included more than 25 participants per
+group. No trial has compared paracetamol with placebo or
+compared as-needed dosing with the regular
+recommended dosing. In view of these uncertainties, the
+Paracetamol for Low-Back Pain Study (PACE) aimed to
+investigate the effi cacy of paracetamol taken regularly or
+as-needed to improve time to recovery from pain,
+compared with placebo for patients with acute low-back
+pain. PACE also aimed to establish whether regular or
+as-needed paracetamol improved short-term pain
+(1–12 weeks), disability, function, global rating of symptom
+change, sleep, or quality of life compared with placebo.
+Methods
+Trial design and participants
+PACE was a multicentre, double-dummy, randomised,
+placebo controlled trial. The study protocol7
+ and analysis
+plan8
+ have been published. In brief, 235 primary care
+clinicians (181 general practitioners, 50 pharmacists, and
+four physiotherapists) across Sydney, Australia, screened
+consecutive patients who sought care for low-back pain
+directly or in response to a community advertisement.
+Inclusion criteria were a new episode of acute low-back
+pain (defi ned as pain between the 12th rib and buttock
+crease that was shorter than 6 weeks’ duration and
+preceded by 1 month of no pain) with or without leg pain,
+and at least moderate-intensity pain (measured by an
+adaptation of item 7 of the Short Form [36] Health
+Survey). Exclusion criteria were suspected serious spinal
+pathology (eg, spinal cancer, infection, fracture); current
+Lancet 2014; 384: 1586–96
+Published Online
+July 24, 2014
+http://dx.doi.org/10.1016/
+S0140-6736(14)60805-9
+See Comment page 1556
+The George Institute for
+Global Health, Sydney Medical
+School, University of Sydney,
+Camperdown, NSW, Australia
+(C M Williams PhD,
+Prof C G Maher PhD,
+Prof J Latimer, C-W C Lin PhD);
+Faculty of Pharmacy and Centre
+for Education and Research in
+Ageing, University of Sydney,
+Sydney, NSW, Australia
+(Prof A J McLachlan PhD);
+Faculty of Human Sciences,
+Macquarie University, Sydney,
+NSW, Australia
+(M J Hancock PhD); Clinical
+Pharmacology, University
+of New South Wales and
+St Vincent’s Hospital,
+Darlinghurst, NSW, Australia
+(Prof R O Day MD); and Hunter
+Medical Research Institute and
+School of Medicine and Public
+Health, University of
+Newcastle, Callaghan, NSW,
+Australia (C M Williams)
+Correspondence to:
+Dr Christopher M Williams,
+Hunter Medical Research
+Institute, Longworth Avenue,
+Wallsend, NSW 2287, Australia
+cwilliams@georgeinstitute.
+org.au
+Articles
+www.thelancet.com Vol 384 November 1, 2014 1587
+use of full, regular recommended doses of an analgesic;
+spinal surgery in the preceding 6 months; contraindication
+to paracetamol; use of psychotropic drugs for a disorder
+judged to prevent reliable recording of study information;
+or pregnant or planning pregnancy.
+Ethics approval was granted by the University of
+Sydney Human Research Ethics Committee. All
+participants provided written informed consent.
+Randomisation and masking
+Concealed random allocation to one of the three treatment
+groups (regular paracetamol, as-needed paracetamol, or
+placebo) was done in a 1:1:1 ratio. The treating clinician
+provided eligible patients with guideline recommended
+advice3
+ to remain active and avoid bed rest, and reassurance
+of the favourable prognosis of acute low-back pain. The
+patient was then supplied with a sealed box of study
+medicines and referred to the study. These medicines were
+prepared independently with a computer-generated
+randomisation schedule; a researcher not taking part in
+patient recruitment or data collection created a centralised
+randomisation schedule using the random number
+function in EXCEL, and a company that was independent
+of the study prepared the treatment packs using this
+schedule. Study medicine boxes were identifi able only by a
+unique identifi cation number. Research staff not involved
+in preparation of medicine boxes collected baseline
+information by telephone and instructed patients to open
+the box and begin treatment. After confi rmation of
+eligibility and opening of the box, patients were deemed to
+have been randomised to the trial. Clinicians, participants,
+and staff collecting outcome data, assessing outcomes, and
+analysing data were masked to group allocation.
+Procedures
+With the double-dummy design, participants were
+asked to take two types of tablets for up to 4 weeks:
+two tablets from the regular box every 6–8 h (six tablets
+per day), and one or two tablets from the as-needed box
+when needed for pain relief (4–6 h apart, to a maximum
+of eight tablets per day). Participants in the regular
+group had 665 mg modifi ed-release paracetamol tablets
+in the regular box and placebo tablets in the as-needed
+box. Participants in the as-needed group received
+placebo tablets in the regular box and 500 mg
+paracetamol immediate-release tablets in the as-needed
+box. Participants in the placebo group had placebo
+tablets in both boxes. Placebo tablets were identical in
+appearance to the active tablets but did not contain
+paracetamol. Participants were asked to continue the
+study medicine until they recovered or for 4 weeks,
+whichever occurred fi rst.
+Clinicians were asked to schedule a review at 1 week to
+reinforce the study treatments (irrespective of recruitment
+method [ie, direct or advertisement]). If needed, rescue
+medications were available for participants with
+continuing severe pain. Rescue medication was 2 days’
+supply of naproxen 250 mg (two tablets initially, then
+one tablet every 6–8 h as needed). We chose naproxen on
+the basis of investigator consensus about eff ectiveness
+and safety9
+ and because of its longer half-life, needing less
+frequent dosing than other analgesics.
+Follow-up data, obtained at 1, 2, 4, and 12 weeks, were
+recorded by participants into a booklet and transcribed to
+a case report form during a telephone interview with
+research staff , or transcribed directly by the participant to
+an online database. Participants recorded pain scores
+into a daily pain and drug diary until recovery or 4 weeks.
+Participants who had recovered by week 4 were contacted
+every 2 weeks until recovery or the end of week 12 to
+obtain pain scores. Participants were asked to return
+their diary after the intervention period or with booklets
+containing secondary outcomes at the end of week 12.
+Outcomes
+The primary outcome was time until recovery from pain
+(in days).8
+ We chose this outcome on the basis of previous
+fi ndings of fast recovery in a cohort receiving regular
+paracetamol.4
+ As such, we postulated that regular
+paracetamol would improve recovery by decreasing pain
+intensity and allowing people with acute low-back pain to
+remain active and resume normal movement as soon as
+possible.
+Recovery was defi ned as the fi rst day of 0 or 1 pain
+intensity, measured on a 0–10 pain scale, maintained for
+7 consecutive days (sustained recovery). We selected this
+defi nition on the basis of consensus among study
+investigators that 7 days of being pain free would be
+more meaningful to patients than just 1 day. To test the
+robustness of our fi ndings we also defi ned recovery as
+fi rst recovery (the fi rst day of 0 or 1 pain intensity on the
+0–10 pain scale).
+Secondary outcomes were pain intensity, disability,
+function, global rating of symptom change, sleep quality,
+and quality of life. Process measures consisted of
+adherence to drug (daily and at 4 weeks); concomitant
+treatment use and work absenteeism (at 4 and 12 weeks);
+adverse events (at 1, 2, 4, and 12 weeks); and treatment
+satisfaction and patient masking (at 12 weeks).
+Socioeconomic characteristics, previous and current
+history of low-back pain, psychosocial characteristics,
+and expectancy and credibility of treatment were
+obtained at baseline.
+Pain intensity was recorded as average pain intensity
+for the past 24 h on a numerical pain rating scale from
+0 to 10, scored from 0 (no pain) to 10 (worst possible
+pain).10 Disability was assessed with the
+Roland Morris 24 scale,10 scored from 0 (no disability) to
+24 (high disability). Feelings of depression were scored
+from 0 (not at all) to 10 (extremely). Function was
+assessed with the Patient Specifi c Functional Scale,10
+with the average of three items scored from 0 (unable to
+perform) to 10 (able to perform at preinjury level).
+Global rating of symptom change was scored 
+Articles
+1588 www.thelancet.com Vol 384 November 1, 2014
+from −5 (vastly worse) to +5 (completely recovered).10
+Sleep quality was based on item 6 of the Pittsburgh
+Sleep Quality Index (scored as very good, fairly good,
+fairly bad, or very bad),11 obtained at baseline and at
+1, 2, 4, and 12 weeks, with poor sleep quality defi ned as
+answering “fairly bad” or “very bad”. Quality of life was
+assessed with the Physical and Mental components of
+Short Form 12 (version 2),12 obtained at baseline and at
+4 and 12 weeks, with population mean of 50 and
+standard deviation of 10.
+Self-reported adherence was the proportion of the
+recommended number of tablets that the participant
+reported they consumed, assessed at week 4 follow-up
+point (28 days) and reported on a 0–100 visual analogue
+scale; this measure was adapted from the Brief Adherence
+Rating Scale. Risk of persistence was scored from 0 (no
+risk) to 10 (very large risk). Credibility and expectation
+were assessed with the Credibility Expectancy
+Questionnaire,13 scored from 3 (low credibility or
+expectancy) to 27 (high credibility or expectancy). We
+defi ned serious adverse events as any event resulting in
+death or hospital admission, including pregnancy.
+We defi ned adverse events as the occurrence or diagnosis
+of any new medical disorder or exacerbation of any old
+medical disorder since most recent contact with
+researchers, and assessed this measure by questioning
+participants at weeks 1, 2, 4, and 12. Satisfaction with
+treatment was assessed by direct questioning at week 12
+(“overall, how satisfi ed were you with the study
+treatment?”), with satisfaction defi ned as a rating greater
+than 3 on a scale from 0 (not at all satisfi ed) to 6
+(extremely satisfi ed). We assessed masking by direct
+questioning at week 12 with the question “do you believe
+the medication in box 1 (regular dosing) was real
+paracetamol, box 2 (as-needed dosing) was real
+paracetamol, or that neither were real paracetamol?”.
+Use of other drugs or health services for low-back pain
+was assessed by direct questioning at the week 4 and
+week 12 follow-up points. Provision of rescue medication
+(naproxen) was assessed by direct questioning at the
+week 1, week 2, and week 4 follow-up points.
+Statistical analyses
+With the assumption of a median recovery time of 14 days
+in the regular group4
+ and 17 days in the comparison
+groups, a sample of 1650 patients would provide 80%
+power to detect a diff erence of 3 days in median time to
+recovery, with a two-sided α of 0·05 and allowing for 10%
+non-adherence.
+All data were analysed by intention to treat. Eff ects of
+treatment on the primary outcome were estimated by a
+Cox proportional-hazard model, with adjustment made
+Figure 1: Consort diagram
+4606 patients assessed for eligibility
+550 patients analysed
+1652 patients randomised
+2954 excluded
+ 2139 did not meet eligibility criteria
+ 815 declined to participate
+6 excluded after randomisation
+ 6 incorrectly screened by
+ general practitioner
+550 patients allocated to regular group
+ 461 recruited by general practitioner
+ 60 recruited by pharmacist
+ 29 recruited by community
+ advertisement
+549 patients allocated to as-needed
+ group
+ 472 recruited by general practitioner
+ 51 recruited by pharmacist
+ 23 recruited by community
+ advertisement
+553 patients allocated to placebo group
+ 468 recruited by general practitioner
+ 53 recruited by pharmacist
+ 26 recruited by community
+ advertisement
+12 patients lost to follow-up
+ 12 could not be contacted
+ 3 patients withdrew from study
+ 1 had stomach pain
+ 2 did not want to be contacted
+ (no other reason provided)
+13 patients lost to follow-up
+ 13 could not be contacted
+ 3 patients withdrew from study
+ 1 found follow-up too cumbersome
+ 1 had unrelated health problems
+ 1 said that the medicine was not
+ helping and requested no further
+ contact
+13 patients lost to follow-up
+ 13 could not be contacted
+ 2 withdrew from study
+ 1 discontinued and requested no
+ further contact (no other reason
+ provided)
+ 1 had personal issues unrelated to
+ the trial
+3 excluded after randomisation
+ 2 incorrectly screened by
+ general practitioner
+ 1 incorrectly screened by
+ pharmacist
+546 patients analysed 547 patients analysed
+Articles
+www.thelancet.com Vol 384 November 1, 2014 1589
+for baseline pain intensity because it is an important
+prognostic factor.14 To minimise multiple statistical
+testing we used a global Wald test to assess the overall
+null hypothesis. If a signifi cant diff erence was recorded
+(p<0·05), pairwise comparisons were done.15 Hazard
+ratios (HRs) and median survival times with 95% CIs were
+calculated for each group.
+Longitudinal mixed models were used to estimate
+treatment eff ects on continuous secondary outcomes. A
+log-binomial regression was used for the categorical
+outcome (sleep quality), with robust Poisson regression
+as backup in case of convergence issues.16 The main tests
+compared the overall outcome score between groups
+based on baseline and four follow-up assessments for
+that outcome. Statistical signifi cance in these models
+was defi ned as p values less than 0·01.
+Sensitivity analyses for the primary outcome used Cox
+regression models to assess the eff ects of recovery
+defi nition, imputation of missing data, and additional
+baseline characteristics (ie, pain intensity, number of
+days since onset of pain, and number of previous
+episodes). For secondary outcomes, the eff ects of these
+characteristics were also explored. The frequency of
+adverse events (classifi ed by International Classifi cation
+of Diseases version 10 coding) was compared between
+groups with the Fisher exact test.
+All primary data were double entered and checked for
+consistency. Secondary data were checked after data
+entry. Two statisticians who were masked to allocation
+independently did statistical analyses with SAS software
+(version 9.3). Discrepancies were resolved before
+unmasking. This study is registered with the Australian
+and New Zealand Clinical Trials Registry, number ACTN
+12609000966291.
+Role of the funding source
+PACE was an investigator-initiated trial funded by the
+National Health and Medical Research Council of
+Regular group (N=550) As-needed group (N=546) Placebo group (N=547)
+Patient characteristics
+Age (years) 44·1 (14·8); N=550 45·4 (16·7); N=545 45·4 (15·9); N=546
+Women 264/550 (48%) 256/546 (47%) 246/547 (45%)
+Private health insurance 276/550 (50%) 243/545 (45%) 250/543 (46%)
+Currently employed 424/550 (77%) 403/546 (74%) 388/541 (72%)
+Household income per week (per year)
+Negative or no income 19/540 (4%) 11/531 (2%) 22/530 (4%)
+AUS$1–$649 ($1–$33 799) 133/540 (25%) 167/531 (31%) 168/530 (32%)
+$650–$1699 ($33 800–$88 399) 243/540 (45%) 243/531 (46%) 226/530 (43%)
+$1700–$3999 ($88 400–$207 999) 119/540 (22%) 92/531 (17%) 96/530 (18%)
+≥$4000 (≥$208 000) 26/540 (5%) 18/531 (3%) 18/530 (3%)
+Use of drugs for another disorder 201/550 (37%) 227/543 (42%) 202/543 (37%)
+Episode characteristics
+Days since onset of pain 10·1 (10·1); N=550 9·7 (10·0); N=545 9·7 (9·8); N=546
+Number of previous episodes 6·3 (13·7); N=547 7·2 (14·9); N=543 7·2 (16·9); N=544
+Presence of pain extending beyond the knee 108/547 (20%) 113/546 (21%) 99/543 (18%)
+Number of days reduced usual activity 3·7 (6·3); N=548 3·6 (5·8); N=543 3·4 (5·3); N=546
+Disability 12·5 (5·4); N=550 12·7 (5·3); N=547 12·9 (5·3); N=546
+Feelings of depression in the past week 3·2 (2·9); N=547 3·1 (2·9); N=545 3·1 (2·9); N=546
+Perceived risk of persistent pain 4·6 (2·8); N=548 4·6 (2·8); N=544 4·4 (2·8); N=546
+Back pain episode compensable 31/546 (6%) 44/543 (8%) 43/545 (8%)
+Pain intensity 6·3 (1·9); N=550 6·3 (2·0); N=545 6·2 (1·8); N=545
+Global rating of change 0·0 (2·1); N=548 −0·1 (2·2); N=545 −0·1 (2·1); N=545
+Poor sleep quality 273/549 (50%) 272/545 (50%) 242/546 (44%)
+Function 3·5 (1·7); N=547 3·6 (1·9); N=544 3·7 (1·9); N=544
+Quality of life—physical 42·7 (9·8); N=548 42·3 (10·0); N=544 42·1 (10·6); N=546
+Quality of life—mental 44·3 (8·0); N=548 44·7 (8·0); N=544 44·5 (7·9); N=546
+Credibility score 19·0 (4·9); N=547 18·5 (5·3); N=542 19·3 (5·0); N=544
+Expectation score 21·2 (5·7); N=547 21·1 (5·5); N=542 21·7 (5·6); N=544
+Data are mean (SD) or n/N (%). N refers to the number of participants providing data. Days since onset of pain refers to the number of days since the onset of the current
+episode of low-back pain. Number of days of reduced activity refers to number of days the present episode forced a reduction in usual activity for more than half a day. Back
+pain episode compensable refers to patients claiming compensation for the present episode. AUS$1=US$0·94 (as of June, 2014).
+Table 1: Baseline characteristics
+Articles
+1590 www.thelancet.com Vol 384 November 1, 2014
+Australia. GlaxoSmithKline Australia provided sub sequent
+supplementary funding and paracetamol and matched
+placebo tablets. The funders of the study had no other role
+in the study design, data collection, data analysis, data
+interpretation, or writing of the report. The corresponding
+author had full access to all the data in the study and fi nal
+responsibility for the decision to submit for publication.
+Results
+From Nov 11, 2009, to Dec 13, 2012, 4606 patients were
+screened and 1652 patients were randomly assigned to
+treatment groups (fi gure 1). The mean age was 45 years
+(SD 16) and 876 (53%) patients were men. Nine patients
+were excluded by a masked researcher after
+randomisation because new information provided to
+Regular group
+(N=550)
+As-needed group
+(N=546)
+Placebo group
+(N=547)
+Self-reported daily consumption
+Regular tablets per day
+Week 1 5·4 (3·7–6·0); N=491 5·4 (3·4–6·0); N=478 5·4 (3·4–6·0); N=474
+Week 2 4·3 (0·3–6·0); N=455 4·1 (0·0–6·0); N=456 4·0 (0·0–6·0); N=450
+Week 3 4·0 (0·0–6·0); N=342 3·1 (0·0–6·0); N=343 2·9 (0·0–6·0); N=330
+Week 4 1·6 (0·0–6·0); N=308 0·6 (0·0–6·0); N=313 1·2 (0·0–5·7); N=296
+Overall 4·0 (1·6–5·7); N=532 3·9 (1·5–5·6); N=528 4·0 (1·5–5·7); N=529
+As-needed tablets per day
+Week 1 1·9 (1·0–4·3); N=490 1·9 (1·0–4·0); N=473 1·9 (1·0–4·0); N=472
+Week 2 0·0 (0·0–1·4); N=453 0·0 (0·0–1·0); N=454 0·0 (0·0–1·0); N=448
+Week 3 0·0 (0·0–1·0); N=340 0·0 (0·0–0·9); N=343 0·0 (0·0–1·0); N=328
+Week 4 0·0 (0·0–0·6); N=306 0·0 (0·0–0·3); N=312 0·0 (0·0–0·7); N=296
+Overall 0·9 (0·4–2·7); N=532 1·0 (0·4–2·9); N=528 1·0 (0·5–2·7); N=529
+Self-reported adherence questionnaire
+Participants consuming more than 70% of the
+recommended dose
+230/451 (51%) 229/446 (51%) 196/414 (47%)
+Concomitant treatments
+Participants receiving rescue medication (naproxen)
+Total 2/518 (<1%) 4/513 (1%) 6/517 (1%)
+Week 1 0/518 2/513 (<1%) 3/517 (1%)
+Week 2 2/518 (<1%) 2/513 (<1%) 3/516 (1%)
+Participants using other drugs
+Total 107/525 (20%) 116/513 (23%) 119/525 (23%)
+During intervention period (weeks 1–4) 59/515 (11%) 82/505 (16%) 71/508 (14%)
+After intervention period (weeks 5–12) 67/504 (13%) 71/504 (14%) 67/511 (13%)
+Participants using other health services
+Total 164/525 (31%) 160/515 (31%) 158/525 (30%)
+During intervention period (weeks 1–4) 133/515 (26%) 123/506 (24%) 127/510 (25%)
+After intervention period (weeks 5–12) 79/506 (16%) 78/507 (15%) 69/511 (14%)
+Adverse events
+Participants reporting a serious adverse event 5/550 (1%) 4/546 (1%) 5/547 (1%)
+Participants reporting an adverse event 99/534 (19%) 99/529 (19%) 98/531 (18%)
+Hours absent from work
+Week 1 (day 0–day 7) 0·0 (0·0–8·0); N=454 0·0 (0·0–7·0); N=449 0·0 (0·0–8·0); N=416
+All other weeks 0·0 (0·0–0·0); N=454 0·0 (0·0–0·0); N=449 0·0 (0·0–0·0); N=416
+Treatment satisfaction
+Satisfi ed with treatment 365/478 (76%) 342/472 (72%) 335/458 (73%)
+Assessment of patient masking
+Neither pack contained real paracetamol 113/498 (23%) 137/494 (28%) 156/505 (31%)
+Regular pack contained real paracetamol 261/498 (52%) 224/494 (45%) 237/505 (47%)
+As-needed pack contained real paracetamol 124/498 (25%) 133/494 (27%) 112/505 (22%)
+Data are median (IQR) or n/N (%). N refers to the number of participants providing data. Self-reported daily consumption refers to the number of tablets the participant
+reported that they consumed per day until recovery or the end of the treatment period (28 days) as recorded in the daily medication diary.
+Table 2: Trial process measures
+Articles
+www.thelancet.com Vol 384 November 1, 2014 1591
+researchers meant that these patients did not initially
+meet the eligibility criteria (fi gure 1). Of the
+1643 participants, 550 were allocated to the regular group,
+546 to the as-needed group, and 547 to the placebo group.
+The primary outcome could be determined for 534 (97%)
+of the regular group, 530 (97%) of the as-needed group,
+and 532 (97%) of the placebo group. The completeness of
+survival data, measured by the completeness index,17
+was 94·4%.
+Table 1 shows baseline characteristics. Participants had
+a mean pain intensity of 6·3 (SD 1·9). Across all three
+groups the mean number of days since onset of pain was
+9·9 (SD 10). The credibility of the study treatment and
+participants’ treatment expectations were high and
+similar across groups (credibility 18·9 [SD 5·1] and
+treatment expectation 21·3 [5·6] of 27). Participants
+recruited directly by community advertisement had a
+mean pain intensity of 5·3 (SD 1·6) and the mean
+number of days since onset was 15·7 (10·7).
+Treatment adherence was similar across groups
+(table 2). The median number of regular tablets taken
+daily (until sustained recovery, or 4 weeks) was 4·0
+(IQR 1·5–5·7) of the recommended 6·0 (equivalent to a
+median daily dose of 2660 mg paracetamol for
+participants in the regular group). All groups reported
+increased adherence in the fi rst 2 weeks of the
+intervention, with median doses equivalent to
+3500 mg/day in week 1 and 2800 mg/day in week 2 for
+the regular group (table 2). The median number of
+as-needed tablets across groups was 1·9 tablets (IQR
+1·0–4·0) daily in week 1 (1000 mg/day paracetamol) and
+1·0 tablets (0·4–2·7) daily overall (500 mg/day
+paracetamol). Counts of returned medicines (appendix)
+and results from the Brief Adherence Rating Scale
+(table 2) lent support to these fi ndings. 230 patients in
+the regular group, 196 patients in the as-needed group,
+and 229 patients in the placebo group consumed 70% or
+more of the recommended course of treatment (table 2).
+By 12 weeks, 466 (85%) participants in the regular
+group, 452 (83%) in the as-needed group, and 461 (84%)
+in the placebo group reached sustained recovery
+(fi gure 2). The global signifi cance test suggested no
+diff erence in time to recovery between groups, controlling
+for baseline pain intensity (adjusted p=0·79). Median
+days to recovery were 17 (95% CI 14–19) in the regular
+group, 17 (15–20) in the as-needed group, and 16 (14–20)
+in the placebo group (regular vs placebo, HR 0·99, 95%
+CI 0·87–1·14; as-needed vs placebo, 1·05, 0·92–1·19;
+regular vs as-needed, 1·05, 0·92–1·20). Table 3 details the
+change in secondary outcomes scores at each follow-up
+point for all treatment groups. Longitudinal mixed
+models of secondary outcomes showed no diff erence
+between groups for any secondary outcome during
+follow-up (appendix).
+Most patients (1042 of 1408; 74%) were satisfi ed with
+treatment (table 2). The use of rescue medication
+(naproxen) was low and similar across groups. During
+the intervention period there was small-to-moderate use
+of other drugs (table 2), and other health services after
+removal of GP visits (212/1528 [14%]). The number and
+type of drugs and health services used were similar
+across groups (tables 4, 5). 296 (19%) of 1594 participants
+had an adverse event, with no diff erence across the three
+groups (table 2). Five (1%) participants in the regular
+group, four (1%) in the as-needed group, and fi ve (1%) in
+the placebo group had serious adverse events unrelated
+to the study treatment (table 2, appendix).
+Time to recovery did not signifi cantly diff er between
+groups (p=0·55) when the fi rst recovery defi nition was
+used, lending support to the robustness of the primary
+analysis (appendix). We noted no diff erence between
+groups with imputation methods for best-case and worstcase recovery (missing daily pain scores imputed as a
+recovered value, p=0·72; missing daily pain scores
+imputed as a non-recovered value, p=0·79) or after
+adjustment for baseline characteristics (pain, number of
+days since onset of pain, and number of previous
+episodes, p=0·90; data not shown). Adjustment of these
+characteristics did not change the fi ndings for secondary
+outcomes.
+After consideration of the results we did a post-hoc
+analysis to assess the eff ect of paracetamol in the early
+phase of treatment. We constructed linear mixed models
+that included the daily pain scores up to day 14 to estimate
+eff ects of treatment overall and for each day. These
+analyses showed no treatment eff ect (appendix).
+Discussion
+We have shown that neither regular nor as-needed
+dosing of paracetamol improved recovery compared with
+placebo. Consistent with the primary results, paracetamol
+also had no eff ect on pain, disability, function, global
+See Online for appendix
+Figure 2: Kaplan-Meier curves for sustained recovery by treatment group, adjusted for baseline pain score
+Global p=0·79.
+0 7 14 21 28 35 42 49 56 63 70 77 84
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Cumulative frequency (%)
+Follow-up (days) Number at risk
+Regular
+Placebo
+As-needed
+550
+547
+546
+434
+430
+427
+305
+301
+328
+226
+236
+233
+181
+184
+189
+152
+152
+153
+140
+137
+138
+124
+123
+125
+113
+110
+117
+106
+100
+107
+100
+97
+103
+90
+88
+96
+0
+0
+0
+Median days to recovery (95% CI)
+ Regular 17 (14–19)
+ Placebo 16 (14–20)
+ As-needed 17 (15–20)
+Articles
+1592 www.thelancet.com Vol 384 November 1, 2014
+symptom change, sleep, or quality of life. Adverse events
+between treatment groups did not diff er.
+PACE was a large, high-quality, multicentre trial. The
+trial setting matches the recommendations in guidelines
+Regular group
+(N=550)
+As-needed
+group (N=546)
+Placebo group
+(N=547)
+(Continued from previous column)
+Function
+Week 1
+N 513 498 499
+Mean (SD) 6·2 (2·6) 6·1 (2·6) 6·2 (2·5)
+Median (IQR) 6·0 (4·0–8·3) 6·0 (4·0–8·0) 6·0 (4·3–8·3)
+Week 2
+N 507 496 496
+Mean (SD) 7·3 (2·6) 7·2 (2·5) 7·4 (2·5)
+Median (IQR) 8·0 (5·7–9·7) 7·7 (5·3–9·7) 8·0 (5·7–10·0)
+Week 4
+N 502 504 497
+Mean (SD) 8·2 (2·5) 8·1 (2·4) 8·2 (2·4)
+Median (IQR) 9·3 (7·0–10·0) 9·3 (7·0–10·0) 9·3 (7·0–10·0)
+Week 12
+N 502 512 503
+Mean (SD) 8·7 (2·3) 8·7 (2·1) 8·7 (2·2)
+Median (IQR) 10·0 (8·7–10·0) 10·0 (8·0–10·0) 10·0 (8·7–10·0)
+Poor sleep quality
+Week 1 143/514 (27·8%) 129/501 (25·7%) 127/496 (25·6%)
+Week 2 85/508 (16·7%) 88/495 (17·8%) 85/497 (17·1%)
+Week 4 59/507 (11·6%) 57/500 (11·4%) 52/503 (10·3%)
+Week 12 54/506 (10·7%) 55/503 (10·9%) 44/514 (8·6%)
+SF12 Physical score
+Week 4
+N 381 386 377
+Mean (SD) 50·3 (9·3) 49·7 (10·4) 50·8 (9·1)
+Median (IQR) 52·9
+(44·3–57·2)
+53·1
+(43·2–57·5)
+53·1
+(45·4–57·8)
+Week 12
+N 252 264 243
+Mean (SD) 54·9 (8·6) 55·3 (7·9) 54·7 (8·8)
+Median (IQR) 57·8
+(52·4–60·5)
+57·8
+(53·6–60·5)
+57·8
+(51·5–60·5)
+SF12 Mental score
+Week 4
+N 381 386 377
+Mean (SD) 43·7 (6·2) 43·9 (7·0) 44·4 (6·1)
+Median (IQR) 45·0
+(40·4–48·0)
+45·1
+(40·1–48·3)
+45·4
+(41·3–48·3)
+Week 12
+N 252 264 243
+Mean (SD) 45·6 (5·3) 45·6 (5·1) 44·7 (5·5)
+Median (IQR) 45·6
+(42·8–49·0)
+46·3
+(43·3–48·5)
+45·4
+(42·7–48·2)
+Data are mean (SD), median (IQR), or n/N (%); N refers to the number of
+participants providing data.
+Table 3: Secondary outcomes during study follow-up
+Regular group
+(N=550)
+As-needed
+group (N=546)
+Placebo group
+(N=547)
+Pain intensity
+Week 1
+N 517 499 504
+Mean (SD) 3·7 (2·6) 3·8 (2·7) 3·6 (2·6)
+Median (IQR) 3·0 (2·0–6·0) 4·0 (2·0–6·0) 3·0 (1·0–5·0)
+Week 2
+N 509 498 497
+Mean (SD) 2·6 (2·6) 2·6 (2·5) 2·5 (2·5)
+Median (IQR) 2·0 (0·0–4·0) 2·0 (0·0–4·0) 2·0 (0·0–4·0)
+Week 4
+N 509 507 499
+Mean (SD) 1·7 (2·3) 1·8 (2·4) 1·7 (2·3)
+Median (IQR) 1·0 (0·0–3·0) 1·0 (0·0–3·0) 1·0 (0·0–3·0)
+Week 12
+N 506 514 505
+Mean (SD) 1·2 (2·2) 1·3 (2·2) 1·3 (2·3)
+Median (IQR) 0·0 (0·0–1·0) 0·0 (0·0–2·0) 0·0 (0·0–2·0)
+Disability score
+Week 1
+N 513 498 500
+Mean (SD) 7·7 (6·5) 8·0 (6·5) 8·3 (6·5)
+Median (IQR) 6·0 (2·0–13·0) 7·0 (3·0–12·5) 7·0 (3·0–13·0)
+Week 2
+N 507 496 497
+Mean (SD) 5·2 (6·1) 5·4 (5·9) 5·3 (6·1)
+Median (IQR) 3·0 (0·0–9·0) 3·0 (0·0–9·0) 3·0 (0·0–9·0)
+Week 4
+N 504 506 497
+Mean (SD) 3·2 (5·2) 3·5 (5·3) 3·3 (5·1)
+Median (IQR) 0·0 (0·0–4·0) 1·0 (0·0–5·0) 0·0 (0·0–5·0)
+Week 12
+N 504 514 503
+Mean (SD) 2·4 (4·7) 2·6 (4·9) 2·4 (4·5)
+Median (IQR) 0·0 (0·0–2·0) 0·0 (0·0–3·0) 0·0 (0·0–3·0)
+Global change
+Week 1
+N 514 497 503
+Mean (SD) 2·1 (2·0) 2·0 (2·2) 2·1 (2·2)
+Median (IQR) 2·0 (1·0–4·0) 2·0 (0·0–4·0) 3·0 (1·0–4·0)
+Week 2
+N 507 498 496
+Mean (SD) 2·8 (2·1) 2·7 (2·1) 2·8 (2·2)
+Median (IQR) 3·0 (2·0–4·0) 3·0 (1·0–4·0) 3·0 (2·0–5·0)
+Week 4
+N 507 506 498
+Mean (SD) 3·4 (2·1) 3·4 (2·1) 3·5 (2·1)
+Median (IQR) 4·0 (3·0–5·0) 4·0 (2·0–5·0) 4·0 (3·0–5·0)
+Week 12
+N 505 514 503
+Mean (SD) 3·8 (2·0) 3·7 (2·1) 3·8 (2·0)
+Median (IQR) 5·0 (4·0–5·0) 5·0 (3·0–5·0) 5·0 (4·0–5·0)
+(Continues in next column)
+Articles
+www.thelancet.com Vol 384 November 1, 2014 1593
+that low-back pain should mainly be managed in primary
+care.2,3 Participant characteristics at baseline were
+consistent with those of patients from other cohort
+studies of acute low-back pain in primary care.18,19 Several
+features reduced the risk of bias including central
+Regular group
+(N=550)
+As needed
+group (N=546)
+Placebo
+group
+(N=547)
+Up to week 4
+N 515 505 508
+General practitioner* 69 (13%) 57 (11%) 45 (9%)
+Medical specialist 7 (1%) 6 (1%) 6 (1%)
+Chiropractor 14 (3%) 8 (2%) 11 (2%)
+Physiotherapy 45 (9%) 56 (11%) 54 (11%)
+Osteopath 4 (1%) 5 (1%) 5 (1%)
+Emergency 3 (1%) 0 1 (0%)
+Massage therapy 9 (2%) 11 (2%) 8 (2%)
+Other allied health 3 (1%) 3 (1%) 2 (<1%)
+Spinal injection 5 (1%) 3 (1%) 1 (<1%)
+Acupuncture 4 (1%) 2 (<1%) 7 (1%)
+Other complimentary
+therapies
+4 (1%) 4 (1%) 8 (2%)
+CT scan 2 (<1%) 8 (2%) 1 (<1%)
+X-ray 3 (1%) 2 (<1%) 3 (1%)
+Other imaging 2 (<1%) 1 (<1%) 2 (<1%)
+Blood test 0 2 (<1%) 0
+Number of patients
+using concomitant
+health services
+133 (26%) 123 (24%) 127 (25%)
+Weeks 5–12
+N 506 507 511
+General practitioner* 18 (4%) 24 (5%) 26 (5%)
+Medical specialist 4 (1%) 3 (1%) 5 (1%)
+Chiropractor 14 (3%) 4 (1%) 8 (2%)
+Physiotherapy 30 (6%) 35 (7%) 24 (5%)
+Osteopath 3 (1%) 2 (<1%) 1 (<1%)
+Emergency 3 (1%) 3 (1%) 1 (<1%)
+Massage therapy 4 (1%) 4 (1%) 7 (1%)
+Other allied health
+professional
+2 (<1%) 0 0
+Spinal injection 5 (1%) 3 (1%) 5 (1%)
+Acupuncture 3 (1%) 4 (1%) 5 (1%)
+Other complimentary
+therapies
+3 (1%) 7 (1%) 3 (1%)
+MRI 3 (1%) 3 (1%) 4 (1%)
+CT scan 1 (<1%) 2 (<1%) 1 (<1%)
+X-ray 1 (<1%) 3 (1%) 1 (<1%)
+Other imaging 1 (<1%) 0 0
+Number of patients
+using concomitant
+health services
+79 (16%) 78 (15%) 69 (13%)
+Data are the number of participants who reported they accessed the health
+services. *Includes subsequent visit to recruiting general practitioner. Emergency
+refers to participants who presented to emergency department but were not
+admitted. Other allied health professional includes exercise physiologist, dietician,
+psychologist, podiatrist, and occupational therapist. Other complimentary
+therapies refers to remaining therapies described in isolation or not part of a
+service description (eg, tai chi, back brace, pilates, gym, naturopathy,
+manipulation, vibration platform, Bowen therapy, yoga, or Chinese medicine).
+Other imaging refers to bone scan or ultrasound.
+Table 5: Concomitant health services used in weeks 1–4 and weeks 5–12
+Regular group
+(N=550)
+As-needed
+group (N=546)
+Placebo
+group
+(N=547)
+Up to week 4
+N 515 505 508
+Paracetamol* 10 (1·9%) 22 (4·4%) 19 (3·7%)
+Paracetamol with
+opioid*
+9 (1·7%) 11 (2·2%) 10 (2·0%)
+Anticonvulsant 2 (0·4%) 1 (0·2%) 1 (0·2%)
+Muscle relaxant 1 (0·2%) 4 (0·2%) 0
+NSAID 30 (5·8%) 39 (7·7%) 23 (4·5%)
+NSAID with opioid 5 (1·0%) 3 (0·6%) 2 (0·4%)
+Opioid 7 (1·4%) 4 (0·8%) 4 (0·8%)
+Other 2 (0·4%) 6 (1·2%) 2 (0·4%)
+Psychoactive 0 1 (0·2%) 1 (0·2%)
+Rescue medication
+(naproxen)
+3 (0·6%) 4 (0·8%) 6 (1·2%)
+Topical 2 (0·4%) 1 (0·2%) 1 (0·2%)
+Unspecifi ed 2 (0·4%) 2 (0·4%) 0
+Number of patients
+using concomitant
+drugs
+59 (11·5%) 82 (16·2%) 71 (14·0%)
+Weeks 5–12
+N 504 504 511
+Paracetamol 21 (4·2%) 25 (5·0%) 18 (3·5%)
+Paracetamol with
+opioid
+8 (1·6%) 13 (2·6%) 9 (1·8%)
+Anticonvulsant 1 (0·2%) 3 (0·6%) 0
+Muscle relaxant 2 (0·4%) 0 0
+NSAID 25 (5·0%) 21 (4·2%) 24 (4·7%)
+NSAID with opioid 0 1 (0·2%) 1 (0·2%)
+Opioid 4 (0·8%) 3 (0·6%) 2 (0·4%)
+Other 4 (0·8%) 1 (0·2%) 6 (1·2%)
+Psychoactive 0 5 (1·0%) 0
+Rescue medication
+(naproxen)
+1 (0·2%) 0 3 (0·6%)
+Topical 1 (0·2%) 0 3 (0·6%)
+Number of patients
+using concomitant
+drugs
+67 (13·3%) 71 (14·1%) 67 (13·1%)
+Data are number of participants who reported taking the drugs. NSAID with opioid
+refers to any NSAID–opioid combination medicine. Paracetamol with opioid refers
+to any paracetamol-opioid combination. Rescue medicine refers to the study rescue
+medication (naproxen) provided by a study general practitioner. Topical refers to
+any ointment or cream applied to skin, including NSAIDs. Unspecifi ed refers to
+medicine not described. Other refers to antihypertensive drugs, cold and fl u
+remedies, alternative medicines (eg, glucosamine or chondroitin), herbal medicine
+(unspecifi ed), antibiotics, sedatives, calcium channel blockers, or lipid-modifying
+drugs. NSAID=non-steroidal anti-infl ammatory drug. *Paracetamol not supplied as
+part of the study—non-concurrent use with study medicines.
+Table 4: Concomitant drugs used in weeks 1–4 and weeks 5–12
+Articles
+1594 www.thelancet.com Vol 384 November 1, 2014
+randomisation, allocation concealment, masking, and
+very low attrition. The risk of bias was reduced further by
+pre-publication of a statistical analysis plan.
+A potential limitation of PACE is that participants
+typically did not take the full recommended dose of
+paracetamol. Previous trials of low-back pain have used
+paracetamol doses ranging from 1000 mg/day to
+4000 mg/day.6
+ In PACE we adopted the Australian
+recommended maximum dose of 4000 mg/day,20 but the
+overall median intake was equivalent to 2660 mg/day.
+The accumulated response from regular dosing,
+equivalent to 4000 mg/day, might have been more
+eff ective. However, in our post-hoc analysis we did not
+note any signal of eff ect on pain intensity during the fi rst
+weeks of the trial when the median dose (3500 mg/day)
+was close to the recommended maximum.
+Adherence in PACE was similar to paracetamol
+adherence in other pain states for which paracetamol is
+recommended as fi rst-line care. In studies of osteoarthritis,
+Pahor and colleagues21 reported that only 26% of patients
+took the recommended dose of 4000 mg/day, and Temple
+and colleagues22 reported adherence at 1 month to be
+about 3000 mg/day. PACE participants were very well
+supported to adhere with the recommended dose,
+receiving explicit advice about dosing from the clinician
+and research staff , which was then reinforced at follow-up.
+The fact that many participants were still not able to
+comply might result from impractical dosing requirements
+of paracetamol or suggest that more intensive strategies
+are needed for improved adherence.23
+Another potential limitation is that some participants
+used other treatments during the intervention period, as
+opposed to the recommended rescue medication, despite
+advice to not take additional treatments. Although this
+issue has not been extensively assessed, other trial
+fi ndings have shown that these additional treatments do
+not provide benefi ts above guideline recommended
+advice and simple analgesics.4,5,24 Importantly, we noted
+no diff erence in the use of other medicines or health
+services between groups, and so these other treatments
+are unlikely to have masked an eff ect of paracetamol.
+Although guidelines endorse paracetamol for acute
+low-back pain, this recommendation is based on scarce
+evidence. In the only trial of low-back pain (n=46) that
+compared paracetamol (3000 mg/day) with no treatment,
+recovery rates did not diff er.25 More often, paracetamol
+has been compared with non-steroidal anti-infl ammatory
+drugs (NSAIDs). Investigators of a Cochrane review5
+concluded that the eff ect of NSAIDs was equal to that of
+paracetamol (three trials, total n=309) and only
+marginally better than placebo (8 points on a 0–100 pain
+scale; four trials, total n=745); however, paracetamol has a
+better safety profi le than NSAIDs. Our fi ndings, based
+on a much larger sample, suggest that simple analgesics
+such as paracetamol might not be important in the
+management of acute low-back pain (panel).
+Although we showed no eff ect of paracetamol on
+recovery time, participants recovered at a faster rate than
+that typically reported in other cohorts with acute back
+pain receiving miscellaneous or usual treatments.19
+In PACE, median recovery was 16–17 days, and by
+12 weeks nearly 85% of participants had recovered.
+Similar recovery was also noted in a study4
+ investigating
+fi rst-line treatments for acute low-back pain. A possible
+explanation of these more favourable outcomes is that in
+both studies patients were provided with good-quality
+advice and reassurance, a feature that is often absent
+from usual care.26 While we cannot disregard the
+possibility of a placebo eff ect in PACE leading to
+improved recovery, the provision of advice and
+reassurance of the favourable prognosis might be the
+more important factor in management of acute low-back
+pain than drug therapy. Research should focus on
+whether the recommended components of advice and
+reassurance are benefi cial.
+Our fi ndings suggest that the effi cacy of paracetamol
+should be carefully considered, with respect to the safe
+and eff ective use of medicines for low-back pain.
+Although our fi ndings call into question the use of
+paracetamol to improve outcomes for acute low-back
+pain, these results should be replicated before paracetamol
+is completely dismissed in the management of low-back
+pain. Importantly, the safety profi le of paracetamol is
+favourable compared with other analgesics recommended
+for low-back pain (eg, NSAIDs).20 Because these other
+medicines have not been shown to provide additional
+benefi t beyond that of paracetamol,20 and are only
+Panel: Research in context
+Systematic review
+We previously did a systematic review of clinical trials of paracetamol for acute low-back
+pain,4
+ in which we could fi nd no randomised controlled trials that compared paracetamol
+with placebo and none that compared as-needed paracetamol with regular paracetamol.
+In Dec 20, 2013, we searched PubMed and PEDro for studies published since Aug 1, 2007.
+For relevant trials we used the text search terms “acute low-back pain”, and “paracetamol”
+or “acetaminophen” and a publication date fi lter. We did not identify any relevant trials.
+Interpretation
+Our fi ndings provide the fi rst evide nce for the eff ectiveness of paracetamol for acute
+low-back pain. Neither regular nor as-needed paracetamol improved recovery time or
+pain intensity, disability, function, global change in symptoms, sleep, or quality of life at
+any stage during a 3-month follow up. In previous studies, paracetamol was usually
+compared with non-steroidal anti-infl ammatory drugs. Investigators of a Cochrane
+Review20 concluded these medicines to be equally eff ective (three trials, total n=309) and
+that non-steroidal anti-infl ammatory drugs are only marginally better than placebo
+(8 points on a 0–100 pain scale; 4 trials, total n=745). The results of our study, based on a
+much larger sample, suggest that simple analgesics such as paracetamol might not be of
+primary importance in the management of acute low-back pain, and the universal
+recommendation in clinical practice guidelines to provide paracetamol as a fi rst-line
+treatment should be reconsidered. In view of the quick timeframe in which participants in
+our trial improved across all the outcomes measured, compared with other cohorts,
+advice and reassurance (as provided in our trial) might be a more important aspect of
+medical care than pharmacological strategies for acute episodes of low-back pain.
+Articles
+www.thelancet.com Vol 384 November 1, 2014 1595
+marginally better than is placebo,5
+ it is not clear which
+drug should be preferred for management of low-back
+pain. Our results convey the need to reconsider the
+universal endorsement of paracetamol in clinical practice
+guidelines as fi rst-line care for low-back pain, and suggest
+that advice and reassurance, rather than analgesics,
+should be the focus of fi rst-line care.
+At present, no management strategies for acute
+low-back pain have shown eff ectiveness to improve
+outcomes substantially beyond its natural prognosis.
+Because low-back pain is the leading cause of disability
+worldwide,1
+ improved focus on development of new,
+eff ective treatments is warranted. In PACE, even during
+the fi rst 14 days, paracetamol had no eff ect on outcomes.
+One pharmacological research direction would be to
+understand why paracetamol is eff ective in some acute
+pain states (eg, tooth extraction27 and postoperative pain28)
+but not for low-back pain.
+PACE provides high-quality evidence that, in addition
+to advice and reassurance, neither regular nor as-needed
+paracetamol signifi cantly speed recovery from acute
+low-back pain. Although participants improved quickly
+in PACE, paracetamol had no eff ect on pain, disability,
+function, global symptom change, sleep quality, or
+quality of life.
+Contributors
+CMW participated in the conception and design of the study,
+recruitment and training of study sites, acquisition of data, statistical
+analysis and interpretation of data, drafting of the report, critical revision
+of the report for important intellectual content, and some process
+analyses. CGM participated in the conception and design of the study,
+interpretation of data, drafting of the report, critical revision of the report
+for important intellectual content, obtaining funding, administrative and
+technical support, and supervision. JL participated in the conception and
+design of the study, interpretation of data, critical revision of the report
+for important intellectual content, obtaining funding, administrative and
+technical support, and supervision. AJM participated in the conception
+and design of the study, medicine audits, interpretation of data, critical
+revision of the report for important intellectual content, statistical
+analysis, obtaining funding, administrative and technical support, and
+supervision. MJH participated in the conception and design of the study,
+acquisition of data, interpretation of data, critical revision of the report
+for important intellectual content, obtaining funding, administrative and
+technical support, and supervision. ROD participated in the conception
+and design of the study, interpretation of data, critical revision of the
+report for important intellectual content, obtaining funding,
+administrative and technical support, and supervision. C-WCL
+participated in the conception and design of the study, acquisition of
+data, interpretation of data, critical revision of the report for important
+intellectual content, administrative and technical support, and
+supervision. All authors approved the fi nal submitted version.
+Declaration of interests
+AJM has received funding for a postgraduate research scholarship
+from GlaxoSmithKline. CGM has received funding to review teaching
+materials prepared by GlaxoSmithKline. The other authors declare no
+competing interests.
+Acknowledgments
+Two independent statisticians did primary, secondary, and process
+analyses (Qiang Li and Severine Bompoint). This study was
+an investigator-initiated study funded by a project grant from National
+Health and Medical Research Council of Australia. GlaxoSmithKline
+Australia provided subsequent supplementary funding and the
+paracetamol and matched placebo. We thank the participants of this
+research, the clinicians involved in participant recruitment, and the
+research support staff involved in site monitoring, data collection,
+data management, and data analysis. CGM and JL are supported by
+Australian Research Council Future Fellowships FT-100100603 and
+FT-0991861, respectively. C-WCL is supported by a Career Development
+Fellowship from the National Health and Medical Research Council,
+Australia (APP1061400).
+References
+1 Vos T, Flaxman AD, Naghavi M, et al. Years lived with disability
+(YLDs) for 1160 sequelae of 289 diseases and injuries 1990–2010:
+a systematic analysis for the Global Burden of Disease Study 2010.
+Lancet 2012; 380: 2163–96.
+2 Chou R, Qaseem A, Snow V, et al, and the Clinical Effi cacy
+Assessment Subcommittee of the American College of Physicians,
+and the American College of Physicians, and the American Pain
+Society Low Back Pain Guidelines Panel. Diagnosis and treatment
+of low back pain: a joint clinical practice guideline from the
+American College of Physicians and the American Pain Society.
+Ann Intern Med 2007; 147: 478–91.
+3 Koes BW, van Tulder M, Lin C-WC, Macedo LG, McAuley J,
+Maher C. An updated overview of clinical guidelines for the
+management of non-specifi c low back pain in primary care.
+Eur Spine J 2010; 19: 2075–94.
+4 Hancock MJ, Maher CG, Latimer J, et al. Assessment of
+diclofenac or spinal manipulative therapy, or both, in addition
+to recommended fi rst-line treatment for acute low back pain:
+a randomised controlled trial. Lancet 2007; 370: 1638–43.
+5 Roelofs PD, Deyo RA, Koes BW, Scholten RJ, van Tulder MW.
+Non-steroidal anti-infl ammatory drugs for low back pain.
+Cochrane Database Syst Rev 2008; 1: CD000396.
+6 Davies RA, Maher CG, Hancock MJ. A systematic review of
+paracetamol for non-specifi c low back pain. Eur Spine J 2008;
+17: 1423–30.
+7 Williams CM, Latimer J, Maher CG, et al. PACE—the fi rst placebo
+controlled trial of paracetamol for acute low back pain: design of
+a randomised controlled trial. BMC Musculoskelet Disord 2010;
+11: 1691–96.
+8 Williams CM, Maher CG, Latimer J, et al. PACE—the fi rst placebo
+controlled trial of paracetamol for acute low back pain: statistical
+analysis plan. Trials 2013; 14: 248.
+9 Ong CKS, Lirk P, Tan CH, Seymour RA. An evidence-based update
+on nonsteroidal anti-infl ammatory drugs. Clin Med Res 2007;
+5: 19–34.
+10 Pengel LHM, Refshauge KM, Maher CG. Responsiveness of pain,
+disability, and physical impairment outcomes in patients with low
+back pain. Spine 2004; 29: 879–83.
+11 Buysse DJ, Reynolds CF 3rd, Monk TH, Berman SR, Kupfer DJ.
+The Pittsburgh Sleep Quality Index: a new instrument for
+psychiatric practice and research. Psychiatry Res 1989; 28: 193–213.
+12 Brazier JE, Roberts J. The estimation of a preference-based measure
+of health from the SF-12. Med Care 2004; 42: 851–59.
+13 Smeets RJEM, Beelen S, Goossens MEJB, Schouten EGW,
+Knottnerus JA, Vlaeyen JWS. Treatment expectancy and
+credibility are associated with the outcome of both physical
+and cognitive-behavioral treatment in chronic low back pain.
+Clin J Pain 2008; 24: 305–15.
+14 Hayden JA, Dunn KM, van der Windt DA, Shaw WS. What is the
+prognosis of back pain? Best Pract Res Clin Rheumatol 2010;
+24: 167–79.
+15 Proschan MA, Waclawiw MA. Practical guidelines for multiplicity
+adjustment in clinical trials. Control Clin Trials 2000; 21: 527–39.
+16 Zou G. A modifi ed poisson regression approach to prospective
+studies with binary data. Am J Epidemiol 2004; 159: 702–06.
+17 Clark TG, Altman DG, De Stavola BL. Quantifi cation of the
+completeness of follow-up. Lancet 2002; 359: 1309–10.
+18 Henschke N, Maher CG, Refshauge KM, et al. Prognosis in
+patients with recent onset low back pain in Australian primary care:
+inception cohort study. BMJ 2008; 337: a171.
+19 Menezes Costa LDC, Maher CG, Hancock MJ, McAuley JH,
+Herbert RD, Costa LOP. Prognosis in people with back pain.
+Can Med Assoc J 2012; 184: 613–24.
+20 Buckley N, Calabretto H, Del Mar C , et al. Australian Medicines
+Handbook 2013, 13th edn. Adelaide: Australian Medicines
+Handbook Pty Ltd, 2013.
+Articles
+1596 www.thelancet.com Vol 384 November 1, 2014
+21 Pahor M, Guralnik JM, Wan JY, et al. Lower body osteoarticular
+pain and dose of analgesic medications in older disabled women:
+the Women’s Health and Aging Study. Am J Public Health 1999;
+89: 930–34.
+22 Temple AR, Benson GD, Zinsenheim JR, Schweinle JE.
+Multicenter, randomized, double-blind, active-controlled,
+parallel-group trial of the long-term (6–12 months) safety
+of acetaminophen in adult patients with osteoarthritis.
+Clin Ther 2006; 28: 222–35.
+23 Osterberg L, Blaschke T. Adherence to medication.
+N Engl J Med 2005; 353: 487–97.
+24 Koes BW, van Tulder MW, Thomas S. Diagnosis and treatment
+of low back pain. BMJ 2006; 332: 1430–34.
+25 Milgrom C, Finestone A, Lev B, Wiener M, Floman Y.
+Overexertional lumbar and thoracic back pain among recruits:
+a prospective study of risk factors and treatment regimens.
+J Spinal Disord 1993; 6: 187–93.
+26 Williams CM, Maher CG, Hancock MJ, et al. Low back pain
+and best practice care: a survey of general practice physicians.
+Arch Intern Med 2010; 170: 271–77.
+27 Weil K, Hooper L, Afzal Z, et al. Paracetamol for pain relief after
+surgical removal of lower wisdom teeth. Cochrane Database Syst Rev
+2007; 3: CD004487.
+28 Toms L, McQuay HJ, Derry S, Moore RA. Single dose oral
+paracetamol (acetaminophen) for postoperative pain in adults.
+Cochrane Database Syst Rev 2008; 4: CD004602.

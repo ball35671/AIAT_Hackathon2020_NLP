@@ -1,0 +1,486 @@
+Patient self-testing is a reliable and acceptable alternative to
+laboratory INR monitoring
+It is likely that approximately 950 000 people in the UK
+currently receive oral anticoagulant therapy (OAT), with this
+number estimated to increase at approximately 10% /year
+(Rose, 1996). Warfarin is the most widely used oral anticoagulant in the UK and has a half-life of 36–42 h. The increased
+usage of warfarin is largely related to implementation of longterm anticoagulation in an ageing population for atrial
+fibrillation (Petersen et al, 1989). Newer indications include
+primary prevention of ischaemic heart disease (MacCallum
+et al, 2000) and long-term prevention of recurrent venous
+thromboembolism (Ridker et al, 2003). Consequently, several
+models of patient care, involving various degrees of decentralization, have been suggested to manage the increased
+workload arising from the increased demand. One solution is
+patient self-testing (PST), i.e. the measurement of the
+prothrombin time (PT) expressed as an international normalized ratio (INR) by the patients themselves using capillary
+blood samples on small point of care (POC) coagulation
+monitors. Such monitors need to be accurate over the full
+therapeutic range of the INR, between 2Æ0–4Æ5, and require an
+acceptable independent evaluation (Fitzmaurice & Machin,
+2001). A number of studies have proved comparability
+between POC testing and conventional laboratory techniques
+based on POC testing by healthcare professionals (Bachour
+et al, 2001; Vacas et al, 2001; Havrda et al, 2002; Shiach et al,
+2002; Loebstein et al, 2003; Jackson et al, 2004), whereas
+Chris Gardiner,1 Karen Williams,1
+Ian J. Mackie,2 Samuel J. Machin2
+and Hannah Cohen1
+1
+Department of Haematology, University College
+London Hospitals NHS Trust, London, and
+2
+Department of Haematology, University College
+London, London, UK
+Received 27 July 2004; accepted for publication
+25 October 2004
+Correspondence: Mr C. Gardiner, Department
+of Haematology, University College London
+Hospitals NHS Trust, 4th Floor, 60 Whitfield
+Street, London W1T 4EU, UK.
+E-mail: c_gardiner@btconnect.com
+Summary
+An ageing population and the continuing expansion of clinical indications
+for coumadin therapy have increased pressure on hospital anticoagulant
+clinics. One solution is patient self-testing (PST) of the international
+normalized ratio (INR) using capillary blood samples on point-of-care
+coagulation monitors at home. We conducted a prospective study to
+determine whether patients can achieve accurate INR values through PST,
+using the CoaguChek S (Roche Diagnostics, Lewes, UK). The main outcome
+measurements were: comparability of INR values obtained by PST and the
+hospital laboratory, patient acceptability as assessed by a questionnaire and
+anticoagulant control. Eighty-four patients [53 men, 31 women; median age
+59 years (range 26–83)], receiving long-term oral anticoagulation (warfarin),
+were recruited from our Anticoagulation Clinic. Patients were randomized to
+weekly self-testing or continuing 4-weekly hospital laboratory monitoring of
+INR. Comparison of INRs (n ¼ 234) showed no significant differences
+between the CoaguChek (median INR 3Æ02) and laboratory testing (median
+INR 3Æ07). There was excellent correlation between the two methods
+(r ¼ 0Æ95), with 85% of CoaguChek results within 0Æ5 INR units of the
+laboratory method. On four occasions, differences of >1 unit INR were
+obtained, but in each case the patient’s anticoagulation was unstable (INR
+>4Æ5 by both methods) and the differences in INR would not have altered
+patient management. 87% of patients found self-testing straightforward, 87%
+were confident in the result they obtained and 77% preferred self-testing. We
+conclude that PST is a reliable alternative to hospital clinic attendance and is
+acceptable to the majority of suitably trained patients.
+Keywords: anticoagulation, international normalized ratio.
+research paper
+doi:10.1111/j.1365-2141.2004.05300.x ª 2004 Blackwell Publishing Ltd, British Journal of Haematology, 128, 242–247
+others have questioned the reliability of POC test INR results
+(Poller et al, 2003; Vacas et al, 2003). Of note, INR results
+obtained by technically skilled healthcare professionals using
+POC testing devices have been reported to be more reliable
+than those achieved by non-technical trained individuals
+(Delaney et al, 1999). There is a paucity of data on the
+comparison of INR results obtained by PST with laboratory
+INRs. White et al (1989) reported, in a study on 26 patients
+and based on results during the first 8 weeks of OAT,
+comparison of INRs obtained by self-testing using a Coumatrack monitor (Du Pont, Wilmington, DE, USA) with those
+from hospital laboratories. However, comparisons between
+PST INR and laboratory INR were not performed on the same
+sample, limiting conclusions from this study. There are no
+published evaluation studies on the reliability of PST within
+the setting of a routine anticoagulant clinic in the UK.
+We report data from a prospective trial, commissioned by
+the Medicines and Healthcare Products Regulatory Agency
+(MHRA) and approved by the British Committee for Standards in Haematology (BCSH) Haemostasis and Thrombosis
+Task Force, to investigate the accuracy and acceptability of PST
+in a trained and motivated group of patients.
+Patients and methods
+Ethical approval was granted by the Joint University College
+London (UCL)/UCL Hospital (UCLH) Committees on the
+Ethics of Human Research and patients gave informed
+consent. Eighty-four patients were recruited from the UCLH
+Haematology Department Anticoagulant Clinic between September 2002 and April 2003.
+Eligibility
+All patients over the age of 18 years, attending the clinic, who
+had received long-term oral anticoagulation for at least
+8 months and with a previous record of good compliance,
+were identified. Approximately 800 patients were contacted by
+letter; 84 of these volunteered for the study and, following
+written consent, were prospectively randomly allocated to the
+intervention (PST) or control group (continuing with laboratory testing with no specific education or training).
+Protocol
+Self-testing patients were trained by a single nurse practitioner
+in the use of a POC coagulometer (CoaguChek S; Roche
+Diagnostics) (Sawicki, 1999). Patients attended two training
+sessions at least 1 week apart, which covered theoretical aspects
+of oral anticoagulation and POC INR monitoring. Following a
+satisfactory assessment of their ability to self-test, they
+proceeded to the trial (Murray et al, 2004). These patients
+tested themselves at home once a week and recorded the result
+for a 6-month period. The results obtained by self-testing were
+not used for management of anticoagulation during the study.
+Anticoagulant control was based on a laboratory test performed every 4 weeks. Self-test and laboratory INR tests used
+for comparability studies were collected within 1 h of each
+other. The control group simply attended the anticoagulant
+clinic every 4 weeks or more frequently, if clinically indicated.
+The purpose of the control group was to control for possible
+biases because of selection and the effect of increased patient
+training. Dosage adjustments were performed for both groups
+of patients by the anticoagulant clinic staff using the laboratory
+INR and computer-assisted dosing (Dawn Clinical Software,
+Milnthorpe, Cumbria, UK). The PST group performed internal quality control (QC) tests (CoaguChek PT Control; Roche
+Diagnostics) every week and an external quality assessment
+using a lyophilized plasma preparation provided by the UK
+National External Quality Assessment Scheme (UK NEQAS),
+once during the study (Murray et al, 2003). Patients in the selftesting group were asked to complete a patient acceptability
+questionnaire after 3–4 months. The questionnaire sought
+individual patient’s views on six aspects of using the CoaguChek S: ease of use, frequency of repeated tests, difficulty of
+getting an adequate sample, ease of the use of QC materials,
+confidence in the result and preference for home testing versus
+hospital testing.
+Prothrombin time/INR measurement
+Venous blood was collected into one-tenth volume 0Æ105 mol/
+l citrate (Vacutainer; Becton Dickinson, Franklin Lakes, NJ,
+USA) using 19 or 21 gauge needles and minimal stasis and
+plasma was obtained by centrifugation at 2000 g for 10 min.
+To measure the INR, a recombinant human thromboplastin
+reagent (Innovin; Dade Behring, Marburg, Germany) was used
+on a CA-1500 coagulometer (Sysmex, Kobe, Japan). The
+geometric mean was determined using blood from 20 healthy
+normal volunteers and the thromboplastin-specific international sensitivity index provided by the manufacturer was
+verified using frozen INR verification plasmas (Precision
+Biologic, Dartmouth, Canada).
+Assessment of anticoagulant control. The different testing
+frequencies used for PST, laboratory control and laboratory
+results in the previous 6 months made direct comparison of
+the time spent in the therapeutic range difficult, but this
+remained an important issue. Routine clinical practice
+recommends the use of a target INR-value rather than a
+target range (Haemostasis and Thrombosis Task Force of the
+BCSH, 1998). For the purposes of this exercise, the target
+INR Œ0Æ5 INR units was used as an acceptable therapeutic
+range. Time in range was determined using the time in range
+calculator software (4S Dawn Clinical Software) using the
+method of Rosendaal et al (1993).
+Statistics. Statistical analysis was performed using analyse-itTM
+software (Analyse-It Software, Leeds, UK). Mean INR values
+were compared using a paired t-test, with statistical
+Patient Self-testing of INR
+ª 2004 Blackwell Publishing Ltd, British Journal of Haematology, 128, 242–247 243
+significance defined as P < 0Æ05. For the regression analysis,
+outliers were rejected where they were outside the 95%
+confidence interval. Bland and Altman plots were used to
+illustrate the degree of agreement or divergence between the
+two methods, as the numerical value increased. Fisher’s exact
+test was used to test the significance of the difference between
+the observed time in therapeutic range between patient groups.
+Results
+Eighty-four patients were randomized to the study; 44 to the
+self-testing group and 40 to the control group. Patient
+demographics, target INR values and indications for anticoagulation were similar for both groups (Table I), although it
+was notable that the median age of the control and self-testing
+groups (58Æ4 and 57Æ9 years, respectively) was lower than that
+of the anticoagulant clinic population as a whole (65Æ7 years).
+Four patients experienced difficulty performing self-testing
+and did not proceed onto the study following training. One
+further patient, randomized to the self-testing group, did not
+attend training. Therefore, of the 44 patients randomized to
+the self-testing group, 39 commenced self-testing, whereas all
+patients randomized to the control group entered the study.
+Nine self-testing patients and one from the control group
+failed to complete the study (Table II). There were no
+significant differences between self-testing and laboratory
+INRs (234 paired measurements in 31 self-testing patients),
+(Table III). Excellent correlation was obtained between the
+methods (r ¼ 0Æ95; Fig 1) and no trend was observed with
+increasing INR-value (Fig 2). Overall, 85% of the results was
+within 0Æ5 INR units of each other. On four occasions,
+differences of >1 unit INR were obtained, but in each case the
+INR was above the desired therapeutic range (INR >4Æ5 by
+both methods) and the differences in INR would not have
+altered patient management.
+No significant difference between percentage time in therapeutic range in the self-testing and control groups was
+observed using Fisher’s exact test (Table IV), irrespective of
+whether the laboratory or CoaguChek methods were studied.
+Ten minor bleeding/bruising events were reported, with five
+from each group. Overanticoagulation was thought to be a
+contributory factor in five of these events (three in the selftesting group and two in the control group).
+Questionnaires were returned by all 31 patients who were
+still self-testing after 3 months (one of these failed to complete
+the study, because of the moving from the area). Majority of
+the patients (84%) initially found it difficult to obtain an
+adequate sample, but most of them subsequently found selftesting very easy (55%) or quite easy (32%). Only one patient
+found the CoaguChek S difficult to use, but most patients
+found that they occasionally had to repeat tests and some still
+experienced difficulty in obtaining an adequate sample (16%).
+Most patients (87%) were confident in the result that they
+obtained and, of those who expressed a preference, most
+(77%) preferred self-testing rather than attending the hospital
+anticoagulant clinic. None of the patients experienced difficulty using the internal QC procedure. The self-testing patients
+who completed the study were conscientious in performing
+and recording their weekly tests, with compliance of >98%. On
+Table I. Patient characteristics.
+Self testing group Control Group
+Male 29 24
+Female 15 16
+Mean age (years) 57Æ9 58Æ4
+Age range (years) 26–83 31–75
+Indications for anticoagulation
+Atrial fibrillation 11 12
+Replacement heart valve 16 9
+Venous thromboembolism 10 14
+Cardiovascular prophylaxis 5 3
+Cerebrovascular prophylaxis 2 2
+Target ranges
+2Æ0–3Æ0 26 19
+3Æ0–4Æ0 9 11
+1Æ5–2Æ0 10
+1Æ5–2Æ5 01
+2Æ0–2Æ5 02
+2Æ5–3Æ5 74
+3Æ0–3Æ5 13
+Table II. Reasons for patients not completing the study.
+Reason for withdrawal Self-test group Control group
+Poor compliance* 2 1
+Serious illness (pretraining) 1 NA
+Failed to attend training 1 NA
+Visual problems 1 NA
+Unable to obtain sample 1 NA
+Poor dexterity 4 NA
+Warfarin discontinued 1 0
+Moved to another area 2 0
+Patient died 1 0
+Total withdrawals 14 1
+NA, not applicable.
+*The patients failed to attend the clinic and/or self-test on a regular
+basis.
+Table III. Self-testing international normalized ratio (INR) versus
+laboratory INR (n ¼ 234).
+CoaguChek INR Laboratory INR
+Mean 3Æ02 3Æ07
+Standard deviation (SD) 0Æ99 0Æ95
+Minimum 1Æ20 1Æ25
+Maximum 6Æ90 6Æ86
+Self-testing INR versus laboratory INR: paired t-test results were nonsignificant.
+C. Gardiner et al
+244 ª 2004 Blackwell Publishing Ltd, British Journal of Haematology, 128, 242–247
+the few occasions where weekly tests were not performed, this
+was generally the result of the patient experiencing difficulty
+with self-testing or disruption of their anticoagulant control
+because of hospitalization (two cases) or on one occasion, the
+loss of the CoaguChek S monitor.
+Although 96Æ5% of internal QC results were within the
+manufacturer’s stated range (2Æ2–4Æ7), this range was felt to be
+too wide and a poor level of imprecision was observed
+[percentage coefficient of variance (CV) ¼ 15Æ9%]. During the
+course of the study, one instrument defect and one test-strip
+problem were encountered. On each occasion, both the
+patient’s sample and the QC gave unexpected abnormal results
+and the problem, once identified, was easily corrected.
+However, on other occasions, abnormal QC values were
+obtained despite the patient’s own result demonstrating
+adequate control of anticoagulation. No instrument or teststrip defects were demonstrated on these occasions. The
+NEQAS samples produced a narrower range of results
+(percentage CV 7Æ4% and 6Æ6% for two separate exercises).
+Discussion
+We have showed that suitably trained patients can obtain their
+INR by PST using the CoaguChek S, currently the most widely
+used handheld PT/INR monitor in the UK. The PST results
+showed excellent correlation with routine hospital laboratory
+monitoring of OAT (r ¼ 0Æ93), with 85% of results within 0Æ5
+INR units of each other. On the four occasions where
+differences of >1 unit INR were obtained, the INR was above
+the desired therapeutic range (INR >4Æ5 by both methods) and
+would not have altered patient management. The INR system
+is known to be unreliable above 4Æ5, limiting comparisons
+between different methods above this level (WHO Expert
+Committee on Biological Standardisation, 1983). Neither
+significant differences in anticoagulant control were observed
+between the self-testing and control groups during the study,
+nor between results obtained in individual patients during the
+study period and the previous 6 months. This is in contrast
+with the findings of White et al (1989) who reported that an
+improvement in OAT could be achieved through PST alone.
+Another study evaluated the accuracy of home testing, but
+on a paediatric population (n ¼ 23) with home testing
+performed by parents of children receiving OAT (Massicotte
+et al, 1995) using the Biotrack monitor (Ciba Corning
+Diagnostics, Medfield, MA, USA). In a recent study of patients
+receiving phenprocoumon (half-life 140 h) in the Netherlands,
+a comparison of PST with patient self-management versus
+specialized anticoagulant clinic management showed comparable levels of OAT control, as judged by mean time in range in
+Fig 2. Bland and Altman diagram showing agreement between
+duplicate international normalized ratio (INR) results in self-testing
+patients.
+Fig 1. Self-testing international normalized ratio (INR) versus laboratory INR in self-testing patients. Four statistical outliers are shown.
+Table IV. Percentage time in range: self-testing group versus control.
+Self-testing group
+Control
+group
+(laboratory INR)
+CoaguChek
+INR
+Laboratory
+INR
+Mean 61 66 64
+Standard deviation
+(SD)
+20 22 26
+Minimum 24 23 7
+Maximum 96 100 100
+Fisher’s exact test: control versus self-testing groups (laboratory testing), results were non-significant.
+Control versus self-testing groups (CoaguChek; Roche Diagnostics),
+results were non-significant.
+Patient Self-testing of INR
+ª 2004 Blackwell Publishing Ltd, British Journal of Haematology, 128, 242–247 245
+therapeutic range (Gadisseur et al, 2003). However, paired PST
+and laboratory INR results were not directly compared.
+Although the number of patients who failed to complete the
+study was higher in the self-testing group than the control
+group (nine versus one), most patients found self-testing using
+the CoaguChek S straightforward and felt confident with the
+result they obtained (87%) and also expressed a preference for
+self-testing over attendance at the hospital anticoagulation
+clinic (77%).
+It was generally felt that weekly QC testing was not costeffective, as the manufacturer’s stated range was too wide and
+poor level of imprecision was obtained. Furthermore, most
+out-of-range QC results were because of problems with the use
+and preparation of the QC reagent, rather than instrument/
+test-strip faults. Monthly testing, as recommended by the
+BCSH recommendations (Fitzmaurice & Machin, 2001), may
+be more appropriate with additional testing performed in the
+event of an unexpected INR result, following possible monitor
+damage and on starting a new box of test strips. As the NEQAS
+samples produced a narrower range of results, they were
+generally perceived to be of more value than the internal QC.
+Occasional paired PST and laboratory testing or comparison
+with a regularly quality controlled instrument in clinic may be
+a useful alternative for ensuring adequate quality assurance.
+The present study only assessed one particular POC INR
+monitor. However, as patient demand for self-testing/selfmanagement becomes more widespread, monitoring devices
+from other manufacturers should become more widely available. Test strips for POC INR monitors may now be prescribed
+on the Drug Tariff, subject to appropriate European Economic
+Community licensing (i.e. CE marking). However, it is
+recommended that before such instruments are introduced
+into clinical practice, they should have a satisfactory independent evaluation. The patient training on the use of such
+devices needs to follow nationally agreed guidelines and
+recommendations (Near Patient Testing Working Party.
+General Haematology Task Force of BCSH. Thrombosis and
+Haemostasis Task Force of BCSH, 1995; Fitzmaurice &
+Machin, 2001). The cost-effectiveness of self-testing has not
+yet been formally studied in the UK. In addition to instrument
+and test-strip costs, any economic assessment must include
+elements, such as transport, for the patient and clinic
+overheads, the potential for improved anticoagulant control
+with the reduced risk of thromboembolic or haemorrhagic
+complications, greater patient freedom and reduction in lost
+patient working time. The overall uptake for this trial was
+approximately 10% only. Some patients were apprehensive
+about entering a clinical trial, while others felt that allocation
+to the control group offered no advantages but required more
+frequent visits to clinic, but the low uptake suggests that the
+routine clinical utilization of such a self-testing programme
+may be limited to a minority of motivated patients receiving
+long-term oral anticoagulation.
+We conclude that PST using the CoaguChek S offers a
+reliable alternative to laboratory determination of INR and is
+acceptable to the majority of suitably trained patients who
+previously attended a specialist anticoagulation clinic. Overall,
+these results are reassuring and should encourage implementation of a validated self-testing approach using a CoaguChek S
+system. This will potentially enable patients to progress to selfmanage their own oral anticoagulant control using an agreed
+dosing algorithm. It is important that all self-testing patients
+remain registered with a clinician/nurse practitioner responsible for their oral anticoagulation regime in accordance with
+BCSH guidance (Fitzmaurice & Machin, 2001). Future MHRA
+studies will assess the efficacy of a patient self-management
+programme.
+Acknowledgements
+The authors are grateful for the funding from the Medicines
+and Healthcare Products Regulatory Agency and an unrestricted educational grant from Roche Diagnostics.
+Competing interests: none.
+References
+Bachour, R., Gardiner, C., Mackie, I.J. & Machin, S.J. (2001) Medical
+Devices Agency Evaluation of the Roche CoaguChek S coagulometer.
+MDA 01026, HMSO, Norwich, UK.
+Delaney, B.C., Hyde, C.J., McManus, R.J., Wilson, S., Fitzmaurice,
+D.A., Jowett, S., Tobias, R., Thorpe, G.H. & Hobbs, F.D. (1999)
+Systematic review of near patient test evaluations in primary care.
+British Medical Journal, 319, 824–827.
+Fitzmaurice, D.A. & Machin, S.J. (2001) British Society for Haematology Task force for Haemostasis and Thrombosis. Recommendations for patients undertaking self-management of oral
+anticoagulation. British Medical Journal, 323, 985–989.
+Gadisseur, A.P., Breukink-Engbers, W.G., van der Meer, F.J., van den
+Besselaar, A.M., Sturk, A. & Rosendaal, F.R. (2003) Comparison of
+the quality of oral anticoagulant therapy through patient self-management and management by specialized anticoagulation clinics in
+the Netherlands: a randomized clinical trial. Archives of Internal
+Medicine, 163, 2639–2646.
+Haemostasis and Thrombosis Task Force of the BCSH (1998)
+Guidelines on oral anticoagulation: third edition. British Journal of
+Haematology, 101, 374–387.
+Havrda, D.E., Hawk, T.L. & Marvin, C.M. (2002) Accuracy and precision of the CoaguChek S versus laboratory INRs in a clinic. Annals
+of Pharmacotherapy, 36, 769–775.
+Jackson, S.L., Bereznicki, L.R., Peterson, G.M., Marsden, K.A., Jupe,
+D.M., Tegg, E., Vial, J.H. & Kimber, R.I. (2004) Accuracy,
+reproducibility and clinical utility of the CoaguChek S portable
+international normalized ratio monitor in an outpatient anticoagulation clinic. Clinical and Laboratory Haematology, 26,
+49–55.
+Loebstein, R., Kurnik, D., Lubetsky, A., Ezra, D. & Halkin, H. (2003)
+Potential dosing errors using portable prothrombin time monitoring
+devices. Blood Coagulation and Fibrinolysis, 14, 479–483.
+MacCallum, P.K., Brennan, P.J. & Meade, T.W. (2000) Minimum
+effective intensity of oral anticoagulant therapy in primary prevention of coronary heart disease. Archives of Internal Medicine, 160,
+2462–2468.
+C. Gardiner et al
+246 ª 2004 Blackwell Publishing Ltd, British Journal of Haematology, 128, 242–247
+Massicotte, P., Marzinotto, V., Vegh, P., Adams, M. & Andrew, M.
+(1995) Home monitoring of warfarin therapy in children with a
+whole blood prothrombin time monitor. Journal of Pediatrics, 12,
+389–394.
+Murray, E.T., Kitchen, D.P., Kitchen, S., Jennings, I., Woods, T.A.,
+Preston, F.E. & Fitzmaurice, D. (2003) Patient self-management of
+oral anticoagulation and external quality assessment procedures.
+British Journal of Haematology, 122, 825–828.
+Murray, E., Fitzmaurice, D., McCahon, D., Fuller, C. & Sandhur, H.
+(2004) Training for patients in a randomised controlled trial of self
+management of warfarin treatment. British Medical Journal, 328,
+437–438.
+Near Patient Testing Working Party. General Haematology Task Force
+of BCSH. Thrombosis and Haemostasis Task Force of BCSH (1995)
+Guidelines for near patient testing: haematology. Clinical and
+Laboratory Haematology, 17, 301–310.
+Petersen, P., Boysen, G., Godtfredsen, J., Andersen, E.D. & Andersen,
+B. (1989) Placebo-controlled, randomised trial of warfarin and aspirin for prevention of thromboembolic complications in chronic
+atrial fibrillation. The Copenhagen AFASAK study. The Lancet, 1,
+175–179.
+Poller, L., Keown, M., Chauhan, N., van den Besselaar, A.M., Tripodi,
+A., Shiach, C. & Jespersen, J. (2003) Reliability of international
+normalised ratios from two point of care test systems: comparison
+with conventional methods. British Medical Journal, 27, 30–32.
+Ridker, P.M., Goldhaber, S.Z., Danielson, E., Rosenberg, Y., Eby, C.S.,
+Deitcher, S.R., Cushman, M., Moll, S., Kessler, C.M., Elliott, C.G.,
+Paulson, R., Wong, T., Bauer, K.A., Schwartz, B.A., Miletich, J.P.,
+Bounameaux, H., Glynn, R.J. & PREVENT Investigators (2003)
+Long-term, low-intensity warfarin therapy for the prevention of
+recurrent venous thromboembolism. The New England Journal of
+Medicine, 348, 1425–1434.
+Rose, P. (1996) Audit of anticoagulant therapy. Journal of Clinical
+Pathology, 49, 5–9.
+Rosendaal, F.R., Cannegieter, S.C., van der Meer, F.J. & Briet, E. (1993)
+A method to determine the optimal intensity of oral anticoagulant
+therapy. Thrombosis and Haemostasis, 69, 236–239.
+Sawicki, P.T. (1999) A structured teaching and self-management
+program for patients receiving oral anticoagulation: a randomized
+controlled trial. Working Group for the Study of Patient SelfManagement of Oral Anticoagulation. Journal of the American
+Medical Association, 281, 145–150.
+Shiach, C.R., Campbell, B., Poller, L., Keown, M. & Chauhan, N.
+(2002) Reliability of point-of-care prothrombin time testing in a
+community clinic: a randomized crossover comparison with hospital laboratory testing. British Journal of Haematology, 119, 370–
+375.
+Vacas, M., Fernandez, M.A., Martinez-Brotons, F., Lafuente, P.J.,
+Ripoll, F., Alvarez, C. & Iriarte, J.A. (2001) Comparative study of a
+portable prothrombin time monitor employing three different
+systems in oral anticoagulant units. Haemostasis, 31, 18–25.
+Vacas, M., Lafuente, P.J., Unanue, I., Santos, M. & Iriarte, J.A. (2003)
+Therapeutic concordance of two portable monitors and two routine
+automatic oral anticoagulant monitoring systems using as reference
+the manual prothrombin time technique. Hematology Journal, 4,
+214–217.
+White, R.H., McCurdy, S.A., von Marensdorff, H., Woodruff, Jr, D.E.
+& Leftgoff, L. (1989) Home prothrombin time monitoring after the
+initiation of warfarin therapy. A randomised, prospective study.
+Annals of Internal Medicine, 111, 730–737.
+WHO Expert Committee on Biological Standardisation (1983)
+Requirements for thromboplastins and plasma used to control anticoagulant therapy. WHO Technical Report Series. 1993, Report 33. pp.
+81–105. WHO, Geneva.
+Patient Self-testing of INR
+ª 2004 Blackwell Publishing Ltd, British Journal of Haematology, 128, 242–247 247

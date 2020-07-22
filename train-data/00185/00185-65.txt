@@ -1,0 +1,532 @@
+﻿ARTICLE
+The Safety of Trivalent Influenza Vaccine Among
+Healthy Children 6 to 24 Months of Age
+Michael J. Goodman, PhDa, James D. Nordin, MD, MPHa, Peter Harper, MD, MPHb, Teri DeFor, MSa, XingZhou Zhou, MSa
+a
+HealthPartners Research Foundation, Minneapolis, Minnesota; bDepartment of Family Medicine and Community Health, University of Minnesota, Minneapolis,
+Minnesota
+Financial Disclosure: This work was supported by a grant from Sanofi-Pasteur. All design and analysis decisions were the decisions of the authors.
+ABSTRACT
+OBJECTIVE. The objective of this study was to assess the safety of routine trivalent
+influenza vaccine (TIV) administration among healthy children 6 through 23
+months of age, after the Advisory Committee on Immunization Practices recommendation.
+METHODS. The study was a retrospective case-control study of children receiving TIV
+in the first 2 seasons after the Advisory Committee on Immunization Practices
+recommendation. We assessed outcomes in the 42 days after vaccination in a
+population of 13 383 children. Each case subject was matched, according to age
+and gender, with 3 control subjects. Hazard ratios were calculated with conditional
+logistic regression analysis.
+RESULTS. We found no statistically significantly elevated hazard ratios for the first TIV
+dose. An elevated risk of pharyngitis was found for children receiving a second TIV
+dose. No elevated risk of seizure was found.
+CONCLUSION. These results, for a population of healthy children, showed no medically
+significant adverse events related to TIV among children 6 to 23 months of age.
+www.pediatrics.org/cgi/doi/10.1542/
+peds.2005-2234
+doi:10.1542/peds.2005-2234
+Key Words
+safety, trivalent influenza vaccine, adverse
+events
+Abbreviations
+ACIP—Advisory Committee on
+Immunization Practices
+HPMG—HealthPartners Medical Group
+TIV—trivalent influenza vaccine
+VSD—Vaccine Safety Datalink
+VAERS—Vaccine Adverse Event Reporting
+System
+CI— confidence interval
+Accepted for publication Nov 4, 2005
+Address correspondence to Michael J.
+Goodman, PhD, HealthPartners Research
+Foundation, 8100 34th Ave South, PO Box
+1524, MS 21111R, Minneapolis, MN 55440-
+1524. E-mail: michael.j.goodman@
+healthpartners.com
+PEDIATRICS (ISSN Numbers: Print, 0031-4005;
+Online, 1098-4275). Copyright © 2006 by the
+American Academy of Pediatrics
+PEDIATRICS Volume 117, Number 5, May 2006 e821
+Downloaded from pediatrics.aappublications.org at University of Connecticut on May 26, 2015
+I
+NFLUENZA IS KNOWN to be an important source of
+morbidity and death among children 2 years of age.
+The Colorado influenza experience in 2003, when the
+influenza season began early and children experienced a
+large number of severe cases, including at least 11 deaths
+resulting from respiratory complications, highlighted for
+many parents the importance of influenza vaccination.1
+The Advisory Committee on Immunization Practices
+(ACIP) recommended in 2002 that all children 6 to 23
+months of age receive influenza vaccine.2 The American
+Academy of Pediatrics and the American Academy of
+Family Physicians have concurred regarding this recommendation.3 In 2004 to 2005, the Centers for Disease
+Control and Prevention reported that 48.4% of children
+6 to 23 months of age received the influenza vaccine.4
+There is a consensus, however, that study of the safety
+and efficacy of the influenza vaccine among young children should continue.5
+A review of Vaccine Adverse Event Reporting System
+(VAERS) reports from 1990 to 2003, covering the period
+before and after the recommendation for general immunization, found that the number of reports had increased
+since the recommendation for general administration
+but the types of reports were similar to those received in
+the earlier period. The most commonly observed, possibly vaccine-associated, adverse events were fever, urticarial rash, seizure, and injection site reactions.6 The
+authors recommended additional surveillance, especially
+for seizures. Using the Vaccine Safety Datalink (VSD),
+France et al7 examined medically attended events in the
+2 weeks after vaccination among children 18 years of
+age, from 1991 to 1999 (before routine administration
+among young children), and found no worrisome signals. Among children 6 to 23 months of age, they found
+possible increases in rates of atopic dermatitis and impetigo. The signal for atopic dermatitis disappeared after
+chart review found that many of the apparent cases
+involved follow-up treatment. The impetigo cases were
+found to be incident cases, but none was found at the
+injection site. The VSD is now updating that study with
+more recent data. At present, however, there are no
+epidemiologic studies of the safety of trivalent influenza
+vaccine (TIV) among healthy young children.
+These knowledge gaps are important for pediatric
+practice. In a recent survey of parents, Humiston et al8
+found that nearly 80% intended to immunize their children but almost one half of parents were concerned
+about the safety of the vaccine. An earlier survey of
+pediatricians and family practice physicians found that
+more than one half were worried about potential safety
+issues regarding vaccination of infants and toddlers with
+the influenza vaccine.9 Therefore, both clinicians and
+parents seek more information about the vaccine risk/
+benefit calculation for otherwise healthy children. This
+article reports a retrospective case-control study of possibly vaccine-associated adverse events among children
+6 to 23 months of age during the first 2 influenza seasons
+after recommendation of the vaccine for routine vaccination among young children.
+METHODS
+Study Design
+We conducted a retrospective case-control study to identify vaccine-associated adverse events during the first 2
+seasons after the ACIP recommendation. Outcomes
+studied were chosen on the basis of findings observed in
+our population in the 42 days after vaccination. Case
+subjects were matched, according to birth date and gender, with 3 children who did not have that outcome.
+Each outcome was treated in a separate analysis; therefore, the same child could be in multiple analyses as a
+case or control subject. The index date for the control
+subjects was the date of the event for the case subject.
+Conditional logistic regression analysis, controlling for
+all vaccine exposures in the 42-day window, was used to
+estimate a conditional hazard ratio and to adjust for
+other variables.
+Study Setting
+The study was conducted with data on enrollees in the
+HealthPartners Medical Group (HPMG) who were between the ages of 6 and 23 months (inclusive) when the
+TIV was administered (approximately October 1 of each
+season through March 31) in the 2002 to 2003 and 2003
+to 2004 vaccine seasons. The actual first vaccine dates
+were September 18, 2002, and September 25, 2003. The
+actual last dates were March 21, 2003, and April 8, 2004.
+HPMG serves 300 000 patients in the Minneapolis/St.
+Paul metropolitan area, through 19 clinics and 200
+physicians.
+Eligibility
+Eligibility for the study was defined on the basis of age
+and enrollment in the study medical group. Age was
+defined as being between 6 and 23 months for 1 day
+during the TIV period defined above. Enrollment in the
+HPMG for 1 day during the study period was required.
+To avoid counting children who did not receive services
+through the HPMG, we also required each eligible child
+to have 1 diagnostic code for a HPMG clinic during the
+study period.
+Exposure Definition
+All case and control subjects were evaluated for exposure to TIV. Children in this age group are scheduled to
+receive numerous other routine childhood immunizations, which are often administered at the same time as
+the TIV. The case-control design allowed us to test for
+this kind of effect with multivariate modeling. To control
+for this effect, we examined exposure to all vaccines, not
+only the TIV. A dummy variable was created to indicate
+e822 GOODMAN et al
+Downloaded from pediatrics.aappublications.org at University of Connecticut on May 26, 2015
+each vaccine received. Vaccine exposure information
+was gathered from the HPMG vaccine registry. The registry contains the date of each vaccination and additional
+information on the vaccine (such as lot number and type
+of vaccine).
+Vaccine-naive children should have 2 TIV injections,
+4 weeks apart. Because the separate safety profiles of
+the 2 vaccine doses have not been established, we coded
+whether a dose was the first or second vaccine dose with
+separate dummy variables. If the vaccination was given
+on the day of condition onset, then the case was considered unexposed unless treatment for the condition was
+administered in an inpatient or emergency setting, because conditions treated in the clinic on the same day as
+vaccination might have been present before vaccination.
+Outcomes
+Outcomes were defined in 2 ways. First, our physician
+investigators reviewed observed diagnoses in the exposed population for possible outcomes of interest. The
+observed diagnoses were clustered and additional International Classification of Diseases, Ninth Revision, Clinical Modification diagnoses were added to create logically complete outcome classes. The outcome classes and
+their diagnostic codes, as defined by our physician investigators, are shown in Table 1. Except for urticaria,
+the risk window for these outcomes was 0 to 42 days.
+For urticaria, the risk window was 0 to 3 days. Second,
+to replicate the limited existing literature, we defined the
+same categories and time periods as used by France et al7
+(the Colorado VSD team). Table 1 contains only additional disease classes separate from those defined by
+France et al.7 Combining our outcomes with the outcomes used by France et al7 resulted in 58 unique conditions. However, only 26 outcomes had individuals
+with TIV exposure in the previous 42 days; therefore,
+the other 32 outcomes were not evaluated further and
+no risk was imputed.
+The Colorado VSD team defined immediate events
+with a risk window of 0 to 3 days, acute events with a
+window of 4 to 14 days, and delayed events with a
+period of 14 to 42 days. We conducted a similar analysis
+of our data.
+Outcomes were verified through physician chart review. The goal of the chart review was to determine
+whether the event fit the definition of the condition of
+interest and to determine the date of onset. The most
+common example of an outcome not fitting a diagnostic
+code was in the rheumatologic disease category. Several
+outcomes coded this way were instead a result of
+trauma. Influenza, defined with International Classification of Diseases, Ninth Revision, Clinical Modification
+codes 487, 487.0, 487.1, and 487.8, was also identified as
+an outcome.
+Statistical Methods
+Conditional logistic regression models were fit by using
+the PHREG procedure in the SAS system (SAS Institute,
+Cary, NC) to handle the 1:3-matched, case-control,
+study design.10 Explanatory variables included exposure
+to TIV, measles-mumps-rubella vaccine, diphtheria-tetanus-acellular pertussis vaccine, inactivated polio vaccine, Haemophilus influenzae type b vaccine, varicella vaccine, and pneumococcal conjugate vaccine during the
+risk windows of interest. Variables with P values of .05
+were considered statistically significant.
+No correction was made for multiple comparisons.
+The basic idea is that, with n comparisons, the probability that 1 will be significant is [1  (1  )n].11 For 26
+comparisons, the probability of finding 1 statistically
+significant comparison is 73.6%. A multiple-comparison
+procedure would adjust  down from .05, so that the
+overall probability of finding a significant effect would be
+5%. In early safety studies of a new agent, this would
+make the results unnecessarily conservative; therefore,
+we did not make a correction for multiple comparisons.
+We had the power to detect as significant hazard
+ratios of varying sizes, depending on the number of cases
+observed (Table 2). Power was calculated a priori with
+PASS software.12
+TABLE 1 Outcome Disease Classes
+ICD-9 Codes Description Risk Window, d
+287.xx Purpura 0–42
+288.0x–288.1x White blood cell disorders 0–42
+390.xx–391.xx Rheumatic diseases 0–42
+581.xx–588.xx Nephrotic syndromes 0–42
+704.0x Alopecia 0–42
+708.xx Urticaria 0–3
+728.0x, 728.2x, 728.3x, 728.8 Muscle weakness 0–42
+729.1x Myalgia 0–42
+729.2x Neuralgia 0–42
+780.3x Seizures 0–42
+446.x Polyarteritis 0–42
+791.3x Myoglobinuria 0–42
+ICD-9 indicates International Classification of Diseases, Ninth Revision.
+TABLE 2 Power Calculation
+No. of Cases Detectable Odds Ratio
+10 10.80
+20 5.04
+30 3.72
+40 3.12
+50 2.77
+60 2.54
+70 2.38
+80 2.25
+90 2.15
+100 2.07
+Power  0.80, probability of exposure  0.28, correlation ()  0.20,   .05,   .20.
+PEDIATRICS Volume 117, Number 5, May 2006 e823
+Downloaded from pediatrics.aappublications.org at University of Connecticut on May 26, 2015
+Ethics
+The study was approved by the HealthPartners Research
+Foundation institutional review board.
+RESULTS
+In the HPMG, 13 383 individuals met our inclusion criteria and 3697 received vaccines during the study window (Table 3). The mean ages of the exposed and unexposed groups were similar. Male and female subjects
+were equally likely to receive the vaccine.
+Table 4 shows hazard ratios for conditions that were
+estimable given our data set. For each condition, the
+estimate for each vaccine and the confidence interval
+(CI) are shown. Where no estimate is shown, the data
+were insufficient for estimation of a hazard ratio and CI.
+The CIs were large for all vaccines and effects. Only
+reactive airway disease approached significance (P 
+.10) for the first TIV injection, and this effect was protective. Two of the first TIV hazard ratios were 2.0, but
+the lower limit of the CIs nearly reached 0.0, indicating
+extremely wide variation in these estimates. For the
+second TIV injection, 3 hazard ratios approached or
+achieved statistical significance. Pharyngitis (P  .0090)
+was more common after the second TIV administration.
+The second TIV dose was protective for sinusitis (P 
+.0707). Bacterial infection approached statistical significance (P  .0570), but the results were based on only 5
+cases (only 2 with prior exposure to TIV).
+To test for the possible protective effect of the TIV, we
+used exposure to either TIV dose in the 42 days before
+influenza. With this test, influenza vaccination was
+highly protective (hazard ratio: 0.104; 95% CI: 0.013–
+0.813; P  .0309).
+DISCUSSION
+This study indicates that adverse events possibly attributable to influenza vaccination among healthy young
+children are unusual. Only pharyngitis had an increased
+hazard ratio and then only with the second dose. This is
+a common and usually mild event. Although our design
+should control for seasonal effects and age, the increase
+in these conditions with the second dose may reflect a
+seasonal effect, because the second TIV dose is given 4
+weeks after the first.
+Our results are similar to those of earlier studies that
+found only random mild effects. Compared with France
+et al,7 whose data were from a period before the ACIP
+recommendations, we found no evidence of other significant adverse events. Unlike France et al,7 we used a
+case-control design and broader window to measure
+effects. The design is the result of our smaller population,
+compared with the VSD. The VSD study also separated
+time windows and inpatient, outpatient, and emergency
+department events. We did not find support for their
+finding of increased impetigo rates. McMahon et al,6
+using spontaneous VAERS reports, found that the most
+common reactions were fever, seizure, urticarial rash,
+and injection site reactions. We did not find support in
+our data for increased rates of any of these reactions.
+The authors of the VAERS report called specifically
+for investigation of seizures.6 In the VAERS data, seizures were found within 3 days after vaccination. Neither our work nor the work by France et al7 found
+support for an increased seizure rate.7 We did not have
+the power to test such a short time window for seizures.
+With a 42-day window, we had 80% power to detect a
+hazard ratio of 2.27 with 2 control subjects per case
+subject.
+Given the number of comparisons both in our study
+and in the prior work, it is not surprising that increased
+and decreased hazard ratios were found for some minor
+events. When the VSD codes and our codes were combined, we were testing for 26 possible effects with 2
+vaccinations. By chance alone, we would expect to find
+several statistically significant effects at the P  .05 level.
+The events found in the published literature differed, as
+would be expected if the elevated rates occurred through
+chance alone.
+The only events that seemed to increase significantly
+were minor and were related to the second TIV dose.
+Our control matching, ie, including only children with
+no history of a previous event in the outcome class,
+might have biased us to observe these events among
+younger children receiving the second TIV dose. This is
+because it was more difficult, for common events such as
+pharyngitis, to find matching children who had not experienced the event of interest previously. Also, because
+the incidence of pharyngitis increases during the winter
+months, we were more likely to detect a spurious relationship with the second TIV dose. We think that additional research regarding adverse events related to the
+spacing of the second dose may be warranted. For our
+population, 80% of second injections were administered 27 to 42 days after the first TIV injection; this is
+approximately the recommended interval. However, a
+recent study in Seattle, Washington, found that, when
+the components of the vaccine do not change, it is feaTABLE 3 Description of Population Eligible for Vaccination
+2002–2003 2003–2004 Total
+Total population 6644 6739 13 383
+Received injection, no. 1428 2269 3697
+Received injection, % 21.5 33.7 27.6
+Mean age of exposed subjects, ya,b 0.96 1.00 0.98
+Mean age of unexposed subjects, ya,b 1.04 0.96 1.00
+Proportion of male subjects who
+received TIV, %
+21.7 34.1 27.9
+Proportion of female subjects who
+received TIV, %
+21.3 33.2 27.3
+a On October 1, 2002.
+b On October 1, 2003.
+e824 GOODMAN et al
+Downloaded from pediatrics.aappublications.org at University of Connecticut on May 26, 2015
+sible to administer the first dose in the spring and the
+second dose in the fall.13
+Although this study was not powered to test the
+effectiveness of influenza vaccination among young children, we found that influenza vaccination was highly
+protective. However, this was not a robust test of this
+question, because the study included only influenza
+cases within 42 days after influenza vaccination and not
+all influenza cases for the season.
+Our study evaluated rigorously the safety of routine
+administration of TIV among infants, with a population
+treated entirely in the post-ACIP recommendation period. Our design considered the first and (if applicable)
+second injections in a season separately, in addition to
+other vaccines received, while controlling for age and
+season. These design strengths give us confidence that
+our identification of only minor events is robust despite
+our fairly small study population. Because all events
+were identified with electronic data and validated with
+chart review, we are confident that our outcomes represent real events and that exposures were measured
+accurately. These findings should be useful to clinicians
+in reassuring parents about the safety of routine influenza vaccination.
+Limitations were as follows. We defined TIV doses
+within season; this put 2 different groups into the same
+exposure category, ie, vaccine-naive children (who should
+receive a second dose) and children who received TIV in
+a previous season. Given sufficient power, these exposures should be separated. However, with only 2 seasons
+of data, we did not have sufficient power for this separation.
+Some case subjects were not included in the analysis
+because we were unable to find matched control subjects. This affected mostly the common outcome classes
+from the study by France et al7 (eg, common cold and
+otitis media), because the number of children with no
+prior occurrence of the event of interest in their lifetimes
+was low. This tradeoff required by our matched casecontrol design was considered acceptable to ensure a
+comparable control group.
+REFERENCES
+1. Centers for Disease Control and Prevention. Assessment of the
+effectiveness of the 2003– 04 influenza vaccine among children
+and adults: Colorado, 2003. MMWR Morb Mortal Wkly Rep.
+2004;53:707–710
+2. Bridges CB, Fukuda K, Uyeki TM, Cox NJ, Singleton JA. Prevention and control of influenza: recommendations of the
+Advisory Committee on Immunization Practices (ACIP).
+MMWR Recomm Rep. 2002;51(RR-3):1–31
+3. American Academy of Pediatrics, Committee on Infectious Diseases. Recommendations for influenza immunization of children. Pediatrics. 2004;113:1441–1447
+4. Centers for Disease Control and Prevention. Estimated influTABLE 4 Evaluation of Possible Adverse Events
+Condition TIV1 TIV2
+Hazard Ratio 95% CI Hazard Ratio 95% CI
+Cellulitis and skin infection 2.41 0.07–81.95 NA
+Conjunctivitis 0.43 0.05–3.45 0.65 0.12–3.53
+Fever 0.52 0.06–4.56 0.64 0.15–2.74
+Rash NA 0.90 0.09–8.68
+Bacterial, other 2.08 0.08–53.88 8.59a 0.94–78.59
+Conjunctivitis 0.67 0.32–1.43 1.11 0.56–2.2
+Gastrointestinal symptoms, vomiting and diarrhea 1.24 0.62–2.48 1.32 0.69–2.5
+Lower respiratory tract infection and wheezing 0.66 0.3–1.42 0.53 0.23–1.21
+Otitis media 0.68 0.38–1.24 1.21 0.54–2.72
+Pharyngitis 0.80 0.41–1.56 2.63b 1.27–5.42
+Reactive airway disease 0.35a 0.11–1.1 1.39 0.53–3.66
+Sinusitis 0.57 0.2–1.58 0.29a 0.08–1.11
+Upper respiratory tract infection and common cold 0.68 0.25–1.86 2.10 0.74–5.97
+Urinary tract infection 1.84 0.31–11.08 NA
+Vaccine reaction 0.14 0.01–1.51 1.19 0.09–16.34
+Autonomic disorders NA 2.19 0.43–11.19
+Epilepsy and altered mental status 1.12 0.36–3.48 1.22 0.3–5.02
+Movement disorders and spinocerebellar disease NA 0.71 0.14–3.64
+Seizures 1.17 0.36–3.86 1.026 0.19–5.56
+The following classes did not produce estimates in our data and so are not shown: allergic reaction, headache, limb soreness and swelling,
+unspecified adverse event in reaction to vaccine, cyanosis, diabetes mellitus, gastrointestinal symptoms (other), respiratory failure, rhabdomyolysis, sepsis, thrombocytopenia, cardiac events, cranial nerve disorders, degeneration of the central nervous system, demyelinating diseases,
+hepatitis, hypotension (VAERS), intussusception, meningoencephalitides, myopathies, and myoneural disorders, psychoses and autism, rhabdomyolysis, alopecia, muscle weakness, myalgia, myoglobinuria, nephrotic syndromes, polyarteritis, purpura, rheumatic fever, urticaria, and
+white blood cell disorders. All of the conditions that proceed alopecia were derived from the report by France et al.7 The remaining conditions
+were defined by the study team. NA indicates not applicable (not estimable because of lack of exposure in both the case and control groups);
+TIV1, first TIV injection in an influenza season; TIV2, second TIV injection in an influenza season.
+a P  .10.
+b P  .05.
+PEDIATRICS Volume 117, Number 5, May 2006 e825
+Downloaded from pediatrics.aappublications.org at University of Connecticut on May 26, 2015
+enza vaccination coverage among adults and children: United
+States, September 1, 2004 –January 31, 2005. MMWR Morb
+Mortal Wkly Rep. 2005;54:304 –307
+5. Terebuh P, Uyeki T, Fukuda K. Impact of influenza on young
+children and the shaping of United States influenza vaccine
+policy. Pediatr Infect Dis J. 2003;22(suppl):S231–S235
+6. McMahon AW, Iskander J, Haber P, et al. Adverse events after
+inactivated influenza vaccination among children less than 2
+years of age: analysis of reports from the Vaccine Adverse Event
+Reporting System, 1990 –2003. Pediatrics. 2005;115:453–460
+7. France EK, Glanz JM, Xu S, et al. Safety of the trivalent
+inactivated influenza vaccine among children: a populationbased study. Arch Pediatr Adolesc Med. 2004;158:1031–1036
+8. Humiston SG, Lerner EB, Hepworth E, Blythe T, Goepp JG.
+Parent opinions about universal influenza vaccination for
+infants and toddlers. Arch Pediatr Adolesc Med. 2005;159:
+108 –112
+9. Humiston SG, Szilagyi PG, Iwane MK, et al. The feasibility of
+universal influenza vaccination for infants and toddlers. Arch
+Pediatr Adolesc Med. 2004;158:867– 874
+10. Stokes ME, Davis CS, Koch GG. Categorical Data Analysis Using
+the SAS System. 2nd ed. Cary, NC: SAS Institute; 2000
+11. Rothman KJ. No adjustments are needed for multiple comparisons. Epidemiology. 1990;1:43– 46
+12. Hintze JL. PASS 2002 User’s Guide, II. Kaysville, UT: NCSS; 2002
+13. Englund JA, Walter EB, Fairchok MP, Monto AS, Neuzil KM.
+A comparison of 2 influenza vaccine schedules in 6- to 23-
+month-old children. Pediatrics. 2005;115:1039 –1047
+e826 GOODMAN et al
+Downloaded from pediatrics.aappublications.org at University of Connecticut on May 26, 2015
+ERRATA Gidding SS, Dennison BA, Birch LL, et al. Dietary
+Recommendations for Children and Adolescents: A Guide for
+Practitioners. PEDIATRICS 2006;117:544–559.
+An error appears in the American Academy of Pediatrics Policy Statement by
+Gidding et al, titled “Dietary Recommendations for Children and Adolescents: A Guide for Practitioners” published in the February 2006 issue of
+Pediatrics (doi:10.1542/peds.2005-2374). The name of the author Matthew
+W. Gillman was misspelled. The error has been corrected online.
+doi:10.1542/peds.2006-2004
+Huang N, Morlock L, Lee CH, Chen LS, Chou YJ. Antibiotic
+Prescribing for Children with Nasopharyngitis (Common Colds),
+Upper Respiratory Infections, and Bronchitis Who Have HealthProfessional Parents. PEDIATRICS 2005;116:826–832.
+Two errors appeared in the article by Huang et al, titled “Antibiotic Prescribing for Children with Nasopharyngitis (Common Colds), Upper Respiratory
+Infections, and Bronchitis Who Have Health-Professional Parents” published
+in the October 2005 issue of Pediatrics (doi:10.1542/peds.2004-2800). On
+page 827, the third and fourth sentences of the first paragraph of the “Data
+Sources” section, the authors wrote: “A multistage stratified systematic sampling design according to the degree of urbanization, geographic location,
+and administrative boundaries was used by the National Health Research
+Institute to select a representative sample.” It should have read as follows: “A
+random sampling design was used by the National Health Research Institute
+to select a representative sample.” As a result, on page 832, references 47 and
+48 corresponding to the design and sampling strategy should have been
+“National Health Research Institute [Taiwan]. Overview of random samples
+of NHI beneficiaries: Taiwan. Available at: www.nhri.org.tw/nhird/date_
+cohort.htm. Accessed February 1, 2005” and “National Health Research
+Institute [Taiwan]. Comparison of distribution of basic characteristics between four waves of random samples of NHI beneficiaries and the entire
+population of NHI beneficiaries: Taiwan. Available at: www.nhri.org.tw/
+nhird/talk_01_8.htm#1. Accessed February 1, 2005”
+doi:10.1542/peds.2006-2005
+Goodman MJ, Nordin JD, Harper P, Defor T, Zhou X. The Safety
+of Trivalent Influenza Vaccination in Healthy Children Aged 6 to
+24 Months. PEDIATRICS 2006;117:e821–e826.
+An error appeared in the article by Goodman et al, titled “The Safety of
+Trivalent Influenza Vaccination in Healthy Children Aged 6 to 24 Months”
+published in the May 2006 issue of Pediatrics Electronic Pages (doi:10.1542/
+peds.2005-2234). The authors state that when they defined the outcomes
+they used two processes, an internal review of observed codes and replication of past work. The authors inadvertently used newer codes for ongoing
+Vaccine Safety Datalink (VSD) studies, instead of the codes used in the
+PEDIATRICS Volume 118, Number 3, September 2006 1323
+DOI: 10.1542/peds.2005-2234
+Pediatrics 2006;117;e821
+Michael J. Goodman, James D. Nordin, Peter Harper, Teri DeFor and XingZhou Zhou
+Months of Age
+The Safety of Trivalent Influenza Vaccine Among Healthy Children 6 to 24
+http://pediatrics.aappublications.org/content/117/5/e821.full.html
+located on the World Wide Web at:
+The online version of this article, along with updated information and services, is
+of Pediatrics. All rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275.
+Boulevard, Elk Grove Village, Illinois, 60007. Copyright © 2006 by the American Academy
+published, and trademarked by the American Academy of Pediatrics, 141 Northwest Point
+publication, it has been published continuously since 1948. PEDIATRICS is owned,
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly
+Downloaded from pediatrics.aappublications.org at University of Connecticut on May 26, 2015
+DOI: 10.1542/peds.2005-2234
+Pediatrics 2006;117;e821
+Michael J. Goodman, James D. Nordin, Peter Harper, Teri DeFor and XingZhou Zhou
+Months of Age
+The Safety of Trivalent Influenza Vaccine Among Healthy Children 6 to 24
+ Services
+Updated Information &
+tml
+http://pediatrics.aappublications.org/content/117/5/e821.full.h
+including high resolution figures, can be found at:
+References
+tml#ref-list-1
+http://pediatrics.aappublications.org/content/117/5/e821.full.h
+at:
+This article cites 11 articles, 3 of which can be accessed free
+Subspecialty Collections
+munization_sub
+http://pediatrics.aappublications.org/cgi/collection/vaccine:im
+Vaccine/Immunization
+sub
+http://pediatrics.aappublications.org/cgi/collection/influenza_
+Influenza
+diseases_sub
+http://pediatrics.aappublications.org/cgi/collection/infectious_
+Infectious Diseases
+the following collection(s):
+This article, along with others on similar topics, appears in
+Errata
+.html
+http://pediatrics.aappublications.org/content/118/3/1323.1.full
+see:
+An erratum has been published regarding this article. Please
+Permissions & Licensing
+ml
+http://pediatrics.aappublications.org/site/misc/Permissions.xht
+tables) or in its entirety can be found online at:
+Information about reproducing this article in parts (figures,
+ Reprints
+http://pediatrics.aappublications.org/site/misc/reprints.xhtml
+Information about ordering reprints can be found online:
+rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275.
+Grove Village, Illinois, 60007. Copyright © 2006 by the American Academy of Pediatrics. All
+and trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published,
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly
+Downloaded from pediatrics.aappublications.org at University of Connecticut on May 26, 2015

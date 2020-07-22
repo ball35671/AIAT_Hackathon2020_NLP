@@ -1,0 +1,502 @@
+﻿A multi-center, randomized controlled trial of a group psychological intervention for
+psychosis with comorbid cannabis dependence over the early course of illness
+Kevin Madigan a,b,
+⁎, Daria Brennan a,b
+, Elizabeth Lawlor a,b
+, Niall Turner a,b
+, Anthony Kinsella b,c
+,
+John J. O'Connor d
+, Vincent Russell e,f
+, John L. Waddington c,e
+, Eadbhard O'Callaghan a,b,†
+a St. John of God Adult Mental Health Services, Cluain Mhuire Family Centre, Blackrock, Co. Dublin, Ireland
+b DETECT Early Intervention in Psychosis Service, Blackrock, Co. Dublin, Ireland
+c Molecular & Cellular Therapeutics, Royal College of Surgeons in Ireland, Dublin, Ireland
+d Drug Treatment Centre Board, Dublin, Ireland
+e Cavan–Monaghan Mental Health Service, Cavan Hospital, Cavan, Ireland f Department of Psychiatry, Royal College of Surgeons in Ireland, Beaumont Hospital, Dublin, Ireland
+article info abstract
+Article history:
+Received 25 May 2012
+Received in revised form 12 September 2012
+Accepted 21 October 2012
+Available online 24 November 2012
+Keywords:
+Substance abuse
+Psychosis
+Psychological therapy
+RCT
+Background: Patients who experience the onset of psychotic illness with a comorbid diagnosis of cannabis dependence experience poor clinical outcomes. Few studies have identified interventions that reduce cannabis
+use and improve clinical outcome in this population.
+Aims: We undertook a multi-center, randomized controlled trial of a group psychological intervention for
+psychosis with comorbid cannabis dependence to determine whether there was any impact on cannabis
+use symptoms, global functioning, insight, attitudes to treatment and subjective quality of life.
+Method: Across three centers, we compared a group psychological intervention, based on cognitive behavioral
+therapy and motivational interviewing, with treatment as usual among patients experiencing their first psychotic episode or early in the course of psychotic illness. Substance misuse and indices of clinical outcome
+were assessed at baseline, 3 months and 1 year.
+Results: At 3 month and 1 year follow-ups, there was no evidence for an intervention effect on cannabis use,
+symptoms, global functioning insight or attitude to treatment. However, the intervention improved subjective quality of life at 3 months and this effect was sustained at 1 year.
+Conclusions: Over the early phase of psychotic illness, group psychological interventions for those with
+comorbid cannabis dependence improved subjective quality of life. However, this was not associated with
+reduction in use of cannabis or improvement in clinical outcomes.
+© 2012 Elsevier B.V. All rights reserved.
+1. Introduction
+Substance misuse is the predominant comorbidity of schizophrenia (Buckley et al., 2009) with cannabis being the most commonly
+used substance (Koskinen et al., 2010). Up to 60% of patients experiencing a first psychotic episode have used cannabis in the
+12 months prior to presentation to treatment services (Wade et al.,
+2006). Emerging evidence supports the hypothesis of cannabis as a
+causal factor in the development of psychotic illness (Moore et al.,
+2007) with cannabis users developing psychotic symptoms at an earlier age than non-cannabis users (Large et al., 2011). Those patients
+who continue to use cannabis are also more likely to have poorer outcomes and to experience a greater number of relapses and longer
+periods in hospital (Isaac et al., 2005). Poor insight and inadequate adherence to prescribed treatment are highly prevalent among substance
+abusers (Kamali et al., 2001) with increased risk of loss to treatment
+services over the first 12 months following the onset of psychosis
+(Miller et al., 2009). Cannabis users experience positive symptoms of
+psychosis with greater frequency and severity (Machielson et al.,
+2010) without reduction in negative symptoms (Compton et al.,
+2004). However, comorbid cannabis use is often associated with poorer
+psychosocial outcomes relating to occupation (Claussen, 1999) and
+housing (Drake and Osher, 1991). In terms of quality of life, adverse financial circumstances, social isolation and interpersonal conflict appear
+related to comorbid substance misuse (Kessler, 1995).
+Despite these poor clinical outcomes, there are few interventions
+of proven efficacy for psychotic patients with comorbid substance
+misuse. A Cochrane review of psychosocial interventions for people
+with both severe mental illness and substance misuse (Cleary et al.,
+2008) found 25 randomized controlled trials of sufficient quality
+that compared psychosocial interventions with standardized care in
+reducing substance misuse. Only one randomized controlled trial
+Schizophrenia Research 143 (2013) 138–142
+⁎ Corresponding author at: St. John of God Adult Mental Health Services, Cluain Mhuire
+Family Centre, Newtownpark Avenue, Blackrock, Co. Dublin, Ireland. Tel.: +353 1 217
+2100.
+E-mail address: kevin.madigan@sjog.ie (K. Madigan). † Deceased.
+0920-9964/$ – see front matter © 2012 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.schres.2012.10.018
+Contents lists available at SciVerse ScienceDirect
+Schizophrenia Research
+journal homepage: www.elsevier.com/locate/schres
+(RCT) included in the Cochrane review used a combination of motivational interviewing (MI) and cognitive behavioral therapy (CBT) for
+first episode psychosis with comorbid cannabis use (Edwards et al.,
+2006); there was no evidence in the Cochrane review for any group
+intervention based on MI and CBT for psychosis with comorbid cannabis dependence. No trial in the Cochrane review revealed any
+meaningful improvement over treatment as usual and many had
+high dropout rates. However, a recent UK study (Barrowclough et
+al., 2010) demonstrated that a psychological intervention was beneficial in reducing substance misuse over 1 year follow-up. Therefore,
+we carried out a multicenter RCT of a group-based psychological intervention (GPI) that integrated CBT with MI, in comparison with
+treatment-as-usual (TAU), among a cohort of persons early in the
+course of psychotic illness with comorbid cannabis dependence. Our
+primary outcome was extent of substance abuse and our secondary
+outcomes were symptoms, global functioning, insight, attitude to
+treatment and quality of life.
+2. Materials and methods
+The subjects were 88 patients who were either experiencing
+their first psychotic episode or within 3 years following the onset
+of non-affective or affective psychosis and who had presented to (i)
+the DETECT first episode psychosis service in South County Dublin/
+North Wicklow (population 375,000), (ii) the National Drug Treatment Centre Board in Dublin city center, or (iii) Cavan–Monaghan
+Mental Health Service (population 109,000); the study was approved
+by the Provincial Ethics Committee of the St. John of God Hospitaller
+Services, the Research Ethics Committee for the National Drug Treatment Centre Board and the Research Ethics Committee of the Health
+Service Executive Dublin North East Area, respectively. The recruitment procedure involved a poster and media campaign, including appearance on a prime-time current affairs television program, letters of
+information to referred patients prior to consent, and flexible appointments for assessment at a time and venue of the patients choosing. Each patient's participation in assessment was acknowledged
+with the allocation of a token voucher to cover any costs of attendance. Patients were also offered the opportunity to meet with a service user who had previously participated in the psychological
+intervention, to clarify any outstanding issues and help alleviate any
+anxieties regarding involvement in the study. Once patients had
+given written, informed consent, patients who met inclusion criteria
+for the RCT were interviewed using the Structured Clinical Interview
+(SCID-1) for DSM-1V (First et al., 1995) to confirm a diagnosis of
+psychosis with comorbid substance dependence. Both outpatients
+and inpatients aged between 16 and 65 years and without learning
+disability or organic brain damage were included.
+2.1. Outcome measures
+The rater was a clinical nurse specialist experienced in recruiting
+patients to clinical trials and assessing signs and symptoms early in
+the course of psychotic illness. The baseline SCID-1 assessment to
+confirm a diagnosis of psychosis and comorbid substance dependence
+was repeated at 1 year and was also used to gather demographic
+information, including age, gender, education and work history.
+Frequency of cannabis abuse over the past 30 days was measured
+using the cannabis abuse subscale of the Addiction Severity Index
+(ASI) (McLellan et al., 1980; Zanis et al., 1997). Level of insight was
+established using the global score of the Birchwood Insight Scale
+(BIS) (Birchwood et al., 1994). Attitude to treatment was recorded as
+the global score of the Drug Attitude Inventory (DAI-30) (Hogan
+et al., 1983). Positive psychotic symptoms and negative symptoms
+were measured using the global scores of the Scale for the Assessment
+of Positive Symptoms (SAPS) and the Scale for the Assessment of
+Negative Symptoms (SANS), respectively (Andreasen, 1983, 1984;
+Malla et al., 1993; Norman et al., 1996). Depressive symptoms were
+evaluated using the global score of the clinician-rated Calgary Depression Scale for Schizophrenia (CDSS) (Addington et al., 1990, 1992).
+Psychosocial functioning over the past month was measured using
+the clinician-rated Global Assessment of Functioning Scale (GAF)
+(Endicott et al., 1976; Patterson and Lee, 1995). Subjective quality of
+life was evaluated using the global score of the World Health Organization, Quality of Life assessment (WHOQOL, BREF) (Skevington et
+al., 2004). Duration of untreated psychosis (DUP) was evaluated
+using the scale of Beiser et al. (1993) with collateral information
+obtained from family members, and calculated as months.
+2.2. Three month and 1 year follow-ups
+Patients were re-evaluated at 3 months and 1 year, at which times
+we measured substance use, symptoms, insight, attitude to treatment, level of functioning and quality of life.
+2.3. Randomisation
+Using a block randomized, computerized method, patients were
+allocated to one of two treatment arms: GPI with a probability of 2/3
+or TAU with a probability of 1/3. Randomisation was conducted by a
+researcher uninvolved in the provision or assessment of interventions
+and was withheld from the rater, who remained blind to allocation
+until the final assessments were completed.
+2.4. Interventions
+2.4.1. TAU
+This arm continued to receive care from a multidisciplinary team
+in their local service; this included antipsychotic treatment and regular review. Five patients in the TAU group had availed of addiction
+counseling, primarily for opiate use, in excess of one year prior to
+consenting to the present trial.
+2.4.2. GPI
+This arm also continued to receive care from a multidisciplinary
+team in their local service, similar to the TAU group. Ten patients in
+the GPI group had also availed of addiction counseling, primarily for
+opiate use, in excess of one year prior to consenting to the present
+trial. Group psychological intervention was provided by an experienced clinical psychologist; this specialist in cognitive therapy is a
+ratified member of the British Association for Behavioral and Cognitive Psychotherapies. Patients attended group sessions once per
+week for 12 weeks and were then invited back 6 weeks later for a
+‘booster’ session. The interventions were held in community mental
+health centers and involved weekly sessions of anxiety management,
+motivational interviewing and CBT techniques (Edwards et al., 2006);
+they consisted of six phases based upon motivational interviewing
+principles (Miller and Rollnick, 1991; Edwards et al., 2006), as per
+the Australian CAP trial, together with cognitive behavioral therapy.
+1. Entry: engagement, gaining commitment to treatment and raising
+the issue of problem substance abuse (psychoeducation).
+2. Committment: building commitment to a goal of non-problematic
+substance misuse (motivational interviewing; harm reduction).
+3. Goal Setting: reinforcing commitment to change and development
+of goal achievement strategies.
+4. Challenges: withdrawal counseling and psychoeducation.
+5. Relapse prevention and lifestyle: motivational interviewing and
+psychoeducation.
+6. Maintenance: coping skills and time management.
+7. Exit: termination; provision of resources.
+K. Madigan et al. / Schizophrenia Research 143 (2013) 138–142 139
+2.5. Data analysis
+Data were analyzed on an intention-to-treat basis using SPSS V15
+and BMDP 5V. Baseline variables were analyzed using one-way analysis of variance (ANOVA) and an unbalanced, mixed effects, repeated
+measures analysis of variance was used to analyze the three time period data; the z statistic, the standard Normal random variable, was
+the statistical test criterion used in the latter analysis.
+3. Results
+3.1. Recruitment and participation
+Of 230 patients referred to the multi-center RCT, 88 were randomized
+to GPI (n=59) or TAU (n=29) in the intended 2:1 ratio; the number of
+those who did not meet inclusion criteria or refused [disengaged from
+assessment, n=20; did not wish to travel to intervention, n=18; did
+not wish to participate in intervention, n=13; did not wish to participate
+in group intervention, n=19], those who received intervention and those
+analyzed at baseline, 3 months and 1 year are given in the CONSORT flow
+chart (Fig. 1). Patients included in this study were representative of a
+homogeneous ethnic sample. Demographic information on age, gender
+distribution, duration of untreated psychosis, education, employment
+and primary diagnosis is given in Table 1. Mean lifetime duration of
+cannabis use was 7.5 years (s.d. 6.6) in the TAU group and 9.6 years
+(s.d. 6.7) in the GPI group.
+Comparisons of clinical measures between TAU and GPI groups are
+given in Table 2 and summarized below.
+3.2. Cannabis use
+There were no differences in frequency of cannabis use over the
+past month between TAU and GPI groups at baseline (F(1, 86)=0.01,
+P=0.95), 3 months (z=−0.17, P=0.86) or 1 year (z=0.84, P=0.39).
+3.3. Insight
+There were no differences in BIS scores between TAU and GPI
+groups at baseline (F(1, 64)= 0.49, P= 0.5), 3 months (z=−0.54,
+P=0.6) or 1 year (z=−0.17, P= 0.9).
+Referred to multi-centre RCT
+(n= 230)
+Excluded (n=142)
+Did not meet
+inclusion criteria
+for current substance
+dependence (n=72)
+Refused (n=70)
+Randomised
+(n=88)
+Allocated to psychological intervention (n=59)
+Allocated to treatment as usual
+(n=29)
+Received intervention (n=27)
+Declined intervention (n=32)
+Lost to follow-up at 3 months (n=17 ) Lost to follow-up at 1 year (n=27)
+Received treatment as usual(n=29)
+Lost to follow-up at 3 months (n=7)
+Lost to follow-up at year 1 (n=10)
+Analysed at 3 months (n=42)
+Analysed at 1 year (n=32)
+Analysed at 3 months (n=22)
+Analysed at 1 year (n=19)
+Recruitment and participation in RCT
+Fig. 1. Recruitment and participation in RCT.
+Table 1
+Baseline demographic characteristics of patients.
+GPI TAU
+Mean (s.d.) Mean (s.d.)
+Age 27.6 (8.4) 28.2 (7.7)
+DUP (Months) 14.4 (28.1) 12.2 (19.9)
+n (%) n (%)
+Gender
+Male 46 (78) 23 (79)
+Female 13 (22) 6 (21)
+Education
+Primary 3 (5) 0 (0)
+Secondary 26 (44) 11 (38)
+Third level 24 (41) 15 (52)
+Masters/professional 6 (10) 3 (10)
+Employed 17 (29) 10 (35)
+Diagnosis
+Schizophrenia 25 (42) 13 (44)
+Schizophreniform disorder 6 (10) 3 (10)
+Bipolar Disordera 10 (19) 4 16
+Schizoaffective disorder 1 (2) 0 (0)
+Delusional disorder 2 (3) 3 (10)
+Brief psychotic disorder 3 (5) 3 (10)
+Major depressive disordera 5 (9) 1 (3)
+Substance-induced psychosis 3 (5) 2 (7)
+Psychosis NOSb 4 (7) 0 (0)
+a Major depressive disorder with psychotic features. b Psychosis not otherwise specified.
+140 K. Madigan et al. / Schizophrenia Research 143 (2013) 138–142
+3.4. Attitude to treatment
+There were no differences in DAI scores between TAU and GPI
+groups at baseline (F(1, 54)= 0.01, P= 1.0), 3 months (z=−0.68,
+P=0.5) or 1 year (z=−0.73, P=0.5).
+3.5. Positive symptoms
+There were no differences in SAPS scores between TAU and GPI
+groups at baseline (F(1, 85)=0.18 P= 0.7), 3 months (z=−0.15,
+P=0.9) or 1 year (z=0.63, P=0.5).
+3.6. Negative symptoms
+There were no differences in SANS scores between TAU and GPI
+groups at baseline (F(1, 85)= 0.07, P= 0.7), 3 months (z=−0.71,
+P=0.5) or 1 year (z=0.62, P=0.5).
+3.7. Depressive symptoms
+There were no differences in CDSS scores between TAU and GPI
+groups at baseline (F(1, 85)=0.01, P=1.0), 3 months (z= 1.42,
+P=0.2) or 1 year (z=0.93, P=0.4).
+3.8. Global assessment of functioning
+There were no differences in GAF scores between TAU and GPI
+groups at baseline (F(1, 85)= 0.01, P= 0.9), 3 months (z=−0.50,
+P=0.6) or 1 year (z=−0.50, P=0.4).
+3.9. Quality of life
+At baseline, there was no difference in WHOQOL, BREF score between TAU and GPI groups (F(1, 51)=0.42, P=0.5). At 3 months,
+WHOQOL, BREF score was higher in patients who had received GPI
+than in those who had received TAU (z=−2.51, P= 0.01) and this
+increase was sustained at 1 year (z=−1.96, P= 0.05).
+4. Discussion
+To our knowledge, this is the first RCT that compares GPI aimed at
+reducing cannabis use with TAU in a population of patients soon after
+the onset of psychotic illness with comorbid cannabis dependence.
+The results indicated no reduction in cannabis use following either
+GPI or TAU. An Australian RCT (Edwards et al., 2006) that compared
+a similar but individually delivered intervention with a psychoeducation control reported reduction in cannabis use in both arms
+of the study. A recent RCT from the UK (Barrowclough et al., 2010)
+that compared a similar but individually delivered intervention indicated some reduction in amount, but not in frequency, of substance
+use relative to TAU. An earlier RCT demonstrated improvement over
+TAU in terms of global functioning and positive and negative symptoms at 12 months post psychological intervention (Barrowclough
+et al., 2001); the benefit of improved global functioning and negative,
+but not positive, symptoms were sustained at 18 months (Haddock
+et al., 2003).
+Our RCT did not show any improvement for those randomized to
+either GPI or TAU in terms of insight, attitude to treatment, positive
+or negative symptoms, depression or global functioning at 3 months
+or 1 year. However, despite any evidence for reduction in cannabis
+use, those patients randomized to GPI did show improvement in subjective quality of life at 3 months that was sustained at 12 months.
+Thus, patients who receive GPI for early psychosis with comorbid cannabis abuse perceive improvement in their life circumstances in
+terms of quality of life. Only one RCT of psychological interventions
+for psychosis and comorbid substance use found an improvement in
+subjective quality of life in the intervention arm over control, while
+Barrowclough and colleagues concluded that an important outcome
+of group CBT for persons with schizophrenia was a reduction in negative outlook on ones situation (Barrowclough et al., 2006; Bellack
+et al., 2006). It will be important that issues relating to quality of
+life among such patients are explored further, as Melle et al. (2005)
+found that substance abusers with first episode psychosis experienced poor subjective and objective quality of life.
+Cannabis abuse associated with psychosis is a complex and clinically challenging area and we suggest that a group intervention of
+18 week duration may be insufficient to provide adequate therapeutic benefit to this population as they attempt to overcome their substance abuse while adapting to a relatively recently acquired
+psychotic illness. Sixty percent of patients had received previously
+an offering of comprehensive intervention at the DETECT early psychosis program, hence these interventions may contribute to lack of
+effect of GPI on indices other than quality of life. The findings of this
+study suggest that a brief group psychological intervention for early
+psychosis with comorbid cannabis dependence has little benefit in
+terms of reduced substance use, insight, attitude to treatment, symptoms or global functioning. However, there is enduring improvement
+in subjective quality of life.
+Regarding strengths and limitations of the study, this RCT was
+block randomized, blind to rater and analyzed on an intent-to-treat
+basis; it is unique in comprising a group intervention based on CBT
+and MI for patients with early psychosis and comorbid cannabis dependence. Most previous RCTs of psychological interventions for psychosis and comorbid substance use have focused on substance misuse
+as opposed to substance dependence. This study recruited only 88
+participants from 230 patients referred; 31% of those referred with a
+Table 2
+Comparisons of clinical measures between interventions.
+GPI TAU
+n Mean (s.d) n Mean (s.d.)
+Frequency of cannabis use over past 30 days (ASI)
+Baseline 59 10.0 3.6 29 10.1 3.7
+3 months 36 9.9 4.0 18 10.1 4.2
+1 year 28 9.8 3.9 14 10.1 4.0
+Insight (BIS)
+Baseline 47 6.8 2.8 19 6.3 2.7
+3 months 39 7.7 2.2 19 6.6 2.4
+1 year 32 7.0 2.9 14 6.6 1.5
+Attitude to treatment (DAI)
+Baseline 39 5.8 9.6 17 5.8 9.7
+3 months 33 8.1 9.9 15 5.9 9.6
+1 year 30 7.0 9.5 12 6.5 9.3
+Positive symptoms (SAPS)
+Baseline 59 5.4 4.0 28 5.7 4.8
+3 months 42 4.8 3.7 22 5.1 4.1
+1 year 32 4.9 4.0 17 5.1 4.2
+Negative symptoms (SANS)
+Baseline 59 7.7 3.1 28 7.4 3.0
+3 months 40 3.8 2.4 20 3.2 2.3
+1 year 32 4.6 3.0 19 4.8 3.2
+Depressive symptoms (CDA)
+Baseline 59 5.1 5.7 28 5.0 6.4
+3 months 40 4.4 4.3 20 4.6 4.8
+1 year 33 4.3 4.4 11 4.3 4.2
+Global functioning (GAF)
+Baseline 58 38.3 13.1 29 38.0 9.0
+3 months 39 37.4 8.0 19 36.6 9.6
+1 year 31 37.6 8.34 16 37.2 11.5
+Subjective quality of life (WHOQOL. BREF)
+Baseline 39 12.5 4.0 14 13.3 2.8
+3 months 34 13.5 3.3 15 12.6 3.4
+1 year 34 12.6 3.4 14 11.1 2.9
+K. Madigan et al. / Schizophrenia Research 143 (2013) 138–142 141
+cannabis use disorder did not meet SCID criteria for current substance
+dependence. We did not compare relapse between GPI and TAU
+due to variations in admission procedures between services in this
+multi-center trial; treatment for acute psychotic illness resulted in
+inpatient admission, acute day hospital and home based treatment
+in various centers.
+More RCTs of psychological interventions for those patients with
+early psychosis and concurrent cannabis dependence are required,
+given their generally poor long-term outcome. Future studies seeking
+to develop alternative engagement strategies that are both effective
+and acceptable to this challenging group of patients may first consider
+utilizing qualitative research techniques that elicit patient opinion
+and choice on this matter.
+Role of funding source
+This study was funded by the Health Research Board of Ireland.
+Contributors
+Kevin Madigan contributed to the conception and design of the study, collection,
+analysis and interpretation of the data, and drafted and revised the manuscript.
+Daria Brennan contributed to the conception and design of the study, assisted in
+drafting the manuscript, managed the literature searches and assisted in revising the
+manuscript.
+Elizabeth Lawlor and Niall Turner contributed to the conception and design of the
+study.
+Anthony Kinsella contributed to the analysis and interpretation of the data.
+John O'Connor and Vincent Russell contributed to the design of the study.
+John Waddington contributed to the conception and design of the study, analysis
+and interpretation of the data, revising the manuscript and final approval of the
+version to be published.
+Eadbhard O'Callaghan contributed to the conception and design of the study,
+collection, analysis and interpretation of the data; his tragic death precluded giving
+final approval of the version to be published.
+All authors have approved the final version.
+Conflict of interest
+The authors declare no conflict of interest.
+Acknowledgments
+We thank Dr Michael Doran for assistance with data collection and Dr Savio
+Sardinha, Mr Tommy McEnteggart and Ms Joey Kearney for their assistance with
+recruiting participants. The authors also wish to acknowledge Ms Felicity Fanning
+who assisted with manuscript preparation. Prof. Eadbhard O'Callaghan died in May
+2011.We dedicate this article to his inestimable life and work; may he rest in peace.
+References
+Addington, D., Addington, J., Schissel, B., 1990. A depression rating scale for schizophrenics. Schizophr. Res. 3, 247–251.
+Addington, D., Addington, J., Maticka-Tyndale, E., Joyce, J., 1992. Reliability and validity
+of a depression rating scale for schizophrenics. Schizophr. Res. 6, 201–208.
+Andreasen, N.C., 1983. The Scale for Assessment of Negative Symptoms (SANS).
+University of Iowa.
+Andreasen, N.C., 1984. The Scale for Assessment of Positive Symptoms (SAPS). University of Iowa.
+Barrowclough, C., Haddock, G., Tarrier, N., Lewis, S.W., Moring, J., O'Brien, R., et al.,
+2001. Randomized controlled trial of motivational interviewing, cognitive behavior
+therapy, and family intervention for patients with co-morbid schizophrenia and
+substance use disorders. Am. J. Psychiatry 158, 1706–1713.
+Barrowclough, C., Haddock, G., Lobban, F., Jones, S., Siddle, R., Roberts, C., Gregg, L.,
+2006. Group-cognitive behavioural therapy for schizophrenia. Randomised controlled trial. Br. J. Psychiatry 189, 527–532.
+Barrowclough, C., Haddock, G., Wykes, T., Beardmore, R., Conrod, P., Craig, T., et al.,
+2010. Integrated motivational interviewing and cognitive behavioral therapy for
+people with psychosis and comorbid substance misuse: randomized controlled
+trial. BMJ 341, c6325.
+Beiser, M., Erickson, D., Fleming, J.A., Iacono, W.G., 1993. Establishing the onset of
+psychotic illness. Am. J. Psychiatry 150, 1349–1354.
+Bellack, A., Bennett, M., Gearon, J., Brown, C., Yang, Y., 2006. A randomized clinical trial
+of a new behavioral treatment for drug abuse in people with severe and persistent
+mental illness. Arch. Gen. Psychiatry 63, 426–432.
+Birchwood, M., Drury, V., Healy, J., Macmillan, F., Slade, M., 1994. A self-report insight
+scale for psychosis: reliability, validity and sensitivity to change. Acta Psychiatr.
+Scand. 89, 62–67.
+Buckley, P.F., Miller, B.J., Lehrer, D.S., Castle, D.J., 2009. Psychiatric comorbidities and
+schizophrenia. Schizophr. Bull. 35, 383–402.
+Claussen, B., 1999. Alcohol disorders and re-employment in a 5 year follow up of long
+term employment. Addiction 94, 133–138.
+Cleary, M., Hunt, G.E., Matheson, S.L., Siegfried, N., Walter, G., 2008. Psychosocial
+interventions for people with both severe mental illness and substance misuse.
+Cochrane Database Syst. Rev. Issue 1. Art. No.: CD001088. http://dx.doi.org/10.1002/
+14651858.CD001088.pub2.
+Compton, M.T., Furman, A.C., Kaslow, N.J., 2004. Negative symptom scores among cannabis dependant with schizophrenia spectrum disorders: preliminary evidence
+from an African-American first episode sample. Schizophr. Res. 71, 61–64.
+Drake, R.E., Osher, F.C., 1991. Homelessness and dual diagnosis. Am. Psychol. 46,
+1149–1158.
+Edwards, J., Elkins, K., Hinton, M., Harrigan, S., Donovan, K., Athanasopolulos, O., et al.,
+2006. Randomized controlled trial of a cannabis-focused intervention for young
+people with first episode psychosis. Acta Psychiatr. Scand. 114, 109–117.
+Endicott, J., Spitzer, R.L., Fleiss, J.L., Cohen, J., 1976. The Global Assessment Scale: a
+procedure for measuring overall severity of psychiatric disturbance. Arch. Gen.
+Psychiatry 33, 97–100.
+First, M., Spitzer, R., Williams, J., Gibbon, M., 1995. Structured Clinical Interview for
+DSM-IV (SCID-I) Research Version. Biometrics Research, New York Psychiatric
+Institute.
+Haddock, G., Barrowclough, C., Tarrier, N., Moring, J., O'Brien, R., Schofield, N., et al.,
+2003. Cognitive–behavioral therapy and motivational intervention for schizophrenia and substance misuse: 18 month outcomes of a randomized controlled trial.
+Br. J. Psychiatry 183, 418–426.
+Hogan, T.P., Awad, A.G., Eastwood, R.A., 1983. A self report scale predictive of drug
+compliance in schizophrenics: reliability and discriminative validity. Psychol.
+Med. 13, 177–183.
+Isaac, M., Isaac, M., Holloway, F., 2005. Is cannabis an antipsychotic? The experience in
+psychiatric intensive care. Hum. Psychopharmacol. 20, 207–210.
+Kamali, M., Kelly, L., Gervin, M., Browne, S., Larkin, C., O' Callaghan, E., 2001. Insight
+and comorbid substance misuse and medication compliance among patients
+with schizophrenia. Psychiatr. Serv. 52, 161–166.
+Kessler, R.C., 1995. The national comorbidity survey, preliminary results and future
+directions. Int. J. Methods Psychiatr. Res. 5, 139–151.
+Koskinen, J., Lohonen, J., Koponen, H., Ioshanni, M., Miettunen, J., 2010. Rate of cannabis
+use disorders in clinical samples of patients with schizophrenia: a meta-analysis.
+Schizophr. Bull. 36, 1115–1130.
+Large, M., Sharma, S., Compton, M.T., Slade, T., Nielssen, O., 2011. Cannabis use and earlier
+onset of psychosis: systematic meta-analysis. Arch. Gen. Psychiatry 68, 555–561.
+Machielson, M., Van der Sluis, S., De han, L., 2010. Cannabis use in patients with a first
+episode psychosis and subjects at ultra-high risk of psychosis: impact on psychotic
+and pre-psychotic symptoms. Aust. N. Z. J. Psychiatry 44, 721–728.
+Malla, A.K., Norman, R.M., Williamson, P., 1993. Stability of positive and negative symptoms in schizophrenia. Can. J. Psychiatry 38, 617–621.
+Mclellan, A.T., Luberosky, L., Woody, G.E., O'Brien, C.P., 1980. An improved diagnostic
+evaluation instrument for substance abuse patients: the addiction severity index.
+J. Nerv. Ment. Dis. 168, 26–33.
+Melle, I., Haahr, U., Friis, S., Hustoft, K., Johannessen, J.O., Larsen, T.K., et al., 2005.
+Reducing the duration of untreated first-episode psychosis — effects on baseline
+social functioning and quality of life. Acta Psychiatr. Scand. 112, 469–473.
+Miller, W.R., Rollnick, S., 1991. Motivational Interviewing: Preparing People to Change
+Addictive Behavior. The Guilford Press.
+Miller, R., Ream, G., Mc Cormac, J., Gunduz-Bruce, H., Sevey, S., Robinson, O., 2009. A
+prospective study of cannabis use as a risk factor for non-adherence and treatment
+dropout in first episode schizophrenia. Schizophr. Res. 113, 138–144.
+Moore, T., Zammit, S., Lingford-Hughes, A., Barnes, T., Jones, P., Burke, M., 2007.
+Cannabis use and risk of psychotic or affective mental health outcomes: a systematic review. Lancet 370, 319–328.
+Norman, R., Malla, A.K., Cortese, L., Diaz, F., 1996. A study of the interrelationship
+between and the comparative interrater reliability of SAPS, SANS and PANSS.
+Schizophr. Res. 19, 73–85.
+Patterson, D.A., Lee, M.S., 1995. Field trial of the global assessment of functioning
+modified. Am. J. Psychiatry 152, 1386–1388.
+Skevington, S.M., Lofty, M., O'Connell, K.A., Who-QOL Group, 2004. The WHOQOL-BREF
+quality of life assessment; psychometric properties and results of the international
+field trial: a report from the WHOQOL group. Qual. Life Res. 13, 299–310.
+Wade, D., Harrigan, S., Edwards, S., Burgess, P.M., Whelan, G., Mcgorry, P.D., 2006.
+Course of substance misuse and daily tobacco use in first episode psychosis.
+Schizophr. Res. 81, 145–150.
+Zanis, D.A., Mclellan, A.T., Corse, S., 1997. Is the Addiction Severity Index a reliable and
+valid instrument among clients with severe and persistent mental illness and
+substance abuse disorders? Community Ment. Health J. 33, 213–227.
+142 K. Madigan et al. / Schizophrenia Research 143 (2013) 138–142

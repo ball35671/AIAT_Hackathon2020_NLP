@@ -1,0 +1,643 @@
+﻿Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=khvi19
+Download by: [NUS National University of Singapore] Date: 05 November 2015, At: 23:45
+Human Vaccines
+ISSN: 1554-8600 (Print) 1554-8619 (Online) Journal homepage: http://www.tandfonline.com/loi/khvi19
+Vaccine effectiveness against laboratoryconfirmed influenza in infants: A matched case
+control study
+Lauren W. Cochran, Steven Black, Nicola P. Klein, Cornelia L. Dekker, Edwin
+Lewis & Arthur L. Reingold
+To cite this article: Lauren W. Cochran, Steven Black, Nicola P. Klein, Cornelia L. Dekker, Edwin
+Lewis & Arthur L. Reingold (2010) Vaccine effectiveness against laboratory-confirmed influenza
+in infants: A matched case control study, Human Vaccines, 6:9, 729-735, DOI: 10.4161/
+hv.6.9.12470
+To link to this article: http://dx.doi.org/10.4161/hv.6.9.12470
+Published online: 01 Sep 2010.
+Submit your article to this journal
+Article views: 28
+View related articles
+Citing articles: 9 View citing articles 
+www.landesbioscience.com Human Vaccines 729
+Human Vaccines 6:9, 729-735; September 2010; © 2010 Landes Bioscience
+ Research paper Research Paper
+*Correspondence to: Lauren W. Cochran; Email: lauren_cochran@alumni.brown.edu
+Submitted: 09/06/09; Revised: 05/16/10; Accepted: 05/23/10
+Previously published online: www.landesbioscience.com/journals/vaccines/article/12470
+DOI: 10.4161/hv.6.9.12470
+Introduction
+Influenza is an important cause of morbidity and mortality in the
+US and abroad, affecting approximately 20% of children and 5%
+of adults worldwide each year.1
+ In the United States, influenzarelated mortality is highest among the elderly, but deaths attributable to influenza also occur in the pediatric population, with
+infants at greater risk than older children.2,3 Influenza-associated
+hospitalization rates among infants are comparable to rates in
+the elderly population, ranging from approximately 150/100,000
+person-years among otherwise healthy children to more than
+1,000/100,000 person-years among children under one year of
+age with high-risk medical conditions.4-6 Influenza also accounts
+for a significant number of pediatric outpatient clinic visits and
+emergency department visits each year, increased use of antibiotics and other medications and loss of productivity due to parent
+and caregiver absenteeism.7,8
+In 2003, the Advisory Committee on Immunization
+Practices (ACIP) began recommending annual vaccination of
+otherwise healthy infants 6 to 23 months of age for the prevention and control of influenza. In 2006, the ACIP expanded its
+Influenza is a common and potentially serious infection in infants. Previous studies of influenza vaccine in this age group
+have reported widely varying estimates of vaccine effectiveness, and few have used laboratory confirmation of influenza
+diagnoses. We evaluated the effectiveness of one and two doses of the trivalent inactivated vaccine against laboratoryconfirmed influenza in children aged 6 to 23 months within the Kaiser Permanente Northern California Medical Care
+Program for the 2003–2004, 2004–2005 and 2005–2006 influenza seasons. 1,648 children were included in the analyses,
+with an average of 4.5 controls matched to each of the 300 cases (213, 29 and 58 cases identified for each of the influenza
+seasons, respectively) based on birth month/year and zip code. Vaccination status was determined as of 14 days prior
+to the case patient’s positive test result. Conditional logistic regression was used to calculate vaccine effectiveness for
+each season, adjusting for chronic medical conditions and other possible confounders. During the 2005–2006 influenza
+season, when predominant circulating virus strains and vaccine strains were well-matched, vaccination was 76%
+(95% CI: 37–91%) effective against laboratory-confirmed infection. There was no statistically significant effect of
+vaccination, however, for the 2003–2004 or 2004–2005 seasons. Our results highlight the need for further study of
+influenza vaccine effectiveness in this age group.
+Vaccine effectiveness
+against laboratory-confirmed influenza in infants
+A matched case control study
+Lauren W. Cochran,1,* Steven Black,2
+ Nicola P. Klein,3 Cornelia L. Dekker,4 Edwin Lewis3
+ and Arthur L. Reingold5
+1
+Stanford University School of Medicine; Stanford, CA USA; 2
+Center for Global Child Health; Cincinnati Children’s Hospital; Cincinnati, OH USA; 3
+Kaiser Permanente Vaccine
+Study Center; Oakland, CA USA; 4
+Division of Pediatric Infectious Diseases; Stanford University School of Medicine; Stanford, CA USA; 5
+Division of Epidemiology;
+School of Public Health; University of California at Berkeley; Berkeley, CA USA
+Key words: influenza, vaccine effectiveness, pediatrics
+recommendations for influenza vaccination to include otherwise
+healthy children up to 5 years of age; in February 2008 this was
+extended to include all children and adolescents less than 18
+years.9
+ The recommendations state that children less than 9 years
+old who have not been vaccinated previously against influenza
+should receive two doses of the vaccine at least one month apart
+within the same influenza season. Children previously vaccinated
+against influenza need only receive a single dose.10
+Infants as young as 6 months old develop protective levels of antibody titers against influenza following vaccination,
+although two doses are required to produce an optimal response
+among children who have not been vaccinated previously.11-13
+Infants and young children also appear to produce a cellular
+immune response to vaccination.14,15 The effectiveness of the
+influenza vaccine in preventing clinical disease, however, is less
+clear in this population. The few published studies that have
+evaluated influenza vaccine in children less than 24 months of
+age have estimated the vaccine efficacy/effectiveness to range
+from -7% up to 52%, depending on a variety of factors including the outcome measured, the particular influenza season,
+and the number of vaccine doses.16,17 In contrast, studies of the
+effectiveness of influenza vaccination among older children
+Downloaded by [NUS National University of Singapore] at 23:45 05 November 2015 
+730 Human Vaccines Volume 6 Issue 9
+premature birth and low birth weight, routine infant immunization status and influenza vaccination status. Overall, asthma
+or reactive airway disease (documented on at least two separate
+occasions) accounted for 41% of chronic illnesses. For the 2003–
+2004 and 2005–2006 seasons, a higher percentage of case subjects had a chronic medical condition compared to controls (p =
+0.011 and p = 0.003, respectively), with asthma or reactive airway
+disease accounting for a significant proportion of this difference
+for the 2003–2004 season (p = 0.004). There were no differences
+between cases and controls in terms of premature birth, low birth
+weight or routine infant immunization status. Across all 3 influenza seasons, only 10.5% of the 1,648 children included in the
+study were fully vaccinated and 19.7% were partially vaccinated
+against influenza as of 14 days prior to the relevant test date.
+To investigate the effectiveness of influenza vaccine in preventing laboratory-confirmed disease, we performed univariate
+conditional logistic regression to assess the relationship between
+vaccination status and disease outcome for each influenza season (Table 3). A significant protective effect of the vaccine was
+seen only for the 2005–2006 influenza season, with an estimated
+vaccine effectiveness of 80% (95% CI 50–90%) for partially
+vaccinated children, 59% (95% CI 1–80%) for fully vaccinated
+children and 71% (95% CI 41–86%) for partially and fully vaccinated groups combined.
+We next performed multivariate conditional logistic regression to explore the relationship between influenza vaccination
+and laboratory-confirmed disease and to identify independent
+predictors of disease outcome (Table 3). For the 2003–2004
+season, 890 out of 1,164 subjects (76%) were included in the
+multivariate analysis, excluding any subject whose KPNC membership was not continuous from birth. For the 2004–2005 and
+2005–2006 seasons, 118 out of 153 subjects (77%) and 216 out
+of 331 subjects (65%) were included, respectively. Children with
+chronic medical conditions were more likely than healthy children to have a positive influenza test regardless of vaccination
+status for both the 2003–2004 season [adjusted OR (AOR) 1.84,
+95% CI 1.1–3.1] and the 2005–2006 season, with an AOR of
+3.66 (95% CI 1.3–10.7). We also found a statistically significant
+effect of male gender, with boys more likely than girls to have a
+positive influenza test during the 2005–2006 season [OR = 2.33
+(CI: 1.1–5.1)]. In our multivariate analyses, influenza vaccination was protective during the 2005–2006 season for partially
+vaccinated infants with a VE of 83% (95% CI 40–100%), and
+for partially and fully vaccinated subjects combined with a VE
+of 76% (95% CI 37–91%). There was a trend toward decreased
+incidence of disease among fully vaccinated subjects alone during
+this season, but the effect did not reach statistical significance
+(p = 0.053).
+Discussion
+Our results indicated a significant protective effect of the TIV
+against laboratory-confirmed influenza in children less than two
+years of age for only one of three successive influenza seasons.
+This apparent difference in vaccine effectiveness across influenza
+seasons fit well with KPNC data regarding the degree of match or
+have more consistently demonstrated a protective effect for the
+vaccine.18
+To evaluate influenza vaccine effectiveness among children
+in this youngest age group, we identified children aged 6 to
+23 months within the Northern California Kaiser Permanente
+Medical Care Program who tested positive for influenza during the years 2003–2006. Control subjects without a positive
+influenza test were matched to each of these cases based on birth
+month/year and zip code, and the vaccination status of each
+case and control subject was assessed. Here we report the vaccine effectiveness against laboratory-confirmed influenza infection among children 6 to 23 months of age for three consecutive
+influenza seasons.
+Results
+We identified 293 infants with positive influenza test results during the 2003–2004 season. Of these, we excluded 80 due to noncontinuous Kaiser Permanente Northern California (KPNC)
+membership or lack of appropriately matched controls, resulting
+in a total of 213 cases. For the 2004–2005 season, we identified 40 infants with positive influenza test results and excluded
+11 for similar reasons, resulting in a total of 29 cases. For the
+2005–2006 season, we identified 83 infants with positive influenza test results and excluded 25, resulting in a total of 58 cases.
+There were no significant differences in gender, chronic disease
+status or vaccination rates between included and excluded cases.
+For all 3 influenza seasons, the peak incidence of laboratoryconfirmed influenza in this study population was December, with
+the latest influenza cases identified in February, March and April,
+for the 2003–2004, 2004–2005 and 2005–2006 seasons, respectively. The vast majority of positive tests were for influenza A, with
+100% of cases detected by direct immunofluorescence antibody
+staining in 2003–2004, then moving toward a more even distribution of DFA-confirmed and culture-confirmed cases by 2005–
+2006 (Table 1). Viral culture is typically considered the gold
+standard for influenza diagnosis. Compared with viral culture,
+the sensitivity and specificity of DFA for detection of influenza
+in children have been estimated at 62% and 98%, respectively.19
+The shift in testing techniques over time is explained in part by
+the labor-intensive nature of DFA testing and was eventually followed by a switch to PCR testing by the end of 2006.
+Table 2 describes the distribution of case and control subjects
+according to gender, presence of a chronic medical condition,
+Table 1. Laboratory-confirmed influenza cases by type and testing
+method (N = 300)
+2003–2004 2004–2005 2005–2006 Overall
+Cases 213 29 58 300
+Influenza A + 213 (100%) 21 (72%) 51 (88%) 285 (95%)
+• DFA 213 (100%) 19 (65%) 27 (47%) 259 (86%)
+• viral culture - 2 (7%) 24 (41%) 26 (9%)
+Influenza B + 0 (0%) 8 (28%) 7 (12%) 15 (5%)
+• DFA - 4 (14%) 2 (3%) 6 (2%)
+• viral culture - 4 (14%) 5 (9%) 9 (3%)
+Downloaded by [NUS National University of Singapore] at 23:45 05 November 2015 
+www.landesbioscience.com Human Vaccines 731
+US studies that specifically assess influenza vaccine efficacy/
+effectiveness in children under two. Hoberman et al. published
+the results of a randomized controlled trial aimed at evaluating the efficacy of the TIV in preventing acute otitis media in
+children aged 6 to 24 months. They reported a vaccine efficacy
+against culture-confirmed influenza of 66% for the 1999–2000
+influenza season (95% CI 34–82%) but -7% for 2000–2001
+mismatch between vaccine strains and predominant circulating
+strains of the virus, with a much better match for 2005–2006,
+during which vaccine efficacy was demonstrated, than for either
+of the previous two seasons.
+Overall, our results are in accord with previous research
+indicating a variable effect of the influenza vaccine in this age
+group. To our knowledge, there have only been a few major
+Table 2. Characteristics of influenza case patients and age-matched control subjects according to influenza season (N = 1,648)
+2003–2004 season 2004–2005 season 2005–2006 season
+Cases
+(n = 213)
+Controls
+(n = 951) p
+Cases
+(n = 29)
+Controls
+(n = 124) p
+Cases
+(n = 58)
+Controls
+(n = 273) p
+Male Gender 118 (55%) 476 (50%) 0.172 17 (59%) 66 (53%) 0.681 37 (64%) 126 (46%) 0.020
+Chronic Disease:
+Yes 32 (15%) 86 (9%)
+0.011
+4 (14%) 18 (14%)
+1.000
+14 (24%) 25 (9%)
+No 149 (70%) 725 (76%) 20 (69%) 89 (72%) 36 (62%) 208 (76%) 0.003
+Missing Data 32 (15%) 140 (15%) 5 (17%) 17 (14%) 8 (14%) 40 (15%)
+Asthma/RAD 19 (9%) 36 (4%) 0.004 4 (14%) 7 (6%) 0.222 8 (13%) 18 (7%) 0.101
+Premature
+(<37 weeks) 17 (8%) 51 (5%) 0.143 2 (7%) 10 (8%) 1.000 4 (7%) 18 (7%) 1.000
+Low Birth Weight
+(<2,500 grams) 13 (6%) 45 (5%) 0.383 0 (0%) 8 (7%) 0.355 3 (5%) 16 (6%) 1.000
+Missing Data 29 (14%) 124 (13%) - 2 (7%) 14 (11%) - 14 (24%) 77 (28%) -
+Routine Infant Immunization Status:
+Up to Date 130 (61%) 567 (60%)
+1.000
+5 (17%) 24 (19%)
+1.000
+11 (19%) 45 (17%)
+Not Up to Date 69 (32%) 305 (32%) 19 (66%) 85 (69%) 39 (67%) 195 (71%) 0.561
+Missing Data 14 (7%) 79 (8%) 5 (17%) 15 (12%) 8 (14%) 33 (12%)
+Influenza Vaccination Status:
+Fully Vaccinated 14 (7%) 66 (7%)
+-
+7 (24%) 21 (17%)
+-
+8 (14%) 57 (21%)
+- Partially
+Vaccinated 32 (15%) 159 (17%) 10 (35%) 47 (38%) 5 (9%) 72 (26%)
+Unvaccinated 167 (78%) 726 (76%) 12 (41%) 56 (45%) 45 (78%) 144 (53%)
+Table 3. Univariate conditional logistic regression analysis of laboratory-confirmed influenza by vaccination status and multivariate analysis adjusting
+for gender, chronic disease status, premature birth/low birth weight and routine infant immunization status
+2003–2004 2004–2005 2005–2006
+Unadjusted VE [95% CI] Unadjusted VE [95% CI] Unadjusted VE [95% CI]
+Vaccination Status
+Partially vaccinated vs. unvaccinated VE 15% [-
+30–50%] VE 8% [-
+150–70%] VE 80% [50–90%]**
+Fully vaccinated vs. unvaccinated VE 5% [-
+80–50%] VE -50% [-
+350–50%] VE 59% [1–80%]*
+Partially + fully vaccinated vs. unvaccinated VE 12% [-
+29–40%] VE -14% [-
+127–52%] VE 71% [41–86%]**
+Adjusted VE [95% CI] Adjusted VE [95% CI] Adjusted VE [95% CI]
+Vaccination Status
+Partially vaccinated vs. unvaccinated VE 7% [-
+60–50%] VE -210% [-
+1370–30%] VE 83% [40–100%]**
+Fully vaccinated vs. unvaccinated VE 10% [-
+90–60%] VE -186% [-
+1130–30%] VE 63% [-
+30–90%]
+Partially + fully vaccinated vs. unvaccinated VE 8% [-
+45–42%] VE -197% [-
+940–16%] VE 76% [37–91%]**
+OR [95% CI] OR [95% CI] OR [95% CI]
+Chronic Medical Condition 1.84 [1.1–3.1]* 1.48 [0.3–6.4] 3.66 [1.3–10.7]*
+Gender (male vs. female) 1.13 [0.8–1.6] 1.67 [0.6–4.7] 2.33 [1.1–5.1]*
+*
+p < 0.05; **p < 0.01.
+Downloaded by [NUS National University of Singapore] at 23:45 05 November 2015 
+732 Human Vaccines Volume 6 Issue 9
+We did not restrict our control group to include only those
+individuals with a negative influenza test during the given season
+because this would have severely limited the number of controls
+available to match and also because one negative influenza test
+would not preclude the possibility that an individual was infected
+with influenza at another point during the season. However, by
+limiting cases to those patients with laboratory-confirmed infection, we increased our ability to detect an effect of the vaccine
+by only counting cases of influenza-like illness actually documented as being caused by influenza. Finally, we acknowledge
+the limitations posed by lack of access to data regarding symptoms prompting influenza testing. We recognize that every parent has different criteria for seeking medical attention for a child
+with febrile respiratory illness, and every clinician has different
+criteria for performing influenza testing. This is complex issue, a
+full discussion of which is beyond the scope of this paper, but a
+strength of our study is that it reflects the results of populationbased vaccination and influenza testing practices.
+A 2006 Cochrane review of influenza vaccination in healthy
+children concludes that “[n]ational policies for the vaccination
+of healthy young children are based on very little evidence” and
+that, for children under two, the little evidence available suggests that TIV efficacy is similar to placebo.24 Several of the more
+recent studies described above lend support to the idea that two
+doses of the vaccine can provide infants with significant protection against influenza infection. In our study, even one dose was
+effective when there was a good match between the vaccine strains
+and the predominant circulating strains in the community. When
+the match is off, however, our data suggest that vaccination may
+do little to protect infants from infection. Several recent reviews
+and a meta-analysis have confirmed that the protective effect of
+influenza vaccination in children increases with increasing age
+meaning, in general, that those at highest risk of influenza-related
+complications and death are least likely to respond to inactivated
+vaccine.18,25,26 The question arises, then: how can we do better?
+One option is to use a different vaccine. The live attenuated
+influenza vaccine (LAIV) is not currently licensed for children
+under the age of two because preliminary studies found an
+increased incidence of reactive airway disease among children in
+this age group vaccinated with LAIV.27 Recent studies, however,
+indicate that LAIV is quite efficacious in young children, likely
+more so than TIV, even against drifted strains. Symptoms such
+as runny nose and nasal congestion were more common in the
+LAIV groups, but for children older than 12 months with no history of reactive airway disease, there was no increase in wheezing
+following LAIV administration.28-30 In October 2007, the ACIP
+recommend expanding the use of LAIV to include healthy children ages 2–4 years old without a history of asthma or recurrent
+wheezing.31 Further studies may confirm that LAIV is a better
+alternative for at least a subset of even younger children.
+Another option is to rely on herd immunity to protect those
+at greatest risk. Rates of influenza infection are highest among
+school-age children, and it is these children who are largely
+responsible for the spread of influenza within communities.32 An
+idea that has gained recent attention is that vaccinating otherwise
+healthy school-age children against influenza could potentially
+(95% CI -247%–67%), a difference due at least in part to varying
+influenza attack rates.16 In 2005, Ritzwoller and colleagues published a retrospective cohort study of influenza vaccine effectiveness in preventing medically attended influenza-like illness (ILI)
+and pneumonia and influenza (P&I). According to their report,
+vaccine effectiveness for fully vaccinated infants was 25% against
+ILI (95% CI 0–44%) and 49% against P&I (95% CI 9–71%).
+For partially vaccinated infants, however, there was no statistically significant reduction in either ILI or P&I rates.20 A 2006
+report by Allison et al. supported these findings.21 More recently,
+Shuler and colleagues published the results of a case control study
+of influenza vaccine effectiveness against laboratory-confirmed
+influenza during the 2003–2004 influenza season. In the 6 to 23
+months age group, vaccine effectiveness was 52% for fully vaccinated children but, again, there was no significant reduction
+in influenza for partially vaccinated children.17 A 2008 study by
+Eisenberg et al. replicated this result of reduced influenza-related
+medical visits among fully vaccinated patients 6 to 59 months
+of age for one of the two seasons under study (2004–2005), but
+demonstrated no protective effect of partial vaccination for the
+2003–2004 season or the 2004–2005 season.22 And in a casecohort study of the same age group and same two influenza seasons, Szilagyi et al. found no significant protection conferred by
+vaccination.23
+In our study, it is evident that the power to detect a significant
+effect of the vaccine (as judged by the 95% confidence intervals
+for vaccine effectiveness) was less than ideal, particularly for the
+first two seasons under study. A contributing factor to the lack
+of statistical power was the smaller sample size for the 2004–
+2005 season. Given the relatively constant number of infants
+and young children enrolled in the system, it is unclear why we
+saw discrepancies in the number of influenza cases identified in
+2003–2004 versus in the latter two seasons (even accounting for
+higher influenza attack rates seen across the country for 2003–
+2004). The power of our study was also limited by relatively low
+vaccine coverage, starting close to 25% (including both fully and
+partially vaccinated children) for the first year the new ACIP recommendation was in effect, and approaching 50% for the subsequent seasons. This is relatively consistent with national data
+published in the MMWR citing 33% influenza vaccine coverage
+among infants 6 to 23 months of age.10 The lower number of fully
+vaccinated patients also likely contributed to our counterintuitive
+finding that partial vaccination, but not complete vaccination,
+provided statistically significant protection during the 2005–
+2006 season. Incomplete data on birth weight, gestational age,
+chronic disease status and routine infant immunizations limited
+the power of our multivariate analysis, though this represented
+less than 25% of subjects for the first two seasons. In addition,
+our study was non-randomized, leading to possible selection bias
+with respect to which patients received the vaccine and, because
+control subjects were not necessarily tested for influenza, might
+have allowed for some misclassification bias. Another potential
+source of misclassification bias was the predominant use of DFA
+testing (vs. viral culture) during the first two seasons under study
+which, due to its lower sensitivity, may have led to an underestimate of VE for those seasons.
+Downloaded by [NUS National University of Singapore] at 23:45 05 November 2015 
+www.landesbioscience.com Human Vaccines 733
+Circulating virus and vaccine strains. For the 2003–2004
+season, the trivalent inactivated influenza vaccine for the U.S.
+included A/Panama (H3N2), A/New Caledonia (H1N1), and
+B/Hong Kong virus strains. With the emergence of the drifted
+Fujian/411/2002 (H3N2) strain, which accounted for the majority of influenza A cases in California and throughout the country,
+this season’s vaccine provided limited protection against predominant circulating strains of the virus. The 2004–2005 U.S.
+vaccine, which included A/New Caledonia/20/1999 (H1N1),
+A/Wyoming/3/2003 (H3N2) and B/Jiangsu/10/2003 strains,
+was also a poor match with 71% of influenza A specimens tested by
+the state lab representing a drifted California strain [unpublished
+data]. For the 2005–2006 season, however, the vaccine included
+A/New Caledonia/20/1999 (H1N1), A/California/7/2004 (or
+the antigenically equivalent A/New York/55/2004, both H3N2)
+and B/Jiangsu/10/2003 strains, and provided a good match with
+predominant circulating virus strains aside from a small outbreak
+of a B/Malaysia strain that occurred in California around week
+12 of the influenza season.
+Vaccination status. Based on the KPNC immunization tracking system, influenza vaccination status was determined for each
+case and control subject according to the following criteria:
+• Fully Vaccinated: patient received two doses of the influenza
+vaccine—at least one month apart—between September 1st of
+the current influenza season and 14 days prior to the relevant test
+date (the date of the positive influenza test for the case subject
+and for matched control subjects) or patient received at least one
+dose of the vaccine during the previous influenza season as well
+as one dose during the current season between September 1st and
+14 days prior to the relevant test date.
+• Partially Vaccinated: patient received only one of the two
+recommended doses of the influenza vaccine between September
+1st and 14 days prior to the relevant test date and did not receive
+a dose during the previous influenza season.
+• Unvaccinated: patient received zero doses of the influenza
+vaccine between September 1st and 14 days prior to the relevant
+test date (patient may or may not have been vaccinated during the
+previous influenza season).
+All children immunized during this time received the trivalent inactivated influenza vaccine (TIV).
+Covariates. In addition to influenza vaccination status and
+laboratory-confirmed disease outcome, we also looked at a number of covariates that we might expect to influence vaccination
+rates, rates of influenza infection or both:
+(1) Chronic medical conditions. The ACIP has identified groups
+of people who, based on the presence of certain underlying medical conditions, are recommended to receive annual influenza
+vaccination regardless of age due to increased risk of influenzarelated complications.10 We reviewed ICD-9 codes associated
+with all inpatient and outpatient KPNC visits for both case and
+control subjects to identify children with these conditions, such
+as chronic pulmonary disease (including asthma or reactive airway disease, documented on at least two separate occasions),
+chronic cardiovascular, renal, hepatic, hematologic or metabolic
+disorders, immunosuppressive conditions and neurologic/neuromuscular disorders.
+reduce flu-related morbidity and mortality in the population as a
+whole, perhaps even more effectively than increasing vaccination
+coverage among at-risk groups themselves. This approach is supported both by epidemiologic studies and mathematical models,
+as well as analyses of cost-effectiveness.33-36 If parents and clinicians follow the current ACIP recommendation of annual vaccination for all children and adolescents, in addition to vaccination
+of household contacts of the youngest children, one would hope
+to see a significant decrease in influenza-related morbidity and
+mortality in all age groups.
+Materials and Methods
+Study population. Children between the ages of 6 and 23
+months as of September 1st of the given influenza season who had
+been continuously enrolled as KPNC members since 6 months
+of age were eligible for inclusion in the study. The total number
+of enrolled children less than 2 years of age in the KPNC system
+remained relatively constant across influenza seasons at approximately 65,000. The study was approved by the Institutional
+Review Boards of KPNC, University of California Berkeley, and
+Stanford University.
+Study design. For this case control study, we defined our
+study period as September 1st through May 1st for each of the
+three influenza seasons (2003–2004, 2004–2005 and 2005–
+2006). Surveillance was extended through May 1st based on
+KPNC data indicating a late peak in influenza B activity during
+the 2005–2006 season. We defined a case as having a laboratory-confirmed positive influenza test during the study period
+by at least one of the following methods: viral culture, immunofluorescence antibody staining (DFA or IFA), reverse transcriptase polymerase chain reaction or any commercially available
+rapid diagnostic test for influenza. We elected to include all testing methods available in order to capture as many laboratoryconfirmed cases as possible, and acknowledge that this would
+preclude having culture confirmation of each infecting strain.
+Influenza testing was performed as clinically indicated at the
+discretion of each clinician. We assumed that children tested
+for influenza had symptoms suggestive of infection although,
+because testing was at the discretion of the clinician, it is possible that a proportion of children with URI symptoms were not
+tested for influenza.
+We identified cases through database review of KPNC laboratory records, and only the first positive influenza test for each
+infant in each influenza season was considered. Controls did not
+have a positive test for influenza and were matched with cases by
+birth month and year as well as zip code as of February of the
+given year. Whenever more than five controls per case were identified, five were randomly selected to act as controls. Whenever
+two or more cases in a given flu season shared the same birth
+month, birth year and zip code, matched controls were randomly
+divided between the cases. Based on our preliminary power calculations, assuming three cases per control and a 50% prevalence
+of exposure among control subjects, we estimated that we would
+need 100 cases per season to detect a vaccine effectiveness of 50%
+with 80% power.
+Downloaded by [NUS National University of Singapore] at 23:45 05 November 2015 
+734 Human Vaccines Volume 6 Issue 9
+Statistical analysis. We used conditional logistic regression
+to analyze the relationship between influenza vaccination status
+and laboratory-confirmed influenza. To generate an unadjusted
+odds ratio (OR) and 95% confidence interval (CI) for laboratory-confirmed disease, matched analyses examined flu vaccination
+status and influenza disease for each season. We also performed
+multivariate conditional logistic regression to adjust for gender,
+chronic disease status, premature birth, low birth weight and routine infant immunization status. Preliminary analysis included a
+main effects term for each of these possible confounders as well
+as an interaction term for the confounder with influenza vaccination status. We excluded any non-significant interactions in the
+preliminary analysis (p > 0.05) from the final model. We calculated the vaccine effectiveness using the unadjusted or adjusted
+OR, where VE = [1 - OR] * 100, and used SAS Enterprise Guide
+(version 4.1) for all analyses.
+Acknowledgements
+We would like to thank Bruce Fireman and Wayne Enanoria for
+their advice regarding study design and data analysis, Raymond
+Balise for his assistance with statistical programming, and Alex
+McMillan for his input regarding power analysis.
+(2) Premature birth and low birth weight. We examined KPNC
+data on gestational age and birth weight to identify premature
+and low birth weight infants (defined as <37 weeks gestation and
+<2,500 grams, respectively) who might be at increased risk of
+influenza infection or influenza-related complications.
+(3) Routine infant immunization status. As an indicator of overall healthcare utilization, we reviewed complete immunization
+records for all case and control patients, and assessed whether
+or not each child was up to date on these routine infant immunizations. Children between 6 and 23 months of age as of the
+positive influenza test date for the case subject were considered up
+to date if they received at least 3 doses of diphtheria-containing
+vaccines by 7 months of age. Children 24 months and older as of
+the relevant test date were considered up to date if they received
+at least one measles, mumps and rubella vaccine and 4 doses of
+Haemophilus influenza type b-containing vaccines by 24 months
+of age.
+Although most case and control subjects were continuously
+enrolled as KPNC members from birth through the relevant test
+date, those who were not were excluded from multivariate analyses due to the possibility of missing data regarding chronic medical conditions and immunization records.
+References
+1. Turner D, Wailoo A, Nicholson K, Cooper N, Sutton
+A, Abrams K. Systematic review and economic decision
+modeling for the prevention and treatment of influenza
+A and B. Health Technol Assess 2003; 7:1-170.
+2. Thompson WW, Shay DK, Weintraub E, Brammer L,
+Cox N, Anderson LJ, et al. Mortality associated with
+influenza and respiratory syncytial virus in the United
+States. JAMA 2003; 289:179-86.
+3. Thompson WW, Shay DK, Weintraub E, Brammer
+L, Bridges CB, Cox NJ, et al. Influenza-associated
+hospitalizations in the United States. JAMA 2004;
+292:1333-40.
+4. Neuzil KM, Wright PF, Mitchel EF Jr, Griffin MR.
+The burden of influenza illness in children with asthma
+and other chronic medical conditions. J Pediatr 2000;
+137:856-64.
+5. Izurieta HS, Thompson WW, Kramarz P, Shay DK,
+Davis RL, DeStefano F, et al. Influenza and the rates
+of hospitalization for respiratory disease among infants
+and young children. N Engl J Med 2000; 342:232-9.
+6. Neuzil KM, Mellen BG, Wright PF, Mitchel EF, Griffin
+MR. The effect of influenza on hospitalizations, outpatient visits and courses of antibiotics in children. N
+Engl J Med 2000; 342:225-31.
+7. Poehling KA, Edwards KM, Weinberg GA, Szilagyi
+P, Staat MA, Iwane MK, et al. The underrecognized
+burden of influenza in young children. N Engl J Med
+2006; 355:31-40.
+8. Meier CR, Napalkov PN, Wegmuller Y, Jefferson T,
+Jick H. Population-based study on incidence, risk factors, clinical complications and drug utilization associated with influenza in the United Kingdom. Eur J Clin
+Microbiol Infect Dis 2000; 19:834-42.
+9. Centers for Disease Control and Prevention. CDC’s
+Advisory Committee recommends influenza vaccination for children 6 months through 18 years of age.
+February 27, 2008. Available at: http://www.cdc.gov/
+media/pressrel/2008/r080227.htm. Accessed March
+12, 2008.
+10. Centers for Disease Control and Prevention. Prevention
+and control of influenza—recommendations of the
+Advisory Committee on Immunization Practices.
+MMWR 2007; 56:1-54.
+11. Gonzalez M, Pirez MC, Ward E, Dibarboure H, Garcia
+A, Picolet H. Safety and immunogenicity of a paediatric presentation of an influenza vaccine. Arch Dis Child
+2000; 83:488-91.
+12. Daubeney P, Taylor CJ, McGaw J, Brown EM, Ghosal
+S, Keeton BR, et al. Immunogenicity and tolerability
+of a trivalent influenza subunit vaccine (Influvac) in
+high-risk children aged 6 months to 4 years. Br J Clin
+Pract 1997; 51:87-90.
+13. Neuzil KM, Jackson LA, Nelson J, Klimov A, Cox N,
+Bridges CB, et al. Immunogenicity and reactogenicity
+of 1 versus 2 doses of trivalent inactivated influenza
+vaccine in vaccine-naïve 5–8-year-old children. J Infect
+Dis 2006; 194:1032-9.
+14. He XS, Holmes TH, Zhang C, Mahmood K, Kemble
+GW, Lewis DB, et al. Cellular immune responses in
+children and adults receiving inactivated or live attenuated influenza vaccines. J Virol 2006; 80:11756-66.
+15. Mbawuike IN, Piedra PA, Cate TR, Couch RB.
+Cytotoxic T lymphocyte responses of infants after
+natural infection or immunization with live coldrecombinant or inactivated influenza A virus vaccine. J
+Med Virol 1996; 50:105-111.
+16. Hoberman A, Greenberg DP, Paradise JL, Rockette
+HE, Lave JR, Kearney DH, et al. Effectiveness of
+inactivated influenza vaccine in preventing acute otitis
+media in young children. JAMA 2003; 290:1608-16.
+17. Shuler CM, Iwamoto M, Bridges CB, Marin M,
+Neeman R, Gargiullo P, et al. Vaccine effectiveness
+against medically attended, laboratory-confirmed influenza among children aged 6 to 59 months, 2003–2004.
+Pediatrics 2007; 119:587-95.
+18. Jefferson T, Smith S, Demicheli V, Harnden A, Rivetti
+A, Di Pietrantonj C. Assessment of the efficacy and
+effectiveness of influenza vaccines in health children:
+systematic review. Lancet 2005; 365:773-80.
+19. Uyeki TM. Influenza diagnosis and treatment in children: a review of studies on clinically useful tests and
+antiviral treatment for influenza. Pediatr Infect Dis J
+2003; 22:164-77.
+20. Ritzwoller DP, Bridges CB, Shetterly S, Yamasaki K,
+Kolczak M, France EK. Effectiveness of the 2003–2004
+influenza vaccine among children 6 months to 8 years
+of age, with 1 vs. 2 doses. Pediatrics 2005; 116:153-9.
+21. Allison MA, Daley MF, Crane LA, Barrow J, Beaty
+BL, Allred N, et al. Influenza vaccine effectiveness
+in healthy 6-to 21-month-old children during the
+2003–2004 season. J Pediatr 2006; 149:755-62.
+22. Eisenberg KW, Szilagyi PG, Fairbrother G, Griffin MR,
+Staat M, Shone LP, et al. Vaccine effectiveness against
+laboratory-confirmed influenza in children 6 to 59
+months of age during the 2003–2004 and 2004–2005
+influenza seasons. Pediatrics 2008; 122:911-9.
+23. Szilagyi PG, Fairbrother G, Griffin MR, Hornung RW,
+Donauer S, Morrow A, et al. Influenza vaccine effectiveness among children 6 to 59 months of age during
+2 influenza seasons: a case-cohort study. Arch Pediatr
+Adolesc Med 2008; 162:943-51.
+24. Smith S, Demicheli V, Di Pietrantonj C, Harnden AR,
+Jefferson T, Matheson NJ, et al. Vaccines for preventing
+influenza in healthy children. Cochrane Database Syst
+Rev 2006; 004879.
+25. Zangwill KM, Belshe RB. Safety and efficacy of trivalent inactivated influenza vaccine in young children: a
+summary for the new era of routine vaccination. Pediatr
+Infect Dis J 2004; 23:189-200.
+26. Manzoli L, Schioppa F, Boccia A, Villari P. The efficacy
+of influenza vaccine for healthy children: a meta-analysis evaluating potential sources of variation in efficacy
+estimates including study quality. Pediatr Infect Dis J
+2007; 26:97-106.
+27. Bergen R, Black S, Shinefield H, Lewis E, Ray P,
+Hansen J, et al. Safety of cold-adapted live attenuated
+influenza vaccine in a large cohort of children and
+adolescents. Pediatr Infect Dis J 2004; 23:138-44.
+28. Belshe RB, Edwards KM, Vesikari T, Black SV, Walker
+RE, Hultquist M, et al. Live attenuated versus inactivated influenza vaccine in infants and young children.
+N Engl J Med 2007; 356:685-96.
+29. Vesikari T, Fleming DM, Aristegui JF, Vertruyen A,
+Ashkenazi S, Rappaport R, et al. Safety, efficacy and
+effectiveness of cold-adapted influenza vaccine-trivalent
+against community-acquired, culture-confirmed influenza in young children attending day care. Pediatrics
+2006; 118:2298-312.
+30. Tam JS, Capeding MR, Lum LC, Chotpitayasunondh
+T, Jiang Z, Huang L, et al. Efficacy and safety of a live
+attenuated, cold-adapted influenza vaccine, trivalent
+against culture-confirmed influenza in young children
+in Asia. Pediatr Infect Dis J 2007; 26:619-28.
+Downloaded by [NUS National University of Singapore] at 23:45 05 November 2015 
+www.landesbioscience.com Human Vaccines 735
+36. Longini IM, Halloran ME, Nizam A, Wolff M,
+Mendelman M, Fast PE, et al. Estimation of the
+efficacy of live, attenuated influenza vaccine from a
+two-year, multi-center vaccine trial: implications for
+influenza epidemic control. Vaccine 2000; 18:1902-9.
+34. Cohen J. Vaccine policy: immunizing kids against flu
+may prevent deaths among the elderly. Science 2004;
+306:1123.
+35. Piedra PA, Gaglani MJ, Kozinetz CA, Herschler G,
+Riggs M, Griffith M, et al. Herd immunity in adults
+against influenza-related illnesses with use of the
+trivalent-live attenuated influenza vaccine (CAIV-T) in
+children. Vaccine 2004; 23:1540-8.
+31. Centers for Disease Control and Prevention. Expansion
+of use of live attenuated influenza vaccine (FluMist)
+to children aged 2–4 years and other FluMist changes
+for the 2007–08 influenza season. MMWR 2007;
+56:1217-9.
+32. Jordan R, Connock M, Albon E, Fry-Smith A,
+Olowokure B, Hawker J, et al. Universal vaccination
+of children against influenza: are there indirect benefits
+to the community? A systematic review of the evidence.
+Vaccine 2006; 24:1047-62.
+33. Reichert TA, Sugaya N, Fedson DS, Glezen P, Simonsen
+L, Tashiro M. The Japanese experience with vaccinating
+schoolchildren against influenza. N Engl J Med 2001;
+344:889-96.
+Downloaded by [NUS National University of Singapore] at 23:45 05 November 2015 

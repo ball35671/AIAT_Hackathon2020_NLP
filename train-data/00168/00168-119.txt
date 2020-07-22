@@ -1,0 +1,578 @@
+714 l AUGUST JOGC AOÛT 2012
+Obstetrics
+Key Words: Influenza vaccine, pregnancy, neonatal outcomes,
+odds ratios
+Competing Interests: None declared.
+Received on March 9, 2012
+Accepted on April 27, 2012
+The Association Between Influenza Vaccine in
+Pregnancy and Adverse Neonatal Outcomes
+Linda Dodds, PhD,1,2,3,4 Noni MacDonald, MD,1,4 Jeffrey Scott, MD,1,4 Anne Spencer, MSc,3
+Victoria M. Allen, MD, MSc,1,2 Shelly McNeil, MD1,4,5
+1
+Canadian Center for Vaccinology, Halifax NS
+2
+Department of Obstetrics and Gynaecology, Dalhousie University, Halifax NS
+3
+Perinatal Epidemiology Research Unit, IWK Health Centre, Halifax NS
+4
+Department of Pediatrics, Dalhousie University, Halifax NS
+5
+Department of Medicine, Dalhousie University, Halifax NS
+J Obstet Gynaecol Can 2012;34(8):714–720
+Abstract
+Objective: To determine whether neonatal outcomes differ between
+women vaccinated during pregnancy and those not vaccinated.
+Methods: Self-reported history of receipt of influenza vaccination
+during pregnancy was collected from women at the time of
+admission for obstetrical delivery at the IWK Health Centre in
+Halifax, Nova Scotia, beginning in April 2006. The cohort for this
+study included women who delivered a singleton infant prior to
+November 2009, reflecting the pre-pandemic H1N1 vaccination
+period. Neonatal outcomes were compared using logistic
+regression between vaccinated and non-vaccinated women.
+Results: Overall, 1957 of 9781 women (20%) included in the cohort
+received influenza vaccine during their pregnancy. The adjusted
+odds ratio and 95% confidence interval for a small for gestational
+age infant (lowest 10th percentile birth weight for gestational age
+and sex) was 0.80 (95% CI 0.65 to 0.95) for vaccinated women
+relative to non-vaccinated women. The adjusted odds ratio for
+a low birth weight infant was 0.74 (95% CI 0.58 to 0.95). Rates
+of preterm birth and a composite indicator of adverse neonatal
+outcomes were lower among vaccinated women, but were not
+statistically significant. The effects of maternal vaccination on
+neonatal outcomes did not differ between high- and low-risk
+women.
+Conclusion: As evidence continues to mount in support of improved
+neonatal outcomes associated with receiving influenza vaccination
+during pregnancy, enhanced public health measures are
+necessary to encourage pregnant women to receive the influenza
+vaccine.
+Résumé
+Objectif : Déterminer si les femmes vaccinées pendant la grossesse
+connaissent des issues néonatales différentes de celles que
+connaissent les femmes n’ayant pas été vaccinées.
+Méthodes : Les antécédents autosignalés de vaccination antigrippale
+pendant la grossesse ont été recueillis auprès de femmes au
+moment de leur hospitalisation en vue d’un accouchement
+obstétrical au IWK Health Centre de Halifax, en Nouvelle-Écosse, et
+ce, à partir d’avril 2006. La cohorte utilisée aux fins de cette étude
+comprenait des femmes ayant accouché à la suite d’une grossesse
+monofœtale avant novembre 2009, ce qui reflétait la période de
+vaccination anti-H1N1 pré-pandémique. Les issues néonatales
+ont été comparées au moyen d’une régression logistique entre les
+femmes vaccinées et les femmes non vaccinées.
+Résultats : En tout, 1 957 des 9 781 femmes (20 %) faisant partie de
+la cohorte ont reçu un vaccin antigrippal pendant leur grossesse.
+Le rapport de cotes corrigé et l’intervalle de confiance à 95 %
+étaient, en ce qui concerne un enfant présentant une hypotrophie
+fœtale (poids de naissance se situant dans le 10e
+ percentile
+le plus faible, en fonction de l’âge gestationnel et du sexe), de
+0,80 (IC à 95 %, 0,65 - 0,95) chez les femmes vaccinées, par
+comparaison avec les femmes non vaccinées. Le rapport de cotes
+corrigé était, en ce qui concerne un enfant présentant un faible
+poids de naissance, de 0,74 (IC à 95 %, 0,58 - 0,95). Les taux
+d’accouchement préterme et un indicateur composite d’issues
+néonatales indésirables étaient plus faibles chez les femmes
+vaccinées, mais n’étaient pas significatifs sur le plan statistique.
+En ce qui concerne les effets de la vaccination maternelle sur les
+issues néonatales, aucune différence n’a été constatée entre les
+femmes exposées à des risques élevés et les femmes n’étant
+exposées qu’à de faibles risques.
+Conclusion : Puisque les données indiquant une amélioration des
+issues néonatales chez les femmes qui ont reçu une vaccination
+antigrippale pendant la grossesse ne cessent de s’accumuler, la
+mise en œuvre de mesures de santé publique améliorées s’avère
+nécessaire pour inciter les femmes enceintes à recevoir le vaccin
+antigrippal.
+AUGUST JOGC AOÛT 2012 l 715
+The Association Between Influenza Vaccine in Pregnancy and Adverse Neonatal Outcomes
+INTRODUCTION
+I
+nfluenza viruses are the most common cause of
+serious wintertime respiratory morbidity in Canada and
+throughout the world. During seasonal influenza epidemics,
+which occur almost every winter in North America, an
+estimated 7% to 20% of the working adult population
+become ill.1
+ Although there are case reports of fatal and
+near-fatal influenza infections occurring in pregnant
+women during intra-pandemic influenza seasons,2
+ the
+true impact of influenza on pregnant women during nonpandemic influenza seasons is less clear. In 1998, Neuzil
+and colleagues published a 19-year retrospective cohort
+study in a Tennessee Medicaid population and found an
+increased risk of hospitalization during influenza season
+in all trimesters of pregnancy.3
+ In their study, for every
+10 000 women in their third trimester without medical
+comorbidities, an average excess of 25 hospitalizations per
+year for influenza-related morbidity was observed during
+influenza seasons.3
+ Two Canadian studies reported similar
+findings.4,5 In one of these, investigators using Canadian
+Institute for Health Information hospital discharge data
+found that during the four-week peak of influenza activity
+in each year from 1994 to 1999, 60% of admissions of
+otherwise healthy pregnant women in Canada for acute
+respiratory conditions could be attributed to influenza.5
+ In
+the second study, in a cohort of pregnant women in Nova
+Scotia with and without comorbidities, exposure to the
+influenza season during pregnancy was associated with a
+markedly higher risk of respiratory-related hospitalization
+in the third trimester than exposure to the influenza season
+in the year prior to pregnancy.4
+ Infants born to women in
+this cohort who were hospitalized for a respiratory-related
+admission during influenza season were more likely to be
+small for gestational age and to have a lower birth weight.6
+Additionally, in this cohort only 2.6% of pregnant women
+overall and 6.7% of high-risk women received influenza
+vaccine during the years in which influenza immunization
+data were available (1999 to 2002).4
+ Although the data
+reported in this study likely underestimated the vaccination
+rate because information was obtained only from billing
+records of family physicians, it is very likely that the true
+influenza vaccination rates in pregnant women are very
+low.
+The results of these studies provided sufficient evidence
+for the National Advisory Committee on Immunization
+to expand its recommendations in 2007 for influenza
+immunization to include all pregnant women, with or
+without comorbid medical conditions. The Nova Scotia
+Department of Health Promotion and Protection adopted
+these revised recommendations, and since 2007 it has
+offered publicly funded influenza immunization for all
+pregnant women.
+Because it was recognized that obtaining influenza
+immunization data from physician billing records likely
+underestimates the true immunization coverage rate,
+from April 1, 2006, influenza immunization data began
+to be collected prospectively at the time of admission
+for obstetrical delivery for women delivering at the IWK
+Health Centre. This study was designed to determine
+whether neonatal outcomes differed between women
+vaccinated during pregnancy and women who were not
+vaccinated.
+METHODS
+We conducted a retrospective cohort study of women
+who delivered a live or stillborn singleton infant of
+> 500 grams or > 20 weeks’ gestation at the IWK Health
+Centre between April 1, 2006, and October 31, 2009. Data
+for deliveries after October 31, 2009, were not included
+in this study because pandemic H1N1 vaccine was being
+introduced at that time, and we wished to focus specifically
+on seasonal influenza vaccine. The IWK Health Centre
+is the only hospital in the Halifax Regional Municipality
+providing obstetrical services, and approximately half the
+deliveries in Nova Scotia are at the IWK Health Centre.
+After April 1, 2006, pregnant women who came to the
+IWK Health Centre to deliver were asked whether or not
+they had received the influenza vaccine for the current
+influenza season. These data were collected by staff in
+the admitting department before the patient was assessed
+and entered in a database designed to capture this vaccine
+information. Data were saved in the Meditech system at
+the IWK Health Centre. The standard procedure is to
+purge these data after one year, unless there is a request
+for the data to be saved. Unfortunately, the data for the
+time period from April 2007 to December 2007 were
+accidentally purged and could not be retrieved.
+The information collected on influenza vaccination
+was linked to data from the Nova Scotia Atlee Perinatal
+Database (NSAPD) to determine the characteristics of
+the cohort and the neonatal outcomes. The NSAPD is a
+population-based database that contains detailed clinical
+and demographic information from 1988 onwards for
+all deliveries in the province. The NSAPD includes live
+births and stillbirths born at a gestational age of at least
+20 weeks or having a birth weight of at least 500 grams.
+The database contains extensive data on demographics,
+behaviour and lifestyle, labour and birth, and maternal and
+neonatal diseases and procedures.
+716 l AUGUST JOGC AOÛT 2012
+Obstetrics
+Information from the NSAPD was used to determine
+maternal risk status. High-risk status was determined
+by the presence of any of the following pre-existing
+conditions (all available in the NSAPD): pre-existing
+diabetes, pulmonary disease (including asthma), heart
+disease, renal disease, or anemia during the pregnancy.
+The NSAPD was also used to obtain data on potential
+confounders: risk status, maternal age, smoking, parity,
+marital status, neighbourhood income level, pre-pregnancy
+weight, one or more children under the age of five, and
+infant sex. In addition, fetal and neonatal outcomes were
+obtained from the NSAPD. Outcomes included perinatal
+mortality (stillbirth and neonatal death to 28 days). The
+neonatal morbidity variables that were analyzed were low
+birth weight (< 2500 grams), SGA (defined as the lowest
+10th percentile for each sex of birth weight for each week
+of gestational age), and preterm birth (defined as < 37
+weeks’ gestation at delivery). In addition, a composite
+neonatal morbidity variable was generated based on a
+diagnosis of any of the following: low 5-minute Apgar
+score (≤ 3), sepsis (positive blood culture, septicaemia, or
+systemic infection), asphyxia, respiratory distress syndrome
+(moderate or severe), intraventricular hemorrhage (grade 3
+or 4), or acute necrotizing enterocolitis.
+A chi-square test was used to compare characteristics
+between women who received the influenza vaccine and
+those who did not. For each outcome, logistic regression
+models were used to estimate odds ratios and 95%
+confidence intervals. Initially, unadjusted odds ratios were
+calculated for all outcomes. Then, a backward stepwise
+approach to identify potential confounders of the relation
+between receipt of vaccine and each outcome was used.
+The initial set of potential confounders included all factors
+with P < 0.1 on univariate analysis. We began by removing
+the potential confounder with the highest P value and
+evaluated the degree of change in the point estimate for
+the variable representing receipt of vaccine. If removing
+the factor did not change the point estimate by ≥ 5%,
+the factor was assumed not to be a confounder and was
+omitted from the model and the process repeated. The
+final, adjusted model included confounding variables that
+affected the vaccine estimate by 5% or more.
+Research Ethics Board approval was received from the
+IWK Health Centre.
+RESULTS
+Of a total of 12 950 women admitted to the IWK Health
+Centre for a live birth delivery during the study period,
+information on influenza vaccination was obtained for
+9647 (74.5%). Of these 9647 women, 20.0% reported
+having received the seasonal influenza vaccine during their
+pregnancy; 19.5% of women at low risk and 23.0% of women
+at high risk received the influenza vaccine. The vaccination
+rates by year and date of delivery are shown in Table 1, and
+the characteristics of the cohort according to whether or not
+the women had received the influenza vaccine in pregnancy
+are shown in Table 2. Most of the variables were significantly
+associated with receipt of vaccine in pregnancy, although
+the magnitude of difference seen was fairly small for most
+variables. Among the larger differences in vaccination rates
+were among smokers (14.7%) versus non-smokers (21.1%)
+and among single women (15.1%) versus women who were
+married or living common-law (21.8%).
+The results for the neonatal outcomes according to
+maternal influenza vaccination status are shown in Table 3.
+For SGA, the adjusted odds ratio for women who had
+received the influenza vaccine during pregnancy was 0.75
+(95% CI 0.62 to 0.92) compared with women who did
+not receive the vaccine. Maternal smoking was the only
+confounder in the final model. Similar results were found
+with low birth weight, with a protective adjusted odds
+ratio of 0.74 (95% CI 0.58 to 0.95) among infants born to
+vaccinated women. The magnitude of the odds ratio for
+the relation between receipt of the influenza vaccine and
+low birth weight among term infants was similar to that
+found for SGA, but was not statistically significant.
+For the outcomes of preterm birth and the composite
+outcome, there were no confounding factors that met
+the criteria of altering the vaccine odds ratio by 5% or
+more. Therefore the unadjusted and adjusted models
+are identical for these two outcomes. For preterm birth,
+the odds ratio associated with women who received the
+influenza vaccine was 0.84 (95% CI 0.69 to 1.02). A
+similar result was seen for the composite outcome variable
+(OR 0.82; 95% CI 0.64 to 1.07).
+Table 1. Rates of receipt of influenza vaccine during
+pregnancy by date of delivery among women
+delivering a singleton live born infant
+Date of delivery
+ No vaccine
+n (%)
+Vaccine
+n (%)
+Apr 1, 2006, to Oct 31, 2006 1922 (81.6) 434 (18.4)
+Nov 1, 2006, to March 31, 2007 295 (86.2) 276 (17.6)
+Jan 1, 2008, to March 31, 2008 714 (76.0) 225 (24.0)
+April 1, 2008, to Oct 31, 2008 2127 (81.6) 480 (18.4)
+Nov 1, 2008, to March 31, 2009 605 (80.1) 150 (19.9)
+April 1, 2009, to Oct 31, 2009 1059 (74.6) 360 (25.4)
+Total 7722 (80.0) 1925 (20.0)
+AUGUST JOGC AOÛT 2012 l 717
+The Association Between Influenza Vaccine in Pregnancy and Adverse Neonatal Outcomes
+Table 2. Relation between baseline factors and receipt of influenza vaccine during
+pregnancy
+Vaccination in pregnancy
+Variables Yes (n)* No (n)* Vaccination rate, % P
+Risk status 0.003
+Low risk 1622 6707 19.5
+High risk 0303 1015 23.0
+Maternal age at delivery, years < 0.001
+< 20 0055 0395 12.2
+20 to 29 0772 3406 18.5
+30 to 34 0725 2473 22.7
+≥ 35 0373 1448 20.5
+Parity 0.05
+Nulliparous 0920 3880 19.2
+Multiparous 1005 3842 20.7
+Marital status < 0.001
+Married/common-law 1531 5488 21.8
+Single 0365 2061 15.1
+Smoked in pregnancy < 0.001
+No 1665 6240 21.1
+Yes 0247 1433 14.7
+Pre-pregnancy weight, kg < 0.001
+< 60 0232 1188 16.3
+60 to 79 0718 2789 20.5
+80 to 89 0468 1688 21.7
+≥ 90 0217 0747 22.5
+Neighborhood income 0.003
+Highest quintile (3 to 5) 1233 4622 21.1
+Lowest quintile (1 to 2) 0667 2936 18.5
+Previous pregnancy loss 0.23
+None 1376 5416 20.3
+≥ 1 0548 2306 19.2
+Gestational diabetes 0.51
+No 1865 7503 19.9
+Yes 0060 0219 21.5
+Gestational hypertension 0.93
+No 1777 7133 19.9
+Yes 0148 0589 20.1
+Sibling < 5 years old < 0.001
+No 1181 5124 18.7
+Yes 0744 2598 22.3
+*Numbers do not always add to total due to missing values
+718 l AUGUST JOGC AOÛT 2012
+Obstetrics
+The analyses stratified by risk status are not shown. For
+each outcome, the odds ratios were similar to the total
+group. However, the confidence intervals were wide and
+the odds ratios were not statistically significant.
+DISCUSSION
+Influenza vaccination rates continue to be low in pregnant
+women, despite a change in the Canadian National Advisory
+Committee on Immunization recommendation in 2007
+that advised that all pregnant women should receive the
+influenza vaccine and the implementation in Nova Scotia
+of public funding for vaccination. Although we observed
+some variability over the years, the peak annual coverage
+rate was 25.4%.
+Previous research has explored the reasons for the low
+uptake in influenza vaccination in pregnant women to
+determine whether they are attributable to a woman’s
+personal decision not to receive the vaccination or because
+the vaccine is not being offered by health care providers.
+In 2004, Halperin et al. surveyed 662 pregnant women at
+the IWK Health Centre regarding influenza vaccination in
+pregnancy.7
+ Sixty-one percent of the women said that they
+would take the influenza vaccine if it were recommended
+by their doctor, but only 20% of the women reported
+that their doctor had discussed influenza vaccination
+with them during their pregnancy. In a 2006 survey in the
+United States from the Pregnancy Risk Assessment and
+Monitoring System in Georgia, 44.5% of women said
+that their physician did not mention anything about the
+influenza vaccine during pregnancy.8
+ In a separate survey,
+71% of women who were offered the vaccine chose to
+be vaccinated.9
+ About 28% of the women indicated that
+they were worried about the side effects of the vaccine on
+themselves or the harm it might cause their baby.
+In response to the findings of low influenza vaccination rates
+and few physicians offering pregnant women vaccination,
+McNeil et al. conducted a study in Nova Scotia entitled
+“Influenza Immunization During Pregnancy and Childhood:
+Translating Research into Practice.” (S.M., unpublished data,
+2007) This study, funded by the Drug Evaluation Alliance of
+Nova Scotia, was designed to increase immunization rates
+among pregnant women and children aged 6 to 23 months
+through public and professional education. As part of this
+objective, the research team developed an evidence-based
+educational program for all providers of care to pregnant
+women and young children in Nova Scotia between 2005
+and 2007. As of November, 2009, it did not appear that
+this program had resulted in increased numbers of pregnant
+women receiving the influenza vaccine in the Halifax region,
+possibly reflecting the limitations of traditional didactic
+continuing medical education initiatives to health care
+providers.
+The results of our study showed consistent improvement
+after maternal influenza vaccination (or a trend towards
+improvement) in newborn outcomes for all five outcomes
+Table 3. Neonatal outcomes according to receipt of influenza vaccine during
+pregnancy
+Outcome No vaccine Vaccine
+Small for gestational age (≤ 10th percentile), n (%) 650 (8.6) 124 (6.6)
+Unadjusted RR (95% CI) 1.0 0.75 (0.62 to 0.92)
+Adjusted RR* (95% CI) 1.0 0.80 (0.65 to 0.97)
+Low birth weight (≤ 2500 g), n (%) 427 (5.6) 76 (4.0)
+Unadjusted RR (95% CI) 1.0 0.70 (0.55 to 0.90)
+Adjusted RR* (95% CI) 1.0 0.74 (0.58 to 0.95)
+Term low birth weight, n (%) 133 (1.9) 25 (1.4)
+Unadjusted RR (95% CI) 1.0 0.74 (0.48 to 1.14)
+Adjusted RR* (95% CI) 1.0 0.80 (0.52 to 1.23)
+Preterm birth, n (%) 584 (7.7) 124 (6.5)
+Unadjusted RR (95% CI) 1.0 0.84 (0.69 to 1.02)
+Adjusted RR (95% CI) 1.0 0.84 (0.69 to 1.02)
+Composite outcome, n (%) 348 (4.5) 72 (3.7)
+Unadjusted RR (95% CI) 1.0 0.82 (0.64 to 1.07)
+Adjusted RR (95% CI) 1.0 0.82 (0.64 to 1.07)
+*Adjusted for smoking during pregnancy
+AUGUST JOGC AOÛT 2012 l 719
+The Association Between Influenza Vaccine in Pregnancy and Adverse Neonatal Outcomes
+analyzed. Newborns whose mother had received the
+influenza vaccine during pregnancy had significantly lower
+rates of low birth weight and SGA. A trend towards
+a protective effect was found for each of the other
+outcomes; the lack of statistical significance was possibly
+due to small numbers. We recognize that our data show
+associations and that we are unable to determine whether
+these represent causal relations. However, if we assume
+the relation is causal, the number needed to vaccinate to
+prevent one infant born SGA is 50 and to prevent one with
+low birth weight is 63.
+Relatively few studies have examined the relation between
+maternal seasonal influenza vaccination and neonatal
+outcomes. In a randomized controlled trial of 340 mothers
+in Bangladesh by Zaman et al., influenza immunization
+during pregnancy was associated with a 36% reduction in
+the rate of febrile respiratory illness in mothers during the
+pregnancy and up to 24 weeks postpartum.10 In this same
+randomized controlled trial, maternal vaccination was also
+associated with a 29% reduction in febrile respiratory illness
+and a 63% reduction in laboratory-confirmed influenza
+among infants to age six months. In a case–control study,
+influenza vaccine given to pregnant women was estimated
+to be 91.5% effective in preventing hospitalization of
+infants up to six months of age for influenza.11 Maternal
+vaccination is felt to protect the infant from febrile
+influenza-like illness, likely by decreasing the susceptible
+population of close contacts and by passive protective
+antibody transfer.10,12
+Several studies have reported on rates of adverse neonatal
+outcomes according to vaccination status. Recently,
+Steinhoff et al. conducted secondary analyses from the
+randomized controlled trial in Bangladesh and compared
+neonatal outcomes between those randomized to receive
+influenza vaccination and those who were not.13 They
+found that during periods of circulating influenza virus,
+maternal vaccination was associated with newborns having
+a decreased risk of being SGA (OR 0.4; 95% CI 0.19 to
+0.99) and with significantly higher mean birth weight, but
+they found no differences in rates of prematurity.13 There
+were no differences in neonatal outcomes among the two
+groups during periods with limited circulating virus. Omer
+et al.14 studied a cohort from Georgia in the United States
+between 2004 and 2006 and found rates of influenza
+vaccination during pregnancy (19.2%) that were similar
+to those we observed in the Nova Scotia cohort. Omer
+et al. found that infants who were born during the influenza
+season to mothers who had received influenza vaccination
+during pregnancy were less likely to be premature and to be
+SGA. France et al., on the other hand, found no impact of
+maternal vaccination on gestational age (mean gestational
+age of 39.1 weeks in the vaccinated group compared to
+39.2 weeks in the non-vaccinated group), and a 17-gram
+lower birth weight in the vaccinated group.15 Similarly,
+Black et al. did not find a difference in the preterm birth
+rates among women who had received the influenza
+vaccine and those who did not.16
+Several limitations of our study are noted. Since women
+were not randomized to vaccination or no vaccination,
+our results could have been biased by baseline differences
+in the two groups affecting the risk of adverse neonatal
+outcomes. Although we were able to adjust for available
+variables, it is possible that other variables confounded
+the relation between the influenza vaccine and the
+outcome. Interestingly, of the variables we were able
+to test as confounding factors, very few met the criteria
+for confounding (i.e., changing the relation between
+vaccination status and pregnancy outcome). We did
+not collect information on the gestational age at which
+vaccination occurred or the level of influenza activity in
+the population, which may have an effect on outcomes.
+There may have been some misclassification of receipt
+of influenza vaccine, since the information was selfreported. Additionally, we did not capture influenza
+vaccine data in approximately 25% of the women in
+our cohort. Reasons for not collecting the vaccine
+information from women at the time of delivery were
+not recorded, but one possibility is that admitting staff
+might not have had time to collect the information at
+an emergency delivery. If rates of vaccination in women
+with emergency delivery were similar to or lower than
+those observed in our cohort, then our observed RRs
+were conservative (i.e., closer to the null).
+CONCLUSION
+Influenza vaccination rates in pregnant women were low
+prior to the 2009 pandemic. Whether the heightened
+awareness during the 2009 pandemic will affect postpandemic rates of seasonal influenza vaccination is still
+unknown. Our study, in a Canadian population, supports
+previous research conducted elsewhere that found an
+association between receipt of influenza vaccination and
+reduced odds of SGA and low birth weight. In light of
+the low immunization rates and the mounting evidence for
+the benefit of immunization to pregnant women and their
+infants, enhanced public health measures are necessary to
+encourage pregnant women to receive the influenza vaccine
+and to ensure that health care providers actively promote
+influenza immunization for this high-priority group.
+720 l AUGUST JOGC AOÛT 2012
+Obstetrics
+ACKNOWLEDGEMENTS
+This study was funded by grants from the IWK Health
+Centre and from the Atlee Foundation of the Department
+of Obstetrics and Gynecology, Dalhousie University. We
+thank the Reproductive Care Program of Nova Scotia
+for access to data in the Atlee Perinatal Database and we
+thank those at the IWK Health Centre who collected the
+influenza vaccine data.
+REFERENCES
+1. Molinari NA, Ortega-Sanchez IR, Messonnier ML, Thompson WW,
+Wortley PM, Weintraub E, et al. The annual impact of seasonal influenza
+in the US: measuring disease burden and costs. Vaccine 2007;25:5086–96.
+2. Kort BA, Cefalo RC, Baker VV. Fatal influenza A pneumonia in
+pregnancy. Am J Perinatol 1986;3:179–82.
+3. Neuzil KM, Reed GW, Mitchel EF, Simonsen L, Griffin MR. Impact of
+influenza on acute cardiopulmonary hospitalizations in pregnant women.
+Am J Epidemiol 1998;148:1094–102.
+4. Dodds L, McNeil SA, Fell DB, Allen VM, Coombs A, Scott J, et al.
+Impact of influenza exposure on rates of hospital admissions and
+physician visits because of respiratory illness among pregnant women.
+CMAJ 2007;176:463–8.
+5. Schanzer DL, Langley JM, Tam TW. Influenza-attributed hospitalization
+rates among pregnant women in Canada 1994–2000. J Obstet Gynaecol
+Can 2007;29:622–9.
+6. McNeil SA, Dodds LA, Fell DB, Allen VM, Halperin BA, Steinhoff MC,
+et al. Effect of respiratory hospitalization during pregnancy on infant
+outcomes. Am J Obstet Gynecol 2011;204(6 Suppl 1):S54–S57.
+7. Halperin BA, MacKinnon-Cameron D, McNeil S. Survey of knowledge,
+attitudes, and behaviour regarding influenza vaccination in pregnancy and
+childhood. Presented at the International Conference on Women and
+Infectious Diseases, March 16–18, 2006, Atlanta, GA.
+8. Centers for Disease Control and Prevention. Receipt of influenza vaccine
+during pregnancy among women with live births—Georgia and Rhode
+Island, 2004–2007. MMWR Morb Mortal Wkly Rep 2009;58:972.
+9. Yeager DP, Toy EC, Baker B 3rd. Influenza vaccination in pregnancy.
+Am J Perinatol 1999;16:283–6.
+10. Zaman K, Roy E, Arifeen SE, Rahman M, Raqib R, Wilson E, et al.
+Effectiveness of maternal influenza immunization in mothers and infants.
+N Engl J Med 2008;359:1555–64.
+11. Benowitz I, Esposito DB, Gracey KD, Shapiro ED, Vazquez M. Influenza
+vaccine given to pregnant women reduces hospitalization due to influenza
+in their infants. Clin Infect Dis 2010;51:1355–61.
+12. Steinhoff MC, Omer SB, Roy E, Arifeen SE, Raqib R, Altaye M, et al.
+Influenza immunization in pregnancy–antibody responses in mothers and
+infants. N Engl J Med 2010;362:1644–6.
+13. Steinhoff MC, Omer SB, Roy E, El Arifeen S, Raqib R, Dodd C, et al.
+Neonatal outcomes after influenza immunization during pregnancy:
+a randomized controlled trial. CMAJ 2012;184:645–53.
+14. Omer SB, Goodman D, Steinhoff MC, Rochat R, Klugman KP, Stoll BJ,
+et al. Maternal influenza immunization and reduced likelihood of
+prematurity and small for gestational age births: a retrospective cohort
+study. PLoS Med 2011;8:e1000441.
+15. France EK, Smith-Ray R, McClure D, Hambidge S, Xu S, Yamasaki K,
+et al. Impact of maternal influenza vaccination during pregnancy on the
+incidence of acute respiratory illness visits among infants. Arch Pediatr
+Adolesc Med 2006;160:1277–83.
+16. Black SB, Shinefield HR, France EK, Fireman BH, Platt ST, Shay D,
+et al. Effectiveness of influenza vaccine during pregnancy in preventing
+hospitalizations and outpatient visits for respiratory illness in pregnant
+women and their infants. Am J Perinatol 2004;21:333–9.

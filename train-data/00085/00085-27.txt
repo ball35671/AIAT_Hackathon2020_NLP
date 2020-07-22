@@ -1,0 +1,710 @@
+﻿Gabapentin in postherpetic neuralgia:
+a randomised, double blind, placebo controlled study
+A.S.C. Ricea,*, S. Matonb
+, Postherpetic Neuralgia Study Group1
+a
+Pain Research Group, Department of Anaesthetics, Imperial College School of Medicine, Chelsea and Westminster Hospital Campus,
+369 Fulham Road, London SW10 9NH, UK b
+Clinical Research and Biometrics, Medical Division, Pfizer Limited, Ramsgate Road, Sandwich, Kent, CT13 9NJ, UK
+Received 30 March 2001; received in revised form 30 July 2001; accepted 16 August 2001
+Abstract
+A multicentre double blind, randomised, placebo controlled 7-week study evaluated the efficacy and safety of gabapentin 1800 or 2400
+mg/day in treating postherpetic neuralgia. Three hundred and thirty-four men and women aged at least 18 years (mean 73) received
+gabapentin 1800 or 2400 mg daily or placebo in three divided doses with a forced titration schedule. The primary outcome measure was
+change in average daily pain diary score (baseline week v final week). Secondary outcomes included mean weekly sleep interference score;
+Short Form-McGill Pain Questionnaire (SF-MPQ); Clinician and Patient Global Impression of Change (CGIC/PGIC); Short Form-36 Health
+Survey (SF-36). From week 1, pain scores showed a significantly greater improvement with gabapentin: the final difference v baseline was
+234.5% for the 1800 mg dose, 234.4% for the 2400 mg dose compared with 215.7% for the placebo group. The difference vs. placebo was
+18.8% for the 1800 mg dose (95% confidence interval 10.9–26.8%; P , 0:01) and 18.7% for the 2400 mg dose (10.7–26.7%; P , 0:01).
+Sleep interference diaries showed a similar pattern. There were significant differences in favour of gabapentin for number of patients
+reporting .50% reduction in their pain intensity, in the CGIC and PGIC, in the sensory and total scores of the SF-MPQ (both doses), in
+the visual analogue scale of pain of the SF-MPQ (2400 mg only) and in the vitality, bodily pain and mental health domains of the SF-36.
+Overall gabapentin was well tolerated. The most common adverse events were dizziness and somnolence, particularly during the titration
+phase. Thus, this study confirms the role of gabapentin as an efficacious and well-tolerated treatment for postherpetic neuralgia. q 2001
+International Association for the Study of Pain. Published by Elsevier Science B.V. All rights reserved.
+Keywords: Randomised controlled trial; Double blind; Gabapentin; Placebo; Postherpetic neuralgia; Neuropathic pain; Anticonvulsant
+1. Introduction
+Postherpetic neuralgia is a neuropathic pain syndrome
+following an acute attack of herpes zoster (shingles). The
+point at which acute herpes zoster pain becomes postherpetic neuralgia is the focus of disagreement in the medical
+literature, although one definition is pain persisting for
+longer than 3 months after the crusting of skin lesions,
+following an acute attack of herpes zoster (Bowsher,
+1997). Symptoms include constant aching, burning or itching with intermittent severe lancinating pain. Abnormalities
+of sensation such as allodynia and hyperalgesia may also
+occur. The incidence of postherpetic neuralgia increases
+sharply with age. Up to 50% of acute herpes zoster patients
+aged 60 years or more are affected, and the percentage
+climbs further with increasing age (Volmink et al., 1996).
+The overall incidence of postherpetic neuralgia is estimated
+to be 9–34%. This wide variation is accounted for by the
+differences in diagnostic criteria (Dworkin and Portenoy,
+1996). Untreated, postherpetic neuralgia can be severe and
+debilitating, with a major impact on patients’ quality of life
+(Johnson, 1997).
+Like other forms of neuropathic pain, postherpetic neuralgia can be refractory to treatment with conventional
+analgesics. Some tricyclic antidepressants have been
+shown to be efficacious in treating postherpetic neuralgia
+in systematic reviews of controlled clinical studies with
+small patient numbers (Volmink et al., 1996; McQuay and
+Moore, 1998; Sindrup and Jensen, 1999; Collins et al.,
+2000). However, the elderly may be more prone to the anticholinergic side effects of tricyclic antidepressants, which
+include dry mouth, constipation and blurred vision (Collins
+et al., 2000). Tricyclic antidepressants are also contraindiPain 94 (2001) 215–224
+0304-3959/01/$20.00 q 2001 International Association for the Study of Pain. Published by Elsevier Science B.V. All rights reserved.
+PII: S0304-3959(01)00407-9
+www.elsevier.com/locate/pain
+1 UK and Republic of Ireland participating investigators (see full listing
+under acknowledgements).
+* Corresponding author. Tel.: 144-208-746-8156; fax: 144-208-237-
+5109.
+E-mail address: a.rice@ic.ac.uk (A.S.C. Rice).
+cated in various cardiovascular conditions, which makes
+them inappropriate in many elderly patients.
+There is some evidence that opioids can be efficacious in
+certain types of neuropathic pain but evidence in postherpetic neuralgia is limited to a small single trial, in which
+oxycodone was shown to be superior to placebo (Watson
+and Babul, 1998). Topical capsaicin treatment is licensed
+for the treatment of postherpetic neuralgia, and was more
+efficacious than placebo in two of three small studies
+(Volmink et al., 1996). However, many patients experience
+local stinging and burning (Rains and Bryson, 1995).
+Recently, two small placebo controlled studies have indicated a beneficial effect of lidocaine patches in postherpetic
+neuralgia (Rowbotham et al., 1996; Galer et al., 1999).
+Other agents, including mixtures of local anaesthetics,
+NMDA (n-methyl d-aspartate) antagonists, benzodiazepines, sympathetic nerve blocks and antivirals have also
+been used, but with no clear evidence of benefit (Attal et
+al., 1999; Sindrup and Jensen, 1999; Volmink et al., 1996;
+Wu et al., 2000).
+Recently, attention has focused on the potential role of
+anticonvulsants in postherpetic neuralgia and other neuropathic pain syndromes (Backonja, 2000; Collins et al., 2000;
+Ross et al., 2000; Kanazi et al., 2000; Tremont-Lukats et al.,
+2000). No randomised controlled trials have been conducted
+on the older anticonvulsant, carbamazepine, in postherpetic
+neuralgia, though it has been shown to have beneficial
+effects in diabetic neuropathy (Sindrup and Jensen, 1999).
+Recent evidence shows, however, that a newer anticonvulsant, gabapentin, is efficacious in the treatment of postherpetic neuralgia (Rowbotham et al., 1998). Gabapentin’s
+mechanism of action is yet to be fully elucidated. Gabapentin does not bind to g-aminobutyric acid (GABA) receptors
+despite being a structural analogue of GABA (Nicholson,
+2000). It has been shown to bind to calcium channel subunits and to modulate high threshold calcium currents in
+brain neurons, implying that neuronal voltage-gated
+calcium channels are a possible target of gabapentin (Gee
+et al., 1996; Stefani et al., 1998).
+A large ðn ¼ 229Þ, 8-week, multicentre, randomised,
+placebo controlled trial in the USA has shown gabapentin
+to be efficacious in postherpetic neuralgia (Rowbotham et
+al., 1998). Gabapentin was administered at doses of up to
+3600 mg/day (forced titration up to this dose, which could
+be back titrated if the patients were unable to tolerate).
+Treatment significantly reduced average daily pain scores
+and sleep interference associated with postherpetic neuralgia and improved measures of mood and quality of life.
+Gabapentin has also been shown to be efficacious in another
+form of neuropathic pain, painful diabetic neuropathy
+(Backonja et al., 1998).
+On the basis of these findings, a large double blind
+placebo controlled multicentre study was conducted in the
+UK to evaluate the efficacy and safety of gabapentin in
+postherpetic neuralgia. Our trial used two fixed doses of
+gabapentin (1800 and 2400 mg/day, in contrast to the maximum of 3600 mg/day permitted in the US trial), with a
+shorter titration period. Thus, we aimed to establish a
+simpler dosing regimen and to minimise side effects by
+using lower doses.
+2. Methods
+2.1. Subjects
+Patients from 48 hospital out patient pain clinics and three
+general practices in the UK and the Republic of Ireland
+participated in this randomised, double blind, placebo
+controlled, parallel group, multicentre study between April
+and December 1999. The protocol was approved by the
+South and West Multicentre Research Ethics Committee
+and each centre’s Local Research Ethics Committee, and
+patients provided written informed consent. The study was
+conducted in accordance with ICH Good Clinical Practice
+Guidelines and the Declaration of Helsinki with respect to
+informed patient consent.
+Men and women aged at least 18 years, of any race, were
+included. Women were required to be non-pregnant (using
+barrier or hormonal contraception where appropriate), nonlactating, postmenopausal or surgically sterilised. Pain had
+to have been present for more than 3 months after the healing of the acute herpes zoster skin rash. Patients were randomised to the study if they yielded average pain scores of 4 or
+more, based on an 11-point Likert scale, on the week before
+commencing study medication.
+Exclusion criteria included: failure to respond to previous
+treatment with gabapentin at $1200 mg/day, failure to
+respond to gabapentin at any dose level due to side effects
+or contraindications to gabapentin treatment.
+2.2. Study design
+Patients were randomised sequentially to gabapentin
+1800 mg, gabapentin 2400 mg or placebo, using a computer
+generated randomisation list in block sizes of six. During the
+study, the randomisation list was held securely, and released
+only after study completion. Gabapentin and placebo were
+provided as identical-appearing capsules.
+Patients initially attended a screening visit during which
+they underwent a medical examination with all vital signs
+recorded and significant medical history, including that of
+postherpetic neuralgia, taken. Patients meeting all the inclusion and exclusion criteria were eligible to enter the study
+phase. The study phase included a 1-week baseline period,
+after which eligible patients randomised to either gabapentin or placebo entered a 4-day forced titration, during which
+the gabapentin dose was increased by 300 mg/day, over the
+first 4 days, up to 1200 mg/day. From days 4 to 7, dosing
+remained stable. After 1 week on treatment, the dose was
+titrated up to 1800 mg/day (1500 mg/day on day 8 and 1800
+mg/day on days 9–14), and after 2 weeks, patients randomised to gabapentin 2400 mg/day had their dose titrated up
+216 A.S.C. Rice et al. / Pain 94 (2001) 215–224
+to this final level (2100 mg/day on day 15 and 2400 mg/day
+from day 16 onwards). During the study, patients adhered to
+a strict titration schedule up to the dose level that they were
+randomised to. Those patients who were unable to tolerate
+the dose regimen were withdrawn from the study. A further
+stable dosing period ensued for all patients (weeks 3–7).
+Patients therefore received therapy for a total of 7 weeks.
+Throughout the trial, all patients received their daily dose
+of study medication in three divided doses. Patients randomised to placebo took the same number of capsules as those
+assigned to gabapentin.
+During the study, patients were not allowed to receive
+specified treatments for the relief of postherpetic neuralgia.
+A washout period of 14 days prior to screening was required
+for benzodiazepines, skeletal muscle relaxants, steroids,
+capsaicin, mexiletine, dextromethorphan, non-steriodal
+anti-inflammatory drugs (NSAIDs) (where prescribed specifically for postherpetic neuralgia) and anticonvulsants. A
+washout period of 30 days was required for ‘strong’ opioids
+(e.g. morphine, fentanyl). Concomitant medications
+allowed during the study included antidepressants, mild
+opiates, for example codeine, aspirin (up to one tablet
+daily (maximum 300 mg) for myocardial infarction and
+transient ischaemic attack prophylaxis) and NSAIDs.
+These medications were permissible as long as they were
+at a stable dose prior to and during the study and could not
+be initiated during the study. Patients were, however,
+permitted to take paracetamol or paracetamol/codeine as
+rescue medication.
+2.3. Efficacy measures
+The primary efficacy outcome was the change in average
+daily pain score from the baseline week to the final study
+week, evaluated from the daily pain diary. An 11-point
+Likert scale was used with 0 as ‘no pain’ and 10 as ‘worst
+possible pain’. Self-assessment of the previous 24 h pain
+was performed daily on waking. The baseline score
+consisted of the mean of the last seven pain diary entries
+preceding randomisation. The final weekly mean pain score
+(end point) was defined as the mean pain score from the last
+7 days preceding the final visit or the last 7 days on study
+medication for patients who did not complete the study.
+Secondary efficacy parameters included the mean weekly
+sleep interference score from the daily sleep diaries
+(assessed on an 11-point Likert scale where 0 ¼ pain does
+not interfere with sleep to 10 ¼ pain completely interferes
+with sleep), the Short Form-McGill Pain Questionnaire (SFMPQ) (Melzack, 1987) and the Clinician and Patient Global
+Impression of Change (CGIC/PGIC – assessed on a 7-point
+scale where the clinician or patient, respectively, assessed
+changes in their overall status, ranging from very much
+improved to very much worse). Quality of life was
+measured using the Short Form-36 (SF-36) Health Survey
+(Ware, 1993).
+Patients attended five scheduled visits: initial screening
+(week 21), randomisation (week 0), and three further visits
+at weeks 1, 2 and 7. Patients were assessed by telephone at
+weeks 3 and 5. Data from patients’ pain and sleep diaries,
+and for adverse events (elicited by non-specific questioning), were collected at each clinic visit. Data for the SFMPQ and SF-36 were collected at weeks 0 and 7, and the
+CGIC and PGIC were assessed at week 7. Vital signs were
+evaluated at screening and at week 7.
+2.4. Data analysis
+The study was estimated to have a 90% power to detect a
+difference of 1.0 on the pain diary scale as statistically
+significant (P , 0:05, two-sided), based on an estimated
+standard deviation (SD) of 2.35 and a sample size of 118
+evaluable patients per group. In fact, the study recruited 334
+evaluable patients and the observed SD was 1.99, giving a
+power of 95% to detect the specified difference.
+Statistical analysis was conducted on the intent-to-treat
+population (patients who, once randomised to treatment,
+took at least one dose of study medication). All statistical
+tests were two-sided and significance was assessed at the 5%
+level.
+Analysis of covariance was employed to assess between
+treatment changes in terms of pain and sleep scores (1800
+and the 2400 mg/day groups with placebo). To control the
+overall type 1 error rate at 5% in the primary efficacy analysis, Dunnet’s procedure (two-sided) was employed (Dunnet,
+1964).
+The percentage of patients with a 50% or greater reduction in mean pain scores between baseline and the final 7
+days of pain diary was assessed using a Mantel–Haenszel
+Chi-square test adjusting for cluster.
+The eight domains of the SF-36 and the five sub-scores of
+the SF-MPQ (which consist of a sensory score, an affective
+score, total score, visual analogue pain score and a present
+pain intensity) were analysed using analysis of covariance.
+PGIC and CGIC results were analysed using Mantel–Haenszel Chi-square tests adjusting for cluster.
+3. Results
+3.1. Subjects
+Of 411 patients screened, 334 were randomised. Of the 77
+patients withdrawn prior to randomisation, 52 did not meet
+the entry criteria, three experienced an adverse event and 22
+were withdrawn for other reasons.
+In total, 111 patients were randomised to placebo, 115 to
+gabapentin 1800 mg/day and 108 to gabapentin 2400 mg/
+day. During the study, a total of 62 patients (18.6%) withdrew from the study (Fig. 1). The commonest reason for
+withdrawal was adverse events, which prompted withdrawal
+in seven patients receiving placebo (6.3%), 15 receiving
+gabapentin 1800 mg (13.0%) and 19 receiving gabapentin
+2400 mg (17.6%).
+A.S.C. Rice et al. / Pain 94 (2001) 215–224 217
+The treatment groups were well matched at baseline in
+terms of their age, sex, weight, previous duration of disease
+and previous drug treatment (Table 1). The mean duration of
+treatment during the study was similar for all three groups:
+placebo 46.0 days (range 1–61); gabapentin 1800 mg 43.3
+days (2–57); gabapentin 2400 mg 43.7 days (1–63). The
+most commonly reported concomitant medications taken
+during the study were: paracetamol 130 patients (39%);
+amitriptyline 85 (25%), dose range 10–120 mg/day; cocodamol (paracetamol and codeine phosphate) 44 (13%);
+co-proxamol (paracetamol and dextropropoxyphene hydrochloride) 41 (12%); and co-dydramol (paracetamol and
+dihydrocodine tartrate) (6%). During the study, 50 (15%)
+patients took no medication for their postherpetic neuralgia
+other than the study drug. The baseline pain scores (calculated as the mean of the last seven pain diary entries preceding visit 1) were similar for all three groups; these were 6.4,
+6.5 and 6.5, respectively, for the placebo, gabapentin 1800
+mg and gabapentin 2400 mg groups.
+3.2. Efficacy measures
+3.2.1. Average daily pain score
+The primary efficacy measure, change in average daily
+pain score from the baseline week to the final study week,
+showed significant improvements in the gabapentin 1800
+and 2400 mg groups compared with placebo. The average
+score for the placebo group was 6.4 vs. 5.3 (a reduction of
+15.7%), for the gabapentin 1800 mg group was 6.5 vs. 4.3 (a
+reduction of 34.5%) and for the gabapentin 2400 mg group
+218 A.S.C. Rice et al. / Pain 94 (2001) 215–224
+Fig. 1. Profile of patients at each phase of the study.
+was 6.5 vs. 4.2 (a reduction of 34.4%). The difference
+between placebo and gabapentin 1800 mg was 18.8%
+(95% confidence interval 10.9–26.8%; P , 0:01). The
+difference between placebo and gabapentin 2400 mg was
+18.7% (10.7–26.7%; P , 0:01). Differences between gabapentin and placebo were significant from week 1 (1200 mg)
+onwards (Fig. 2).
+3.2.2. Response rate
+The proportion of patients showing a 50% or greater
+reduction in mean pain score between baseline and the
+end of treatment was significantly higher (P ¼ 0:001) in
+both the gabapentin 1800 mg treatment group (32%) and
+the gabapentin 2400 mg group (34%) than in the placebo
+treated patients (14%).
+3.2.3. Sleep interference
+Sleep interference diaries showed a similar pattern of
+improvement to the pain diary, with both gabapentin treatment groups showing greater improvement than placebo
+treated patients from week 1 onwards. For the last week
+of treatment, the difference between placebo and gabapentin
+1800 mg was 0.9 (95% confidence interval 0.4–1.4;
+P , 0:01). The difference between placebo and gabapentin
+2400 mg was 1.1 (0.7–1.6; P , 0:01).
+3.2.4. SF-MPQ
+The SF-MPQ showed improvements in all parameters
+during treatment, with greater improvements in gabapentin
+treated patients. The difference between gabapentin and
+placebo was statistically significant (P , 0:05) for the
+sensory score (both doses); total score (both doses); and
+visual analogue scale of pain during the previous week
+(2400 mg only). Table 2 summarises the results.
+3.2.5. Patient global impression of change
+At the end of treatment, 23% (24/105) of patients on
+placebo were categorised as very much or much improved
+compared with 41% (44/107) of patients in the gabapentin
+1800 mg treatment group (P ¼ 0:003 v placebo) and 43%
+(42/98) in the 2400 mg treatment group (P ¼ 0:005 v
+placebo).
+3.2.6. Clinician global impression of change
+At the end of treatment, 19% (20/107) of patients on
+placebo were categorised as very much or much improved
+compared with 44% (48/108) of patients in the gabapentin
+A.S.C. Rice et al. / Pain 94 (2001) 215–224 219
+Fig. 2. Change from baseline in average daily pain scores. *P , 0:01 vs.
+placebo (Mantel Haenszel).
+Table 1
+Baseline characteristics of randomised populationa
+Placebo
+ðn ¼ 111Þ
+Gabapentin 1800 mg/day
+ðn ¼ 115Þ
+Gabapentin 2400 mg/day
+ðn ¼ 108Þ
+Men, n (%) 46 (41.1) 46 (40.0) 46 (42.6)
+Women, n (%) 65 (58.6) 69 (60.0) 62 (57.4)
+Age (years) 74.9 (28.9–94.8) 74.8 (22.5–88.6) 76.3 (36.1–90.8)
+Weight 68.1 (34.8–115.0) 66.9 (42.0–124.4) 74.4 (43.0–101.5)
+Years since diagnosis 2.2 (0.1–28.4) 1.9 (0.1–19.4) 2.5 (0.3–30.7)
+Previous drugs tried, n (%)
+Not known 1 (1) 3 (3) 1 (1)
+0 1 (1) 0 (0) 0 (0)
+1 17 (15) 17 (15) 14 (13)
+2 23 (21) 32 (28) 20 (19)
+3 38 (34) 28 (24) 40 (37)
+4 13 (12) 11 (10) 14 (13)
+5 6 (5) 13 (11) 10 (9)
+6–10 10 (9) 10 (9) 9 (8)
+. 10 2 (2) 1 (1) 0 (0)
+Drug categories tried, n (%)
+Anticonvulsant 62 (56) 69 (60) 72 (67)
+Amitriptyline 79 (71) 83 (72) 83 (77)
+Mild analgesics 102 (92) 107 (93) 100 (93)
+a Values are medians (range) except where otherwise stated.
+1800 mg treatment group (P ¼ 0:002 v placebo) and 44%
+(45/103) in the gabapentin 2400 mg treatment group
+(P ¼ 0:001 v placebo).
+3.2.7. Quality of life questionnaire (SF-36)
+Three hundred and twenty-one patients completed the
+SF-36 questionnaire at baseline and 289 had evaluable SF36 results from the treatment period. Patients receiving
+either dose of gabapentin experienced significantly greater
+improvements in mean score for the vitality scale
+(P , 0:05) than those receiving placebo (Fig. 3). Patients
+receiving the 1800 mg dose of gabapentin also showed
+significantly greater improvements in mean score for scales
+of bodily pain (P , 0:01) and mental health (P , 0:05) than
+those receiving placebo (Fig. 3).
+3.3. Adverse events
+Table 3 summarises adverse events reported as occurring
+in .5% of study patients. Withdrawals due to adverse
+events (both total and considered to be possibly/probably
+study-related) were more common in both gabapentin
+groups than the placebo group (Table 3). Whereas withdrawals due to adverse events among the placebo group were
+evenly spread throughout the trial, 38% of withdrawals
+among gabapentin treated patients occurred within the first
+220 A.S.C. Rice et al. / Pain 94 (2001) 215–224
+Fig. 3. Summary of changes in domains of the Short Form-36 Quality of
+Life Questionnaire. Scores represent mean change from baseline to final
+calculable score adjusted for specified covariates (baseline score and cluster/study centre). A positive change indicates improvement.
+Table 2
+Summary of short form McGill pain scoresa
+Time point Score Statistic Placebo
+(N ¼ 111)
+Gabapentin 1800 mg
+(N ¼ 115)
+Gabapentin 2400 mg
+(N ¼ 108)
+Baseline Sensory score N 111 115 108
+Mean (SD) 13.2 (5.8) 13.9 (6.1) 15.0 (6.7)
+Range 4, 30 4, 31 3, 33
+Affective score N 111 115 108
+Mean (SD) 3.9 (2.8) 3.9 (3.1) 4.6 (3.0)
+Range 0, 12 0, 12 0, 12
+Total score N 111 115 108
+Mean (SD) 17.1 (7.7) 17.8 (8.5) 19.6 (8.9)
+Range 5, 40 5, 43 3, 43
+VAS (mm) N 111 115 108
+Mean (SD) 68 (15) 67 (18) 70 (18)
+Range 23, 99 28, 100 18, 100
+PPI N 111 115 108
+Mean (SD) 2.4 (1.1) 2.5 (1.2) 2.7 (1.2)
+Range 0, 5 0, 5 1, 5
+End of treatment Sensory score N 106 105 95
+Mean (SD) 10.6 (6.9) 9.4 (6.5) 9.7 (6.3)
+Range 0, 33 0, 30 0, 26
+Affective score N 106 105 95
+Mean (SD) 3.0 (3.3) 2.4 (2.9) 2.7 (2.7)
+Range 0, 12 0, 12 0, 12
+Total score N 106 105 95
+Mean (SD) 13.7 (9.5) 11.9 (8.8) 12.5 (8.3)
+Range 0, 45 0, 39 0, 37
+VAS (mm) N 105 106 97
+Mean (SD) 54 (26) 47 (28) 46 (25)
+Range 0, 100 0, 98 0, 93
+PPI N 106 106 97
+Mean (SD) 2.0 (1.3) 1.9 (1.1) 1.9 (1.2)
+Range 0, 5 0, 5 0, 5
+a Ranges 0–33 for sensory score; 0–12 for affective score; 0–45 for total score; 0–100 mm for VAS; 0–5 for PPI (Present Pain Intensity). Higher scores
+indicate more severe pain.
+week, and 76% within the first 3 weeks. Dizziness and
+drowsiness were the most common adverse events necessitating withdrawal among gabapentin treated patients; 7% of
+patients in each dose group withdrew because of dizziness
+and 5–6% because of drowsiness. There were five serious
+non-fatal adverse events (SAEs) during the study. One SAE
+occurred in the placebo group (depression), three in the
+gabapentin 1800 mg group (fever, infection and retinal
+vein thrombosis and haemoptysis), and one in the gabapentin 2400 mg group (congestive heart failure). All were
+considered not to be related to the study drug.
+4. Discussion
+This study shows that gabapentin at doses of 1800 and
+2400 mg/day is significantly more efficacious than placebo
+in reducing the pain of PHN (Postherpetic Neuralgia). These
+benefits arise early (1 week from start of treatment) and are
+maintained throughout the study. For both doses, the
+primary efficacy measure, change in average daily diary
+score, showed significant reductions in pain scores
+(P , 0:01) from week 1 (1200 mg) onwards.
+Significant improvements were also observed in secondary efficacy measures. The response rate (percentage of
+patients reporting .50% reduction in their pain intensity)
+was significantly greater in the gabapentin treated groups,
+and patients receiving gabapentin experienced significantly
+less sleep interference as reported by patient diaries. The
+SF-MPQ showed significant difference in sensory, total and
+VAS (Visual Analogue Scale) scores in favour of gabapentin compared to placebo. Statistically significant differences
+were seen in three out of eight domains of the SF-36. The
+findings for bodily pain (significantly improved over
+placebo for the gabapentin 1800 mg group only) support
+the primary outcome measure.
+Gabapentin treated patients also showed significant
+improvements compared with placebo in scores for the
+vitality for both the 1800 and 2400 mg group and mental
+health scales for the 1800 mg group only. The SF-36 is a
+validated tool for measuring patients’ quality of life and is
+not specific to just pain. It examines eight aspects of a
+patient’s quality of life and asks the patient to answer questions to rate each aspect. It is designed to take into account
+all aspects of drug therapy balancing efficacy, tolerability
+and ease of use. This provides a possible reason as to why
+the 1800 mg group showed significant improvements over
+placebo for the bodily pain and mental health scales whereas
+the 2400 mg group did not. As the primary efficacy measure,
+change in mean daily pain score, has shown no difference
+between the 1800 and 2400 mg group, one might expect that
+the quality of life score at the higher dose would be lower
+that that of the lower dose when tolerability is taken into
+account. The overall impression from the data suggests a
+greater change in favour of the gabapentin treatment groups
+(Fig. 3). These findings reflect the beneficial impact of an
+efficacious treatment for neuropathic pain on patients’
+general and psychological well being.
+The primary efficacy analysis results were also supported
+by similar results for the patient’s and clinician’s global
+impression of change. The patient’s global impression has
+recently been shown to be a reliable measure of clinical
+usefulness, which correlates well with the number of
+patients achieving .50% TOTPAR (TOTal PAin Relief
+possible), at least for acute pain (Collins et al., 2001).
+This study, involving 334 patients, is the largest reported
+in postherpetic neuralgia to date. The study population
+reflects the age distribution of postherpetic neuralgia, with
+a mean age of 73 years. Newly diagnosed patients (diagnosed
+within 6 months prior to screening) accounted for only 16%
+(54) of the study population; the median duration of postherpetic neuralgia was about 4 years. In such a population, it
+A.S.C. Rice et al. / Pain 94 (2001) 215–224 221
+Table 3
+Summary of adverse events
+Adverse event Placebo
+ðn ¼ 111Þ
+Gabapentin 1800 mg
+ðn ¼ 115Þ
+Gabapentin 2400 mg
+ðn ¼ 108Þ
+All adverse events, n (%) 55 (49.5) 81 (70.4) 81 (75.0)
+Possibly/probably treatment-related, n (%) 31 (27.9) 65 (56.5) 65 (60.2)
+Deaths, n (%) 0 0 1a
+SAE, n (%) 1 (0.9) 3 (2.6) 1 (0.9)
+Withdrawals
+Total due to adverse events, n (%) 7 (6.3) 15 (13.0) 19 (17.6)
+Possibly/probably treatment-related, n (%) 5 (4.3) 14 (12.2) 15 (13.9)
+Adverse events occurring in .5% patients
+Dizziness, n (%) 11 (9.9) 36 (31) 36 (33)
+Somnolence, n (%) 7 (6.3) 20 (17.4) 22 (20.4)
+Peripheral oedema, n (%) 0 (0) 6 (5.2) 12 (11.1)
+Asthenia, n (%) 4 (3.6) 7 (6.1) 6 (5.6)
+Dry mouth, n (%) 1 (0.9) 7 (6.1) 5 (4.6)
+Diarrhoea, n (%) 1 (0.9) 7 (6.1) 5 (4.6)
+a One patient died outside the 1 month follow-up after study completion. Death was recorded as ‘other causes’ and not related to the adverse events ongoing
+at the time.
+would be unrealistic to expect to conduct a trial in treatmentnaive patients. Most patients (61%) had already tried other
+treatments; .70% had used three or more other treatments.
+For ethical reasons, the study excluded patients who had
+previously failed to respond to gabapentin at $1200 mg/day
+or to gabapentin at any dose due to side effects. Excluding
+patients already known to be non-responders to gabapentin
+reflects the reality of clinical practice (we do not treat
+patients who are already known to be non-responders to a
+particular drug). It also allows a more sensitive comparison
+between the two doses of gabapentin.
+In reality, although no specific data are available for
+patients excluded for gabapentin non-response, only 52 of
+411 patients screened did not meet the entry criteria. This
+suggests that the number of gabapentin non-responders
+excluded could not have been very large. Thus, the treatment effects observed in our study are probably not very
+different from those in the postherpetic neuralgia population
+as a whole.
+During the study, 85% of patients continued to take
+concurrent medications for postherpetic neuralgia, including 25% who remained on amitriptyline. Thus, the significant improvement in pain intensity with gabapentin was
+achieved in a largely refractory population. In view of
+this, the proportion of patients showing a reduction in pain
+scores of .50% (34% in the gabapentin 2400 mg group and
+32% in the gabapentin 1800 mg group v 14% in the placebo
+group) can be considered highly notable.
+The study was not set up to show equivalence between the
+two doses and no statistical comparison was made between
+them. A visual inspection of the data suggests no difference
+between 1800 and 2400 mg (Figs. 2 and 3). This suggests
+that the current UK licensed dose of 1800 mg is likely to be
+appropriate for most patients. However, it cannot be ruled
+out that in some patients with postherpetic neuralgia, additional clinical benefit may be achieved by increasing doses
+up to the maximum 3600 mg (Rowbotham et al., 1998).
+Doses of gabapentin up to and over 3600 mg have been
+shown to be well tolerated and safe (Morrell et al., 2000).
+As in studies on gabapentin in epilepsy, the most common
+drug-associated adverse events were dizziness and somnolence (McLean, 1999). However, most central nervous
+system (CNS) adverse events were transient and mild to
+moderate in intensity. Furthermore, despite the number of
+reports of somnolence, the SF-36 vitality scale showed a
+significant benefit of gabapentin, suggesting that the positive benefits of pain reduction and reduction in sleep interference outweigh the transitory CNS side effects.
+Dizziness and somnolence were most common during the
+titration period, which was relatively short. This is consistent with the well-tolerated incidence of dizziness and
+somnolence in previous studies with gabapentin (Backonja
+et al., 1998; Rowbotham et al., 1998).
+Although there was a higher rate of withdrawals due to
+somnolence and dizziness in the gabapentin-treated groups,
+the proportion of patients completing the study was high in
+all groups (81% for gabapentin 1800 mg, 79% for gabapentin 2400 mg and 85% for placebo). Most withdrawals
+occurred early in treatment. None of the few serious adverse
+events that occurred was considered to be associated with
+gabapentin treatment. As in previous studies, no unexpected
+adverse events were reported.
+This study supports the findings of the US study on gabapentin in postherpetic neuralgia (Rowbotham et al., 1998),
+which found a similar significant reduction in average daily
+pain score. In that study, the titration schedule was slower
+and the maximum dose higher (3600 mg). This slower titration may explain why a statistically significant benefit was
+not seen until week 2, whereas in our study, patients started
+to benefit from gabapentin treatment within the first week,
+whilst maintaining a similar adverse event rate in both. The
+placebo effect in this study was over twice that in the US
+study. Such wide variability in placebo response is a
+common feature of pain studies.
+The comparative lack of adverse drug interactions, makes
+gabapentin a suitable candidate for inclusion in multidrug
+regimens to control chronic neuropathic pain. Future studies
+could compare gabapentin with other regimens both alone
+and in combination; the latter enabling the investigation of
+any potential synergistic or additive effects. Two small
+studies have recently directly compared gabapentin and
+amitriptyline for efficacy and side effects for the relief of
+pain in diabetic neuropathy (Morello et al., 1999; Dallocchio et al., 2000). Both studies reached a broadly similar
+conclusion that both compounds achieved similar efficacy.
+The Dallocchio et al. study indicated that the side effect
+profile of gabapentin was superior to that of amitriptyline,
+whilst the Morello et al. study showed no difference in the
+incidence of side effects.
+Symptom based studies comparing gabapentin with other
+drug classes in postherpetic neuralgia would also be interesting, as would studies evaluating the efficacy of gabapentin in the ‘deafferentation’ and ‘irritable nociceptor’
+classifications of patients which have been proposed for
+postherpetic neuralgia (Fields et al., 1998).
+In conclusion, this study adds to the growing evidence
+that gabapentin significantly reduces chronic neuropathic
+pain resulting from postherpetic neuralgia, reduces sleep
+interference and improves some domains of quality of life.
+Gabapentin has potential advantages in this predominantly
+elderly population, being generally well tolerated (side
+effects are mild and tend to be transient), with fewer contraindications than tricyclic antidepressants, and a lack of
+limiting drug interactions (McLean, 1999).
+Acknowledgements
+The study was a multicentre research project fully funded
+by Pfizer Ltd. The study was monitored by a contract
+research organisation, Imro Tramarko Ltd, in addition to
+Pfizer personnel.
+222 A.S.C. Rice et al. / Pain 94 (2001) 215–224
+The authors would like to thank S.-J. Bibby (clinical trials
+coordinator, Pfizer) for her assistance in study design, execution and analysis. We would like to thank all the investigators
+who recruited and collected all the patient data. Below is a list
+of the principal investigators for the participating centres.
+Dr A.P. Baronowski, The National Hospital for Neurology
+& Neurosurgery; Dr C. Barthram, Perth Royal Infirmary; Dr
+R. Bhishma, North Manchester General Hospital; Dr P.
+Collins, Musgrove Park Hospital; Dr D.A. Conn, Royal
+Devon & Exeter Hospital; Dr J.P. Desborough, Epsom
+General Hospital; Dr D. Dickson, Chapel Allerton Hospital;
+Dr S. Dolin, St. Richards Hospital; Dr J. Foy, University
+Hospital of Wales; Dr J. Gallagher, St. Bartholomew’s
+Hospital; Dr C.A. Gauci, Whipps Cross Hospital; Dr R.G.
+Ghaly, Royal Albert Edward Infirmary; Dr I.A. Gillespie,
+Belfast City Hospital; Dr G. Gordon, Victoria Infirmary;
+Dr D. Hill, The Ulster Hospital; Dr R. Hodgson, Derrisford
+Hospital; Dr B. Hoggart, Solihull Hospital; Dr H.R.I. Khalil,
+Darlington Memorial Hospital; Dr S.C. Allen, Battle Hospital; Dr K. Milligan, South Cleveland Hospital; Dr L.M.M.
+Morrison, St. John’s Hospital; Dr R. Munglani, Addenbrookes Hospital; Dr L. Newman, Southern General Hospital; Dr D. O’Flaherty, Portiuncula Hospital; Dr J. O’Hanlon,
+Mater Hospital; Dr R. Parris, Royal Infirmary, Glasgow; Dr
+V. Pollard, Beaumont Hospital; Dr M.K. Roy, Hartlepool
+General Hospital; Dr T. Schnittger, St James’s Hospital; Dr
+A. Searle, Derbyshire Royal Infirmary; Dr A. Semple, Falkirk & District Hospital; Dr C. Spanswick, Ladywell Hospital;
+Dr F.J. Thomson, Orsett Hospital; Dr K.R. Tighe, Leicester
+Royal Infirmary; Dr S. Tordoff, Northampton District
+General; Dr S. Underhill, Maelor General Hospital; Dr
+J.M.J. Valentine, West Norwich Hospital; Dr J. Watson,
+Wycombe District General Hospital; Dr I.H. Yellowlees,
+Borders District General; Dr A.D. Reynolds, Lincoln County
+Hospital; Dr P. McGowan, Barnet General Hospital; Dr M.C.
+Thomas, Inverclyde Royal NHS Trust; Dr M. Serpell, Gartnavel General Hospital; Dr S. Gilbert, Queen Margarets
+Hospital; Dr J. Jessop, Montagu Hospital; Dr W. De Mello,
+Pontefract Hospital; Dr M. Turtle, West Wales General
+Hospital; Dr K. Grady, Wittenshawe Hospital; Dr M.
+Fryer, Royal Shrewsbury Hospital; Dr J. Ryan, The Alverton
+Practice; Dr D.A. Haworth, Layton Medical Centre.
+A.S.C.R. was paid a consultancy fee for his independent
+help and advice on this project, by Pfizer. In line with all
+other multicentre research projects sponsored by the pharmaceutical industry, research personnel were paid appropriately for their time to conduct the study, by Pfizer.
+References
+Attal N, Brasseur L, Chauvin M, Bouhassira D. Effects of single and
+repeated applications of a eutectic mixture of local anaesthetics
+(EMLA) cream on spontaneous and evoked pain in post-herpetic neuralgia. Pain 1999;81:203–209.
+Backonja MM. Anticonvulsants (antineuropathics) for neuropathic pain
+syndromes. Clin J Pain 2000;16:S67–S72.
+Backonja M, Beydoun A, Edwards KR, Schwartz SL, Fonseca V, Hes M,
+LaMoreaux L, Garofalo E. Gabapentin for the symptomatic treatment
+of painful neuropathy in patients with diabetes mellitus: a randomized
+controlled trial. J Am Med Assoc 1998;280:1831–1836.
+Bowsher D. The management of postherpetic neuralgia. Postgrad Med J
+1997;73:623–629.
+Collins SL, Moore RA, McQuay HJ, Wiffen P. Antidepressants and anticonvulsants for diabetic neuropathy and postherpetic neuralgia: a quantitative systematic review. J Pain Symptom Manage 2000;20:449–
+458.
+Collins SL, Edwards J, Moore RA, Smith LA, McQuay HJ. Seeking a
+simple measure of analgesia for mega-trials: is a single global assessment good enough? Pain 2001;91:189–194.
+Dallocchio C, Buffa C, Mazzarello P, Chiroli S. Gabapentin vs amitriptyline in painful diabetic neuropathy: an open-label pilot study. J Pain
+Symptom Manage 2000;20:280–285.
+Dunnet CW. New tables for multiple comparisons with a control.
+Biometrics 1964;20:482–491.
+Dworkin RH, Portenoy RK. Pain and its persistence in herpes zoster. Pain
+1996;67:241–251.
+Fields HL, Rowbotham M, Baron R. Postherpetic neuralgia: irritable nociceptors and deafferentation. Neurobiol Dis 1998;5:209–227.
+Galer BS, Rowbotham MC, Perander J, Friedman E. Topical lidocaine
+patch relieves postherpetic neuralgia more effectively than a vehicle
+topical patch: results of an enriched enrolment study. Pain
+1999;80:533–538.
+Gee NS, Brown JP, Dissanayake VU, Offord J, Thurlow R, Woodruff GN.
+The novel anticonvulsant drug gabapentin (Neurontin) binds to the
+alpha2delta subunit of a calcium channel. J Biol Chem
+1996;271(10):5768–5776.
+Johnson RW. Herpes zoster and postherpetic neuralgia. Optimal treatment.
+Drugs Aging 1997;10:80–94.
+Kanazi GE, Johnson RW, Dworkin RH. Treatment of postherpetic neuralgia: an update. Drugs 2000;59:1113–1126.
+McLean MJ. Gabapentin in the management of convulsive disorders.
+Epilepsia 1999;40(Suppl 6):S39–S50.
+McQuay HJ, Moore RA. An evidence-based resource for pain relief, .
+Oxford: Oxford University Press, 1998.
+Melzack R. The short-form McGill Pain Questionnaire. Pain 1987;30:191–
+197.
+Morrell MJ, McLean MJ, Willmore LJ, Privitera MD, Faught RE, Holmes
+GL, Magnus L, Bernstein P, Rose-Legatt. Efficacy of gabapentin as
+adjunctive therapy in a large multicenter study. The Steps Study
+Group. Seizure 2000;9:241–248.
+Morello CM, Leckband SG, Stoner CP, Moorhouse DF, Sahagian GA.
+Randomized double-blind study comparing the efficacy of gabapentin
+with amitriptyline on diabetic peripheral neuropathy pain. Arch Intern
+Med 1999;159:1931–1937.
+Nicholson B. Gabapentin use in neuropathic pain syndromes. Acta Neurol
+Scand 2000;101:359–371.
+Rains C, Bryson HM. Topical capsaicin. A review of its pharmacological
+properties and therapeutic potential in post-herpetic neuralgia diabetic
+neuropathy and osteoarthritis. Drugs Aging 1995;7:317–328.
+Ross EL. The evolving role of antiepileptic drugs in treating neuropathic
+pain. Neurology 2000;55:S41–S46.
+Rowbotham MC, Davies PS, Verkempinck C, Galer BS. Lidocaine patch:
+double-blind controlled study of a new treatment method for postherpetic neuralgia. Pain 1996;65:39–44.
+Rowbotham MC, Harden N, Stacey B, Bernstein P, Magnus-Miller L.
+Gabapentin for the treatment of postherpetic neuralgia: a randomized
+controlled trial. J Am Med Assoc 1998;280:1837–1842.
+Sindrup SH, Jensen TS. Efficacy of pharmacological treatments of neuropathic pain: an update and effect related to mechanism of drug action.
+Pain 1999;83:389–400.
+Stefani A, Spadoni F, Bernardi G. Gabapentin inhibits calcium currents
+in isolated rat brain neurons. Neuropharmacology 1998;37:83–
+91.
+A.S.C. Rice et al. / Pain 94 (2001) 215–224 223
+Tremont-Lukats IW, Megeff C, Backonja MM. Anticonvulsants for neuropathic pain syndromes: mechanisms of action and place in therapy.
+Drugs 2000;60:1029–1052.
+Volmink J, Lancaster T, Gray S, Silagy C. Treatments for postherpetic
+neuralgia a systematic review of randomized controlled trials. Fam
+Pract 1996;13:84–91.
+Ware JEJ. SF-36 Health Survey: Manual and Interpretation Guide, . Boston,
+MA: The Health Institute, New England Medical Center, 1993.
+Watson CP, Babul N. Efficacy of oxycodone in neuropathic pain: a randomized trial in postherpetic neuralgia. Neurology 1998;50:1837–1841.
+Wu CL, Marsh A, Dworkin RH. The role of sympathetic nerve blocks in
+herpes zoster and postherpetic neuralgia. Pain 2000;87:121–129.
+224 A.S.C. Rice et al. / Pain 94 (2001) 215–224

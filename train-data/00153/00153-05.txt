@@ -1,0 +1,848 @@
+Articles
+www.thelancet.com/oncology Vol 11 April 2010 331
+Long-term outcome and late eff ects in patients transplanted
+with mobilised blood or bone marrow: a randomised trial
+Birte Friedrichs, André Tichelli, Andrea Bacigalupo, Nigel H Russell, Tapani Ruutu, Michael Y Shapira, Meral Beksac, Dirk Hasenclever, Gérard Socié,
+Norbert Schmitz
+Summary
+Background Most allogeneic haematopoietic stem cell transplants now use peripheral blood progenitor cell
+transplantation (PBPCT) instead of bone-marrow transplantation (BMT). Long-term data on outcome and late eff ects
+of PBPCT compared with BMT are scarce. Here we present long-term data from a randomised study comparing
+PBPCT with BMT.
+Methods Between February, 1995, and September, 1999, 329 patients with leukaemia received either PBPCT (n=163)
+or BMT (n=166) from HLA-identical sibling donors after central randomisation accounting for stratifi cation criteria.
+Follow-up data were collected via questionnaires from 87% (176 of 202; 84 PBPCT, 92 BMT) patients who survived for
+more than 3 years (median of 9·3 years) after transplantation. Effi cacy analyses included all patients who received
+treatment. This study is registered with ClinicalTrials.gov, number NCT01020175.
+Findings 10-year overall survival was 49·1% for patients who underwent PBPCT and 56·5% for patients who underwent
+BMT (HR 0·83, 95% CI 0·60–1·15; p=0·27). Leukaemia-free survival was 28·3% with BMT versus 13·0% with
+PBPCT (0·61, CI 0·32–1·16; p=0·12) for acute lymphoblastic leukaemia; 62·3% with BMT versus 47·1% with PBPCT
+for acute myeloid leukaemia (0·67, 0·39–1·16; p=0·16); and 40·2% with BMT versus 48·5% with PBPCT for chronic
+myeloid leukaemia (1·12, 0·73–1·74; p=0·60). More patients developed chronic graft-versus-host disease after PBPCT
+(n=56, 73%) than after BMT (n=46, 56%; p=0·021), with more frequent involvement of skin, liver, and oral mucosa,
+and more patients who underwent PBPCT needed immunosuppressive treatment 5 years after transplantation (n=20,
+26%) than patients who had BMT (n=10, 12%; p=0·024). Nonetheless, there was no diff erence in performance status,
+return to work, incidence of bronchiolitis obliterans, and haematopoietic function between the two groups. 14 cases
+of secondary malignancies occurred (fi ve after BMT, nine after PBPCT), resulting in a cumulative incidence of 3%
+and 7% after BMT and PBPCT (p=0·17), respectively.
+Interpretation More than 9 years after transplantation, overall and leukaemia-free survival remain similar in patients
+who underwent BMT and PBPCT. Diff erences in the incidence of chronic graft-versus-host disease and the duration
+of immunosuppression exist, but do not aff ect survival, general health status, or late events.
+Funding No external funding was received.
+Introduction
+In 2008, most allogeneic stem cell transplantations used
+granulocyte-colony-stimulating factor (GCSF)-mobilised
+peripheral blood as the source of haematopoietic stem
+cells (HSC).1
+ Compared with bone marrow, peripheral
+blood results in faster haematopoietic recovery, but the
+relative eff ect of both sources of HSCs on other endpoints
+of allogeneic stem-cell transplantations, including acute
+and chronic graft-versus-host disease (GvHD), relapse
+rates, leukaemia-free survival, and overall survival remain
+controversial.2
+ Short-term results of randomised studies
+have been reported,3–8 and two meta-analyses comparing
+peripheral blood with bone marrow grafts have been
+published.9,10 Cutler and colleagues9
+ found that acute and
+chronic GvHD were more common after peripheral
+blood stem cell transplantation (PBSCT) than bonemarrow transplantation (BMT), and that PBSCT was
+associated with a trend toward lower rates of malignant
+relapse. One of the major fi ndings of the recent metaanalysis by the Stem Cell Trialists’ Collaborative Group10
+was that PBSCT was associated with a decreased relapse
+rate in haematological malignancies, and improved
+survival in patients with late-stage disease and a
+signifi cant risk of extensive chronic GvHD.10 The followup reports of these trials focused on chronic GvHD;
+however, the median follow-up of 41 months,11 45 months,12
+and 36 months13 was still relatively short.
+We aimed to collect information on the long-term
+outcome of patients treated in, to our knowledge, the
+largest randomised trial to compare peripheral blood
+with bone marrow grafts. We paid particular attention to
+chronic GvHD and late eff ects, including secondary
+malignancies.
+Methods
+Patients
+This was a multicentre, prospective, randomised trial
+initiated by the European Group for Blood and Marrow
+Transplantation.8
+ Patients aged 18–55 years were eligible
+if diagnosed with de-novo acute myeloid leukaemia
+Lancet Oncol 2010; 11: 331–38
+Published Online
+February 1, 2010
+DOI:10.1016/S1470-
+2045(09)70352-3
+See Reflection and Reaction
+page 305
+Hematology and Stem Cell
+Transplantation, Asklepios
+Hospital St Georg, Hamburg,
+Germany (B Friedrichs MD,
+Prof N Schmitz MD); Medical
+Clinic III, Charite-Campus
+Benjamin Franklin, Berlin,
+Germany (B Friedrichs); Basel
+Stem Cell Transplant Team,
+University Hospital Basel,
+Basel, Switzerland
+(Prof A Tichelli MD);
+Hematologia-Oncologia,
+Ospedale S Martino, Genova,
+Italy (Prof A Bacigalupo MD);
+Centre for Clinical
+Haematology, Nottingham
+University Hospital,
+Nottingham, UK
+(Prof N H Russell MD);
+Department of Medicine,
+Helsinki University Central
+Hospital, Helsinki, Finland
+(Prof T Ruutu MD); Department
+of Bone Marrow
+Transplantation and Cancer
+Immunotherapy, Hadassah –
+Hebrew University Medical
+Center, Jerusalem, Israel
+(M Y Shapira MD); Department
+of Hematology, Ankara
+University School of Medicine,
+Ankara, Turkey
+(Prof M Beksac MD); Institute
+for Medical Informatics,
+Statistics and Epidemiology,
+University of Leipzig, Germany
+(D Hasenclever PhD); and
+Service d’Hématologie, Hopital
+Saint-Louis,
+Paris, France (Prof G Socié MD)
+Correspondence to:
+Dr Birte Friedrichs, Medical Clinic
+III, Charite-Campus Benjamin
+Franklin, Hindenburgdamm 30,
+12200 Berlin, Germany
+birte.friedrichs@charite.de
+Articles
+332 www.thelancet.com/oncology Vol 11 April 2010
+(AML) or acute lymphoblastic leukaemia (ALL) in fi rst
+or second remission, chronic myeloid leukaemia (CML)
+in fi rst chronic or accelerated phase, or myelodysplastic
+syndrome (MDS). Patient accrual took place between
+February, 1995, and September, 1999. The study was
+approved by the institutional review board or ethics
+committee of each of the participating institutions, and
+all donors and patients gave written informed consent.
+Randomisation and masking
+Donor–recipient pairs were randomly assigned to
+undergo either BMT or PBPCT. The initial study was
+open label, including two diff erent procedures for the
+donor (bone-marrow harvest vs aphaeresis of fi lgrastimmobilised peripheral blood stem cells). After obtaining
+written consent, the donor–recipient pairs were enrolled
+by the sub-investigator (treating physician of the
+transplant centre). The central randomisation centre
+(International Institute for Drug Development, Brussels,
+Belgium) used minimisation to achieve the best balance
+of treatment allocations within centres and groups,
+defi ned by patient characteristics. Stratifi cation criteria
+were the following: (1) if donor is female and has ever
+been pregnant; (2) sex mismatch between donor and
+recipient; (3) recipient diagnosis of CML. The randomised
+treatment was communicated by fax to the investigator
+after the patient was registered.
+Procedures
+Full details of the study design have been reported
+previously.8
+ Briefl y, pre-transplant conditioning combined
+total body irradiation (TBI) and myeloablative doses of
+cyclophosphamide, melphalan, or etoposide. Alternatively,
+standard myeloablative therapy used at the individual
+transplantation centre was also allowed. GvHD
+prophylaxis consisted of ciclosporin and methotrexate
+(day 1, 3, and 6). Methylprednisolone was recommended
+for fi rst-line treatment of acute GvHD.
+For the present analysis, questionnaires specifi cally
+addressing long-term events after allogeneic stem-cell
+transplantations were sent out to the treating centres of
+all 202 patients who were known to have survived at least
+3 years after transplantation. There was only one
+questionnaire per patient; this long-term follow-up was
+not part of the original study design. In addition to the
+presented data, we asked for the current medication of
+the patients, but this showed no conclusive results.
+Questionnaires were answered by the patients’ physicians
+between October, 2007, and October, 2008.
+We examined overall survival, leukaemia-free survival,
+recurrence, the incidence of secondary malignancies
+and chronic GvHD, and the type, duration, and numbers
+of treatment for chronic GvHD. The population in
+which effi cacy analyses were done was per protocol.
+Chronic GvHD status was recorded at 5 years after
+transplantation and at time of last follow-up. Time to
+chronic GvHD was calculated from day 100 after
+transplantation to the onset of chronic GvHD. Overall
+survival was calculated as the time from transplantation
+to death; leukaemia-free survival was the time from
+transplantation to leukaemia recurrence or death,
+whichever occurred fi rst. Patients remaining alive were
+censored at the date of last follow-up. For the calculation
+of overall survival, leukaemia-free survival, recurrence,
+and overall incidence of chronic GvHD, the entire
+population was analysed. Time and lines of
+immunosuppressive treatment, organ involvement of
+chronic GvHD, incidence of bronchiolitis obliterans,
+cataract formation, Eastern Cooperative Oncology Group
+(ECOG) performance status, the number of patients
+returning to work (assessed at last follow-up), and
+haematopoietic recovery (at 5 years after transplantation)
+were assessed for patients surviving at least 3 years after
+transplantation.
+176 assigned to bone-marrow transplantation
+ 166 received bone-marrow transplantation
+ 10 had disease progression before transplantation
+174 allocated to peripheral blood progenitor cell
+ transplantation
+ 163 received peripheral blood progenitor
+ transplantation
+ 11 had disease progression before transplantation
+350 assessed for eligibility and randomised
+108 alive 36 months after transplantation
+ Follow-up questionnaires sent
+ 94 alive 36 months after transplantation
+ Follow-up questionnaires sent
+ 92 patients with long-term follow-up
+ 3 lost to follow-up
+ 13 questionnaires not returned
+ 84 patients with long-term follow-up
+ 2 lost to follow-up
+ 8 questionnaires not returned
+Figure 1: Trial profi le
+PBPCT BMT Total
+Number of patients 163 166 329
+Number alive at 3-year follow-up 94 108 202
+Patients without long-term follow-up 10 16 26
+Patients with long-term follow-up 84 92 176
+Acute myeloid leukaemia 32 32 64
+Acute lymphoblastic leukaemia 4 15 19
+Chronic myeloid leukaemia 45 44 89
+Myelodysplastic syndrome 3 1 4
+Median age at allogeneic stem cell transplant
+(years [range])
+37 (19–58) 37 (19–55) 37(19–58)
+Male 44 52 96
+CR1 76 83 159
+Median time after allogeneic stem cell
+transplant (years [range])
+9·2 (3·0–11·9) 9·3 (3·2–12·1) 9·3 (3·0–12·1)
+Median time between allogeneic stem cell
+transplant and questionnaire (years [range])
+10·8 (9·3–13·1) 10·8 (9·0–13·8) 10·8 (9·0–13·8)
+BMT=bone-marrow transplant. CML=chronic myeloid leukaemia. CR1=fi rst complete remission or CML in fi rst chronic
+phase. PBPCT=peripheral blood progenitor cell transplantation.
+Table 1: Patient characteristics
+Articles
+www.thelancet.com/oncology Vol 11 April 2010 333
+Statistical analysis
+The χ² test was used to compare the distribution of
+patient-related, disease-related, and transplant-related
+variables. The cumulative incidences of chronic GvHD,
+relapse and secondary malignancies were estimated with
+death without an event as the competing risk using the
+package cmprsk of the free statistical software
+R version 2.7.1. All further analyses were done with SPSS
+version 17.0.
+The estimates of overall survival and leukaemia-free
+survival at 10 years were calculated using the KaplanMeier method. Diff erences in overall survival and
+leukaemia-free survival between both treatment groups
+were compared using the log-rank test at a signifi cance
+level of 0·05, and by estimating the hazard ratio and the
+95% CI. A Cox proportional hazards regression analysis
+was done to identify survival predictors. Multivariate
+analysis was done using predictors that were signifi cantly
+associated with survival in a univariate analysis using a
+backward-selection procedure with entry signifi cance
+level set at 0·05. All statistical tests were two-sided. This
+study is registered with ClinicalTrials.gov, number
+NCT01020175.
+Role of the funding source
+This long-term follow-up was not part of the initial study.
+The sponsors had no role in study design, data collection,
+data analysis, data interpretation, or writing of the report.
+BF, AT, DH, GC, and NS had full access to the raw data.
+The corresponding author had full access to all of the
+data and the fi nal responsibility to submit the manuscript
+for publication.
+Results
+350 patients from 42 transplantation centres (webappendix)
+in 13 European countries, Israel, and Australia were
+randomly assigned to receive either peripheral blood or
+bone marrow from their HLA-identical sibling donor.
+329 patients were eligible for transplantation (fi gure 1).
+Completed questionnaires collected at a median of
+9·3 years (range 3·0–12·1) after transplantation were
+available for 176 patients; 87% of all patients reported to be
+alive 3 years or more after transplantation (92 [52%] BMT,
+84 [48%] PBPCT). The median time between
+transplantation and the completion of the questionnaire
+was 10·8 years in both groups. Four centres representing
+21 patients did not respond, and fi ve patients from
+responding centres were lost to follow-up. There were no
+diff erences in patient or disease characteristics between
+the patients included and the patients not included in this
+long-term study. The groups (PBPCT vs BMT) were well
+matched in terms of patient sex, age, disease type, and
+remission status. Information on duration of immunosuppressive treatment was available for 158 of 176 patients
+(82 BMT and 76 PBPCT patients; table 1). Patients’
+enrolment and outcomes in the assessment of the lateeff ect study are shown in fi gure 1.
+At 10 years after transplantation, overall survival was
+49·1% after PBPCT versus 56·5% after BMT (HR 0·83;
+95% CI 0·60–1·15; p=0·27). Median survival was 9·3 years
+(95% CI 3·6–not yet reached) for peripheral blood
+recipients, while it was not reached for bone-marrow
+recipients (fi gure 2A). 10-year leukaemia-free survival was
+42·3% after PBPCT versus 45·5% after BMT (HR 0·88;
+95% CI 0·65–1·19; p=0·41). Median leukaemia-free
+survival was 5·6 years (95% CI 2·6–10·5) after BMT
+compared with 4·8 years (2·0–10·3) after PBPCT
+(fi gure 2B).
+Patients with ALL had an overall survival at 10 years of
+32·9% after BMT compared with 18·2% after PBPCT
+Number at risk
+BMT 166 102 77 70 32 0
+PBPCT 163 94 74 62 23 0 Overall survival (%) 100
+80
+60
+40
+20
+0
+A
+p=0·27
+HR 0·83 (95% CI 0·60–1·16)
+χ²=1·20, df=1
+BMT
+PBPCT
+Number at risk
+BMT 166 96 71 63 27 0
+PBPCT 163 86 70 61 22 0 Leukaemia-free survival (%) 100
+80
+60
+40
+20
+0
+0 1 30 60 90 20 150
+Months after transplantation
+B
+p=0·41
+HR 0·88 (95% CI 0·65–1·19)
+χ²=0·68, df=1
+Figure 2: Overall survival (A) and leukaemia-free survival (B) of entire patient cohort
+df=degrees of freedom. Patients receiving bone-marrow transplant are represented by the blue line, those
+receiving peripheral blood progenitor cell transplantation by the red line. Vertical marks on each curve represent
+censored patients.
+See Online for webappendix
+Articles
+334 www.thelancet.com/oncology Vol 11 April 2010
+(HR 0·52; 95% CI 0·26–1·06; p=0·071), translating into
+a median overall survival of 3·3 years and 1·0 year after
+BMT and PBPCT, respectively. Leukaemia-free survival
+at 10 years for patients with ALL was 28·3% for bonemarrow recipients compared with 13·0% for peripheralblood recipients (p=0·12; fi gure 3A).
+In patients with AML, 10-year overall survival was
+65·3% for bone-marrow recipients compared with 52·3%
+for peripheral-blood recipients (HR 0·71, 95% CI 0·40–
+1·26; p=0·24). 10-year leukaemia-free survival estimate
+was 62·3% for bone-marrow recipients compared with
+47·1% for patients who received peripheral blood (p=0·16;
+fi gure 3B). In patients with CML, 10-year overall survival
+was 61·1% for bone-marrow recipients, compared with
+56·8% for peripheral blood recipients (p=0·81). 10-year
+leukaemia-free survival was 40·2% for bone-marrow
+recipients and 48·5% for peripheral blood recipients
+(p=0·60; fi gure 3C). No diff erences between BMT and
+PBPCT were noted when patients were divided into
+good-risk (AML or ALL in CR1 [fi rst complete remission
+or CML in fi rst chronic phase], CML in fi rst chronic
+phase) and poor-risk categories (AML or ALL ≥CR2, CML
+in accelerated phase; fi gure 3D).
+The cumulative incidence of relapse at 10 years was
+24% and 20% after BMT and PBPCT, respectively
+(p=0·46). Late relapses (after more than 3 years)
+occurred in 11 patients (nine after BMT; two after
+PBPCT; ALL n=4, CML n=7) resulting in a cumulative
+incidence of 18% for BMT and 7% for PBPCT (p=0·06).
+Although no diff erences in relapse rates were found for
+Number at risk
+BMT 32 15 10 9 5 0
+PBPCT 23 5 5 4 2 0
+ BMT 56 36 30 29 14 0
+ PBPCT 60 33 25 25 11 0
+Leukaemia-free survival (%) 100
+80
+60
+40
+20
+0
+A ALL
+CML
+AML
+p=0·12
+HR 0·61 (95% CI 0·32–1·16)
+χ²=0·13, df=1
+BMT
+PBPCT
+p=0·16
+HR 0·67 (95% CI 0·39–1·16)
+χ²=2·00, df=1
+p=0·60
+HR 1·12 (95% CI 0·73–1·74)
+χ²=0·27, df=1
+p=0·81
+χ²=0·98, df=3
+B
+Number at risk
+BMT 79 46 31 26 9 0
+PBPCT 76 49 40 33 10 0
+ BMT CR1 148 86 63 55 23 0
+ PBPCT CR1 145 76 63 56 21 0
+ BMT>CR1 18 9 8 7 5 0
+ PBPCT>CR1 18 11 7 5 2 0
+
+Leukaemia-free survival (%) 100
+80
+60
+40
+20
+0
+0 120 30 60 90 150
+Months after transplantation
+C D
+0 1 30 60 90 20 150
+Months after transplantation
+BMT CR1
+PBPCT CR1
+BMT>CR1
+PBPCT>CR1
+Figure 3: Leukaemia-free survival by treatment group according to disease subgroup
+df=degrees of freedom. (A) Acute lymphoblastic leukaemia (ALL). (B) Acute myeloid leukaemia (AML). (C) Chronic myeloid leukaemia (CML). (D) Patients transplanted in CR1 or fi rst chronic phase
+compared with patients with advanced disease (ALL, AML, myelodysplastic syndrome >CR1, CML accelerated phase). Vertical marks on each curve represent censored patients. CR1=fi rst complete
+remission or CML in fi rst chronic phase. >CR1=advanced disease; second remission in ALL, AML, and myelodysplastic syndrome, and accelerated phase in CML.
+Articles
+www.thelancet.com/oncology Vol 11 April 2010 335
+acute leukaemias, patients with CML showed a
+signifi cantly lower incidence of relapse after PBPCT
+(BMT 19%, PBPCT 7%; p=0·036). During the fi rst
+3 years after transplant, 21 patients in the PBPCT group
+but only 10 patients in the BMT group relapsed, after
+which time more relapses occurred in patients who
+underwent BMT (nine after BMT; two after PBPCT).
+The overall incidence of relapse is now similar in both
+treatment groups.
+162 patients have died; 72 patients (44%) after BMT and
+90 patients (55%) after PBPCT. 138 patients died in the
+fi rst 3 years after transplantation; 62 patients (37%) after
+BMT and 76 patients (46%) after PBPCT. Late deaths
+(>3 years) occurred in 24 cases (10 BMT [11%], 14 PBPCT
+[17%]); six patients died due to relapse (four BMT; two
+PBPCT). Other causes of death included secondary
+malignancy (n=1), GvHD (n=9), brain haemorrhage
+(n=2), suicide (n=2), traffi c accident (n=1), unknown
+(n=3), and did not show diff erences between the bone
+marrow and peripheral blood groups (table 2).
+Signifi cantly more patients alive at 3 years and
+transplanted with peripheral blood had developed chronic
+GvHD than those transplanted with bone marrow
+(table 3). The cumulative incidence of extensive disease
+at 10 years was also higher after PBPCT (table 3). 5 years
+after transplantation, signifi cantly more patients who
+had been transplanted with peripheral blood were still on
+immunosuppression than of those transplanted with
+bone marrow (table 3). After PBPCT signifi cantly more
+patients had involvement of the skin, liver, and oral
+mucosa (table 3). No diff erences were seen in the
+incidence of ocular and gastrointestinal GvHD (table 3).
+The overall incidence of bronchiolitis obliterans was 11%,
+with no diff erence between bone-marrow (n=10 [12%])
+and peripheral-blood recipients (n=7 [9%]). All of these
+patients had chronic GvHD and 77% (n=13) had extensive
+disease. Six of 82 patients (7%) who received bone
+marrow needed additional immuno suppression,
+compared with 13 of 76 patients (17%) who received
+peripheral blood (p=0·067; table 3).
+The incidence of cataracts was 11% in both treatment
+groups (nine in the BMT group, eight in the PBPCT
+group). 14 cases of secondary malignancies were
+PBPCT BMT Total
+Deaths
+Total 14 10 24
+ALL 0 5 5
+AML 5 1 6
+CML 9 4 13
+Causes
+Relapse 2 4 6
+ALL 0 3 3
+AML 0 0 0
+CML 2 1 3
+Chronic GvHD 6 3 9
+Haemorrhage 0 1 2
+Bronchial carcinoma 1 1 1
+Suicide 2* 0 2
+Traffi c accident 1 0 1
+Unknown 2 1 3
+*Patients with chronic graft-versus-host disease (GvHD). AML=acute myeloid
+leukaemia. ALL=acute lymphoblastic leukaemia. BMT=bone-marrow transplant.
+CML=chronic myeloid leukaemia. PBPCT=peripheral blood progenitor cell
+transplantation.
+Table 2: Incidence and causes of late deaths (3 years or later)
+PBPCT BMT Total p Relative risk (95% CI)
+All patients surviving 100 days or more after transplant 139 146 285 .. ..
+Chronic GvHD, any type 102 (74) 81 (56) 183 (64) 0·0016 1·32 (1·11–1·58)
+Extensive disease 57 (36) 32 (19) 89 (31) 0·0011 1·87 (1·30–2·70)
+Patients surviving at least 3 years after transplantation 76 82 158 .. ..
+Chronic GvHD, any type 56 (73) 46 (56) 99 (63) 0·021 1·31 (1·03–1·52)
+Extensive disease 40 (53) 24 (29) 64 (41) 0·0028 1·79 (1·21–2·68)
+Patients with systemic immunosuppression at 5 years after
+allogeneic stem-cell transplantation
+20 (26) 10 (12) 30 (19) 0·024 2·16 (1·08–4·31)
+Patients with immunosuppression other than ciclosporin A/steroids 13 (17) 6 (7) 19 (12) 0·067 2·23 (0·98–5·70)
+Organ involvement of chronic GvHD
+Skin 40 (53) 29 (35) 69 (44) 0·029 1·49 (1·04–2·14)
+Liver 36 (47) 21 (26) 57 (36) 0·0044 1.85 (1·19–2·87)
+Oral mucosa 21 (28) 13 (16) 34 (22) 0·059 1·71 (0·98–3·23)
+Gastrointestinal tract 13 (17) 10 (12) 23 (15) 0·38 1·40 (0·65–3·01)
+Ocular involvement 7 (9) 9 (11) 16 (10) 0·71 0·85 (0·32–2·14)
+Bronchiolitis obliterans 7 (9) 10 (12) 17 (11) 0·55 0·75 (0·30–1·89)
+Cataract 8 (11) 9 (11) 17 (11) 0·93 0·98 (0·39–2·36)
+Data are n or n (%), unless stated otherwise. GvHD=graft-versus-host disease. BMT=bone-marrow transplant. PBPCT=peripheral blood progenitor cell transplantation.
+Table 3: Incidence of chronic GvHD and organ involvement
+Articles
+336 www.thelancet.com/oncology Vol 11 April 2010
+reported (fi ve in the BMT group, nine in the PBPCT
+group). Specifi cally, three cases of basalioma, two
+thyroid cancers, and one case each of lymphoma, lung
+cancer, prostate cancer, squamous-cell cancer, histiocytofi broma, ependymoma, tongue carcinoma, breast
+cancer, and cervical carcinoma were diagnosed. The
+cumulative incidence of secondary malignancies at
+10 years was 5% for the entire study population; 3% after
+BMT, and 7% after PBPCT (p=0·17). Among 3-year
+survivors, the cumulative incidence was 7% for bonemarrow and 16% for peripheral-blood recipients
+(p=0·16); the median ECOG performance status
+assessed at last follow-up was 0·5 (range 0–3), with no
+diff erence between bone-marrow grafts or peripheralblood grafts. 77% of patients (n=114) had returned to
+work (n=61 [79%]) after BMT, n=59 (75%) after PBPCT.
+Haematopoietic function assessed 5 years after
+transplant was normal, and showed median haemoglobin
+concentrations of 138 g/L (range 88–166) versus 141 g/L
+(range 98–174) and median platelet counts of 251×10⁹/L
+(range 38–425) versus 225×10⁹/L (range 44–554) for
+bone-marrow and peripheral-blood recipients,
+respectively. Only a small number of patients had
+platelet counts lower than 100×10⁹/L (two in the BMT
+group, three in the PBPCT group) or haemoglobin lower
+than 100 g/L (one patient each in the PBPCT and BMT
+groups; table 4).
+In univariate analysis, diagnosis of ALL and age above
+40 years were independent predictors of survival at
+3 years (p<0·0001 and p=0·032, respectively).13 In our
+10-year survival analysis, diagnosis of ALL remained
+signifi cant (HR 2·86, 95% CI 1·82–4·53; p<0·0001), but
+age over 40 years was of borderline signifi cance (HR
+0·77, 95% CI 0·66–1·03; p=0·089). Although the study
+was not randomised for this comparison, the use of a
+TBI-containing preparative regimen compared with
+chemotherapy alone showed a trend toward increased
+survival (HR 0·81, 95% CI 0·64–1·09; p=0·091) in
+univariate analysis after 10 years, whereas it had not been
+signifi cant in the 3-year analysis. As the eff ect of type of
+transplant on survival was the primary endpoint of this
+study it was also included in the multivariable model.
+Diagnosis, age, and the use of TBI continued to be predictive for survival in the multivariable model (table 5).
+Discussion
+This study reports long-term follow-up data of patients
+treated within the largest randomised study comparing
+allogeneic PBPCT with BMT. Earlier studies with median
+follow-up of 3–4 years had repeatedly shown that patients
+transplanted with peripheral blood experienced more
+severe chronic GvHD more often than patients who
+underwent BMT.9–11,14 Furthermore, the study by Flowers
+and colleagues11 indicated that patients who underwent
+PBPCT experienced protracted courses of GvHD and
+needed higher numbers of successive treatments to
+control chronic GvHD. However, the duration of
+immunosuppressive therapy overall had been similar
+between the two groups.11 Here, we report that signifi cantly
+more peripheral-blood recipients remained on systemic
+immunosuppression 5 years after transplantation (26% vs
+12%, p=0·024). After PBPCT, patients had an increased
+risk for the development of chronic GvHD of the skin,
+liver, and oral mucosa, while no diff erences were found
+for ocular and gastrointestinal involvement. Of note, even
+with over 9 years of follow-up, the higher incidence of
+chronic GvHD did not result in signifi cantly more deaths
+due to chronic GvHD, nor did it aff ect change of health
+status, social integration, and late eff ects.
+While overall survival and leukaemia-free survival was
+comparable between groups when all patients were
+considered together, better overall survival and leukaemiafree survival after BMT was seen in patients with acute
+leukaemias. Compared with other studies, the survival
+rates for ALL, especially after PBPCT, are particularly low,
+mainly due to high early mortality.15 This fi nding is not
+explained by a bias due to a high number of patients with
+advanced disease or unfavourable cytogenetics.13 In the
+PBPCT (n=78) BMT (n=77) Overall (n=155)
+Platelet count, ×109
+/L
+Median (range) 225 (44–554) 251 (38–425) 244 (38–554)
+Platelets less than 100×109
+/L 3 2 5
+Platelets less than 50×109
+/L 2 1 3
+Haemoglobin (g/L)
+Median (range) 141 (98–174) 138 (88–166) 139 (88–174)
+less than 120 g/L 7 13 20
+less than 100 g/L 1 1 2
+ECOG performance status*
+Median 0 0 0
+Number of patients with performance status
+ECOG 0 52 53 105
+ECOG 1 13 12 25
+ECOG 2 2 5 7
+ECOG 3 2 0 2
+Missing 2 13 15
+Return to work* (%) 59 (75) 61 (79) 120 (77)
+*Assessed at last follow-up. BMT=bone-marrow transplant. PBPCT=peripheral blood progenitor cell transplantation.
+ECOG=Eastern Cooperative Oncology Group.
+Table 4: Haematopoietic function (at 5 years after allogeneic stem-cell transplantation) of long-term
+survivors and performance status
+Hazard ratio (95%CI) p (cox regression)
+ALL vs other 2·90 (1·96–4·25) <0·0001
+Age ≥40 years vs age <40 years 1·55 (1·12–2·15) 0·0093
+TBI vs chemotherapy 1·53 (1·09–2·15) 0·014
+BMT vs PBPCT 0·76 (0·55–1·05) 0·092
+ALL=acute lymphoblastic leukaemia. BMT=bone-marrow transplant. PBPCT=peripheral blood progenitor cell
+transplantation. TBI=total body irradiation.
+Table 5: Multivariable analysis with Cox-proportional hazard ratio for overall survival
+Articles
+www.thelancet.com/oncology Vol 11 April 2010 337
+fi rst 3 years after transplantation a surprisingly high
+incidence of relapses after PBPCT had been reported.13
+With longer follow-up, more relapses occurred after
+BMT; the overall incidence of relapse is now similar in
+both treatment groups. This has also been noted in a
+recent meta-analysis of all major randomised trials.10
+Relapse remains a primary cause of late death, especially
+for patients with ALL and CML. This is in line with the
+largest study on long-term survival after allogeneic stemcell transplantation.16
+Patients with CML in fi rst chronic phase showed
+signifi cantly fewer relapses after PBSCT than after BMT,
+while no diff erences were found for patients with acute
+leukaemias. This fi nding was fi rst described in the recent
+meta-analysis and might refl ect the exquisite sensitivity of
+CML cells to the graft versus leukaemia eff ect exerted by
+donor T cells.10,17 Because tyrosine kinase inhibitors (TKIs)
+are now used worldwide as fi rst-line therapy in CML,
+allogeneic stem-cell transplantation is now used in more
+advanced disease for patients with an insuffi cient response
+to TKIs.18 In such patients, the use of peripheral blood
+should be strongly considered, especially as other studies
+have indicated that peripheral blood is better for patients
+with advanced-phase CML.19 We showed in a multivariable
+model adjusted for age and diagnosis that patients who
+received TBI-based preparative regimens had better
+survival than patients receiving chemotherapy alone as
+conditioning. Other studies comparing outcomes of TBIcontaining with non-TBI-containing regimens also showed
+that TBI was associated with lower relapse rates and better
+survival.20 Comparing four randomised studies with a longterm follow up of over 7 years, Socié and colleagues21 also
+showed a trend but no signifi cant diff erences between
+TBI-containing and non-TBI-containing regimens.
+We noted 14 cases of secondary malignancies resulting
+in a cumulative incidence of 3% for bone-marrow
+recipients and 7% for peripheral-blood recipients
+(p=0·17). Previous studies reported risks to develop solid
+cancers ranging between 2% and 6% at 10 years after
+bone-marrow transplant.22,23 While 10 of the 14 patients
+with secondary cancers had chronic GvHD, no correlation
+could be shown with the duration of immunosuppressive
+treatment. A recent work by Janin and colleagues24
+showed that a number of secondary squamous-cell
+carcinomas in allogeneic transplant recipients were of
+donor origin. Of note, three of the 14 secondary
+malignancies noted in our cohort were from squamous
+epithelia. We did not have a chance to determine its host
+or donor origin, although it is tempting to speculate that
+the interaction of host and donor cells resulting from
+GvHD might contribute to the development of cancer in
+skin and mucous membranes.
+Despite diff erences in the incidence of chronic GvHD,
+other late eff ects did not diff er between the two treatment
+groups. Bronchiolitis obliterans was reported in 11% of
+the patients who all had chronic and mostly extensive
+GvHD, an association found in earlier studies. However,
+by contrast with a retrospective study identifying PBPCT
+as a risk factor for bronchiolitis obliterans, the higher
+incidence of chronic GvHD after PBPCT in this study
+was not refl ected in a higher proportion of patients with
+bronchiolitis obliterans.25 The overall incidence of cataract
+(11%) is low compared with a large retrospective analysis
+of the European Group for Blood and Marrow
+Transplantation.26 However, heterogeneity in terms of
+ophthalmological follow-up in diff erent centres might
+have aff ected these results.
+When long-term remission is achieved, the patient’s
+quality of life is a crucial objective. In line with other
+studies,27,28 85% of the survivors showed good clinical
+performance status (ECOG 0–1), and 77% of the patients
+had returned to work. This might be related to better
+treatment strategies for GvHD, but might also indicate
+that our means to assess quality of life were not sensitive
+enough. Clearly, more detailed prospective quality-of-life
+assessment needs to be integrated into future studies.
+Today, many aspects of haematopoietic stem-cell
+transplantation have changed. Transplantation indications
+vary due to alternative treatment options or the discovery
+of new risk factors. Reduced-intensity conditioning is
+increasingly being used, and myeloablative TBI is less
+popular. Overall, this update comparing two important
+stem-cell sources did not fi nd diff erences in survival after
+10-year follow-up. However, subgroup analyses did show
+notable diff erences in survival in patients with acute
+leukaemias between those who received allogeneic blood
+cells and those who received bone marrow, while no
+diff erences were seen in patients with CML. Our
+observations support previous reports that diff erent
+patient groups might still benefi t from transplantation
+with bone marrow.29,30 These data alone do not currently
+support the return to bone-marrow transplantation for
+specifi c indications, but we believe that long-term data
+from other randomised trials should be collected.
+Contributors
+BF designed the study, analysed and interpreted data, did statistical
+analysis, and wrote the manuscript. AT designed the study, collected
+data, and wrote the manuscript. AB, NHR, TR, MYS, and MB collected
+and analysed data. DH did statistical analysis. GS designed research,
+analysed and interpreted data, and wrote the manuscript. NS had the
+original idea for the study, designed the study, analysed and interpreted
+data, and wrote the manuscript.
+Confl icts of interest
+The authors declared no confl icts of interest.
+Acknowledgments
+The authors thank all participating centres for their contribution to this
+study. This paper was supported by the late eff ects working party of the
+European Group for Blood and Marrow Transplantation.
+References
+1 Gratwohl A, Baldomero H, Frauendorfer K, et al. The EBMT
+ac≈survey 2006 on hematopoietic stem cell transplantation: focus
+on the use of cord blood products. Bone Marrow Transplant 2008;
+41: 687–705.
+2 Schmitz, N. Peripheral blood hematopoietic cells for allogeneic
+transplantation. In: Blume KG, Forman SJ, Appelbaum FR.
+Thomas’ Hematopoietic Cell Transplantation. NJ, USA:
+Wiley-Blackwell, 2009: 618–30.
+Articles
+338 www.thelancet.com/oncology Vol 11 April 2010
+3 Vigorito AC, Azevedo WM, Marques JF, et al. A randomised,
+prospective comparison of allogeneic bone marrow and peripheral
+blood progenitor cell transplantation in the treatment of
+haematological malignancies. Bone Marrow Transplant 1998;
+22: 1145–51.
+4 Blaise D, Kuentz M, Fortanier C, et al. Randomized trial of bone
+marrow versus lenograstim-primed blood cell allogeneic
+transplantation in patients with early-stage leukemia: a report
+from the Société Française de Greff e de Moelle. J Clin Oncol 2000;
+18: 537–46.
+5 Powles R, Mehta J, Kulkarni S, et al. Allogeneic blood and bonemarrow stem-cell transplantation in haematological malignant
+diseases: a randomised trial. Lancet 2000; 355: 1231–37.
+6 Bensinger WI, Martin PJ, Storer B, et al. Transplantation of bone
+marrow as compared with peripheral-blood cells from HLAidentical relatives in patients with hematologic cancers.
+N Engl J Med 2001; 344: 175–81.
+7 Couban S, Simpson DR, Barnett MJ, et al. A randomized
+multicenter comparison of bone marrow and peripheral blood in
+recipients of matched sibling allogeneic transplants for myeloid
+malignancies. Blood 2002; 100: 1525–31.
+8 Schmitz N, Beksac M, Hasenclever D, et al. Transplantation of
+mobilized peripheral blood cells to HLA-identical siblings with
+standard-risk leukemia. Blood 2002; 100: 761–67.
+9 Cutler C, Giri S, Jeyapalan S, et al. Acute and chronic graft-versushost disease after allogeneic peripheral-blood stem-cell and bone
+marrow transplantation: a meta-analysis. J Clin Oncol 2001;
+19: 3685–91.
+10 Stem Cell Trialists’ Collaborative Group. Allogeneic peripheral
+blood stem-cell compared with bone marrow transplantation in the
+management of hematologic malignancies: an individual patient
+data meta-analysis of nine randomized trials. J Clin Oncol 2005;
+23: 5074–87.
+11 Flowers ME, Parker PM, Johnston LJ, et al. Comparison of chronic
+graft-versus-host disease after transplantation of peripheral blood
+stem cells versus bone marrow in allogeneic recipients: long-term
+follow-up of a randomized trial. Blood 2002; 100: 415–19.
+12 Mohty M, Kuentz M, Michallet M, et al. Chronic graft-versus-host
+disease after allogeneic blood stem cell transplantation: long-term
+results of a randomized study. Blood 2002; 100: 3128–34.
+13 Schmitz N, Beksac M, Bacigalupo A, et al. Filgrastim-mobilized
+peripheral blood progenitor cells versus bone marrow
+transplantation for treating leukemia: 3-year results from the
+EBMT randomized trial. Haematologica 2005; 90: 643–48.
+14 Schmitz N, Eapen M, Horowitz MM, et al. Long-term outcome of
+patients given transplants of mobilized blood or bone marrow:
+a report from the International Bone Marrow Transplant Registry
+and the European Group for Blood and Marrow Transplantation.
+Blood 2006; 108: 4288–90.
+15 Kiehl MG, Kraut L, Schwerdtfeger R, et al. Outcome of allogeneic
+hematopoietic stem-cell transplantation in adult patients with acute
+lymphoblastic leukemia: no diff erence in related compared with
+unrelated transplant in fi rst complete remission. J Clin Oncol 2004;
+22: 2816–25.
+16 Socié G, Stone JV, Wingard JR, et al. Long-term survival and late
+deaths after allogeneic bone marrow transplantation. N Engl J Med
+1999; 341: 14–21.
+17 Kolb HJ, Schattenberg A, Goldman JM, et al. Graft-versus-leukemia
+eff ect of donor lymphocyte transfusions in marrow grafted patients.
+Blood 1995; 86: 2041–50.
+18 Apperley JF. Management of resistance to imatinib in chronic
+myeloid leukaemia. Lancet Oncol 2007; 8: 1116–28.
+19 Elmaagacli, AH, Basoglu S, Peceny R, et al. Improved
+disease-free–survival after transplantation of peripheral blood stem
+cells as compared with bone marrow from HLA-identical unrelated
+donors in patients with fi rst chronic phase chronic myeloid
+leukemia. Blood 2002; 99: 1130–35.
+20 Blaise D, Maraninchi D, Michallet M, et al. Long-term follow-up
+of a randomized trial comparing the combination of
+cyclophosphamide with total body irradiation or busulfan as
+conditioning regimen for patients receiving HLA-identical marrow
+grafts for acute myeloblastic leukemia in fi rst complete remission.
+Blood 2001; 7: 3669–71.
+21 Socié G, Clift RA, Blaise D, et al. Busulfan plus cyclophosphamide
+compared with total-body irradiation plus cyclophosphamide before
+marrow transplantation for myeloid leukemia: long-term follow-up
+of 4 randomized studies. Blood 2001; 98: 3569–74.
+22 Rizzo JD, Curtis RE, Socié G, et al. Solid cancers after allogeneic
+hematopoietic cell transplantation. Blood 2009; 113: 1175–83.
+23 Curtis RE, Metayer C, Rizzo JD, et al. Impact of chronic GVHD
+therapy on the development of squamous-cell cancers after
+hematopoietic stem-cell transplantation: an international
+case-control study. Blood 2005; 105: 3802–11.
+24 Janin A, Murata H, Leboeuf C, et al. Donor-derived oral squamous
+cell carcinoma after allogeneic bone marrow transplantation.
+Blood 2009; 113: 1834–40.
+25 Santo Tomas LH, Loberiza FR Jr, et al. Risk factors for bronchiolitis
+obliterans in allogeneic hematopoietic stem-cell transplantation for
+leukemia. Chest 2005; 128: 153 –61.
+26 Belkacemi Y, Labopin M, Vernant JP, et al. Cataracts after total body
+irradiation and bone marrow transplantation in patients with acute
+leukemia in complete remission: a study of the European Group for
+Blood and Marrow Transplantation. Int J Radiat Oncol Biol Phys
+1998; 41: 659–68.
+27 Socié G, Salooja N, Cohen A, et al. Nonmalignant late eff ects after
+allogeneic stem cell transplantation. Blood 2003; 101: 3373–85.
+28 Andrykowski MA, Bishop MM, Hahn EA, et al. Long-term
+health-related quality of life, growth, and spiritual well-being after
+hematopoietic stem-cell transplantation.
+J Clin Oncol 2005; 23: 599–608.
+29 Eapen M, Horowitz MM, Klein JP, et al. Higher mortality after
+allogeneic peripheralblood transplantation compared with bone
+marrow in children and adolescents: the Histocompatibility and
+Alternate Stem Cell Source Working Committee of the
+International Bone Marrow Transplant Registry. J Clin Oncol 2004;
+22: 4872–80.
+30 Schrezenmeier H, Passweg JR, Marsh JC, et al. Worse outcome and
+more chronic GVHD with peripheral blood progenitor cells than
+bone marrow in HLA-matched sibling donor transplants for young
+patients with severe acquired aplastic anemia. Blood 2007;
+110: 1397–400.

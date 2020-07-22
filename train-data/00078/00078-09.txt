@@ -1,0 +1,919 @@
+Copyright © 2011 Informa UK Limited Not for Sale or Commercial Distribution Unauthorized use prohibited. Authorised users can download, display, view and print a single copy for personal use
+Current Medical Research & Opinion Vol. 27, No. 10, 2011, 1849–1858
+0300-7995 Article FT-0212.R1/609539
+doi:10.1185/03007995.2011.609539 All rights reserved: reproduction in whole or part not permitted
+Original article
+A randomized placebo-controlled trial of
+duloxetine in patients with major depressive
+disorder and associated painful physical
+symptoms
+Paula J. Gaynor
+Eli Lilly and Company, Indianapolis, IN, USA
+Murali Gopal
+DWA Healthcare Communications Group, Carmel,
+IN, USA
+Wei Zheng
+James M. Martinez
+Michael J. Robinson
+Eli Lilly and Company, Indianapolis, IN, USA
+Lauren B. Marangell
+Eli Lilly and Company, Indianapolis, IN, USA
+Department of Psychiatry, University of Texas Health
+Science Center, Houston, TX, USA
+Address for correspondence:
+Paula J. Gaynor, Senior Clinical Research Scientist,
+USMD Neuroscience, Lilly USA, LLC, Lilly Corporate
+Center, IN 46285, USA.
+Tel.:
+þ1 (317) 655-8794; Fax:
+þ1 (317) 276-7100;
+gaynorpj@lilly.com
+Key words:
+Duloxetine – Major depressive disorder – Pain –
+Randomized clinical trial
+Accepted: 28 July 2011; published online: 12 August 2011
+Citation: Curr Med Res Opin 2011; 27:1849–58
+Abstract
+Objective:
+Painful physical symptoms are common in patients with major depressive disorder (MDD) and may predict
+poorer treatment outcomes. Duloxetine has demonstrated efficacy in treating both MDD and certain other
+painful conditions. This randomized, double-blind clinical trial assessed the effects of duloxetine in patients
+with both MDD and MDD-associated physical pain.
+Methods:
+Participants were outpatient adults with current MDD (DSM-IV-TR criteria; Montgomery–A˚sberg Depression
+Rating Scale [MADRS] total score
+20) and at least moderate pain (Brief Pain Inventory Short Form [BPI]
+average pain rating
+3) and with at least one prior episode of MDD. Patients received placebo (
+N
+¼ 266) or
+duloxetine (
+N
+¼ 262) 60 mg once daily. This trial is registered at clinicaltrials.gov (NCT01000805).
+Main outcome measures:
+Coprimary outcomes were MADRS total score (change from baseline at 8 weeks) and BPI average pain
+rating (overall main effect over 8 weeks). The Sheehan Disability Scale (SDS) global functional impairment
+score (change from baseline at 8 weeks) was used to assess functioning. Remission was defined as MADRS
+total score
+12 at the 8-week endpoint. Changes were analyzed using mixed-effects model repeated
+measures (MMRM).
+Results:
+Compared with placebo, duloxetine significantly improved the mean MADRS total score, BPI average pain
+rating, and SDS global functional impairment score (all
+p
+ 0.05 for analyses described above). The
+remission rate was significantly greater with duloxetine compared with placebo (
+p
+¼ 0.001) and was
+greater for duloxetine-treated patients with
+50% versus
+550% improvement in BPI average pain score
+(
+p
+ 0.001). Treatment emergent adverse events that occurred in at least 5% of duloxetine-treated patients
+and at twice the rate of placebo included nausea, somnolence, constipation, decreased appetite, and
+hyperhidrosis. Rates of discontinuation due to adverse events were greater for duloxetine than placebo
+(8.0% vs 3.4%, respectively;
+p
+¼ 0.024). This study did not address the effects of duloxetine on MDD and
+comorbid pain of a known origin.
+Conclusions:
+These results support the efficacy and tolerability of duloxetine in the treatment of depression and associated
+painful physical symptoms in patients with MDD and at least moderate MDD-associated pain.
+Introduction
+Patients with major depressive disorder (MDD) may present with signs and
+symptoms across both emotional and physical domains. Increasingly, painful
+! 2011 Informa UK Ltd www.cmrojournal.com Duloxetine for depression and associated pain Gaynor et al. 1849
+Curr Med Res Opin Downloaded from informahealthcare.com by National University of Singapore on 08/07/13
+For personal use only.
+physical symptoms are recognized as being associated with
+MDD. For example, Vaccarino and colleagues1 evaluated
+pooled data from 2191 patients enrolled in randomized,
+multicenter, double-blind placebo-controlled studies of
+the treatment of MDD for the purpose of scale development. Based on inquiry prior to study entry, 75% of the
+patients reported at least one pain-related complaint that
+was rated as moderately bothersome or worse (based on a
+score of 3 or more out of 5 on the Somatic Symptoms
+Inventory), with headache; pain in lower back, in neck,
+or in joints; and soreness in muscles being the most
+common. These data are consistent with prior reports in
+clinical populations with MDD2,3. The presence of associated pain in MDD has been linked with poorer clinical
+outcomes, including decreased remission rates4
+, and substantially increased overall treatment costs compared to
+patients with MDD and little or no interference from
+pain5
+. Further, MDD-associated pain impairs productivity6
+and quality of life6–9. In total, the data suggest that associated painful symptoms may contribute substantially to
+the overall burden of disease in many patients with MDD.
+Duloxetine is a serotonin and norepinephrine reuptake
+inhibitor (SNRI) approved in the United States for the
+treatment of MDD and generalized anxiety disorder
+(GAD) and also approved for the management of diabetic
+peripheral neuropathic pain, fibromyalgia, and chronic
+musculoskeletal pain in patients with chronic low back
+pain and chronic pain due to osteoarthritis10. Given the
+increasing understanding of the links between pain and
+depression, the impact of duloxetine on painful physical
+symptoms associated with MDD is of significant interest.
+While many previous studies of duloxetine in the treatment of MDD have measured pain improvement as an
+outcome, two randomized, placebo-controlled trials have
+examined the efficacy of duloxetine in the treatment of
+MDD in patients with a prespecified severity of pain at
+baseline11,12; these two studies had dissimilar results in
+that one study had a positive depression outcome and the
+other did not, likely as a result of differences in their methodologies (see details in Discussion). The present study was
+therefore designed to replicate most design elements of the
+positive study12 to provide clear information on the role of
+duloxetine for the treatment of painful physical symptoms
+in patients with MDD and associated painful symptoms.
+Patients and methods
+Study design
+This multicenter, phase 4, 8-week, randomized, doubleblind, placebo-controlled, parallel-group study was conducted at 47 study sites in the United States, Germany,
+France, Sweden, and Romania between November 2009
+and October 2010. The study consisted of a 5- to 30-day
+screening period; the 8-week randomized, double-blind
+treatment phase; and an optional 2-week taper period.
+After the screening period, patients who met inclusion/
+exclusion criteria were randomized (at a 1:1 ratio) to an
+oral dose of duloxetine 60 mg once daily or placebo once
+daily. Patients randomly assigned to duloxetine 60 mg
+once daily started on duloxetine 30 mg once daily for 1
+week and then titrated up to duloxetine 60 mg once
+daily for 7 weeks.
+The protocol was approved by study center Ethical
+Review Boards. Patients provided written informed consent before participating and after being fully informed
+regarding the nature of the procedures involved. The
+study was conducted in accordance with regulatory standards of Good Clinical Practice and the Declaration of
+Helsinki (1996) and all applicable local regulations. The
+study was registered at clinicaltrials.gov (NCT01000805).
+Patients
+Adult (18 years of age) male or female outpatients were
+eligible to be included in the study if they met all of the
+following criteria: a current episode of MDD according to
+the Diagnostic and Statistical Manual of Mental Disorders,
+Fourth Edition, Text Revision (DSM-IV-TR) and confirmed
+by the Mini International Neuropsychiatric Interview
+with a history of at least one separate, previous episode
+of depression, and at both the screening and randomization
+visits a Montgomery–A˚ sburg Depression Rating Scale
+(MADRS) total score of 20, and at least moderate pain
+with a score of 3 on the Brief Pain Inventory Short Form
+(BPI) average pain item, and a Clinical Global Impression
+of Severity (CGI-S) score 4.
+Patients were excluded from the study if they met any of
+the following criteria: any current (within the past 6
+months) DSM-IV-TR primary axis I diagnosis other than
+MDD; a history of alcohol or substance abuse or dependence within 1 year immediately prior to visit 1; any prior
+history of bipolar disorder, psychosis, or schizophrenia; any
+current axis II disorder that, in the judgment of the investigator, would have interfered with study compliance; a
+history of a serious suicide attempt or subject judged by
+the investigator to be at serious suicidal risk; lack of
+response of any episode of major depression to two or
+more adequate courses of antidepressant therapy or investigator defined treatment-resistant depression; previous
+nonresponse to treatment of MDD or GAD with an adequate course of duloxetine; required continuous use of
+analgesics (4step 2 World Health Organization definition13) because of chronic pain (46 months); presence of
+pain of a known origin; meeting criteria for fibromyalgia as
+defined by the American College of Rheumatology; treatment with any excluded medications within 7 days prior to
+visit 2 with the exception of fluoxetine which could not
+Current Medical Research & Opinion Volume 27, Number 10 October 2011
+1850 Duloxetine for depression and associated pain Gaynor et al. www.cmrojournal.com ! 2011 Informa UK Ltd
+Curr Med Res Opin Downloaded from informahealthcare.com by National University of Singapore on 08/07/13
+For personal use only.
+have been taken within 30 days prior to visit 2; and treatment with a monoamine oxidase inhibitor (MAOI) within
+14 days prior to visit 2 or potential need for treatment with
+an MAOI during the study or within 5 days of discontinuation of study drug.
+Key restrictions regarding concomitant medication
+usage were as follows: chronic use of narcotics/opioids
+was not allowed; episodic use was allowed only after sponsor approval for individual cases of acute injury or surgical
+procedure. As a rescue medication, acetaminophen (paracetamol) was allowed at a maximum dose up to 3 g per day
+for up to 3 days per week if needed for a concomitant disease. Paracetamol was not allowed for treatment of painful
+physical symptoms of MDD during the study. Aspirin
+was permitted for cardiac prophylaxsis at a dose up to
+100 mg/day, provided the subject was on a stable dose for
+at least 3 months prior to enrollment. Chronic use of benzodiazepines was not allowed; episodic use was limited to
+lorazepam at a maximum dose of 2 mg/day for up to 3 days
+per week. Zolpidem was allowed as a sedative/hypnotic/
+sleep agent at up to 10 mg/day, for no more than six total
+days during the double-blind treatment period. Dietary
+supplements with known or suspected CNS activity were
+not allowed for chronic or episodic use; herbal preparations
+were not allowed for chronic or episodic use.
+Initiating, changing, or stopping psychotherapy within
+6 weeks prior to Visit 1 or at any time during the study; or
+initiating, changing, or stopping non-pharmacologic or
+alternative therapies (for example, acupuncture, biofeedback, or massage) for painful physical symptoms at any
+time during the study were not allowed.
+Efficacy assessments
+The coprimary efficacy outcomes of this study were the
+overall mean change from baseline in the BPI average
+pain rating through 8 weeks (overall main effect of treatment) and the mean change in the MADRS total score
+from baseline at the 8-week endpoint. The BPI14 is a
+patient-rated, Likert-type scale that measures the severity
+of pain (4 items) and the interference of pain on function
+(7 items). Items are scored from 0 (no pain/does not interfere) to 10 (pain as severe as you can imagine/completely
+interferes). The MADRS15 is a depression rating scale
+which is designed to be particularly sensitive to change
+in patients treated with antidepressant medication and
+was administered by appropriately trained site personnel.
+The scale includes 10 items focusing on core symptoms of
+depressive illness, scored from 0 to 6, with a maximum
+total score of 60. The primary efficacy measure was calculated as the sum of 10 MADRS items. Reductions in score
+over time are interpreted as improvement in the patient’s
+status.
+A gatekeeper strategy16 was employed for sequentially
+testing five gated secondary measures related to global
+functioning and the remission of depressive symptoms.
+Functioning was assessed using the mean change from
+baseline at the 8-week endpoint in the Sheehan
+Disability Scale (SDS) global functional impairment
+score. The SDS17 is a widely used and well validated
+patient-rated scale that measures the extent to which
+emotional symptoms disrupt patient functioning in
+three life domains (work/school work, social life/leisure
+activities, and family life/home responsibilities) on a
+scale of 0 (not at all) to 10 (extremely). Scores of 5
+and above in any functional domain indicate significant
+functional impairment18. The global functional impairment score is the sum of scores from three life domains17.
+When calculating the global functional impairment
+score, if the work/school item score was missing, the
+value was imputed as the average of the family and
+social item scores. If the family and/or social item score
+was missing, the global functional impairment score was
+missing. Remission of MDD was measured two ways: as
+the percentage of patients with MADRS total score 12
+at the 8-week endpoint and as the percentage of patients
+with MADRS total score 12 at the last two nonmissing
+acute study visits to assess improvements in depressive
+symptoms over an extended period of time. Other gatekeeper objectives included the MADRS total score mean
+change from baseline to week 4 and to week 2.
+Nongated, but a priori defined, secondary measures
+included the Patient Global Impression of
+Improvement (PGI-I) scale and the relationship
+between improvement in pain and improvement in
+mood. The PGI-I scale15 is a patient-rated instrument
+that measures the improvement of the patient’s symptoms on a scale of 1 (‘very much improved,’) to 7 (‘very
+much worse’). A related physician-administered scale,
+the CGI-S19 was used to assess depression symptoms at
+the screening and baseline visits. The scores range from
+1 (normal, not at all ill) to 7 (among the most extremely ill patients). The relationship between improvement in pain and improvement in MDD was evaluated
+by assessing remission of depressive symptoms (defined
+as a MADRS total score of 12 at the 8-week endpoint)
+for patients reporting reduction in pain (as measured by
+change in BPI average pain rating score from baseline to
+the 8-week endpoint) of at least 30% and at least 50%.
+The 30% cutoff was based on a report assessing studies
+of several painful conditions by Farrar et al.20, which
+found that improvements in pain of at least 30% were
+associated with PGI-I ratings of ‘much improved’ or
+‘very much improved’. The 50% cutoff, which is an
+even more stringent definition of improvement, was
+also considered by the authors to reflect a highly meaningful improvement.
+Current Medical Research & Opinion Volume 27, Number 10 October 2011
+! 2011 Informa UK Ltd www.cmrojournal.com Duloxetine for depression and associated pain Gaynor et al. 1851
+Curr Med Res Opin Downloaded from informahealthcare.com by National University of Singapore on 08/07/13
+For personal use only.
+Safety assessments
+Safety measures included the occurrence of treatmentemergent adverse events and serious adverse events; rates
+and reasons for early discontinuation; vital signs; laboratory assessments; and suicide-related events (behavior and/
+or ideation) as assessed by the Columbia–Suicide Severity
+Rating Scale (C-SSRS)21.
+Statistical analyses
+Assuming an effect size of 0.29, this study was estimated to
+have 90% power to detect a treatment difference between
+duloxetine 60 mg once daily and placebo in mean change
+from baseline in BPI average pain rating over 8 weeks of
+treatment with 251 subjects in each treatment arm using a
+two-sided t-test at an alpha level of 0.05. Based on this
+sample size, this study was estimated to have 99% power
+to detect a treatment difference between duloxetine 60 mg
+once daily and placebo in mean change from baseline to 8
+weeks in MADRS total score using a two-sided t-test at an
+alpha level of 0.05, assuming an effect size of 0.63.
+Approximately 4% of subjects were predicted not to
+have a postbaseline measure of BPI average pain; therefore
+a total sample size of 520 was estimated. All randomized
+patients were included in safety analyses and all randomized patients with baseline and at least one postbaseline
+assessment were included in efficacy analyses.
+The primary method of analysis for both coprimary
+efficacy measures was a mixed-effects model repeated measures (MMRM) approach. The models included the fixed,
+categorical effects of treatment, investigator, visit, and
+treatment-by-visit interaction, as well as the continuous, fixed covariates of baseline score and baseline scoreby-visit interaction. An unstructured (co)variance
+structure was used to model the within-patient errors.
+For statistical analysis purposes, the investigators with
+the fewest subjects were pooled within country until
+each site (or pooled site) had at least eight subjects with
+postbaseline data.
+The overall main effect of treatment for the BPI average
+pain rating and the contrast between treatments at 8-week
+endpoint for the MADRS total score were prespecified as
+the primary evidence of efficacy for the comparison
+between duloxetine 60 mg once daily and placebo. As sensitivity analysis, mean change from baseline at 8-week
+endpoint for MADRS total score was also analyzed using
+a last observation carried forward (LOCF) approach and a
+fixed-effects analysis of covariance (ANCOVA) model
+that included treatment, investigator, and baseline score.
+To control for type I experiment-wise error during multiple comparisons, a gatekeeping procedure was employed
+for sequential testing of five gated secondary hypotheses
+that duloxetine 60 mg once daily (p  0.05) was superior to
+placebo once daily. Testing for statistical significance was
+to stop when a hypothesis failed to show statistical significance favoring duloxetine (p40.05)16. The five gated
+secondary measures assessed using the gatekeeping strategy
+were the following (in order of testing): (1) the SDS global
+functional impairment score, assessed as mean change
+from baseline at 8-week endpoint; (2) remission defined
+as the percentage of patients with MADRS total score 12
+at the 8-week endpoint; (3) remission defined as the percentage of patients with MADRS total score 12 at the
+last two nonmissing acute study visits; (4) MADRS total
+score mean change from baseline to week 4; and (5)
+MADRS total score mean change from baseline to week
+2. The SDS global functional impairment score was analyzed using the same approach (MMRM) as that employed
+for the coprimary measures. Remission rates and BPI
+response rates (proportion of patients with at least 30%
+or 50% reductions in average pain score) were analyzed
+using a LOCF approach and the Cochran–Mantel–
+Haenszel test with stratification by investigator. The differences between treatments at week 4 and week 2 from
+the MMRM model, as employed for the primary measure
+(MADRS total score), served as the evidence of efficacy
+for the comparison between treatments for the gated secondary objectives 4 and 5. As detailed in later sections, the
+results for all gated secondary outcomes demonstrated significant improvement with duloxetine compared with placebo according to the prespecified testing plan; for the sake
+of clarity, results for gated and nongated findings were
+integrated within outcome measure in the results section.
+Type I experiment-wise error rate was not controlled for
+the additional nongated a priori analyses reported. These
+included remaining BPI pain severity items (e.g. ‘worst
+pain’, ‘least pain’, ‘pain right now’) and BPI interference
+items (all), and SDS item scores (analyzed using the same
+MMRM approach as that described for the BPI average
+pain rating); and remission rates (defined as a MADRS
+total score of 12 at the 8-week endpoint), which were
+compared between subgroups of patients taking duloxetine
+who either had, or did not have, at least a 30% or a 50%
+improvement in BPI average pain at the 8-week endpoint
+using the Cochran–Mantel–Haenszel test with stratification by pooled investigator. The BPI pain severity and
+interference items were analyzed using the same approach
+(MMRM) as that employed for the coprimary measures.
+The percentage of patients with each treatment emergent
+adverse event who discontinued due to adverse events and
+the percentage of patients with C-SSRS outcomes were
+analyzed using Fisher’s exact test. The mean changes
+from baseline to 8-week endpoint for vital signs were analyzed using a LOCF approach and an ANCOVA model
+which included treatment, investigator, and baseline. The
+mean changes from baseline to 8-week endpoint in laboratory measurements were analyzed using a LOCF
+approach and the significance of differences between treatment groups were assessed based on rank-transformed data.
+Current Medical Research & Opinion Volume 27, Number 10 October 2011
+1852 Duloxetine for depression and associated pain Gaynor et al. www.cmrojournal.com ! 2011 Informa UK Ltd
+Curr Med Res Opin Downloaded from informahealthcare.com by National University of Singapore on 08/07/13
+For personal use only.
+Throughout this report the term ‘significant’ is used to
+refer to statistical significance (p  0.05).
+Results
+Patient disposition
+A total of 528 patients were randomly assigned to duloxetine (N ¼ 262) or placebo (N ¼ 266) treatment.
+Completing the 8-week double-blind treatment period
+were 192 patients who received duloxetine treatment
+(73.3%) and 204 patients who received placebo (76.7%)
+(Figure 1). Compared with placebo, more subjects discontinued duloxetine treatment due to adverse events and
+subject decision; whereas more subjects discontinued placebo treatment than duloxetine due to lack of efficacy
+(Figure 1).
+Baseline characteristics
+The mean age of randomized patients was 45.9 years,
+and approximately 69% of patients in both treatment
+groups were female (Table 1). There were no significant differences between treatment groups in the
+patient demographic variables, the severity of pain or
+interference from pain, severity of depressive symptoms,
+or global functional impairment (Table 1). The treatment groups did not differ in their psychiatric history as it related to number of previous episodes of
+depression or to duration of the current episode of
+depression.
+Efficacy
+Depression and related measures
+Treatment with duloxetine resulted in significantly greater
+improvement based on the coprimary outcome of change
+in MADRS total score from baseline at 8 weeks (MMRM
+method) in comparison to placebo (16.77 [SE 0.67] vs
+12.73 [SE 0.64] or a 57.9% vs 44.3% improvement from
+baseline, respectively; p50.001) (Figure 2). In the time
+course analysis, the treatment-by-visit interaction was significant (p  0.001) and duloxetine was more efficacious
+than placebo beginning at week 2 and at all remaining
+visits (p  0.001; weeks 2 and 4 were significant positive
+gated secondary outcomes) (Figure 2). The LS mean
+change in MADRS total score from baseline to 8-week
+endpoint was also greater versus placebo by LOCF sensitivity analysis (duloxetine, 15.0 [SE 0.66]; placebo,
+11.6 [SE 0.64]) (p  0.001).
+A significantly greater proportion of patients receiving
+duloxetine versus placebo met the criteria for remission
+(MADRS total score 12) whether assessed at 8-week
+LOCF endpoint (47.0% and 32.8%, respectively) or the
+last two nonmissing study visits (29.5% and 18.7%, respectively) (both gated secondary measures; p  0.01).
+Pain measures
+The coprimary efficacy outcome of mean change from
+baseline over 8 weeks (overall main effect of treatment)
+for the BPI average pain rating (MMRM method) demonstrated a significantly greater improvement (reduction) in
+average pain rating with duloxetine (1.93 [SE 0.11])
+compared with placebo (1.31 [SE 0.10]) (p  0.001), corresponding to 35.1% and 22.9% reductions in average pain
+score, respectively. Patients treated with duloxetine also
+had greater improvement in their average pain rating at
+weeks 1, 2, 4, and 8 compared with patients treated with
+placebo (all p  0.005) (Figure 3). Overall scores (MMRM
+method) for ‘worst pain’ and ‘least pain’ in the last 24 hours
+and for ‘pain right now’ were also reduced with duloxetine
+versus placebo (all p  0.001; Table 2).
+Greater improvements were observed over the 8-week
+treatment period with duloxetine versus placebo for all BPI
+pain severity and interference items (Table 2; experimentwise type I error rate not controlled for). The proportion of
+patients reporting at least 50% improvement in average
+pain at 8-week LOCF endpoint was 52.6% with duloxetine
+and 37.2% with placebo (p  0.001), while 61.8% of
+duloxetine-treated patients and 49.0% of placebo patients
+experienced at least 30% reductions in average pain
+(p ¼ 0.003).
+Remission of depressive symptoms by pain
+improvement in duloxetine-treated patients
+Duloxetine-treated patients who met the 30% or 50% BPI
+response criteria at the 8-week LOCF endpoint had rates of
+Randomized
+N =528
+Duloxetine 60 mg
+N =262
+Placebo
+N =266
+Completed 8 wks, n =204
+(76.7%)
+Completed 8 wks, n =192
+(73.3%)
+Discontinued, n (%)*
+Lost to Follow-up 21 (7.9)
+Adverse Event 9 (3.4)
+Subject Decision 6 (2.3)
+Lack of Efficacy 16 (6.0)
+Protocol Violation 8 (3.0)
+Sponsor Decision 1 (0.4)
+Physician Decision 1 (0.4)
+Discontinued, n (%)*
+Lost to Follow-up 16 (6.1)
+Adverse Event 21 (8.0)
+Subject Decision 16 (6.1)
+Lack of Efficacy 5 (1.9)
+Protocol Violation 12 (4.6)
+Sponsor Decision 0 (0.0)
+Physician Decision 0 (0.0)
+Figure 1. Patient disposition. *Reasons for discontinuation, between group
+comparisons p40.05 except for adverse event (p ¼ 0.024), lack of efficacy
+(p ¼ 0.024), and subject decision (p ¼ 0.030).
+Current Medical Research & Opinion Volume 27, Number 10 October 2011
+! 2011 Informa UK Ltd www.cmrojournal.com Duloxetine for depression and associated pain Gaynor et al. 1853
+Curr Med Res Opin Downloaded from informahealthcare.com by National University of Singapore on 08/07/13
+For personal use only.
+remission (MADRS total score 12 at the 8-week LOCF
+endpoint) that were higher (both p  0.001) compared
+with the duloxetine-treated patients who did not meet
+the BPI response criterion (Figure 4).
+Other measures of symptoms and global functioning
+Overall symptom improvement was further assessed using
+the PGI-I score recorded by patients at each study visit.
+Compared with placebo-treated patients, the least-squares
+mean PGI-I score indicated significantly greater improvements for duloxetine-treated patients at each individual
+study visit as well as overall (p  0.021, MMRM
+approach). Scores of 1 (‘very much better’) or 2 (‘much
+better’) were reported by a significantly greater percentage
+of patients in the duloxetine group (50.8%) compared with
+the placebo group (35.2%; p  0.001).
+For the SDS global functional impairment score, the
+duloxetine treatment group demonstrated significantly
+greater improvement from baseline at the 8-week endpoint
+compared with placebo (secondary gatekeeper measure)
+(48.2% vs 37.7% improvement from baseline, respectively;
+p ¼ 0.019, Table 3). Improvements from baseline at
+8-week endpoint in the individual items addressing
+Table 1. Baseline characteristics.
+Characteristic Placebo
+(N ¼ 266)
+Duloxetine
+(N ¼ 262)
+p-value
+Female, % 69.2 68.7 0.925
+Age, mean (SD) [minimum–maximum] 45.7 (13)
+[18.6–73.9]
+46.2 (13)
+[18.4–80.0]
+0.749
+Race, n (%) 0.319
+Caucasian 213 (80.1) 222 (84.7)
+African American 47 (17.7) 31 (11.8)
+Asian 2 (0.8) 3 (1.1)
+Other 4 (1.6) 6 (2.3)
+Weight, mean kg (SD) 82.9 (21) 83.6 (22) 0.903
+BMI, mean kg/m2
+(SD) 29.6 (7) 30.0 (7) 0.798
+MADRS total score, mean (SD) 30.4 (5.3) 29.9 (4.9) 0.183
+BPI, mean (SD)
+Average pain 5.6 (1.7) 5.7 (1.7) 0.662
+Least pain during the last 24 hours 4.1 (2.2) 4.3 (2.2) 0.488
+Pain right now 5.3 (2.1) 5.3 (2.4) 0.718
+Worst pain during the last 24 hours 6.9 (1.7) 6.9 (1.7) 0.743
+SDS global functional impairment score, mean (SD) 19.4 (5.8) 19.2 (6.0) 0.529
+Item 1 (disruption of work/school work) 6.2 (2.2) 6.2 (2.3) 0.831
+Item 2 (disruption of social/leisure activities) 6.5 (2.2) 6.4 (2.3) 0.567
+Item 3 (disruption of family life/home responsibilities) 6.5 (2.1) 6.4 (2.2) 0.733
+CGI-S, mean (SD) 4.6 (0.6) 4.6 (0.6) 0.998
+MDD, no. of previous episodes, mean (SD) 3.7 (4.9) 3.5 (4.0) 0.591
+MDD, duration of most recent episode, mean weeks (SD) 42.6 (50.5) 39.1 (42.3) 0.288
+BMI ¼ body mass index; BPI ¼ Brief Pain Inventory; CGI-S ¼ Clinical Global Impression–Severity; MADRS ¼ Montgomery–A˚ sburg Depression
+Rating Scale; MDD ¼ major depressive disorder; n ¼ number of patients; SD ¼ standard deviation; SDS ¼ Sheehan Disability Scale.
+–4.04
+–7.71
+–10.49
+–12.73
+–4.53
+–9.9
+–14.15
+–16.77
+–20
+–18
+–16
+–14
+–12
+–10
+–8
+–6
+–4
+–2
+0
+024 8
+Improvement
+LS Mean change from baseline
+Placebo (N = 262)
+Duloxetine (N = 251)
+Week of study
+**
+**
+**
+Figure 2. Change from baseline in MADRS total score. Repeated measures
+analysis of mean change from baseline in MADRS total score; labels are LS
+mean values. **p  0.001. LS ¼ least-squares; MADRS ¼ Montgomery–
+A˚ sburg Depression Rating Scale.
+–0.67
+–1.12
+–1.55
+–1.91
+–1.11
+–1.74
+–2.25
+–2.60
+–4
+–3.5
+–3
+–2.5
+–2
+–1.5
+–1
+–0.5
+0
+0246
+Improvement
+LS Mean Change from Baseline
+8
+Placebo (N = 261)
+Duloxetine (N = 251)
+Week of study
+**
+**
+*
+*
+Figure 3. Change from baseline in BPI average pain rating. Repeated
+measures analysis of change from baseline in BPI average pain rating;
+labels are LS mean values. *p  0.05, **p  0.001. BPI ¼ Brief Pain
+Inventory; LS ¼ least-squares.
+Current Medical Research & Opinion Volume 27, Number 10 October 2011
+1854 Duloxetine for depression and associated pain Gaynor et al. www.cmrojournal.com ! 2011 Informa UK Ltd
+Curr Med Res Opin Downloaded from informahealthcare.com by National University of Singapore on 08/07/13
+For personal use only.
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Remission: Percentage of patients
+63.9**
+<30 %
+Pain reduction (BPI average pain) at 8-week LOCF endpoint
+65.9**
+19.8
+26.1
+≥30 % <50 % ≥50 %
+n2 = 31 n2 = 87
+n1 = 119 n1 = 132
+n2 = 19 n2 = 99
+n1 = 96 n1 = 155
+Figure 4. Rates of remission of depression for duloxetine-treated patients with at least 30% or 50% improvement in pain from baseline to endpoint.
+Remission of depression was defined as MADRS total score 12 at the 8-week LOCF endpoint. BPI average pain was calculated as change from baseline to
+8-week endpoint. Duloxetine-treated patients (N ¼ 251). **p  0.001. BPI ¼ Brief Pain Inventory; LOCF ¼ least observation carried forward;
+MADRS ¼ Montgomery–A˚ sburg Depression Rating Scale; MMRM ¼ mixed model repeated measures; n1 ¼ number of patients with at least one postbaseline
+observation in the category; n2 ¼ number of patients with MADRS total score 12 at LOCF endpoint within category.
+Table 2. BPI pain and interference scores: overall LS mean changes during 8-week treatment period (MMRM).
+Outcome measure Placebo (N ¼ 261)
+LS mean change
+(SE)
+Duloxetine (N ¼ 251)
+LS mean change
+(SE)
+LS mean diff.
+dulox. – placebo
+(95% CI)
+p-value
+BPI pain severity
+Average pain 1.31 (0.10) 1.93 (0.11) 0.62 (0.90, 0.33) 50.001
+Worst pain 1.60 (0.12) 2.25 (0.13) 0.64 (0.97, 0.32) 50.001
+Least pain 0.86 (0.10) 1.48 (0.11) 0.62 (0.90, 0.34) 50.001
+Pain right now 1.27 (0.12) 2.00 (0.12) 0.74 (1.06, 0.42) 50.001
+BPI pain interference
+General activity 1.33 (0.13) 2.01 (0.13) 0.68 (1.03, 0.33) 50.001
+Mood 1.76 (0.13) 2.49 (0.14) 0.73 (1.09, 0.37) 50.001
+Walking ability 1.06 (0.12) 1.52 (0.13) 0.45 (0.79, 0.11) 0.009
+Normal work 1.46 (0.13) 2.02 (0.13) 0.56 (0.91, 0.21) 0.002
+Relationships 1.31 (0.13) 2.01 (0.13) 0.70 (1.06, 0.35) 50.001
+Sleep 1.56 (0.14) 1.94 (0.14) 0.39 (0.76, 0.01) 0.042
+Enjoyment of life 1.77 (0.13) 2.44 (0.14) 0.67 (1.03, 0.31) 50.001
+BPI ¼ Brief Pain Inventory; CI ¼ confidence interval; diff. ¼ difference; dulox. ¼ duloxetine; LS mean ¼ least-squares mean; MMRM ¼ mixedeffects model repeated measures; SE ¼ standard error.
+Table 3. SDS global functional impairment total and individual items 1–3: LS mean changes from baseline to 8-week endpoint (MMRM).
+Placebo Duloxetine
+Category n LS mean
+change (SE)
+n LS mean
+change (SE)
+LS mean diff. dulox. –
+placebo (95% CI)
+p-value
+Global Functional Impairment score 260 7.13 (0.52) 250 8.88 (0.54) 1.75 (3.20, 0.29) 0.019
+Work/school 196 2.36 (0.20) 182 2.82 (0.22) 0.46 (1.03, 0.11) 0.112
+Social life/leisure activities 260 2.31 (0.18) 250 3.04 (0.19) 0.73 (1.24, 0.22) 0.005
+Family/home responsibilities 260 2.49 (0.18) 250 3.02 (0.19) 0.53 (1.04, 0.02) 0.040
+CI ¼ confidence interval; diff. ¼ difference; dulox. ¼ duloxetine; LS mean ¼ least-squares mean; MMRM ¼ mixed-effects model repeated measures; n ¼ number
+of patients; SDS ¼ Sheehan Disability Score; SE ¼ standard error.
+Current Medical Research & Opinion Volume 27, Number 10 October 2011
+! 2011 Informa UK Ltd www.cmrojournal.com Duloxetine for depression and associated pain Gaynor et al. 1855
+Curr Med Res Opin Downloaded from informahealthcare.com by National University of Singapore on 08/07/13
+For personal use only.
+social life/leisure activities and family life/home responsibilities were both greater with duloxetine versus placebo at
+the 8-week endpoint (p  0.05); however, improvement in
+the item addressing school/work life was not significantly
+different between duloxetine and placebo (p ¼ 0.112).
+Safety
+The majority of patients in both groups completed the
+study (duloxetine ¼ 73.3%, placebo ¼ 76.7%) (Figure 1).
+Drug compliance (defined as 80 to 120% of capsules taken
+for each visit) was greater than 80% for 211/251 patients
+(84.1%) receiving duloxetine and 221/262 patients
+(84.4%) receiving placebo, and did not differ between
+treatments. Significantly more of the patients treated
+with duloxetine, compared with placebo, discontinued
+due to adverse events (8.0% vs 3.4%; p ¼ 0.024) and
+patient decision (6.1% vs 2.3%, p ¼ 0.030). Significantly
+more of the placebo-treated patients discontinued due to
+lack of efficacy (6.0%) compared with patients in the
+duloxetine group (1.9%, p ¼ 0.024). There were no specific AEs that led to significantly different discontinuation
+rates between treatment groups. Nausea was the most frequently reported AE that led to study discontinuation
+(three in the duloxetine treatment group and none in
+the placebo treatment group). Treatment-emergent
+adverse events that occurred in at least 5% of duloxetine-treated patients and at least twice the rate of placebo
+in this study are shown in Table 4. With duloxetine and
+placebo therapy, for other adverse events noted as being
+more common with duloxetine than placebo in the duloxetine prescribing information10, dry mouth occurred in 22
+(8.4%) and 14 patients (5.3%; p ¼ 0.170), respectively;
+dizziness in 13 (5.0%) and 10 patients (3.8%; p ¼ 0.529),
+respectively; and fatigue in 11 (4.2%) and 7 patients
+(2.6%; p ¼ 0.348), respectively.
+With regard to serious adverse events, five duloxetine
+patients and one placebo patient had 1 serious adverse
+events during the treatment phase (p ¼ 0.12). Duloxetinetreated patients reported clostridial infection,
+diverticulitis, inguinal hernia, respiratory tract infection,
+suicide attempt, and syncope. One placebo patient
+reported therapeutic agent toxicity. No serious adverse
+events were considered by the investigators to be related
+to study drug. However, two of these serious adverse events
+(suicide attempt and respiratory tract infection) were
+reported as the reason for study discontinuation.
+No significant between-group differences occurred in
+mean changes in systolic or diastolic blood pressure from
+baseline to 8-week LOCF endpoint; pulse rate decreased
+for placebo (0.70 [SE 0.53] bpm) and increased for duloxetine (1.71 [SE 0.54] bpm) (p50.001). Mean changes in
+weight reflected an increase for placebo-treated patients
+(0.14 [SE 0.13] kg) and a decrease for duloxetine-treated
+patients (0.74 [SE 0.14] kg) (p50.001). With regard to
+laboratory values, duloxetine-treated patients experienced
+a statistically significant least squares mean decrease in
+chloride (0.63 mmol/L [SE 0.17], p  0.001) and in uric
+acid (12.47 mmol/L [SE 3.21], p  0.001) as compared
+with placebo-treated patients who experienced a nonsignificant increase in chloride (0.24 mmol/L [SE 0.17],
+p ¼ 0.71) and in uric acid (2.38 [SE 3.14], p ¼ 0.63)
+(between group comparisons, p ¼ 0.001 for chloride and
+p ¼ 0.002 uric acid). A statistically significant difference
+was seen for duloxetine-treated patients compared with
+placebo-treated patients for change in mean cell volume
+(0.54 [SE 0.23] and 0.13 [SE 0.22], respectively; p ¼ 0.026)
+and change in neutrophil count (0.14 [SE 0.09] and
+0.18 [SE 0.09], respectively; p ¼ 0.012). The percentages
+of patients with treatment-emergent abnormally high (
+the Covance Upper Limit of Normal [ULN] reference
+range) laboratory results for the above listed results (i.e.
+chloride, mean cell volume, neutrophils, and uric acid)
+were not different between duloxetine and placebo; however, a statistically significantly greater percentage of
+duloxetine-treated vs placebo-treated patients experienced treatment-emergent abnormally high (the
+Covance ULN) ALT values during the double-blind treatment phase (7.7% vs 2.6%, respectively, p ¼ 0.033). There
+were no statistically significant differences between treatment groups for the number and percentage of patients
+with suicide-related outcomes during treatment as measured by the C-SSRS (duloxetine, 8.0%; placebo, 11.1%,
+p ¼ 0.293).
+Discussion
+The present study assessed the impact of duloxetine 60 mg
+once daily in the treatment of depression and associated
+painful symptoms in patients with MDD and at least moderate levels of pain at study entry. Patients treated with
+duloxetine had significantly greater improvement compared with placebo in the coprimary measures of change
+in the overall BPI average pain rating over the 8-week
+Table 4. Treatment-emergent adverse events.
+Treatment emergent
+adverse event*
+Placebo
+(N ¼ 266)
+n (%)
+Duloxetine
+(N ¼ 262)
+n (%)
+p-value
+Overall 138 (51.9) 164 (62.6) 0.014
+Nausea 24 (9.0) 51 (19.5) 50.001
+Somnolence 8 (3.0) 24 (9.2) 0.003
+Constipation 8 (3.0) 17 (6.5) 0.067
+Decreased appetite 5 (1.9) 13 (5.0) 0.058
+Hyperhidrosis 4 (1.5) 14 (5.3) 0.017
+*Occurred in at least 5% of duloxetine-treated patients and at least twice
+the rate of placebo.
+N/n ¼ number of patients.
+Current Medical Research & Opinion Volume 27, Number 10 October 2011
+1856 Duloxetine for depression and associated pain Gaynor et al. www.cmrojournal.com ! 2011 Informa UK Ltd
+Curr Med Res Opin Downloaded from informahealthcare.com by National University of Singapore on 08/07/13
+For personal use only.
+double-blind treatment period and of mean change in
+MADRS total score from baseline at the 8-week endpoint
+(both p  0.001). In addition, patients receiving duloxetine experienced significantly greater improvements in
+global functioning, as measured by the change in the
+SDS global functional impairment score from baseline at
+8 weeks (p ¼ 0.019). A significantly greater proportion of
+subjects met criteria for remission as measured at 8 weeks
+and as measured over the period of time represented by the
+last two non-missing study visits (both p  0.01; significantly greater reductions in depressive symptoms based
+on MADRS total score at weeks 2 and 4 were also observed
+for duloxetine vs placebo (both p  0.001). In addition,
+greater improvements over the 8-week study were
+observed for each of the individual BPI items for pain
+and interference from pain (all p  0.05). Overall, the
+safety data were consistent with the known safety characteristics of duloxetine10.
+The finding of improvements in both pain and depressive symptoms in this study is consistent with the report by
+Brecht et al.12, but differed from the findings reported by
+Brannan et al.11. The Brannan study required patients to
+have a score of 2 on the BPI average pain item, and the
+mean BPI average pain score at baseline was approximately
+4.7, while the study reported by Brecht et al. required a
+baseline score of at least 3, and a mean of 5.7 was observed.
+In addition, the study reported by Brannan et al. did not
+require a documented history of a prior depressive episode.
+In that study, duloxetine did not separate from placebo on
+the primary depression measure; however, greater differences between duloxetine and placebo were observed for
+most pain outcome measures. In contrast, the current study
+and the Brecht et al. study12 required potential study
+patients to have at least one prior episode of MDD to
+increase the likelihood of a true MDD episode as opposed
+to situational depression in response to a psychosocial
+stressor. In addition, both the current study and the
+study by Brecht et al.12 required patients to have moderate
+or greater pain at baseline defined by a score of 3 on the
+BPI average pain question. The intent of these criteria was
+to help identify a more homogenous study population in
+which the coprimary objectives could be more efficiently
+evaluated.
+One final note that is clinically germane: in patients
+receiving duloxetine, remission of depressive symptoms
+was at least 2.5-fold more likely in patients who experienced improvement in pain symptoms than in those without such a reduction using several a priori definitions.
+These findings are consistent with those reported by
+Fava et al.4
+, who found in a post-hoc analysis that improvements in painful physical symptoms were associated with
+higher rates of remission of depressive symptoms, even
+after accounting for improvements in core emotional
+symptoms.
+Several study limitations should be noted. While
+duloxetine is approved for several chronic painful conditions (e.g. diabetic nerve pain, chronic low back pain,
+and chronic osteoarthritis pain) in patients without
+comorbid MDD, patients with MDD and pain of a
+known origin were specifically excluded from the current
+study to focus on the nonspecific pain commonly associated with MDD. As such, these results do not address the
+effects of duloxetine on pain in patients with MDD and
+comorbid pain of a known origin. This was a short-term
+study, and does not address the efficacy of duloxetine for
+depression or associated pain during longer-term treatment; further, because this was a fixed-dose study, its
+results do not speak to other dosages that might be
+used in clinical practice. Because duloxetine was the
+only active drug evaluated in this study, the results
+cannot be generalized to other antidepressants,
+and even general comparison to other medications is
+made difficult by the paucity of studies assessing treatment of both MDD and associated painful physical
+symptoms.
+Finally, pain associated with depression is not clearly
+defined in psychiatric nomenclature, and for this study
+was determined via investigator assessment by ruling out
+pain of a known origin in potential patients. Thus, some
+of the observed pre-existing pain conditions could potentially have been associated with either pain associated
+with depression (allowed) or with pain of a known
+origin (not allowed) or both. The subjective nature of
+both depression and pain is an ongoing issue in these
+types of studies, and our attempts to control for it
+included randomization as well as asking investigators
+to be thorough when ruling out pain of other known
+origins.
+Conclusion
+This study demonstrated that duloxetine at 60 mg once
+daily was safe and efficacious in the treatment of MDD
+and associated painful physical symptoms.
+Transparency
+Declaration of funding
+Funding was provided by Eli Lilly and Company; Eli Lilly was
+involved in study design, analysis and interpretation of data, writing of the report, and the decision to submit the paper for
+publication.
+Declaration of financial/other relationships
+P.J.G., J.M.M., M.J.R., and L.B.M. are employees and stock
+holders of Eli Lilly and Company. M.G. and W.Z. are former
+employees of Lilly USA LLC.
+Current Medical Research & Opinion Volume 27, Number 10 October 2011
+! 2011 Informa UK Ltd www.cmrojournal.com Duloxetine for depression and associated pain Gaynor et al. 1857
+Curr Med Res Opin Downloaded from informahealthcare.com by National University of Singapore on 08/07/13
+For personal use only.
+Acknowledgements
+Assistance in preparing the manuscript was provided by Thomas
+Melby, i3 Statprobe, USA, under contract with Eli Lilly and
+Company.
+These findings were presented in part at the 164th Annual
+Meeting of the American Psychiatric Association, May 14–18,
+2011, Honolulu, Hawaii.
+References
+1. Vaccarino AL, Sills TL, Evans KR, et al. Multiple pain complaints in patients with
+major depressive disorder. Psychosom Med 2009;71:159-62
+2. Bair MJ, Robinson RL, Katon W, et al. Depression and pain comorbidity: a
+literature review. Arch Intern Med 2003;163:2433-45
+3. Bair MJ, Robinson RL, Eckert GJ, et al. Impact of pain on depression treatment
+response in primary care. Psychosom Med 2004;66:17-22
+4. Fava M, Mallinckrodt CH, Detke MJ, et al. The effect of duloxetine on painful
+physical symptoms in depressed patients: do improvements in these symptoms
+result in higher remission rates? J Clin Psychiatry 2004;65:521-30
+5. Gameroff MJ, Olfson M. Major depressive disorder, somatic pain, and
+health care costs in an urban primary care practice. J Clin Psychiatry 2006;
+67:1232-9
+6. Munoz RA, McBride ME, Brnabic AJ, et al. Major depressive disorder in Latin
+America: the relationship between depression severity, painful somatic symptoms, and quality of life. J Affect Disord 2005;86:93-8
+7. Bahk WM, Park S, Jon DI, et al. Relationship between painful physical symptoms and severity of depressive symptomatology and suicidality. Psychiatry Res
+2011: published online, doi:S0165-1781(11)00043-6 [pii];10.1016/j.
+psychres.2011.01.009
+8. Husain MM, Rush AJ, Trivedi MH, et al. Pain in depression: STAR*D study
+findings. J Psychosom Res 2007;63:113-22
+9. Li HC, Zhang MY, Wang G, et al. Association between painful physical
+symptoms and clinical outcomes in Chinese patients with major depressive
+disorder: a three-month observational study. Chin Med J (Engl) 2010;
+123:2063-9
+10. Cymbalta prescribing information. Available at: http://www.cymbalta.com/
+index.jsp [Last accessed 5 May 2011]
+11. Brannan SK, Mallinckrodt CH, Brown EB, et al. Duloxetine 60 mg once-daily in
+the treatment of painful physical symptoms in patients with major depressive
+disorder. J Psychiatr Res 2005;39:43-53
+12. Brecht S, Courtecuisse C, Debieuvre C, et al. Efficacy and safety of duloxetine
+60 mg once daily in the treatment of pain in patients with major depressive
+disorder and at least moderate pain of unknown etiology: a randomized
+controlled trial. J Clin Psychiatry 2007;68:1707-16
+13. WHO’s pain ladder. Available at: http://www.who.int/cancer/palliative/painladder/en/ [Last accessed 15 July 2011]
+14. Cleeland CS, Ryan KM. Pain assessment: global use of the Brief Pain
+Inventory. Ann Acad Med Singapore 1994;23:129-38
+15. Montgomery SA, A˚sberg M. A new depression scale designed to be sensitive
+to change. Br J Psychiatry 1979;134:382-9
+16. Dmitrienko A, Offen WW, Westfall PH. Gatekeeping strategies for clinical trials
+that do not require all primary effects to be significant. Stat Med 2003;22:
+2387-400
+17. Sheehan DV, Harnett-Sheehan K, Raj BA. The measurement of disability. Int
+Clin Psychopharmacol 1996;11(Suppl 3):89-95
+18. Leon AC, Olfson M, Portera L, et al. Assessing psychiatric impairment in
+primary care with the Sheehan Disability Scale. Int J Psychiatry Med 1997;
+27:93-105
+19. Guy W. ECDEU Assessment Manual for Psychopharmacology, Revised.
+Rockville (MD): National Institute of Mental Health, Early Clinical Drug
+Evaluation, Psychopharmacology Research Branch, 1976
+20. Farrar JT, Young Jr JP, LaMoreaux L, et al. Clinical importance of changes in
+chronic pain intensity measured on an 11-point numerical pain rating scale.
+Pain 2001;94:149-58
+21. Posner K, Oquendo MA, Gould M, et al. Columbia Classification Algorithm of
+Suicide Assessment (C-CASA): classification of suicidal events in the FDA’s
+pediatric suicidal risk analysis of antidepressants. Am J Psychiatry 2007;
+164:1035-43
+Current Medical Research & Opinion Volume 27, Number 10 October 2011
+1858 Duloxetine for depression and associated pain Gaynor et al. www.cmrojournal.com ! 2011 Informa UK Ltd
+Curr Med Res Opin Downloaded from informahealthcare.com by National University of Singapore on 08/07/13
+For personal use only.

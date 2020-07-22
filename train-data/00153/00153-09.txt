@@ -1,0 +1,609 @@
+Quality of Life of Patients With Endometrial Cancer
+Undergoing Laparoscopic International Federation of
+Gynecology and Obstetrics Staging Compared With
+Laparotomy: A Gynecologic Oncology Group Study
+Alice B. Kornblith, Helen Q. Huang, Joan L. Walker, Nick M. Spirtos, Jacob Rotmensch, and David Cella
+See accompanying editorial on page 5305 and article on page 5331
+From the Division of Women’s
+Cancers, Medical Oncology, DanaFarber Cancer Institute, Boston, MA;
+Gynecology Oncology Group Statistical
+and Data Center, Roswell Park Cancer
+Institute, Buffalo, NY; Department of
+Obstetrics and Gynecology, Oklahoma
+University of Health Science Center,
+Oklahoma City, OK; Women’s Cancer
+Center of Nevada, University of Nevada
+School of Medicine, Las Vegas, NV;
+Gynecologic Oncology Associates,
+Rush-Presbyterian-St Luke’s Medical
+Center, Chicago; and Center on
+Outcomes, Research and Education,
+Evanston Northwestern Healthcare,
+Evanston, IL.
+Submitted February 3, 2009; accepted
+May 19, 2009; published online ahead
+of print at www.jco.org on October 5,
+2009.
+Supported by National Cancer Institute
+grants to the Gynecologic Oncology
+Group (GOG) Administrative Office
+(Grant No. CA 27469) and the GOG
+Statistical and Data Center (Grant No.
+CA 37517). J.L.W. was supported by
+GOG.
+Presented in part at the Society of
+Gynecologic Oncology 37th Annual
+Meeting on Women’s Cancer, March
+22-26, 2006, Palm Springs, CA.
+Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this
+article.
+Corresponding author: Alice B. Kornblith,
+PhD, Division of Women’s Cancers, DanaFarber Cancer Institute, 44 Binney St, LW
+231, Boston, MA 02115; e-mail:
+alice_kornblith@dfci.harvard.edu.
+The Appendix is included in the
+full-text version of this article,
+available online at www.jco.org.
+It is not included in the PDF version
+(via Adobe® Reader®).
+© 2009 by American Society of Clinical
+Oncology
+0732-183X/09/2732-5337/$20.00
+DOI: 10.1200/JCO.2009.22.3529
+ABSTRACT
+Purpose
+The study’s objective was to compare the quality of life (QoL) of patients with endometrial cancer
+undergoing surgical staging via laparoscopy versus laparotomy.
+Patients and Methods
+The first 802 eligible patients (laparoscopy, n  535; laparotomy, n  267) participated in the QoL
+study in a Gynecologic Oncology Group (GOG) randomized trial of laparoscopy versus laparotomy
+(GOG 2222). Patients completed QoL assessments at baseline; at 1, 3, and 6 weeks; and at 6
+months postsurgery.
+Results
+In an intent-to-treat analysis, laparoscopy patients reported significantly higher Functional Assessment of Cancer Therapy–General (FACT-G) scores (P  .001), better physical functioning
+(P  .006), better body image (BI; P  .001), less pain (P  .001) and its interference with QoL
+(P  .001), and an earlier resumption of normal activities (P  .003) and return to work (P  .04)
+over the 6-week postsurgery period, as compared with laparotomy patients. However, the
+differences in BI and return to work between groups were modest, and the adjusted FACT-G
+scores did not meet the minimally important difference (MID) between the two surgical arms over
+6 weeks. By 6 months, except for better BI in laparoscopy patients (P  .001), the difference in
+QoL between the two surgical techniques was not statistically significant.
+Conclusion
+Although the FACT-G did not show a MID between the two surgical groups, and only modest
+differences in return to work and BI were found between the two groups, statistically
+significantly better QoL across many parameters in the laparoscopy arm at 6 weeks provides
+modest support for the QoL advantage of using laparoscopy to stage patients with early
+endometrial cancer.
+J Clin Oncol 27:5337-5342. © 2009 by American Society of Clinical Oncology
+INTRODUCTION
+In the early 1990s, the Gynecologic Oncology Group
+(GOG) began evaluating minimally invasive surgical approaches to staging women with endometrial
+cancer. In comparing laparoscopy with laparotomy, surgical complications, perioperative morbidity, length of hospital stay, the incidence of
+subcutaneous metastases, and patients’ quality of life
+(QoL) were evaluated. Potential benefits of laparoscopic surgery include a reduction in wound complications and adhesion formation and decreased
+hospital stay when compared with laparotomy.1-8
+Potential complications associated with laparoscopy
+include visceral and vascular injuries owing to trocar
+insertion, trocar site recurrences, hernias, and bowel
+and urinary tract injury.1
+There is little information concerning the QoL
+outcomes associated with laparoscopy compared
+with laparotomy in patients with endometrial cancer. A retrospective study of 30 patients with endometrial cancer demonstrated a reduction in time to
+return to work (2.4 v 5.3 weeks) when comparing
+laparoscopy with laparotomy.7 In their study of 84
+patients with endometrial cancer, Zullo et al9 found
+that QoL (physical and emotional functioning) 1
+month postoperatively was significantly better in the
+laparoscopic versus the laparotomy group (P.05).
+JOURNAL OF CLINICAL ONCOLOGY ORIGINAL REPORT
+VOLUME 27  NUMBER 32  NOVEMBER 10 2009
+© 2009 by American Society of Clinical Oncology 5337
+By 6 months, no significant QoL differences were identified between
+the two groups.
+Differences in QoL among patients treated with laparoscopy
+have been studied in other patient populations. In a large randomized trial of patients with colon cancer, only pain medication
+required during hospitalization and global QoL at 2 weeks favored the
+laparoscopygroupcomparedwiththeopencolectomyarm.10Therewere
+noQoLdifferencesbetweenthetwogroups2monthsaftersurgery.Braga
+et al11 found a significantly better QoL in patients with colon cancer
+undergoing laparoscopy compared with those undergoing open colectomy at 12 months, whereas at 24 months, the only remaining significant
+advantage in the laparoscopic group was social functioning.
+The lack of outcome information pertaining to patients
+with endometrial cancer undergoing laparoscopy versus laparotomy prompted the GOG to conduct a randomized clinical
+trial (GOG 2222) to compare the two procedures in terms of the proportion of serious complications (initial primary end point) and
+recurrence-free interval (subsequent primary end point), staging information, complications, operative time, hospital stay, recurrence pattern,
+and QoL.12 The study was designed to test whether laparoscopy would
+resultinasignificantimprovementinpatient’sQoLasaresultoflesspain,
+earlier return to work and normal activities, better body image, and, as a
+consequence, less psychological distress compared with those undergoing laparotomy.
+*Cumulative deaths
+Patients Enrolled Between April 1, 1996 and April 1, 2001 (N = 808)
+Assigned to laparoscopy (n = 535) Assigned to laparotomy (n = 267)
+Presurgery
+ Completed valid assessments (n = 490; 92%)
+ Provided insufficient responses (n = 12)
+ Refused the assessment (n = 28; 5%)
+ Missed the assessment (n = 5)
+Presurgery
+ Completed valid assessments (n = 236; 88%)
+ Provided insufficient responses (n = 7)
+ Refused the assessment (n = 20; 7%)
+ Missed the assessment (n = 4)
+One week postsurgery
+ Completed valid assessments (n = 466; 87%)
+ Provided insufficient responses (n = 8)
+ Refused the assessment (n = 45; 8%)
+ Missed the assessment (n = 15)
+ Died (n = 1)
+One week postsurgery
+ Completed valid assessments (n = 215; 81%)
+ Provided insufficient responses (n = 4)
+ Refused the assessment (n = 30; 11%)
+ Missed the assessment (n = 14)
+ Died (n = 4)
+Three weeks postsurgery
+ Completed valid assessments (n = 456; 85%)
+ Provided insufficient responses (n = 10)
+ Refused assessment (n = 50; 9%)
+ Missed assessment (n = 16)
+ Died* (n = 3)
+Three weeks postsurgery
+ Completed valid assessments (n = 214; 80%)
+ Provided insufficient responses (n = 4)
+ Refused assessment (n = 34; 13%)
+ Missed assessment (n = 11)
+ Died* (n = 4)
+Six weeks postsurgery
+ Completed valid (n = 455; 85%)
+ Provided insufficient responses (n = 4)
+ Refused assessment (n = 63; 12%)
+ Missed assessment (n = 10)
+ Died* (n = 3)
+Six weeks postsurgery
+ Completed valid (n = 226; 85%)
+ Provided insufficient responses (n = 4)
+ Refused assessment (n = 30; 11%)
+ Missed assessment (n = 3)
+ Died* (n = 4)
+Patients were randomized (n = 802)
+Six months postsurgery
+ Completed valid assessments (n = 448; 84%)
+ Provided insufficient responses (n = 1)
+ Refused assessments (n = 63; 12%)
+ Missed assessments (n = 14)
+ Died* (n = 9)
+Six months postsurgery
+ Completed valid assessments (n = 205; 77%)
+ Provided insufficient responses (n = 6)
+ Refused assessments (n = 40; 15%)
+ Missed assessments (n = 11)
+ Died* (n = 5)
+Refused to participate (n = 6)
+Fig 1. Quality of life assessment compliance CONSORT diagram.
+Kornblith et al
+5338 © 2009 by American Society of Clinical Oncology JOURNAL OF CLINICAL ONCOLOGY
+PATIENTS AND METHODS
+This study was approved by the institutional review boards of all participating
+GOG institutions, and patients provided written informed consent. All patients participating in the QoL component of this study were accrued to the
+GOG clinical trial; had no clinical evidence of metastatic disease; had adequate
+bone marrow, renal, and hepatic function; had a GOG performance status of 0
+to 3 (0, normal activity, to 3, symptomatic and in bed  50% of time); and
+spoke English, French-Canadian, or Spanish. To maximize information about
+laparoscopy, a 2 to 1 randomization scheme was chosen, as there was less
+known about clinical and QoL outcomes in patients undergoing laparoscopy.
+Patients’ QoL was assessed before surgery; at 1, 3, and 6 weeks; and at 6 months
+postsurgery. At baseline, patients were provided with four copies of all postsurgery assessment forms and stamped, self-addressed envelopes for use in
+returning completed questionnaires to the clinician/data manager. Questionnaires were reviewed for completeness. Patients having difficulty in reading the
+questionnaires were interviewed by the clinician/data manager either in person or by telephone. Reminder calls were placed to patients by data managers
+a few days before the expected return date of the questionnaires. Questionnaires
+not received in a week’s time were followed up with a second reminder call.
+QoL Measures
+The Functional Assessment of Cancer Therapy Scale–General (FACT-G;
+version 3.0)13 consists of five subscales: physical, social, emotional, and functional well-being and relationship with one’s doctor. The FACT-G total score
+is based on 27 items that include only the physical, social, emotional, and
+functional well-being subscales, with scores ranging from 0 to 108. Higher
+scores indicate a better QoL.
+Additional Treatment Related Symptoms (AP) consists of six items related to surgical side effects such as fever, constipation, diarrhea, shortness of
+breath, the ability to eat, and problems urinating. Higher scores indicate worse
+symptoms. The total AP scores range from 0 to 24.
+The Physical Functioning Subscale of the Medical Outcome Study–Short
+Form (MOS-SF36; PF) is a 10-item scale with items designed to assess activities
+of daily living.14 The item scores are summated and are then transformed to a
+scale of 0 to 100. Higher scores indicate better physical functioning.
+Resumption of Normal Activities is a single item rated on a 0% to 100%
+scale designed to assess the extent that the patient was able to resume all of their
+normal activities.
+Two items from the Brief Pain Inventory (BPI)15 were selected to assess
+pain severity at its least and worst in the previous 7 days. Seven items measure
+pain’s interference with different domains of QoL. The pain severity total
+scores range from 0 to 20 and 0 to 70 for pain’s interference with QoL, with
+higher scores indicating worse pain or more interference of pain on QoL.
+Fear of Recurrence is a five-item scale measuring patients’ beliefs about
+recurrence of their cancer.16 The total score ranges from 0 to 20, with higher
+scores indicating a greater fear of recurrence.
+Body Image (BI), a seven-item scale created for all follow-up assessments
+and developed by the authors, assesses patients’ concerns about their physical
+appearance as a consequence of having surgery and its relationship to other
+areas in their life. Higher scores indicate a better body image. The total score
+ranges from 0 to 28. The Cronbachcoefficient of 0.67 for the seven-item scale
+at 6 months indicated marginal internal consistency.17
+Return to Work is a single item that asks patients who were employed the
+date on which they returned to work after their operation.
+Statistical Methods
+The data were analyzed as an intent-to-treat analysis, although 21% of
+patients in the QoL study who were randomly assigned to laparoscopy converted to laparotomy. Because of the multiplicity of QoL outcome measures
+and potential correlations among the scales, each QoL scale was tested at a
+significance level of .01 (.05/5) to control for the overall type I error at .05. As
+the overall measure of QoL was the FACT-G, it was considered the primary
+QoL outcome. A required sample size of 600 eligible patients was estimated
+based on the original primary clinical end point: the proportion of serious
+complications. This provided 96% statistical power to detect the minimally
+important difference (MID) of 5 points on the FACT-G at a significance level
+of .01. The difference of 5 points on FACT-G is comparable to a one-unit
+change of the GOG performance score and is considered an MID.18 To allow
+for approximately 20% patient attrition and noncompliance, 800 patients
+were accrued to the QoL study. In April 2001, the study group increased the
+sample size to include recurrence-free survival as a primary study end point.
+Because the original QoL sample size provided sufficient statistical power, it
+was decided to terminate enrollment for the QoL study in April 2001.
+The comparison of the postsurgery QoL scores between the two randomized arms was focused on the 1, 3, and 6-week postsurgical assessments. A
+linear mixed model was fitted for each QoL scale score, adjusted for corresponding baseline assessment scores, time effect, patients’ age, weight (in
+kilograms) at study entry, and marital status (married v not married). The
+interaction between treatment and time was first examined for the similarity of
+treatment effects at 1, 3, and 6 weeks postsurgery, with the significance level for
+an interaction set at .05. If the interaction effect was significant, then treatment
+effects at each postsurgical assessment were tested at the significance level of .01
+by comparing least-square means between the two arms. Otherwise, the mixed
+model was refitted without the interaction, and treatment effects were tested as
+an overall effect over the postsurgical assessments. The 6-month evaluation
+was considered exploratory and was examined only if there was a significant
+difference between surgical groups in a particular QoL score within 6 weeks
+postsurgery. The general linear model was used to explore whether the difference persisted at 6 months, adjusting for corresponding baseline scores, patients’ age, weight at baseline, and marital status. Each scale was tested at a
+significance level of .05 for this purpose.
+The treatment effect on the completion rates of QoL assessments across
+time were examined using the Generalized Estimating Equations method with
+an unstructured working correlation matrix.
+Table 1. Patient Characteristics
+Characteristic
+Laparoscopy
+(n  535)
+Laparotomy
+(n  267)
+No. % No. %
+Age, years
+Mean 64.1 62.5
+Standard deviation 11.2 11.8
+ 39 13 2.4 8 3.0
+40-49 40 7.5 28 10.5
+50-59 142 26.5 69 25.8
+60-69 161 30.1 91 34.1
+70-79 147 27.5 50 18.7
+80 32 6.0 21 7.9
+Weight, kg
+Mean 75.9 77.0
+Standard deviation 19.9 21.2
+Race
+White 473 88.4 227 85.0
+Asian 21 3.9 11 4.1
+Black 22 4.1 12 4.5
+Other/not specified 19 3.6 17 6.4
+Ethnicity
+Hispanic 16 3.0 8 3.4
+Non-Hispanic 519 97.0 257 96.3
+Not specified 0 0.0 1 0.4
+Marital status
+Married 286 53.5 147 55.1
+Widowed 110 20.6 32 12.0
+Separated/divorced 55 10.3 32 12.0
+Single 37 6.9 22 8.2
+Unknown 47 8.8 34 12.7
+Impact of Laparoscopy on Endometrial Patients’ QoL
+www.jco.org © 2009 by American Society of Clinical Oncology 5339
+RESULTS
+Between April 1, 1996, and April 1, 2001, the first 808 patients
+(laparoscopy, n  539; laparotomy, n  269) of the 2,616
+patients from the clinical trial were enrolled onto the QoL
+component of GOG 2222. Six patients (laparoscopy, n  4;
+laparotomy, n  2) were deemed unassessable because of refusal
+of treatment. The QoL results presented here are based on the
+remaining assessable 802 patients with endometrial cancer
+(laparoscopy, n  535; laparotomy, n  267).
+Table 2. QoL Scores for Each Assessment Between Patients Assigned to Laparoscopy Versus Laparotomy
+QoL Measure and Assessment Point
+Assigned to Laparoscopy (n  535) Assigned to Laparotomy (n  267)
+No. P†  Mean SD No. Mean SD
+FACT-G‡
+Presurgery 476 87.0 12.8 229 85.7 14.5 .26
+1 week postsurgery 455 77.1 14.6 212 72.3 15.3 .004
+3 weeks postsurgery 447 83.9 14.5 213 80.1 14.6 .025
+6 weeks postsurgery 446 89.6 14.1 223 85.4 15.3 .006
+6 months postsurgery 434 91.9 14.0 203 90.7 14.5 .64
+Additional treatment-related problems§
+Presurgery 465 2.6 2.4 223 2.5 2.5 .73
+1 week postsurgery 446 3.8 2.9 202 4.6 3.3 .003
+3 weeks postsurgery 442 3.0 2.7 206 3.0 2.5 .75
+6 weeks postsurgery 437 2.5 2.5 214 2.8 2.7 .08
+6 months postsurgery 428 2.3 2.4 194 2.2 2.6 .84
+Physical functioning‡
+Presurgery 468 75.9 27.8 228 69.2 30.1 .004
+1 week postsurgery 449 24.8 19.5 202 17.6 17.0 .006
+3 weeks postsurgery 443 46.7 24.5 205 36.2 20.8  .001
+6 weeks postsurgery 441 66.5 26.6 217 55.9 25.5  .001
+6 months postsurgery 438 76.2 26.1 198 72.3 27.2 .44
+Pain severity§
+Presurgery 452 2.8 4.2 220 3.3 4.5 .15
+1 week postsurgery 451 7.0 4.7 204 8.4 4.8 .004
+3 weeks postsurgery 439 4.1 4.1 205 5.0 4.0 .013
+6 weeks postsurgery 434 2.4 3.5 214 2.9 3.7 .201
+6 months postsurgery 432 1.4 3.0 195 1.4 2.8 .85
+Pain interference with QoL§
+Presurgery 468 7.7 13.4 228 9.6 15.6 .10
+1 week postsurgery 451 26.8 18.8 204 31.5 18.5 .011
+3 weeks postsurgery 444 16.3 16.8 205 20.0 17.8 .06
+6 weeks postsurgery 436 8.9 13.5 217 12.7 16.4 .021
+6 months postsurgery 432 5.3 10.7 194 5.8 11.8 .40
+Body image‡
+Presurgery 468 10.5 3.5 223 10.1 3.2 .10
+1 week postsurgery 439 20.1 4.5 203 17.7 4.9  .001
+3 weeks postsurgery 429 21.2 4.4 204 18.8 4.7  .001
+6 weeks postsurgery 434 21.8 4.4 215 19.5 4.7  .001
+6 months postsurgery 424 22.2 4.2 192 20.8 4.6  .001
+Fear of recurrence§
+1 week postsurgery 434 4.7 3.9 203 5.3 4.1 .06
+3 weeks postsurgery 427 4.1 3.8 203 4.7 3.9 .14
+6 weeks postsurgery 430 3.9 3.6 214 4.1 3.9 .40
+6 months postsurgery 421 4.0 3.6 192 3.9 3.7 .79
+Resumption of normal activities (%)‡
+1 week postsurgery 392 22.3 21.5 184 19.3 23.3 .20
+3 weeks postsurgery 374 43.2 25.9 185 36.0 25.6 .002
+6 weeks postsurgery 377 67.3 27.9 186 56.6 27.9  .001
+6 months postsurgery 378 82.6 23.9 175 81.3 23.4 .50
+Abbreviations: QoL, quality of life; SD, standard deviation; FACT-G, Functional Assessment of Cancer Therapy–General.
+
+No. of valid assessments.
+†Two-sided t test for presurgery comparison. Postsurgery comparisons (within 6 weeks) were tested by fitting linear mixed model adjusting for baseline scores,
+time effect, age, weight, and marital status, and taking into account of the assumed covariance structure. The 6-month follow-up comparison was tested by fitting
+the general linear model adjusting for baseline scores, age, weight, and marital status.
+‡Higher scores indicate better quality of life.
+§Higher scores indicate worse quality of life.
+Kornblith et al
+5340 © 2009 by American Society of Clinical Oncology JOURNAL OF CLINICAL ONCOLOGY
+Ninety-two percent of laparoscopy patients and 88% of laparotomy
+patients provided valid baseline QoL assessments. Completion rates were
+slightly but significantly higher in the laparoscopy group at 1 week (87%v
+81%; P  .02) and 6 months (84% v 77%; P  .02) postsurgery (Fig 1,
+CONSORT diagram). Reasons for noncompliance included patient
+refusal (laparoscopy, 9%; laparotomy, 12%), incomplete questionnaires (1.5%), illness (1%), death (0.5%), and other (2%).
+To test for sample bias, the sample of participants in the QoL
+study (n  802) was compared with those who were randomly assigned and received treatment after April 1, 2001 (n1,789), but were
+not offered participation in the QoL study. The only sociodemographic difference between groups was that more non-Hispanic patients were enrolled before April 1, 2001, as compared with those
+accrued after that date (96.8% v 83.9%; 2 test P  .001). However,
+204 patients did not report their ethnicity.
+Patient characteristics are presented in Table 1. The patients’
+mean age was 63.6 years, the majority were white, and approximately
+half were married. There were no significant differences between the
+two randomly assigned groups with respect to age, weight, race, Hispanic ethnicity, and marital status.
+QoL of Patients With Endometrial Cancer Assigned to
+Laparoscopy Versus Laparotomy
+Before surgery, there were no significant differences in any QoL
+measures except for the MOS Physical Functioning Scale, in which
+patients assigned to laparoscopy had a score that was 6.8 points higher
+in physical functioning (95% CI, 2.3 to 11.3; P  .003) than those
+assigned to laparotomy (Table 2).
+Within 6 weeks postsurgery, patients assigned to laparoscopy reportedbetterQoLonallscalesotherthanFearofRecurrenceascompared
+with those assigned to laparotomy (Table 2). The observed treatment
+differences between laparotomy and laparoscopy did not vary from 1 to 6
+weeks for the FACT-G, PF, Pain Interference with QoL, and BI. After
+adjustment (baseline scores, assessment time, age, weight, marital status),
+patients assigned to laparoscopy reported an average of 3.0 points higher
+in FACT-G scores (99% CI, 0.63 to 5.3;P.001), 6.0 points higher in PF
+scores (99% CI, 2.6 to 9.5;P.001), 2 points higher in BI (99% CI, 1.2 to
+2.9; P  .001), and 3.0 points lower in Pain Interference with QoL (99%
+CI, 0.26 to 5.8; P  .005) than those assigned to laparotomy during the 6
+weeks postsurgery period. The difference in averaged adjusted FACT-G
+scores between the two surgical arms did not reach the MID of 5 points
+overthe6weekspostsurgeryperiod(Fig2).However,52%oflaparotomy
+patients (104 of 200) compared with 43% of laparoscopy patients (181 of
+421)hadaworseningoftheirFACT-Gscoresat5pointsorgreater(MID)
+at3weeks,and37.3%oflaparotomypatients(78of209)hadaworsening
+of their FACT-G scores at 5 points or greater at 6 weeks compared with
+25% of laparoscopy patients (107 of 424).
+The observed treatment differences in AP, Pain Severity, and
+Resumption of Normal Activities varied over the 6-week postsurgical
+period. Patients randomly assigned to laparoscopy reported significantly lower AP scores (0.8 points lower; 99% CI, 0.1 to 1.5; P  .003)
+and lower Pain Severity scores (1.4 points lower; 99% CI, 0.4 to 2.4;
+P  .001) than those randomly assigned to laparotomy at 1 week, but
+not at 3 and 6 weeks. In addition, patients randomly assigned to
+laparoscopy reported that more daily activities were resumed after
+surgery compared with those randomly assigned to laparotomy at 3
+weeks (6.9% higher in the laparoscopy group; 99% CI, 1.1% to 12.7%;
+P  .002) and 6 weeks (9.8% higher in the laparoscopy group; 99% CI,
+3.6%to16.2%;P.001),butnotat1week.Of273patientsreportingthe
+time to return to work, the median time to return to work was 42 days for
+the laparoscopy group compared with 45 days in the laparotomy group, a
+small but significant difference (Wilcoxon rank sum test, P  .04).
+At 6 months postsurgery, all reported differences in QoL scales
+between the two arms were not statistically significant, except for BI,
+which was 1.32 points higher (95% CI, 0.61 to 2.04; P  .001) in the
+laparoscopy compared with the laparotomy arm.
+Although there were significant differences in physical functioning at baseline, this did not affect the overall results, as the analyses
+were adjusted for baseline levels. Given this approach to statistical
+analyses and the fact that there were no other statistically significant
+baseline differences between the two groups in the other QoL variables, it is unlikely that the differences in physical functioning at
+baseline would have affected other QoL findings.
+DISCUSSION
+The purpose of the study was to test whether there would be an
+improved QoL as a result of laparoscopy being less invasive than
+laparotomy in staging women with endometrial cancer. Patients
+treated with laparoscopy were found to have similar rates of intraoperative complications and ability to identify metastatic disease, a
+shorter length of hospitalization, and significantly fewer moderate
+to severe (Common Toxicity Criteria for Adverse Events grade 2)
+postoperative complications than those treated with laparotomy.1
+In addition, patients undergoing laparoscopy were found to have a
+superior overall QoL during the 6-week postoperative period, with
+fewer physical symptoms, less pain and pain-related interference
+with functioning, better physical functioning and emotional state,
+earlier resumption of normal activities, earlier return to work, and
+better BI as compared with those undergoing laparotomy.
+However, adjusted scores of the FACT-G did not reach the predefined MID between the surgical arms19 and differences between
+surgical arms in return to work and BI were modest. Yet approximately 10% (9% at 3 weeks and 12% at 6 weeks) more patients in the
+laparotomy arm experienced a decline in FACT-G scores beyond the
+MID than patients in the laparoscopy arm. In other words, for every 10 Quality of Life As Measured With FACT-G Score
+Assessment Time Point
+110
+105
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+Presurgery 1 Week
+Postsurgery
+3 Weeks
+Postsurgery
+6 Weeks
+Postsurgery
+6 Months
+Postsurgery
+Assigned to
+laparoscopy
+Laparoscopy performed
+as assigned
+Assigned to
+laparotomy
+Laparoscopy converted
+to laparotomy
+Fig 2. Quality of life as measured with Functional Assessment of Cancer
+Therapy–General (FACT-G) scores.
+Impact of Laparoscopy on Endometrial Patients’ QoL
+www.jco.org © 2009 by American Society of Clinical Oncology 5341
+patients offered laparoscopy, one patient would be spared the short-term
+declineinQoL.TheconvergingQoLbetweenthetwogroupsat6months
+may reflect the slower, but eventually equal recovery experienced by laparotomy patients in all areas other than BI, which persisted at 6 months.
+Some of our findings are consistent with studies comparing laparoscopy to laparotomy.7,9-11 Zullo et al9 found that physical and emotional
+functioning was significantly better in the laparoscopy group versus the
+laparotomygroupat1monthpostsurgery.Asignificantlyearlierreturnto
+work in the laparoscopy compared with the laparotomy group was also
+found by Spirtos et al,7 with a bigger difference in the length of time to
+return to work than our results showed. Both Zullo et al9 and our results
+showed no QoL differences between the two groups by 6 months. Yet
+Brega et al11 found in patients with colon cancer that the significantly
+better QoL in the laparoscopy group compared with the open colectomy
+group at 12 months resolved at 24 months, a longer time to resolve
+differences than was found in our study. However, Weeks et al10 found
+that only pain medication and global QoL in patients with colon cancer
+was significantly better in the laparoscopy compared with the open colectomy group at 2 weeks. These differences resolved by 2 months.
+Perhaps the reason for our modest but statistically significant QoL
+differences between the surgical groups and that the FACT-G did not
+reach a MID between groups can be explained by similar clinical outcomes, including intraoperative complications and identification of metastatic disease, and minor differences in length of hospitalization (4 v 3
+days for laparotomy and laparoscopy, respectively) found in the clinical
+trial.1These findings might have outweighed the significantly fewer postoperative complications in the laparoscopy than the laparotomy group
+(14% v, 21%, respectively; P  .0011
+) found in the clinical trial, in its
+impact on QoL, as these differences between surgical groups were not
+large. Additionally, 21% of patients who participated in the QoL study
+who were randomly assigned to laparoscopy were converted to laparotomy. QoL differences between the laparoscopy and laparotomy arms
+might have been greater if there had not been such a large proportion of
+laparoscopy patients who converted to laparotomy. It should be noted
+that the FACT-G scores of laparoscopy patients who converted to laparotomy approached the findings of those randomly assigned to laparotomy(Fig2).Last,themodestdifferencesfoundinreturntoworkmightbe
+accounted for by employers’ sickness leave plans that allowed for a specified time for patients to be out sick.
+Long-term QoL findings could be affected if a difference is
+found in survival when comparing the two treatment arms. We
+also intended to measure the effect of the two surgical techniques
+on sexual functioning. However, only 45% (n  362) answered
+questions on sexual functioning at baseline, decreasing to 38%
+(n  307) at 6 months. This was partly due to the number of
+patients without sexual partners, in addition to those who refused
+to answer the sexual functioning questions.
+In conclusion, although the FACT-G did not reach the MID
+between surgical groups, and there were only modest statistically significant improvements in QoL in laparoscopy compared with laparotomy patients in return to work and BI, the significant improvement in
+all QoL variables except for Fear of Recurrence in patients undergoing
+laparoscopy provides some support for a QoL advantage in the use of
+laparoscopy over laparotomy.
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS
+OF INTEREST
+The author(s) indicated no potential conflicts of interest.
+AUTHOR CONTRIBUTIONS
+Conception and design: Alice B. Kornblith, David Cella
+Provision of study materials or patients: Nick M. Spirtos
+Data analysis and interpretation: Helen Q. Huang, David Cella
+Manuscript writing: Alice B. Kornblith, Helen Q. Huang, Joan L.
+Walker, Nick M. Spirtos, David Cella
+Final approval of manuscript: Alice B. Kornblith, Helen Q. Huang, Joan
+L. Walker, Jacob Rotmensch, David Cella
+REFERENCES
+1. Walker JL, Piedmonte MR, Spirtos NM, et al:
+Laparoscopy compared with laparotomy for comprehensive surgical staging of uterine cancer: Gynecologic Oncology Group study LAP2. J Clin Oncol
+27:5331-5336, 2009
+2. Scribner DR Jr, Mannel RS, Walker JL, et al:
+Cost analysis of laparoscopy versus laparotomy for early
+endometrial cancer. Gynecol Oncol 75:460-463, 1999
+3. Boike GM, Miller CE, Spirtos NM, et al: Incisional bowel herniations after operative laparoscopy:
+A series of nineteen cases and review of the literature.
+Am J Obstet Gynecol 172:1726-1733, 1995
+4. Childers JM, Brzechffa PR, Hatch KD, et al:
+Laparoscopically assisted surgical staging (LASS) of
+endometrial cancer. Gynecol Oncol 51:33-38, 1993
+5. Eltabbakh GH, Shamonki MI, Moody JM, et
+al: Laparoscopy as the primary modality for the
+treatment of women with endometrial carcinoma.
+Cancer 91:378-387, 2001
+6. Fowler JM: The role of laparoscopic staging in
+the management of patients with early endometrial
+cancer. Gynecol Oncol 73:1-3, 1999
+7. Spirtos NM, Schlaerth JB, Gross GM, et al:
+Cost and quality-of-life analyses of surgery for early
+endometrial cancer: Laparotomy versus laparoscopy.
+Am J Obstet Gynecol 174:1795-1799, 1996
+8. Homesley HD, Boike C, Spiegel GW: Feasibility of laparoscopic management of presumed
+stage I endometrial carcinoma and assessment of
+accuracy of myoinvasion estimates by frozen section: A Gynecologic Oncology Group Study. Int J
+Gynecol Cancer 14:341-347, 2004
+9. Zullo F, Palomba S, Russo T, et al: A prospective
+randomized comparison between laparoscopic and
+laparotomic approaches in women with early stage
+endometrial cancer: A focus on the quality of life. Am J
+Obstet Gynecol 193:1344-1352, 2005
+10. Weeks JC, Nelson H, Gelber S, et al: Clinical
+Outcomes of Surgical Therapy (COST) Study Group:
+Short-term quality of life outcomes following
+laparoscopic-assisted colectomy vs. open colectomy for colon cancer—A randomized trial. JAMA
+287:321-328, 2002
+11. Braga M, Frasson M, Vignali A, et al: Laparoscopic vs. open colectomy in cancer patients:
+Long-term complications, quality of life and survival. Dis Colon Rectum 48:2217-2223, 2005
+12. Walker JL, Mannel RS: The role of laparoscopy in the management of endometrial cancer, in
+Coukos G, Rubin SC (eds): Cancer of the Uterus.
+New York, NY, Marcel Dekker, 2005, pp 275-304
+13. Cella DF, Tulsky DS, Gray G, et al: The
+Functional Assessment of Cancer Therapy Scale:
+Development and validation of the general measure. J Clin Oncol 11:570-579, 1993
+14. Stewart AL, Ware JE Jr: Measuring Functioning and Well-Being. Durham, NC, Duke University
+Press, 1992
+15. Daut RL, Cleeland CS, Flanery RC: Development
+of the Wisconsin Brief Pain Questionnaire to assess
+pain in cancer and other diseases. Pain 17:197-210,
+1983
+16. Greenberg DB, Kornblith AB, Herndon JE, et al:
+Quality of life of adult leukemia survivors treated on
+clinical trials of the Cancer and Leukemia Group B from
+1971-1988: Predictors for later psychological distress.
+Cancer 80:1936-1944, 1997
+17. Nunnally JC, Bernstein IH: Psychometric Theory (ed 3). New York, NY, McGraw-Hill, 1994
+18. Yost KJ, Eton DT: Combining distribution and
+anchor-based approaches to determine minimally
+important differences: The FACIT experience. Eval
+Health Prof 28:172-191, 2005
+19. Brucker PS, Yost K, Cashy J, et al: General
+population and cancer patient norms for the Functional Assessment of Cancer Therapy General
+(FACT-G). Eval Health Prof 28:192-211, 2005
+■■■
+Kornblith et al
+5342 © 2009 by American Society of Clinical Oncology JOURNAL OF CLINICAL ONCOLOGY

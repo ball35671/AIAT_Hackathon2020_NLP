@@ -1,0 +1,284 @@
+Abstract
+Section:
+
+Next section
+Objectives. We evaluated the relationship between maternal H1N1 vaccination and fetal and neonatal outcomes among singleton births during the 2009–2010 H1N1 pandemic.
+
+Methods. We used a population-based perinatal database in Ontario, Canada, to examine preterm birth (PTB), small-for-gestational-age (SGA) births, 5-minute Apgar score below 7, and fetal death via multivariable regression. We compared outcomes between women who did and did not receive an H1N1 vaccination during pregnancy.
+
+Results. Of the 55 570 mothers with a singleton birth, 23 340 (42.0%) received an H1N1 vaccination during pregnancy. Vaccinated mothers were less likely to have an SGA infant based on the 10th (adjusted risk ratio [RR] = 0.90; 95% confidence interval [CI] = 0.85, 0.96) and 3rd (adjusted RR = 0.81; 95% CI = 0.72, 0.92) growth percentiles; PTB at less than 32 weeks’ gestation (adjusted RR = 0.73; 95% CI = 0.58, 0.91) and fetal death (adjusted RR = 0.66; 95% CI = 0.47, 0.91) were also less likely among these women.
+
+Conclusions. Our results suggest that second- or third-trimester H1N1 vaccination was associated with improved fetal and neonatal outcomes during the recent pandemic. Our findings need to be confirmed in future studies with designs that can better overcome concerns regarding biased estimates of vaccine efficacy.
+
+During the 2009–2010 H1N1 influenza pandemic, early case reports documented more severe illness among pregnant women than among the general population, as well as higher rates of hospitalization and intensive care unit admissions.1,2 Later reports confirmed the disproportionately severe clinical course among pregnant women infected with H1N1 influenza.3–6 Public health organizations7–9 and professional associations10,11 strongly encouraged pregnant women to receive an H1N1 vaccination, and recent evidence suggests that the intensive vaccination campaign resulted in higher maternal vaccination rates during the pandemic than had been documented in previous influenza seasons.12–14
+
+Recommendations for routine vaccination of all pregnant women with inactivated influenza vaccine have been in place in Canada and the United States for a number of years.15–18 Nevertheless, seasonal vaccination rates prior to the 2009–2010 pandemic year were low in the United States,19–22 ranging from 0.7% to 20% (estimates were not available for Canada). In both countries, misconceptions about the risk of complications from influenza infection during pregnancy23 and concerns about safety12,23 are commonly cited reasons for not receiving an influenza vaccination, whereas care provider recommendations have been shown to increase vaccination rates.12,14,24
+
+Despite ongoing maternal concerns about vaccine safety, no evidence of serious harmful effects following influenza vaccination during pregnancy has been reported in the available studies on this topic19–21,25–32; thus, vaccination is promoted as the best way of preventing maternal morbidity from influenza infection.31 Theoretically, maternal influenza vaccination should also benefit the fetus by averting maternal illness and associated hyperthermia and other morbidity.28,31 Recent studies have reported a lower risk of preterm birth (PTB)33 and small-for-gestational-age (SGA) infants33,34 among women receiving an influenza vaccination during their pregnancy. However, the impact of maternal influenza vaccination on fetal and neonatal outcomes has not been extensively evaluated, possibly as a result of low immunization rates and limited sample sizes that preclude assessment of rare outcomes.
+
+In Ontario, Canada, the 2009 pandemic H1N1 vaccination campaign started on October 26, 2009; high-priority groups, including pregnant women, were targeted. During the pandemic, Better Outcomes Registry & Network (BORN) Ontario collected influenza immunization information from all pregnant women who gave birth in the province. Using this large, population-based birth cohort, we examined the association between maternal H1N1 influenza vaccination and fetal and neonatal outcomes.
+
+METHODS
+Section:
+
+Previous section
+Next section
+We conducted a population-based retrospective cohort study of all singleton hospital births (20 weeks’ gestation or more and birth weight ≥ 500 g) to Ontario residents between November 2, 2009, and April 30, 2010. We obtained our data from BORN Ontario's birth record database, which captures information on all hospital births in the province (approximately 140 000 live births and stillbirths across 109 hospital sites each year). Pregnancies that end in miscarriage before 20 weeks’ gestation and terminations of pregnancy owing to fetal anomalies at any gestational age are not included in the database. Home births are currently captured in the Ontario Midwifery Program database and thus were not included in this analysis. Less than 2% of all births in Ontario take place at home under the care of a registered midwife.
+
+The BORN Ontario database operates on a secure Web-based platform. When a woman is admitted to the hospital to give birth, data are collected by health care providers and hospital staff from charts, clinical forms, and patient interviews and subsequently entered into the database (either directly or via electronic upload from a hospital's electronic patient record). The database contains information on maternal demographic characteristics, health behaviors, and reproductive history, as well as clinical information related to labor, birth, and fetal and neonatal outcomes. An ongoing program of data verification, quality checks, and formal training sessions for individuals collecting and entering data ensures that a high level of data quality is maintained.35
+
+Measures
+In response to the 2009 H1N1 influenza pandemic, BORN Ontario added 3 variables related to influenza to the database. Starting on November 2, 2009, hospitals and health care providers began collecting information on the following exposures at any time during pregnancy: H1N1, seasonal, or other influenza-like illness; antiviral treatment; and H1N1 or seasonal influenza vaccination. Our primary exposure of interest, H1N1 vaccination during pregnancy, was defined as receipt of an H1N1 vaccination either alone or in combination with a seasonal influenza vaccination. Women who did not receive an H1N1 vaccination were considered unexposed. Because the H1N1 vaccination program in Ontario started in late October 2009 and our study population was composed of women who delivered between November 2009 and April 2010, it follows that most women in the exposed group were immunized during their second or third trimester.
+
+We examined the relationship between H1N1 vaccination during pregnancy and PTB (live birth at a gestational age below 37 weeks), very PTB (live birth at a gestational age below 32 weeks), SGA birth (singleton, live birth below the 10th percentile of the gender-specific birth weight for gestational age distribution),36 severe SGA birth (below the 3rd percentile), 5-minute Apgar score below 7, and fetal death (intrauterine death at ≥ 20 weeks’ gestation).
+
+Individual-level characteristics considered as possible confounders for each outcome included maternal age, parity, history of PTB, smoking during pregnancy, chronic hypertension, a composite measure of maternal medical comorbidity (any of the following preexisting medical conditions: asthma, chronic hypertension, insulin-dependent diabetes, non-insulin-dependent diabetes, or heart disease), pregnancy-induced hypertension, preeclampsia, a composite of obstetrical complications during the pregnancy (e.g., pregnancy-induced hypertension, preeclampsia, gestational diabetes, placenta previa), and a composite of intrapartum complications during labor or birth (e.g., cord prolapse, intrapartum bleeding, meconium).
+
+To obtain information on socioeconomic status, we used Statistics Canada software37 to link birth records to information from the long form 2006 Canadian census (administered to a 20% random sample of the population) via maternal postal codes. Each record was assigned to a dissemination area to extract neighborhood-level information on highest level of attained education, median family income, and concentration of immigrants. All neighborhood-level variables were converted into quintiles prior to analysis, with each quintile containing approximately one fifth of the total Ontario population but not necessarily one fifth of the births in our study population.
+
+Statistical Analyses
+Cumulative incidence rates of each study outcome were calculated among women who received and did not receive an H1N1 vaccination during pregnancy. We used logistic regression to compare risks for each outcome between the exposure groups by calculating unadjusted risk ratios (RRs), estimated from odds ratios, along with 95% confidence intervals (CIs). We subsequently used multivariable regression to calculate adjusted risk ratios and 95% confidence intervals. All multivariable models were adjusted for maternal age, neighborhood education, and neighborhood family income.
+
+To identify other confounding factors, we used χ2 tests to evaluate the association between each potential confounder and the exposure (H1N1 vaccination). If the resultant P value was below .05 (indicating an association between the factor and exposure) and the factor was associated with a given outcome (based on the literature), it was considered a confounder of the relationship between H1N1 vaccination and the outcome. Additional confounding factors thus identified were added to each multivariable model. To account for the nonindependence of neighborhood-level variables, we used general estimating equation methodology with the dissemination area as the clustering unit.
+
+We assessed the robustness of our findings by undertaking a number of sensitivity analyses whereby we repeated the primary analyses within different subgroups of women (i.e., lowest 2 and highest 2 family income quintiles and women with and without a medical comorbidity). We also repeated our primary analyses after excluding women who had received a seasonal influenza vaccination (in combination with an H1N1 vaccination).
+
+Records with missing information on any of the variables in a given model were excluded from the regression analyses. We used χ2 tests to compare the characteristics of women who were missing information on H1N1 vaccination with the characteristics of women with complete information. We also undertook a subgroup analysis that excluded large hospitals (i.e., those with more than 1000 births per year) in which more than 10% of records were missing information for H1N1 vaccination during pregnancy and another subgroup analysis that excluded birth records from the month of November 2009. SAS version 9.2 for Windows (SAS Institute Inc, Cary, NC) was used in conducting all analyses.
+
+RESULTS
+Section:
+
+Previous section
+Next section
+Of the 55 570 women with a singleton birth between November 2, 2009, and April 30, 2010, 23 340 (42.0%) received an H1N1 vaccination during pregnancy. Of these 23 340 women, 21 363 (91.5%) received only an H1N1 vaccination and 1977 (8.5%) received both an H1N1 and a seasonal influenza vaccination. Table 1 presents the distribution of individual- and neighborhood-level variables for the vaccinated and nonvaccinated groups, along with the proportion of women who received an H1N1 vaccination during their pregnancy within each level of the study variables. H1N1 vaccination rates were higher in the older age groups than in the younger age groups (> 40% among women aged 25 years or older vs approximately 30% among women younger than 25 years) and highest among women who gave birth in the month of January 2010 (47.5%). In addition, rates were higher in the top quintiles of neighborhood education and income than in the lower quintiles.
+
+Table
+TABLE 1—
+Characteristics of the Study Population and Receipt of H1N1 Vaccination During Pregnancy: Ontario, Canada, 2009–2010
+
+TABLE 1— Characteristics of the Study Population and Receipt of H1N1 Vaccination During Pregnancy: Ontario, Canada, 2009–2010
+
+H1N1 Vaccination During Pregnancy
+Characteristic	Total (n = 55 570), No. (%)a	No (n = 32 230), No. (%)b	Yes (n = 23 340), No. (%)b
+Maternal age, y
+ < 20	2052 (3.7)	1453 (70.8)	599 (29.2)
+ 20–24	7419 (13.4)	5063 (68.2)	2356 (31.8)
+ 25–34	34 224 (61.6)	19 391 (56.7)	14 833 (43.3)
+ 35–39	9697 (17.5)	5105 (52.6)	4592 (47.4)
+ ≥ 40	2177 (3.9)	1217 (55.9)	960 (44.1)
+Parity, no.
+ 0	24 224 (43.7)	14 120 (58.3)	10 104 (41.7)
+ 1	19 678 (35.5)	10 880 (55.3)	8798 (44.7)
+ > 1	11 534 (20.8)	7162 (62.1)	4372 (37.9)
+Month and year of delivery
+ November 2009	8830 (15.9)	5636 (63.8)	3194 (36.2)
+ December 2009	9049 (16.3)	4872 (53.8)	4177 (46.2)
+ January 2010	9481 (17.1)	4980 (52.5)	4501 (47.5)
+ February 2010	8752 (15.8)	4744 (54.2)	4008 (45.8)
+ March 2010	9974 (18.0)	5937 (59.5)	4037 (40.5)
+ April 2010	9484 (17.1)	6061 (63.9)	3423 (36.1)
+Smoking during pregnancy
+ No	47 209 (88.4)	27 010 (57.2)	20 199 (42.8)
+ Yes	6204 (11.6)	3986 (64.2)	2218 (35.8)
+Maternal medical comorbidityc
+ No	50 192 (92.6)	29 410 (58.6)	20 782 (41.4)
+ Yes	3988 (7.4)	2051 (51.4)	1937 (48.6)
+Chronic hypertension
+ No	53 725 (99.2)	31 225 (58.1)	22 500 (41.9)
+ Yes	455 (0.8)	236 (51.9)	219 (48.1)
+Pregnancy-induced hypertension
+ No	52 738 (96.4)	30 736 (58.3)	22 002 (41.7)
+ Yes	1995 (3.6)	1082 (54.2)	913 (45.8)
+Preeclampsia
+ No	53 550 (97.8)	31 136 (58.1)	22 414 (41.9)
+ Yes	1183 (2.2)	682 (57.7)	501 (42.4)
+History of preterm birth
+ No	51 138 (92.7)	29 407 (57.5)	21 731 (42.5)
+ Yes	4046 (7.3)	2626 (64.9)	1420 (35.1)
+Neighborhood education quintile
+ 1 (lowest)	11 353 (20.9)	6713 (59.1)	4640 (40.9)
+ 2	10 480 (19.3)	6291 (60.0)	4189 (40.0)
+ 3	11 085 (20.5)	6680 (60.3)	4405 (39.7)
+ 4	11 060 (20.4)	6627 (59.9)	4433 (40.1)
+ 5 (highest)	10 236 (18.9)	5089 (49.7)	5147 (50.3)
+Neighborhood immigrant concentration quintile
+ 1 (lowest)	9600 (17.8)	5143 (53.6)	4457 (46.4)
+ 2	9159 (17.0)	4868 (53.2)	4291 (46.9)
+ 3	8184 (15.2)	4403 (53.8)	3781 (46.2)
+ 4	9537 (17.7)	5427 (56.9)	4110 (43.1)
+ 5 (highest)	17 419 (32.3)	11 383 (65.4)	6036 (34.7)
+Neighborhood median family income quintile
+ 1 (lowest)	13 371 (24.7)	8513 (63.7)	4858 (36.3)
+ 2	10 476 (19.3)	6312 (60.3)	4164 (39.7)
+ 3	11 095 (20.5)	6439 (58.0)	4656 (42.0)
+ 4	11 009 (20.3)	6189 (56.2)	4820 (43.8)
+ 5 (highest)	8263 (15.2)	3947 (47.8)	4316 (52.2)
+Note. As a result of exclusion of missing values, numbers may not always sum to total.
+
+aColumn percentages.
+
+bRow percentages.
+
+cAsthma, chronic hypertension, insulin-dependent diabetes, non-insulin-dependent diabetes, or heart disease.
+
+Rates and risk ratios for each study outcome are shown in Table 2. Although the rate of PTB at less than 37 weeks was lower among infants born to H1N1-vaccinated mothers than among those born to nonvaccinated mothers (5.91 vs 6.44 per 100 live births), the risk ratio was close to the null, and the 95% confidence interval included the null value. We found a significantly reduced risk of very PTB (< 32 weeks) among infants whose mothers received H1N1 vaccine after adjustment for maternal age, chronic hypertension, pregnancy-induced hypertension, preeclampsia, history of PTB, smoking, family income, and educational level (adjusted RR = 0.73; 95% CI = 0.58, 0.91). A null association was observed between H1N1 vaccination and 5-minute Apgar score below 7.
+
+Table
+TABLE 2—
+Fetal and Neonatal Outcome Frequencies and Risk Ratios According to Exposure to H1N1 Vaccination During Pregnancy: Ontario, Canada, 2009–2010
+
+TABLE 2— Fetal and Neonatal Outcome Frequencies and Risk Ratios According to Exposure to H1N1 Vaccination During Pregnancy: Ontario, Canada, 2009–2010
+
+H1N1 Influenza Vaccination During Pregnancy
+Outcome	No (n = 32 230)	Yes (n = 23 340)
+Preterm birth (< 37 wk)a
+ Total no.	32 091	23 280
+ No. with outcome (rate/100 live births)	2066 (6.44)	1 376 (5.91)
+ Unadjusted RR (95% CI)	1.00 (Ref)	0.91 (0.85, 0.98)
+ Adjusted RRb (95% CI)	1.00 (Ref)	0.95 (0.88, 1.02)
+Very preterm birth (< 32 wk)a
+ Total no.	32 091	23 280
+ No. with outcome (rate/100 live births)	271 (0.84)	141 (0.61)
+ Unadjusted RR (95% CI)	1.00 (Ref)	0.71 (0.58, 0.88)
+ Adjusted RRb (95% CI)	1.00 (Ref)	0.73 (0.58, 0.91)
+Small for gestational age: below 10th percentilea
+ Total no.	32 068	23 265
+ No. with outcome (rate/100 live births)	3 149 (9.82)	1 937 (8.33)
+ Unadjusted RR (95% CI)	1.00 (Ref)	0.83 (0.79, 0.88)
+ Adjusted RRc (95% CI)	1.00 (Ref)	0.90 (0.85, 0.96)
+Small for gestational age: below 3rd percentilea
+ Total no.	32 068	23 265
+ No. with outcome (rate/100 live births)	864 (2.69)	466 (2.00)
+ Unadjusted RR (95% CI)	1.00 (Ref)	0.74 (0.65, 0.83)
+ Adjusted RRc (95% CI)	1.00 (Ref)	0.81 (0.72, 0.92)
+5-minute Apgar score below 7a
+ Total no.	31 984	23 220
+ No. with outcome (rate/100 live births)	413 (1.29)	277 (1.19)
+ Unadjusted RR (95% CI)	1.00 (Ref)	0.92 (0.79, 1.08)
+ Adjusted RRd (95% CI)	1.00 (Ref)	0.97 (0.82, 1.14)
+Fetal death
+ Total no.	32 230	23 340
+ No. with outcome (rate/1000 total births)	139 (4.31)	60 (2.57)
+ Unadjusted RR (95% CI)	1.00 (Ref)	0.60 (0.44, 0.81)
+ Adjusted RRe (95% CI)	1.00 (Ref)	0.66 (0.47, 0.91)
+Note. CI = confidence interval; RR = risk ratio. All adjusted models include maternal age, family income, and education.
+
+aAmong live births only.
+
+bAlso adjusted for chronic hypertension, pregnancy-induced hypertension, preeclampsia, history of preterm birth, and maternal smoking.
+
+cAlso adjusted for neighborhood immigrant concentration, chronic hypertension, and maternal smoking.
+
+dAlso adjusted for neighborhood immigrant concentration, maternal high-risk medical comorbidity, obstetrical complications, intrapartum complications, and gestational age at birth.
+
+eAlso adjusted for maternal smoking.
+
+Infants of H1N1-vaccinated mothers were less likely to be SGA based on the 10th and 3rd percentiles for growth, with a larger magnitude of effect observed for the latter, more extreme measure of poor fetal growth (adjusted RR = 0.90; 95% CI = 0.85, 0.96, vs adjusted RR = 0.81; 95% CI = 0.72, 0.92). The 139 fetal deaths recorded in the nonvaccinated group and the 60 deaths recorded in the vaccinated group resulted in rates of 4.31 and 2.57 per 1000 total births, respectively. After adjustment for maternal age, smoking, family income, and education, a significant inverse association between maternal H1N1 vaccination and fetal death was observed (adjusted RR = 0.66; 95% CI = 0.47, 0.91).
+
+The sensitivity analyses within strata representing more homogeneous subgroups of women generated results congruent with the primary analyses. With the exception of PTB outcomes among women in the lowest 2 quintiles of family income, the direction and order of magnitude for point estimates were similar in each stratum evaluated. The main difference was wider confidence intervals, resulting from the smaller sample size within each subgroup.
+
+For example, adjusted risk ratios for fetal death were 0.76 (95% CI = 0.48, 1.20) in the lowest 2 income quintiles combined and 0.70 (95% CI = 0.39, 1.25) in the highest 2 income quintiles combined. The pattern of results was similar among women with (fetal death adjusted RR = 0.53; 95% CI = 0.18, 1.59) and without (fetal death adjusted RR = 0.67; 95% CI = 0.47, 0.94) a medical comorbidity. Results of a final subanalysis that excluded 1977 women who had received a seasonal influenza vaccination (in combination with an H1N1 vaccination) were similar as well (data available on request).
+
+Approximately 12% of records (n = 7537) were missing information on H1N1 vaccination during pregnancy and were excluded from our analyses. We compared records with and without complete information on H1N1 vaccination and found no differences with respect to maternal age, urban residence, maternal medical comorbidity, or smoking. There were statistically significant differences between the 2 groups in parity, income, education, and month of delivery; with the exception of month of delivery, however, the differences were very small (absolute difference of < 1% in the proportion of missing records between strata) and not clinically informative.
+
+We carried out a subanalysis that excluded 6259 records from 18 large hospitals where more than 10% of records were missing exposure information, as well as a subanalysis that excluded records from deliveries in the month of November 2009 (for which a higher proportion of records were missing exposure information). Within these 2 subsets of our study population in which a smaller proportion of remaining records had missing vaccination information, the outcomes were qualitatively consistent with our main results (data available on request).
+
+DISCUSSION
+Section:
+
+Previous section
+Next section
+We found that pregnant women who received an H1N1 vaccination were less likely to have a very preterm infant, an SGA infant, or a fetal death, even after consideration of important confounding factors. To our knowledge, this is the largest population-based study on the effects of maternal influenza immunization on fetal and neonatal outcomes. Furthermore, this study provides evidence from a single, contemporary influenza pandemic in which maternal vaccination rates were much higher than usual and there was a very strong match between the circulating influenza virus and the strain used in the vaccine.
+
+Maternal influenza has been associated with adverse birth outcomes in past pandemics38,39 and nonpandemic years40 in addition to the 2009–2010 H1N1 pandemic.41 Thus, the biological rationale supporting the validity of an association between maternal H1N1 vaccination and improved fetal and neonatal outcomes is that averted maternal infection and associated morbidity protects the developing fetus. We were unable to directly explore this hypothesis in our study because we did not have adequate information on maternal influenza infection to establish whether the beneficial effects of vaccination were due to prevented H1N1 illness. Two recent studies that revealed lower PTB33 and SGA33,34 rates among vaccinated women, particularly during periods of maximum influenza viral activity, lend support to this explanation; nevertheless, additional research is needed to fully understand influenza vaccine effectiveness with regard to fetal and neonatal outcomes.
+
+The lack of ability to distinguish a true vaccine effect from an effect arising from underlying (and unaccounted for) differences in vaccinated and unvaccinated groups is known to beset studies of influenza vaccine effectiveness in which observational designs are used.42,43 In the elderly population, important vaccination selection factors have been implicated; in particular, healthier individuals may preferentially receive influenza vaccinations, leading to a bias of the effectiveness estimate away from the null value, often to a degree that is biologically implausible depending on the outcome under study.42,43
+
+Although obstetrical concerns may arise during a pregnancy (e.g., active bleeding) that render care providers less likely to recommend influenza vaccination for their patients, generally speaking the obstetrical population comprises reproductive-aged women who are mostly healthy, and thus “healthy vaccinee” selection bias should be less of a concern in this population than in the elderly population. Indeed, the higher H1N1 vaccination rates in our study among women with preexisting medical comorbidities than among women without comorbidities support this assumption.
+
+Nevertheless, we cannot discount the possibility that despite our multivariable analyses, residual confounding from other underlying differences in the characteristics of women who did and did not receive an H1N1 vaccination during the pandemic may have been responsible for some or all of the risk reductions in our study outcomes. Study designs that make use of the unique seasonality patterns of influenza viruses by evaluating vaccine efficacy during periods when influenza viruses are circulating (vaccine effect is expected) and not circulating (vaccine effectiveness is expected to be zero) can help in distinguishing true vaccine effects from those arising as a result of selection bias or residual confounding.42 Such designs represent an important direction for future research in this area.
+
+In our study, we observed a significant protective relationship between H1N1 influenza vaccination during pregnancy and risk of fetal death that persisted even after adjustment for maternal age, smoking, income, and education. Although the possibility that residual confounding from socioeconomic differences or an unmeasured health condition or behavior was responsible for the reduction in fetal death cannot be dismissed, the robustness of our findings was supported by subanalyses that revealed consistent results even within strata representing more homogeneous groups of women. Biological mechanisms that support the validity of an inverse relationship between maternal H1N1 vaccination and fetal death include the explanation that prevention of maternal influenza precludes subclinical infection in the mother that is fulminant in the fetus, leading to sepsis and death.
+
+To our knowledge, only 2 other studies have examined the effects of maternal influenza vaccination on fetal death. Results of a retrospective matched analysis of 1051 healthy pregnant women during 5 consecutive influenza seasons in a single clinic in Texas showed that there were no fetal deaths in either the immunized or nonimmunized group.19 Another study of 706 pregnant women in Minnesota during the 1976 influenza season44 recorded 1 stillbirth in both the nonimmunized and immunized groups. However, these studies had insufficient statistical power to evaluate a rare outcome such as fetal death, and their external validity was limited because of geographically restricted source populations and rates of fetal death that were not comparable to background population rates. Conversely, the rate of fetal death in our study population (3.58 per 1000) was comparable to the provincial rate during the preceding year (4.04 per 1000 in 2008).45
+
+Despite very different contexts and study designs, our finding that mothers who received an H1N1 vaccination during pregnancy were less likely to have an SGA infant is consistent with a secondary analysis of data from a randomized clinical trial of influenza vaccination during pregnancy in which Steinhoff et al. observed an adjusted odds ratio of 0.44 (P = .05) for SGA.34 Another recent study conducted by Omer et al. generated an odds ratio of 0.31 (95% CI = 0.13, 0.75) for SGA during a period characterized by widespread influenza activity.33 In our study, the magnitude of the effect for SGA was less extreme (3rd percentile adjusted RR = 0.81) but more precise. We are not aware of any other studies of maternal influenza vaccination that have included SGA as an outcome. Those in which birth weight has been used have reported no significant differences in mean birth weight or the proportion of low-birth weight infants (< 2500 g)20,26; however, these are both poor outcomes for evaluating growth restriction because low birth weight is predominantly driven by PTB.
+
+Consistent with some19,21,26,34 but not all33 other studies, the relationship between maternal H1N1 vaccination and PTB at less than 37 weeks was not significant in our adjusted analysis. However, an examination of differences in the proportion of infants born very preterm (i.e., < 32 weeks) showed that vaccinated women had a substantially reduced risk (by 27%). The null effect of the association between vaccination and PTB at the 37-week threshold and the significant protective effect at the 32-week threshold are clinically important given that the latter is unlikely to be iatrogenic and probably reflects an underlying biological mechanism for early delivery. Although the pathophysiology of preterm birth is not fully understood, maternal infection has been identified as a risk factor.46
+
+Strengths and Limitations
+Methodological strengths of this study include the large population-based cohort and the unprecedented vaccination rate, which allowed generation of relatively stable estimates for even rare outcomes. Neither misclassification of the outcomes nor differential ascertainment of outcomes between exposure groups was likely to occur given that data on these definitive fetal and neonatal outcomes are well documented in medical records and gathered as part of an ongoing data collection system independent from this study. Women are typically cautious about use of medications or other substances during pregnancy because of concerns about safety to the fetus, and thus misclassification of the exposure is unlikely. Because all singleton deliveries in Ontario were included, there was no introduction of selection bias.
+
+Information on maternal demographic characteristics, reproductive history, preexisting medical conditions, neighborhood income and education, and health behaviors such as smoking was available, allowing adjustment for many confounding factors. Nevertheless, we did not have information on other potential confounders such as adequacy of prenatal care, and we relied on neighborhood-level variables for data on socioeconomic factors, which may not be suitable substitutes for individual-level measures.
+
+Residual confounding is a concern in observational studies of vaccine effectiveness,42,43 and we cannot dismiss the possibility that it may have been responsible for some or all of the observed risk reductions in our study. However, sensitivity analyses among more homogeneous strata of our study population (e.g., groups stratified by neighborhood income or maternal medical comorbidities) yielded results that aligned closely with our primary analyses, providing additional support for our findings.
+
+Several other limitations merit discussion. Information on date of H1N1 vaccination was not collected, and thus it is possible that some women delivered within 14 days of immunization, before full immunity from the vaccine could be achieved. However, because this would likely have given rise to nondifferential misclassification of the exposure, the point estimates would be biased toward the null value. The lack of information on vaccination date also precluded us from evaluating whether there were trimester-specific effects. Because the majority of women in our study cohort were vaccinated during the second or third trimester of pregnancy, our findings cannot be extrapolated to women who were vaccinated during the first trimester. The absence of data on timing of vaccination and on occurrence and timing of influenza illness also prevented us from examining whether the effect of vaccination on study outcomes was through prevention of influenza.
+
+We found that missing exposure information was not entirely random; however, it is unlikely that the missing information would have introduced significant bias, given that there is no reason to suspect that the relationship between the exposure and outcomes would differ between these women and women for whom complete vaccination information was obtained. Analyses of subgroups of our study population with lower percentages of records missing exposure information yielded results that were consistent with our primary analyses.
+
+Finally, despite the vaccine effectiveness observed in this study, the degree of benefit from influenza vaccination is specific to each season. The effect of influenza vaccination among pregnant women, even if real, may not be measurable or appreciable in future seasons with lower morbidity or a less precise match between the vaccine and the circulating virus.
+
+Conclusions
+Our results, obtained with a large birth cohort during a contemporary influenza pandemic in which there were unprecedented rates of maternal vaccination and a strong match between the vaccine and circulating influenza virus, suggest that maternal H1N1 influenza vaccination in the second or third trimester of pregnancy was associated with a reduced risk of PTB at less than 32 weeks, SGA neonates, and fetal death. This study contributes to the growing literature on influenza vaccination during pregnancy and fetal and neonatal outcomes. Nevertheless, our findings should be considered preliminary and need to be confirmed in future prospective studies, particularly those that can reduce potential bias through the use of designs that exploit the seasonality of influenza viruses to evaluate vaccine efficacy during both noninfluenza (when vaccine effectiveness is expected to be zero) and influenza (when a true effect is expected) time periods.42
+
+Acknowledgments
+This study was funded by the Canadian Institutes of Health Research (grant 218653). Financial assistance for the H1N1 data collection in the Better Outcomes Registry & Network (BORN) Ontario database was provided by the Public Health Agency of Canada as part of the public health response to the H1N1 influenza pandemic.
+
+We are grateful to the health care providers and hospital staff in Ontario hospitals who collected these data. We also acknowledge Barbara Chapman, Monica Prince, and the BORN Ontario regional coordinators (Tammy Budhwa, Laurie Doxtator, Sandra Dunn, Glenda Hicks, Vivian Holmberg, and Susan Jewell) for their dedication to ensuring that the data collection was a success.
+
+Human Participant Protection
+This study was approved by the Ottawa Hospital research ethics board. Because this was a secondary analysis of data from an existing birth registry, informed consent was not required.
+
+References
+Section:
+
+Previous section
+Next section
+References
+1. Jamieson DJ, Honein MA, Rasmussen SA, et al. H1N1 2009 influenza virus infection during pregnancy in the USA. Lancet. 2009;374(9688):451–458. Crossref, Medline, Google Scholar
+2. Public Health Agency of Canada. Flu watch report: September 27, 2009, to October 3, 2009 (week 39). Available at: http://www.phac-aspc.gc.ca/fluwatch/09-10/w39_09/pdf/fw2009-39-eng.pdf. Accessed February 14, 2012. Google Scholar
+3. Creanga AA, Johnson TF, Graitcer SB, et al. Severity of 2009 pandemic influenza A (H1N1) virus infection in pregnant women. Obstet Gynecol. 2010;115(4):717–726. Crossref, Medline, Google Scholar
+4. Kumar A, Zarychanski R, Pinto R, et al. Critically ill patients with 2009 influenza A(H1N1) infection in Canada. JAMA. 2009;302(17):1872–1879. Crossref, Medline, Google Scholar
+5. Louie JK, Acosta M, Jamieson DJ, Honein MA. Severe 2009 H1N1 influenza in pregnant and postpartum women in California. N Engl J Med. 2010;362(1):27–35. Crossref, Medline, Google Scholar
+6. Siston AM, Rasmussen SA, Honein MA, et al. Pandemic 2009 influenza A(H1N1) virus illness among pregnant women in the United States. JAMA. 2010;303(15):1517–1525. Crossref, Medline, Google Scholar
+7. World Health Organization. Pregnancy and pandemic influenza A (H1N1) 2009: information for program managers and clinicians. Available at: http://www.who.int/csr/resources/publications/swineflu/h1n1_guidance_pregnancy.pdf. Accessed February 14, 2012. Google Scholar
+8. Centers for Disease Control and Prevention. Use of influenza A (H1N1) 2009 monovalent vaccine—recommendations of the Advisory Committee on Immunization Practices (ACIP), 2009. MMWR Morb Mortal Wkly Rep.2009;58(RR-10):1–8. Google Scholar
+9. Public Health Agency of Canada. Guidance document on the use of pandemic influenza A (H1N1) 2009 inactivated monovalent vaccine. Available at: http://www.phac-aspc.gc.ca/alert-alerte/h1n1/vacc/pdf/monovacc-guide-eng.pdf. Accessed February 14, 2012. Google Scholar
+10. Guidance on swine flu (H1N1v) for pregnant mothers—a joint statement from the Royal College of Obstetricians and Gynaecologists and the Royal College of Midwives. Available at: http://www.rcog.org.uk/files/rcog-corp/RCOG%20guidance%20H1N1v%20-%20final.pdf. Accessed February 14, 2012. Google Scholar
+11. Society of Obstetricians and Gynaecologists of Canada. Experts recommend that all pregnant women over 20 weeks gestation get H1N1 vaccination immediately. Available at: http://www.sogc.org/media/advisories-20091022a_e.asp. Accessed February 14, 2012. Google Scholar
+12. Centers for Disease Control and Prevention. Seasonal influenza and 2009 H1N1 influenza vaccination coverage among pregnant women—10 states, 2009–10 influenza season. MMWR Morb Mortal Wkly Rep. 2010;59(47):1541–1545. Medline, Google Scholar
+13. Gracie S, Metcalfe A, Dolan SM, Kehler H, Siever J, Tough S. Utilization of the 2009 H1N1 vaccine by pregnant women in a pandemic year. J Obstet Gynaecol Can. 2011;33(2):127–133. Crossref, Medline, Google Scholar
+14. Ding H, Santibanez TA, Jamieson DJ, et al. Influenza vaccination coverage among pregnant women—National 2009 H1N1 Flu Survey (NHFS). Am J Obstet Gynecol. 2011;204(suppl 1):S96–S106. Crossref, Medline, Google Scholar
+15. Gruslin A, Steben M, Halperin S, Money DM, Yudin MH, Infectious Diseases Committee of the Society of Obstetricians and Gynaecologists of Canada. Immunization in pregnancy. J Obstet Gynaecol Can. 2009;31(11):1085–1101. Crossref, Medline, Google Scholar
+16. American College of Obstetricians and Gynecologists Committee on Obstetric Practice. ACOG committee opinion number 305, November 2004: influenza vaccination and treatment during pregnancy. Obstet Gynecol. 2004;104(5):1125–1126. Crossref, Medline, Google Scholar
+17. National Advisory Committee on Immunization. Statement on seasonal trivalent inactivated influenza vaccine (TIV) for 2009–2010. Can Commun Dis Rep. 2009;35(6):1–41. Google Scholar
+18. Centers for Disease Control and Prevention. Recommended adult immunization schedule—United States, 2009. MMWR Morb Mortal Wkly Rep. 2008;57(53):Q1–Q4. Medline, Google Scholar
+19. Munoz FM, Greisinger AJ, Wehmanen OA, et al. Safety of influenza vaccination during pregnancy. Am J Obstet Gynecol. 2005;192(4):1098–1106. Crossref, Medline, Google Scholar
+20. France EK, Smith-Ray R, McClure D, et al. Impact of maternal influenza vaccination during pregnancy on the incidence of acute respiratory illness visits among infants. Arch Pediatr Adolesc Med. 2006;160(12):1277–1283. Crossref, Medline, Google Scholar
+21. Black SB, Shinefield HR, France EK, Fireman BH, Platt ST, Shay D. Effectiveness of influenza vaccine during pregnancy in preventing hospitalizations and outpatient visits for respiratory illness in pregnant women and their infants. Am J Perinatol. 2004;21(6):333–339. Crossref, Medline, Google Scholar
+22. Lu P, Bridges CB, Euler GL, Singleton JA. Influenza vaccination of recommended adult populations, U.S., 1989–2005. Vaccine. 2008;26(14):1786–1793. Crossref, Medline, Google Scholar
+23. Yudin MH, Salaripour M, Sgro MD. Pregnant women's knowledge of influenza and the use and safety of the influenza vaccine during pregnancy. J Obstet Gynaecol Can. 2009;31(2):120–125. Crossref, Medline, Google Scholar
+24. Tong A, Biringer A, Ofner-Agostini M, Upshur R, McGeer A. A cross-sectional study of maternity care providers’ and women's knowledge, attitudes, and behaviours towards influenza vaccination during pregnancy. J Obstet Gynaecol Can. 2008;30(5):404–410. Crossref, Medline, Google Scholar
+25. Mak TK, Mangtani P, Leese J, Watson JM, Pfeifer D. Influenza vaccination in pregnancy: current evidence and selected national policies. Lancet Infect Dis. 2008;8(1):44–52. Crossref, Medline, Google Scholar
+26. Zaman K, Roy E, Arifeen SE, et al. Effectiveness of maternal influenza immunization in mothers and infants. N Engl J Med. 2008;359(15):1555–1564. Crossref, Medline, Google Scholar
+27. Englund JA, Mbawuike IN, Hammill H, Holleman MC, Baxter BD, Glezen WP. Maternal immunization with influenza or tetanus toxoid vaccine for passive antibody protection in young infants. J Infect Dis. 1993;168(3):647–656. Crossref, Medline, Google Scholar
+28. MacDonald NE, Riley LE, Steinhoff MC. Influenza immunization in pregnancy. Obstet Gynecol. 2009;114(2):365–368. Crossref, Medline, Google Scholar
+29. Murray DL, Imagawa DT, Okada DM, St. Geme JW Jr. Antibody response to monovalent A/New Jersey/8/76 influenza vaccine in pregnant women. J Clin Microbiol. 1979;10(2):184–187. Medline, Google Scholar
+30. Sumaya CV, Gibbs RS. Immunization of pregnant women with influenza A/New Jersey/76 virus vaccine: reactogenicity and immunogenicity in mother and infant. J Infect Dis. 1979;140(2):141–146. Crossref, Medline, Google Scholar
+31. Tamma PD, Ault KA, del Rio C, Steinhoff MC, Halsey NA, Omer SB. Safety of influenza vaccination during pregnancy. Am J Obstet Gynecol. 2009;201(6):547–552. Crossref, Medline, Google Scholar
+32. Yates L, Pierce M, Stephens S, et al. Influenza A/H1N1 in pregnancy: an investigation of the characteristics and management of affected women and the relationship to pregnancy outcomes for mother and infant. Health Technol Assess. 2010;14(34):109–182. Crossref, Medline, Google Scholar
+33. Omer SB, Goodman DG, Steinhoff MC, et al. Maternal influenza immunization and reduced likelihood of prematurity and small for gestational age births: a retrospective cohort study. PLoS Med. 2011;8(5):e1000441. Crossref, Medline, Google Scholar
+34. Steinhoff MC, Omer SB, Roy E, et al. Neonatal outcomes after influenza immunization during pregnancy: a randomized controlled trial. CMAJ. 2012;Epub ahead of print. Crossref, Medline, Google Scholar
+35. Dunn S, Bottomley J, Ali A, Walker M. Niday Perinatal Database quality audit: report of a quality assurance project. Chronic Dis Inj Can. 2011;32(1):32–42. Medline, Google Scholar
+36. Kramer MS, Platt RW, Wen SW, Joseph KS, Allen A, Abrahamowicz M. A new and improved population-based Canadian reference for birth weight for gestational age. Pediatrics. 2001;108(2):e35. Crossref, Medline, Google Scholar
+37. Wilkins R. PCCF+ Version 5E User's Guide: Automated Geographic Coding Based on the Statistics Canada Postal Code Conversion Files, Including Postal Codes Through March 2009. Ottawa, Ontario, Canada: Statistics Canada; 2009. Google Scholar
+38. Harris JW. Influenza occurring in pregnant women. JAMA. 1919;72(14):978–980. Crossref, Google Scholar
+39. Freeman DW, Barno A. Deaths from Asian influenza associated with pregnancy. Am J Obstet Gynecol. 1959;78:1172–1175. Crossref, Medline, Google Scholar
+40. McNeil SA, Dodds LA, Fell DB, et al. Effect of respiratory hospitalization during pregnancy on infant outcomes. Am J Obstet Gynecol. 2011;204(suppl 1):S54–S57. Crossref, Medline, Google Scholar
+41. Pierce M, Kurinczuk JJ, Spark P, Brocklehurst P, Knight M. Perinatal outcomes after maternal 2009/H1N1 infection: national cohort study. BMJ. 2011;342:d3214. Crossref, Medline, Google Scholar
+42. Nelson JC, Jackson ML, Weiss NS, Jackson LA. New strategies are needed to improve the accuracy of influenza vaccine effectiveness estimates among seniors. J Clin Epidemiol. 2009;62(7):687–694. Crossref, Medline, Google Scholar
+43. Simonsen L, Viboud C, Taylor RJ, Miller MA, Jackson L. Influenza vaccination and mortality benefits: new insights, new opportunities. Vaccine. 2009;27(45):6300–6304. Crossref, Medline, Google Scholar
+44. Deinard AS, Ogburn P Jr. A/NJ/8/76 influenza vaccination program: effects on maternal health and pregnancy outcome. Am J Obstet Gynecol. 1981;140(3):240–245. Crossref, Medline, Google Scholar
+45. Better Outcomes Registry & Network Ontario. Perinatal health report 2008: greater Toronto area public health region—Figure 4.14, rate of stillbirth. Available at: http://www.bornontario.ca/_documents/PHU%20Reports/BORN-GTA%20PHU%20Report%202008-LR.pdf. Accessed February 14, 2012. Google Scholar
+46. Goldenberg RL, Culhane JF, Iams JD, Romero R. Epidemiology and causes of preterm birth. Lancet. 2008;371(9606):75–84. Crossref, Medline, Google Scholar

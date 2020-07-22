@@ -1,0 +1,281 @@
+﻿Abstract
+Background. The efficacy of seasonal influenza vaccination against 2009 pandemic influenza A(H1N1) remains unclear.
+
+Methods. One child aged 6–17 years in each of 796 households was randomized to receive 2009–2010 seasonal trivalent inactivated influenza vaccine (TIV) or saline placebo between August 2009 and February 2010. Households were followed up with serology, symptom diaries, and collection of respiratory specimens during illnesses. The primary outcomes were influenza infection confirmed by reverse-transcription polymerase chain reaction (RT-PCR) or a ≥4-fold rise in serum antibody titer measured by hemagglutination inhibition assay.
+
+Results. Receipt of TIV led to 8–13-fold mean geometric rises in antibody titers against seasonal A and B viruses, but only 1.5-fold mean geometric rises against the pandemic A(H1N1) virus that was not included in the vaccine. Children who received TIV had a reduced risk of seasonal influenza B confirmed by RT-PCR, with a vaccine efficacy estimate of 66% (95% confidence interval [CI], 31%–83%). Children who received TIV also a had reduced risk of pandemic influenza A(H1N1) indicated by serology, with a vaccine efficacy estimate of 47% (95% CI, 15%–67%).
+
+Conclusions. Seasonal TIV prevented pandemic influenza A(H1N1) and influenza B infections in children. Pandemic A(H1N1) circulated at the time of vaccination and for a short time afterward with no substantial seasonal influenza activity during that period. The potential mechanism for seasonal TIV to provide protection, possibly short lived, for children against pandemic A(H1N1) infection despite poor cross-reactive serologic response deserves further investigation.
+
+Clinical Trials Registration. NCT00792051.
+
+Topic: influenzachildcross reactionshong konginfluenza vaccinesreverse transcriptase polymerase chain reactionserologic testsvaccinationvaccinesinfectioninfluenzavirus ainfluenzavirus bvirusespandemicsinfluenza a virus, h1n1 subtypeswine influenzaantibody titer
+Issue Section: Articles and Commentaries
+(See the Editorial Commentary by Monto and Ohmit, on pages 703–5.)
+
+Although seasonal influenza vaccination is effective in reducing influenza-related morbidity in children aged ≥6 years [1, 2] it is not currently recommended to this group in Hong Kong. In an influenza pandemic, a vaccine against the novel virus may not be available for approximately 6 months. Thus, if previously available seasonal influenza vaccines are even moderately effective against the pandemic strain, they may have a role to play in mitigating the first wave of a pandemic.
+
+The 2009 pandemic influenza A(H1N1; pH1N1) virus was antigenically distinct from seasonal influenza A(H1N1) viruses that circulated before the pandemic and that were included in seasonal trivalent inactivated influenza vaccines (TIV) in 2008–2009 and 2009–2010 in the Northern hemisphere and 2009 in the Southern hemisphere. Seasonal influenza vaccination only marginally increased cross-reactive antibody to the pH1N1 virus [3]. It was therefore thought that seasonal influenza vaccination would have low effectiveness against pH1N1. Estimates of seasonal vaccine efficacy against pH1N1 have varied substantially [4–16]. A monovalent pH1N1 vaccine was distributed in Hong Kong only in January 2010 at the end of the first wave of infections, and uptake of the vaccine in the general community was <1% [17].
+
+After a pilot study in 2008–2009 [18], we conducted a large community-based, randomized controlled trial in Hong Kong during the 2009–2010 influenza season. The aim of our study was to evaluate the efficacy of TIV for prevention of laboratory-confirmed influenza in children. The study was also designed to evaluate indirect benefits to household members, which will be reported separately.
+
+METHODS
+Recruitment and Follow-up of Participants
+Invitation letters were distributed to participants of our previous studies, via schools, and to the families of members of a local birth cohort [19]. Eligible households included ≥1 child aged 6–17 years who did not have any contraindications against injection of TIV and was not immunocompromised. One eligible child from each household was randomized to receive either a single dose of TIV (0.5 mL of VAXIGRIP; Sanofi Pasteur) or placebo (0.5 mL of saline solution) intramuscularly. The 2009–2010 TIV used in our study included the strains A/Brisbane/59/2007(H1N1)-like, A/Brisbane/10/2007(H3N2)-like, and B/Brisbane/60/2008-like.
+
+Serum specimens were collected from study subjects at baseline before vaccination (August 2009 through February 2010), 1 month after vaccination, after the winter/spring influenza season for 25% of subjects (“midstudy,” April–May 2010), and at the end of the follow-up period (August–December 2010), which would also capture influenza infections that occur during the summer in Hong Kong. Enrollment of subjects, vaccinations, and serum collections were performed by trained research staff at a study clinic. All subjects and their household contacts were instructed to record the presence of any systemic and respiratory symptoms in a symptom diary daily throughout the study. Telephone calls were made biweekly to monitor for any acute upper respiratory tract infections (URTIs). Households were also reminded to report any acute URTIs to the study hotline as soon as possible after illness onset. Home visits were triggered by the presence of any of the following 2 symptoms or signs: fever ≥37.8°C, chills, headache, sore throat, cough, presence of phlegm, coryza, or myalgia in any household member; visits were repeated at 3-day intervals until acute URTIs resolved. During home visits, pooled nose and throat swab samples were collected from all household members regardless of illness. Households were compensated with supermarket vouchers (and book tokens for children) worth US$65 for participation in the study, US$13 for each serum specimen provided and US$6.5 for each home visit.
+
+Ethics
+Proxy written consent from parents or legal guardians was obtained for the subjects who were all aged 17 years and younger, with additional written assent from those aged 8 to 17 years. The study protocol was approved by the Institutional Review Board of Hong Kong University.
+
+Outcome Measures
+The primary outcome measures were influenza virus infection confirmed by reverse-transcription polymerase chain-reaction (RT-PCR), or indicated by a ≥4-fold increase in antibody titer from after vaccination to the end of the study. Secondary outcomes included (1) acute respiratory illness (ARI) defined as ≥2 of the following: fever ≥37.8°C, headache, sore throat, cough, myalgia [18], and (2) febrile ARI (FARI) defined as fever ≥37.8°C plus cough or sore throat [18, 20, 21]. We defined episodes of ARI and FARI as periods of ≥1 day when participants met the criteria for ARI or FARI, respectively, and episodes occurring within 7 days were merged together. RT-PCR-confirmed infections and illness episodes were analyzed for each subject from 14 days after vaccination until collection of the final serum specimen. Acute reactions were recorded by parents as none, mild, moderate, or severe for 4 days after vaccination.
+
+Sample Size Justification
+Assuming conservatively that 10% of subjects in the control arm would be infected with a prevalent influenza strain [22], inclusion of 800 subjects would have 75% power to detect a vaccine efficacy of ≥50%, with a 5% type I error rate. An unbalanced randomization scheme was proposed, where more subjects were included in the intervention arm to enhance acceptability.
+
+Randomization, Allocation Concealment and Blinding
+Randomization lists were prepared by a biostatistician (V. J. F). Eligible study participants were randomly allocated to the TIV or placebo group at a ratio of 3:2 using a random number generator (R software). A block-randomization sequence was generated, with randomly permuted block sizes of 5, 10, and 15.
+
+Blinding of households and study nurses was achieved by identical repackaging of TIV/placebo into numbered syringes by a trained nurse not involved in vaccine administration. A research assistant who had no access to the randomization list allocated unique numbers to participating households based on their order of attendance and these were subsequently matched to vaccine packages. Allocation of TIV/placebo was concealed to participating households, study nurses, and laboratory staff, and was revealed to investigators only after completion of follow-up.
+
+Laboratory Methods
+All serum specimens were tested for antibody responses to the vaccine strains A/Brisbane/59/2007(H1N1) and B/Brisbane/60/2008-like (Victoria lineage), the prevalent seasonal strain A/Perth/16/2009-like(H3N2), and the pandemic strain A/California/7/2009(H1N1) by hemagglutination inhibition assays using standard methods, as described elsewhere [18, 21]. The serum specimens were tested in serial doubling dilutions from an initial dilution of 1:10. Pooled nose and throat swab samples were tested by RT-PCR for influenza A and B using standard methods, as described elsewhere [18, 21].
+
+Statistical Analysis
+Fisher's exact tests were used to compare risks of adverse reactions between children who received TIV and those who received placebo. To assess vaccine immunogenicity, χ2 tests were used to compare the proportions of subjects with antibody titers ≥1:40 before and after vaccination between children who received TIV and those who received placebo, and Wilcoxon signed rank tests were used to compare ratios of pre- to postvaccination titers.
+
+Poststudy and postvaccination antibody titers were compared to determine serologic evidence of infection during the study period. For the subset of subjects with midstudy serum specimens available, overall estimates of cumulative incidence of infection were compared with estimates based on poststudy versus midstudy and midstudy versus postvaccination titers. We used Poisson regression offset by the duration of follow-up to estimate the incidence rate ratio of confirmed influenza, ARI, and FARI in TIV or placebo recipients. Vaccine efficacy was estimated as 1 minus the incidence rate ratio. All analyses of study outcomes were performed under the principle of intention to treat [23]. We used multiple imputation with 10 imputations to account for a small amount of missing data [24]. Statistical analyses were conducted using R software (version 2.11.0; R Development Core Team).
+
+RESULTS
+Figure 1 shows the flow of subjects throughout the study. Subjects in the TIV and placebo groups had similar characteristics (Table 1). One subject withdrew from the study after randomization but before the intervention was administered, and 13 of the 795 subjects who received the intervention did not complete the study. Following the principle of intention to treat, we included all 796 subjects in the primary analyses.
+
+
+
+
+Table 1.
+Baseline Characteristics of Children Who Received Trivalent Inactivated Influenza Vaccine or Placebo and Their Household Contacts
+
+Characteristics 	Missing Data 	TIV (n = 479) 	Placebo (n = 317) 
+Study subjects, No. (%) 	 	 	 
+ Female 	0 	231 (48) 	141 (44) 
+ Age group, years 	0 	 	 
+  6–8a 	 	170 (35) 	104 (33) 
+  9–11 	 	152 (32) 	107 (34) 
+  12–17 	 	157 (33) 	106 (33) 
+ Received influenza vaccination for 2008–2009 season 	24 	119 (26) 	 90 (29) 
+Households 	 	 	 
+ Household members, mean (SD), No. 	0 	3.8 (1.0) 	3.8 (1.0) 
+ Flat size, mean (SD), square feet 	7 	519 (229) 	516 (263) 
+Abbreviations: SD, standard deviation; TIV, trivalent inactivated influenza vaccine.
+
+a Including 1 child aged 5 years, 356 days.
+
+Open in new tab
+Figure 1.
+Flow chart of participants through the study showing the breakdown of the background of 796 enrolled households. Invitation letters were sent to a convenience sample of 311 primary and 379 secondary schools. In 79 schools that agreed to participate, letters were distributed to the parents of 59 630 children, and 656 households were enrolled. Of 1150 invitations sent to households of children who are members of a local birth cohort, 55 households were enrolled. Another 85 households continued from the preceding pilot study [18] and were reenrolled and rerandomized.
+Open in new tabDownload slide
+Flow chart of participants through the study showing the breakdown of the background of 796 enrolled households. Invitation letters were sent to a convenience sample of 311 primary and 379 secondary schools. In 79 schools that agreed to participate, letters were distributed to the parents of 59 630 children, and 656 households were enrolled. Of 1150 invitations sent to households of children who are members of a local birth cohort, 55 households were enrolled. Another 85 households continued from the preceding pilot study [18] and were reenrolled and rerandomized.
+
+
+Immune Response to Vaccine
+A single dose of TIV led to substantial and statistically significant increases in antibody titers to seasonal influenza strains among study subjects (Table 2). There was no statistically significant difference in geometric mean rises in antibody titers to pH1N1 after receipt of TIV or placebo, whereas about half of the subjects had postvaccination titers of ≥1:40 against pH1N1.
+
+
+
+
+Table 2.
+Immunogenicity of 2009–2010 Seasonal Trivalent Inactivated Influenza Vaccine Against Seasonal and Pandemic Influenza Strains
+
+Virus 	TIV (n = 479) 	Placebo (n = 317) 	Pa 
+Seasonal influenza A(H1N1) 	 	 	 
+ Antibody titer ≥1:40, % 	 	 	 
+  Prevaccination 	56 	52 	.34 
+  Postvaccination 	94 	54 	<.01 
+ GMT increase after vaccination 	10.0 	1.2 	<.01 
+Seasonal influenza A(H3N2) 	 	 	 
+ Antibody titer ≥1:40, % 	 	 	 
+  Prevaccination 	58 	64 	.08 
+  Postvaccination 	96 	64 	<.01 
+ GMT increase after vaccination 	13.2 	1.1 	<.01 
+Seasonal influenza B/Brisbane 	 	 	 
+ Antibody titer ≥1:40, % 	 	 	 
+  Prevaccination 	15 	13 	.59 
+  Postvaccination 	70 	15 	<.01 
+ GMT increase after vaccination 	7.9 	1.0 	<.01 
+Pandemic influenza A(H1N1) 	 	 	 
+ Antibody titer ≥1:40, % 	 	 	 
+  Prevaccination 	39 	37 	.59 
+  Postvaccination 	51 	47 	.38 
+ GMT increase after vaccination 	1.5 	1.3 	.18 
+Abbreviations: GMT, geometric mean titer; TIV, trivalent inactivated influenza vaccine.
+
+aP values were calculated with χ2 and Wilcoxon signed rank tests. Antibody titers <1:10 were imputed as 1:5.
+
+Open in new tab
+Reported Reactogenicity
+Myalgia and local reactions, including swelling, redness, and pain or soreness at the injection site, were more frequently reported after receipt of TIV (Supplementary Table 1). Only a small number of participants reported severe systemic or local adverse reactions. No serious adverse events were reported after vaccination.
+
+Incidence of Influenza
+Vaccinations were administered toward the end of the first wave of pH1N1. During the winter-spring influenza season in early 2010 there was circulation of pH1N1 and seasonal influenza B, whereas the summer influenza season occurred slightly later than in previous years [18, 25, 26] and was dominated by seasonal influenza A(H3N2; Figure 2).
+
+Figure 2.
+Timeline of subject recruitment and follow-up in 2009–2010, compared with influenza virus detections in the reference laboratory for Hong Kong Island at Queen Mary Hospital. Seasonal influenza A(H1N1) viruses were not detected in Hong Kong after October 2009, apart from 1 detection in the public health reference laboratory (in 6802 specimens tested) in April 2010. Victoria-lineage strains predominated among the influenza B viruses detected, and Yamagata-lineage strains also circulated.
+Open in new tabDownload slide
+Timeline of subject recruitment and follow-up in 2009–2010, compared with influenza virus detections in the reference laboratory for Hong Kong Island at Queen Mary Hospital. Seasonal influenza A(H1N1) viruses were not detected in Hong Kong after October 2009, apart from 1 detection in the public health reference laboratory (in 6802 specimens tested) in April 2010. Victoria-lineage strains predominated among the influenza B viruses detected, and Yamagata-lineage strains also circulated.
+
+
+A total of 757 ARI episodes were reported by subjects during the follow-up period, and we were able to confirm 56 influenza A and B infections by RT-PCR on 477 swab samples collected during 229 episodes. We were also able to confirm 2 pH1N1 infections from 738 swab samples collected from subjects when a household contact reported illness but the subject was not ill. Among the 58 confirmed influenza A and B infections, the most common symptom was cough (81%), and 72% of the confirmed infections were associated with a febrile illness (Supplementary Table 2). Fever, ARI and FARI were reported more commonly by individuals with confirmed seasonal influenza A(H3N2) and B than pH1N1.
+
+Vaccine Efficacy
+Subjects who received TIV had significantly lower risk of seasonal B infection confirmed by RT-PCR or serology, with vaccine efficacy estimates of 66% (95% confidence interval [CI], 31%–83%) and 83% (95% CI, 46%–95%) respectively (Table 3). Subjects who received TIV also had significantly lower incidence rates of pH1N1 infection by serology, with vaccine efficacy of 47% (95% CI, 15%–67%). Stratifying subjects by month of entry to the study, we did not observe statistically significant differences in vaccine efficacy against pH1N1 (data not shown). There were no statistically significant differences in incidence rates of seasonal influenza A(H3N2) by RT-PCR or serology, or in incidence rates of ARI or FARI.
+
+
+
+
+
+Table 3.
+Incidence Rates per Person-Year of Infection of Laboratory-Confirmed Influenza by Reverse-Transcription Polymerase Chain Reaction and Serology, Acute Respiratory Illness, and Febrile Acute Respiratory Illness Among Study Subjects Who Received Trivalent Inactivated Influenza Vaccine or Placebo
+
+Outcome 	Incidence Rates per Person-Year (95% CI)
+ 	Vaccine Efficacya (95% CI) 
+TIV (n = 479) 	Placebo (n = 317) 	Pa 
+By RT-PCR 	 	 	 	 
+ Pandemic A(H1N1) 	0.02 (.01–.04) 	0.02 (.01–.04) 	.61 	−0.32 (−2.86 to .55) 
+ seasonal A(H3N2) 	0.01 (.00–.03) 	0.01 (.00–.03) 	.90 	−0.10 (−3.60 to .74) 
+ Seasonal B 	0.03 (.02–.05) 	0.08 (.05–.12) 	<.01 	0.66 (.31–.83) 
+By serology 	 	 	 	 
+ Pandemic A(H1N1) 	0.09 (.06–.14) 	0.17 (.12–.24) 	.01 	0.47 (.15–.67) 
+ Seasonal A(H3N2) 	0.05 (.02–.09) 	0.07 (.04–.12) 	.21 	0.35 (−.28–.67) 
+ Seasonal B/Brisbane 	0.02 (.01–.06) 	0.11 (.08–.16) 	<.01 	0.83 (.46–.95) 
+ ARIb 	1.02 (.93–1.12) 	1.02 (.91–1.14) 	.96 	0.00 (−.16 to .13) 
+ FARIb 	0.43 (.37–.49) 	0.50 (.43–.59) 	.15 	0.15 (−.06 to .31) 
+ 	 	 	 	 
+Abbreviations: ARI, acute respiratory illness; CI, confidence interval; FARI, febrile ARI; RT-PCR, reverse-transcription polymerase chain reaction; TIV, trivalent inactivated influenza vaccine.
+
+aP values are estimated from Poisson regression models, and vaccine efficacy is estimated as 1 – incidence rate ratio.
+
+b ARI is defined as ≥2 of the following: body temperature ≥37.8°C, cough, sore throat, headache, and myalgia; FARI, as body temperature ≥37.8°C plus cough or sore throat.
+
+Open in new tab
+In the subset of subjects who provided midstudy serum specimens, estimation of cumulative incidence of infection in either winter or summer influenza seasons were 1.4 to 2 times higher than overall estimates based only on the baseline and poststudy serology (Supplementary Table 3). In this subset the estimate of vaccine efficacy against pH1N1 was 59% (95% CI, 20%–79%) over the winter 2009–2010 influenza season when pH1N1 circulated.
+
+No substantial antibody cross-reactivity between seasonal and pandemic influenza was observed. None of 8 subjects with seasonal A(H3N2) infections and only 2 of 35 subjects with seasonal B infections confirmed by RT-PCR were found to have a ≥4-fold rise in antibody titer against pH1N1. Only a small proportion of subjects with ≥4-fold in antibody titer against pH1N1 also had a ≥4-fold rise in antibody against influenza A(H3N2; 12%) and B (13%).
+
+We investigated the correlation between postvaccination antibody titer against pH1N1 and subsequent serologic evidence of pH1N1 infection. Comparing TIV and placebo recipients with postvaccination antibody titer ≤1:20, the cumulative incidence of pH1N1 infection was significantly lower among the TIV recipients (Supplementary Table 4). Incidence of pH1N1 was low among TIV and placebo recipients with higher postvaccination antibody titers against pH1N1.
+
+DISCUSSION
+We report the results of a large randomized controlled trial of seasonal TIV during a period when pH1N1 as well as seasonal influenza viruses circulated in the community. We observed statistically significant protection in TIV recipients against influenza B, but nonsignificant protection against influenza A(H3N2; Table 3), similar to findings in our pilot study [18]. Suboptimal vaccine efficacy against A(H3N2) could have been associated with an imperfect match between the vaccine component and the circulating A/Perth/16/2009-like strains [18, 21], as well as the longer interval between receipt of TIV and circulation of A(H3N2; Figure 2). Despite evidence of protection against confirmed influenza, there was no evidence that TIV protected children against ARI or FARI (Table 3). A similar observation was reported in our pilot study [27].
+
+Because antibody titers tend to rise substantially shortly after vaccination and then decline, serology can underestimate the cumulative incidence of influenza infection in vaccinees and bias estimates of vaccine efficacy [2, 28]. However receipt of seasonal TIV did not raise antibody titers against pH1N1 substantially (Table 2) and therefore the estimates of cumulative incidence of pH1N1 infections based on serology may be more accurate than for seasonal influenza. According to the serologic data, children who received TIV seemed to have greater protection against pH1N1 with vaccine efficacy 47% (95% CI, 15%–67%; Table 3). Protection occurred despite poor serologic response induced by TIV against pH1N1 (Table 2) [3, 29, 30], and was conferred even to TIV recipients who did not achieve postvaccination antibody titers of ≥1:40 (Supplementary Table 4).
+
+There is ongoing controversy over the change in risk of pH1N1 associated with receipt of seasonal TIV. Some observational studies of seasonal TIV have reported evidence of protection against illness associated with pH1N1 [4–6], whereas other studies have found no change in risk of illness associated with pH1N1 [7–14]. However, observational studies in Canada and Japan reported that receipt of seasonal TIV was associated with an increased risk of illness associated with pH1N1 infection [15, 16]. In our own pilot study in Hong Kong in 2008–2009, TIV in winter 2008–2009 was associated with reduced seasonal influenza infections in spring 2009 but increased pH1N1 infection in autumn 2009 [18], and we hypothesized that the effect was due to immunity against pH1N1 conferred by seasonal influenza infections [31–37]. In the present study pH1N1 circulated during and immediately after the vaccination period (Figure 2) and therefore we would not expect immunity associated with seasonal influenza infections to play any role in changing the risk of pH1N1.
+
+We can speculate on 2 possible explanations for our findings, both of which deserve further investigation. First, the lack of apparent cross-reactive serologic responses against the novel pH1N1 virus [3, 29, 30] may underestimate a true protective effect of TIV. The criterion used for seasonal vaccine immunogenicity—that is, the assumption that a titer of ≥1:40 by hemagglutination inhibition is associated with 50% protection against seasonal influenza infection—is based on limited evidence, primarily from challenge studies in young adults [38], and may not apply to a novel virus. Moreover, it seemed during the pandemic that adults had some degree of protection against pH1N1 as indicated by low secondary infection risks in households of index cases with confirmed infection [21, 39], and low cumulative incidence of infection at a population level in those aged 30–50 years [40] despite very low seroprevalence of pH1N1 antibody against pH1N1 before the pandemic [18, 21, 40]. Second, TIV could have conferred temporary nonspecific protection against influenza, which waned over a shorter time frame than the protection against strains included in the vaccine, and protected TIV recipients against pH1N1 which circulated at the beginning of our study period (Figure 2). This would mirror the hypothesis of temporary immunity after infection [18, 41], and potential mechanisms worthy of further exploration would include cell-mediated or innate immune responses to TIV [42]. Recent studies have demonstrated antibodies binding to the stalk of the hemagglutinin that confer broad heterosubtypic immunity [43, 44]. If such antibodies are elicited after vaccination but are short lived, this may also explain the observations from our study.
+
+Because vaccination was carried out in the period after the peak of the first wave of pH1N1 in Hong Kong during which approximately 45% of school-age children were infected [40], it may be argued that the protective effect of TIV on pandemic infection was mediated by boosting low or waning levels of immunity in those already infected by the pandemic H1N1 virus. The observation of protection even in those who had no detectable antibody 1 month after vaccination makes this explanation less plausible (Supplementary Table 4).
+
+There are some limitations to our study. First, given the circulation of pH1N1 and seasonal A(H3N2) viruses that were not included or antigenically well matched in the seasonal TIV that we used, our study had reduced power to confirm lower vaccine efficacy against these strains. Second, although 18% of participants had evidence of influenza infection indicated by serology during the study, we were able to confirm only 17% of those infections by RT-PCR (Table 3), which is similar to the proportion of influenza infections that could be confirmed by virologic testing in our pilot study and other community-based cohort studies [11, 18, 45]. Identification of acute URTIs and timely collection of respiratory specimens is difficult even with the intense follow-up in our cohort study, and confirming a greater proportion of infections remains an important consideration when designing community-based studies of influenza infection and transmission. A rise in antibody may be detectable even in those in whom the vaccine protects from disease though failing to protect from infection. On the other hand, serologic indication of infection via a 4-fold rise in antibody titer across a period of influenza activity may not have ideal sensitivity and specificity to identify influenza infections owing to variability in antibody titers over time for other reasons unrelated to influenza infection status, changes in cross-reactive antibody associated with other infections, and imperfect reliability or repeatability of serologic tests. Third, as discussed above, we may have failed to detect some seasonal influenza infections in children who received TIV [28].
+
+In conclusion, receipt of seasonal TIV prevented seasonal influenza B and pH1N1 infections in school-age children. Apparent protection against pH1N1 was detected only by serology but not by RT-PCR (Table 3), and occurred despite the poor cross-reactive serologic responses induced by the seasonal TIV against pH1N1 (Table 2). These results may have implications for the use of seasonal influenza vaccines in future pandemics even if initial studies were to suggest that seasonal vaccine was not immunogenic against the novel virus. The importance of the timing of the seasonal vaccination in relation to pandemic activity was also highlighted in this study. However, the mechanism for protection remains unclear, and seasonal TIV might be less effective against influenza A subtypes that human populations have not previously been exposed to, such as H5N1 and H9N2.
+
+Notes
+Acknowledgments. We thank Chan Kit Man, Lai-Ming Ho, Ho Yuk Ling, Nicole Huang, Lam Yiu Pong, Tom Lui, Tong Hok Leung, Loretta Mak, Kevin Yau, and Jenny Yuen for research support. We thank Lincoln Lau for assistance in drawing Figure 1. We thank Heath Kelly, Arnold Monto, Hiroshi Nishiura, Susan Ohmit, Julie Simpson, and Joe Wu for helpful discussions.
+
+Financial support. This study was supported by the Research Fund for the Control of Infectious Diseases of the Health, Welfare and Food Bureau of the Hong Kong SAR Government (grant CHP-CE-03), and the Area of Excellence Scheme of the Hong Kong University Grants Committee (grant AoE/M-12/06). The funding bodies had no role in study design, data collection and analysis, preparation of the manuscript, or the decision to publish.
+
+Potential conflicts of interest. B. J. C. has received research funding from MedImmune and consults for Crucell MV. D. K. M. I. has received research funding from F. Hoffman-La Roche. J. S. M. P. receives research funding from Crucell MV. All other authors report no potential conflicts.
+
+All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that the editors consider relevant to the content of the manuscript have been disclosed.
+
+References
+1	Jefferson T, Rivetti A, Harnden A, Di Pietrantonj C, Demicheli V. Vaccines for preventing influenza in healthy children, Cochrane Database Syst Rev , 2008pg. CD004879 
+ 
+2	Osterholm MT, Kelley NS, Sommer A, Belongia EA. Efficacy and effectiveness of influenza vaccines: a systematic review and meta-analysis, Lancet Infect Dis , 2012, vol. 12 (pg. 36-44)
+Google ScholarCrossrefPubMed 
+3	Hancock K, Veguilla V, Lu X, et al. Cross-reactive antibody responses to the 2009 pandemic H1N1 influenza virus, N Engl J Med , 2009, vol. 361 (pg. 1945-52)
+Google ScholarCrossrefPubMed 
+4	Garcia-Garcia L, Valdespino-Gomez JL, Lazcano-Ponce E, et al. Partial protection of seasonal trivalent inactivated vaccine against novel pandemic influenza A/H1N1 2009: case-control study in Mexico City, BMJ , 2009, vol. 339 pg. b3928 
+Google ScholarCrossrefPubMed 
+5	Echevarria-Zuno S, Mejia-Arangure JM, Mar-Obeso AJ, et al. Infection and death from influenza A H1N1 virus in Mexico: a retrospective analysis, Lancet , 2009, vol. 374 (pg. 2072-9)
+Google ScholarCrossrefPubMed 
+6	Pelat C, Falchi A, Carrat F, et al. Field effectiveness of pandemic and 2009–2010 seasonal vaccines against 2009–2010 A(H1N1) influenza: estimations from surveillance data in France, PLoS ONE , 2011, vol. 6 pg. e19621 
+Google ScholarCrossrefPubMed 
+7	Kelly H, Grant K. Interim analysis of pandemic influenza (H1N1) 2009 in Australia: surveillance trends, age of infection and effectiveness of seasonal vaccination, Eurosurveillance , 2009, vol. 14 pg. 19288 
+Google ScholarPubMed 
+8	Effectiveness of 2008–09 trivalent influenza vaccine against 2009 pandemic influenza A (H1N1)—United States, May-June 2009, MMWR Morb Mortal Wkly Rep , 2009, vol. 58 (pg. 1241-5)
+PubMed 
+9	Iuliano AD, Reed C, Guh A, et al. Notes from the field: outbreak of 2009 pandemic influenza A (H1N1) virus at a large public university in Delaware, April-May 2009, Clin Infect Dis , 2009, vol. 49 (pg. 1811-20)
+Google ScholarCrossrefPubMed 
+10	Lessler J, Reich NG, Cummings DA, Nair HP, Jordan HT, Thompson N. Outbreak of 2009 pandemic influenza A (H1N1) at a New York City school, N Engl J Med , 2009, vol. 361 (pg. 2628-36)
+Google ScholarCrossrefPubMed 
+11	Loeb M, Earn DJ, Smieja M, Webby R. Pandemic (H1N1) 2009 risk for nurses after trivalent vaccination, Emerg Infect Dis , 2010, vol. 16 (pg. 719-20)
+Google ScholarCrossrefPubMed 
+12	Pebody R, Andrews N, Waight P, et al. No effect of 2008/09 seasonal influenza vaccination on the risk of pandemic H1N1 2009 influenza infection in England, Vaccine , 2011, vol. 29 (pg. 2613-8)
+Google ScholarCrossrefPubMed 
+13	Valenciano M, Kissling E, Cohen J-M, et al. Estimates of pandemic influenza vaccine effectiveness in Europe, 2009–2010: results of influenza monitoring vaccine effectiveness in Europe (I-MOVE) multicentre case-control study, PLoS Med , 2011, vol. 8 pg. e1000388 
+Google ScholarCrossrefPubMed 
+14	Nelson CA, France EK, Shetterly SM, Glanz JM. Seasonal influenza vaccination status among children with laboratory evidence of pandemic H1N1 infection, Pediatr Infect Dis J , 2011, vol. 30 (pg. 562-5)
+Google ScholarCrossrefPubMed 
+15	Skowronski DM, De Serres G, Crowcroft NS, et al. Association between the 2008–09 seasonal influenza vaccine and pandemic H1N1 illness during spring-summer 2009: four observational studies from Canada, PLoS Med , 2010, vol. 7 pg. e1000258 
+Google ScholarCrossrefPubMed 
+16	Tsuchihashi Y, Sunagawa T, Yahata Y, et al. Association between seasonal influenza vaccination in 2008–2009 and pandemic influenza A (H1N1) 2009 infection among school students from Kobe, Japan, April-June 2009, Clin Infect Dis , 2012, vol. 54 (pg. 381-3)
+Google ScholarCrossrefPubMed 
+17	Liao Q, Cowling BJ, Lam WW, Fielding R. Factors affecting intention to receive and self-reported receipt of 2009 pandemic (H1N1) vaccine in Hong Kong: a longitudinal study, PLoS ONE , 2011, vol. 6 pg. e17713 
+Google ScholarCrossrefPubMed 
+18	Cowling BJ, Ng S, Ma ES, et al. Protective efficacy of seasonal influenza vaccination against seasonal and pandemic influenza virus infection during 2009 in Hong Kong, Clin Infect Dis , 2010, vol. 51 (pg. 1370-9)
+Google ScholarCrossrefPubMed 
+19	Schooling CM, Hui LL, Ho LM, Lam TH, Leung GM. Cohort Profile: ‘children of 1997’: a Hong Kong Chinese birth cohort, Int J Epidemiol , 2012 https://doi.org/10.1093/ije/dyq243
+ 
+20	Cowling BJ, Chan KH, Fang VJ, et al. Facemasks and hand hygiene to prevent influenza transmission in households: a randomized trial, Ann Intern Med , 2009, vol. 151 (pg. 437-46)
+Google ScholarCrossrefPubMed 
+21	Cowling BJ, Chan KH, Fang VJ, et al. Comparative epidemiology of pandemic and seasonal influenza A in households, N Engl J Med , 2010, vol. 362 (pg. 2175-84)
+Google ScholarCrossrefPubMed 
+22	Hoberman A, Greenberg DP, Paradise JL, et al. Effectiveness of inactivated influenza vaccine in preventing acute otitis media in young children: a randomized controlled trial, JAMA , 2003, vol. 290 (pg. 1608-16)
+Google ScholarCrossrefPubMed 
+23	Hollis S, Campbell F. What is meant by intention to treat analysis? Survey of published randomised controlled trials, BMJ , 1999, vol. 319 (pg. 670-4)
+Google ScholarCrossrefPubMed 
+24	Molenberghs G, Kenward MG. , Missing data in clinical studies , 2007HobokenJohn Wiley & Sons
+ 
+25	Cowling BJ, Wong IO, Ho LM, Riley S, Leung GM. Methods for monitoring influenza surveillance data, Int J Epidemiol , 2006, vol. 35 (pg. 1314-21)
+Google ScholarCrossrefPubMed 
+26	Lau EH, Cowling BJ, Ho LM, Leung GM. Optimizing use of multistream influenza sentinel surveillance data, Emerg Infect Dis , 2008, vol. 14 (pg. 1154-7)
+Google ScholarCrossrefPubMed 
+27	Cowling BJ, Fang VJ, Nishiura H, et al. Increased risk of non-influenza respiratory virus infections associated with receipt of inactivated influenza vaccine, Clin Infect Dis , 2012, vol. 54 (pg. 1778-83)
+Google ScholarCrossrefPubMed 
+28	Petrie JG, Ohmit SE, Johnson E, Cross RT, Monto AS. Efficacy studies of influenza vaccines: effect of end points used and characteristics of vaccine failures, J Infect Dis , 2011, vol. 203 (pg. 1309-15)
+Google ScholarCrossrefPubMed 
+29	Serum cross-reactive antibody response to a novel influenza A (H1N1) virus after vaccination with seasonal influenza vaccine, MMWR Morb Mortal Wkly Rep , 2009, vol. 58 (pg. 521-4)
+PubMed 
+30	McVernon J, Laurie K, Barr I, Kelso A, Skeljo M, Nolan T. Absence of cross-reactive antibodies to influenza A (H1N1) 2009 before and after vaccination with 2009 southern hemisphere seasonal trivalent influenza vaccine in children aged 6 months-9 years: a prospective study, Influenza Other Respi Viruses , 2011, vol. 5 (pg. 7-11)
+Google ScholarCrossref 
+31	Omori R, Adams B, Sasaki A. Coexistence conditions for strains of influenza with immune cross-reaction, J Theor Biol , 2010, vol. 262 (pg. 48-57)
+Google ScholarCrossrefPubMed 
+32	Andreasen V. Dynamics of annual influenza A epidemics with immuno-selection, J Math Biol , 2003, vol. 46 (pg. 504-36)
+Google ScholarCrossrefPubMed 
+33	Andreasen V, Sasaki A. Shaping the phylogenetic tree of influenza by cross-immunity, Theor Popul Biol , 2006, vol. 70 (pg. 164-73)
+Google ScholarCrossrefPubMed 
+34	Ferguson NM, Galvani AP, Bush RM. Ecological and immunological determinants of influenza evolution, Nature , 2003, vol. 422 (pg. 428-33)
+Google ScholarCrossrefPubMed 
+35	Sonoguchi T, Naito H, Hara M, Takeuchi Y, Fukumi H. Cross-subtype protection in humans during sequential, overlapping, and/or concurrent epidemics caused by H3N2 and H1N1 influenza viruses, J Infect Dis , 1985, vol. 151 (pg. 81-8)
+Google ScholarCrossrefPubMed 
+36	Slepushkin AN. The effect of a previous attack of A1 influenza on susceptibility to A2 virus during the 1957 outbreak, Bull World Health Organ , 1959, vol. 20 (pg. 297-301)
+Google ScholarPubMed 
+37	Epstein SL. Prior H1N1 influenza infection and susceptibility of Cleveland Family Study participants during the H2N2 pandemic of 1957: an experiment of nature, J Infect Dis , 2006, vol. 193 (pg. 49-53)
+Google ScholarCrossrefPubMed 
+38	Hobson D, Curry RL, Beare AS, Ward-Gardner A. The role of serum haemagglutination-inhibiting antibody in protection against challenge infection with influenza A2 and B viruses, J Hyg (Lond) , 1972, vol. 70 (pg. 767-77)
+Google ScholarCrossrefPubMed 
+39	Klick B, Nishiura H, Ng S, et al. Transmissibility of seasonal and pandemic influenza in a cohort of households in Hong Kong in 2009, Epidemiology , 2011, vol. 22 (pg. 793-6)
+Google ScholarPubMed 
+40	Wu JT, Ma ES, Lee CK, et al. The infection attack rate and severity of 2009 pandemic H1N1 influenza in Hong Kong, Clin Infect Dis , 2010, vol. 51 (pg. 1184-91)
+Google ScholarCrossrefPubMed 
+41	Kelly H, Barry S, Laurie K, Mercer G. Seasonal influenza vaccination and the risk of infection with pandemic influenza: a possible illustration of non-specific temporary immunity following infection, Eurosurveillance , 2010, vol. 15  pii:19722
+ 
+42	Tu W, Mao H, Zheng J, et al. Cytotoxic T lymphocytes established by seasonal human influenza cross-react against 2009 pandemic H1N1 influenza virus, J Virol , 2010, vol. 84 (pg. 6527-35)
+Google ScholarCrossrefPubMed 
+43	Ekiert DC, Bhabha G, Elsliger MA, et al. Antibody recognition of a highly conserved influenza virus epitope, Science , 2009, vol. 324 (pg. 246-51)
+Google ScholarCrossrefPubMed 
+44	Pica N, Hai R, Krammer F, et al. Hemagglutinin stalk antibodies elicited by the 2009 pandemic influenza virus as a mechanism for the extinction of seasonal H1N1 viruses, Proc Natl Acad Sci USA , 2012, vol. 109 (pg. 2573-8)
+Google ScholarCrossrefPubMed 
+45	Loeb M, Russell ML, Moss L, et al. Effect of influenza vaccination of children on infection rates in Hutterite communities: a randomized trial, JAMA , 2010, vol. 303 (pg. 943-50)
+Google ScholarCrossrefPubMed

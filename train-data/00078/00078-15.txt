@@ -1,0 +1,457 @@
+Abstract
+This multicentre, double-blind, parallel-group study in diabetic peripheral neuropathic pain addressed whether, in patients not responding to standard doses of duloxetine or pregabalin, combining both medications is superior to increasing each drug to its maximum recommended dose. For initial 8-week therapy, either 60 mg/day duloxetine (groups 1, 2) or 300 mg/day pregabalin (groups 3, 4) was given. Thereafter, in the 8-week combination/high-dose therapy period, only nonresponders received 120 mg/day duloxetine (group 1), a combination of 60 mg/day duloxetine and 300 mg/day pregabalin (groups 2, 3), or 600 mg/day pregabalin (group 4). Primary outcome (Brief Pain Inventory Modified Short Form [BPI-MSF] 24-hour average pain change after combination/high-dose therapy) was analyzed comparing combination (groups 2, 3 pooled) with high-dose monotherapy (groups 1, 4 pooled). Secondary end points included response rates, BPI-MSF severity items, and comparison of duloxetine and pregabalin in BPI-MSF average pain. Eight hundred four patients were evaluated for initial therapy and 339 for combination/high-dose therapy. There were no significant differences between combination and high-dose monotherapy regarding BPI-MSF average pain (mean change: combination: −2.35; high-dose monotherapy: −2.16; P = 0.370) and most secondary end points, which, however, consistently favoured combination therapy. Fifty-percent response rates were 52.1% for combination and 39.3% for high-dose monotherapy (P = 0.068). In exploratory analyses of the initial 8-week therapy uncorrected for multiple comparisons, 60 mg/day duloxetine was found superior to 300 mg/day pregabalin (P < 0.001). Both drugs and their combination were well tolerated. Although not significantly superior to high-dose monotherapy, combination therapy was considered to be effective, safe, and well tolerated.
+
+Previous article in issueNext article in issue
+Keywords
+Diabetic neuropathyPain treatmentCombination therapyDuloxetinePregabalin
+1. Introduction
+Diabetic peripheral neuropathy is a common chronic complication present in up to 50% of all diabetic patients with a long disease history [27]. Approximately 16%-26% of all patients with diabetes are known to develop diabetic peripheral neuropathic pain [7], [30]. Diabetic peripheral neuropathic pain causes moderate to severe unremitting lower-limb pain in the majority of sufferers and has a major negative impact on sleep, mood, functionality, and other aspects of quality of life [7], [15], [30]. Although traditionally, the first step in the management of diabetic peripheral neuropathic pain has been to improve and stabilize glycemic control [27], additional drugs are usually required [28].
+
+Clinical management of diabetic peripheral neuropathic pain is challenging, and response to existing treatments is often inadequate [28]. While tricyclic antidepressants, duloxetine, venlafaxine, pregabalin, and gabapentin have been recommended for first-line use in painful diabetic neuropathy [2], there is only limited evidence of efficacy for certain other anticonvulsants such as lamotrigine, carbamazepine, oxcarbazepine, valproate, topiramate, and lacosamide [9]. Among several disease-modifying agents, only the intravenous alpha-lipoic acid is supported when using 600 mg over a 3-week period [28]. However, duloxetine, a selective serotonin and norepinephrine re-uptake inhibitor, and pregabalin, an anticonvulsant that modulates the α2-δ-calcium channel subunits [2], [9], [11], [12], are the only 2 drugs approved by both the US Food and Drug Administration and the European Medicines Agency for the treatment of neuropathic pain in diabetes [28]. However, when given as monotherapy at standard doses (60 and 300 mg/day, respectively), it has been shown that both drugs provide substantial clinical pain relief in only about 40% of patients [21], [23], [25].
+
+In patients showing partial response to standard therapy with either drug, combination treatment of duloxetine and pregabalin at standard doses may provide better pain relief and tolerability than the administration of maximum doses of each drug, which may be limited by adverse effects [10]. Due to the different but potentially complementary mechanisms of action of duloxetine and pregabalin [8], [18], their combination may have a clinically additive effect in the treatment of painful diabetic neuropathy, resulting in an enhanced pain relief compared to the use of either drug alone. However, there have been no clinical studies exploring this hypothesis.
+
+The COMBO-DN (COmbination vs. Monotherapy of pregaBalin and dulOxetine in Diabetic Neuropathy) study was designed to address this common clinical question: “Is it better to increase the dose of the current first-line recommended monotherapy or to combine with another first-line recommended drug early on in patients with insufficient pain relief?” We compared the efficacy and tolerability of a fixed combination of standard recommended doses of duloxetine (60 mg/day) plus pregabalin (300 mg/day) with maximal doses of either drug given as monotherapy, that is, duloxetine 120 mg/day or pregabalin 600 mg/day, in patients with diabetic peripheral neuropathic pain not responding to the standard recommended dose of either drug [6], [19]. In exploratory analyses uncorrected for multiple comparisons, the study also provided the opportunity to directly compare duloxetine (60 mg/day) with pregabalin (300 mg/day) for initial pain therapy over 8 weeks.
+
+2. Methods
+2.1. Study design and population
+This was a multinational, randomized, double-blind, parallel-group study in patients with diabetic peripheral neuropathic pain conducted in Europe (Croatia, France, Germany, Greece, Italy, Poland, Spain, Sweden, The Netherlands, Turkey, and United Kingdom), Australia, Canada, Mexico, and South Korea, from February 2010 until November 2011. The study was approved by applicable Ethical Review Boards and followed applicable laws and regulations, Good Clinical Practice (according to International Conference on Harmonisation), and the Declaration of Helsinki. The EudraCT trial number is 2009-010063-16 and ClinicalTrials.gov identifier is NCT01089556.
+
+The study included male or female outpatients ⩾18 years of age, who were either not receiving any medication for diabetic peripheral neuropathic pain or who completed a 2-week washout period, and who had never received any duloxetine or pregabalin, except for a <15-day course of duloxetine or pregabalin treatment. Patients had to have pain due to bilateral peripheral neuropathy caused by type 1 or type 2 diabetes mellitus, beginning in the feet in a relatively symmetrical fashion. Daily pain should have been present for at least 3 months and the diagnosis had to be confirmed by a score of ⩾3 on the Michigan Neuropathy Screening Instrument at screening [20]. Furthermore, patients had to present with a 24-hour average pain severity of ⩾4 on the Brief Pain Inventory Modified Short Form (BPI-MSF) [5], and stable glycemic control with haemoglobin A1c (HbA1c) ⩽ 12%. Exclusion criteria included any suicidal risk as judged by the investigator or as defined by a score of ⩾2 on item 9 of the Beck Depression Inventory II (BDI-II) [3]. Investigators were neurologists, diabetologists, and pain specialists.
+
+The study consisted of 4 study periods (Fig. 1): a 2-week screening and washout period, an 8-week initial therapy period, an 8-week combination/high-dose therapy period, and a 2-week taper period. After screening, eligible patients were randomized and started treatment at visit 2. Treatment regimens during the initial and the combination/high-dose therapy periods were as shown in Fig. 1. At the start of the combination/high-dose therapy period, treatment response was assessed based on the change in the BPI-MSF 24-hour average pain score during the initial therapy period. Patients with ⩾30% improvement in pain were considered “responders” and were discontinued, while nonresponders (patients with <30% improvement) received double-blind treatment for another 8 weeks, starting at visit 5 (baseline for the combination/high-dose therapy period). During the concluding recommended taper period, study drug doses were tapered down (Fig. 1). Doses were also tapered down for patients discontinuing earlier.
+
+
+Download high-res image (148KB)Download full-size image
+Fig. 1. Study design. DLX, duloxetine; PGB, pregabalin.
+
+In case of significant intolerability at the target dose level, based on investigator and patient decision, the dose was reduced for 1 week and then increased back to the planned dose level. Patients still not tolerating the planned dose were discontinued.
+
+2.2. Randomization and blinding
+At the start of the initial therapy period, patients were randomized in a 1:1:1:1 ratio to 4 parallel groups stratified by site, based on a computer-generated sequence using a centralized interactive voice response system. Blinding was maintained throughout all treatment periods by using over-encapsulated duloxetine and pregabalin capsules, matching placebo, and an identical dosing regimen for all groups in terms of timing and number of capsules.
+
+2.3. Study outcome measures
+The self-reported BPI-MSF measures the severity of pain and the interference of pain with function [5]; it was assessed at clinical visits without using patient diaries. The primary outcome measure was the BPI-MSF 24-hour average pain score. Patients rated their average pain severity over the previous 24 hours on an 11-point scale ranging from 0 (no pain) to 10 (pain as bad as you can imagine). Response rates were evaluated based on a 30%, 50%, or 2-point reduction in BPI-MSF 24-hour average pain.
+
+Secondary outcome measures included other BPI-MSF items, the Clinical Global Impression of Improvement scores, the Patient Global Impression of Improvement scores [16], the Neuropathic Pain Symptom Inventory (NPSI) questionnaire total score, and its 5 subscores (burning spontaneous pain, pressing spontaneous pain, paroxysmal pain, evoked pains, and paraesthesias/dysaesthesias) [4], and the total and anxiety and depression subscale scores of the Hospital Anxiety and Depression Scale (HADS) [32]. Another important secondary measure was the change in BPI-MSF 24-hour average pain during initial therapy period, comparing standard doses of duloxetine and pregabalin, that is, 60 mg/day of duloxetine and 300 mg/day of pregabalin, corresponding to half the maximum doses for each drug.
+
+Safety assessments included frequencies of treatment-emergent adverse events (TEAEs) and serious adverse events (SAEs, defined as any event resulting in prolonging hospitalization or death, life-threatening experience, severe or permanent disability), vital signs, body weight, standard clinical laboratory tests (including fasting blood glucose and HbA1c), and the BDI-II questionnaire to assess the severity of depression and any suicidal risks with its item 9 [3].
+
+2.4. Statistical analysis
+The study was powered to detect a difference of 1 point on the BPI-MSF 24-hour average pain item score at the end of the study between the combination arm (pooled groups 2 and 3) and the monotherapy arm (pooled groups 1 and 4) with a 2-sided test and 90% power, assuming an SD of 2.5. This analysis required 135 patients per therapy group (nQuery Advisor 7.0; Statistical Solutions, Saugus, MA, USA). Assuming 60% of patients responding to initial therapy and 15% discontinuing during initial therapy, a total of 800 patients were planned to be randomized.
+
+Analyses were conducted according to intention-to-treat principles. Patients were included in efficacy analyses if they were treated and had a baseline and at least one postbaseline assessment of any efficacy parameter during the combination/high-dose therapy period (efficacy population). The safety population included all randomised and treated patients. Visit 2 was baseline for the initial and visit 5 for the combination/high-dose therapy period.
+
+Mixed-model repeated-measures (MMRM) analysis was used to compare combination and high-dose monotherapy by modelling the change from baseline (start of combination/high-dose therapy) to end of combination/high-dose therapy in the BPI-MSF 24-hour average pain score.
+
+The model included terms for treatment (combination/monotherapy), site, visit, treatment-by-visit interaction, initial therapy (duloxetine/pregabalin), baseline score, and baseline-by-visit interaction. An unstructured covariance structure was assumed. Means and their 95% confidence intervals (CIs) were presented for each therapy group and for between-therapy differences, together with associated P-values.
+
+Secondary efficacy analyses were exploratory and included MMRM to compare the respective treatment groups within each treatment period. Response rates were compared between treatments using a Cochran-Mantel-Haenszel test stratified by site. All tests were prespecified. No adjustment for multiplicity was made.
+
+Safety measures were descriptively summarized. Frequencies of patients with TEAEs and patients with an increase in the score for BDI-II item 9 were compared between treatments using Fisher’s exact test.
+
+Data were analyzed using SAS software version 8.2 or higher (SAS Institute Inc, Cary, NC, USA).
+
+2.5. Role of the funding source
+The sponsor, Eli Lilly & Company (Indianapolis, IN, USA), was involved in study design, in the collection, analysis, and interpretation of data, in the writing of the manuscript, and in the decision to submit the paper for publication.
+
+3. Results
+3.1. Patient disposition and baseline characteristics
+Of 1074 patients screened, 804 were randomized and received initial therapy with duloxetine 60 mg/day (n = 401) or pregabalin 300 mg/day (n = 403) (Fig. 2). After 8 weeks of treatment, 164 patients (40.9%) treated with duloxetine and 116 (28.8%) treated with pregabalin discontinued the study because they showed ⩾30% improvement in BPI-MSF 24-hour average pain. Of the 343 patients who continued treatment in the combination/high-dose therapy period, 170 received combination therapy and 173 high-dose monotherapy, according to the sequences the patients had been randomized to. Discontinuation reasons other than achieving response after the initial therapy period were evenly distributed between treatment groups in both treatment periods (Fig. 2).
+
+
+Download high-res image (377KB)Download full-size image
+Fig. 2. Patient disposition flow chart. DLX, duloxetine; PGB, pregabalin; V5, visit 5. aIncludes 7 patients (4 patients of group 1, 3 of group 2) who were responders at the end of initial therapy. bIncludes 5 patients (4 patients of group 3, 1 of group 4) who were responders at the end of initial therapy.
+
+The efficacy population for the combination/high-dose therapy period included 169 patients in the combination therapy group and 170 in the high-dose monotherapy group.
+
+Patient characteristics (Table 1) as well as neuropathic pain efficacy measures and mood assessments (Table 2) at baseline of the initial therapy period were similar to those at baseline (i.e., visit 5) of the combination/high-dose therapy period.
+
+Table 1. Baseline characteristics.
+
+Initial therapy	Combination/high-dose therapy
+Duloxetine	Pregabalin	Combination therapy	High-dose monotherapy
+N	Statistic	N	Statistic	N	Statistic	N	Statistic
+Age (years), mean (SD)	401	61.5 (10.62)	403	61.9 (10.95)	169	61.0 (9.78)	170	61.2 (10.46)
+ ⩾65 years, n (%)		156 (38.9)		157 (39.0)		61 (36.1)		63 (37.1)
+Male, n (%)	401	219 (54.6)	403	229 (56.8)	169	89 (52.7)	170	92 (54.1)
+Race, n (%)	398		400		167		169	
+ White		324 (81.4)		328 (82.0)		140 (83.8)		146 (86.4)
+ American Indian or Alaska Native		37 (9.3)		36 (9.0)		8 (4.8)		8 (4.7)
+ Asian		34 (8.5)		34 (8.5)		19 (11.4)		14 (8.3)
+ Other		3 (0.8)		2 (0.5)		0		1 (0.6)
+Weight (kg), mean (SD)	400	85.3 (19.43)	403	86.5 (19.58)	169	85.0 (19.27)	170	87.7 (18.92)
+Body mass index (kg/m2), mean (SD)	399	30.7 (6.18)	403	30.9 (5.94)	169	30.5 (6.03)	170	31.4 (6.12)
+Current alcohol consumption, n (%)	401	111 (27.7)	403	119 (29.5)	169	45 (26.6)	170	45 (26.5)
+Time since diabetic diagnosis onset (years), median (Q1, Q3)	401	11 (6.5, 18.0)	403	11 (5.8, 18.8)	169	11 (4.9, 17.6)	170	11 (5.9, 20.0)
+HbA1c (%), mean (SD)	401	8.0 (1.70)	401	7.9 (1.57)	166	7.6 (1.69)	166	7.7 (1.56)
+Time since neuropathy diagnosis onset (years), median (Q1, Q3)	401	2 (0.9, 5.2)	403	2 (0.8, 4.8)	169	2 (1.0, 5.2)	170	2 (0.8, 5.3)
+Time since neuropathic pain onset (years), median (Q1, Q3)	401	2 (0.8, 4.7)	403	2 (0.7, 3.8)	169	2 (0.6, 3.8)	170	1 (0.6, 4.0)
+Received no prior DPNP therapy, n (%)	401	263 (65.6)	403	267 (66.3)	169	99 (58.6)	170	115 (67.6)
+Concomitant diseases reported by ⩾10% of patients at baseline, n (%)	401		403		NA		NA	
+Any concomitant disease		359 (89.5)		356 (88.3)		NA		NA
+Hypertension		261 (65.1)		262 (65.0)		NA		NA
+Hyperlipidemia		70 (17.5)		82 (20.3)		NA		NA
+Hypercholesterolemia		50 (12.5)		62 (15.4)		NA		NA
+Dyslipidemia		52 (13.0)		38 (9.4)		NA		NA
+Osteoarthritis		45 (11.2)		43 (10.7)		NA		NA
+DPNP, diabetic peripheral neuropathic pain; HbA1c, hemoglobin A1c; N, total number of patients with available data; n, number of patients with characteristic; NA, not applicable; Q1, first quartile; Q3, third quartile.
+
+
+Table 2. Efficacy measures at baseline.
+
+Efficacy measure	Initial therapya	Combination/high-dose therapyb
+Duloxetine	Pregabalin	Combination therapy	High-dose monotherapy
+N	Mean (SD)	N	Mean (SD)	N	Mean (SD)	N	Mean (SD)
+Brief Pain Inventory (BPI)								
+ Average pain	401	6.0 (1.55)	401	6.0 (1.57)	169	5.4 (1.39)	170	5.4 (1.51)
+ Pain at its worst	401	7.2 (1.66)	403	7.1 (1.70)	169	6.0 (1.75)	170	6.2 (1.77)
+ Pain at its least	401	4.5 (2.17)	403	4.4 (2.09)	169	4.1 (1.88)	170	3.9 (1.98)
+ Pain right now	401	5.2 (2.22)	403	5.2 (2.24)	169	4.5 (2.07)	170	4.5 (2.28)
+ Total interference score	399	4.9 (2.05)	401	4.9 (2.14)	168	4.1 (1.96)	170	4.1 (2.16)
+ General activity	401	5.4 (2.54)	402	5.5 (2.40)	169	4.4 (2.22)	170	4.5 (2.36)
+ Mood	401	4.9 (2.52)	402	4.7 (2.55)	169	4.1 (2.27)	170	4.4 (2.42)
+ Walking ability	401	5.5 (2.58)	402	5.5 (2.55)	169	4.6 (2.37)	170	4.5 (2.43)
+ Normal work	399	5.2 (2.50)	401	5.0 (2.40)	168	4.3 (2.20)	170	4.2 (2.36)
+ Relations with other people	401	3.7 (2.57)	402	3.7 (2.62)	169	3.4 (2.34)	170	3.3 (2.50)
+ Sleep	401	5.4 (2.76)	402	5.6 (2.81)	169	4.2 (2.53)	170	4.2 (2.59)
+ Enjoyment of life	401	4.4 (2.81)	402	4.4 (2.82)	169	3.6 (2.38)	170	3.7 (2.63)
+
+Neuropathic Pain Symptom Inventory (NPSI)c								
+ Total score	399	47.3 (19.16)	397	47.7 (20.46)	169	39.4 (17.96)	170	39.4 (19.91)
+
+Hospital Anxiety and Depression Scale (HADS)d								
+ Total score	397	12.3 (7.85)	399	12.0 (7.60)	168	10.8 (7.41)	169	9.8 (7.67)
+ Anxiety subscale score	398	6.8 (4.31)	400	6.6 (4.32)	169	5.7 (4.04)	169	5.1 (4.25)
+ Depression subscale score	399	5.5 (4.19)	402	5.5 (3.88)	168	5.1 (3.94)	170	4.8 (3.87)
+N, Number of evaluable patients with available data.
+
+
+a
+Baseline refers to visit 2, before start of any study drug.
+
+b
+Baseline refers to visit 5, before start of intensive treatment combination/high-dose therapy (combination therapy or high-dose monotherapy with increased dose).
+
+c
+The NPSI total score ranges from 0 (no pain) to 100 (worst pain).
+
+d
+The HADS total score ranges from 0 (best) to 42 (worst), with each of the subscale scores ranging from 0 (best) to 21 (worst).
+
+3.2. Efficacy
+3.2.1. Combination/high-dose therapy period
+At the end of the combination/high-dose therapy period, no statistically significant difference between combination and high-dose monotherapy in the primary variable of the mean change in BPI-MSF 24-hour average pain was seen (MMRM: combination: −2.35; high-dose monotherapy: −2.16; mean difference: −0.19; 95% CI −0.61-0.23; P = 0.370; Fig. 3). The corresponding mean (SD) percent change was −39.4% (33.62%) with combination therapy, and −34.3% (37.89%) with high-dose monotherapy. Similarly, a numerically but nonsignificantly larger proportion of patients in the combination group (n = 86 [52.1%]) compared to the high-dose monotherapy group (n = 64 [39.3%]) achieved ⩾50% reduction in BPI-MSF 24-hour average pain at the end of combination/high-dose therapy (P = 0.068; Table 3). Within the high-dose monotherapy group, 46.9% of patients treated with 600 mg/day pregabalin experienced a pain reduction of ⩾50% compared to 28.4% treated with 120 mg/day duloxetine (Table 3).
+
+
+Download high-res image (87KB)Download full-size image
+Fig. 3. Brief Pain Inventory Modified Short Form 24-hour average pain item score over time – initial therapy (A) and combination/high-dose therapy (B) period. BPI, Brief Pain Inventory; CI, confidence interval; DLX, duloxetine; LS, least squares; PGB, pregabalin. ∗Statistically significant. Note: P-values from a mixed-model repeated-measures analysis including terms for treatment (duloxetine/pregabalin or combination/high-dose monotherapy, respectively), site, visit, treatment-by-visit interaction, baseline score (from visit 2 or visit 5, respectively, and baseline-by-visit interaction. The model for the combination/high-dose therapy period also contained a fixed effect for study drug during the initial therapy period (duloxetine/pregabalin).
+
+Table 3. Summary of response rates based on the Brief Pain Inventory Modified Short Form 24-hour average pain at the end of the initial therapy and the combination/high-dose therapy periods.
+
+N	Number (%) of responders	P-value a
+⩾50% reduction in BPI-MSF 24-hour average pain			
+ Initial therapy (Week 8)			
+  Duloxetine (60 mg/day)	375	151 (40.3)	
+  Pregabalin (300 mg/day)	374	104 (27.8)	
+  Comparison duloxetine vs. pregabalin			<0.001⁎
+ Combination/high-dose therapy (Week 16)			
+  Combination	165	86 (52.1)	
+   Group 2 (60 mg DLX + 300 mg PGB)	74	38 (51.4)	
+   Group 3 (300 mg PGB + 60 mg DLX)	91	48 (52.7)	
+  High-dose monotherapy	163	64 (39.3)	
+   Group 1 (60 mg DLX + 60 mg DLX)	67	19 (28.4)	
+   Group 4 (300 mg PGB + 300 mg PGB)	96	45 (46.9)	
+   Comparison combination vs. high-dose monotherapy			0.068
+
+⩾30% reduction in BPI-MSF 24-hour average pain			
+ Initial therapy (Week 8)			
+  Duloxetine (60 mg/day)	375	195 (52.0)	
+  Pregabalin (300 mg/day)	374	138 (36.9)	
+  Comparison duloxetine vs. pregabalin			<0.001⁎
+ Combination/High-dose Therapy (Week 16)			
+  Combination	165	102 (61.8)	
+   Group 2 (60 mg DLX + 300 mg PGB)	74	44 (59.5)	
+   Group 3 (300 mg PGB + 60 mg DLX)	91	58 (63.7)	
+  High-dose monotherapy	163	91 (55.8)	
+   Group 1 (60 mg DLX + 60 mg DLX)	67	32 (47.8)	
+   Group 4 (300 mg PGB + 300 mg PGB)	96	59 (61.5)	
+  Comparison combination vs. high-dose monotherapy			0.565
+
+⩾2-point reduction in BPI-MSF 24-hour average pain			
+ Initial therapy (Week 8)			
+  Duloxetine (60 mg/day)	375	214 (57.1)	
+  Pregabalin (300 mg/day)	374	171 (45.7)	
+  Comparison duloxetine vs. pregabalin			<0.001⁎
+ Combination/high-dose therapy (Week 16)			
+  Combination	165	110 (66.7)	
+   Group 2 (60 mg DLX + 300 mg PGB)	74	48 (64.9)	
+   Group 3 (300 mg PGB + 60 mg DLX)	91	62 (68.1)	
+  High-dose monotherapy	163	105 (64.4)	
+   Group 1 (60 mg DLX + 60 mg DLX)	67	39 (58.2)	
+   Group 4 (300 mg PGB + 300 mg PGB)	96	66 (68.8)	
+   Comparison combination vs. high-dose monotherapy			0.843
+BPI-MSF, Brief Pain Inventory Modified Short Form; DLX, duloxetine; N, number of patients with available data; PGB, pregabalin.
+
+
+a
+P-values from a Cochran-Mantel-Haenszel test adjusted for site.
+
+⁎
+Statistically significant.
+
+At the end of the combination/high-dose therapy period, between-therapy differences for other secondary efficacy measures consistently favoured combination therapy (Fig. 4B); however, differences were not statistically significant, with the exception of the HADS anxiety subscale (MMRM: mean difference: −0.62 [0.31]; 95% CI −1.228, −0.002; P = 0.049).
+
+3.2.2. Initial therapy period
+In exploratory analyses uncorrected for multiple comparisons of the initial therapy period, statistically significant differences in average pain relief as measured by the mean change in BPI-MSF 24-hour average pain were seen in favour of duloxetine compared to pregabalin at 4 weeks (MMRM: duloxetine: −1.76; pregabalin: −1.40; mean difference: −0.37; 95% CI −0.63, −0.10; P = 0.007) and at 8 weeks (MMRM: duloxetine: −2.30; pregabalin: −1.68; mean difference: −0.61; 95% CI −0.90, −0.33; P < 0.001) (Fig. 3A). After initial therapy, a higher proportion of patients in the duloxetine group (n = 151 [40.3%]) achieved ⩾50% reduction in BPI-MSF 24-hour average pain compared to the pregabalin group (n = 104 [27.8%]; P < 0.001; Table 3). Superior results in favour of duloxetine were also seen for all BPI-MSF subscores, all NPSI scores with the exception of evoked pains, and all HADS scores (Fig. 4A). Mean changes in NPSI total score were −19.44 for duloxetine and −14.68 for pregabalin (MMRM: mean difference: −4.76; 95% CI −7.35, −2.16; P < 0.001), and in HADS total score −3.07 and −2.06 (MMRM: mean difference: −1.01; 95% CI −1.70, −0.32; P = 0.004), respectively.
+
+
+Download high-res image (124KB)Download full-size image
+Fig. 4. Between-therapy differences in efficacy variables at Week 8 of the initial therapy period (A) and combination/high-dose therapy period (B). Mixed-model repeated-measures analysis. BPI, Brief Pain Inventory; HADS, Hospital Anxiety and Depression Scale; CGI-I, Clinical Global Impression of Improvement; PGI-I, Patient Global Impression of Improvement. aStatistically significant for all scores. bStatistically significant in the combination/high-dose therapy period (P = 0.049). Note: The diamond symbol denotes the least-squares (LS) mean for the difference between duloxetine and pregabalin in the initial therapy period and combination therapy and high-dose monotherapy in the combination/high-dose therapy period; the horizontal line denotes the associated 95% confidence interval (CI). “//” indicates that the 95% CI line is cut off due to the limited space. The LS mean Neuropathic Pain Symptom Inventory (NPSI) total score in the initial therapy period was −4.8 (95% CI −7.4 to −2.2; P < 0.001) and for the HADS total score −1.01 (95% CI −1.70 to −0.32; P = 0.004). The LS mean NPSI total score in the combination/high-dose therapy period was −1.9 (95% CI −5.5-1.7; P = 0.289) and for the HADS total score −0.95 (95% CI −2.00-0.12; P = 0.080).
+
+3.3. Safety
+TEAE frequencies were generally higher during initial therapy than during combination/high-dose therapy. Within each period, no statistically significant differences were seen between treatment groups for TEAE categories as displayed in Table 4. In the initial therapy period, most common TEAEs (>10% of all patients) were dizziness (7.2% [duloxetine] vs. 15.1% [pregabalin]; P < 0.001), somnolence (10.0% [duloxetine] vs. 10.9% [pregabalin]; P = 0.730), and nausea (14.2% [duloxetine] vs. 6.5% [pregabalin]; P < 0.001). During the combination/high-dose therapy period, none of the TEAEs were reported by more than 3% of patients (Table 5), and differences between therapies were not statistically significant. A total of 38 patients, 25 (3.1%) during initial therapy and 13 (3.8%) during combination/high-dose therapy, experienced SAEs, and none of the SAEs occurred in more than 3 patients (⩽0.7%) of any therapy group. No relevant differences were seen between therapies in either period. During the initial therapy period, the only SAEs occurring in more than 2 patients in either treatment group were chest pain, hyperglycemia, and suicidal ideation. During combination/high-dose therapy, the only SAE experienced by more than 1 patient overall was gastroenteritis. No fatalities occurred during the entire course of this study.
+
+Table 4. Treatment-emergent adverse events – initial therapy period and combination/high-dose therapy period.
+
+TEAE category	Number (%) of patients
+Initial therapy	Combination/high-dose therapy
+Combination	High-dose monotherapy
+Duloxetine
+(60 mg/day)
+(N = 401)	Pregabalin
+(300 mg/day)
+(N = 403)	Group 2
+(60 mg DLX + 300 mg PGB)
+(N = 75)	Group 3
+(300 mg PGB + 60 mg DLX)
+(N = 94)	Total
+(N = 169)	Group 1
+(60 mg DLX + 60 mg DLX)
+(N = 73)	Group 4
+(300 mg PGB + 300 mg PGB)
+(N = 97)	Total
+(N = 170)
+Patients with TEAE	223 (55.6)	232 (57.6)	21 (28.0)	41 (43.6)	62 (36.7)	20 (27.4)	37 (38.1)	57 (33.5)
+Patients with SAE	12 (3.0)	13 (3.2)	3 (4.0)	5 (5.3)	8 (4.7)	3 (4.1)	2 (2.1)	5 (2.9)
+Patients with AE leading to discontinuation	46 (11.5)	50 (12.4)	2 (2.7)	5 (5.3)	7 (4.1)	5 (6.8)	3 (3.1)	8 (4.7)
+Patients with AE leading to dose reduction	31 (7.7)	27 (6.7)	0 (0.0)	1 (1.1)	1 (0.6)	0 (0.0)	4 (4.1)	4 (2.4)
+Patients with AE leading to discontinuation and dose reduction	12 (3.0)	10 (2.5)	0 (0.0)	1 (1.1)	1 (0.6)	0 (0.0)	1 (1.0)	1 (0.6)
+TEAE, treatment-emergent adverse event; N, total number of patients; DLX, duloxetine; PGB, pregabalin; SAE, serious adverse event; AE, adverse event.
+
+
+Table 5. Treatment emergent adverse events occurring in at least 3 patients in any group – combination/high-dose therapy period.
+
+TEAE	Number (%) of patients
+Combination	High-dose monotherapy
+Group 2
+(60 mg DLX + 300 mg PGB)
+(N = 75)	Group 3
+(300 mg PGB + 60 mg DLX)
+(N = 94)	Total
+(N = 169)	Group 1
+(60 mg DLX + 60 mg DLX)
+(N = 73)	Group 4
+(300 mg PGB + 300 mg PGB)
+(N = 97)	Total
+(N = 170)
+Patients with TEAE	21 (28.0)	41 (43.6)	62 (36.7)	20 (27.4)	37 (38.1)	57 (33.5)
+Dizziness	2 (2.7)	2 (2.1)	4 (2.4)	4 (5.5)	2 (2.1)	6 (3.5)
+Nausea	1 (1.3)	4 (4.3)	5 (3.0)	2 (2.7)	1 (1.0)	3 (1.8)
+Pain in extremity	3 (4.0)	2 (2.1)	5 (3.0)	3 (4.1)	0	3 (1.8)
+Somnolence	0	2 (2.1)	2 (1.2)	1 (1.4)	5 (5.2)	6 (3.5)
+Vomiting	0	4 (4.3)	4 (2.4)	0	1 (1.0)	1 (0.6)
+Diarrhea	0	1 (1.1)	1 (0.6)	0	3 (3.1)	3 (1.8)
+Headache	0	1 (1.1)	1 (0.6)	3 (4.1)	0	3 (1.8)
+Hypoglycemia	0	1 (1.1)	1 (0.6)	0	3 (3.1)	3 (1.8)
+Weight increased	1 (1.3)	0	1 (0.6)	0	3 (3.1)	3 (1.8)
+TEAE, treatment-emergent adverse event; DLX, duloxetine; PGB, pregabalin; N, total number of patients.
+
+
+During the initial therapy period, a significant difference in favour of duloxetine was seen in the evaluation of treatment-emergent suicidal thoughts or wishes as measured by BDI-II item 9: 7 duloxetine patients (1.8%) compared to 20 pregabalin patients (5.1%; P = 0.017) reported an increase in the BDI-II item 9 score. During the combination/high-dose therapy period, respective difference between combination (n = 6 with increase [3.6%]) and high-dose monotherapy (n = 5 [2.9%]; P = 0.770) was not significant. No clinically relevant findings were seen in other safety variables.
+
+During both therapy periods, changes in HbA1c were minimal. During initial therapy, the mean (SD) last-observation-carried-forward change in HbA1c was −0.209% (1.085%) in the duloxetine group and −0.016% (0.933%) in the pregabalin group. During combination/high-dose therapy, the last-observation-carried-forward mean (SD) change in HbA1c was −0.125% (1.033%) in the combination therapy group and 0.072% (0.795%) in the high-dose monotherapy group.
+
+4. Discussion
+A major problem in the area of neuropathic pain in diabetes is the considerable lack of active-controlled studies that also assess combination treatments at lower doses of each of the combined drugs [27]. This has been highlighted by recent consensus guidelines from international institutions, in particular for the treatment of diabetic peripheral neuropathic pain [22], [31], consequently leading to the present COMBO-DN study. This first multicentre, fully blinded parallel-group study tried to address an important clinical question: “Is it better to increase the dose of the current first-line recommended monotherapy or to combine with another first-line recommended drug early on in patients with insufficient pain relief?” In exploratory analyses of initial 8-week therapy uncorrected for multiple comparisons, the design also allowed for a comparison between doses of duloxetine and pregabalin that corresponded to half the maximum doses, that is, 60 mg/day and 300 mg/day. Unlike previous studies on combination treatment [13], [14], [17], [24], the strengths of our study include its large size, a parallel-group design where patients and investigators were blinded to treatment throughout the entire treatment duration, and the use of standard doses of duloxetine and pregabalin reflecting current clinical practice.
+
+Although the primary end point of a significant difference in the BPI-MSF 24-hour average pain between combination and high-dose monotherapy could not be demonstrated after combination/high-dose therapy, between-therapy differences in all efficacy measures, although not statistically significant, consistently favoured combination therapy. Alternative dosages and treatment periods may have resulted in different outcomes. However, recently reported data from an observational study also showed that the majority of patients with painful diabetic polyneuropathy did not require dosing of pregabalin at the upper end of its dosage range. For patients on pregabalin monotherapy, the mean (SD) daily dose was 228 mg (95 mg), and only 10% of these patients took more than 300 mg/day pregabalin as their last dose (i.e., 450 or 600 mg/day) [29]. Moreover, safety and tolerability were not negatively affected when 60 mg/day duloxetine and 300 mg/day pregabalin were combined, and TEAEs were comparable between high-dose monotherapy and combination treatment. Thus, the results of the COMBO-DN study may be more generalizable to routine clinical care, providing relevant information with regard to a more realistic clinical approach in patients suffering from diabetic peripheral neuropathic pain.
+
+The COMBO-DN study adds to the knowledge on combination therapy based on 2 previous, smaller, randomized, placebo-controlled, crossover studies. In the first study involving 57 patients with painful neuropathy, 35 of whom had diabetic peripheral neuropathic pain, Gilron et al. showed that lower-dose combination therapy with gabapentin and morphine was significantly more effective than either drug as monotherapy at a higher dose [14]. However, in contrast with our study, combination treatment in their study was associated with more TEAEs, which might be attributable to the much higher proportion of each drug in the combination arm that amounted to about 75% of the respective doses when given as monotherapy (combination: 34 mg/day morphine plus 1705 mg/day gabapentin; monotherapy: 45 mg/day morphine or 2207 mg/day gabapentin) [14]. One can speculate that if in the COMBO-DN study individual doses of duloxetine and pregabalin in the combination group also would have amounted to 75% of the doses when given as monotherapy (ie, 90 mg/day duloxetine plus 450 mg/day pregabalin for combination treatment), the primary end point may potentially have been met. However, TEAEs may also have been more frequent [10]. In a second study, the same group evaluated the combination of nortriptyline with gabapentin in 40 patients with diabetic peripheral neuropathic pain and confirmed better efficacy when given together than either drug given alone [13]. However, as in their previous study and unlike the COMBO-DN study, maximum tolerated doses of nortriptyline (50 mg/day) and gabapentin (2180 mg/day) were used for combination therapy. The authors also conceded the possibility of partial unmasking of the research nurses, although their study was designed as double blind [13].
+
+Our study also included a randomized comparison of duloxetine (60 mg/day) with pregabalin (300 mg/day) for initial pain therapy over 8 weeks. In exploratory analyses uncorrected for multiple comparisons, differences between duloxetine and pregabalin were statistically significant in favour of duloxetine for all BPI-MSF scores, all NPSI scores with the exception of evoked pains, and all HADS scores. However, this also indicates that a pregabalin dose that is somewhat higher than 300 mg/day is needed to show equivalent analgesia compared to duloxetine 60 mg/day in patients with painful diabetic neuropathy. Previous studies have also suggested that different drugs for painful neuropathy may have differential effects on the various pain symptoms or combination of symptoms, suggesting that they may be mediated by different mechanisms [1]. In an open study, Tanenberg et al. showed that treatment with 60 mg/day duloxetine was at least as good as treatment with 300 mg/day pregabalin in reducing pain associated with diabetic neuropathy [26]. As a secondary objective, their study included the comparison of duloxetine with a combination of duloxetine and gabapentin. The combination arm was efficacious in pain reduction, similar to treatment with duloxetine monotherapy and pregabalin monotherapy. However, in contrast to the COMBO-DN study, only patients with inadequate pain response to gabapentin (⩾900 mg/day) were included in this noninferiority study, but these results do not contradict the findings of our study.
+
+In the combination/high-dose therapy period, 46.9% of patients treated with 600 mg/day pregabalin had a pain reduction of ⩾50% compared to only 28.4% treated with 120 mg/day duloxetine, indicating that pregabalin was able to catch up at the end of the high-dose therapy period. This may have resulted from more pregabalin-treated patients entering the combination/high-dose therapy period due to nonresponse after initial therapy, even though the better response with 600 mg/day pregabalin than with 120 mg/day duloxetine is most likely due to the clearer dose response with pregabalin [21], [23]. However, the 2 high-dose groups in the combination/high-dose therapy period cannot be compared, as the treatment outcome in this second 8-week period is confounded with the treatments received in the initial therapy period, after which responders (reduction of ⩾30% in BPI-MSF 24-hour average pain) discontinued. Thus, it is difficult to draw conclusions for this comparison based on the design of the COMBO-DN study. A different study design that compares flexible dosing of the 2 drugs based on response and side effects within each patient would be required to make such a comparison.
+
+4.1. Conclusions
+The COMBO-DN study was a large multinational combination treatment trial in patients with diabetic peripheral neuropathic pain. Even though the primary end point was not achieved, efficacy results consistently favoured combination therapy with 60 mg/day duloxetine and 300 mg/day pregabalin, indicating that such a combination therapy might be a reasonable clinical option compared to increasing the dose for patients not achieving response after initial 8-week monotherapy with 60 mg/day duloxetine or 300 mg/day pregabalin. This is further supported by the lack of evidence that a combination of duloxetine with pregabalin at these doses negatively affects safety and tolerability. For initial 8-week treatment of painful diabetic neuropathy, exploratory analyses suggest better analgesia of duloxetine compared to pregabalin at half their maximum dose. Further studies should be conducted to confirm these results.
+
+Conflict of interest statement
+Stefan Wilhelm, Alexander Schacht, and Vladimir Skljarevski own stock in and are Lilly employees. Alberto Lledo, former Lilly employee, owns Lilly stocks. Solomon Tesfaye, Thomas Tölle, Didier Bouhassira, Giorgio Cruccu, and Rainer Freynhagen have received economic compensation for participation in the Lilly EU Pain Advisory Board.
+
+Solomon Tesfaye declares having received honoraria for invited lectures from Eli Lilly & Company and Pfizer Inc. Thomas Tölle reports consultancy and invited lectures for Grünenthal, Mundipharma, Biogen Idec, Hexal, Pfizer Inc., Janssen-Cilag, Astellas, Pharmaleads, Boehringer-Ingelheim, Eli Lilly & Company, and Esteve. Didier Bouhassira has served on the Speakers’ Bureau for Eli Lilly & Company, Pfizer Inc., and Astellas, and has worked as a consultant to Eli Lilly & Company, Pfizer Inc., Sanofi-Aventis, Sanofi-Pasteur-MSD, Astra Zeneca, and Astellas and has received research support from Pfizer Inc. Giorgio Cruccu has received fees for advisory boards and for lectures by Astellas, Eli Lilly & Company, and Pfizer Inc. Rainer Freynhagen has received consultancy and speaker fees in the past 12 months from Astellas, Epionics, Grünenthal, Forrest Research, HRA, Eli Lilly & Company, and Pfizer.
+
+All authors have made substantial contribution to conception and design of the COMBO-DN study, or analysis or interpretation of the data or revising the manuscript critically for important intellectual content. Alberto Lledo was responsible for generating the primary hypothesis of the study and reviewed the manuscript critically. Solomon Tesfaye, Thomas Tölle, Didier Bouhassira, Giorgio Gruccu, and Rainer Freynhagen were involved in the early conception of the study, the selection of the primary and secondary objectives and the final review of the manuscript. Alexander Schacht was responsible for building the final statistical plan. Stefan Wilhelm and Alexander Schacht were responsible for data collection and extraction and completion of the final study report. Solomon Tesfaye and Stefan Wilhelm wrote the primary version of the manuscript and Vladimir Skljarevski reviewed the manuscript critically with regard to interpretation of the data.
+
+Acknowledgement
+We thank Ansgar Dressler of Trilogy Writing & Consulting, Frankfurt, Germany, who provided medical writing services on behalf of Eli Lilly & Company.
+
+References
+[1]
+N. Attal, D. Bouhassira, R. Baron, J. Dostrovsky, R.H. Dworkin, N. Finnerup, G. Gourlay, M. Haanpää, S. Raja, A.S. Rice, D. Simpson, R.D. Treede
+Assessing symptom profiles in neuropathic pain clinical trials: can it improve outcome?
+Eur J Pain, 15 (2011), pp. 441-443
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[2]
+N. Attal, G. Cruccu, R. Baron, M. Haanpää, P. Hansson, T.S. Jensen, T. Nurmikko, European Federation of Neurological Societies
+EFNS guidelines on pharmacological treatment of neuropathic pain: 2010 revision
+Eur J Neurol, 17 (2010), pp. 1113-1123
+View Record in ScopusGoogle Scholar
+[3]
+A.T. Beck, R.A. Steer, G.K. Brown
+Manual for the Beck Depression Inventory-II
+Psychological Corporation, San Antonio, TX (1996)
+Google Scholar
+[4]
+D. Bouhassira, N. Attal, J. Fermanian, H. Alchaar, M. Gautron, E. Masquelier, S. Rostaing, M. Lanteri-Minet, E. Collin, J. Grisart, F. Boureau
+Development and validation of the Neuropathic Pain Symptom Inventory
+PAIN®, 108 (2004), pp. 248-257
+ArticleDownload PDFCrossRefView Record in ScopusGoogle Scholar
+[5]
+C.S. Cleeland, K.M. Ryan
+Pain assessment: global use of the Brief Pain Inventory
+Ann Acad Med Singapore, 23 (1994), pp. 129-138
+View Record in ScopusGoogle Scholar
+[6]
+Cymbalta (Duloxetine): European Public Assessment Report (EPAR), Available from: <http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Summary_for_the_public/human/000572/WC500036782.pdf> [accessed 08.03.13].
+Google Scholar
+[7]
+M. Davies, S. Brophy, R. Williams, A. Taylor
+The prevalence, severity, and impact of painful diabetic peripheral neuropathy in type 2 diabetes
+Diabetes Care, 29 (2006), pp. 1518-1522
+CrossRefView Record in ScopusGoogle Scholar
+[8]
+D.J. Dooley, C.P. Taylor, S. Donevan, D. Feltner
+Ca2+ channel alpha2delta ligands: novel modulators of neurotransmission
+Trends Pharmacol Sci, 28 (2007), pp. 75-82
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[9]
+N.B. Finnerup, S.H. Sindrup, T.S. Jensen
+The evidence for pharmacological treatment of neuropathic pain
+PAIN®, 150 (2010), pp. 573-581
+ArticleDownload PDFCrossRefView Record in ScopusGoogle Scholar
+[10]
+R. Freeman, E. Durso-Decruz, B. Emir
+Efficacy, safety, and tolerability of pregabalin treatment for painful diabetic peripheral neuropathy: findings from seven randomized, controlled trials across a range of doses
+Diabetes Care, 31 (2008), pp. 1448-1454
+CrossRefView Record in ScopusGoogle Scholar
+[11]
+R. Freynhagen, M.I. Bennett
+Diagnosis and management of neuropathic pain
+BMJ, 339 (2009), pp. 391-395
+View Record in ScopusGoogle Scholar
+[12]
+R. Freynhagen, K. Strojek, T. Griesing, E. Whalen, M. Balkenohl
+Efficacy of pregabalin in neuropathic pain evaluated in a 12-week, randomised, double-blind, multicentre, placebo-controlled trial of flexible- and fixed-dose regimens
+PAIN®, 115 (2005), pp. 254-263
+ArticleDownload PDFCrossRefView Record in ScopusGoogle Scholar
+[13]
+I. Gilron, J.M. Bailey, D. Tu, R.R. Holden, A.C. Jackson, R.L. Houlden
+Nortriptyline and gabapentin, alone and in combination for neuropathic pain: a double-blind, randomised controlled crossover trial
+Lancet, 374 (2009), pp. 1252-1261
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[14]
+I. Gilron, J.M. Bailey, D. Tu, R.R. Holden, D.F. Weaver, R.L. Houlden
+Morphine, gabapentin, or their combination for neuropathic pain
+N Engl J Med, 352 (2005), pp. 1324-1334
+View Record in ScopusGoogle Scholar
+[15]
+M. Gore, N.A. Brandenburg, E. Dukes, D.L. Hoffman, K.S. Tai, B. Stacey
+Pain severity in diabetic peripheral neuropathy is associated with patient functioning, symptom levels of anxiety and depression, and sleep
+J Pain Symptom Manage, 30 (2005), pp. 374-385
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[16]
+W. Guy
+ECDEU assessment manual for psychopharmacology
+National Institute of Mental Health, Psychopharmacology Research Branch, Rockville, MD (1976)
+revised, p. 217–22, 313–31, 534–7
+Google Scholar
+[17]
+M. Hanna, C. O’Brien, M.C. Wilson
+Prolonged-release oxycodone enhances the effects of existing gabapentin therapy in painful diabetic neuropathy patients
+Eur J Pain, 12 (2008), pp. 804-813
+ArticleDownload PDFCrossRefView Record in ScopusGoogle Scholar
+[18]
+S. Iyengar, A.A. Webster, S.K. Hemrick-Luecke, J.Y. Xu, R.M. Simmons
+Efficacy of duloxetine, a potent and balanced serotonin–norepinephrine reuptake inhibitor in persistent pain models in rats
+J Pharmacol Exp Ther, 311 (2004), pp. 576-584
+View Record in ScopusGoogle Scholar
+[19]
+Lyrica (Pregabalin): European Public Assessment Report (EPAR). Available from: <http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Summary_for_the_public/human/000546/WC500046603.pdf> [accessed 17.05.13].
+Google Scholar
+[20]
+A. Moghtaderi, A. Bakhshipour, H. Rashidi
+Validation of Michigan neuropathy screening instrument for diabetic peripheral neuropathy
+Clin Neurol Neurosurg, 108 (2006), pp. 477-481
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[21]
+R.A. Moore, S. Straube, P.J. Wiffen, S. Derry, H.J. McQuay
+Pregabalin for acute and chronic pain in adults
+Cochrane Database Syst Rev (2009), p. CD007076
+http://dx.doi.org/10.1002/14651858.CD007076.pub2
+Google Scholar
+[22]
+A.B. O’Connor, R.H. Dworkin
+Treatment of neuropathic pain: an overview of recent guidelines
+Am J Med, 122 (2009), pp. S22-S32
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[23]
+Y.L. Pritchett, B.H. McCarberg, J.G. Watkin, M.J. Robinson
+Duloxetine for the management of diabetic peripheral neuropathic pain: response profile
+Pain Med, 8 (2007), pp. 397-409
+CrossRefView Record in ScopusGoogle Scholar
+[24]
+D.A. Simpson
+Gabapentin and venlafaxine for the treatment of painful diabetic neuropathy
+J Clin Neuromuscul Dis, 3 (2001), pp. 53-62
+View Record in ScopusGoogle Scholar
+[25]
+A. Sultan, H. Gaskell, S. Derry, R. Moore
+Duloxetine for painful diabetic neuropathy and fibromyalgia pain: systematic review of randomised trials
+BMC Neurol, 66 (2008), p. 29
+View Record in ScopusGoogle Scholar
+[26]
+R.J. Tanenberg, G.A. Irving, R.C. Risser, J. Ahl, M.J. Robinson, V. Skljarevski, S.K. Malcolm
+Duloxetine, pregabalin, and duloxetine plus gabapentin for diabetic peripheral neuropathic pain management in patients with inadequate pain response to gabapentin: an open-label, randomized, noninferiority comparison
+Mayo Clin Proc, 86 (2011), pp. 615-624
+CrossRefView Record in ScopusGoogle Scholar
+[27]
+S. Tesfaye, D. Selvarajah
+Advances in the epidemiology, pathogenesis and management of diabetic peripheral neuropathy
+Diabetes Metab Res Rev, 28 (2012), pp. 8-14
+CrossRefView Record in ScopusGoogle Scholar
+[28]
+S. Tesfaye, L. Vileikyte, G. Rayman, S. Sindrup, B. Perkins, M. Baconja, A. Vinik, A. Boulton, on behalf of the Toronto Expert Panel on Diabetic Neuropathy
+Painful diabetic peripheral neuropathy: consensus recommendations on diagnosis, assessment and management
+Diabetes Metab Res Rev, 27 (2011), pp. 629-638
+CrossRefView Record in ScopusGoogle Scholar
+[29]
+T. Tölle, R. Varvara, M. Nimour, B. Emir, M. Brasser
+Pregabalin in neuropathic pain related to DPN, cancer and back pain: analysis of a 6-week observational study
+Open Pain J, 5 (2012), pp. 1-11
+View Record in ScopusGoogle Scholar
+[30]
+A. Vinik
+The approach to the management of the patient with neuropathic pain
+J Clin Endocrinol Metab, 95 (2010), pp. 4802-4811
+CrossRefView Record in ScopusGoogle Scholar
+[31]
+Y. Vorobeychik, V. Gordin, J. Mao, L. Chen
+Combination therapy for neuropathic pain: a review of current evidence
+CNS Drugs, 25 (2011), pp. 1023-1034
+CrossRefView Record in ScopusGoogle Scholar
+[32]
+A.S. Zigmond, R.P. Snaith
+The hospital anxiety and depression scale
+Acta Psychiatr Scand, 67 (1983), pp. 361-370
+CrossRefView Record in ScopusGoogle Scholar

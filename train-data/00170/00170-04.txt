@@ -1,0 +1,463 @@
+﻿Effect of the Introduction of an Engineered Sharps Injury Prevention Device on the
+Percutaneous Injury Rate in Healthcare Workers • 
+Author(s): Madelyn Azar‐Cavanagh , MD, MPH; Pam Burdt , MSN, RN, CFNP; Judith Green‐
+McKenzie , MD, MPH
+Source: Infection Control and Hospital Epidemiology, Vol. 28, No. 2 (February 2007), pp. 165-
+170
+Published by: The University of Chicago Press on behalf of The Society for Healthcare Epidemiology
+of America
+Stable URL: http://www.jstor.org/stable/10.1086/511699 .
+Accessed: 14/05/2014 20:08
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+ .
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ .
+The University of Chicago Press and The Society for Healthcare Epidemiology of America are collaborating
+with JSTOR to digitize, preserve and extend access to Infection Control and Hospital Epidemiology.
+http://www.jstor.org
+This content downloaded from 193.104.110.57 on Wed, 14 May 2014 20:08:43 PM
+All use subject to JSTOR Terms and Conditions
+infection control and hospital epidemiology february 2007, vol. 28, no. 2
+original article
+Effect of the Introduction of an Engineered Sharps Injury
+Prevention Device on the Percutaneous Injury Rate
+in Healthcare Workers
+Madelyn Azar-Cavanagh, MD, MPH; Pam Burdt, MSN, RN, CFNP; Judith Green-McKenzie, MD, MPH
+objective. To evaluate the effect of introducing an engineered device for preventing injuries from sharp instruments (engineered sharps
+injury prevention device [ESIPD]) on the percutaneous injury rate in healthcare workers (HCWs).
+methods. We undertook a controlled, interventional, before-after study during a period of 3 years (from January 1998 through December
+2000) at a major medical center. The study population was HCWs with potential exposure to bloodborne pathogens. HCWs who sustain
+a needlestick injury are required by hospital policy to report the exposure. A confidential log of these injuries is maintained that includes
+information on the date and time of the incident, the type and brand of sharp device involved, and whether an ESIPD was used.
+intervention. Introduction of an intravenous (IV) catheter stylet with a safety-engineered feature (a retractable protection shield),
+which was placed in clinics and hospital wards in lieu of other IV catheter devices that did not have safety features. No protective devices
+were present on suture needles during any of the periods. The incidence of percutaneous needlestick injury by IV catheter and suture
+needles was evaluated for 18 months before and 18 months after the intervention.
+results. After the intervention, the incidence of percutaneous injuries resulting from IV catheters decreased significantly ( ), P ! .01
+whereas the incidence of injuries resulting from suture needle injuries increased significantly ( ). P ! .008
+conclusion. ESIPDs lead to a reduction in percutaneous injuries in HCWs, helping to decrease HCWs’ risk of exposure to bloodborne
+pathogens.
+Infect Control Hosp Epidemiol 2007; 28:165-170
+From the Postexposure Management Program, Occupational and Environmental Center, University of California, San Diego (P.B.); and the University of
+Pennsylvania School of Medicine (M.A.-C., J.G.-M.), Philadelphia. (Present affiliation: Occupational and Environmental Center, University of California,
+San Diego [M.A.-C.].)
+Received January 26, 2005; accepted July 11, 2005; electronically published January 19, 2007.
+ 2007 by The Society for Healthcare Epidemiology of America. All rights reserved. 0899-823X/2007/2802-0008$15.00.
+Bloodborne pathogen exposures are a recognized occupational hazard for health care workers (HCWs).1-3 Percutaneous injury (PI) from contaminated needles and other sharp
+instruments (hereafter, “sharps”) is the most efficient mode
+of transmission for occupationally acquired bloodborne pathogen infection4 and has been associated with increased risk
+of disease from more than 20 different infectious agents.5
+Bloodborne pathogens of substantial concern include human
+immunodeficiency virus (HIV), hepatitis B virus (HBV), and
+hepatitis C virus (HCV). It is estimated that the risk of developing HIV infection after experiencing a percutaneous injury with an HIV-contaminated needle is 0.3%.6 The risk of
+being infected with HBV after a percutaneous injury with an
+HBV-contaminated needle is 23%-37%7 and the risk of developing HCV infection is 1.8% after a percutaneous injury
+with an HCV-contaminated needle.8-11 The risk from exposure
+of nonintact skin to contaminated blood is unclear but is less
+than the risk from mucous membrane exposure.12
+The first cases of occupationally acquired HIV infection
+were reported in the 1980s.13 As of December 2001, there
+have been 57 documented cases attributed to occupational
+exposure in the United States and 138 more considered possibly occupation-related.14,15 There is no cure or effective vaccine for acquired immunodeficiency syndrome (AIDS); although postexposure prophylaxis (PEP) is available after HIV
+exposure and can be effective in reducing seroconversion,16
+there have been documented cases of seroconversion despite
+receipt of PEP.17
+National case surveillance data indicate that 14% of HCWs
+exposed to HIV seroconverted despite receiving PEP.2 Furthermore, antiretroviral PEP may lead to side effects, as a
+result of which HCWs may discontinue the medication prematurely or may be unable to work while taking these medications.17-19 Although a vaccine against HBV is available,20
+not all HCWs avail themselves of the vaccine, and the HBV
+immune globulin given to nonimmune HCWs as postexposure therapy is 75% effective and does not always prevent
+HBV infection.21 There is neither vaccine nor PEP available
+This content downloaded from 193.104.110.57 on Wed, 14 May 2014 20:08:43 PM
+All use subject to JSTOR Terms and Conditions
+166 infection control and hospital epidemiology february 2007, vol. 28, no. 2
+for HCV infection, although early interferon treatment is
+associated with a higher rate of resolved infection.22
+Formal efforts to prevent exposure to bloodborne pathogens started in 1985,23 when the Centers for Disease Control
+and Prevention (CDC) recommended the use of standard
+precautions by HCWs. In 1987, this recommendation was
+updated24 and in 1991, the Occupational Safety and Health
+Administration (OSHA) promulgated the Bloodborne Pathogen Standard,25 of which standard precautions were a cornerstone.25,26 Even with the introduction of this regulation,
+PI—including needlesticks—resulting in bloodborne pathogen exposure, which is one of the most common occupational
+injuries in hospitals,4 continued to be a concern.27,28 Recent
+estimates indicate that 384,325 PIs involving contaminated
+sharps occur annually among hospital-based HCWs .29 Since
+the publication of OSHA’s Bloodborne Pathogen Standard,
+various devices have been developed to help reduce the risk
+of needlesticks and other sharps injuries.30-34 OSHA revised
+the Bloodborne Pathogen Standard in an effort to decrease
+PIs that lead to bloodborne pathogen exposure. The revised
+standard requires that employers select safer needle devices
+as they become available. These revisions, mandated by the
+Needlestick Safety and Prevention Act, were adopted in October 2001.4 This act placed safety devices, already in use,
+under the umbrella of the Bloodborne Pathogen Standard
+and provided regulatory oversight and stimulus for exploring
+the more widespread introduction and use of safety devices.
+Recent studies indicate that certain types of engineered
+sharps injury prevention devices (ESIPDs) are associated with
+significant reductions in PI rates, including devices such as
+bluntable or resheathable vacuum tube blood collection devices for phlebotomy procedures,35 and resheathable winged
+steel needles for intravascular access procedures.36 The 2001
+EPINet report noted a sizeable decrease in the PI rate from
+1999 to 2000, from 40 to 34 PIs per 100 occupied beds. This
+decline was attributed, in part, to the mandated use of safer
+needle devices.37 Although an assortment of safety devices has
+been available for several years, data are sparse with respect
+to the impact of specific devices on injury reduction.36 This
+study was designed to evaluate the effect of introducing an
+ESIPD, specifically an intravenous (IV) catheter stylet, on
+the incidence of percutaneous bloodborne exposure among
+HCWs.
+methods
+Study Design, Setting, and Participants
+This controlled, retrospective, interventional, before-after study
+was conducted over a period of 3 years (from January 1998
+through December of 2000) at the affiliate clinics and hospitals of an urban medical center. It was designed to examine
+the effect of introducing a safer needle device on the incidence
+of percutaneous bloodborne pathogen exposure. Participants
+were HCWs at risk for bloodborne pathogen exposure from
+contaminated needles during the course of their daily work
+(housestaff, attending physicians, medical students, nurses,
+nursing assistants, emergency medical technicians, and environmental service workers). These HCWs undergo mandatory annual training on standard precautions for 1.5 hours
+at a safety fair, including training on reporting procedures
+for an exposure. HCWs who sustain a needlestick injury are
+required to report the exposure to the Postexposure Management Program (PEMP), in accordance with hospital policy, and the employee is treated according to CDC guidelines.38 A confidential log of these injuries is maintained that
+includes information on the date and time of the incident,
+the type and brand of sharp involved, and whether an ESIPD
+was used.
+Intervention
+The safer needle device chosen for this study was an IV catheter stylet with a safety-engineered feature (a retractable protection shield). It was placed in the clinics and on hospital
+units in lieu of other IV catheter devices. All other IV catheter
+devices were removed from the clinics and hospital wards
+and were no longer available after the beginning of the intervention period (June 30, 1999). Other sharp devices (eg,
+phlebotomy needles, insulin needles, and tuberculin needles)
+were replaced by ESIPDs at different rates and did not undergo the rapid transition to safer needle devices that was
+seen with the IV catheter ESIPDs. Training was provided on
+the use of ESIPDs at various times during the study period
+as the devices were introduced. Suture needles, used as the
+comparison group, were not replaced and were the only sharp
+device type that remained constant throughout the study
+period.
+Data Collection and Analysis
+The data collected for this study were obtained from the
+Center for Occupational and Environmental Medicine PEMP’s
+2 computerized database systems, EPINet and a database created with Microsoft Access. These databases contain information pertaining to all sharps-related injuries that HCWs
+have sustained since 1988. The EPINet database houses information pertaining to sharps-related injuries that occurred
+after 2000, and the database created with Microsoft Access
+houses information pertaining to sharps-related injuries that
+occurred prior to 2000. The HCWs’ medical records were
+used in the event that further clarification was needed.
+The types of sharps involved in the incidents were identified
+and recorded. Only PIs that resulted from suture needles, IV
+catheters prior to the intervention, and IV catheter ESIPDs
+after the intervention were used in this analysis. The devices
+involved in the incidents were identified. The incidence rate
+of PIs in the study population was evaluated for 18 months
+before and 18 months after the intervention. Each 18-month
+interval was further subdivided into three 6-month periods,
+extending over a period of 3 years from January 1998 to
+December 2001. The three 6-month periods before and after
+This content downloaded from 193.104.110.57 on Wed, 14 May 2014 20:08:43 PM
+All use subject to JSTOR Terms and Conditions
+effectiveness of an engineered sharps injury prevention device 167
+table Numbers and Rates of Percutaneous Injuries (PIs) Sustained During 6-Month Intervals of the 18-Month Preintervention
+and Postintervention Periods
+Period, dates
+No. of
+eligible
+healthcare
+workers
+Intravenous
+catheter
+needle
+Suture
+needle
+No.
+of PIs Ratea
+No.
+of PIs Ratea
+Preintervention
+1/1/98-6/30/98 3,261 8 2.5 5 1.5
+7/1/98-12/31/98 3,946 9 2.3 7 1.8
+1/1/99-6/30/99 3,954 10 2.5 8 2.0
+Postintervention
+7/1/99-12/31/99 4,265 8 1.9 8 1.9
+1/1/00-6/30/00 4,292 4 0.9 12 2.8
+7/1/00-12/31/00 4,294 1 0.2 26 6.1
+a No. of PIs per 1,000 healthcare workers.
+figure. The rate of percutaneous injury among healthcare workers (HCWs) in the 18 months before and after introduction of a
+safety-engineered intravenous (IV) catheter stylet. Suture needles
+without protective devices were used as the control.
+the intervention were examined and compared for incidence
+of percutaneous exposure resulting from suture needles and
+IV catheters (with and without the safety device). The number
+of HCWs employed during these 6-month periods was also
+calculated. Data are presented as the number of PIs per 1,000
+employees. To determine differences in the incidence rates
+between the 2 study periods, we used the Fisher exact test.
+All analyses were performed using SAS statistical software
+(SAS Institute). P values less than .05 were considered statistically significant.
+results
+The Table presents the number of PIs and the PI rates for
+reported incidents attributed to IV catheters and suture needles during the 18-month preintervention period. The injury
+rate associated with IV needles remained relatively stable over
+each 6-month period during the 18-month preintervention
+period, varying from 2.5 to 2.3 PIs per 1,000 HCWs. The
+injury rate associated with suture needles varied from 1.5 to
+2 PIs per 1,000 HCWs. The Table also presents the number
+of PIs and the PI rates for reported incidents attributed to
+the IV catheter ESIPD and the numbers and rates for PIs
+associated with suture needles during the 18-month postintervention period. The rate of PIs that resulted from the IV
+catheter ESIPD decreased over each consecutive 6-month interval from 1.9 to 0.2 PIs per 1,000 HCWs, whereas the rate
+of injuries sustained as a result of suture needles increased
+over each consecutive 6-month interval from 1.9 to 6.1 PIs
+per 1,000 HCWs.
+The Figure illustrates the PI rate during the preintervention
+and postintervention periods. The number of employees was
+averaged over each of the 18-month periods to calculate the
+injury rate. There were 3,720 employees during the preintervention period and 4,284 during the postintervention period. The number of PIs and the rate of PIs sustained from
+suture needles doubled in aggregate from the preintervention
+to the postintervention period; the number increased from
+20 to 46, and the rate increased from 5.3 to 10.7 PIs per
+1,000 HCWs. This increase was statistically significant (P !
+.008). The number of PIs and the rate of PIs sustained from
+IV catheters and IV catheter ESIPDs decreased from the preintervention to the postintervention period, from 27 to 13
+injuries, and from 7.3 to 3 PIs per 1,000 HCWs. This decrease
+was statistically significant ( ). P ! .01
+discussion
+This study was designed to evaluate the effect of introducing
+an ESIPD on the PI rate in HCWs and adds to the literature
+on the effectiveness of safety-engineered devices in reducing
+PIs. We assessed the impact of one intervention, the introduction of an IV catheter ESIPD on the PI rate at one urban
+medical center, by comparing the injury rates associated with
+another device, suture needles, which were not changed. The
+data show that the rate of IV catheter–related PIs decreased
+significantly after the safety device was introduced, whereas
+the rate of suture needle–related PIs actually increased significantly during the intervention period. The ESIPD used in
+this study was an IV catheter stylet with a safety-engineered
+feature (a retractable protection shield), which was placed in
+the medical center’s clinics and hospital wards at the start of
+the intervention period, as a replacement for all other IV
+catheter devices. Our results indicate that the PI rate for
+reported incidents attributed to IV catheter use decreased by
+50% between the preintervention and postintervention periods, a statistically significant decrease. Indeed, this rate decreased in a linear fashion over each 6-month period during
+the postintervention period, yet the rate remained relatively constant during the preintervention period. On the
+other hand, the percutaneous injury rate attributed to suture needles increased significantly during the postintervention period.
+This content downloaded from 193.104.110.57 on Wed, 14 May 2014 20:08:43 PM
+All use subject to JSTOR Terms and Conditions
+168 infection control and hospital epidemiology february 2007, vol. 28, no. 2
+This study indicates that the use of an IV catheter ESIPD
+led to a significant reduction in the PI rate in this HCW
+population, and consequently to a decreased risk of exposure
+to bloodborne pathogens. As there was no reliable data on
+the number of IV catheters or suture needles used or purchased during the study period, the incidence of PIs per 1,000
+HCWs was used to calculate the rates. The incidence of PIs
+sustained from suture needles might have been increased
+because the introduction of ESIPDs led to increased HCW
+awareness of the importance of PI reporting, resulting in an
+increased trend in overall reporting. However, this presumptive behavior change in reporting status after the introduction
+of ESIPDs has not been borne out in other studies.39
+One might also surmise that the decreased incidence of PIs
+attributed to the IV catheter ESIPD during the postintervention period was the result of increased compliance with standard precautions. However, the presence of a control group
+showing the opposite finding makes this assumption unlikely.
+Another explanation for the increase in the suture needle PI
+rate in the postintervention period is that the University’s
+PEMP staff may have increased tracking efforts after the introduction of the ESIPDs. This increased tracking, however,
+should affect reporting of all injuries sustained from all devices, yet the number of reported injuries from the IV catheter
+ESIPDs did not increase. As the number of employees increased gradually over the years, one might expect the absolute number of injuries to increase in both groups. This
+did not occur in the intervention group. In addition, there
+were no changes in the policies and procedures during the
+intervention period that might account for these results.
+The observed linear decrease in IV catheter–related injury
+rates after the introduction of the ESIPD might also reflect
+a learning curve. As HCWs became more familiar with the
+device, they might have been more likely to use it with greater
+ease and precision. This phenomenon has been observed in
+other studies, which found that ESIPDs could be even more
+efficacious in preventing PIs if consistently used correctly.34-36
+Injuries that occur despite the use of an ESIPD may result
+from mechanical failure of the safety feature, lack of motivation for the HCW to use the device for a variety of reasons
+(including low perceived risk of injury, inadequate training,
+and inherent risk in the activation process) or incomplete
+activation.31,35,36,40 The likelihood of HCWs activating the
+safety feature may vary, depending on perceived ease of use,
+ease of activation, amount of training the HCW received, and
+perceived risk of infection.34 Activation rates may, therefore,
+increase with increased training of HCWs on their use.
+One of the limitations of this study is that there is a lack
+of detailed information available on events surrounding the
+injuries. For example, it is unclear whether an injury occurred
+because the device failed to work correctly, the safety device
+was not activated, or some other reason. Another study limitation is that these data were obtained from only one medical
+center, affecting the study’s generalizeability. The fact that
+only one brand of IV catheter ESIPD was used also affects
+generalizeability, as it does not allow comparison of injury
+rates associated with other brands available for use. Reporting
+bias is also a concern as, historically, a substantial number
+of PIs are never reported. Underreporting behavior among
+HCWs is well-documented in the literature. Recent estimates
+place the overall rate of underreporting PIs at 43.4%.29 Underreporting of PIs is also seen in other occupations.41
+Even in the face of these limitations, our findings are important because they show that the use of IV catheter ESIPDs
+decreases the incidence of PIs, helping to confirm previous
+findings29,36,42 and thus supporting the use of these devices.
+The Needlestick Safety and Prevention Act4 gave impetus to
+the widespread introduction of ESIPDs, which were already
+available and being used in various settings. Although the
+cost of safer devices had been a concern for hospitals,43
+ESIPDs have financial benefits that may exceed their cost,
+as they reduce the needlestick injury rate and the associated medical treatment costs.44 With increased volume of
+production, prices have decreased, thus reducing the cost
+differential.
+Further studies are needed to better ascertain what types
+of ESIPDs will result in the fewest exposures. This information would be useful to healthcare organizations in device
+selection. Additional studies are also needed to further evaluate the reasons that exposures continue to occur despite the
+use of ESIPDs. In addition to the factors mentioned earlier,
+other reasons may include attention failures due to fatigue45;
+organizational factors, such as time pressure due to heavy
+workload46-48; and lack of organizational commitment to
+safety.27 It is possible that the reduction in the incidence of
+PIs as a result of the use of ESIPDs will plateau, because the
+use of protective equipment alone, without attention to modulating factors, is unlikely to eliminate PIs. Designing targeted
+interventions to address modulating factors with respect to
+optimal ESIPD use, assessing the outcomes of these interventions, and instituting those that are proven to work will
+help to further reduce the incidence of PIs among HCWs.
+Address requests for reprints to Judith Green-McKenzie, MD, MPH, 3400
+Spruce Street, Hospital of the University of Pennsylvania, Division of Occupational Medicine, Ground Silverstein, Philadelphia, PA 19104 (jmckenzi@
+mail.med.upenn.edu).
+Presented in part: Mid-Atlantic Regional Meeting of the Society of General
+Internal Medicine, Philadelphia, March 19, 2004 (poster 16).
+acknowledgments
+We would like to acknowledge Edward Emmett, MD, MS for his review of
+the manuscript; Frances Shofer, PhD, for her statistical support; Roberta
+Carty, RN for her assistance with obtaining some cost data; and Dwight
+Green, MBA, for his assistance with the cost analysis.
+This work was supported in part by grants from the National Institute
+for Occupational Safety and Health Education, the Research Center for Occupational Safety and Health at the Johns Hopkins University Bloomberg
+This content downloaded from 193.104.110.57 on Wed, 14 May 2014 20:08:43 PM
+All use subject to JSTOR Terms and Conditions
+effectiveness of an engineered sharps injury prevention device 169
+School of Public Health (grant T42CCT310419), and the Occupational Health
+and Safety Service Training (grant T03/CCT322951).
+references
+1. Moran, GJ. Emergency department management of blood and body fluid
+exposures. Ann Emerg Med 2000; 35:47-62.
+2. Do AN, Cielsielski CA, Metler RP, et al. Occupationally acquired human
+immunodeficiency virus (HIV) infection: national case surveillance data
+during 20 years of the HIV epidemic in the United States. Infect Control
+Hosp Epidemiol 2003; 24:86-96.
+3. Behrman AJ, Shofer FS, Green-McKenzie J. Trends in bloodborne pathogen exposure and follow-up at an urban teaching hospital: 1987-1997.
+J Occup Environ Med 2001; 43:4:370-376.
+4. US Department of Labor, Occupational Safety and Health Administration. Occupational exposure to bloodborne pathogens; needlestick and
+other sharps injuries: final rule. Federal Register 66 (2001).
+5. Sepkowitz K. Occupationally acquired infections in health care workers
+Part II. Ann Int Med 1996; 125:917-928.
+6. Bell DM. Occupational risk of human immunodeficiency virus infection
+in healthcare workers: an overview. Am J Med 1997; 102:9-15.
+7. Werner BG, Grady GF. Accidental hepatitis-B-surface antigen-positive
+inoculations. Use of e antigen to estimate infectivity. Ann Intern Med
+1982; 97:367-369.
+8. Alter MJ. The epidemiology of acute and chronic hepatitis C. Clin Liver
+Dis 1997; 1:559-568.
+9. Lanphear BP, Linneman CC Jr, Cannon CG, DeRonde MM, Pendy L,
+Kerley LM. Hepatitis C virus infection in healthcare workers: risk of
+exposure and infection. Infect Control Hosp Epidemiol 1994; 15:745-750.
+10. Mitsui T, Iwano K, et al. Hepatitis C virus infection in medical personnel
+after needlestick accident. Hepatology 1992; 16:1109-1114.
+11. Ippolito G, Puro V, De Carli G. The risk of occupational human immunodeficiency virus in healthcare workers. Italian multicenter study.
+Arch Intern Med 1993; 153:1451-1458.
+12. Fahey BJ, Koziol DE, Banks SM. Henderson DK. Frequency of nonparenteral occupational exposures to blood and body fluids before and after
+universal precautions training. Am J Med 1991; 90:145-153.
+13. Stricof RL, Morse DL. HTLV-III/LAV seroconversion following a deep
+intramuscular needlestick injury. New Engl J Med 1986; 314:1115.
+14. Updated U.S. Public Health Service guidelines for the management of
+occupational exposures to HBV, HCV, and HIV and recommendations
+for postexposure prophylaxis. MMWR Morb Mortal Wkly Rep 2001; 50:
+1-52.
+15. HIV/AIDS surveillance report. Vol. 12. No. 1. Atlanta: Centers for Disease
+Control and Prevention; 2000:24.
+16. Cardo DM, Culver DH, Ciesielski CE, et al. A case-control study of HIV
+seroconversion in health care workers after percutaneous exposure. N
+Engl J Med 1997; 337:1485-1490.
+17. Gerberding JL. Occupational exposure to HIV in health care settings. N
+Engl J Med 2003; 348:826-833.
+18. Wang SA, Panillo AL, Doi PA, et al. Experience of healthcare workers
+taking postexposure prophylaxis after occupational HIV exposures: findings of the HIV Postexposure Prophylaxis Registry. Infect Control Hosp
+Epidemiol 2000; 21:780-758.
+19. Serious adverse events attributed to nevirapine regimens for postexposure
+prophylaxis after HIV exposures worldwide, 1997-2000. MMWR Morb
+Mortal Wkly Rep 2001; 49:1153-1156.
+20. Centers for Disease Control and Prevention. Protection against viral hepatitis: recommendations of the Immunization Practices Advisory Committee (ACIP). MMWR Recomm Rep 1990; 39(RR-2):1-26.
+21. Grady GF, Lee VA, Prince AM, et al, Hepatitis B immune globulin for
+accidental exposures among medical personnel: final report of a multicenter controlled trial. J Infect Dis 1978; 138:625-638.
+22. Centers for Disease Control and Prevention. Recommendations for prevention and control of hepatitis C virus (HCV) and HCV-related chronic
+disease. MMWR Recomm Rep 1998; 47(RR-19):1-39.
+23. Centers for Disease Control. Recommendations for preventing transmission of infection with human T-lymphotropic virus type III/lymphadenopathy-associated virus in the workplace. MMWR Morb Mortal
+Wkly Rep 1985; 34:681-686, 691-695.
+24. Centers for Disease Control and Prevention. Recommendations for prevention of HIV transmission in health-care settings. MMWR Morb Mortal Wkly Rep 1987; 36:1S–18S.
+25. Department of Labor, Occupational Safety and Health Administration.
+29 CFR Part 1910.1030. Occupational exposure to bloodborne pathogens;
+final rule. Federal Register 56 (1991).
+26. Udasin IG, Gochfield M. Implications of the Occupational Safety and
+Health Administration’s bloodborne pathogen standard for the occupational health professional. J Occup Med 1994; 36:548-544.
+27. Gershon RRM, Vlahov D, Felknor S, et al. Compliance with universal
+precautions among healthcare workers at three regional hospitals. Am J
+Infect Control 1995; 23:225-236.
+28. Green-McKenzie J, Gershon RMM, Karkashian C. Infection control practices among correctional healthcare workers: effect of management attitudes and availability of protective equipment and engineering controls.
+Infect Control Hosp Epidemiol 2001; 22:555-559.
+29. Panlilio AL, Orelien JG, Srivastava PU, et al. Estimate of the annual
+number of percutaneous injuries among hospital-based healthcare workers in the United States, 1997-1998. Infect Control Hosp Epidemiol 2004;
+25:556-562.
+30. Orenstein R, Reynolds L, Karabaic M. Do protective devices prevent
+needlestick injuries among health care workers? Am J Infect Control 1995;
+23:344-351.
+31. Centers for Disease Control and Prevention. Evaluation of safety devices
+for preventing percutaneous injuries among health care workers during
+phlebotomy procedures—Minneapolis-St. Paul, New York City, and San
+Francisco, 1993-1995. MMWR Morb Mortal Wkly Rep 1997; 46:21-5.
+32. Association for Professionals in Infection Control and Epidemiology.
+APIC position paper: prevention of device-mediated bloodborne infections to health care workers. Am J Infect Control 1988; 26:578-580.
+33. Krasinski K, LaCouture R, Holzman RS. Effect of changing needle disposal systems on needle puncture injuries. Infect Control 1987; 8:59-62.
+34. Gillen M, McNary J, Lewis J. Sharps-related injuries in California healthcare facilities: pilot study results from the sharps injury surveillance
+registry. Infect Control Hosp Epidemiol 2003; 24:113-121.
+35. Alvarado-Ramy F, Beltrami EM, Short LJ. A comprehensive approach to
+percutaneous injury prevention during phlebotomy: results of a multicenter study, 1993-1995. Infect Control Hosp Epidemiol 2003; 24:97-104.
+36. Mendelson MH, Bao YL, Solomon R, et al. Evaluation of a safety resheathable wing steel needle for prevention of percutaneous injuries
+associated with intravascular-access procedures among health care workers. Infect Control Hosp Epidemiol 2003; 24:105-112.
+37. Perry J, Parker G, Jagger J. EPINet Report: 2001 percutaneous injury
+rates. Advances in Exposure Prevention 2003; 6:32-37.
+38. Public Health Service guidelines for the management of health-care
+worker exposures to HIV and recommendations for postexposure prophylaxis. MMWR Morb Mortal Wkly Rep 1998; 47(RR-7):1-33.
+39. Sohn S, Eagan J, Sepkowitz, KA. Safety-engineered device implementation: does it introduce bias in percutaneous injury reporting? Infect
+Control Hosp Epidemiol 2004; 25:543-547.
+40. Chiarello LA. Selection of needlestick prevention devices: a conceptual
+framework for approaching product evaluation. Am J Infect Control 1995;
+23:386-395.
+41. Lorentz J, Hill L, Samimi B. Occupational needlestick injuries in a metropolitan police force. Am J Prev Med 2000; 18:146-50.
+42. Jagger JB, Bentley MB. Injuries from vascular access devices: high risk
+This content downloaded from 193.104.110.57 on Wed, 14 May 2014 20:08:43 PM
+All use subject to JSTOR Terms and Conditions
+170 infection control and hospital epidemiology february 2007, vol. 28, no. 2
+and preventable. Collaborative EPINet Surveillance Group. J Intraven
+Nurs 1997; 20:S33-9.
+43. SeJean S, Eagan J, Sepkowitz KA, Zuccotti G. Effect of implementing
+safety-engineered devices on percutaneous injury epidemiology. Infect
+Control Hosp Epidemiol 2004; 25:536-542.
+44. GAO US General Accountability Office. Occupational safety: selected
+cost and benefit implications of needlestick prevention devices for hospitals. 2000; GAO-01-60R Needlestick Prevention. Available at: http://
+www.gao.gov. Accessed January 16, 2007.
+45. Landrigan CP, Rothschild JM, Cronin JW, Kaushal R, et al. Effect of
+reducing interns’ work hours on serious medical errors in intensive care
+units. N Engl J Med 2004; 351:1838-1848.
+46. Clarke SP, Rockett JL, Sloane DM, Aiken LH. Organizational climate,
+staffing, and safety equipment as predictors of needlestick injuries and
+near misses in hospital nurses. Am J Infect Control 2002; 30:207-216.
+47. Wenzel P. Patient-to-patient transmission of hepatitis C virus. Ann Int
+Med 2005; 142:940-941.
+48. Vaughn TE, McCoy K, Beekman SE, Woolson RF, Torner JC, Doebbling
+BN. Factors promoting consistent adherence to safe needle precautions
+among hospital workers. Infect Control Hosp Epidemiol 2004; 25:548-555.
+This content downloaded from 193.104.110.57 on Wed, 14 May 2014 20:08:43 PM
+All use subject to JSTOR Terms and Conditions

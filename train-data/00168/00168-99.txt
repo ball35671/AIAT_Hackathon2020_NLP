@@ -1,0 +1,1283 @@
+Click here to view the Editorial Comment by L. Steinman doi: 10.1111/joim.12150
+Risks of neurological and immune-related diseases,
+including narcolepsy, after vaccination with Pandemrix: a
+population- and registry-based cohort study with over
+2 years of follow-up
+I. Persson1
+, F. Granath2
+, J. Askling3
+, J. F. Ludvigsson2,4, T. Olsson5 & N. Feltelius1,3
+From the 1
+Medical Products Agency, Uppsala; 2
+Unit of Clinical Epidemiology, Department of Medicine, Karolinska Institutet, Stockholm; 3
+Unit
+of Rheumatology, Department of Medicine, Karolinska Institutet, Stockholm; 4
+Department of Paediatrics, Orebro University Hospital, € Orebro; €
+and 5
+Department of Clinical Neurosciences, Karolinska Institutet, Stockholm, Sweden
+Abstract. Persson I, Granath F, Askling J, Ludvigsson
+JF, Olsson T, Feltelius N (Medical Products Agency,
+Uppsala; Unit of Clinical Epidemiology, Department of Medicine, Karolinska Institutet, Stockholm;
+Unit of Rheumatology, Department of Medicine,
+Karolinska Institutet, Stockholm; Department of
+Paediatrics, Orebro University Hospital, € Orebro and €
+Department of Clinical Neurosciences, Karolinska
+Institutet, Stockholm; Sweden). Risks of neurological
+and immune-related diseases, including narcolepsy,
+after vaccination with Pandemrix: a populationand registry-based cohort study with over 2 years
+of follow-up. J Intern Med 2014; 275: 172–190.
+Objectives. To investigate the association between
+vaccination with Pandemrix and risk of selected
+neurological and immune-related diseases including narcolepsy.
+Design. Population-based prospective cohort study
+using data from regional vaccination registries and
+national health registries.
+Setting. Seven healthcare regions in Sweden comprising 61% of the Swedish population.
+Subjects. Study population of 3 347 467 vaccinated
+and 2 497 572 nonvaccinated individuals (vaccination coverage 60%) followed between 2009 and
+2011 for 6.9 million person-years after exposure
+and 6.0 million person-years without exposure.
+Main outcome measure and analysis. First recorded diagnosis of neurological and immune-related diseases. Relative risks [hazard ratios (HRs) with
+95% confidence intervals (CIs)] assessed using
+Cox regression, adjusted for covariates.
+Results. For all selected neurological and immunerelated outcomes under study, other than allergic
+vaccine reactions (for which we verified an expected
+increase in risk) and narcolepsy, HRs were close to
+1.0 and always below 1.3. We observed a three-fold
+increased risk of a diagnosis of narcolepsy (HR:
+2.92, 95% CI: 1.78–4.79; that is, four additional
+cases per 100 000 person-years) in individuals
+≤20 years of age at vaccination and a two-fold
+increase (HR: 2.18, 95% CI: 1.00–4.75) amongst
+young adults between 21 and 30 years of age. The
+excess risk declined successively with increasing
+age at vaccination; no increase in risk was seen
+after 40 years of age.
+Conclusions. For a large number of selected neurological and immune-related diseases, we could neither
+confirm any causal association with Pandemrix nor
+refute entirely a small excess risk. We confirmed an
+increased risk for a diagnosis of narcolepsy in
+individuals ≤20 years of age and observed a trend
+towards an increased risk also amongst young
+adults between 21 and 30 years.
+Keywords: cohort study, narcolepsy, neurological/
+immune-related diseases, Pandemrix.
+Introduction
+In September 2009, the ASO3 adjuvanted (including squalene and alpha tocopherol) A(H1N1)
+vaccine Pandemrix (GlaxoSmithKline, Brentford,
+UK) was authorized for use in the EU; over 30
+million individuals were subsequently vaccinated
+[1]. In Sweden, Pandemrix was exclusively used in
+172 ª 2013 The Association for the Publication of the Journal of Internal Medicine
+Original Article
+a mass vaccination programme launched in October 2009, resulting in an overall vaccination coverage of about 60% [2].
+In mid-2010, an unexpected increase in the occurrence of narcolepsy in children and adolescents
+emerged from adverse drug reaction reports on
+Pandemrix in Sweden and Finland, and these
+reports have since been substantiated in epidemiological studies in these two countries [3–5]. We
+have previously reported a four-fold increase in the
+risk of a diagnosis of narcolepsy in Sweden [3].
+Similar observations have been made regarding
+narcolepsy risk in children/adolescents in Ireland
+[6], the UK [7] and France [8]. With respect to
+adults, a three- to five-fold increased risk of narcolepsy was recently reported in Finnish individuals aged 20–64 years [9], and the findings of the
+French study [8] suggested a four-fold increased
+risk of narcolepsy in vaccinated individuals (mainly
+with Pandemrix) 20 years of age and above [8].
+Because of an assumed immunological mechanism
+in the pathophysiology of narcolepsy, possible
+adverse effects of vaccination on other neuroimmunological and autoimmune diseases are considered relevant.
+Previous experience of other influenza vaccines has
+led to concerns about the risks of immune-related
+reactions [10, 11] and neurological adverse events
+such as Guillain–Barre syndrome (GBS) [12  –14]
+and Bell’s palsy [15, 16]. Data on the safety of the
+adjuvanted vaccine Pandemrix (other than with
+regard to narcolepsy) have, however, so far been
+lacking. A small excess risk of GBS was suggested
+in a Canadian cohort study [17], but no change in
+the risk of GBS amongst vaccinated individuals
+was found in two European studies [18, 19]. The
+risk of convulsions in vaccinated children did not
+seem to be increased in two recent studies [20, 21].
+In a previous registry study, no adverse effects
+were observed on GBS, multiple sclerosis (MS),
+type 1 diabetes (T1D) or rheumatoid arthritis,
+whereas small excess risks were found for Bell’s
+palsy, paraesthesia and inflammatory bowel disease in individuals with medical risk factors
+(analyses of narcolepsy were not conclusive due
+to small numbers of cases) [22]. However, this
+study was limited to the Stockholm population and
+to a follow-up of about 1 year after vaccination.
+Because of the findings regarding narcolepsy, concerns have been raised for the general safety of the
+Pandemrix vaccine leading to the initiation of the
+present broad safety study of targeted neurological
+and immune-related outcomes in a large study
+population and with a prolonged follow-up period.
+The objectives of this study were (i) to investigate
+the association between vaccination with Pandemrix and selected neurological and immune-related
+diseases, (ii) to confirm the association with narcolepsy in vaccinated children/adolescents and (iii)
+to explore this association in adults.
+The study was undertaken by the Medical Products
+Agency (MPA) in collaboration with Karolinska
+Institutet and the seven participating healthcare
+regions/counties.
+Subjects and methods
+Study design
+We performed an observational register-based
+cohort study with prospectively collected population-based data.
+Setting
+Vaccinations with Pandemrix were carried out
+between 1 October 2009 and 31 March 2010. All
+Swedish residents were offered the ASO3 adjuvanted vaccine Pandemrix. Healthcare workers
+and groups considered to be at high risk of
+complications from influenza, such as pregnant
+women and patients with serious medical conditions (i.e. chronic heart or lung disease, diabetes
+mellitus, chronic liver or kidney failure, immune
+suppression, extreme obesity and severe neuromuscular disease), were prioritized to receive early
+vaccination. The overall vaccine coverage in our
+study population was 57%, but varied with geography and with age (highest at 0–9 years of age and
+lowest at 20–29 years) (Table 1).
+Participants
+The original study population of 5 933 762 individuals consisted of all inhabitants, as of 1 January 2009, of seven Swedish regions (the healthcare
+regions of Skane and Vastra G € otaland and the €
+counties of Kalmar, Osterg € otland, Stockholm, €
+Varmland and Norrbotten). We excluded individu- €
+als who died (n = 40 656), emigrated from Sweden
+(n = 13 633), had inconsistent information on
+migration (n = 43) or moved out of the study area
+(n = 34 391) before the start of the study period on
+I. Persson et al. Safety of Pandemrix vaccination
+ª 2013 The Association for the Publication of the Journal of Internal Medicine 173
+Journal of Internal Medicine, 2014, 275; 172–190
+Table 1 Description of study population characteristics, by vaccination status (all ages)
+All Vaccination status
+No Yes
+n % n % n %
+All 5845039 100 2497572 42.7 3347467 57.3
+County of residence on 1 January 2009
+Stockholm 1952294 33.4 913107 46.8 1039187 53.2
+Osterg € otland 416335 7.1 150196 36.1 266139 63.9 €
+Kalmar 229359 3.9 119267 52.0 110092 48.0
+Skane 1198101 20.5 431536 36.0 766565 64.0
+Vastra G € otaland 1535027 26.3 639361 41.7 895666 58.3 €
+Varmland 268846 4.6 117012 43.5 151834 56.5 €
+Norrbotten 245077 4.2 127093 51.9 117984 48.1
+Age on 1 January 2009
+0–9 years 666795 11.4 156065 23.4 510730 76.6
+10–19 years 724186 12.4 268835 37.1 455351 62.9
+20–29 years 737590 12.6 427752 58.0 309838 42.0
+30–39 years 806541 13.8 361494 44.8 445047 55.2
+40–49 years 823718 14.1 395285 48.0 428433 52.0
+50–59 years 730034 12.5 332115 45.5 397919 54.5
+60–69 years 678906 11.6 275888 40.6 403018 59.4
+70–79 years 399435 6.8 157574 39.4 241861 60.6
+≥80 years 277834 4.8 122564 44.1 155270 55.9
+Gender
+Male 2903015 49.7 1329915 45.8 1573100 54.2
+Female 2942024 50.3 1167657 39.7 1774367 60.3
+Education levela
+≤9 years 769439 13.2 404644 52.6 364795 47.4
+≤12 years 2365964 40.5 1079506 45.6 1286458 54.4
+≤14 years 356894 6.1 152572 42.7 204322 57.3
+>14 years 1725413 29.5 578795 33.5 1146618 66.5
+Research training 78589 1.4 23366 29.7 55223 70.3
+Unknown 548740 9.4 258689 47.1 290051 52.9
+Income quartilesb
+Q1 1437217 24.6 803843 55.9 633374 44.1
+Q2 1463780 25.0 666155 45.5 797625 54.5
+Q3 1472498 25.2 538814 36.6 933684 63.4
+Q4 1471544 25.2 488760 33.2 982784 66.8
+Place of birthc
+Nordic 4790793 82.0 1910032 39.9 2880761 60.1
+EU (North) 86097 1.5 46941 54.5 39156 45.5
+EU (Mediterranean) 142541 2.4 85080 59.7 57461 40.3
+EU (East) 38357 0.7 24067 62.7 14290 37.3
+Europe non-EU 225743 3.9 127671 56.6 98072 43.4
+I. Persson et al. Safety of Pandemrix vaccination
+174 ª 2013 The Association for the Publication of the Journal of Internal Medicine
+Journal of Internal Medicine, 2014, 275; 172–190
+1 October 2009; thus, 5 845 039 eligible individuals remained for follow-up, that is, 61% of the
+Swedish population (Table 1).
+Data sources and exposure
+Registration of vaccination status was considered
+to be complete in four of the seven regions, because
+in these regions reimbursement to the vaccination
+centres required registration of the vaccinated
+individual. In the three other regions (the counties
+of Kalmar, Varmland and Norrbotten; together €
+comprising 13% of the study population), a webbased system for vaccination registration was
+used, which required informed consent. As a result
+of the absence of consent, 16–22% of the vaccinated individuals in these three counties could not
+be correctly ascertained as exposed because their
+personal identification number (PIN, the unique
+10-digit number, that is given to every newborn in
+Sweden) could not be included and thus not be
+linked to the vaccination registers; therefore, they
+remained in the study population as unexposed.
+Registrations included the PIN, vaccine dose (half
+the adult dose is initially given to children below
+12 years of age), order of vaccination (first, and in
+children also the second dose) and the date and
+site of vaccination.
+Using the PIN, the individual’s vaccination data
+were linked to the following nationwide and virtually complete registers: (i) the Population Registry
+(Statistics Sweden), to delineate the study population and to define the exposed (i.e. all those
+registered as vaccinated) and the unexposed
+(assumed to be all remaining individuals belonging
+to the study population) cohorts, and further to
+define socio-economic and demographic variables,
+(ii) the National Patient Register, the Prescribed
+Drug Register and the Cancer Registry (National
+Table 1 (Continued)
+All Vaccination status
+No Yes
+n % n % n %
+Asia 356913 6.1 184741 51.8 172172 48.2
+Africa 97303 1.7 60233 61.9 37070 38.1
+North America 27419 0.5 14445 52.7 12974 47.3
+South America 66774 1.1 36284 54.3 30490 45.7
+Oceania 3112 0.1 1962 63.0 1150 37.0
+Soviet Union 8975 0.2 5324 59.3 3651 40.7
+Unknown 1012 <0.1 792 78.3 220 21.7
+No of ambulatory care visitsd
+0 3623955 62.0 1623888 44.8 2000067 55.2
+1 950855 16.3 384585 40.4 566270 59.6
+2 475602 8.1 188057 39.5 287545 60.5
+≥3 794627 13.6 301042 37.9 493585 62.1
+No of hospitalizationsd
+0 5321754 91.0 2294174 43.1 3027580 56.9
+1 383876 6.6 148826 38.8 235050 61.2
+2 80271 1.4 31220 38.9 49051 61.1
+≥3 59138 1.0 23352 39.5 35786 60.5
+a
+Highest attained level for adults, or for the mother or father in the case of children/adolescents.
+b
+Household disposable income for the taxation year 2008, in quartiles.
+c
+Place of birth for all individuals, except if born abroad to parents born in Sweden, then classified as Swedish. For those
+born in Sweden to parents born out of Sweden, categorization was based on country of birth of the parents, if in different
+countries it is based on that of the mother.
+d
+Healthcare consumption during 1 year prior to study start, defined as both the number of hospital admission and the
+number of ambulatory care visits at specialist clinics.
+I. Persson et al. Safety of Pandemrix vaccination
+ª 2013 The Association for the Publication of the Journal of Internal Medicine 175
+Journal of Internal Medicine, 2014, 275; 172–190
+Board of Health and Welfare), to identify hospitalizations and non-primary care outpatient visits to
+identify the outcomes under study, and covariates,
+(iii) the Medical Birth Register (National Board of
+Health and Welfare), to identify pregnancy status
+at vaccination, which was used as a covariate, and
+(iv) the National Cause of Death Register (National
+Board of Health and Welfare), to define deaths
+during follow-up.
+Outcomes
+We selected a set of neurological and immunerelated outcomes for the present study based on (i)
+previous influenza vaccine safety issues including
+narcolepsy [3–5, 10–16], (ii) results from our previous study of H1N1 vaccination in Stockholm county
+[22], and (iii) recommended follow-up of adverse
+events of special interest [23]. On the basis of data on
+physician-assigned International Classification of
+Diseases, 10th revision (ICD-10) codes from hospitalizations and outpatient specialized care visits (i.e.
+referrals) from the Patient Register, supplemented
+with data on prescriptions from the Prescribed Drug
+Register, 10 neurological outcomes including narcolepsy and 31 other immune-related conditions
+were defined (Table 2). As many of the outcomes
+reflect chronic conditions that may have an insidious onset, and because we had access to data for
+dates of visits and admissions rather than the date of
+the actual onset of first symptom of a disorder, we
+also identified possible ‘prodromal’ conditions, or
+outcome-specific medications (Table 2). In all
+analyses, those individuals fulfilling the outcome
+definition before study start, using a 5-year ‘lookback’ period, were considered to have prevalent
+disease and were excluded from risk assessment.
+Statistical analysis
+In an observational real-life study of de facto
+vaccination with outcomes derived from routine
+healthcare data, we sought to address the two
+main threats to the validity of the findings: (i) the
+possibility for selection bias due to targeted recruitment to vaccination of high-risk groups, and (ii) the
+possibility of reverse causality because of prodromal states (preceding the date of the end-point
+diagnosis) that may lead to vaccination rather than
+the other way round. Thus, a stepwise statistical
+approach was adopted.
+First, we explored potential and measureable
+predictors of vaccination: age, gender, county,
+education, income, ethnicity, number of hospital
+admission, number of ambulatory care visits at
+specialist clinics and presence of diagnosed conditions (according to ICD-10 codes) during 1 year
+prior to the start of the study. Potential predictors
+were listed (Table 1) and assessed using Cox
+regression. Analyses of the association between
+vaccination and the occurrence of the outcomes
+under investigation were subsequently adjusted
+for these predictors in different models (see
+below).
+Secondly, because medical risk groups were initially considered a priority, all assessments of
+vaccination risks were stratified according to the
+time-point of vaccination (first 45 days of the
+programme were categorized as ‘early’, and vaccinations occurring thereafter as ‘late’).
+Thirdly, to avoid erroneous inclusion of prevalent
+outcomes, we used outcome definitions (Table 2),
+that is, prodromal diagnoses or treatments, to
+exclude individuals with existing disease (in addition to the basic outcome definition, based on first
+occurrence according to the diagnosis code).
+Fourthly, for each study outcome, relative risks
+were presented overall and by time since vaccination, as well as with respect to age at vaccination
+for selected outcomes.
+Fifthly, to verify that the study design was able to
+identify expected outcomes, vaccination reactions
+(ICD-10 code T88.1) were included as a ‘positive
+control’.
+Finally, to illustrate the impact of selection to/not
+to vaccinate individuals with particular characteristics and morbidities, all-cause mortality was
+included as an outcome.
+Follow-up began on 1 October 2009 and ended on
+the first date of a registered outcome, migration
+from the study region, death or 31 December 2011
+(the end of the study period; maximum follow-up
+was 27 months).
+The associations between vaccine exposure and
+the predefined outcomes were assessed through
+Cox regression using calendar time as the timescale with zero defined as 1 October 2009. Vaccination status was introduced as a time-dependent
+dummy variable taking the value 0 from study
+start until the date of vaccination and thereafter
+I. Persson et al. Safety of Pandemrix vaccination
+176 ª 2013 The Association for the Publication of the Journal of Internal Medicine
+Journal of Internal Medicine, 2014, 275; 172–190
+Table 2 Definition of outcomes in the follow-up of vaccinated and unvaccinated cohorts
+Outcome/diagnosis
+ICD-10 codes for
+first identification
+of outcome
+Additional ICD-10
+codes for the exclusion
+of prevalent disease
+(to define first onset)
+Prescribed drugs (i) to identify
+prevalent disease (first onset) and
+(ii) to help define specific
+outcome/diagnosis
+Immune-related/autoimmune diseases
+Rheumatoid arthritis M05, M06, M12.3 M25, M12, M13 Prednisolone, methotrexate,
+salazopyrin, chloroquine
+phosphate, leflunomide, TNF
+inhibitors, rituximab, abatacept,
+anakinra, tocilizumab
+Juvenile idiopathic arthritis M08 M05, M06, M12.3,
+M25, M13
+NSAIDs, prednisolone, methotrexate,
+salazopyrin, chloroquine
+phosphate,
+leflunomide, TNF inhibitors,
+rituximab, abatacept, anakinra,
+tocilizumab
+Crohn’s disease K50 K51 ASAa
+, immunosuppressive medicines
+including azathioprine and
+methotrexate, mercaptopurine,
+TNF-alfa inhibitors
+Ulcerative colitis K51 K50, see Crohn’s
+disease above
+See Crohn’s disease above
+Type 1 diabetes mellitus E10, first admission
+before 30 years of age
+E11–14
+Outcome/diagnosis
+ICD-10 codes
+for first identification
+of outcome
+Additional
+ICD-10 codes for
+the exclusion
+of prevalent disease
+(to define first onset)
+Neurological diseases
+Guillain–Barre syndrome G61.0
+Multiple sclerosis G35–37
+Optic neuritis H46
+Acute disseminated
+encephalomyelitis (ADEM)
+G04.0
+Bell′s palsy G51.0
+Narcolepsy G47.4 G47.0-G47.3, G47.8, G47.9
+Polyneuropathy G62
+Paraesthesia R20.2
+An-/hypoaesthesia R20.0, R20.1
+Epilepsy grand mal G40.3
+I. Persson et al. Safety of Pandemrix vaccination
+ª 2013 The Association for the Publication of the Journal of Internal Medicine 177
+Journal of Internal Medicine, 2014, 275; 172–190
+Table 2 (Continued)
+Outcome/diagnosis
+ICD-10 codes for
+first identification
+of outcome
+Additional ICD-10
+codes for the
+exclusion of prevalent
+disease (to define
+first onset)
+Prescribed drugs
+(i) to identify prevalent
+disease (first onset) and
+(ii) to help define specific
+outcome/diagnosis
+Other immune-related/autoimmune diseases for exploratory analyses
+Reactive/idiopathic inflammatory arthritis M02, M03, M13
+Arthralgia UNSb M25.5
+Systemic inflammatory disease M32, M33, M34,
+M35.0, M35.1
+M25, M13, M 05, M06,
+M07, M08, M09
+NSAIDs, prednisolone,
+chloroquine phosphate,
+azathioprine
+Sjogren’s syndrome M35.0 M32, M33, M34, M35.1 €
+SLE M32 M33, M34, M35.0, M35.1 NSAIDs, prednisolone,
+chloroquine phosphate,
+azathioprine
+Scleroderma M34
+Dermatopolymyositis M33
+Cutaneous vasculitis L95.8, L95.9
+Myasthenia gravis G70
+Thyroiditis E06
+Addison’s disease E27.1, E27.2
+Purpura, thrombocytopenia
+including HSP
+D69
+ITP D69.3
+Agranulocytosis D70
+Haemolytic anaemia, including HUSc D59.0-D59.3
+Hypothyreosis E03 E05 or E06 ATC=H03Ad
+or H03Be
+Hyperthyreosis E05
+Urticaria L50
+Erythema multiforme including
+Stevens–Johnson syndrome
+L51
+Stevens–Johnson syndrome L51.1
+Exfoliative dermatitis L26
+Erythema nodosum L52
+Allergic reaction T78
+Anaphylactic reaction T78.2
+Vaccination reactions T88.1
+Asthma J45-J46 ATC=R03f
+x
+TNF, tumour necrosis factor; NSAID, nonsteroidal anti-inflammatory drug; SLE, systemic lupus erythematosus; HSP,
+Henoch–Schonlein purpura; ITP, idiopathic thrombocytopenic purpura; HUS, haemolytic uraemic syndrome. € a
+Acetylsalicylic acid.
+b
+Joint pain, without specification.
+c
+Haemolytic uraemic syndrome.
+d
+Thyroid preparations.
+e
+Antithyroid preparations.
+f
+Drugs for obstructive airway diseases.
+I. Persson et al. Safety of Pandemrix vaccination
+178 ª 2013 The Association for the Publication of the Journal of Internal Medicine
+Journal of Internal Medicine, 2014, 275; 172–190
+the value 1, that is, individuals contributed unexposed person-time until their date of vaccination
+(if vaccinated), and exposed person-time thereafter.
+Five models were applied, the first by adjusting for
+age (in 5-year bands), gender and county (model 1),
+then successively adding potential confounders:
+education and income (model 2), number of hospital
+admissions and ambulatory care visits (model 3),
+pregnancy status and presence of diagnoses defined
+by ICD-10 codes (model 4) and ethnicity (model 5).
+Variable categorizations are shown in Table 1. We
+used the SAS version 9.3 (SAS Institute Inc., Cary,
+NC, USA) in all analyses.
+Results are presented as hazard ratios (HRs) with
+95% confidence intervals (CIs). Because this was a
+safety study with the aims of detecting possible
+outcomes and confirming narcolepsy, we chose not
+to adjust for multiple comparisons. In the main
+results, HRs are presented from model 4, except
+T1D and all-cause mortality for which the results
+from model 5 are shown (ethnicity was considered
+to be of potential importance for these outcomes).
+All analyses were further stratified for different
+aspects of time. First, analyses were stratified
+according to the time-point of vaccination – within
+45 days from the start of follow-up (early cohort)
+and after more than 45 days (late cohort) – in order
+to determine the potential residual effect of bias
+due to channelling of high-risk groups (expected to
+be over-represented early on in the vaccination
+campaign). This stratification of vaccinated individuals was obtained by separate time-dependent
+variables for the early and late cohorts. The reference group for the two exposure groups was all
+individuals still not vaccinated at each calendar
+day of follow-up. Secondly, we assessed risk
+according to the time of vaccination (time during
+the vaccination period in quartiles) both in
+comparison with nonvaccinated and also as an
+internal comparison within vaccinated individuals.
+Thirdly, to reflect outcomes with a suspected
+rapid onset after vaccination (e.g. GBS and Bell’s
+palsy), analyses were stratified by follow-up time (i)
+within 6 weeks versus more than 6 weeks since
+vaccination and (ii) within 1 year versus more than
+1 year after vaccination, to determine whether
+associations were sustained in the longer term.
+This stratification of risk according to time for
+vaccinated individuals was also assessed by timedependent covariates where separate dummy
+variables were created for the first 6 weeks/1 year
+after vaccination versus more than 6 weeks/1 year
+after vaccination. The reference group for these two
+strata of exposed person-time is all unexposed
+person-time at each calendar day of follow-up.
+Ethical approval
+The study was approved by the Ethics Review
+Board in Uppsala in January 2011. Approval was
+granted, conditional on information about the
+study being reported through newspapers in the
+seven regions/counties (Registration No. 2011/
+427).
+Results
+Characteristics of the cohorts and predictors of vaccination
+Overall, we found that vaccinated individuals had a
+higher level of education, higher income, were more
+often born in a Nordic country and consumed more
+healthcare compared with nonvaccinated individuals (Table 1). Virtually, all groups of medical
+diagnoses were more prevalent amongst those
+who were vaccinated (data not shown). There were
+also differences in the above-mentioned characteristics between individuals vaccinated early
+(≤45 days) and later during the study period. Those
+vaccinated in the early phase had a greater disease
+burden in terms of prior healthcare consumption,
+whereas those vaccinated later seemed to have a
+lower or baseline prevalence in comparison with
+unvaccinated individuals. We noted similar patterns for vaccination prediction in individuals
+≤20 years of age.
+The overall observation times were approximately
+6.9 million person-years in the vaccination cohort
+after exposure and 6.0 million person-years in the
+nonexposed cohort and in the exposed cohort
+before the time of vaccination.
+Occurrence and relative risks of vaccine reactions and death from all
+causes
+Overall, 147 vaccinated individuals were diagnosed
+with vaccine reactions (i.e. reactions that were
+sufficiently serious to require hospital contact, that
+is, through specialist care or admission) resulting
+in a 20-fold increased risk during the first 6 weeks
+following vaccination (HR: 19.6, 95% CI: 10.5–
+36.3), but little increase thereafter (Table 2)
+(vaccine reactions in the unexposed cohort were
+assumed to be associated with other vaccines).
+The adjusted HR (model 5) for death from any
+cause following vaccination was just below unity
+I. Persson et al. Safety of Pandemrix vaccination
+ª 2013 The Association for the Publication of the Journal of Internal Medicine 179
+Journal of Internal Medicine, 2014, 275; 172–190
+(HR: 0.95, 95% CI: 0.94–0.96; based on 65 490
+and 57 877 deaths amongst the vaccinated and
+nonvaccinated individuals, respectively). When
+stratified by age, the mortality rate was more than
+30% lower amongst young vaccinated individuals
+(10–29 years) and reduced by 10–15% in older age
+groups. When stratified by time since vaccination,
+the mortality rate following vaccination was
+increased by approximately 20% in those vaccinated during the first half of the vaccination period
+compared with unvaccinated individuals, whereas
+mortality was reduced by 20–30% in those vaccinated during the later period (Appendix Fig. A1).
+Occurrence and relative risks of selected neurological outcomes
+Table 3 and Fig. 1 show adjusted HRs (model 4, for
+outcome definitions excluding cases with prodromal states or medications at the start of vaccination) for neurological outcomes (including
+narcolepsy, for comparison). Of the 11 overall
+HRs, six had a lower 95% CI above 1.0; however,
+four of these HR estimates were below 1.1 (the
+exceptions being narcolepsy and acute disseminated myeloencephalitis; the latter was based on
+only three exposed cases in the ≤6-week window).
+In the early vaccination cohort, the point estimates
+for Bell’s palsy, polyneuropathy, paraesthesia and
+epilepsy were slightly increased (all HRs below 1.2);
+all risk estimates were close to baseline for GBS
+and MS.
+Occurrence and relative risks of selected immune-related outcomes
+Table 3 and Fig. 1 show the HRs for non-neurological autoimmune or immune-related outcomes.
+Overall, for the 30 investigated outcomes, we found
+that HRs for 14 were above unity (with a lower 95%
+CI above 1.0), 11 of which were in the range
+1.1–1.2, but only three were greater than 1.2. The
+increased estimates were generally at a higher level
+in the early versus the late vaccination cohort, with
+the highest estimates for Sjogren’s syndrome and €
+agranulocytosis (HR: 1.48, 95% CI: 1.31–1.66 vs.
+HR: 1.38, 95% CI: 1.27–1.50, respectively). For the
+composite outcome of inflammatory systemic
+diseases, the risk estimate was not different from
+baseline (HR: 1.00; 95% CI: 0.85–1.17).
+Occurrence and relative risks of a diagnosis of narcolepsy
+A total of 126 cases of diagnosed narcolepsy (after
+the exclusion of one prodromal case diagnosed
+with another sleep disturbance) were observed
+amongst vaccinated individuals ≤20 years of age,
+resulting in an overall three-fold risk increase in
+this age group (HR: 2.92, 95% CI: 1.78–4.79;
+Table 3). The magnitude of the risk increase did
+not vary markedly between the early and late
+vaccination cohorts, nor was there any difference
+in HRs between the first and second year following
+vaccination (P > 0.05). We calculated that this
+overall risk increase would correspond to an
+attributable incidence of 4.0 additional cases per
+100 000 vaccinated children/adolescents per year.
+The risk estimate for narcolepsy was (i) increased
+two-fold (HR: 2.18, 95% CI: 1.00–4.75) in young
+adults (21–30 years; 23 exposed cases), (ii) slightly
+increased (HR: 1.53, 95% CI: 0.68–3.44; 18 cases)
+in individuals aged 31–40 years, and (iii) close to
+the baseline level (HR: 1.06, 95% CI: 0.64–1.76; 40
+cases) in those aged >40 years. Hence, the relative
+risk of narcolepsy during the study period declined
+successively with increasing age at vaccination
+(P for trend = 0.012) (Fig. 2). However, the decreasing trend amongst adults as a group was not
+statistically significant (P for trend = 0.14).
+Figure 3 shows an increase in the crude incidence
+rates of narcolepsy, for individuals ≤20 years of
+age, in 2011 as compared with 2009–2010; this
+increase was greatest in the vaccinated cohort, but
+present also in the unvaccinated group. In those
+aged 21–30 years, a smaller increase in the incidence was observed, but restricted to vaccinated
+individuals. There was no change in the incidence
+amongst vaccinated or unvaccinated individuals
+above 31 years of age.
+Discussion
+The main findings of this study were that for a
+broad range of selected neurological and immunerelated diagnoses, risk estimates varied around 1.0
+and were, when increased, generally at a low level
+(10–30% increase), providing no convincing evidence for an association with the vaccination.
+Furthermore, we confirmed a positive association
+between a diagnosis of narcolepsy and Pandemrix
+vaccination both in individuals ≤20 years of age
+and in young adults aged 21–30 years. These
+associations seemed robust across models.
+The main threats to the validity in this study were
+the possibility that pre-existing morbidity may
+have introduced bias and led to both over- and
+underestimations of risks, and uncertainty regardI. Persson et al. Safety of Pandemrix vaccination
+180 ª 2013 The Association for the Publication of the Journal of Internal Medicine
+Journal of Internal Medicine, 2014, 275; 172–190
+Table 3 Risk estimates (HRs and 95% CI) overall, for early (vaccinated ≤45 days) and late (>45 days) cohorts; for observation periods up to and including
+6 weeks and longer than 6 weeks, and up to and including 1 year and longer than 1 year after vaccination. From top to bottom: vaccination/allergic
+reactions, neurological diseases and immune-related diseases
+Disease/ICD-10 code
+No. of
+events
+Overall Early cohort Late cohort ≤6 weeks >6 weeks ≤1 year >1 year
+HR 95% CI HR 95% CI HR 95% CI HR 95% CI HR 95% CI HR 95% CI HR 95% CI
+Vaccination
+reaction/T88.1
+147 6.14 (3.96–9.52) 6.14 (3.90–9.67) 6.14 (3.68–10.2) 19.6 (10.5–36.3) 1.33 (0.78–2.27) 9.37 (5.71–15.4) 1.24 (0.59–2.61)
+Urticaria/L50 12 231 1.12 (1.09–1.16) 1.17 (1.13–1.21) 1.09 (1.05–1.13) 1.05 (0.95–1.16) 1.13 (1.09–1.17) 1.08 (1.03–1.12) 1.17 (1.12–1.22)
+Allergic reaction/T78 9021 1.05 (1.01–1.08) 1.13 (1.08–1.18) 0.99 (0.95–1.03) 1.28 (1.14–1.44) 1.03 (0.99–1.07) 1.03 (0.98–1.08) 1.06 (1.01–1.12)
+Anaphylactic
+reaction/T78.2
+1099 1.05 (0.95–1.16) 1.12 (0.99–1.27) 1.00 (0.89–1.12) 1.36 (0.91–2.03) 1.03 (0.93–1.14) 1.00 (0.86–1.15) 1.10 (0.96–1.26)
+Narcolepsy
+≤20 years/G47.4
+126 2.92 (1.78–4.79) 3.35 (1.95–5.76) 2.61 (1.53–4.44) – – 3.13 (1.89–5.19) 3.68 (1.45–9.34) 2.66 (1.50–4.72)
+Narcolepsy,
+>20 years/G47.4
+81 1.35 (0.93–1.95) 1.54 (0.99–2.38) 1.20 (0.78–1.86) 1.41 (0.45–4.41) 1.35 (0.92–1.98) 1.12 (0.66–1.88) 1.59 (0.97–2.61)
+Narcolepsy, 21–30
+years/G47.4
+23 2.18 (1.00–4.75) 1.98 (0.78–5.06) 2.36 (0.98–5.71) – – 2.29 (1.03–5.09) 2.09 (0.65–6.72) 2.24 (0.86–5.85)
+Narcolepsy, 31–40
+years/G47.4
+18 1.53 (0.68–3.44) 2.36 (0.95–5.89) 1.04 (0.39–2.74) 2.88 (0.34–24.7) 1.39 (0.59–3.27) 1.30 (0.46–3.72) 1.91 (0.56–6.59)
+Narcolepsy, ≥40
+years/G47.4
+40 1.06 (0.64–1.76) 1.22 (0.67–2.23) 0.94 (0.51–1.72) 1.24 (0.29–5.23) 1.04 (0.62–1.77) 0.84 (0.41–1.74) 1.28 (0.66–2.48)
+GBS/G61 170 1.03 (0.81–1.32) 0.97 (0.70–1.33) 1.08 (0.82–1.42) 1.32 (0.68–2.54) 1.00 (0.78–1.30) 0.89 (0.62–1.26) 1.17 (0.85–1.62)
+MS/G35-37 1003 1.04 (0.95–1.15) 1.09 (0.96–1.23) 1.01 (0.90–1.13) 0.66 (0.46–0.95) 1.08 (0.97–1.19) 0.98 (0.85–1.12) 1.11 (0.97–1.27)
+Optic neuritis/H46 298 0.95 (0.79–1.13) 1.14 (0.92–1.42) 0.82 (0.66–1.01) 0.56 (0.27–1.17) 0.98 (0.81–1.17) 0.98 (0.77–1.24) 0.91 (0.71–1.17)
+ADEM/G04.0 11 1.41 (0.35–5.73) 2.46 (0.53–11.5) 0.77 (0.13–4.43) 15.2 (1.77–130) 0.69 (0.16–2.90) 1.04 (0.21–5.23) 2.67 (0.27–26.4)
+Bell’s palsy/G51 3151 1.07 (1.01–1.13) 1.18 (1.10–1.27) 1.00 (0.93–1.06) 1.08 (0.90–1.30) 1.07 (1.01–1.14) 1.05 (0.97–1.14) 1.09 (1.01–1.18)
+Polyneuropathy/G62 2722 1.08 (1.01–1.15) 1.19 (1.11–1.29) 0.98 (0.91–1.06) 1.03 (0.85–1.26) 1.08 (1.02–1.16) 1.01 (0.93–1.10) 1.15 (1.05–1.25)
+Paraesthesia/R20.2 5425 1.07 (1.02–1.11) 1.13 (1.08–1.20) 1.02 (0.97–1.07) 1.29 (1.12–1.48) 1.05 (1.01–1.10) 1.06 (0.99–1.12) 1.08 (1.02–1.14)
+An-/hypoaesthesia/
+R20.0/R20.1
+875 1.00 (0.90–1.12) 1.11 (0.97–1.26) 0.93 (0.83–1.06) 0.89 (0.63–1.26) 1.01 (0.91–1.13) 0.98 (0.84–1.13) 1.03 (0.89–1.19)
+Epilepsy grand
+mal/G51.0
+2805 1.06 (1.00–1.13) 1.16 (1.08–1.25) 0.99 (0.93–1.07) 1.13 (0.93–1.37) 1.06 (0.99–1.12) 1.03 (0.95–1.12) 1.10 (1.01–1.19)
+RA/M05-06, M12.3 2608 1.07 (1.01–1.14) 1.16 (1.08–1.26) 1.02 (0.95–1.09) 1.12 (0.91–1.39) 1.07 (1.01–1.14) 1.02 (0.94–1.11) 1.13 (1.04–1.23)
+Juvenile idiopathic
+arthritis/M08
+422 1.13 (0.92–1.38) 1.06 (0.83–1.34) 1.18 (0.95–1.47) 0.93 (0.49–1.77) 1.15 (0.93–1.41) 1.14 (0.85–1.51) 1.12 (0.86–1.46)
+I. Persson et al. Safety of Pandemrix vaccination ª 2013 The Association for the Publication of the Journal of Internal Medicine 181
+Journal of Internal Medicine, 2014, 275; 172–190
+Table 3 (Continued )
+Disease/ICD-10 code
+No. of
+events
+Overall Early cohort Late cohort ≤6 weeks >6 weeks ≤1 year >1 year
+HR 95% CI HR 95% CI HR 95% CI HR 95% CI HR 95% CI HR 95% CI HR 95% CI
+CD/K50 1538 1.15 (1.06–1.25) 1.23 (1.11–1.36) 1.10 (1.01–1.21) 1.36 (1.05–1.76) 1.14 (1.05–1.24) 1.18 (1.05–1.32) 1.13 (1.01–1.26)
+CD, 0–20 years/K50 401 1.47 (1.21–1.77) 1.39 (1.11–1.75) 1.52 (1.23–1.88) 3.67 (1.94–6.94) 1.37 (1.13–1.67) 1.76 (1.32–2.34) 1.28 (1.01–1.63)
+CD, ≥21 years/K50 1137 1.09 (0.99–1.19) 1.20 (1.07–1.35) 1.02 (0.91–1.13) 1.11 (0.83–1.48) 1.09 (0.99–1.19) 1.09 (0.96–1.23) 1.09 (0.96–1.24)
+Ulcerative colitis/K51 2177 1.09 (1.02–1.17) 1.17 (1.08–1.28) 1.04 (0.96–1.12) 0.91 (0.72–1.16) 1.11 (1.03–1.19) 1.04 (0.95–1.14) 1.14 (1.04–1.26)
+T1D, <30 years
+of age/E10
+971 1.13 (1.00–1.29) 1.16 (1.00–1.35) 1.11 (0.96–1.28) 1.24 (0.83–1.85) 1.12 (0.98–1.28) 1.13 (0.95–1.34) 1.14 (0.95–1.36)
+T1D, 0–9 years/E10 497 1.07 (0.87–1.32) 1.08 (0.86–1.36) 1.05 (0.84–1.32) 1.37 (0.76–2.48) 1.04 (0.84–1.29) 1.08 (0.81–1.43) 1.06 (0.80–1.41)
+T1D, 10–19 years/E10 370 1.23 (1.00–1.51) 1.20 (0.93–1.54) 1.25 (1.00–1.57) 1.01 (0.53–1.93) 1.25 (1.01–1.55) 1.20 (0.91–1.58) 1.27 (0.95–1.69)
+T1D, 20–29 years/E10 104 1.09 (0.83–1.42) 1.39 (0.98–1.96) 0.90 (0.64–1.25) 1.48 (0.56–3.86) 1.07 (0.81–1.40) 1.10 (0.76–1.59) 1.07 (0.73–1.58)
+IDIOPAT INFL ART/
+M02-03, M13
+6599 1.12 (1.07–1.17) 1.21 (1.15–1.27) 1.06 (1.01–1.11) 1.05 (0.92–1.20) 1.13 (1.08–1.18) 1.11 (1.04–1.18) 1.13 (1.07–1.20)
+Arthralgia,
+unspecified/M25.5
+21 781 1.09 (1.07–1.12) 1.16 (1.12–1.19) 1.05 (1.03–1.08) 1.10 (1.02–1.19) 1.09 (1.07–1.12) 1.09 (1.06–1.13) 1.10 (1.06–1.13)
+INFL SYST DIS/
+M32-35.0, M35.1
+383 1.00 (0.85–1.17) 1.08 (0.88–1.32) 0.94 (0.78–1.13) 0.73 (0.39–1.36) 1.02 (0.86–1.20) 0.91 (0.72–1.13) 1.10 (0.88–1.38)
+Sj€ogren’s syndrome
+/M35.0
+1070 1.21 (1.09–1.34) 1.48 (1.31–1.66) 0.98 (0.87–1.12) 0.96 (0.69–1.35) 1.23 (1.11–1.37) 1.15 (0.99–1.32) 1.28 (1.11–1.48)
+SLE/M32 413 0.95 (0.81–1.11) 1.16 (0.96–1.39) 0.77 (0.64–0.94) 1.15 (0.71–1.89) 0.93 (0.79–1.09) 0.95 (0.77–1.18) 0.94 (0.75–1.17)
+Scleroderma/M34 146 0.84 (0.65–1.08) 0.76 (0.55–1.06) 0.90 (0.67–1.19) 0.58 (0.22–1.57) 0.86 (0.66–1.11) 0.78 (0.56–1.10) 0.90 (0.63–1.28)
+Polydermatomyositis
+/M33
+142 1.21 (0.91–1.61) 1.17 (0.83–1.65) 1.25 (0.90–1.72) 1.10 (0.41–2.93) 1.22 (0.91–1.63) 1.18 (0.80–1.76) 1.24 (0.85–1.81)
+Cutaneous vasculitis
+UNS/L95.8 L95.9
+376 1.01 (0.86–1.20) 1.21 (0.99–1.47) 0.86 (0.71–1.05) 0.59 (0.31–1.14) 1.05 (0.88–1.24) 0.99 (0.78–1.25) 1.03 (0.83–1.30)
+Purpura, TT/D69 3515 1.07 (1.01–1.14) 1.27 (1.19–1.36) 0.91 (0.85–0.97) 1.05 (0.87–1.26) 1.08 (1.01–1.14) 1.03 (0.95–1.11) 1.12 (1.04–1.21)
+ITP/D69.3 491 1.15 (0.99–1.34) 1.30 (1.09–1.56) 1.02 (0.85–1.23) 1.17 (0.75–1.83) 1.15 (0.98–1.35) 1.06 (0.87–1.30) 1.26 (1.01–1.57)
+Agranulocytosis/D70 2387 1.15 (1.08–1.24) 1.38 (1.27–1.50) 0.98 (0.90–1.07) 1.05 (0.83–1.33) 1.16 (1.08–1.25) 1.12 (1.01–1.24) 1.19 (1.08–1.30)
+Haemolytic anaemia/
+D59.0-D59.3
+240 1.06 (0.85–1.31) 1.18 (0.92–1.52) 0.94 (0.72–1.21) 0.74 (0.39–1.39) 1.09 (0.88–1.36) 0.91 (0.68–1.22) 1.21 (0.91–1.62)
+Hypothyroidism/E03 4224 1.09 (1.03–1.14) 1.17 (1.10–1.24) 1.02 (0.97–1.09) 1.06 (0.84–1.33) 1.09 (1.03–1.14) 1.10 (1.02–1.19) 1.08 (1.01–1.15)
+Hyperthyroidism/E05 4006 1.02 (0.97–1.07) 1.13 (1.06–1.20) 0.94 (0.88–0.99) 1.21 (1.04–1.41) 1.00 (0.95–1.05) 0.99 (0.93–1.06) 1.04 (0.97–1.12)
+Thyroiditis/E06 1716 1.07 (0.99–1.17) 1.17 (1.07–1.29) 0.99 (0.90–1.09) 0.93 (0.72–1.20) 1.09 (1.00–1.18) 1.00 (0.89–1.12) 1.15 (1.03–1.29)
+I. Persson et al. Safety of Pandemrix vaccination
+182 ª 2013 The Association for the Publication of the Journal of Internal Medicine
+Journal of Internal Medicine, 2014, 275; 172–190
+Table 3 (Continued)
+Disease/ICD-10 code
+No. of
+events
+Overall Early cohort Late cohort ≤6 weeks >6 weeks ≤1 year >1 year
+HR 95% CI HR 95% CI HR 95% CI HR 95% CI HR 95% CI HR 95% CI HR 95% CI
+Addison’s disease/
+E27.1, E27.2
+141 1.01 (0.77–1.32) 1.34 (0.98–1.82) 0.74 (0.52–1.04) 0.51 (0.20–1.32) 1.07 (0.81–1.41) 1.10 (0.75–1.60) 0.94 (0.65–1.35)
+Myasthenia
+gravis/G70
+225 1.20 (0.96–1.49) 1.20 (0.91–1.57) 1.20 (0.93–1.54) 0.46 (0.20–1.06) 1.29 (1.03–1.62) 1.06 (0.78–1.44) 1.36 (1.00–1.85)
+Erythema
+multiforme/L51
+485 1.20 (1.03–1.41) 1.27 (1.05–1.55) 1.15 (0.96–1.38) 1.04 (0.58–1.87) 1.21 (1.03–1.43) 1.07 (0.85–1.33) 1.36 (1.09–1.69)
+SJS/L51.1 52 1.59 (0.95–2.65) 1.66 (0.89–3.09) 1.54 (0.87–2.72) – – 1.91 (1.11–3.28) 1.49 (0.73–3.03) 1.69 (0.84–3.39)
+Exfoliative
+dermatitis/L26
+26 0.88 (0.48–1.60) 1.05 (0.51–2.13) 0.73 (0.34–1.56) 0.46 (0.05–4.17) 0.93 (0.49–1.75) 1.05 (0.45–2.43) 0.74 (0.33–1.69)
+Erythema
+nodosum/L52
+286 0.93 (0.77–1.12) 1.00 (0.79–1.26) 0.87 (0.70–1.09) 0.61 (0.31–1.18) 0.96 (0.79–1.17) 0.81 (0.62–1.06) 1.05 (0.81–1.36)
+Asthma/J45-J46 9129 1.08 (1.04–1.12) 1.02 (0.97–1.07) 1.12 (1.08–1.17) 1.10 (0.97–1.26) 1.08 (1.04–1.12) 1.06 (1.01–1.12) 1.10 (1.04–1.15)
+HR, hazard ratio; CI, confidence interval; GBS, Guillain–Barre syndrome; MS, multiple sclerosis; ADEM, acute disseminating encephalomyelitis; RA,
+rheumatoid arthritis; CD, Crohn’s disease, IDIOPAT INFL ART, idiopathic inflammatory arthritis; INFL SYST DIS, inflammatory systemic disease; SLE,
+systemic lupus erythematosus; TP, thrombocytopenic purpura, ITP, idiopathic thrombocytopenic purpura; SJS, Stevens–Johnson syndrome.
+I. Persson et al. Safety of Pandemrix vaccination ª 2013 The Association for the Publication of the Journal of Internal Medicine 183
+Journal of Internal Medicine, 2014, 275; 172–190
+ing the true onset time for some of the studied
+outcomes, which could lead to the inclusion of
+prevalent cases and thereby an error of reverse
+causality (vaccination could actually have occurred
+after the true onset of disease).
+Interpretation of the data was influenced by four
+main observations. First, most HRs were reduced
+in magnitude after adjustment for healthcare consumption in the preceding year. Secondly, the risk
+estimate based on the first registered ICD code was
+often reduced after the exclusion of individuals
+with previous health care due to possible early
+states of the disease under study (Appendix Table
+A1). Thirdly, increased HRs were higher in the early
+than in the late vaccination cohort (Fig. 1). Further, a systematic analysis showed that 24 of all 42
+overall HRs analysed were reduced when comparing time of vaccination in the last half with that of
+the first half of the vaccination period (data not
+shown). Finally, it is noteworthy that the risk of
+death (after adjustment) was lower in individuals
+vaccinated late in the programme, compared with
+unvaccinated individuals, but was higher in those
+vaccinated early (Appendix Fig. A1). Thus, these
+observations support the influence of selection of
+individuals for vaccination.
+For the vast majority of outcomes, except vaccine
+reactions and narcolepsy, the adjusted HRs
+(Table 3 and Fig. 1) were close to or only marginally
+greater than 1. Thus, we believe that a cautious
+interpretation is warranted; a residual or unmeasured confounding, or reverse causality, might
+entirely or partly explain the low-level increases
+for some of the associations. However, at the same
+time and for this reason, a small increase in risk as
+a result of vaccination cannot be completely ruled
+out.
+With the exception of narcolepsy, we could not
+establish convincing associations between PandemFig. 1 Summary plots (hazard ratios and 95% confidence intervals) for the entire study population and the early and late
+vaccination cohorts; for all three groups, the plots show (from top to bottom) allergic reactions, neurological diseases and
+immune-related diseases. GBS, Guillain–Barre syndrome; MS, multiple sclerosis; Epilepsy GM, epilepsy grand mal; ADEM,
+acute disseminated encephalomyelitis; RA, rheumatoid arthritis; Juv Idio Arthr, juvenile idiopathic arthritis; CD, Crohn’s
+disease; UC, ulcerative colitis; O React Arthr, other reactive arthritis; Inflam Syst Dis, inflammatory systemic disease; SLE,
+systemic lupus erythematosus; Idio Tp Purpura, idiopathic thrombocytopenic purpura; SJS, Stevens–Johnson syndrome.
+I. Persson et al. Safety of Pandemrix vaccination
+184 ª 2013 The Association for the Publication of the Journal of Internal Medicine
+Journal of Internal Medicine, 2014, 275; 172–190
+rix vaccination and any of the neurological outcomes. This seemingly contradicts the results from
+the previous smaller study in Stockholm with a
+shorter follow-up period, in which small risk
+increases were observed for polyneuropathy, paraesthesia and Bell’s palsy (which were considered to
+be caused partially or entirely by selection bias) [22].
+Regarding GBS, previous reports on the association with adjuvanted H1N1 vaccines have shown
+inconsistent results [17–19, 22]. No association
+has been reported between Pandemrix vaccination
+and grand mal epilepsy convulsions [20, 21].
+We also found that no positive associations could
+be established between Pandemrix and any of the
+immune-related disorders (except vaccination
+reactions). The outcomes studied represent a large
+group of autoimmune and chronic inflammatory
+diseases with variable clinical course and different
+pathogenetic mechanisms. For diseases such as
+rheumatoid arthritis, Crohn’s disease and asthma
+– with typically chronic and relapsing courses and
+with the possible appearance of first symptoms
+long before the established diagnosis – we believe
+that it is difficult to determine the actual time of
+onset. Taking this uncertainty into account, and
+the increased risk estimates for Crohn’s disease
+observed in individuals ≤20 years of age (Table 3),
+we propose that further investigations could be
+warranted. To date, the findings from one large
+study of H1N1 vaccination and risk of flare in
+Crohn’s disease did not provide support for an
+adverse effect [24].
+We did note slightly increased risk estimates for
+T1D in subjects aged 10–19 years (Table 3). However, a positive association between H1N1 vaccination and T1D seems less plausible when
+considering T1D incidence data from the nationwide SweDiabKids registry [25] in which the annual
+number of new cases in the relevant age group was
+relatively stable between 2007 and 2011 (440, 397,
+411, 424 and 388 cases, respectively), thus with no
+increase following vaccination in 2009.
+The absence of an increase in risk of events related
+to typical autoimmune diseases, for example systemic lupus erythematosus, rheumatoid arthritis,
+myasthenia gravis and autoimmune thyroiditis,
+would suggest a very specific immunological mechanism underlying the development of narcolepsy
+after Pandemrix exposure. It is of interest that most
+organ-specific inflammatory diseases, often
+regarded as autoimmune (with MS as an example),
+have combined causes involving lifestyle/environmental factors and predisposing genes, particuFig. 2 Hazard ratios and 95% confidence intervals (logarithmic scale) for diagnosed narcolepsy during the study
+period, by age at vaccination (P for trend = 0.012).
+Fig. 3 Crude incidence rates of diagnosed narcolepsy in
+the vaccinated and unvaccinated cohorts, according to age
+group and observation period (2009–2010 vs. 2011).
+I. Persson et al. Safety of Pandemrix vaccination
+ª 2013 The Association for the Publication of the Journal of Internal Medicine 185
+Journal of Internal Medicine, 2014, 275; 172–190
+larly HLA class II genotypes. Almost 100% of
+patients with narcolepsy with cataplexy carry the
+HLA class II allele DQB1*06:02 [26]. It is also
+interesting that DRB1 and DQB1 genes are closely
+located, and variants are in linkage disequilibrium;
+that is, they are co-inherited. DRB1*15:01 and
+DQB1*06:02 that predispose towards MS and
+narcolepsy, respectively, are thus always present
+together in the Swedish population. It is therefore
+noteworthy that in the present study, we found no
+risk increase for MS or monosymptomatic manifestations associated with MS, such as optic neuritis and sensory disturbances.
+With regard to narcolepsy, our finding of a threefold increased risk corroborates previous reports of
+an increased risk in children/adolescents [3–7,
+27]. Of note, the higher-magnitude risk increases
+in other studies, where determination relied on
+clinical case ascertainment and medical record
+data [4–9], are not directly comparable with the
+present registry-based data. The overall risk estimate in the present study is somewhat lower than
+in our previous registry study [3], using the same
+registry-based ascertainment of diagnosed narcolepsy cases. This is likely to be due to the fact that
+the incidence of diagnosed narcolepsy also
+increased in the unvaccinated cohort in the current
+study (Fig. 3), highlighting the possibility of stimulated detection, diagnosis and reporting from a
+prevalent pool of cases. An increase amongst
+unvaccinated individuals could also be an effect
+of an external factor. This factor may be infection
+with the H1N1 influenza virus itself, as indicated in
+a study from China [28]; however, a recent study
+from Finland based on serological data could not
+demonstrate an association with the natural H1N1
+infection [29].
+Importantly, we also observed a two-fold increased
+risk of narcolepsy in young adults (21–30 years of
+age), which is considered to be valid in spite of the
+methodological limitations discussed above. The
+increased risk in adults is consistent with the
+findings from a recent Finnish study in 20- to 64-
+year-old participants [9] and a French study in
+individuals aged 20 years and older [8]; however,
+neither of these two studies presented results in
+narrower age groups. Although we showed an
+association in young adults and a declining risk
+with age (Fig. 2), it is neither possible (due to
+random variation) nor biologically relevant to
+define more precisely an upper age limit for the
+elevated risk.
+Our findings raise questions regarding the mechanisms by which Pandemrix could exert differential
+effects according to age. Even if the peak incidence
+for naturally occurring narcolepsy is much in line
+with the findings in the present study, that is,
+<30 years of age [27], this does not rule out the
+possibility of a causal relationship in older individuals.
+There are several strengths of this study: (i) the
+large study population (yielding about 6.9 and 6.0
+million person-years of observation in the vaccinated and unvaccinated cohorts, respectively)
+allowing for subgroup analyses, (ii) the population-based approach, (iii) the high completeness of
+vaccination registration, (iv) the complete record
+linkage follow-up of selected health outcomes in
+national registries (independent of vaccination
+exposure) for more than 2 years, (v) and the
+availability of data on comorbidity and drug prescription registry data for definitions of incident
+outcomes and covariates.
+However, a number of limitations should also be
+considered. Data from primary care were not
+available. The opportunity for identifying an outcome might be greater for individuals with medical
+risk factors, that is, those who were considered to
+warrant early vaccination and who were mainly
+cared for in a hospital setting, than for those
+vaccinated in the late phase and who received
+mainly primary care. Because of multiple analyses
+for over 50 outcomes, a number of false-positive
+risk estimates would be expected by chance.
+There are also important limitations specifically
+regarding narcolepsy. First, ascertainment of narcolepsy cases was based on registered diagnoses;
+there was no opportunity in this study to validate
+these diagnoses. However, in the previous registry
+study [3], cases of narcolepsy from the National
+Patient Register were validated against case data
+from medical records examined by experts in a
+case inventory study [4]. Thus, amongst 44 cases
+subject to detailed scrutiny, the diagnosis was fully
+verified in 89%. Further, in the case inventory
+study [4], it was shown that the same diagnostic
+procedure, the multiple sleep latency test (MSLT),
+had been used for all included cases (n = 81).
+Thus, neurologists consistently apply an objective
+method such as MSLT for the diagnosis of narcolepsy in patients in Sweden. These observations
+indirectly support the validity of our registry diagnoses in the National Patient Register.
+I. Persson et al. Safety of Pandemrix vaccination
+186 ª 2013 The Association for the Publication of the Journal of Internal Medicine
+Journal of Internal Medicine, 2014, 275; 172–190
+Secondly, we had no information on the date of
+onset of first symptoms of narcolepsy. Therefore,
+there is a possibility of inclusion of prevalent cases
+as well as of bias as a result of accelerated
+diagnosis in vaccine-exposed individuals, especially amongst adults. Our findings of an association also in young adults are, however, supported
+by the following observations: (i) a clear relationship with successively decreasing risk with
+increasing age at vaccination was present (Fig. 2),
+(ii) there was no indication of stimulated reporting
+in adults aged 20 years and older (in the unvaccinated subjects) (Fig. 3), thus challenging the possibility of bias due to stimulated reporting, and (iii)
+when comparing the results (crude incidence rates)
+for the early (2009–2010) and late (2011) observation periods, the risk relationship was observed
+also in the latter period for the age groups up to
+21–30 years (Fig. 3). The problem of prevalent
+disease bias would be expected to decrease as
+observation time is extended; our finding would
+thus support a real risk increase in this age group.
+Furthermore, it is not plausible that a biological
+effect would cease abruptly at the age of 20 years.
+In the Swedish data, there was no clustering at the
+lower boundary of the young adult age group, that
+is, 12 cases were 21–25 years old and 11 cases
+were 26–30 years of age.
+Finally, we had no information on influenza infections and other potential immunological triggers
+for individual study participants. Thus, there was
+no opportunity to determine whether other factors
+had acted in concert with the vaccination to affect
+the risk of narcolepsy.
+Conclusions
+In this large cohort study, we found no convincing
+evidence of a risk increase for selected neurological
+or immune-related diseases, except narcolepsy, in
+Pandemrix-vaccinated compared with unvaccinated individuals. We confirmed an increased risk
+of diagnosed narcolepsy in individuals ≤20 years of
+age vaccinated with Pandemrix and found a successively decreasing risk with age at vaccination,
+as well as an indication of an increase in risk also
+in young adults (aged 21–30 years).
+We recognize that no epidemiological study, not
+even a study of this size, may entirely rule out
+small excess risks at the population level. Nor may
+such a study establish a cause–effect relationship
+in an individual patient. Nevertheless, the results
+of this study should have implications not only for
+future narcolepsy research but also for the development of new influenza vaccines.
+Conflict of interest statement
+IP and NF are employed by the MPA. None of the
+other authors has any conflict of interests to
+declare, including no relationships in the previous
+3 years with companies that might have an interest
+in the submitted work.
+Acknowledgements
+The study was funded solely by the MPA. The MPA
+supervised the work and approved the views and
+conclusions presented in the manuscript. We
+thank the study coordinator at the MPA, Maria
+Szirmai, MSc Pharm, and the medical officers at
+the Departments for Prevention of Communicable
+Diseases in the seven participating healthcare
+regions/county councils: regions of Skane and
+Vastra G € otaland, Simon Werner and Per Follin, €
+respectively, and counties of Kalmar, Osterg € otland, €
+Stockholm Varmland and Norrbotten, Claes €
+Soderstr € om, Britt € Akerlind, Ake Ortqvist, Olle Wiik €
+and Anders Osterlund, respectively. €
+References
+1 Mereckiene J, Cotter S, Weber J et al. Influenza A(H1N1)
+pdm09 vaccination policies and coverage in Europe. Euro
+Surveill 2012; pii: 20064.
+2 Smittskyddsinstitutet, Sweden. EPI-aktuellt, vol 9, nr 37,
+Vaccination mot den nya influensan, http://www.smittskyddsinstitutet.se/presstjanst/smis-nyhetsbrev/epi-aktuellt/epi-aktuellt-2010/epi-aktuellt-vol-9-nr-37-16-september2010-/#p18270. Accessed September 16, 2010.
+3 Medical Products Agency, Sweden. A registry based comparative cohort study in four Swedish counties of the risk for
+narcolepsy after vaccination with Pandemrix - A first and
+preliminary report, by the Medical Products Agency. March 29,
+2011. http://www.lakemedelsverket.se/english/All-news/NYHETER-2011/A-Swedish-registry-based-cohort-study-provides-strengthened-evidence-of-an-association-between-vaccination-with-Pandemrix-and-narcolepsy-in-children-and-adolescents-/. Accessed March 2011.
+4 Medical Products Agency, Sweden. Occurrence of narcolepsy
+with cataplexyamong childrenandadolescents inrelation to the
+H1N1 pandemic and Pandemrix vaccinations - Results of a case
+inventory study by theMPA in Sweden during 2009–2010. June
+30, 2011. http://www.lakemedelsverket.se/Alla-nyheter/NYHETER-2011/Rapport-fran-fallinventeringsstudie-om-Pandemrix-och-narkolepsi/. Accessed June 2011.
+5 Nohynek H, Jokinen J, Partinen M et al. AS03 Adjuvanted
+AH1N1 Vaccine associated with an abrupt increase in the
+I. Persson et al. Safety of Pandemrix vaccination
+ª 2013 The Association for the Publication of the Journal of Internal Medicine 187
+Journal of Internal Medicine, 2014, 275; 172–190
+incidence of childhood narcolepsy in Finland. PLoS ONE
+2012; 7: e33536–723.
+6 Department of Health, Ireland. Investigation of an increase in
+the incidence of narcolepsy in children and adolescents in 2009
+and 2010. Final report of the Narcolepsy Study Steering
+Committee. April 19, 2012. http://www.dohc.ie/publications/Nat_Narcolespy_Study_SC_Report.html. Accessed April
+2012.
+7 Miller E, Andrews N, Stellitano L et al. Risk of narcolepsy in
+children and young people receiving ASO3 adjuvanted pandemic A/H1N1 2009 influenza vaccine: retrospective analysis. BMJ 346:f794. doi:10.1136/bmj.f794 http://www.bmj.
+com/content/346/bmj.f794#alternate. Accessed February
+2013
+8 Centre hospitalier et Universitaire de Bordeaux, INSERM,
+Universite Bordeaux Segalen, France. NarcoFlu-FV Study:
+Influenza, Influenza vaccination and Narcolepsy: French
+contribution to the European Case Control Study. August 6,
+2012. Etude NarcoFlu-VF (NarcoFlu VAESCO-France):
+Grippe, vaccination antigrippale et narcolepsie : contribution
+francaise a l’  etude cas-t  emoins europ  eenne. Ao  ut 2012. (20/ ^
+09/2012) (1854 ko)
+9 National Institute for health and welfare, Finland. Nohynek H
+et al. Increased risk of narcolepsy observed also among
+adults vaccinated with Pandemrix in Finland. May 23,
+2103. http://www.thl.fi/en_US/web/en/pressrelease?id=
+33516. Accessed May 2013.
+10 Schwarz TF, Horacek T, Knuf M et al. Single dose vaccination
+with AS03-adjuvanted H5N1 vaccines in a randomized trial
+induces strong and broad immune responsiveness to booster
+vaccination in adults. Vaccine 2009; 27: 6284–90.
+11 Kuroda Y, Nactionales DC, Akaogi J, Reeves WH, Satoh M.
+Autoimmunity induced by adjuvant hydrocarbon oil components of vaccine. Biomed Pharmacother 2004; 58: 325–37.
+12 Hurwitz ES, Schonberger LB, Nelson DB, Holman RC. Guillain-Barre syndrome and the 1978-1979 influenza vaccine.  N
+Engl J Med 1981; 304: 1557–61.
+13 Lasky T, Terracciano GJ, Magder L et al. The Guillain-Barre
+syndrome and the 1992–1993 and 1993-–1994 influenza
+vaccines. N Engl J Med 1998; 339: 1797–802.
+14 Safranek TJ, Lawrence DN, Kurland LT et al. Reassessment
+of the association between Guillain-Barre syndrome and
+receipt of swine influenza vaccine in 1976–1977: results of a
+two-state study. Expert Neurology Group. Am J Epidemiol
+1991; 133: 940–51.
+15 Zhou W, Pool V, DeStefano F, Iskander JK, Haber P, Chen RT.
+A potential signal of Bell’s palsy after parenteral inactivated
+influenza vaccines: reports to the Vaccine Adverse Event
+Reporting System (VAERS)-United States, 1991-2001. Pharmacoepidemiol Drug Saf 2004; 13: 505–10.
+16 Stowe J, Andrews N, Wise L, Miller E. Bell′s palsy and
+parenteral inactivated influenza vaccine. Hum Vaccine 2006;
+2: 110–12.
+17 De Wals P, Deceuninck G, Toth E et al. Risk of Guillain-Barre
+syndrome following H1N1 influenza vaccination in Quebec.
+JAMA 2012; 308: 175–81.
+18 Andrews N, Stowe J, Salman R, Miller E. Guillain-Barre
+syndrome and H1N1 (2009) pandemic influenza vaccination
+using an ASO3 adjuvanted vaccine in the United Kingdom:
+self-controlled case series. Vaccine 2011; 29: 7878–82.
+19 Dieleman JP, Romio S, de Vries CS et al.. Guillain-Barre
+syndrome and adjuvanted pandemic influenza A (H1N1)
+vaccine: multi-national case-control study in Europe. BMJ
+2011; 343: d3908. doi:10.1136/bmj.d3908.
+20 Stowe J, Andrews N, Bryan P, Seabroke S, Miller E. Risk of
+convulsions in children after monovalent H1N1 (2009) and
+trivalent influenza vaccines: a database study. Vaccine 2011;
+29: 9467–72.
+21 Arnheim-Dahlstrom L, H € allgren J, Weibull C, Spar € en P. Risk
+of presentation to hospital with epileptic seizures after
+vaccination with monovalent AS03 adjuvanted pandemic A/
+H1N1 2009 influenza vaccine (Pandemrix):self-controlled
+case series study. BMJ 2012; 345: e7594. doi: 10.1136/
+bmj.e7594: 1-9.
+22 Bardage C, Persson I, Ortqvist € A, Bergman U, Ludvigsson J,
+Granath F. Neurological and autoimmune disorders after
+vaccine against pandemic influenza A(H1N1) with a monovalent adjuvanted vaccine: population based cohort study in
+Stockholm, Sweden. BMJ 2011; 33: d5956. doi: 10.1136/
+bmj.d5956:1-14.
+23 The European Medicines Agency (EMEA), The European Centre
+for Disease Prevention and Control (ECDC) and The Heads of
+Medicines Agencies (HMA): European Strategy for Influenza A/
+H1N1 Vaccine Benefit-Risk Monitoring, October 2009. www.
+ema.europa.eu/docs/en_GB/document_library/Report/2010/
+01/WC500044933.pdf. Accessed October 2009.
+24 Rahier JF, Papay P, Salleron J et al. H1N1 vaccines in a large
+observational cohort of patients with inflammatory bowel
+disease treated with immunomodulators and biological therapy. Gut 2011; 60: 456–62.
+25 SWEDIABKIDS. Annual Report: p 38. National Diabetes
+Registry. https://www.ndr.nu/ndr2/. Accessed July 2012.
+26 Kornum B, Juliette Faraco J, Mignot E. Narcolepsy with
+hypocretin/orexin deficiency, infections and autoimmunity of
+the brain. Curr Opin Neurobiol 2011; 21: 897–903.
+27 European Centre for Disease Prevention and Control,
+Stockholm. Narcolepsy in association with pandemic
+influenza vaccination (a multi-country European epidemiological investigation). http://ecdc.europa.eu/en/publications/
+Publications/Forms/ECDC_DispForm.aspx?ID=959. Accessed
+September 20, 2012.
+28 Han F, Lin L, Warby S et al. Narcolepsy onset is seasonal and
+increased following the 2009 H1N1 pandemic in China. Ann
+Neurol 2011; 70: 410–17.
+29 Melen K, Partinen M, Tynell J  et al. No serological evidence of
+Influenza A H1N1pdm09 virus infection as a contributing
+factor in childhood narcolepsy after pandemrix vaccination
+campaign in Finland. Plos One 2013; 8: e68402.
+Correspondence: Ingemar Persson, Medical Products Agency, PO
+Box 26, SE-751 03 Uppsala, Sweden.
+(fax: 46 18 54 85 66; e-mail: ingemar.persson@mpa.se).
+I. Persson et al. Safety of Pandemrix vaccination
+188 ª 2013 The Association for the Publication of the Journal of Internal Medicine
+Journal of Internal Medicine, 2014, 275; 172–190
+Figure A1. Mortality (adjusted hazard ratios and 95% confidence intervals) in age groups and by quartiles of
+the vaccination time-point (Q1–Q4) during the study period.
+Table A1 Overall hazard ratios (HRs) and 95% confidence intervals (95% CIs) for all outcomes, showing changes
+in the magnitude of HRs after adjustment for covariates in the basic model (HR2; adjusted for age, gender,
+county, income and education) and in the fully adjusted model (HR4; additionally adjusted for specialist
+healthcare consumption, ICD-10 diagnoses and pregnancy), and further after exclusion of subjects with
+prodromal states before the study period (for outcomes where relevant, see Table 2)
+Disease/ICD-10 code
+No. of
+events
+Basic model
+Fully adjusted
+model
+Prodromal
+exclusion
+HR2 95% CI HR4 95% CI No. of events HR 95% CI
+Vaccination reaction/T88.1 147 7.41 (4.72–11.6) 6.14 (3.96–9.52)
+Urticaria/L50 12 231 1.18 (1.15–1.22) 1.12 (1.09–1.16)
+Allergic reaction/T78 9021 1.11 (1.08–1.15) 1.05 (1.01–1.08)
+Anaphylactic reaction/T78.2 1099 1.13 (1.03–1.25) 1.05 (0.95–1.16)
+Narcolepsy, ≤20 years/G47.4 127 2.87 (1.75–4.69) 2.93 (1.79–4.80) 126 2.92 (1.78–4.79)
+Narcolepsy, >20 years/G47.4 88 1.60 (1.12–2.28) 1.42 (0.99–2.03) 81 1.35 (0.93–1.95)
+GBS/G61 170 1.11 (0.88–1.42) 1.03 (0.81–1.32)
+MS/G35-37 1003 1.08 (0.98–1.19) 1.04 (0.95–1.15)
+Optic neuritis/H46 298 1.01 (0.85–1.21) 0.95 (0.79–1.13)
+ADEM/G04.0 11 2.17 (0.64–7.35) 1.41 (0.35–5.73)
+Bell’s palsy/G51 3151 1.13 (1.07–1.19) 1.07 (1.01–1.13)
+Polyneuropathy/G62 2722 1.23 (1.16–1.31) 1.08 (1.01–1.15)
+Paraesthesia/R20.2 5425 1.15 (1.10–1.20) 1.07 (1.02–1.11)
+An-/hypoaesthesia/R20.0/R20.1 875 1.10 (0.99–1.22) 1.00 (0.90–1.12)
+All ages: Q1
+Age 0–29: Q1
+Q2
+Q3
+Q4
+Q3
+Q4
+Q2
+Age 30–39: Q1
+Q3
+Q4
+Q2
+Age 40–49: Q1
+Q3
+Q4
+Q2
+Age 50–59: Q1
+Q3
+Q4
+Q2
+Age 60–69: Q1
+Q3
+Q4
+Q2
+Age 70–79: Q1
+Q3
+Q4
+Q2
+Age >=80: Q1
+Q3
+Q4
+0.3 0.4 0.5 0.6 0.7 0.8 0.9
+Hazard ratio
+1.0 1.1 1.2 1.3 1.4 1.5 1.6
+Q2
+I. Persson et al. Safety of Pandemrix vaccination
+ª 2013 The Association for the Publication of the Journal of Internal Medicine 189
+Journal of Internal Medicine, 2014, 275; 172–190
+Table A1 (Continued)
+Disease/ICD-10 code
+No. of
+events
+Basic model
+Fully adjusted
+model
+Prodromal
+exclusion
+HR2 95% CI HR4 95% CI No. of events HR 95% CI
+Epilepsy grand mal/G51.0 2805 1.11 (1.05–1.18) 1.06 (1.00–1.13)
+RA/M05-06, M12.3 4418 1.21 (1.15–1.27) 1.12 (1.07–1.18) 2608 1.07 (1.01–1.14)
+Juvenile idiopathic arthritis/M08 720 1.31 (1.13–1.51) 1.18 (1.02–1.37) 422 1.13 (0.92–1.38)
+CD/K50 2045 1.30 (1.22–1.40) 1.20 (1.11–1.29) 1538 1.15 (1.06–1.25)
+Ulcerative colitis/K51 2920 1.25 (1.18–1.33) 1.16 (1.09–1.23) 2177 1.09 (1.02–1.17)
+T1D, <30 years/E10 980 1.21 (1.07–1.38) 1.14 (1.01–1.30) 971 1.13 (1.00–1.29)
+REACTIVE IDIOPAT
+INFLAM ART/M02-03, M13
+6599 1.20 (1.15–1.25) 1.12 (1.07–1.17)
+Arthralgia, unspecified/M25.5 21 781 1.17 (1.15–1.20) 1.09 (1.07–1.12)
+INFL SYST DIS/M32-35, M35.1 1342 1.27 (1.16–1.38) 1.13 (1.04–1.24) 383 1.00 (0.85–1.17)
+Sjogren’s syndrome/M35.0 1070 1.37 (1.24 € –1.52) 1.21 (1.09–1.34) 269 1.00 (0.83–1.21)
+SLE/M32 413 1.09 (0.94–1.27) 0.95 (0.81–1.11)
+Scleroderma/M34 146 0.91 (0.71–1.17) 0.84 (0.65–1.08)
+Polydermatomyositis/M33 142 1.34 (1.01–1.77) 1.21 (0.91–1.61)
+Cutaneous vasculitis
+UNS/L95.8 L95.9
+376 1.14 (0.96–1.34) 1.01 (0.86–1.20)
+Purpura, thrombocytopenia/D69 3515 1.22 (1.16–1.30) 1.07 (1.01–1.14)
+ITP/D69.3 491 1.27 (1.09–1.47) 1.15 (0.99–1.34)
+Agranulocytosis/D70 2387 1.32 (1.24–1.42) 1.15 (1.08–1.24)
+Haemolytic anaemia/D590-D593 240 1.21 (0.98–1.50) 1.06 (0.85–1.31)
+Hypothyroidism/E03 17 470 1.18 (1.15–1.21) 1.08 (1.06–1.11) 4224 1.09 (1.03–1.14)
+Hyperthyroidism/E05 4006 1.08 (1.03–1.14) 1.02 (0.97–1.07)
+Thyroiditis/E06 1716 1.20 (1.11–1.30) 1.07 (0.99–1.17)
+Addison’s disease/E27.1, E27.2 141 1.10 (0.84–1.43) 1.01 (0.77–1.32)
+Myasthenia gravis/G70 225 1.30 (1.04–1.61) 1.20 (0.96–1.49)
+Erythema multiforme/L51 485 1.26 (1.07–1.48) 1.20 (1.03–1.41)
+Exfoliative dermatitis/L26 26 1.03 (0.57–1.85) 0.88 (0.48–1.60)
+Erythema nodosum/L52 286 0.98 (0.81–1.18) 0.93 (0.77–1.12)
+Asthma/J45-J46 30 356 1.51 (1.48–1.54) 1.44 (1.41–1.47) 9129 1.08 (1.04–1.12)
+Note
+.
+GBS, Guillain–Barre syndrome; MS, multiple sclerosis; ADEM, acute disseminating encephalomyelitis; RA,
+rheumatoid arthritis; CD, Crohn’s disease; T1D, type 1 diabetes mellitus; IDIOPAT INFL ART, idiopathic
+inflammatory arthritis; INFL SYST DIS, inflammatory systemic disease; SLE, systemic lupus erythematosus; ITP, idiopathic thrombocytopenic purpura.
+190 ª 2013 The Association for the Publication of the Journal of Internal Medicine
+Journal of Internal Medicine, 2014, 275; 172–190
+I. Persson et al. Safety of Pandemrix vaccination

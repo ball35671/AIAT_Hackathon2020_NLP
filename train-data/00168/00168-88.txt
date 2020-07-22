@@ -1,0 +1,424 @@
+ORIGINAL CONTRIBUTION
+Anthrax Vaccination and Risk of Optic Neuritis
+in the United States Military, 1998-2003
+Daniel C. Payne, PhD, MSPH; Charles E. Rose, Jr, PhD; John Kerrison, MD; Aaron Aranas, MPH, MBA;
+Susan Duderstadt, MD, MPH; Michael M. McNeil, MD, MPH
+Background: Numerous case reports have suggested a
+possible association between optic neuritis and receipt
+of several different vaccines. The most frequently identified vaccines associated with optic neuritis in the literature are influenza and hepatitis B, and a report describing 2 US military cases suggests an association
+with the currently used anthrax vaccine (anthrax vaccine adsorbed).
+Objective: To test the hypothesis that optic neuritis may
+be associated with anthrax, smallpox, hepatitis B, and influenza vaccines.
+Design: We conducted a matched case-control study
+among US military personnel from January 1, 1998,
+through December 31, 2003, using the Defense Medical
+Surveillance System. Statistical associations between vaccine exposures and optic neuritis within 6-, 12-, and 18-
+week study intervals were estimated through multivariable conditional logistic regression analyses.
+Subjects: A total of 1131 cases of optic neuritis and 3393
+controls were matched by sex, military component, and
+deployment status.
+Results: No statistically significant associations between optic neuritis and anthrax vaccine were observed
+for any of the 3 study intervals: 6-week interval (odds
+ratio [OR], 1.18; 95% confidence interval [CI], 0.74-
+1.87), 12-week interval (OR, 0.92; 95% CI, 0.63-0.35),
+and 18-week interval (OR, 0.81; 95% CI, 0.58-1.14). Furthermore, no difference in optic neuritis risk was detected when comparing those who received no dose, 1
+dose, and 2 doses of anthrax vaccine. Similarly, no statistically significant associations were observed between optic neuritis and smallpox, hepatitis B, or influenza vaccines within any of the study intervals. No vaccine
+to vaccine interactions were statistically significant.
+Conclusions: The results from this vaccine postmarketing surveillance investigation suggest that there is no association between optic neuritis and receipt of anthrax,
+smallpox, hepatitis B, or influenza vaccinations in the US
+military, whether these vaccines are administered alone
+or in combination. The negative findings presented here
+are important to the continuing discussions regarding the
+safety of these vaccines.
+Arch Neurol. 2006;63:871-875
+F OR MORE THAN A QUARTER
+century, published case
+reports have suggested an
+association between optic
+neuritis and certain immunizations, often based on a temporal
+proximity between vaccine exposure and
+disease onset. While these reports suggest the hypothesis that a possible association exists between the administration
+of certain vaccines and optic neuritis,
+conclusive epidemiologic evidence from
+population-based studies is lacking and
+only 1 such study has been published to
+date.1 Complicating these findings are
+the rarity of this health condition and the
+scarcity of databases that hold the necessary information for analyzing this topic
+with accuracy and statistical power.
+Optic neuritis is an acute, typically idiopathic inflammation of the optic nerve.
+It is clinically characterized by vision loss
+and pain and is often the sentinel event in
+multiple sclerosis (MS). Approximately
+one quarter to one third of persons with
+idiopathic optic neuritis develop MS within
+10 years (range, 24%-39%).2-4 In both MSassociated and isolated monosymptomatic optic neuritis, the cause is presumed
+to be an autoimmune reaction resulting in
+a demyelinating inflammation of the optic nerve.5
+Various genetic and environmental
+factors are suspected to predispose individuals to develop optic neuritis and an assortment of infections, stressors, and exogenous antigens, including vaccinations,
+have been proposed as possible triggers.6
+The most frequently identified vaccines
+associated with optic neuritis in case reports are influenza and hepatitis B7-13; however, there is 1 report suggesting an assoAuthor Affiliations: Bacterial
+Vaccine–Preventable Disease
+Branch, Epidemiology and
+Surveillance Division, National
+Immunization Program,
+Centers for Disease Control and
+Prevention, Atlanta, Ga
+(Drs Payne, Rose, Aranas,
+Duderstadt, and McNeil); Johns
+Hopkins University Hospital,
+Wilmer Eye Institute,
+Baltimore, Md, and Retina
+Consultants of Charleston,
+Charleston, SC (Dr Kerrison);
+Oak Ridge Institute for Science
+and Education, Oak Ridge,
+Tenn (Dr Duderstadt).
+(REPRINTED) ARCH NEUROL / VOL 63, JUNE 2006 WWW.ARCHNEUROL.COM
+871
+©2006 American Medical Association. All rights reserved.
+Downloaded From: https://jamanetwork.com/ on 10/15/2019
+ciation with the currently used anthrax vaccine, anthrax
+vaccine adsorbed.14
+To investigate whether a possible association exists
+between receipt of anthrax vaccine and optic neuritis
+among US military personnel, we conducted a matched
+case-control study using a longitudinal surveillance database, the Defense Medical Surveillance System (DMSS).
+METHODS
+DEFENSE MEDICAL SURVEILLANCE SYSTEM
+The DMSS is an active surveillance system administered by the
+Department of Defense to integrate data from medical treatment facilities, vaccination centers, and military personnel offices worldwide. Inpatient and outpatient diagnosis data are
+coded using the International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) and medical encounter data are most comprehensive for active-duty personnel.
+STUDY DESIGN
+A matched case-control study design was used with each optic
+neuritis case matched to 3 controls based on sex, deployment
+during the 18 weeks preceding the diagnosis date, and the military component in which the individual served (eg, active or
+reserve/National Guard). The protocol for this vaccine postmarketing surveillance investigation was approved by the Centers for Disease Control and Prevention (CDC) Institutional
+Review Board and reviewed by the Food and Drug Administration and Department of Defense.
+DEFINITION AND ASCERTAINMENT OF CASES
+AND SELECTION OF CONTROLS
+We defined optic neuritis cases as those having a first-time diagnosis of the following ICD-9-CM codes: optic neuritis, unspecified (377.30); optic papillitis (377.31); retrobulbar neuritis, acute (377.32); and optic neuritis, other (377.39) during
+the period between January 1, 1998, and December 31, 2003.
+We excluded all persons with any of the ICD-9-CM codes representing optic neuropathies related to nutrition, toxicity, meningococcal meningitis, and syphilis (ICD-9-CM codes 377.33,
+377.34, 036.81, and 094.85, respectively). From these resultant 1799 cases, 604 were excluded for having diagnoses of ischemic and compressive optic neuropathies within 1 year prior
+to their first diagnosis of optic neuritis, or for having an injury
+to the eye or orbital region within 18 weeks of optic neuritis.
+A further 64 were excluded because they had not completed at
+least 18 weeks of military service before the diagnosis. Thus,
+we considered 1131 persons matched to 3393 controls (n=4524)
+as optic neuritis cases.
+Defense Medical Surveillance System diagnostic histories and
+administrative data for all the remaining cases were reviewed
+by a neuro-ophthalmologist. Cases within a predefined category of unclassifiable diagnostic certainty (defined as those
+diagnosed with optic neuritis but having another concurrent
+optic condition [eg, glaucoma, retinal scar], having numerous
+MS, migraine, and psychiatric diagnoses, or having a prior record of sarcoidosis or alcohol dependence) were analyzed in the
+full sample and were also restricted in a separate analysis.
+In addition to meeting the 3 matching criteria, controls were
+selected if their DMSS diagnostic records indicated no history
+of an optic neuropathy, if they served in the military on the same
+date of diagnosis as their matched case, and if they had at least
+18 weeks of military service preceding this index date.
+DEFINITION OF VACCINE EXPOSURE
+We ascertained the date of each case’s first diagnosis of optic
+neuritis and determined all vaccinations received during each
+of the following 3 prior study intervals from the electronic record; 6 weeks (42 days), 12 weeks (84 days), and 18 weeks (126
+days). For each of the 3 matched controls, we determined all
+vaccinations during the 3 intervals predating their index date.
+We focus on reporting statistical test results for the 18-week
+study interval because the onset of a vaccine-mediated optic
+neuritis would typically be expected to occur within this time
+period following vaccination, and of the 3 study intervals, this
+period is composed of the most vaccinations received by the
+study subjects.
+STATISTICAL ANALYSIS
+Bivariate analyses using the 2 statistic assessed differences
+between cases and controls. Correlational analyses were performed using the  coefficient to observe the extent to
+which vaccinations were coadministered during the 18-week
+study interval. Univariate models demonstrated the unadjusted measurements of effect for each of the vaccines under
+investigation.
+Conditional logistic regression analyses were conducted to
+estimate odds ratios using the SAS Proc Logistic statistical
+software (SAS Institute Inc, Cary, NC) for this matched casecontrol design. Variables controlled in this analysis included
+race (white, black, other), ethnicity (non-Hispanic, Hispanic),
+age grouping (18-24, 25-34, 35 years), military service
+branch (US Army, Air Force, Marines, Navy), occupational
+category (medical/scientific/research, hazardous/combat,
+administrative/communications), and prior diagnosis of MS.
+Exposure to anthrax, smallpox, hepatitis B, and influenza vaccines were included in a multivariable model with P values
+less than .05 considered statistically significant for each of the
+6-, 12-, and 18-week study intervals. Potential 2-way interactive terms with P values less than .15 were allowed into the
+model.
+Analyses were performed on the sample excluding those cases
+identified as having unclassifiable diagnostic certainty from the
+neuro-ophthalmologic review. Stratified analyses were conducted for study subjects by prior diagnosis of MS, military deployment during the 18-week period preceding optic neuritis
+diagnosis/index date, and military component.
+RESULTS
+The descriptive epidemiology of optic neuritis cases and
+their matched controls is presented in Table 1. Statistically significant differences between cases and controls were found for race, age, service branch, and occupational category.
+Fewer cases than controls (5.7% vs 7.6%, respectively) were given the anthrax vaccine within 18 weeks
+of the diagnosis/index date (P=.02). Of those cases receiving the anthrax vaccine, 41 (64.1%) received 1 dose
+and 23 (35.9%) received 2 or more doses within this study
+interval. Among controls receiving the anthrax vaccine,
+163 (63.4%) received 1 dose and 94 (36.6%) received 2
+or more doses within the 18-week study interval. Correlation tests for the administration of these vaccines
+showed that anthrax and smallpox vaccines were the most
+frequently coadministered vaccines within the 18-week
+study interval (=.31).
+(REPRINTED) ARCH NEUROL / VOL 63, JUNE 2006 WWW.ARCHNEUROL.COM
+872
+©2006 American Medical Association. All rights reserved.
+Downloaded From: https://jamanetwork.com/ on 10/15/2019
+Table 2 presents results from the multivariable conditional logistic regression model, after adjusting for age,
+race, ethnicity, military service branch, occupational category, previous MS diagnosis, and other vaccinations
+(smallpox, hepatitis B, and influenza). A statistically nonsignificant negative association was observed (odds ratio [OR], 0.81; 95% confidence interval [CI], 0.58-
+1.14) between anthrax vaccine administration and optic
+neuritis for the 18-week study interval. In addition, no
+statistically significant associations were observed for anthrax vaccine administered during the 12- and 6-week
+study intervals (OR, 0.92; 95% CI, 0.63-1.35; and OR,
+1.18; 95% CI, 0.74-1.87, respectively); however, there
+were progressively fewer study subjects available for each
+of these comparative analyses. Similarly, no statistically
+significant associations were observed between optic neuritis and prior receipt of smallpox, hepatitis B, or influenza vaccination within any of the 3 study intervals. No
+difference in adjusted risk of optic neuritis was detected
+when comparing those who received no doses of anthrax vaccine with those receiving 1 dose (OR, 0.82; 95%
+CI, 0.55-1.21), and to those receiving 2 or more doses
+during the 18-week study interval (OR, 0.81; 95% CI,
+0.48-1.38). Furthermore, no vaccine to vaccine interactions achieved statistical significance in the final model.
+We conducted a separate analysis excluding those
+cases having unclassifiable diagnostic certainty and
+observed only minor differences between these results
+and the multivariate conditional logistic regression
+results for the full sample presented in Table 2. We also
+conducted separate stratified conditional multivariable
+analyses for only those study subjects who had no prior
+diagnosis of MS, were not deployed within the
+18-month interval, and were in the active component of
+the US military. Again, no significant differences were
+observed between results for these strata and for the full
+sample.
+COMMENT
+This investigation found no evidence that receipt of anthrax vaccine is associated with the onset of optic neuritis in the US military population. In addition, no statistically significant associations were observed between
+optic neuritis and prior receipt of smallpox, hepatitis B,
+and influenza vaccinations within any of the 3 study intervals. Moreover, no statistically significant interactive
+effect on optic neuritis risk was observed, and there were
+no significant differences in the risk for developing optic neuritis when we restricted our analysis to study subjects having high diagnostic certainty, no prior history
+of MS, no deployment in the prior 18-week interval, and
+only active component personnel.
+This vaccine postmarketing surveillance investigation
+of whether anthrax vaccine is possibly associated with optic neuritis in the US military was selected as a priority adverse event topic for study by the CDC’s Vaccine Analytic Unit with input from a workgroup of the National
+Vaccine Advisory Committee.15 With questions concerning the safety of anthrax vaccine raised by the media, by
+some scientists, and by some members of the Armed Forces,
+Table 1. Descriptive Characteristics of Cases and Controls
+Characteristic
+No. (%)
+Cases
+(n = 1131)
+Controls
+(n = 3393)
+Sex*
+Male 784 (69.3) 1041 (30.7)
+Military deployment within the 18-wk
+study interval*
+1094 3282
+None (96.7) (96.7)
+Bosnia 1 (0.1) 3 (0.1)
+Kosovo 6 (0.5) 18 (0.5)
+Operation Enduring Freedom 1 (0.1) 3 (0.1)
+Operation Iraqi Freedom 14 (1.2) 42 (1.2)
+Southwest Asia 4 (0.4) 12 (0.4)
+Other 11 (1.0) 33 (1.0)
+Service component*
+Active 986 (87.2) 2958 (87.2)
+Reserve/National Guard 145 (12.8) 435 (12.8)
+Race
+White (referent) 770 (68.1) 2254 (66.4)
+Black 263 (23.3) 736 (21.7)
+Other 86 (7.6) 338 (10.0)
+Unknown 12 (1.1) 65 (1.9)
+Ethnicity
+Non-Hispanic (referent) 989 (87.4) 2997 (88.3)
+Hispanic 130 (11.5) 331 (9.8)
+Unknown 12 (1.1) 65 (1.9)
+Age, y
+Mean age 32.3 29.9
+18-24 (referent) 281 (24.8) 1228 (36.2)
+25-34 423 (37.4) 1214 (35.8)
+35 427 (37.8) 951 (28.0)
+Military service branch
+Army (referent) 406 (35.9) 1275 (37.6)
+Air Force 364 (32.2) 923 (27.2)
+Marines 83 (7.3) 324 (9.5)
+Navy 278 (24.6) 871 (25.7)
+Occupational group
+Medical/scientific/research (referent) 160 (14.2) 344 (10.1)
+Hazardous/combat 416 (36.8) 1323 (39.0)
+Administration/communications 538 (47.6) 1684 (49.6)
+Unknown 17 (1.5) 42 (1.2)
+*Indicates variables that were matching criteria.
+Table 2. Multivariable Conditional Logistic Regression
+Results Showing Risk for Optic Neuritis by Vaccines
+Received Within the 18-Week Study Interval*
+Vaccine
+No. (%)
+Odds Ratio (95%
+Confidence Interval)
+Cases
+(n = 1131)
+Controls
+(n = 3393)
+Anthrax 64 (5.7) 257 (7.6) 0.81 (0.58-1.14)
+Smallpox 11 (1.0) 48 (1.4) 0.83 (0.37-1.85)
+Hepatitis B 37 (3.3) 118 (3.5) 1.02 (0.68-1.54)
+Influenza 173 (15.3) 510 (15.0) 1.01 (0.79-1.29)
+*Odds ratio estimated from conditional logistic regression stratified by
+matching variables for sex, deployment, and service component and
+adjusted for previous multiple sclerosis diagnosis, race, ethnicity, age,
+military service branch, and occupational group; n = 4524.
+(REPRINTED) ARCH NEUROL / VOL 63, JUNE 2006 WWW.ARCHNEUROL.COM
+873
+©2006 American Medical Association. All rights reserved.
+Downloaded From: https://jamanetwork.com/ on 10/15/2019
+the negative findings presented here are important to this
+vaccine’s continuing safety discussion.16
+One earlier case report by Kerrison et al14 described 2
+US military patients diagnosed with optic neuritis after
+receipt of the anthrax vaccine. These patients developed acute optic neuritis shortly after receiving a second and fourth anthrax vaccination. The authors suggested a possible association between optic neuritis and
+prior receipt of the anthrax vaccine, possibly as a result
+of a potential immune-mediated response to optic nerve
+antigens that was stimulated by the vaccine. However,
+the authors were unable to detect common epitopes shared
+by both the anthrax vaccine and the retina/optic nerve
+in support of this hypothesized pathogenic mechanism.
+The CDC and Food and Drug Administration’s jointly
+administered, passive surveillance system, the Vaccine
+Adverse Event Reporting System, has received 7 reports
+of optic neuritis following receipt of the anthrax vaccine alone (CDC, unpublished data, August 24, 2005).
+In an expanded clinical evaluation, members of the Anthrax Vaccine Expert Committee reviewed all Vaccine Adverse Event Reporting System reports from 1998 through
+2001 considered possibly associated with the receipt of
+the anthrax vaccine.17 Of these reports, only 1 was identified as optic neuritis and was determined by the Anthrax Vaccine Expert Committee to have an “unclassifiable” causal relationship with the anthrax vaccine.
+In an analysis of DMSS diagnostic codes for anthraximmunized and nonimmunized US service personnel from
+1998 through 2000, Lange et al18 reported a statistically
+significant elevated postvaccination adjusted rate ratio
+of 2.74 (95% CI, 1.56-4.80) for the nonspecific 3-digit
+ICD-9-CM code 377 (disorders of optic nerve and visual
+pathways). The authors’ conclusions were limited by this
+broad definition of optic disorders and the lack of any
+diagnostic validation; nonetheless, the optic disorders remained rare with a prevaccination diagnosis rate of 1 of
+100 000 person-years and a postvaccination diagnosis rate
+of 2.9 of 100 000 person-years.
+DeStefano et al1 investigated whether several vaccines
+were associated with MS and optic neuritis using the Vaccine Safety Datalink database. These investigators found
+no statistically significant increased risk associated with
+hepatitis B, tetanus, influenza, measles/mumps/rubella,
+measles, and rubella vaccines. Furthermore, no statistically significant associations were observed between the
+administration of these immunizations during 3 study intervals (1 year, 1-5 years, and 5 years) and the development of MS or optic neuritis. The authors concluded
+that vaccinations do not cause central nervous system demyelination and do not trigger its clinical presentation
+among persons having subclinical disease,1 although other
+researchers contend that insufficient evidence exists from
+which to state this definitively.19
+Particular strengths of this vaccine postmarketing surveillance investigation included the availability of the large
+DMSS database for studying this extremely rare diagnostic endpoint. No previously published epidemiologic study
+is known to have possessed a sufficiently large sample
+size to enable calculation of specific vaccine exposure risks
+within 6-, 12- and 18-week postvaccination intervals. Our
+investigation’s relatively brief exposure intervals tend to
+lessen the opportunity for chance causations to be introduced in the analysis. It is well accepted that the onset of vaccine-mediated optic neuritis would typically occur within several weeks after vaccination. We were also
+able to adjust for any potential effects from other (smallpox, hepatitis B, and influenza) vaccines administered to
+study subjects within the same study intervals as anthrax vaccine. In addition, we assessed individual effects and possible interactions between these vaccines.
+A possible weakness of our study is the omission to conduct a medical record review to confirm the diagnosis of
+optic neuritis. Nevertheless, we consider that the level of
+diagnostic validity was probably high because this specific condition is typically associated with an acute, severe presentation which would likely result in the patient
+being clinically investigated and diagnosed by an ophthalmologist.While medical records were not reviewed as part
+of this study, we retrieved complete DMSS diagnostic
+histories of all cases, which were individually reviewed
+for diagnostic quality by an experienced neuro-ophthalmologist. In addition, when we repeated our analysis
+and excluded those cases suggested by this neuroophthalmic review to be of an unclassifiable diagnostic validity, the results did not change substantively.While some
+nondifferential misclassification of exposures or diagnoses is possible,18 it is unlikely that it would have produced sufficient bias to change our results or conclusions. We could not rule out an infectious cause for a
+minority of cases, particularly those having diagnosed
+chronic sinusitis or unspecified viral infections within 18
+weeks of the optic neuritis diagnosis.
+Compared with controls, subjects were more likely to
+be older than 35 years and less likely to fall within the 18-
+to 25-year-old group. This age imbalance between cases
+and controls is significant in that demyelinating optic neuritis generally has the highest incidence in persons younger
+than 35 years; however, it is not clear whether this age relationship exists with potential vaccine-mediated optic neuritis. We believe that any possible confounding effect of
+age was adequately controlled in the multivariable logistic regression analyses, and using a continuous age variable in the model produced almost identical, statistically
+non-significant results as those reported in Table 2.
+Finally, the lack of any appreciable differences between our multivariate conditional logistic regression results and the results from our separate analyses (which
+excluded those subjects having unclassifiable diagnostic certainty, prior diagnosis of MS, deployments within
+the 18-month study interval, and reserve and National
+Guard personnel) suggest that the full sample results presented in Table 2 sufficiently explain the data. In summary, the results of this vaccine postmarketing surveillance investigation contribute to evidence that there is
+no association between optic neuritis and anthrax, smallpox, hepatitis B, and influenza vaccines, whether administered alone or in combination.
+Accepted for Publication: February 13, 2006.
+Correspondence: Daniel C. Payne, PhD, MSPH, Mailstop E-61, Bacterial Vaccine–Preventable Disease Branch,
+Centers for Disease Control and Prevention, 1600 Clifton
+Rd NE, Atlanta, GA 30333 (dvp6@cdc.gov).
+(REPRINTED) ARCH NEUROL / VOL 63, JUNE 2006 WWW.ARCHNEUROL.COM
+874
+©2006 American Medical Association. All rights reserved.
+Downloaded From: https://jamanetwork.com/ on 10/15/2019
+Author Contributions: Study concept and design: Payne,
+Rose, Kerrison, Aranas, Duderstadt, and McNeil. Acquisition of data: Payne, Rose, and Kerrison. Analysis and interpretation of data: Payne, Rose, Kerrison, Aranas, and
+McNeil. Drafting of the manuscript: Payne. Critical revision of the manuscript for important intellectual content:
+Payne, Rose, Kerrison, Aranas, Duderstadt, and McNeil.
+Statistical analysis: Payne and Rose. Obtained funding:
+Payne and McNeil. Administrative, technical, and material support: Payne, Kerrison, and Aranas. Study supervision: Payne and McNeil.
+Acknowledgment: We thank the following individuals
+for their valuable contributions to this investigation: John
+Moran, MD, MPH, Frank DeStefano, MD, MPH, John Iskander, MD, MPH, Col Mark V. Rubertone, MD, MPH,
+Col John D. Grabenstein, RPh, PhD, Col Renata J. M. Engler, MD, Robert Ball, MD, MPH, Dale R. Burwen, MD,
+MPH, and Emily Jane Woo, MD, MPH. We would like
+to specifically thank our prior and current National Vaccine Advisory Committee work group members Jeffrey
+P. Davis, MD, Mary Beth Koslap-Petraco, MS, CPNP,
+David S. Stephens, MD, and Gary D. Overturf, MD.
+REFERENCES
+1. DeStefano F, Verstraeten T, Jackson LA, et al. Vaccinations and risk of central nervous system demyelinating diseases in adults. Arch Neurol. 2003;60:504-509.
+2. Kahana E, Alter M, Feldman S. Optic neuritis in relation to multiple sclerosis.
+J Neurol. 1976;213:87-95.
+3. Beck RW, Trobe JD, Moke PS, et al. High- and low-risk profiles for the development of multiple sclerosis within 10 years after optic neuritis: experience of the
+optic neuritis treatment trial. Arch Ophthalmol. 2003;121:944-949.
+4. Kinnunen E. The incidence of optic neuritis and its prognosis for multiple sclerosis.
+Acta Neurol Scand. 1983;68:371-377.
+5. Kasper D, Braunwald E, Fauci A, et al. Harrison’s Principles of Internal Medicine.
+eds 16th ed. New York, NY: McGraw-Hill, Inc; 2004.
+6. Tourbah A, Gout O, Liblau R, et al. Encephalitis after hepatitis B vaccination: recurrent disseminated encephalitis or MS? Neurology. 1999;53:396-401.
+7. Albitar S, Bourgeon B, Genin R, et al. Bilateral retrobulbar optic neuritis with hepatitis B vaccination. Nephrol Dial Transplant. 1997;12:2169-2170.
+8. Herroelen L, de Keyser J, Ebinger G. Central-nervous-system demyelination after immunization with recombinant hepatitis B vaccine. Lancet. 1991;338:1174-
+1175.
+9. Bienfang DC, Kantrowitz FG, Noble JL, Raynor AM. Ocular abnormalities after
+influenza immunization [letter]. Arch Ophthalmol. 1977;95:1649.
+10. Perry HD, Mallen FJ, Grodin RW, Cossari AJ. Reversible blindness in optic neuritis associated with influenza vaccination. Ann Ophthalmol. 1979;11:545-550.
+11. Hull TP, Bates JH. Optic neuritis after influenza vaccination. Am J Ophthalmol.
+1997;124:703-704.
+12. Ray CL, Dreizin IJ. Bilateral optic neuropathy associated with influenza vaccination.
+J Neuroophthalmol. 1996;16:182-184.
+13. Kawasaki A, Purvin VA, Tang R. Bilateral anterior ischemic optic neuropathy following influenza vaccination. J Neuroophthalmol. 1998;18:56-59.
+14. Kerrison JB, Lounsbury D, Thirkill CE, et al. Optic neuritis after anthrax vaccination.
+Ophthalmology. 2002;109:99-104.
+15. Payne DC, Franzke LH, Stehr-Green PA, Schwartz B, McNeil MM. Development
+of the vaccine analytic unit’s research agenda for investigating potential adverse
+events associated with anthrax vaccine adsorbed [published online ahead of print
+January 30, 2006]. Pharmacoepidemiol Drug Saf. doi:10.1002/pds.1213. Accessed April 12, 2006.
+16. Gellin BG, Shaffner W. The risk of vaccination: the importance of “negative” studies.
+N Engl J Med. 2001;344:372-373.
+17. Sever JL, Brenner AI, Gale AD, et al. Safety of anthrax vaccine: an expanded review and explanation of adverse events reported to the Vaccine Adverse Event
+Reporting System (VAERS). Pharmacoepidemiol Drug Saf. 2004;13:825-840.
+18. Lange JL, Lesikar SE, Rubertone MV, Brundage JF. Comprehensive systematic
+surveillance for adverse effects of anthrax vaccine adsorbed, US Armed Forces,
+1998-2000. Vaccine. 2003;21:1620-1628.
+19. Hernan MA, Jick SS. Hepatitis B vaccination and multiple sclerosis: the jury is
+still out. Pharmacoepidemiol Drug Saf. 2005 Oct 24; [Epub ahead of print].
+Announcement
+Topic Collections. Archives offers collections of articles
+in specific topic areas to make it easier for physicians to
+find the most recent publications in a field. These are
+available by subspecialty, study type, disease, or problem. In addition, you can sign up to receive a Collection E-Mail Alert when new articles on specific topics
+are published. Go to http://archneur.ama-assn.org
+/collections to see these collections of articles.
+(REPRINTED) ARCH NEUROL / VOL 63, JUNE 2006 WWW.ARCHNEUROL.COM
+875
+©2006 American Medical Association. All rights reserved.
+Downloaded From: https://jamanetwork.com/ on 10/15/2019

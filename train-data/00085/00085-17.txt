@@ -1,0 +1,807 @@
+﻿Efficacy and Tolerability of Gastric-retentive Gabapentin
+for the Treatment of Postherpetic Neuralgia
+Results of a Double-blind, Randomized, Placebo-controlled
+Clinical Trial
+Gordon Irving, MD,* Mark Jensen, PhD,w Marilou Cramer, BS,z Jacqueline Wu, PhD,z
+Yu-Kun Chiang, PhD,y Marvin Tark, MD,J and Mark Wallace, MDz
+Objective: To determine the efficacy and safety of a gastricretentive, extended-release gabapentin (gabapentin ER) taken once
+or twice daily for treatment of postherpetic neuralgia.
+Methods: Using an enrichment design, a randomized, double-blind,
+placebo-controlled study was conducted in 158 patients who had
+experienced pain for at least 3 months after healing of acute herpes
+zoster skin rash and who had a baseline average daily pain (ADP)
+score of Z4 on a 0 to 10 Numerical Rating Scale. Patients received
+gabapentin ER either once daily (1800 mg PM) or twice daily
+(600 mg AM, 1200 mg PM) or placebo for 4 weeks. Efficacy measures
+included changes from baseline to end point in ADP score and
+average daily sleep interference score.
+Results: Mean (SEM) changes for ADP score were  1.93 (0.28),
+ 2.24 (0.29), and  1.29 (0.29) in the gabapentin ER once daily,
+twice daily, and placebo groups, respectively (P= 0.089 and 0.014
+for gabapentin ER once daily and twice daily, respectively, vs.
+placebo), with 25.5%, 28.8%, and 11.8% of patients, respectively,
+reporting Z50% decrease from baseline in ADP score. Mean
+(SEM) changes in sleep interference scores were  1.94 (0.30),
+ 2.28 (0.30), and  1.16 (0.30), respectively (P= 0.048 and 0.006
+for gabapentin ER once daily and twice daily, respectively, vs.
+placebo). Common adverse events in the gabapentin ER once daily,
+twice daily, and placebo groups, respectively, were dizziness (22.2%,
+11.3%, and 9.8%) and somnolence (9.3%, 7.5%, and 7.8%).
+Conclusions: Gabapentin ER administered twice daily is effective
+and safe for the treatment of pain associated with postherpetic
+neuralgia.
+Key Words: gabapentin extended release, postherpetic neuralgia,
+sleep interference
+(Clin J Pain 2009;25:185–192)
+Postherpetic neuralgia (PHN) is a neuropathic pain
+syndrome that follows an acute attack of herpes zoster
+(shingles). Varying definitions of PHN have been proposed,
+but one of the more frequently used is pain persisting or
+recurring for at least 3 months after the healing of zoster
+skin lesions.1 The reported prevalence of PHN among
+herpes zoster patients varies between 10% and 40% and
+increases rapidly with age, with up to 40%, 50%, and 75%
+of herpes zoster patients over 50, 60, and 70 years of age,
+respectively, developing PHN.2–5 Symptoms of PHN
+include constant or burning pain, intermittent sharp,
+shooting pain, allodynia, paresthesia, and hyperesthesia.1,2,6 The pain associated with PHN can be intense and
+unremitting and may profoundly affect a patient’s quality
+of life.3,5,7 In addition to the physical pain, patients with
+PHN also report sleep disturbances, anxiety, mood
+disturbances, loss of appetite, and decreased interest in
+social interactions.3
+As with other forms of neuropathic pain, PHN can be
+refractory to treatment with conventional analgesics. Some
+tricyclic antidepressants have shown efficacy for the
+treatment of PHN, but are associated with significant
+adverse effects, particularly among the elderly.8–10 More
+recently, the antiepileptic drugs, gabapentin and pregabalin, have demonstrated efficacy in controlled clinical trials
+in patients with PHN.11–14 Both gabapentin and pregabalin
+have more favorable side-effect profiles than tricyclic
+antidepressants, but have a relatively high incidence
+of somnolence, dizziness, and peripheral edema.11–15 In
+addition, there is a lack of dose proportionality between
+increasing doses of gabapentin and plasma drug levels
+owing to the drug’s saturable transport mechanism.16
+Lidocaine patches 5% (up to 3 patches for 12 h/d), some
+opioids, and topical capsaicin have also shown efficacy for
+the treatment of PHN.17,18
+The current study examined the use of a gastricretentive, extended-release gabapentin formulation
+(gabapentin ER) for the treatment of PHN. The gabapentin
+ER tablets use polymer-based AcuForm technology, which
+is also used in marketed formulations of metformin
+and ciprofloxacin.19,20 When administered with a meal,
+the gabapentin ER tablet swells and is retained in the
+stomach for up to 8 hours. It releases the drug gradually
+allowing delivery of gabapentin to the optimal site of
+absorption from the small intestines over 10 hours.16,21 This
+slow release of drug may help to overcome the saturable
+Copyright r 2009 by Lippincott Williams & Wilkins transport mechanism of gabapentin and offers the potential
+Received for publication September 25, 2007; revised August 10, 2008;
+accepted August 10, 2008.
+From the *Swedish Pain and Headache Center; wDepartment of
+Rehabilitation Medicine, University of Washington, Seattle, WA;
+zDepomed Inc, Menlo Park; yEssence Sciences, San Jose; zUniversity of California San Diego Medical Center, La Jolla, CA; and
+JDrug Studies America, Marietta, GA.
+Financial support for this study was provided by Depomed Inc, Menlo
+Park, CA.
+Reprints: Gordon Irving, MD, Swedish Pain Center, 1101 Madison
+Tower, Suite 200, Seattle, WA 98104 (e-mail: gordon.irving@
+swedish.org).
+ORIGINAL ARTICLE
+Clin J Pain  Volume 25, Number 3, March–April 2009 185
+for increased bioavailability of the drug while decreasing
+the dose frequency.22
+The objective of this study was to determine whether
+this extended-release formulation was effective for the
+treatment of PHN with fewer daily doses (1 or 2/d) than
+the 3 or more doses per day typically required for optimal
+efficacy with gabapentin, an immediate-release formulation.
+It was hypothesized that giving the once-daily dose in the
+evening and the twice-daily dose asymmetrically (600 mg
+AM and 1200 mg PM) could result in improved quality and
+duration of sleep, while maintaining pain relief during the
+day. It was also hypothesized that this dosing schedule
+could result in a lower incidence of side effects such as
+dizziness and somnolence than usually observed with
+gabapentin, as these events would be more likely to occur
+at night while the patient was asleep.
+MATERIALS AND METHODS
+A randomized, double-blind, placebo-controlled,
+fixed-dose, clinical trial was conducted at 33 centers in the
+United States between April 2005 and November 2005. The
+study protocol was approved by the institutional review
+boards and the study was conducted in accordance with the
+International Conference on Harmonization Guidelines for
+Good Clinical Practice. Each patient provided written
+informed consent before undergoing any study procedures.
+Study Population
+The trial enrolled male and female outpatients, at least
+18 years of age, who had experienced pain for at least 3
+months after the healing of a herpes zoster skin rash, with a
+pain intensity of at least 4 on a 0 to 10 Numerical Rating
+Scale (NRS) at screening. Patients must have had a
+washout period >5 times the half-life of benzodiazepines,
+tricyclic antidepressants, serotonin and norepinephrine
+reuptake inhibitors, norepinephrine and dopamine reuptake inhibitors, muscle relaxants, oral steroids, capsaicin,
+mexiletine, dextromethorphan, or nonsteroidal anti-inflammatory drugs prescribed for PHN and a 14-day washout of
+strong opioids. Anticonvulsants, benzodiazepines, and
+antidepressants were tapered appropriately, using product
+label instructions as a guide. The end of the tapering/
+washout regimen must have included a true washout (drug
+free) period equivalent to 5 half-lives of the drug before
+allowing the patient to start the baseline week. Female
+patients of childbearing potential must have had a negative
+urine pregnancy test at screening and randomization and
+had to use medically acceptable methods of birth control.
+This was an enrichment design as patients were
+excluded from the study if they had previously not
+responded to treatment for PHN with gabapentin at doses
+Z1200 mg/d, had experienced dose-limiting adverse effects
+that prevented titration of gabapentin to an effective dose,
+or were hypersensitive to gabapentin. Immunocompromised patients, patients with hepatic or renal insufficiency,
+significant hematologic disease, severe pain from causes
+other than PHN, gastrointestinal disease or symptoms, or
+clinically significant abnormal laboratory results were also
+excluded.
+Study Design and Methods
+After the appropriate washout of current pain
+medications, patients underwent a 1-week baseline period,
+during which time they recorded the daily pain and sleep
+interference scores. Those patients who reported an
+average daily pain score of Z4 on the NRS during this
+baseline period were randomly assigned in a 1:1:1 ratio to
+treatment with gabapentin ER 1800 mg once daily in the
+evening, gabapentin ER 1800 mg/d administered twice daily
+as an asymmetric divided dose (600 mg AM and 1200 mg
+PM), or placebo according to a computer-generated
+list. Patients randomized to active treatment had a gradual
+titration of gabapentin ER from 300 mg/d to 1800 mg/d
+over 2 weeks and remained at 1800 mg/d for an additional 2
+weeks. The efficacy-dosing period was followed by a 1-week
+dose-tapering period. All patients received an appropriate
+combination of active and placebo tablets to achieve
+the required dosing and maintain the study blind. All
+tablets were taken after a meal. Patients were allowed
+to take acetaminophen (up to a maximum daily dose of
+4000 mg) or acetaminophen with hydrocodone [up
+to a maximum of 8 tablets (500 mg acetaminophen/5 mg
+hydrocodone) per day] if required for pain relief during the
+study.
+Patients were evaluated at screening, at the end of the
+baseline week, at the end of weeks 2 and 4 of treatment, and
+at the end of the study. During the baseline and treatment
+periods, patients recorded their daily pain score and daily
+sleep interference score each morning using an electronic
+diary (DiaryPRO, invivodata, Pittsburgh, PA). Pain and
+sleep interference scores were rated using NRSs, where
+0 = ‘‘no pain’’ and ‘‘pain does not interfere with sleep’’ and
+10 = ‘‘worst possible pain’’ and ‘‘pain completely interferes
+with sleep.’’ Pain and sleep interference scores were
+recorded each morning for the previous 24 hours. Patients
+completed the Short-form McGill Pain Questionnaire (SFMPQ)23 and Neuropathic Pain Scale (NPS)24 on paper
+forms at the study site at baseline and the end of weeks 2
+and 4. The Patient Global Impression of Change (PGIC)
+and the investigator-rated Clinical Global Impression of
+Change (CGIC)25,26 were completed at the study site at the
+end of week 4. Rescue medication use was recorded daily in
+the electronic diary at the same time as the pain and sleep
+interference scores.
+The primary efficacy end point was the mean change in
+the last observation carried forward average daily pain
+score from baseline to week 4 of treatment (efficacy end
+point). Secondary efficacy variables were the percentage
+change in average daily pain score from baseline to end
+point, the proportion of responders (patients with at
+least 50% decrease in pain score), changes from baseline
+to end point in average daily sleep interference score,
+changes from baseline to each week in average daily pain
+and sleep interference scores, SF-MPQ and NPS scores,
+and end of study assessment of CGIC and PGIC. Adverse
+events were recorded throughout the study by direct
+questioning, laboratory tests, and physical examination of
+the patients.
+Statistical Methods
+Efficacy and safety analyses were performed on the
+intent-to-treat (ITT) population, defined as all randomized patients who received study medication. All ITT
+patients with available data were included in the primary
+and secondary efficacy analyses.
+A parallel lines analysis of covariance (ANCOVA)
+model was used for the analysis of the primary efficacy
+measurement. This ANCOVA model included treatment
+Irving et al Clin J Pain  Volume 25, Number 3, March–April 2009
+186 r 2009 Lippincott Williams & Wilkins
+and center factors and baseline average daily pain score as
+the covariate. The least squares estimate of the mean
+change in average daily pain score of each treatment and its
+95% confidence interval was calculated. In addition, a 95%
+confidence interval of the pairwise difference between
+each gabapentin ER treatment versus placebo treatment
+(gabapentin ER treatment minus placebo) for the mean
+change from baseline in average daily pain score was
+calculated.
+An analysis of variance model or ANCOVA model
+was used for the analysis of continuous secondary
+efficacy measurements. The analysis of variance model
+included treatment and center factors. The parallel lines
+ANCOVA model included treatment and center factors and
+baseline measurement as the covariate. An unequal slope
+ANCOVA model included treatment and center factors and
+baseline covariate by treatment interaction factor. The
+treatment-by-center interaction factor was not included
+in all the final models as the P value associated with this
+factor was not significant at the 0.10 level. Patients from
+all study centers were pooled for the analysis of the
+categorical outcome data. For the analysis of the proportion of responders, the Cochran-Mantel-Haentzel test for
+general association was used for the overall comparison.
+For the analysis of ordinal categorical data (CGIC and
+PGIC), a Cochran-Mantel-Haentzel test of general
+association with modified Ridit scores was used for the
+overall comparison among all treatment groups. For
+the analysis of the dichotomous outcome data, a 2-sided
+Fisher exact test was used for the overall comparison
+among all treatment groups. In addition, a 2-sample Z
+test on 2 proportions between each gabapentin ER
+treatment versus placebo treatment was performed. The
+number needed-to-treat (NNT) was based on the proportion of patients achieving at least a 50% reduction in pain
+score.
+Adverse event analyses were performed for the safety
+population, which included all patients who received at
+least 1 dose of study drug. The Fisher exact test was used to
+compare the incidence of adverse events among treatment
+groups.
+A sample size of B156 patients (52 patients per
+treatment group) was determined to ensure at least 138
+patients (46 patients per treatment group) would be
+available with primary efficacy data for analysis. This
+sample size had a 90% power to detect a difference of at
+least 1.5 points in the mean change in average daily pain
+score from baseline week to final week of the efficacy
+treatment period between 2 treatment groups. This
+calculation was based on a 2-sided 2-sample t test with a
+1-to-1 ratio of sample size allocation, a SD of 2 points,
+and a significance level of a = 0.025. Statistical analyses
+were performed using SAS version 8.0 (SAS Institute Inc,
+Cary, NC).
+TABLE 1. Patient Demographics and Baseline Characteristics
+Parameter
+Gabapentin ER Once
+Daily (1800 mg PM)
+(n= 55)
+Gabapentin ER Twice Daily
+(600 mg AM/1200 mg PM)
+(n= 52)
+Placebo
+(n= 51)
+Total
+(n= 158)
+Age (y) [n (%)]
+<65 14 (25.5) 14 (26.9) 18 (35.3) 46 (29.1)
+65 to 74 21 (38.2) 21 (40.4) 13 (25.5) 55 (34.8)
+Z75 20 (36.4) 17 (32.7) 20 (39.2) 57 (36.1)
+Mean (SD) 71 (10.3) 68 (12.9) 69 (11.5) 70 (11.6)
+Sex [n (%)]
+Male 26 (47.3) 23 (44.2) 25 (49.0) 74 (46.8)
+Female 29 (52.7) 29 (55.8) 26 (51.0) 84 (53.2)
+Race [n (%)]
+White 49 (89.1) 42 (80.8) 45 (88.2) 136 (86.1)
+Black 4 (7.3) 3 (5.8) 1 (2.0) 8 (5.1)
+Asian 0 (0) 1 (1.9) 1 (2.0) 2 (1.3)
+Hispanic 2 (3.6) 6 (11.5) 4 (7.8) 12 (7.6)
+Weight (kg)
+Mean (SD) 78.2 (19.4) 76.9 (14.3) 80.3 (18.6) 78.4 (17.5)
+Baseline average daily pain score [n (%)]*
+<8 44 (80.0) 46 (88.5) 41 (80.4) 131 (82.9)
+Z8 11 (20.0) 6 (11.5) 10 (19.6) 27 (17.1)
+Mean (SD) 6.56 (1.43) 6.32 (1.27) 6.59 (1.58) 6.49 (1.43)
+Location of neuropathic pain [n (%)]
+Face 8 (14.5) 12 (23.1) 7 (13.7) 27 (17.1)
+Torso 33 (60.0) 24 (46.2) 28 (54.9) 85 (53.8)
+Face and torso 0 (0) 1 (1.9) 0 (0) 1 (0.6)
+Extremities 2 (3.6) 5 (9.6) 2 (3.9) 9 (5.7)
+Torso and extremities 4 (7.3) 3 (5.8) 2 (3.9) 9 (5.7)
+Other 8 (14.5) 7 (13.5) 12 (23.5) 27 (17.1)
+Baseline SF-MPQ visual analog scale
+score
+Mean (SD) 66.9 (15.5) 66.6 (15.1) 66.5 (15.0) 66.7 (15.1)
+There were no significant differences among treatment groups for any demographic or baseline variable (P>0.05 for all).
+*On the basis of a 0 to 10 numerical rating scale where 0 = no pain and 10 = worst possible pain.
+Gabapentin ER indicates extended-release gabapentin; SF-MPQ, Short-form McGill Pain Questionnaire.
+Clin J Pain  Volume 25, Number 3, March–April 2009 Extended-release Gabapentin for PHN
+r 2009 Lippincott Williams & Wilkins 187
+RESULTS
+Characteristics of Study Population
+A total of 192 patients were enrolled and entered the
+baseline period, 34 patients withdrew during the baseline
+period and 158 patients were randomized, received study
+drug, and were included in the ITT population. The more
+common reasons for nonrandomization were baseline
+average daily pain score <4 (16 patients) and withdrawal
+of consent (8 patients). Fifteen patients prematurely
+discontinued study medication during the efficacy treatment
+period; the most common reason for discontinuation was
+adverse events (11 patients: 4 gabapentin ER once daily, 6
+gabapentin ER twice daily, and 1 placebo).
+There were no significant differences among treatment
+groups for any demographic or baseline variables (Table 1).
+The mean age for all randomized patients was 70 years
+(range: 26 to 90 y); approximately 71% of patients were at
+least 65 years of age and 36% were at least 75 years of age.
+Overall, 53% of patients were female and 86% were white.
+The most common location of neuropathic pain at study
+entry was the torso (54%). The mean average daily pain
+score at baseline was 6.5 and a majority of patients (73%)
+did not require any washout of pain medications before
+study entry. The proportion of patients who used allowed
+rescue medications (and average number of tablets used per
+week) was 65.5% (1.7 to 1.9), 51.9% (2.8 to 3.2), and 60.8%
+(2.6 to 2.8) in the gabapentin ER once daily, twice daily,
+and placebo groups, respectively. Overall, more patients
+used acetaminophen (57.6%) than acetaminophen/hydrocodone (16.5%).
+Efficacy Results
+All patients in the ITT population were included in the
+primary and secondary efficacy analyses, regardless of
+whether or not they completed the efficacy treatment
+period. Decreases in average daily pain scores were
+observed in all treatment groups, with a significant
+difference between the gabapentin ER twice daily and
+TABLE 2. Average Daily Pain Score
+Average Daily Pain Score*
+Gabapentin ER Once Daily
+(1800 mg PM) (n= 55)
+Gabapentin ER Twice Daily
+(600 mg AM/1200 mg PM) (n= 52)
+Placebo
+(n= 51)
+P: Gabapentin
+ER vs. Placebo
+Once
+Daily
+Twice
+Daily
+Change from baseline
+LS mean (95% CI)  1.93 (  2.49,  1.37)  2.24 (  2.81,  1.67)  1.29
+( 1.86,  0.71)
+0.089 0.014
+Percentage change from
+baseline
+LS mean (95% CI)  30.1% (  38.9,  21.4)  34.7% (  43.6,  25.8)  18.6%
+( 27.6,  9.6)
+0.052 0.008
+Percentage patients with
+Z50% decrease
+25.5% 28.8% 11.8% 0.072w 0.032w
+Percentage patients with
+Z30% decrease
+43.6% 48.1% 31.4% 0.195w 0.083w
+The LS mean changes from baseline were estimated from an ANOVA model that included treatment and center factors and baseline value as a covariate.
+P values are based on the t test of type III analysis from the ANOVA model.
+*On the basis of a 0 to 10 Numerical Rating Scale where 0= no pain and 10 = worst possible pain.
+wP values are based on Z test for the differences in proportions between groups.
+ANOVA indicates analysis of variance; CI, confidence interval; gabapentin ER, extended-release gabapentin; LS, least square.
+-3.5
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+01234
+Treatment Week
+Change from Baseline in Average
+Daily Pain Score
+Gabapentin ER once-daily
+Gabapentin ER twice-daily
+Placebo
+*
+*
+*
+* ***
+-3.5
+-3
+-2.5
+-2
+-1.5
+-1
+-0.5
+0
+01234
+Treatment Week
+Change from Baseline in Average
+Daily Sleep Interference Score
+Gabapentin ER once-daily
+Gabapentin ER twice-daily
+Placebo
+*
+*
+**
+**
+**
+*
+**
+FIGURE 1. Average daily pain score (upper panel) and average
+daily sleep interference score (lower panel) during treatment with
+gabapentin ER once daily, gabapentin ER twice daily, or placebo.
+Pain and sleep interference scores were based on a 0 to 10
+Numerical Rating Scale, where 0 = no pain/sleep interference and
+10 = worst possible pain/sleep interference. Significant difference
+between gabapentin ER and placebo for mean change from
+baseline: *P<0.050, **P<0.01, and ***P<0.001.
+Irving et al Clin J Pain  Volume 25, Number 3, March–April 2009
+188 r 2009 Lippincott Williams & Wilkins
+placebo groups for mean change from baseline to end point
+(P = 0.014), but not for gabapentin ER once daily versus
+placebo (P = 0.089) (Table 2). Improvements in pain score
+were observed as early as week 1 and continued throughout
+the treatment period, with statistically significant differences between the gabapentin ER twice-daily group and the
+placebo group at all time points (Fig. 1). The mean
+percentage change in average daily pain score from baseline
+to end point was also significantly greater in the gabapentin
+ER twice-daily group than in the placebo group
+(P = 0.008), but not for gabapentin ER once daily versus
+placebo (P= 0.052). More patients in the gabapentin ER
+groups had at least a 30% or at least a 50% decrease in pain
+score than in the placebo group (Table 2). The NNT was
+7.30 and 5.9 for gabapentin ER once daily and twice daily,
+respectively.
+There was a significant difference between both
+gabapentin ER groups and the placebo group for change
+from baseline to end point in average daily sleep
+interference scores (P = 0.048 and 0.006 for once daily
+and twice daily, respectively, vs. placebo). Sleep interference
+scores decreased in both gabapentin ER treatment groups
+as early as week 1, with statistically significant differences
+between the active and placebo groups at most time points
+(Fig. 1).
+Significant differences between gabapentin ER twice
+daily and placebo treatments were also observed for other
+secondary efficacy parameters, including SF-MPQ scores
+for affective pain, total pain, and present pain intensity and
+the averages of all 10 items and all 4 nonallodynia items on
+the NPS (Table 3). For the CGIC, 34.6%, 52.3%, and
+25.0% of patients in the gabapentin ER once daily, twice
+daily, and placebo groups, respectively, were rated as very
+much or much improved (P = 0.319 and 0.007 for once
+daily and twice daily, respectively, vs. placebo). For the
+PGIC, 32.7%, 40.8%, and 20.8% of patients, respectively,
+rated their PHN as very much or much improved
+(P = 0.181 and 0.033 for once daily and twice daily vs.
+placebo) (Fig. 2).
+Tolerability Results
+The most frequent adverse events were nervous system
+disorders (28.5% of all patients) and gastrointestinal
+disorders (24.1%). There were no statistically significant
+differences among treatment groups for the incidence of any
+type of adverse event, including somnolence and dizziness
+(Table 4). There was no apparent relationship between the
+dose of gabapentin ER administered and the incidence of
+any adverse event. One patient in the gabapentin ER twicedaily group died during the study after a cardiac arrest 13
+days after randomization. This event was considered to be
+unrelated to study drug. An additional 7 patients
+(4 gabapentin ER once daily, 2 gabapentin ER twice daily,
+and 1 placebo) had 1 or more serious adverse events
+(respiratory failure, chest pain, pneumonia, syncope, and
+chronic obstructive pulmonary disease). All events were
+resolved by the end of the study and were considered
+unrelated to study drug. Eleven patients (4 gabapentin ER
+once daily, 6 gabapentin ER twice daily, and 1 placebo) had
+1 or more adverse events leading to discontinuation of
+TABLE 3. Changes From Baseline to End Point in Secondary Efficacy End Points
+Change From Baseline
+Gabapentin ER Once
+Daily (1800 mg PM)
+(n= 55)
+Gabapentin ER Twice
+Daily (600 mg AM/
+1200 mg PM) (n = 52) Placebo (n = 51)
+P: Gabapentin ER
+vs. Placebo
+Once
+Daily
+Twice
+Daily
+Average daily sleep
+interference score*
+ 1.94 (  2.52,  1.36)  2.28 (  2.88,  1.68)  1.16
+(  1.76,  0.56)
+0.048 0.006
+Short-form McGill Pain
+Questionnaire
+Sensory score  5.2 (  7.1,  3.3)  5.9 (  7.8,  3.9)  3.5
+(  5.4,  1.5)
+0.168 0.066
+Affective score  1.9 (  2.6,  1.2)  2.3 (  3.0,  1.6)  0.8
+(  1.6,  0.1)
+0.022 0.003
+Total pain score  7.1 (  9.5,  4.7)  8.2 (  10.7,  5.6)  4.3
+(  6.7,  1.8)
+0.074 0.020
+Pain intensity in
+visual analog scale
+ 21.7 (  28.7,  14.8)  25.5 (  32.8,  18.2)  18.5
+(  25.7,  11.3)
+0.487 0.146
+Present pain intensity  0.9 (  1.2,  0.6)  1.2 (  1.5,  0.9)  0.6
+(  0.9,  0.3)
+0.102 0.003
+Neuropathic Pain Scale
+All of 10 pain itemsw  1.6 (  2.1,  1.1)  2.0 (  2.5,  1.5)  1.2
+(  1.7,  0.6)
+0.236 0.019
+Nonallodynia itemsz  1.6 (  2.2,  1.1)  2.0 (  2.5,  1.5)  1.2
+(  1.7,  0.7)
+0.170 0.023
+Peripheral pain itemsy  1.9 (  2.5,  1.2)  2.1 (  2.7,  1.4)  1.2
+(  1.9,  0.6)
+0.127 0.047
+All data are LS mean (95% CI). The LS mean changes from baseline were estimated from an ANOVA model that included treatment and center factors and
+baseline value as a covariate. P values are based on the t test of type III analysis from the ANOVA model.
+*On the basis of a 0 to 10 numerical rating scale where 0 = no sleep interference and 10= worst possible sleep interference.
+wIntense, sharp, hot, dull, cold, sensitive, itchy, unpleasant, intensity of deep pain, and intensity of surface pain.
+zIntense, sharp, hot, dull, cold, itchy, unpleasant, and intensity of deep pain.
+ySharp, hot, dull, and intensity of deep pain.
+ANOVA indicates analysis of variance; CI, confidence interval; gabapentin ER, extended-release gabapentin; LS, least square.
+Clin J Pain  Volume 25, Number 3, March–April 2009 Extended-release Gabapentin for PHN
+r 2009 Lippincott Williams & Wilkins 189
+study drug; the events, including dizziness (6 patients),
+nausea (3 patients), chest pain (2 patients), and lethargy
+(2 patients), were considered possibly or probably related
+to study drug for 8 patients.
+DISCUSSION
+The results of this randomized, placebo-controlled
+trial demonstrate that gabapentin ER 1800 mg/d, given as a
+twice-daily asymmetric divided dose, was significantly more
+effective than placebo in treating pain associated with PHN.
+There was also a trend toward a greater decrease in pain
+score with gabapentin ER 1800 mg once daily compared
+with placebo. For the twice-daily gabapentin ER group, the
+mean change (  2.24) and percentage change (  34.7%) in
+average daily pain scores were comparable with those
+observed in gabapentin studies (mean change:  2.1 to
+ 2.2; percentage change:  34.5%) given t.i.d. at doses of
+1800 to 3600 mg/d.11,12 However, there was a relatively high
+placebo effect (  18.6%) in the current study compared
+with other gabapentin PHN studies,11,12 which may have
+been partly owing to the use of opioid rescue medications
+for pain that were not allowed in other studies.
+The proportion of responders (patients with at least a
+50% reduction in pain score) in the gabapentin ER twicedaily group (28.8%) was also similar to that reported in
+studies on gabapentin (32.2%)11 and pregabalin 150 or
+300 mg/d TID (26% and 28%, respectively).14 Likewise,
+the NNT of 5.88 for twice-daily gabapentin ER was similar
+to the NNT of 5.63 for both gabapentin 1800 mg/d and
+pregabalin 300 mg/d.18 A 30% reduction in pain score is
+considered to be clinically significant.26,27 On this basis,
+nearly half of the patients who received gabapentin ER
+twice daily had clinically significant pain relief compared
+with 31% of placebo patients.
+Once-daily dosing of gabapentin ER was less
+effective than twice-daily dosing in providing pain relief
+during the day, although it did provide significant reduction
+in sleep interference scores. Pharmacokinetic studies of
+gabapentin ER at steady state indicate that although the
+total amount of drug absorbed over 24 hours is similar for
+once-daily and twice-daily dosing, the minimum gabapentin
+plasma concentration over a 24-hour period is lower
+with once-daily than twice-daily dosing.22 Additionally,
+with twice-daily dosing, the minimum gabapentin concentration was similar to gabapentin immediate release tablets,
+600 mg administered 3 times/d, whereas the once daily
+dosing of gabapentin ER was somewhat less than
+gabapentin immediate release tablets. Thus, with oncedaily dosing, it is possible that plasma levels may fall below
+the therapeutic range before the end of the 24-hour dosing
+period.
+0
+10
+20
+30
+40
+50
+60
+Gabapentin ER
+once-daily
+Gabapentin ER
+twice-daily
+Placebo
+% Patients
+Very much or much improved
+Minimally improved
+No change
+Minimally worse
+Much worse
+**
+CGIC
+0
+10
+20
+30
+40
+50
+Gabapentin ER
+once-daily
+Gabapentin ER
+twice-daily
+Placebo
+% Patients
+Very much or much improved
+Minimally improved
+No change
+Minimally worse
+Much worse *
+PGIC
+FIGURE 2. Clinical Global Impression of Change (upper panel) and
+Patient Global Impression of Change (lower panel). *Significant
+difference between gabapentin ER twice daily and placebo for the
+proportion of patients rated as very much or much improved;
+P = 0.009.
+TABLE 4. Common Adverse Events
+Gabapentin ER Once Daily
+(1800 mg PM) (n= 55)
+Gabapentin ER Twice Daily
+(600 mg AM/1200 mg PM) (n= 52) Placebo (n= 51)
+Dizziness 12 (22.2%) 6 (11.3%) 5 (9.8%)
+Somnolence 5 (9.3%) 4 (7.5%) 4 (7.8%)
+Nausea 4 (7.4%) 4 (7.5%) 5 (9.8%)
+Dry mouth 4 (7.4%) 4 (7.5%) 2 (3.9%)
+Headache 5 (9.3%) 0 4 (7.8%)
+Fatigue 5 (9.3%) 3 (5.7%) 0
+Gait disturbance 4 (7.4%) 2 (3.8%) 0
+Peripheral edema 4 (7.4%) 1 (1.9%) 0
+Upper respiratory tract infection 0 2 (3.8%) 3 (5.9%)
+Includes events reported for at least 5% of patients in any treatment group.
+There were no significant differences among treatment groups for the incidence of any events (P>0.05).
+Gabapentin ER indicates extended-release gabapentin.
+Irving et al Clin J Pain  Volume 25, Number 3, March–April 2009
+190 r 2009 Lippincott Williams & Wilkins
+The improvements in pain and sleep interference
+scores were supported by improvements in all secondary
+measurements of pain (SF-MPQ, NPS, CGIC, and PGIC),
+which used a variety of pain descriptors. These data showed
+a pattern of improvements similar to that observed for the
+average daily pain score, with significantly greater improvements with gabapentin ER twice daily compared with
+placebo and a trend toward greater improvements for
+gabapentin ER once daily compared with placebo. For
+gabapentin ER twice daily, these results were generally
+similar to those reported for gabapentin. The proportions
+of patients in the gabapentin ER twice-daily group who
+were considered much or very much improved at the end of
+treatment for CGIC and PGIC were 52% and 41%,
+respectively, which compare favorably with reported
+improvements for 44% and 41% of patients, respectively,
+treated with gabapentin.11,12
+Gabapentin ER was generally well tolerated. A
+majority of patients completed study drug dosing for
+the efficacy treatment period and only 11 patients
+discontinued study drug owing to an adverse event (10 in
+the active and 1 in the placebo group). The overall
+incidence and types of adverse events were as expected for
+this patient population and were generally similar for all
+treatment groups.
+This study has several limitations. First, it had a
+relatively short duration of treatment with only 2 weeks at
+full dose. Thus, it is not known whether the beneficial effect
+would have continued or whether any long-term side effects
+from gabapentin ER would have occurred had the study
+been longer. Second, the study lacked an active control
+group. Although the use of a placebo group is important to
+demonstrate efficacy in pain studies, the lack of an active
+control precludes a direct comparison with other pain
+medications. Thus, additional studies will be needed before
+the new formulation can be considered to provide a clinical
+advantage over the current formulations. Third, this was an
+enriched population; however, despite this study enrichment design, the patient population was comparable with
+that of other PHN studies and typical of the general PHN
+population in nonenriched studies in terms of patient age
+and other characteristics. Fourth, the side-effect rate in our
+study was substantially lower than has been reported in
+other published studies of short-acting gabapentin.
+Although it is possible that the extended-release formulation has a lower side-effect rate, it is possible that the
+selection of a population of patients who had previously
+tolerated the short-acting form of gabapentin may partially
+explain the lower rate. Additional studies should be
+considered to further evaluate a potential difference in
+side-effect rates. Even in considering these limitations, the
+design of this study was very similar to that of published
+studies of gabapentin and pregabalin, so comparison of
+results with data for these treatments may be considered
+useful.
+The extended-release profile of gabapentin ER allows
+the larger of the 2 daily doses to be given in the evening to
+improve the quality of sleep whereas still maintaining
+acceptable pain control during the day. This evening dosing
+likely contributed to the reduced incidence of somnolence
+and dizziness in this study, as these events would be more
+likely to occur during the night while the patient was asleep.
+In addition, the decreased number of medications per day
+could be important for elderly patients who are likely to be
+taking multiple medications.
+CONCLUSIONS
+The results of this study indicate that gabapentin ER
+administered twice daily is safe and effective for the
+treatment of pain associated with PHN.
+ACKNOWLEDGMENT
+The authors thank the clinical investigators who
+participated in the study.
+REFERENCES
+1. Bowsher D. The management of postherpetic neuralgia.
+Postgrad Med J. 1997;73:623–629.
+2. Kost RG, Straus SE. Postherpetic neuralgia—pathogenesis,
+treatment, and prevention. N Engl J Med. 1996;335:32–42.
+3. Vander Straten M, Carrasco D, Lee P, et al. Reduction of
+postherpetic neuralgia in herpes zoster. J Cutan Med Surg.
+2001;5:409–416.
+4. Gershon AA. Epidemiology and management of postherpetic
+neuralgia. Semin Dermatol. 1996;15(suppl 1):8–13.
+5. Dworkin RH, Portenoy RK. Pain and its persistence in herpes
+zoster. Pain. 1996;67:241–251.
+6. Choo PW, Galil K, Donahue JG, et al. Risk factors for
+postherpetic neuralgia. Arch Intern Med. 1997;157:1217–1224.
+7. Rowbotham MC. Postherpetic neuralgia. Semin Neurol. 1994;
+14:247–254.
+8. Collins SL, Moore RA, McQuay HJ, et al. Antidepressants
+and anticonvulsants for diabetic neuropathy and postherpetic
+neuralgia: a quantitative systematic review. J Pain Symptom
+Manage. 2000;20:449–458.
+9. Volmink J, Lancaster T, Gray S, et al. Treatments for
+postherpetic neuralgia—a systematic review of randomized
+controlled trials. Fam Pract. 1996;13:84–91.
+10. Sindrup SH, Jensen TS. Efficacy of pharmacological treatments of neuropathic pain: an update and effect related to
+mechanism of drug action. Pain. 1999;83:389–400.
+11. Rice ASC, Maton S, Group PNS. Gabapentin in postherpetic
+neuralgia: a randomised, double blind, placebo controlled
+study. Pain. 2001;94:215–224.
+12. Rowbotham M, Harden N, Stacey B, et al. Gabapentin for the
+treatment of postherpetic neuralgia: a randomized controlled
+trial. JAMA. 1998;280:1837–1842.
+13. Dworkin RH, Corbin AE, Young JP Jr, et al. Pregabalin for
+the treatment of postherpetic neuralgia: a randomized,
+placebo-controlled trial. Neurology. 2003;60:1274–1283.
+14. Sabatowski R, Galvez R, Cherry DA, et al. Pregabalin reduces
+pain and improves sleep and mood disturbances in patients
+with post-herpetic neuralgia: results of a randomised, placebocontrolled clinical trial. Pain. 2004;109:26–35.
+15. Freynhagen R, Strojek K, Griesing T, et al. Efficacy of
+pregabalin in neuropathic pain evaluated in a 12-week,
+randomised, double-blind, multicentre, placebo-controlled trial
+of flexible- and fixed-dose regimens. Pain. 2005;115:254–263.
+16. Stewart BH, Kugler AR, Thompson PR, et al. A saturable
+transport mechanism in the intestinal absorption of gabapentin is the underlying cause of the lack of proportionality
+between increasing dose and drug levels in plasma. Pharm Res.
+1993;10:276–281.
+17. Davies PS, Galer BS. Review of lidocaine patch 5% studies
+in the treatment of postherpetic neuralgia. Drugs. 2004;64:
+937–947.
+18. Hempenstall K, Nurmikko TJ, Johnson RW, et al. Analgesic
+therapy in postherpetic neuralgia: a quantitative systematic
+review. PLoS Med. 2005;2:e164.
+19. Schwartz S, Fonseca V, Berner B, et al. Efficacy, tolerability,
+and safety of a novel once-daily extended-release metformin in
+patients with type 2 diabetes. Diabetes Care. 2006;29:759–764.
+20. Fourcroy JL, Berner B, Chiang YK, et al. Efficacy and safety
+of a novel once-daily extended-release ciprofloxacin tablet
+formulation for treatment of uncomplicated urinary tract
+Clin J Pain  Volume 25, Number 3, March–April 2009 Extended-release Gabapentin for PHN
+r 2009 Lippincott Williams & Wilkins 191
+infection in women. Antimicrob Agents Chemother. 2005;49:
+4137–4143.
+21. Gu R, Gusler G, Hou S, et al. Extended release and doseproportionality of a novel gabapentin formulation. In:
+Program and Abstracts of the Endocrine Society 88th Annual
+Meeting. Boston, MA; 2006.
+22. Gordi T, Hou E, Kasichayanula S, et al. Pharmacokinetics of gabapentin after a single day and steady state
+following the administration of gastric-retentive extendedrelease and immediate-release tablets: a randomized open
+label multiple-dose, three-way cross-over, exploratory
+study in healthy subjects. Clin Therapeutics. 2008;30:
+909–916.
+23. Melzack R. The short-form McGill Pain Questionnaire. Pain.
+1987;30:191–197.
+24. Galer BS, Jensen MP. Development and preliminary validation
+of a pain measure specific to neuropathic pain: the neuropathic
+pain scale. Neurology. 1997;48:332–338.
+25. Backonja MM, Galer BS. Pain assessment and evaluation of
+patients who have neuropathic pain. Neurol Clin. 1998;16:775–790.
+26. Farrar JD, Young JPJ, LaMoreaux L, et al. Clinical importance
+of changes in chronic pain intensity measured on an 11-point
+numerical pain rating scale. Pain. 2001;94:149–158.
+27. Dworkin RH, Turk DC, Farrar JT, et al. Core outcome
+measures for chronic pain clinical trials: IMMPACT recommendations. Pain. 2005;113:9–19.
+Irving et al Clin J Pain  Volume 25, Number 3, March–April 2009
+192 r 2009 Lippincott Williams & Wilkins

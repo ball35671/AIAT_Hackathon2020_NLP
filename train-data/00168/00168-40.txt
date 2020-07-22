@@ -1,0 +1,585 @@
+Vaccine 29 (2011) 7733–7739
+Contents lists available at ScienceDirect
+Vaccine
+jour nal homepage: www.elsevier.com/locate/vaccine
+Protective efficacy of a trivalent recombinant hemagglutinin protein vaccine
+(FluBlok®) against influenza in healthy adults: A randomized, placebo-controlled
+trial
+John J. Treanor a,∗, Hana El Sahly b, James Kingc, Irene Grahamd, Ruvim Iziksone, Robert Kohberger f
+,
+Peter Patriarca g, Manon Coxe
+a University of Rochester, Rochester, NY, United States b Baylor College of Medicine, Houston, TX, United States c University of Maryland, Baltimore, MD, United States d St. Louis University, St. Louis, MO, United States e Protein Sciences Corporation, Meriden, CT, United States f Blair & Co, Greenwich, CT, United States g Biologics Consulting Group, Inc., Bethesda, MD, United States
+a r t i c l e i n f o
+Article history:
+Received 20 May 2011
+Received in revised form 27 July 2011
+Accepted 27 July 2011
+Available online 9 August 2011
+Keywords:
+Influenza vaccine
+Baculovirus expression
+Recombinant protein
+Clinical trials
+a b s t r a c t
+Background: Development of influenza vaccines that do not use embryonated eggs as the substrate for
+vaccine production is a high priority. We conducted this study to determine the protective efficacy a
+recombinant, baculovirus-expressed seasonal trivalent influenza virus hemagglutinin (rHA0) vaccine
+(FluBlok®).
+Methods: Healthy adult subjects at 24 centers across the US were randomly assigned to receive a single
+injectionof salineplacebo (2304 subjects), or trivalent FluBlok containing 45mcg of eachrHA0 component
+(2344 subjects). Serum samples for assessment of immune responses by hemagglutination-inhibition
+(HAI) were taken from a subset of subjects before and 28 days after immunization. Subjects were followed
+during the 2007–2008 influenza season and combined nasal and throat swabs for virus isolation were
+obtained from subjects reporting influenza-like illness.
+Results: Rates of local and systemic side effects were low, and the rates of systemic side effects were
+similar in the vaccine and placebo groups. HAI antibody responses were seen in 78%, 81%, and 52% of
+FluBlok recipients to the H1, H3, and B components, respectively. FluBlok was 44.6% (95% CI, 18.8%,
+62.6%) effective in preventing culture-confirmed influenza meeting the CDC influenza-like illness case
+definition despite significant antigenic mismatch between the vaccine antigens and circulating viruses.
+Conclusions: Trivalent rHA0 vaccine was safe, immunogenic and effective in the prevention of culture
+confirmed influenza illness, including protection against drift variants.
+© 2011 Elsevier Ltd. All rights reserved.
+1. Introduction
+Although embryonated hen’s eggs have been used to generate
+effective influenza vaccines for many years, this system does have
+several important drawbacks. Vaccine manufacturing using eggs
+requires specialized facilities, and the ability to scale up egg production rapidly in response to an emergency is limited. In addition,
+poultry are potentially vulnerable to the same subtypes ofinfluenza
+ ClinicalTrials.gov Identifier: NCT00539981.
+∗ Corresponding author at: University of Rochester Medical Center, Room 3-6308,
+601 Elmwood Avenue, Rochester, NY 14642, United States. Tel.: +1 585 275 5871;
+fax: +1 585 442 9328.
+E-mail address: John Treanor@urmc.rochester.edu (J.J. Treanor).
+viruses that might also be responsible for pandemic influenza. It is
+usually necessary to adapt candidate vaccine viruses for high yield
+growth in eggs, a process that can be time consuming, is not always
+successful, and which can select receptor variants that may not be
+optimally representative of circulating influenza strains [1,2].
+Expression of proteins in insect cells using recombinant baculovirus has emerged as a promising technology for vaccine
+production. New recombinant baculoviruses can be generated
+quickly from sequence data, protein expression is very efficient
+under the control of the baculovirus polyhedrin promoter, and post
+translational modifications of the protein are generally similar to
+other eukaryotic systems. In previous studies, we have evaluated
+baculovirus-expressed recombinant influenza virus hemagglutinins (rHA0s) as influenza vaccines in humans. Monovalent and
+bivalent rHA0s have been well tolerated and immunogenic in
+0264-410X/$ – see front matter © 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.vaccine.2011.07.128
+7734 J.J. Treanor et al. / Vaccine 29 (2011) 7733–7739
+young adults and adults 65 and older [3–5]. More recent studies have evaluated rHA0 vaccine formulations in healthy adults,
+subjects aged 50–64 years of age [6] and subjects 65 and older
+[7,8]. These studies have consistently shown excellent tolerability and antibody responses similar to those seen with egg-derived
+influenza vaccines. Finally, in a preliminary field efficacy evaluation, recipients of the rHA0 vaccine had reduced rates of
+culture-positive CDC-defined influenza-like illness compared with
+placebo recipients, although the study was small [9].
+In the present study, we performed a much larger assessment
+of the immunogenicity, safety, and protective efficacy of the final
+formulation of trivalent rHA0 vaccine in a population of healthy
+young adults.
+2. Methods
+2.1. Vaccine
+The vaccine (FluBlok) used in this study consisted of purified hemagglutinin (HA) proteins produced in insect cells using
+a baculovirus expression system as previously described [9]. The
+recombinant HA protein is not cleaved in insect cells and is
+referred to as rHA0. The trivalent vaccine contained 45 mcg
+(as measured by the single radial immunodiffusion assay) of
+each purified rHA0 derived from the A/Solomon Islands/3/2006
+(H1N1), A/Wisconsin/67/2005 (H3N2), and B/Malaysia/2506/2004
+influenza viruses recommended for the 2007–2008 influenza
+season formulated with 0.005% Tween®-20 in 10 mM sodium
+phosphate buffer pH 7.0 ± 0.4 without a preservative. Genes
+were cloned into baculovirus using RT-PCR from the same CDCderived vaccine seed viruses used for the production of licensed
+inactivated influenza vaccine for that year. Sodium dodecyl sulfatepolyacrylamide gel electrophoresis of the purified monovalent
+materials indicated that hemagglutinin constitutes at least 90% of
+the total protein. Placebo consisted of normal saline for injection,
+USP.
+2.2. Clinical study design
+The study was conducted at 24 centers located across the United
+States (Appendix) during the 2007–2008 influenza season. Subjects
+were healthy adults aged 18–49 years inclusive, who did not belong
+to high priority target groups for influenza vaccination as defined
+by the Advisory Committee on Immunization Practice [10]. Women
+of child-bearing potential had a negative urine pregnancy test at
+the time of randomization and were instructed to use contraception during the course of the study. After screening medical history
+and physical exam to determine eligibility, subjects were randomly
+assigned to receive either a single dose of FluBlok, or saline placebo
+using a permuted block randomization scheme stratified for each
+study site. Vaccine was administered as a single intramuscular
+injection in the upper deltoid.
+Subjects measured their oral temperature daily and maintained
+a memory aid for 7 days after vaccination on which they recorded
+local and systemic reactions graded as “mild” (noticeable but not
+interfering with normal activities), “moderate” (some interference
+with normal activities), and “severe” (symptom prevented normal daily activities). Subjects received a phone call at day 7 for
+review of the memory aid, concomitant medications and medical
+history.
+In addition, subjects from five sites (total, N = 870) participated in a serological substudy. At these sites, subjects had serum
+obtained prior to vaccination, and returned approximately 28 days
+after vaccination for assessment of serum antibody to influenza
+virus. All other subjects received a phone call from their medical
+center for review of interim safety data at day 28. A final phone call
+occurred at the end of the influenza season.
+2.3. Surveillance for influenza
+During the influenza season, subjects completed a weekly diary
+to record influenza symptoms, and after influenza was recognized
+in the community, subjects received weekly phone calls to review
+the diary and ascertain the presence or absence of respiratory illness symptoms. Subjects were instructed to return to the clinic for
+illness evaluations if they observed any acute respiratory symptoms or fever. During these illness visits, symptoms were reviewed,
+a brief physical exam was conducted, and combined nasal and
+throat swabs for virus culture were obtained.
+2.4. Laboratory assays
+Sera from the immunogenicity subset were assessed for
+antibody to each of the three components of the vaccine by
+hemagglutination-inhibition (HAI) at the Cincinnati Children’s
+Hospital using a validated assay based on standard methods. All
+available sera from vaccine recipients, and a randomly selected
+subset of approximately 33% of placebo specimens were selected
+for testing. The antigens used in the assays were baculovirus
+derived rHAs representing the A/Solomon Islands/03/2006 (H1N1),
+A/Wisconsin/67/2005 (H3N2), and B/Malaysia/2506/2004 viruses,
+provided by Protein Sciences Corporation. Sera were treated with
+neuraminidase (RDE, Denka-Seiken, Japan) to remove non-specific
+inhibitors of hemagglutination prior to testing, and were tested in
+serial two-fold dilutions at an initial dilution of 1:10. Sera with
+no reactivity at 1:10 were assigned a value of 1:5. Assays were
+performed using turkey red blood cells (Viromed Laboratories,Minnetonka, MN).
+Swabs for virus culture were stored at −70 ◦C and shipped on
+dry ice to a central laboratory (Cincinnati Children’s Hospital Medical Center, Cincinnati, OH) where virus isolation was performed in
+primary rhesus monkey kidney (RhMK) cells (Diagnostic Hybrids
+Inc (DHI), Athens, Ohio). The presence of influenza A or B viruses
+in the culture was determined by immunofluorescence using typespecific monoclonal antibodies (DHI). All influenza isolates were
+subsequently subtyped and antigenically characterized based on
+reactivity to ferret antiserum raised against WHO reference strains.
+2.5. Statistical analyses
+The primary safety endpoints for this study were the rates
+and severity of solicited and unsolicited adverse events. The primary immunogenicity endpoints were the rates of 4-fold or greater
+increases in serum HAI antibody to each of the three vaccine
+strains comparing pre- and 28-day post-vaccination samples. The
+primary efficacy endpoint was culture-documented influenza illness, defined as development of a CDC-defined influenza-like
+illness (CDC-ILI) associated with recovery of influenza virus from
+a nasopharyngeal swab. CDC-ILI was defined as the presence of
+documented fever ≥100 F plus either sore throat or cough.
+Safety of the rHA0 vaccine was evaluated via the frequencies
+and percentages of subjects experiencing adverse events, and a
+chi-squared test at a nominal 0.05 level was performed to find
+any differences in incidence rates between groups. Differences
+between groups in the proportions of subjects with at least a fourfold increase in HAI antibody were also tested using a Chi-Square
+test. Protective efficacy (PE) was calculated as (1-RR), where RR is
+the relative risk of having an event compared to the placebo group.
+Upper and lower confidence limits for the RR were calculated using
+the exact conditional binomial procedure.
+J.J. Treanor et al. / Vaccine 29 (2011) 7733–7739 7735
+Table 1
+Rates of local and systemic events reported by subjects in the 7 days following vaccination.
+Symptoms No. (%) of subjects with complaints by level of severity in each group
+FluBlok (N = 2344) Placebo (N = 2304)
+Mild Moderate Severe Mild Moderate Severe
+Any 969 (43)* 195 (9)* 34 (1) 567 (25) 130 (6) 30 (1)
+Fever (≥100.4) 8 (<1) 5 (<1) 4 (<1) 5 (<1) 6 (<1) 1 (<1)
+Fatigue or lack of energy 250 (11) 78 (3) 12 (<1) 256 (11) 66 (3) 11 (<1)
+Shivering or chills 52 (2) 12 (<1) 6 (<1) 54 (2) 13 (<1) 4 (<1)
+Joint pain 69 (3) 14 (<1) 6 (<1) 67 (3) 12 (<1) 4 (<1)
+Muscle pain 197 (9)* 36 (2)* 6 (<1) 124 (6) 22 (<1) 8 (<1)
+Headache 264 (12) 70 (3) 15 (<1) 273 (12) 68 (3) 13 (<1)
+Nausea 94 (4) 29 (1) 6 (<1) 74 (3) 25 (1) 10 (<1)
+Pain 797 (35)* 52 (2)* 2 (<1) 177 (8) 3 (<1) 1 (<1)
+Bruising 68 (3) 6 (<1) 1 (<1) 57 (3) 1 (<1) 1 (<1)
+The highest level of severity reported for each subject is shown. Severity was graded as 1 = mild, no interference with daily activities, 2 = moderate, some limitation of activity,
+and 3 = severe, prevents normal daily activity.
+* P < .05 compared to placebo.
+The sample size for this study was chosen based on the assumption that FluBlok would be at least 70% efficacious in prevention of
+symptomatic, culture-proven influenza, and thatthe placebo attack
+rate would be 3% or greater. The sample size was then chosen to
+have 80% power to determine that the lower bound of the 95%
+confidence interval for protective efficacy was greater than 40%,
+assuming a 5% attrition rate.
+2.6. Informed consent
+Written informed consent was obtained from all subjects in
+the study, and the study was approved by the institutional review
+boards at each study site prior to initiation of the study and enrollment of subjects.
+3. Results
+A total of 4648 eligible subjects were randomized 1:1 to receive
+either FluBlok or Placebo, and 4071 (87.5%) completed all study
+procedures. The disposition of the study subjects is shown in
+Fig. 1. Of the 4648 enrolled subjects, 2344 were randomized to
+Randomized (n=4648)
+Placebo (n=2304)
+Safety Population
+(n=2304)
+Subjects enrolled (n=4648)
+Discontinuations: 93
+Withdrew consent (n=2);
+Lost to follow up (n=85);
+Others (n=6)
+FluBlok (n=2344)
+Safety Population
+(n=2344)
+Discontinuations: 95
+Withdrew consent (n=7);
+Lost to follow up (n=88)
+Fig. 1. Flow chart of subject participation in the study.
+receive FluBlok and 2304 were randomized to placebo. The majority of subjects were white (66%) and female (59%). The mean age
+was 32.5 years. Three subjects were over the enrollment criteria of
+49 years or less, so that the age range enrolled was 18–55 years;
+these three subjects are included in both the safety and efficacy
+analyses. There were no differences with respect to age, sex or race
+between the groups.
+There were 577 subjects who did not complete the study, the
+majority of whom were lost to follow-up (260 (11%) in the FluBlok
+and 251 (11%) in the placebo group). In addition, 36 subjects
+withdrew consent (22 (1%) and 14 (0.6%) in FluBlok and placebo,
+respectively), 3 in each group withdrew due to an adverse event
+(AE), there was 1 death in each group, and 9 and 13 subjects in
+the FluBlok and placebo groups, respectively were discontinued for
+other reasons.
+3.1. Assessment of vaccine safety
+The rates and severities of local and systemic symptoms
+reported by subjects in the 7 days following administration of
+FluBlok or placebo are shown in Table 1. FluBlok was associated
+with local injection site pain and muscle aches that were significantly more frequent than after saline placebo (P < .03 for pain).
+However, 94% of all complaints of pain after FluBlok were rated
+as mild. Systemic symptoms following vaccination did not occur
+at significantly different rates in vaccine and placebo recipients
+(P > .05 for all comparisons). The most frequently reported systemic symptoms following vaccination were headache (15% in both
+groups) and fatigue or lack of energy (14.5% in both groups). The
+majority (76%) of complaints of headache were also mild. There
+were 17 reports of fever (oraltemperature >100.4 F) among FluBlok
+recipients and 12 among placebo recipients following vaccination.
+There were 85 severe adverse events (SAEs) reported during the
+study in 64 subjects. Of these, 41 SAEs were reported in 30 subjects
+(1.28%) in the FluBlok group, and 44 SAEs in 34 subjects (1.48%)
+in the placebo group. Two subjects died during the study; one in
+each group. A subjectin the FluBlok-treatment group experienced a
+fatal pulmonary embolism approximately three months post vaccination, and a subject in the placebo group had a fatal motor vehicle
+accident. Both deaths were considered to be unrelated to the study
+by the site investigator. All buttwo SAEs (a liposarcoma in a FluBlok
+recipient and breast cancer in a placebo recipient) had resolved
+by the end of the study period. None of the 85 SAEs in the study
+were considered to be definitely or probably related to vaccine. One
+event, a pericardial effusion in a FluBlok recipient was judged to be
+possibly related to vaccine. This event occurred in a 47 year-old
+male with a prior history of hypertension, who began experiencing
+7736 J.J. Treanor et al. / Vaccine 29 (2011) 7733–7739
+Table 2
+Serum hemagglutination-inhibiting (HAI) antibody titers in all subjects, and in FluBlok recipients with or without self-reported history of prior seasonal influenza vaccination.
+Group N Pre (day 0) and post vaccination (day 28) geometric mean antibody titer (95% CI) and response rates (95% CI) to the following vaccine antigens
+A/Solomon Island/3/2006 (H1N1) A/Wisconsin/67/2005 (H3N2) B/Malaysia/2506/2004
+Pre Post %Response Pre Post %Response Pre Post %Response
+Placebo 127 20.33 18.8 3 21.5 15.1 3 31.1 19.8 0
+(16.5, 25.0) (15.2, 23.3) (1, 8) (18.1, 25.4) (13.0, 17.6) (1, 8) (24.6, 39.4) (15.8, 24.8) (0, 3.0)
+FluBlok 448 31.9 349.0 78 22.9 262.1 81 55.27 200.55 52
+(28.2, 36.1) (316.9, 384.3) (74, 82) (20.7, 25.4) (234.9, 292.4) (77, 85) (49.3, 62.0) (181.0, 222.2) (47, 57)
+FluBlok PVa 93 64.9 235.7 56 47.5 185.7 57 104.6 162.4 22
+(51.0, 82.7) (196.1, 283.4) (46, 66) (38.6, 58.5) (149.4, 230.9) (47, 67) (82.0, 133.5) (132.4,199.2) (13,30)
+FluBlok NPVb 355 26.5 386.7 83 18.9 286.9 87 46.76 212.0 60
+(23.1, 30.4) (346.7, 431.4) (80, 87) (17.0, 21.1) (253.3, 324.8) (84, 91) (41.3, 52.9) (188.6, 238.2) (55, 65)
+#Response = 4-fold or greater increase to 1:40 or greater.
+a PV= previously vaccinated. b NPV= not previously vaccinated.
+fever and cough 7 days after vaccination and was hospitalized 11
+days after vaccination with a diagnosis of pericardial effusion and
+cardiac tamponade. Pericardiocentesis showed one colony of Propionibacterium spp.; and culture of pleural fluid grew Staphylococcus
+epidermidis only. Viral cultures and a panel of serum antibody tests
+for viruses causing pericarditis were negative. The subject was discharged home on Day 24 following vaccination and the event was
+considered resolved by the end of the study period.
+There were a total of 37 pregnancies reported during the study;
+20 in the FluBlok group and 17 in the placebo group. Complete
+follow-up information was available for 30 for them (15 in FluBlok
+and 15 in placebo). Ten of the pregnancies among FluBlok and 8
+among placebo recipients were uneventful and resulted in the birth
+of a normal infant at 36 weeks gestation or later. Two women in the
+FluBlok and three in the placebo group had associated AEs during
+their pregnancy which all resolved. Elective or spontaneous abortion occurred in three and four subjects in the FluBlok and placebo
+groups, respectively.
+3.2. Immunogenicity
+Serum HAI antibody titers before and after immunization in
+FluBlok and placebo recipients are shown in Table 2. FluBlok
+induced serum antibody responses to all three components of the
+vaccine in the majority of recipients, although lower response rates
+were seen for the influenza B component. As expected, post vaccination geometric mean titers were substantially higher for all
+three components in FluBlok than in placebo recipients (P < .001
+for all comparisons). The proportion of FluBlok recipients with
+a post-vaccination HAI titer of 1:40 or greater was 99% for the
+H1 component (95% CI, 97.1%, 99.5%), 97% for the H3 component
+(94.8%, 98.3%), and 96% for the B component (94.0%, 97.8%).
+Among FluBlok recipients, subjects with a self-reported history
+of seasonal influenza vaccine in the year prior to the study had
+higher baseline titers of antibody against allthree components, and
+had significantly lower frequencies of HAI response than did those
+who reported that they had not received vaccine in the previous
+year. Subjects who reported prior vaccine receipt also had lower
+post vaccination GMTs for all three components than did those
+withoutthis history, and this difference was statistically significant
+for both influenza A components.
+3.3. Protective efficacy
+Subjects in this study were followed throughoutthe subsequent
+influenza season (mid December 2007 to end April 2008) with
+weekly phone calls and instructed to return to the study clinics
+for any acute respiratory illness, at which time a combined nasal
+and throat swab for viral culture was obtained. The primary efficacy
+endpoint for this study was the development of culture-confirmed
+CDC-ILI, and we also assessed the effect of vaccination on rates of
+any influenza culture positive illness.
+A total of 582 subjects were cultured for respiratory illness, and
+influenza virus was isolated from 178 subjects. There were a total
+of 120 subjects from whom influenza A was isolated, the majority
+of whom (82/120, 68%) met the CDC-ILI case definition. There were
+a total of 59 subjects with positive cultures for influenza B, and the
+majority of these subjects (41/59, 69%) also met the CDC-ILI case
+definition.
+Only 8 isolates in the study (<5% of the total) were antigenically identical to the strains contained in the vaccine. All of these
+viruses were A/Wisconsin/67/2005-like H3N2 viruses. Two ofthese
+occurred in FluBlok recipients and 6 occurred in placebo recipients, and among these subjects one FluBlok recipient and 5 placebo
+recipients met the CDC-ILI definition. Therefore, we were unable
+to obtain a meaningful estimate of the efficacy of FluBlok against
+CDC-ILI due to strains represented in the vaccine.
+The remaining 111 influenza A viruses were characterized as
+antigenic variants, i.e., they exhibited a 4-fold or greater decrease
+in reactivity with post infection ferret antisera in reciprocal HAI
+testing. These viruses included 12 H1N1 viruses antigenically
+resembling H1 drift variant A/Brisbane/59/2007, 41 H3N2 viruses
+antigenically resembling the H3 drift variant A/Brisbane/10/2007,
+42 H3N2 viruses that could not be identified as either A/Wisconsinlike or A/Brisbane-like, and 16 influenza viruses for which the
+subtype was not determined. Fifty-eight of the 59 influenza B
+viruses (98%) were antigenically similar to B/Florida/04/2006,
+representing a different clade from the vaccine strain, and one
+influenza B virus could not be antigenically characterized.
+The cumulative rates of culture confirmed influenza illness
+occurring in the study population over time are shown in Fig. 2,
+which shows that the relative difference between the two study
+groups remained constant throughout the influenza season. The
+incidence of this and of other related endpoints in the study by
+group are shown in Table 3. The overall protective efficacy of
+FluBlok against culture positive CDC-ILI regardless of strain was
+44.6% (95% CI 18.8%, 62.6%). As expected given the more extreme
+degree of antigenic mismatch for the influenza B component, the
+efficacy of FluBlok was greater against CDC-ILI due to influenza A
+viruses (54.4%)than influenza B viruses (23.1%), although the difference was not statistically significant (P = .20 by logistic regression).
+However, we were not able to demonstrate a statistically significant
+effect for influenza B. As shown in Table 3, there were no substantial differences between the point estimates of efficacy against
+culture positive CDC-ILI or against any culture positive illness. Culture positive CDC-ILI associated with isolation of H1N1 viruses
+occurred in 9/2304 placebo recipients and 3/2344 FluBlok recipients (PE = 67%), while culture positive CDC-ILI due to H3N2 viruses
+J.J. Treanor et al. / Vaccine 29 (2011) 7733–7739 7737
+Fig. 2. Kaplan–Meier plots of the cumulative incidence of culture positive CDC ILI
+due to influenza A (A) and influenza B (B) in the placebo (solid line) and FluBlok
+(dotted line) groups by date during the surveillance period.
+occurred in 58/2304 placebo and in 33/2344 FluBlok recipients
+(PE = 44%). Overall CDC-ILI regardless of culture results occurred in
+162 (7.0%) of placebo recipients and 127 (5.4%) of FluBlok recipients
+for an efficacy of 22.9% (95% CI, 2.2%, 39.4%) against this outcome.
+4. Discussion
+In this prospective, randomized clinical trial, we evaluated the
+safety, immunogenicity and efficacy of FluBlok, a trivalent recombinant hemagglutinin (rHA0) vaccine. The vaccine was well tolerated
+in healthy adults, immunogenic, and protective against culture confirmed influenza illness. The safety data generated in this study
+are consistent with the safety profile observed in other studies of
+Table 3
+Rates of study endpoints and percent protective efficacy in FluBlok and Placebo
+recipients.
+Endpoint Number (%) of cases in those receiving Vaccine efficacy
+(95% CI)
+FluBlok (N = 2344) Placebo (N = 2304)
+Influenza positive CDC-ILIa
+Any 44(1.9) 78(3.4) 44.6 (18.8, 62.6)
+Influenza A 26(1.1) 56(2.4) 54.4 (26.1, 72.5)
+Influenza B 18(0.8) 23(1.0) 23.1 (−49.0, 60.9)
+Influenza positive illness
+Any 64(2.7) 114(4.9) 44.8 (24.4, 60.0)
+Influenza A 41(1.7) 79(3.4) 49.0 (24.7, 65.9)
+Influenza B 23(1.0) 36(1.6) 37.2 (-8.9, 64.5)
+a CDC-ILI was defined as fever > 100 F with either cough or sore throat on the same
+or consecutive days.
+rHA0 vaccine produced using the baculovirus expression system
+in healthy adults [9]. These vaccines have been well tolerated at all
+doses administered, and are associated with low rates of local reactions. One case of pericarditis was detected in a FluBlok recipient.
+Pericarditis has also been reported previously following vaccination with licensed, egg-derived influenza vaccine with a similar
+time course [11]. The mechanism and clinical significance of such
+an association is unclear.
+FluBlok induced serum HAI antibody responses to all three vaccine components in the majority of recipients, and the lower limit
+of the 95% confidence interval for response rate exceeded the US
+FDA criteria for licensure for all three components (lower limit of
+the 95% confidence interval for response rate >40% and lower limit
+of the 95% confidence interval for HAI titer of 1:40 or greater >70%)
+[12].
+Although we did not attempt to verify vaccine histories by
+review of medical records, significant differences in both the frequency and the magnitude of the HAI response were shown when
+comparing the immune response between subjects with selfreported previous vaccination. Reduced antibody response rates,
+decreased post vaccination titers, and decreased antibody secreting cell responses have all been observed previously in adults with
+prior influenza vaccine compared to those without [13–16]. The
+exact mechanism of this effect remains uncertain, although it may
+represent interference with antigen presentation by pre-existing
+antibody [16].
+Consistent with the results of national surveillance in the US
+during the 2007–2008 season [17], the majority of influenza A
+viruses detected in this study were H3N2 viruses that represented
+a substantial antigenic mismatch with the vaccine. However, even
+under these circumstances, FluBlok had significant protective efficacy against culture-confirmed influenza illness, including those
+meeting the CDC-ILI case definition. Influenza B viruses isolated in
+this study and elsewhere in North America during the 2007–2008
+season belonged to the Yamagata lineage of influenza B viruses,
+against which vaccines representing the Victoria lineage would be
+expected to have little or no efficacy. We also found that the efficacy of FluBlok against CDC-ILI associated with influenza B was
+substantially lower than that against influenza A.
+Comparisons of these results with the results of other
+assessments of the protective efficacy of influenza vaccines are
+complicated by differences in methodologies, populations, and
+antigenic match between vaccine and circulating strains in the
+specific year that studies are carried out. Two recently published
+studies have evaluated egg-grown inactivated vaccines in healthy
+adults using a placebo-controlled design during the 2007–2008
+influenza season. In one study, conducted primarily in Europe, the
+overall efficacy of egg-grown inactivated vaccine against culture
+confirmed illness was 63%, and the lower 95% CI was 46.7% [18]. The
+predominant influenza A isolates in that study were H1N1 viruses,
+which were mostly vaccine-like. In another smaller study done on
+college campuses in Michigan [19], the protective efficacy of TIV
+against culture confirmed illness was 73% (95% CI, 51%, 85%). In
+that study, 90% of influenza isolates were influenza A (H3N2), but
+the antigenic characterization of isolates was not reported. In other
+recent randomized trials, the protective efficacy of TIV was 22.3%
+in the 2005–2006 influenza season predominated by influenza B
+viruses and with overall low attack rates [20], and 49.3% over two
+seasons, 2005–2007 with most cases due to antigenically variant
+viruses [21].
+Because of the difficulty in conducting placebo-controlled
+studies of influenza vaccine especially as the target groups for vaccination have expanded, several recent assessments of influenza
+vaccine effectiveness have utilized a test-negative, case–control
+design. Estimates of overall inactivated vaccine protective effectiveness in these studies have ranged from 10% to 70% [22–25] and
+7738 J.J. Treanor et al. / Vaccine 29 (2011) 7733–7739
+are clearly impacted by antigenic differences between vaccine and
+circulating viruses, with highest levels of effectiveness reported for
+H1 viruses [25] and lowest levels for influenza B.
+The current study provides evidence of protective efficacy of
+a baculovirus-derived HA vaccine in adults for prevention of seasonal influenza and supports that significant protection in a primed
+population can be obtained against influenza with a pure hemagglutinin vaccine. The efficacy results also demonstrate that in
+adults,the minor differences in HA glycosylation seen in insect cells
+compared to mammalian cells and the synthesis of the HA as an
+uncleaved precursor do not preclude the generation of an effective
+immune response in adults.
+The use of recombinant DNA techniques to express proteins
+in cell culture has been a successful approach for generation of
+highly effective vaccines for the prevention of hepatitis B (HBV)
+and human papillomavirus (HPV), and baculovirus expression technology is currently used for a licensed HPV vaccine [26]. Among
+the available expression technologies, recombinant baculovirus is
+especially well suited for production of influenza vaccine because
+the rapidity with which genes can be cloned and inserted into this
+vector facilitates updating the vaccine at regular intervals. Expression ofthe HA protein in insect cells using recombinant baculovirus
+also avoids the need to work with potentially pathogenic, live
+influenza viruses, and the attendant biocontainment issues that
+would be a particular concern for production of pandemic vaccines
+[27]. The results of the current study support the utility of insect
+cells for the production of well tolerated and effective vaccines for
+seasonal influenza.
+Acknowledgements
+The authors acknowledge the efforts of Kerry Senger, Tam
+LaFleur, Anthony Meyer and Adam Gilbert, and the effort of investigators at the study sites listed below.
+Study sites: The following investigators and study sites enrolled
+subjects in this study: Mhorag Hay M.D., University of Rochester
+School of Medicine, Rochester, NY; Mark Blatter M.D., Primary
+Physicians Research, Pittsburgh, PA; Stanley Block M.D., Kentucky
+Pediatric/Adult Research, Bardstown, KY; Bruce Bowling M.D.,
+Regional Clinical Research, Endwell, NY; Teresa Coats M.D., Benchmark Research, Austin, TX; Hana El Sahly M.D., Baylor College of
+Medicine, Houston, TX; Ivor Emanuel M.D., Benchmark Research,
+San Francisco, CA; Brandon Essink M.D., Meridian Clinical Research,
+Omaha, NB; Larry Gilderman D.O., University Clinical Research
+Pembroke, Pines, FL; Irene Graham M.D., St. Louis University, St.
+Louis, MO; Matt Hall M.D., Marshfield Clinic, Marshfield, WI; Lydie
+Hazan M.D., Impact Clinical Trials, Beverly Hills, CA; Darrell Herrington D.O., Benchmark Research, San Angelo, TX; Steven Hull
+M.D., Vince and Associates Clinical Research, Overland Park, KS;
+Robert Jeanfreau M.D., Benchmark Research Metairie, LA; James
+King M.D., University of Maryland, Baltimore, MD; Ivan Rarick
+M.D., Benchmark Research, Sacramento, CA; Keith Reisinger M.D.,
+Primary Physicians Research, Pittsburgh, PA; Robert Rosen M.D.,
+Carolina Medical Trials, Winston-Salem, NC; Gilbert Schiff M.D.,
+Sterling Research, Cincinnati, OH; William Seger M.D., Benchmark
+Research Fort, Worth, TX; Helen Keipp Talbot M.D., Vanderbilt University, Nashville, TN; Gilbert Podolsky M.D., Jean Brown Research
+Salt, Lake City, UT; Birgit Winther M.D., University of Virginia, Charlottesville, VA.
+Conflict of interest statement: J.T. has received grant support for
+clinical trials from Protein Sciences Corporation, Wyeth, Sanofi,
+GlaxoSmithKline, PaxVax, Ligocyte, and Vaxinnate, and is a paid
+consultant to ITS incorporated and Novartis. H.E.-S. has received
+grant support from GlaxoSmithKline for clinical trials. I.G., and
+J.K. report no conflicts of interest. P.P. and R.K. are paid consultants to Protein Sciences and multiple other entities. R.I. and M.C.
+are employees of Protein Sciences. Financial support: The study
+was funded by Protein Sciences Corporation, the manufacturers
+of the vaccine. Protein Sciences Corporation also funded ICON as
+the CRO for the study and Ockham which performed the data
+analysis.
+References
+[1] Katz JM, Webster RG. Efficacy of inactivated influenza A virus (H3N2) vaccines
+grown in mammalian cells or embryonated eggs. J Infect Dis 1989;160:191–8.
+[2] Wood JM, Oxford JS, Dunleavy U, Newman RW, Major D, Robertson JS. Influenza
+A(H1N1) vaccine efficacy in animal models is influenced by two amino acid
+substitutions in the hemagglutinin molecule. Virology 1989;171:214–21.
+[3] Powers DC, Smith GE, Anderson EL, Kennedy DJ, Hackett CS, Wilkinson BE, et al.
+Influenza A virus vaccines containing purified recombinant H3 hemagglutinin
+are well-tolerated and induce protective immune responses in healthy adults.
+J Infect Dis 1995;171:1595–8.
+[4] Lakey DL, Treanor JJ, Betts RF, Smith GE, Thompson J, Sannella E, et al. Recombinant baculovirus influenza A hemagglutinin vaccines are well tolerated and
+immunogenic in healthy adults. J Infect Dis 1996;174:838–41.
+[5] Treanor JJ, Betts RF, Smith GE,Anderson EL, Hackett CS,Wilkinson BE, et al. Evaluation of a recombinant hemagglutinin expressed in insect cells as an influenza
+vaccine in young and elderly adults. J Infect Dis 1996;173:1467–70.
+[6] Baxter R, Patriarca PA, Ensor K, Izikson R, Goldenthal KL, Cox MM. Reactogenicity and immunogenicity of FluBlok trivalent recombinant baculovirusexpressed hemagglutinin vaccine administered intramuscularly to healthy
+adults 50–64 years of age. Vaccine 2011;29:2272–8.
+[7] Treanor JJ, Schiff GM, Couch RB, Cate TR, Brady RC, Hay CM, et al. Dose-related
+safety and immunogenicity of a trivalent baculovirus-expressed influenzavirus hemagglutinin vaccine in elderly adults. J Infect Dis 2006;193:1223–8.
+[8] Keitel WA, Treanor J, El Sahly HM, Gilbert A, Maeyer AL, Patricarca PA, et al.
+Comparative immunogenicity of recombinant influenza hemagglutinin (rHA)
+and trivalent inactivated vaccines (TIV) among persons > 65 years old. Vaccine
+2009;28:379–85.
+[9] Treanor JJ, Schiff GM, Hayden FG, Brady RC, Hay CM, Meyer AL, et al. Safety and
+immunogenicity of a baculovirus-expressed hemagglutinin influenza vaccine:
+a randomized controlled trial. JAMA 2007;297:1577–82.
+[10] CDC. Prevention and control of influenza: recommendations of the Advisory
+Committee on Immunization Practice (ACIP), 2007. MMWR Morb Mortal Wkly
+Rep 2007;56:1–40.
+[11] Meester A, Luwaert R, Chaudron JM. Symptomatic pericarditis after influenza
+vaccination: report of two cases. Chest 2000;117:1803–5.
+[12] FDA. Guidance for industry: clinical data needed to support the licensure of
+seasonal inactivated influenza vaccines; 2007.
+[13] Beyer WEP, Palache AM, Sprenger MJW, Hendriksen E, Tukker JJ, Darioli R, et al.
+Effects of repeated annual influenza vaccination on vaccine sero-response in
+young and elderly adults. Vaccine 1996;14:1331–9.
+[14] Goodwin K, Viboud C, Simonsen L. Antibody response to influenza vaccination
+in the elderly: a quantitative review. Vaccine 2006;24:1159–69.
+[15] Engler RJ, Nelson MR, Klote MM, Van Raden MJ, Huang CY, Cox NY, et al. Half- vs
+full-dose trivalent inactivated influenza vaccine (2004–2005): age, dose, and
+sex effects on immune responses. Arch Intern Med 2008;168:2405–14.
+[16] Sasaki S, He X-S, Holmes TH, Dekker CL, Kemble GW, Arvin AM, et al. Influence of prior influenza vaccination on antibody and B-Cell responses. PLoS One
+2008;3:e2975.
+[17] CDC.Influenza activity—United States and worldwide, 2007–08 season.MMWR
+Morb Mortal Wkly Rep 2008:57.
+[18] Frey S, Vesikari T, Szymczakiewicz-Multanowska A, Lattanzi M, Izu A, Groth
+N, et al. Clinical efficacy of cell culture-derived and egg-derived inactivated
+subunitinfluenza vaccines in healthy adults. Clin Infect Dis 2010;51:997–1004.
+[19] Monto AS, Ohmit SE, Petrie JG, Johnson E, Truscon R, Teich E, et al. Comparative
+efficacy of inactivated and live attenuated influenza vaccines. N Engl J Med
+2009;361:1260–7.
+[20] Beran J, Wertzova V, Honegr K, Kaliskova E, Havlickova M, Havlik J, et al.
+Challenge of conducting a placebo-controlled randomized efficacy study for
+influenza vaccine in a season with low attack rate and a mismatched vaccine B
+strain: a concrete example. BMC Infect Dis 2009;9:2.
+[21] Jackson L, Gaglani M, Keyserling H, Balser J, Bouveret N, Fries L, et al. Safety,
+efficacy, and immunogenicity of an inactivated influenza vaccine in healthy
+adults: a randomized, placebo-controlled trial over two influenza seasons. BMC
+Infect Dis 2010;10:71–7.
+[22] Belongia EA, Kieke BA, Donahue JG, Greenlee RT, Balish A, Foust A, et al.
+Effectiveness of inactivated influenza vaccines varied substantially with antigenic match from the 2004–2005 season to the 2006–2007 season. J Infect Dis
+2009:199.
+[23] Skowronski DM, Masaro C, Kwindt TL, Mak A, Petric M, Li Y, et al. Estimating
+vaccine effectiveness against laboratory-confirmed influenza using a sentinel
+physician network: Results from the 2005–2006 season of dual A and B vaccine
+mismatch in Canada. Vaccine 2007;25:2842–51.
+[24] Belongia E, Kieke B, Coleman L, Donahue J, Irving S, Meece J, et al. Interim
+within-season estimate of the effectiveness of trivalent inactivated influenza
+J.J. Treanor et al. / Vaccine 29 (2011) 7733–7739 7739
+vaccine—Marshfield, Wisconsin, 2007–2008 influenza season. MMWR Morb
+Mortal Wkly Rep 2008;57:393–8.
+[25] Skowronski DM, De Serres G, Dickinson J, Petric M, Mak A, Fonseca K, et al.
+Component-specific effectiveness of trivalent influenza vaccine as monitored
+through a sentinel surveillance network in Canada, 2006–2007. J Infect Dis
+2009;199:160–79.
+[26] Harper DM, Franco EL, Wheeler CM, Ferris DG, Jenkins D, Schuind A, et al.
+Efficacy of a bivalent L1 virus-like particle vaccine in prevention of infection
+with human papillomavirus types 16 and 18 in young women: a randomised
+controlled trial. Lancet 2004;364:1757–65.
+[27] Treanor JJ. Recombinant proteins produced in insect cells. Curr Top Microbiol
+Immunol 2009;333:211–25.

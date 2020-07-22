@@ -1,0 +1,578 @@
+Vaccine 30 (2012) 4445–4452
+Contents lists available at SciVerse ScienceDirect
+Vaccine
+jour nal homepage: www.elsevier.com/locate/vaccine
+A(H1N1)v2009: A controlled observational prospective cohort study on vaccine
+safety in pregnancy
+Marc Oppermanna,1 , Juliane Fritzschea,1 , Corinna Weber-Schoendorfer a , Brigitte Keller-Stanislawski b ,
+Arthur Allignol c,d, Reinhard Meister e, Christof Schaefer a,∗
+a Institute for Clinical Teratology and Drug Risk Assessment in Pregnancy, Charité – Universitätsmedizin Berlin, Germany b Federal Institute for Vaccines and Biomedicines (Paul-Ehrlich-Institut), Langen, Germany c Freiburg Center for Data Analysis and Modeling, University of Freiburg, Freiburg, Germany d Institute for Medical Biometry and Medical Informatics, University Medical Center, Freiburg, Germany e Beuth Hochschule für Technik – University of Applied Sciences, Berlin, Germany
+a r t i c l e i n f o
+Article history:
+Received 24 February 2012
+Received in revised form 17 April 2012
+Accepted 23 April 2012
+Available online 5 May 2012
+Keywords:
+Drug safety
+Influenza A(H1N1)v2009
+H1N1 pandemic vaccine
+Malformation
+Pregnancy
+Teratology
+a b s t r a c t
+Background: A(H1N1)v2009 influenza vaccination of pregnant women was a challenge for health care
+providers, as little safety data were available.
+Methods: We prospectively followed the pregnancies of women who were vaccinated at any time during
+pregnancy or ≤4 weeks prior to conception and compared these outcomes to a control cohort matched by
+the estimated date of birth. Primary endpoints: rate of spontaneous abortion and major malformations.
+Secondary endpoints: preeclampsia, gestational age at birth, and birth weight.
+Results: Pregnancy outcome of 323 women immunized with adjuvanted or non-adjuvanted
+A(H1N1)v2009 influenza vaccines from 2009-09-28 to 2010-03-31 were compared to 1329 control subjects. The risk for spontaneous abortions (HR 0.89; 95% CI 0.36–2.19) and the rate of major malformations
+(all trimesters: OR 0.87; 95% CI 0.38–1.77; preconception and first trimester exposure: OR 0.79; 95% CI
+0.13–2.64) did not vary between the two cohorts. Furthermore, there was no increase in preeclampsia,
+prematurity, and intrauterine growth retardation in the vaccinated cohort.
+Conclusion: The results of our study do not indicate a risk for the pregnant woman and the developing
+embryo/fetus after H1N1 vaccination. We provide and apply methods novel in observational studies on
+pregnancy outcome, especially if a single dose exposure is investigated.
+© 2012 Elsevier Ltd. All rights reserved.
+1. Introduction
+Pregnancy increases the risk of influenza-associated complications. This is true for both seasonal and pandemic influenza [1–3]
+including the 2009 H1N1 pandemic. A recent review of 120 publications confirms a higher rate of hospitalization and intensive
+care in pregnant compared to non-pregnant women of reproductive age or to the overall population [4]. Presumably, the higher
+risk, observed mainly during the second and third trimester of
+pregnancy, derives from various physiological and immunological
+changes. Case reports describe stillbirths and other severe pregnancy complications due to H1N1 influenza [5–7].
+∗ Corresponding author at: Institute for Clinical Teratology and Drug Risk Assessment in Pregnancy, Charité – Universitätsmedizin Berlin, Spandauer Damm 130,
+Haus 10, 14050 Berlin, Germany. Tel.: +49 30 303081 10; fax: +49 30 303081 22.
+E-mail address: christof.schaefer@charite.de (C. Schaefer). 1 Both authors contributed equally to this article.
+The German Standing Vaccination Committee (STIKO) adopted
+the WHO’s recommendation in October 2009, opting for the first
+time for influenza vaccination in healthy pregnant women [8],
+preferably with a non-adjuvanted split-virion vaccine during the
+second or third trimester.
+The A(H1N1)v2009 influenza vaccination campaign began in
+Germany in the last week of October 2009. There are few studies investigating the safety of seasonal influenza vaccines in early
+pregnancy. In particular, a shift of the Th2-dominated immunology
+in pregnant women towards Th1, possibly resulting in placentation
+disorders and spontaneous abortion, was discussed for adjuvanted
+vaccines [9,10].
+The expertise of the Institute for Clinical Teratology and Drug
+Risk Assessment in Pregnancy (in the following referred to as
+the Institute), together with its cooperating partner institutions
+allowed the design and conduct of an appropriate observational
+study. The primary goal was to estimate the risk for spontaneous
+abortions and major birth defects. Preeclampsia, gestational age at
+birth, and birth weight were evaluated as secondary endpoints.
+0264-410X/$ – see front matter © 2012 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.vaccine.2012.04.081
+4446 M. Oppermann et al. / Vaccine 30 (2012) 4445–4452
+2. Methods
+2.1. Study protocol
+Thisprospective observational cohort studyusedparallel groups
+of exposed and non-exposed pregnant women. Design and analysis were performed according to the STROBE statement adapted
+to the needs of pregnancy outcome studies [11,12]. Subjects
+were enrolled through the Institute’s consultation service on drug
+exposure during pregnancy, offered free of charge to pregnant
+women and health care providers. During the pandemic season, the initiative to study the safety of vaccines along with the
+Institute’s offer of information was advertised by federal health
+authorities, obstetric and other professional societies. Data collection was performed using three structured questionnaires at
+(i) first contact, (ii) six weeks after first contact, and (iii) eight
+weeks after the estimated date of birth (EDOB) for exposed and
+controls. The project (No. 322/09) was approved by the Ethics
+Committee ofthe Johann-Wolfgang-Goethe-Universität, Frankfurt,
+Germany.
+2.2. Documentation
+A detailed history of drug use is recorded at the first contact. The interview also includes demographic characteristics,
+previous and current obstetrical history, family history, maternal chronic diseases, and other risks or exposures. Follow-up is
+especially focused on congenital anomalies and postnatal disorders. For this purpose, the hospital discharge summaries are also
+requested. Congenital malformations were independently classified into major and minor by two experts according to established
+standards [13–15].
+2.3. Inclusion and exclusion criteria
+The study cohort consists of women vaccinated during pregnancy or within four weeks prior to conception covering the
+period from 2009-09-28 to 2010-03-31. Unknown outcome of
+pregnancy and absence of prenatal pathologic findings at the time
+of consultation were mandatory for inclusion as a prospective
+case. Vaccination was allowed to have taken place before study
+entry. The control cohort consists of pregnant women who were
+not vaccinated against A(H1N1)v2009 influenza. Exclusion criteria
+for controls were (i) exposure to teratogenic or fetotoxic substances (i.e. acitretin, carbamazepine, isotretinoine, lenalidomide,
+methotrexate, mycophenolate, phenobarbital, phenprocoumon,
+phenytoin, thalidomide, valproate, warfarin, AT1-antagonists, or
+ACE inhibitors), (ii) exposure to oseltamivir and/or zanamivir,
+and (iii) treatment of H1N1 influenza, malignant or unspecified tumors, malignancy related conditions, convulsions without
+eclampsia, febrile convulsions, and hypoglycemic convulsion
+(MedDRA terms). A random sample of all available controls with
+an EDOB in the range of the study cohort was selected aiming for a
+4/1 ratio (controls/vaccinated).
+2.4. Vaccines
+Pandemrix® (GlaxoSmithKline) is an AS03-adjuvanted monovalent split-virion influenza vaccine almost exclusively used to
+vaccinate against pandemic influenza A(H1N1)v2009 in Germany.
+A non-adjuvanted split-virion vaccine CSL H1N1 Pandemic
+InfluenzaVaccine® (CSL Biotherapies) was approved by the responsible national authority, the Paul-Ehrlich-Institut, in November
+2009 exclusively for vaccination of pregnant women. Between the
+beginning of the vaccination campaign and first availability of the
+non-adjuvanted vaccine, pregnant women at higher risk due to
+predisposing chronic diseases were vaccinated with adjuvanted
+vaccines. This approach was supported by the STIKO.
+To a limited extent Celvapan® (Baxter), a monovalent wholevirion H1N1 influenza vaccine, was also available in Germany.
+In neighboring countries, additional pandemic vaccines such as
+Focetria® (Novartis Vaccines and Diagnostics) were licensed. Pregnant women who reside in Germany and received vaccination in
+another state were not excluded from the study.
+2.5. Statistics
+The effect of vaccination on the risk of spontaneous abortion
+and induced abortion was assessed using Cox proportional hazards models considering vaccination as a time-dependent covariate
+[16]. As women usually enter the cohort several weeks after conception, delayed entry into the study was taken into account [17].
+These analyses were performed considering spontaneous abortion,
+induced abortion, and live birth as competing events. To assess the
+effect of vaccination on the risk of major malformations, a logistic
+regression was performed. Live births and pregnancy losses with
+pathology were used as study population. Calculating crude malformation rates,the total number affected is divided by the number
+of all liveborns plus the number of pregnancy losses with malformations. Genetic syndromes were excluded. The propensity score
+[18] was estimated using boosted regression trees [19,20] including body mass index, age, alcohol consumption, smoking habits,
+drug consumption, number of previous pregnancies, number of
+previous fetal losses, number of previous children with malformation, other diseases, and family medical history as covariates.
+The logit of the propensity score was included as a covariate in
+the logistic regression. The propensity score method was used
+as a device for bias reduction in place of traditional regression
+adjustment; the rationale being that the vaccination is more common in the study, hence easier to model than the pregnancy
+outcome.
+Comparison of gestational age at birth between groups was performedusing aCoxproportionalhazardsmodel,taking into account
+delayed entry and including vaccination as a time-dependent
+covariate. The same covariates as for propensity score estimation
+above were included in the model.
+The effect of vaccination on the risk of preeclampsia was
+addressed through logistic regression. All pregnancies were considered, hence a new propensity score logit using the covariates
+detailed above was included in the model.
+To compare birth weights, liveborns were classified according to the birth weight/gestational age percentile table derived
+from the German Perinatal Study [21]. A score was then
+derived through standardization and included in a linear model
+as the dependent variable. Included covariates in the model
+were vaccination and gestational week at birth. Additionally,
+propensity score stratification including the same covariates
+as described above was used. Pregnant women were classified into five strata defined by the quintiles of their propensity
+scores.
+For all models including covariates, missing values were
+addressed using multivariate imputation by chained equation
+assuming that the data were missing at random [22]. We generated
+50 imputed data sets per outcome. The multiple imputation models
+included the respective outcomes – for live births,the Nelson-Aalen
+estimates of the cumulative live birth hazard and event indicator
+[23] – and the covariates used to construct the propensity scores.
+For each imputed data set, the propensity score was estimated and
+used in the fitted models as described above. Results were then
+combined using Rubin’s rule [24].All analyses were performed with
+R version 2.13 (R Development Core Team).
+M. Oppermann et al. / Vaccine 30 (2012) 4445–4452 4447
+16,738
+n=
+consultations between 2009/04/01 and 2010/07/31
+including planned pregnancies and lactation
+prospectively ascertained
+H1N1 409
+H1N1 vaccination without
+consultation for vaccination
+prospectively ascertained
+cases meeting inclusion
+715 H1N1 vaccination no H1N1 vaccination
+consultations regarding
+H1N1 vaccination
+pregnancies with
+vaccination
+n=32, vaccination >4 weeks
+cases with EDOB according
+to relevant cases of the
+criteria applying to controls
+and initiated follow-up
+5575
+3355
+preconception
+n=15, residence
+outside Germany cases
+vaccinated cohort
+not included
+n=46, residence
+outside Germany
+362 follow-up
+1664 randomly chosen
+meeting n=16
+not possible
+346 lost to
+follow-up
+1618 n=23 n=289
+follow-up initiated
+inclusion criteria
+323 1329
+vaccinated cohort control cohort
+Fig. 1. Constitution of the study cohorts from the overall consultation numbers. Note that the controls are recruited from all non-vaccinated cases, irrespective of vaccination
+as subject of consultation.
+3. Results
+3.1. Cohort size and characteristics
+Between 2009-04-01 and 2010-07-31 (covering the entire
+period between the first reports of A(H1N1)v2009 worldwide and
+the last request regarding A(H1N1)v2009 vaccination received
+by the Institute) the Institute performed 16,738 consultations on
+reproductive safety of medicinal products and other noxa. These
+included 715 consultations on the A(H1N1)v2009 influenza vaccine, of which 409 pregnancies with confirmed A(H1N1)v2009
+vaccination were prospectively documented. Follow-up was completed in 323/346 cases (Fig. 1). Inclusion criteria for controls were
+met by 5575 cases with initiated follow-up. Of these, 3355 with
+EDOBs corresponding to the vaccinated cohort (from 2009-12-08
+to 2010-09-22, i.e. earliest and latest EDOB) were considered for
+study. Out of these, 1618 cases were randomly chosen according
+to a ratio of 4.7/1 (controls/vaccinated). 1329 cases could be completed (Fig. 1).
+Maternal characteristics are comparable between the cohorts,
+except for gestational age at study entry, smoking habits, number
+of previous elective terminations of pregnancy (ETOPs), and educational status (Table 1). As we still had baseline information for the
+women lost to follow-up, we could compare them to those who
+completed the study. This comparison did not suggest a selection
+bias (data not shown).
+3.2. Vaccines used and time of vaccination
+Mostly, non-adjuvanted split-virion vaccine was used
+(216/323), primarily during the second and third trimester.
+AS03-adjuvanted vaccine was applied in 90 cases, predominantly
+prior to conception and during the first trimester. Due to the lack
+of alternative vaccines until late November 2009, we registered
+mainly adjuvanted vaccine exposure in the early study period. Two
+pregnant women were vaccinated with MF59-adjuvanted subunit
+vaccine. For 15 patients, the vaccine type could not be ascertained
+(Supplementary Table 1).
+Open-ended questions revealed systemic adverse reactions
+for 35/216 (16.2%) after immunization with the non-adjuvanted
+split-virion vaccine and for 23/90 (25.6%) after vaccination with
+AS03-adjuvanted vaccine. These include, but are not limited to (i)
+abnormal fatigue, (ii) headache, (iii) fever >38 ◦C, (iv) nausea, and
+(v) dizziness. In 84/216 (38.9%) and in 64/90 (71.1%) cases after vaccination with the non-adjuvanted and AS03-adjuvanted vaccine,
+respectively, typical local reactions were documented.
+3.3. Pregnancy outcome and neonatal characteristics
+The outcomes of the pregnancies are summarized in Table 2.
+The rate of live births of the vaccinated cohort is higher than in the
+control cohort(97.2%vs. 87.9%) due to fewer spontaneous abortions
+and ETOPs. But these crude rates must not be used as estimates of
+true outcome rates, as they are suspected of being biased.
+Fig. 2 illustrates pregnancy course, outcome, and time of vaccination. Two extremely pre-term births and two late abortions (23rd
+and 24th gestational week) occurred in the control cohort. Furthermore,two late ETOPs (22nd gestational week each) wereperformed
+among controls because of malformations of the urinary tract and
+severe preeclampsia.
+There were no notable differences between newborns of the
+vaccinated and the control cohort(Table 2). After adjustment,there
+4448 M. Oppermann et al. / Vaccine 30 (2012) 4445–4452
+Table 1
+Maternal characteristics and obstetrical history of the completed cases (N). For age, BMI, and week at first contact to the Institute, median, interquartile range, and
+minimum/maximum are presented. n, number of cases with information for the specific characteristics.
+Vaccinated Controls
+N 323 1329
+Age, n 322 1327
+Age 33 (30–36) (20–45) 32 (28–35) (15–49)
+BMI, n 317 1246
+BMI 21.8 (20.32–24.34) (17.47–43.6) 22.6 (20.59–25.875) (16.05–49.83)
+Mother’s education, n 163 559
+No graduating exam 1(0.61%) 5(0.89%)
+9 year exam 4(2.45%) 25(4.47%)
+10/11 year exam 15(9.2%) 150(26.83%)
+Secondary school exam 21(12.88%) 131(23.43%)
+Academic study 122(74.85%) 248(44.36%)
+Smoking, n 323 1310
+No 310 (95.98%) 1129(86.18%)
+<5 cig/day 6(1.86%) 49(3.74%)
+≥5 cig/day 7 (2.17%) 132 (10.08%)
+Alcohol, n 323 1313
+No 302(93.5%) 1217(92.69%)
+≤1 drink/day 19(5.88%) 70(5.33%)
+>1 drink/day 2(0.62%) 26(1.98%)
+Illicit drugs, n 314 1249
+No 313(99.68%) 1230(98.48%)
+Yes 1(0.32%) 19(1.52%)
+Additional diseases, n 298 1211
+No 242(81.21%) 910(75.14%)
+Yes 56(18.79%) 301(24.86%)
+Pregnancy wanted, n 191 1110
+No 1 (0.52%) 15 (1.35%)
+Yes 187(97.91%) 1035(93.24%)
+Indifferent 3(1.57%) 60(5.41%)
+No answer 0 (0) 0 (0)
+Previous parities, n 322 1323
+0 138(42.86%) 700(52.91%)
+1 131(40.68%) 422(31.9%)
+2 39(12.11%) 148(11.19%)
+3 or more 14(4.35%) 53(4.01%)
+Previous miscarriages, n 322 1321
+0 255(79.19%) 1099(83.19%)
+1 49(15.22%) 166(12.57%)
+2 or more 18 (5.59%) 56(4.24%)
+Previous ETOP, n 322 1320
+0 313(97.2%) 1248(94.55%)
+1 7(2.17%) 54(4.09%)
+2 or more 2(0.62%) 18(1.36%)
+Previous children with birth defect, n 322 1321
+0 316(98.14%) 1306(98.86%)
+1 6(1.86%) 15(1.14%)
+2 or more 0 (0) 0 (0)
+Week at first contact 20.86 (12.86–29.71) (4.14–39.71) 9.71 (6.57–20.29) (2.57–40.57)
+was neither a significant difference in gestational age of liveborns
+(HR 1.03; 95% CI 0.91–1.17) nor a significant birth weight difference
+(p value 0.82) between the two cohorts.
+In the control cohort, two live births before the 26th gestational week were reported. One child weighing 610 g was born after
+maternal flu-like infection at 22 + 4 weeks and died two hours postpartum. The other child was delivered by Cesarean section at 24 + 3
+weeks after an unspecified maternal infection, weighing 810 g.
+3.4. Malformations
+Malformations were present in 30 cases of the vaccinated and
+in 138 of the control cohort (Table 3). Adjusted OR for all malformations was 0.92 (95% CI 0.58–1.46) and for major malformations
+1.11 (95% CI 0.51–1.46). Similarly, there was no significant effect
+after evaluation of crude ORs. If only vaccinations during the first
+trimester and prior to conception were considered, crude OR was
+0.99 (95% CI 0.43–2.00) for all and 0.79 (95% CI 0.13–2.64) for major
+malformations. In 2/18 cases after vaccination prior to conception
+and in 6/52 cases after first trimester vaccination, malformations
+were observed. Ofthese,there were two major malformations after
+AS03-adjuvanted vaccination: anencephaly resulting in ETOP (vaccination at gestational week 1 + 2) and club feet (vaccination at
+gestational week 3 + 6) (Supplementary Table 2).
+3.5. Spontaneous abortions
+Spontaneous abortions were observed in 5/323 (Tables 2 and 4)
+cases of the vaccinated and in 105/1329 cases of the controls
+(Table 2). Adjusting to vaccination time and study entry, this
+M. Oppermann et al. / Vaccine 30 (2012) 4445–4452 4449
+Table 2
+Pregnancy outcomes and neonatal characteristics. For gestational week at birth, weight, length, and head circumference, median, interquartile range, and minimum/maximum
+are presented. n, number of cases with information for the specific characteristics.
+Vaccinated Controls
+Number of pregnancies 323 1329
+Spontaneous abortion 5 105
+ETOP 4 58
+Stillbirth 0 0
+Live birth 314 1169
+Liveborns 319a 1192b
+Gestational week, n 319 1190
+Gestational week at birth 39.57 (38.3–40.3) (33.43–42.43) 39.36 (38.1–40.3) (22.57–42.86)
+Preterm (<37.0 weeks) 29(9.09%) 122(10.25%)
+Term (≥37.0 weeks) 290(90.91%) 1068(89.75%)
+Sex, n 319 1186
+Female 149(46.7%) 567(47.8%)
+Male 170(53.3%) 619(52.2%)
+Weight, n 319 1188
+Weight [g] 3380 (3099–3700) (1980–4820) 3330 (3004–3700) (610–5250)
+Length, n 317 1174
+Length [cm] 52 (50–53) (40–59) 51 (50–53) (31–61)
+Head circumference, n 305 1092
+Head circumference [cm] 35 (34–36) (30–39) 35 (34–36) (22–39)
+a Including 5 sets of twins. b Including 1× quadruplets, 2× triplets (1 aborted fetus in gestational week 14), and 17 sets of twins.
+Table 3
+Malformation rates and odds ratios.
+Vaccinated Control OR (95% CI) ORadj (95% CI)
+All malformations 30/321a (9.35%) 138/1198g (11.52%) 0.79 (0.5–1.21) 0.92 (0.58–1.46)
+All malformations (after preconc.
+and 1st trimester vaccination)
+8/70b (11.43%) – 0.99 (0.43–2.00) –
+Major malformations 10/320c (3.12%) 43/1196h (3.6%) 0.87 (0.38–1.77) 1.11 (0.51–2.42)
+Major malformations (after
+preconc. and 1st trimester
+vaccination)
+2/69d (2.90%) – 0.79 (0.13–2.64) –
+Minor malformations 18/319e (5.64%) 91/1192i (7.63%) 0.72 (0.4–1.23) –
+Genetic malformations 2/320f (0.62%) 4/1194j (0.34%) 1.87 (0.17–13.12) –
+a 319 liveborns + 2 ETOPs with malformations. b 68 liveborns + 2 ETOPs with malformations. c 319 liveborns + 1 ETOP with major malformation. d 68 liveborns + 1 ETOP with major malformation. e 319 liveborns. f 319 liveborns + 1 ETOP with genetic malformation. g 1192 liveborns + 4 ETOPs + 2 spontaneous abortions with malformations. h 1192 liveborns + 3 ETOPs + 1 spontaneous abortion with major malformation. i 1192 liveborns. j 1192 liveborns + 1 ETOP + 1 spontaneous abortion with genetic malformation.
+Table 4
+Spontaneous abortions of the vaccinated cohort. GW, gestational week (week + day).
+No. GW at vaccination H1N1 vaccine Reaction towards vaccine GW at abortion Details
+1 3 AS03-adjuvanted Systemic, local 8
+2 2 + 5 AS03-adjuvanted – 9
+3 Preconception (0 + 1) AS03-adjuvanted Local 7
+4 3 weeks preconception Unknown – 11 Dysmorphic chorionic villi
+5 Preconception (1 + 4) Non-adjuvanted – 9
+accounts for a small but not significant lower risk among the vaccinated (HR 0.89; 95% CI 0.36–2.19).
+3.6. Preeclampsia
+In ten of 314 live births after vaccination, pregnancy was complicated by preeclampsia (3.18%; Supplementary Table 3). In most
+cases of preeclampsia, vaccination took place at the end of the
+second/beginning of the third trimester. Among controls, 53/1169
+pregnancies with live birth (4.53%) plus one resulting in late ETOP
+were complicated by preeclampsia (crude OR 0.69; 95% CI 0.31–1.4;
+ORadj 1.15; 95% CI 0.54–2.46).
+3.7. Retrospectively reported cases
+Twelve cases with A(H1N1)v2009 vaccination were retrospectively reported to our Institute, i.e. after the end of the pregnancy
+4450 M. Oppermann et al. / Vaccine 30 (2012) 4445–4452
+Fig. 2. (A) Course of pregnancy for vaccinated and controls. Each line represents the follow-up of a pregnant woman sorted by gestational age at study entry. Dots represent
+vaccinations and pregnancy outcomes. (B) Lexis-diagram. Each line represents the follow-up of a pregnant woman on two time scales: calendar time on the x-axis, and week
+of gestation on the y-axis. Dots represent vaccinations and pregnancy outcomes.
+(Supplementary Table 4). There were three fetal losses: one
+spontaneous abortion, one ETOP because of Turner syndrome, and
+one stillbirth. The other pregnancies ended in live births. Two of
+these infants had malformations but vaccination occurred beyond
+the first trimester: (i) agenesis of the chest muscle after vaccination at 29 gestational weeks and (ii) pulmonary valve stenosis after
+vaccination at 38 + 2 gestational weeks. One preterm birth of twins
+at 29 + 4 gestational weeks was reported, both twins showed typical prematurity-related problems. The other pregnancy outcomes
+were uneventful.
+4. Discussion
+4.1. Pregnancy outcomes
+Our study did not detect specific risks of H1N1 immunization
+during pregnancy and is thus inline withearlier observations. However, we present one ofthe first studies on A(H1N1)v2009 influenza
+vaccination in pregnancy based on data collected in parallel for
+exposed and controls applying identical standards. Lin et al. did not
+find a higher adverse event rate in 198 pregnant women vaccinated
+M. Oppermann et al. / Vaccine 30 (2012) 4445–4452 4451
+with non-adjuvanted vaccine compared to 198 age-matched pregnant women [25]. Other studies used background rates from the
+general population. For example, Omon et al. published the results
+of a French descriptive study: 569 pregnant women, vaccinated
+with the non-adjuvanted split-virion vaccine Panenza® (SanofiPasteur), showed no statistical differences compared to the general
+population in the risks of malformation, maternal, and neonatal
+conditions [26]. Similarly, Tavares et al. did not observe adverse
+pregnancy outcomes among 265 pregnant women vaccinated with
+AS03-adjuvanted vaccine [27].
+As expected, systemic and local reactions were more often
+reported after the use of AS03-adjuvanted vaccine than of nonadjuvanted vaccine, and were comparable to the known adverse
+reactions after influenza vaccination. No severe events occurred in
+our cohort.
+The relatively small number of vaccinated women might not
+permit to definitely discard a risk associated with vaccination, or to
+study specific birth defects. However, we achieved highly reliable
+exposure and outcome data by active prospective data collection
+and standardized documentation. Furthermore, analysis of cases
+lost to follow-up did not suggest a significant selection bias. An
+elaborated methodology was provided to deal with the main challenges of epidemiologic studies for vaccination in pregnancy, these
+being left truncation by delayed study entry, competing risks of
+pregnancy outcomes, and punctual exposure at individual times.
+In our study, vaccination is the time-dependent risk factor taking
+place at virtually every time during pregnancy. In contrast, for studies on long-term prenatal drug treatment, exposure is handled as
+a fixed covariate. Regarding the study entry, a broader range than
+usual was observed, probably due to the updated recommendation
+for vaccination of pregnant women. Delayed study entry – here
+ranging from gestational week five to week 30 and beyond – has
+to be taken into account in order to avoid biased results [17]. Both
+aspects, delayed entry and varying exposure times, have to be considered for all analyses with time of an event as the dependent
+variable, e.g. abortion, ETOP, and time of birth.
+4.2. Primary endpoints
+For both primary endpoints, spontaneous abortions and major
+malformations, no increased risk associated with vaccination could
+be determined. However, since immunization dates were distributed almost uniformly over the entire period of pregnancy
+(Fig. 2B), only a limited number occurred in the first trimester, the
+critical time period for both endpoints. Therefore, special efforts
+had to be made to adjust for confounders. For spontaneous abortions and ETOPs, adjustments were impossible due to the low
+number of events caused by delayed study entry and the high
+proportion of vaccination in late pregnancy. For the analysis of malformations, we applied the counterfactual approach, correcting for
+differences in confounders between the cohorts by the summarizing propensity score. Due to the low number of malformations, a
+direct regression model would lead to numerically instable estimations. For successful bias correction it is crucial that all relevant
+information on confounders is available. We applied imputation
+methods for potentially missing values of covariates. In future studies, more efforts should be made to reduce missing values for the
+socio-economic status to facilitate imputation and adjustment.
+4.3. Secondary endpoints
+For gestational age at birth and birth weight, the study has
+higher power for detection of effects associated with vaccination
+due to the higher effective sample size in both cohorts. However,
+we observed no indications for prematurity or intrauterine growth
+retardation after vaccination. The model for gestational age at birth
+and the comparison of adjusted birth weight revealed no effects for
+the newborn.
+The risk for preeclampsia was comparable in both cohorts and
+within the expected range. In most cases of preeclampsia, vaccination took place at the end of the second/beginning of the third
+trimester and thus beyond the time when placentation disorders,
+a major cause of preeclampsia [28], could have been induced.
+4.4. Retrospectively reported cases
+Our prospectively derived results are supported by the retrospectively reported cases that do not contain any evidence of a
+specific risk or teratogenic effect. Furthermore, the small number
+of reported adverse reactions in pregnancy provides further reassurance, since the pandemic situation caused increased alertness
+among patients and physicians due to the critical discussion of the
+new vaccines in Germany. Our Institute is the national facility for
+pharmacovigilance in pregnancy and receives drug reports for evaluation from the Paul-Ehrlich-Institut, the Drug Commission of the
+German Medical Association, and health care professionals. If there
+was a real risk, a much higher number of reports would have been
+expected.
+5. Conclusion
+There is no indication yet for any unwanted effect of H1N1-
+vaccination to the pregnant woman or the unborn. However, lack
+of evidence of increased risk must not be interpreted as evidence of
+no risk. Larger studies are needed to confirm the anticipated safety
+of immunization during pregnancy.
+Supplementary material
+Supplementary material provides information on which vaccines were used and the time of vaccination, details for cases with
+malformations or preeclampsia, and details for the retrospectively
+reported cases.
+Acknowledgments
+We gratefully thank all the staff from our Institute for counseling, documentation, and data handling, especially Stephanie
+Padberg, Mirjam Rücke, Elke Braun, and Sabine Warnstedt, whose
+support to the project was critical to its success. The authors
+thank Dr. Dorothy Rosenberg, Maine, USA for critical reading of the
+manuscript.
+Contributors: M.O. and J.F. contributed equally to conducting
+and documenting the study and wrote the manuscript. All other
+authors contributed to the manuscript. C.W. supported the conduct
+of the study, B.K. was responsible for initiation and application to
+the responsible ethics committee, A.A. contributed to the statistical
+concept and performed the analysis, R.M. supervised and developed the statistical methods and analyses, and C.S. supervised the
+study and the final manuscript. This article conforms to the Uniform Requirements for Manuscripts Submitted to Biomedical Journals.
+Conflicts of interest: No conflicts of interest. Dr. Keller-Stanislawski
+is employed by the Federal Institute for Vaccines and Biomedicines
+(Paul-Ehrlich-Institut), Langen, Germany, and represents the sponsor of this study. Dr. Keller-Stanislawski declares no conflict of
+interest. Funding: This study was supported by the German Federal Institute for Vaccines and Biomedicines (Paul-Ehrlich-Institut),
+Langen, Germany.
+4452 M. Oppermann et al. / Vaccine 30 (2012) 4445–4452
+Appendix A. Supplementary data
+Supplementary data associated with this article can
+be found, in the online version, at http://dx.doi.org/
+10.1016/j.vaccine.2012.04.081.
+References
+[1] Jamieson DJ, Honein MA, Rasmussen SA, Williams JL, Swerdlow DL, Biggerstaff
+MS, et al. H1N1 2009 influenza virus infection during pregnancy in the USA.
+Lancet 2009;374:451–8.
+[2] Skowronski DM, De Serres G. Is routine influenza immunization warranted in
+early pregnancy. Vaccine 2009;27:4754–70.
+[3] Mak TK, Mangtani P, Leese J, Watson JM, Pfeifer D. Influenza vaccination in
+pregnancy: current evidence and selected national policies. Lancet Infectious
+Diseases 2008;8:44–52.
+[4] Mosby LG, Rasmussen SA, Jamieson DJ. 2009 pandemic influenza A(H1N1) in
+pregnancy: a systematic review ofthe literature.American Journal of Obstetrics
+and Gynecology 2011;205:10–8.
+[5] Robert-Koch-Institut. Schwerer Verlauf einer Infektion mit pandemischer
+Influenza A(H1N1) 2009 bei einer Schwangeren mit im Verlauf aufgetretenem
+intrauterinen Fruchttod. Epidemiologisches Bulletin 2010:448–9.
+[6] CDC Centers for Disease Control and Prevention. Novel influenza A(H1N1) virus
+infections in three pregnant women – United States, April–May. MMWR Morbidity and Mortality Weekly Report 2009;58:497–500.
+[7] CDC Centers for Disease Control and Prevention. Hospitalized patients with
+novel influenza A(H1N1) virus infection – California, April–May. MMWR Morbidity and Mortality Weekly Report 2009;58:536–41.
+[8] Robert-Koch-Institut. Impfung gegen die Neue Influenza A(H1N1). Epidemiologisches Bulletin 2009:403–24.
+[9] Saito S, Sakai M. Th1/Th2 balance in preeclampsia. Journal of Reproductive
+Immunology 2003;59:161–73.
+[10] Piccinni MP, Scaletti C, Vultaggio A, Maggi E, Romagnani S. Defective production of LIF, M-CSF and Th2-type cytokines by T cells at fetomaternal
+interface is associated with pregnancy loss. Journal of Reproductive Immunology 2001;52:35–43.
+[11] von Elm E, Altman DG, Egger M, Pocock SJ, Gotzsche PC, Vandenbroucke JP.
+The Strengthening the Reporting of Observational Studies in Epidemiology
+(STROBE) statement: guidelines for reporting observational studies. Lancet
+2007;370:1453–7.
+[12] Schaefer C, Ornoy A, Clementi M, Meister R, Weber-Schoendorfer C. Using
+observational cohort data for studying drug effects on pregnancy outcome – methodological considerations. Reproductive Toxicology 2008;26:
+36–41.
+[13] Eurocat malformation coding guide: clinical definition of subgroups; 2007.
+Available from: http://www.eurocat-network.eu/content/EUROCAT-ClinicalDefinitions-Subgroups.pdf [accessed 17.01.12].
+[14] Rasmussen SA, Olney RS, Holmes LB, Lin AE, Keppler-Noreuil KM, Moore
+CA. Guidelines for case classification for the National Birth Defects Prevention Study. Birth Defects Research Part A, Clinical and Molecular Teratology
+2003;67:193–201.
+[15] Merks JH, van Karnebeek CD, Caron HN, Hennekam RC. Phenotypic abnormalities: terminology and classification. American Journal of Medical Genetics A
+2003;123A:211–30.
+[16] Wolkewitz M, Allignol A, Schumacher M, Beyersmann J. Two pitfalls in survival analyses of time-dependent exposure: a case study in a cohort of Oscar
+nominees. The American Statistician 2010;64:205–11.
+[17] MeisterR, Schaefer C. Statisticalmethods for estimating the probability of spontaneous abortion in observational studies – analyzing pregnancies exposed to
+coumarin derivatives. Reproductive Toxicology 2008;26:31–5.
+[18] D’Agostino RB. Tutorial in biostatistics: propensity score methods for bias
+reduction in the comparison of a treatmentto a non-randomized control group.
+Statistics in Medicine 1998;17:2265–81.
+[19] McCaffrey DF, Ridgeway G, Morral AR. Propensity score estimation with
+boosted regression for evaluating causal effects in observational studies. Psychological Methods 2004;9:403–25.
+[20] Lee BK, Lessler J, Stuart EA. Improving propensity score weighting using
+machine learning. Statistics in Medicine 2010;29:337–46.
+[21] VoigtM,Rochow N,HesseV, Olbertz D, SchneiderKTM,Jorch G. Short communication about percentile values of body measures of newborn babies. Zeitschrift
+fur Geburtshilfe und Neonatologie 2010;214:24–9.
+[22] Little RJA, Rubin DB. Statistical analysis with missing data. New York: Wiley;
+1987.
+[23] White IR, Royston P, Wood AM. Multiple imputation using chained equations:
+issues and guidance for practice. Statistics in Medicine 2011;30:377–99.
+[24] Rubin DB. Multiple imputation for nonresponse in surveys. New York: Wiley;
+1987.
+[25] Lin TH, Lin SY, Lin CH, Lin RI, Lin HC, Chiu TH, et al. AdimFlu-S((R)) influenza
+A(H1N1) vaccine during pregnancy: the Taiwanese Pharmacovigilance Survey.
+Vaccine 2012;30:2671–5.
+[26] Omon E, Damase-Michel C, Hurault-Delarue C, Lacroix I, Montastruc JL,
+Oustric S, et al. Non-adjuvanted 2009 influenza A(H1N1)v vaccine in pregnant women: the results of a French prospective descriptive study. Vaccine
+2011;29:9649–54.
+[27] Tavares F, Nazareth I, Monegal JS, Kolte I, Verstraeten T, Bauchau V. Pregnancy
+andsafety outcomes in womenvaccinated withanAS03-adjuvantedsplit virion
+H1N1 (2009) pandemic influenza vaccine during pregnancy: a prospective
+cohort study. Vaccine 2011;29:6358–65.
+[28] George EM, Granger JP. Mechanisms and potential therapies for preeclampsia.
+Current Hypertension Reports 2011;13:269–75.

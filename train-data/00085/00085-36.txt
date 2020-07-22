@@ -1,0 +1,819 @@
+﻿Gabapentin Extended-Release Tablets
+for the Treatment of Patients with
+Postherpetic Neuralgia
+A Randomized, Double-Blind, Placebo-Controlled,
+Multicentre Study
+Mark S. Wallace,1 Gordon Irving2 and Verne E. Cowles3
+1 Center for Pain Medicine, University of California, San Diego School of Medicine, La Jolla, California, USA
+2 Swedish Pain and Headache Center Washington, Seattle, Washington, USA
+3 Depomed, Inc., Menlo Park, California, USA
+Abstract Background: Postherpetic neuralgia (PHN) is a neuropathic pain syndrome
+that may develop subsequent to healing of herpes zoster rash.
+Objectives: This study aimed to determine the efficacy and safety of gabapentin extended-release (gabapentin ER) tablets for the treatment of patients
+with PHN and to determine whether optimal benefits might be achieved with
+once-daily (QD) or divided-dose (DD) administration.
+Methods: This was a 10-week, randomized, double-blind, placebo-controlled,
+multicentre trial comparing gabapentin ER (total daily dose 1800 mg) either
+QD or as an asymmetrical DD with placebo in 407 patients with post-zoster
+pain for ‡3 months and a baseline average daily pain score (ADP) ‡4 on a 0–10
+Likert numerical rating scale. The primary efficacy outcome was the ADP score
+mean change from baseline to week 10 using baseline observation carried
+forward (BOCF). Secondary efficacy outcomes included changes to week 10
+in last observation carried forward (LOCF) ADP score, LOCF average daily
+sleep interference score, Short-Form McGill Pain Questionnaire score,
+Neuropathic Pain Scale score, and Brief Pain Inventory score.
+Results: Of 407 randomized patients, 400 were included in the intent-to-treat
+population (gabapentin ER QD, n = 134; gabapentin ER DD, n = 135; placebo,
+n = 131). Between-group differences in the least squares (LS) mean changes in
+BOCF ADP scores did not reach statistical significance (gabapentin ER QD
+-1.85 [p = 0.110 vs placebo]; gabapentin ER DD -1.72 [p = 0.255 vs placebo];
+placebo -1.42). In the LOCF analysis, the LS mean ADP score for the gabapentin ER QD group, but not for the DD group, improved compared with
+placebo (gabapentin ER QD, -2.28; p = 0.032 vs placebo). Improvements compared with placebo were also observed in the gabapentin ER QD group, but
+not for the DD group, for mean daily sleep interference scores (gabapentin
+ORIGINAL RESEARCH ARTICLE Clin Drug Investig 2010; 30 (11): 765-776
+1173-2563/10/0011-0765/$49.95/0
+ª 2010 Adis Data Information BV. All rights reserved.
+ER QD, -2.49; placebo, -1.63; p < 0.001). Most adverse events (AEs) were
+mild or moderate. Among gabapentin-treated patients, 12% and 11% withdrew due to AEs, most commonly for dizziness (2% and 3%), in the gabapentin ER QD and DD groups, respectively. Treatment-related AEs in the
+gabapentin ER-treated groups occurred in 31% of patients. The most common AEs in the gabapentin ER QD and DD groups included dizziness (10%
+and 15%), headache (4% and 7%), somnolence (3% and 7%) and peripheral
+oedema (5% and 5%), respectively.
+Conclusion: The primary efficacy endpoint for this study of gabapentin ER
+was not met, most likely due to the unexpectedly large placebo response.
+Outcomes on secondary endpoints suggest the potential efficacy of gabapentin ER QD. Gabapentin ER was well tolerated in this study.
+[Clinicaltrials.gov identifier NCT00335933]
+Introduction
+Postherpetic neuralgia (PHN) is a neuropathic
+pain syndrome that often follows the resolution
+of herpes zoster rash (shingles) and is usually defined by the persistence of pain for ‡3 months.[1]
+The incidence of PHN among herpes zoster
+patients is usually estimated at between 10% and
+20%, with both the percentage of patients experiencing pain and the severity of the pain increasing with age.[2] The pain experienced by patients
+with PHN may include constant burning, aching
+or throbbing pain, intermittent sharp, shooting
+pain, or allodynia,[2] and can profoundly affect
+quality of life.[3]
+PHN is often refractory to treatment with conventional analgesic therapies. Despite the availability of several treatments with demonstrated
+efficacy, this condition is still challenging.[4,5] The
+antiepileptic drug gabapentin has been shown to
+be efficacious but the dosing regimen involves
+‡3 daily doses.[6] In addition, gabapentin absorption occurs via a saturable transport mechanism,
+and therefore diminishing returns on efficacy are
+observed as the dosage is increased.[7]
+An extended-release formulation of gabapentin
+(gabapentin ER) that employs a gastric retentive
+technology is being investigated for the treatment
+of PHN.[8] The gradual release of gabapentin ER
+from the stomach allows continuous delivery to
+the optimal site of absorption in the intestine over
+approximately 10 hours.[9] Drug exposure following administration of gabapentin ER 1800 mg once
+daily (QD) or an asymmetrical divided dose (DD;
+600 mg am, 1200 mg pm) was shown to provide
+comparable exposure with an identical daily dose
+of the immediate-release formulation administered three times per day.[9] In a 4-week, phase II
+clinical trial, the DD of gabapentin ER was demonstrated to provide significant improvements
+compared with placebo on a variety of pain scales.[10]
+A similar trend was observed for the QD dose,
+although it did not consistently reach statistical
+significance, but patients in both the QD and DD
+groups also demonstrated significant improvements in sleep interference compared with placebo.
+The current study was conducted to investigate the efficacy and safety of gabapentin ER for
+treatment of patients with PHN and to determine
+whether optimal benefits might be achieved with
+QD or DD administration.
+Patients and Methods
+This was a randomized, double-blind, placebocontrolled, multicentre trial conducted at 95 US
+study centres between May 2006 and July 2007
+(Clinicaltrials.gov identifier NCT00335933). The
+study protocol was approved by the institutional
+review board at each centre and was conducted in
+accordance with the International Committee on
+Harmonization of Good Clinical Practice (GCP).
+766 Wallace et al.
+ª 2010 Adis Data Information BV. All rights reserved. Clin Drug Investig 2010; 30 (11)
+Written informed consent was obtained from
+each patient or a legal representative prior to
+screening.
+Patients
+The study enrolled male and female patients
+aged ‡18 years who had experienced neuropathic
+pain for ‡3 months after the healing of acute
+herpes zoster skin rash and who continued to
+experience pain intensity of ‡4 on a Likert numerical rating scale (NRS) of 0 (no pain) to 10
+(worst possible pain) at the end of a 1-week study
+baseline. Patients were required to have a washout period of >5 times the half-life of any benzodiazepines, muscle relaxants, oral corticosteroids,
+capsaicin, mexiletine, centrally acting analgesics,
+opioids, topical lidocaine (lignocaine), antiepileptics and serotonin-norepinephrine reuptake inhibitors. Eligible patients being treated with gabapentin
+or pregabalin at screening had their dose tapered
+over 7 days and underwent a further washout period
+of 2–3 days prior to the baseline week. Females of
+childbearing potential were required to have a negative pregnancy test at screening/randomization,
+and to use acceptable methods of birth control
+throughout the study.
+For ethical reasons, patients were excluded if they
+had previously not responded to treatment with
+gabapentin at doses of ‡1200 mg/day or pregabalin
+at doses ‡300 mg/day, had experienced dose-limiting
+adverse events (AEs) with gabapentin, or had hypersensitivity to gabapentin. Other exclusion criteria included neurolytic/neurosurgical treatment
+for PHN, severe pain from causes other than PHN,
+use of injected anaesthetics or corticosteroids
+within 30 days of baseline, immunocompromised
+state, creatinine clearance <50 mL/min, gastric reduction surgery, history of substance abuse within
+the past year or any skin condition that could alter
+sensation in the area affected by the neuropathy.
+Study Design
+After an initial screening visit and an appropriate period of washout of any medications that
+were discontinued, patients underwent a 1-week
+pretreatment period to establish baseline measurements. Patients who continued to meet the
+pain score eligibility requirements at the end of
+the baseline week were randomized to treatment
+with gabapentin ER 1800 mg QD (taken with the
+evening meal), gabapentin ER 1800 mg DD
+(600 mg am with breakfast/1200 mg pm with the
+evening meal) or placebo for the 10-week doubleblind treatment phase. The allocation sequence,
+prepared by PPD Development LLC (Wilmington,
+NC, USA), was a parallel 1 : 1 : 1 randomization
+stratified by site. Allocation was performed by
+assigning to each patient at the time of randomization the next available patient number corresponding to a blinded medication carton. To
+maintain study blinding, the randomization code
+was kept in a secure place and patients received
+an appropriate combination of active drug and
+placebo tablets in identical blister packs. For patients randomized to active treatment, doses were
+gradually escalated from 300 to 1800 mg/day over
+15 days, maintained at 1800 mg/day until the end
+of week 10, and then tapered for 1 week.
+Patients taking stable doses of antidepressants,
+such as selective serotonin reuptake inhibitors or
+tricyclic antidepressants, or paracetamol (acetaminophen) up to 4000 mg/day for ‡30 days prior
+to screening, were continued at their stable dose
+throughout the study. Selective norepinephrine
+reuptake inhibitors were not permitted.
+Patients were assessed at screening, at the end
+of the baseline week and at weeks 2, 4, 6, 8 and 10
+(end of study period). Daily pain scores and daily
+sleep interference scores rated for the previous
+24 hours using the NRS were recorded by patients
+each morning using an electronic diary (DiaryPRO, invivodata, Pittsburgh, PA, USA) from the
+beginning of the baseline week to the end of the
+efficacy treatment period (treatment week 10).
+Patients also completed the Short-Form McGill
+Pain Questionnaire (SF-MPQ)[11] and Neuropathic
+Pain Scale (NPS)[12] at baseline and at weeks 2,
+4, 8 and 10. The Brief Pain Inventory (BPI)[13]
+was completed at baseline and every 2 weeks until
+study end. The Patient Global Impression of
+Change (PGIC) and the Clinical Global Impression of Change (CGIC) were completed at the
+end-of-study assessment.
+The primary efficacy endpoint was the least
+squares (LS) mean change from baseline to week 10
+Gabapentin ER for Postherpetic Neuralgia 767
+ª 2010 Adis Data Information BV. All rights reserved. Clin Drug Investig 2010; 30 (11)
+using baseline observation carried forward (BOCF)
+for the average daily pain (ADP) score. Comparisons were made for each treatment group with
+placebo. Secondary efficacy variables included
+LS mean changes to week 10 for BOCF daily sleep
+interference score, last observation carried forward (LOCF) ADP score, daily sleep interference
+score, SF-MPQ score, NPS score, BPI score and
+the end-of-study assessments of PGIC and CGIC.
+In addition, the proportion of responders (‡50%
+reduction in ADP score at endpoint) was assessed.
+Other analyses performed included betweentreatment comparisons of both the BOCF and
+LOCF ADP scores by treatment week, as well as
+analyses of the BOCF ADP score by age, sex and
+time since resolution of the herpes zoster rash.
+AEs were recorded throughout the study, and
+physical examinations and laboratory tests were
+performed at screening and study end.
+Statistics
+The primary null hypothesis tested was that
+there was no treatment difference in the LS mean
+change for the BOCF ADP score from baseline to
+week 10 of the efficacy treatment period between
+each gabapentin ER treatment group and the placebo treatment group. Assuming an 80% study
+completion rate and a significance level of a = 0.025
+for two pairwise comparisons (primary endpoint),
+it was determined that a sample size of 378 patients (126 per treatment arm) would have 90%
+power to detect a difference of 0.7 in the ADP
+score from baseline to study end. For analysis of
+demographics and baseline characteristics, data
+were pooled for all study centres, an ANOVA
+model including the treatment factor was used to
+analyse the numerical data, and Fisher’s exact
+test was used to analyse the categorical data. Efficacy analyses were performed on the intent-totreat (ITT) population (all randomized patients
+who received study medication). The BOCF or
+LOCF methods were used to calculate efficacy
+endpoints with missing data. Analysis of the primary efficacy outcome was performed using an
+analysis of covariance (ANCOVA) parallel lines
+model that included treatment, centre and baseline ADP score as covariates. Calculations included the LS estimate of the mean change with
+each treatment and its 95% confidence interval
+(CI) as well as a 95% CI of the pairwise difference
+between each treatment group and placebo (treatment minus placebo) for the mean change in
+ADP score.
+An ANOVA model including treatment and
+centre or a parallel lines ANCOVA model including treatment, centre and baseline measurement
+as the covariate was used for the analysis of continuous secondary efficacy measurements. Patients
+from all study centres were pooled for the analysis of the categorical outcome data.
+For the analysis of the proportion of responders, the Cochran-Mantel-Haenszel test stratified
+by the baseline pain score category (ADP score
+<8 vs ‡8) was used for the overall comparison.
+For the analysis of ordinal categorical data (PGIC
+and CGIC), a Cochran-Mantel-Haenszel test of
+general association with modified ridit scores was
+used for the overall comparison among all treatment groups. For the analysis of the dichotomous
+outcome data, a two-sided Fisher’s exact test
+was used for the overall comparison among all
+treatment groups. In addition, a two-sample Z
+test on two proportions between each gabapentin ER treatment versus placebo treatment was
+performed.
+The statistical tests for the analysis of the primary efficacy parameter were performed at the
+a = 0.025 significance level owing to two pairwise
+comparisons between each gabapentin ER treatment group and the placebo group (0.05/2 for two
+comparisons). The statistical tests used for the
+analysis of baseline variables and secondary efficacy parameters were performed at the a = 0.05
+significance level. All tests were two-sided. The
+safety population included all patients who received at least one dose of study medication.
+Fisher’s exact test was used to compare the incidence of most frequent or severe AEs among
+treatment groups.
+Results
+In total, 526 patients were enrolled and 407
+were randomized (figure 1). Two patients did not
+receive study medication and five patients from
+768 Wallace et al.
+ª 2010 Adis Data Information BV. All rights reserved. Clin Drug Investig 2010; 30 (11)
+one study centre were excluded from the ITT
+population due to protocol deviation (GCP violations) but were included in the safety population.
+Additionally, 11 patients received non-randomized
+treatment. For the efficacy evaluation they were
+included in the group in which they were originally randomized; for the safety evaluation they
+were assigned to the actual medication received.
+Thus, 400 patients were included in the ITT population (figure 1) and 405 in the safety population.
+Among 82 patients who prematurely discontinued study medication during the efficacy treatment period, the most common reason was AEs
+(n = 45; gabapentin ER QD, n = 16; DD, n = 15;
+placebo, n = 14).
+Baseline clinical and demographic characteristics were mostly similar between groups, although
+there were fewer males in the gabapentin ER QD
+group compared with both the gabapentin ER
+DD and placebo groups (table I). Compared with
+both the gabapentin ER DD and placebo groups,
+numerically fewer patients in the gabapentin ER
+QD group were using concomitant nonopioid
+pain medications. There were no significant differences across treatment groups at baseline in LS
+mean ADP score, mean SF-MPQ visual analogue
+scale score or mean NPS score at screening. Most
+randomized patients (291/407) did not require
+any washout of pain medications prior to study
+entry.
+Patients randomized
+n = 407
+Gabapentin ER
+QD
+n = 136
+Did not receive
+study medication, n = 0
+Received DD, n = 1
+Received placebo, n = 2
+Received QD, n = 4
+Received placebo, n = 1
+Received QD, n = 1
+Received DD, n = 2
+Did not receive
+study medication, n = 1
+Did not receive
+study medication, n = 1
+GCP violation, n = 2 GCP violation, n = 1 GCP violation, n = 2
+Prematurely discontinued
+study medication, n = 21
+Prematurely discontinued
+or did not receive tapering
+medication, n = 2
+Prematurely discontinued
+study medication, n = 31
+Prematurely discontinued
+or did not receive tapering
+medication, n = 2
+Prematurely discontinued
+study medication, n = 30
+Prematurely discontinued
+or did not receive tapering
+medication, n = 0
+QD
+n = 136
+QD
+n = 138
+(safety
+population)
+QD
+n = 134
+(ITT
+population)
+DD
+n = 135
+(ITT
+population)
+Placebo
+n = 131
+(ITT
+population)
+QD
+n = 111
+(completed
+study)
+DD
+n = 102
+(completed
+study)
+Placebo
+n = 101
+(completed
+study)
+Placebo
+n = 133
+(safety
+population)
+DD
+n = 134
+(safety
+population)
+Gabapentin ER
+DD
+n = 137
+DD
+n = 136
+Placebo
+n = 134
+Placebo
+n = 133
+Fig. 1. Patient disposition. DD = divided dose; ER = extended release; GCP = Good Clinical Practice; ITT = intent-to-treat; QD = once daily.
+Gabapentin ER for Postherpetic Neuralgia 769
+ª 2010 Adis Data Information BV. All rights reserved. Clin Drug Investig 2010; 30 (11)
+Efficacy
+The LS mean BOCF ADP scores at baseline
+were 6.50, 6.39 and 6.78 for the gabapentin ER
+QD, gabapentin ER DD and placebo groups, respectively (table I). In the BOCF analysis, greater
+numerical decreases in ADP score were observed
+in both of the gabapentin ER treatment groups
+compared with the placebo group, but these differences did not reach statistical significance
+(table II). When analysed by treatment week,
+BOCF ADP scores were reduced for the gabapentin ER QD group compared with placebo from
+weeks 1–7, whereas they were reduced for the
+gabapentin ER DD group only from weeks 1–4
+(figure 2a).
+Further analyses of BOCF ADP scores did not
+demonstrate any differences at endpoint according to subject age (<65 vs ‡65 years) or sex (results
+not shown). However, in the subgroup whose rash
+had healed ‡6 months prior to study entry, the reduction in the LS mean ADP score for the gabapentin ER QD group was greater than for placebo
+(table II). In addition, in the subgroup whose rash
+had healed <6 months prior to study entry, the reduction in the LS mean ADP score was numerically greater in the placebo group compared with
+either gabapentin ER treatment group (table II).
+Table I. Demographics and baseline clinical characteristics
+Variable Gabapentin ER
+1800 mg/day QD
+Gabapentin ER
+1800 mg/day DD
+Placebo
+Study populations
+Randomized [n] 136 137 134
+Safety [n (%)]a 138 (101) 134 (98) 133 (99)
+Intent-to-treat [n (%)] 134 (98) 135 (98) 131 (97)
+Demographics
+Age [y (mean – SD)] 68 – 11.8 66 – 13.2 66 – 12.6
+Male [n (%)] 60 (44.1)* 69 (50.4) 79 (59.0)
+Race [n (%)]
+White 115 (84.6) 123 (89.8) 122 (91.0)
+Black 6 (4.4) 10 (7.3) 5 (3.7)
+Hispanic 11 (8.1) 3 (2.2) 5 (3.7)
+other 4 (2.9) 1 (0.7) 2 (1.5)
+Bodyweight [kg (mean –SD)] 81.5 – 15.9 82.7 – 18.4 81.9 – 16.4
+Location of neuropathic pain [n (%)]
+Face 27 (19.9) 19 (13.9) 27 (20.1)
+Torso 62 (45.6) 71 (51.8) 69 (51.5)
+Face and torso 0 1 (0.7) 0
+Extremities 17 (12.5) 19 (13.9) 15 (11.2)
+Torso and extremities 6 (4.4) 5 (3.6) 6 (4.5)
+Other 24 (17.6) 22 (16.1) 17 (12.7)
+Analgesic use [n (%)]
+Use of nonopioid analgesic medications 30 (22.1) 38 (28.6) 43 (32.8)
+Pain scores
+Average daily pain score [LS mean –SEM] 6.50 – 0.16 6.39 – 0.16 6.78 – 0.16
+Short-Form McGill Pain Questionnaire visual
+analogue score [mean – SD]
+65.5 – 15.8 64.8 – 14.3 65.1 – 15.7
+NPS score [mean – SD] 6.2 – 1.5 6.2 – 1.5 6.5 – 1.6
+a Patients included by treatment actually received; 11 patients received treatment different from that to which they were randomized.
+DD = divided dose; ER = extended release; LS = least squares; NPS = Neuropathic Pain Scale; QD = once daily; SEM = standard error of the
+mean; * p = 0.05 vs gabapentin ER DD and placebo.
+770 Wallace et al.
+ª 2010 Adis Data Information BV. All rights reserved. Clin Drug Investig 2010; 30 (11)
+Table II. Changes from baseline to study end in efficacy endpointsa
+Change from baseline Gabapentin ER 1800 mg/day
+QD (n = 134)
+Gabapentin ER 1800 mg/day
+DD (n = 135)
+Placebo (n = 131) p-Valueb
+QD DD
+BOCF average daily pain score -1.85 – 0.21 -1.72 – 0.21 -1.42 – 0.21 0.110 0.255
+rash resolved <6 months prior to study entry -1.98 – 0.44 -2.16 – 0.42 -2.42 – 0.44 0.478 0.677
+rash resolved ‡6 months prior to study entry -1.96 – 0.20 -1.79 – 0.20 -1.36 – 0.21 0.040 0.148
+LOCF average daily pain score -2.28 – 0.22 -2.08 – 0.21 -1.69 – 0.22 0.032 0.154
+Average daily sleep interference score -2.49 – 0.20 -1.99 – 0.20 -1.63 – 0.20 0.001 0.152
+Short-Form McGill Pain Questionnaire
+Sensory score -6.22 – 0.68 -5.40 – 0.68 -4.81 – 0.66 0.078 0.467
+Affective score -2.06 – 0.24 -1.52 – 0.24 -1.72 – 0.24 0.240 0.491
+Total pain score -8.23 – 0.87 -7.00 – 0.87 -6.53 – 0.85 0.096 0.642
+Visual analogue score -26.30 – 2.63 -23.65 – 2.62 -19.11 – 2.58 0.020 0.143
+Present pain intensity score -0.94 – 0.11 -0.78 – 0.11 -0.68 – 0.11 0.044 0.479
+Neuropathic Pain Scale
+Average of all ten pain items -2.31 – 0.21 -1.95 – 0.21 -1.66 – 0.20 0.008 0.239
+Average of eight descriptors -2.20 – 0.20 -1.87 – 0.20 -1.61 – 0.20 0.013 0.269
+Non-allodynia items -2.32 – 0.20 -1.90 – 0.20 -1.67 – 0.20 0.006 0.336
+Peripheral pain items -2.56 – 0.22 -2.03 – 0.22 -1.89 – 0.22 0.012 0.593
+Brief Pain Inventory
+Worst pain score in last 24 hours -2.69 – 0.27 -2.23 – 0.27 -1.79 – 0.27 0.006 0.177
+Least pain in last 24 hours -1.82 – 0.21 -1.44 – 0.21 -1.35 – 0.21 0.063 0.721
+Average pain score -2.33 – 0.23 -2.13 – 0.23 -1.61 – 0.23 0.009 0.055
+Current pain score -2.35 – 0.26 -1.90 – 0.26 -1.74 – 0.25 0.043 0.583
+Percentage pain relief 28.8 – 4.0 30.1 – 3.9 24.4 – 3.8 0.340 0.212
+a Data are least squares mean – standard error of the mean.
+b Gabapentin ER vs placebo.
+BOCF = baseline observation carried forward; DD = divided dose; ER = extended release; LOCF = last observation carried forward; QD = once daily.
+Gabapentin ER for Postherpetic Neuralgia 771
+ª 2010 Adis Data Information BV. All rights reserved. Clin Drug Investig 2010; 30 (11)
+In the LOCF analysis, the change from baseline
+in LS mean ADP score was greater for the gabapentin ER QD group (-2.28, p = 0.032), but not
+for the gabapentin ER DD group (-2.08, p = 0.154),
+compared with placebo (-1.69) [table II]. There
+were no differences between the proportions of
+patients in each group who had ‡50% decrease in
+pain scores (gabapentin ER QD, 49/134 [p = 0.113
+compared with placebo]; gabapentin ER DD,
+46/135 [p = 0.244 compared with placebo]; placebo, 36/131). In the LOCF analysis by treatment week,
+ADP scores were reduced for the gabapentin ER
+QD group compared with placebo during all
+study weeks except week 9, whereas they were
+reduced for the gabapentin ER DD group only
+during weeks 1–4 (figure 2b).
+The LOCF average daily sleep interference
+scores were reduced from baseline in the gabapentin
+ER QD group compared with placebo (table II).
+In the analysis by treatment week, LOCF average
+daily sleep interference scores were reduced for
+the gabapentin ER QD group compared with
+placebo during all study weeks, whereas they
+were reduced for the gabapentin ER DD group
+only during weeks 1, 2 and 4 (figure 2c).
+Among other secondary efficacy endpoints,
+differences between gabapentin ER QD and placebo were observed for SF-MPQ visual analogue
+scale and present pain intensity scores; for the
+NPS on the average of all ten pain items, average
+of eight descriptors, non-allodynia items and peripheral pain items; and for the BPI on the worst
+pain score in the last 24 hours, average pain score
+and current pain score (table II). No significant
+differences on these endpoints were observed for
+gabapentin ER DD. For the PGIC, 55/125, 44/
+115 and 32/116 of patients in the gabapentin ER
+QD, gabapentin ER DD and placebo groups, respectively, were rated as very much or much improved (p = 0.008 and p = 0.084 for gabapentin
+ER QD vs placebo and gabapentin ER DD vs
+placebo, respectively). For the CGIC, 58/123,
+46/120 and 32/116 of patients in the gabapentin
+ER QD, gabapentin ER DD and placebo groups,
+respectively, were rated as very much or much
+improved (p = 0.002 and p = 0.081 for gabapentin
+ER QD vs placebo and gabapentin ER DD vs
+placebo, respectively).
+Safety
+At least one AE was experienced by 78/138, 77/
+134 and 64/133 patients in the gabapentin ER QD,
+gabapentin ER DD and placebo groups, respectively.
+Placebo
+Gabapentin ER DD
+Gabapentin ER QD
+0
+−0.5
+−1.0
+LS mean change in average
+daily pain score
+LS mean change in average
+daily pain score
+LS mean change in average
+daily sleep interference score −1.5
+−2.0
+−2.5
+0
+012345
+Time (wk)
+6 7 8 9 10
+−0.5
+−1.0
+−1.5
+−2.0
+−2.5
+012345
+Time (wk)
+6 7 8 9 10
+−0.5
+0
+c
+b
+a
+−1.0
+−1.5
+−2.0
+−3.0
+−2.5
+012345
+Time (wk)
+6 7 8 9 10
+*
+* *
+*
+*
+*
+*
+* * * *
+*
+*
+*
+*
+* * * * * *
+*
+*
+*
+*
+* * * * * * * *
+*
+*
+*
+*
+Fig. 2. Least squares (LS) mean change from baseline in average
+daily pain score (a, b) and average daily sleep interference score
+(c) by treatment week analysed using baseline observation carried
+forward (a) or last observation carried forward (b, c). DD = divided
+dose; ER = extended release; QD = once daily. * p £ 0.05 vs placebo.
+772 Wallace et al.
+ª 2010 Adis Data Information BV. All rights reserved. Clin Drug Investig 2010; 30 (11)
+These AEs were judged to be treatment-related in
+41/138, 44/134 and 29/133 patients, respectively
+(table III). The majority of AEs were mild to moderate in severity. The most frequent treatmentemergent AEs were nervous system disorders
+(affecting 27/138 patients receiving gabapentin
+ER QD, 34/134 patients receiving gabapentin ER
+DD and 16/133 patients receiving placebo) and
+gastrointestinal disorders (affecting 19/138 patients
+receiving gabapentin ER QD, 21/134 patients receiving gabapentin ER DD and 22/133 patients receiving placebo). Among the most common AEs (‡5%
+in any treatment group), there were differences across treatment groups in the incidence of dizziness (p = 0.002) and peripheral oedema (p = 0.017)
+[table III].
+Serious AEs were reported for 14 patients
+(table III). All except one (severe headache in a
+patient in the gabapentin ER DD group) were
+considered unrelated to study drug. One patient
+in the placebo group experienced a myocardial
+infarction 3 days after randomization and died
+2 days later.
+Forty-six patients (16/138, 15/134 and 15/133
+in the gabapentin ER QD, gabapentin ER DD and
+placebo groups, respectively) experienced AEs
+that led to study discontinuation (table III). The
+most common AEs leading to discontinuation
+were dizziness (gabapentin ER QD, n = 3; gabapentin ER DD, n = 4; placebo, n = 2) and headache (gabapentin ER QD, n = 1; gabapentin ER
+DD, n = 2; placebo, n = 2). All except one of these
+AEs (headache) were considered possibly or probably related to study drug.
+Discussion
+Although ADP scores were reduced with gabapentin ER treatment in this study, the BOCF
+primary efficacy endpoint did not reach statistical significance. This was probably due to the unexpectedly large reduction in LS mean ADP scores
+in the placebo group (-1.42 BOCF, -1.69 LOCF).
+In fact, the magnitude of treatment-associated
+decreases in LOCF daily pain scores (-2.3 gabapentin ER QD; -2.1 gabapentin ER DD) was similar to LOCF observations from previous studies
+of gabapentin immediate release (total daily dose
+1800 mg, -2.2; 2400 mg, -2.3;[14] 3600 mg, -2.1[15])
+despite differences in drug formulation (short
+acting vs extended release) and study designs (e.g.
+duration and dose). However, the responses of
+the placebo groups in those previous trials were
+substantially smaller (average change in daily
+pain scores, -0.5[15] and -0.9[14]).
+The placebo response has complicated other
+recent trials of agents to treat neuropathic pain,
+and the potential contribution by such factors as
+Table III. Adverse events (AEs)
+Variable Gabapentin ER
+1800 mg/day QD
+Gabapentin ER
+1800 mg/day DD
+Placebo
+Patients who received treatment [n] 138 134 133
+Patients with AEs [n (%)]
+Any AE 78 (57) 77 (58) 64 (48)
+‡1 treatment-related AE 41 (30) 44 (33) 29 (22)
+‡1 serious AE 4 (3) 6 (5) 4 (3)
+‡1 AE causing study discontinuation 16 (12) 15 (11) 15 (11)
+Most common AEsa [n (%)]
+Dizzinessb 14 (10) 20 (15) 4 (3)
+Headache 5 (4) 9 (7) 6 (5)
+Somnolence 4 (3) 9 (7) 3 (2)
+Peripheral oedemab 7 (5) 6 (5) 0
+a Occurring in ‡5% of patients in any treatment group.
+b p < 0.05 for overall comparison.
+DD = divided dose; ER = extended release; QD = once daily.
+Gabapentin ER for Postherpetic Neuralgia 773
+ª 2010 Adis Data Information BV. All rights reserved. Clin Drug Investig 2010; 30 (11)
+patient recruitment and trial duration has been
+suggested.[16,17] Unlike in some other neuropathic
+pain syndromes, spontaneous resolution of pain
+in PHN also has the potential to interfere substantially with demonstration of treatment effects.
+The possibility that this confounded the results of
+the current study may be supported by the especially robust placebo response in the subset of
+patients whose rash had healed more recently
+(<6 months). In a study of herpes zoster vaccine,
+almost half of the placebo patients (36/81) with
+PHN at 3 months after onset of the herpes zoster
+rash were no longer considered to have PHN at
+6 months.[18] Thus, patients with a shorter history
+of PHN might be more likely to demonstrate spontaneous resolution of pain.
+Despite missing statistical significance on the
+primary endpoint, treatment-associated improvements were observed on many of the secondary
+endpoints. The magnitude of treatment effects
+observed was greater in the group of patients who
+received a QD dose compared with those who
+received DD therapy. This contrasts with the results from an earlier study of shorter duration
+(4 weeks), in which the DD appeared to demonstrate advantages compared with the QD dose.[10]
+This difference between the studies might be attributable in part to the duration of each, because
+outcomes in the earlier study were not significantly different over the 4-week duration and
+treatment responses in the current study were similar over the first 4 weeks. On the other hand, it
+is not possible to exclude a contribution by a potential imbalance in randomization. For example,
+the difference between studies might conceivably
+be related to the inclusion in the current study of
+fewer males in the gabapentin ER QD group
+compared with both other groups. However, sex
+did not appear to contribute to differences in responses to treatment. Alternatively, since numerically fewer patients in the QD group of the current
+study used concomitant analgesic medications
+compared with both other groups, this might have
+reflected an imbalance in another unidentified
+characteristic.
+Gabapentin ER was well tolerated in this
+study, and the incidence and nature of AEs were
+those expected for this patient population. In
+addition, the total rates of AEs, treatment-related
+AEs and AEs leading to withdrawal were similar
+among groups. The incidences of dizziness and
+somnolence in the gabapentin ER QD group were
+substantially lower than in the previous study
+with gabapentin ER,[10] and there was no obvious
+relationship between somnolence and gabapentin
+ER QD dosing in this study. In fact, the overall
+incidences of both dizziness and somnolence in
+both studies with gabapentin ER were lower than
+observed in previous studies of immediate-release
+gabapentin.[14,15]
+The extent to which these study results can be
+generalized is limited by the enrichment protocol
+that excluded patients who previously did not tolerate gabapentin or pregabalin. However, ethical
+issues preclude enrolling patients who have experienced lack of efficacy or intolerable AEs with an
+agent into another study evaluating the same agent.
+Despite this enrichment design, the patient population was comparable with that of other PHN
+studies and typical of the general PHN population in terms of patient age and other characteristics. Furthermore, notwithstanding this limitation,
+the design of this study was very similar to that of
+published studies of gabapentin and pregabalin,
+so comparison of results with data for these treatments may be considered useful.
+Conclusion
+Although the BOCF analysis of the primary
+endpoint of this study did not provide conclusive
+support for gabapentin ER as a treatment for PHN,
+many of the secondary endpoints suggested the
+potential for benefits of gabapentin ER in these
+patients. In addition, this study identified duration
+of PHN as a potentially important confounder,
+a finding that may prove useful in designing future studies of prospective therapies. Further studies are needed to clarify the potential efficacy of
+gabapentin ER 1800 mg QD as a treatment for
+PHN.
+Acknowledgements
+This study was funded by Depomed, Inc., who designed
+the study and directed the data analysis. In addition, together
+774 Wallace et al.
+ª 2010 Adis Data Information BV. All rights reserved. Clin Drug Investig 2010; 30 (11)
+with the study investigators and Solvay Pharmaceuticals, Inc.
+(now part of Abbott), Depomed participated in the collection
+and interpretation of data, in the writing of the manuscript
+and in the decision to submit the manuscript for publication.
+MSW has received research support from Depomed, Inc.
+GI has participated in advisory boards for Eli Lilly, Elan,
+Neurogesx and Depomed, and in speaker bureaus for Eli
+Lilly, Pfizer, Elan and Primera. VEC is an employee of Depomed, Inc. and owns stock and holds options for Depomed,
+Inc. Editorial assistance was provided by Michelle Heritier,
+PhD, RPh, formerly of Depomed, Inc. Editorial support was
+provided by Ed Parr, PhD, Envision Scientific Solutions,
+Southport, CT, USA and funded by Solvay Pharmaceuticals,
+Inc. (now part of Abbott).
+The authors thank the clinical investigators who participated in this study, including: Steve M. Adkins,MD,Weber City,
+VA; Warren Albrecht, MD, New Braunfels, TX; Mohammed
+Allaw, MD, Evansville, IN; George J. Atiee, MD, San Antonio,
+TX; Donald W. Ayres, MD, Lebanon, NH; Thomas M. Banas,
+MD, MS, Fort Wayne, IN; Mark A. Barber, DO, Interlochen,
+MI; Robert Bargar, MD, Boston, MA; Jared C. Barlow, MD,
+Williamsville, NY; Anthony J. Bartkowiak Jr, MD, Altoona,
+PA; Bruce J. Berwald, MD, St Louis, MO; Eileen M. Brady,
+MD, Albuquerque, NM; Randall P. Brewer, MD, Shreveport,
+LA; Mark L. Brody, MD, Delary Beach, FL; Paul K.
+Brownstone, MD, Boulder, CO; Christopher T. Caldwell,
+DO, Missoula, MT; David G. Carfagno, DO, Scottsdale, AZ;
+Michael Castro, MD, Glendale, AZ; James R. Cato, MD,
+Nashville, TN; Michelle L. Cheloha, MD, Scottsbluff, NE;
+Bruce Cleeremans, MD, Irvine, CA; Steven R. Cohen, MD,
+PhD, St Petersburg, FL; Paul C. Collins, MD, Boise ID; Craig
+Curtis, MD, Orlando, FL; Lynn F. Dahl, DO, Hampton, VA;
+Hugh D. Durrence, RPh, MD, Charleston, SC; William Travis
+Ellison, MD, Greer, SC; William J. Evans, MD, Ocean Springs,
+MS; Kae Ferber, MD, Naples, FL; Matthew P. Finneran,
+MD, Wadsworth, OH; Mark Fisher, MD, Oklahoma City,
+OK; Orlando G. Florete Jr, MD, Jacksonville, FL; David L.
+Fried, MD, Warwick, RI; Yury Furman, MD, Los Angeles,
+CA; Sheldon Gingerich, MD, Tucson, AZ; Jeffrey S. Gitt,
+DO, Phoenix, AZ; Jerome Goldstein, MD, San Francisco,
+CA; Ralph F. Gonzalez, MD, Bradenton, FL; James A. Gray,
+MD, Fayetteville, TN; Stephen D. Grubb, MD, Tabor City,
+NC; Jon M. Gustafson, MD, Murray, KY; Roger P. Guthrie,
+MD, Pismo Beach, CA; Mark R. Hagen, MD, Westfield, NY;
+Hoadley H. Harris, MD, Fargo, ND; Jonathan Harris, MD,
+Ft. Lauderdale, FL; Susan E. Hotz, MD, Dallas, TX; Thomas
+E. Hurd, MD, Marietta, GA; Stuart H. Isaacson, MD, Boca
+Raton, FL; William Keating, MD, Dawsonville, GA; David
+B. Kudrow, MD, Santa Monica, CA; Michael T. Ledet, MD,
+Mobile, AL; Thomas W. Littlejohn, III, MD, Winston-Salem,
+NC; John F. Long, DO, Spokane, WA; Richard I. Malamut,
+MD, Upland, PA; Walter C. Martinez, MD, West Palm
+Beach, FL; James A. McCarthy, MD, West Yarmouth, MA;
+Dennis C. McCluskey, MD, Mogadore, OH; Alan P. Mersch,
+DO, Central Point, OR; David D. Michie, PhD, Fort Myers,
+FL; I. Michael Minehart, MD, Arcadia, CA; David Minnick,
+MD, Broken Bow, NE; Martin D. Mollen, MD, Phoenix, AZ;
+George C. Morgan, MD, PhD, Huntsville, AL; Ryan Owsley,
+MD, Nampa, ID; John E. Pappas, MD, Lexington, KY; Ajay
+J. Pathak, MD, Carrollton, TX; William M. Patterson, MD,
+Birmingham, AL; Robert L. Pearlman, MD, Birmingham,
+AL; Larry Presant, MD, San Diego, CA; Marina Raikhel,
+MD, Torrance, CA; Richard L. Rauck, MD, Winston-Salem,
+NC; Larry D. Reed, PhD, MD, Florissant, MO; Kenneth W.
+Rictor, MD, Scotland, PA; David M. Sandoval, MD, Bend,
+OR; David Steiner, MD, Lawrence, NY; Chitta Thiagarajah,
+MD, Lancaster, CA; Brian E. Tschida, MD, Rapid City,
+SD; Raghu P. Upender, MD, Nashville, TN; Nick G. Vatakis,
+MD, Brooklyn, NY; Jeanette K. Wendt, MD, Tucson, AZ;
+David L. Williams, MD, Daytona Beach, FL; Douglas Young,
+MD, Sacramento, CA; Brian K. Zehnder, MD, Magna, UT.
+References
+1. Dworkin RH, Portenoy RK. Pain and its persistence in
+herpes zoster. Pain 1996 Oct; 67 (2-3): 241-51
+2. Johnson RW, Wasner G, Saddier P, et al. Postherpetic
+neuralgia: epidemiology, pathophysiology and management. Expert Rev Neurother 2007 Nov; 7 (11): 1581-95
+3. Lydick E, Epstein RS, Himmelberger D, et al. Herpes zoster
+and quality of life: a self-limited disease with severe impact.
+Neurology 1995 Dec; 45 (12 Suppl. 8): S52-3
+4. Collins SL, Moore RA, McQuay HJ, et al. Antidepressants
+and anticonvulsants for diabetic neuropathy and postherpetic neuralgia: a quantitative systematic review. J Pain
+Symptom Manage 2000 Dec; 20 (6): 449-58
+5. Zin CS, Nissen LM, Smith MT, et al. An update on the
+pharmacological management of post-herpetic neuralgia
+and painful diabetic neuropathy. CNS Drugs 2008; 22 (5):
+417-42
+6. Neurontin [package insert]. New York: Pfizer Inc., 2009
+7. Stewart BH, Kugler AR, Thompson PR, et al. A saturable
+transport mechanism in the intestinal absorption of gabapentin is the underlying cause of the lack of proportionality
+between increasing dose and drug levels in plasma. Pharm
+Res 1993 Feb; 10 (2): 276-81
+8. Gabapentin extended-release – Depomed: gabapentin ER,
+gabapentin gastric retention, gabapentin GR. Drugs R D
+2007; 8 (5): 317-20
+9. Gordi T, Hou E, Kasichayanula S, et al. Pharmacokinetics
+of gabapentin after a single day and at steady state following the administration of gastric-retentive, extended-release
+and immediate-release tablets: a randomized, open-label,
+multiple-dose, three-way crossover, exploratory study in
+healthy subjects. Clin Ther 2008 May; 30 (5): 909-16
+10. Irving G, Jensen M, Cramer M, et al. Efficacy and tolerability of gastric-retentive gabapentin for the treatment of
+postherpetic neuralgia: results of a double-blind, randomized, placebo-controlled clinical trial. Clin J Pain 2009
+Mar-Apr; 25 (3): 185-92
+11. Melzack R. The Short-Form McGill Pain Questionnaire.
+Pain 1987 Aug; 30 (2): 191-7
+12. Galer BS, Jensen MP. Development and preliminary
+validation of a pain measure specific to neuropathic pain:
+the Neuropathic Pain Scale. Neurology 1997 Feb; 48 (2):
+332-8
+13. Cleeland CS, Ryan KM. Pain assessment: global use of the
+Brief Pain Inventory. Ann Acad Med Singapore 1994 Mar;
+23 (2): 129-38
+14. Rice AS, Maton S, Postherpetic Neuralgia Study Group.
+Gabapentin in postherpetic neuralgia: a randomised, douGabapentin ER for Postherpetic Neuralgia 775
+ª 2010 Adis Data Information BV. All rights reserved. Clin Drug Investig 2010; 30 (11)
+ble blind, placebo controlled study. Pain 2001 Nov; 94 (2):
+215-24
+15. Rowbotham M, Harden N, Stacey B, et al. Gabapentin for
+the treatment of postherpetic neuralgia: a randomized
+controlled trial. JAMA 1998 Dec 2; 280 (21): 1837-42
+16. Polydefkis M, Raja SN. What can we learn from failed neuropathic pain trials? Neurology 2008 Jan 22; 70 (4): 250-1
+17. Quessy SN, Rowbotham MC. Placebo response in neuropathic pain trials. Pain 2008 Sep 15; 138 (3): 479-83
+18. Oxman MN, Levin MJ, Johnson GR, et al., Shingles Prevention Study Group. A vaccine to prevent herpes zoster and
+postherpetic neuralgia in older adults. N Engl J Med 2005
+Jun 2; 352 (22): 2271-84
+Correspondence: Dr Mark Wallace, University of California,
+San Diego School of Medicine, 9300 Campus Point Drive,
+76500924, La Jolla, CA 92037-765092093, USA.
+E-mail: mswallace@ucsd.edu
+776 Wallace et al.
+ª 2010 Adis Data Information BV. All rights reserved. Clin Drug Investig 2010; 30 (11)

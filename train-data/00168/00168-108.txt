@@ -1,0 +1,110 @@
+The Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention recommends influenza vaccination for women who will be in the second or third trimester of pregnancy during the influenza season. We analyzed hospital admissions with principal diagnoses of influenza or pneumonia and influenza-like illness (ILI) outpatient visits to study the effectiveness of influenza vaccine during pregnancy in protecting women and infants from influenza-related morbidity. Estimates of influenza vaccine effectiveness across five flu seasons (Fall 1997 to Spring 2002) were calculated using Cox proportional hazards models for women and infant study populations in Kaiser Permanente Northern California. Outpatient utilization outcomes included physician visits with a diagnosis of upper respiratory infection, pharyngitis, otitis media, asthma, bronchial asthma, viral infection, pneumonia, fever, cough, or wheezing associated with respiratory illness. Inpatient outcomes included hospitalizations with principal diagnoses of influenza or pneumonia. Women who received influenza vaccine during pregnancy had the same risk for ILI visits compared with unvaccinated women, adjusting for women's age and week of delivery. When asthma visits were excluded from the outcome measure, we also found no difference in the risk of outpatient visits for vaccinated and unvaccinated women. Hospital admissions for influenza or pneumonia for women in the study population were quite rare and no women died of respiratory illness during pregnancy. Infants born to women who received influenza vaccination had the same risks for influenza or pneumonia admissions compared with infants born to unvaccinated women, adjusting for infant's gender, gestational age, week of birth, and birth facility. Maternal influenza vaccination was also not a significant determinant of risk of ILI (excluding otitis media) outpatient visits for infants, nor did it significantly affect the risk of otitis media visits. Influenza vaccination during pregnancy did not significantly affect the risk of cesarean section, adjusting for the woman's age. It also did not affect the risk of preterm delivery. Although the immunogenicity of influenza vaccination in pregnancy in mother and infant has been well documented, in this study, we were unable to demonstrate the effectiveness of influenza vaccination with data for hospital admissions and physician visits. One possible interpretation of these findings is that typical influenza surveillance measures based on utilization data are not reliable in distinguishing influenza from other respiratory illness. Hospitalizations for respiratory illness were uncommon in both vaccinees and nonvaccinees.
+
+#
+KEYWORDS
+Influenza - pregnancy - vaccine
+
+The Centers for Disease Control and Prevention Advisory Committee on Immunization Practices recommends influenza vaccination for women who will be in the second or third trimester of pregnancy during the influenza season.[1] Pregnancy increases a woman's risk for influenza-related complications through physiologic changes in the cardiac, pulmonary, and immune systems. During pregnancy, heart rate and stroke volume increase, lung capacity decreases, and cell-mediated immunity decreases.[2] Excess deaths from influenza associated with pregnancy were documented during the pandemics of influenza in 1918[3] and 1957.[4] A recent study demonstrated that pregnancy also increases the risk for influenza-related morbidity.[5] The relative risk for hospitalization for selected cardiorespiratory conditions among pregnant women enrolled in Medicaid for at least 180 days between 1974 and 1993 increased from 1.4 during weeks 14 to 20 of gestation of 4.7 during weeks 37 to 42 in comparison with women who were 1 to 6 months postpartum.
+
+We conducted this study to evaluate the impact of influenza vaccination during pregnancy on women and their risk of influenza illness as well as its effect on the risk of influenza-like illness (ILI) in infants born to women during the flu season in a large health maintenance organization population over a 5-year period.
+
+#
+METHODS
+#
+Study Populations
+The first study population included all women with live births in Kaiser Permanente Northern California (KPNC) during the following time periods: November 1997 to February 1998, November 1998 to February 1999, November 1999 to February 2000, November 2000 to February 2001, and November 2001 to February 2002 (n = 49,585), excluding cases lacking birth date information and women who were discharged after the end of the flu season. The second population included all live births in Kaiser Permanente Northern California for the same time periods (n = 48,639), excluding cases lacking gestational age or gender information and infants discharged after the end of the flu season.
+
+#
+Definition of the Influenza Season
+KPNC maintains its own diagnostic virology laboratories. The influenza season in a given study year was determined by a review of the weekly influenza isolate data. The influenza season was defined to begin when two or more isolates were identified in sequential weeks or three or more isolates were identified in a single week; the season was said to terminate when there were no isolates identified in two or more sequential weeks unless this lapse was followed by a large number of isolates (Robert B. Belshe, personal communication, 2003).
+
+#
+Influenza Vaccination Coverage
+The influenza vaccination status of women in the cohort was determined through review of the Kaiser Immunization Tracking System database. Immunizations received by adults and children are routinely entered into this database.
+
+#
+Utilization Outcomes
+KPNC maintains administrative databases that include laboratory, hospitalization, and outpatient utilization information for its members. A hospitalization outcome was defined as at least one inpatient stay during the same flu season as delivery or birth with a principal (first) diagnosis of either influenza or pneumonia. To identify these outcomes the following International Classification of Diseases (9th revision) codes were used to identify inpatients cases: Influenza 487 and pneumonia 480, 481, 482, 483, 484, 485, and 486. For outpatient outcomes the following diagnostic categories were reviewed: upper respiratory infection (URI), pharyngitis, otitis media, asthma, bronchial asthma, viral infection, pneumonia, fever, cough, and wheezing associated with respiratory illness. The start and end of each flu season was defined as above. The outpatient visit outcome measure was defined as at least one physician visit during the same flu season as delivery or birth with one of the following diagnoses: URI, pharyngitis, otitis media, asthma, bronchial asthma, viral infection, pneumonia, fever, cough, or wheezing associated with respiratory illness.
+
+#
+Safety Outcomes
+The safety of the use of influenza vaccine during pregnancy was evaluated using two adverse outcome measures: cesarean section and preterm delivery. There were no deaths in pregnant women due to respiratory illness during the study years.
+
+#
+RESULTS
+#
+Influenza Vaccination Coverage
+The rate of influenza vaccination coverage in pregnancy across the five flu seasons included in this study was 7.5%. The rate improved steadily from 6.3% in 1997 to 1998 to a 5-year high of 11.9% in 1999 to 2000. In 2000 to 2001, the rate decreased to 4.7%, possibly due to delays in the delivery of the 2000 to 2001 influenza vaccine. The vaccination rate increased again in 2001 to 2002 to 5.9%.
+
+#
+Utilization Outcomes
+Hospital admission with a principal diagnosis of influenza or pneumonia was an extremely rare event for the women in the study population. Among the 49,585 women in the study population, nine were admitted with a principal diagnosis of pneumonia during the flu season in which she delivered for a rate of 18.2 cases per 100,000 pregnancies. All nine women recovered. Of the infants in the study population, 0.35% (171 of 48,639) had at least one inpatient admission for influenza or pneumonia. The principal diagnosis in a majority of those admissions (79.6%) was pneumonia.
+
+Of the women in the study population, 4.7% (2326 of 49,585) had at least one outpatient visit with one of the specified diagnoses during the flu season she delivered. Of the infants, 26.6%, (12,937 of 48,639) had at least one ILI (excluding otitis media) outpatient visit during the flu season he or she was born. About 4.6% (2238 of 48,639) of the infants had at least one visit with an otitis media diagnosis. Table [1] presents the data for the outpatient visit outcomes for the study populations. Of all the ILI visits, the most common diagnosis for both populations was URI.
+
+Table 1 Distribution of Outpatient Physician Visits for Influenza-Like Illness (ILI) for the Study Populations during the Flu Season of Delivery or Birth
+Diagnosis	Women	Infants
+No. of ILI Visits	%	No. of ILI Visits	%
+Upper respiratory infection	1126	36.4	19,968	68.2
+Otitis media	357	11.5	3824	13.1
+Viral infection	284	9.2	2268	7.8
+Fever	149	4.8	860	2.9
+Pneumonia	60	1.9	627	2.1
+Wheezing associated with respiratory illness	0	0	762	2.6
+Asthma and bronchial asthma	431	13.9	527	1.8
+Cough	139	4.5	291	1.0
+Pharyngitis	549	17.8	142	0.5
+Total	3095	100.0	29,269	100.0
+#
+Influenza Vaccination in Pregnancy and Effectiveness Outcomes for Women
+Cox proportional hazards regression was used to investigate the effectiveness of influenza vaccination during pregnancy to protect women against respiratory illness, measured by ILI outpatient visits, adjusting for women's age and week of delivery (Table [2]). We found that the level of risk of ILI visit for vaccinated women was not different compared with that for unvaccinated women. The hazard ratio for flu vaccination was 1.151 (p = 0.088).
+
+Table 2 Risk of Utilization Outcomes for the Study Populations during the Flu Season of Delivery or Birth
+1 Adjusted for women's age and week of delivery.
+
+2 Adjusted for infant's gender, gestational age, week of birth, and birth facility.
+
+We also evaluated the risk of ILI visit when asthma visits were excluded from the outcome measure, because KPNC conducts annual influenza outreach outreach to members with certain chronic high-risk medical conditions, such as asthma. Again, we found no difference in the risk of outpatient visits excluding asthma visits between vaccinated and unvaccinated women (Table [2]). The hazard ratio for flu vaccination when asthma visits were excluded was 1.001 (p = 0.988).
+
+#
+Maternal Influenza Vaccination and Effectiveness Outcomes for Infants
+Table [2] presents the utilization outcomes for infants whose mothers received influenza vaccine during pregnancy compared with those whose mothers were unvaccinated. Cox proportional hazards regression was used to investigate the effectiveness of maternal influenza vaccination, adjusting for infant's gender, gestational age, week of birth, and birth facility. We found that infants born to vaccinated women had the same risk of hospitalization for influenza or pneumonia as infants born to unvaccinated women. We also found that maternal influenza vaccination was not a significant determinant of risk for either ILI (excluding otitis media) outpatient visits or otitis media visits.
+
+#
+Safety Outcomes
+The safety of the use of influenza vaccine during pregnancy was evaluated using two adverse outcome measures: cesarean section and preterm delivery. The unadjusted risk of cesarean section was higher for vaccinated women (21.2%) compared with unvaccinated (18.9%) women (p = 0.0008). However, after adjusting for women's age, influenza vaccination did not significantly affect the risk of cesarean section. The preterm delivery rate (percent of infants whose gestational age was less than 37 weeks) was not significantly different (p = 0.136) for infants whose mothers received influenza vaccine during pregnancy (7.37%) compared with infants whose mothers did not (6.72%).
+
+#
+DISCUSSION
+Several studies have demonstrated that young infants may be protected from influenza virus infection by transplacentally acquired antibody after natural influenza infection in the mother. One study reported a significant positive correlation between level of neutralizing antibody titer in cord serum and infant's age at time of culture-documented influenza A infection.[6] None of the infants with antibody in cord blood of ≥ 1:8 became infected when younger than 8 weeks of age. However, by 4 months of age, titers of antibody to influenza A/Victoria virus were relatively low and no protective effect was apparent.
+
+Reuman[7] prospectively followed mother-infant pairs through an influenza epidemic to determine the effect of passive antibody on the incidence of influenza in infants. Infants born to mothers with serum antibody to influenza A had higher H1-specific passive antibody titers that correlated with their mother's antibody titers. The study also suggested that passive maternal antibody may delay the onset and decrease the mean duration of influenza disease in young infants but does not lower the incidence of influenza infection in infants. Sumaya[8] evaluated the advantages of influenza vaccination in pregnancy for mother and infant. In a study to investigate the immunogenicity of influenza A/NJ/76 vaccine in pregnancy, the antibody response of pregnant women was similar to that of nonpregnant adults in similar age groups. At time of delivery, a titer of antibody to influenza A/NJ/76 virus of ≥ 20 was present in 54% of the cord serum and 73% of the maternal serum specimens. Antibody titer rapidly declined after delivery. Sera from only 12% of 3-month-old infants contained this level of antibody. Englund[9] studied women in the last trimester of pregnancy who were given trivalent inactivated influenza virus vaccine, and antibody responses were determined by microneutralization assay and enzyme-linked immunosorbent assay. T-cell response was determined by lymphocyte proliferation. All of the women who received influenza vaccine had a four-fold or greater increase in serum neutralizing antibody titer to at least one influenza antigen. Maternal immunization also resulted in the transfer of vaccine-specific immunoglobulin G (IgG) antibody to their infants. However, the study found no evidence of specific T-lymphocyte responsiveness or the production of neonatal IgM antibody.
+
+In this study, the confidence intervals that we report permit us to rule out benefits exceeding those defined by the lower bounds of our confidence intervals. Thus, we can rule out with 95% confidence benefits greater than 2.1% for mothers' ILI visits, 69.8% for infants' hospitalizations due to flu or pneumonia, and 11.1% for infants' ILI visits. It is important to note that power is limited in this study because the absolute rates of hospitalization for infants and mothers were very low. It is this very low burden of disease in our population that not only limits the statistical power of this study but also limits the potential impact of an influenza vaccine program in pregnant women. Although one might argue that the apparent lack of vaccine efficacy could be that women were vaccinated because they were at higher risk of disease and that the two groups are not comparable, the fact remains that the absolute disease risk in either group was extremely low. Therefore, although a larger study may demonstrate effect, the absolute potential public health impact of prenatal influenza immunization, on the basis of disease burden in our population, is limited.
+
+#
+ACKNOWLEDGMENTS
+The authors would like to thank Roger Baxter, M.D., Regional Laboratory, Kaiser Permanente Northern California, for providing the influenza isolate data we used to define the Fall 1997 to Spring 2002 flu seasons, and Eric Weintraub, Influenza Branch, Division of Viral and Rickettsial Diseases, National Center for Infectious Diseases, CDC, for his assistance.
+
+#
+APPENDIX
+Members of the Vaccine Safety Datalink Workgroup: Frank DeStefano, M.D., M.P.H., Robert T. Chen, M.D., M.A., John Glasser, Ph.D., M.P.H., Philip H. Rhodes, Ph.D., Steven Wassilak, M.D., Piotr Kramarz, M.D., Thomas Verstraeten, M.D., Emmett Swint, M.A., David Walker, M.P.H., Catherine Okoro, M.S., Paul Gargiullo, Ph.D., Drew Baughman, M.S., David King (National Immunization Program, Centers for Disease Control and Prevention, Atlanta, GA); Robert S. Thompson, M.D., M.P.H., Robert L. Davis, M.D., Lisa A. Jackson, M.D., M.P.H., Patti Benson, M.P.H., Virginia Immanuel, M.P.H., William Barlow, Ph.D., Kari Bohlke, Sc.D., Paula Lee Poy, Viviana Rebolledo, David Rubanowice, Loren Mell, Michelle LaFrance, Linda Huggins, RN, Jas Dhillon, Ann Zavitkovsky, Angela Salazar, Eve Adams, Michael Shafer, Mary Sunderland, JoAnn Habanangas, Julie Drake, Jerry Kramer (Group Health Cooperative of Puget Sound, Seattle, WA); John P. Mullooly, Ph.D., Lois Drew, B.A., Kim Olson, Jill Mesa, John A. Pearson, M.D., Mike Allison, B.S., Alan Bauck, Nadia Redmond, M.S.P.H. (Northwest Kaiser Permanente, Portland, OR); Steven B, Black, M.D., Henry R. Shinefield, M.D., Paula Ray, M.P.H., Edwin Lewis, M.P.H., Bruce H. Fireman, M.A. (Kaiser Permanente of Northern California, Oakland, CA); Joel I. Ward, M.D., Connie M. Vadheim, Ph.D., Hang Lee, Ph.D., Jennie Jing, M.A., Nancy Goff (Center for Vaccine Research Harbor-UCLA Medical Center, Torrance, CA); S. Michael Marcy, M.D., Marlene Lugg, Dr.P.H. (Southern California Kaiser Permanente, Los Angeles, CA); M. Miles Braun, M.D., M.P.H., Robert P. Wise, M.D., M.P.H., Marcel E. Salive, M.D., M.P.H., (Center for Biologics Evaluation and Research, Food and Drug Administration, Rockville, M.D.); Vito Caserto, M.D., M.P.H., Geoffrey Evans, M.D. (Division of Vaccine Injury Compensation, Health Resources and Services Administration, Rockville, M.D.).
+
+#
+REFERENCES
+1 Centers for Disease Control and Prevention, Advisory Committee on Immunization Practices . Prevention and Control of Influenza.  MMWR Morb Mortal Wlely Rep. 2002;  51(RR-03) 1-31
+2 Shahab S Z, Glezen W P. Influenza virus. In: Gonik B Viral Diseases in Pregnancy. New York, NY; Springer-Verlag 1994: 215-223
+3 Harris J W. Influenza occurring in pregnant women: a statistical study of thirteen hundred and fifty cases.  JAMA. 1919;  72 978-980
+4 Freeman D W, Barno A. Deaths from Asian influenza associated with pregnancy.  Am J Obstet Gynecol. 1959;  78 1172-1175
+5 Neuzil K M, Reed G W, Mitchel E F, Simonsen L, Griffin M R. Impact of influenza on acute cardiopulmonary hospitalizations in pregnant women.  Am J Epidemiol. 1998;  148 1094-1102
+6 Puck J M, Glezen W P, Frank A L, Six H R. Protection of infants from infection with influenza A virus by transplacentally acquired antibody.  J Infect Dis. 1980;  142 844-849
+7 Reuman P D, Ayoub E M, Small P A. Effect of passive maternal antibody on influenza illness in children: a prospective study of influenza A in mother-infant pairs.  Pediatr Infect Dis J. 1987;  6 398-403
+8 Sumaya C V, Gibbs R S. Immunization of pregnant women with influenza A/New Jersey/76 virus vaccine: reactogenicity and immunogenicity in mother and infant.  J Infect Dis. 1979;  140 141-146
+9 Englund J A, Mbawuike I N, Hammill H, Holleman M C, Baxter B D, Glezen W P. Maternal immunization with influenza or tetanus toxoid vaccine for passive antibody protection in young infants.  J Infect Dis. 1993;  168 647-656
+Steve Black, M.D. 
+
+c/o Kaiser Vaccine Study Center
+
+One Kaiser Plaza, 16th Floor
+
+Oakland, CA 94612

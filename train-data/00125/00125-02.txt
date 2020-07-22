@@ -1,0 +1,659 @@
+﻿This article was downloaded by: [University of Liverpool]
+On: 29 December 2014, At: 08:30
+Publisher: Routledge
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered
+office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+Journal of Dual Diagnosis
+Publication details, including instructions for authors and
+subscription information:
+http://www.tandfonline.com/loi/wjdd20
+A Randomized Trial of Clozapine Versus
+Other Antipsychotics for Cannabis Use
+Disorder in Patients With Schizophrenia
+Mary F. Brunette MD a
+ , Ree Dawson PhD b
+ , Christopher D. O’Keefe
+MA c
+ , Meera Narasimhan MD d
+ , Douglas L. Noordsy MD c
+ , Joanne
+Wojcik PhD e
+ & Alan I. Green MD c
+a
+ Dartmouth Psychiatric Research Center and Department of
+Psychiatry , Dartmouth Medical School , Lebanon, New Hampshire,
+USA
+b
+ Frontier Science Research and Technology , Boston, Massachusetts,
+USA
+c
+ Department of Psychiatry , Dartmouth Medical School , Lebanon,
+New Hampshire, USA
+d
+ Department of Psychiatry , University of South Carolina ,
+Columbia, South Carolina, USA
+e
+ Department of Psychiatry , Beth Israel Deaconess Medical Center,
+Harvard Medical School , Boston, Massachusetts, USA
+Published online: 11 May 2011.
+To cite this article: Mary F. Brunette MD , Ree Dawson PhD , Christopher D. O’Keefe MA , Meera
+Narasimhan MD , Douglas L. Noordsy MD , Joanne Wojcik PhD & Alan I. Green MD (2011) A
+Randomized Trial of Clozapine Versus Other Antipsychotics for Cannabis Use Disorder in Patients With
+Schizophrenia, Journal of Dual Diagnosis, 7:1-2, 50-63
+To link to this article: http://dx.doi.org/10.1080/15504263.2011.570118
+PLEASE SCROLL DOWN FOR ARTICLE
+Taylor & Francis makes every effort to ensure the accuracy of all the information (the
+“Content”) contained in the publications on our platform. However, Taylor & Francis,
+our agents, and our licensors make no representations or warranties whatsoever as to
+the accuracy, completeness, or suitability for any purpose of the Content. Any opinions
+and views expressed in this publication are the opinions and views of the authors,
+and are not the views of or endorsed by Taylor & Francis. The accuracy of the Content
+should not be relied upon and should be independently verified with primary sources
+of information. Taylor and Francis shall not be liable for any losses, actions, claims,
+proceedings, demands, costs, expenses, damages, and other liabilities whatsoever or
+howsoever caused arising directly or indirectly in connection with, in relation to or arising
+out of the use of the Content.
+This article may be used for research, teaching, and private study purposes. Any
+substantial or systematic reproduction, redistribution, reselling, loan, sub-licensing,
+systematic supply, or distribution in any form to anyone is expressly forbidden. Terms &
+Conditions of access and use can be found at http://www.tandfonline.com/page/termsand-conditions
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+JOURNAL OF DUAL DIAGNOSIS, 7(1–2), 50–63, 2011
+Copyright C Taylor & Francis Group, LLC
+ISSN: 1550-4263 print / 1550-4271 online
+DOI: 10.1080/15504263.2011.570118
+PSYCHOPHARMACOLOGY & NEUROBIOLOGY
+A Randomized Trial of Clozapine Versus Other
+Antipsychotics for Cannabis Use Disorder
+in Patients With Schizophrenia
+Mary F. Brunette, MD,1 Ree Dawson, PhD,2 Christopher D.
+O’Keefe, MA,3 Meera Narasimhan, MD,4 Douglas L. Noordsy, MD,3
+Joanne Wojcik, PhD,5 and Alan I. Green, MD3
+Objective: Cannabis use disorder is the most common co-occurring drug use disorder in people with
+schizophrenia and is associated with poor outcomes. The authors launched a randomized controlled
+trial to assess the impact of clozapine compared with treatment as usual on cannabis use in patients with schizophrenia and co-occurring cannabis use disorder. Methods: Thirty-one patients with
+schizophrenia and co-occurring cannabis use disorder were randomly assigned to switch to clozapine
+or to stay on their current antipsychotic and were then followed weekly for 12 weeks. Blinded raters
+assessed participants weekly with the Timeline Followback for substance use and the expanded Brief
+Psychiatric Rating Scale for symptoms. Longitudinal random effects models were used to investigate
+the time-varying differences in cannabis use and other outcomes between the treatment as usual and
+clozapine groups. Results: The two groups differed in average intensity of cannabis use by approximately 4.5 joints/week, with lesser use in the clozapine group (t = −1.77; df = 28.5; p = .086; effect
+size ∼ 0.6). Symptoms and functioning were not different between the two groups. Conclusions:
+Clozapine may reduce cannabis use among patients with schizophrenia and co-occurring cannabis
+use disorder. Further controlled trials are warranted. (Journal of Dual Diagnosis, 7:50–63, 2011)
+Keywords schizophrenia, cannabis, substance use disorder, clozapine, treatment, co-occurring
+1Dartmouth Psychiatric Research Center and Department of Psychiatry, Dartmouth Medical School, Lebanon, New
+Hampshire, USA
+2Frontier Science Research and Technology, Boston, Massachusetts, USA
+3Department of Psychiatry, Dartmouth Medical School, Lebanon, New Hampshire, USA
+4Department of Psychiatry, University of South Carolina, Columbia, South Carolina, USA
+5Department of Psychiatry, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts,
+USA
+Address correspondence to Mary F. Brunette, MD, Dartmouth Psychiatric Research Center and Department of
+Psychiatry, Dartmouth Medical School, 105 Pleasant St., 2nd Floor North, Concord, NH 03301, USA. E-mail:
+mary.f.brunette@dartmouth.edu
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+Clozapine and Cannabis Use in Patients With Schizophrenia 51
+Up to 60% of people with schizophrenia have a lifetime co-occurring substance use disorder
+(Alterman, Erdlen, & Murphy, 1981; Ananth et al., 1989; Freed, 1975; Kessler et al., 2005; Kessler
+et al., 1994; Mueser et al., 1990). Cannabis use disorder is the most common co-occurring drug use
+disorder in these individuals (Kessler et al., 2005; Mueser et al., 1990; Regier et al., 1990), with
+lifetime rates ranging from 13% to 42% (DeQuardo, Carpenter, & Tandon, 1994; Dixon, Haas,
+Weiden, Sweeney, & Frances, 1991; Hambrecht & Hafner, 1996; Koskinen, Lohonen, Koponen,
+Isohanni, & Miettunen, 2010; Mueser, Bennett, & Kushner, 1995; Peralta & Cuesta, 1992), a 3-
+to 10-fold increase over the lifetime prevalence of 4% in the general population (Regier et al.).
+Cannabis use disorder has been associated with clinical exacerbations, noncompliance with
+treatment, poor global functioning, and increased relapse and rehospitalization rates (DeQuardo
+et al., 1994; Knudsen & Vilmar, 1984; Linszen, Dingemans, & Lenior, 1994; Negrete, Knapp,
+Douglas, & Smith, 1986; Peralta & Cuesta, 1992; Treffert, 1978). It adds greatly to the financial
+costs and emotional toll that schizophrenia places on patients, families, and the mental health
+system (e.g., Dickey & Azeni, 1996; Kivlahan, Heiman, Wright, Mundt, & Shupe, 1991).
+Comprehensive psychosocial treatment programs that integrate treatments for schizophrenia
+and substance (including cannabis) use disorder have been developed and shown to be effective for
+this population (Drake, Mueser, Brunette, & McHugo, 2004). Nevertheless, even with abstinence,
+relapse is common (Xie, McHugo, Fox, & Drake, 2005); moreover, almost half of the patients with
+co-occurring disorders continue to use substances and experience negative consequences after 3
+to 12 months of psychosocial treatment. Hence, there continues to be a need for better treatments
+and for a better understanding of the role of pharmacological treatments of co-occurring cannabis
+and other substance use disorders in patients with schizophrenia.
+While typical antipsychotic medications do not appear to limit cannabis or other substance
+use in patients with schizophrenia (Noordsy, O’Keefe, Mueser, & Xie, 2001), preliminary data
+suggest that the atypical antipsychotic clozapine may be helpful not only in the treatment of their
+psychotic symptoms but also in limiting their cannabis and other substance abuse. Case reports,
+retrospective studies, and a small, open-label, prospective study have reported reduced substance
+and tobacco use during treatment with clozapine (Albanese, Khantzian, Murphy, & Green, 1994;
+Buckley, McCarthy, Chapman, Richman, & Yamamoto, 1999; George, Sernyak, Ziedonis, &
+Woods, 1995; Lee, 1998; Marcus & Snyder, 1995; McEvoy, Freudenreich, Levin, & Rose, 1995;
+Yovell & Opler, 1994; Zimmet, Strous, Burgess, Kohnstamm, & Green, 2000).
+A subsequent study by our group provided further evidence of the potential role of clozapine
+in dual-diagnosis patients. This study, a naturalistic clinical services survey, followed 151 patients
+with co-occurring psychotic and substance use disorders for 3 years (Drake, Xie, McHugo, &
+Green, 2000). Patients taking clozapine had higher rates of remission of cannabis abuse (6/9 =
+67%) compared to those treated with typical antipsychotics (12/37 = 32%). Similarly, remission
+of alcohol abuse was higher in patients taking clozapine (15/19 = 79%) compared to those treated
+with typical antipsychotics (29/86 = 34%). Moreover, in a continuing assessment of those patients
+whose abuse remitted, only 8% of those treated with clozapine relapsed to abuse in the following
+6 months, compared to 40% of those treated with other antipsychotics (Brunette, Drake, Xie,
+McHugo, & Green, 2006).
+Given the many side effects of clozapine (which led to restriction of its Food and Drug Administration approval to use for patients with treatment-refractory psychosis), many investigators
+are currently assessing whether other atypical antipsychotics share with clozapine an ability to
+limit substance use in patients with schizophrenia. Unfortunately, available data are somewhat
+2011, Volume 7, Numbers 1–2
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+52 M. F. Brunette et al.
+mixed and not overly promising (Green, Noordsy, Brunette, & O’Keefe, 2008) for risperidone
+(Green, Burgess, Dawson, Zimmet, & Strous, 2003; Smelson et al., 2002; Smelson et al., 2004),
+olanzapine (Akerele & Levin, 2007; Brunette et al., 2008; Noordsy et al., 2001; Petrakis, Leslie,
+Finney, & Rosenheck, 2006; Smelson et al., 2006), quetiapine (Brown, Nejtek, Perantie, Rajan
+Thomas, & Rush, 2003; Brunette, O’Keefe, Dawson, Buckley, & Green, 2009; Potvin et al.,
+2006), and aripiprazole (Beresford et al., 2005; Brown, Jeffress, Liggin, Garza, & Beard, 2005;
+Warsi, Sattar, Bhatia, & Petty, 2005). Thus, at present, clozapine remains the only antipsychotic
+medication for which published research provides consistent evidence of a substantive decrease
+in cannabis and other substance use.
+We have presented a neurobiological formulation, based on animal studies, suggesting that
+clozapine’s unusual clinical effects on substance abuse in patients with schizophrenia may relate
+to its varied pharmacological actions on dopaminergic and, particularly, noradrenergic systems.
+Specifically, we have proposed that clozapine’s weak dopamine D2 receptor blockade coupled
+with its activation of the norepinephrine (NE) system (including its antagonistic effects at the NE
+α2 receptor and its ability to release NE) (e.g., Antelman & Caggiula, 1977; Breier et al., 1994;
+Green et al., 1993; Lieberman et al., 1991; Rice, Smith, Silk, & Rosen, 1984; Sarafoff, Davis, &
+Ruther, 1979; Svensson et al., 1995; Thierry, Godbout, Mantz, & Glowinski, 1990; Van Kammen
+et al., 1990) may ameliorate dysfunction in the dopamine-mediated “brain reward system” that
+may underlie the common use of cannabis and other substances in patients with schizophrenia
+(Green, Zimmet, Strous, & Schildkraut, 1999).
+Given the consistent albeit still preliminary data about clozapine’s ability to decrease substance
+use in patients with schizophrenia, as well as our published rationale of the basis of this effect,
+our group launched a randomized controlled trial of clozapine (as compared with treatment as
+usual) of cannabis use in patients with schizophrenia and co-occurring cannabis use disorder.
+METHODS
+The study was a 3-month, randomized, open-label investigation (with blinded assessments) of
+the efficacy and safety of clozapine compared to continued current antipsychotic treatment (i.e.,
+treatment as usual) in outpatients with schizophrenia or schizoaffective disorder and comorbid
+cannabis use disorder. After researchers established participants’ eligibility at baseline, blinded
+raters assessed participants weekly for substance use, symptoms, and side effects. Unblinded
+clinicians prescribed and adjusted study medications weekly for 12 weeks. The institutional
+review boards at Dartmouth Medical School and at the University of South Carolina approved
+the study. All procedures were consistent with the Declaration of Helsinki and Good Clinical
+Practice according to the International Conference on Harmonization guidelines. There was a
+complete and thorough discussion of the study with potential participants, and all participants
+gave written informed consent prior to engaging in any study procedures.
+Study Participants
+Participants were recruited, primarily through clinician referral, from two urban study sites, one
+in New Hampshire, affiliated with Dartmouth, and the second in South Carolina, affiliated with
+the University of South Carolina. Inclusion criteria were as follows: Diagnostic and Statistical
+Journal of Dual Diagnosis
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+Clozapine and Cannabis Use in Patients With Schizophrenia 53
+Manual (DSM-IV) diagnosis of schizophrenia or schizoaffective disorder and current cannabis
+use disorder; cannabis use on at least 5 days over the 3 weeks prior to screening; age 18 to 65;
+outpatient status prior to randomization; and current treatment with antipsychotic medication other
+than clozapine. Patients taking medications with possible effects on alcohol use (e.g., naltrexone,
+disulfiram, or topiramate) were excluded, as were patients with active, serious medical illness,
+suicidality, or severe psychiatric instability. Patients for whom clozapine was contraindicated
+(e.g., white blood cell count <3,500/mm3 at screening, history of a seizure disorder) were also
+excluded. Fifty patients were screened. Nine did not meet eligibility criteria; seven withdrew
+consent; four were lost to follow-up; and one left the area prior to baseline. Thirty-one patients
+proceeded with a baseline study visit and were randomized to a treatment group.
+Study Procedures
+Once patients were deemed eligible, they were randomly assigned to one of two treatment conditions: switching to treatment with clozapine or staying on their current antipsychotic medication.
+Randomization was blocked by site. For those patients switched to clozapine, study physicians
+increased the dose of clozapine in a flexible manner to reach a daily dose of 400 mg by the end
+of week 4. During this titration period, the dose of participants’ initial antipsychotic medication was gradually reduced and then eliminated within 4 weeks. Dose adjustments of clozapine
+were allowed based on psychosis symptom response and side effects, but the maximum allowed
+dose of clozapine was 550 mg per day. Those patients randomized to continue receiving their
+current antipsychotic were kept on a steady dose, although adjustments were allowed to address
+newly emerging symptoms of psychosis or side effects. The group of research physicians and the
+principal investigator (AIG) reviewed the pharmacological treatment of all study participants at
+monthly intervals to ensure that antipsychotic treatment was consistent across the study.
+Participants attended weekly study visits for 12 weeks. Unblinded study physicians assessed
+participants for psychosis treatment response and adverse events. Trained, blinded raters assessed
+participants for cannabis, alcohol, and other substance use, for psychiatric symptoms, and for
+medication side effects. Experienced study raters were trained and certified prior to rating study
+patients and were recertified yearly. Psychosocial treatment for psychosis and substance use was
+measured monthly. Participants were reimbursed with a $25 gift card at the completion of each
+study visit for their time and travel expenses.
+Measures
+During the screening phase, raters used the Structured Clinical Interview for DSM-IV Axis-I
+Disorders–Patient Edition (First, Spitzer, Gibbon, & Williams, 1996) to establish participant
+diagnoses of schizophrenia or schizoaffective disorder and cannabis and other substance use disorders. Study physicians completed a physical examination and laboratory assessment (complete
+blood cell count and glucose and lipid profile) to establish the participants’ medical stability.
+Patients randomized to clozapine had the complete blood cell count repeated weekly; participants
+who stayed on their baseline antipsychotic medication did not have blood drawn for weekly
+complete blood cell count assessments.
+2011, Volume 7, Numbers 1–2
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+54 M. F. Brunette et al.
+Blinded raters assessed participant substance use with the Timeline Followback procedure
+(L. C. Sobell & Sobell, 1992; M. B. Sobell et al., 1980) at screening, at baseline, and weekly
+during the course of the study. In addition, at each visit, participants were given a breathalyzer
+test for alcohol (with the AlcoHAWK-Pro from Q3 Innovations) and a urine screening for
+drugs (with the ACON 2-Panel Multi-line Test Device for tetra-hydro-cannabinol [50 ng/mL]
+and cocaine [300 ng/mL]). Blinded interviewers conducted the Timeline Followback procedure
+using calendars and data from urine drug screenings and breathalyzer tests to facilitate recall of
+substance use over the past week and to increase the validity of self-report. Participants were
+asked to estimate the amount of cannabis, converted to “average-sized joints,” they had used
+each day. Information from collateral informants was also obtained to increase the validity of
+self-report. Baseline level of addiction treatment engagement was measured with the 8-point
+Substance Abuse Treatment Scale, with higher scores indicating more progress in treatment
+(McHugo, Drake, Burton, & Ackerson, 1995). Motivation to stop using cannabis was measured
+with the single-item Contemplation Ladder (0–10; with higher level indicating more motivation)
+(Amodei & Lamb, 2004).
+Blinded raters assessed participants symptoms with weekly expanded Brief Psychiatric Rating
+Scales (BPRS; Lukoff, Liberman, & Nuechterlein, 1986), weekly Clinical Global Inventories
+(CGI; Guy, 1976), and biweekly use of the Schedule for the Assessment of Negative Symptoms
+(SANS; Andreasen, 1982). The BPRS rated 24 symptom items with a score of 1 to 7 for each item
+(1 = not present and 7 = extremely severe). The CGI was used to assess general improvement
+with one item scored 1 to 7 (1 = very much improved to 7 = very much worse). The SANS was
+used to assess five negative symptom components on a scale of 0 = not at all to 5 = severe.
+Unblinded clinicians measured neurologic side effects weekly with the Simpson Angus Scale
+(Simpson & Angus, 1970), the Abnormal Involuntary Movement Scale (Lane, Glazer, Hansen,
+Berman, & Kramer, 1985), and the Barnes Akathisia Rating Scale (Barnes, 1989). At baseline and
+monthly thereafter, blinded raters assessed the amount of services patients received to address
+their alcohol use disorder with a substance use treatment services questionnaire (Clark et al.,
+1994). Study physicians recorded medication dose at each visit. Dose was later converted to
+chlorpromazine equivalents (Gardner, Murphy, O’Donnell, Centorrino, & Baldessarini, 2010).
+Medication adherence was measured by weekly pill count (Byerly et al., 2007).
+Data Analysis
+Chi-square tests and t-tests were used to assess whether the characteristics of the participants
+were different between groups. For analyzing repeated measures outcomes, we used longitudinal
+random effects (LRE) models (Laird & Ware, 1982) to investigate the time-varying differences in
+cannabis use and other outcomes between the treatment as usual and clozapine groups. The main
+outcome measure was intensity of cannabis use, as measured by the number of joints per week.
+Baseline values of this measure were included in the models to adjust for possible differences
+between the two groups and to improve efficiency; fixed effects included group, linear, and
+quadratic trends (retained only if they were significant at the alpha = .05 level) and group by
+trend interactions. The covariance structure was modeled using random effects for the intercept
+and any significant trends; first-order autocorrelation for residual errors was also specified.
+Journal of Dual Diagnosis
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+Clozapine and Cannabis Use in Patients With Schizophrenia 55
+For the primary explanatory analyses, data for the clozapine group were censored (set to
+missing) for deviations from treatment protocol, including greater than 3 days of missed study
+medication doses and early termination of study medication. Secondary explanatory analyses of
+cannabis use also involved censoring for poor adherence and early termination of medication
+in both groups. For the intent-to-treat analysis, weekly data on cannabis use were censored for
+hospitalization or confinement for more than 4 consecutive days to control for halo effects on use
+due to forced abstinence. (There was no need to censor for hospitalization/incarceration in the
+explanatory analyses because data for such participants had already been censored due to poor
+adherence). Note that participants who terminated study medication contributed data to the LRE
+models up to the time of censoring due to medication termination, whereas participants who were
+poorly adherent contributed data for all weeks they took medication except for the week(s) of
+poor adherence, which were censored on a week-by-week basis.
+RESULTS
+The characteristics of the 31 study participants are noted in Table 1. Overall, participants were
+primarily single, unemployed, Caucasian males whose average age was 35 years. Participants
+were moderately symptomatic and had been hospitalized multiple times. The group assigned to
+clozapine had more education and fewer lifetime psychiatric hospitalizations. Most participants
+had diagnoses of cannabis dependence (rather than abuse), about half also had an alcohol disorder,
+and over a third had another drug use disorder. Measures of substance use, motivation, and
+treatment did not differ between groups.
+The characteristics of study medication use and other treatment use are shown in Table 2.
+Most participants remained on study medication and in the study for the entire 12 weeks. Study
+medication was well-tolerated, but many patients reported side effects, which are shown in Table 3.
+The most frequent side effects were somnolence, hypersalivation, and weight gain. Patients who
+were taking clozapine were more likely to report somnolence, hypersalivation, and constipation
+than patients who remained on treatment as usual.
+Outcomes
+For the primary explanatory analysis, the two groups differed in average intensity of cannabis
+use by approximately 4.5 joints per week (main effect in LRE due to group), with lesser use
+in the clozapine group; there were no significant within-group trends during study follow-up
+(see Figure 1). This result suggests that clozapine treatment (as compared to continuation of the
+current antipsychotic) is associated with a decrease in cannabis use (effect size ∼ 0.6), although
+differences for the small sample did not reach statistical significance (t = −1.77, df = 28.5;
+p = .086). Similar results were found using the intent-to-treat analysis, with modest attenuation
+of treatment differences (t = −1.72, df = 28.1; p = .096). The secondary explanatory analysis,
+in which data for the treatment as usual group were also censored due to poor adherence, showed
+little change in the estimated difference in intensity of cannabis use (which increased slightly
+to about 5 joints per week) but had an increased standard error due to fewer observations (t =
+−1.63, df = 24.9; p = .115).
+2011, Volume 7, Numbers 1–2
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+56 M. F. Brunette et al.
+TABLE 1
+Baseline Characteristics
+Total Group Clozapine TAU
+N = 31 n = 15 n = 16
+n (%) or M +/− SD n (%) or M +/− SD n (%) or M +/− SD
+Age 36 ± 10.3 33.3 ± 10.0 39.0 ± 10.2
+Sex 24 (77.4) 12 (80) 12 (75)
+Race (White) 26 (83.9) 12 (80) 14 (87.5)
+Education∗ 10.9 ± 1.7 11.5 ± 0.8 10.3 ± 2
+Employed 26 (83.9) 12 (80) 14 (87.5)
+Marital (single) 20 (64.5) 10 (66.7) 10 (62.5)
+Diagnosis schiz vs. schizaf 12 (38.7) 7 (46.7) 5 (31.3)
+BPRS Total 25.3 ± 8.4 26.7 ± 5.9 24 ± 10.1
+BPRS Positive 6.9 ± 4.5 7.4 ± 3.8 6.5 ± 5.1
+BPRS Negative∗ 3.7 ± 2.3 4.6 ± 2.5 2.9 ± 1.8
+SANS total 43.6 ±13.0 47.1 ±13.3 40.3 ±12.3
+Lifetime hospitalizations∗ 5.9 ± 7.3 2.5 ± 1.7 9.1 ± 9.1
+Cannabis dependence (vs. abuse) 24 (77.4) 12 (80) 12 (75)
+Days use/week 4.5 ± 2.1 4.4 ± 2.5 4.7 ± 1.7
+Number joints/week 12.3 ± 12.0 10.5 ±11.7 13.9 ± 12.4
+Diagnosis alcohol disorder 16 (51.6) 8 (53.3) 8 (50)
+Diagnosis other drug disorder 12 (38.7) 6 (40) 6 (37.5)
+MH counselor sessions/week 0.2 ± 0.2 0.4 ± 0.6 0.34 ± 0.4
+SA counselor sessions/week 0.08 ± 0.2 0.07 ± 0.2 0.09 ± 0.2
+AA meetings/week 0.01 ± 0.04 0 0.06 ± 0.02
+Contemplation Ladder 4.2 ± 3.7 3.2 ± 3.9 5.2 ± 3.3
+SATS 2.7 ± 0.8 2.9 ± 0.8 2.5 ± 0.6
+Note. TAU = Treatment as usual; schiz = schizophrenia; schizaf = schizoaffective disorder; MH = mental health;
+SA = substance abuse; AA = Alcoholics Anonymous; SATS = substance abuse treatment scale. ∗p < .05.
+TABLE 2
+Treatment Characteristics
+Total Group Clozapine TAU
+N = 31 n = 15 n = 16
+n (%) or M +/− SD n (%) or M +/− SD n (%) or M +/− SD
+Medication
+Weeks on study med 11.3± 2.3 10.9 ± 3.0 11.6 ± 1.3
+Dose (chlorpromazine equivalents) 414 ± 283.2 319 ± 163.5 492 ± 337.6
+Number ending med early 4 (12.9) 2 (13.3) 2 (12.5)
+Good adherence 28 (90) 15 (100) 13 (81)
+Other treatment
+MH counselor sessions/week 0.20 ± 0.23 0.18 ± 0.18 0.23 ± 0.28
+SA counselor sessions/week 0.08 ± 0.19 0.08 ± 0.18 0.08 ± 0.2
+AA meetings/week 0.01 ± 0.04 0 0.02 ± 0.06
+Note. TAU = Treatment as usual; MH = mental health; SA = substance abuse; AA = Alcoholics Anonymous.
+Journal of Dual Diagnosis
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+Clozapine and Cannabis Use in Patients With Schizophrenia 57
+TABLE 3
+Adverse Events Among Patients Taking Clozapine Versus Other Antipsychotics for Cannabis Disorder
+in Schizophrenia
+Total Group N = 31 Clozapine n = 15 TAU n = 16
+n (%) n (%) n (%)
+Somnolence∗ 11 (35.5) 9 (60) 2 (12.5)
+Hypersalivation∗ 10 (32.3) 10 (66.7) 0 (0.0)
+Weight gain 8 (25.8) 6 (40.0) 2 (12.5)
+Dizziness 6 (19.4) 5 (33.3) 1 (6.3)
+Vomiting 6 (19.4) 3 (20.0) 3 (18.8)
+Constipation∗ 4 (12.9) 4 (26.7) 0 (0.0)
+Dry mouth 4 (12.9) 2 (13.3) 2 (12.5)
+Hypertension 4 (12.9) 2 (13.3) 2 (12.5)
+Akathisia 3 (9.7) 1 (6.7) 1 (6.3)
+Depression 3 (9.7) 2 (13.3) 1 (6.3)
+Fatigue 3 (9.7) 3 (20.0) 0 (0.0)
+Headache 3 (9.7) 2 (13.3) 1 (6.3)
+Insomnia 3 (9.7) 2 (13.3) 1 (6.3)
+Nausea 3 (9.7) 2 (13.3) 1 (6.3)
+Noncardiac chest pain 3 (9.7) 1 (6.7) 2 (12.5)
+Increased agitation 2 (6.5) 1 (6.7) 1 (6.3)
+Flu-like symptoms 2 (6.5) 0 (0.0) 2 (12.5)
+Irritability 2 (6.5) 1 (6.7) 1 (6.3)
+Libido decreased 2 (6.5) 1 (6.7) 1 (6.3)
+Muscle spasms 2 (6.5) 2 (13.3) 0 (0.0)
+Nasal congestion 2 (6.5) 0 (0.0) 2 (12.5)
+Unusual dream activity 2 (6.5) 0 (0.0) 2 (12.5)
+Suicide attempt 2 (6.5) 1 (6.7) 1 (6.3)
+Urinary incontinence 2 (6.5) 2 (13.3) 0 (0.0)
+Note. TAU = treatment as usual. ∗p < .05.
+Secondary outcomes included symptoms (negative, positive, total BPRS; composite, summary and total SANS; and SANS subscales for affective blunting, alogia, avolition, anhedonia,
+and disturbance of attention) and functioning (CGI). Data were censored for deviation from
+protocol (as above) for these secondary explanatory analyses; data were not censored for
+hospitalization/incarceration for either explanatory or intent-to-treat analyses. In all cases, the
+two groups did not differ in terms of symptoms or functioning. Negative linear trends (indicating
+improvement) over time were found for total and positive BPRS.
+In a subsidiary analysis, the two groups were also compared for alcohol use, measured as heavy
+drinking days per week (with heavy drinking defined as 5 or more drinks per day). Censoring was
+carried out as for cannabis use, but in this case both linear and quadratic terms were included in
+LRE models to capture nonlinear trends over time. Interestingly, there were significant differences
+for both explanatory (t = 2.32, df = 27.4; p = .028) and intent-to-treat analyses (t = 2.4,
+df = 28.3; p = .023), with greater alcohol use in the clozapine group, due primarily to one
+participant in that group who drank heavily throughout the study. When data for this participant
+were removed from the analyses, the differences were no longer significant (as shown in Figure 2
+2011, Volume 7, Numbers 1–2
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+58 M. F. Brunette et al.
+FIGURE 1 Intensity of cannabis use (joints per week) in patients on treatment as usual (TAU) and in patients switched
+to clozapine (CLOZ): Explanatory analysis.
+for explanatory analysis). Moreover, a comparison of Figure 2 and Figure 1 showed an important
+contrast between the cannabis and the alcohol results: the near significant results for cannabis
+use reflect systematic differences between the two treatment groups, while those for alcohol use
+do not (once outlying data are removed). Additionally, there was no correlation (longitudinally)
+between changes in drinking and changes in cannabis use over time, based on days of heavy
+drinking per week and days of cannabis use per week. Last, there was a floor effect for possible
+clozapine action on heavy drinking, given that drinking levels were very low throughout the
+study—on average fewer than 1 day per week when the one heavy drinker is omitted. (This is
+most clearly demonstrated in Figure 2, when the data for the outlying participant are removed
+from the analysis.)
+FIGURE 2 Mean heavy drinking days (per week) in patients on treatment as usual (TAU) and in patients on clozapine
+(CLOZ): Explanatory analysis.
+Journal of Dual Diagnosis
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+Clozapine and Cannabis Use in Patients With Schizophrenia 59
+DISCUSSION
+This study provides the first evidence from a randomized controlled trial that clozapine may
+limit cannabis use more than continued treatment with other antipsychotics in patients with
+schizophrenia and co-occurring cannabis use disorders. Clozapine was well-tolerated in this
+group of patients, with noted side effects of the types expected for this medication. Interestingly,
+we did not find differences in psychiatric symptoms between the two groups, despite the welldescribed beneficial effects of clozapine for people with treatment-resistant schizophrenia. This
+may reflect the overall moderate levels of psychiatric symptoms in this group of patients without
+treatment-refractory psychosis.
+The magnitude of the effect of clozapine (effect size ∼ 0.6) on decreasing cannabis use was
+moderate, suggesting a clinically meaningful role for this medication in this population. But the
+small size of the study sample limits the conclusions that can be drawn. Recruitment of patients
+with schizophrenia and co-occurring cannabis use disorders into randomized medication trials is
+challenging and requires a number of sites and a large recruitment team, which were not available
+for this study. Given the relatively tenuous connection that these patients may have to treatment
+and the reluctance that their clinicians have in referring them for research studies, the recruitment
+team needs to be carefully integrated within treatment systems.
+A limitation of the study beyond sample size included the fact that the prescribing physicians
+were not blinded to study medication. Because clozapine causes characteristic side effects,
+blinding of the prescribers and patients in this type of study tends to be difficult and was not
+attempted here. Ratings of symptoms and substance use were, however, completed by blinded
+raters. Nonetheless, whether expectancy effects contributed to the apparent efficacy of clozapine
+in reducing cannabis use cannot be ascertained here.
+In this study of patients with cannabis use disorders, the finding that clozapine was not
+associated with improvement in heavy alcohol use was not consistent with previous research
+(e.g., Brunette et al., 2006; Drake et al., 2000). Nevertheless, the lack of correlation between
+changes in alcohol and changes in cannabis use suggests that the decrease we noted in cannabis
+use was not related to an increase in alcohol use in these patients. Moreover, as noted above,
+the two groups did not differ significantly in alcohol use during treatment when data for a single
+participant with unusually heavy drinking were removed from the analysis. The undue influence
+of such a participant reflects both the small size of the sample and the generally low amount of
+drinking among these cannabis-using patients. We note that by design this sample was recruited
+for level of cannabis, not alcohol use, and thus it would not be unexpected to find an outlying
+heavy-drinking participant in only one of the treatment groups (only half of participants had a
+diagnosed alcohol use disorder). Taken together, the alcohol data appear to support the robustness
+of the primary finding of clozapine’s effect on cannabis use, despite failing to replicate a similar
+result for alcohol use.
+In summary, this small randomized trial of clozapine compared to other antipsychotics suggests
+that clozapine may reduce cannabis use in patients with schizophrenia and cannabis use disorders
+independent of any effect on symptoms or overall functioning. Although effective treatments for
+cannabis use disorder in schizophrenia are sorely needed, at present, clozapine’s side effect profile
+severely restricts its use in clinics. Given that these findings are promising and consistent with
+previous research on the effect of clozapine on cannabis use, a fully powered, blinded clinical trial
+2011, Volume 7, Numbers 1–2
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+60 M. F. Brunette et al.
+is warranted to definitively establish whether clozapine is effective for the treatment of cannabis
+use disorders in this population. If it can be demonstrated to definitively decrease cannabis use in
+patients with schizophrenia, it may be appropriate to expand the routine use of clozapine beyond
+that of those with treatment-refractory psychosis to include those stable outpatients who have a
+co-occurring cannabis use disorder.
+ACKNOWLEDGMENTS
+This study was supported by grant No. DA 13196 from the National Institute on Drug Abuse.
+The authors would like to thank Draeger Medical Systems for loaning an electrocardiography
+machine for this study.
+DISCLOSURES
+None of the authors report any financial relationships with commercial interest with regard to the
+present study.
+Dr. Brunette has received funding for research from Bristol-Myers Squibb Foundation.
+Dr. Green reports research grant support over the past three years from Janssen, Eli Lilly,
+AstraZeneca, and Forest Laboratories. He currently serves on a data safety monitoring board for
+Eli Lilly studies, owns shares of stock in Johnson & Johnson, Pfizer, and Mylan, and has two
+pending patents on the treatment of substance abuse.
+Dr. Narasimhan reports research grant support over the past three years from the National
+Institute of Mental Health, National Institute on Drug Abuse, AstraZeneca, Bristol-Myers Squibb,
+Janssen, Eli Lilly and Forest Laboratories. She has served on the speaker’s bureau for BristolMyers Squibb, AstraZeneca, Eli Lilly, and Merck, and on advisory boards for Eli Lilly and
+AstraZeneca.
+Dr. Noordsy has received research funding and/or consulting or speaking honoraria from the
+following companies that make psychotropic medications: AstraZeneca, Bristol-Myers Squibb,
+Janssen, Eli Lilly, Lundbeck, Novartis, Merck, and Sunovion.
+REFERENCES
+Akerele, E., & Levin, F. R. (2007). Comparison of olanzapine to risperidone in substance-abusing individuals with
+schizophrenia. American Journal on Addictions, 16(4), 260–268.
+Albanese, M. J., Khantzian, E. J., Murphy, S. L., & Green, A. I. (1994). Decreased substance use in chronically psychotic
+patients treated with clozapine. American Journal of Psychiatry, 151, 780–781.
+Alterman, A. J., Erdlen, F. R., & Murphy, E. (1981). Alcohol abuse in the psychiatric hospital population. Addictive
+Behaviors, 6, 69–73.
+Amodei, N., & Lamb, R. J. (2004). Convergent and concurrent validity of the Contemplation Ladder and URICA scales.
+Drug and Alcohol Dependence, 73(3), 301–306.
+Ananth, J., Vandewater, S., Kamal, M., Brodsky, A., Gamal, R., & Miller, M. (1989). Missed diagnosis of substance
+abuse in psychiatric patients. Hospital & Community Psychiatry, 40, 297–299.
+Andreasen, N. C. (1982). Negative symptoms in schizophrenia. Archives of General Psychiatry, 39, 784–788.
+Antelman, S. M., & Caggiula, A. R. (1977). Norepinephrine-dopamine interactions and behavior. Science, 195(4279),
+646–653.
+Barnes, T. R. (1989). A rating scale for drug-induced akathisia. The British Journal of Psychiatry, 154, 672–676.
+Journal of Dual Diagnosis
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+Clozapine and Cannabis Use in Patients With Schizophrenia 61
+Beresford, T. P., Clapp, L., Martin, B., Wiberg, J. L., Alfers, J., & Beresford, H. F. (2005). Aripiprazole in schizophrenia
+with cocaine dependence: A pilot study. Journal of Clinical Psychiatry, 25(4), 363–366.
+Breier, A., Buchanan, R. W., Waltrip, 2nd, R. W., Listwak, S., Holmes, C., & Goldstein, D. S. (1994). The effect of
+clozapine on plasma norepinephrine: Relationship to clinical efficacy. Neuropsychopharmacology, 10(1), 1–7.
+Brown, E. S., Jeffress, J., Liggin, J. D. M., Garza, M., & Beard, L. (2005). Switching outpatients with bipolar or
+schizoaffective disorders and substance abuse from their current antipsychotic to aripiprazole. Journal of Clinical
+Psychiatry, 66(6), 756–760.
+Brown, E. S., Nejtek, V. A., Perantie, D. C., Rajan Thomas, N., & Rush, A. J. (2003). Cocaine and amphetamine use in
+patients with psychiatric illness: A randomized trial of typical antipsychotic continuation or discontinuation. Journal
+of Clinical Psychopharmacology, 23(4), 384–388.
+Brunette, M. F., Drake, R. E., Xie, H., McHugo, G. J., & Green, A. I. (2006). Clozapine use and relapses of substance use
+disorder among patients with co-occurring schizophrenia and substance use disorders. Schizophrenia Bulletin, 32–38.
+Brunette, M. F., O’Keefe, C., Dawson, R., Buckley, P., & Green, A. I. (2009). An open label study of quetiapine in
+patients with schizophrenia and alcohol disorders. Journal of Mental Health and Substance Use Disorders, 2(3), 203–
+211.
+Brunette, M. F., O’Keefe, C., Zimmet, S., Wojcik, J. D., Dawson, R., & Green, A. I. (2008). Olanzapine for alcohol use
+disorder in patients with schizophrenia. Journal of Dual Diagnosis, 4(4), 344–354.
+Buckley, P., McCarthy, M., Chapman, P., Richman, C., & Yamamoto, B. (1999). Clozapine treatment of comorbid
+substance abuse in patients with schizophrenia. Schizophrenia Research, 36, 272.
+Byerly, M. J., Thompson, A., Carmody, T., Bugno, R., Ervin, T., Kashner, M., & Rush, A. J. (2007). Validity of
+electronically monitored medication adherence and conventional adherence measures in schizophrenia. Psychiatric
+Services, 58, 844–847.
+Clark, R., Teague, G., Ricketts, S., Bush, P., Zubkoff, M., & Keller, A. (1994). Measuring resource use in economic
+evaluations: Determining the social costs of mental illness. Journal of Mental Health Administration, 21, 32–41.
+DeQuardo, J. R., Carpenter, C. F., & Tandon, R. (1994). Patterns of substance abuse in schizophrenia: Nature and
+significance. Journal of Psychiatric Research, 28(3), 267–275.
+Dickey, B., & Azeni, H. (1996). Persons with dual diagnoses of substance abuse and major mental illness: Their excess
+costs of psychiatric care. American Journal of Public Health, 86, 973–977.
+Dixon, L., Haas, G., Weiden, P. J., Sweeney, J., & Frances, A. J. (1991). Drug abuse in schizophrenic patients: Clinical
+correlates and reasons for use. American Journal of Psychiatry, 148, 224–230.
+Drake, R. E., Mueser, K. T., Brunette, M. F., & McHugo, G. J. (2004). A review of treatment for people with severe
+mental illness and co-occurring substance use disorders. Psychchiatricl Rehabilitation Journal, 27(4), 360–374.
+Drake, R. E., Xie, H., McHugo, G. J., & Green, A. I. (2000). The effects of clozapine on alcohol and drug use disorders
+among patients with schizophrenia. Schizophrenia Bulletin, 26(2), 441–449.
+First, M. B., Spitzer, R. L., Gibbon, M., & Williams, J. B. W. (1996). Structured Clinical Interview for DSM-IV Axis-I
+Disorders–Patient Edition (SCID-I/P, Version 2.0). New York, NY: Biometrics Research Department.
+Freed, E. X. (1975). Alcoholism and schizophrenia: The search for perspectives. Journal of Studies on Alcohol, 36(7),
+853–881.
+Gardner, D. M., Murphy, A. L., O’Donnell, H., Centorrino, F., & Baldessarini, R. J. (2010). International consensus study
+of antipsychotic dosing. American Journal of Psychiatry, 167(6), 686–693.
+George, T. P., Sernyak, M. J., Ziedonis, D., & Woods, S. M. (1995). Effects of clozapine on smoking in chronic
+schizophrenic outpatients. Journal of Clinical Psychiatry, 56(8), 344–346.
+Green, A. I., Alam, M. Y., Sobieraj, J. T., Pappalardo, K. M., Waternaux, C., Salzman, C., ... Schildkraut, J. J. (1993).
+Clozapine response and plasma catecholamines and their metabolites. Psychiatry Research, 46(2), 139–149.
+Green, A. I., Burgess, E. S., Dawson, R., Zimmet, S. V., & Strous, R. D. (2003). Alcohol and cannabis use in schizophrenia:
+Effects of clozapine vs. risperidone. Schizophrenia Research, 60(1), 81–85.
+Green, A. I., Noordsy, D. L., Brunette, M. F., & O’Keefe, C. (2008). Substance abuse and schizophrenia: Pharmacotherapeutic intervention. Journal of Substance Abuse Treatment, 34(1), 61–71.
+Green, A. I., Zimmet, S. V., Strous, R. D., & Schildkraut, J. J. (1999). Clozapine for comorbid substance use disorder
+and schizophrenia: Do patients with schizophrenia have a reward-deficiency syndrome that can be ameliorated by
+clozapine? Harvard Review of Psychiatry, 6(6), 287–296.
+Guy, W. (1976). ECDEU Assessment Manual for Psychopharmacology. Rockville, MD: U.S. Department of Health,
+Education and Welfare.
+2011, Volume 7, Numbers 1–2
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+62 M. F. Brunette et al.
+Hambrecht, M., & Hafner, H. (1996). Substance abuse and the onset of schizophrenia. Biological Psychiatry, 40(11),
+1155–1163.
+Kessler, R. C., Birnbaum, H., Demler, O., Falloon, I. R. H., Gagnon, E., Guyer, M., ... Wu, E. Q. (2005). The
+prevalence and correlates of nonaffective psychosis in the National Comorbidity Survey Replication (NCS-R).
+Biological Psychiatry, 58(8), 668–676.
+Kessler, R. C., McGonagle, K. A., Zhao, S., Nelson, C. B., Hughes, M., Eshleman, S., ... Kendler, K. S. (1994).
+Lifetime and 12 month prevalence of DSM-III-R psychiatric disorders in the United States. Results from the National
+Comorbidity Survey. Archives of General Psychiatry, 51(1), 8–19.
+Kivlahan, D. R., Heiman, J. R., Wright, R. C., Mundt, J. W., & Shupe, J. A. (1991). Treatment cost and rehospitalization
+rate in schizophrenic outpatients with a history of substance abuse. Hospital & Community Psychiatry, 42(6), 609–614.
+Knudsen, P., & Vilmar, T. (1984). Cannabis and neuroleptic agents in schizophrenia. Acta Psychiatrica Scandinavica,
+69, 162–174.
+Koskinen, J., Lohonen, J., Koponen, H., Isohanni, M., & Miettunen, J. (2010). Rate of cannabis use disorders in clinical
+samples of patients with schizophrenia: A meta-analysis. Schizophrenia Bulletin, 36(6), 1115–1130.
+Laird, N. M., & Ware, J. H. (1982). Random effects models for longitudinal data. Biometrics, 38, 963–974.
+Lane, R. D., Glazer, W. M., Hansen, T. E., Berman, W. H., & Kramer, S. I. (1985). Assessment of tardive dyskinesia
+using the Abnormal Involuntary Movement Scale. Journal of Nervous and Mental Disease, 173(6), 353–357.
+Lee, M. L. (1998). Clozapine and substance abuse in patients with schizophrenia. Canadian Journal of Psychiatry, 45,
+855–856.
+Lieberman, J., Johns, C., Pollack, S., Masiar, S., Bookstein, P., Cooper, T., ... Kane, J. (1991). Biochemical effects
+of clozapine in cerebrospinal fluid of patients with schizophrenia. In C. Tamminga & S. Schulz (Eds.), Advances
+in neuropsychiatry and psychopharmacology vol. 1: Schizophrenia research (pp. 341–349). New York, NY: Raven
+Press.
+Linszen, D., Dingemans, P., & Lenior, M. (1994). Cannabis abuse and the course of recent onset schizophrenic disorders.
+Archives of General Psychiatry, 51, 273–279.
+Lukoff, K., Liberman, R., & Nuechterlein, K. (1986). Symptom monitoring in the rehabilitation of schizophrenic patients.
+Schizophrenia Bulletin, 12, 578–602.
+Marcus, P., & Snyder, R. (1995). Reduction of comorbid substance abuse with clozapine (letter). American Journal of
+Psychiatry, 152, 959.
+McEvoy, J. P., Freudenreich, O., Levin, E., & Rose, J. E. (1995). Haloperidol increases smoking in patients with
+schizophrenia. Psychopharmacology, 119, 124–126.
+McHugo, G. J., Drake, R. E., Burton, H. L., & Ackerson, T. H. (1995). A scale for assessing the stage of substance abuse
+treatment in persons with severe mental illness. Journal of Nervous & Mental Disease, 183(12), 762–767.
+Mueser, K. T., Bennett, M., & Kushner, M. G. (1995). Epidemiology of substance use disorders among persons with
+chronic mental illness. In A. F. Lehman & L. B. Dixon (Eds.), Double jeopardy: Chronic mental illness and substance
+use disorders (pp. 9–25). New York, NY: Harwood.
+Mueser, K. T., Yarnold, P. R., Levinson, D. F., Singh, H., Bellack, A. S., Kee, K., ... Yadalam, K. G. (1990). Prevalence
+of substance abuse in schizophrenia: Demographic and clinical correlates. Schizophrenia Bulletin, 16, 31–56.
+Negrete, J. C., Knapp, W. P., Douglas, D. E., & Smith, W. B. (1986). Cannabis affects the severity of schizophrenic
+symptoms: Results of a clinical survey. Psychology Medicine, 16, 515–520.
+Noordsy, D. L., O’Keefe, C., Mueser, K. T., & Xie, H. (2001). Six-month outcomes for patients who switched to
+olanzapine treatment. Psychiatric Services, 52(4), 501–507.
+Peralta, V., & Cuesta, M. J. (1992). Influence of cannabis abuse on schizophrenic psychopathology. Acta Psychiatrica
+Scandinavica, 85(2), 127–130.
+Petrakis, I. L., Leslie, D., Finney, J. W., & Rosenheck, R. (2006). Atypical antipsychotic medication and substance
+use-related outcomes in the treatment of schizophrenia. The American Journal on Addictions, 15(1), 44–49.
+Potvin, S., Stip, E., Lipp, O., Elie, R., Mancinin-Marie, A., Demers, M. F., ... Gendron, A. (2006). Quetiapine in patients
+with comorbid schizophrenia-spectrum and substance use disorders: An open-label trial. Current Medical Research
+and Opinion, 22(7), 1277–1285.
+Regier, D. A., Farmer, M. E., Rae, D. S., Locke, B. Z., Keith, S. J., Judd, L. L., & Goodwin, F. K.
+(1990). Comorbidity of mental disorders with alcohol and other drug abuse. Results from the Epidemiologic Catchment Area (ECA) Study [comment]. Journal of the American Medical Association, 264(19), 2511–
+2518.
+Journal of Dual Diagnosis
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 
+Clozapine and Cannabis Use in Patients With Schizophrenia 63
+Rice, H. E., Smith, C. B., Silk, K. R., & Rosen, J. (1984). Platelet alpha 2-adrenergic receptors in schizophrenic patients
+before and after phenothiazine treatment. Psychiatry Research, 12(1), 69–77.
+Sarafoff, M., Davis, L., & Ruther, E. (1979). Clozapine induced increase of human plasma norepinephrine. Journal of
+Neural Transmission, 46(2), 175–180.
+Simpson, G. N., & Angus, J. W. S. (1970). A rating scale for extrapyramidal side effects. Acta Psychiatrica Scandinavica,
+212(suppl. 44), 11–19.
+Smelson, D. A., Losonczy, M. F., Davis, C. W., Kaune, M., Williams, J., & Ziedonis, D. (2002). Risperidone decreases
+craving and relapses in individuals with schizophrenia and cocaine dependence. Canadian Journal of Psychiatry,
+47(7), 671–675.
+Smelson, D. A., Williams, J., Ziedonis, D., Sussner, B. D., Losonczy, M. F., Engelhart, C., & Kaune, M. (2004). A
+double-blind placebo-controlled pilot study of risperidone for decreasing cue-elicited craving in recently withdrawn
+cocaine dependent patients. Journal of Substance Abuse Treatment, 27(1), 45–49.
+Smelson, D. A., Ziedonis, D., Williams, J., Losonczy, M. F., Steinberg, M. L., & Kaune, M. (2006). The efficacy
+of olanzapine for decreasing cue-elicited craving in individuals with schizophrenia and cocaine dependence: A
+preliminary report. Journal of Clinical Psychopharmacology, 26(1), 9–12.
+Sobell, M. B., Maisto, S. A., Sobell, L. C., Cooper, A. M., Cooper, T., & Saungers, B. (1980). Developing a prototype
+for evaluating alcohol treatment effectiveness. In L. C. Sobell, M. B. Sobell, & E. Ward (Eds.), Evaluating alcohol
+and drug abuse treatment effectiveness: Recent advances (pp. 129–150). New York, NY: Pergamon.
+Sobell, L. C., & Sobell, M. B. (1992). Timeline Follow-Back: A technique for assessing self-reported alcohol consumption.
+In R. Z. Litten & J. Allen (Eds.), Measuring alcohol consumption: Psychosocial and biological methods (pp. 41–72).
+Totowa, NJ: Humana Press.
+Svensson, T. H., Mathe, J. M., Andersson, J. L., Nomikos, G. G., Hildebrand, B. E., & Marcus, M. (1995). Mode of
+action of atypical neuroleptics in relation to the phencyclidine model of schizophrenia: Role of 5-HT2 receptor and
+alpha 1-adrenoceptor antagonism. Journal of Clinical Psychopharmacology, 15(1, suppl. 1), 11S–18S.
+Thierry, A. M., Godbout, R., Mantz, J., & Glowinski, J. (1990). Influence of the ascending monoaminergic systems on
+the activity of the rat prefrontal cortex. Progress in Brain Research, 85, 357–364; discussion 364–355.
+Treffert, D. A. (1978). Marijuana use in schizophrenia: A clear hazard. American Journal of Psychiatry, 135(10),
+1213–1215.
+Van Kammen, D. P., Peters, J. L., Van Kammen, W. B., Neylan, T., Yao, J. K., Shaw, D., & Doherty, G. (1990). Noradrenaline, state dependency and relapse prediction in schizophrenia. In M. Weller (Ed.), International perspectives in
+schizophrenia (pp. 253–268). London, England: John Libbey.
+Warsi, M., Sattar, S. P., Bhatia, S. C., & Petty, F. (2005). Aripiprazole reduces alcohol use. Canadian Journal of Psychiatry,
+50(4), 244.
+Xie, H., McHugo, G. J., Fox, M., & Drake, R. E. (2005). Substance abuse relapses in a 10-year prospective follow-up of
+clients with co-occurring severe mental illness and substance use disorders. Psychiatric Services, 56, 1282–1287.
+Yovell, Y., & Opler, L. A. (1994). Clozapine reverses cocaine craving in a treatment-resistant mentally ill chemical abuser:
+A case report and a hypothesis. Journal of Nervous Mental Disorders, 182, 591–592.
+Zimmet, S. V., Strous, R. D., Burgess, E. S., Kohnstamm, S., & Green, A. I. (2000). Effects of clozapine on substance use in patients with schizophrenia and schizoaffective disorder: A retrospective survey. Journal of Clinical
+Psychopharmacology, 20, 94–98.
+2011, Volume 7, Numbers 1–2
+Downloaded by [University of Liverpool] at 08:30 29 December 2014 

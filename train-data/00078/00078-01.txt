@@ -1,0 +1,917 @@
+ARTHRITIS & RHEUMATISM
+Vol. 50, No. 9, September 2004, pp 2974–2984
+DOI 10.1002/art.20485
+© 2004, American College of Rheumatology
+A Double-Blind, Multicenter Trial Comparing Duloxetine With
+Placebo in the Treatment of Fibromyalgia Patients
+With or Without Major Depressive Disorder
+Lesley M. Arnold,1 Yili Lu,2 Leslie J. Crofford,3 Madelaine Wohlreich,2 Michael J. Detke,4
+Smriti Iyengar,2 and David J. Goldstein,5 for the Duloxetine Fibromyalgia Trial Group
+Objective. To assess the efficacy and safety of
+duloxetine, a serotonin and norepinephrine reuptake
+inhibitor, in subjects with primary fibromyalgia, with or
+without current major depressive disorder.
+Methods. This study was a randomized, doubleblind, placebo-controlled trial conducted in 18 outpatient research centers in the US. A total of 207 subjects
+meeting the American College of Rheumatology criteria
+for primary fibromyalgia were enrolled (89% female,
+87% white, mean age 49 years, 38% with current major
+depressive disorder). After single-blind placebo treatment for 1 week, subjects were randomly assigned to
+receive duloxetine 60 mg twice a day (n  104) or
+placebo (n  103) for 12 weeks. Co–primary outcome
+measures were the Fibromyalgia Impact Questionnaire
+(FIQ) total score (score range 0–80, with 0 indicating no
+impact) and FIQ pain score (score range 0–10). Secondary outcome measures included mean tender point pain
+threshold, number of tender points, FIQ fatigue, tiredness on awakening, and stiffness scores, Clinical Global
+Impression of Severity (CGI-Severity) scale, Patient
+Global Impression of Improvement (PGI-Improvement)
+scale, Brief Pain Inventory (short form), Medical Outcomes Study Short Form 36, Quality of Life in Depression Scale, and Sheehan Disability Scale.
+Results. Compared with placebo-treated subjects,
+duloxetine-treated subjects improved significantly more
+(P  0.027) on the FIQ total score, with a treatment
+difference of 5.53 (95% confidence interval 10.43,
+0.63), but not significantly more on the FIQ pain score
+(P  0.130). Compared with placebo-treated subjects,
+duloxetine-treated subjects had significantly greater
+reductions in Brief Pain Inventory average pain severity
+score (P  0.008), Brief Pain Inventory average interference from pain score (P  0.004), number of tender
+points (P  0.002), and FIQ stiffness score (P  0.048),
+and had significantly greater improvement in mean
+tender point pain threshold (P  0.002), CGI-Severity
+(P  0.048), PGI-Improvement (P  0.033), and several
+quality-of-life measures. Duloxetine treatment improved fibromyalgia symptoms and pain severity regardless of baseline status of major depressive disorder.
+Compared with placebo-treated female subjects (n 
+92), duloxetine-treated female subjects (n  92) demonstrated significantly greater improvement on most
+efficacy measures, while duloxetine-treated male subjects (n  12) failed to improve significantly on any
+efficacy measure. The treatment effect on significant
+pain reduction in female subjects was independent of
+the effect on mood or anxiety. Duloxetine was safely
+administered and well tolerated.
+Conclusion. In this randomized, controlled, 12-
+week trial (with a 1-week placebo lead-in phase), duloxetine was an effective and safe treatment for many of the
+symptoms associated with fibromyalgia in subjects with
+or without major depressive disorder, particularly for
+Supported by Eli Lilly and Company.
+1
+Lesley M. Arnold, MD: University of Cincinnati College of
+Medicine, Cincinnati, Ohio; 2
+Yili Lu, PhD, Madelaine Wohlreich,
+MD, Smriti Iyengar, PhD: Eli Lilly and Company, Indianapolis,
+Indiana; 3
+Leslie J. Crofford, MD: University of Michigan, Ann Arbor; 4
+Michael J. Detke, MD, PhD: Indiana University Medical School and
+Eli Lilly and Company, Indianapolis, Indiana, McLean Hospital,
+Belmont, Massachusetts, and Harvard Medical School, Boston, Massachusetts; 5
+David J. Goldstein, MD, PhD: Indiana University Medical
+School and PRN Consulting, Indianapolis, Indiana.
+Drs. Crofford and Arnold have received consulting fees or
+honoraria in the last 2 years from Eli Lilly and Company (Dr.
+Crawford $10,000, Dr. Arnold $10,000). In addition to the authors
+employed by Eli Lilly and Company listed above, Dr. Goldstein’s wife
+is employed by Eli Lilly and Company.
+Address correspondence and reprint requests to Lesley M.
+Arnold, MD, University of Cincinnati Medical Arts Building, Suite
+8200, 222 Piedmont Avenue, Cincinnati, OH 45219. E-mail:
+Lesley.Arnold@uc.edu.
+Submitted for publication July 11, 2003; accepted in revised
+form May 26, 2004.
+2974
+women, who had significant improvement across most
+outcome measures.
+Fibromyalgia is a chronic musculoskeletal pain
+disorder of unknown etiology, characterized by widespread pain and muscle tenderness, and often accompanied by fatigue, sleep disturbance, and depressed mood
+(1,2). Fibromyalgia occurs in 2% of the general population in the US and is more common in women than in
+men (3.4% of women and 0.5% of men) (3). There are
+few reported effective treatments and no Food and Drug
+Administration–approved treatments for fibromyalgia,
+which is associated with substantial morbidity and disability.
+The pathophysiology of fibromyalgia is unknown,
+but abnormalities in central monoaminergic neurotransmission might play a role. There is evidence of dysfunction in both serotonin (5-hydroxytryptamine [5-HT])
+and norepinephrine (NE) systems in patients with fibromyalgia (4–7). Both 5-HT and NE have also been
+implicated in the mediation of endogenous analgesic
+mechanisms via the descending inhibitory pain pathways
+in the brain and spinal cord (8–10). Dysfunction of
+5-HT– and NE-mediated descending pain-inhibitory
+pathways is a potential mechanism for the pain experienced by patients with fibromyalgia. Antidepressants
+that increase 5-HT– and NE-mediated neurotransmission are commonly used to treat fibromyalgia and other
+chronic pain conditions (11). Prior treatment studies
+with antidepressant medications suggested that inhibition of both the 5-HT and NE reuptake transporters was
+more effective in treating fibromyalgia than inhibition of
+either transporter alone (11,12). Two recent meta-analyses of trials of tricyclic medications that inhibit both
+5-HT and NE reuptake found a consistent, moderate
+efficacy for these agents (13,14). However, many patients with fibromyalgia cannot tolerate the sedative and
+other adverse effects associated with tricyclic agents. As
+an alternative to tricyclic agents, selective serotonin
+reuptake inhibitors (SSRIs), which are likely to be better
+tolerated, have had mixed results in treatment studies of
+fibromyalgia (12,15–18).
+Duloxetine hydrochloride is a potent 5-HT and
+NE reuptake inhibitor (SNRI) that is relatively evenly
+balanced with similar affinity for both 5-HT and NE
+reuptake inhibition. Duloxetine lacks significant affinity
+for muscarinic, histamine 1, 1-adrenergic, dopamine,
+5-HT1A, 5-HT1B, 5-HT1D, 5-HT2A, 5-HT2C, and opioid receptors. Because of the proposed role of 5-HT and
+NE as key mediators of descending pain pathways,
+duloxetine has been studied in several animal models of
+persistent and neuropathic pain and found to be effective in reducing pain-related behaviors at doses that did
+not cause neuromuscular dysfunction (19–21). In these
+animal models, duloxetine was more potent than venlafaxine, amitriptyline, or desipramine and more effective than the SSRI paroxetine and the selective NE
+inhibitor thionisoxetine in reducing persistent painrelated behaviors in animals (20). The findings from
+these preclinical studies suggested that duloxetine might
+be an effective treatment for some forms of persistent
+pain in humans.
+Abnormalities in 5-HT and NE neurotransmission are also involved in the pathophysiology of major
+depressive disorder, which is frequently comorbid with
+fibromyalgia (1). Patients with major depressive disorder
+commonly present with painful physical symptoms, such
+as headache, back pain, stomach aches, and poorly
+localized musculoskeletal pain, although it is not known
+whether major depressive disorder is associated with
+altered pain processing or whether the pain associated
+with major depressive disorder has an etiology similar to
+that of pain in fibromyalgia (22–24). Duloxetine has
+been shown to be a safe, tolerable, and effective antidepressant at doses of 60–120 mg/day (25–27). In a previous trial, duloxetine also significantly reduced painful
+physical symptoms associated with major depressive
+disorder (28).
+Based on the evidence from preclinical and clinical studies of duloxetine showing potential efficacy in
+the treatment of persistent pain symptoms and the
+painful physical symptoms associated with depression,
+we hypothesized that duloxetine would be safe and
+efficacious in reducing pain severity and the impact of
+fibromyalgia in patients with or without current major
+depressive disorder. To test this hypothesis on behalf of
+the Duloxetine Fibromyalgia Trial Group (see Appendix
+A), we conducted a randomized, placebo-controlled,
+double-blind, parallel-group study to assess the safety
+and efficacy of duloxetine, titrated to 60 mg twice a day,
+in 207 outpatients meeting the American College of
+Rheumatology (ACR) criteria for fibromyalgia (2) with
+or without current major depressive disorder. The dose
+of 120 mg/day was selected based on results of a previous
+clinical trial of fibromyalgia suggesting that patients
+might respond better to higher doses of antidepressants
+(16). This is one of the largest clinical trials ever
+conducted for the treatment of fibromyalgia, and, to our
+knowledge, the only study to include an evaluation of the
+impact of comorbid major depressive disorder on response to treatment.
+DULOXETINE VERSUS PLACEBO IN FIBROMYALGIA 2975
+PATIENTS AND METHODS
+Overview. The study was conducted in 18 outpatient
+research centers (5 university sites and 13 independent research centers) in the US. Enrollment began in July 2001, and
+the study was completed in March 2002. The Institutional
+Review Boards approved the protocol, and all subjects provided written informed consent after the study was explained
+and their questions answered, and before study procedures
+were initiated. Subjects were identified by physician referral or
+responded to an advertisement for a fibromyalgia medication
+trial.
+Entry criteria. Female or male subjects were eligible
+for the study if they were 18 years of age or older and met the
+ACR criteria for fibromyalgia (2). Only subjects with primary
+fibromyalgia were enrolled; those with associated rheumatic or
+other medical disorders that contributed to the symptoms of
+fibromyalgia were excluded. Subjects were required to score
+4 on the pain intensity item of the Fibromyalgia Impact
+Questionnaire (FIQ) (score range 0–10, with 10 indicating very
+severe pain) (29) at visits 1 (screening) and 2 (the placebo
+lead-in phase [see below]). Subjects were included if they
+were judged to be reliable and had an educational level and
+degree of understanding that allowed them to communicate
+intelligibly.
+Exclusion criteria included the following: pain from
+traumatic injury or structural or regional rheumatic disease;
+rheumatoid arthritis, inflammatory arthritis, or autoimmune
+disease; unstable medical or psychiatric illness; current dysthymia, which is more treatment resistant than major depression,
+or primary psychiatric disorder other than major depressive
+disorder; substance abuse in the last year; history of psychosis;
+pregnancy or breast feeding; unacceptable contraception in
+those of childbearing potential; involvement in disability reviews that might compromise treatment response; use of an
+investigational drug within 30 days; prior participation in a
+study of duloxetine; severe allergic reactions to multiple medications; intolerance to 3 psychoactive drugs or 1 SSRI; and
+failure to respond to 2 adequate regimens of 2 different
+classes of antidepressants for depression or fibromyalgia.
+Concomitant medication exclusions included use of
+medications or herbal agents with central nervous system
+activity (antidepressants required a 7-day washout prior to visit
+2 except for monoamine oxidase inhibitors, which required a
+14-day washout, and fluoxetine, which required a 30-day
+washout); regular use of analgesics with the exception of
+acetaminophen up to 2 grams/day and aspirin up to 325
+mg/day; chronic use of sedatives, antiemetics, or antispasmodics; episodic use of anticoagulants; 3 months stable therapy
+with antihypertensives, hormones, antiarrhythmics, antidiarrheals, antihistamines, cough/cold preparations (excluding dextromethorphan), or laxatives; and initiation of or change in
+unconventional or alternative therapies.
+Study design. The 3–30-day screening phase was followed by a 1-week, single-blind, placebo lead-in phase at visit
+2. Subjects received placebo for 1 week in an attempt to obtain
+an unbiased evaluation of the baseline variables, including
+safety measures. At visit 3, subjects were randomized to 1 of
+the following 2 treatment groups: duloxetine or placebo in a
+1:1 ratio. Assignment to treatment groups was determined by a
+computer-generated random sequence using an interactive
+voice response system. Treatment was double-blind for 12
+weeks. Subjects were evaluated weekly (visits 3–5) for the first
+2 weeks of the 12-week therapy phase; thereafter, study visits
+were scheduled at 2-week intervals (visits 6–10). Subjects
+randomized to receive duloxetine underwent a double-blind
+forced titration from 20 mg/day to 60 mg twice a day during the
+first 2 weeks of the therapy phase, as follows: 20 mg every day
+for 5 days, 20 mg twice a day for at least 3 days, 40 mg twice a
+day for at least 2 days, and 60 mg twice a day for the remainder
+of the study beginning at visit 5. The number of placebo
+capsules was similarly adjusted to maintain the blinding.
+Outcome measures. The protocol-defined co–primary
+outcome measures were pain severity as measured by the FIQ
+pain item and the FIQ total score (29). The total score
+reflected the impact of fibromyalgia and ranged from 0 (no
+impact) to 80 (maximum impact). Secondary outcome measures included the FIQ items for fatigue, morning tiredness,
+and stiffness (29). At the start-up meeting, study physicians or
+qualified study personnel were trained and certified in the
+performance of dolorimetry; reliability testing was not performed. For the tender point assessment, the Fischer dolorimeter (30) with a rubber disk of 1 cm2 was applied at a 90°
+vertical angle to the 18 tender point sites defined by the ACR
+criteria (2), and the pressure was increased at a rate of 1
+kg/cm2
+/second until the subject indicated verbally that he/she
+first felt discomfort or pain (tender point pain threshold
+recorded in kg/cm2
+). The mean tender point pain threshold
+was calculated from 18 points, and the tender point count was
+determined by the number of tender points that had a threshold of 4 kg/cm2
+.
+Other secondary measures included the Clinical
+Global Impression of Severity (CGI-Severity) scale, ranging
+from 1 (normal, not at all ill) to 7 (among the most extremely
+ill patients) (31), and the Patient Global Impression of Improvement (PGI-Improvement) scale, ranging from 1 (very
+much better) to 7 (very much worse). Subjects also completed
+the Brief Pain Inventory (short form) (32), which measured
+pain severity during the past 24 hours (from 0 [no pain] to 10
+[pain as bad as you can imagine]) and interference (from 0
+[does not interfere] to 10 [completely interferes]) with general
+activity, mood, walking ability, normal work, relations with
+other people, sleep, and enjoyment of life. Multiple measures
+of pain were included because there is no current consensus
+about the evaluation of pain in fibromyalgia. The measures
+assessed pain during different time frames and determined the
+impact of pain on several functions.
+Other secondary objectives were to determine whether
+the effects of duloxetine 60 mg twice a day on the FIQ pain
+score and total score were independent of the presence or
+absence of a current major depressive disorder as defined by
+the Diagnostic and Statistical Manual of Mental Disorders,
+Fourth Edition (DSM-IV). The severity of depressive and
+anxiety symptoms was measured by the Beck Depression
+Inventory-II (33) and the Beck Anxiety Inventory (34), respectively. The impact of duloxetine compared with that of placebo
+on subject-reported outcomes was measured by the Medical
+Outcomes Study Short Form 36 (SF-36) (35), the Quality of
+Life in Depression Scale (36,37), and the Sheehan Disability
+Scale (38). The safety of duloxetine 60 mg twice a day was
+assessed by discontinuation pattern, treatment-emergent ad2976 ARNOLD ET AL
+verse events, vital signs, electrocardiograms (EKGs), and
+laboratory analysis.
+Schedule of assessments. The screening protocol (visit
+1) included the medical history and the Mini International
+Neuropsychiatric Interview (39) to identify DSM-IV Axis I
+psychiatric disorders (40). Subjects also underwent a physical
+examination, EKG, and laboratory tests, and completed the
+FIQ. A digital tender point examination confirmed the diagnosis of fibromyalgia by ACR criteria (2). At the 1-week
+placebo lead-in phase (visit 2) and at each subsequent visit, the
+FIQ was completed, vital signs were checked, and adverse
+events and concomitant medication were reviewed. At randomization (visit 3), laboratory tests and all of the efficacy
+measurements were completed. From the randomization visit
+to the end of the study (visits 3–10), the Brief Pain Inventory
+was completed at each visit, and the tender point assessment,
+CGI-Severity scale, PGI-Improvement scale, Beck Depression
+Inventory-II, Beck Anxiety Inventory, and laboratory tests
+were completed or performed at weeks 4, 8, and 12. Additional
+evaluations at the final visit included a physical examination,
+laboratory tests, EKG, SF-36, Quality of Life in Depression
+Scale, and Sheehan Disability Scale.
+Statistical analysis. This study was designed to enroll
+200 patients so that it would have at least 90% power to detect
+a treatment group difference of 1.4 points in pain severity as
+measured by the pain item in the FIQ. The use of a 1.4-point
+difference in FIQ pain score was based on the desire to power
+this study to demonstrate a moderately large effect size (0.65)
+for duloxetine using point and variance estimates based on the
+results of the Arnold et al study in 2002 (16) comparing
+fluoxetine with placebo under similar circumstances. The
+present study was not powered using the FIQ total score
+because its higher relative variability would have required a
+considerably greater sample size. Analyses were also conducted to determine whether the treatment effect of duloxetine in fibromyalgia was independent of its effect on major
+depressive disorder. The interaction of treatment with major
+depressive disorder status was not included in the power
+calculations due to limited preprotocol information concerning
+this effect. We anticipated that the power for testing this
+interaction effect would be slightly less than that for the
+treatment-group-only comparisons; however, the use of a
+sample size that provides a high level of power (90%) based on
+treatment group comparisons was expected to provide reasonable power for the interaction assessment.
+Longitudinal changes from baseline on continuous
+efficacy measures were analyzed using a mixed-effects model
+for repeated measures analysis (41), defined a priori in the
+protocol as the primary analysis. The model included the fixed,
+categorical effects of treatment, investigator, visit, and interaction of treatment with visit, as well as the continuous, fixed
+covariates of baseline and interaction of baseline with visit. An
+unstructured covariance matrix was used to model the withinsubject errors. As a secondary analysis, changes from baseline
+to end point (the last observation carried forward [LOCF]
+method) were analyzed using an analysis of covariance (ANCOVA) model with the terms of treatment, investigator, and
+baseline scores. When previous use of antidepressants was not
+balanced at baseline between treatment groups, that subgroup
+was added to the ANCOVA model to assess treatment effect
+on the two primary measures. Furthermore, for the FIQ pain
+score, the area under the curve (AUC) of improvement scores
+(postbaseline minus baseline) over visit intervals was evaluated. The greater the AUC value, the greater the treatment
+effect on pain reduction. Due to the skewed distribution of the
+AUC, the rank-transformed AUC scores were analyzed using
+an analysis of variance (ANOVA) model with the terms of
+treatment and investigator.
+The hypothesis regarding an interaction between maFigure 1. Flow of subjects through the trial. MDD  current major
+depressive disorder.
+Table 1. Baseline characteristics of subjects*
+Treatment group
+Placebo
+(n  103)
+Duloxetine 60 mg
+bid (n  104)
+Age, mean  SD years 48.3  11.3 49.9  12.3
+Women 92 (89.3) 92 (88.5)
+Race
+White 88 (85.4) 92 (88.5)
+African descent 4 (3.9) 3 (2.9)
+Hispanic 6 (5.8) 5 (4.8)
+East/southeast Asian 2 (1.9) 1 (1.0)
+Western Asian 0 (0) 1 (1.0)
+Other 3 (2.9) 2 (1.9)
+Current major depressive episode 42 (40.8) 37 (35.6)
+Previous antidepressant use 51 (49.5) 35 (33.7)†
+* Except where indicated otherwise, values are the number (%) of
+subjects. bid  twice a day.
+† P  0.024 versus placebo group.
+DULOXETINE VERSUS PLACEBO IN FIBROMYALGIA 2977
+jor depressive disorder status at baseline and treatment groups
+was tested using an ANCOVA model as described above, with
+the addition of the major depressive disorder status at baseline
+and the interaction of treatment with subgroup. This model
+was also used for the subgroup analysis for the subgroups
+defined by other factors.
+Path analysis (42) was performed to test the direct
+treatment effect on pain reduction. In this analysis, 3 regression models were employed to describe the following protocolspecified causal relationships: first, the treatment has an effect
+on pain reduction (direct effect) after accounting for the
+indirect effect through improvement of depressive or anxiety
+symptoms (model 1); second, the treatment improves depressive symptoms (model 2) or anxiety symptoms (model 3). In
+this analysis, the significance of the direct treatment effect was
+tested by Student’s t-test in the first regression model (model
+1), where change in the pain measure (FIQ pain score or Brief
+Pain Inventory average pain severity score) was a dependent
+variable, and treatment, baseline, investigator, and changes in
+the Beck Depression Inventory-II and Beck Anxiety Inventory
+scores were independent variables. In the other 2 regression
+models (models 2 and 3), for changes in Beck Depression
+Inventory-II and Beck Anxiety Inventory scores, respectively,
+the treatment and baseline were used as independent variables. The percentage of direct and indirect effects on the total
+treatment effect (the sum of the direct and the two indirect
+effects) was computed and presented.
+For categorical variables, treatment group differences
+were evaluated using Fisher’s exact test. Continuous baseline
+measures and continuous safety parameters were evaluated
+using the ANOVA model described above. Treatment effects
+were tested at a two-sided significance level of 0.05. Interaction
+effects were tested at a significance level of 0.10. Throughout
+this article, the term “significant” indicates statistical significance, and the “mean change” refers to “least-squares mean
+change” when presenting efficacy results.
+RESULTS
+Subject disposition. A total of 555 subjects were
+screened to identify 215 subjects who met entry criteria.
+Of these 215 subjects, 207 were randomized to receive
+study treatment. This was the intent-to-treat sample, of
+which 104 subjects received duloxetine and 103 subjects
+received placebo (Figure 1). There were no significant
+between-group differences in subject discontinuation for
+any reason. Eighty-three subjects withdrew during the
+acute therapy phase, 46 (44%) from the duloxetine
+group and 37 (36%) from the placebo group (P  0.257).
+The mean  SD duration of treatment was 58.7  32.1
+days for duloxetine and 65.6  28.7 days for placebo
+(P  0.116).
+Baseline clinical and demographic characteristics. The majority of the subjects were women (89%)
+and white (87%). Thirty-eight percent of the enrolled
+subjects had current major depressive disorder. The only
+significant between-group difference in any baseline
+characteristic (Table 1) or clinical variable (Tables 2 and
+3) involved a previous history of antidepressant use for
+treatment of either mood or pain symptoms, which was
+Table 2. Baseline efficacy measures*
+Efficacy measure
+Treatment group
+Placebo Duloxetine 60 mg bid
+No. of
+subjects Mean  SD
+No. of
+subjects Mean  SD
+FIQ total score, range 0–80 101 50.2  13.3 103 48.7  14.7
+FIQ subscores, range 0–10
+Pain 102 7.0  2.0 104 6.9  2.1
+Fatigue 103 7.4  2.2 104 7.4  2.1
+Tiredness on awakening 103 7.3  2.3 104 7.4  2.4
+Stiffness 103 7.1  2.2 104 7.3  2.3
+Tender points, range 0–18 97 16.6  2.6 93 16.7  2.2
+Mean tender point pain threshold, kg/cm2 97 2.3  0.8 93 2.3  0.8
+CGI-Severity scale, range 1–7 102 4.3  0.9 104 4.3  0.8
+Brief Pain Inventory average pain severity,
+range 0–10
+102 6.1  1.7 103 6.1  1.8
+Brief Pain Inventory average interference
+from pain, range 0–10
+102 5.5  2.3 104 5.5  2.4
+Beck Depression Inventory-II total score,
+range 0–63
+96 13.2  8.9 99 12.7  9.6
+Beck Anxiety Inventory total score, range
+0–63
+93 11.2  8.0 102 9.9  8.5
+* There were no significant differences between the treatment groups. bid  twice a day; FIQ 
+Fibromyalgia Impact Questionnaire; CGI-Severity  Clinical Global Impression of Severity.
+2978 ARNOLD ET AL
+more common in the placebo group. Female and male
+subjects were similar in demographics, baseline variables, and major depressive disorder status with the
+exception of the two tender point assessments. Compared with male subjects, female subjects had significantly more tender points (mean  SD 16.88  1.97
+versus 14.87  3.84; P  0.001) and significantly lower
+mean tender point pain thresholds (mean  SD 2.21 
+0.71 versus 2.68  1.04; P  0.001).
+Efficacy. The changes in the FIQ total score and
+pain score over time are illustrated in Figures 2 and 3.
+Compared with the placebo group, the duloxetine group
+had a significantly greater improvement in the FIQ total
+score at the last visit of the acute therapy phase (week
+12), as well as at week 4. The treatment group difference
+in FIQ pain score was not significant at week 12 (P 
+0.130); however, it was significant at early visits of the study
+(weeks 1, 2, and 4). Results are summarized in Table 4.
+Most of the secondary outcome measures improved significantly more in the duloxetine group compared with the placebo group (Table 4). The Brief Pain
+Inventory interference items that improved significantly
+were general activity, mood, walking ability, normal
+work, sleep, and enjoyment of life.
+The duloxetine group had significantly greater
+improvement (by ANCOVA) in the FIQ total score,
+with a difference of 4.52 (95% confidence interval
+[95% CI] 8.86, 0.17) (P  0.042), and marginally
+significant improvement in the FIQ pain score, with a
+difference of 0.71 (95% CI 1.42, 0.01) (P  0.052),
+after accounting for the significant group difference in
+prior antidepressant use at baseline. When comparing
+the AUCs on the FIQ pain score, duloxetine treatment
+demonstrated a significant superiority over placebo
+(median AUC 75.5 versus 27, respectively; P  0.041).
+The LOCF results on secondary outcome measures
+were similar to the findings obtained by the primary
+Figure 2. Mean change from baseline in Fibromyalgia Impact Questionnaire (FIQ) total score for all randomized subjects. Duloxetine 60
+BID  duloxetine 60 mg twice a day.
+Table 3. Baseline scores for Short Form 36 (SF-36), Quality of Life in Depression Scale, and Sheehan
+Disability Scale*
+Outcome measure
+Treatment group
+Placebo Duloxetine 60 mg bid
+No. of
+subjects
+Mean
+ SD
+No. of
+subjects
+Mean
+ SD
+SF-36, range 0–100
+Mental subscore 92 44.0  10.3 91 46.3  11.8
+Physical subscore 92 30.3  8.0 91 29.3  8.8
+Bodily pain 92 32.3  15.0 92 31.4  16.1
+General health perception 92 49.9  21.2 92 50.8  22.0
+Mental health 92 61.8  17.6 92 65.5  20.5
+Physical functioning 92 45.5  22.3 92 45.4  22.8
+Role limit, emotional 92 56.2  42.5 92 62.0  44.1
+Role limit, physical 92 17.9  29.0 92 16.0  25.8
+Social function 92 56.7  21.8 91 59.8  25.6
+Vitality 92 24.1  18.6 92 23.4  19.1
+Quality of Life in Depression Scale
+total score, range 0–10 81 5.0  6.1 84 4.9  6.4
+Sheehan Disability Scale
+total score, range 0–30 93 16.1  7.2 91 15.6  7.9
+* There were no statistically significant differences between the treatment groups. bid  twice a day.
+DULOXETINE VERSUS PLACEBO IN FIBROMYALGIA 2979
+analysis. Other outcome measures improved significantly more in the duloxetine group than in the placebo
+group (Table 5).
+The response rates, defined as a reduction of at
+least 50% in the FIQ pain score at end point, were
+27.7% and 16.7% for the duloxetine and placebo groups,
+respectively (P  0.06). No interaction of treatment with
+major depressive disorder was observed for the primary
+efficacy measures (P  0.862 for FIQ total score and
+P  0.677 for FIQ pain score), suggesting that the effect
+of duloxetine on reduction of fibromyalgia symptoms
+was similar in subjects with or without major depressive
+disorder.
+Efficacy analysis on female subjects. The interaction of treatment with sex approached the significance
+level of 0.1 for the FIQ total score (P  0.101) and FIQ
+pain score (P  0.121). Compared with placebo-treated
+female subjects, duloxetine-treated female subjects had
+significantly greater improvement in both the FIQ total
+score (P  0.029) and FIQ pain score (P  0.035). A
+significantly higher percentage of duloxetine-treated
+women than placebo-treated women had a decrease of
+50% in the FIQ pain score (30.3% versus 16.5%; P 
+0.035). The interaction of treatment with sex was significant for two secondary measures, the Brief Pain Inventory average pain score (P  0.046) and the Sheehan
+Disability Scale total score (P  0.007). Duloxetinetreated female subjects improved significantly more than
+placebo-treated female subjects on all of the secondary
+efficacy measures that demonstrated treatment group
+differences for all randomized subjects. The male subjects receiving duloxetine did not respond significantly
+on primary or secondary efficacy measures.
+Figure 3. Mean change from baseline in FIQ pain score for all
+randomized subjects. See Figure 2 for definitions.
+Table 4. Summary of results for the FIQ, tender point assessments, CGI-Severity scale, Patient Global Impression of Improvement (PGIImprovement) scale, Brief Pain Inventory, Beck Depression Inventory-II, and Beck Anxiety Inventory*
+Measure
+Treatment group
+Between-group difference
+at end point (95% CI) P
+Placebo Duloxetine 60 mg bid
+No. of
+subjects
+Change,
+mean  SEM
+No. of
+subjects
+Change,
+mean  SEM
+FIQ total score, range 0–80 102 7.93  1.73 101 13.46  1.82 5.53 (10.43, 0.63) 0.027
+FIQ subscores, range 0–10
+Pain 103 1.35  0.29 101 1.98  0.3 0.63 (1.45, 0.19) 0.130
+Fatigue 103 0.88  0.28 101 1.30  0.29 0.42 (1.2, 0.36) 0.287
+Tiredness on awakening 103 0.95  0.28 101 1.42  0.30 0.47 (1.27, 0.33) 0.246
+Stiffness 103 1.51  0.29 101 2.33  0.30 0.82 (1.64, 0.01) 0.048
+Tender points, range 0–18 97 0.11  0.26 93 1.06  0.26 1.17 (1.88, 0.45) 0.002
+Mean tender point
+pain threshold, kg/cm2 97 0.04  0.07 93 0.29  0.07 0.33 (0.13, 0.53) 0.002
+CGI-Severity scale, range 1–7 97 0.39  0.12 95 0.72  0.12 0.33 (0.65, 0.00) 0.048
+PGI-Improvement scale, range 1–7 99 3.53  0.17 95 3.02  0.17 0.51 (0.99, 0.04) 0.033
+Brief Pain Inventory
+average pain severity, range 0–10 102 0.94  0.23 100 1.83  0.24 0.89 (1.55, 0.23) 0.008
+Brief Pain Inventory
+average interference from pain, range 0–10 102 0.95  0.26 101 2.01  0.27 1.06 (1.78, 0.34) 0.004
+Beck Depression Inventory-II
+total score, range 0–63 89 1.02  0.83 88 3.32  0.85 2.30 (4.62, 0.02) 0.052
+Beck Anxiety Inventory
+total score, range 0–63 86 1.39  0.69 93 2.60  0.69 1.21 (3.12, 0.69) 0.209
+* 95% CI  95% confidence interval (see Table 2 for other definitions).
+2980 ARNOLD ET AL
+The path analysis for the FIQ pain score and the
+Brief Pain Inventory average pain severity score, performed as a secondary analysis to further evaluate
+treatment effect on pain reduction in the female subjects, showed that, for both measures, the direct treatment effect on pain accounted for a major portion of the
+total effect. The direct effect of duloxetine on the
+reduction of the FIQ pain score accounted for 61.1% of
+the total treatment effect (P  0.313); the indirect
+treatment effect through improvement in depressive
+symptoms accounted for 38.5% of the total treatment
+effect, and improvement in anxiety accounted for only
+0.5% of the total treatment effect. The direct effect of
+duloxetine on the reduction of the Brief Pain Inventory
+average pain severity score accounted for 83.3% of the
+total treatment effect (P  0.015); the indirect treatment
+effect through improvement in depressive symptoms
+accounted for 15.3% of the total treatment effect, and
+improvement in anxiety accounted for 1.5% of the total
+treatment effect. The path analysis also suggested that
+there was more indirect effect from change in depressive
+symptoms than anxiety symptoms, but neither effect was
+significant.
+Safety. Of the 207 randomized subjects, 94
+duloxetine-treated subjects (90.4%) and 77 placebotreated subjects (74.8%) reported at least one
+treatment-emergent adverse event (P  0.003). A total
+of 29 subjects discontinued during the therapy phase due
+to adverse events, with no statistically significant differences between treatment groups (18 in the duloxetine
+group [17.3%] and 11 in the placebo group [10.7%]; P 
+0.229) (Figure 1). Duloxetine-treated subjects reported
+insomnia, dry mouth, and constipation significantly
+more frequently than did placebo-treated subjects. Most
+treatment-emergent adverse events were of mild or
+moderate severity. There were no significant treatment
+group differences in the percentage of severe treatmentemergent adverse events.
+Duloxetine-treated subjects had small, but significant, increases from baseline to end point in heart rate
+(mean  SD change 3.53  11.56) (P  0.005).
+Duloxetine-treated subjects also experienced small, nonsignificant increases in systolic and diastolic blood pressure (mean  SD changes of 1.26  15.31 mm Hg and
+0.58  8.36 mm Hg, respectively). Three subjects (2
+randomized to the duloxetine group and 1 randomized
+to the placebo group) experienced sustained hypertension, but the treatment group difference was not statistically significant. Mean change in weight was not statistically different between treatment groups.
+Compared with placebo-treated subjects,
+duloxetine-treated subjects experienced small, but significant, increases from baseline to end point in levels of
+aspartate transaminase, creatine phosphokinase, and
+cholesterol, and significant decreases in levels of calcium
+and chloride. These mean differences were within normal reference ranges and were not considered clinically
+relevant. No subject experienced elevated corrected QT
+intervals during the study.
+Table 5. Summary of results for SF-36, Quality of Life in Depression Scale, and Sheehan Disability Scale*
+Variable
+Treatment group
+Between-group
+difference (95% CI) P
+Placebo Duloxetine 60 mg bid
+No. of
+subjects
+Change,
+mean  SEM
+No. of
+subjects
+Change,
+mean  SEM
+SF-36, range 0–100
+Mental subscore 92 0.52  1.05 91 2.98  1.04 2.46 (0.47, 5.39) 0.099
+Physical subscore 92 2.53  0.80 91 5.49  0.81 2.97 (0.79, 5.14) 0.008
+Bodily pain 92 5.67  1.90 92 15.32  1.89 9.65 (4.52, 4.79) 0.001
+General health perception 92 3.86  1.43 92 7.88  1.42 4.02 (0.16, 7.88) 0.041
+Mental health 92 2.86  1.77 92 8.24  1.74 5.39 (0.48, 10.29) 0.032
+Physical functioning 92 3.82  1.69 92 8.44  1.68 4.61 (0.05, 9.18) 0.048
+Role limit, emotional 92 2.88  4.41 92 6.77  4.34 9.65 (2.57, 21.86) 0.121
+Role limit, physical 92 11.41  3.29 92 15.48  3.28 4.07 (4.82, 12.96) 0.368
+Social function 92 4.37  2.19 91 9.78  2.18 5.41 (0.69, 11.51) 0.082
+Vitality 92 4.40  1.88 92 9.57  1.87 5.17 (0.09, 10.25) 0.046
+Quality of Life in Depression Scale
+total score, range 0–10 81 0.11  0.54 84 1.52  0.53 1.63 (3.10, 0.17) 0.029
+Sheehan Disability Scale
+total score, range 0–30 93 1.28  0.64 91 4.18  0.63 2.90 (4.67, 1.13) 0.001
+* 95% CI  95% confidence interval (see Table 3 for other definitions).
+DULOXETINE VERSUS PLACEBO IN FIBROMYALGIA 2981
+DISCUSSION
+In this randomized, double-blind, 12-week trial,
+duloxetine had significantly greater efficacy than placebo on most outcome measures in the treatment of
+subjects with ACR-defined primary fibromyalgia at a
+fixed dose of 60 mg twice a day. This is the first
+medication trial of fibromyalgia to use a structured
+psychiatric interview to identify comorbid DSM-IV–
+defined major depressive disorder and to include subjects with and without current major depressive disorder.
+In the subgroup analysis, the improvement in fibromyalgia symptoms with duloxetine compared with placebo
+was independent of the presence or absence of major
+depressive disorder. The effect on mood was measured
+by the Beck Depression Inventory-II, which showed
+marginal improvement in the duloxetine group compared with the placebo group (P  0.052). Duloxetine
+demonstrated a direct effect on pain reduction in female
+subjects that was significantly greater than the indirect
+effect attributed to improvement in mood and anxiety
+symptoms. Therefore, the effect of duloxetine on the
+reduction of pain associated with fibromyalgia appears
+to be independent of its effect on mood. These results
+confirm the findings from prior studies of fibromyalgia
+with the tricyclic agents amitriptyline and cyclobenzaprine, and with the SSRI fluoxetine, which found no
+significant relationship between improvement in fibromyalgia symptoms and change in depression scores,
+although none of these prior studies evaluated the
+impact of currently diagnosed major depressive disorder
+(12,16,43).
+The pathophysiology of fibromyalgia remains unknown. Duloxetine, a potent SNRI, may correct a functional deficit of 5-HT and NE neurotransmission. Although the pathophysiology of major depressive
+disorder and fibromyalgia may share abnormalities in
+central monoaminergic neurotransmission, the independent effect of duloxetine on reduction in pain suggests
+that pain-modulating effects in the spinal and supraspinal pathways are not dependent on the modulation of
+mood. Consistent with this hypothesis, previous fibromyalgia trials of tricyclic medications have used doses that
+are subtherapeutic for major depressive disorder, making it unlikely that their moderate effects on reduction of
+pain were due to antidepressant properties (13,14).
+Compared with placebo-treated female subjects,
+duloxetine-treated female subjects improved significantly on most efficacy measures, while duloxetinetreated male subjects did not respond significantly on
+any efficacy measure compared with placebo-treated
+male subjects. The reasons for the sex differences in
+response are unclear. Because the male subgroup was
+small (23 of 207 subjects [11%]), reflecting the much
+higher prevalence of fibromyalgia in women (3), the
+results of the study may not be generalizable to all men
+with fibromyalgia. Studies of larger samples of men with
+fibromyalgia are needed to reexamine the efficacy of
+duloxetine in men. There may also be sex differences in
+fibromyalgia that affect treatment response. Notably,
+female subjects had significantly more tender points and
+lower mean tender point pain thresholds at baseline
+than did male subjects. Other studies of fibromyalgia
+clinical features found that women had significantly
+more tender points than men, as well as more fatigue,
+sleep disturbance, irritable bowel syndrome, and “pain
+all over” (44). The disparate presentations of fibromyalgia in women and men suggest that there might be sex
+differences in the pathophysiology of fibromyalgia that
+could affect response to treatment, but more study is
+needed.
+The improvement in tender point measures in
+duloxetine-treated subjects compared with placebotreated subjects was the most significant change of the
+efficacy measures, and improvement was evident in both
+women and men. The significant improvement in the
+number of tender points and in the tender point pain
+threshold in the duloxetine group compared with the
+placebo group is notable, because previous fibromyalgia
+studies using tricyclic antidepressants found minimal
+improvement in tender point measures (13,14). These
+results suggest that duloxetine improves pain and tenderness, the hallmark characteristics of fibromyalgia.
+The dolorimeter method of tender point assessment
+used in the present study is more quantitative and might
+be a more reliable technique than manual assessments
+for monitoring change over time in a clinical trial.
+Dolorimetry provides an objective measure of the pressure pain threshold that is relatively independent of
+distress and less influenced by psychological factors than
+are manual tender point counts (45,46).
+Duloxetine was safely administered and well tolerated. Significantly more duloxetine-treated subjects
+than placebo-treated subjects reported treatmentemergent adverse events, most commonly insomnia, dry
+mouth, and constipation, but these events were generally
+mild or moderate in severity. There were no significant
+differences between treatment groups in subject discontinuation due to treatment-emergent adverse events.
+The safety findings are in general agreement with the
+findings in other studies of duloxetine in patients with
+major depressive disorder (25–27).
+2982 ARNOLD ET AL
+Several limitations of this study should be considered. First, the co–primary outcome measure, the FIQ
+pain score, did not improve significantly in the duloxetine group compared with the placebo group at the last
+visit of the acute therapy phase. The FIQ pain item
+might be problematic as an outcome measure because
+subjects retrospectively rate their pain over the prior
+week, which may be more difficult to recall than their
+pain over the past 24 hours. However, the AUC improvement in pain as measured by the FIQ pain score
+indicated that duloxetine-treated subjects had superior
+reduction in pain compared with placebo-treated subjects. In addition, the secondary measure of pain, the
+Brief Pain Inventory average pain score, improved significantly with duloxetine treatment, as did the Brief
+Pain Inventory measure of interference from pain. The
+SF-36 component for bodily pain also improved significantly in the duloxetine group compared with the placebo group. Therefore, the weight of the evidence
+supports improvement in painful symptoms of fibromyalgia with duloxetine treatment, especially for women,
+who improved significantly on all measures of pain.
+Furthermore, duloxetine-treated female subjects were
+significantly more likely than placebo-treated female
+subjects to have a decrease of 50% in the FIQ pain
+score, which represents clinically meaningful improvement. Second, because the duration of treatment was 12
+weeks, the results may not be generalizable to longer
+treatment periods. Furthermore, 40% of all subjects
+did not complete the study. Future studies should assess
+the long-term efficacy of duloxetine in fibromyalgia.
+Third, individuals with several forms of lifetime psychopathology were excluded. Thus, the results may not be
+generalizable to individuals with certain forms of
+psychopathology such as primary anxiety disorders or
+bipolar disorder. Individuals with secondary fibromyalgia and unstable medical or psychiatric illness were
+also excluded, and the results may not be generalizable to patients with these conditions. Finally, because
+subjects who had shown no reponse in 2 adequate
+antidepressant trials were excluded, the results may
+not be generalizable to those who are resistant to
+treatment with antidepressants.
+In summary, in this 12-week, randomized,
+placebo-controlled trial, duloxetine at 60 mg twice a day
+was found to be efficacious on most outcome measures
+in subjects with primary fibromyalgia with or without
+major depressive disorder, particularly in women, and
+was safe and well tolerated.
+ACKNOWLEDGMENTS
+The authors would like to thank the Clinical Operations staff and Statistical Analyst Group of the Cymbalta
+Product Team for their implementation of the trial and
+statistical programming support. The authors would also like
+to thank the clinical investigators and staff and the many
+patients for their participation in this study. The editorial
+assistance of Jacqueline Strasser, MS, Jimmy Xu, PhD, and
+Sharie Sipowicz is very much appreciated.
+REFERENCES
+1. Hudson JI, Pope HG Jr. The relationship between fibromyalgia
+and major depressive disorder. Rheum Dis Clin North Am 1996;
+22:285–303.
+2. Wolfe F, Smythe HA, Yunus MB, Bennett RM, Bombardier C,
+Goldenberg DL, et al. The American College of Rheumatology
+1990 criteria for the classification of fibromyalgia: report of the
+multicenter criteria committee. Arthritis Rheum 1990;33:160–72.
+3. Wolfe F, Ross K, Anderson J, Russell IJ, Hebert L. The prevalence and characteristics of fibromyalgia in the general population.
+Arthritis Rheum 1995;38:19–28.
+4. Russell IJ, Vaeroy H, Javors M, Nyberg F. Cerebrospinal fluid
+biogenic amine metabolites in fibromyalgia/fibrositis syndrome
+and rheumatoid arthritis. Arthritis Rheum 1992;35:550–6.
+5. Russell IJ, Michalek JE, Vipraio GA, Fletcher EM, Javors MA,
+Bowden CA. Platelet 3H-imipramine uptake receptor density and
+serum serotonin levels in patients with fibromyalgia/fibrositis
+syndrome. J Rheumatol 1992;19:104–9.
+6. Yunus MB, Dailey JW, Aldag JC, Masi AT, Jobe PC. Plasma
+tryptophan and other amino acids in primary fibromyalgia: a
+controlled study. J Rheumatol 1992;19:90–4.
+7. Schwarz MJ, Spath M, Muller-Bardorff H, Pongratz DE, Bondy B,
+Ackenheil M. Relationship of substance P, 5-hydroxyindole acetic
+acid and tryptophan in serum of fibromyalgia patients. Neurosci
+Lett 1999;259:196–8.
+8. Basbaum AI, Fields HL. Endogenous pain control systems: brainstem spinal pathways and endorphin circuitry. Annu Rev Neurosci
+1984;7:309–38.
+9. Clark FM, Proudfit HK. The projections of noradrenergic neurons
+in the A5 catecholamine cell group to the spinal cord in the rat:
+anatomical evidence that A5 neurons modulate nociception. Brain
+Res 1993;616:200–10.
+10. Millian MJ. Descending control of pain. Prog Neurobiol 2002;66:
+355–474.
+11. Fishbain D. Evidence-based data on pain relief with antidepressants. Ann Med 2000;32:305–16.
+12. Goldenberg D, Mayskiy M, Mossey C, Ruthazer R, Schmid C. A
+randomized, double-blind crossover trial of fluoxetine and amitriptyline in the treatment of fibromyalgia. Arthritis Rheum 1996;
+39:1852–9.
+13. Arnold LM, Keck PE Jr, Welge JA. Antidepressant treatment of
+fibromyalgia: a meta-analysis and review. Psychosomatics 2000;41:
+104–13.
+14. O’Malley PG, Balden E, Tomkins G, Santoro J, Kroenke K,
+Jackson JL. Treatment of fibromyalgia with antidepressants: a
+meta-analysis. J Gen Intern Med 2000;15:659–66.
+15. Anderberg UM, Marteinsdottir I, von Knorring L. Citalopram in
+patients with fibromyalgia: a randomized, double-blind, placebocontrolled study. Eur J Pain 2000;4:27–35.
+16. Arnold LM, Hess EV, Hudson JI, Welge JA, Berno SE, Keck PE
+Jr. A randomized, placebo-controlled, double-blind, flexible-dose
+study of fluoxetine in the treatment of women with fibromyalgia.
+Am J Med 2002;112:191–7.
+17. Norregaard J, Volkmann H, Danneskiold-Samsoe B. A randomDULOXETINE VERSUS PLACEBO IN FIBROMYALGIA 2983
+ized controlled trial of citalopram in the treatment of fibromyalgia.
+Pain 1995;61:445–9.
+18. Wolfe F, Cathey MA, Hawley DJ. A double-blind placebo controlled trial of fluoxetine in fibromyalgia. Scand J Rheumatol
+1994;23:255–9.
+19. Simmons RM, Li DL, Lee DH, Iyengar S. Duloxetine, a potent
+and balanced dual serotonin and norepinephrine reuptake inhibitor, is efficacious in animal models of persistent pain. Presented at
+the American Psychiatric Association annual meeting [May 5–10,
+2001], New Orleans, LA.
+20. Iyengar S, Ahmad L, Simmons RM. Efficacy of the selective
+serotonin and norepinephrine reuptake inhibitor, duloxetine, in
+the formalin model of persistent pain. Biol Psychiatry 2002;51(8
+Suppl):75S–76S.
+21. Jones CK, Peters SC, Iyengar S, Shannon HE. Duloxetine, a
+selective serotonergic and noradrenergic reuptake inhibitor, is
+efficacious in persistent and inflammatory, but not acute nociceptive, pain states in rodents. Presented at the 10th World Congress
+on Pain [August 17–22, 2002], San Diego, CA.
+22. Fava M. Somatic symptoms, depression, and antidepressant treatment. J Clin Psychiatry 2002;63:305–7.
+23. Simon GE, VonKorff M, Piccinelli M, Fullerton C, Ormel J. An
+international study of the relation between somatic symptoms and
+depression. N Engl J Med 1999;341:1329–35.
+24. Kroenke K, Price RK. Symptoms in the community: prevalence,
+classification, and psychiatric comorbidity. Arch Intern Med 1993;
+153:2474–80.
+25. Goldstein DJ, Mallinckrodt C, Lu Y, Demitrack MA. Duloxetine
+in the treatment of major depressive disorder: a double-blind
+clinical trial. J Clin Psychiatry 2002;63;225–31.
+26. Detke MJ, Lu Y, Goldstein DJ, Hayes JR, Demitrack MA.
+Duloxetine, 60 mg once daily, for major depressive disorder: a
+randomized double-blind placebo-controlled trial. J Clin Psychiatry 2002;63:308–15.
+27. Detke MJ, Lu Y, Goldstein DJ, McNamara RK, Demitrack MA.
+Duloxetine 60 mg once daily dosing versus placebo in the acute
+treatment of major depression. J Psychiatr Res 2002;36:383–90.
+28. Goldstein DJ, Lu Y, Detke MJ, Hudson JI, Iyengar S, Demitrack
+MA. Effects of duloxetine on painful physical symptoms associated
+with depression. Psychosomatics 2004;45:17–28.
+29. Burckhardt CS, Clark SR, Bennett RM. The fibromyalgia impact
+questionnaire: development and validation. J Rheumatol 1991;18:
+728–33.
+30. Fischer AA. Pressure threshold meter: its use for quantification of
+tender spots. Arch Phys Med Rehabil 1986;67:836–8.
+31. Guy W. ECDEU Assessment Manual for Psychopharmacology,
+revised. US Department of Health, Education, and Welfare
+publication (ADM). Rockville (MD): National Institute of Mental
+Health; 1976. p. 218–22.
+32. Cleeland CS, Ryan KM. Pain assessment: global use of the Brief
+Pain Inventory. Ann Acad Med Singapore 1994;23:129–38.
+33. Beck AT, Steer RA, Ball R, Ranieri W. Comparison of Beck
+Depression Inventories -IA and -II in psychiatric outpatients. J
+Pers Assess 1996;67:588–97.
+34. Beck AT, Epstein N, Brown G, Steer RA. An inventory for
+measuring clinical anxiety: psychometric properties. J Consult Clin
+Psychol 1988;56:893–7.
+35. Ware JE, Snow KK, Kosinski M, Gandek B. SF-36 health survey
+manual and interpretation guide. Boston (MA): The Health
+Institute, New England Medical Center; 1993.
+36. Hunt SM, McKenna SP. The QLDS: a scale for the measurement
+of quality of life in depression. Health Policy 1992;22:307–19.
+37. McKenna SP, Hunt SM. A new measure of quality of life in
+depression: testing the reliability and construct validity of the
+QLDS. Health Policy 1992;22:321–30.
+38. Sheehan DV, Harnett-Sheehan K, Raj BA. The measurement of
+disability. Int Clin Psychopharmacol 1996;11 Suppl 3:89–95.
+39. Sheehan DV, Lecrubier Y, Sheehan KH, Amorim P, Janavs J,
+Weiller E, et al. The Mini-International Neuropsychiatric Interview (M.I.N.I.): the development and validation of a structured
+diagnostic psychiatric interview for DSM-IV and ICD-10. J Clin
+Psychiatry 1998;59 Suppl 20:22–33.
+40. American Psychiatric Association. Diagnostic and statistical manual of mental disorders. 4th ed. Washington (DC): American
+Psychiatric Association; 1994.
+41. Mallinckrodt CH, Clark WS, David SR. Type I error rates from
+mixed-effects model repeated measures compared with fixedeffects ANOVA with missing values imputed via LOCF. Drug Inf
+J 2001;35:1215–25.
+42. Retherford RD, Choe MK. Statistical methods for causal analysis.
+New York: John Wiley & Sons; 1993.
+43. Carette S, Bell MJ, Reynolds WJ, Haraoui B, McCain GA, Bykerk
+VP, et al. Comparison of amitriptyline, cyclobenzaprine, and
+placebo in the treatment of fibromyalgia: a randomized, doubleblind clinical trial. Arthritis Rheum 1994;37:32–40.
+44. Yunus MB, Inanici F, Aldag JC, Mangold RF. Fibromyalgia in
+men: comparison of clinical features with women. J Rheumatol
+2000;27:485–90.
+45. Wolfe F. The relation between tender points and fibromyalgia
+symptom variables: evidence that fibromyalgia is not a discrete
+disorder in the clinic. Ann Rheum Dis 1997;56:268–71.
+46. Petzke F, Gracely RH, Park KM, Ambrose K, Clauw DJ. What do
+tender points measure? Influence of distress on 4 measures of
+tenderness. J Rheumatol 2003;30:567–74.
+APPENDIX A: THE DULOXETINE FIBROMYALGIA
+TRIAL GROUP
+Investigators in the Duloxetine Fibromyalgia Trial Group are
+as follows: Lesley M. Arnold, MD, University of Cincinnati College of
+Medicine, Cincinnati, OH; Andre Barkhuizen, MD, Oregon Health
+Sciences University, Portland; Mira Baron, MD, Rapid Medical Research, Inc., Cleveland, OH; Francis X. Burch, MD, Protocare–San
+Antonio Center for Clinical Research, San Antonio, TX; Leslie J.
+Crofford, MD, University of Michigan Health Systems, Ann Arbor;
+Ronald D. Emkey, MD, Radiant Research Reading, Wyomissing, PA;
+Justus J. Fiechtner, MD, Lansing, MI; Don L. Goldenberg, MD,
+Newton Wellesley Hospital, Newton, MA; Wayne L. Harper, MD,
+Wake Research Associates, Raleigh, NC; James I. Hudson, MD,
+McLean Hospital, Belmont, MA; Robert S. Katz, MD, Rheumatology
+Associates, Chicago, IL; Philip J. Mease, MD, Swedish Medical
+Center, Seattle, WA; Richard G. Pellegrino, MD, Central Arkansas
+Research, Hot Springs, AR; Jon Russell, MD, The University of Texas
+Health Sciences Center at San Antonio; Marshall R. Sack, MD,
+Radiant Research Austin, Austin, TX; Hartej S. Sandhu, MD, Newton
+Wellesley Hospital, Newton, MA; Stuart L. Silverman, MD, OMC
+Clinical Research Center, Beverly Hills, CA; John R. P. Tesser, MD,
+Phoenix Center for Clinical Research, Phoenix, AZ; Wulf H. Utian,
+MBBCh, PhD, Rapid Medical Research, Inc., Cleveland, OH; Richard
+L. Weinstein, MD, Diablo Clinical Research, Walnut Creek, CA.
+2984 ARNOLD ET AL

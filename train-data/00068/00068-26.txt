@@ -1,0 +1,154 @@
+﻿Abstract
+Objective: To assess whether treatment with penicillin for three days and the traditional treatment for seven days were equally as effective at accelerating resolution of symptoms in patients with sore throat compared with placebo.
+
+Design: Randomised double blind placebo controlled trial.
+
+Setting: 43 family practices in the Netherlands.
+
+Participants: 561 patients, aged 15-60 years, with sore throat for less than seven days and at least three of the four Centor criteria—that is, history of fever, absence of cough, swollen tender anterior cervical lymph nodes, and tonsillar exudate. 142 patients were excluded for medical reasons and 73 needed penicillin.
+
+Interventions: Patients were randomly assigned to penicillin V for seven days, penicillin V for three days followed by placebo for four days, or placebo for seven days.
+
+Main outcome measures: Resolution of symptoms in the first week, eradication of bacteria after two weeks, and recurrences of sore throat after two, four, and six months.
+
+Results: Symptoms resolved 1.9 and 1.7 days earlier in patients taking penicillin for seven days than in those taking penicillin for three days or placebo respectively. Symptoms resolved 2.5 days earlier in patients with group A streptococci and 1.3 days earlier in patients with high colony counts of non-group A streptococci. 23 (13%) of the placebo group had to be given antibiotics later in the week because of clinical deterioration; three developed a peritonsillar abscess. The eradication rate for group A streptococci was 72% in the seven day penicillin group, 41% in the three day penicillin group, and 7% in the placebo group. Sore throat recurred more often in the three day penicillin group than in the seven day penicillin or placebo groups.
+
+Conclusion: Penicillin treatment for seven days was superior to treatment for three days or placebo in resolving symptoms of sore throat in patients with group A streptococcal pharyngitis and, possibly, in those with non-group A streptococcal pharyngitis.
+
+Editorial by Del Mar
+
+Introduction
+At least once a week a general practitioner is confronted with a patient with an acute sore throat. Antimicrobial treatment is usually unnecessary because most of the infections are of viral origin.
+
+Penicillin has been the drug of choice for the treatment of group A β haemolytic streptococci pharyngitis for more than four decades because it accelerates the resolution of symptoms and reduces the number of suppurative complications.1 Penicillin is also considered superior to its alternatives because of lack of resistance, fewer adverse effects, and lower costs.2 Prevention of acute rheumatic fever is no longer the main reason to treat patients with penicillin in western Europe, because of the low incidence of this complication.3 4 5
+
+Traditionally a regimen of penicillin for 10 days has been advocated to maximise eradication of bacteria.2 6 Three studies have also shown that shortening the duration of penicillin treatment increases the incidence of bacteriological, but not clinical, recurrences.6 7 8 As a compromise between the established regimen of 10 days' treatment with penicillin and the newer five days' treatment, which is already common practice in the Netherlands,9 national guidelines in the Netherlands now advocate the treatment of group A streptococcal pharyngitis for seven days.10 Empirical evidence for this recommendation is, however, lacking. In most trials symptoms of sore throat disappeared within three or four days of antibiotic treatment. Moreover, treatment of other upper respiratory tract infections for three and five days have proved effective,11 12 whereas treatments exceeding five days have shown Streptococcus pneumoniae to develop resistance to lactam antibiotics.13
+
+We hypothesised that the resolution of symptoms of sore throat would not be influenced by shortening the traditional duration of penicillin treatment. We included a placebo group for comparison with the clinical course of the disease.
+
+Participants and methods
+Participating practices
+Our study was conducted from 1994 to 1996. We invited 90 general practitioners from 71 practices to participate; 55 general practitioners from 43 practices in the semiurban Zwolle area of the Netherlands agreed to participate and 35 refused for various reasons.
+
+Patients
+Overall, 1147 patients aged 15-60 years contacted their general practitioner because of an acute (seven days or less) sore throat. We excluded 241 (21.0%) of these because they presented with fewer than three of the four Centor criteria—that is, history of fever, absence of cough, swollen, tender anterior cervical lymph nodes, and tonsillar exudate.14 Overall, 142 (15.7%) patients were excluded for medical reasons. Of the 764 eligible patients, 203 (26.6%) were not randomised (see website). These 203 patients presented with four positive Centor criteria more often than the 561 included patients. Additional demographic and clinical information was obtained at baseline (table 1). The study protocol was approved by the medical ethics committee of the Isala Clinics, Zwolle.
+
+Table 1. Baseline characteristics of patients in treatment groups. Values are numbers (percentages) unless stated otherwise
+View popupView inline
+Treatment groups
+Patients were randomly assigned to one of three treatment groups: penicillin V for seven days, penicillin V for three days followed by placebo for four days, or placebo for seven days. The dosage was two 250 mg capsules three times daily. Paracetamol tablets were supplied to all patients to be used on demand. When requested by the patient or doctor the study coordinator (SZ) broke the code of treatment.
+
+Clinical follow up
+The patients kept a diary during the treatment period. Nightly they recorded the extent of throat complaints, the degree of impairment of daily activities (both on a five point categorical scale), and their oral temperature. They also recorded the number of analgesics used daily (as an additional indicator of clinical response) and possible adverse effects of penicillin.
+
+Fourteen days after inclusion the patients were re-examined by their general practitioner. After two, four, and six months the patients were interviewed by telephone on recurrent sore throat and other complaints of the respiratory tract: cough, runny nose, and earache. In these six months the general practitioner recorded all encounters with the patient.
+
+Bacteriological measurements
+The general practitioners were trained to take throat samples. The samples were transported in a modified Stuart medium and treated semiquantitatively for culture of β haemolytic streptococci. Growth into the third inoculation area was reported to be 3+ (see website).
+
+Outcome measures
+The primary outcome variable was the duration of symptoms, defined as the number of days until permanent resolution of either pain or impaired daily activities took place. Thus, in case of reappearance in the first week the duration was calculated at the day permanent resolution was recorded in the diary. For example, if a patient was symptom free at day 3 but developed symptoms again at day 4 or 5, which resolved at day 6 or 7, the duration was calculated as five days. Secondary outcome variables included the occurrence of post streptococcal complications and recurrent episodes of sore throat or any other upper respiratory tract infection in the following six months. The bacteriological outcome variable was the eradication of the initial pathogen.
+
+Compliance
+Drug compliance was measured by checking the number of swallowed capsules recorded in the diary and the number of capsules left in the tray, which was returned to the practice after 14 days. The patient was defined as non-compliant if more than one penicillin dosage was left in the tray for the three day regimen or more than two dosages were left in the tray for the seven day regimen.
+
+Data analysis
+All analyses were carried out with SPSS version 7.0, using an intention to treat approach. Categorical differences between the three treatment groups were tested using the χ2 test (with continuity correction) and Fisher's exact test (for small numbers). Kaplan-Meier curves depicting duration of sore throat and impaired daily activities were plotted and the differences were tested with the Wilcoxon (Gehan) statistic. Multiple Cox regression analyses were performed to adjust for confounding factors. The Wald statistic in Cox regression was used to study modification of the treatment effect by patient characteristics at baseline (table 1). The survival analyses were repeated for those 475 patients in whom the treatment code was not broken to compare the results of the intention to treat analysis with an on treatment analysis.
+
+Results
+Resolution of symptoms
+Patients who took penicillin for seven days showed a permanent resolution of sore throat 1.9 and 1.7 days sooner than those who took penicillin for three days or placebo respectively (fig 1 and table 2). During the first three days of treatment, patients in the three day penicillin group showed a similar resolution of symptoms to those in the seven day penicillin group. However, 40% (77 of 194) of the three day penicillin group had a temporary resolution of symptoms, which recurred later that week, against 5% (10 of 190) of the seven day penicillin group. This finding accounts for the difference between the two penicillin groups in the Kaplan-Meier curves during the first three days (fig 1). Using the definition of permanent resolution of symptoms, patients in the three day group did not recover more rapidly than those in the placebo group. Analgesic use until day 4 was similar in all three groups. From day 1 until day 7, however, the proportion of patients taking analgesics declined from 61% to 5% in the seven day penicillin group, whereas in the two other treatment groups the reduction from day 4 until day 7 was considerably smaller.
+
+Table 2. Shortening of median duration of sore throat (days). Pairwise comparison* of seven day penicillin treatment with three and zero day penicillin treatment per throat culture result (β haemolytic streptococci)
+View popupView inline
+Penicillin treatment for seven days was most effective in relieving symptoms in patients with group A streptococci and also effective in those with 3+ non-group A streptococci (table 2). Older age (over 27 years) increased the effect of penicillin on the resolution of sore throat, whereas the presence of four Centor criteria, a history of tonsillectomy, and a short duration of sore thoat (three or fewer days) at baseline did not have any influence.
+
+Patients who took penicillin for seven days resumed their daily activities 2.2 and 2.0 days earlier than those in the three day penicillin group or placebo group respectively (fig 2). The reattendance rate of the 267 patients who were initially unable to attend school or work was, however, similar in the three treatment groups.
+
+Fig 1.
+Fig 2.
+Six patients treated with placebo had a streptococcal complication: three peritonsillar abscesses, one had erysipelas of the hand, one had impetigo, and one had transient polyarthritis. The treatment code had to be broken because of persisting pain, imminent abscess, or a complication in four (2%) patients treated for seven days, eight (4%) patients treated for three days, and 23 (13%) patients treated with placebo (see website).
+
+Bacteriological response
+At baseline 442 (78.8%) of the 561 patients had a positive culture result for β haemolytic streptococci (table 1 and website). Treatment with penicillin for seven days was more effective than treatment for three days in eradicating group A and group G streptococci but not group C streptococci from the throat (table 3).
+
+Table 3. Eradication rate of treatment groups per homologous group A, group C, and group G β haemolytic streptococci serogroup. Values are numbers (percentages)
+View popupView inline
+Recurrences and adverse effects
+The incidence of recurrent episodes of sore throat during the six months after inclusion was similar in the seven day penicillin and placebo groups and higher in the three day penicillin group. This difference, however, had no impact on the reattendance rates (table 4).
+
+Nausea (40%) and abdominal pain (26%) occurred more often in the two penicillin groups than in the placebo group (16% and 15% respectively).
+
+On treatment analysis
+On treatment analysis showed a pattern similar to the intention to treat analysis shown in figure 1: the median duration of pain and of impaired daily activities was 1.5-1.9 days shorter in the seven day penicillin group than in the three day penicillin and placebo groups.
+
+Discussion
+In our study, penicillin treatment for seven days shortened the duration of both sore throat and impaired daily activities by about two days in adult patients with sore throat. This reduction is larger than that reported in earlier studies1 and was seen not only in patients positive for group A streptococci but to a smaller extent in patients with 3+ non-group A streptococci.
+
+Patient selection
+The selection of our patients was based on clinical features and not the results of a rapid detection test for group A antigen because the management of sore throats in primary care in the Netherlands is founded on clinical and not bacteriological grounds.10 Furthermore, such a test would have excluded all patients with non-group A streptococcal pharyngitis.
+
+The 106 patients who refused to participate because of their preference for penicillin treatment may have been more ill than those randomised because they met more Centor criteria. Since it seems reasonable to assume that the most seriously afflicted patients did not participate in the trial (see website), inclusion of these patients would have contributed to an even more pronounced effect of penicillin.
+
+Resolution of symptoms
+The acceleration of resolution of symptoms by 2.5 days recorded in our patients positive for group A streptococci and treated with penicillin for seven days is unprecedented. We included a record number of adults, selected by a validated set of clinical criteria, and we used the endpoints of a complete and permanent resolution of sore throat and impaired daily activities. As far as we know only six placebo controlled trials in the past 50 years have assessed the effect of penicillin, given for either five15–17 or 103–5 days, on the resolution of sore throat in adults. In general, an acceleration of resolution of symptoms by 0.5-1.0 day was observed in the penicillin groups in these studies, notably in patients positive for group A streptococci. Unfortunately, we could not compare all of these trials with ours because they had several methodological limitations. A recent meta-analysis of 10 484 patients with sore throat reported that antibiotics shortened the duration of symptoms by about eight hours.1 The wide variety of inclusion criteria (notably age), bacteriological methods, and clinical endpoints, however, hampered comparison with our results.
+
+Patients without group A streptococci
+Our finding that treatment with penicillin for seven days was possibly effective in patients positive for non-group A streptococci supports suggestions in the literature about the causal role in 3+ non-group A streptococcal pharyngitis.18 19 Our finding should, however, be interpreted with caution as the sample size calculation did not allow for subgroup analysis.
+
+Table 4. Episodes of sore throat and upper respiratory tract infections (including sore throats) reported by patient and doctor during the six month follow up period. Values are numbers (percentages) of patients with at least one episode per given period per treatment group
+View popupView inline
+Risks of penicillin for three days or placebo
+Penicillin treatment for three days and placebo were not equally effective. The difference between the three day and seven day penicillin groups during the first three days of treatment (figs 1 and 2) is an artefact. Because of the definition “permanent resolution of symptoms” all patients showing a temporary resolution of symptoms during the first days of the week were considered to be treatment failures until the day that symptoms did not recur. Most treatment failures were in patients who took penicillin for three days. The three day penicillin group also tended to have an increased recurrence rate in the following six months (table 4). Although the reason for this trend is unknown it may well be that the short duration of penicillin treatment only reduced the natural immune response and suppressed the pathogenic streptococci without eradicating them, perhaps because they were sequestered in the epithelial cells of the respiratory tract.20 This phenomenon may have been the reason for the unacceptable number of treatment failures in a recent Swedish trial of penicillin treatment for five days, which was terminated prematurely.21
+
+The risk of recurrent sore throat in the seven day penicillin group was similar to that in the placebo group, a finding concordant with the other placebo controlled study that measured recurrences.4 In another study, the medicalising effect of previous antimicrobial prescriptions was held responsible for the high reattendance rate in the penicillin group.22
+
+Our finding of a reduced risk of an abscess is supported by the relative risk of 0.19 calculated in a recent meta-analysis.1 The reported adverse effects of penicillin were mild and the reason for only three patients (0.8%) dropping out. Although the 72% eradication rate for group A streptococci in the seven day penicillin group (table 3) was lower than the 91% eradication rate detected in a 10 day penicillin regimen,8 there is no evidence that a 10 day penicillin regimen reduces the risk of non-suppurative complications more effectively than a seven day or five day regimen.1
+
+Conclusion
+If the aim of penicillin treatment is the acceleration of resolution of symptoms and a reduced risk of suppurative complications, a seven day course of penicillin is the most effective treatment for adult patients with sore throat caused by group A streptococci and, possibly, those with 3+ non-group A streptococci. Since the three day course of penicillin was not at all effective and a five day course probably insufficient, 8 21 the trend in western Europe to reduce the duration of treatment of streptococcal pharyngitis should be discouraged. Given the wide spectrum of patients with sore throat consulting their doctor, further refinement of the current diagnostic tests is needed to guarantee prudent prescribing of penicillin.23
+
+What is already known on this topic
+The value of penicillin in the management of acute sore throat is still under debate. Penicillin has been found to accelerate recovery by only 0.5 to 1.0 day in patients positive for group A streptococci. As eradication of streptococci is no longer the primary aim of treatment in western countries, regimens shorter than the 10 day course recommended by the WHO are common already, but they lack sufficient scientific evidence
+
+What this paper adds
+The outcome of this randomised study in adult patients suggests that penicillin is more effective than previously thought. In patients treated with a seven day penicillin regimen compared with placebo regimen symptoms resolved 2.5 days earlier in those with group A streptococci and 1.3 days earlier in those with non-group A streptococci
+
+A three day penicillin regimen was not effective and even tended towards an increased recurrence rate in the following six months. Nevertheless, it seemed to protect against suppurative complications. In conclusion, for a carefully selected group of adult patients with sore throat in primary care penicillin is effective provided that the drug is taken for seven days
+
+Acknowledgments
+We thank the participating patients, general practitioners and their assistants, Yvonne Mulder and Gerben Kajim for administrative assistance, the Associated Pharmacies Ysselmond in Kampen for preparing the study drugs, the Laboratory for Microbiology and Infectious Diseases in Zwolle and the National Institute for Public Health and the Environment (RIVM) in Bilthoven for technical assistance, Laura Cobb for correcting the English text, and Dr Carien Dagnelie, Professor Doeke Post, Dr Joop Schellekens, and the late Professor Fransje Touw for their contribution to the study design.
+
+Contributors: SZ initiated the research, designed the protocol, collected and analysed the data, and wrote the paper. GJHMR, JWG, and RAdeM were involved in the study design, funding, data collection, and analysis. APES and AWH were involved in the data analysis. All the authors participated in writing the paper. SZ will act as guarantor for the paper.
+
+Footnotes
+Funding This study was funded by Groene Land Health Insurances (Achmea Group) and the Stichting Gezondheidszorgonderzoek Ysselmond in Zwolle. Boots Pharmaceuticals kindly supplied the paracetamol tablets.
+
+Competing interests None declared.
+
+website extra: A fuller version of this article, with details of the trial profile, appears on the BMJ's website www.bmj.com
+
+References
+1.↵Del Mar CB, Glasziou PP. Antibiotics for sore throat. In: Cochrane Library. Issue 4. Oxford: Update software, 1999.Google Scholar
+2.↵Bisno AL, Gerber MA, Gwaltney JM, Kaplan EL, Schwartz RH. Diagnosis and management of group A streptococcal pharyngitis: a practice guideline. Clin Infect Dis 1997; 25: 574–583.Abstract/FREE Full TextGoogle Scholar
+3.↵De Meyere M, Mervielde Y, Verschraegen G, Bogaert M. Effect of penicillin on the clinical course of streptococcal pharyngitis in general practice. Eur J Clin Pharmacol 1992; 43: 581–585.CrossRefPubMedWeb of ScienceGoogle Scholar
+4.↵Dagnelie CF, Van der Graaf Y, De Melker RA, Touw-Otten FWMM. Do patients with sore throat benefit from penicillin? A randomized double-blind placebo-controlled clinical trial with penicillin V in general practice. Br J Gen Pract 1996; 46: 589–593.Abstract/FREE Full TextGoogle Scholar
+5.↵Little P, Williamson I, Warner G, Gould C, Gantley M, Kinmonth AL. Open randomised trial of prescribing strategies in managing sore throat. BMJ 1997; 314: 722–727.Abstract/FREE Full TextGoogle Scholar
+6.↵Schwartz RH, Wientzen RL, Pedreira F, Feroli EJ, Mella GW, Guandolo VL. Penicillin V for group A streptococcal pharyngotonsillitis: a randomized trial of seven vs ten days' therapy. JAMA 1981; 246: 1790–1795.CrossRefPubMedWeb of ScienceGoogle Scholar
+7.↵Gerber MA, Randolph MF, Chanatry J, Wright LL, De Meo K, Kaplan EL. Five vs ten days of penicillin V therapy for streptococcal pharyngitis. Am J Dis Child 1987; 141: 224–227.CrossRefPubMedGoogle Scholar
+8.↵Stromberg A, Schwan A, Cars O. Five versus ten days treatment of group A streptococcal pharyngotonsillitis: a randomized controlled trial with phenoxymethylpenicillin and cefradoxil. Scand J Infect Dis 1988; 20: 37–46.CrossRefPubMedWeb of ScienceGoogle Scholar
+9.↵De Melker RA, Kuyvenhoven MM. Management of upper respiratory tract infection in Dutch general practice. Br J Gen Pract 1991; 41: 504–507.Abstract/FREE Full TextGoogle Scholar
+10.↵De Melker RA, van Balen FAM. Antimicrobial treatment of upper respiratory tract infections from the Dutch perspective. Int J Antimicrob Agents 1997; 9: 43–48.Google Scholar
+11.↵Williams JW, Holleman DR, Samsa GP, Simel DL. Randomized controlled trial of 3 vs 10 days of trimethoprim/sulfamethoxazole for acute maxillary sinusitis. JAMA 1995; 273: 1015–1021.CrossRefPubMedWeb of ScienceGoogle Scholar
+12.↵Kozyrskyj AL, Hildes-Ripstein E, Longstaffe SEA, Wincott JL, Sitar DS, Klassen TP, et al. Treatment of acute otitis media with a shortened course of antibiotics. A meta-analysis. JAMA 1998; 279: 1736–1742.CrossRefPubMedWeb of ScienceGoogle Scholar
+13.↵Guillemot D, Carbon C, Balkau B, Geslin P, Lecoeur H, Vauzelle-Kervroëdan F, et al. Low dosage and long treatment duration of β-lactam. Risk factors for carriage of penicillin-resistant Streptococcus pneumoniae. JAMA 1998; 279: 365–370.CrossRefPubMedWeb of ScienceGoogle Scholar
+14.↵Centor RM, Whitherspoon JM, Dalton HP, Brody CE, Link K. The diagnosis of strep throat in adults in the emergency room. Med Decision Making 1981; 1: 239–246.Google Scholar
+15.↵Chapple PAL, Franklin LM, Paulett JD, Tuckman E, Woodall JT, Tomlinson AJH, et al. Treatment of acute sore throat in general practice. BMJ 1956; 1: 705–708.PubMedGoogle Scholar
+16.Whitfield MJ, Hughes AO. Penicillin in sore throat. Practitioner 1981; 225: 236–239.Google Scholar
+17.↵Howe RW, Millar MR, Coast J, Whitfield M, Peters TJ, Brookes S. A randomized controlled trial of antibiotics on symptom resolution in patients presenting to their general practitioner with a sore throat. Br J Gen Pract 1997; 47: 280–284.Abstract/FREE Full TextGoogle Scholar
+18.↵Cimolai N, Elford RW, Bryan L, Anand C, Berger P. Do the beta-hemolytic non-group A streptococci cause pharyngitis? Rev Infect Dis 1988; 10: 587–601.CrossRefPubMedWeb of ScienceGoogle Scholar
+19.↵Turner JC, Hayden FG, Lobo MC, Ramirez CE, Murren D. Epidemiologic evidence for Lancefield group C beta-hemolytic streptococci as a cause of exudative pharyngitis in college students. J Clin Microbiol 1997; 35: 1–4.Abstract/FREE Full TextGoogle Scholar
+20.↵Neeman R, Keller N, Barzilai A, Korenman Z, Sela S. Prevalence of internalisation-associated gene, prtF1, among persisting group A-streptococcus strains isolated from asymptomatic carriers. Lancet 1998; 352: 1974–1977.CrossRefPubMedWeb of ScienceGoogle Scholar
+21.↵Falck G, Holm SE, Kjellander J, Norgren M, Schwan A. The role of household contacts in the transmission of group A streptococci. Scand J Infect Dis 1997; 29: 239–244.PubMedGoogle Scholar
+22.↵Little P, Gould C, Williamson I, Warner G, Gantley M, Kinmonth AL. Reattendance and complications in a randomised trial of prescribing strategies for sore throat: the medicalising effect of prescribing antibiotics. BMJ 1997; 315: 350–352.Abstract/FREE Full TextGoogle Scholar
+23.↵Kolmos HJ, Little P. Controversies in management. Should general practitioners perform diagnostic tests on patients before prescribing antibiotics? BMJ 1999; 318: 799–802.FREE Full TextGoogle Scholar

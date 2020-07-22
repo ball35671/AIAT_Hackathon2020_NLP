@@ -1,0 +1,473 @@
+﻿© 2013 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim wileyonlinelibrary.com 1
+ Owing to their scientifi c and technological importance, tailored synthesis of inorganic crystals with exposed high active
+facets has intensively been studied. [1]
+ In principle, the percentage of the specially exposed facet and the surface area of
+the nanocrystals could be maximized by reducing the thickness along the particular crystallographic axis and increasing
+the 2D lateral size of the planes. In this regard, Lu et al. have
+fi rst prepared the anatase TiO 2 single-crystals with 47% of
+highly active (001) facets by using hydrofl uoric acid (HF) as
+a capping agent to prevent their growth along the [001] direction. [2]
+ More recently, Lou et al. have also demonstrated that
+ultrathin anatase TiO 2 nanosheets ( ∼ 3 nm in thickness and a
+few hundred nanometer in lateral size) with nearly 100% of
+exposed (001) facets can be obtained by using diethylenetriamine (DETA) to prohibit the growth of titania along the
+[001] direction. [3]
+ However, although ultrathin nanocrystals with a large percentage of exposed facets are easy to image, their synthesis
+is still extremely diffi cult. This is because the van der Walls
+force inherently exists between the adjacent ultrathin active
+nanosheets, which can drive them to form stacked lamellar or
+spherical structures. [4]
+ One way to obtain the stable ultrathin
+nanosheets with high-energy facets is to grow them into a
+3D self-organized porous architecture. In addition to prevent their ultrathin active nanosheets building blocks from
+aggregation while maintaining the maximum exposed facets,
+such unique porous architecture is also highly attractive for
+two reasons: (i) it provides interconnected open pores that
+Hierarchical Cu 2 S Microsponges Constructed
+from Nanosheets for Effi cient Photocatalysis
+ Yong Liu , Yonghui Deng , Zhenkun Sun , Jing Wei , Gengfeng Zheng , Abdullah M. Asiri ,
+ Sher Bahader Khan , Mohammed M. Rahman , and Dongyuan Zhao *
+can ensure a rapid diffusion of reactants and products during
+catalytic reactions; (ii) it is expected to have large surface
+area, which can provide more active sites for the adsorption
+of reactant molecules, making the catalytic process more
+effi cient.
+ In addition, it is generally accepted that the metastable
+(001) surface of semiconductors (e.g. TiO 2 ) is more reactive
+than the thermodynamically stable (101). [2−6]
+ However, the
+(111) surface is composed of alternating monolayers of anions
+and cations, thus, a strong electrostatic fi eld perpendicular to
+the (111) surface is created. [7]
+ Such unique surface is likely
+to serve as an active site with high selectivity. [8]
+ Restricted
+by synthesis methods, [8c]
+ pure substrate-free semiconductors
+with high percentage of the (111) surface has rarely been
+reported.
+ As a p-type semiconductor with metal vacancies in the
+lattice, Cu 2 S has a bulk band gap of 1.2 eV, [9]
+ which can be
+considered as an ideal sunlight absorbing material for solar
+cells, [10]
+ cold cathode emitter, [11]
+ and nanoscale switches. [12]
+Cu 2 S particles with different morphologies such as
+platelike, [13a]
+ rodlike, [13b]
+ tubelike [13c]
+ and hollow spheres [13c]
+have been synthesized. However, to the best of our knowledge, 3D hierarchical Cu 2 S microstructure consisting of
+ultrathin nanosheets with a high percentage of exposed facets
+has not been reported yet.
+ Herein, we fi rst report a facile hydrothermal route for the
+synthesis of unique 3D-open porous hierarchical Cu 2 S microsponges (HCMs) by using cetyltrimethylammonium bromide
+(CTAB) as a morphology controlling agent. The obtained Cu 2 S
+microsponges are constructed from 2D ultrathin ( ∼ 1.5 nm)
+single-crystal nanosheets with nearly 99% exposed (111)
+facets. The microsponges exhibit high photocatalytic activity
+for phenol degradation under visible light irradiation, which
+is 97 times higher than that for Degussa P25. Interestingly,
+it is found that the formation of Cu 2 S microsponges under
+this one-pot hydrothermal reaction follows a unique anisotropic branched-growth process, which 2D-sheet-like Cu 2 S
+nanocrystals can gradually develop into 3D-open porous
+sponge-like microstructures through their anisotropic growth
+of branched nanosheets on the polar (111) surfaces.
+ The obtained porous Cu 2 S microsponges after washing
+away the surfactants can be well dispersed in ethanol upon
+sonication (Figure 1 a, inset), resulting in a dark gray colloidal suspension which refl ects a good light absorption.
+ DOI: 10.1002/smll.201300197 The fi eld-emission scanning electron microscopy (FESEM)
+Cu2S
+ Dr. Y. Liu, Prof. Y. H. Deng, Dr. Z. K. Sun, Dr. J. Wei,
+Prof. G. F. Zheng, Prof. D. Y. Zhao
+Laboratory of Advanced Materials
+Department of Chemistry
+Shanghai Key Laboratory of Molecular Catalysis
+and Innovative Materials
+Fudan University
+Shanghai, 200433, China
+Website: http://www.mesogroup.fudan.edu.cn/
+E-mail: dyzhao@fudan.edu.cn
+ Prof. A. M. Asiri, Dr. S. B. Khan, M. M. Rahman
+Chemistry Department
+The Center of Excellence for Advanced Materials Research
+King Abdulaziz University
+Jeddah, 21589, Saudi Arabia
+small 2013,
+DOI: 10.1002/smll.201300197
+Y. Liu et al.
+2 www.small-journal.com
+communications
+© 2013 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim
+image reveals that the obtained product consists of 3D-open
+porous uniform particles with sponge-like architecture and
+a diameter of 400–600 nm (Figure 1 a). The high-magnifi cation FESEM image (Figure 1 b) shows that these spongelike architectures are constructed by plenty of 2D-ultrathin
+nanosheets. These nanosheets adopt a fashion of intergrowth
+to support each other and interweave together into a highly
+porous particle, preventing the complete aggregation of Cu 2 S
+nanosheets. Transmission electron microscopy (TEM) images
+(Figure 1 c and Figure S1 in supporting information) reveal a
+typical porous particle (ca. 500 nm in diameter) constructed
+with nanosheets as building blocks. The dark stripes and the
+fi lm-like region (marked by gray arrow) correspond to the
+projections taken along the edges and planes of the
+ Figure 1 . (a,b) FESEM images, (c) TEM image, (d) EDX analysis, (e) XRD pattern and (f) SAED pattern of the as-prepared 3D-open porous hierarchical
+Cu 2 S microsponges (HCMs); The inset in (a) is the photograph of HCMs homogeneous dispersion in ethanol. The inset in (c) is the structural model
+of HCMs; the inset in (d) is the Cu, S elemental analysis taken from the SEM (the signal of Al is from the aluminum platform).
+small 2013,
+DOI: 10.1002/smll.201300197
+Hierarchical Cu 2 S Microsponges
+© 2013 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim www.small-journal.com 3
+intergrown nanosheets, respectively. These results are well
+consistent with the FESEM observations. The energy dispersive X-ray (EDX) analysis (Figure 1 d) clearly manifests that
+the HCMs are composed of Cu and S with molar ratio of 2.1: 1,
+close to that of the standard stoichiometric composition of
+Cu 2 S phase. The X-ray diffraction (XRD) pattern (Figure 1 e)
+indicates that the HCMs have a digenite phase (JCPDS card
+No. 02-1284; space group Fm 3¯ m; a = 0.561 Å). Four intense
+diffraction peaks at 2 θ = 27.9, 46.3, 55.3 and 85.9 ° can be
+attributed to the 111, 200, 220, 422 refl ections, respectively,
+indicating a face-centered cubic ( fcc ) digenite phase with well
+crystallinity. No other peaks were observed, suggesting the
+pure phase nature of Cu 2 S microsponges. The selected area
+electron diffraction (SAED, Figure 1 f) further confi rms the
+crystalline characteristic of the Cu 2 S nanosheets.
+ To further analyze the chemical composition of the
+HCMs sample, inductively coupled plasma atomic emission
+spectroscopy (ICP-AES) and X-ray photoelectron spectroscopy (XPS) analysis were carried out. The ICP-AES result
+reveals a Cu:S of 2.13:1, which is consistent with the EDX
+analysis. The XPS spectrum of Cu in the 2p region for HCMs
+(Figure S2) shows the binding energies of Cu 2p 3/2 and Cu
+2p 1/2 peaks at 931.8 and 952.8 eV, respectively, which are typical values for Cu 1 + in Cu 2 S. [14]
+ In order to further reveal the intrinsic structure information, a small portion of the sample is crashed for TEM observation. Interestingly, it was found that the deposition of the
+crashed Cu 2 S microsponges on the TEM grid were from the
+assembly of the Cu 2 S nanosheets into an extended lamellar
+structure (Figure 2 and Figure S3). High-magnifi cation TEM
+ Figure 2 . TEM images of (a) the crashed 3D-open porous hierarchical Cu 2 S microsponges; (b) the assembly of Cu 2 S nanosheets perpendicular to
+the TEM grid. (c) HRTEM image of region 1 marked with white dotted circle in (a); (d) HRTEM image taken on the side-face of the Cu 2 S nanosheets
+perpendicular to the grid. The inset in (b) is the thickness distribution of the Cu 2 S nanosheets; the inset in (c) is the 2D Fourier transform of the
+TEM image taken from the square region marked in white
+small 2013,
+DOI: 10.1002/smll.201300197
+Y. Liu et al.
+4 www.small-journal.com
+communications
+© 2013 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim
+images (Figure 2 b and Figure S3a-b) reveal that the stacking
+was composed of alternating layers. Based on the analysis of
+more than 60 Cu 2 S nanosheets from 10 different stacks, the
+average thickness of the as-prepared nanosheets is measured to be 1.5 nm-less than three unit cells thick (the lattice
+constant of the unit cell of the digenite Cu 2 S is about 5.561
+Å, Figure S4). The HRTEM image (Figure 2 c) taken on the
+fl at-surface of the Cu 2 S nanosheets shows two clear crystal
+lattices with same interplanar spacing of 1.96 Å, which corresponds to the (220) and (202) planes of fcc digenite Cu 2 S
+with an interfacial angle of 60 ° The corresponding Fast Fourier Transform (FFT) pattern of an individual Cu 2 S nanosheet
+oriented parallel to the TEM grid (inset in Figure 2 c) can be
+indexed to diffractions of the [111] zone, confi rming that the
+Cu 2 S nanosheets have (111) as basal planes. The HRTEM
+image (Figure 2 d and Figure S3d) taken on the side-face of
+Cu 2 S nanosheets reveals crystal planes with a d-spacing of
+0.32 nm, corresponding to the (111) plane of digenite Cu 2 S,
+which further confi rms that the dominant exposed facets of
+the Cu 2 S nanosheets can be identifi ed as (111) plane on both
+the top and bottom. Assuming that each Cu 2 S nanosheet is
+tetragonal in shape, a sheet with the thickness of ∼ 1.5 nm
+and size of 400 − 600 nm implies that 99% of the exposed
+surfaces are (111) facets.
+ The morphology evolution examined at various growth
+stages of the hydrothermal process shows that a quasihexagonal sheet-like Cu 2 S structure (ca. 400–600 nm in diameter, marked by blue arrow) is fi rstly formed after the hydrothermal treatment at 120 ° C for 5 h (Figure S5a and S9a).
+The corresponding HRTEM image and SAED patterns (Figure S6b and inset in Figure S6a) confi rm the
+quasi-hexagonal Cu 2 S nanosheets grow along [220] orientation while maintaining the (111) as the top facets. As the
+reaction prolongs to 12 h, a large number of small branchednanosheets growing on the surface of Cu 2 S based sheets
+are observed (Figure S5b). These branched-nanosheets can
+further grow out to form the scaffold and serve as a ‘glue’
+to bind the neighboring nanosheets (Figure S5c,S6c). The
+HRTEM image taken from the conjoined place of two neighboring nanosheets (Figure S6d) shows that the two planes are
+of the same lattices fringes (0.32 nm), meaning that they grow
+from the same axis and along the [220] direction. XRD patterns of products (Figure S5d) obtained at different time of
+hydrothermal reaction show that the 220 diffraction is much
+higher than the 111, 200, 311 and 422, further confi rming that
+Cu 2 S nanosheets should preferentially grow along [220] orientation. It should be mentioned that a large scale regular
+mesoporous Cu 2 S microspheres (MCMs, ∼ 2.5 μ m in diameter) consisting of nanoparticles ( ∼ 5 nm) can be obtained
+in the absence of CTAB (Figure S7,S8). This result confi rms
+that the CTAB plays an important role in the anisotropic
+growth of the ultrathin Cu 2 S nanosheets. The XRD pattern
+(Figure S8e) of the resulting Cu 2 S microspheres maches the
+highly crystalline chalcocite phase of Cu 2 S (JCPDS card No.
+02–1286).
+ On the basis of these evolutions of the morphology,
+an anisotropic branched-growth mechanism is proposed
+(Figure 3 ). Herein, the glutathione (GSH) is used not only
+ Figure 3 . The formation process of 3D-open porous hierarchical Cu 2 S microsponges via three steps. Step 1: the nucleation and formation of Cu 2 S
+nanosheets; Step 2: the formation of branched nanosheets on the polar (111) surfaces; Step 3: the formation of 3D-open porous hierarchical Cu 2 S
+microsponges; Middle, corre-sponding crystallographic model of the digenite Cu 2 S nanosheets when viewed from the [111] direction.
+small 2013,
+DOI: 10.1002/smll.201300197
+Hierarchical Cu 2 S Microsponges
+© 2013 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim www.small-journal.com 5
+as a sulfur source, but also as a reducing agent to reduce
+Cu (II) to Cu (I). At the early stage (Step 1, Figure 3 ), bromine ion (Br − ) in CTAB can bind to the (111) polar plane
+of the positively charged Cu + more strongly than other nonpolar surfaces due to the coulombic force. The presence of
+Br − adsorption on the (111) surface of the freshly prepared
+sheet-like structure (obtained at the 120 ° C for 5 h) is confi rmed by the scanning TEM (STEM) and EDX elemental
+mapping. The EDX elemental mapping image of Cu 2 S
+nanosheets oriented parallel to the TEM grid clearly demonstrates the existence of Br − on the (111) surface of the Cu 2 S
+nanosheet (Figure S9b). Such strong adsorption prevents
+the Cu 2 S nanocrystals to grow along the [111] direction and
+is responsible for directing the formation of the sheet like
+structure. Similar as the growth process of ultrathin zeolite
+nanosheets demonstrated recently, [15]
+ one way to obtain thermally stable ultrathin nanosheets is to grow them into a 3D
+architecture. To minimize the surface free energy of the crystals, these ultrathin Cu 2 S nanosheets can further grow along
+nonpolar [220] direction from the polar (111) surfaces, while
+still maintaining the maximized exposure of (111) surfaces
+with CTAB as a protective capping agent (Step 2, Figure 3 c).
+The branched-nanosheets further grow to support each other,
+preventing collapse of the ultrathin Cu 2 S nanosheets, and
+fi nally, a porous sponge-like structure is formed via the anisotropic growth (Step 3, Figure 3 ).
+ N 2 adsorption–desorption isotherms of the HCMs shows
+a type-IV curves with H3-type hysteresis loop (Figure S10).
+The adsorption at the high relative pressure around P/P 0 =
+0.97 is indicative of large pores, which are derived from the
+interstitials among the closely packed particles. The poresize distribution (Figure S10a, inset) shows a wide distribution from 10 to 110 nm, further confi rming the existence of
+mesopores and macropores in the hierarchical pore structure. The BET surface area and pore volume of the HCMs
+are calculated to be 82.4 m 2
+ /g, and 0.56 cm 3
+ /g respectively,
+which are lower than that of mesoporous Cu 2 S microspheres
+(MCMs, 184.8 m 2
+ /g, 1.51 cm 3
+ /g, Figure S10b). The UV-VisNIR diffuse refl ection spectra (Figure 4 a) reveal that HCMs
+have signifi cantly enhanced light absorption over the entire
+wavelength range (from ultra-violet to near-infrared) compared to MCMs and Degussa P25 (used as a reference). As
+schematically illustrated in the inset of Figure 4 a, we believe
+that the intermeshed ultrathin Cu 2 S nanofl akes in HCMs
+allows multiple refl ections of incident light, which may lead
+to the enhanced light-harvesting ability of HCMs. [16]
+ Herein,
+we measured the band gap of HCMs, MCMs and P25 to be
+1.3, 1.6 and 3.1 eV, respectively (Figure 4 b). Compared to
+the band gap (1.2 eV) of bulk Cu 2 S, [9]
+ the HCMs (or MCMs)
+show blue shift of 0.1 eV (0.3 eV for MCMs), indicating a
+quantum size effect. [17]
+ It is well known that the bandgap of
+the nanocrystals is generally infl uenced by the particle size
+and the defect in the structure, and the decrease of the particle size can cause a blue shift of the absorption edge. Since
+the MCMs are composed by ultra-small Cu 2 S nanoparticles ( ∼ 5 nm, Figure S7, S8), which is much smaller than the
+2D-ultrathin nanosheets in HCMs (400–600 nm in diameter,
+Figure S5a and Figure S9a), resulting in the wider bandgap
+for MCMs. Moreover, the 3D-open porous HCMs show an
+increased absorption in the near-IR region, characteristic
+ Figure 4 . (a) UV-vis-NIR visible diffuse refl ectance spectra of the 3D-open porous hierarchical Cu 2 S microsponges (HCMs), the mesoporous Cu 2 S
+samples (MCMs) and nanotitania Degussa P25; (b) the band gap evaluation from the plots of (Ahv) 2 vs. hv for the HCMs, mesoporous Cu 2 S
+microspheres (MCMs) and (Ahv) 1/2 vs. hv for the Degussa P25 samples. (c) The absorption spectra of the solution of phenol (100 mg/L, 30 mL) in
+the presence of 3D–open HCMs (30 mg) under visible light ( λ ≥ 420 nm) irradiation. Inset is comparison of the photocatalytic activity of Degussa
+P25, MCMs and HCMs. (d) PL spectra changes observed during visible light illumination ( λ ≥ 420 nm) of HCMs in a 5 × 10 − 4 M coumarin solution
+(excitation at 332 nm). The inset in (a) shows a schematic illustration of multiple refl ections within the intermeshed Cu 2 S nanofl akes. The inset in
+(b) is the plots of (Ahv) 1/2 vs. hv for the Degussa P25 sample.
+small 2013,
+DOI: 10.1002/smll.201300197
+Y. Liu et al.
+6 www.small-journal.com
+communications
+© 2013 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim
+of digenite due to inter band transitions (absorptions) from
+valence states to the unoccupied states. [18]
+ The photocatalylytic activity of the samples was tested
+by photodegradation of phenol under visible light irradiation. The absorption peak at λ = 269 nm is found to drop
+rapidly with extension of the exposure time and completely
+disappears after about 150 min (Figure 4 c). No new absorption band appears in either the visible or ultraviolet region,
+which indicates the complete photodegradation of phenol.
+However, when the reaction is conducted without catalyst
+or under dark, no reaction is observed even after 180 min
+(Figure S11), indicating that it is a photocatalytic reaction. As
+shown in Figure 4 c (inset), the HCMs exhibit a little higher
+activity (100% within 150 min) than MCMs (80% within
+150 min), while the commercial P25 shows almost no photocatalytic activity in the visible light region (less than 5%
+within 150 min). The linear relationships of ln (C 0 /C) versus
+time reveal that the photodegradation reaction follows a
+pseudo-fi rst-order reaction. The apparent fi rst-order reaction
+rate constants for the samples HCMs is 0.0194, indicating that
+the photodegradation rate is 1.9 and 97 times higher than that
+from MCMs (0.0102 min − 1 ) and Degussa P25 (0.0002 min − 1 ),
+respectively (Table S1). Additionally, in ordered to further
+prove the (111) facet-dependent photocatalytic property
+of HCMs, the photocatalytic performance of irregular Cu 2 S
+microsponges [ICMs, Figure S12a] with poor (111) facet-preferential orientation was also investigated. Table S1 clearly
+shows the photodegradation rate of HCMs (0.0194 min − 1 )
+is about 5 times higher than that from ICMs (0.0039 min − 1 ).
+Further more, the BET surface area (82.4 m 2 /g for HCMs,
+78.6 m 2 /g for ICMs), the crystallinity (Figure S12b) and the
+light absorption (Figure S12c) difference between HCM and
+ICMs can be eliminated under this condition. Therefore, the
+difference of the photodegradation ability can be mainly
+attributed to the exposed (111) facet of the HCMs.
+ The hydroxyl radicals (•OH) are usually main oxidizing
+species in the photodegradation process. In this study, we further studied the photocatalysis by using photoluminescence
+(PL) technique to detect •OH radical. [19]
+ The PL intensity at
+about 445 nm increases gradually with increasing irradiation
+time (Figure 4 d), indicating that a large amount of the •OH
+radicals are produced on the surface of exposed active (111)
+facets for HCMs. These photocatalytic results clearly demonstrate that the exposing (111) facets of HCMs are responsible
+for its ex-cellent photocatalytic activity.
+ In conclusion, we have demonstrated a facile hydrothermal
+route to fabricate 3D-open porous HCMs constructed from
+the ultrathin crystallized Cu 2 S nanosheets ( ∼ 1.5 nm) with
+99% exposed (111) facets. Detailed mechanistic studies and
+microscopic analyses suggest that the simple features such the
+Cu 2 S sheet-like structure can in turn form 3D-open porous
+sponge-like microstructures with further anisotropic growth
+of branched nanosheets on the polar (111) surface. The asprepared 3D-open porous HCMs exhibit superior photoreactivity ( > 90 times for phenol photodegradation) compared to
+commercial P25 under a visible light irradiation, and the •OH
+radicals are the main active species in the photodegradation
+reaction. Moreover, it provides some new insights into the
+design and fabrication of advanced photocatalytic materials
+with complex hierarchical architectures for high effi ciency in
+solar energy conversion.
+ Experimental Section
+Synthesis of 3D-Open Porous Hierarchical Cu 2 S Microsponges:
+In a typical synthesis, Cu(NO 3 ) 2 •3H 2 O (0.20 g), glutathione (GSH,
+0.307 g) and cetyltrimethylammonium bromide (CTAB) (1.0 g)
+were dissolved in 30 mL of deionized water to form a clear solution
+after stirring for 30 min at 40 ° C. The obtained solution was then
+transferred and sealed into a Tefl on-lined stainless-steel autoclave
+(50 mL in capacity). The autoclave was heated at 120 ° C for 24 h,
+and then allowed to cool down to room temperature. The black
+products were washed with deionized water and ethanol for
+3 times to remove surfactants and other impurities.
+Characterization: Field-emission scanning electron microscopy (FESEM) images were taken on a Hitachi S-4800 microscope
+(Japan) operated at 1 kV and 10 μ A. Transmission electron microscopy (TEM) experiments were conducted on a JEOL JEM-2100F
+microscope (Japan) operated at 200 kV. The samples for TEM measurements were suspended in ethanol and supported onto a holey
+carbon fi lm on a Cu grid. Wide-angle XRD patterns were recorded on
+a Bruker D8 diffractometer (Germany) with Ni-fi ltered Cu K α radiation (40 kV, 40 mA). Nitrogen sorption isotherms were measured at
+77 K with a Micromeritcs Tristar 3020 analyzer (USA). The chemical
+composition of Cu element in the HCMs sample was determined
+by inductively coupled plasma atomic emission spectroscopy (ICPAES) on a P-4010 ICP instrument. X-ray photoelectron spectroscopy
+(XPS) was recorded on a VG Multilab 2000 (VG Inc.) photoelectron spectrometer by using monochromatic Al K α radiation under
+vacuum at 2 × 10 − 6 Pa. All the binding energies were referenced to
+the C 1s peak at 284.8 eV of the surface adventitious carbon. All of
+the samples were degassed under vacuum at 120 ° C for 24 h prior
+to measurements. The Brunauer-Emmett-Teller (BET) method was
+utilized to calculate the specifi c surface areas using adsorption
+data in a relative pressure range from 0.05 to 0.25. The pore size
+distribution (PSD) was derived from the adsorption branch of the
+isotherms using the Barrett-Joyner-Halenda (BJH) model. The total
+pore volume (Vt) was estimated from the adsorbed amount at a
+relative pressure (P/P 0 ) of 0.998. The UV-vis-NIR diffuse refl ection
+spectra were collected on a Shimadzu UV-2450 spectrophotometer
+(Japan) from 200 to 800 nm using BaSO 4 as a reference.
+Photodegradation Measurements: The photoactivity of the
+samples was investigated by the degradation of phenol under visible light ( λ ≥ 420 nm) irradiation. In a typical experiment, 30 mg
+of the photocatalyst was added into a fl ask containing 30 mL of
+aqueous solution of phenol (100 mg/L), and then the mixed
+solution was shaken in dark overnight. After reaching adsorption
+equilibrium, the photocatalytic reaction was initiated by irradiating
+the system with a 350 W Xenon lamp. At given time intervals, 4 mL
+of aliquots was withdrawn and centrifuged to remove the catalyst particles. The supernatant liquid was fi nally analyzed using a
+UV-vis spectrophotometer (UV-2450). For comparison, the photocatalytic activities of the mesoporous Cu 2 S microspheres (MCMs)
+and commercial TiO 2 powder (Degussa P25) were also tested
+under the same conditions.
+Analysis of Hydroxyl Radicals (•OH): The production of hydroxyl
+radicals on the surface of visible light-illuminated HCMs was
+small 2013,
+DOI: 10.1002/smll.201300197
+Hierarchical Cu 2 S Microsponges
+© 2013 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim www.small-journal.com 7
+ [ 1 ] a) N. Tian , Z. Y. Zhou , S. G. Sun , Y. Ding , Z. L. Wang , Science 2007 ,
+316 , 732 ; b) O. Bikondoa , C. L. Peng , R. Ithnin , C. A. Muryn ,
+ H. Onishi , G. Thornton , Nat. Mater. 2006 , 5 , 189 ; c) A. Vittadini ,
+ A. Sellon , F. P. Rotzinger , M. Gratzel , Phys. Rev. Lett. 1998 , 81 ,
+ 2954 ; d) A. I. Hochbaum , R. Chen , R. D. Delgado , W. Liang ,
+ E. C. Garnett , M. Najarian , A. Majumdar , P. D. Yang , Nature 2008 ,
+451 , 163 ; e) A. I. Hochbaum , P. D. Yang , Chem. Rev. 2010 , 110 ,
+ 527 ; f) Y. Yin , A. P. Alivisatos , Nature 2005 , 437 , 664 .
+ [ 2 ] a) H. G. Yang , C. H. Sun , S. Z. Qiao , J. Zou , G. Liu , S. C. Smith ,
+ H. M. Cheng , G. Q. Lu , Nature 2008 , 453 , 638 ; b) H. G. Yang ,
+ G. Liu , S. Z. Qiao , C. H. Sun , Y. G. Jin , S. C. Smith , J. Zou ,
+H. G. Cheng , G. Q. Lu , J. Am. Chem. Soc. 2009 , 131 , 4078 .
+ [ 3 ] J. S. Chen , Y. L. Tan , C. M. Li , Y. L. Cheah , D. L. Luan , S. Madhavi ,
+ F. Y. C. Boey , L. A. Archer , X. W. Lou , J. Am. Chem. Soc. 2010 , 132 ,
+ 6124 .
+ [ 4 ] a) Z. Zeng , Z. Yin , X. Huang , H. Li , Q. He , G. Lu , F. Boey , H. Zhang ,
+Angew. Chem. Int. Ed. 2011 , 50 , 11093 ; b) Z. Zeng , T. Sun , J. Zhu ,
+detected by a photoluminescence (PL) method using coumarin
+as a probe molecule. Coumarin could readily react with hydroxyl
+radicals to produce highly fl uorescent product, 7-hydroxycoumarin
+(7HC) (see structure model in Figure S8). The experimental procedure was similar to the measurement of the photocatalytic activity.
+In a typical process, HCMs (30 mg) and an aqueous solution of
+coumarin (30 mL, 5 × 10 − 4 M) were mixed with magnetic stirring
+for 4 h under a dark condition. Then, the mixture was irradiated
+using visible light ( ≥ 420 nm). After irradiation for certain time,
+the reaction solution was fi ltered for measuring the increase in
+the photoluminescence (PL) intensity around 445 nm excited by
+332 nm light.
+ Supporting Information
+ Supporting Information is available from the Wiley Online Library
+or from the author.
+ Acknowledgements
+ We greatly appreciate fi nancial support from the the State Key Basic
+Research Program of China (2013CB934104 and 2012CB224805)
+and National Science Foundation (21210004 and 21073040)
+and Science & Technology Commission of Shanghai Municipality (08DZ2270500), Shanghai Leading Academic Discipline
+Project (B108), and King Abdulaziz University (KAU), under grant
+No. (32-3-1432/HiCi).
+ X. Huang , Z. Yin , G. Lu , Z. Fan , Q. Yan , H. H. Hng , H. Zhang , Angew.
+Chem. Int. Ed. 2012 , 51 , 9052 .
+ [ 5 ] a) B. Wu , C. Guo , N. Zheng , Z. Xie , G. D. Stucky , J. Am. Chem. Soc.
+2008 , 130 , 17563 ; b) X. G. Han , Q. Kuang , M. S. Jin , Z. X. Xie ,
+ L. S. Zheng , J. Am. Chem. Soc. 2009 , 131 , 3152 .
+ [ 6 ] C. J. Li , G. R. Xu , B. H. Zhang , J. R. Gong , Appl. Catal. B—Environ.
+2012 , 115-116 , 201 – 208 .
+ [ 7 ] P. W. Tasker , J. Phys. C 1979 , 12 , 4977 .
+ [ 8 ] a) X. Q. Huang , S. H. Tang , X. L. Mu , Y. Dai , G. G. Chen , Z. Y. Zhou ,
+ F. X. Ruan , Z. L. Yang , N. F. Zheng , Nat. Nanotechonol. 2010 ,
+6 , 28 ; b) Y. J. Xiong , H. G. Cai , B. J. Wiley , J. G. Wang , M. J. Kim ,
+ Y. N. Xia , J. Am. Chem. Soc. 2007 , 129 , 3665 ; c) K. K. Zhu , J. C. Hu ,
+ C. Kübel , R. Richards , Angew. Chem. Int. Ed. 2006 , 45 , 7277 ;
+ d) J. C. Hu , K. K. Zhu , L. F. Chen , H. J. Yang , Z. Li , A. Suchopar ,
+ R. Richards , Adv. Mater. 2008 , 20 , 267 .
+ [ 9 ] a) G. Liu , T. Schulmeyer , J. Braˇtz , A. Klein , W. Jaegermann , Thin
+Solid Films 2003 , 431−432 , 477 ; b) Y. He , W. Kriegseis , J. Blaˇsing ,
+ A. Polity , T. Kraˇmer , D. Hasselkamp , B. K. Meyer , M. Hardt , A. Jpn.
+Krost , J. Appl. Phys. 2002 , 41 , 4630 .
+ [ 10 ] a) Y. Wu , C. Wadia , W. Ma , B. Sadtler , A. P. Alivisatos , Nano Lett.
+2008 , 8 , 2551 ; b) H. Lee , S. W. Yoon , E. J. Kim , J. Park , Nano Lett.
+2007 , 7 , 778 ; c) G. Li , M. Y. Liu , H. J. Liu , Cryst. Eng. Comm. 2011 ,
+13 , 5337 .
+ [ 11 ] J. Chen , S. Z. Deng , N. S. Xu , S. Wang , X. Wen , S. Yang , C. Yang ,
+ J. Wang , W. Ge , Appl. Phys. Lett. 2002 , 80 , 3620 .
+ [ 12 ] L. Chen , Y. Xia , X. Liang , K. Yin , J. Yin , Z. Liu , Y. Chen , Appl. Phys.
+Lett. 2007 , 91 , 073511 .
+ [ 13 ] a) T. H. Larsen , M. Sigman , A. Ghezelbash , R. C. Doty , B. A. Korgel ,
+J. Am. Chem. Soc. 2003 , 125 , 5638 ; b) L. Chen , Y. B. Chen ,
+ L. M. Wu , J. Am. Chem. Soc. 2004 , 126 , 16334 ; c) Q. Lu , F. Gao ,
+ D. Y. Zhao , Nano Lett. 2002 , 2 , 725 .
+ [ 14 ] V. G. Bhide , S. Salkalachent , A. C. Rastogi , C. N. R. Rao ,
+ M. S. Hegde , J. Phys. D: Appl. Phys 1981 , 14 , 1647 .
+ [ 15 ] M. Choi , K. Na , J. Kim , Y. Sakamoto , O. Terasaki , R. Ryo , Nature
+2009 , 461 , 246 .
+ [ 16 ] a) X. X. Yu , J. G. Yu , B. Chen , M. Jaroniec , J. Phys. Chem. C 2009 ,
+113 , 17527 ; b) J. Zhang , J. G. Yu , Y. M. Zhang , Q. Li , J. R. Gong ,
+Nano Lett. 2011 , 11 , 4774 ; c) M. R. Hoffmann , S. T. Martin ,
+ W. Choi , D. W. Bahnemann , Chem. Rev. 1995 , 95 , 69 .
+ [ 17 ] a) Y. Zhao , H. Pan , Y. Lou , X. Qiu , J. J. Zhu , C. J. Burda , Am.
+Chem. Soc. 2009 , 131 , 4253 ; b) M. D. Regulacio , C. Ye ,
+ S. H. Lim , M. Bosman , L. Polavarapu , W. Koh , J. Zhang , Q. H. Xu ,
+ M. Y. Han , J. Am. Chem. Soc. 2011 , 133 , 2052 ; c) P. Lukashev ,
+ W. R. L. Lambrecht , Phys. Rev. B 2007 , 76 , 195202 ;
+ d) A. C. Rastogi , S. Salkalachen , Thin Solid Films 1982 , 97 , 191 .
+ [ 18 ] a) K. P. Kalyanikutzy , M. Nikhila , U. Maitra , C. N. R. Rao , Chem.
+Phys. Lett. 2006 , 432 , 190 ; b) Q. Tian , M. H. Tang , Y. Sun , R. Zou ,
+ Z. Chen , M. Zhu , S. Yang , J. Wang , J. Wang , J. Q. Hu , Adv. Mater.
+2011 , 23 , 3542 .
+ [ 19 ] a) C. S. Turch , D. F. Ollis , J. Catal. 1990 , 122 , 178 ; b) J. G. Yu ,
+ Q. J. Xiang , M. H. Zhou , Appl. Catal. B 2009 , 90 , 595 ; c) Y. Liu ,
+J. C. Hu , C. Ngo , S. Prikhodko , S. Kodambaka , J. L. Li , R. Richards ,
+Appl. Catal. B—Environ. 2011 , 106 , 212 .
+ Received: January 19, 2013
+Published online:
+small 2013,
+DOI: 10.1002/smll.201300197

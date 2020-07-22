@@ -1,0 +1,904 @@
+﻿Research Paper
+A randomized controlled trial of gabapentin for
+chronic low back pain with and without
+a radiating component
+J. Hampton Atkinsona,b,*, Mark A. Slatera,c, Edmund V. Capparellia,d, Shetal M. Patela
+, Tanya Wolfsone
+,
+Anthony Gamste
+, Ian S. Abramsonf
+, Mark S. Wallacea,g, Stephen D. Funka
+, Thomas R. Rutledgea,b,
+Julie L. Wetherella,b, Scott C. Matthewsa,b, Sidney Zisooka,b, Steven R. Garfina,h
+Abstract
+Gabapentin is prescribed for analgesia in chronic low back pain, yet there are no controlled trials supporting this practice. This
+randomized, 2-arm, 12-week, parallel group study compared gabapentin (forced titration up to 3600 mg daily) with inert placebo.
+The primary efficacy measure was change in pain intensity from baseline to the last week on treatment measured by the Descriptor
+Differential Scale; the secondary outcome was disability (Oswestry Disability Index). The intention-to-treat analysis comprised 108
+randomized patients with chronic back pain (daily pain for $6 months) whose pain did (43%) or did not radiate into the lower
+extremity. Random effects regression models which did not impute missing scores were used to analyze outcome data. Pain
+intensity decreased significantly over time (P , 0.0001) with subjects on gabapentin or placebo, reporting reductions of about 30%
+from baseline, but did not differ significantly between groups (P 5 0.423). The same results pertained for disability scores. In
+responder analyses of those who completed 12 weeks (N 5 72), the proportion reporting at least 30% or 50% reduction in pain
+intensity, or at least “Minimal Improvement” on the Physician Clinical Global Impression of Change did not differ significantly between
+groups. There were no significant differences in analgesia between participants with radiating (n 5 46) and nonradiating (n 5 62) pain
+either within or between treatment arms. There was no significant correlation between gabapentin plasma concentration and pain
+intensity. Gabapentin appears to be ineffective for analgesia in chronic low back pain with or without a radiating component.
+Keywords: Chronic pain, Chronic back pain, Gabapentin, Analgesia, Clinical trial, Anticonvulsants
+1. Introduction
+Chronic low back pain is a prevalent, disabling condition for which
+there are few effective interventions.6,10 Antidepressants, nonsteroidal anti-inflammatory agents, and opioids are often
+employed, but there are questions about their long-term efficacy
+or safety.6 Gabapentin has some evidence of efficacy for
+fibromyalgia, a musculoskeletal pain syndrome,1 and has been
+recommended as a first line treatment for neuropathic pain in
+many recent clinical practice guidelines, but the number-neededto-treat is relatively high for these conditions (eg, Refs. 12,25,33).
+Gabapentin is prescribed frequently for chronic back pain
+syndromes in both primary care and specialty pain clinics,
+particularly when there is a “radicular” or neuropathic component
+with pain radiating into the upper or lower legs.6 Although case
+reports, single dose, and open-label studies suggest potential
+benefits,28,42 there are no randomized, placebo-controlled trials
+supporting its efficacy.29 This is unfortunate because gabapentin
+differs structurally from other analgesics, and is thought to differ
+mechanistically by reducing stimulated release of transmitters by
+binding at calcium channel alpha2–delta proteins.38
+We conducted a 12-week, 2-arm, randomized, double-blind,
+placebo-controlled trial to examine the efficacy of gabapentin in
+patients with chronic low back pain with or without leg pain. We
+attempted to address some of the methodological limitations of
+back pain analgesic studies in terms of biases in sampling and
+duration of the trial, and potential confounding by comorbid pain
+and depression.24,40 We recruited patients from primary care and
+community settings rather than pain specialty centers to enhance
+generalizability and guard against a bias toward enrolling treatment
+“failures.” A 12-week design was used to guard against a trend
+toward analgesic efficacy associated with brief trials, because this
+is the minimum to claim an indication for a chronic pain condition
+with most regulatory agencies.23 Patients with mood disorders
+were excluded, to limit potential effects of gabapentin on
+depressed or anxious mood independent of analgesia.
+2. Methods
+2.1. Protocol
+The research protocol was approved by the Human Research
+Protections Programs of the Department of Veterans Affairs (VA)
+Sponsorships or competing interests that may be relevant to content are disclosed
+at the end of this article.
+a VA San Diego Healthcare System, San Diego, CA, USA, b Department of
+Psychiatry, University of California, San Diego, La Jolla, CA, USA, c Scottsdale
+Healthcare Research Institute, Scottsdale, AZ, USA, d Department of Pediatrics,
+University of California, San Diego, La Jolla, CA, USA, e Computational and Applied
+Statistics Laboratory, University of California, San Diego, La Jolla, CA, USA,
+Departments of f Mathematics, g Anesthesiology, and, h Orthopaedic Surgery,
+University of California, San Diego, La Jolla, CA, USA
+*Corresponding author. Address: VA San Diego Healthcare System, 3350 La Jolla
+Village Dr, San Diego, CA 92161, USA. Tel.: 11 858 642 3775. E-mail address:
+jhatkinson@ucsd.edu (J. H. Atkinson).
+PAIN 157 (2016) 1499–1507
+© 2016 International Association for the Study of Pain
+http://dx.doi.org/10.1097/j.pain.0000000000000554
+July 2016·Volume 157·Number 7 www.painjournalonline.com 1499
+Copyright  2016 by the International Association for the Study of Pain. Unauthorized reproduction of this article is prohibited.
+Healthcare System, San Diego, California, and the University of
+California, San Diego, California. Written informed consent was
+obtained before entry into the study. Participants were compensated for travel expenses, at $5 per study visit or up to $50 for
+completion of the 12-week trial, but there were no other financial
+incentives to participate. Individuals were recruited by posting of
+flyers at VA San Diego and University of California, San Diego
+primary care clinics, and by announcements in metropolitan area
+newspapers. Potential enrollees were told they would be
+assigned by chance to an inert placebo (“sugar pill”) or to
+a licensed medication customarily used to treat seizures. It was
+noted that the research was investigating if gabapentin might
+have pain-relieving properties because of possible effects on
+nervous system neurotransmitters involved in pain.
+Inclusion criteria were (1) ages 21 to 70, (2) nonspecific low
+back pain primarily in the lumbar region, present on a daily
+basis for the previous 6 months or longer, adjectivally
+described as, of at least “mild” intensity ($2 on a “0” to “10”
+Numeric Rating Scale) and having an impact on 2 or more
+aspects of everyday life, (3) English-speaking, literate, able to
+understand the study, and communicate with the study team,
+(4) presently not a candidate for back surgery (1 prior back
+surgery permitted if it was .5 years ago), (5) agreement to
+discontinue muscle relaxants, antidepressants, and opioids
+at least 2 weeks before eligibility assessment and throughout
+the study (nonsteroidal anti-inflammatory drugs [NSAIDs]
+were permitted), and (6) if female, not pregnant or lactating,
+and has a negative pregnancy test at screening.
+Exclusions were (1) a major coexisting medical illness (eg, renal
+or hepatic disease, chronic obstructive pulmonary disease,
+cancer, or class III or IV organic heart disease) that might increase
+risks of gabapentin, or major surgical or nonsurgical intervention
+for any disorder within the past 12 months, because rehabilitation
+from treatment may confound study outcomes; (2) significant
+coexisting orthopedic or pain problems or back pain due to other
+disorders (eg, fibromyalgia, vertebral fracture, osteomyelitis,
+metastatic cancer, rheumatoid arthritis, and spinal stenosis); (3)
+meeting DSM-IV criteria for alcohol or other substance use
+disorder (within the previous 12 months or with positive urine
+toxicology at eligibility assessment); or current major depression
+or dysthymia; or lifetime diagnosis of bipolar disorder, psychosis
+or cognitive impairment disorder (eg, dementia); (4) history of
+multiple adverse drug reactions or known allergy to gabapentin;
+(5) use of psychotropics (eg, antidepressants, anxiolytics), which
+would be continued during the study, or other drugs or agents (ie,
+herbal preparations) which might interact with the study drug; (6)
+prior treatment with the study drug; (7) use of systemic corticosteroids or corticosteroid injections within 3 months of screening;
+or concurrent behavioral therapies, chiropractic treatment, or
+transcutaneous electrical nerve stimulation unit; (8) renal impairment (creatinine .1.8 mg/dL); (9) hepatic impairment (bilirubin
+.1.53 upper normal limit, or aspartate aminotransferase or
+alanine aminotransferase .23 upper normal limit); (10) hematologic abnormality (hemoglobin ,9.4 gm/dL; absolute white blood
+cells count ,3000/mm3
+, platelets ,100,000); (11) pregnancy;
+and (12) use of experimental drugs or participation in other clinical
+trials within 2 months of screening for eligibility. There was no
+revision of inclusion or exclusion criteria or other methods during
+the study.
+After an individual was enrolled and randomized, research
+visits occurred weekly for weeks 1 to 5, then at weeks 7, 9, and
+12. Visits consisted of monitoring of vital signs, completion of
+standardized questionnaires on pain, mood, function, and life
+quality, and an interview by the study physician to assess for
+adverse effects, adherence, and a clinical rating of change in
+overall impact of back pain.
+2.2. Intervention
+Treatment with study drug or inert placebo commenced generally
+within 48 hours of baseline assessment. Consistent with most
+trials of gabapentin in chronic pain, we used a forced titration
+design to achieve a target daily dose (3600 mg) or maximum
+tolerable dose, based on the argument that maximum dosing
+improves likelihood of therapeutic effect.3,30 Participants received 300 mg q.i.d. on day 1, 300 mg b.i.d. on day 2, and
+300 mg t.i.d. on days 3 through 7. In week 2, gabapentin was
+escalated in 300 mg increments to a target dose of 600 mg t.i.d.
+In week 3, the target was 800 mg t.i.d., and in week 4 and
+thereafter, the aim was to achieve 1200 mg t.i.d. Dose titration
+was controlled by the research pharmacist, taking into account
+safety and tolerability assessments by the blinded study
+physician. If an adverse effect was reported, and was not
+intolerable, the daily dose was decreased to one at which the
+participants had experienced no adverse effects. The mean daily
+dose of gabapentin at the end of week 5 was 3265 mg (N 5 43).
+Study drug and inert placebo were packaged in identicalappearing gelatin capsules. Placebo was directed to be taken
+on a schedule, consistent with that of the study drug.
+2.3. Measures
+We followed recommendations of the Initiative on Methods,
+Measurement, and Pain Assessment in Clinical Trials in chronic
+pain (IMMPACT, Ref. 39) by measuring pain intensity, mood, and
+everyday function as outcomes. These assessments were
+obtained by blinded research personnel in a testing session
+separate from the session with the blinded study physician. The
+primary outcome measure was pain intensity as determined by
+the Descriptor Differential Scale (DDS).17 This measure was
+chosen over other (eg, numeric rating scales) because it is
+thought to have superior psychometric properties,17 and
+because of concerns that patients may apply idiosyncratic
+meanings to numeric rating scales.9 The DDS17 contains 24
+words that describe the intensity and unpleasantness of pain.
+Individuals rate their pain relative to these descriptors. Ratings are
+aggregated to provide a 0 to 20 point rating separately for pain
+magnitude and unpleasantness. The DDS demonstrates good
+internal consistency, reliability, objective correlation with experimentally induced pain, and sensitivity to detect analgesic
+intervention in clinical pain.11 The Descriptor Differential Scale
+verbal descriptors of pain intensity correspond to pain magnitude
+ratings over a wide range (eg, DDS intensity 6-7 5 very weak pain;
+8 5 mild pain; 9 5 moderate pain; 10-11 5 slightly intense pain;
+12-13 5 strong pain; and $14 5 intense to extreme pain).11 We
+also employed several supplemental measures of outcome. At
+baseline and 12-week exit, patients were asked to rate pain
+intensity on a standard Numeric Rating Scale (0 5 “no pain,” 10 5
+“worst pain imaginable”). At exit, patients were also asked to
+describe their pain as “improved,” “the same,” or “worse” and to
+rate the percentage of change from baseline. Another supplemental outcome was the physician-rated Clinical Global Impression, which asks the blinded study physician to rate clinical
+change since baseline on a 7-point scale (1 5 very much
+improved; 2 5 much improved; 3 5 minimally improved; 4 5 no
+change; 5 5 minimally worse; 6 5 much worse; 7 5 very much
+worse). The physician rated overall change, combining pain
+intensity and function.18
+1500 J.H. Atkinson et al.·157 (2016) 1499–1507 PAIN®
+Copyright  2016 by the International Association for the Study of Pain. Unauthorized reproduction of this article is prohibited.
+The main secondary outcome of everyday functioning was
+assessed using the Oswestry Disability Index (ODI, Version 2.0).14
+The Oswestry surveys 10 areas of daily life (ie, use of analgesics,
+personal hygiene, lifting, walking, sitting, standing, sleeping,
+social life, traveling, and sex), with responses describing levels of
+performance on a 1 to 6 scale, where 1 5 no interference due to
+pain, while 6 5 complete interference. Scores range from 0 (best
+state of health) to 100 (worst). It is sensitive to change in mild-tomoderately affected samples.8
+Mood was assessed at baseline and exit, using the Beck
+Depression Inventory II (BDI-II).4 This is a standard index of selfreported mood. It consists of 21 sets of questions, each having 4
+or 5 graded statements ordered to show increasing depression
+symptoms; total scores range from 0 to 63. Scores below 10 are
+considered to reflect minimal depression symptoms. The items of
+the BDI are clinically derived and have undergone extensive
+reliability and validation studies.4 Beck Depression Inventory II
+scores were used to characterize the sample and clarify
+interpretation of results (eg, relating analgesia and mood).
+The assessment for qualification at study entry included review
+of medical records, routine blood count and tests of hepatic,
+renal, and thyroid function, urine toxicology for opioids and drugs
+of abuse, and a standardized orthopedic evaluation.41 Orthopedic diagnoses were rendered by the study physician in
+consultation with the research orthopedic surgeon, by using all
+available information, including history, directed physical examination relevant to spine disease, and laboratory data, which
+usually included review of plain radiographs or magnetic
+resonance imaging. Because of the acknowledged limitations
+of an anatomic diagnosis in most chronic back pain, we primarily
+used a regional descriptive approach according to the Quebec
+Nomenclature on Activity-Related Spine Disorders.37 Using this
+system, back pain was described as I 5 pain without radiation;
+II 5 pain with proximal (above knee) radiation; and III 5 pain with
+distal (below knee) radiation. Subjects with other Quebec
+Classifications (ie, IV 5 pain and radiation above or below knee
+with neurologic signs; and V 5 presumptive compression of
+a spinal nerve root) were excluded based on their low frequency
+(,5%) in primary care back pain. To examine if response differed
+according to pain location,24 patients were asked to estimate
+what proportion of pain could be attributed to each site (eg, 80%
+back, 20% leg). At each research visit, a standardized questionnaire was used to record nonprotocol medical or other treatments
+for back pain.
+The study physician used the Structured Clinical Interview for
+DSM-IV36 to examine for excluded psychiatric conditions (eg,
+bipolar disorder and major depression or a substance use
+disorder within the previous 12 months). To monitor for threats to
+internal validity and confounding by prescription or illicit drugs, we
+obtained urine toxicology by dipstick (for ethanol, amphetamines,
+methylphenidate, barbiturates, benzodiazepines, cocaine and
+benzoylecgonine, methaqualone, phencyclidine, cannabis,
+opioids, and methadone) at baseline and at weeks 3, 7, and 12
+(LifeSign LLC, Skillman, NJ).
+Concentrations of gabapentin were determined from samples
+obtained at the week 5 and week 12 visits. Gabapentin in plasma
+was assayed by liquid chromatography-mass spectrometry.
+The dynamic range of the assay was 0.1 to 500 ng/mL, and
+precision and accuracy within the dynamic range were #7.4%
+and #63.2%, respectively. To maintain blinding, all participants
+underwent venipuncture.
+Because adverse effects are often not mentioned if left to
+spontaneous self-report, we employed the UKU Side Effect
+Rating Scale (Udvalg for Kliniske Undersoegelser: Committee for
+Clinical Investigations), a manualized, structured interview,
+administered by the study physician, which systematically
+inquires about 48 potential psychological, neurological, autonomic, sexual, dermatological, and other symptoms.20 The UKU
+records the presence and severity of the symptom (0 5 none or
+doubtful; 1 5 mild; 2 5 moderate; 3 5 severe) and the likelihood
+of causal relationship to the psychotropic medication (0 5
+improbable; 1 5 possible; 2 5 probable).
+2.4. Statistical analysis
+Study data were electronically entered into a database and
+analyses were performed using the Statistical Package for the
+Social Sciences program (SPSS-PC, Windows V10.0) and the R
+statistical software (version 2.15.1, 2012; The R Foundation for
+Statistical Computing, Vienna, Austria). Descriptive analyses and
+group comparisons examined the baseline demographic and
+clinical characteristics of the gabapentin and placebo intervention
+groups. Two-sample Welch t tests or Wilcoxon rank–sum tests
+were used to compare placebo and gabapentin groups on
+continuous and ordinal variables. Fisher’s exact test was used to
+compare the 2 groups on gender and treatment emergent
+adverse effects. Because we specifically did not want to obscure
+any initial or side-effect–based differences between the 2 groups,
+the critical alpha level was set at 0.05 for statistical significance,
+without an adjustment for multiple comparisons. All comparisons
+were 2-tailed. The primary hypothesis was evaluated by an intentto-treat analysis including all randomized participants who
+received 1 dose of study drug. For the primary analysis of
+analgesia, a mean-matching variance-stabilizing transformation
+was applied to the DDS pain scores, because these data were not
+normally distributed. Descriptor Differential Scale scores are
+a sum of answers to “more than or less than” type questions
+about pain intensity, and have a range from 0 to 20. The
+distribution for this type of variable is quasi-binomial rather than
+Gaussian. The mean-matching variance-stabilizing transformation we applied is an order-preserving symmetrizing transformation for count data such as this, which allows use of
+a linear regression model rather than a more complicated Poisson
+regression model to address the primary question.5 Transformed
+pain intensity scores were modeled as a function of time (week)
+and group (gabapentin treatment vs placebo). Random (subjectspecific) intercept and slopes were fitted to the data. Both weeks
+before the treatment/placebo administration (screening and
+week 1) were treated as time 0. The statement of the main model
+is as follows: Zij 5 ai 1 bi (tj 2 1) I (tj . 1) 1 g I (Group 5 Treatment)
+1 Єij where Zij is the transformed pain core for subject “i” at time
+“j.” The main variable of interest in this regression analysis is the
+treatment/placebo group indicator. As a secondary analysis, the
+addition of several covariates to the model above was evaluated
+as well. Covariates included age, gender, days per week of back
+pain, and proportion (ie, percentage of pain due to back rather
+than leg). Covariates were modeled as fixed effects in additional
+mixed effects regression models. Because we used random
+effects regression models to analyze the DDS data, we did not
+impute missing scores. In follow-up analyses, we employed the
+same approach using DDS pain “unpleasantness” scores as the
+outcome.
+The analysis of the secondary outcome used the same
+approach with Oswestry scores (untransformed) as the outcome.
+Additionally, we conducted exploratory analyses. It has been
+recommended that chronic back pain randomized trials report
+“responder” analyses, based on participants who complete an
+efficacy phase and meet a “response” criterion to gauge if
+July 2016·Volume 157·Number 7 www.painjournalonline.com 1501
+Copyright  2016 by the International Association for the Study of Pain. Unauthorized reproduction of this article is prohibited.
+treatment provides a “useful” level of pain relief with tolerable
+adverse effects.23 In one responder analysis, we used a x2 test of
+proportions to compare the treatment groups on the simple
+percentages of patients attaining $30% and $50% decrease in
+DDS pain intensity. In another analysis, we compared proportions
+of patients who rated themselves as “improved” by $30% and
+$50% in terms of reduced pain intensity ($30% was N 5 23
+assigned gabapentin and 21 placebo; $50% was N 5 16
+assigned gabapentin and 13 assigned placebo). These cutpoints were based on reports suggesting that they reflect
+patients’ perception of change of moderate to substantial clinical
+importance.13,15. The same approach was used to assess the
+Physician’s Global Impression of Change, examining the proportion of completers who were rated as having at least “minimal”
+benefit (score $1). In a separate supplemental analysis of
+patients completing the study, we used t tests to compare
+baseline and exit Numeric Pain Rating (0-10) scores of pain
+intensity between groups.
+Mood measured by the BDI-II was compared between
+gabapentin and placebo groups at the start and end of the
+study. A mixed effects model, similar to the one used for the
+primary analysis was used to model the total score as a function of
+group and time.
+We conducted a power analysis for the study based on
+moderate effect sizes (0.5-0.7 SD) noted in prior reports
+comparing placebo and cyclic antidepressants as analgesics in
+back pain, and data that 4.4 DDS pain units is equal to 1 standard
+deviation.2 We hypothesized that gabapentin would be superior
+to placebo (mean 1 . mean 2). With a 5 0.05 and sizes of 53 and
+55 per group, standard power analyses7 indicated power of 80%
+or greater to detect a difference across groups if the standardized
+effect size is comparable to our prior studies (0.55 SD). Moreover
+the power was 64% for population differences 5 0.45 SD. This
+corresponds to a decrease in DDS verbal descriptors from
+“moderate” to “mild” pain or “strong” to “moderate” pain.11 This
+corresponds to a .30% reduction in pain intensity, and would be
+clinically meaningful.15 A similar approach was used to address
+effects on improving daily function as measured by the Oswestry.
+In our prior work, nortriptyline improved function 0.5 SD
+compared to placebo. Using the same assumptions as above,
+standard power analyses (a 5 0.05, N 5 108) indicated power
+.80% for the analysis of variance to detect an overall difference.
+2.5. Assignment
+The VA San Diego Healthcare System Research Pharmacy
+conducted a one-to-one allocation to gabapentin or placebo
+using a stratified block computer-generated randomization
+scheme. To ensure equivalence between groups on the presence
+of a radiating component of back pain, the allocation system
+stratified for presence or absence of pain radiating into the leg
+(above or below the knee).
+2.6. Masking
+Gabapentin and placebo were prepared in identical-appearing
+gelatin capsules. They were directed to be taken on the same
+schedule of dose escalation during the titration and maintenance
+phases of the trial. The code for participant assignment was held
+by the research pharmacy until completion of data analysis.
+Participants and the blinded study physician were asked to guess
+treatment (gabapentin or placebo) after the first week on
+treatment and at the week 12 exit visit.27 The overall proportion
+of correct guesses by patients who received at least 1 week of
+treatment (N 5 98 with data) was 51% (P 5 0.920). Guessing by
+the physician was not significantly different from chance for the
+placebo group (45%, P 5 0.575), but was significantly better than
+chance for the treatment group (78%, P , 0.0001) and because
+the treatment group was significantly better overall (62%, P 5
+0.018). Because more informed guesses might result from study
+completers, we also analyzed data on 72 individuals who
+completed the study (38 were assigned to gabapentin and 34
+were assigned to placebo). Of individuals assigned gabapentin,
+22 of 38 guessed they were on the active study drug, and for
+those assigned placebo, 16 of 34 guessed placebo treatment
+(53% overall proportion guessing correctly, x2
+, P 5 0.724). This
+suggests that participant masking was successful. Data on
+physician guesses for completers were obtained for all 38
+individuals assigned to gabapentin, and 33 of 34 persons
+assigned to placebo. Of 38 individuals assigned to gabapentin,
+the physician correctly guessed that 29 were on the active study
+drug, and of those assigned placebo, 14 of 33 were guessed to
+be on the active study drug (61% overall proportion of correct
+guesses, x2
+, P 5 0.097). Again the proportion of correct guesses
+for assignment to placebo was not significantly different from
+chance (P 5 0.486), but physician guesses for active treatment
+were significant (P 5 0.002). This suggests that masking of
+physicians was only partly successful.
+At the exit visit, the blinded study physician presented the
+participant with a sealed envelope which was to be opened after
+leaving the research site. This envelope, prepared by the research
+pharmacist, contained 2 weeks’ supply of capsules labeled with
+treatment assignment (gabapentin or placebo). An enclosed
+letter provided instructions on how to continue on active study
+drug if desired, or to discontinue gabapentin by tapering over 2
+weeks. The letter also mentioned that patients could request
+a trial of gabapentin from their personal physician if the
+assignment were to placebo. This procedure was explained
+verbally beforehand by the study physician.
+3. Results
+3.1. Participant flow and follow-up
+Figure 1 depicts the progress of volunteers through the trial.
+During the period of funding and performance of the study
+(January 1, 2004 to December 31, 2009), we conducted
+telephone screening of individuals who responded to announcements of the study. From these inquiries, 310 individuals were
+identified as potentially eligible; of these, 119 declined an
+invitation to be further interviewed, and 191 possibly eligible
+individuals were evaluated in person. Of these, 83 (43.5%) either
+declined participation or were disqualified for meeting 1 or more
+exclusion criteria. A total of 108 individuals were randomized
+(56.5% of those evaluated in person): 55 were assigned to
+gabapentin and 53 to placebo; of those randomized, 72 (71.3%)
+completed all 12 weeks on study.
+Demographic and clinical characteristics of the randomized
+participants are presented in Table 1. There were no statistically
+significant differences between gabapentin and placebo groups
+in background demographics or clinical characteristics. There
+were also no statistically significant differences between those
+who were and were not randomized (N of 108 and 83,
+respectively) after assessment of eligibility in terms of age,
+education, gender, height, weight, duration or intensity of back
+pain, or of disability in everyday function.
+In general, the sample consisted of white, married men (about
+10% were African American, 9% Hispanic, 6% Asian, and 5%
+1502 J.H. Atkinson et al.·157 (2016) 1499–1507 PAIN®
+Copyright  2016 by the International Association for the Study of Pain. Unauthorized reproduction of this article is prohibited.
+Other) in their mid-50s who were at least high school educated
+(about 2% reported less than high school education, 54% high
+school or some college, 18% a college degree, 26% some
+postcollege education). Back pain was of very longstanding
+duration and was present on an almost daily basis (an average of
+6.7 [60.37] days per week). Mean DDS pain intensity scores
+indicated pain of “moderate” intensity, and ODI scores reflected
+mild to moderate adverse impact of back pain on everyday
+function. In terms of regional Quebec Classification, 54% (n 5 58)
+reported back pain only (Classification I), 24% (n 5 26) had back
+and lower extremity pain above the knee (Classification II), and
+22% (n 5 24) had back and lower extremity pain below the knee
+(Classification III). Mean (SD) pain intensity did not differ
+meaningfully across these classifications: Classification I 5 8.98
+(3.62); Classification II 5 10.23 (4.86); Classification III 5 9.38
+(5.43) (Kruskal–Wallis P-value 5 0.3684). As might be expected in
+sample with nonspecific chronic low back pain few (n 5 5; 5%)
+had a prior back surgery. At baseline, a majority of individuals (n 5
+66; 61%) were taking NSAIDs for analgesia. As part of the
+enrollment process, any of the participants who were prescribed
+opioid analgesics were asked to discontinue these agents at least
+2 weeks before baseline, and to refrain from opioids during the
+study. No participant was taking muscle relaxants. About a third
+Figure 1. Flow of participants in the trial of gabapentin for chronic low back pain with or without a radiating component.
+Table 1
+Demographics and clinical characteristics of participants with
+degenerative disease of the spine (N 5 108).
+Characteristic Placebo Gabapentin
+Age mean 6 SD, y 54.62 6 11.38 57.58 6 8.84
+Gender, male, n (%) 40 (75.5) 43 (81.1)
+Education, mean 6 SD, y 15.55 6 2.91 15.66 6 2.65
+Marital status, married, n (%) 24 (45.3) 28 (52.8)
+Ethnicity, Anglo-American, n (%) 38 (71.7) 38 (71.7)
+Annual family income, $, median category 35,000-49,999 42,500-57,500
+Pain duration, mean 6 SD, y 17.79 6 12.80 17.16 6 15.12
+Previous back surgery, n (%) 4 (7.7) 1 (1.9)
+Radicular pain, n (%) 22 (42.3) 24 (44.4)
+NSAIDs, n (%) 30 (56.6) 36 (65.4)
+Antidepressants, n (%) 1 (1.9) 2 (3.6)
+NSAIDs, nonsteroidal anti-inflammatory drugs.
+July 2016·Volume 157·Number 7 www.painjournalonline.com 1503
+Copyright  2016 by the International Association for the Study of Pain. Unauthorized reproduction of this article is prohibited.
+of participants (n 5 34; 31%) were involved in some form of selfcare for pain (eg, exercise, meditation, and heat/ice). There were
+no significant differences at entry between treatment arms with
+respect to current use of NSAIDs or other adjunctive therapies for
+chronic back pain. None of the urine toxicology samples obtained
+on study revealed opioids or drugs of abuse.
+Of those who withdrew before completing 12 weeks, 19 were
+assigned to gabapentin and 17 to placebo. The major primary
+reason for attrition was similar in both groups, and most often was
+for adverse effects or lack of efficacy; a sizeable proportion was
+lost to follow-up and no reason could be obtained for withdrawal
+(Table 2). Baseline demographic and clinical characteristics (eg,
+pain duration, intensity, and presence of radicular pain) of
+individuals who completed 12 weeks on study did not differ from
+the entire randomized sample (all P values nonsignificant).
+3.2. Analyses
+The intent-to-treat analysis, consisting of all individuals who were
+randomized and received 1 dose of study drug, revealed that pain
+intensity decreased significantly over time for all participants (P ,
+0.0001) with subjects on gabapentin or placebo reporting pain
+reductions of about 30% from baseline. On the primary outcome
+measure of DDS pain intensity, there were no significant
+differences between treatment groups (P 5 0.423). Similarly,
+there were no significant differences between groups with regard
+to change in pain unpleasantness (P 5 0.523). There was no
+effect of age or gender on these outcomes. Figure 2 illustrates
+the specific results for pain intensity. The same pattern of
+significance was observed in an additional mixed model, with
+Oswestry score as the secondary outcome (eg, P 5 0.804). Only
+time was a significant factor (there was significant improvement
+with time). We also conducted an exploratory analysis using only
+those who completed 12 weeks on study (N 5 72). In one analysis
+we used the 0 to 10 Numeric Rating Scale of pain intensity, as
+assessed at screening and exit. There were no significant
+differences in pain intensity scores between gabapentin and
+placebo groups either at the start or at the end of study (5.8 vs 5.7,
+P 5 0.759 and 3.5 vs 4.1, P 5 0.234, respectively). Scores were
+significantly lower at exit relative to baseline (P , 0.0001) for both
+groups, but the reduction was not significantly different between
+groups (2.2 vs 1.6, P 5 0.253). This agrees with the primary result
+of pain reduction over time overall, but no difference between
+treatment and placebo groups. The responder analyses limited
+the sample to study completers. The proportions of patients with
+either a $30% or a $50% decrease in DDS pain intensity did not
+differ significantly by group (36% vs 36%, P 5 1, and 26% vs
+29%, P 5 0.924, respectively). The proportions of patients at exit
+who estimated their pain had “improved” by $30% and by $50%
+also did not differ significantly by group (43% vs 38%, P 5 0.722,
+and 23% vs 20%, P 5 0.920, respectively). Likewise the
+proportion of individuals who were rated by the study physician
+as having at least “Minimal Improvement” (score $1) on the
+Physician Clinical Global Impression of Change did not differ
+significantly between groups (gabapentin 5 14 of 38, 36.8%;
+placebo 5 11 of 33, 33.3%; P 5 0.95; one participant was
+missing a rating).
+Because the potential for interventions to be effective might
+vary according to the presence of leg pain,24 participants were
+grouped according to presence of pain confined to the low back
+(Quebec I), or pain with a radiating component (Quebec II or III).
+Reduction in pain intensity was similar between participants with
+radiating (n 5 46) and nonradiating (n 5 62) pain both within and
+between treatment arms (all mixed model analysis P-values not
+significant).
+We assessed for a relationship of gabapentin concentration to
+pain intensity. Week 5 concentrations of gabapentin were
+obtained on 39 of 55 individuals who were assigned study drug,
+and at week 12 on 34 of 38 who completed the study. At
+beginning of week 5 mean plasma concentrations were 6.8 6 3.7
+(median 6.1), and for study completers the mean week 12 exit
+serum concentration of gabapentin was 9.6 6 7.1 mg/mL
+(median 8.9 mg/mL). There was no significant correlation
+between gabapentin plasma concentration and pain intensity at
+beginning of week 5 (r 5 0.09, P 5 0.585) and at exit week 12
+(r 5 0.21, P 5 0.232).
+Mood was measured at baseline and exit. By design, none of
+the participants met criteria for major depression, which is
+consistent with the low mean scores for the BDI-II (Table 1) for
+both groups. There were no significant differences in mood
+scores between gabapentin and placebo groups either at the
+start or at the end of study (P 5 0.719 and 0.519, respectively),
+however, scores were significantly lower at exit relative to baseline
+(P 5 0.0007). There was no significant correlation between
+change in mood and pain intensity.
+3.3. Adverse drug effects
+Most participants (49 of 55 on gabapentin and 35 of 53 on
+placebo) experienced treatment emergent adverse effects determined as “possibly” or “probably” attributable to study drug by
+the UKU physician rating during the trial (Table 3). Six adverse
+effects were significantly (P , 0.05) more likely to be experienced
+by individuals assigned to gabapentin (fatigue, dry mouth,
+difficulties with mental concentration, memory, or visual accommodation, and loss of balance), but in general the frequency of
+specific adverse effects was comparable between treatments.
+No participants reported suicidal ideation.
+Most adverse effects were rated as being of “mild” or
+“moderate” severity. For gabapentin, 6 of 55 experienced “no”
+adverse effects, 19 of 55 experienced “mild” adverse effects, 21
+of 55 reported adverse effects of “moderate” intensity, and 9 of 55
+experienced at least 1 “marked” adverse effect. For placebo, 18
+of 53 reported no adverse effects, 18 experienced at most
+a “mild” adverse effect, 12 reported at most a “moderate”
+intensity adverse effect, and 5 noted at least 1 “marked” adverse
+effect. A higher proportion of subjects in the gabapentin group
+experienced at least 1 adverse event than in the placebo group
+(89% vs 66%, Fisher’s exact P 5 0.008), and a higher proportion
+Table 2
+Primary reason for participant withdrawal from protocol.
+Primary reasons for withdrawal Placebo (N 5 17) Gabapentin (N 5 19)
+N N
+Adverse effects
+Concentration difficulties 0 3
+Dizziness 1 2
+Loss of balance 0 1
+Rash 0 1
+Urinary disturbance 3 0
+Tension/inner unrest 1 0
+Drug not effective 1 5
+Lost interest/unspecified 5 5
+Medical exclusion 1 1
+Time demands 2 1
+Conflict with work 2 0
+Protocol violation 1 0
+1504 J.H. Atkinson et al.·157 (2016) 1499–1507 PAIN®
+Copyright  2016 by the International Association for the Study of Pain. Unauthorized reproduction of this article is prohibited.
+of subjects in the gabapentin group experienced at least 1
+moderate to marked adverse event than in the placebo group
+(55% vs 32%, Fisher’s exact P 5 0.03).
+4. Discussion
+4.1. Main findings
+This randomized phase II clinical trial in chronic nonspecific low
+back pain did not detect analgesic effects for gabapentin
+compared with placebo. Adverse effects were higher than
+expected, given that gabapentin is often considered to have
+a benign side effect profile. Because of evidence that gabapentin
+is efficacious for neuropathic pain syndromes, we also examined
+whether back pain with a radiating component into the legs was
+differentially responsive. Again, there was no support for
+gabapentin analgesia. The secondary outcome of disability in
+everyday function because of back pain also indicated no
+difference between gabapentin and placebo. Reasons for this
+lack of effect are not clear, but may be related to the etiopathogenesis of back pain, to characteristics of our back pain sample,
+to dosing or plasma concentration, or to methodological
+limitations of the research.
+The etiopathogenesis of chronic low back pain syndromes is
+not clear, and it is likely a heterogeneous phenomenon, with both
+neuropathic and somatic components. Several large-scale
+randomized trials suggest gabapentin is analgesic in neuropathic
+pain states,4,30,32,34 and is associated with improved life quality
+and functioning.4 Pregabalin, an analogue of gabapentin with
+arguably the same mechanism of action, is reported to be
+analgesic for fibromyalgia, a condition of widespread musculoskeletal or soft tissue pain.25,31 To the extent that aspects of
+chronic back pain might reflect either neuropathic16 or
+musculoskeletal components, one might have expected an
+analgesic effect in this study. An effect of dosing on our negative
+results is possible. We used forced-titration to maximum tolerable
+dose, a design that can be criticized for failing to detect possible
+lower concentration “therapeutic windows.”21 Nevertheless, this
+forced titration approach is methodologically consistent with
+most of the chronic pain literature, and the daily doses of
+gabapentin (and pregabalin equivalents) employed in successful
+trials in neuropathic pain and fibromyalgia were in the same range
+as used in our study. Our negative results are consistent with
+a prior low dose trial (1200 mg daily).22 Although there is no
+agreed upon plasma concentration for analgesia, and concentrations are not reported in studies of neuropathic pain and
+fibromyalgia (eg, Ref. 12), our obtained values were in line with
+expectations based on prescribed daily doses, and provide
+a validity check on the experimental manipulation. The study
+featured a 4-week dose escalation phase and 8 weeks on
+treatment. Based on previous data on time to onset of efficacy in
+trials of anticonvulsants in neuropathic pain, and antidepressants
+in chronic back pain, this treatment duration is likely to have been
+adequate to observe onset of a therapeutic effect (eg, Refs.
+12,35). At the same time, we acknowledge that one must be
+cautious in concluding that gabapentin is ineffective: there was
+a large placebo effect, and carefully controlled trials may not
+reflect real life clinical experience.24
+4.2. Study limitations
+Our study has important limitations which impact the generalizability of the results. The sample size is small, and on average pain
+intensity was in the mild-to-moderate range, making it possible
+that a “basement” effect precluded detection of an overall
+therapeutic effect. Attrition was high. On the other hand, our
+Figure 2. Change in pain intensity measured by the Descriptor Differential Scale over the 12 weeks of trial for gabapentin and placebo.
+July 2016·Volume 157·Number 7 www.painjournalonline.com 1505
+Copyright  2016 by the International Association for the Study of Pain. Unauthorized reproduction of this article is prohibited.
+sample size was adequate to detect a clinically meaningful effect,
+and attrition was similar to that reported historically for other
+recent clinical trials in chronic back pain (eg, 25%-30%)35. Pain
+radiating into the lower extremities may be a proxy, but we did not
+use a standardized instrument to ascertain specifically for
+neuropathic pain, which has been reported to affect one-third
+of patients with chronic back pain.16 Our sample is not likely to be
+purely neuropathic, and our design and power estimates did not
+address this issue. Short-term studies suggest gabapentin may
+be efficacious in rigorously defined lumbar root pain (sciatica),44
+a treatment-resistant and disabling subset of the chronic back
+pain population.19 One open-label study concluded that compared with usual care, gabapentin reduced pain intensity and
+improved walking distance in lumbar spinal stenosis, a condition
+associated with neurologic intermittent claudication, manifest as
+symptoms of leg pain, numbness, and cramping precipitated by
+standing or walking.43 In any event, the inclusion of nonradiating
+and radiating pain in the same trial may have underpowered an
+ability to detect efficacy if only 1 form was responsive.
+Furthermore, we did not assess pain intensity at rest and upon
+movement, and we therefore may have missed differential
+effects. Other limitations are that we did not explore effects on
+sleep, or of coprescribed opioids. Current formulations of
+gabapentin allow for single night-time dosing, may impact sleep,
+and might exert beneficial effects indirectly through these effects.
+Gabapentin might be effective when combined with opioids.26
+The generalizability of our results is limited by our exclusion of
+patients receiving opioid analgesics.
+4.3. Perspective
+Effective and safe pharmacotherapy of chronic low back pain
+remains elusive. Some antidepressants may be efficacious (eg,
+duloxetine), but there are questions about other agents in this
+class. The longer term effectiveness of NSAIDs and opioids is not
+established. They have known safety hazards. In hopes of
+identifying an alternative, this study assessed the efficacy of
+a compound with a novel mechanism of action in a sample not
+confounded by opioids or benzodiazepines. Such approaches
+are reasonable, but limited by the lack of a clearer definition of
+chronic back pain phenotypes and mechanisms.
+4.4. Conclusions
+The calcium channel alpha2–delta ligand gabapentin, which is
+analgesic in selected neuropathic pain conditions and perhaps
+widespread pain disorders (fibromyalgia), was expected to be
+effective in chronic back pain, given its overlap with both
+neuropathic and diffuse musculoskeletal pain syndromes.
+Results did not support its use in a general low back pain sample
+with and without pain radiating to the legs. Future studies, with
+larger sample sizes in chronic back pain specifically selected for
+neurologic syndromes (eg, sciatica) may be able to define
+a therapeutic role for gabapentin.
+Conflict of interest statement
+J. H. Atkinson has received grant support from the United States
+National Institutes of Health (NIH) and the Department of Veterans
+Affairs. E. V. Capparelli has received grant support from the NIH
+and fees for consultancy from Cempra, Inc., The Medicines Co.,
+and Gilead Sciences, Inc. A. Gamst has received has received
+grant support from the Department of Veterans Affairs and fees
+for consultancy from Quidel Corporation. I. S. Abramson has
+received grant support from the NIH. T. R. Rutledge has received
+grant support from the United States Department of Defense.
+J. L. Wetherell has received grant support from the NIH. S. C.
+Matthews has received grant support from the Department of
+Veterans Affairs. S. Zisook has received grant support from the
+NIH. S. R. Garfin has received fees for consultancy from
+Benvenue Medical, DePuy (Johnson & Johnson), EBI/Biomet,
+Globus Medical, Magnifi Group, NuVasive, Samumed, SI Bone,
+Spinal Kinetics, and Vertiflex. The other authors have no conflicts
+of interest to declare.
+The research was funded by the United States Department of
+Veterans Affairs, Office of Research and Development. The
+funding source had no role in the collection, analysis, or
+interpretation of the data, nor the decision to submit for
+publication. Trial Registry: ClinicalTrials.gov NCT00108550.
+Acknowledgements
+Judith Ortega, Michael Blandin, Brittni Simmons, Christine
+Gonzaga, and Christian Carter are thanked for assistance with
+recruiting and assessing the study sample.
+Article history:
+Received 31 July 2015
+Received in revised form 26 February 2016
+Accepted 2 March 2016
+Available online 8 March 2016
+References
+[1] Arnold LM, Goldenberg DL, Standord SB. Gabapentin in the treatment of
+fibromyalgia: a randomized, double-blind, placebo-controlled, multicenter
+trial. Arthritis Rheum 2007;56:1336–44.
+[2] Atkinson JH, Slater MA, Wahlgren DR, Williams RA, Zisook S, Pruitt SD,
+Epping-Jordan JE, Patterson TL, Grant I, Abramson I, Garfin SR. Effects
+Table 3
+Treatment emergent adverse effects attributed to gabapentin
+or placebo for participants in the intent-to-treat analysis (N 5
+108).
+Adverse effect placebo Placebo (N 5 53),
+n (%)
+Gabapentin
+(N 5 55)
+Fisher’s, P
+Asthenia/lassitude/fatigue 15 (28.3) 27 (49.1) 0.031
+Orthostatic dizziness 14 (26.4) 24 (43.6) 0.071
+Decreased salivation 10 (18.9) 22 (40.0) 0.020
+Concentration difficulties 6 (11.3) 21 (38.2) 0.001
+Increased sleep 11 (20.8) 21 (38.2) 0.058
+Accommodation
+disturbance
+3 (5.7) 19 (34.5) 0.0002
+Loss of balance 2 (3.8) 18 (32.7) 0.0001
+Failing memory 1 (1.9) 9 (16.4) 0.016
+Constipation 9 (17.0) 7 (12.7) 0.595
+Nausea/vomiting 8 (15.1) 7 (12.7) 0.785
+Polyuria/polydipsia 6 (11.3) 7 (12.7) 1.000
+Reduced sleep 10 (18.9) 7 (12.7) 0.435
+Diarrhea 7 (13.2) 6 (10.9) 0.773
+Erectile dysfunction 2 (3.8) 6 (10.9) 0.271
+Weight gain 1 (1.9) 6 (10.9) 0.113
+Decreased sexual desire 2 (3.8) 5 (9.1) 0.438
+Increased dreaming 5 (9.4) 5 (9.1) 1.000
+Tensions 1 (1.9) 5 (9.1) 0.206
+Tension headache 2 (3.8) 3 (5.5) 1.000
+Micturition disturbance 4 (7.5) 2 (3.6) 0.433
+Paresthesia 3 (5.7) 2 (3.6) 0.676
+1506 J.H. Atkinson et al.·157 (2016) 1499–1507 PAIN®
+Copyright  2016 by the International Association for the Study of Pain. Unauthorized reproduction of this article is prohibited.
+of noradrenergic and serotonergic antidepressants on chronic low back
+pain intensity. PAIN 1999;83:137–45.
+[3] Backonja M, Beydoun A, Edwards KR, Schwartz SL, Fonseca V, Hes M,
+LaMoreaux L, Garofalo E. Gabapentin for the symptomatic treatment of
+painful neuropathy in patients with diabetes mellitus: a randomized
+controlled trial. JAMA 1998;280:1831–6.
+[4] Beck AT, Steer RA, Brown GK. Manual for the beck depression inventoryII. San Antonio: Psychological Corporation, 1996.
+[5] Brown LD, Cai T, Zhou H. Nonparametric regression in exponential
+families. Ann Stat 2010;38:2005–46.
+[6] Chou R, Huffman LH, American Pain Society, American College of
+Physicians. Medications for acute and chronic low back pain: a review
+of the evidence for an American Pain Society/American College of
+Physicians clinical practice guideline. Ann Intern Med 2007;147:505–14.
+[7] Cohen J. Statistical power analyses for the behavioral sciences (Rev Ed).
+New York: Academic Press, 1977.
+[8] Davidson M, Keating JL. A comparison of five low back disability
+questionnaires: reliability and responsiveness. Phys Ther 2002;82:8–24.
+[9] de C Williams AC, Davies HTO, Chadury Y. Simple pain rating scales hide
+complex idiosyncratic meanings. PAIN 2000;85:457–63.
+[10] Deyo RA, Weinstein JN. Low back pain. N Engl J Med 2001;344:363–70.
+[11] Doctor JN, Slater MA, Atkinson JH. The descriptor differential scale
+of pain intensity: an evaluation of item and scale properties. PAIN 1995;61:
+251–60.
+[12] Dworkin RH, Corbin AE, Young JP Jr, Sharma U, LaMoreaux L,
+Bockbrader H, Garofalo EA, Poole RM. Pregabalin for the treatment of
+postherpetic neuralgia: a randomized, placebo-controlled trial. Neurology
+2003;60:1274–83.
+[13] Dworkin RH, Turk DC, Wyrwich KW, Beaton D, Cleeland CS, Farrar JT,
+Haythornthwaite JA, Jensen MP, Kerns RD, Ader DN, Brandenburg N,
+Burke LB, Cella D, Chandler J, Cowan P, Dimitrova R, Dionne R, Hertz S,
+Jadad AR, Katz NP, Kehlet H, Kramer LD, Manning DC, McCormick C,
+McDermott MP, McQuay HJ, Patel S, Porter L, Quessy S, Rappaport BA,
+Rauschkolb C, Revicki DA, Rothman M, Schmader KE, Stacey BR,
+Stauffer JW, von Stein T, White RE, Witter J, Zavisic S. Interpreting the
+clinical importance of treatment outcomes in chronic pain clinical trials:
+IMMPACT recommendations. J Pain 2008;9:105–21.
+[14] Fairbank JCT, Pynsent PB. The oswestry disability index. Spine 2000;25:
+2940–53.
+[15] Farrar JT, Young JP, LaMoreaux L, Werth JL, Poole RM. Clinical
+importance of changes in chronic pain intensity measured on an 11-point
+numerical pain rating scale. PAIN 2001;94:149–58.
+[16] Fishbain DA, Cole B, Lewis JE, Gao J. What is the evidence that neuropathic
+pain is present in chronic low back pain and soft tissue syndromes? An
+evidence-based structured review. Pain Med 2014;15:4–15.
+[17] Gracely RH, Kwilosz DM. The Descriptor Differential Scale: applying
+psychophysical principles to clinical pain assessment. PAIN 1988;35:
+279–88.
+[18] Guy W. Clinical global impression, ECDEU assessment manual for
+psychopharmacology. Washington: US Government Printing Office,
+1976.
+[19] Khoromi S, Cui L, Nackers L, Max MB. Morphine, nortriptyline, and their
+combination vs. placebo in patients with chronic lumbar root pain. PAIN
+2007;130:60–75.
+[20] Lingjaerde O, Ahlfors UG, Bech P, Dencker SJ, Elgen K. UKU side effect
+rating scale. A new comprehensive rating scale for psychotropic drugs
+and a cross sectional study of side effects in neuroleptic-treated patients.
+Acta Psychiat Scand 1987;334:7–96.
+[21] Max MB. Antidepressants as analgesics. In: Fields HL, Liebeskind JC,
+editors. Pharmacological approaches to the treatment of chronic pain:
+new concepts and critical issues. Seattle: IASP Press, 1994. p. 229–46.
+[22] McCleane GJ. Does gabapentin have an analgesic effect on background,
+movement and referred pain? A randomized, double-blind, placebocontrolled study. Pain Clinic 2001;13:103–7.
+[23] Moore RA, Moore OA, Derry S, Peloso PM, Gammaitoni AR, Wang H.
+Responder analysis for pain relief and numbers needed to treat in a metaanalysis of etoricoxib osteoarthritis trials: bridging a gap between clinical
+trials and clinical practice. Ann Rheum Dis 2010;69:374–9.
+[24] Moore RA, Straube S, Derry S, McQuay HJ. Topical review: chronic
+low back pain analgesic studies—a methodological minefield. PAIN
+2010;149:431–4.
+[25] Moore RA, Wiffen PJ, Derry S, Toelle T, Rice AS. Gabapentin for chronic
+neuropathic pain and fibromyalgia in adults. Cochrane Database Syst Rev
+2014;4:CD007938.
+[26] Morlion B. Chronic low back pain: pharmacological, interventional and
+surgical strategies. Nature reviews. Neurology 2013;9:462–73.
+[27] Moscucci M, Byrne L, Weintraub M, Cox C. Blinding, unblinding, and the
+placebo effect: an analysis of patients’ guesses of treatment assignment
+in a double-blind clinical trial. Clin Pharmacol Ther 1987;41:259–65.
+[28] Pandey CK, Navkar DV, Giri PJ, Raza M, Behari S, Singh RB, Singh U,
+Singh PK. Evaluation of the optimal preemptive dose of gabapentin for
+postoperative pain relief after lumbar discectomy: a randomized, double
+blind, placebo-controlled study. J Neurosurg Anesthesiol 2005;17:65–8.
+[29] Pinto RZ, Maher CG, Ferreira ML, Ferreira PH, Hancock M, Oliveira VC,
+McLachian AJ, Koes B. Drugs for relief of pain in patients with sciatica:
+systematic review and meta-analysis. BMJ 2012;344:e479–512.
+[30] Rice AS, Maton S. Gabapentin in postherpetic neuralgia: a randomized,
+double blind, placebo controlled study. PAIN 2001;94:215–24.
+[31] Roskell NS, Beard SM, Zhao Y, Le TK. A meta-analysis of pain response
+in the treatment of fibromyalgia. Pain Pract 2011;11:516–27.
+[32] Rowbotham M, Harden N, Stacey B, Bernstein P, Magnus-Miller L.
+Gabapentin for the treatment of postherpetic neuralgia: a randomized
+controlled trial. JAMA 1998;280:1837–42.
+[33] Serpell MG. Gabapentin in neuropathic pain syndromes: a randomised,
+double blind, placebo-controlled trial. PAIN 2002;99:557–66.
+[34] Sindrup SH, Jensen TS. Pharmacologic treatment of pain in
+polyneuropathy. Neurology 2000;55:915–20.
+[35] Skljarevski V, Desaiah D, Liu-Seifert H, Zhang Q, Chappell AS, Detke MJ,
+Iyengar S, Atkinson JH, Backonja M. Efficacy and safety of duloxetine in
+patients with chronic low back pain. Spine 2010;35:E578–85.
+[36] Spitzer RL, Williams JB, Gibbon M, First MB. Structured clinical interview
+for DSM-IV. Washington: American Psychiatric Association, 1996.
+[37] Spitzer WO, LeBlanc FE, Dupuis M. Scientific approach to the
+assessment and management of activity-related spinal disorder. Spine
+1987;15:120–23.
+[38] Taylor CP. Mechanisms of analgesia by gabapentin and pregabalin—calcium
+channel a2-d [Cava2-d] ligands. PAIN 2009;142:13–16.
+[39] Turk DC, Dworkin RH, Allen RR, Bellamy N, Brandenburg N, Carr DB,
+Cleeland C. Core outcome domains for chronic pain clinical trials:
+IMMPACT recommendations. PAIN 2003;106:337–45.
+[40] Turner JA, Denny MC. Do antidepressant medications relieve chronic low
+back pain? J Fam Pract 1993;37:545–53.
+[41] Waddell G, Main CJ. Assessment of severity in low back disorders. Spine
+1984;9:204–8.
+[42] Wu YT, Lai MH, Lu SC, Chang ST. Beneficial response to gabapentin
+portraying with interval change of brain SPECT imaging in a case with
+failed back surgery syndrome. J Clin Pharm Ther 2011;36:525–8.
+[43] Yaksi A, Ozgonenel L, Ozgonenel B. The efficiency of gabapentin therapy
+in patients with lumbar spinal stenosis. Spine 2007;32:939–42.
+[44] Yildirim K, Sisecioglu M, Karatay S, Erdal A, Levent A, Ugur M, Senel K.
+The effectiveness of gabapentin in patients with chronic radiculopathy.
+Pain Clinic 2003;15:213–18.
+July 2016·Volume 157·Number 7 www.painjournalonline.com 1507
+Copyright  2016 by the International Association for the Study of Pain. Unauthorized reproduction of this article is prohibited.

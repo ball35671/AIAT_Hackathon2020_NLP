@@ -1,0 +1,565 @@
+Original article
+Self-management versus conventional management of oral anticoagulant
+therapy: A randomized, controlled trial
+Thomas D. Christensen a,*, Marianne Maegaard a
+, Henrik T. Sørensen b
+,
+Vibeke E. Hjortdal a
+, J. Michael Hasenkam a
+a Department of Cardiothoracic and Vascular Surgery and Institute of Clinical Medicine, Skejby Sygehus, Aarhus University Hospital,
+DK - 8200 Aarhus N, Denmark b Department of Clinical Epidemiology and Institute of Clinical Medicine, Aarhus University Hospital, DK - 8000 Aarhus C, Denmark
+Received 14 July 2005; received in revised form 12 November 2005; accepted 24 November 2005
+Abstract
+Background: The efficacy of self-managed oral anticoagulant therapy has been addressed in few randomized, controlled trials, which have
+provided inconsistent results. The aim of this study was to compare the quality of self-managed oral anticoagulant therapy with conventional
+management.
+Methods: This was a pragmatic, open-label, randomized, controlled trial where 100 patients receiving long-term oral anticoagulant therapy
+referred to a Danish clinic for self-management was randomized to either self-management of oral anticoagulant therapy (including a
+teaching program of self-management followed by 6 months of self-management) or 6 months of conventional management. The primary
+endpoint was an intention-to-treat analysis of a composite score combining the variance (median square of the standard deviation) of the
+International Normalized Ratio (INR) value (using a blinded control sample analyzed monthly by a reference laboratory), death, major
+complications, or discontinuation from the study. Secondary endpoints – assessed in per-protocol analyses – were the variance of the INR
+value (using the blinded control sample) and time within therapeutic INR target range using the standard INR values from the coagulometer
+and laboratory measurement.
+Results: There was no significant difference in the primary endpoint between the self-management and conventional management groups
+(composite score 0.16 vs. 0.24, respectively, p = 0.09). Self-management was significantly better (0.16 vs. 0.24, p = 0.003) with regard to the
+variance in a per-protocol analysis. The difference in time within therapeutic INR target range was not significantly better (78.7% vs. 68.9%,
+p = 0.14) using self-management.
+Conclusion: The quality of self-management of oral anticoagulant therapy is at least as good as that provided by conventional management.
+D 2006 European Federation of Internal Medicine. Published by Elsevier B.V. All rights reserved.
+Keywords: Coumarin; Anticoagulant; Blood coagulation; International normalized ratio
+1. Introduction
+Oral anticoagulation therapy with coumarin is prescribed
+as prevention and treatment to patients who have an
+increased risk of thromboembolism [1]. Since oral anticoagulation therapy increases the risk of bleeding, the
+therapy requires a balance between the risks of these two
+outcomes.
+Oral anticoagulation therapy is conventionally monitored
+by laboratory analysis of the International Normalized Ratio
+(INR) on plasma obtained by venipuncture. Based on the
+INR value, health care providers determine the appropriate
+dosage of coumarin.
+Despite close monitoring of therapy, thromboembolism
+and bleeding are common worries and account for a large
+proportion of the morbidity and mortality in these patients.
+Variable oral anticoagulation therapy is the most important
+0953-6205/$ - see front matter D 2006 European Federation of Internal Medicine. Published by Elsevier B.V. All rights reserved.
+doi:10.1016/j.ejim.2005.11.021
+* Corresponding author. Tel.: +45 8949 5486; fax: +45 8949 6016.
+E-mail address: tdc@ki.au.dk (T.D. Christensen).
+European Journal of Internal Medicine 17 (2006) 260 – 266
+www.elsevier.com/locate/ejim
+factor for mortality in patients with mechanical heart
+valves [2] and is responsible for approximately 75% of all
+the postoperative complications observed in these patients
+[3]. Low quality of oral anticoagulation therapy has also
+been shown in other groups of patients [4].
+Optimized oral anticoagulation therapy is thus likely to
+improve the quality of treatment [5,6]. A potential avenue of
+improvement is patient self-management, in which patients
+analyze a drop of blood in a portable coagulometer (INRmonitor) to decide on coumarin dosage. To date, nine
+randomized controlled trials of patient self-management
+have been conducted [3,7 – 14], three of which reported a
+statistically significant difference in favor of patient selfmanagement. The studies have primarily used surrogate
+outcomes, such as time within therapeutic INR target range,
+which is highly dependent on the frequency of testing, the
+therapeutic INR target range, and the method of calculation.
+Furthermore, it has recently been shown that time within
+therapeutic INR target range does not correlate well with the
+frequency of complications [13].
+Another measure of the treatment quality is the variability of the INR. Large variability is associated with an
+increased risk of complications [2,15,16].
+Often, the laboratory INR is compared to that measured
+by the coagulometer. Yet, using two different methods of
+measurement is misleading since the INR-result of the two
+methods deviate and the estimated deviation is, therefore,
+uninformative [17]. External INR control samples using the
+same method of estimating the INR with the same frequency
+of testing should, therefore, be used when comparing
+different types of management.
+In general, limitations of sample size, questionable
+measurement standardization, inappropriate control selection, randomization procedure, etc. make the interpretation of the existing reports of patient self-management
+difficult.
+Given conflicting evidence from previous trials, we
+wished to re-evaluate self-management for oral anticoagulation therapy. We hypothesized that self-management
+yields a better quality of treatment than the conventional
+management in eligible patients, and the aim of this study
+was to compare the quality of self-management with
+conventional management in a randomized, controlled
+trial.
+2. Materials and methods
+2.1. Study population
+Out of approximately 3 million inhabitants in western
+Denmark, an estimated 18,000 persons were prescribed oral
+anticoagulation therapy during the period from June 2002 to
+August 2003. Patients were potentially eligible for this study
+if they were referred for patient self-management by a
+general practitioner or hospital department to the Center of
+Self-Managed Oral Anticoagulation, Skejby Sygehus, Aarhus University Hospital. Inclusion criteria were: on oral
+anticoagulation therapy for at least 8 months, age more than
+18 years, and willingness to be randomized. Exclusion
+criteria were previous use of patient self-management and
+residence/travel abroad.
+Eligible and willing patients were evaluated for their
+ability to conduct patient self-management. The evaluation
+had four dimensions: physical health, mental suitability,
+interest in oral anticoagulation therapy, and expected level
+of compliance with patient self-management. All of the
+evaluations were performed and recorded with the patient
+present.
+The protocol for the study complied with the Helsinki II
+declaration and was approved by the local scientific ethics
+committee and The Danish Data Protection Agency. The
+patients were included after having given oral and written
+consent. The study was conducted according to good
+clinical practice (GCP) standards and was monitored and
+approved by the GCP-unit, Aarhus University Hospital,
+Aarhus, Denmark.
+2.2. Study design
+This was a pragmatic, open-label, randomized, controlled
+trial. Patients who were judged to be qualified for patient
+self-management were randomly assigned to patient selfmanagement or conventional management using a computerized, prospective, randomization schedule. Randomization
+in blocks with various sizes in numbers of 2, 4, and 6
+without blinding of allocation was used.
+The training for patient self-management is shown
+schematically in Fig. 1. First, the patient practiced analyzing
+blood specimens. The patient then gradually assumed
+management of the oral anticoagulation therapy, initially
+by suggesting the anticoagulant therapy dosage and
+subsequently by taking over the dosage adjustment followed
+by monitoring. After 27 weeks the patient were required to
+display their skills in an exam. If this test was passed, the
+patient was labeled self-managing. To resolve problems,
+patients were instructed to contact the Center of SelfManaged Oral Anticoagulation.
+Self-management patients reported their INR values and
+coumarin doses to the training center every 3rd month. The
+performance of each patient’s coagulometer was controlled
+by the patient approximately every 11th month and by the
+Department of Clinical Biochemistry, Skejby Sygehus,
+Aarhus University Hospital every 9th month.
+In the conventional management group, the physician or
+hospital that had managed the patient’s oral anticoagulation
+therapy before the patient was enrolled in the study
+continued their conventional management for the 6 months
+after enrollment. After these 6 months, these patients began
+training in patient self-management, and the patient completed participation in the study when she/he had passed the
+patient self-management exam.
+T.D. Christensen et al. / European Journal of Internal Medicine 17 (2006) 260 – 266 261
+2.3. Observation period
+The analysis focused on three time periods:
+1) 8– 12 months before randomization
+2) Primary observation period (6 months of either patient
+self-management or conventional management)
+3) Patient self-management training (27 weeks)
+There was a 6-month primary observation period; for the
+patient self-management subjects, this began immediately
+after successful completion of the patient self-management
+exam. For the conventional management subjects, it began
+immediately after randomization.
+2.4. INR-analysis methods and INR values
+Patients in the patient self-management group used the
+CoaguChek\ S coagulometer (Roche Diagnostics, Switzerland) equipped with CoaguChek\ PT-test strips. A finger
+puncture device (Softclix\) was used to release a drop (10 –
+25 Al) of capillary whole blood, which was applied to the
+test strip and inserted into the coagulometer. The INR value
+was displayed after 1– 2 min and recorded by the patient on
+a dedicated data sheet. INR was measured on the
+coagulometer once a week and these results were used by
+the patient to adjust the coumarin dosage.
+Patients in the conventional management group continued their pre-randomization routine consisting of at least
+monthly blood sampling either at the hospital laboratory
+nearest the patient’s home or with a coagulometer at a
+physician’s office. These results were used to adjust the
+coumarin dosage.
+In both groups, an additional (control) blood sample was
+taken once a month from each patient. This sample was sent
+the same day for INR analyses to the Department of Clinical
+Biochemistry, Skejby Sygehus, Aarhus University Hospital.
+A Behring Coagulation Timer (Behring Werke AG, Marburg, Germany) was used with Nycotest\ PT thromboplastin (Axis-Shield PoC AS, Oslo, Norway) with an ISI-value
+from 1.02 to 1.06.
+The result of these INR analyses was blinded for all
+except for one secretary who would ensure the safety of the
+patient by contacting the managing physician if the INR
+value was below 1.5 or above 4.5.
+If the patient temporarily stopped oral anticoagulation
+therapy or reduced the dose (e.g., because of surgery), the
+INR values were excluded from that time until 10 days after
+re-initiation of full oral anticoagulation therapy.
+Coumarin dose was expressed as mg/day. Warfarin
+(Marevan\) or phenprocoumon (Marcoumar\) was used
+as coumarin.
+2.5. Endpoint and statistical analysis
+Major complications were defined as thromboembolism
+and bleeding events requiring intervention. Death, major
+complications, and/or discontinuation of the study were
+reported to the investigator either by the patient or by the
+managing physician and were verified by medical records.
+The primary endpoint of the trial was a composite
+consisting of the variance (median square of the standard
+deviation) of the INR value from the monthly control
+sample plus ‘‘penalty points’’ for death, major complication,
+or study discontinuation. For deaths, major complications,
+and discontinuation, the points were set in the protocol to
+1000, 100, and 10, respectively. This was done during the
+training phase (27 weeks) and the 6-month primary
+observation period. If a patient randomized to conventional
+management dropped out during the training for patient selfmanagement (after the primary observation period), his/her
+variance was added to the patient self-management group.
+Thus, these dropouts negatively affected the result of the
+patient self-management group.
+Week number 0 3 6 9 12 15 18 21 24 27 30 33 36 39 42 45 48 51
+Hospital INR Weekly Every 3rd week Every 4th week None
+CoaguChek® INR Daily Weekly
+Anticipated skills Training Dose adjustment with
+approval first
+Dose adjustment with
+post-hoc supervision Self-management and report
+Teaching lesson X X X X
+Exam X
+Self control of the
+coagulometer X
+X External control of
+the coagulometer
+Fig. 1. Self-management of oral anticoagulant therapy training program. The patient starts with 3 weeks of daily INR measurements on the CoaguChek\
+coagulometer and by weekly hospital INR measurements. After these 3 weeks of daily training, INR measurements are made weekly and hospital INR
+measurements are obtained every 3rd or 4th week for another 24 weeks. In this 24-week period, co-responsibility for dosage adjustment is gradually transferred
+from physician to patient. Self-control analyses and external control of the CoaguChek\ coagulometer are made every 11th month and by the laboratory at the
+Department of Clinical Biochemistry, Skejby Sygehus, Aarhus University Hospital every 9th month, respectively.
+262 T.D. Christensen et al. / European Journal of Internal Medicine 17 (2006) 260 – 266
+The main secondary endpoint was the variance of the
+INR value in the control sample in a per-protocol analysis.
+Furthermore, time within therapeutic INR target range was
+estimated in the two trial arms using the coagulometer
+measurements in the patient self-management group and the
+laboratory measurements in the conventional management
+group.
+In the primary analysis, the data were analyzed by
+intention-to-treat, and the secondary analysis was perprotocol. The Mann –Whitney U-test was used to compare
+groups, and the Wilcoxon W-test was used to compare
+paired data. We considered a p level below 0.05 (two-tailed)
+to be statistically significant.
+As the variance of the INR values in our population was
+unknown, we estimated sample size using the time within
+therapeutic INR target range, which was expected to be
+approximately 77% in the patient self-management group
+and 67% in the conventional management group with a
+standard deviation of 15% [18]. In order to detect this
+difference with a type I error of 0.05 and 80% power, 36
+patients were needed. Due to the short follow-up and an
+anticipated failure of some patients to complete patient selfmanagement training, 50 patients in each group were
+considered appropriate.
+3. Results
+3.1. Patients
+Two hundred and forty patients were referred to the
+Center of Self-Managed Oral Anticoagulation for patient
+self-management from 1 May 2002 to 6 August 2003, and
+100 patients were randomized. Baseline demographics in
+the two treatment groups are displayed in Table 1. We
+excluded 140 patients for the following reasons: not on oral
+anticoagulation therapy for at least 8 months (n = 77), age
+under 18 years (n = 9), previous use of patient selfmanagement (n = 3), refusal to participate (n = 18), no
+response from the patient after referral (n = 5), residence/
+travel abroad (n = 6), unqualified for patient self-management (n = 15; 13% of all the patients assessed), and other
+reasons (n = 7).
+In the patient self-management arm, three patients
+dropped out: one during the training period (withdrawn
+by the treating physician), one patient during patient selfmanagement training, and one patient died during the
+primary observation period. In the conventional management arm, one patient was withdrawn by the treating
+physician in the primary observation period and four
+patients dropped out during patient self-management
+training. The two patients withdrawn by physicians were
+excluded from the analysis. Thus, 98 patients were
+included in the primary endpoint analysis and 92 were
+included in the secondary endpoint analysis. Time within
+therapeutic INR target range was estimated using data
+from 90 patients since 2 patients in the conventional
+management group only had one INR sample taken. No
+major complications occurred. All patients remaining in
+the study passed the patient self-management exam after
+27 weeks.
+3.2. INR values and coumarin dosage
+The total number of INR measurements in the primary
+observation period is shown in Table 2.
+Four patients had their oral anticoagulation therapy
+suspended or reduced in dose, and their INR values were
+excluded for a total of 80 days.
+Patients who had changed the type of coumarin
+preparation within 1 year before randomization and those
+with a therapeutic INR target range other than 2.0 – 3.0 were
+excluded from this analysis. The only significant difference
+was observed with regard to warfarin in the patient selfmanagement group, where the dose was significantly
+Table 1
+Baseline data
+Variable Conventional
+management
+(n = 50)
+Self-management
+(n = 50)
+Gender
+Male 30 37
+Female 20 13
+Age, mean (SD), years 45.5 (13.3) 51.6 (14.0)
+Indication for OAT
+Mechanical heart valve 18 17
+Atrial fibrillation 12 12
+Coagulopathies 14 13
+Recurrent arterial thromboembolism 2 3
+Recurrent venous thromboembolism 3 5
+Synthetic vascular graft 1 0
+Duration of prior oral anticoagulant
+therapy, mean (SD), monthsa
+66 (49.2) 67 (53.2)
+Target INR value
+2.0 2 0
+2.5 43 45
+3.0 4 4
+3.25 1 1
+OAT medication
+Warfarin (Marevan\) 35 35
+Phenprocoumon (Marcoumar\) 15 15
+Management of OAT
+GP 47 46
+HOC 3 3
+HSAC 0 1
+History of major thromboembolismb 4 1
+History of major bleedingb 4 5
+All data are stated at the date for randomization. GP, general practitioner;
+HOC, hospital outpatient clinics; HSAC, highly specialized anticoagulation
+clinics; INR, international normalized ratio; OAT, oral anticoagulant
+therapy; SD, standard deviation.
+a The time since the patient were prescribed long-term/life-long oral
+anticoagulant therapy.
+b Major events defined as an event necessitating physician treatment/
+assessment, had occurred up to 5 years before the date of randomization,
+and had occurred after the patient was prescribed long-term/life-long oral
+anticoagulant.
+T.D. Christensen et al. / European Journal of Internal Medicine 17 (2006) 260 – 266 263
+increased during the training and primary observation
+periods compared to the pre-randomization period (Table 3).
+3.3. Outcome
+Among the 98 patients included in the primary
+analysis, the median values of the composite endpoint
+in the patient self-management and conventional management groups were 0.16 and 0.24, respectively ( p = 0.09).
+Among the 92 patients included in the secondary analysis,
+the median values of the secondary endpoint in the patient
+self-management arm (n = 47) and conventional management arm (n = 45) were 0.16 and 0.24, respectively
+( p = 0.003). Time within therapeutic INR target range in
+the patient self-management and conventional management group was 78.7% and 68.9%, respectively ( p = 0.14;
+Table 2).
+The variance of the control sample was reduced
+significantly in the conventional management group after
+shifting from conventional management to training for
+patient self-management. In the patient self-management
+group, a non-significant reduction in the variance was
+observed after shifting from training to patient selfmanagement (Table 4).
+4. Discussion
+Using a composite endpoint in the intention-to-treat
+analysis, we found the quality of oral anticoagulation
+therapy using patient self-management to be comparable
+to conventional management. In the per-protocol analysis,
+the difference favoring patient self-management was statistically significant.
+In the conventional management group, a reduction in
+variance of INR was observed when patients underwent
+training for patient self-management. In the patient selfmanagement group, a reduction in variance was found after
+the shift from training to the period of patient selfmanagement (Table 4). The patients referred to our clinic
+comprised a selected group with various indications for oral
+anticoagulation therapy. All patients were evaluated for
+patient self-management and only those deemed qualified
+were then randomized. By enrolling only patients qualified
+for patient self-management, we avoided mixing of the
+effects of patient qualification with those of the procedures
+under study.
+The ideal outcome in oral anticoagulation therapy studies
+is the incidence of major complications and mortality, but
+such studies require large numbers of patients and a long
+follow-up. In this trial we used a composite endpoint
+consisting of both surrogate and clinical outcomes. Owing
+to the serious drawbacks of time within therapeutic INR
+target range, we used the variance of the INR value as an
+indicator of the treatment quality and included a blinded
+control sample. The frequency of sampling was equal in the
+two study arms, and the INR values in blood samples were
+obtained by the same laboratory at a short enough interval
+(< 24 h) to have no significant effect on the INR [19,20]. Of
+the two studies with relatively large numbers of patients
+[3,13], only the study by Ko¨ rtke and Ko¨ rfer [3] was
+powered to detect a difference in the number of complications. They reported a significant reduction in complications
+Table 2
+Endpoints, primary observation period
+Parameter Conventional management Self-management p-value
+Observation time, mean (SD), days 184 (12.5) 180 (5.2)
+Number of control samples per patient, mean (SD) 6.51 (1.06) 6.11 (1.15)
+Primary endpoint, median (95% CI) 0.24 (0.15 – 0.41) 0.16 (17.9 – 57.8) 0.09
+Secondary endpoint, median (95% CI) 0.24 (0.15 – 0.41) 0.16 (0.10 – 0.20) 0.003
+Number of coagulometer and laboratory samples per patient, mean (SD) 8.70 (5.02) 26.26 (6.26)
+Time within therapeutic INR target range, median (95% CI) 68.9% (59.3 – 78.2%) 78.7% (69.2 – 81.0%) 0.14
+Number of INR measurements is based on those from the per-protocol analysis.
+The Mann –Whitney U-test was used to compare the two groups.
+CI, confidence interval; INR, international normalized ratio; OAT, oral anticoagulant therapy; SD, standard deviation.
+Table 3
+Coumarin dosage
+Parameter Conventional
+management
+(warfarin:
+n = 27 and
+phenprocoumon:
+n = 9)
+Self-management
+(warfarin:
+n = 29 and
+phenprocoumon:
+n = 10)
+Warfarin, mean (SD), mg/day
+Before randomization 6.36 (2.69) 5.26 (2.69)
+Training period 6.37 (2.25) 5.72 (2.94)*
+Primary observation
+period
+6.29 (2.30) 5.72 (2.93)*
+Phenprocoumon,
+mean (SD), mg/day
+Before randomization 2.39 (0.80) 2.86 (0.93)
+Training period 2.29 (0.96) 3.06 (1.08)
+Primary observation
+period
+2.28 (0.91) 3.06 (1.09)
+Wilcoxon’s W-test was used to compare the difference between the periods
+within each group.
+All comparisons were non-significant, except for those marked with *;
+warfarin in the self-managed group changed significantly when comparing
+before randomization to training ( p = 0.009) and when comparing before
+randomization to the primary observation period ( p = 0.03).
+SD, standard deviation.
+264 T.D. Christensen et al. / European Journal of Internal Medicine 17 (2006) 260 – 266
+in patient self-management compared to conventional
+management. However, this study had several limitations,
+including important deviations to the Consolidated Standards of Reporting Trials (CONSORT) guidelines [21] and
+failure to account for dropouts.
+Mene´ndez-Ja´ndula et al. [13] recently reported a dropout
+rate of 21%, and the dropouts were not accounted for in the
+statistical analysis. In our study, the dropout rate was
+approximately 5%. Including the dropout patients in the
+statistical analysis helps avoid overestimation of the positive
+effect of patient self-management in the primary endpoint.
+Owing to the 27-week training period and to prospective
+inclusion of patients, there was a time gap regarding
+intervention. This might have resulted in frustration among
+patients randomized to conventional management since they
+had been referred for patient self-management. This could
+have lowered the quality of conventional management and
+early dropout rate from that arm. We estimated that a 6-
+month follow-up period was the longest we could achieve
+without generating a reluctance of potential subjects to take
+part.
+The patients in our study were specifically referred for
+patient self-management, indicating that they had been prescreened with respect to motivation for patient selfmanagement. We do not know what proportion these
+patients constitute of the typical oral anticoagulation therapy
+patient population.
+The change in dose of warfarin in the patient selfmanagement group could have been due to chance, to
+imprecision of the coagulometer used, or to the fact that
+patients randomized to patient self-management aimed for a
+more intense anticoagulation (i.e., a higher INR). This
+finding calls for further investigation.
+There are probably several reasons why a patient selfmanagement group performs at least as well as a group of
+patients under conventional management. The former group
+receives more detailed information about oral anticoagulation therapy and the influence of diet, infectious diseases,
+alcohol, drug interactions, etc. on oral anticoagulation
+therapy than is practically feasible for an average health
+care provider. At this point, large, well-designed, randomized, controlled trials using clearly defined clinical endpoints are needed to thoroughly investigate patient selfmanagement.
+Acknowledgements
+This study has been financially supported by grants from
+The Danish Heart Foundation (grant no. 02-2-3-35-22017),
+Snedkermester Sophus Jacobsen og hustru Astrid Jacobsens
+Fond, Fonden til Lægevidenskabens Fremme (A.P. Møller
+og Hustru Chastine Mc-Kinney Møllers Fond til almene
+Formaal), Skejby Sygehus’ Forskningspulje, Elin Holms
+Forskningspulje, Carl og Ellen Hertz’s Legat til Dansk
+Læge-og Naturvidenskab and Direktør Jacob Madsen and
+hustru Olga Madsens Fond.
+The authors are grateful to the Department of Clinical
+Biochemistry, Skejby Sygehus, Aarhus University Hospital,
+for the analysis of the external INR measurements and for
+conducting the quality control of the monitors. The
+secretaries Annette Strandbo Jensen and Linda Nielsen
+from the Department of Cardiothoracic and Vascular
+Surgery were of great help in conducting this study.
+References
+[1] Hirsh J, Dalen J, Anderson DR, Poller L, Bussey H, Ansell J, et al.
+Oral anticoagulants: mechanism of action, clinical effectiveness, and
+optimal therapeutic range. Chest 2001;119(1 Suppl):8S – 21S.
+[2] Butchart EG, Payne N, Li HH, Buchan K, Mandana K, Grunkemeier
+GL. Better anticoagulation control improves survival after valve
+replacement. J Thorac Cardiovasc Surg 2002;123(4):715 – 23.
+[3] Ko¨ rtke H, Ko¨ rfer R. International normalized ratio self-management
+after mechanical heart valve replacement: is an early start advantageous? Ann Thorac Surg 2001;72(1):44 – 8.
+[4] Holm T, Lassen JF, Husted SE, Christensen P, Heickendorff L. A
+randomized controlled trial of shared care versus routine care for
+patients receiving oral anticoagulant therapy. J Intern Med 2002;
+252(4):322 – 31.
+[5] Ansell JE, Hughes R. Evolving models of warfarin management:
+anticoagulation clinics, patient self-monitoring, and patient selfmanagement. Am Heart J 1996;132(5):1095 – 100.
+[6] Errichetti AM, Holden A, Ansell J. Management of oral anticoagulant
+therapy. Experience with an anticoagulation clinic. Arch Intern Med
+1984;144(10):1966 – 8.
+[7] Sawicki PT. A structured teaching and self-management program for
+patients receiving oral anticoagulation: a randomized controlled trial.
+Working group for the study of patient self-management of oral
+anticoagulation. JAMA 1999;281(2):145 – 50.
+[8] Cromheecke ME, Levi M, Colly LP, Mol BJM, Prins MH, Hutten BA,
+et al. Oral anticoagulation self-management and management by a
+specialist anticoagulation clinic: a randomised cross-over comparison.
+Lancet 2000;356(9224):97 – 102.
+Table 4
+Variance of INR under the training period compared to the primary observation period
+Parameter Training period Primary observation period p-value
+Conventional management
+Number of measurements per patient, mean (SD) 8.15 (3.98) 6.51 (1.06)
+Variance, median (95% CI) 0.20 (0.14 – 0.36) 0.24 (0.15 – 0.41) 0.03
+Self-management
+Number of measurements per patient, mean (SD) 7.45 (1.23) 6.11 (1.15)
+Variance, median (95% CI) 0.19 (0.12 – 0.25) 0.16 (0.10 – 0.20) 0.32
+Wilcoxon’s W-test was used to compare the difference between the periods within in each group.
+CI, confidence interval; SD, standard deviation.
+T.D. Christensen et al. / European Journal of Internal Medicine 17 (2006) 260 – 266 265
+[9] Horstkotte D, Piper C, Schulte HD, Schultheiss HP. Improvement of
+prognosis by home prothrombin estimation in patients with life-long
+anticoagulant therapy. Eur Heart J 1996;17:230 [suppl].
+[10] Fitzmaurice DA, Murray ET, Gee KM, Allan TF, Hobbs FD. A
+randomised controlled trial of patient self management of oral
+anticoagulation treatment compared with primary care management.
+J Clin Pathol 2002;55(11):845 – 9.
+[11] Sidhu P, O’Kane HO. Self-managed anticoagulation: results from a
+two-year prospective randomized trial with heart valve patients. Ann
+Thorac Surg 2001;72(5):1523 – 7.
+[12] Gadisseur AP, Breukink-Engbers WG, van der Meer FJ, Van den
+Besselaar AM, Sturk A, Rosendaal FR. Comparison of the quality of
+oral anticoagulant therapy through patient self-management and
+management by specialized anticoagulation clinics in the Netherlands: a randomized clinical trial. Arch Intern Med 2003;163(21):
+2639 – 46.
+[13] Menendez-Jandula B, Souto JC, Oliver A, Montserrat I, Quintana M,
+Gich I, et al. Comparing self-management of oral anticoagulant
+therapy with clinic management: a randomized trial. Ann Intern Med
+2005;142(1):1 – 10.
+[14] Sunderji R, Gin K, Shalansky K, Carter C, Chambers K, Davies C,
+et al. A randomized trial of patient self-managed versus physicianmanaged oral anticoagulation. Can J Cardiol 2004;20(11):1117 – 23.
+[15] Fihn SD, McDonell M, Martin D, Henikoff J, Vermes D, Kent D,
+et al. Risk factors for complications of chronic anticoagulation. A
+multicenter study. Warfarin optimized outpatient follow-up study
+group. Ann Intern Med 1993;118(7):511 – 20.
+[16] Poli D, Antonucci E, Gensini GF, Abbate R, Prisco D. Asymptomatic
+excessive coumarin anticoagulation is a risk factor for thrombotic and
+bleeding complications of oral anticoagulant therapy. J Thromb
+Haemost 2003;1(8):1840 – 1.
+[17] Christensen TD. Self-management of oral anticoagulant therapy: a
+review. J Thromb Thrombolysis 2004;18(2):127 – 43.
+[18] Christensen TD, Attermann J, Pilegaard HK, Andersen NT,
+Maegaard M, Hasenkam JM. Self-management of oral anticoagulant
+therapy for mechanical heart valve patients. Scand Cardiovasc J
+2001;35(2):107 – 13.
+[19] McGlasson DL. A review of variables affecting PTs/INRs. Clin Lab
+Sci 1999;12(6):353 – 8.
+[20] Adcock D, Kressin D, Marlar RA. The effect of time and temperature
+variables on routine coagulation tests. Blood Coagul Fibrinolysis
+1998;9(6):463 – 70.
+[21] Moher D, Schulz KF, Altman DG. The CONSORT statement: revised
+recommendations for improving the quality of reports of parallelgroup randomized trials. Ann Intern Med 2001;134(8):657 – 62.
+266 T.D. Christensen et al. / European Journal of Internal Medicine 17 (2006) 260 – 266

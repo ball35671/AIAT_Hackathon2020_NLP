@@ -1,0 +1,969 @@
+﻿Summary
+Low level laser therapy (LLLT) has been used in the treatment of wounds.
+Issues related to use of the technology in this application are definition of
+standard protocols and evidence of effectiveness.
+Low level lasers most commonly used for wound treatment are the gallium
+arsenide (GaAs), gallium aluminum arsenide infrared semiconductor
+(GaAlAs) and the helium neon (HeNe) devices.
+Differences exist in the delivery of LLLT. Variables include pulse rate,
+duration of treatment, applicator placement (contact or non-contact),
+wavelengths and spot size.
+To date, neither Health Canada nor the U.S. Food and Drug Administration
+has approved low energy lasers for use in wound healing.
+A systematic review of the literature indicates that the efficacy of LLLT in this
+application is not established. There is no good scientific evidence to support
+its use.
+Any local use of LLLT in this application should be supported by empirical
+data from good quality studies of its efficacy and effectiveness.
+Other, possibly more promising alternative therapies should be considered as
+adjunct therapies to conventional wound healing practices.
+2
+Introduction
+A request for information about the use of low level laser therapy (LLLT) to
+assist wound healing was received from the Capital Health Authority (CHA).
+This technology has been increasingly used within the Edmonton area, with
+somewhat different approaches being taken by individual operators. The
+concern was whether there was any scientific evidence to show the effectiveness
+of LLLT in accelerating the wound healing process. As well, the CHA was
+lacking formalized protocols that would detail dosage parameters and proper
+timing or sequencing of laser exposure to the various phases of wound healing.
+There is controversy surrounding the use of LLLT in this application. This
+technology assessment focuses on the efficacy, effectiveness and safety of the
+approach in general terms and as it pertains to medical practice in Alberta.
+Economic aspects of LLLT used to accelerate wound healing are beyond the
+scope of this study.
+The methodology used in the assessment is outlined in Appendix A. Only
+clinical studies were considered.
+Low level laser therapy, also known as low intensity and low power therapy, is
+considered to work through a photochemical response to laser light that induces
+biochemical alterations in cells, leading to physiological changes. Several
+authors suggest that the laser radiation has a wavelength-dependent capability
+to alter cellular processes without significant heating (2, 10, 11, 20, 32). It is this
+characteristic that therapists make use of when applying low level laser therapy
+to accelerate wound healing. The cellular response to laser light coined the terms
+„photobiology‟ and „biostimulation‟ (11)
+.
+The clinical use and research in low energy lasers owe much of their popularity
+to work begun in Hungary and other eastern European countries in the
+mid-1960s. Accelerated wound healing was one of the first effects reported by
+early investigators. Early laser therapy reports were enthusiastic and anecdotal,
+but contained no clear mechanism of action.
+Although laser therapy remains on the fringes of Canadian medicine, general
+interest has increased as determined by the increased volume of current
+literature available (25). A review article written in 1995 describes the
+controversial use of low intensity laser irradiation in clinical settings. Use of this
+therapy stems from the favourable results shown in laboratory studies. It is here
+that the scientific rationale of laser therapy first gave an impression of the
+influences that laser irradiation can have on cellular processes (2)
+.
+3
+Description of LLLT technology
+The types of laser therapy devices used for LLLT are shown in Table 1 and
+include the gallium arsenide, gallium aluminum arsenide infrared
+semiconductor lasers (GaAs and GaAlAs, respectively) and the helium neon
+laser (HeNe). Despite similarities of dose and a convergence in laser choice,
+significant differences persist between treatment approaches. These differences
+include pulse rate, applicator placement (contact or non-contact), and the use of
+a single wavelength or a combination of wavelengths. Also of potential
+importance are the irradiance (power/unit area), beam divergence, spot size,
+delivery (fiber optic, direct), polarity, and for pulsed devices, pulse duration and
+duty cycle. Reported individual treatment times range anywhere from 35
+seconds to 20 minutes. Any protocol development of laser therapy should
+preferably include consideration of all these parameters as well as information
+about site preparation, technique and number of treatments (2, 10, 11)
+.
+The lasers listed in Table 1 are those most commonly used for LLLT. The
+therapy is often used in combination with other alternative therapies such as
+ultraviolet light, ultrasound or hyperbaric oxygen (see Table 2). The uses of
+concurrent therapies make it difficult to frame a definitive statement on the
+effects of laser therapy alone.
+Table 1: Low level lasers in clinical use for wound healing
+Laser type Wavelength Indications treated
+Helium neon (HeNe) 632.8 nm soft tissue wounds, arthritis
+Gallium arsenide (GaAs) 904 nm soft tissue wounds
+Gallium aluminum
+arsenide (GaAlAs)
+820, 830 nm soft tissue wounds
+Regulatory considerations
+The Health Protection Branch in Canada and the Food and Drug Administration
+(FDA) in the U.S. were contacted about regulatory status for low level lasers used
+for wound healing.
+Health Canada
+In Canada, low lever lasers are regulated as Class 2 or Class 3(a) devices under
+standards such as those written by the Canadian Standards Association (CSA),
+the American National Standards Institute (ANSI) and Underwriters
+Laboratories (UL). Such standards address laser safety in health care facilities,
+medical electrical equipment, and safety of diagnostic and therapeutic laser
+equipment. In Canada, lasers have not been approved for use in wound healing.
+Health Canada Device Licensing staff request a Device Evaluation Division 
+4
+Opinion before licensing a device for a novel indication such as promoting
+wound healing. The Regulations state that clinical data are required in support
+of efficacy prior to licensing. They also define the requirements for carrying out
+clinical trials in Canada.
+U.S. Food and Drug Administration
+In the United States, medical lasers must have premarket approval or premarket
+clearance from the FDA prior to marketing for any claimed human indication,
+unless specifically exempted by the FDA. To date, the FDA has approved no
+biostimulation laser therapy devices for humans; therefore, it is illegal in the U.S.
+to make any claims of clinical effectiveness. The Office of Compliance has issued
+notifications and warnings to firms suspected of illegally marketing these
+devices with claims of effectiveness. Low level laser units cannot be introduced
+into commerce legally for human treatment, unless via an Investigational Device
+Exemption or with Institutional Review Board approval.
+Although there appear to be no safety concerns regarding low level lasers, they
+have not received regulatory approval from Health Canada or the FDA as a
+therapy to accelerate wound healing.
+Evidence of efficacy and effectiveness
+Best evidence
+The Cochrane Wound Group Trials Register identified four RCTs of laser
+therapy pertaining to treatment of venous leg ulcers (3, 7, 10, 21, 22). Each of the
+studies contained very small numbers of participants with group sizes varying
+between 15 to 23. All patients were deemed to have venous leg ulceration,
+though none of the trials reported the diagnostic criteria. The results of the
+studies suggested that there were no improvements in the healing rate of venous
+ulcers with the use of low level laser therapy. The only suggestion of therapeutic
+benefit was shown in one small RCT where a combination of laser and infrared
+light led to an improvement in the healing rates of venous ulcers (3). The
+Cochrane Review stated that more research is needed before a clear direction for
+medical practice is identified (10)
+.
+In the literature search undertaken for the present assessment, a further six
+primary studies of LLLT effectiveness for wound healing were identified (14, 15, 20,
+24, 28, 30) and are summarized in Table 2. They include a non-randomized
+controlled prospective study, two randomized controlled trials, a prospective
+comparative study and two non-controlled clinical series. Although two of these
+investigations had the potential to provide a good level of scientific evidence, the
+numbers of subjects were small and/or variables were uncontrolled.
+5
+Table 2: Studies of LLLT on open wounds
+Study Patient characteristics Therapy Outcomes Comments
+Gogia et al. (14)
+Non-randomized,
+controlled, prospective
+study
+1992
+n=12
+Control group:
+n=6
+Age: 63.0 ( 12.8 y)
+Experimental group:
+n=6
+Age: 58.5 ( 12.8 y)
+Ulcer duration: min. 8 wks
+Both groups: sterile whirlpool with
+Betadine at 100 F, followed by
+sterile saline wet-to-dry dressings
+covered with gauze and cotton mesh
+wrapping.
+Experimental group also received
+HeNe laser at 632.8 nm and 1 mW
+power output, energy density of 2
+J/cm2 before dressings were applied.
+Both groups were administered to
+once daily, five days per week for 20
+trtmts. Time duration of each laser
+session not given.
+Overall healing of the wound
+area was slightly greater in the
+control group as compared to the
+experimental group. There was
+no significantly accelerated
+healing of the lower leg/foot
+ulcers treated with HeNe laser.
+The findings of this study failed
+to show an enhanced rate of
+wound healing with HeNe laser
+stimulation. Further controlled
+clinical studies on a large
+number of patients are needed to
+warrant the clinical efficacy of
+low-energy lasers in enhancing
+wound healing in humans.
+Poor level of scientific evidence,
+very small patient sample*.
+Telfer et al (30)
+Clinical series
+[to define and obtain
+technical data in order
+to conduct future
+double-blind, placebocontrolled study, see
+Gupta et al. (15)]
+1993
+n=12
+(15 ulcers, venous insufficiency,
+post-traumatic, pressure and
+burn origin)
+Age: 35-96 y
+Ulcer duration: 4 wks to 50 y
+Patients were treated with low
+energy photon therapy (LEPT) as an
+add-on modality to conventional
+treatment.
+LEPT administered with a microprocessor-controlled device to
+provide adequate laser parameters.
+- 22 red-head provided 6mW power,
+dose 4-6 J/cm2
+- 7 infrared-head provided 12 mW
+power, dose 4 J/cm2.. Time duration
+of each laser session not given.
+Outpatients treated 3X/wk, inpatients
+5X/wk. Number of trtmts appeared to
+depend on ulcer size and healing
+rate depended on number of
+sessions rather than on the total
+course duration.
+Thirteen ulcers (87%) completely
+healed, two decreased in size by
+75%. Smallest ulcer healed after
+5 sessions, a larger, 3-cm ulcer
+healed after 25 sessions. One
+ulcer (9-cm X 2-cm) required two
+courses, separated by one
+month, of 30 sessions each.
+Abstract only.
+Authors state that based on this
+pilot study a double blind study
+will be initiated.
+6
+Table 2: Studies of LLLT on open wounds, con’t
+Study Patient characteristics Therapy Outcomes Comments
+Nussbaum et al. (24)
+RCT
+1994
+n=20
+(pressure ulcers in spinal cord
+injury (SCI) patients)
+Control group: n=9
+Age: 36 y
+US/UVC group: n=5
+Age: 42.2 y
+Laser group: n=6
+Age: 42 y
+Control group: All patients received
+wound cleansing 2X daily using
+Hygeol (1:20), and (moist) Jelonet
+dressings.
+US/UVC group: US applied to skin
+surrounding wound for 5 min per 5
+cm2
+of wound area, frequency of 3
+MHz and a SATA intensity of 0.2
+W/cm2
+(1:4 pulse ratio). US
+treatment was alternated daily for 5
+days/wk with UVC applied using a
+cold-quartz lamp. Time and distance
+of UVC treatment was dependent on
+wound surface appearance.
+Laser group: Treatment was applied
+3X/wk in contact, probe centered
+over the wound using a 820 nm
+diode and 30 superluminous diodes
+at 660, 880 and 950 nm, 120
+mW/cm2
+, pulse repetition rate at
+5,000 pps, energy density at 4J/cm2
+for 35 s, 3X per week.
+Four patients did not complete
+the study (1 laser, 1 control, 2
+elected to have surgery to repair
+wounds).
+Healing rate was not equal under
+the treatment conditions used.
+There was a significant
+difference in rate of healing
+between the laser and US/UVC
+groups. There was no significant
+difference between the control
+group and the other 2 groups.
+Laser treatment had no benefit
+for wound healing in SCI
+patients. Three patients showed
+deterioration, judged by an
+increase in ulcer size.
+Deterioration was also recorded
+for 1 control group patient and
+one US/UVC patient.
+Authors point out a limitation of
+this study; it did not compare
+outcomes of combining wound
+care with placebo US or laser
+treatment. Because the US/UV
+regimen involves daily treatment,
+a placebo effect should be
+considered in further work, and
+the combined regimen should be
+compared with either UVC or US.
+As well, these methods need to
+be tested on other patient
+populations and should be
+extended to a larger number of
+patients in a placebo-controlled
+trial.
+Fair level of scientific evidence,
+small patient sample and
+uncontrolled variables.
+Shuttleworth et al. (28)
+Prospective
+comparative study of
+laser and conventional
+wound therapies
+(non-randomized)
+1997
+n=14
+Age: 76.3 y
+Control group: n=8, 1 diabetic
+patient
+Laser group: n=6, 2 diabetic
+patients. (Three patients
+ultimately received both laser
+and conventional treatment
+during the trial.)
+Leg ulcers caused by a variety of
+conditions.
+Study period: 15 wks/patient
+Control group: Conventional wound
+care and dressings in accordance
+with the local wound management
+policy. [On ethical grounds patients
+could not be restricted to only one
+treatment method.]
+Laser group: Each laser therapy
+session was a maximum of 4 min.
+using a 46-cluster probe and 2
+sources of low-power laser: HeNe at
+632.8 nm and infrared laser at 904
+nm, 4 J/cm2
+. Patients received
+treatment and dressings twice a
+week.
+Control group: All patients
+showed improvement.
+Laser group: Three patients
+showed improvement or healed
+and three deteriorated.
+The results of this study neither
+support nor refute the use of lowpower laser therapy in wound
+management. Further studies
+should incorporate a larger
+sample size and actively control
+or eliminate variables such as
+the size of wounds.
+Laser therapy should not be
+recommended for use in routine
+wound treatment until more
+specific evidence is available.
+Fair to poor level of scientific
+evidence, very small patient
+sample.
+7
+Table 2: Studies of LLLT on open wounds, con’t
+Study Patient characteristics Therapy Outcomes Comments
+Landau (20)
+Non-controlled clinical
+series
+1998
+n=50 (patients had chronic
+diabetic foot ulcers and had not
+responded to conventional
+therapy)
+Age: 59 y ( 11 y)
+Diabetes:
+Type 1: 14
+Type 2: 36
+Ulcer duration: 9 6.6 mo
+Range: 2 - 70 mo
+All patients continued their
+medications and antibiotic
+treatment was administered
+according to the sensitivity of the
+microorganism.
+HBO group: 15 patients
+HBO and Laser group: 35 patients
+Unilaser Scan 60, 2 sources of laser:
+HeNe at 632.8 nm and infrared
+laser at 904 nm, 4 J/cm2
+.
+Treatment: HBO-2.5 h, laser 20 min,
+2 – 3 X per week
+No of treatments: 25 13
+Range:7 – 70
+Duration: 3 1.8 mo
+Range: 1 – 8
+Complete recovery: 43
+Failure: 7
+There was no significant
+difference between groups.
+Authors state that topical
+hyperbaric oxygen alone or
+combined with a low level energy
+laser for the treatment of patients
+with chronic diabetic foot ulcers
+were valuable adjuvants to
+conventional therapy.
+Poor level of scientific evidence
+Gupta et al. (15)
+Double-blind, placebocontrolled study
+1998
+n=9
+(12 venous ulcers)
+Control group
+Age: 64.7( 9.4 y)
+Ulcer duration: 36.0 21.6 wks
+Intervention group
+Age: 61.0( 7.8 y)
+Ulcer duration: 105.8 36.0 wks
+Control group: placebo treatment
+received sham therapy from
+identical-appearing light sources,
+from the same delivery system.
+Intervention group: Two
+monochromatic optical sources:
+one (red-light) source-660 nm used
+over ulcer for 180s.
+second (infrared) source-880 nm
+used on periphery of ulcer for 30s.
+Trtmts were 3X/wk, for 10 wks.
+Configuration used gave optimum
+coverage over wound areas.
+Unhealed ulcers in control group:
+84.7%. Decrease in ulcer area
+(compared to baseline):
+14.7 mm2
+. One patient dropped
+out of the study after 3 wks.
+Unhealed ulcers in intervention
+group: 24.4%. Decrease in ulcer
+area (compared to baseline):
+193.0 mm2
+.
+A randomization bias was found
+toward the placebo group, ulcers
+were of a significantly shorter
+duration.
+There were no adverse effects.
+Authors state that despite the
+bias LEPT was an effective
+modality for the treatment of
+venous leg ulcers.
+Fair level of scientific evidence,
+very small patient sample.
+HBO=hyperbaric oxygen HeNe=helium neon = wavelength US=ultrasound UVC=ultraviolet-C
+SATA=spacial average-temporal average * Jovell and Navarro-Rubio, reference 16
+8
+Telfer et al. (30) completed their pilot study in order to more precisely define
+technical characteristics of low energy photon therapy to be used in a future
+placebo-controlled, double-blind study. This study was later completed and is
+included in Table 2 (15)
+.
+Gogia et al. (14) state that it is the favourable results in animal studies that have
+prompted researchers to try LLLT on humans. They point out that this logic fails
+when the type of wound is considered; a surgically-induced lesion versus a
+pressure sore. The healing process for these two types of wounds is very
+different and cannot be compared. They suggest the need to establish the laser
+parameters to produce optimal benefit and that guidelines are needed to
+establish treatment frequency.
+Nussbaum et al. (24) affirm that evaluation of different approaches to wound
+healing is complicated by the heterogeneous nature of the population of patients
+who have chronic wounds.
+In the article by Shuttleworth and Banfield (28) the laser type is not specified and
+the dressings are not described. Hence comparison with other studies is difficult.
+The authors suggest that the marked improvement in the control group may be
+partly explained by the Hawthorne effect whereby inclusion of individuals in a
+study can promote the desired outcome. However, one would expect the newer
+laser treatment to be influenced by this variable rather than the control
+treatment.
+In the Landau study the topical oxygen was applied to the wounds by pumping
+oxygen into a disposable polyethylene bag 100 cm long and 60 cm wide. The bag
+was sealed on the open end by an elastic bandage. The benefit of topical oxygen
+or topical oxygen combined with laser treatment cannot be confirmed, as there
+was no comparison with conventional therapy. As well, topical use of oxygen,
+outside a hyperbaric oxygen (HBO) chamber, does not affect oxygen tension past
+the depth of the superficial dermis (25). While the Landau study refers to topical
+oxygen treatment as “HBO”, true HBO therapy places the patient in a
+pressurized, pure oxygen environment and follows a specific and wellestablished protocol (Searles, personal communication).
+The paper by Gupta et al. had the potential to provide a good level of scientific
+evidence about efficacy of laser therapy as it outlined a study that was
+randomized, double-blind and placebo-controlled. However, the patient
+numbers were very small.
+None of these studies establish the efficacy of the technique.
+9
+Other evidence of effectiveness
+Information collected by the Physical Therapy Department at the University of
+Delaware discusses both evidence of effectiveness and lack of effectiveness of
+laser therapy in accelerating wound healing. The Department reports that much
+of the evidence of effectiveness has been shown in animal studies. As well they
+stated that in spite of the large number of studies that dismissed lasers as a
+wound-healing tool, many patients and clinicians attested to its effectiveness (19,
+31). The lack of evidence of effectiveness of LLLT for wound healing is at least in
+part associated with problems with research, including experimental design
+flaws, and use of heterogeneous and inappropriate subject populations.
+Treatment parameters are not consistently reported in the literature and that
+severely limits the ability to compare studies. In addition, studies have
+incomplete procedural descriptions, flawed methodology, limited blinding and,
+at times, non-existent controls. Before definitive conclusions about the efficacy of
+LLLT can be drawn, appropriate laser wavelengths, dosage schedules, and
+conditions to be treated must be tested and established with clinical research (28,
+31, 33)
+.
+A postal survey of physical therapists in Flanders ranked LLLT in first place for
+treatment of wounds (5). Yet, only 30% of the respondents considered the use of
+LLLT to be well founded on research. Additionally, 70% thought that neither the
+efficacy of laser therapy nor the required treatment protocols were sufficiently
+backed by scientific research. Comments from more than 90% of the respondents
+said patients were prejudiced when receiving LLLT. Their hope for better results
+with a „high-tech and modern‟ therapy, were preconceived opinions that were
+quoted and likely contributed to their wound-healing success (5)
+.
+A further study identified, but not included in Table 2, is that by Kleinman et al.
+(19) who report experience with 42 patients who had venous ulcers for more than
+6 months. Complete wound closure occurred in 86% of patients, which was
+attributed to the biostimulating effect of laser therapy. However, the level of
+scientific evidence is poor. There is no control group, the period of the study was
+28 years and no individual patient results were reported.
+The scientific literature is sparse and available articles report only weak evidence
+of the ability of LLLT to accelerate wound healing. Moreover, any alternative
+therapy promoted as an adjunct to conventional therapy might be compared to
+other, possibly more effective, interventions - an example being electrical
+stimulation (1)
+.
+10
+Wound classification
+Use of LLLT needs to be considered in the context of other standard approaches to
+wound healing. Within this report „wound‟ describes either a venous stasis ulcer or
+a pressure ulcer/sore. A large proportion of these types of wounds is located on the
+lower leg.
+Wounds can be acute, as in the case of surgery, or chronic. In a healthy individual
+with no underlying factors, such as diabetes or venous disease, an acute wound
+should heal within 3 to 6 weeks. Chronic wounds are defined as those which have
+not proceeded though an orderly and timely process to produce anatomic and
+functional integrity, or proceeded through the repair process (Figure 1) without
+establishing a sustained anatomic and functional result (9, 18). As well, chronic
+wounds heal by different mechanisms depending on their cause. Pressure sores, for
+example, heal by a combination of angiogenesis, deposition of extracellular matrix
+and wound contraction. Venous stasis ulcers are typically relatively shallow and
+heal primarily by re-epithelialization (Figure 1) (6, 9)
+.
+Demands created by chronic wounds are a continuing medical and socioeconomic
+problem. Correction of the underlying pathophysiology is frequently not possible.
+The benefits of current technologies are limited and costs have been substantial. It is
+for these reasons that the clinical and scientific arenas have turned to alternative
+therapies in an effort to promote and speed the healing process (1, 9, 27)
+.
+The flowchart in Figure 1 outlines five discrete steps in the wound healing process.
+„Re-epithelialization‟ has been highlighted to emphasize that some wounds halt here
+and become chronic, i.e. new epithelial cells do not grow and close over the wound
+(Searles, personal communication). It should be noted that some descriptions in
+studies combine stages of the wound healing process (6, 17, 18, 29, 31)
+.
+Conventional therapy
+The efficient management of wounds requires a multidisciplinary team made up of
+physicians, clinical nurse practitioners, dieticians, social workers, occupational and
+physical therapists (12, 18, 26). The main treatment goal is rapid wound closure
+followed by a functional and aesthetically satisfactory scar (29). Conventional wound
+therapy involves two basic principles; 1) identify and control the underlying causes,
+and 2) provide an environment for moist interactive wound healing (dressings) (1, 6,
+18, 27). Characteristics of wound dressings are outlined in Appendix B.
+There are improved healing rates in venous ulcers when compression therapy (see
+Appendix C) is used. Pressure ulcers will not heal if the patient does not pressure
+download the site. Compression therapy should be considered part of the standard
+of care in this patient population (Searles, personal communication).
+11
+Figure 1: Phases in the wound healing process
+Hemostasis
+lasts several minutes
+disruption of blood vessels
+results in initiation of coagulation cascade
+cell migration into wound
+Inflammatory phase
+lasts several days
+vasodilation
+increased capillary permeability
+complement activation
+triggers neutrophils and macrophage migration into wound
+macrophage play pivotal role in transition from inflammation to wound repair
+platelets release platelet-derived growth factor (a potent chemo-attractant for
+fibroblasts and smooth muscle cells)
+Granulation
+Lasts up to 3 weeks in an acute wound
+Simultaneous events that occur in this phase:
+fibroplasia
+matrix deposition
+angiogenesis
+Re-epithelialization [Most chronic wounds halt at this stage of the
+healing process]
+basement membrane proteins reappear in a very ordered sequence from the
+margin of the wound inward in a zipper-like fashion closing the epidermal
+defect. Chronic wounds typically do not make it to this stage, i.e. granulation
+may occur but epithelial cells do not migrate over and close the wound.
+Wound contraction and tissue remodeling
+occurs over 6 to 18 months
+growth factors and other peptides provide stimuli for wound contraction
+cellular components and extracellular matrix of the wound gradually and
+continually changing
+Sources: (6, 17, 18, 29, 31)
+12
+Current wound management practices in Alberta
+In Alberta the Calgary Regional Health Authority (CRHA) has developed a clinical
+pathway for wound healing. The pathway was designed by a multidisciplinary
+team and is meant as a guide for health care professionals who treat patients with
+acute or chronic wounds. The Capital Health Authority (CHA) developed a
+Regional Wound Care Guideline for use by health care professionals (26). Like the
+CRHA, the CHA used a multidisciplinary team to produce their Guideline.
+Both health authorities treat wounds using conventional therapy. However, they do
+mention alternative therapies in their literature. The S.W.A.T. (skin & wound
+assessment and treatment) Team of the CRHA uses the text Chronic Wound Care (13)
+as a guide for instruction on the use of alternative therapies. This publication states
+that clinical safety and efficacy of LLLT has not been established. Further controlled
+clinical studies on large numbers of patients are needed to confirm the clinical
+efficacy of low intensity lasers on wound healing. Low intensity laser therapy
+should only be used as an adjunct treatment to conventional wound care (13)
+.
+The CHA mentions adjunctive therapies such as HBO, laser, ultrasound, and
+electrical stimulation. The CHA quotes the AHCPR‟s clinical practice guideline
+stating that it is the responsibility of users to ensure they are using a modality with
+demonstrated efficacy through clinical research, and that the user has the
+appropriate training to apply that modality. Physiotherapists should attempt to
+advance the clinical management of wounds via further trials and research of these
+modalities (1, 26)
+.
+Suggested information needs for Alberta
+It is not clear from previous published studies that LLLT is effective in accelerating
+the wound healing process. The current scientific evidence provides only very weak
+support for the use of this therapy and all studies suggest that further work is
+needed. At this time, available evidence does not justify use of LLLT. It is
+suggested that any further use in Alberta should be informed by the results of local
+empirical studies.
+If local studies are to be established, the following stages should be addressed:
+Agreement on protocol. This should be well defined so that each centre
+participating in the study has an established protocol.
+Patient selection. Current scientific literature describes use of LLLT in
+heterogeneous populations of patients that do not allow comparisons between
+groups. Patient selection would require strict inclusion/exclusion criteria, welldefined outcomes (healed ulcers), and length of follow-up.
+13
+Study design. Evidence of efficacy should be obtained through one or more
+RCTs.
+A study of this sort would present a challenge but without it a definitive answer
+regarding the efficacy of LLLT in accelerating wound healing is unavailable and use
+of the technology in routine health care cannot be justified. A local study might
+incorporate methodology like that described by Gupta et al. (15) and Nussbaum et al.
+(24) and would include representative patient populations in Alberta.
+Characteristics of such a study might include:
+Randomized, double-blind, placebo-controlled trial (preferably multi-centre).
+Objective: to evaluate the efficacy of LLLT in the treatment of chronic venous leg
+ulcers in a home care population. This would require approval from ethics
+review boards and informed consent as outlined by Health Canada regulations.
+Hypothesis: LLLT, used as an adjunct to conventional therapy, will accelerate the
+wound healing process. This might be addressed by comparing the control
+group (conventional wound care plus (placebo) sham LLLT) with the
+intervention group (conventional therapy plus LLLT).
+Follow-up:
+Measure the time taken until the defined outcome is reached, in both arms of
+study.
+Study group: those with chronic venous leg ulcers as determined by specific
+diagnostic criteria.
+Patient numbers:
+Number of subjects per group would be determined with respect to expected
+percent change in the intervention group. If 40% of wounds heal with optimal
+therapy and laser therapy is expected to make a 25% improvement, then
+approximately 61 participants are needed per group. If the improvement is more
+modest, for example 15%, then the sample sizes will be much larger and in the
+order of 173 participants per group (Hessel, Searles, personal communications).
+Treatment protocol:
+Laser type and a well-defined protocol to be determined.
+Inclusion: patients aged 50y with chronic venous leg ulcers; (ulcers of greater
+than 3 months duration, and unresponsive to conventional therapy).
+Exclusion: those with peripheral arterial disease, haematologic abnormalities,
+vasculitis, history of epilepsy, those receiving topical steroids around wound site,
+those receiving anticoagulant therapy, those receiving drugs known to cause
+photo-sensitivity reactions.
+14
+While such information would be needed to address the question of efficacy of
+LLLT, a further policy issue to be addressed is whether other alternative therapies
+for wound healing might require consideration. For example, the AHCPR clinical
+guideline number 15 (1) recommends a course of electrical stimulation for recalcitrant
+wounds. Given the status of that technology, use of a modality such as LLLT that
+has unproven efficacy becomes difficult to justify.
+Finally, any findings need to be integrated into the broader strategies used for
+effective management of wounds.
+In conclusion:
+The benefits of low level laser therapy for wound healing are not established.
+There is no good scientific evidence to support its use.
+Any local use of LLLT in this application should be supported by empirical data
+from good quality studies of its efficacy and effectiveness.
+Other, possibly more promising alternative therapies should be considered as
+adjunct therapies to conventional wound healing practices.
+15
+Appendix A: Methodology
+Literature searches of the databases in the table below were made using the
+terms shown. The first search included the MEDLINE, HealthSTAR, EMBASE;
+Dissertation Abstracts and Current Contents databases using the Dialog
+Corporation, OneSearch® option. This search was restricted to terms in the title
+or descriptor field. The second search, on CINAHL, was accessed through OVID
+Technologies. The Cochrane Library was also searched, and several searches
+were run on the Internet using a variety of terms. With the exception of the
+Cochrane Library and Internet searches, the literature searches were restricted to
+the period 1993 – August, 1999.
+Databases Keywords
+MEDLINE
+EMBASE
+HealthSTAR
+Dissertation
+Abstracts
+Online
+Current
+Contents
+low level laser? or low power laser? or low intensity laser? or low
+energy laser? or biostimulation or laser? therap? or lasers
+therapeutic use
+AND
+wound healing or wounds or diabetic foot or skin diseases or leg
+ulcer? or foot ulcer or diabetic ulcer? or decubitus ulcer or wound
+care or skin necrosis or bedsores or pressure ulcer?
+CINAHL laser or laser$ or biostimulation
+AND
+leg ulcer or pressure ulcer or skin care or surgical wound care or
+wound$ or injuries or skin ulcer or wound healing or decubitus or
+diabetic
+Cochrane
+Library
+laser* and (wound or ulcer or ulcer or sore*)
+Date Limits: 1993 – 1999, no date limits on Cochrane Library or Internet searches
+Publication types and number of studies found (Table 2):
+Randomized controlled clinical trials 2
+Controlled clinical trials 1
+Non-controlled clinical trials 2
+Multicentre studies 0
+Prospective comparative studies 1
+Retrospective studies 0
+16
+Single case reports and animal studies were excluded.
+Regulatory status should be considered before implementing or using any
+therapeutic medical device. Standards published by the Canadian Standards
+Association (CSA) or Underwriters‟ Laboratories (UL), are in place to ensure
+electrical devices, including medical equipment, are safe against fire and shock.
+However, it is not the mandate for these agencies to test efficacy or effectiveness
+in any physiological way, rather that is the responsibility of the Health Protection
+Branch in Canada and the Food and Drug Administration (FDA) in the U.S.
+Each was contacted with respect to low level laser regulatory status.
+Jovell and Navarro-Rubio (16) published a classification scheme that comments
+on quality of evidence. Assignment to categories is dependent on conditions of
+scientific rigour. This scheme forms the basis of the classification of studies in
+Table 2 into the following categories:
+Good: Meta-analysis of randomized controlled trials (RCTs) or from
+large sample RCTs;
+Good to Fair: Small sample RCTs and non-randomized controlled prospective
+trials;
+Fair: Non-randomized controlled retrospective trials, cohort studies
+and case-control studies;
+Poor: Non-controlled clinical series and various other approaches.
+In this health technology assessment:
+Efficacy refers to the performance of a technology under „ideal‟ conditions or
+conditions of best practice; and
+Effectiveness refers to the performance of a technology under „routine‟
+conditions. For example when it has become widely distributed in a health care
+system.
+17
+Appendix B
+Following is additional information regarding the staging of pressure sores and
+classifying venous stasis ulcers.
+Staging criteria for pressure sores
+The following staging criteria are consistent with those of the National Pressure
+Ulcer Advisory Panel (NPUAP, 1989) Consensus Development conference (1).
+Stage I Nonblanchable erythema of intact skin; the heralding lesion of skin
+ulceration. In dark-skinned individuals discoloration of the skin, warmth,
+edema, or hardness may also be indicators.
+Stage II: Partial thickness skin loss involving epidermis and/or dermis. The
+ulcer is superficial and presents clinically as an abrasion, blister, or shallow
+crater.
+Stage III: Full thickness skin loss involving damage or necrosis of
+subcutaneous tissue that may extend down to, but not through, underlying
+fascia. The ulcer presents clinically as a deep crater with or without
+undermining of adjacent tissue.
+Stage IV: Full thickness skin loss with extensive destruction, tissue necrosis,
+or damage to muscle, bone, or supporting structures (for example, tendon or
+joint capsule). Undermining and sinus tracts may also be associated with
+Stage IV pressure ulcers.
+According to the Practice Guideline the staging definitions recognize the
+following limitations:
+Assessment of Stage I pressure ulcers may be difficult to perform in patients
+with darkly pigmented skin.
+When eschar (a scab) is present, accurate staging of the pressure ulcer is not
+possible until the eschar has sloughed or the wound has been debrided.
+Venous stasis ulcers
+Although venous stasis ulcers may be staged using the pressure sore criteria the
+following classification system is generally used (26).
+Partial-thickness – skin loss involving the epidermis, dermis or both, a shallow
+crater, blister, abrasion or skin tear.
+Full-thickness – skin loss involving damage to or necrosis of the dermis and
+epidermis, it may also affect subcutaneous tissue, muscle, tendon and bone.
+Red/Yellow/Black (RYB) is another classification tool that assesses the wound
+bed.
+Red – clean and uniformly pink to red; often heal by secondary intention.
+Dressings need to be changed less often, but should be moist at all times.
+18
+Yellow – varies from ivory to canary yellow or even green in colour, depending
+on whether there is infection. The goal of care is to manage exudate and to
+remove slough through enzymatic, autolytic or surgical debridement.
+Black – ranging in colour from dark brown, gray to black. The goal for most
+individuals is to remove the necrotic tissue by enzymatic, autolytic or surgical
+debridement. Where there is no drainage or boggy surrounding tissue, hard, dry
+eschar or black scab may be left intact on the lower legs, feet or heels of
+individuals whose healing potential is compromised by inadequate circulation.
+It provides a protective base for the wound.
+If all three colours are present then treatment is aimed at the colour that is
+present over 50% of the wound.
+The majority of pressure ulcers can be prevented provided that a tool such as the
+Braden Pressure Ulcer Risk Assessment is used for monitoring and intervening
+with at-risk patients. Existing wounds should be continually monitored using a
+guide such as the Bates Jensen Pressure Sore Status Tool (Orsted, Searles,
+personal communications).
+Additional information about wound characteristics
+The AHCPR Clinical Practice Guideline #15, (1) makes recommendations for the
+prediction, prevention and early treatment of pressure ulcers in adults. As well,
+it provides grading or staging information. A pressure ulcer is defined as any
+lesion or sore caused by unrelieved pressure that results in damage of
+underlying tissue. Pressure ulcers typically occur over bony prominences and
+are graded or staged by the amount of tissue damage that has occurred. The
+same staging criteria can be used for venous stasis ulcers, which are lower
+extremity ulcerations related to disruption in blood flow between the superficial
+and deep venous system causing chronic venous insufficiency (26).
+Additional information about wound dressings
+The „ideal‟ wound dressing for treating pressure sores would (4, 6, 18):
+allow excess exudate to be removed from the wound surface
+provide a moist micro-environment
+be sterile/contaminant free
+not leave dressing material in the wound
+reduce ulcer pain
+be easy to change
+not cause an allergic reaction
+act as a semi-permeable membrane
+cause no trauma when removed, be impermeable to micro-organisms
+provide thermal insulation.
+19
+Semi-permeable and impermeable dressings should only be used on noninfected wounds.
+A moist, pressure dressing maintains hemostasis of wound, prevents bleeding or
+hematoma formation. As well, a pressure bandage keeps dead space collapsed,
+again preventing a hematoma or seroma. The moist environment prevents
+eschar (scab) formation. Eschars impede keratinocyte migration; they are
+required to repopulate the wound surface. A wound may have to be debrided of
+necrotic tissue that supports growth of pathological organisms. Next, the wound
+is packed with wound dressing material to ensure that the wound heals bottom
+up. Antibiotics are used either topically and/or systemically for treatment of
+infection (1, 18, 26).
+20
+Appendix C
+Alternative therapies
+Alternative therapies, other than LLLT, purported to promote or accelerate
+wound healing include electrical stimulation, hyperbaric oxygen therapy,
+whirlpool, ultrasound, and compression therapy.
+Electrical stimulation, to date, is the most promising alternative therapy used to
+accelerate wound healing. The AHCPR‟s CPG for treatment of pressure sores
+recommends a course of treatment with electrotherapy for Stage III and IV
+pressure ulcers that have proved unresponsive to conventional therapy (1, 12,
+13). The CPG was recently revisited by Ovington (25). This updated review
+focused on dressings and adjunctive therapies. Based on findings in the current
+literature it not only supported the 1994 CPG but stated that the strength-ofevidence had increased for use of electrical stimulation.
+The study also supported the CPG stating that therapeutic use of hyperbaric
+oxygen and ultrasound has not been sufficiently established to permit
+recommendation of these therapies for the treatment of pressure ulcers (25).
+In an overview of physical therapies used for wound management, whirlpool is
+mentioned as a way to reduce the risk of infection as it removes dirt, debris,
+foreign contaminants and loose necrotic tissue from the wound bed. However,
+the effect of whirlpool on healing has not been studied (12, 13).
+Ultrasound can be used both diagnostically to monitor the rate of healing and
+therapeutically to stimulate the rate of wound healing (12). However, there is no
+scientific evidence of effectiveness of ultrasound on the rate of wound healing
+(25).
+There is much scientific literature that supports compression therapy for venous
+ulcers (8, 12, 13, 26, 27). It involves the deliberate application of pressure and is
+most commonly employed to control edema and reduce swelling in the
+treatment of venous disorders of the lower limb. Compression bandages have
+been divided into four groups according to their ability to produce
+predetermined levels of compression; light, moderate, high and extra high (8).
+The National Clinical Guidelines recommended for use in Scotland mentions 24
+RCTs of compression treatment for venous ulcers. Each demonstrated that
+compression improves healing and should be used routinely (27).
+21
+References
+1. Agency for Health Care Policy and Research. Treatment of pressure ulcers;
+clinical guideline number 15. AHCPR Publication No.95-0652 1994;1-125.
+2. Basford JR. Low intensity laser therapy: still not an established clinical tool.
+Lasers in Surgery & Medicine 1995. 1995(16):331-42.
+3. Bihari I, Mester AR. The biostimulative effect of low level laser therapy of
+long-standing crural ulcers using helium neon laser, helium neon plus
+infrared lasers, and noncoherent light: preliminary report of a randomized
+double-blind comparative study. Laser Therapy 1989;1(2):97-8.
+4. Bradley M, Nelson EA, Petticrew M, et al. Wound dressings for the
+treatment of pressure sores (Protocol for a Cochrane Review). In The
+Cochrane Library, Issue 2, 1999. Oxford:Update Software.
+5. Cambier DC, Vanderstraeten G. Low-level laser therapy: The experience in
+Flanders. European Journal of Physical Medicine & Rehabilitation 1997(7):102-5.
+6. Cho CY, Lo JS. Dressing the part. Dermatology Clinics 1998(16):25-47.
+7. Crous L, Malherbe C. Laser and ultraviolet light irradiation in the
+treatment of chronic ulcers. Physiotherapy 1988(44):73-7.
+8. Cullum N, Roe B. Leg ulcers. January 1, 1995:1st edition. Scutari Projects,
+Royal College of Nursing. Middlesex, U.K.
+9. Falanga V. Special issue on wound healing: An overview. Journal of
+Dermatologic Surgery & Oncology. 1993(19):689-90.
+10. Flemming K, Cullum N. Laser therapy for the treatment of venous leg
+ulcers (Cochrane Review). In The Cochrane Library, Issue 1, 1999. Oxford:
+Update Software.
+11. Galletti G. Low power laser therapy: a non-invasive highly effective
+therapeutic modality. Laser Therapy 1997;9:131-36.
+12. Gogia PP. Physical therapy modalities for wound management. Ostomy
+Wound Management 1996;42(1):46-8.
+13. Gogia PP. Physical therapy intervention in wound management. In: Chronic
+Wound Care 2nd ed. Wayne, PA: Health Management Publications, Inc.
+1997:251-59.
+14. Gogia PP, Marquez RR. Effects of helium-neon laser on wound healing.
+Ostomy Wound Management 1992;38(6):38-41.
+15. Gupta AK, Filonenko N, Salansky N, et al. The use of low energy photon
+therapy (LEPT) in venous leg ulcers: a double-blind, placebo-controlled
+study. Dermatologic Surgery 1998;24(12):1383-86.
+22
+16. Jovell AJ, Navarro-Rubio MD. Evaluacion de la evidencia cientifica.
+Medicina Clinica 1995(105):740-43.
+17. Kane D, Krasner D. Wound healing and wound management. In: Chronic
+Wound Care 2nd ed. Wayne, PA: Health Management Publications, Inc.
+1997:1-4.
+18. Keast DH, Orsted H. The basic principles of wound care. Ostomy Wound
+Management 1998;44(8):24-31.
+19. Kleinman Y, Simmer S, Braksma Y, et al. Low level laser therapy in patients
+with venous ulcers: early and long-term outcome. Laser Therapy 1996(8):205-
+8.
+20. Landau Z. Topical hyperbaric oxygen and low energy laser for the
+treatment of diabetic foot ulcers. Archives of Orthopaedic & Trauma Surgery
+1998(117):156-58.
+21. Lundeberg T, Malm M. Low-power HeNe laser treatment of venous leg
+ulcers. Annals of Plastic Surgery 1991:27(6):537-39.
+22. Malm M, Lundeberg T. Effect of low power gallium arsenide laser on
+healing of venous ulcers. Scandinavian Journal of Plastic & Reconstructive
+Surgery & Hand Surgery 1991;25(3):249-51.
+23. Mitton C, Hailey D. Hyperbaric oxygen treatment in Alberta. Edmonton.
+Alberta Heritage Foundation for Medical Research, April 1998.
+24. Nussbaum EL, Biemann I, Mustard B. Comparison of
+ultrasound/ultraviolet-C and laser for treatment of pressure ulcers in
+patients with spinal cord injury. Physical Therapy 1994(74):812-23.
+25. Ovington LG. Dressings and adjunctive therapies: AHCPR Guidelines
+Revisited. Ostomy Wound Management 1999;45(1A (Suppl)):94S-106S.
+26. Regional Wound Care Guidelines Working Group CHA. Regional wound
+care guidelines. Edmonton. Capital Health Authority, 1998.
+27. Scottish intercollegiate guidelines network (SIGN). The care of patients
+with chronic leg ulcer. A National Clinical Guideline 1998. Edinburgh, U.K.
+SIGN Secretariat, Royal College of Physicians.
+28. Shuttleworth E, Banfield K. Wound care. light relief, low-power laser
+therapy. Nursing Times 1997(93):74-78.
+29. Singer AJ, Clark RAF. Cutaneous wound healing. New England Journal of
+Medicine 1999;341(10):738-46.
+30. Telfer J, Filonenko N, Salansky N. Low energy laser therapy for leg ulcers
+[Abstract]. Lasers in Surgery & Medicine. 1993.
+31. University of Delaware PTGs. Lasers and physical therapy care.
+http://copland.udel.edu/~17179/index1.htm August 1, 1999.
+23
+32. Webb C, Dyson M, Lewis WH. Stimulatory effect of 660 nm low level laser
+energy on hypertrophic scar-derived fibroblasts: possible mechanisms for
+increase in cell counts. Lasers in Surgery and Medicine 1998(22):294-301.
+33. Wheeland RG. Lasers for the stimulation or inhibition of wound healing.
+Journal of Dermatologic Surgery & Oncology 1993(19):747-52.

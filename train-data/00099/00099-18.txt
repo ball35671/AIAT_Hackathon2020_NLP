@@ -1,0 +1,394 @@
+Original Research
+Outcomes of a Home Telehealth Intervention for Patients
+with Diabetes and Hypertension
+Bonnie J. Wakefield, Ph.D., R.N.,1 John E. Holman, M.A.,1
+Annette Ray, B.S.N., R.N.,1 Melody Scherubel, B.S.N., R.N.,1
+Margaret R. Adams, ARNP, BC-ADM, CDE,2
+Stephen L. Hills, Ph.D.,1 and Gary E. Rosenthal, M.D.1
+1
+Center for Comprehensive Access & Delivery Research
+and Evaluation, Iowa City Veterans Affairs Medical Center,
+Iowa City, Iowa.
+2
+Iowa City Veterans Affairs Healthcare System, Iowa City, Iowa.
+The views expressed in this article are those of the authors and do not
+necessarily represent the views of the Department of Veterans Affairs.
+The Veterans Health Administration Health Services Research and
+Development Service had no involvement in the design of the study,
+the collection, analysis, or interpretation of the data or the decision
+to approve publication of the finished manuscript.
+Abstract
+Background: Home telehealth programs often focus on a single
+disease, yet many patients who need monitoring have multiple
+conditions. This study evaluated secondary outcomes from a clinical trial evaluating the efficacy of home telehealth to improve
+outcomes of patients with co-morbid diabetes and hypertension.
+Subjects and Methods: A single-center randomized controlled
+clinical trial compared two remote monitoring intensity levels (low
+and high) and usual care in patients with type 2 diabetes and
+hypertension being treated in primary care. Secondary outcomes
+assessed were knowledge (diabetes, hypertension, medications),
+self-efficacy, adherence (diabetes, medications), and patient perceptions of the intervention mode. Results: Knowledge scores improved in the high-intensity intervention group participants, but
+upon further analysis, we found the intervention effect was not
+mediated by gain in knowledge. No significant differences were
+found across the groups in self-efficacy, adherence, or patient
+perceptions of the intervention mode. Conclusions: Home telehealth
+can enhance detection of key clinical symptoms that occur between
+regular physician visits. While our intervention improved glycemic
+and blood pressure control, the mechanism of the effect for this
+improvement was not clear.
+Key words: telehealth, cardiology/cardiovascular disease, home
+health monitoring, diabetes
+Introduction
+Diabetes mellitus (DM) and hypertension (HTN) are prevalent and costly illnesses. Self-management support can be
+provided by using home-based technologies (i.e., remote
+monitoring) to enable healthcare professionals to monitor
+patients more routinely than is possible through face-to-face office
+visits. Prior work has evaluated the use of remote monitoring to manage
+DM,1,2 but most projects have focused on single-disease populations.
+The data reported in this article are drawn from a randomized controlled clinical trial that evaluated the efficacy of a low- and highintensity remote monitoring intervention compared with usual care for
+improving outcomes of patients with co-morbid DM and HTN.3 This
+article reports on patient outcomes of knowledge, self-efficacy, and
+adherence and patient perceptions of the technology.
+Subjects and Methods
+Details of the clinical trial are reported elsewhere.3 In brief, the
+parent study was a single-center randomized controlled clinical trial
+design comparing three groups, two remote monitoring intensity
+levels and usual care, with respect to improvement in hemoglobin
+A1c (A1c) and systolic blood pressure (SBP) in participants with comorbid DM and HTN. The local institutional review board approved
+the study prior to data collection.
+The study was conducted at the Iowa City VA Medical Center,
+which provides primary, secondary, and tertiary medical, surgical,
+psychiatric, and neurological care to more than 36,000 veterans residing in eastern Iowa and western Illinois. The target population
+comprised patients with Type 2 DM and HTN being treated by a VA
+primary care provider. Patients were mailed a study invitation letter
+in advance of a scheduled primary care appointment that included a
+description of the study, a copy of the consent form, and contact
+information for study personnel; letters were followed up with a
+phone call from study staff. Study nurses met with patients who
+expressed interest at a scheduled Primary Care Clinic appointment to
+review the study and obtain written informed consent. Three hundred
+two subjects were randomized to three groups: 107 to usual care, 102
+to the low-intensity group, and 93 to the high-intensity group. Of
+these, 85% (n = 257) completed 6-month data collection, and 81%
+(n = 246) completed 12-month data collection.
+The intervention combined close surveillance via a home telehealth device and nurse care management over a 6-month time period. The home telehealth device (Viterion; Bayer/Panasonic) used a
+DOI: 10.1089/tmj.2011.0237 ª MARY ANN LIEBERT, INC.  VOL. 18 NO. 8  OCTOBER 2012 TELEMEDICINE and e-HEALTH 575
+standard telephone line to enable data transmission between the
+patient’s home and the study center. Using the device, intervention
+participants in both groups manually entered blood pressure (BP) and
+blood glucose (BG) measurements. In addition to uploading BG and
+BP, each day the high-intensity group received health information
+tips and questions using a branching algorithm programmed into the
+device that focused on diet, exercise, smoking cessation, foot care,
+advice for sick days, medications, weight management, preventive
+care, and behavior modification and lifestyle adjustments. The lowintensity group uploaded BG and BP and responded to two daily
+questions but did not receive the informational tips and questions
+from the algorithm. Participants received appropriate automated
+responses depending on how they answered the device prompt, individualized messages from the study nurses, or follow-up telephone
+or mailed information as needed. Usual-care subjects were followed
+in the Primary Care Clinic per standard protocol and had access to a
+nurse care manager employed by the Medical Center.
+Data were collected at baseline, 6 months (end of intervention
+period), and 12 months (to determine maintenance of outcomes
+following completion of the intervention).
+MEASURES
+Baseline demographic information included age, gender, race,
+education, marital status, and body mass index. We also asked
+whether participants received assistance in managing their illness
+(for example, preparing meals, setting up medications, measuring
+BG/BP, transportation assistance).
+Knowledge was assessed in two ways. First, we used a 16-item
+multiple choice test focused on DM and HTN. The test contained 13
+items specific to DM developed by a co-investigator (M.A.) for a
+clinical diabetes education program; we added 3 items on hypertension. The test was administered at baseline and at 6 and 12
+months. One point was assigned for each correct answer; thus scores
+could range from 0 to 16. Second, we asked participants about
+medications, an important variable affecting control of DM and HTN.
+At baseline, 6 months, and 12 months participants were asked, ‘‘Do
+you understand what your medications are for and their side effects?’’
+This question was scored as percentage correct responses.
+Self-efficacy was measured using the Self-Efficacy to Manage Disease in General scale.4 This scale contains 5 items that rate the patient’s
+confidence in managing a chronic illness using Likert-type scale responses. Developed by the Stanford Patient Education Research Center,
+initial scale items were constructed using items from existing measures,
+investigator experience, and focus groups. The scale was tested using
+multitrait scaling in a large sample of health maintenance organization
+clinic patients (n = 1,130). All item-scale correlations (internal consistency reliability) exceeded 0.50. Scores range from 1 to 10, with higher
+scores indicating greater confidence in managing disease.
+Adherence was measured in two ways. First, we used a validated
+DM regimen adherence scale5 that addresses medication, diet,
+exercise, and BG testing. This scale was validated in a sample of 181
+patients (95% white, 46% male, 60% type 1 DM). All 6 items were
+combined into one scale score with moderate reliability (alpha =
+0.73). Each item is measured using a scale that ranges from 1 = never
+to 5 = always adherent. Mean scores were calculated for each participant; higher scores indicate greater adherence with recommendations. Because the Edwards Regimen Adherence Scale5 only
+addressed DM and because medications are an important therapy
+for HTN, at baseline, 6 months, and 12 months participants were
+asked, ‘‘Are you taking your medications as prescribed?’’ Adherence
+scores represent the proportion of medications for which the responses agreed with the directions for use on the VA Pharmacy
+medication profile. This approach has been successfully used in prior
+studies and was found to be comparable to examining the timeliness
+of medication refills.6
+Perceptions of the technology were assessed using the Telemedicine Patient Questionnaire (TMPQ).7 Participants in the two
+intervention groups completed this home telehealth-specific survey
+at the end of the 6-month intervention period. The survey is a 17-item
+instrument with Likert-type scales. Each item was rated on a scale
+from 1 (strongly disagree) to 5 (strongly agree). In preliminary testing
+on 32 patients, a 20-item form of the instrument had acceptable
+reliability (Cronbach’s alpha of 0.8), but three items were redundant.
+The revised 17-item instrument tested on 10 patients had high test–
+retest reliability (r = 0.98).
+STATISTICAL ANALYSIS
+Data were double-entered, and discrepancies were reconciled.
+Descriptive statistics were calculated for continuous variables, and
+the three groups were compared using analysis of variance with respect to demographics. Data for the three groups were compared
+using Kruskal–Wallis tests for receipt of assistance, knowledge, selfefficacy, and adherence. TMPQ scores between the low- and highintensity groups were compared using a t test.
+Results
+Study subjects were mostly male (98%), white (96%), and married
+(66%) with a mean age of 68 years (standard deviation = 10 years;
+range, 40–89 years). Most had a high school education or higher
+(89%). Body mass index was high across all participants at baseline
+(33.9, 33.1, and 33.2 kg/m2 for control and low- and high-intensity
+groups, respectively). There were no statistically significant differences across the three groups for any baseline measure.
+Intervention subjects (low and high intensity) had significantly
+decreased A1c during the 6-month intervention period compared
+with the control group, but 6 months after the intervention was
+withdrawn the intervention groups were comparable with the control
+group. For SBP the high-intensity subjects had a significant decrease
+in SBP compared with the other groups at 6 months, and this pattern
+was maintained at 12 months.
+Regarding questions on assistance received, in response to the
+question, ‘‘Do you have someone who helps take care of your DM
+and/or HTN,’’ 131 participants (45%) responded yes; of those,
+most helpers were spouses (n = 112). Of all 302 respondents, the
+percentages of those receiving help were as follows: preparing meals,
+33% (n = 101); setting up medications, 15% (n = 45); help with
+WAKEFIELD ET AL.
+576 TELEMEDICINE and e-HEALTH OCTOBER 2012
+transportation, 15% (n = 44); measuring BP, 11% (n = 33); and measuring BG, 7% (n = 20), indicating a relatively independent group of
+participants. There were no significant differences across groups for
+these tasks.
+Knowledge scores using the multiple-choice test were comparable at baseline. There were significant differences at 6 months,
+with the high-intensity group scoring higher compared with the
+other two groups (see Knowledge scores in Table 1); however,
+these differences were not maintained at 12 months. In our previous work we found that change-score means for A1c at 6
+months and for SBP at 6 and 12 months statistically differed
+between the intervention groups ( p = 0.03, 0.004, and 0.02, respectively).3 Motivated by the significant associations between
+knowledge score outcomes and intervention group, we investigated if the significant outcome–intervention associations might
+be mediated by knowledge. Specifically, we investigated if the
+effect of the intervention on change in SBP from baseline to 6
+months was mediated by the change in composite knowledge
+between baseline and 6 months, and whether the effect of the
+intervention on change in SBP from baseline to 12 months was
+mediated by the change in composite knowledge from baseline to
+either 6 or 12 months.
+We tested for mediation by estimating three linear regression
+models: (1) composite knowledge change score on intervention; (2)
+SBP change score on intervention; and (3) SBP change score on
+intervention and composite knowledge change score. According to
+Baron and Kenny,8 composite knowledge change score is a mediator
+if there are significant associations from the first two regressions and
+if the association between SBP and intervention in the third regression, adjusted for composite knowledge, is noticeably decreased in
+comparison with the (unadjusted) association between SPB and intervention in the second model.
+From estimating the first regression model we found that 6-month
+and 12-month composite knowledge change-score variables were
+significantly associated with the 12-month SBP change-score variable, but 6-month composite knowledge change was not associated
+with 6-month SBP change. From our previous work we had already
+estimated the second regression model and found both 6- and 12-
+month SBP change to be significantly associated with intervention.
+Based on these results we need only consider if 6- and 12-month
+knowledge change is a mediator for 12-month SBP change for the
+third regression model. We regressed 12-month SBP on intervention
+and 6-month composite knowledge change, and we regressed 12-
+month SBP on intervention and 12-month composite knowledge
+change. For both of the estimated models, intervention remained
+significantly associated with 12-month SBP ( p = 0.007 and 0.02, respectively, for the intervention effect, corresponding to having 6- and
+12-month knowledge change in the model). Because the intervention
+p values for Model 3 are similar to those for Model 2, we conclude that
+the intervention effect was not mediated by gain in knowledge.
+Regarding medication knowledge, on average, participants in all
+three groups could correctly list all of their current medications (data
+not shown), but slightly fewer than 90% of participants in each group
+correctly reported the purpose and side effects of their medications
+(see Medication knowledge in Table 1). However, there were no significant differences across the three groups in medication knowledge
+at any time point.
+Self-efficacy scores were higher in the control and low-intensity
+groups compared with the high-intensity group at all three measurement points (baseline, 6 months, and 12 months (Table 1).
+However, none of these differences was significant.
+Scores on the Edwards Regimen Adherence Scale were not significantly different across groups at any of the three time points
+(Table 1). Reported medication adherence was high across the groups
+Table 1. Scores for Knowledge, Self-Efficacy, Adherence,
+and Patient Perceptions at Baseline, 6 Months,
+and 12 Months
+CONTROL
+(N= 107)
+LOWINTENSITY
+(N = 102)
+HIGHINTENSITY
+(N = 93) P VALUE
+Knowledge scoresa
+Baseline 13.5 (2.1) 13.4 (2.1) 13.5 (1.8) 0.64
+6 months 13.9 (1.5) 13.7 (1.7) 14.4 (1.7) 0.02
+12 months 13.9 (1.8) 13.7 (1.8) 14.1 (1.7) 0.41
+Medication knowledgeb
+Baseline 87.6 (18.0) 87.2 (18.0) 88.3 (16.8) 0.93
+6 months 87.3 (18.7) 87.1 (17.0) 89.1 (14.8) 0.81
+12 months 89.9 (18.0) 88.7 (16.3) 89.4 (18.0) 0.77
+Self-efficacy scoresc
+Baseline 8.0 (2.1) 8.1 (1.8) 7.6 (1.9) 0.09
+6 months 8.1 (1.8) 8.1 (1.9) 7.7 (2.0) 0.19
+12 months 8.3 (1.9) 8.3 (2.0) 7.8 (1.9) 0.53
+Adherence on Edward’s scaled
+Baseline 3.2 (0.6) 3.4 (0.5) 3.2 (0.5) 0.20
+6 months 3.3 (0.5) 3.4 (0.4) 3.2 (0.5) 0.21
+12 months 3.3 (0.5) 3.4 (0.6) 3.3 (0.4) 0.09
+Medication-taking adherencee
+Baseline 99.5 (4.4) 99.7 (1.6) 99.7 (2.7) 0.65
+6 months 99.6 (2.2) 99.8 (1.4) 99.6 (2.0) 0.79
+12 months 98.9 (6.0) 99.7 (1.4) 100 (0) 0.20
+Data are mean (standard deviation) values.
+a
+Maximum possible score = 16.
+b
+Percentage of medications’ purpose and side effects correctly reported.
+c
+Maximum possible score = 10, with higher scores indicating greater self-efficacy.
+d
+Score range 1–5, where higher scores indicating greater adherence.
+e
+Percentage of medications reported taking according to directions.
+OUTCOMES OF A HOME TELEHEALTH INTERVENTION
+ª MARY ANN LIEBERT, INC.  VOL. 18 NO. 8  OCTOBER 2012 TELEMEDICINE and e-HEALTH 577
+at all three times points, but there were no significant differences
+across the three groups (see Medication-taking adherence in Table 1).
+Comparing only the low- and high-intensity intervention participants, there were no significant differences between the two
+groups in TMPQ scores (low-intensity mean = 3.8; high-intensity
+mean = 3.7).
+Discussion
+Although the intervention subjects had improved A1c at 6 months
+and the high-intensity subjects had a significant decrease in SBP at
+both 6 and 12 months, there were few differences across the groups in
+knowledge, and knowledge did not act as a mediator in explaining
+the intervention effect. There were no differences in self-efficacy or
+adherence across the groups at any time point.
+The high-intensity group received daily educational tips and a
+greater number of DM and HTN questions daily, and knowledge
+scores in this group improved significantly at 6 months. Although we
+did not directly ask participants if they incorporated information
+from the daily information and questions to make changes in their
+disease management, the high-intensity group improved in both A1c
+and SBP at 6 months and maintained improvement in SBP at 12
+months. DM education is beneficial and cost-effective9 but is generally not sufficient alone to change health behaviors. Interventions
+using regular reinforcement, such as this study where participants
+sent data on a daily basis and received feedback, may be more effective in improving glycemic control.10
+Self-efficacy did not improve significantly during the study, even
+though study nurses used self-efficacy enhancement strategies during the contacts with the intervention participants. Self-efficacy
+scores in our sample were relatively high at baseline (ranging from
+7.6 to 8.1 on a 10-point scale); thus there was little room for improvement. Other studies in veterans have found an association between higher self-efficacy and better adherence to diabetes
+management behaviors such as medications, exercise, and a low fat
+diet.11 Thus we believe that interventions focused on enhancing selfefficacy warrant further attention.
+Studies have shown an association between adherence and
+patient–provider communication.12 Prior work in a similar nonveteran population found that adherence with antihypertensive
+medication was associated with patient–provider communication
+(i.e., nonadherent participants reported discomfort asking questions
+and were more likely to report that healthcare visits were stressful).13 Another study, conducted in the veteran population, found
+that collaborative and proactive communication between patients
+and providers was associated with improved HTN control in patients with diabetes, independent of medication adherence.14 Studies assessing the relationship between outcomes such as
+adherence and communication with clinicians have almost exclusively focused on physicians. Healthcare is increasingly adopting
+alternatives to the traditional office visit such as disease-focused
+collaboratives15 and the patient-centered medical home where the
+roles of nonphysician providers such as nurses and pharmacists are
+being expanded to include chronic disease management. Our participants reported relatively high adherence with their self-management regimen and especially with medication-taking behavior
+throughout the study period, but the role of nurse–patient communication in enhancing adherence in this sample is not clear.
+Given the expanding role of nurses and pharmacists in chronic
+disease management approaches such as the patient-centered
+medical home, future studies should focus on how communication
+with providers other than physicians affect adherence in patients
+with chronic disease.
+Although the high-intensity group received more information and
+questions daily on the home telehealth device, there were no differences between the two intervention groups in perceptions of the
+intervention using TMPQ scores. Intervention participants rated the
+program positively with a few criticisms and suggestions for improvement mostly related to the technology.16 These findings are
+consistent with perceptions of participants enrolled in the VA remote
+monitoring program.17
+In conclusion, participants in both intervention groups improved glycemic control, and the high-intensity group also improved
+BP control. Although knowledge scores improved in the highintensity group, it is unlikely that improved knowledge was the sole
+reason for improvement in clinical outcomes, and our mediation
+analysis supports that conclusion. Home telehealth can facilitate
+detection of key clinical symptoms that occur between regular physician visits. Several studies have evaluated the effectiveness of home
+telehealth in chronic disease management, and results have been
+mixed.1,2 Thus, the mechanism of effect for improvement in our study
+is not clear. Future studies should provide detailed descriptions of
+intervention components in order to determine how and why these
+interventions work.
+Acknowledgments
+The research reported here was supported by the Department of
+Veterans Affairs, Veterans Health Administration, the Health Services Research and Development (VA HSR&D) Service (number
+NRI 03-312) and a VA HSR&D Career Development Award to B.W.,
+and the VA HSR&D Center for Comprehensive Access & Delivery
+Research and Evaluation at the Iowa City VA Medical Center, Iowa
+City, IA.
+Disclosure Statement
+No competing financial interests exist.
+REFERENCES
+1. Farmer A, Gibson OJ, Tarassenko L, Neil A. A systematic review of telemedicine
+interventions to support blood glucose self-monitoring in diabetes. Diabet Med
+2005;22:1372–1378.
+2. Jaana M, Pare G. Home telemonitoring of patients with diabetes: A systematic
+assessment of observed effects. J Eval Clin Pract 2007;13:242–253.
+3. Wakefield BJ, Holman J, Ray A, et al. Effectiveness of home telehealth in comorbid diabetes and hypertension: A randomized controlled trial. J Telemed E
+Health 2011;17:254–261.
+WAKEFIELD ET AL.
+578 TELEMEDICINE and e-HEALTH OCTOBER 2012
+4. Lorig KR, Stewart A, Ritter P, Gonzalez V, Laurent D, Lynch J. Outcome measures
+for health education and other health care interventions. Thousand Oaks, CA:
+Sage Publications, Inc., 1996.
+5. Edwards D. Psychological factors affecting adherence to metabolic control in
+diabetes mellitus [Doctoral Dissertation]. Iowa City: Psychology University of
+Iowa, 1998.
+6. Uttech K, Weinberger M, Smasa G, et al. Medication use, compliance, and
+knowledge in ambulatory elderly with polypharmacy [abstract]. J Am Geriatr
+Soc 1992;40:SA74.
+7. Demiris G, Speedie S, Finkelstein S. A questionnaire for the assessment of
+patients’ impressions of the risks and benefits of home telecare. J Telemed
+Telecare 2000;6:278–284.
+8. Baron RM, Kenny DA. The moderator–mediator variable distinction in social
+psychological research: Conceptual, strategic, and statistical considerations.
+J Pers Soc Psychol 1986;51:1173–1182.
+9. Boren SA, Fitzner KA, Panhalkar PS, Specker JE. Costs and benefits associated
+with diabetes education: A review of the literature. Diabetes Educ 2009;
+35:72–96.
+10. Norris SL, Engelgau MM, Narayan KM. Effectiveness of self-management
+training in type 2 diabetes: A systematic review of randomized controlled trials.
+Diabetes Care 2001;24:561–587.
+11. Nelson KM, McFarland L, Reiber G. Factors influencing disease selfmanagement among veterans with diabetes and poor glycemic control. J Gen
+Intern Med 2007;22:442–447.
+12. Stewart MA. Effective physician-patient communication and health outcomes:
+A review. CMAJ 1995;152:1423–1433.
+13. Martin MY, Kohler C, Kim YI, et al. Taking less than prescribed: Medication
+nonadherence and provider-patient relationships in lower-income, rural
+minority adults with hypertension. J Clin Hypertens 2010;12:706–713.
+14. Naik AD, Kallen MA, Walder A, Street RL Jr. Improving hypertension control in
+diabetes mellitus: The effects of collaborative and proactive health
+communication. Circulation 2008;117:1361–1368.
+15. Lemay CA, Beagan BM, Ferguson WJ, Hargraves JL. Lessons learned from a
+collaborative to improve care for patients with diabetes in 17 community health
+centers, Massachusetts, 2006. Prev Chron Dis 2010;7:A83.
+16. Wakefield BJ, Holman JE, Ray A, Scherubel M. Patient perceptions of a remote
+monitoring intervention for chronic disease management. J Gerontol Nurs
+2011;37:16–20.
+17. Young L, Foster L, Silander A, Wakefield BJ. Home telehealth: Patient
+satisfaction, program functions, and challenges for the care coordinator.
+J Gerontol Nurs 2011;37:38–46.
+Address correspondence to:
+Bonnie J. Wakefield, Ph.D., R.N.
+Center for Comprehensive Access &
+Delivery Research and Evaluation
+Iowa City Veterans Affairs Medical Center
+601 Highway 6 West
+Iowa City, IA 52246
+E-mail: wakefieldb@missouri.edu
+Received: November 8, 2011
+Revised: January 3, 2012
+Accepted: January 4, 2012
+OUTCOMES OF A HOME TELEHEALTH INTERVENTION
+ª MARY ANN LIEBERT, INC.  VOL. 18 NO. 8  OCTOBER 2012 TELEMEDICINE and e-HEALTH 579

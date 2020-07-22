@@ -1,0 +1,982 @@
+﻿Articles
+1252 www.thelancet.com Vol 374 October 10, 2009
+Nortriptyline and gabapentin, alone and in combination
+for neuropathic pain: a double-blind, randomised controlled
+crossover trial
+Ian Gilron, Joan M Bailey, Dongsheng Tu, Ronald R Holden, Alan C Jackson, Robyn L Houlden
+Summary
+Background Drugs for neuropathic pain have incomplete effi cacy and dose-limiting side-eff ects when given as
+monotherapy. We assessed the effi cacy and tolerability of combined nortriptyline and gabapentin compared with each
+drug given alone.
+Methods In this double-blind, double-dummy, crossover trial, patients with diabetic polyneuropathy or postherpetic
+neuralgia, and who had a daily pain score of at least 4 (scale 0–10), were enrolled and treated at one study site in
+Canada between Nov 5, 2004, and Dec 13, 2007. 56 patients were randomised in a 1:1:1 ratio with a balanced Latin
+square design to receive one of three sequences of daily oral gabapentin, nortriptyline, and their combination. In
+sequence, a different drug was given to each randomised group in three treatment periods. During each 6-week
+treatment period, drug doses were titrated towards maximum tolerated dose. The primary outcome was mean daily
+pain at maximum tolerated dose. Analysis was by intention to treat. This trial is registered, number
+ISRCTN73178636.
+Findings 45 patients completed all three treatment periods; 47 patients completed at least two treatment periods and
+were analysed for the primary outcome. Mean daily pain (0–10; numerical rating scale) was 5·4 (95% CI 5·0 to 5·8)
+at baseline, and at maximum tolerated dose, pain was 3·2 (2·5 to 3·8) for gabapentin, 2·9 (2·4 to 3·4) for nortriptyline,
+and 2·3 (1·8 to 2·8) for combination treatment. Pain with combination treatment was signifi cantly lower than with
+gabapentin (–0·9, 95% CI –1·4 to –0·3, p=0·001) or nortriptyline alone (–0·6, 95% CI –1·1 to –0·1, p=0·02). At
+maximum tolerated dose, the most common adverse event was dry mouth, which was signifi cantly less frequent in
+patients on gabapentin than on nortriptyline (p<0·0001) or combination treatment (p<0·0001). No serious adverse
+events were recorded for any patients during the trial.
+Interpretation Combined gabapentin and nortriptyline seems to be more effi cacious than either drug given alone for
+neuropathic pain, therefore we recommend use of this combination in patients who show a partial response to either
+drug given alone and seek additional pain relief. Future trials should compare other combinations to their respective
+monotherapies for treatment of such pain.
+Funding Canadian Institutes of Health Research.
+Introduction
+First described by the International Association for the
+Study of Pain in 1994 as pain ‘‘initiated or caused by a
+primary lesion or dysfunction in the nervous system’’,1
+neuropathic pain aff ects more than 2–3% of the general
+population,2,3 and its precise defi nition continues to be
+reassessed.4
+ Disorders causing neuropathic pain
+include cervical or lumbar radiculopathy, diabetic polyneuropathy, post-traumatic neuropathy, and postherpetic neuralgia. Neuropathic pain impairs patients’
+mood, quality of life, daily activities, and occupational
+performance, and generates health-care costs three
+times higher than in matched controls.5
+ Such pain
+costs an estimated US$40 billion per year in the USA
+alone.6
+Gabapentin and nortriptyline are two of several fi rstline drugs with the most favourable therapeutic profi les.7,8
+However, when given as monotherapy, the maximum
+tolerated doses of these drugs rarely reduce pain by more
+than 60% and provide relief in only 40–60% of patients
+because of incomplete effi cacy and dose-limiting sideeff ects.7,8 Combination of diff erent drugs could provide
+additive or synergistic analgesia thus leading to increased
+effi cacy or tolerability, or both. The merits of this strategy
+were shown in a previous trial in which combined
+morphine and gabapentin had superior analgesic effi cacy
+to either drug given alone.9
+Gabapentin is a 3-alkylated analogue of γ aminobutyric
+acid; it modulates α-2-δ calcium channel subunits, which
+are thought to be important in neuropathic pain.10
+Nortriptyline is a metabolite of amitriptyline with several
+putative pharmacological mechanisms including blockade of norepinephrine and serotonin uptake, blockade of
+sodium channels, and sympathetic blockade and antagonism of N-methyl-D-aspartate glutamate receptors.11 A
+preclinical study in a nociceptive pain model suggests
+that synergistic interactions could occur between these
+two drug classes.12
+Lancet 2009; 374: 1252–61
+Published Online
+September 30, 2009
+DOI:10.1016/S0140-
+6736(09)61081-3
+See Comment page 1218
+Department of Anesthesiology
+(Prof I Gilron MD,
+J M Bailey MEd), Department
+of Pharmacology and
+Toxicology (Prof I Gilron),
+Department of Mathematics
+and Statistics (Prof D Tu PhD),
+Department of Psychology
+(Prof R R Holden PhD), and
+Department of Medicine,
+Division of Endocrinology
+(Prof R L Houlden MD),
+Queen’s University, Kingston,
+ON, Canada; Kingston
+General Hospital, Kingston,
+ON, Canada (Prof I Gilron,
+J M Bailey, Prof R L Houlden);
+and Department of Internal
+Medicine, Section of
+Neurology, University of
+Manitoba, Winnipeg, MB,
+Canada (Prof A C Jackson MD)
+Correspondence to:
+Prof Ian Gilron, Director of
+Clinical Pain Research,
+Department of Anesthesiology
+and Department of
+Pharmacology and Toxicology,
+Queen’s University, 76 Stuart St,
+Kingston, ON K7L 2V7, Canada
+gilroni@queensu.ca
+Articles
+www.thelancet.com Vol 374 October 10, 2009 1253
+We aimed to assess the effi cacy of combined gabapentin
+and nortriptyline compared with monotherapy using
+either drug for patients with neuropathic pain. Although
+diabetic polyneuropathy and postherpetic neuralgia are
+aetiologically and pathologically distinct diagnostic
+entities, they are both associated with the type of
+neuropathic pain that has similar response to treatment
+with opioids, tricyclic antidepressants, and anti convulsants
+(eg, gabapentin).7,8 Thus, we have expanded the trial to
+include these two neuropathic disorders to broaden
+generalisability, as in previous trials.9,13
+Methods
+Participants
+Patients were recruited for treatment in one study centre
+(university hospital research clinic) in Canada between
+73 patients screened
+for eligibility
+17 excluded
+2 declined to participate
+4 medical reasons
+3 inadequate pain
+3 other co-existing pain disorder
+5 questionable diagnosis
+56 enrolled and randomised
+40 diabetic polyneuropathy
+16 postherpetic neuralgia
+19 allocated GCN treatment
+sequence
+19 on gabapentin
+16 on combined gabapentin
+and nortriptyline
+16 on nortriptyline 17 on combined gabapentin
+and nortriptyline
+17 on gabapentin
+3 withdrew*
+1 onset of painful arthritic
+disorder
+1 oedema, ataxia, and
+drowsiness
+1 dizziness and ataxia
+1 withdrew because of
+absence of efficacy
+15 completed all treatment periods
+10 diabetic polyneuropathy
+5 postherpetic neuralgia
+15 completed all treatment periods
+11 diabetic polyneuropathy
+4 postherpetic neuralgia
+15 completed all treatment periods
+12 diabetic polyneuropathy
+3 postherpetic neuralgia
+2 withdrew
+1 oedema
+1 depressed
+18 on gabapentin 18 on nortriptyline
+3 withdrew
+1 failure to adhere to protocol
+1 non-cardiac chest pain
+1 inability to concentrate
+1 withdrew because of
+insomnia, nausea, vomiting,
+and diaphoresis
+1 with postherpetic
+neuralgia withdrew
+because of onset of
+sciatica†
+18 on nortriptyline 19 on combined gabapentin
+and nortriptyline
+Treatment
+period A
+Treatment
+period B
+Treatment
+period C
+18 allocated NGC treatment
+sequence
+19 allocated CNG treatment
+sequence
+Figure 1: Trial profi le
+GCN=gabapentin, combined nortriptyline and gabapentin, and nortriptyline. NGC=nortriptyline, gabapentin, and combined nortriptyline and gabapentin.
+CNG=combined nortriptyline and gabapentin, nortriptyline, and gabapentin. *Two patients who withdrew during treatment period B went on to participate in
+treatment period C. †Patient completed the phase on maximum tolerated dose of nortriptyline before withdrawal and therefore was included in calculations for
+patients receiving nortriptyline. 
+Articles
+1254 www.thelancet.com Vol 374 October 10, 2009
+Nov 5, 2004, and Dec 13, 2007. Patients with diabetic
+polyneuropathy satisfi ed diagnostic criteria for diabetes
+mellitus,14 and suff ered from distal, symmetric, sensory
+diabetic polyneuropathy. Diabetic polyneuropathy was
+established by at least a moderate decrease in pinprick,
+temperature or vibration sense in both feet, or by
+bilaterally decreased or absent ankle jerk refl exes. Patients
+with postherpetic neuralgia had had an eruption of a
+herpes zoster rash, which was recorded by a clinician,
+6 months or more before enrolment. After telephone
+screening, patients were invited to the clinic for recording
+of history, physical examination, detailed neurological
+examination, laboratory tests, and an electrocardiogram.
+Eligible patients had daily pain (score ≥4 on a scale of
+0–10) for at least 6 months directly preceding the start of
+the trial, aspartate aminotransferase and alanine
+aminotransferase concentration of 120% of the upper
+limit of normal or less, serum creatinine concentration of
+150% of the upper limit of normal or less, and haemoglobin
+A1c concentration of less than 13%. Patients had suffi cient
+cognitive function and language skills for telephone
+communication and completion of study questionnaires.
+Exclusion criteria included patient history or laboratory
+results that suggested the presence of an inherited
+neuropathy or neuropathy attributable to other causes,
+such as hypothyroidism, vitamin B12 defi ciency,
+connective tissue disease, amyloidosis, and toxic
+exposure. Other exclusions were any major organ system
+disease, cardiovascular autonomic neuropathy, baseline
+postural hypotension of more than 20 mm Hg, sedation
+or ataxia due to concomitant drugs or other cause, urinary
+symptoms attributable to benign prostatic hypertrophy
+in male participants, psychiatric or substance abuse
+disorder, hypersensitivity to any of the study drugs, or a
+coexisting disorder causing pain as severe as the
+neuropathic pain. Women of childbearing potential were
+required to receive a highly eff ective form of
+contraception.
+Trial-related health care was provided free of charge
+and trial participants were reimbursed for trial-related
+travel expenses. No other compensation was off ered to
+trial participants at any time during the study. All
+participants supplied written informed consent. This
+trial received institutional ethics approval from Queen’s
+University, Kingston, ON, Canada.
+Procedures
+This randomised trial of three treatments—gabapentin,
+nortriptyline, and combined gabapentin and nor trip tyline—had a three-period (A, B, and C) crossover design
+with 6 weeks per treatment period. As per a balanced
+Latin square crossover design, patients were randomised
+(double-blind) in a 1:1:1 ratio and allocated to one of three
+possible treatment sequences to be taken in treatment
+period A, B, and C, respectively: gabapentin, combined
+treatment, and nortriptyline (GCN); nortriptyline,
+gabapentin, and combined treatment (NGC); or
+combined treatment, nortriptyline, and gabapentin
+(CNG). A trial pharmacist prepared a concealed allocation
+schedule by computer randomisation of these three
+sequences, in blocks of three, to a consecutive number
+series; the pharmacist had no further participation in the
+trial. Patients were assigned in turn to the next
+consecutive number, and the corresponding series of
+study drugs was dispensed.
+Drugs were given as yellow and orange capsules to
+maintain double-blinding. Capsules were identical in
+appearance for all treatments as per a double-dummy
+design. Yellow capsules were given twice daily and
+orange capsules were given three times daily. For each
+treatment, yellow and orange capsules contained,
+respectively, placebo and 400 mg gabapentin, 10 mg
+nortriptyline and placebo, or 10 mg nortriptyline and
+400 mg gabapentin. Target daily dose ceilings were
+3600 mg gabapentin and 100 mg nortriptyline, either
+singly or in combination.
+Patients completed a diary at baseline with pain
+intensity ratings for 7 days after discontinuation of
+tricyclic antidepressants, or gabapentin or pregabalin,
+Patients with diabetic
+polyneuropathy (n=40)
+Patients with postherpetic
+neuralgia (n=16)
+Age (years) 61 (53–69) 68 (65–73)
+Sex
+Men 26 (65%) 9 (56%)
+Women 14 (35%) 7 (44%)
+Ethnic group*
+White 40 (100%) 16 (100%)
+Duration of pain or time since herpes zoster
+onset (years)
+5·2 (3·4) 2·8 (4·3)
+Duration of diabetes (years) 5·8 (5·8) NA
+Site of postherpetic neuralgia
+Trigeminal NA 3 (19%)
+Cervical NA 4 (25%)
+Thoracic NA 9 (56%)
+Pain intensity (0–10; NRS)† 5·5 (1·5) 5·0 (1·3)
+Allodynia 29 (73%) 12 (75%)
+Concomitant drugs
+None 22 (55%) 6 (38%)
+Opioids 8 (20%) 4 (25%)
+Acetaminophen or NSAIDs 14 (35%) 6 (38%)
+Previous drugs
+None 4 (10%) 0
+Short-acting opioids as needed 11 (28%) 11 (69%)
+Sustained-release opioids 3 (8%) 3 (19%)
+Gabapentin or pregabalin 8 (20%) 7 (44%)
+Tricyclic antidepressant 13 (33%) 5 (31%)
+Carbamazepine or phenytoin 1 (3%) 4 (25%)
+Data are median (IQR), number (%), or mean (SD). NA=not applicable. NRS=numerical rating scale.
+NSAID=non-steroidal anti-infl ammatory drug. *Established from hospital registration data. †Measured on a scale with
+0 indicating no pain, and 10 indicating the worst pain imaginable.
+Table 1: Demographic characteristics at baseline
+Articles
+www.thelancet.com Vol 374 October 10, 2009 1255
+or both before starting to take the study drug. Patients
+taking, and perceiving benefi t from, sustained-release
+opioids, non-steroidal anti-infl ammatory drugs, or
+paracetamol were allowed to continue these drugs at a
+steady dose for the entire study. However, procedural
+pain treatments (eg, nerve blocks or acupuncture) were
+forbidden. The dose-escalation schedule for each set of
+tablets was identical for every treatment period. During
+the fi rst 24 days of each 6-week period, the dose was
+escalated towards a maximum tolerated dose or the
+target ceiling dose, whichever was reached fi rst.
+Days 25–31 of each treatment period were classed as
+the patients’ maximum tolerated dose for that treatment.
+Days 32–35 of each treatment period were classed as
+the dose taper phase, and days 36–42 were the drug
+washout phase.
+A research nurse telephoned patients twice weekly to
+record and assess adverse events by open-ended
+questioning, and guide drug dose titration; the nurse
+was masked for the entire trial. With each dose increase,
+adverse events were rated by the patient (mild, moderate,
+or severe), and patients were asked if they could tolerate
+the present dose for another 2–3 days. If so, this dose
+was continued with the expectation that tolerance to
+side-eff ects would develop. If side-eff ects were
+intolerable or did not improve, or both, the dose was
+decreased to the previous dose-titration step until the
+next scheduled telephone call. At a subsequent telephone
+call, an increase to the dose at which side-eff ects were a
+problem was attempted. If the increased dose resulted
+in intolerable side-eff ects, at the next telephone call the
+dose was decreased back to the previous dose, which
+was then defi ned as the maximum tolerated dose. If
+adverse events or lack of effi cacy necessitated withdrawal
+from the study treatment, patients were off ered the
+opportunity to pursue the next drug treatment in
+sequence in the next treatment phase, after taper and
+washout of the treatment from which they withdrew.
+Outcome measures were consistent with Initiative on
+Methods, Measurement, and Pain Assessment in
+Clinical Trials (IMMPACT) guidelines,15 and included
+measures of pain intensity, interference with function,
+mood, quality of life, and global pain relief. The primary
+outcome was pain intensity (0–10 on a numerical rating
+scale [NRS]), which was rated three times daily, and the
+mean was taken over 7 days at the maximum tolerated
+dose. Secondary outcomes were maximum tolerated
+dose of study drug, serum concentration of study drug,
+brief pain inventory,16 patient-reported nocturnal pain
+(rated 0–10, for the preceding night during each
+telephone contact), short-form McGill pain questionnaire
+(SF-MPQ),17 short-form 36-item general health survey
+(SF-36),18 Beck depression inventory,19 adverse events,
+serious adverse events, global pain relief (rated pain
+worse, no relief, slight relief, moderate relief, a lot of
+relief, or complete relief), results of blinding
+questionnaires completed by patients and the research
+nurse, and bodyweight.
+5
+4
+3
+2
+1
+0
+Treatment period A
+Dose
+titration MTD
+Dose taper Washout
+Mean pain intensity (0–10; NRS)
+Treatment period B Treatment period C
+Time (days)
+Dose
+titration MTD
+Dose taper Washout Dose
+titration MTD
+Dose taper Washout
+1 1 5 10 15 20 25 30 1
+NGC treatment sequence
+GCN treatment sequence
+CNG treatment sequence
+35 40 5 10 15 20 25 30 35 40 5 10 15 20 25 30 35 40
+Figure 2: Mean daily pain intensity
+ Each treatment period contained phases of drug dose titration (24 days), maximum tolerated dose (MTD; 7 days), dose taper (4 days), and washout (7 days). NRS=numerical rating scale.
+NGC=nortriptyline, gabapentin, and combined nortriptyline and gabapentin. GCN=gabapentin, combined nortriptyline and gabapentin, and nortriptyline. CNG=combined nortriptyline and
+gabapentin, nortriptyline, and gabapentin.
+Articles
+1256 www.thelancet.com Vol 374 October 10, 2009
+Statistical analysis
+The preplanned main analysis compared pain scores for
+combination treatment versus monotherapy for patients
+on the maximum tolerated dose. On the basis of previous
+variance estimates and accounting for two pairwise
+comparisons (combination treatment vs gabapentin or
+nortriptyline), we calculated that 40 patients would
+provide an 80% probability of detecting a mean diff erence
+between treatments of about half of a clinically
+signifi cant20 amount of pain reduction (α=0·05, twosided). Dropout rates in previous studies were about 10%
+per 4–6-week treatment period, therefore we anticipated
+that enrolment of 58 patients would yield 40 who
+completed the study.
+Patients completing at least two study treatment
+periods (providing one pairwise comparison) were
+included in the effi cacy analysis; analysis was by intention
+to treat. Patients receiving at least one dose of any study
+drug were included in analyses of adverse events. Mean
+pain intensity was calculated from patient diaries while
+patients were on the maximum tolerated dose. For
+inclusion, more than 50% of the scores had to be
+available; otherwise, the mean daily pain intensity was
+treated as missing. A linear mixed model21 was formed
+with fi xed eff ects of drug treatment, treatment sequence,
+treatment period, and the fi rst-order carryover term, and
+the random eff ect as patient (nested in sequence); the
+model was fi rst fi tted with the pain intensity data. If the
+carryover eff ect was not signifi cant, then a reduced model
+excluding the carryover term was refi tted.
+According to Jones and Kenward,21 the extent of the
+carryover factor in the second and third treatment
+period was defi ned as treatment received in the fi rst
+and second period, respectively; the extent of carryover
+in the fi rst period was the same but an arbitrary
+treatment for all patients. The model was identifi able
+since treatment period was another factor in the model.
+The eff ect of carryover was fi rst tested, and if it was not
+statistically signifi cant, this term was dropped from the
+linear mixed model. The least-square mean (SD)
+estimated from the initial or reduced model was
+calculated for every drug treatment. For treatment
+eff ects, according to Fisher’s least signifi cant diff erence
+method for multiple comparisons,22 the global diff erence
+between all the treatment groups was fi rst tested in the
+model. Only when this test was signifi cant, all three
+pairwise comparisons were made with the estimated
+contrast from the initial or reduced model. As a
+secondary analysis, change in pain during each
+treatment period was calculated as the diff erence
+between pain at treatment period baseline (mean of last
+3 days of baseline before study start, or mean of last
+3 days of washouts preceding periods B and C) and pain
+on treatment (mean of last 3 days on maximum
+tolerated dose). The percentage change in pain (change
+in pain/treatment period baseline) was analysed as per
+the above linear mixed model. Secondary continuous
+outcome measures were analysed in the same way with
+baseline scores included as an additional fi xed eff ect
+in the model. Proportion data were analysed by
+Fisher’s exact method.23 All reported p values are twosided. All analyses were done with SAS software
+(version 8.0).
+This trial is registered, number ISRCTN73178636.
+Baseline
+(n=56)
+Gabapentin
+(n=46)
+p value* Nortriptyline (n=50) p value* Combined gabapentin
+and nortriptyline (n=50)
+Daily pain intensity (0–10; NRS)† 5·4 (5·0–5·8) 3·2 (2·5–3·8) 0·001 2·9 (2·4–3·4) 0·02 2·3 (1·8–2·8)
+Brief pain inventory (0–10; NRS)‡
+Worst pain in past 24 h 6·3 (0·3) 4·3 (0·4) 0·01 4·1 (0·3) 0·04 3·2 (0·3)
+Least pain in past 24 h 3·1 (0·3) 2·6 (0·3) 0·01 2·1 (0·3) 0·32 1·8 (0·3)
+Average pain 4·9 (0·2) 3·3 (0·3) 0·002 3·1 (0·2) 0·04 2·5 (0·2)
+Pain at present time 3·9 (0·3) 2·7 (0·3) ·· 2·8 (0·3) ·· 2·1 (0·3)
+Percentage pain relief on treatment NA 48·1% (5·0) 0·007 45·7% (4·9) 0·002 63·4% (4·9)
+Pain interference items (0–10; NRS)
+General activity 3·9 (0·4) 2·1 (0·3) ·· 2·2 (0·3) ·· 1·8 (0·3)
+Mood 3·8 (0·3) 1·5 (0·3)§ 0·51 2·1 (0·3) 0·01 1·3 (0·3)
+Walking 3·9 (0·4) 2·2 (0·3) ·· 2·0 (0·3) ·· 2·1 (0·3)
+Normal work 4·0 (0·4) 2·2 (0·3) ·· 2·3 (0·3) ·· 2·1 (0·3)
+Social relations 2·8 (0·3) 1·4 (0·3) ·· 1·4 (0·3) ·· 1·1 (0·3)
+Sleep 5·1 (0·4) 2·2 (0·3) 0·0003 2·3 (0·3) <0·0001 1·0 (0·3)
+Enjoyment of life 4·8 (0·4) 2·1 (0·3) 0·08 2·7 (0·3) 0·0005 1·5 (0·3)
+Data are mean (95% CI), mean (SE), or percentage (rating on a scale of 0–10). For items rated on a scale of 0–10, increasing numbers indicate increasing pain and pain
+interference. NRS=numerical rating scale. NA=not applicable. *p values are for the diff erence between each drug treatment and the combined treatment group; where values
+are not shown, p values for the global test of treatment were not signifi cant so no pairwise comparisons were done. †Measured for 7 days at baseline, and for 7 days at
+maximum tolerated dose. ‡Short form of inventory. §p=0·066 for the diff erence between gabapentin and nortriptyline.
+Table 2: Pain intensity at baseline and at maximum tolerated dose of treatment
+Articles
+www.thelancet.com Vol 374 October 10, 2009 1257
+Role of the funding source
+Peer reviewers from the Canadian Institutes of Health
+Research commented on early versions of the trial
+protocol and, as such, aff ected the study design. The
+sponsor of the study did not participate in data collection,
+data analysis, data interpretation, or writing of the report.
+The corresponding author had full access to all the data
+in the study and had fi nal responsibility for the decision
+to submit for publication.
+Results
+Figure 1 shows the trial profi le. Of 73 patients screened
+for eligibility, almost a quarter were excluded. 56 patients
+with either diabetic polyneuropathy (71%) or postherpetic
+neuralgia (29%) were enrolled and randomised. 47 (84%)
+patients completed at least two treatment periods and
+were included in effi cacy analyses; 11 patients withdrew
+from at least one treatment period, and therefore
+45 (80%) completed all treatment periods. Table 1 shows
+the demographic characteristics of patients at baseline.
+Allodynia was recorded in about three-quarters of
+patients which, in the case of the diabetic polyneuropathy
+group, was somewhat higher than was reported in
+previous studies.9,24
+Figure 2 shows the primary outcome of mean daily
+pain intensity throughout the trial for each treatment
+sequence group. No signifi cant eff ects of treatment
+sequence, treatment period, or carryover were recorded
+in the main analysis, but eff ects of drug treatment were
+statistically signifi cant (p=0·0043). Pain intensity at
+baseline and maximum tolerated dose is shown in
+table 2; pain with combination treatment was
+signifi cantly lower than with gabapentin (–0·9, 95% CI
+–1·4 to –0·3) or nortriptyline alone (–0·6, 95% CI –1·1
+to –0·1). For patients with diabetic polyneuropathy, pain
+with combination treatment (2·2, 95% CI 1·5–2·8) was
+signifi cantly lower than with nortriptyline (2·9,
+2·3–3·6, p=0·018) or gabapentin alone (3·1, 2·4–3·7,
+p=0·009). For patients with postherpetic neuralgia,
+pain with combination treatment (2·5, 1·4–3·6) was
+lower than with nortriptyline (2·9, 1·7–4·0) or
+gabapentin alone (3·4, 2·2–4·5), but the overall eff ect
+of drug treatment was not signifi cant (p=0·054),
+possibly because of small sample size. Analysis of mean
+percentage change in pain intensity for all patients
+indicated greater pain reduction with combination
+treatment (52·8% [SE 4·6]) than with nortriptyline
+(38·8% [4·6], p=0·01) or gabapentin alone (31·1% [4·6],
+p=0·0002).
+In analysis of secondary outcomes, mean maximum
+tolerated dose of gabapentin was 2433 mg (SE 106) as
+monotherapy versus 2180 mg (108) in combination
+(p=0·0009). For nortriptyline, maximum tolerated dose
+was 61·6 mg (3·6) as monotherapy versus 50·1 mg (3·5)
+in combination (p=0·0006). At maximum tolerated dose,
+mean serum drug concentration of gabapentin was
+9·57 mg/L (SE 0·53) as monotherapy versus 9·42 mg/L
+(0·72) in combination, and nortriptyline was 0·047 mg/L
+Baseline (n=56) Gabapentin (n=46) p value* Nortriptyline (n=50) p value* Combined gabapentin
+and nortriptyline (n=50)
+SF-MPQ
+Sensory score 14·5 (0·1) 6·7 (0·8) ·· 7·4 (0·8) ·· 5·3 (0·8)
+Aff ective score 4·3 (0·1) 1·6 (0·3) ·· 2·0 (0·3) ·· 1·4 (0·3)
+Total score 18·8 (0·2) 8·3 (1·0) ·· 9·4 (1·0) ·· 6·7 (1·0)
+Visual analogue scale (0–10 cm) 4·3 (0·4) 2·4 (0·3) ·· 2·5 (0·3) ·· 2·0 (0·3)
+Present pain intensity score
+(0–3)
+2·0 (0·2) 1·5 (0·2) ·· 1·6 (0·1) ·· 1·3 (0·1)
+SF-36 domains
+Physical functioning 57·1 (3·8) 61·6 (2·6) ·· 61·7 (2·5) ·· 64·3 (2·5)
+Role-physical 39·7 (5·2) 54·1 (4·7) ·· 52·7 (4·6) ·· 55·6 (4·6)
+Bodily pain 39·8 (2·2) 54·6 (2·6) ·· 54·8 (2·5) ·· 59·5 (2·5)
+General health 57·4 (3·2) 58·7 (2·4) ·· 62·6 (2·4) ·· 61·7 (2·4)
+Vitality 47·4 (2·7) 58·5 (2·7)† 0·8 49·3 (2·6) <0·0001 59·2 (2·6)
+Social functioning 66·1 (3·2) 83·1 (3·3) ·· 77·7 (3·2) ·· 78·5 (3·2)
+Role-emotional 60·1 (5·4) 75·8 (5·4) ·· 67·1 (5·3) ·· 69·5 (5·3)
+Mental health 69·6 (2·1) 78·8 (2·2) ·· 75·8 (2·1) ·· 77·5 (2·1)
+SF-36 total score 56·8 (2·1) 65·4 (1·8) ·· 63·1 (1·8) ·· 66·3 (1·8)
+Beck depression inventory score 8·3 (0·7) 5·8 (0·5)‡ 0·5 6·8 (0·5) 0·01 5·4 (0·5)
+Data are mean (SE). Higher SF-MPQ scores indicate more pain, higher SF-36 scores indicate better quality of life, and higher Beck depression inventory scores indicate more
+depression. *p values are for the diff erence between each drug treatment and the combined treatment group; where values are not shown, p values for the global test of
+treatment were not signifi cant so no pairwise comparisons were done. †p<0·0001 for the diff erence between gabapentin and nortriptyline. ‡p=0·075 for the diff erence
+between gabapentin and nortriptyline.
+Table 3: Short-form McGill pain questionnaire (SF-MPQ), short-form 36-item general health survey (SF-36), and Beck depression inventory (BDI) scores 
+Articles
+1258 www.thelancet.com Vol 374 October 10, 2009
+(0·005) as monotherapy versus 0·045 mg/L (0·005) in
+combination, but eff ect of drug treatment was not
+signifi cant (p=0·37 for diff erence between combination
+treatment and gabapentn; p=0·11 for diff erence between
+combination treatment and nortriptyline).
+Brief pain inventory scores for worst pain and average
+pain were signifi cantly lower with combination
+treatment than with gabapentin or nortriptyline alone,
+and pain relief with combination treatment was
+signifi cantly higher (table 2). Brief pain inventory scores
+also indicated that sleep interference was signifi cantly
+lower with combination treatment than with gabapentin
+or nortriptyline alone. For mood and enjoyment of life,
+combination treatment had signifi cantly lower
+interference than nortriptyline alone. Interference with
+mood was lower for gabapentin than nortriptyline, but
+the diff erence was not signifi cant (table 2). Nocturnal
+pain at maximum tolerated dose was lower with
+combination treatment (1·4 [SE 0·4]) than with
+gabapentin (2·2 [0·4]) or nortriptyline alone (2·0 [0·4]),
+but the overall eff ect of drug treatment was not
+signifi cant (p=0·13).
+SF-MPQ results indicated that combination treatment
+had a reduced sensory eff ect and total pain score (p=0·08
+and p=0·07, respectively, for overall eff ect of drug
+treatment) compared with gabapentin or nortriptyline
+alone (table 3). Signifi cantly higher vitality was recorded
+for combination treatment and gabapentin alone than
+for nortriptyline alone in SF-36; moreover, SF-36 total
+score showed weak evidence that combination treatment
+was better than monotherapy (p=0·057 for overall eff ect
+of drug treatment). Combination treatment was also
+associated with a signifi cantly lower Beck depression
+inventory score than nortriptyline alone; gabapentin also
+had a lower score than nortriptyline, but the diff erence
+was not signifi cant (table 3).
+Table 4 describes adverse events reported by patients
+during drug dose titration and at maximum tolerated
+dose. During dose titration, moderate or severe dry
+mouth was signifi cantly more frequent with nortriptyline
+or combination treatment than with gabapentin,
+whereas inability to concentrate was signifi cantly less
+frequent with nortriptyline than with gabapentin. At
+maximum tolerated dose, moderate or severe dry mouth
+was signifi cantly more frequent with nortriptyline or
+combination treatment than with gabapentin. No other
+signifi cant diff erences in adverse events were recorded.
+No serious adverse events were recorded for any patients
+during the trial.
+Of the patients who completed a given treatment
+period and reported at least moderate pain relief at
+maximum tolerated dose, 65% (30/46) were on
+gabapentin, 76% (38/50) were on nortriptyline, and 84%
+(42/50) were on combination treatment, with no
+During dose titration At maximum tolerated dose
+Gabapentin
+(n=54)
+Nortriptyline
+(n=52)
+Combined gabapentin
+and nortriptyline (n=52)
+Gabapentin
+(n=46)
+Nortriptyline
+(n=50)
+Combined gabapentin
+and nortriptyline (n=50)
+Dry mouth 11 (20%) 29 (56%)* 27 (52%)† 8 (17%) 29 (58%)‡ 30 (60%)§
+Fatigue 7 (13%) 9 (17%) 6 (12%) 2 (4%) 6 (12%) 4 (8%)
+Somnolence 9 (17%) 8 (15%) 9 (17%) 1 (2%) 1 (2%) 4 (8%)
+Insomnia 3 (6%) 9 (17%) 6 (12%) 0 2 (4%) 2 (4%)
+Dizziness 7 (13%) 6 (12%) 6 (12%) 4 (9%) 2 (4%) 4 (8%)
+Headache 7 (13%) 5 (10%) 2 (4%) 2 (4%) 2 (4%) 1 (2%)
+Constipation 4 (7%) 6 (12%) 5 (10%) 1 (2%) 1 (2%) 1 (2%)
+Ataxia 5 (9%) 1 (2%) 5 (10%) 3 (7%) 1 (2%) 5 (10%)
+Feeling intoxicated 6 (11%) 1 (2%) 4 (8%) 1 (2%) 0 2 (4%)
+Inability to concentrate 6 (11%) 0¶ 3 (6%) 2 (4%) 0 2 (4%)
+High blood sugar || 4 (7%) 3 (6%) 4 (8%) 5 (11%) 2 (4%) 3 (6%)
+Oedema 5 (9%) 2 (4%) 3 (6%) 4 (9%) 2 (4%) 4 (8%)
+Abdominal cramping 5 (9%) 3 (6%) 3 (6%) 0 0 1 (2%)
+Urinary retention 2 (4%) 4 (8%) 3 (6%) 1 (2%) 3 (6%) 2 (4%)
+Emotional lability 1 (2%) 4 (8%) 1 (2%) 1 (2%) 3 (6%) 0
+Diffi culty swallowing 0 1 (2%) 0 0 3 (6%) 1 (2%)
+Pruritus 0 3 (6%) 0 1 (2%) 1 (2%) 0
+Excessive sweating 1 (2%) 3 (6%) 0 2 (4%) 1 (2%) 0
+Weight gain 3 (6%) 1 (2%) 3 (6%) 1 (2%) 1 (2%) 0
+Blurry vision 3 (6%) 0 0 1 (2%) 0 1 (2%)
+Data are number (%). *p=0·0003 for diff erence between nortriptyline and gabapentin. †p=0·001 for diff erence between combination treatment and gabapentin. ‡p<0·0001
+for diff erence between nortriptyline and gabapentin. §p<0·0001 for diff erence between combination treatment and gabapentin. ¶p=0·03 for diff erence between
+nortriptyline and gabapentin. ||Reported by patient home blood glucose monitoring.
+Table 4: Treatment-emergent adverse events in 5% of patients or more
+Articles
+www.thelancet.com Vol 374 October 10, 2009 1259
+signifi cant diff erences between these treatments.
+According to blinding questionnaire responses, correct
+guesses by patients with respect to their treatment
+assignment were achieved by 10 (21%) patients on
+gabapentin, 18 (35%) on nortriptyline, and 15 (29%) on
+combination treatment. The research nurse correctly
+guessed patients’ treatment assignments for 28 (58%)
+patients on gabapentin, 24 (47%) on nortriptyline, and
+25 (48%) on combination treatment. Mean bodyweight
+for all participants at baseline was 91·7 kg (SE 2·9), and
+at maximum tolerated dose, mean bodyweight with
+nortriptyline (92·5 kg [0·4]) was signifi cantly lower than
+with gabapentin (93·8 kg [0·5], p=0·01) or combination
+treatment (93·5 kg [0·4], p=0·04).
+Discussion
+This trial shows that combination of an antidepressant
+and an anticonvulsant drug seems to be superior to
+monotherapy for neuropathic pain. We have shown that
+treatment with combined gabapentin and nortriptyline
+results in lower mean daily pain intensity than does
+monotherapy with either drug. Combination treatment
+also results in increased percentage change in pain, and
+reduced pain intensity and increased pain relief according
+to the brief pain inventory. At maximum tolerated dose,
+frequency of adverse events was similar across all
+treatment groups, except for increased dry mouth with
+combination treatment and nortriptyline compared with
+gabapentin. Although signifi cant diff erences in pain
+intensity between combination treatment and
+monotherapy were moderate, these diff erences are within
+the same range of magnitude as those reported in our
+previous trial comparing combination of morphine and
+gabapentin with monotherapy.9
+Combined gabapentin and nortriptyline resulted in
+clinically signifi cant improvement in sleep interference,
+a major complication of neuropathic pain.25 Since
+combination treatment improved both pain and sleep
+more than monotherapy, the weak evidence that quality
+of life was improved (according to SF-36 total scores) is
+notable. Combination treatment reduced pain more than
+monotherapy in both subgroups of diabetic polyneuropathy and postherpetic neuralgia, although the
+reduction was not signifi cant for postherpetic neuralgia.
+Reduction in both subgroups suggests that the interaction
+of the drugs—each of which as monotherapy have similar
+effi cacy for diabetic neuropathy and postherpetic
+neuralgia—was favourable in both these disorders. Our
+trial used common antidepressant and anticonvulsant
+drugs for the treatment of common disorders associated
+with neuropathic pain, but these results might not be
+generalisable to all combinations of antidepressants and
+anticonvulsants, or to all neuropathic pain disorders.
+We designed the trial as double-blind but blinding
+questionnaire responses from the research nurse were
+correct more often than might be expected by chance,
+which suggests the possibility of partial unmasking of the
+nurse, perhaps because of clinical observations. However,
+we do not believe that this unmasking would have been
+substantial enough to aff ect the course of patients’
+treatment, particularly since patients maintained a high
+degree of masking.
+The trial was designed to use simultaneous combination
+treatment as opposed to sequential treatment, which is
+more often used in clinical practice.26 Sequential
+combination treatment restricts exposure of patients to
+more than one drug if they report incomplete relief with
+the fi rst drug tried, but it might lead to suboptimum dose
+ratios for combination treatment if both drugs have
+common overlapping side-eff ects. For example, titration
+of the fi rst drug to maximum tolerated dose might lead to
+substantial sedation, thus restricting the attainable dose
+of a second sedating drug so that the dose-ratio is
+imbalanced in favour of the fi rst drug. Therefore, if
+optimum analgesic interaction requires balanced ratio of
+the two drugs, simultaneous dose titration of these drugs
+might be preferable.
+In view of the inadequate effi cacy and tolerability of
+drugs for neuropathic pain,7,8 researchers continue
+eff orts to identify new treatments.27 However, neuropathic
+pain is transmitted via several complex pathways, and
+new monotherapies might fail to provide improvements.28
+Combination of drugs to enhance effi cacy and tolerability
+is a recognised strategy for disorders such as asthma,29
+hypertension,30 and cancer.31 However, the insuffi cient
+evidence base for combination treatment in neuropathic
+pain has meant that potentially useful combinations
+have not been recognised, whereas futile or even harmful
+combinations continue to be used. For example, use of
+combined amitriptyline and fl uphenazine has been
+shown to provide inferior effi cacy and greater sedation
+than amitriptyline alone.32 Furthermore, for patients
+with lumbar radiculopathy, no signifi cant analgesia was
+reported with morphine or nortriptyline as monotherapy,
+and combination treatment failed to show effi cacy.33
+Thus, although this trial and a previous trial of combined
+morphine and gabapentin9
+ have shown positive results
+with combination treatment, not all combinations are
+benefi cial.
+We used a fi xed-time method in this trial, whereby drug
+doses were titrated towards the maximum limit of
+tolerability, and found that maximum tolerated doses of
+nortriptyline and gabapentin were signifi cantly lower as
+combination treatment than as monotherapy, which
+suggests at least some additivity of adverse events from
+drug combination. However, superior effi cacy was
+achieved with combination treatment at reduced doses
+without increased frequency of adverse events, suggesting
+that additivity for analgesia was higher than for adverse
+events. Unlike complex preclinical interaction studies
+with isobolographic analyses,34 the methods used in our
+trial cannot distinguish between additive versus
+synergistic eff ects since only the maximum tolerated
+dose was assessed rather than several diff erent drug 
+Articles
+1260 www.thelancet.com Vol 374 October 10, 2009
+doses. However, we can infer that the overall therapeutic
+profi le favours combined treatment with nortriptyline
+and gabapentin. By contrast with diff erences in maximum
+tolerated dose, diff erences in serum drug concentrations
+of gabapentin and nortriptyline between combination
+and monotherapy were not signifi cant, which could be
+due to increased pharmacokinetic variability and the
+small magnitude of diff erences.
+Combination treatment was superior to nortriptyline,
+but not gabapentin, for improvements in mood
+interference and Beck depression inventory scores;
+improvements on gabapentin were higher than on
+nortriptyline although the diff erence was not signifi cant.
+The result seems puzzling since an antidepressant
+would be expected to improve mood more than an
+anticonvulsant would, but depressed patients were
+excluded from our study, and nortriptyline doses were
+well below those used to treat depression.11 The
+possibility that treatment-related mood changes are a
+secondary eff ect of pain improvement fails to explain
+these results since lower pain scores were recorded for
+nortriptyline than gabapentin. Of previous chronic pain
+trials comparing gabapentin with a tricyclic
+antidepressant, the only one which included mood
+outcome measures reported no diff erence between
+treatments.35 Notably, Beck depression inventory and
+mood interference scores from the brief pain inventory
+in our previous trial with combined morphine and
+gabapentin also showed reduced mood interference
+with gabapentin, despite lower pain scores with
+morphine.9
+ These fi ndings suggest that gabapentin has
+a mild mood elevating eff ect independent of analgesia,
+which is an eff ect also reported in patients with
+epilepsy.36 Therefore, combination of gabapentin with
+nortriptyline can improve mood compared with
+nortriptyline alone.
+As might be expected in a real-world pragmatic trial, a
+subset of patients (27–32%) were receiving a tricyclic
+antidepressant, or gabapentin or pregabalin at some
+point before enrolment. This subgroup was heterogeneous
+with respect to drug taken, simultaneous receipt of both
+antidepressant and anticonvulsant drug classes before
+the start of the study, method of dose titration (done by
+their physician before the trial), magnitude of response
+to the drug, and timing of discontinuation before start of
+the trial. However, previous experience with these drug
+classes could have aff ected treatment response during
+the trial, thus introducing an element of partial
+enrichment.
+The design of our trial includes a direct head-to-head
+comparison of each monotherapy. This provides
+important additional information since the merits of
+diff erent treatments are generally compared with the use
+of numbers needed to treat which have several limitations.8
+In this respect, in addition to mood diff erences mentioned
+previously, we noted that the effi cacy of nortriptyline and
+gabapentin were statistically similar with respect to pain,
+dry mouth occurred signifi cantly more frequently with
+nortriptyline, and weight gain was greater with
+gabapentin. Overall, these fi ndings are consistent with
+those reported in previous trials comparing a tricyclic
+antidepressant to gabapentin.24,35,37
+In view of the potential benefi ts and drawbacks of any
+given drug combination, continued research is needed
+to develop the evidence base for rational combination
+treatment in neuropathic pain and other neuropathic
+disorders. Furthermore, no data are available to guide
+the choice of sequential versus simultaneous
+combination treatment and innovative trial designs are
+needed to address this issue. Although development of
+more eff ective and better tolerated monotherapies is
+much anticipated, our fi ndings suggest that drug
+combinations represent the most eff ective strategy for
+many patients with neuropathic pain. On the basis of
+our results, we recommend combined gabapentin and
+nortriptyline for patients who have a partial response to
+either drug alone and seek additional pain relief.
+Contributors
+All authors participated in protocol development, and IG and RRH
+selected mood and quality-of-life measures. IG and JMB ran the trial and
+collected data. IG, DT, and RRH participated in data analysis; and IG,
+DT, RRH, ACJ, and RLH participated in data interpretation. All authors
+participated in writing of the report.
+Confl icts of interest
+IG has received honoraria for consulting or being a member of an
+advisory board, or both for Pfi zer. RLH has received research grant
+support from Pfi zer. All other authors declare that they have no
+confl icts of interest.
+Acknowledgments
+We dedicate this trial to the memory of Mitchell B Max. We thank
+Mark Wallace for thoughtful comments made on previous versions.
+This study was funded by the Canadian Institutes of Health Research
+(grant numbers MCT-69422 and MSH-55041). Study drugs were
+supplied free of charge by Novopharm (gabapentin) and Apotex
+(nortriptyline); neither of these companies had any control over the
+conduct or publication of this trial. We thank Chris Gray for his
+valuable technical support on this trial.
+References
+1 Merskey H, Bogduk N. Classifi cation of chronic pain: descriptions
+of chronic pain syndromes and defi nitions of pain terms (2nd edn).
+Seattle, WA: IASP Press, 1994: 212.
+2 Hall GC, Carroll D, Parry D, McQuay HJ. Epidemiology and
+treatment of neuropathic pain: the UK primary care perspective.
+Pain 2006; 122: 156–62.
+3 Bouhassira D, Lantéri-Minet M, Attal N, Laurent B, Touboul C.
+Prevalence of chronic pain with neuropathic characteristics in the
+general population. Pain 2008; 136: 380–87.
+4 Treede RD, Jensen TS, Campbell JN, et al. Neuropathic pain:
+redefi nition and a grading system for clinical and research
+purposes. Neurology 2008; 70: 1630–35.
+5 Berger A, Dukes EM, Oster G. Clinical characteristics and economic
+costs of patients with painful neuropathic disorders. J Pain 2004;
+5: 143–49.
+6 Turk DC. Clinical eff ectiveness and cost-eff ectiveness of
+treatments for patients with chronic pain. Clin J Pain 2002;
+18: 355–65.
+7 Dworkin RH, O’Connor AB, Backonja M, et al. Pharmacologic
+management of neuropathic pain: evidence-based
+recommendations. Pain 2007; 132: 237–51.
+8 Finnerup NB, Otto M, McQuay HJ, Jensen TS, Sindrup SH.
+Algorithm for neuropathic pain treatment: an evidence based
+proposal. Pain 2005; 118: 289–305.
+Articles
+www.thelancet.com Vol 374 October 10, 2009 1261
+9 Gilron I, Bailey JM, Tu D, Holden RR, Weaver DF, Houlden RL.
+Morphine, gabapentin, or their combination for neuropathic pain.
+N Engl J Med 2005; 352: 1324–34.
+10 Field MJ, Cox PJ, Stott E, et al. Identifi cation of the alpha2-delta-1
+subunit of voltage-dependent calcium channels as a molecular
+target for pain mediating the analgesic actions of pregabalin.
+Proc Natl Acad Sci USA 2006; 103: 17537–42.
+11 Max MB, Gilron I. Antidepressants, muscle relaxants, and NMDA
+receptor antagonists. In: Loeser JD, Turk D, Chapman CR, Butler S,
+eds. Bonica’s management of pain, 3rd edn. Philadelphia, PA:
+Williams & Wilkins, 2001.
+12 Heughan CE, Sawynok J. The interaction between gabapentin and
+amitriptyline in the rat formalin test after systemic administration.
+Anesth Analg 2002; 94: 975–80.
+13 Freynhagen R, Strojek K, Griesing T, Whalen E, Balkenohl M.
+Effi cacy of pregabalin in neuropathic pain evaluated in a 12-week,
+randomised, double-blind, multicentre, placebo-controlled trial of
+fl exible- and fi xed-dose regimens. Pain 2005; 115: 254–63.
+14 American Diabetes Association. Diagnosis and classifi cation of
+diabetes mellitus. Diabetes Care 2005; 28 (suppl 1): S37–42.
+15 Dworkin RH, Turk DC, Farrar JT, et al; IMMPACT. Core outcome
+measures for chronic pain clinical trials: IMMPACT
+recommendations. Pain 2005; 113: 9–19.
+16 Cleeland CS, Ryan KM. Pain assessment: global use of the brief
+pain inventory. Ann Acad Med Singapore 1994; 23: 129–38.
+17 Melzack, R. The short-form McGill pain questionnaire. Pain 1987;
+30: 191–97.
+18 Ware JE, Snow KK, Kosinski MA, Gandek MS. SF-36 health survey
+manual and interpretation guide. Boston, MA: Nimrod Press, 1997.
+19 Beck AT, Steer RA. Beck depression inventory manual. San
+Antonio, TX: The Psychological Corporation, 1993.
+20 Farrar JT, Young JP Jr, LaMoreaux L, Werth JL, Poole RM. Clinical
+importance of changes in chronic pain intensity measured on an
+11-point numerical pain rating scale. Pain 2001; 94: 149–58.
+21 Jones B, Kenward MG. Design and analysis of cross-over trials,
+2nd edn. Boca Raton, FL: Chapman & Hall/CRC, 2003.
+22 Hochberg Y, Tamhane AC. Multiple comparison procedures.
+New York, NY: Wiley, 1987.
+23 Agresti A. Categorical data analysis. New York, NY: Wiley, 1990.
+24 Morello CM, Leckband SG, Stoner CP, Moorhouse DF,
+Sahagian GA. Randomized double-blind study comparing the
+effi cacy of gabapentin with amitriptyline on diabetic peripheral
+neuropathy pain. Arch Intern Med 1999; 159: 1931–37.
+25 Galer BS, Gianas A, Jensen MP. Painful diabetic polyneuropathy:
+epidemiology, pain description, and quality of life.
+Diabetes Res Clin Pract 2000; 47: 123–28.
+26 Raja SN, Haythornthwaite JA. Combination therapy for neuropathic
+pain—which drugs, which combination, which patients?
+N Engl J Med 2005; 352: 1373–75.
+27 Rice AS, Hill RG. New treatments for neuropathic pain.
+Annu Rev Med 2006; 57: 535–51.
+28 Gilron I, Max MB. Combination pharmacotherapy for neuropathic
+pain: current evidence and future directions. Expert Rev Neurother
+2005; 5: 823–30.
+29 Juniper EF, Jenkins C, Price MJ, James MH. Impact of inhaled
+salmeterol/fl uticasone propionate combination product versus
+budesonide on the health-related quality of life of patients with
+asthma. Am J Respir Med 2002; 1: 435–40.
+30 Law MR, Wald NJ, Morris JK, Jordan RE. Value of low dose
+combination treatment with blood pressure lowering drugs:
+analysis of 354 randomised trials. BMJ 2003; 326: 1427.
+31 Lilenbaum RC, Langenberg P, Dickersin K. Single agent versus
+combination chemotherapy in patients with advanced nonsmall cell
+lung carcinoma: a meta-analysis of response, toxicity, and survival.
+Cancer 1998; 82: 116–26.
+32 Graff -Radford SB, Shaw LR, Naliboff BN. Amitriptyline and
+fl uphenazine in the treatment of postherpetic neuralgia. Clin J Pain
+2000; 16: 188–92.
+33 Khoromi S, Cui L, Nackers L, Max MB. Morphine, nortriptyline and
+their combination vs placebo in patients with chronic lumbar root
+pain. Pain 2007; 130: 66–75.
+34 Tallarida RJ. An overview of drug combination analysis with
+isobolograms. J Pharmacol Exp Ther 2006; 319: 1–7.
+35 Rintala DH, Holmes SA, Courtade D, Fiess RN, Tastard LV,
+Loubser PG. Comparison of the eff ectiveness of amitriptyline and
+gabapentin on chronic neuropathic pain in persons with spinal cord
+injury. Arch Phys Med Rehabil 2007; 88: 1547–60.
+36 Harden CL, Lazar LM, Pick LH, et al. A benefi cial eff ect on mood in
+partial epilepsy patients treated with gabapentin. Epilepsia 1999;
+40: 1129–34.
+37 Chandra K, Shafi q N, Pandhi P, Gupta S, Malhotra S.
+Gabapentin versus nortriptyline in post-herpetic neuralgia patients:
+a randomized, double-blind clinical trial—the GONIP Trial.
+Int J Clin Pharmacol Ther 2006; 44: 358–63.

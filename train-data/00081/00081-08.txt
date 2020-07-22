@@ -1,0 +1,1431 @@
+﻿Articles
+www.thelancet.com Vol 377 March 5, 2011 823
+Lancet 2011; 377: 823–36
+Published Online
+February 18, 2011
+DOI:10.1016/S0140-
+6736(11)60096-2
+See Comment page 786
+*Authors contributed equally
+†Members listed at end of paper
+Wolfson Institute of Preventive
+Medicine, Barts and The London
+School of Medicine, Queen Mary
+University of London, London,
+UK (Prof P D White MD,
+J C DeCesare BSc, H L Baber BSc,
+L V Clark PhD); Mental Health
+and Neuroscience Clinical Trials
+Unit, Institute of Psychiatry,
+King’s College London, London,
+UK (K A Goldsmith MPH,
+L Potts MSc, R Walwyn MSc);
+Medical Research Council
+Biostatistics Unit, Institute
+of Public Health, University
+of Cambridge, UK
+(A L Johnson PhD); Medical
+Research Council Clinical Trials
+Unit, London, UK (A L Johnson);
+South London and Maudsley
+NHS Foundation Trust, London,
+UK (M Burgess PhD); Faculty
+of Health and Well Being,
+University of Cumbria,
+Lancaster, UK (D L Cox PhD);
+Nuffi eld Department of
+Medicine, University of Oxford,
+The John Radcliff e Hospital,
+Oxford, UK (B J Angus MD);
+Royal Free Hospital NHS Trust,
+London, UK (G Murphy MSc);
+Barts and the London
+NHS Trust, London, UK
+(J Bavinton BSc, M Murphy FRCP);
+Frenchay Hospital NHS Trust,
+Bristol, UK (H O’Dowd PhD);
+Western General Hospital,
+Edinburgh, UK
+(D Wilks FRCP[Ed]); Centre for
+the Economics of Mental Health
+Service and Population, King’s
+College London, London, UK
+(Prof P McCrone PhD);
+Academic Department of
+Psychological Medicine,
+King’s College London, London,
+UK (Prof T Chalder PhD); and
+Psychological Medicine
+Research, School of Molecular
+Comparison of adaptive pacing therapy, cognitive behaviour
+therapy, graded exercise therapy, and specialist medical care
+for chronic fatigue syndrome (PACE): a randomised trial
+P D White, K A Goldsmith, A L Johnson, L Potts, R Walwyn, J C DeCesare, H L Baber, M Burgess, L V Clark, D L Cox, J Bavinton, B J Angus, G Murphy,
+M Murphy, H O’Dowd, D Wilks, P McCrone, T Chalder*, M Sharpe*, on behalf of the PACE trial management group†
+Summary
+Background Trial fi ndings show cognitive behaviour therapy (CBT) and graded exercise therapy (GET) can be eff ective
+treatments for chronic fatigue syndrome, but patients’ organisations have reported that these treatments can be harmful
+and favour pacing and specialist health care. We aimed to assess eff ectiveness and safety of all four treatments.
+Methods In our parallel-group randomised trial, patients meeting Oxford criteria for chronic fatigue syndrome were
+recruited from six secondary-care clinics in the UK and randomly allocated by computer-generated sequence to receive
+specialist medical care (SMC) alone or with adaptive pacing therapy (APT), CBT, or GET. Primary outcomes were fatigue
+(measured by Chalder fatigue questionnaire score) and physical function (measured by short form-36 subscale score) up
+to 52 weeks after randomisation, and safety was assessed primarily by recording all serious adverse events, including
+serious adverse reactions to trial treatments. Primary outcomes were rated by participants, who were necessarily
+unmasked to treatment assignment; the statistician was masked to treatment assignment for the analysis of primary
+outcomes. We used longitudinal regression models to compare SMC alone with other treatments, APT with CBT, and
+APT with GET. The fi nal analysis included all participants for whom we had data for primary outcomes. This trial is
+registered at http://isrctn.org, number ISRCTN54285094.
+Findings We recruited 641 eligible patients, of whom 160 were assigned to the APT group, 161 to the CBT group, 160 to
+the GET group, and 160 to the SMC-alone group. Compared with SMC alone, mean fatigue scores at 52 weeks were
+3·4 (95% CI 1·8 to 5·0) points lower for CBT (p=0·0001) and 3·2 (1·7 to 4·8) points lower for GET (p=0·0003), but did
+not diff er for APT (0·7 [–0·9 to 2·3] points lower; p=0·38). Compared with SMC alone, mean physical function scores
+were 7·1 (2·0 to 12·1) points higher for CBT (p=0·0068) and 9·4 (4·4 to 14·4) points higher for GET (p=0·0005), but
+did not diff er for APT (3·4 [–1·6 to 8·4] points lower; p=0·18). Compared with APT, CBT and GET were associated with
+less fatigue (CBT p=0·0027; GET p=0·0059) and better physical function (CBT p=0·0002; GET p<0·0001). Subgroup
+analysis of 427 participants meeting international criteria for chronic fatigue syndrome and 329 participants meeting
+London criteria for myalgic encephalomyelitis yielded equivalent results. Serious adverse reactions were recorded in
+two (1%) of 159 participants in the APT group, three (2%) of 161 in the CBT group, two (1%) of 160 in the GET group,
+and two (1%) of 160 in the SMC-alone group.
+Interpretation CBT and GET can safely be added to SMC to moderately improve outcomes for chronic fatigue
+syndrome, but APT is not an eff ective addition.
+Funding UK Medical Research Council, Department of Health for England, Scottish Chief Scientist Offi ce, Department
+for Work and Pensions.
+Introduction
+Chronic fatigue syndrome is characterised by chronic
+disabling fatigue in the absence of an alternative
+diagnosis.1
+ Myalgic encephalomyelitis is thought by some
+researchers to be the same disorder and by others as
+diff erent with separate diagnostic criteria.1,2 The
+prevalence of chronic fatigue syndrome is between 0·2%
+and 2·6% worldwide, dependent on the defi nition used.1
+Prognosis is poor if untreated.3
+Specifi c therapies can improve outcomes. The UK
+National Institute for Health and Clinical Excellence
+(NICE) recommend cognitive behaviour therapy (CBT)
+and graded exercise therapy (GET).2
+ Although this
+recommendation was supported by systematic reviews,4–7
+supporting evidence remains restricted to small trials.4–7
+Surveys by patients’ organisations in the UK have
+reported that CBT and GET are sometimes harmful, and
+have recommended pacing and specialist health care.8,9
+We designed the pacing, graded activity, and cognitive
+behaviour therapy: a randomised evaluation (PACE)
+trial10 to compare pacing, defi ned as adaptive pacing
+therapy (APT), CBT, and GET, when added to specialist
+medical care (SMC) with SMC alone. We sought evidence
+of benefi t and harm. We also aimed to compare APT
+against CBT and GET and examine these comparisons in
+subgroups satisfying diff erent diagnostic criteria for
+chronic fatigue syndrome and myalgic encephalomyelitis.
+We postulated that CBT and GET would be more eff ective 
+Articles
+824 www.thelancet.com Vol 377 March 5, 2011
+than would APT and SMC, and that APT would be more
+eff ective than SMC alone.
+Methods
+Study design and participants
+PACE was a parallel, four group, multicentre, randomised
+trial, with outcomes assessed up to 52 weeks after
+randomisation for patients with chronic fatigue
+syndrome.10 We recruited 641 participants from consecutive
+new out patients attending six specialist chronic fatigue
+syndrome clinics in the UK National Health Service
+between March 18, 2005, and Nov 28, 2008, and completed
+outcome data collection in January, 2010.
+Several diagnostic criteria exist for chronic fatigue
+syndrome and myalgic encephalomyelitis.11–13 We selected
+participants in accordance with Oxford criteria for chronic
+fatigue syndrome.11 These criteria require fatigue to be the
+main symptom, accompanied by signifi cant disability, in
+the absence of an exclusionary medical or psychiatric
+diagnosis (psychosis, bipolar disorder, substance misuse,
+an organic brain disorder, or an eating disorder).11 All
+participants were medically assessed by the specialist clinic
+doctors to exclude alternative diagnoses.2,12 Research
+assessors used the structured clinical interview from the
+Diagnostic and Statistical Manual of Mental Disorders IV
+to diagnose exclusionary and comorbid psychiatric
+disorders (ie, mood and anxiety disorders).10,14
+Other eligibility criteria consisted of a bimodal score
+of 6 of 11 or more on the Chalder fatigue questionnaire15
+and a score of 60 of 100 or less on the short form-36
+physical function subscale.16 11 months after the trial
+began, this requirement was changed from a score of 60
+to a score of 65 to increase recruitment.
+We excluded patients who were younger than 18 years or
+at signifi cant risk of self-harm, unable to attend hospital
+appointments, unable to speak and read English, had
+medical needs that made participation inappropriate, had
+previously received a trial treatment for their present
+illness at a PACE trial clinic (we initially excluded anyone
+who had received a trial treatment, but found the nature of
+treatment given elsewhere hard to establish).10 Participants
+were also assessed by international criteria for chronic
+fatigue syndrome,12 requiring four or more accompanying
+symptoms, and the London criteria13 for myalgic
+encephalomyelitis (version 2), requiring postexertional
+fatigue, poor memory and concentration, symptoms that
+fl uctuate, and no primary depressive or anxiety disorder
+(interpreted as an absence of any such disorder).
+We obtained separate written informed consent for
+assessment and entry into the trial. The West Midlands
+Multicentre Research Ethics Committee (MREC 02/7/89)
+approved the study.
+Randomisation and masking
+Participants were allocated to treatment groups through
+the Mental Health and Neuroscience Clinical Trials Unit
+(London, UK), after baseline assessment and obtainment
+of consent. A database programmer undertook treatment
+allocation, independently of the trial team. The fi rst three
+participants at each of the six clinics were allocated with
+straightforward randomisation. Thereafter allocation was
+stratifi ed by centre, alternative criteria for chronic fatigue
+syndrome12 and myalgic encephalomyelitis,13 and
+depressive disorder (major or minor depressive episode or
+dysthymia),14 with computer-generated probabilistic
+minimisation. Once notifi ed of treatment allocation by the
+Clinical Trials Unit, the research assessor informed the
+participant and clinicians. One therapist was available for
+every therapy per centre, with few exceptions. Specialist
+medical care doctors were allocated by convenience. As
+with any therapy trial, participants, therapists, and doctors
+could not be masked to treatment allocation and it was
+also impractical to mask research assessors. The primary
+outcomes were rated by participants themselves. The
+statistician undertaking the analysis of primary outcomes
+was masked to treatment allocation.
+Procedures
+Panel 1 shows treatment strategies and webappendix p 1
+shows characteristics of treating clinicians. Therapy
+leaders (one per therapy and with substantial experience
+in treatment of chronic fatigue syndrome) trained
+therapists until they were deemed competent to provide
+trial treatments. Individual therapy supervision was
+provided once every month, and by group every
+3 months.24 All treatment sessions were recorded
+acoustically. Two independent clinicians, who were
+masked to allocated treatment, rated recordings of a
+randomly chosen sample of the tenth (or nearest) session
+of 62 (13%) of 480 participants (two sessions for every
+therapist, when available) for therapy type, adherence to
+the manual (7-point Likert scale), and therapeutic alliance
+between therapist and participant (7-point Likert scale).
+These clinicians recorded when masking had failed, such
+as when the treatment was mentioned by name. All
+doctors received training in specialist medical care, and
+we assessed competence and monitored manual
+adherence for most. We defi ned ten sessions of therapy
+or three sessions of specialist medical care alone as
+adequate treatment for the per-protocol analysis. We
+recorded number of treatment sessions attended, active
+withdrawals from treatment, additional treatments
+received, and dropouts from follow-up.
+We undertook assessments at baseline and 12 weeks
+(mid-therapy), 24 weeks (post-therapy), and 52 weeks
+after randomisation. Primary outcomes were also
+assessed at the time of dropouts, and used when no
+other outcome data were available. The research
+assessors did the assessments, usually face-to-face in
+clinic. Most measures were self-rated by the participant.
+Because masking of research assessors to treatment
+allocation after randomisation was impractical, we
+relied on participant ratings to keep observer bias to
+a minimum.
+and Clinical Medicine,
+University of Edinburgh,
+Edinburgh, UK
+(Prof M Sharpe MD)
+Correspondence to
+Prof Peter White, Psychological
+Medicine, St Bartholomew’s
+Hospital, London, EC1A 7BE, UK
+p.d.white@qmul.ac.uk
+For more on the PACE trial see
+http://www.pacetrial.org
+See Online for webappendix
+Articles
+www.thelancet.com Vol 377 March 5, 2011 825
+Outcomes
+The two participant-rated primary outcome measures
+were the Chalder fatigue questionnaire (Likert scoring 0,
+1, 2, 3; range 0–33; lowest score is least fatigue)15 and the
+short form-36 physical function subscale (version 2; range
+0–100; highest score is best function).16 Before outcome
+data were examined, we changed the original bimodal
+scoring of the Chalder fatigue questionnaire (range 0–11)
+Overview
+We standardised treatments by provision of manuals for
+doctors, therapists, and participants. At least three sessions
+of specialist medical care were offered to participants during
+the 12 months, and more were offered if clinically indicated.
+Up to 14 therapy sessions were offered during the first
+23 weeks; the first four were once a week and subsequently
+they were once every 2 weeks. An additional booster session
+was offered at 36 weeks. No other additional sessions were
+offered. Most treatments were delivered face-to-face but
+some were provided by telephone. Treatment was provided
+individually although participants could be accompanied if
+they wanted.
+Specialist medical care (SMC)
+SMC was provided by doctors with specialist experience in
+chronic fatigue syndrome (webappendix p 1). All participants
+were given a leafl et explaining the illness and the nature of
+this treatment. The manual was consistent with good medical
+practice, as presently recommended.2
+ Treatment consisted of
+an explanation of chronic fatigue syndrome, generic advice,
+such as to avoid extremes of activity and rest, specifi c
+advice on self-help, according to the particular approach
+chosen by the participant (if receiving SMC alone), and
+symptomatic pharmacotherapy (especially for insomnia,
+pain, and mood).
+Adaptive pacing therapy (APT)
+APT was based on the envelope theory of chronic fatigue
+syndrome.17,18 This theory regards chronic fatigue syndrome as
+an organic disease process that is not reversible by changes in
+behaviour and which results in a reduced and fi nite amount
+(envelope) of available energy. The aim of therapy was to
+achieve optimum adaptation to the illness, hence APT. This
+adaptation was achieved by helping the participant to plan and
+pace activity to reduce or avoid fatigue, achieve prioritised
+activities and provide the best conditions for natural
+recovery.13,17,18 Therapeutic strategies consisted of identifying
+links between activity and fatigue by use of a daily diary, with
+corresponding encouragement to plan activity to avoid
+exacerbations, developing awareness of early warnings of
+exacerbation, limiting demands and stress, regularly planning
+rest and relaxation, and alternating diff erent types of activities,
+with advice not to undertake activities that demanded more
+than 70% of participants’ perceived energy envelopes.
+Increased activities were encouraged, if the participant felt
+able, and as long as they did not exacerbate symptoms.
+Because this treatment had not been described in a manual, we
+created and piloted manuals for therapists and patients on the
+basis of previous descriptions,13,17 what pilot patients and
+clinicians reported as helpful, and with the advice of
+experienced therapists. Westcare and Action for ME helped in
+the design of the therapy and endorsed the fi nal manuals.18 APT
+was provided by occupational therapists (webappendix p 1).
+Cognitive behaviour therapy (CBT)
+CBT was done on the basis of the fear avoidance theory of
+chronic fatigue syndrome. This theory regards chronic fatigue
+syndrome as being reversible and that cognitive responses
+(fear of engaging in activity) and behavioural responses
+(avoidance of activity) are linked and interact with
+physiological processes to perpetuate fatigue. The aim of
+treatment was to change the behavioural and cognitive
+factors assumed to be responsible for perpetuation of the
+participant’s symptoms and disability. Therapeutic strategies
+guided participants to address unhelpful cognitions,
+including fears about symptoms or activity by testing them in
+behavioural experiments. These experiments consisted of
+establishing a baseline of activity and rest and a regular sleep
+pattern, and then making collaboratively planned gradual
+increases in both physical and mental activity. Furthermore,
+participants were helped to address social and emotional
+obstacles to improvement through problem-solving. Therapy
+manuals were based on manuals used in previous trials.19–21
+CBT was delivered mainly by clinical psychologists and nurse
+therapists (webappendix p 1).
+Graded exercise therapy (GET)
+GET was done on the basis of deconditioning and exercise
+intolerance theories of chronic fatigue syndrome. These
+theories assume that the syndrome is perpetuated by
+reversible physiological changes of deconditioning and
+avoidance of activity. These changes result in the
+deconditioning being maintained and an increased
+perception of eff ort, leading to further inactivity. The aim of
+treatment was to help the participant gradually return to
+appropriate physical activities, reverse the deconditioning,
+and thereby reduce fatigue and disability. Therapeutic
+strategies consisted of establishment of a baseline of
+achievable exercise or physical activity, followed by a
+negotiated, incremental increase in the duration of time
+spent physically active. Target heart rate ranges were set
+when necessary to avoid overexertion, which eventually
+aimed at 30 min of light exercise fi ve times a week. When this
+rate was achieved, the intensity and aerobic nature of the
+exercise was gradually increased, with participant feedback
+and mutual planning. The most commonly chosen exercise
+was walking. The therapy manual was based on that used in
+previous trials.22,23 GET was delivered by physiotherapists and
+one exercise physiologist (webappendix p 1).
+Panel 1: Treatments provided
+For the treatment manuals and
+the leafl et given to participants
+see http://www.pacetrial.org/
+trialinfo.html
+For more on Action for ME see
+http://www.afme.org.uk
+Articles
+826 www.thelancet.com Vol 377 March 5, 2011
+3158 screened for eligibility
+898 assessed for eligibility by
+research assessor at baseline
+641 randomly allocated to
+treatment groups
+160 assigned to receive APT
+1 not treated
+143 adequately treated
+15 inadequately treated
+12 weeks
+0 lost to follow-up
+1 withdrew
+24 weeks
+0 lost to follow-up
+8 withdrew
+52 weeks
+6 lost to follow-up
+2 withdrew
+159 analysed 155 analysed 159 analysed 157 analysed
+1 excluded
+due to late
+withdrawal
+of consent
+6 excluded 1 excluded 3 excluded
+12 weeks
+6 lost to follow-up
+6 withdrew
+24 weeks
+5 lost to follow-up
+10 withdrew
+52 weeks
+2 lost to follow-up
+1 withdrew
+12 weeks
+1 lost to follow-up
+2 withdrew
+24 weeks
+1 lost to follow-up
+5 withdrew
+52 weeks
+4 lost to follow-up
+3 withdrew
+12 weeks
+3 lost to follow-up
+2 withdrew
+24 weeks
+4 lost to follow-up
+4 withdrew
+52 weeks
+1 lost to follow-up
+8 withdrew
+161 assigned to receive CBT
+3 not treated
+140 adequately treated
+18 inadequately treated
+160 assigned to receive GET
+0 not treated
+136 adequately treated
+24 inadequately treated
+160 assigned to receive SMC
+1 not treated
+142 adequately treated
+17 inadequately treated
+2260 excluded
+1698 did not meet primary eligibility criteria
+1011 no current Oxford diagnosis of CFS
+235 physical function score >65
+141 trial treatment during present episode
+139 unable to comply with protocol
+71 contraindication to trial treatment
+46 psychiatric exclusion
+29 bimodal fatigue score <6
+20 aged <18 years
+6 unable to speak or read English
+adequately
+533 did not meet primary consent criteria
+372 patients declined randomisation
+115 patients declined to be assessed
+46 doctors declined patient’s
+randomisation
+29 unrecorded
+257 excluded
+176 did not meet primary eligibility criteria
+67 no current Oxford diagnosis of CFS
+52 unable to comply with protocol
+16 physical function score >65
+13 contraindication to trial treatment
+12 psychiatric exclusion
+11 trial treatment during present episode
+4 bimodal fatigue score <6
+1 unable to speak or read English adequately
+69 did not meet primary consent criteria
+39 patients declined further assessment
+28 patients declined randomisation
+2 research assessor declined patient’s
+randomisation
+12 unrecorded
+Figure 1: CONSORT trial profi le
+CFS=chronic fatigue syndrome. APT=adaptive pacing therapy. CBT=cognitive behaviour therapy. GET=graded exercise therapy. SMC=specialist medical care alone.
+The numbers of participants per centre ranged from 63 to 135.
+Articles
+www.thelancet.com Vol 377 March 5, 2011 827
+to Likert scoring to more sensitively test our hypotheses of
+eff ectiveness. The two primary outcome measures15,16 are
+valid and reliable and have been used in previous trials.4–7
+For safety outcomes, we included non-serious adverse
+events, serious adverse events, serious adverse reactions
+to trial treatments, serious deterioration, and active
+withdrawals from treatment.10 Adverse events were
+defi ned as any clinical change, disease, or disorder
+reported, whether or not related to treatment. Three
+scrutinisers (two physicians and one liaison psychiatrist
+who all specialised in chronic fatigue syndrome) reviewed
+all adverse events and reactions, independently from the
+trial team, and were masked to treatment group, to
+establish whether they were serious adverse events.
+Scrutinisers were then unmasked to treatment allocation
+to establish if any serious adverse events were serious
+adverse reactions. Serious deterioration in health was
+defi ned as any of the following outcomes: a short form-36
+physical function score decrease of 20 or more between
+baseline and any two consecutive assessment interviews;16
+scores of much or very much worse on the participantrated clinical global impression change in overall health
+scale at two consecutive assessment interviews;25
+withdrawal from treatment after 8 weeks because of a
+participant feeling worse; or a serious adverse reaction.
+For secondary outcomes, we used the clinical global
+impression scale to assess change from baseline in overall
+health.25 This 7-point scale was condensed into three
+categories: negative change (very much worse or much
+worse), minimum change (a little worse, no change, or a
+little better), and positive change (much better or very
+much better). We also assessed overall disability with the
+work and social adjustment scale,26 6-min walking ability
+(distance in m walked),27 Jenkins scale score for disturbed
+sleep,28 hospital anxiety and depression scale score,29
+number of chronic fatigue syndrome symptoms, and
+individual symptoms of postexertional malaise and poor
+concentration or memory, as in the international criteria.12
+These secondary outcomes were a subset of those specifi ed
+in the protocol, selected in the statistical analysis plan as
+most relevant to this report. After participants had been
+told their treatment allocation, but before treatment began,
+they rated how logical their proposed treatment seemed
+and how confi dent they were that it would help them
+(5-point Likert scale with moderately and extremely condensed into a positive response to help with interpretation).
+At 52 weeks, participants rated satisfaction with treatment
+received on a 7-point scale, condensed into three categories
+to aid interpretation (satisfi ed, neutral, or dissatisfi ed).
+Statistical analysis
+We calculated sample sizes assuming 60% response to
+CBT at 52 weeks, 50% response to GET, 25% response
+to APT, and 10% response to SMC.10 We assumed APT
+to be at least as eff ective as in previous trials of relaxation
+and fl exibility therapies.20,22 For a two-sided test with
+5% signifi cance level and 90% power, we calculated that
+the number of participants needed to compare SMC
+with APT was 135, SMC with GET was 80, and SMC
+with CBT was 40. We increased group size to 150 per
+group to allow for 10% dropout, to provide equality
+between groups, and for secondary analyses. The
+Adaptive pacing
+therapy (n=159)
+Cognitive behaviour
+therapy (n=161)
+Graded exercise
+therapy (n=160)
+Specialist medical
+care alone (n=160)
+Overall (n=640)
+Demographic data
+Age (years) 39 (11) 39 (12) 39 (12) 37 (11) 38 (12)
+Female 121 (76%) 129 (80%) 123 (77%) 122 (76%) 495 (77%)
+White 146 (92%) 151 (94%) 148 (93%) 150 (94%) 595 (93%)
+Any ME group membership 31 (19%) 26 (16%) 25 (16%) 23 (14%) 105 (16%)
+Clinical data
+International CFS criteria12
+As randomised 99 (62%) 100 (62%) 98 (61%) 100 (63%) 397 (62%)
+Actual 107 (67%) 106 (66%) 106 (66%) 108 (68%) 427 (67%)
+London ME criteria13
+As randomised 89 (56%) 90 (56%) 89 (56%) 89 (56%) 357 (56%)
+Actual 81 (51%) 84 (52%) 84 (53%) 80 (50%) 329 (51%)
+Any depressive disorder
+As randomised 55 (35%) 55 (34%) 54 (34%) 55 (34%) 219 (34%)
+Actual 54 (34%) 52 (32%) 54 (34%) 53 (33%) 213 (33%)
+Any psychiatric disorder* 75 (47%) 75 (47%) 73 (46%) 77 (48%) 300 (47%)
+Duration of illness (months) 33 (16–69) 36 (16–104) 35 (18–67) 25 (15–57) 32 (16–68)
+Body-mass index (kg/m²) 25·9 (5·5) 25·4 (5·2) 25·5 (4·6) 25·1 (4·5) 25·5 (5·0)
+Data are mean (SD), n (%), or median (IQR). ME=myalgic encephalomyelitis. CFS=chronic fatigue syndrome. *Psychiatric disorders included any depressive disorder and any
+anxiety disorder, including phobias, obsessive-compulsive disorder, and post-traumatic stress disorder.
+Table 1: Baseline demographics and clinical characteristics
+Articles
+828 www.thelancet.com Vol 377 March 5, 2011
+statistical analysis plan was fi nalised, including changes
+to the original protocol, and was approved by the trial
+steering committee and the data monitoring and ethics
+committee before outcome data were examined.
+We used continuous scores for primary outcomes to
+allow a more straightforward interpretation of the individual outcomes, instead of the originally planned
+composite measures (50% change or meeting a
+threshold score).10,30 We prorated primary outcomes
+scales only when there were at most two items per scale
+missing (nine participants for Chalder fatigue questionnaire and 11 for short form-36). Prorating involved
+calculating the mean value of the item scores present
+and replacing the missing values with that score.
+We summarised continuous variables with mean (SD)
+or median (IQR) and categorical variables with
+frequencies and proportions. Diff erentiation of
+treatment compared independent ratings of therapy
+sessions with actual treat ment. We calculated the interrater reliability (κ and 95% CI) between the two
+assessors. We used Kruskal-Wallis tests for comparisons
+of therapy received, therapeutic alliance, and manual
+adherence. We compared categorical variables with
+Fisher’s exact test.
+A clinically useful diff erence between the means of
+the primary outcomes was defi ned as 0·5 of the SD of
+these measures at baseline,31 equating to 2 points for
+Chalder fatigue questionnaire and 8 points for short
+form-36. A secondary post-hoc analysis compared the
+proportions of participants who had improved between
+baseline and 52 weeks by 2 or more points of the Chalder
+fatigue questionnaire, 8 or more points of the short
+form-36, and improved on both. In another post-hoc
+analysis, we compared the proportions of participants
+who had scores of both primary outcomes within the
+normal range at 52 weeks. This range was defi ned as
+less than the mean plus 1 SD scores of adult attendees
+to UK general practice of 14·2 (+4·6) for fatigue (score
+of 18 or less) and equal to or above the mean minus 1 SD
+scores of the UK working age population of 84 (–24) for
+physical function (score of 60 or more).32,33
+We estimated diff erences between treatment groups for
+both primary outcomes with mixed linear regression
+models with Kenward-Roger adjusted standard errors.
+Covariates were treatment group, baseline value of
+outcome, time, and stratifi cation factors (centre, present
+depressive disorder, and alternative criteria for chronic
+fatigue syndrome and myalgic encephalomyelitis; all as
+stratifi ed at entry). Time by treatment interaction terms
+were included to allow extraction of contrasts at 52 weeks.
+Models for the primary outcomes and the clinical global
+impression incorporated random intercepts and slopes
+over time by participant and main health-care practitioner
+(doctor or therapist who saw the participant most
+frequently, or, if equal, the fi rst practitioner to see the
+participant) to allow for clustering of outcomes within
+Adaptive pacing
+therapy (n=159)
+Cognitive behaviour
+therapy (n=161)
+Graded exercise
+therapy (n=160)
+Specialist medical
+care alone (n=160)
+p value*
+Treatment received
+Therapy sessions attended† 13 (12–15) 14 (12–15) 13 (12–14) ·· 0·17
+Specialist medical care sessions attended‡ 3 (3–4) 3 (3–4) 3 (3–4) 5 (3–6) 0·0001
+Adequate treatment§ 143 (90%) 140 (87%) 136 (85%) 142 (89%) 0·56
+Antidepressant at baseline 63 (40%) 57 (35%) 74 (46%) 66 (41%) ··
+Antidepressant at 24 weeks¶ 53 (34%) 45 (29%) 61 (40%) 60 (39%) 0·19
+Antidepressant at 52 weeks¶ 41 (27%) 47 (31%) 48 (31%) 61 (39%) 0·11
+Hypnotic at baseline 6 (4%) 9 (6%) 6 (4%) 5 (3%) ··
+Hypnotic at 24 weeks¶ 3 (2%) 7 (5%) 5 (3%) 6 (4%) 0·61
+Hypnotic at 52 weeks¶ 5 (3%) 4 (3%) 3 (2%) 7 (5%) 0·62
+Non-allocated treatment 8 (5%) 4 (3%) 7 (4%) 22 (14%) 0·0005
+Dropouts from treatment 11 (7%) 17 (11%) 10 (6%) 14 (9%) 0·50
+Views before treatment
+Treatment is logical 134 (84%) 115 (71%) 135 (84%) 79 (49%) <0·0001
+Confi dent about treatment 114 (72%) 91 (57%) 112 (70%) 65 (41%) <0·0001
+Views after treatment
+Satisfi ed with treatment¶ 128 (85%) 117 (82%) 126 (88%) 76 (50%) <0·0001
+Dissatisfi ed with treatment¶ 4 (3%) 7 (5%) 2 (1%) 17 (11%) 0·0010
+Therapeutic alliance|| 6·5 (6·0–6·5) 6·5 (5·5–6·8) 6·5 (5·5–7·0) ·· 0·96
+Adherence to manual** 6·0 (6·0–6·5) 6·0 (5·0–6·5) 6·5 (6·0–6·5) ·· 0·35
+Data are median (IQR) or n (%). *p values across all groups. †86% of sessions were received face-to-face and 14% by telephone. ‡94% of sessions were received face-to-face
+and 6% by telephone. §Adequate treatment was ten or more sessions of therapy or three or more sessions of specialist medical care alone. ¶Percentages exclude missing
+data. ||Scored 1–7 (1=poor, 7=excellent). **Scored 1–7 (1=not at all, 7=very much so).
+Table 2: Treatment details
+Articles
+www.thelancet.com Vol 377 March 5, 2011 829
+practitioner. We calculated intraclass correlation
+coeffi cients, adjusted for baseline outcomes, using oneway random eff ects analysis of covariance at 52 weeks
+within every treatment group. Unadjusted and Bonferroni
+corrected p values are provided for fi ve comparisons for
+both primary outcomes. Comparisons of primary
+outcomes across treatment groups by alternative criteria
+for chronic fatigue syndrome and myalgic encephalomyelitis, and comorbid depressive disorder included
+the treatment by criteria or disorder interaction terms.
+Because some errors were made in stratifi cation at
+randomisation, we used true status variables rather than
+status at stratifi cation as covariates.
+We calculated adverse event and reaction rates by
+dividing the number of events by person-years of
+follow-up multiplied by 100, and compared rate
+diff erences (95% CI) between treatment groups.
+We analysed changes in clinical global impression
+scale using binary logistic generalised estimating
+equations regression with an exchangeable working
+correlation and bootstrapped standard errors. We
+analysed the number of chronic fatigue syndrome
+symptoms with ordinary least squares linear regression,
+and the presence of specifi c chronic fatigue syndrome
+symptoms with logistic regression. We analysed
+secondary outcomes with mixed linear regression
+models with random participant intercepts and slopes
+over time, apart from the walking test, which had
+random intercepts only. Covariates in the models were
+otherwise the same, except for clinical global impression
+(not measured at baseline) and chronic fatigue syndrome
+symptoms (measured only at 52 weeks).
+We excluded participants from the intention-to-treat
+population for whom we had no primary outcome data
+in the fi nal analysis, which used restricted maximum
+likelihood. The per-protocol analysis excluded
+participants who were ineligible after randomisation,
+treated at a second centre, or did not received adequate
+treatment, adjusting for actual stratifi cation factors.
+Statistical analyses were done with Stata version 10,
+SAS version 9.1, and SPSS version 18.
+This trial is registered at http://isrctn.org, number
+ISRCTN54285094.
+Role of the funding source
+The sponsors of the study had no role in study design,
+data collection, data analysis, data interpretation, or
+writing of the report. All named authors had access to the
+data, commented on drafts, and approved the fi nal report.
+Members of the writing group had responsibility for
+submitting the report, and PDW had fi nal responsibility
+for the decision to submit for publication.
+Results
+Figure 1 shows the trial profi le. Briefl y, 898 (28%) of
+3158 patients screened for eligibility progressed to
+baseline screening and 641 (71%) participants were
+recruited (fi gure 1). The commonest reason for exclusion from initial clinician screening was failure to meet
+Oxford criteria for chronic fatigue syndrome
+(1011 participants). 745 (74%) of these excluded patients
+did not have chronic fatigue syndrome and the rest did
+not meet Oxford criteria despite having cliniciandiagnosed chronic fatigue syndrome. Table 1 shows
+Fatigue* Physical function†
+Adaptive pacing
+therapy
+Cognitive
+behaviour therapy
+Graded exercise
+therapy
+Specialist medical
+care alone
+Adaptive pacing
+therapy
+Cognitive
+behaviour therapy
+Graded exercise
+therapy
+Specialist medical
+care alone
+Baseline 28·5 (4·0); n=159 27·7 (3·7); n=161 28·2 (3·8); n=160 28·3 (3·6); n=160 37·2 (16·9); n=159 39·0 (15·3); n=161 36·7 (15·4); n=160 39·2 (15·4); n=160
+12 weeks 24·2 (6·4); n=153 23·6 (6·5); n=153 22·8 (7·5); n=153 24·3 (6·5); n=154 41·7 (19·9); n=153 51·0 (20·7); n=153 48·1 (21·6); n=153 46·6 (20·4); n=154
+24 weeks 23·7 (6·9); n=155 21·5 (7·8); n=148 21·7 (7·1); n=150 24·0 (6·9); n=152 43·2 (21·4); n=155 54·2 (21·6); n=148 55·4 (23·3); n=150 48·4 (23·1); n=152
+52 weeks 23·1 (7·3); n=153 20·3 (8·0); n=148 20·6 (7·5); n=154 23·8 (6·6); n=152 45·9 (24·9); n=153 58·2 (24·1); n=148 57·7 (26·5); n=154 50·8 (24·7); n=152
+Mean diff erence (95% CI)
+from SMC (52 weeks)
+–0·7 (–2·3 to 0·9) –3·4 (–5·0 to –1·8) –3·2 (–4·8 to –1·7) ·· –3·4 (–8·4 to 1·6) 7·1 (2·0 to 12·1) 9·4 (4·4 to 14·4) ··
+Unadjusted p values 0·38 0·0001 0·0003 ·· 0·18 0·0068 0·0005 ··
+Bonferroni adjusted
+p values
+0·99 0·0006 0·0013 ·· 0·89 0·0342 0·0025 ··
+Mean diff erence (95% CI)
+from APT (52 weeks)
+·· –2·7 (–4·4 to –1·1) –2·5 (–4·2 to –0·9) ·· ·· 10·5 (5·4 to 15·6) 12·8 (7·7 to 17·9) ··
+Unadjusted p values ·· 0·0027 0·0059 ·· ·· 0·0002 <0·0001 ··
+Bonferroni adjusted
+p values
+·· 0·0136 0·0294 ·· ·· 0·0012 0·0002 ··
+Number improved from
+baseline‡
+99 (65%) 113 (76%) 123 (80%) 98 (65%) 75 (49%) 105 (71%) 108 (70%) 88 (58%)
+Data are mean scores (SD) or n (%), unless otherwise stated. Comparisons of diff erences across groups made at 52 weeks are from the fi nal adjusted models, so are slightly diff erent from unadjusted values.
+p values for comparisons are unadjusted, with Bonferroni values adjusted for fi ve comparisons for every primary outcome. *Chalder fatigue questionnaire (range 0–33, 0=best).15 †Short form-36 physical
+function subscale score (range 0–100, 100=best).16 ‡Participants improved from baseline by two or more points for fatigue and eight or more for physical function.
+Table 3: Primary outcomes of fatigue and physical function
+Articles
+830 www.thelancet.com Vol 377 March 5, 2011
+baseline characteristics of participants, which were
+much the same between groups, apart from a shorter
+duration of illness in the SMC group than was noted in
+the other groups. 33 (5%) of 640 participants were lost to
+follow-up, but rates did not diff er between groups
+(p=0·30; fi gure 1). Ten of these 33 participants had no
+0
+30
+40
+50
+60
+70
+Unadjusted physical function score
+E Physical function: all participants
+0
+18
+20
+22
+24
+26
+28
+30
+Unadjusted fatigue score
+A Fatigue: all participants
+Specialist medical care
+Adaptive pacing therapy
+Graded exercise therapy
+Cognitive behaviour therapy
+0
+18
+20
+22
+24
+26
+28
+30
+Unadjusted fatigue score
+C Fatigue: London ME only
+pinteraction=0·75
+F Physical function: international CFS only
+pinteraction=0·29
+0
+30
+40
+50
+60
+70
+Unadjusted physical function score
+B Fatigue: international CFS only
+pinteraction=0·55
+0
+18
+20
+22
+24
+26
+28
+30
+Unadjusted fatigue score
+Time (weeks)
+Baseline 12 24 52
+H Physical function: depressive disorder only
+pinteraction=0·93
+0
+Unadjusted physical function score 30
+40
+50
+60
+70
+D Fatigue: depressive disorder only
+pinteraction=0·92
+0
+18
+20
+22
+24
+26
+28
+30
+Unadjusted fatigue score
+Baseline 12 24 52
+Time (weeks)
+0
+Unadjusted physical function score
+G Physical function: London ME only
+30
+40
+50
+60
+70 pinteraction=0·89
+Figure 2: Physical function subscale and fatigue questionnaire scores by treatment group
+Data are unadjusted means (95% CI). pinteraction is the p-value of the interaction between treatment and criteria or disorder from the adjusted model. CFS=chronic
+fatigue syndrome. ME=myalgic encephalomyelitis. (A–D) Lowest fatigue score is best. (E–H) Highest physical function score is best.
+Articles
+www.thelancet.com Vol 377 March 5, 2011 831
+outcome data, and were therefore excluded from the
+fi nal analysis. Primary outcomes were assessed at the
+time of dropout for three participants and included in
+the fi nal analyses. Research assessors recorded primary
+outcomes (eg, dictated over the telephone) on 74 (4%) of
+1920 occasions.
+Table 2 shows details of treatments received. Participants
+allocated to SMC alone received more sessions, but there
+were no diff erences in the number of SMC sessions or
+therapy sessions received between the other three groups.
+There were no diff erences between groups in the
+proportions who had received adequate treatment (85% or
+more in every group). Participants’ expectations were
+high for APT and GET, but lower for CBT and SMC
+(table 2). Most of those who received a therapy were
+satisfi ed with treatment (82% or more for the three
+therapies), but fewer were satisfi ed with SMC (50%).
+Number of treatment dropouts did not diff er between
+groups (p=0·50; table 2). The two independent therapy
+assessors rated 58 (94%) of 62 and 57 (92%) of 62 therapy
+sessions as being the one allocated; only one (2%) session
+was rated by both assessors as diff erent from that
+allocated. The inter-rater reliability (κ; 95% CI) was 0·86
+(0·75–0·97). The independent assessors were unmasked
+in 25 (40%) of 62 sessions that they listened to. All three
+therapies were rated as adhering well to the manuals.
+Thera peutic alliance median scores were high and the
+same across therapies.
+Table 3 shows baseline and outcomes data, and fi gure 2
+shows profi les for the primary outcomes. In the fi naladjusted models (fi gure 3), participants had less fatigue
+and better physical function after CBT and GET than they
+did after APT or SMC alone. Outcomes after APT were
+no better than they were after SMC. Allowing for
+clustering eff ects caused by participants attending the
+same main practitioner had little eff ect on these results;
+intraclass correlation coeffi cients ranged from –0·02 to
+0·11 for fatigue, and –0·01 to 0·03 for physical function.
+Participant subgroups meeting international criteria for
+chronic fatigue syndrome, London criteria for myalgic
+encephalomyelitis, and depressive disorder criteria did
+not diff er in the pattern of treatment eff ects (fi gure 2; all
+pinteractions were non-signifi cant).
+64 (42%) of 153 participants in the APT group improved
+by at least 2 points for fatigue and at least 8 points for
+physical function at 52 weeks, compared with 87 (59%) of
+148 participants for CBT, 94 (61%) of 154 participants for
+GET, and 68 (45%) of 152 participants for SMC. More
+participants improved after CBT compared with APT
+(p=0·0033) or SMC (p=0·0149), and more improved with
+GET compared with APT (p=0·0008) or SMC (p=0·0043);
+APT did not diff er from SMC (p=0·61; webappendix p 2).
+25 (16%) of 153 participants in the APT group were
+within normal ranges for both primary outcomes at
+52 weeks, compared with 44 (30%) of 148 participants for
+CBT, 43 (28%) of 154 participants for GET, and 22 (15%)
+of 152 participants for SMC. More participants were
+within normal ranges after CBT than APT (p=0·0057) or
+SMC (p=0·0014), and more were within normal ranges
+with GET compared with APT (p=0·0145) or SMC
+(p=0·0040); APT did not diff er from SMC (p=0·65).
+Webappendix p 3 shows the per-protocol analysis.
+Diff erences between treatments were very similar to
+those of the fi nal analysis, but magnitude was almost
+always higher in the per-protocol analysis.
+Table 4 shows safety outcomes. Non-serious adverse
+events were common. Participants who received CBT
+reported slightly fewer such events than did those in the
+APT (p=0·0081) and SMC (p=0·0016) groups. Serious
+adverse events and serious deterioration were uncommon;
+serious adverse reactions were rare. There were more
+serious adverse events in the GET group than there were
+in the SMC group (p=0·0433). Rates of serious adverse
+reactions and serious deterioration did not diff er between
+treatment groups. Webappendix pp 4–5 shows a summary
+of serious adverse events and serious adverse reactions.
+Table 5 shows data for the clinical global impression
+scale ratings. At 52 weeks, more patients rated themselves
+as much better or very much better in overall health after
+CBT and GET than did after APT and SMC. A minority
+(≤9% in every group) rated themselves as much worse or
+very much worse, which did not diff er between groups.
+Table 6 shows other secondary outcomes. At 52 weeks,
+participants in the CBT and GET groups had better
+-6 -4 -2 0 2
+Fatigue mean difference (95% CI)
+APT vs SMC
+CBT vs SMC
+GET vs SMC
+CBT vs APT
+GET vs APT
+APT vs SMC
+CBT vs SMC
+GET vs SMC
+CBT vs APT
+GET vs APT
+-12 -8 -4 0 4 8 12 16 20
+Physical function mean difference (95% CI)
+A
+B
+Figure 3: Primary outcome treatment diff erences for fatigue (A) and physical
+function (B) at 52 weeks
+(A) Negative values for fatigue favour the fi rst treatment group in each pair of
+comparisons. (B) Positive values for physical function favour the fi rst treatment
+group in each pair of comparisons. APT=adaptive pacing therapy. SMC=specialist
+medical care. CBT=cognitive behaviour therapy. GET=graded exercise therapy.
+Articles
+832 www.thelancet.com Vol 377 March 5, 2011
+outcomes than did participants in the APT and SMC groups
+for work and social adjustment scores, sleep disturbance,
+and depression (with the one exception that GET was no
+diff erent from APT for depression). Anxiety was lower after
+CBT and GET than it was after SMC, but not than after
+APT. There were fewer chronic fatigue syndrome symptoms
+after CBT than there were after SMC. Poor concentration
+and memory did not diff er between groups. Postexertional
+malaise was lower after CBT and GET than it was after APT
+and SMC. 6-min walking distances were greater after GET
+than they were APT and SMC, but were no diff erent after
+CBT compared with APT and SMC. There were no
+ Adaptive pacing
+therapy (n=159)
+Cognitive behaviour
+therapy (n=161)
+Graded exercise
+therapy (n=160)
+Specialist medical care
+alone (n=160)
+Non-serious adverse events 949 848 992 977
+Participants with non-serious adverse events 152 (96%) 143 (89%) 149 (93%) 149 (93%)
+Non-serious adverse events per 100 person-years 597 (559–636) 527 (492–563) 620 (582–660) 611 (573–650)
+Serious adverse events 16 8 17 7
+Participants with serious adverse events 15 (9%) 7 (4%) 13 (8%) 7 (4%)
+Serious adverse events per 100 person-years 10·1 (5·8–16·3) 5·0 (2·2–9·8) 10·6 (6·2–17·0) 4·4 (1·8–9·0)
+Serious adverse reactions 2 4 2 2
+Participants with serious adverse reactions 2 (1%) 3 (2%) 2 (1%) 2 (1%)
+Serious adverse reactions per 100 person-years 1·3 (0·2–4·5) 2·5 (0·7–6·4) 1·3 (0·2–4·5) 1·3 (0·2–4·5)
+Serious deterioration (composite)* 13 (8%) 14 (9%) 10 (6%) 15 (9%)
+Physical functioning reduction 7 (4%) 5 (3%) 5 (3%) 6 (4%)
+PCGI worse 5 (3%) 7 (4%) 1 (<1%) 10 (6%)
+Withdrawn due to worsening 3 (2%) 0 2 (1%) 1 (<1%)
+Serious adverse reactions 2 (1%) 3 (2%) 2 (1%) 2 (1%)
+Diff erences in serious deterioration
+Comparison with specialist medical care –1·2%; p=0·71 –0·7%; p=0·83 –3·1%; p=0·30 ··
+Comparison with adaptive pacing therapy ·· 0·5%; p=0·87 –1·9%; p=0·51 ··
+Data are n, n (%), or rate (95% CI), unless otherwise stated. Adverse events were considered serious when they involved death, hospital admission, increased severe and
+persistent disability, self-harm, were life-threatening, or required an intervention to prevent one of these. There were no suspected unexpected serious adverse reactions.
+PCGI=participant-rated clinical global impression. *Serious deterioration composite is either of a short form-36 physical function subscale score reduction at two consecutive
+visits, a PCGI score of much worse or very much worse at two consecutive visits, withdrawal from treatment due to explicit worsening, or a serious adverse reaction; the
+numbers withdrawn from treatment due to worsening is a subset of all those withdrawing from treatment shown in table 2.
+Table 4: Safety outcomes
+Adaptive pacing
+therapy (n=159)
+Cognitive behaviour
+therapy (n=161)
+Graded exercise therapy
+(n=160)
+Specialist medical
+care alone (n=160)
+Change from baseline
+12 weeks 153 (96%) 153 (95%) 151 (94%) 151 (94%)
+Positive change 20 (13%) 32 (21%) 37 (25%) 7 (5%)
+Minimum change 126 (82%) 113 (74%) 111 (74%) 133 (88%)
+Negative change 7 (5%) 8 (5%) 3 (2%) 11 (7%)
+24 weeks 155 (97%) 149 (93%) 148 (93%) 151 (94%)
+Positive change 37 (24%) 56 (38%) 54 (37%) 28 (19%)
+Minimum change 111 (72%) 82 (55%) 89 (60%) 107 (71%)
+Negative change 7 (5%) 11 (7%) 5 (3%) 16 (11%)
+52 weeks 153 (96%) 147 (91%) 152 (95%) 152 (95%)
+Positive change 47 (31%) 61 (41%) 62 (41%) 38 (25%)
+Minimum change 96 (63%) 77 (52%) 80 (53%) 100 (66%)
+Negative change 10 (7%) 9 (6%) 10 (7%) 14 (9%)
+Odds ratio (positive change vs negative or minimum changes)
+Compared with specialist medical care 1·3 (0·8–2·1); p=0·31 2·2 (1·2–3·9); p=0·011 2·0 (1·2–3·5); p=0·013 ··
+Compared with adaptive pacing therapy ·· 1·7 (1·0–2·7); p=0·034 1·5 (1·0–2·3); p=0·028 ··
+Data are n (%) or odds ratio (95% CI). Comparisons made at 52 weeks were taken from the fi nal adjusted models. Positive change was defi ned as very much better or much
+better. Minimum change was defi ned as a little better, no change, or a little worse. Negative change was defi ned as much worse or very much worse.
+Table 5: Participant-rated clinical global impression of change in overall health
+Articles
+www.thelancet.com Vol 377 March 5, 2011 833
+diff erences in any secondary outcomes between APT and
+SMC groups (webappendix pp 6–9).
+Discussion
+When added to SMC, CBT and GET had greater success
+in reducing fatigue and improving physical function than
+did APT or SMC alone. APT was no better than was SMC
+alone. Our fi ndings were much the same for participants
+meeting the diff erent diagnostic criteria for chronic
+fatigue syndrome and for myalgic encephalomyelitis, for
+those with depressive disorder, and after allowing for
+clustering eff ects. Other secondary outcomes showed a
+very similar pattern. There were no important diff erences
+in safety outcomes between treatment options.
+Adaptive pacing therapy
+(n=159)
+Cognitive behaviour
+therapy (n=161)
+Graded exercise therapy
+(n=160)
+Specialist medical care
+alone (n=160)
+Work and social adjustment scale 150 (94%) 143 (89%) 144 (90%) 151 (94%)
+Baseline score 27·9 (6·1) 27·4 (6·2) 27·3 (6·3) 26·9 (6·7)
+52-week score 24·5 (8·8) 21·0 (9·6) 20·5 (9·4) 23·9 (9·2)
+Comparison with SMC 0·1; p=0·93 –3·6; p=0·0001 –3·2; p=0·0006 ··
+Comparison with APT ·· –3·7; p=0·0001 –3·3; p=0·0004 ··
+6-min walking test 111 (70%) 123 (76%) 110 (69%) 118 (74%)
+Baseline distance (m) 314 (90) 333 (86) 312 (87) 326 (95)
+52-week distance (m) 334 (117) 354 (106) 379 (100) 348 (108)
+Comparison with SMC –5·7; p=0·55 –1·5; p=0·87 35·3; p=0·0002 ··
+Comparison with APT ·· 4·2; p=0·65 41·0; p<0·0001 ··
+Jenkins sleep scale 150 (94%) 143 (89%) 144 (90%) 151 (94%)
+Baseline score 12·1 (4·9) 12·5 (4·9) 11·7 (4·3) 12·4 (5·0)
+52-week score 10·6 (4·8) 9·9 (5·3) 9·0 (4·8) 11·0 (5·0)
+Comparison with SMC –0·1; p=0·76 –1·1; p=0·0216 –1·4; p=0·0024 ··
+Comparison with APT ·· –0·9; p=0·0466 –1·3; p=0·0062 ··
+HADS depression scale 149 (94%) 143 (89%) 144 (90%) 151 (94%)
+Baseline score 8·1 (3·9) 8·3 (3·7) 8·2 (3·6) 8·0 (3·9)
+52-week score 7·2 (4·5) 6·2 (3·7) 6·1 (4·1) 7·2 (4·7)
+Comparison with SMC –0·6; p=0·11 –1·4; p=0·0003 –1·1; p=0·0035 ··
+Comparison with APT ·· –0·8; p=0·0382 –0·5; p=0·18 ··
+HADS anxiety scale 149 (94%) 143 (89%) 144 (90%) 149 (93%)
+Baseline score 8·1 (4·2) 8·1 (4·3) 8·0 (4·2) 7·9 (4·3)
+52-week score 7·5 (4·2) 6·8 (4·2) 7·1 (4·5) 8·0 (4·4)
+Comparison with SMC –0·7; p=0·0713 –1·4; p=0·0003 –1·0; p=0·0142 ··
+Comparison with APT ·· –0·7; p=0·0671 –0·3; p=0·50 ··
+Chronic fatigue syndrome symptom count 151 (95%) 145 (90%) 144 (90%) 149 (93%)
+Baseline 4·8 (1·8) 4·6 (1·8) 4·6 (1·8) 4·7 (1·7)
+52 week 3·8 (2·3) 3·4 (2·3) 3·4 (2·5) 3·9 (2·2)
+Comparison with SMC –0·1; p=0·62 –0·5; p=0·0329 –0·4; p=0·0916 ··
+Comparison with APT ·· –0·4; p=0·0986 –0·3; p=0·23 ··
+Poor concentration or memory 151 (95%) 145 (90%) 144 (90%) 149 (93%)
+Baseline (n [%] with symptoms) 122 (77%) 117 (73%) 122 (76%) 115 (72%)
+52 weeks (n [%] with symptoms) 93 (59%) 73 (45%) 76 (48%) 90 (56%)
+Comparison with SMC Odds ratio 1·0; p=0·97 Odds ratio 0·6; p=0·0602 Odds ratio 0·7; p=0·14 ··
+Comparison with APT ·· Odds ratio 0·6; p=0·0629 Odds ratio 0·7; p=0·15 ··
+Postexertional malaise 151 (95%) 145 (90%) 144 (90%) 149 (93%)
+Baseline (n [%] with symptoms) 134 (84%) 135 (84%) 131 (82%) 139 (87%)
+52 weeks (n [%] with symptoms) 100 (63%) 79 (49%) 71 (44%) 101 (63%)
+Comparison with SMC Odds ratio 1·0; p=0·86 Odds ratio 0·6; p=0·0254 Odds ratio 0·5; p=0·0026 ··
+Comparison with APT ·· Odds ratio 0·6; p=0·0380 Odds ratio 0·5; p=0·0042 ··
+Data are number of completed questionnaires at 52 weeks (%), means (SD), or mean diff erence, unless otherwise stated. Comparisons across treatment arms at 52 weeks are from
+the fi nal adjusted models. Webappendix pp 6–9 shows forest plots of mean diff erences (95% CI) and odds ratios (95% CI) for comparisons between groups. APT=adaptive pacing
+therapy. SMC=specialist medical care alone. HADS=hospital anxiety and depression scale.
+Table 6: Secondary outcomes
+Articles
+834 www.thelancet.com Vol 377 March 5, 2011
+Mean diff erences between groups on primary
+outcomes almost always exceeded predefi ned clinically
+useful diff erences for CBT and GET when compared
+with APT and SMC. In all comparisons of the proportions
+of participants who had either improved or were within
+normal ranges for these outcomes, CBT and GET did
+better than did APT or SMC alone. No more than 30% of
+participants were within normal ranges for both
+outcomes and only 41% rated themselves as much better
+or very much better in their overall health. We suggest
+that these fi ndings show that either CBT or GET, when
+added to SMC, is an eff ective treatment for chronic
+fatigue syndrome, and that the size of this eff ect is
+moderate (panel 2).
+Our conclusions are supported by secondary outcomes,
+as both CBT and GET provided greater improvements
+than did APT and SMC for most outcomes. The objective
+walking test favoured GET over CBT, whereas CBT
+provided the largest reduction in depression. The
+comparatively greater reduction in postexertional
+malaise with both CBT and GET compared with the
+other two treatments is notable, since the risk of
+exacerbation of this symptom is commonly given as a
+reason to avoid treatments such as GET. The 47%
+prevalence of mood and anxiety disorders at baseline
+was much the same as that noted in previous trials in
+secondary care (38–56%).20,23,36 The equivalent use of
+antidepressants in the treatment groups implies that
+the diff erences in outcomes are unlikely to be attributable
+to these drugs.
+There were no diff erences between groups in the
+proportions with serious deterioration or serious adverse
+reactions. The increased rate of serious adverse events
+with GET compared with SMC is unlikely to be important
+because serious adverse events were not thought by the
+independent scrutinisers to be related to treatment.
+Consequently, if these treatments are delivered as
+described, by similarly qualifi ed and trained clinicians,
+patients need not be concerned about safety.37
+The fi nding that APT when added to SMC was no more
+eff ective than SMC alone was contrary to our initial
+hypothesis. This fi nding might in part be caused by greater
+improvement after SMC than was expected. Suboptimum
+delivery of APT is an unlikely explanation because APT
+therapists were the most experienced; the therapeutic
+alliance and the adherence to manuals were rated highly
+in this group and participant satisfaction did not diff er
+from that for other therapies. Since participants’ confi dence
+that APT would help them was much the same as for GET,
+and greater than that for CBT, they were unlikely to have
+been biased by negative expectations. The fundamental
+diff erence between APT and both CBT and GET is that
+APT encourages adaptation to the illness,13,17,18 whereas
+CBT and GET encourage gradual increases in activity with
+the aim of ameliorating the illness.2,4,7 Our results do not
+support pacing, in the form of APT, as a fi rst-line therapy
+for chronic fatigue syndrome.
+We plan to report relative cost-eff ectiveness of the
+treatments, their moderators and mediators, whether
+subgroups respond diff erently, and long-term follow-up
+in future publications. Our fi nding that studied
+treatments were only moderately eff ective also suggests
+research into more eff ective treatments is needed. The
+eff ectiveness of behavioural treatments does not imply
+that the condition is psychological in nature.
+Our fi ndings were strengthened by the small numbers
+of dropouts, high rates of acceptance of the treatments,
+use of manual-defi ned treatments provided by competent
+clinicians, high rates of participant satisfaction, adherence
+to manuals, and therapeutic alliance. The PACE fi ndings
+can be generalised to patients who also meet alternative
+diagnostic criteria for chronic fatigue syndrome12 and
+myalgic encephalomyelitis13 but only if fatigue is their
+main symptom.11
+Our trial had limitations. We excluded patients unable
+to attend hospital. Our results apply to patients referred
+to secondary care. SMC is not the same as usual medical
+care that might be provided by a family doctor; this study
+Panel 2: Research in context
+Systematic review
+We searched the PubMed and Cochrane Library databases up to
+Nov 6, 2010, without language restrictions for full papers
+reporting randomised controlled trials, systematic reviews, and
+meta-analyses with the search terms “chronic fatigue
+syndrome”, “myalgic encephalomyelitis”, “myalgic
+encephalopathy “ and “cognitive behaviour therapy”, “exercise”,
+“pacing”. We excluded trials of adolescents, education, and
+group interventions. Our search identifi ed the two most recent
+systematic reviews,4,5 two meta-analyses,6,7 and two additional
+trials34,35 that were not included in these reviews. The reviews
+and meta-analyses concluded that cognitive behaviour therapy
+and graded exercise therapy are moderately eff ective
+treatments for chronic fatigue syndrome, and that limitations
+of previous trials included small size, an absence of data for
+safety outcomes, and high dropout rates.4–7 The fi ndings from
+these studies concur with the UK National Institute for Health
+and Clinical Excellence guidelines.2
+Interpretation
+In the pacing, graded activity, and cognitive behaviour therapy:
+a randomised evaluation (PACE) trial, we affi rm that cognitive
+behaviour therapy and graded exercise therapy are moderately
+eff ective outpatient treatments for chronic fatigue syndrome
+when added to specialist medical care, as compared with
+adaptive pacing therapy or specialist medical care alone.
+Findings from PACE also allow the following interpretations:
+adaptive pacing therapy added to specialist medical care is no
+more eff ective than specialist medical care alone; our fi ndings
+apply to patients with diff erently defi ned chronic fatigue
+syndrome and myalgic encephalomyelitis whose main
+symptom is fatigue; and all four treatments tested are safe. 
+Articles
+www.thelancet.com Vol 377 March 5, 2011 835
+was not designed to compare SMC with usual medical
+care. Although more than 3000 patients attending
+clinics had to be screened to identify the 641 recruited,
+the commonest reason for exclusion at screening was
+not having chronic fatigue syndrome. We chose
+conventional criteria for defi ning clinically useful
+diff erences between treatments, although other
+thresholds could have been chosen.32 SMC was not as
+closely monitored or supervised as the other therapies,
+and participants receiving SMC alone had more sessions
+than did those in the therapy groups; this is unlikely to
+have aff ected comparisons between the groups. Masking
+of participants or clinicians to treatment allocation was
+not possible, and research assessors were also not
+masked. Primary outcomes were subjective and rated by
+participants. While this avoided investigator bias, it
+could be subject to other biases. Although participantrated outcome measures could have been aff ected by
+expectations of treatment, which were highest for APT
+and GET, CBT was one of the two most eff ective
+treatments despite lower expectations.
+Findings from the PACE trial suggest that individually
+delivered CBT and GET, when added to SMC, are more
+eff ective and as safe as APT added to SMC or SMC alone.
+Patients attending secondary care with chronic fatigue
+syndrome should be off ered individual CBT or GET,
+alongside SMC.
+PACE trial group
+Trial Steering Committee (independent members)—Janet Darbyshire
+(Chair), Jenny Butler, Patrick Doherty, Stella Law, M Llewelyn, and
+Tom Sensky. Observers—Sir Mansel Aylward (Department for Work and
+Pensions, London, UK), Sir Peter Spencer and Chris Clark (Action for
+ME, Bristol, UK), Stephen Stansfeld (Queen Mary University of London,
+London, UK), Alison Wearden (Fatigue Intervention by Nurses
+Evaluation trial), and members of analysis strategy group and writing
+and publication oversight committee. Data Monitoring and Ethics
+Committee—Paul Dieppe (initial Chair), Astrid Fletcher (fi nal Chair),
+and Charlotte Feinmann. Independent assessors of the trial safety data—
+Hiroko Akagi, Alastair Miller, and Gavin Spickett. Independent assessors of
+therapy—Barbara Bowman and Deborah Fleetwood.
+Contributors
+The principal investigators (PDW, TC, and MS) designed the study and
+obtained funding. Design of the trial was further developed by the trial
+management group, trial steering committee, data monitoring and ethics
+committee, and the patients’ organisation, Action for ME. The trial
+management group, chaired by PDW, included all the authors of this
+report and Chris Clark, Eleanor Feldman, Tim Peto, and Sir Peter Spencer.
+The analysis strategy group, chaired by MS, consisted of HLB, TC, JCD,
+KAG, ALJ, LP, PDW, and RW. The statistical analysis plan was written by
+the analysis strategy group and approved by the trial steering committee
+and data monitoring and ethics committee before the analysis was started.
+The trial analysis team, chaired by ALJ, consisted of HLB, TC, KAG, MS,
+PDW, and RW. ALJ, LP, and RW were trial statisticians who participated in
+the design of the study, with RW being the lead writer of the analysis plan.
+KAG did the main statistical analysis. TC designed and undertook the
+analysis of therapy diff erentiation, integrity, and alliance. The writing and
+publication oversight committee, chaired by MS, consisted of HLB, TC,
+KAG, ALJ, PM, LP, PDW, and RW. The trial managers were JCD initially,
+then HLB. The treatment leaders were JB, MB, DLC, LVC, and GM
+(JB and LVC in sequence for one treatment group), who designed the
+treatment manuals in collaboration with the principal investigators and
+trained and supervised the trial therapists and doctors. The centre leaders
+were BA, TC, Eleanor Feldman, GM, MM, HO, Tim Peto, MS, PDW, DW,
+and Simon Wessely. The centres were at St Bartholomew’s Hospital,
+London; Western General Hospital, Edinburgh; King’s College Hospital,
+London; John Radcliff e Hospital, Oxford; Royal Free Hospital, London and
+the Frenchay Hospital, Bristol (all UK).
+Confl icts of interest
+PDW has done voluntary and paid consultancy work for the UK
+Departments of Health and Work and Pensions and Swiss Re
+(a reinsurance company). DLC has received royalties from Wiley. JB was
+on the guideline development group of the National Institute for Health
+and Clinical Excellence guidelines for chronic fatigue syndrome and
+myalgic encephalomyelitis and has undertaken paid work for the
+insurance industry. GM has received royalties from Karnac. TC has done
+consultancy work for insurance companies and has received royalties
+from Sheldon Press and Constable and Robinson. MB has received
+royalties from Constable and Robinson. MS has done voluntary and paid
+consultancy work for government and for legal and insurance
+companies, and has received royalties from Oxford University Press.
+ALJ, BA, HLB, LVC, JCD, KAG, LP, MM, PM, HO, RW, and DW declare
+that they have no confl icts of interests.
+Acknowledgments
+The PACE trial was funded by the UK Medical Research Council
+(MRC G0200434), the Department of Health for England, the UK
+Department for Work and Pensions, and the Chief Scientist Offi ce of the
+Scottish Government Health Directorates. The Department of Health
+and the Chief Scientist Offi ce provided excess treatment and service
+support costs for the trial therapists and doctors. We thank the
+participants who took part in the PACE trial, staff from all the centres
+(including all PACE research nurses or assistants: Susan Begg,
+Matteo Cella, Sally Cregeen, Sarah Horne, Chris James, Julie Richards,
+Joanna Smee, and Vicky Toghill; data managers: Victoria Bates,
+Ann M Doust, Emma Hartley, Kate Lievesley, Sandy Smith, and
+Olga Zielona; therapists: Mary Barker, Jen Bobrow, Laura Butler,
+Nathan Butler, Richard-John Chippindall, Ruth Cowlishaw,
+Vincent Deary, Caroline J Heading, Lindsey Hume, Vicky Johnson,
+Sally Ludlam, Lorraine Maher-Edwards, Louise Mason,
+Christina Michailidou, Stacey Millet-Clay, Karen Shute, C M Simpson,
+Sheena E Spence, Valerie Suarez, Brendan Thomas, Tracey Turner,
+Rebecca Van Klinken, S M Wagner, Sue Wilkins, Giselle Withers,
+Fiona Wright, and Daniel Zahl; and specialist medical care doctors:
+Janet Andrews, Michael Broughton, Frauke Fehse, Eleanor Feldman,
+Janet Gray, Michael E Jones, Tara Lawn, Brian Marien, Tim Peto,
+Angharad Ruttley, Alastair Santhouse, Adrian Vos, and Simon Wessely.
+Kathy Fulcher, Tom Meade, C L Murphy, Anthony J Pinching, and
+Rajesh Shah contributed and provided advice about the study, and
+Kurt Kroenke, Jan Scott, Peter Tyrer, and Simon Wessely commented on
+an early draft of the report.
+References
+1 Prins JB, van der Meer JW, Bleijenberg G. Chronic fatigue
+syndrome. Lancet 2006; 367: 346–55.
+2 National Institute for Health and Clinical Excellence. Clinical
+guideline CG53. Chronic fatigue syndrome/myalgic
+encephalomyelitis (or encephalopathy): diagnosis and
+management. http://guidance.nice.org.uk/CG53 (accessed Nov 6,
+2010).
+3 Cairns R, Hotopf M. A systematic review describing the prognosis
+of chronic fatigue syndrome. Occup Med 2005; 55: 20–31.
+4 Edmonds M, McGuire H, Price JR. Exercise therapy for chronic
+fatigue syndrome. Cochrane Database Syst Rev 2004; 3: CD003200.
+5 Bagnall A-M, Hempel S, Chambers D, Orton V, Forbes C. The
+treatment and management of chronic fatigue syndrome (CFS)/
+myalgic encephalomyelitis (ME) in adults and children: update
+of CRD Report 22. http://www.york.ac.uk/inst/crd/CRD_Reports/
+crdreport35.pdf (accessed Nov 6, 2010).
+6 Malouff JM, Thorsteinsson EB, Rooke SE, Bhullar N, Schutte NS.
+Effi cacy of cognitive behavioral therapy for chronic fatigue
+syndrome: a meta-analysis. Clin Psychol Rev 2008; 28: 736–45.
+7 Price JR, Mitchell E, Tidy E, Hunot V. Cognitive behaviour therapy
+for chronic fatigue syndrome in adults. Cochrane Database Syst Rev
+2008; 3: CD001027.
+Articles
+836 www.thelancet.com Vol 377 March 5, 2011
+8 Action for ME. ME 2008: what progress? Action for ME, 2008.
+http://www.afme.org.uk/res/img/resources/Survey%20Summary
+%20Report%202008.pdf (accessed Nov 6, 2010).
+9 ME Association. Managing my ME. What people with ME/CFS and
+their carers want from the UK’s health and social services. http://
+www.meassociation.org.uk/?page_id=1345 (accessed Nov 6, 2010).
+10 White PD, Sharpe MC, Chalder T, DeCesare JC, Walwyn R; on behalf
+of the PACE trial group. Protocol for the PACE trial: a randomised
+controlled trial of adaptive pacing, cognitive behaviour therapy, and
+graded exercise, as supplements to standardised specialist medical
+care versus standardised specialist medical care alone for patients
+with the chronic fatigue syndrome/myalgic encephalomyelitis or
+encephalopathy. BioMed Cent Neurol 2007; 7: 6.
+11 Sharpe MC, Archard LC, Banatvala JE, et al. A report—chronic
+fatigue syndrome. J Roy Soc Med 1991; 84: 118–21.
+12 Reeves WC, Lloyd A, Vernon SD, et al. The international chronic
+fatigue syndrome study group identifi cation of ambiguities in the
+1994 chronic fatigue syndrome research case defi nition and
+recommendations for resolution. BMC Health Serv Res 2003, 3: 2.
+13 The London criteria. Report on chronic fatigue syndrome (CFS),
+post viral fatigue syndrome (PVFS) and myalgic encephalomyelitis
+(ME). Westcare, Bristol: The National Task Force, 1994.
+14 First MB, Spitzer RL, Gibbon M, Williams JBW. Structured Clinical
+Interview for DSM-IV-TR axis I disorders, research version, patient
+edition with psychotic screen (SCID-I/P W/ PSY SCREEN).
+New York: Biometrics Research, New York State Psychiatric
+Institute, 2002.
+15 Chalder T, Berelowitz G, Hirsch S, Pawlikowska T, Wallace P,
+Wessely S. Development of a fatigue scale. J Psychosom Res 1993;
+37: 147–53.
+16 McHorney CA, Ware JE, Raczek AE. The MOS 36 item short form
+health survey (SF-36): II. Psychometric and clinical tests of validity
+in measuring physical and mental health constructs. Med Care 1993;
+31: 247–63.
+17 Pesek JR, Jason LA, Taylor RR. An empirical investigation of
+the envelope theory. J Human Behav Soc Environ 2000; 3: 59–77.
+18 Action for ME. Pacing for people with ME. http://www.afme.org.
+uk/res/img/resources/Pacing%20booklet%2019%20March%
+2007.pdf (accessed Nov 6, 2010).
+19 Sharpe M, Hawton K, Simkin S, et al. Cognitive behaviour therapy
+for the chronic fatigue syndrome: a randomised controlled trial.
+BMJ 1996; 312: 22–26.
+20 Deale A, Chalder T, Marks I, Wessely S. Cognitive behavior therapy
+for chronic fatigue syndrome: a randomized controlled trial.
+Am J Psychiatry 1997; 154: 408–14.
+21 Prins JB, Bleijenberg G, Bazelmans E, et al. Cognitive behaviour
+therapy for chronic fatigue syndrome: a multicentre randomised
+controlled trial. Lancet 2001; 357: 841–47.
+22 Fulcher KY, White PD. Randomised controlled trial of graded
+exercise in patients with the chronic fatigue syndrome. BMJ 1997;
+314: 1647–52.
+23 Moss-Morris R, Sharon C, Tobin R, Baldi JC. A randomized
+controlled graded exercise trial for chronic fatigue syndrome:
+outcomes and mechanisms of change. J Health Psychol 2005;
+10: 245–59.
+24 Cox DL, Araoz G. The experience of therapy supervision within a
+UK multi-centre randomized controlled trial. Learn Health Soc Care
+2009; 8: 301–14.
+25 Guy W. ECDEU assessment manual for psychopharmacology.
+Rockville, MD: National Institute of Mental Health, 1976: 218–22.
+26 Mundt JC, Marks IM, Shear K, Griest JH. The work and social
+adjustment scale: a simple measure of impairment in functioning.
+Br J Psychiatry 2002; 180: 461–64.
+27 Butland RJA, Pang J, Gross ER, Woodcock AA, Geddes DM.
+Two, six, and 12 minute walking test in respiratory disease.
+BMJ 1982; 284: 1607–08.
+28 Jenkins CD, Stanton B, Niemcryk S, Rose R. A scale for the
+estimation of sleep problems in clinical research. J Clin Epidemiol
+1988; 41: 313–21.
+29 Zigmond A, Snaith R. The hospital anxiety and depression scale.
+Acta Psychiatr Scand 1983; 87: 361–70.
+30 Senn S, Julious S. Measurement in clinical trials: a neglected issue
+for statisticians? Stats Med 2009; 28: 3189–209.
+31 Guyatt GH, Osaba D, Wu AW, et al. Methods to explain the clinical
+signifi cance of health status measures. Mayo Clinic Proceedings
+2002; 77: 371–83.
+32 Cella M, Chalder T. Measuring fatigue in clinical and community
+settings. J Psychosom Res 2010; 69: 17–22.
+33 Bowling A, Bond M, Jenkinson C, Lamping DL. Short form 36
+(SF-36) health survey questionnaire: which normative data should
+be used? Comparisons between the norms provided by the
+Omnibus Survey in Britain, The Health Survey for England and
+the Oxford Healthy Life Survey. J Publ Health Med 1999, 21: 255–70.
+34 Wearden AJ, Dowrick C, Chew-Graham C, et al. Fatigue
+Intervention by Nurses Evaluation (FINE) trial writing group and
+the FINE trial group. Nurse led, home based self help treatment
+for patients in primary care with chronic fatigue syndrome:
+randomised controlled trial. BMJ 2010; 340: c1777.
+35 Jason LA, Torres-Harding S, Friedberg F, et al. Non-pharmacologic
+interventions for CFS: a randomized trial.
+J Clin Psychol Med Settings 2007; 14: 275–96.
+36 Wearden AJ, Morriss RK, Mullis R et al. Randomised, double-blind,
+placebo-controlled treatment trial of fl uoxetine and graded exercise
+for chronic fatigue syndrome. Br J Psychiatry 1998; 172: 485–90.
+37 Heins MJ, Knoop H, Prins JB, Stulemeijer M, van der Meer JWM,
+Bleijenberg G. Possible detrimental eff ects of cognitive behaviour
+therapy for chronic fatigue syndrome. Psychother Psychosom 2010;
+79: 249–56.

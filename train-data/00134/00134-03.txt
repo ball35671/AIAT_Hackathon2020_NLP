@@ -1,0 +1,557 @@
+﻿Annals of Oncology 13: 789–795, 2002 Original article DOI: 10.1093/annonc/mdf134
+© 2002 European Society for Medical Oncology
+Urate-oxidase in the prevention and treatment of metabolic
+complications in patients with B-cell lymphoma and leukemia,
+treated in the Société Française d’Oncologie Pédiatrique
+LMB89 protocol
+C. Patte1
+*, C. Sakiroglu1
+, S. Ansoborlo2
+, A. Baruchel3
+, E. Plouvier4
+, H. Pacquement5
+ &
+A. Babin-Boilletot6
+On behalf of the Société Française d’Oncologie Pédiatrique†
+*Correspondence to: Dr C. Patte, Institut Gustave Roussy,
+39 rue Camille Desmoulins, 94805 Villejuif Cedex, France.
+Tel: +33-1-42-11-41-76; Fax: +33-1-42-11-52-75; E-mail: patte@igr.fr
+†Listed in the Acknowledgements.
+1
+Institut Gustave Roussy, Villejuif, 2
+Centre Hospitalier Universitaire, Bordeaux; 3
+Hôpital St Louis, Paris; 4
+Centre Hospitalier Universitaire, Besançon; 5
+Institut Curie, Paris; 6
+Institut de Puériculture, Strasbourg, France
+Received 14 May 2001; revised 7 December 2001; accepted 12 December 2001
+Purpose: To evaluate the frequency of metabolic complications and dialysis due to tumor lysis
+syndrome in patients with B-cell advanced-stage non-Hodgkin’s lymphoma (NHL) and L3 leukemia at
+initiation of chemotherapy including the use of urate-oxidase.
+Patients and methods: Retrospective review of the clinical records of 410 patients with stage III and
+IV B-cell NHL and L3 leukemia treated in France and prospectively registered in the LMB89 protocol.
+Results: During the first week of chemotherapy, only 34 of 410 patients recorded metabolic problems
+that included hypocalcemia (<70 mg/dl) in 24 patients, hyperphosphatemia (>6.5 mg/dl) in 28 and
+elevation of creatinine ≥2 SD in 16. Six patients underwent dialysis for life-threatening problems and a
+seventh as a preventive measure. In the other 27 cases, metabolic problems were successfully resolved
+using urate-oxidase in combination with alkaline hyperhydration. Among the 410 patients, one case of
+hemolysis was reported and there was no severe allergic reaction to urate-oxidase.
+Conclusions: Only 1.7% of patients in our study receiving urate-oxidase during their induction chemotherapy needed renal dialysis. Urate-oxidase was well tolerated, and used as prophylaxis and/or treatment of hyperuricemia and tumor lysis syndrome consistently gave a lower rate of renal and metabolic
+complications than in other series of similar patients.
+Key words: B-cell lymphoma, hyperuricemia, L3 leukemia, LMB protocol, tumor lysis syndrome,
+urate-oxidase
+Introduction
+Lymphoproliferative malignancies are frequently associated
+with acute tumor lysis syndrome (TLS), a massive spontaneous or chemotherapy-induced cytolysis leading to the release
+of intracellular metabolites [1, 2]. The resulting metabolic
+disturbances cause significant clinical problems. In particular,
+hyperuricemia resulting from the breakdown of large quantities of nucleic acids in the lysed tumor cells [3] has been
+implicated in the eventual development of renal dysfunction,
+as precipitation of uric acid leading to intraluminal tubular
+obstruction results in acute renal failure [4]. Although the
+prognosis for patients with B-cell non-Hodgkin’s lymphoma
+(NHL) and L3 acute lymphocytic leukemia (ALL) who
+survive disease-free for 1 year is now generally excellent,
+these metabolic problems can have a major deleterious impact
+on morbidity and mortality.
+For many years the standard pharmacological treatment for
+hyperuricemia has been allopurinol, which blocks the metabolic conversion of hypoxanthine and xanthine to uric acid
+[5, 6]. Allopurinol also inhibits de novo purine synthesis,
+further lowering uric acid concentrations. Although effective,
+allopurinol treatment has some limitations. Allopurinol
+administration prevents further synthesis of uric acid but does
+not degrade the uric acid already present, and is therefore usually given together with alkaline hyperdiuresis to clear renal
+uric acid crystals, a process that takes up to 10 days and which
+790
+might significantly delay the start of chemotherapy. Since
+xanthine and hypoxanthine are themselves only slightly soluble, their accumulation may be toxic [7–9]. Furthermore,
+allopurinol inhibits the degradation of the chemotherapeutic
+agents 6-mercaptopurine and azathioprine, increasing their
+chemotoxicity and complicating their simultaneous administration in chemotherapeutic regimens [3].
+As a result of allopurinol’s disadvantages, the enzyme
+urate-oxidase has been developed as an alternative to catalyze
+the conversion of uric acid to more soluble allantoin (Figure 1).
+Urate-oxidase is present in many mammals (excluding
+humans and other primates), and because it acts at the end of
+the purine metabolic pathway it does not lead to the accumulation of intermediary metabolites such as xanthine, thus limiting the risk of renal damage [10]. Urate-oxidase extracted
+from Aspergillus sp. has been available as Uricozyme in
+France since 1975 [11–13] and in Italy since 1984 [10, 14],
+and has been routinely used in these countries for the prophylaxis or treatment of severe hyperuricemia following chemotherapy. More recently a recombinant version using the gene
+cloned from Aspergillus sp. has become available [15].
+Little has yet been published to support the clinical use of
+urate-oxidase in the prophylaxis and treatment of malignancyassociated hyperuricemia and TLS [11–14]. The study
+reported here retrospectively evaluated the frequency of metabolic complications and dialysis in patients with B-cell NHL
+and L3 ALL who had undergone chemotherapy in France
+according to the LMB89 protocol [16] including the use of
+urate-oxidase. A secondary aim of the study was to compare
+these results with those of similar patients treated with the
+same (as in the UK) or similar (in other countries) protocols,
+all without the concomitant use of urate-oxidase.
+Patients and methods
+Patients
+This study is a retrospective evaluation of early renal and metabolic
+complications and of the effect of urate-oxidase on patients with B-cell
+NHL or L3 ALL treated with the LMB89 protocol (July 1989 to May
+1996). This protocol followed previous LMB protocols for the treatment
+of B-cell malignancies in use in France and in some Dutch and Belgian
+centers since 1981 [17, 18]. In all these protocols, chemotherapy started
+with a 1-week cytoreductive low-dose regimen (COP) using vincristine
+(VCR) 1 mg/m2
+ and cyclophosphamide (CPM) 300 mg/m2
+ on day 1, with
+7 days of prednisone 60 mg/m2
+ and intrathecal treatment [one dose of
+methotrexate (MTX) and hydrocortisone for stage III and for central
+nervous system (CNS)-negative stage IV NHL, or three doses of MTX,
+cytarabine and hydrocortisone for CNS-positive stage IV NHL or for
+B-cell ALL]. The first intensive induction course of chemotherapy,
+COPADM1 [combination of fractionated CPM, VCR, prednisone, Adriamycin and high-dose (HD) MTX (3 g/m2
+ in stage III and CNS-negative
+stage IV, 8 g/m2
+ in CNS-positive NHL and in B-ALL)], started on day 8.
+The metabolic problems due to TLS that may have been present before the
+start of chemotherapy, and otherwise arose during the first week of treatment, needed to be resolved before COPADM1 could be started.
+The current recommendations for the management of TLS are:
+(i) alkaline hyperhydration (3 l/m2
+/day) to obtain a urine output of about
+100–120 ml/m2
+/h and urine pH 7; (ii) urate-oxidase given intravenously
+over 15–30 min at a dosage of 50–100 U/kg/day (the larger dose is given
+in cases of large tumor mass). These recommendations must be initiated
+as soon as the diagnosis of NHL or leukemia is suspected and continued as
+long as there is a risk of TLS, generally over the 5–7 days following the
+start of treatment.
+The COP chemotherapy was started only when correct diuresis was
+achieved, with furosemide if necessary. In the case of urinary tract
+obstruction by tumor mass, temporary urine diversion by percutaneous
+nephrostomy or uretera-endoprothesis could be carried out; if these
+techniques were not immediately available, dialysis was chosen.
+In cases of known large tumor mass, it was possible to split COP
+administration over 2 days in an attempt to reduce the acute complications
+of TLS, and the dose of urate-oxidase could be increased according to the
+plasma uric acid level.
+Study design
+Of the patients registered in the LMB89 study, the following were
+excluded from this investigation: those who were not treated in France
+and therefore did not receive urate-oxidase, and those who presented with
+stage I and II disease and were therefore at lower risk of TLS. For the
+selected patients, i.e. those with stage III and IV NHL or with ALL,
+treated in France, the clinical records were reviewed for data on: (i) patient
+characteristics (age, sex, weight); (ii) NHL and ALL characteristics
+[histology, primary site, other sites especially kidney involvement, serum
+lactate dehydrogenase (LDH) level, stage according to Murphy’s classification]; (iii) presence of ‘associated problems’ before the start of treatment (general comments on renal function or other physiological data,
+without specific documentation); and (iv) occurrence of significant metabolic problems during the first week of treatment. The patients whose
+records noted the occurrence of metabolic problems during the first week
+of chemotherapy were selected for detailed analysis. A questionnaire was
+completed using the information from the patients’ case report forms on
+renal function, electrolyte balance [serum phosphate levels >2.1 mmol/l
+(6.5 mg/dl), calcium <1.75 mmol/l (70 mg/l), potassium >6.5 mmol/l],
+initial and highest serum uric acid level, urate-oxidase dose, clinical
+management, need for dialysis and problems during the first COPADM
+course, especially delay in HD MTX excretion.
+Renal function impairment was defined as a serum creatinine level
+>2 standard deviations (SD) above the normal value for the patient’s age,
+as given by the Schwartz formula [19].
+Figure 1. Diagram of the purine catabolism pathway. *Uric acid is the
+normal end point in humans.
+791
+Statistical methodology
+The results of the retrospective study were tabulated and displayed using
+descriptive statistics only.
+Results
+Study patients
+The records of 410 patients with B-cell stage III and IV NHL
+and ALL, treated in 37 French centers, were reviewed. Some
+of the characteristics of this group of patients are shown in
+Table 1. LDH levels raised to over twice the institutional
+upper normal level were found in 234 patients (57%), indicative of a heavy tumor burden. A large number of the patients
+had ascites (45%), pleural effusion (20%) or kidney involvement (14%).
+Initial clinical problems with metabolic or renal disorders
+and/or urinary tract dysfunction before the start of any chemotherapy were recorded in 41 patients, some of them occurring
+in the same patient. Renal failure was recorded 21 times (5%);
+urinary tract obstruction nine times (2%), leading to percutaneous pyelostomy in two patients, vesical catheter in two, double
+J ureteral catheter in one and a single dialysis course in one
+patient; major electrolyte imbalance seven times (2%, two
+patients with hypercalcemia, three with hyperkaliemia, two
+with hyperphosphatemia); paraplegia or spina bifida three
+times (0.7%); and ureteral fistula once.
+All the patients received COP chemotherapy in combination with the measures recommended for the management of
+TLS. Only 11 of those with recorded initial metabolic problems and 23 others presented significant metabolic problems
+during the first week after the start of treatment.
+Patients presenting metabolic problems after start of
+chemotherapy
+Description at diagnosis
+In the first week after the start of chemotherapy, i.e. during
+the cytoreductive low-dose phase of COP treatment, 34 of
+410 patients with metabolic problems were recorded: six girls
+and 28 boys with ages ranging from 3 to 15 years, and weight
+from 15.6 to 63 kg. Some of their demographic and baseline
+characteristics are shown in Table 2. Twenty-two patients had
+an abdominal and one a maxillary tumor as the primary site,
+and 11 had ALL. Twenty patients (59%) presented with
+puncturable ascites, 17 with pleural effusion and 13 with
+kidney tumor involvement. All but one patient had LDH levels
+more than twice the normal value, and 13 patients (38%) had
+levels more than 10 times the normal value; the median LDH
+level was seven times the normal value. Eight were recorded
+as having renal insufficiency at diagnosis. After review of the
+questionnaire, three of these were found to have had creatinine
+levels <2 SD above the norm and 11 other patients, i.e. a total
+of 16, already had impaired renal function before the start of
+COP, including five with oligo-anuria, five with hydronephrosis and six with diffuse kidney tumor involvement.
+Table 1. Baseline characteristics of patients included in study
+No. of patients (%)
+Patients eligible for inclusion in the present study 410
+Disease status
+Stage III 257 (63%)
+Stage IV 57 (14%)
+L3 acute lymphocytic leukemia 96 (23%)
+Lactate dehydrogenase
+<2 × normal 145 (35%)
+≥2 × normal 234 (57%)
+Unknown 31 (7.6%)
+Pleural effusion 83 (20%)
+Ascites 183 (45%)
+Kidney involvement 56 (14%)
+Problems reported before start of chemotherapy
+Renal failure 21 (5%)
+Urinary tract obstruction with renal failure 9 (2%)
+Paraplegia or spina bifida 3 (0.7%)
+Major electrolyte imbalance 7 (2%)
+Table 2. Demographic and baseline characteristics of patients with
+recorded metabolic disorders in the first week of chemotherapy
+No. of patients (%)
+Total patients with recorded metabolic disorders 34
+Disease status
+Stage III 11
+Stage IV 5
+Acute lymphocytic leukemia 18
+Lactate dehydrogenase
+>2 × normal 33
+>10 × normal 13
+Median 7 × normal
+Uric acid (22 patients)
+Median 807 µmol/l
+Range 50–1800 µmol/l
+Pleural effusion 17 (50%)
+Ascites 20 (59%)
+Impaired renal function
+Elevated creatinine (>2 SD for the age) 16
+Oliguria 5
+Hydronephrosis 5
+Renal tumor involvement 13
+792
+As uric acid dosage were not available for any time in any
+center, and because urate-oxidase and hyperhydration were
+generally initiated immediately on admission of the patient,
+the initial uric acid level was not known for nine patients and
+was uncertain in a further two. The other 22 patients showed
+elevated uric acid levels between 506 and 1800 µmol/l (5.7
+and 20.3 mg/dl) with a median of 807 µmol/l (9.1 mg/dl).
+In 11 patients, the COP course was split over more than 1 day.
+Metabolic problems after the start of chemotherapy
+For these 34 patients, a diverse combination of metabolic
+problems after the start of chemotherapy were reported.
+Hypocalcemia <1.75 mmol/l (70 mg/dl) was reported in
+24 patients (72%), hyperphosphatemia >2.1 mmol/l (6.5 mg/dl)
+in 28 patients (85%), and creatininemia ≥2 SD above the norm
+in 16 patients (47%) (10 in whom it was already recognized
+and six others). In 21 of the patients the metabolic problems
+were classified as severe: hyperphosphatemia >3 µmol/l
+(9.3 mg/dl) in 16 and oliguria or anuria in six and two patients,
+respectively. Twelve of these cases had life-threatening problems, with levels of phosphate >5 µmol/ml (15.5 mg/dl) in
+four patients, of potassium ≥6.5 mmol/l in five patients, and
+oliguria or anuria in patients as previously noted.
+Six of the 12 patients with life-threatening problems underwent dialysis: four for oliguria or anuria (associated with hyperphosphatemia in two cases), and two for hyperphosphatemia
+(associated with hyperkalemia in one patient). Two of these
+patients initially showed either kidney tumor involvement or
+renal insufficiency, and four patients had a combination of
+both problems. In one further case, dialysis was instigated as a
+preventive measure due to the patient’s poor condition (renal
+insufficiency, staphylococcal septicemia and respiratory
+problems due to huge ascites and pleural effusion, but without
+oliguria or electrolyte imbalance).
+The median number of dialysis courses was three (range
+two to five). The patients who received dialysis were aged
+between 4 and 15 years. Five presented with large abdominal
+tumors (three at stage III, one at stage IV and one ALL) and
+two with L3 ALL. Their median LDH levels were eight times
+the upper normal limit (range two to 22 times).
+In the other 27 cases of patients encountering metabolic
+problems (including six where they were life-threatening and
+who did not undergo dialysis), the problems were successfully
+resolved by treatment using urate-oxidase in combination with
+alkaline hyperhydration, and hyperdiuresis with furosemide.
+No patients died.
+The data review did not investigate the rate at which uric
+acid levels decreased, only the highest uric acid level achieved
+and the highest daily dose of urate-oxidase used. Eighteen
+patients showed good control of uric acid levels [<480 µmol/l
+(7.65 mg/dl)] on a median urate-oxidase dose of 165 U/kg/day
+(range 66–375). Conversely, 16 patients whose median dose
+was only 70 U/kg/day (range 30–105) showed inadequate
+control of uric acid levels (>480 µmol/l).
+Subsequent chemotherapy course
+Among the 34 patients, four (two dialyzed, one with severe
+metabolic problems but not dialyzed, one without severe metabolic problems but requiring assisted ventilation for 3 days in
+an intensive care unit) presented delayed excretion of HD
+MTX given at 8 g/m2
+ during the first COPADM course. This
+was followed by grade 4 mucositis in four patients, severe
+aplasia with sepsis in two patients, and numerous transfusions
+required by a further two patients. No patients died.
+Safety of urate-oxidase
+In this series of 410 patients there was only one case of
+hemolysis in a patient with a previously undetected glucose
+6-phosphate dehydrogenase (G6PD) deficiency. After stopping urate-oxidase treatment the hemolysis was managed
+without any further difficulty. No severe allergic reactions
+were reported from these patients. No data are available on the
+development of antibodies to urate-oxidase over time. In
+31 patients, however, there was subsequent tumor regrowth,
+relapse or development of secondary hematological malignancy requiring further urate-oxidase treatment, with no
+reports of significant immunological reaction.
+Discussion
+Out of a total 410 patients in the LMB89 series with stage III
+or IV B-cell lymphoma or ALL, only 34 (8%) had reports of
+metabolic problems after the start of chemotherapy, 21 (5%)
+displayed severe metabolic problems, of which 12 (2.9%)
+were life-threatening, and only seven (1.7% of all the study
+patients, 0.7% of patients in stage III and 2.6% of patients in
+stage IV and with ALL) required dialysis as a result of TLS. It
+should be noted that some patients were successfully treated
+without dialysis on the standard urate-oxidase-containing
+regimen even though they showed the same clinical changes,
+including alteration of renal function, oliguria, hyperphosphatemia and hyperkalemia, that led to the implementation of
+dialysis in other patients. No patient died as a consequence of
+metabolic problems or further problems related to renal function impairment.
+These efficacy data may be compared with the data from
+published United Kingdom Children Cancer Study Group
+(CCSG) and USA Pediatric Oncology Group studies [20–22].
+No metabolic data are given in the report of 112 patients with
+stage III and CNS-negative stage IV treated with the
+UKCCSG9002 protocol identical to the LMB89 group B
+protocol [19]. In the series treated with the UKCCSG9003
+protocol identical to the LMB89 group C protocol, however,
+of 63 patients with CNS-positive stage IV and ALL, 10 (16%)
+required dialysis [21]. Five of them subsequently died of
+toxicity (infection with or without renal failure). Furthermore,
+COPADM first or second courses had to be delayed or modified for 28 patients because of poor clinical condition or
+793
+associated complications, mainly infectious or metabolic. Of
+these 28 patients, seven relapsed and four died from toxicity.
+These data underline the improvement in long-term survival
+with prevention of renal damage during chemotherapy.
+The study from the USA [22], which used an initially more
+aggressive chemotherapy regimen, i.e. without a low-dose
+cytoreductive phase, showed a nine-fold higher recourse to
+dialysis compared with the data reported here (Table 3). Treatment of 123 patients with stage IV small non-cleaved cell
+NHL or B-cell ALL showed that early renal and metabolic
+dysfunction led to a requirement for dialysis in 28 patients
+(23%). Six patients died from metabolic problems.
+Thus, compared with 11% and 23% of children with stage IV
+NHL and ALL in protocols using chemotherapy and allopurinol, without urate-oxidase, in our series only 2.6% of similar
+patients receiving chemotherapy plus urate-oxidase needed
+renal dialysis. Although there might be differences in the indications for dialysis in different studies, these results suggest
+that urate-oxidase results in better management of metabolic
+and renal complications.
+The potential impact of the increased use of urate-oxidase in
+patients with lymphoid malignancies at risk of TLS is emphasized by a retrospective analysis of 1192 children diagnosed
+with NHL of any stage [23], in which 63 patients (5%) were
+reported to have suffered from impaired renal function and/or
+TLS either before or during the initial treatment. Dialysis was
+necessary for 25 patients (40% of all patients with impaired
+renal function) and a total of nine patients (14%) died after the
+first course of chemotherapy due to sepsis (seven patients) or
+electrolyte imbalances (two patients). The authors of this
+paper note that patients at advanced stages of the disease and
+with a large tumor mass are at high risk of renal failure, and
+that the prophylactic use of urate-oxidase in patients with
+advanced-stage NHL might reduce the incidence of TLS.
+Our retrospective data show that good control of hyperuricemia [<480 µmol/l (7.65 mg/dl)] was achieved on a median
+urate-oxidase dose of 165 U/kg/day. Lower dosages (median
+70 U/kg/day) gave inadequate control (uric acid >480 µmol/l).
+Clinical experience showed that dosage must be adjusted in
+line with the observed serum uric acid level. In patients with a
+known large tumor mass, the dosage may need to be increased
+substantially above the recommended dose of 100 U/kg/day in
+order to obtain full efficacy. Clinical practice has shown that
+the decrease in uric acid levels is obtained rapidly, although
+the present study cannot provide data to support this. Pui et al.,
+1997 [24] showed in eight patients with B-ALL or advancedstage B-NHL that plasma uric acid levels were <1 mg/dl
+(88 µmol/l) after 4 days of treatment with urate-oxidase
+Urate-oxidase was well tolerated in the series of patients
+reported here, with one case of hemolysis revealing a previously unknown G6PD deficiency, and with no hypersensitivity reaction. Previous studies with urate-oxidase have reported
+varying rates of allergic reactions, from 0% to 4.5% [24],
+reflecting differences in the underlying allergic status of the
+patients involved.
+This retrospective study was not designed to evaluate
+pharmacoeconomics benefits of urate-oxidase or to collect
+treatment-related costs. The low incidence of dialysis, of
+metabolic complications and toxicity-related deaths, however,
+when compared with similar cohorts of patients not receiving
+urate-oxidase, may suggest a pharmacoeconomic benefit of
+the use of this drug in the described patient population.
+From our experience in pediatric hemato-oncology, we
+could propose the following guidelines for an optimal use of
+urate-oxidase: patients with very high risk of TLS [i.e. patients
+with ALL or myeloblastic leukemia with a white blood cell
+(WBC) count >100000/mm3
+; patients with stage III/IV
+Burkitt lymphoma and increased LDH level and/or high uric
+acid level, renal involvement and impaired renal function;
+patients with L3 leukemia; patients with stage III/IV lymphoblastic lymphoma and a significant tumor mass (>10 cm)
+and/or pleural effusion and impaired renal function] will
+systematically be treated with urate-oxidase. Urate-oxidase in
+these cases will be started before initiation of chemotherapy
+and given as long as tumor lysis persists, for a duration of
+5–7 days under chemotherapy. In cases where tumor lysis is
+very intense (during the first 3 days of chemotherapy) the
+number of daily injections may be increased, according to the
+plasma uric acid levels and to the other biological parameters.
+The use of urate-oxidase should also be closely considered in
+the following patients: patients with acute leukemia and WBC
+count between 50000 and 100000/mm3
+ and/or extensive
+tumor mass, high uric acid level, renal involvement, impaired
+renal function or high proliferation index, as well as patients
+with other stage III/IV Burkitt and lymphoblastic lymphoma.
+Urate-oxidase should be avoided in patients with G6PD
+Table 3. Comparison of chemotherapy studies with/without urate-oxidase
+a
+UKCCSG, United Kingdom Children Cancer Study Group. Data from Atra et al. [21].
+b
+POG, Pediatric Oncology Group. Data from Bowman et al. [22].
+ALL, acute lymphocytic leukemia.
+LMB89 (France) UKCCSG (UK)a POG (USA)b
+Disease stages included III + IV + ALL IV + ALL IV + ALL IV + ALL
+Patient number 410 152 63 123
+Patients receiving dialysis 7 (1.7%) 4 (2.6%) 10 (16%) 28 (23%)
+794
+deficiency and given with caution in patients with history of
+severe allergies.
+A recombinant urate-oxidase (rasburicase; Fasturtec®) has
+recently been approved in Europe for the prevention and treatment of acute hyperuricemia in patients with hematological
+malignancies. Recombinant DNA techniques result in a welldefined product of higher purity compared with the enzyme
+extracted from Aspergillus flavus used in Uricozyme®, potentially translating into a reduced risk of allergic reactions.
+Conclusion
+The retrospective study reported here shows that urateoxidase in the prophylaxis and treatment of hyperuricemia and
+TLS in patients with B-cell ALL or advanced lymphoma consistently leads to a low rate of metabolic and renal complications and recourse to dialysis. Using this treatment regimen,
+many patients who would normally be considered at high risk
+of TLS showed no symptoms of it, nor of hyperuricemia. The
+ability of urate-oxidase to prevent the delays that are caused
+by hyperuricemia or impaired renal function represents a
+major clinical advantage, since the rapid continuation or
+resumption of chemotherapy is of paramount importance in
+the treatment of these patients with a high tumor mass. Of the
+original 34 patients who showed metabolic problems in this
+study, only four experienced delay in continuing chemotherapy. Most of the patients in the study reported here, and in the
+UK and USA studies, had excellent prognoses in the absence
+of renal complications, so that preservation of renal function is
+an important clinical objective in this patient population.
+Using urate-oxidase before and during the initial exposure to
+cytoreductive therapy may therefore have a two-fold impact
+on overall survival in patients with a large tumor burden: first
+by its beneficial effect on the renal response to TLS and subsequent need for dialysis, and secondly by allowing patients to
+continue or restart chemotherapy more rapidly, a crucial consideration for patients in late-stage disease who are also those
+most at risk of TLS.
+Acknowledgements
+The authors are grateful to P. Rigaudy and J. Leach Scully for
+editorial assistance. Sanofi-Synthelabo, Paris, France was the
+grant supporter. Participating institutions and investigators:
+Institut G. Roussy, Villejuif, Drs Brugieres, Hartmann, Kalifa,
+Oberlin, Patte, Pein, Valteau; Institut Curie, Paris, Pr Zucker,
+Drs Michon, Doz, Pacquement, Quintana; Hopital Trousseau,
+Paris, Pr Leverger, Dr Landmann-Parker; Leon Berard, Lyon,
+Dr Frappaz, Pr Philip; Hospices Civils, Strasbourg, Pr Lutz,
+Dr Babin Boilletot; Hopital De La Timone, Marseille, Drs
+Coze, Gentet; CHU Bordeaux, Drs Perel, Ansoborlo; Hopital
+Huriez, Lille, Dr Nelken; Lyon Debrousse, Dr Bertrand,
+Pr Philippe; CHU Nantes, Dr Mechinaud; CHU Purpan,
+Toulouse, Drs Robert, Rubie; CHRU Nancy, Pr Sommelet, Dr
+Schmitt; CHRU Hopital Sud, Rennes, Dr Bergeron, Pr Legall;
+Hopital St Louis, Paris, Pr Baruchel, Dr Leblanc; Hopital
+C. Nicolle, Rouen, Pr Vannier; CHU, Hopital Lenval, Nice, Pr
+Thyss, Drs Deville, Monpoux; Hotel Dieu, Clermont Ferrand,
+Pr Demeocq; Hopital Americain, Reims, Drs Behar, Munzer;
+Hopital J. Bernard, Poitiers, Dr Millot; CHU Grenoble; Dr
+Plantaz; Hopital d’Enfants, Dijon, Dr Couillault; Hopital
+Robert Debre, Paris, Pr Vilmer, Dr Rohrlich; Hopital Clocheville, Tours, Pr Lamagnere, Dr Lejars; CHU, Amiens, Dr
+Pautard; Hopital St Jacques, Besancon, Dr Plouvier; CHU
+Angers, Dr Rialland; CHU, Caen, Dr Boutard; CHU
+Dupuytren, Limoges, Pr De Lumley; Hopital Nord De St
+Etienne, Dr Stephan; Centre Oscar Lambret, Lille, Drs
+Demaille, Baranzelli.
+References
+1. Warrell RP Jr. Metabolic emergencies. In DeVita VT, Hellman S,
+Rosenberg SA (eds): Cancer: Principles and Practice of Oncology.
+Philadelphia, PA: Lippincott 1993; 2134–2135.
+2. Arrambide K, Toto RD. Tumor lysis syndrome. Semin Nephrol 1993;
+13: 273–280.
+3. Stucky LA. Acute tumor lysis syndrome: assessment and nursing
+implications. Oncol Nurs Forum 1993; 20: 49–59.
+4. Krakoff IH, Meyer RL. Prevention of hyperuricemia in leukemia and
+lymphoma: use of allopurinol, a xanthine oxidase inhibitor. J Am
+Med Assoc 1965; 193: 89–94.
+5. Hande KR. Allopurinol. In Chabner BA, Collins JM (eds): Cancer
+Chemotherapy: Principles and Practice. Philadelphia, PA: Lippincott
+1990; 408–423.
+6. DeConti RC, Calabresi P. Use of allopurinol for prevention and
+control of hyperuricaemia in patients with neoplastic disease. N Engl
+J Med 1966; 274: 481–486.
+7. Jones DP, Mahmoud H, Chesney RW. Tumor lysis syndrome: pathogenesis and management. Pediatr Nephrol 1995; 9: 206–212.
+8. Band PR, Silverberg DS, Henderson JF et al. Xanthine nephropathy
+in a patient with lymphosarcoma treated with allopurinol. N Engl
+J Med 1970; 283: 354–357.
+9. Mahmoud HH, Leverger G, Patte C et al. Advances in the management of malignancy-associated hyperuricemia. Br J Cancer 1998; 77:
+18–20.
+10. Masera G, Jankovic M, Zurlo MG et al. Urate-oxidase prophylaxis of
+uric acid-induced renal damage in childhood leukemia. J Pediatr
+1982; 100: 152–155.
+11. Gardais J. L’urate-oxydase dans le traitement des hemopathies
+malignes. Quest Med 1976; 29: 1199–1203.
+12. Robert A, Corberand J, Regnier CL. Utilisation de l’urate-oxydase
+dans la prevention et le traitement des hyperuricemies dans 20 cas de
+leucose aigue de l’enfant. Rev Med Toulouse 1976; 12: 1093–1100.
+13. Zittoun R, Dauchy F, Teillaud C et al. Le traitement des hyperuricemies en haematologie par l’urate oxydase et l’allopurinol. Ann
+Med Interne 1976; 127: 479–482.
+14. Jankovic M, Zurlo MG, Rossi E et al. Urate-oxidase as hypouricemic
+agent in a case of acute tumor lysis syndrome. Am J Pediatr Hematol
+Oncol 1985; 7: 202–204.
+15. Pui CH, Mahmoud HH, Wiley JM et al. Recombinant urate oxidase
+for the prophylaxis or treatment of hyperuricemia in patients with
+leukemia or lymphoma. J Clin Oncol 2001; 19: 697–704.
+795
+16. Patte C, Auperin A, Michon J et al. The SFOP LMB89 protocol:
+highly effective multi-agent chemotherapy tailored to tumor burden
+and initial response in 561 unselected children with B-cell lymphoma
+and L3 leukemia. Blood 2001; 97: 3370–3379.
+17. Patte C, Philip T, Rodary C et al. Improved survival rate in children
+with stage III and IV B cell non-Hodgkin’s lymphoma and leukemia
+using multi-agent chemotherapy: results of a study of 114 children
+from the French Pediatric Oncology Society. J Clin Oncol 1986; 4:
+1219–1226.
+18. Patte C, Philip T, Rodary C et al. High survival rate in advanced-stage
+B-cell lymphomas and leukemias without CNS involvement with a
+short intensive polychemotherapy: results from the French Pediatric
+Oncology Society of a randomized trial of 216 children. J Clin Oncol
+1991; 9: 123–132.
+19. Schwartz GJ. Does kL/PCr estimate GFR, or does GFR determine k?
+Pediatr Nephrol 1992; 6: 512–515.
+20. Atra A, Imeson JD, Hobson R et al. Improved outcome in children
+with advanced stage B-cell non-Hodgkin’s lymphoma (B-NHL):
+results of the United Kingdom Children Cancer Study Group
+(UKCCSG) 9002 protocol. Br J Cancer 2000; 82: 1396–1402.
+21. Atra A, Gerrard M, Hobson R et al. Improved cure rate in children
+with B-cell acute lymphoblastic leukaemia (B-ALL) and stage IV
+B-cell non-Hodgkin’s lymphoma (B-NHL). Results of the UKCCSG
+9003 protocol. Br J Cancer 1998; 77: 2281–2285.
+22. Bowman WP, Shuster JJ, Cook B et al. Improved survival for
+children with B-cell acute lymphoblastic leukemia and stage IV small
+noncleaved-cell lymphoma: a pediatric oncology group study. J Clin
+Oncol 1996; 14: 1252–1261.
+23. Seidemann K, Meyer U, Jansen P et al. Impaired renal function and
+tumor lysis syndrome in pediatric patients with non-Hodgkin’s
+lymphoma and B-ALL. Observations from the BFM trials. Klin
+Pediatr 1998; 210: 279–284.
+24. Pui CH, Relling MV, Lascombes F et al. Urate oxidase in prevention
+and treatment of hyperuricemia associated with lymphoid malignancies. Leukemia 1997; 11: 1813–1816.

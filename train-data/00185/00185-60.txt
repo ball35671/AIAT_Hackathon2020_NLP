@@ -1,0 +1,556 @@
+﻿Vaccine 29 (2011) 7975–7981
+Contents lists available at SciVerse ScienceDirect
+Vaccine
+jour nal homepage: www.elsevier.com/locate/vaccine
+Effectiveness of the pandemic H1N1 influenza vaccines against
+laboratory-confirmed H1N1 infections: Population-based case–control study
+Salaheddin Mahmuda,d,∗, Gregory Hammondb,c, Lawrence Elliott a,b,f
+, Tim Hildermana,f
+,
+Carol Kurbis d, Patricia Caetanoa,f
+, Paul Van Caeseele b,e, Joel Kettner a,f
+, Magdy Dawoodb,e
+a Department of Community Health Sciences, University of Manitoba, Winnipeg, Manitoba, Canada b Department of Medical Microbiology, University of Manitoba, Winnipeg, Manitoba, Canada c Department of Medicine, University of Manitoba, Winnipeg, Manitoba, Canada d Winnipeg Regional Health Authority, Winnipeg, Manitoba, Canada e Cadham Provincial Laboratory, Winnipeg, Manitoba, Canada f Manitoba Health, Winnipeg, Manitoba, Canada
+a r t i c l e i n f o
+Article history:
+Received 3 April 2011
+Received in revised form 8 July 2011
+Accepted 14 August 2011
+Available online 30 August 2011
+Keywords:
+Epidemiology
+Pandemic influenza A H1N1
+Vaccine effectiveness
+a b s t r a c t
+Background: Excellent immune responses following 1 or 2 doses of the monovalent inactivated pandemic
+H1N1 vaccines have been documented, but the effectiveness of these vaccines against laboratoryconfirmed H1N1 infections in the general population is not clear. We evaluated the effectiveness of the
+pandemic H1N1 and seasonal trivalent influenza vaccines (TIV) used during the 2009 mass vaccination
+campaign in Manitoba (Canada) in preventing laboratory-confirmed H1N1 infections.
+Methods: A population-based case–control study using data from Cadham Provincial Laboratory (CPL) and
+the Manitoba Immunization Monitoring System (MIMS). All Manitoba residents ≥6 months of age who
+had a respiratory specimen tested at CPL for H1N1 were included in the study. Cases were individuals
+who tested positive for pandemic H1N1 influenza A by reverse transcriptase-PCR (N = 1435). Controls
+were individuals who tested negative for both influenza A and B (N = 2309). Information on receipt of
+TIV or H1N1 vaccine was obtained by record linkage with MIMS, the population-based province-wide
+immunization registry.
+Results: Overall,the adjuvanted H1N1 vaccine was 86% (95%CI 75–93%) effective in preventing laboratoryconfirmed H1N1 infections when vaccination occurred ≥14 days before testing. Effectiveness seemed
+lower among older (≥50 years) individuals [51% (−51 to 84%)] and among those with immunocompromising conditions [67% (−13 to 90%)]. There was also evidence that the H1N1 vaccine might be less
+effective among those who had received the 2009/10 TIV.
+Discussion: The adjuvanted H1N1 vaccine used during Manitoba’s H1N1 mass vaccination campaign was
+highly effective against laboratory-confirmed pandemic H1N1 infection, especially among children and
+younger adults.
+© 2011 Elsevier Ltd. All rights reserved.
+Abbreviations: CPL, Cadham Provincial Laboratory; CI, confidence interval;
+HIA, hemagglutination inhibition assay; MH, Manitoba Health; MIMS, Manitoba
+Immunization Monitoring System; RT-PCR, reverse transcriptase-PCR; TIV,trivalent
+influenza vaccines.
+ The interpretation and conclusions contained herein do not necessarily represent those of the Government of Manitoba, the Manitoba Ministry of Health or the
+Winnipeg Regional Health Authority.
+∗ Corresponding author at: Department ofCommunityHealthSciences, University
+of Manitoba, S111 - 750 Bannatyne Avenue, Winnipeg, Manitoba, Canada R3E 0W3.
+Tel.: +1 204 478 8880.
+E-mail address: Salah.mahmud@gmail.com (S. Mahmud).
+1. Introduction
+Excellentimmune responses following 1 or 2 doses ofthe monovalentinactivatedpandemicH1N1 vaccineshave beendocumented
+in several immunogenicity trials [1–3]. Based on these results and
+on experience with other influenza vaccines, it is assumed that
+these vaccines could afford significant protection against H1N1
+infections [4]. However, estimates of immunogenicity against the
+vaccine strain, as measured by hemagglutination-inhibition (HI)
+under the controlled conditions of clinical trials, do not necessarily translate into actual protection against all circulating pandemic
+strains in community settings. Also,these trials were generally limited to younger healthy individuals, so the effectiveness of these
+vaccines among the elderly and high-risk populations (e.g., the
+immunocompromised) is not clear.
+0264-410X/$ – see front matter © 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.vaccine.2011.08.068
+7976 S. Mahmud et al. / Vaccine 29 (2011) 7975–7981
+Since the first confirmed case of pandemic H1N1 in the Canadian province of Manitoba was detected on May 3, 2009, there
+have been two epidemic waves; one between mid-May and the end
+of June 2009, and the other during the 2009/10 influenza season,
+which occurred predominantly between October and December of
+2009 [5,6]. A total of 803 laboratory-confirmed cases of pandemic
+H1N1 were reported during the first wave and additional 1866
+laboratory-confirmed cases were reported during the second wave
+[6]. Mass immunization against pandemic H1N1 commenced October 26th 2010 using primarily large scale vaccination clinics led by
+public health teams and lasted approximately 8 weeks. Initially,
+the Canadian-manufactured Arepanrix®, an AS03-adjuvanted split
+virion pandemic H1N1 vaccine (GlaxoSmithKline [GSK]), was used
+to vaccinate adults and children over 6 months of age. Later on, two
+nonadjuvanted vaccines, from CSL Limited and GSK, were offered
+to pregnant women and children over 10 years of age. The seasonal
+trivalent inactivated influenza vaccines (TIV)—Fluviral® (GSK) and
+Vaxigrip® (Sanofi Pasteur)—were less frequently administered.
+All vaccines were offered free of charge, but limited vaccine
+supply at campaign start necessitated the development of priority
+groups for early vaccination. The initial priority group in Manitoba included health care workers, Aboriginal persons, pregnant
+women, 6–60 months-old children, individuals under 65 years with
+chronic medical conditions, immunocompromised individuals and
+residents of remote communities. On November 18, the pandemic
+H1N1 vaccines were made available to the whole population.
+To evaluate the effectiveness of the abovementioned pandemic
+and TIV vaccines in preventing laboratory-confirmed pandemic
+H1N1 infections, we did a case–control study using data from Cadham Provincial Laboratory (CPL) and the Manitoba Immunization
+Monitoring System (MIMS). We also measured the effectiveness of
+these vaccines for different age groups and among high-risk populations, and by time since vaccination.
+2. Methods
+2.1. Data sources
+This study was conducted using de-identified records obtained
+by linking Manitoba Health’s (MH) administrative databases and
+the CPL database with the approval of the Research Ethics Board
+of the University of Manitoba and the Health Information Privacy
+Committee of MH. MH provides publicly funded health insurance
+coverage, including coverage for laboratory testing and for hospital
+and out-patient physician services (e.g., immunizations), to most
+of the 1.2 million residents of the province. Eligibility for coverage is not based on age or income [7]. For administrative purposes,
+MH maintains several centralized electronic databases that can be
+linked using a unique health services number.
+2.2. Definition of cases and controls
+Cases (laboratory-confirmed pandemic H1N1 patients) and controls (test-negative individuals) were identified using the database
+of CPL, the province’s only public health laboratory. This database
+stores results of all influenza testing performed in the province
+since the beginning of the pandemic. Patients were tested in
+both hospital and ambulatory care settings. During the pandemic,
+guidelines for testing patients presenting with influenza-like illness or severe febrile respiratory illness were issued by MH, and
+there is anecdotal evidence that they were followed by physicians
+to great extent. For most of the duration of the “second wave”
+(October–December 2009), all influenza testing in Manitoba was
+completed at CPL using a real-time multiplex reverse-transcription
+polymerase chain reaction (RT-PCR) assay developed by the
+National Microbiology Laboratory [8].
+Any adult or child ≥6 months of age who normally resides in
+Manitoba and who had a respiratory sample submitted to CPL for
+influenza testing during the study period was eligible for inclusion
+in the study (N = 3756). The study spanned the period from November 2, 2009 (1 week after the start of mass vaccination in Manitoba)
+to February 10, 2010 (Fig. 1).
+All eligible individuals in whom the pandemic H1N1 influenza
+A was identified by RT-PCR (N = 1435; 38%) were included in the
+cases group. Controls were individuals who tested negative for
+both influenza A and B (N = 2309). We excluded twelve individuals because they tested positive for influenza A but not for H1N1.
+The date of specimen collection was considered the ‘index date.’
+2.3. Determination of vaccination status
+For all cases and controls, information on the receipt of the pandemic H1N1, TIV and the polyvalent pneumococcal polysaccharide
+(PPV23) vaccines during or before the 2009/10 season was obtained
+from MIMS, the population-based province-wide registry recording virtually all immunizations administered to Manitoba residents
+since 1988. Estimates of the completeness and accuracy of the
+recorded vaccination information are high [9].
+2.4. Potential confounders
+Individuals were assigned to a neighbourhood of residence
+(neighbourhood clusters within the capital city of Winnipeg and
+regional health authorities in the rest of the province) based on
+their postal code as recorded in MH’s Population Registry. Information on socio-economic status was obtained using postal code
+of residence and a previously validated area-based Socioeconomic
+Factor Index (SEFI) [10]. Information on pregnancy, comorbidities,
+propensity to seek health care (measured as the number of hospital and family physician visits in the previous 5 years) and use
+of antivirals was obtained from the Hospital Separation, Physician
+Claims and Drug Program Information Network databases of MH
+(See Web Appendix).
+2.5. Analysis
+We used unconditional logistic regression models to estimate
+the odds ratio (OR) for the association between the receipt of the
+pandemic H1N1 vaccine and the detection of laboratory-confirmed
+pandemic H1N1 infections while adjusting for confounding. Results
+are presented for unadjusted models (Model A) and for models that
+were adjusted, a priori, for age, gender, place of residence (as a
+proxy for pre-existing levels of herd immunity), SEFI and week of
+specimen collection (to account for changes in disease incidence
+and vaccination and laboratory testing practices) (Model B).
+Other potential confounders (Table 1) were included in the fully
+adjusted models if their inclusion resulted in a >2% change in estimates of vaccine effectiveness (VE). Using this criterion, the final
+models (Model C) were adjusted for the number of hospital admissions and family physician visits in the last 5 years, receipt of the
+2008/09 TIV vaccines, antiviral treatment, belonging to an H1N1
+or TIV vaccination priority group and having a chronic respiratory
+condition or immunosuppression. Adjustment of other chronic diseases did not appreciably change the VE estimates. These analyses
+were repeated separately for the adjuvanted and nonadjuvanted
+H1N1 vaccines, and for the TIV and PPV23. VE was estimated as
+(1 − OR) × 100.
+In primed healthy adults, the peak serum antibody levels are
+typically observed >2 weeks after vaccination [11]. To account for
+differences in effectiveness by time since vaccination, we classified
+S. Mahmud et al. / Vaccine 29 (2011) 7975–7981 7977
+Table 1
+Demographic and clinical characteristics of cases and controls.
+Cases Controls Total P-value
+Total 1435 38.3 2309 61.7 3744
+Female 738 51.4 1316 57.0 2054 <0.001
+Age group
+0.5–4 140 9.8 350 15.2 490 <0.001
+5–14 390 27.2 334 14.5 724
+15–24 348 24.3 375 16.2 723
+25–44 344 24.0 576 24.9 920
+45–64 193 13.4 415 18.0 608
+≥65 20 1.4 259 11.2 279
+Area of residence
+North 57 4.0 195 8.4 252 <0.001
+South 1378 96.0 2114 91.6 3492
+Resides in an urban area 630 43.9 1189 51.5 1819 <0.001
+Quintiles of the Socio-Economic Factor Index
+Q1 (Highest socio-economic status) 315 22.0 449 19.4 764 <0.001
+Q2 322 22.4 455 19.7 777
+Q3 309 21.5 418 18.1 727
+Q4 261 18.2 467 20.2 728
+Q5 228 15.9 520 22.5 748
+≥1 hospital admissions in the last 5 years 545 38.0 1285 55.7 1830 <0.001
+≥20 physician encounters in the last 5 years 581 40.5 1240 53.7 1821 <0.001
+In a high priority group for the H1N1 vaccine 638 44.5 1156 50.1 1794 <0.001
+Recommended recipient of the 2009/10 TIV 528 36.8 1196 51.8 1724 <0.001
+Pregnant (of all 15–49 old females) 59 8.0 78 5.9 137 0.072
+Chronic disease 410 28.6 881 38.2 1291 <0.001
+Diabetes 75 5.2 207 9.0 282 <0.001
+Chronic obstructive pulmonary disease 72 5.0 246 10.7 318 <0.001
+Asthma 176 12.3 240 10.4 416 0.077
+Chronic respiratory disease 247 17.2 514 22.3 761 <0.001
+Chronic renal failure 11 0.8 46 2.0 57 0.003
+Cancer (excluding non-melanoma skin cancer) 32 2.2 133 5.8 165 <0.001
+Immunodeficiency disease 20 1.4 75 3.2 95 <0.001
+Cardiovascular disease 157 10.9 492 21.3 649 <0.001
+Anaemia 45 3.1 162 7.0 207 <0.001
+Immunosuppressed 81 5.6 284 12.3 365 <0.001
+Alcohol/substance abuse 50 3.5 111 4.8 161 0.052
+Received antiviral treatment 734 51.1 773 33.5 1507 <0.001
+Received antiviral prophylaxis 10 0.7 45 1.9 55 0.002
+Received antibiotics 524 36.5 1045 45.3 1569 <0.001
+P-values from a Chi-squared test.
+TIV: Trivalent inactivated influenza vaccines.
+See Web Appendix for variable definitions.
+Week 43: Vaccination campaign starts
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+0
+200
+400
+600
+800
+1000
+Frequency
+32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51
+Week
+H1N1 negative (controls)
+H1N1 positive (cases)
+Vaccinated controls
+Vaccinated cases
+Vaccinated controls 2 wks or more before testing
+Vaccinated cases 2 wks or more before testing
+Cumulative percentage
+Study peroid starts on week 44
+Fig. 1. Weekly count of cases (H1N1-positive individuals) and controls (H1N1-negative individuals) and the cumulative percentage of vaccinated cases and controls.
+7978 S. Mahmud et al. / Vaccine 29 (2011) 7975–7981
+Table 2
+Estimates of vaccine effectiveness (95%CI) for different vaccines and combinations of vaccines.
+Variable Cases Controls Model A Model B Model C
+Total 1435 2309
+Received the adjuvanted H1N1 vaccine
+Any time before the index date 114(7.9) 438(19.0) 63 (54–70) 55 (42–64) 55 (43–65)
+1–6 days before the index date 62(4.3) 96(4.2) 9 (−27 to 34) 14 (−22 to 40) 17 (−19 to 42)
+7–13 days before the index date 40(2.8) 110(4.8) 48 (26–64) 51 (27–67) 53 (29–69)
+≥7 days before the index datec 52(3.6) 342(14.8) 78 (71–84) 70 (59–79) 71 (60–79)
+≥14 days before the index datec 12(0.8) 232(10.0) 92 (86–96) 86 (75–93) 86 (75–93)
+Received the nonadjuvanted H1N1 vaccine
+Any time before the index date 8 (0.6) 17 (0.7) 24 (−76 to 67) −1 (−149 to 59) −13 (−182 to 55)
+Received any H1N1 vaccine
+Any time before the index date 122(8.5) 454(19.7) 62 (53–69) 53 (40–63) 53 (41–63)
+Received the 2008/09 TIVa 163(11.4) 402(17.4) 39 (26–50) 7 (−16 to 25) −8 (−36 to 15)
+Received the 2009/10 TIVa
+Any time before the index date 103(7.2) 320(13.9) 52 (39–62) 15 (−11 to 35) −7 (−42 to 20)
+≥14 days before the index datec 68(4.7) 237(10.3) 57 (43–67) 1 (−36 to 28) −39 (−98 to 3)
+Vaccinated (≥14 days before the index date) withb,c
+Adjuvanted H1N1 vaccine only 3(0.2) 155(6.7) 97 (92–99) 95 (85–99) 95 (85–98)
+09/10 TIV only 94 (6.6) 243 (10.5) 47 (32–58) 7 (−25 to 30) 4 (−29 to 29)
+Both 9(0.6) 77(3.3) 84 (68–92) 66 (28–84) 62 (19–82)
+Ever received the PPV23a 69(4.8) 276(12.0) 63 (51–72) −4 (−46 to 26) −15 (−65 to 19)
+Vaccinated (≥14 days before the index date) withb,c
+Adjuvanted H1N1 vaccine only 5(0.3) 191(8.3) 96 (91–99) 94 (85–98) 94 (84–97)
+PPV only 62(4.3) 235(10.2) 64 (52–73) 2 (−40 to 31) 4 (−44 to 35)
+Both 7(0.5) 41(1.8) 77 (48–90) 16 (−107 to 66) 21 (−104 to 69)
+PPV23: Pneumococcal polysaccharide vaccine. TIV: Trivalent inactivated influenza vaccines. Model A: unadjusted model. Model B is adjusted for age, gender, region of
+residence, SEFI and week of specimen collection. Model C is adjusted for all Model B variables plus number of hospital and family physician visits in the last 5 years, receipt
+of TIV vaccines in 2008/09, antiviral treatment, belonging to an H1N1 or TIV vaccination priority group and having a chronic respiratory condition or immunosuppression.
+a All the fully adjusted models (Model C) for the 2008/09 and 2009/10 TIV and the PPV23 included the adjuvanted H1N1 vaccine. Receipt of TIV vaccines in 2008/09 was
+not included in models of the 2009/10 seasonal TIV and PPV23, because it was not a significant confounder using the 2% change-in-crude-estimate criterion (see Section 2). b These models with interaction terms between H1N1 and TIV or PPV23 vaccines provide more valid estimates of the effectiveness of these vaccines than the models with
+mutual adjustment for H1N1, TIV and PPV23 (models marked with superscript a; which are presented for completeness). c In these analyses, individuals vaccinated <14 days before the index date were considered unvaccinated.
+vaccinated individuals into three groups depending on whether
+vaccination occurred 1–6, 7–13, or ≥14 days before the index date,
+and contrasted the odds of H1N1 infection in each group with the
+odds of infection among the unvaccinated.
+All above analyses were repeated separately for the adjuvanted
+and nonadjuvanted H1N1 vaccines. In addition, analyses were
+repeated for the adjuvanted pandemic H1N1 vaccine after stratifying by age group, place of residence, residence in an Aboriginal
+community, epidemic phase (before and after the peak), presence
+of high-risk conditions and belonging to a vaccine priority group.
+We also assessed for possible confounding or effect modification
+between pandemic vaccines and the TIV and PPV23. The statistical
+significance of adding the interaction terms was assessed using the
+likelihood ratio test [12].
+Using two-sided 5% significance level, our study had 85% power
+to detect an OR as small as 0.70 (VE = 30%) assuming 10% of controls
+were fully vaccinated [13].
+3. Results
+About 51% of cases and 57% of controls were females (Table 1).
+Cases were younger and more socioeconomically advantaged than
+controls. They had fewer hospitalization and physician consultations, and were less likely to have been immunosuppressed or to
+have had a diagnosed chronic medical condition (except asthma).
+Cases were also less likely to belong to an H1N1 or TIV high priority
+group or to have received antiviral prophylaxis.
+About 8% of the cases and 18% of the controls received ≥1 dose
+of the adjuvanted H1N1 vaccine before the index date (Table 2),
+corresponding to a crude VE estimate of 63% (95%CI: 54–70%).
+Adjusting for age, gender, region, SEFI and week of specimen collection (Model B)lowered the VE to 55% (54–70%). Further adjustment
+for all other potential confounders (Model C) did not change the VE
+estimates appreciably.
+In fully adjusted models (Model C), the effectiveness of adjuvanted H1N1 vaccine among those who were vaccinated ≥14 days
+before specimen collection was 86% (75–93%), but much lower
+when vaccination took place <7 days [17% (−19 to 42%)] or 7–13
+days before specimen collection [53% (29–69%)]. Effectiveness estimates of the nonadjuvanted H1N1 vaccine were less precise, but
+suggestive of reduced effectiveness compared to the adjuvanted
+vaccine (the differences were not statistically significant).
+Neither receipt of the TIV nor ever-receiving the PPV23
+appeared to confer any protection against pandemic H1N1 infections (Table 2). However, the effectiveness of the H1N1 vaccine
+appeared lower among those who also received the 2009/10 TIV
+[77% (28–93%)]than among those who only received the H1N1 vaccine, especially if they did not belong to a group for which the TIV
+was recommended [97% (76–100%); Pinteraction = 0.009]. In analyses
+limited by small numbers (data not shown), the effectiveness of
+the adjuvanted H1N1 vaccine when given concurrently or before
+the TIV [69% (22–88%)] was not statistically significantly different from that when it was given after the TIV [59% (−43 to 88%)].
+H1N1 VE was also lower among those who ever received the PPV23
+(Pinteraction = <0.001).
+In addition, effectiveness of the adjuvanted H1N1 vaccine
+seemed lower among older (≥50 years) individuals [51% (−50 to
+84%)] compared to young adults and older children [90% (76–96%)]
+and very young (6–35 months) children [97% (72–100%)] (Table 3).
+VE was also lower among those with immunocompromising conditions [67% (−13 to 90%)]. However, gender, area of residence, the
+epidemic phase and belonging to a vaccine priority group did not
+seem to influence vaccine effectiveness.
+4. Discussion
+Overall, we found that the adjuvanted H1N1 vaccine was
+86% effective in preventing laboratory-confirmed H1N1 infections
+S. Mahmud et al. / Vaccine 29 (2011) 7975–7981 7979
+Table 3
+Estimates (95%CI) of the effectiveness of the adjuvanted H1N1 vaccine (administered ≥14 days before the index datea) for subsets of data defined by certain demographic
+and clinical characteristics.
+Subset Cases Controls Model A Model C
+Sex
+Female 738 1316 87(75–94) 81(60–91)
+Male 697 993 97(89–99) 93(78–98)
+P for interaction 0.037 0.107
+Age group
+6–35 months 79 260 96(72–99) 97(72–100)
+3–49 years 1214 1534 94(85–97) 90(76–96)
+≥50 years 142 515 71(27–89) 51(−50to84)
+P for interaction 0.049 0.027
+Area of residence
+North 57 195 92(66–98) 95(51–99)
+South 1378 2114 92(84–96) 86(73–93)
+P for interaction 0.961 0.927
+Epidemic phase
+2–20 Nov 1203 1437 88(73–95) 87(69–95)
+After 20 Nov 232 872 89(75–95) 88(71–95)
+P for interaction 0.885 0.696
+In a high priority group for the H1N1 vaccine
+No 797 1153 95(78–99) 89(53–98)
+Yes 638 1156 91(84–95) 88(76–94)
+P for interaction 0.548 0.573
+Vaccination with the 2009/10 TIV
+TIV not recommended 907 1113 98(86–100) 97(76–100)
+TIV recommended but not received 447 932 95(84–98) 92(75–98)
+TIV recommended and received 81 264 66(25–84) 77(28–93)
+P for interaction 0.001 0.009
+Chronic disease
+No 1025 1428 97(90–99) 93(78–98)
+Yes 410 881 85(70–92) 82(62–92)
+P for interaction 0.016 0.041
+Diabetes
+No 1360 2102 94(88–97) 89(78–95)
+Yes 75 207 74(25–91) 76(2–94)
+P for interaction 0.036 0.064
+Chronic obstructive pulmonary disease
+No 1363 2063 93(87–96) 88(77–94)
+Yes 72 246 78(4–95) 56(−179to93)
+P for interaction 0.190 0.111
+Asthma
+No 1259 2069 93(87–97) 87(74–94)
+Yes 176 240 87(56–96) 89(58–97)
+P for interaction 0.351 0.457
+Immunosuppressed
+No 1354 2025 95(89–98) 90(78–95)
+Yes 81 284 66(11–87) 67(−13–90)
+P for interaction 0.005 0.048
+TIV: Trivalent inactivated influenza vaccines.
+a In these analyses, individuals vaccinated <14 days before the index date were considered unvaccinated. See footnotes of Table 2 for details of model specification.
+when received ≥14 days before testing, although effectiveness
+seemed lower among persons aged ≥50 years (51%) and among
+those with immunocompromising conditions (67%).
+These results are generally consistent with the results of
+immunogenicity trials and with the findings of observational studies that examined the effectiveness of the H1N1 vaccine [14–19].
+A multi-center test-negative case–control study utilizing sentinel
+primary care practitioners belonging to the European Influenza
+Surveillance Network reported an overall VE (14 days following
+vaccination) of 66% with VE approaching 100% for those under 15
+[17]. Also, high estimates of VE (>90%) were reported from similar
+studies fromCanada [18,19], Scotland[14] andSpain[15]. The effectiveness ofthe nonadjuvanted H1N1 vaccine was 87.3% (75.4–93.4)
+among Chinese school-age children [16]. No information was available on VE among adults from that study.
+Our results are also within the range of 70–90% effectiveness
+estimates typically found in studies of the seasonal influenza vaccines among healthy younger adults in years with good antigenic
+match [20]. Effectiveness of influenza vaccines among the elderly
+remains controversial. Like many studies of seasonal TIVs, our
+results indicate lower effectiveness among older adults [21].
+In this and other studies, the TIVs did not appear to protect
+against the pandemic strain. In fact, a Canadian study has suggested that the receipt of the 2008/09 TIV might be associated
+with increased risk of detection of pandemic H1N1, although no
+increased risk of severe illness was detected [22]. The results ofthat
+study were not confirmed by studies from Australia, Mexico, and
+the US [23]. In our study, subjects who only received the 2009/10
+TIV were not at increased risk of pandemic H1N1 infections. And
+although the effectiveness of the H1N1 vaccine appeared lower
+among those who received both the 2009/10 TIV and the H1N1
+vaccines, a similar pattern was observed among those who also
+ever-receivedthe PPV23, suggesting thepossibility of “confounding
+by indications” of the TIV [24]. However, our findings are consistent with those from an immunogenicity trial among children, in
+which HI antibody titres following a single dose of the nonadjuvanted H1N1 vaccine were lower among children who received
+the TIV prior to H1N1 vaccination [25].
+7980 S. Mahmud et al. / Vaccine 29 (2011) 7975–7981
+4.1. Strengths and limitations
+Because of its population-based design and the availability of
+accurate automated vaccination records, this study is less susceptible to selection and recall biases that commonly afflict conventional
+case–control studies. Because both cases and controls were identified on the basis of an accurate diagnostic test (RT-PCR), disease
+misclassification and bias due to differential access to laboratory
+testing are not a major concern in this study.
+To avoid confounding by access to and propensity to seek health
+care, we employed a test-negative case–control design where all
+participants were tested for influenza. However, it is still possible that in some cases viral RNA may not be detectable by RT-PCR
+(e.g., due to delay in the collection of specimen), which means
+that some cases may be misclassified as controls. Depending on
+whether the occurrence of a false-negative testis related to the likelihoodof receiving the vaccine,this will generally bias our estimates
+upwards or towards the null masking any beneficial effects, and
+will not,therefore, explain the strong protective effect we observed
+[26]. Furthermore, we used proxies for access to health care (e.g.,
+frequency of physician encounters) to adjust for factors associated
+with promptness of testing. Because we used the specimen collection date as a proxy for the date of symptom onset which was not
+available from the laboratory database, itis possible that some individuals included in the ≥14 day vaccination group might not have
+been fully protected resulting in an underestimation of the vaccine
+effectiveness.
+Information on several confounders was obtained from administrative databases. The completeness and accuracy of the MH
+database are well established [27,28], and these databases have
+been used extensively in studies of post-marketing surveillance
+of various drugs and vaccines [7,29]. It is still possible that some
+variables were measured with some error, which could result in
+residual confounding. However, the observed protective effects of
+H1N1 vaccination are unlikely to be due to the “healthy vaccine
+effect” (individuals, especially seniors, who get vaccinated are on
+average healthier than those who do not [30]), because vaccination
+was targeted at the higher-risk, and generally less healthy, groups,
+and we adjusted for vaccine indications in our models. Also, we did
+not observe any protective effects for the TIV and PPV23 which are
+presumably subject to the same bias.
+Confounding by herd immunity following the summer wave
+of the pandemic is also unlikely explanation for our findings. We
+adjusted for area of residence in all models. Also, VE estimates were
+similar for northern and southern communities (Table 3) despite
+significant differences in H1N1 seroprevalence between these communities at the end of the summer wave of the pandemic [31].
+5. Conclusions
+We demonstrated that the adjuvanted H1N1 vaccine used during Manitoba’s mass vaccination campaign was highly effective
+against laboratory-confirmed H1N1 infections, especially among
+children and younger adults. Despite logistical and communication challenges to vaccine delivery during the campaign, vaccine
+effectiveness appears comparable to that observed for influenza
+vaccines during non-pandemic seasons in years with good antigenic match. This study demonstrates the utility of laboratory
+information systems and administrative databases for evaluating
+the effectiveness of influenza vaccines.
+Acknowledgments
+Contributors: SMM had full access to all of the data in the study
+and takes responsibility for the integrity of the data and the accuracy of the data analysis. SMM analyzed the data and drafted the
+manuscript. SMM, GH, PC, PVK, MD and JK obtained the data. All
+authors contributed to the conception and design of the study and
+to the interpretation of the data. All authors critically revised the
+manuscript for intellectual content and approved the final draft for
+submission. Funding: None.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at doi:10.1016/j.vaccine.2011.08.068.
+References
+[1] Greenberg ME, Lai MH, Hartel GF, Wichems CH, Gittleson C, Bennet J,
+et al. Response after one dose of a monovalent influenza A (H1N1) 2009
+vaccine—preliminary report. N Engl J Med 2009;361(September):2405–13.
+[2] Clark TW, Pareek M, Hoschler K, Dillon H, Nicholson KG, Groth N, et al. Trial of
+influenza A (H1N1) 2009 monovalent MF59-adjuvanted vaccine—preliminary
+report. N Engl J Med 2009;361(September):2424–35.
+[3] PHAC. Guidance document on the use of pandemic influenza A (H1N1) 2009
+inactivated monovalent vaccine; 2009. Available from: http://www.phacaspc.gc.ca/alert-alerte/h1n1/vacc/monovacc/immuno-eng.php [cited 9.12.09].
+[4] Khazeni N, Hutton DW, Garber AM, Hupert N, Owens DK. Effectiveness and
+cost-effectiveness of vaccination against pandemic influenza (H1N1) 2009.Ann
+Intern Med October 2009.
+[5] Zarychanski R, Stuart TL, Kumar A, Doucette S, Elliott L, Kettner J, et al. Correlates of severe disease in patients with 2009 pandemic influenza (H1N1) virus
+infection. CMAJ 2010;182(February (3)):257–64.
+[6] Thompson LH, Mahmud SM, Keynan Y, Slater J, Dawood M, Fowke K, et al. Serological survey of the novel influenza A H1N1 in inner-city Winnipeg, Manitoba,
+2009. Can J Infect Dis Med Micro; in press.
+[7] Singh H, Mahmud SM, Turner D, Xue L, Demers AA, Bernstein CN. Long-term
+use of statins and risk of colorectal cancer: a population-based study. Am J
+Gastroenterol 2009;104(December (12)):3015–23.
+[8] LeBlanc J, Li Y, Bastien N, Forward K, Davidson R, Hatchette T. Switching gears
+for an influenza pandemic: validation of a duplex reverse transcriptase PCR
+assay for simultaneous detection and confirmatory identification of pandemic
+(H1N1) 2009 influenza virus. J Clin Microbiol 2009;47(12):3805.
+[9] Roberts J, Poffenroth L,Roos L, Bebchuk J, CarterA.Monitoring childhood immunizations: a Canadian approach. Am J Public Health 1994;84(10):1666.
+[10] Martens PJ, Frohlich N, Carriere KC, Derksen S, Brownell M. Embedding child
+health within a framework of regional health: population health status and
+sociodemographic indicators. Can J Public Health 2002;93(Suppl. 2):S15–20.
+[11] Bridges CB, Katz JM, Levandowski RA, Cox NJ. Influenza vaccine (inactivated).
+In: Plotkin S, Orenstein W, Offit P, editors. Vaccines. Elsevier; 2008. p. 259–90.
+[12] Clayton D, Hills M. Statistical models in epidemiology. Oxford/New York:
+Oxford University Press; 1993.
+[13] Dupont WD. Power calculations for matched case–control studies. Biometrics
+1988;44(4):1157–68.
+[14] Simpson CR, Ritchie LD, Robertson C, SheikhA, McMenamin J.Vaccine effectiveness in pandemic influenza – primary care reporting (VIPER): an observational
+study to assess the effectiveness of the pandemic influenza A (H1N1)v vaccine.
+Health Technol Assess 2010;14(July (34)):313–46.
+[15] Puig-Barberà J, Arnedo-Pena A, Pardo-Serrano F, Tirado-Balaguer MD, PérezVilar S, Silvestre-Silvestre E, et al. Effectiveness of seasonal 2008–2009,
+2009–2010 and pandemic vaccines, to prevent influenza hospitalizations
+during the autumn 2009 influenza pandemic wave in Castellón, Spain. A testnegative, hospital-based, case–control study. Vaccine 2010;28(47):7460–7.
+[16] Wu J, Xu F, Lu L, Lu M, Miao L, Gao T, et al. Safety and effectiveness of a 2009
+H1N1 vaccine in Beijing. N Engl J Med 2010;363(25):2416–23.
+[17] ValencianoM,Kissling E,CohenJ-M, OrosziB,BarretA-S,RizzoC, et al. Estimates
+of pandemic influenza vaccine effectiveness in Europe, 2009–2010: results of
+influenza monitoring vaccine effectiveness in Europe (I-MOVE) multicentre
+case–control study. PLoS Med 2011;8(1):e1000388.
+[18] Skowronski DM, Janjua NZ, De Serres G, Hottes TS, Dickinson JA, Crowcroft N,
+et al. Effectiveness of AS03 adjuvanted pandemic H1N1 vaccine: case–control
+evaluation based on sentinel surveillance system in Canada, autumn 2009. BMJ
+January 2011:342.
+[19] Van Buynder PG, Dhaliwal JK, Van Buynder JL, Couturier C, Minville-LeBlanc M,
+Garceau R, et al. Protective effect of single-dose adjuvanted pandemic influenza
+vaccine in children. Influenza and Other Respiratory Viruses 2010;4(4):171–8.
+[20] Demicheli V, Jefferson T, Rivetti D, Deeks J. Prevention and early treatment of
+influenza in healthy adults. Vaccine 2000;18(11–12):957–1030.
+[21] Rivetti D, Jefferson T, Thomas R, Rudin M, Rivetti A, Di Pietrantonj C, et al. Vaccines for preventing influenza in the elderly. Cochrane Database of Systematic
+Reviews (Online) 2006:3.
+[22] Skowronski D, De Serres G, Crowcroft N, Janjua N, Boulianne N, Hottes T, et al.
+Association between the 2008–09 seasonal influenza vaccine and pandemic
+H1N1 Illness during Spring–Summer 2009: four observational studies from
+Canada. PLoS Med 2010;7(4):e1000258.
+S. Mahmud et al. / Vaccine 29 (2011) 7975–7981 7981
+[23] Viboud C, Simonsen L. Does seasonal influenza vaccination increase the risk of
+Illness with the 2009 A/H1N1 pandemic virus? PLoS Med 2010;7(4):e1000259.
+[24] Psaty BM, Koepsell TD, Lin D,Weiss NS, Siscovick DS, Rosendaal FR, et al. Assessment and control for confounding by indication in observational studies. J Am
+Geriatr Soc 1999;47(6):749–54.
+[25] Nolan T, McVernon J, Skeljo M, Richmond P, Wadia U, Lambert S, et al. Immunogenicity of a monovalent 2009 influenza A(H1N1) vaccine in infants and
+children: a randomized trial. JAMA December 2009:1911.
+[26] Savitz DA. Interpreting epidemiologic evidence: strategies for study design and
+analysis. Oxford/New York: Oxford University Press; 2003.
+[27] Young T,Roos L, Gelskey D. Estimating the burdenofdisease: comparing administrative data and self-reports. Med Care 1997;35(9):932–47.
+[28] Roos L, Mustard C, Nicol J, McLerran D, Malenka D, Young T, et al. Registries and
+administrative data: organization and accuracy. Med Care 1993;31(3):201–12.
+[29] Roberts J, Roos L, Poffenroth L, Hassard T, Bebchuk J, Carter A, et al. Surveillance
+of vaccine-related adverse events in the first year of life: a Manitoba cohort
+study. J Clin Epidemiol 1996;49(1):51.
+[30] Fleming DM, Andrews NJ, Ellis JS, Bermingham A, Sebastianpillai P, Elliot AJ,
+et al. Estimating influenza vaccine effectiveness using routinely collected laboratory data. J Epidemiol Community Health 2010;64(December (12)):1062–7.
+[31] Mahmud SM, Becker M, Keynan Y, Elliott L, Thompson LH, Fowke K,
+et al. Estimated cumulative incidence of pandemic (H1N1) influenza among
+pregnant women during the first wave of the 2009 pandemic. CMAJ
+2010;182(14):1522–4.

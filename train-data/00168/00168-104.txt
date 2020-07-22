@@ -1,0 +1,162 @@
+Abstract
+Background. Infants aged <12 months are at high risk of hospitalization for influenza. Influenza vaccine is recommended for pregnant women and for most children; however, no vaccine is approved for infants aged !6 months. Effective approaches are needed to protect this vulnerable population. Vaccination of women during pregnancy may protect the infant through transfer of antibodies from the mother. Few studies have examined the effectiveness of this strategy, and those studies produced mixed results.
+
+Methods. In a matched case-control study, case patients were infants aged <12 months admitted to a large urban hospital in the northeastern United States because of laboratory-confirmed influenza from 2000 to 2009. For each case, we enrolled 1 or 2 control subjects who were infants who tested negative for influenza and matched cases by date of birth and date of hospitalization (within 4 weeks). Vaccine effectiveness was calculated on the basis of matched odds ratios and was adjusted for confounding.
+
+Results. The mothers of 2 (2.2%) of 91 case subjects and 31 (19.9%) of 156 control subjects aged <6 months, and 1 (4.6%) of 22 case subjects and 2 (5.6%) of 36 control subjects aged ⩾6 months, had received influenza vaccine during pregnancy. The effectiveness of influenza vaccine given to mothers during pregnancy in preventing hospitalization among their infants, adjusted for potential confounders, was 91.5% (95% confidence interval [CI], 61.7%–98.1%; P = .001) for infants aged <6 months. The unadjusted effectiveness was 90.7% (95% CI, 59.9%–97.8%; P = .001).
+
+Conclusions. Influenza vaccine given to pregnant women is 91.5% effective in preventing hospitalization of their infants for influenza in the first 6 months of life.
+
+Topic: pregnancyinfluenzainfantinfluenza vaccinesmothersvaccinationvaccines
+Issue Section: Major Articles
+Influenza is the leading cause of vaccine-preventable death in the United States [1], responsible for 200,000 hospitalizations and 36,000 deaths per year [2]. The highest burden of disease is among infants, pregnant women, elderly persons, and people with certain chronic medical conditions. In children, the highest incidence of hospitalization attributable to influenza is among infants aged <1 year, with those aged <6 months at highest risk [3]. Rates of hospitalization of healthy infants for influenza are similar to those of high-risk adults, and rates are even higher among infants with underlying chronic medical problems, particularly respiratory conditions [3].
+
+Inactivated influenza vaccine is recommended by the Centers for Disease Control and Prevention (CDC) for all pregnant women and children, except for infants aged <6 months (for whom the vaccine is poorly immunogenic) and for persons with a serious allergy to egg protein [4, 5]. Strategies for protecting these groups have included only washing hands, avoiding contact with persons infected with influenza, and vaccinating close contacts [4], but the effectiveness of these strategies is unknown.
+
+One potential approach to protecting young infants against influenza infection is to vaccinate their mothers during pregnancy [6, 7]. Both animal and human studies support the possibility of protecting the offspring against influenza by immunization of the mother. Antibodies (immunoglobulin G) cross the placenta via active transport from the mother to the fetus, particularly in the final weeks of pregnancy [8–11]. Additional antibodies (immunoglobulin A) are transferred from the mother to the infant via breastmilk [12].
+
+One study showed that an infant's concentration of influenza antibodies at birth correlated with that of the mother. Although the study failed to find a protective effect, infants with higher concentrations of influenza antibodies had delayed onset and decreased severity of influenza infection [13]. The same protection could be achieved via influenza vaccination of pregnant women [13–16]. Another study showed influenza vaccination during pregnancy resulted in influenza-specific antibody concentrations in the infants at birth that were higher than those in their mothers, suggesting active transport from mother to infant [14]. The presence of maternally derived antibodies in infancy does not inhibit development of natural immunity later in life from vaccination or natural infection [16, 17].
+
+Two previous studies of hospitalized infants have compared rates of influenza-like illness or medically attended acute respiratory infections between infants whose mothers had received influenza vaccine during pregnancy and infants whose mothers had not received this vaccine; however, neither study found a protective effect [18, 19]. Recently, a clinical trial evaluated women who received inactivated influenza vaccine during their third trimester of pregnancy in Bangladesh, where influenza circulates year-round, and followed up their infants for up to 24 weeks after birth. Researchers in that study found a 63% decrease in the number of laboratory-confirmed influenza infections in those infants, compared with infants of women in a control group who received a conjugate pneumococcal vaccine during pregnancy. However, the study did not assess the vaccine's effectiveness for either hospitalization or severity of illness in the infants [20].
+
+We conducted a matched case-control study of infants at Yale—New Haven Children's Hospital, a large urban hospital in the northeastern United States, to assess the effectiveness of influenza vaccine given to pregnant women in decreasing the number of hospitalizations for laboratory-documented influenza among their infants.
+
+Methods
+Eligibility requirements. Subjects were infants aged <12 months who were hospitalized for laboratory-confirmed influenza between October 2000 and April 2009 (prior to the arrival of the 2009 pandemic influenza in this region).
+
+We excluded infants who were adopted at birth, infants whose mothers had a contraindication to inactivated influenza vaccine or were unable to consent to participate (eg, were deceased or had unknown whereabouts), infants who were hospitalized for reasons unrelated to respiratory infection (as determined by review of medical records), infants whose parents could not complete the interview in English or Spanish, and infants with influenza infection acquired when the patient was already in the hospital (ie, nosocomial). Infants who received influenza vaccine at least 2 weeks prior to admission to the hospital were excluded from the analyses, because it would be impossible to separate the effect of vaccination of the mother from that of vaccination of the infant.
+
+Identification of potential cases. Cases were infants hospitalized for influenza with documentation of either a nasal swab or aspirate sample that was positive for influenza by direct fluorescent antibody (DFA) test. Case subjects were identified from the list of all patients who had a nasal swab or aspirate sample submitted to the hospital's clinical virology laboratory for the DFA test (Light Diagnostics). This test has been shown to be 96.2% sensitive and 99.0% specific for influenza, compared with PCR, in our clinical virology laboratory [21]. Samples deemed inadequate by the laboratory were not included. Data collection started in 2007. Subjects hospitalized between 2000 and early 2007 were identified historically from the clinical virology laboratory list of all tests for influenza and were enrolled by telephone. During the 2007–2008 and 2008–2009 influenza seasons, research staff identified cases prospectively by reviewing clinical virology laboratory lists of all tests for influenza and the daily list of new hospital admissions, to enroll patients in the hospital setting and to collect a nasal aspirate sample.
+
+The nasal samples obtained from the case subjects identified prospectively (2007–2009) were all confirmed to be negative for 2009 pandemic influenza A H1N1. RNA was extracted from the clinical specimens using RNeasy Mini Kit (Qiagen) per the manufacturer's instructions. Reverse transcription and polymerase chain reaction were performed using primers and parameters described by the World Health Organization/CDC protocol [22] and the AccessQuick RT-PCR System (Promega).
+
+Selection of controls. For each case, we enrolled 1 or 2 matched control subjects, who were hospitalized infants with DFA results negative for influenza. Control subjects from the list of all patients who had a DFA test for influenza were matched to cases by date of birth and date of hospitalization. Matching started with the subjects born within 2 weeks (before or after the case date of birth) and who were admitted within 2 weeks (before or after the case date of hospital admission) and then, if necessary, proceeded to those born within 4 weeks and admitted within 2 weeks from the case, then those born within 2 weeks and admitted within 4 weeks, and finally those born within 4 weeks and admitted within 4 weeks. We used lists of random numbers to determine the order in which to contact potential eligible subjects within each case-control group. We used risk-set sampling in our selection of cases and controls [23].
+
+Collection of data and ascertainment of vaccinations. We conducted interviews with the parents of all study subjects for information about demographic characteristics, possible confounders (such as breast-feeding or susceptible individuals in the household), and comorbidities and to identify all possible locations where vaccination was given. Interviews were conducted in person when a case subject or control subject was identified prior to discharge from the hospital, if possible, or otherwise by phone. All interviews were conducted in English or Spanish.
+
+Information about vaccinations and comorbidities of the infants was obtained by reviewing records of all providers of medical care. We reviewed mothers' medical records from primary medical providers, obstetricians, pharmacies, and anywhere the mother stated that she had received influenza vaccine. We used this information to ascertain whether a woman had received influenza vaccine during pregnancy, whether she had received the vaccine at any time prior to that pregnancy, and whether she had received the vaccine during the same influenza season as the infant's hospital admission. A woman was considered vaccinated if there was written documentation of receipt of influenza vaccine during her pregnancy, excluding vaccinations received within 14 days of delivery.
+
+We also collected clinical data from the hospital medical record, including any abnormal vital signs (highest temperature and respiratory rates and lowest oxygen saturation levels), clinical signs of increased work of breathing, results of chest radiographs, and the need for intubation and/or admission to the intensive care unit (ICU). We classified the severity of each case subject's symptoms on a scale of 0–16 points, based on our modification of a validated scale of severity of respiratory symptoms in infants (Table 1) [24].
+
+Table 1
+Clinical Severity Scale Used to Assess Severity of Influenza
+Open in new tabDownload slide
+Clinical Severity Scale Used to Assess Severity of Influenza
+
+
+Statistical analysis. We calculated a matched odds ratio for vaccination of mothers of case subjects, compared with mothers of matched control subjects. The vaccine's effectiveness was calculated as 1 minus the matched odds ratio, multiplied by 100. Conditional logistic regression was used to adjust for potential confounders, including race, ethnicity, sex, age, day care attendance, prematurity, vaccination of household contacts, breast-feeding, and relevant chronic illness (asthma/reactive airways disease, chronic lung disease, conditions requiring medical equipment to facilitate breathing, heart defects, blood disorders, seizures, metabolic or endocrine disorders, severe gastrointestinal disease, kidney disease, or spinal cord injury).
+
+A stratified analysis was also conducted to assess for effect modification by age of the subject (⩾6 months vs <6 months) on the basis of the CDC recommendation to begin influenza vaccination at age 6 months. Whether the subject was identified at the time of hospitalization or historically via billing data was also evaluated as a possible confounder or effect modifier.
+
+We also assessed the significance of the clinical severity of influenza of the cases using Student's t test or the Wilcoxon rank-sum test, as appropriate. Analyses were conducted using SAS, version 9.1.3 for Microsoft Windows (SAS Institute).
+
+Results
+We identified a total of 220 eligible case subjects (infants aged <12 months who were hospitalized for influenza) between October 2000 and April 2009. Of these, 36 (16%) could not be contacted by researchers (eg, had an incorrect or outdated phone number or had moved with no forwarding information). Of the remaining 184 potential case subjects, parents of 27 (15%) declined to participate, and 157 (85%) were enrolled. Enrollment for this study started in July 2007. Of all case subjects, 33 were hospitalized between January 2008 and April 2009 (identified prospectively via active surveillance of laboratory data and hospital admissions), and 124 were hospitalized between October 2000 and May 2007 (identified historically via laboratory data). Of the case subjects, 130 (82.8%) were infected with influenza A and 27 (17.2%) were infected with influenza B; none were infected with the 2009 pandemic influenza A H1N1. For the case subjects, 430 potentially suitable matched control subjects were identified; of these, 114 (26.5%) could not be contacted. Of those that we were able to reach, 45 (14.2%) declined to participate, and 270 (85.7%) were enrolled. Data are presented on the 113 cases and 192 controls in matched groups, with complete data for the case and at least 1 matched control. Demographic characteristics of subjects identified prospectively and historically differed statistically significantly only for report of sick household members during the month before hospitalization (59.8% vs 23.3%; P < .001) and length of hospital stay (5.0 ± 13.2 vs 2.9 ± 3.7 days; P = .030).
+
+Case subjects and matched control subjects were comparable for most demographic characteristics and risk factors (Table 2). Of the case subjects, 81% were aged <6 months. Case subjects came from households with a larger number of household members, compared with those of control subjects (4.9 ± 2.0 vs 4.4 ± 1.3 persons; P = .015), and they were significantly less likely to live with household members who had received influenza vaccine (32.7% vs 50.0% for any household members vaccinated; 10.6% vs 15.1% for all household members vaccinated; P = .001). The mothers of 2 (2.2%) of 91 case subjects and 31 (19.9%) of 156 control subjects aged <6 months and mothers of 1 (4.6%) of 22 case subjects and 2 (5.6%) of 36 control subjects aged ⩾6 months had received influenza vaccine during pregnancy (Table 3).
+
+Table 2
+Characteristics of Infants Hospitalized with Influenza and Matched Control Subjects
+Open in new tabDownload slide
+Characteristics of Infants Hospitalized with Influenza and Matched Control Subjects
+
+
+Table 3
+Receipt of Influenza Vaccine by Subjects' Mothers
+Open in new tabDownload slide
+Receipt of Influenza Vaccine by Subjects' Mothers
+
+
+The unadjusted effectiveness of influenza vaccine given to mothers during pregnancy in preventing hospitalization for influenza among their infants was 90.7% (95% confidence interval [CI], 59.9%–97.8%; P = .001) for infants aged <6 months. In the final adjusted model, immunization of household contacts (ie, persons other than the subject's mother residing in the household at the time of admission) (adjusted odds ratio, 0.420; 95% CI, 0.221–0.798; P = .008) and prematurity (adjusted odds ratio, 0.375; 95% CI, 0.153–0.918; P = .032) were retained, resulting in an adjusted effectiveness of the vaccine of 91.5% (95% CI, 61.7%–98.1%; P = .001) for this age group. The effectiveness of the vaccine for infants aged ⩾6 months was −41.4% (95% CI, −2257.3% to 91.5%; P = .809). The effectiveness of the vaccine did not differ significantly when we compared those identified prospectively with those identified historically (for historically identified subjects: effectiveness, 88.9%; 95% CI, 13.1%–98.6%; P = .036; for prospectively identified subjects: effectiveness, 92.0%; 95% CI, 37.0–99.0; P = .016; for the Breslow Day test for homogeneity of the odds ratios, P = .767). Also, exclusion of subjects born before 32 weeks gestational age did not significantly affect the estimate.
+
+There were no significant differences in demographic characteristics between mothers who received influenza vaccine and those who did not (Table 4). Among vaccinated mothers, the 2 groups did not differ significantly in the trimester of pregnancy during which vaccination occurred, with 2 (66.7%) of the case subjects' mothers and 26 (78.8%) of the control subjects' mothers receiving vaccines during the third trimester. A mother's chance of being offered influenza vaccine during pregnancy will vary depending on the time of year when the pregnancy begins, but we expect that this variability did not differ significantly between case and control subjects, because these 2 groups were closely matched by the infants' dates of birth.
+
+Table 4
+Effectiveness of Influenza Vaccine Given to Mothers During Pregnancy in Preventing Hospitalization for Influenza among Their Infants
+Open in new tabDownload slide
+Effectiveness of Influenza Vaccine Given to Mothers During Pregnancy in Preventing Hospitalization for Influenza among Their Infants
+
+
+The median clinical severity scores of the case subjects enrolled was 4, on a scale of 0–16 (Figure 1). There were 11 case subjects (9.7%) admitted to the ICU. Case subjects aged ⩾6 months at the time of hospitalization had a significantly higher mean severity score than did those aged <6 months (6.3 ± 3.1 vs 4.1 ± 2.7; P = .001), and those with chronic medical conditions had higher severity scores than did those without (5.3 ± 2.5 vs 3.5 ± 2.2; P = .003). Differences in clinical se verity scores of the case subjects by mother's vaccination status during pregnancy were not statistically significant.
+
+Figure 1
+Clinical severity score by age group
+Open in new tabDownload slide
+Clinical severity score by age group
+
+
+Discussion
+Our study shows that inactivated influenza vaccine given to pregnant women is highly effective (91.5%) in preventing hospitalization for laboratory-confirmed influenza among their infants aged <6 months. These results have great clinical relevance, because they provide a strategy to confer protection to young infants at high risk for the disease and for whom no vaccine is currently available. Furthermore, this strategy has important public health implications, because vaccination protects not only young infants but also their mothers, who are in the high-risk category for severe influenza. Our results on the effectiveness of this approach in the United States, where influenza is seasonal, are consistent with findings of a randomized trial of influenza vaccine in Bangladesh, a tropical, developing country where the pattern and transmission of influenza is perennial [20].
+
+Although there was inadequate statistical power to assess the vaccine's effectiveness for infants aged ⩾6 months, an estimate of −41.4% with wide confidence intervals indicates that a null effect in this age group is plausible. This difference in protective effect for infants aged ⩾6 months and infants aged !6 months at hospitalization could be explained by the decrease in the concentration of passively transferred antibodies, which one would expect to have dropped to negligible levels by age 6–9 months. The interpretation of this effect is, however, complicated by small numbers of subjects.
+
+There were several possible limitations to our study. We lacked statistical power to estimate the effectiveness of influenza vaccine for infants aged ⩾6 months. It also was not possible to assess independent effects of second trimester vaccination versus third trimester vaccination, because of small numbers. Furthermore, our study did not have adequate power to assess the vaccine's effectiveness by influenza season, allowing us to assess for year-to-year variability. Future prospective studies are needed to evaluate longer-term effectiveness, in subsequent influenza seasons, of this novel strategy. We did not type strains to determine whether influenza infections were caused by strains included in the vaccine, and further research is needed to evaluate differences in vaccine effectiveness by circulating strain and vaccine strain match. It is possible that recall bias could have influenced the ability of mothers to recall information that could not be verified by the medical record, such as the length of time they breast-fed their infant.
+
+The CDC and the American College of Obstetricians and Gynecologists (ACOG) recommend inactivated influenza vaccination for women who will be pregnant during the influenza season [4], and inactivated influenza vaccine given to pregnant women is safe and immunogenic [25]. Despite data on safety and the potential benefit to both mother and infant, rates of vaccination with influenza vaccine among pregnant women are poor and vary widely for different health care providers and regions [26]. In spite of the ACOG's recommendation of influenza vaccination for pregnant women as a means of protection for women against severe infection, in 2003 only onethird of obstetricians offered this vaccine to their patients during pregnancy [27]. In our sample, only 17.2% of mothers of control subjects received influenza vaccine during pregnancy. It is notable, however, that rates of influenza vaccination during pregnancy have improved steadily in the past few years; 10% control subjects in 2000–2004, 15% of control subjects in 2005–2007, and 35% control subjects in 2008–2009 were born to mothers who had received influenza vaccine during pregnancy, a trend similar to that in national data from these years [4].
+
+The public health implications of our findings are important, because the effective strategy of the protection of the infant through vaccination during pregnancy may also serve as an incentive for pregnant women (who are also at high risk for complications from severe influenza) to accept influenza vaccine and for their care providers to offer it. Hopefully, this evidence could also be used in community and public campaigns to improve the overall vaccination rates in these highrisk groups. Also, this strategy improves on the cost-effectiveness of influenza vaccine in pregnant women [28]. Influenza vaccine given to pregnant women is an effective approach to decreasing the number of hospitalizations for influenza among their infants aged <6 months.
+
+Acknowledgments
+We are thankful for the tireless efforts of our entire research staff—Nancy Holabird, Novagrami George, Kristina Murphy, Madison Hustedt, Heather Yates, Carla Weibel, Sarah Maley, and Richard Martinello—who assisted with enrollment, data entry, medical record review, and laboratory analysis.
+
+Financial support. National Center for Research Resources, a component of the National Institutes of Health (NIH) (K23 AI68280, K24 RR022477, and CTSA grant UL1 RR024139 and KL2RR024138); NIH roadmap for Medical Research (to M.V.); G. D. Hsiung, Ph.D., Student Research Fellowship (to I.B.); and Vernon W. Lippard, M.D., Medical Student Research Fellowship (to I.B.).
+
+Potential conflicts of interest. All authors: no conflicts.
+
+References
+1	Centers for Disease Control and PreventionPublic health and aging: influenza vaccination coverage among adults aged⩾50 years and pneumococcal vaccination coverage among adults aged ⩾65 years—United States, 2002, MMWR Morb Mortal Wkly Rep , 2003, vol. 52 (pg. 987-992)
+PubMed 
+2	Thompson WW,  Shay DK,  Weintraub E, et al. Influenza-associated hospitalizations in the United States, JAMA , 2004, vol. 292 (pg. 1333-1340)
+Google ScholarCrossrefPubMed 
+3	Neuzil KM,  Mellen BG,  Wright PF,  Mitchel EFJr,  Griffin MR. The effect of influenza on hospitalizations, outpatient visits, and courses of antibiotics in children, N Engl J Med , 2000, vol. 342 (pg. 225-231)
+Google ScholarCrossrefPubMed 
+4	Fiore AE,  Shay DK,  Broder K, et al. Prevention and control of seasonal influenza with vaccines: recommendations of the Advisory Committee on Immunization Practices (ACIP), 2009, MMWR Recomm Rep , 2009, vol. 58 (RR-8)(pg. 1-52)
+Google ScholarPubMed 
+5	Gruber WC,  Darden PM,  Still JG,  Lohr J,  Reed G,  Wright PF. Evaluation of bivalent live attenuated influenza A vaccines in children 2 months to 3 years of age: safety, immunogenicity and dose-response, Vaccine , 1997, vol. 15 (pg. 1379-1384)
+Google ScholarCrossrefPubMed 
+6	Munoz FM,  Englund JA. Vaccines in pregnancy, Infect Dis Clin North Am , 2001, vol. 15 (pg. 253-271)
+Google ScholarCrossrefPubMed 
+7	Global Programme for Vaccines and ImmunizationProgramme report 1995, Report WHO/GVP/96.01 , 1996GenevaWorld Health Organization
+ 
+8	Kohler PF,  Farr RS. Elevation of cord over maternal IgGimmunoglobulin: evidence for an active placental IgG transport, Nature , 1966, vol. 210 (pg. 1070-1071)
+Google ScholarCrossrefPubMed 
+9	Hobbs JR,  Davis JA. Serum gamma-G-globulin levels and gestational age in premature babies, Lancet , 1967, vol. 1 (pg. 757-759)
+Google ScholarCrossrefPubMed 
+10	Reuman PD,  Paganini CM,  Ayoub EM,  Small PAJr. Maternal-infant transfer of influenza-specific immunity in the mouse, J Immunol , 1983, vol. 130 (pg. 932-936)
+Google ScholarPubMed 
+11	Mbawuike IN,  Six HR,  Cate TR,  Couch RB. Vaccination with inactivated influenza A virus during pregnancy protects neonatal mice against lethal challenge by influenza A viruses representing three subtypes, J Virol , 1990, vol. 64 (pg. 1370-1374)
+Google ScholarPubMed 
+12	Sweet C,  Jakeman KJ,  Smith H. Role of milk-derived IgG in passive maternal protection of neonatal ferrets against influenza, J Gen Virol , 1987, vol. 68 (pg. 2681-2686)
+Google ScholarCrossrefPubMed 
+13	Reuman PD,  Ayoub EM,  Small PA. Effect of passive maternal antibody on influenza illness in children: a prospective study of influenza A in mother-infant pairs, Pediatr Infect Dis J , 1987, vol. 6 (pg. 398-403)
+Google ScholarCrossrefPubMed 
+14	Sumaya CV,  Gibbs RS. Immunization of pregnant women with influenza A/New Jersey/76 virus vaccine: reactogenicity and immunogenicity in mother and infant, J Infect Dis , 1979, vol. 140 (pg. 141-146)
+Google ScholarCrossrefPubMed 
+15	Puck JM,  Glezen WP,  Frank AL,  Six HR. Protection of infants from infection with influenza A virus by transplacentally acquired antibody, J Infect Dis , 1980, vol. 142 (pg. 844-849)
+Google ScholarCrossrefPubMed 
+16	Englund JA,  Mbawuike IN,  Hammill H,  Holleman MC,  Baxter BD,  Glezen WP. Maternal immunization with influenza or tetanus toxoid vaccine for passive antibody protection in young infants, J Infect Dis , 1993, vol. 168 (pg. 647-656)
+Google ScholarCrossrefPubMed 
+17	Munoz FM,  Englund JA. A step ahead: infant protection through maternal immunization, Pediatr Clin North Am , 2000, vol. 47 (pg. 449-463)
+Google ScholarCrossrefPubMed 
+18	Black SB,  Shinefield HR,  France EK,  Fireman BH,  Platt ST,  Shay D. Effectiveness of influenza vaccine during pregnancy in preventing hospitalizations and outpatient visits for respiratory illness in pregnant women and their infants, Am J Perinatol , 2004, vol. 21 (pg. 333-339)
+Google ScholarCrossrefPubMed 
+19	France EK,  Smith-Ray R,  McClure D, et al. Impact of maternal influenza vaccination during pregnancy on the incidence of acute respiratory illness visits among infants, Arch Pediatr Adolesc Med , 2006, vol. 160 (pg. 1277-1283)
+Google ScholarCrossrefPubMed 
+20	Zaman K,  Roy E,  Arifeen SE, et al. Effectiveness of maternal influenza immunization in mothers and infants, N Engl J Med , 2008, vol. 359 (pg. 1555-1564)
+Google ScholarCrossrefPubMed 
+21	Landry ML,  Cohen S,  Ferguson D. Real-time PCR compared to Binax NOW and cytospin-immunofluorescence for detection of influenza in hospitalized patients, J Clin Virol , 2008, vol. 43 (pg. 148-151)
+Google ScholarCrossrefPubMed 
+22	World Health OrganizationCDC protocol of realtime RTPCR for influenza A (H1N1), 2009GenevaWorld Health Organization http://www.who.int/csr/resources/publications/swineflu/realtimeptpcr/en/index.html. Accessed 30 April 2010
+ 
+23	Niccolai LM,  Ogden LG,  Muehlenbein CE,  Dziura JD,  Vazquez M,  Shapiro ED. Methodological issues in design and analysis of a matched case-control study of a vaccine's effectiveness, J Clin Epidemiol , 2007, vol. 60 (pg. 1127-1131)
+Google ScholarCrossrefPubMed 
+24	Papadopoulos NG,  Moustaki M,  Tsolia M, et al. Association of rhinovirus infection with increased disease severity in acute bronchiolitis, Am J Respir Crit Care Med , 2002, vol. 165 (pg. 1285-1289)
+Google ScholarCrossrefPubMed 
+25	Naleway AL,  Smith WJ,  Mullooly JP. Delivering influenza vaccine to pregnant women, Epidemiol Rev , 2006, vol. 28 (pg. 47-53)
+Google ScholarCrossrefPubMed 
+26	Centers for Disease Control and PreventionTable: self-reported influenza vaccination coverage trends 1989–2006 among adults by age group, risk group, race/ethnicity, health-care worker status, and pregnancy status, United States, National Health Interview Survey (NHIS), 2006Atlanta, GACenters for Disease Control and Prevention http://www.cdc.gov/flu/professionals/vaccination/pdf/vaccinetrend.pdf. Accessed 7 July 2009
+ 
+27	Centers for Disease Control and PreventionInfluenza vaccination in pregnancy: practices among obstetrician-gynecologists—United States, 2003–04 influenza season, MMWR Morb Mortal Wkly Rep , 2005, vol. 54 (pg. 1050-1052)
+PubMed 
+28	Roberts S,  Hollier LM,  Sheffield J,  Laibl V,  Wendel GDJr. Cost-effectiveness of universal influenza vaccination in a pregnant population, Obstet Gynecol , 2006, vol. 107 (pg. 1323-1329)
+Google ScholarCrossrefPubMed

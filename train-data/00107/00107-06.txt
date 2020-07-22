@@ -1,0 +1,585 @@
+﻿Cannabidiol enhances anandamide signaling and
+alleviates psychotic symptoms of schizophrenia
+FM Leweke1,2, D Piomelli3,4, F Pahlisch1,3, D Muhl2,3, CW Gerth2
+, C Hoyer1,2, J Klosterko¨tter2
+, M Hellmich5 and D Koethe1,2
+Cannabidiol is a component of marijuana that does not activate cannabinoid receptors, but moderately inhibits the degradation of
+the endocannabinoid anandamide. We previously reported that an elevation of anandamide levels in cerebrospinal fluid inversely
+correlated to psychotic symptoms. Furthermore, enhanced anandamide signaling let to a lower transition rate from initial prodromal
+states into frank psychosis as well as postponed transition. In our translational approach, we performed a double-blind, randomized
+clinical trial of cannabidiol vs amisulpride, a potent antipsychotic, in acute schizophrenia to evaluate the clinical relevance of our initial
+findings. Either treatment was safe and led to significant clinical improvement, but cannabidiol displayed a markedly superior sideeffect profile. Moreover, cannabidiol treatment was accompanied by a significant increase in serum anandamide levels, which was
+significantly associated with clinical improvement. The results suggest that inhibition of anandamide deactivation may contribute to
+the antipsychotic effects of cannabidiol potentially representing a completely new mechanism in the treatment of schizophrenia.
+Translational Psychiatry (2012) 2, e94; doi:10.1038/tp.2012.15; published online 20 March 2012
+Introduction
+The search for safe and effective drugs to treat schizophrenia
+is hindered by the complex nature of this disorder, which is
+known to involve multiple brain neurotransmitters.1 Among
+them are the endogenous cannabinoids, a family of lipid
+messengers that target the same cell surface receptors
+engaged by D9
+-tetrahydrocannabinol in marijuana.2 Because
+D9
+-tetrahydrocannabinol and other direct-acting cannabinoid
+agonists can induce psychotic symptoms both in healthy
+volunteers3–5 and schizophrenic patients,6,7 it has been
+suggested that hyperactivity of the endocannabinoid system
+might contribute to psychotic states.8,9 This idea has fueled
+two large-scale clinical trials with CB1-type cannabinoid
+receptor antagonists in schizophrenia, which yielded, however, negative results.10,11 A diametrically opposite view —
+namely that certain components of the endocannabinoid
+system might have a protective role in schizophrenia — was
+suggested by studies with antipsychotic-naı¨ve schizophrenic
+patients, in which it was found that the symptom intensity
+experienced by these subjects was negatively correlated with
+cerebrospinal levels of anandamide,12,13 an endocannabinoid
+transmitter known to be involved in the regulation of pain,
+mood and cognition.14 Consistent with these clinical observations, animal experiments have shown that pharmacological
+blockade of anandamide degradation attenuates, rather than
+enhances, psychotic-like behaviors induced in rodents by
+amphetamine and phencyclidine.15,16
+Cannabidiol is a non-psychotropic component of marijuana
+that binds to CB1 receptors with only comparably very low
+affinity17,18 and is devoid of overt cannabimimetic or propsychotic properties.17 Biochemical studies indicate that
+cannabidiol may enhance endogenous anandamide signaling
+indirectly, by inhibiting the intracellular degradation of
+anandamide catalyzed by the enzyme fatty acid amide
+hydrolase (FAAH).19 Furthermore, preliminary clinical case
+reports suggest that cannabidiol might exert antipsychotic
+effects in schizophrenic patients.20–22 In addition, experimental studies show that cannabidiol reduces psychosis-like
+effects of D9
+-tetrahydrocannabinol and synthetic analogs.22,23
+Materials and methods
+Pre-clinical studies
+Detection of fatty acid ethanolamides. Serum levels of
+anandamide, palmityolethanolamide and oleoylethanolamide
+were determined at baseline, day 14 and day 28 by
+liquid chromatography/mass spectrometry as described
+previously.24,25
+FAAH assay. FAAH activity was measured at 37 1C for
+30 min in 0.5 ml of Tris buffer (50 mM, pH 7.5) containing fatty
+acid-free bovine serum albumin (0.05%, w/v), protein from
+tissue homogenates of the rat brain membranes (50 mg),
+cannabidiol (0.3 mM, 1 mM, 3 mM, 10 mM, 30 mM, 0.3 mM, 0.1 mM,
+and 1 mM) and (3
+H-ethanolamine) anandamide (10 000 d.p.m.,
+specific activity 20 Ci mmol1
+). For concentration response
+the drug CBD was dissolved in dimethyl sulfoxide and added
+to the samples at a final concentration of 1% dimethyl
+Received 13 October 2011; revised 9 January 2012; accepted 30 January 2012
+1
+Department of Psychiatry and Psychotherapy, Central Institute of Mental Health, Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany; 2
+Department of Psychiatry and Psychotherapy, University of Cologne, Cologne, Germany; 3
+Department of Pharmacology and Biological Chemistry, University of
+California, Irvine, CA, USA; 4
+The Unit of Drug Discovery and Development, Italian Institute of Technology, Genova, Italy and 5
+Institute for Medical Statistics,
+Informatics, and Epidemiology, University of Cologne, Cologne, Germany
+Correspondence: Professor FM Leweke, Department of Psychiatry and Psychotherapy, Central Institute of Mental Health, University of Heidelberg, Medical Faculty
+Mannheim, J5, 68159 Mannheim, Germany or D Piomelli, Department of Pharmacology and Biological Chemistry, University of California, Irvine, 3101 Gillespie
+Neuroscience Facility, Irvine, CA 91697-4625, USA.
+E-mail: leweke@cimh.de or piomelli@uci.edu
+Keywords: anandamide; cannabidiol; endocannabinoid; fatty acid amide hydrolase; human; schizophrenia
+Citation: Transl Psychiatry (2012) 2, e94, doi:10.1038/tp.2012.15
+& 2012 Macmillan Publishers Limited All rights reserved 2158-3188/12
+www.nature.com/tp
+sulfoxide. The reactions were stopped with chloroform/
+methanol (1:1, 1 ml), and radioactivity was measured in the
+aqueous layers by liquid scintillation counting.
+Clinical trial. This study was a therapeutic-exploratory
+(phase II), double-blinded, monocenter, randomized,
+parallel-group, controlled clinical trial of cannabidiol vs
+amisulpride (CBD-CT1; ClinicalTrials.gov. Identifier:
+NCT00628290). The study protocol was approved by the
+Ethics Committee of the University of Cologne and the
+BfArM (Federal Institute for Drugs and Medical Products).
+Initially an independent psychiatrist assessed patients to
+confirm their ability to provide informed consent. Then,
+written informed consent was obtained from each patient
+following a detailed explanation of study procedures.
+Men and women age 18–50 years who had a diagnosis of
+schizophrenia or schizophreniform psychosis according to the
+DSM-IV criteria were eligible for the study. All patients were
+hospitalized at baseline and through day 28 after random
+assignment to treatment. A total number of 42 inpatients of the
+Department of Psychiatry and Psychotherapy of the University
+of Cologne participated in the study. In all, 37 patients were
+suffering from acute paranoid schizophrenia (DSM-IV 295.30).
+Another 5 patients were initially diagnosed as suffering from
+schizophreniform psychosis (DSM-IV 295.40) based on the
+duration of illness, but were followed-up and diagnosed with
+paranoid schizophrenia after completing the study. Only
+acutely psychotic patients with a total Brief Psychiatric Rating
+Scale (BPRS) score X36 and a BPRS THOT factor (thought
+disorders) score X12 were eligible to participate. Patients
+with a positive urine drug screening for illicit drugs in general
+and cannabinoids in particular were not allowed to participate
+to avoid an interaction of currently bioactive cannabinoids
+(including cannabidiol) with treatment. Further exclusion criteria
+were relevant psychiatric disorders including substance use
+disorders, previous treatment with a depot antipsychotic within
+3 months before the participation in the study, a history of
+treatment resistance, defined by the persistence of severe
+symptoms despite adequate treatment with at least two
+antipsychotics or prior treatment with clozapine, a relevant
+and/or unstable medical condition and an insufficient contraception, pregnancy or breast-feeding in female patients.
+We enrolled 42 acutely exacerbated schizophrenic patients
+who had met the DSM-IV criteria. In all, 39 patients were
+evaluated according to modified intention-to-treat (Table 1),
+33 were observed and treated per protocol and all 42 were
+valid for safety evaluation (Figure 1). After a screening period
+of up to 7 days and a minimum period of 3 antipsychoticfree days patients were randomized (1:1) to receive either
+cannabidiol or amisulpride starting with 200 mg per day each
+and increased stepwise by 200 mg per day to a daily dose of
+200 mg four times daily (total 800 mg per day) each within the
+first week. The hospital pharmacy provided individual medication kits according to a randomization sequence prepared by a
+person otherwise not involved in the study (drawing paper lots
+out of a bowl). The respective treatment was maintained for
+another 3 weeks. A reduction of each treatment to 600 mg per
+day was allowed for clinical reasons, such as unwanted side
+effects after week 2, which was the case for three patients in
+the cannabidiol and five patients in the amisulpride treatment
+group. In addition, lorazepam co-medication was allowed with
+up to 7.5 mg per day during the entire study.
+Clinical measurements. The end points of the clinical trials
+are generally accepted and recommended by the European
+Medicines Agency for the measurement of clinically
+observed changes in patients with an acute schizophrenic
+and schizophreniform psychosis. The BPRS and the Positive
+and Negative Syndrome Scale (PANSS) were both used as
+primary outcome measures for the assessment of psychotic
+symptoms at baseline, day 14 and day 28 of the treatment
+period of the trial. The BPRS was implemented in the trial
+to establish a fast to assess safety parameter in case of
+a relevant worsening of symptoms in single patients and
+was assessed on day 7 and day 21 if clinically relevant by
+investigator’s decision. Side effects were evaluated using
+the Extrapyramidal Symptom Scale (EPS) and included the
+measurement of serum prolactin (mg l1
+) and body weight
+(kg). Safety measures included repeated electrocardiograms
+as well as routine blood parameters.
+Hypotheses and statistical analysis. The primary study
+objective was to determine whether cannabidiol given for
+28 days was non-inferior to amisulpride in the treatment
+of patients with schizophrenia as measured by the PANSS
+and the BPRS. Side effects were evaluated using the
+Extrapyramidal Symptom Scale and included the measurement of serum prolactin (mg l1
+) and body weight (kg). Safety
+Table 1 Baseline description of full analysis set (modified intention-to-treat)
+Cannabidiol
+(n ¼ 20)
+Amisulpride
+(n ¼ 19)
+P-valuea
+Demographic characteristics, mean (s.d.)
+Age, years 29.7 (8.3) 30.6 (9.4) 0.966
+Weight, kg 81.8 (16.0) 73.3 (11.4) 0.106
+Pulse, beats/min 83.4 (12.7)b 86.3 (14.2) 0.490
+Blood pressure, mm Hg
+Diastolic 80.8 (9.2) 77.3 (7.1) 0.224
+Systolic 123.8 (15.5) 119.2 (13.1) 0.394
+Male gender,
+count (%)
+15 (75) 17 (89) 0.407
+Baseline severity of illness scores, mean (s.d.)
+PANSS
+Total 91.2 (14.0) 95.5 (17.1) 0.736
+Positive 24.6 (5.6) 22.5 (6.2) 0.205
+Negative 23.7 (5.4) 25.3 (5.6) 0.573
+General 42.9 (8.6) 47.7 (11.4) 0.155
+Factor 1 16.3 (4.8) 15.9 (5.6) 0.554
+Factor 2 20.2 (4.8) 21.8 (5.3) 0.516
+Factor 3 10.0 (2.6) 11.2 (3.4) 0.134
+Factor 4 12.6 (2.7) 11.8 (4.1) 0.592
+Factor 5 10.0 (4.0) 10.7 (3.4) 0.489
+BPRS 58.1 (9.7) 57.7 (10.3) 0.746
+CGI severity 6.3 (0.7) 6.8 (0.4) 0.011
+Other, mean (s.d.)
+Lorazepam, mg/day 2.2 (1.6) 4.2 (2.4) 0.006
+SAS 36.4 (7.7) 36.9 (8.1) 0.800
+EPS 0.1 (0.2) 0.0 (0.1) 0.485
+Abbreviations: BPRS, Brief Psychiatric Rating Scale; CGI, Clinical Global
+Impression Scale; EPS, Extrapyramidal Symptoms Rating Scale; PANSS,
+Positive and Negative Syndrome Scale; SAS, Social Anxiety Scale.
+a
+The Wicoxon rank sum test or Fisher’s exact test. b
+n ¼ 19.
+Bold indicates statistical significance between groups (Pp0.05).
+Enhanced anandamide activity ameliorates psychosis
+FM Leweke et al
+2
+Translational Psychiatry
+measures included repeated electrocardiograms as well as
+routine blood values. These end points are generally
+accepted and recommended by the European Medicines
+Agency for the measurement of clinically observed changes
+in patients with an acute schizophrenic and schizophreniform
+psychosis.
+We planned to randomly assign 35 patients to each
+treatment group which would have provided 82% power to
+detect an effect size of 0.7 (E9/13 ¼ D/s) in the change-frombaseline PANSS/BPRS total score at a two-sided 5%
+significance level using an unadjusted two-sample t-test.26
+Unfortunately, enrolment was significantly affected by the
+exclusion of cannabinoid-positive patients in urine drug
+screening (Figure 1), which led to a termination of the study
+due to expiration of funding.
+The primary efficacy variable was the intra-individual
+difference of PANSS and BPRS at baseline (days 8 to 1)
+and day 28, that is, PANSS/BPRS (baseline) minus PANSS/
+BPRS (day 28). The primary hypothesis to be tested
+confirmatory with the parametric Sasabuchi test, (a ¼ 2.5%,
+one-sided) was relevant inferiority of cannabidiol vs
+amisulpride, that is, H0: mCannabidioly  mAmisulprider0 vs H1:
+mCannabidioly  mAmisulpride40 with y ¼ 80% (m denotes the
+expected value).27 Equivalently, a 95% confidence interval
+for the ratio mCannabidiol/mAmisulpride was calculated (according
+to Fieller). The non-inferiority parameter y ¼ 80% was
+chosen because in the literature PANSS/BPRS changes of
+20–50% are discussed as ‘response to therapy’.28 Thus,
+changes up to 20% can be deemed clinically irrelevant
+(especially because of the large intra-individual variance;
+compare CPMP/EWP, 1998).29
+Patients with missing post baseline measures were excluded
+from the efficacy analysis. Thus, the ‘modified intention-to-treat’
+set encompassed all patients who had been randomized,
+had received any study medication and had provided a valid
+PANSS/BPRS at day 14 or 28. A missing PANSS/BPRS
+at day 28 was imputed by the last valid preceding value
+‘last observation carried forward’, LOCF. The ‘per protocol’
+set encompassed all patients who had been treated, and
+observed according to protocol.
+A mixed effects repeated measures model (unstructured
+covariance matrix) for the change-from-baseline included
+baseline as a covariate with treatment, visit and treatment-byvisit interaction as fixed effects (missing values were not
+imputed). The same analysis model was chosen for secondary outcomes and side effects. Specific contrasts were
+evaluated (between groups at specific visits, between visits
+within groups).
+The ‘valid for safety’ set encompassed all patients who were
+randomized and received any study medication. On the basis
+of this the treatment-emergent adverse events were compared among treatment groups using Fisher’s exact test.
+Owing to the exploratory nature of the study, all analyses were
+performed without adjustment for multiplicity. Statistical
+analyses were done using IBM SPSS Statistics 19 (Somers,
+NY, USA) and R 2.12.1 (Vienna, Austria; Sasabuchi test,
+Fieller’s confidence interval).
+Results
+The basic hypothesis for our translational approach was
+that enhancement of anandamide signaling by administration of cannabidiol should result in an improvement of
+psychotic symptoms. To put this hypothesis to test, we
+performed a 4-week double-blind, parallel-group, randomized, active-controlled clinical trial of cannabidiol vs the
+Figure 1 Participant flow; analysis sets: VfS, valid for safety; mITT, modified intention-to-treat and PP, per protocol.
+Enhanced anandamide activity ameliorates psychosis
+FM Leweke et al
+3
+Translational Psychiatry
+dopamine D2/D3-receptor antagonist amisulpride—one of
+the most effective drugs currently in use for the treatment
+of schizophrenia.30 Patients undergoing either cannabidiol or
+amisulpride treatment showed significant clinical improvement, assessed by the reduction in PANSS total score
+(Po0.001, day 28 vs day 0, Figure 2a) as well as for all
+Figure 2 Changes from baseline in Positive and Negative Symptoms Scale (PANSS) scores determined using mixed effects repeated measures model analysis (adjusted
+for baseline). (a) PANSS total score. (b) PANSS-positive score. (c) PANSS-negative score. (d) PANSS general score. Data show predicted means and s.e. at each
+weak. Statistical significance is calculated between groups (w
+Pp0.05, wwPp0.01 and wwwPp0.001) and vs baseline (that is, 0; *CBD, #
+AMI; ***/###Pp0.05, **/##Pp0.01,
+*
+/#Pp0.001).
+Table 2 Changes in PANSS and BPRS, descriptive statistics and MMRM results adjusted for baseline, full analysis set (modified intention-to-treat)
+Cannabidiol Amisulpride Cannabidiol vs Amisulpride
+Baseline
+to (day)
+Mean
+(s.d., n)
+EMM
+(s.e., df)
+P-value Mean
+(s.d., n)
+EMM (s.e., df) P-value Difference
+(95% CI, df)
+P-value
+PANSS
+Total 14 18.8 (10.7, 20) 19.4 (3.4, 36.1) o0.001 18.8 (19.9, 19) 17.9 (3.5, 36.1) o0.001 1.5 (8.5 to 11.5, 36.1) 0.763
+28 30.5 (16.4, 17) 29.5 (4.7, 34.3) o0.001 30.1 (24.7, 18) 28.5 (4.7, 32.6) o0.001 1.0 (12.6 to 14.6, 33.7) 0.884
+Positive 14 6.3 (4.7, 20) 5.8 (1.0, 36.0) o0.001 5.1 (5.0, 19) 5.5 (1.0, 36.0) o0.001 0.2 (2.6 to 3.0, 36.1) 0.878
+28 9.0 (6.1, 17) 8.2 (1.4, 34.3) o0.001 8.4 (7.5, 18) 8.7 (1.4, 33.2) o0.001 0.5 (4.5 to 3.5, 33.8) 0.800
+Negative 14 4.5 (4.6, 20) 4.7 (1.1, 36.4) o0.001 3.3 (5.9, 19) 3.0 (1.1, 36.4) 0.012 1.7 (1.6 to 5.0, 36.5) 0.300
+28 9.1 (4.9, 17) 8.7 (1.3, 32.5) o0.001 6.4 (6.0, 18) 5.8 (1.3, 30.9) o0.001 2.9 (0.8 to 6.6, 31.9) 0.116
+General 14 8.0 (5.4, 20) 9.0 (1.8, 35.9) o0.001 10.4 (11.4, 19) 9.1 (1.9, 35.9) o0.001 0.1 (5.4 to 5.2, 36.0) 0.975
+28 12.5 (10.4, 17) 12.9 (2.5, 33.1) o0.001 15.3 (14.3, 18) 13.9 (2.5, 31.1) o0.001 0.9 (8.2 to 6.4, 32.5) 0.799
+Factor 1 14 3.0 (4.7, 20) 2.8 (0.8, 36.0) o0.001 3.3 (5.3, 19) 3.3 (0.8, 36.0) o0.001 0.5 (2.7 to 1.7, 36.0) 0.658
+28 4.8 (5.0, 17) 4.1 (1.2, 30.1) 0.002 4.6 (7.7, 18) 4.5 (1.2, 28.5) o0.001 0.4 (3.9 to 3.1, 29.3) 0.812
+Factor 2 14 3.1 (4.1, 20) 3.4 (1.0, 35.9) 0.002 3.2 (5.2, 19) 2.9 (1.0, 35.9) 0.008 0.4 (2.5 to 3.4, 36.0) 0.776
+28 8.0 (4.5, 17) 7.6 (1.2, 30.9) o0.001 6.0 (6.1, 18) 5.5 (1.2, 29.5) o0.001 2.2 (1.2 to 5.6, 30.4) 0.203
+Factor 3 14 2.5 (2.0, 20) 2.7 (0.5, 36.1) o0.001 1.7 (3.1, 19) 1.4 (0.5, 36.2) 0.011 1.2 (0.3 to 2.8, 36.2) 0.107
+28 3.2 (2.5, 17) 3.3 (0.7, 35.5) o0.001 3.4 (3.4, 18) 3.2 (0.7, 33.5) o0.001 0.1 (1.8 to 2.0, 35.0) 0.922
+Factor 4 14 3.2 (2.4, 20) 3.1 (0.6, 36.0) o0.001 3.2 (2.9, 19) 3.3 (0.6, 36.0) o0.001 0.2 (1.9 to 1.4, 36.0) 0.778
+28 5.2 (2.5, 17) 4.7 (0.8, 35.5) o0.001 5.1 (4.2, 18) 5.2 (0.8, 33.8) o0.001 0.5 (2.7 to 1.7, 34.7) 0.647
+Factor 5 14 2.0 (2.7, 20) 2.1 (0.5, 35.6) o0.001 2.9 (3.0, 19) 2.7 (0.6, 35.6) o0.001 0.5 (2.1 to 1.1, 35.6) 0.511
+28 3.0 (4.4, 17) 3.3 (0.7, 29.1) o0.001 4.1 (3.5, 18) 3.8 (0.7, 27.3) o0.001 0.5 (2.6 to 1.7, 28.2) 0.659
+BPRS
+7 6.4 (6.1, 20) 6.4 (1.8, 35.8) o0.001 7.9 (9.5, 19) 8.0 (1.8, 35.8) o0.001 1.6 (6.7 to 3.5, 35.8) 0.530
+14 14.5 (7.9, 20) 14.5 (2.2, 35.5) o0.001 12.7 (12.0, 19) 12.8 (2.2, 35.5) o0.001 1.7 (4.6 to 8.1, 35.5) 0.589
+21 18.4 (10.6, 16) 16.9 (2.8, 35.4) o0.001 14.2 (14.4, 18) 14.0 (2.8, 33.0) o0.001 2.9 (5.1 to 10.9, 34.2) 0.468
+28 20.5 (12.3, 17) 18.9 (3.2, 33.7) o0.001 19.4 (15.6, 18) 19.1 (3.1, 32.0) o0.001 0.1 (9.2 to 8.9, 32.8) 0.977
+Abbreviations: BPRS, Brief Psychiatric Rating Scale; CI, confidence interval; df, degrees of freedom; EMM, estimated marginal mean; MMRM, mixed effects
+repeated measures model; PANSS, Positive and Negative Syndrome Scale.
+Bold indicates statistical significance between groups (Pp0.05).
+Enhanced anandamide activity ameliorates psychosis
+FM Leweke et al
+4
+Translational Psychiatry
+subcategories of symptoms of schizophrenia (Figures 2b–d,
+Table 2). Comparison (modified intention-to-treat) of the
+clinical effects of amisulpride and cannabidiol revealed no
+relevant difference between the two treatments (1.0, 95%
+confidence interval 12.6 to 14.6, P ¼ 0.884; Table 2);
+the confirmatory test of non-inferiority with 80% retention
+bound yielded a ratio of means 0.94 (CBD/AMI) with 95%
+confidence interval 0.55–1.59. Thus non-inferiority seems
+highly plausible, but could not be demonstrated, P ¼ 0.27
+(one-sided). Results were very similar using the per protocol
+set and/or the BPRS (Table 2). We found no difference in the
+proportion of responders (X20% improvement in PANSS total
+score) to each treatment (CBD 15/20, AMI 14/19, P ¼ 1.000).
+Furthermore, lorazepam co-medication did not significantly
+influence our results (Supplementary Figure 1). These results
+suggest that cannabidiol is as effective at improving psychotic
+symptoms as the standard antipsychotic amisulpride.
+The use of antipsychotic drugs is associated with frequent
+side effects, which markedly influence acute compliance and
+long-term treatment adherence. These include motor disturbances (so-called extrapyramidal symptoms), weight gain
+and sexual dysfunction. Compared with amisulpride, we
+found that treatment with cannabidiol was associated with
+significantly fewer extrapyramidal symptoms (P ¼ 0.006;
+Figure 3a), less weight gain (P ¼ 0.010; Figure 3b), and lower
+prolactin increase—a predictor of galactorrhoea and sexual
+Figure 3 Changes from baseline in side effects determined using mixed effects
+repeated measures model analysis (adjusted for baseline). (a) Extrapyramidal
+Symptom Scale (EPS). (b) Weight gain. (c) Prolactin. Data show predicted means
+and s.e. at each weak. Statistical significance is calculated between groups
+(
+w
+Pp0.05, wwPp0.01 and wwwPp0.001) and vs baseline (that is, 0; *CBD, #
+AMI;
+***/###Pp0.05, **/##Pp0.01, */#Pp0.001).
+Figure 4 Changes from baseline in fatty acid amide hydrolase substrates
+determined using mixed effects repeated measures model analysis (adjusted for
+baseline). (a) Anandamide (AEA) in serum. (b) Oleoylethanolamide (OEA) in
+serum. (c) Palmitoylethanolamide (PEA) in serum. Data show predicted means
+and s.e. at each weak. Statistical significance is calculated between groups
+(
+w
+Pp0.05, wwPp0.01 and wwwPp0.001) and vs baseline (that is, 0; *CBD, #
+AMI; ***/###Pp0.05, **/##Pp0.01, */#Pp0.001).
+Enhanced anandamide activity ameliorates psychosis
+FM Leweke et al
+5
+Translational Psychiatry
+dysfunction (Po0.001; Figure 3c). Furthermore, cannabidiol
+was well-tolerated (Supplementary Table 3) and did not
+significantly affect hepatic or cardiac functions.
+Previous work has suggested that cannabidiol may protect
+anandamide from deactivation by interfering with FAAH
+activity 15. We confirmed this result showing that cannabidiol
+inhibits FAAH in rat brain membranes with a median effective
+concentration of 8.6±0.2 mM (n ¼ 12). We further found that
+cannabidiol, at a concentration that reduces FAAH activity
+by B50% (10 mM), does not significantly interact with a broad
+panel of neurotransmitter receptors that are relevant to
+schizophrenia, including dopamine, glutamate and serotonine. To determine whether treatment with cannabidiol
+reduces FAAH activity in our study subjects, we measured
+anandamide concentrations in serum before and after
+exposure to cannabidiol or amisulpride. Anandamide levels
+were higher in subjects exposed to cannabidiol than in those
+exposed to amisulpride (Figure 4a). Importantly, the serum
+levels of two additional FAAH substrates—the non-cannabimimetic lipid mediators palmitoylethanolamide (Figure 4b)
+and oleoylethanolamide (Figure 4c)—were also elevated in
+schizophrenic patients treated with cannabidiol, compared
+with those treated with amisulpride.
+Next, to assess whether the ability to impair FAAH
+activity might contribute to the antipsychotic effects of
+cannabidiol, we investigated the relationship between
+changes in serum anandamide levels and psychotic symptoms (median slope analysis). We found a statistically
+significant association between increase in anandamide
+levels and decrease in psychotic symptoms in patients treated
+with cannabidiol (P ¼ 0.0012). In contrast, no such association
+was found in patients treated with amisulpride (P ¼ 0.64)
+(Figure 5). Moreover, no such relationship was apparent for
+serum oleoylethanolamide (median slopes: cannabidiol 0.05 1/
+(pmol ml1
+), P¼ 1.00, amisulpride 5.91 1/(pmol ml1
+), P¼ 0.30)
+or serum palmitoylethanolamide (median slopes: cannabidiol
+3.8 1/(pmol ml1
+), P¼ 0.091, amisulpride 5.6 1/(pmol ml1
+),
+P¼ 0.19). These findings suggest the existence of a functional
+link between the antipsychotic effects of cannabidiol and its
+ability to inhibit anandamide degradation, though further
+research is needed to determine whether this link represents
+cause and effect.
+Discussion
+Our results provide evidence that the non-cannabimimetic
+constituent of marijuana, cannabidiol, exerts clinically relevant
+antipsychotic effects that are associated with marked tolerability and safety, when compared with current medications.
+Although a plethora of pharmacological mechanisms have
+recently been suggested relevant for the antipsychotic effect of
+cannabidiol31 the primary pharmacological mechanism through
+which cannabidiol exerts this antipsychotic effect in humans
+is unclear at present. However, the significant association
+observed in cannabidiol-treated patients between improvement of clinical symptoms and serum anandamide levels
+suggests that the ability of cannabidiol to inhibit the FAAH
+activity and enhance intrinsic anandamide signaling might be a
+functionally relevant component of its antipsychotic properties.
+Although only serum levels of anandamide were assessed in
+this study in comparison with cerebrospinal fluid samples,13,32
+the systemic effect of cannabidiol on FAAH inhibition is highly
+likely to be reflected in this compartment. In addition, while
+serum values of endocannabinoids have been found less
+useful in early stages of schizophrenia, they have been
+reported valuable in more chronic cases.33,34 Our interpretation is supported by two sets of clinical data. First, in a relatively
+large cohort of antipsychotic-naı¨ve schizophrenic patients
+(n ¼ 47), cerebrospinal anandamide levels were found to be
+inversely correlated with psychotic symptoms.13 Second, highrisk subjects for psychosis35 who exhibited lower cerebrospinal
+levels of anandamide also showed a higher risk for transiting to
+frank psychosis.32 As is often the case in this type of study, we
+cannot exclude that cannabidiol may reduce psychotic
+symptoms through complementary or even alternative mechanisms to FAAH inhibition, including interactions with
+serotonin 5-HT1A receptors,36 GPR55 receptors37 and transient receptor potential vanilloid-1 receptors.19 Nevertheless,
+Figure 5 Association of change in anandamide in serum and change in the Positive and Negative Symptoms Scale total score in patients treated and observed per
+protocol. (a) Individual changes of patients treated with cannabidiol (n ¼ 14). (b) Individual changes of patients treated with amisulpride (n ¼ 8). P-values are from the
+Wilcoxon signed rank test of the null hypothesis that the distribution of slope is symmetric about zero.
+Enhanced anandamide activity ameliorates psychosis
+FM Leweke et al
+6
+Translational Psychiatry
+our results do provide a rationale for additional clinical testing
+of selective FAAH inhibitors in schizophrenia.
+Conflict of interest
+The authors declare no conflict of interest.
+Acknowledgements. This study was supported by grants from the Stanley
+Medical Research Institute (FML) and the National Institute on Drug Abuse (DP).
+The funding sources had no influence on the design of the study or the analysis and
+interpretation of the results. We acknowledge the contribution of Drs Frauke
+Schultze-Lutter and Stephan Ruhrmann to the protocol and design and of Drs
+Christian Mauss, Brit M Nolden, Tobias Buzello, Miriam A Neatby and Anita Haensel
+to the execution of the clinical part of this study. We are also grateful to Prof Andrea
+Giuffrida for his fruitful input during the course of this study.
+1. Rogers DP, Goldsmith CA. Treatment of schizophrenia in the 21st century: beyond the
+neurotransmitter hypothesis. Expert Rev Neurother 2009; 9: 47–54.
+2. Piomelli D. The molecular logic of endocannabinoid signalling. Nat Rev Neurosci 2003; 4:
+873–884.
+3. Leweke FM, Schneider U, Thies M, Mu¨nte TF, Emrich HM. Effects of synthetic D9
+-
+tetrahydrocannabinol on binocular depth inversion of natural and artificial objects in man.
+Psychopharmacology 1999; 142: 230–235.
+4. D’Souza CD, Perry E, MacDougall L, Ammerman Y, Cooper T, Wu Y-T et al. The
+psychotomimetic effects of intravenous delta-9-tetrahydrocannabinol in healthy individuals:
+implications for psychosis. Neuropsychopharmacology 2004; 29: 1558–1572.
+5. Morrison PD, Nottage J, Stone JM, Bhattacharyya S, Tunstall N, Brenneisen R et al.
+Disruption of frontal theta coherence by Delta(9)-tetrahydrocannabinol is associated with
+positive psychotic symptoms. Neuropsychopharmacology 2011; 36: 827–836.
+6. D’Souza DC, Abi-Saab WM, Madonick S, Forselius-Bielen K, Doersch A, Braley G et al.
+Delta-9-tetrahydrocannabinol effects in schizophrenia: implications for cognition,
+psychosis, and addiction. Biol Psychiatry 2005; 57: 594–608.
+7. Henquet C, van Os J, Kuepper R, Delespaul P, Smits M, Campo JA et al. Psychosis
+reactivity to cannabis use in daily life: an experience sampling study. Br J Psychiatry 2010;
+196: 447–453.
+8. Scatton B, Sanger DJ. Pharmacological and molecular targets in the search for novel
+antipsychotics. Behav Pharmacol 2000; 11: 243–256.
+9. Eggan SM, Hashimoto T, Lewis DA. Reduced cortical cannabinoid 1 receptor messenger
+RNA and protein expression in schizophrenia. Arch Gen Psychiatry 2008; 65: 772–784.
+10. Meltzer HY, Arvanitis L, Bauer D, Rein W. Placebo-controlled evaluation of four novel
+compounds for the treatment of schizophrenia and schizoaffective disorder. Am J
+Psychiatry 2004; 161: 975–984.
+11. Sanofi-Aventis. Efficacy and safety of AVE1625 as a co-treatment with antipsychotic
+therapy in schizophrenia (CONNECT). ClinicalTrials gov, May 11 2010; edn, vol.
+NCT00439634. US National Institute of Health, 2010.
+12. Leweke FM, Giuffrida A, Wurster U, Emrich HM, Piomelli D. Elevated endogenous
+cannabinoids in schizophrenia. Neuroreport 1999; 10: 1665–1669.
+13. Giuffrida A, Leweke FM, Gerth CW, Schreiber D, Koethe D, Faulhaber J et al.
+Cerebrospinal anandamide levels are elevated in acute schizophrenia and are inversely
+correlated with psychotic symptoms. Neuropsychopharmacology 2004; 29: 2108–2114.
+14. Di Marzo V, Petrosino S. Endocannabinoids and the regulation of their levels in health and
+disease. Curr Opin Lipidol 2007; 18: 129–140.
+15. Beltramo M, de Fonseca FR, Navarro M, Calignano A, Gorriti MA, Grammatikopoulos G
+et al. Reversal of dopamine D(2) receptor responses by an anandamide transport inhibitor.
+J Neurosci 2000; 20: 3401–3407.
+16. Seillier A, Advani T, Cassano T, Hensler JG, Giuffrida A. Inhibition of fatty-acid amide
+hydrolase and CB1 receptor antagonism differentially affect behavioural responses in
+normal and PCP-treated rats. Int J Neuropsychopharmacol 2010; 13: 373–386.
+17. Petitet F, Jeantaud B, Reibaud M, Imperato A, Dubroeucq M-C. Complex pharmacology of
+natural cannabinoids: evidence for partial agonist activity of delta-9-tetrahydrocannabinol
+and antagonist activity of cannabidiol on rat brain cannabinoid receptors. Life Sci 1998; 63:
+PL1–PL6.
+18. Thomas A, Baillie GL, Phillips AM, Razdan RK, Ross RA, Pertwee RG. Cannabidiol
+displays unexpectedly high potency as an antagonist of CB1 and CB2 receptor agonists in
+vitro. Br J Pharmacol 2007; 150: 613–623.
+19. Bisogno T, Hanus L, De Petrocellis L, Tchilibon S, Ponde DE, Brandi I et al. Molecular
+targets for cannabidiol and its synthetic analogues: effect on vanilloid VR1 receptors and on
+the cellular uptake and enzymatic hydrolysis of anandamide. Br J Pharmacol 2001; 134:
+845–852.
+20. Zuardi AW, Morais SL, Guimara˜es FS, Mechoulam R. Antipsychotic effect of cannabidiol. J
+Clin Psychiatry 1995; 56: 485–486.
+21. Zuardi AW, Hallak JE, Dursun SM, Morais SL, Faria Sanches R, Musty RE et al.
+Cannabidiol monotherapy for treatment-resistant schizophrenia. J Psychopharmacol 2006;
+20: 683–686.
+22. Leweke FM, Schneider U, Radwan M, Schmidt E, Emrich HM. Different effects of nabilone
+and cannabidiol on binocular depth inversion in man. Pharmacol Biochem Behav 2000; 66:
+175–181.
+23. Bhattacharyya S, Morrison PD, Fusar-Poli P, Martin-Santos R, Borgwardt S, WintonBrown T et al. Opposite effects of delta-9-tetrahydrocannabinol and cannabidiol on
+human brain function and psychopathology. Neuropsychopharmacology 2010; 35:
+764–774.
+24. Schreiber D, Harlfinger S, Nolden BM, Gerth CW, Scho¨mig E, Klosterko¨tter J et al.
+Determination of anandamide and other fatty acylethanolamides in human serum by
+electrospray tandem mass spectrometry. Anal Biochem 2007; 361: 162–168.
+25. Giuffrida A, Rodriguez de Fonseca F, Piomelli D. Quantification of bioactive
+acylethanolamides in rat plasma by electrospray mass spectrometry. Anal Biochem
+2000; 280: 87–93.
+26. Danion JM, Rein W, Fleurot O. Improvement of schizophrenic patients with primary
+negative symptoms treated with amisulpride. Amisulpride Study Group. Am J Psychiatry
+1999; 156: 610–616.
+27. Hauschke D, Kieser M. Multiple testing to establish noninferiority of k treatments with a
+reference based on the ratio of two means. Drug Inf J 2001; 35: 1247–1251.
+28. van Os J, Burns T, Cavallaro R, Leucht S, Peuskens J, Helldin L et al. Standardized
+remission criteria in schizophrenia. Acta Psychiatr Scand 2006; 113: 91–95.
+29. Committee for proprietary medicinal products (CPMP). Note for guidance on the clinical
+investigation of medicinal products in the treatment of schizophrenia. February 26 1998;
+CPMP/EWP/559/95, The European Agency for the Evaluation of Medicinal Products,
+London, 1998.
+30. Leucht S, Pitschel-Walz G, Engel RR, Kissling W. Amisulpride, an unusual ‘atypical’
+antipsychotic: a meta-analysis of randomized controlled trials. Am J Psychiatry 2002; 159:
+180–190.
+31. Izzo AA, Borrelli F, Capasso R, Di Marzo V, Mechoulam R. Non-psychotropic plant
+cannabinoids: new therapeutic opportunities from an ancient herb. Trends Pharmacol Sci
+2009; 30: 515–527.
+32. Koethe D, Giuffrida A, Schreiber D, Hellmich M, Schultze-Lutter F, Ruhrmann S et al.
+Anandamide elevation in cerebrospinal fluid in initial prodromal states of psychosis. Br J
+Psychiatry 2009; 194: 371–372.
+33. Potvin S, Kouassi E, Lipp O, Bouchard RH, Roy MA, Demers MF et al. Endogenous
+cannabinoids in patients with schizophrenia and substance use disorder during quetiapine
+therapy. J Psychopharmacol 2008; 22: 262–269.
+34. De Marchi N, De Petrocellis L, Orlando P, Daniele F, Fezza F, Di Marzo V.
+Endocannabinoid signalling in the blood of patients with schizophrenia. Lipids Health
+Dis 2003; 2: 5–13.
+35. Ruhrmann S, Schultze-Lutter F, Salokangas RK, Heinimaa M, Linszen D, Dingemans P
+et al. Prediction of psychosis in adolescents and young adults at high risk: results from
+the prospective European prediction of psychosis study. Arch Gen Psychiatry 2010; 67:
+241–251.
+36. Russo E, Burnett A, Hall B, Parker K. Agonistic properties of cannabidiol at 5-HT1a
+receptors. Neurochem Res 2005; 30: 1037–1043.
+37. Ryberg E, Larsson N, Sjogren S, Hjorth S, Hermansson NO, Leonova J et al. The orphan
+receptor GPR55 is a novel cannabinoid receptor. Br J Pharmacol 2007; 152: 1092–1101.
+Translational Psychiatry is an open-access journal
+published by Nature Publishing Group. This work is
+licensed under the Creative Commons Attribution-Noncommercial-No
+Derivative Works 3.0 Unported License. To view a copy of this license,
+visit http://creativecommons.org/licenses/by-nc-nd/3.0/
+Supplementary Information accompanies the paper on the Translational Psychiatry website (http://www.nature.com/tp)
+Enhanced anandamide activity ameliorates psychosis
+FM Leweke et al
+7
+Translational Psychiatry

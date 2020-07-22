@@ -1,0 +1,770 @@
+Efficacy and safety of the a4b2 neuronal nicotinic receptor agonist ABT-894
+in patients with diabetic peripheral neuropathic pain
+Michael C. Rowbotham a,⇑
+, Armen Arslanian b
+, Wolfram Nothaft c
+, W. Rachel Duan c
+, Andrea E. Best c
+,
+Yili Pritchett c
+, Qian Zhou c
+, Brett R. Stacey d
+a California Pacific Medical Center Research Institute, San Francisco, CA, USA
+b Beacon Clinical Research, Brockton, MA, USA
+c Abbott, Abbott Park, IL, USA
+dDepartment of Anesthesiology & Peri-Operative Medicine, Oregon Health & Science University, Portland, OR, USA
+Sponsorships or competing interests that may be relevant to content are disclosed at the end of this article.
+article info
+Article history:
+Received 19 August 2011
+Received in revised form 20 December 2011
+Accepted 11 January 2012
+Keywords:
+ABT-894
+Neuronal nicotinic receptor
+Neuropathic pain
+Randomized clinical trial
+abstract
+Preclinical and clinical studies suggest that neuronal nicotinic receptor (NNR) agonists may be a novel and
+effective therapy for numerous painful conditions. Analgesic efficacy and safety of the highly selective a4b2
+NNR agonist ABT-894 was evaluated in 2 separate randomized, double-blind, multicenter, placebo-controlled clinical trials in patients with diabetic peripheral neuropathic pain (DPNP). Study 1 (280 patients
+randomized) tested 1, 2, and 4 mg ABT-894 twice daily compared with placebo and 60 mg duloxetine once
+per day over 8 weeks of treatment. Study 2 (124 patients randomized) tested 6 mg ABT-894 twice daily vs
+placebo for 8 weeks. The primary efficacy outcome measure in both studies was the weekly mean of the 24-
+hour average pain score recorded in each patient’s diary. In both trials, none of the ABT-894 dose groups
+showed efficacy compared with placebo, whereas duloxetine achieved a statistically significant improvement over placebo in Study 1. All dose levels of ABT-894 were well tolerated, and no significant safety
+issues were identified. These results are in contrast to the outcome of a previously reported study of DPNP
+using the less selective a4b2 NNR agonist ABT-594, which demonstrated efficacy compared with placebo,
+albeit with significant tolerability limitations. The failure of the highly selective a4b2 NNR agonist ABT-894
+indicates that it may not be possible to define a therapeutic index for this mechanism or that selectively
+targeting a4b2 NNRs may not be a viable approach to treating neuropathic pain.
+ 2012 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+1. Introduction
+Diabetic peripheral neuropathic pain (DPNP) affects approximately 20% of those with a history of diabetes of longer than
+10 years [13]. Current first-line oral treatment approaches for
+DPNP include the antiepileptic agents gabapentin and pregabalin
+and selected antidepressants (e.g., tricyclic antidepressants and
+serotonin-noradrenaline reuptake inhibitors such as duloxetine);
+only pregabalin and duloxetine are approved by the U.S. Food
+and Drug Administration for the treatment of DPNP [4,6]. These
+currently prescribed therapies often prove ineffective or partially
+effective, and adverse effects frequently limit their utility [4]. Opioids are also prescribed for DPNP [11], but their use is hindered by
+concerns over safety and misuse.
+Neuronal nicotinic acetylcholine receptors (NNRs) are members
+of a ligand-gated ion channel family that are widely distributed
+throughout the central and peripheral nervous systems. NNRs are
+composed of various combinations of a (a2–10) and b (b2–4) subunits, resulting in receptor subtypes of varying pharmacologies
+that mediate a variety of functional effects, including positive effects (analgesia and cognitive enhancement) and negative effects
+(physical dependence, nausea, and increased heart rate) [20]. The
+a4b2 and a7 NNR subtypes are primarily present in central nervous
+system pain pathways, whereas a3- and b4-containing subtypes
+are principally expressed in the autonomic nervous system, mediating the negative functional effects of NNR activation [2,20]. The
+a4b2 NNR agonist ABT-594 demonstrated efficacy in DPNP in a randomized, double-blind, placebo-controlled phase 2 study. The relatively high incidence of dose-dependent adverse events indicated
+an unfavorable therapeutic profile for ABT-594, but established
+proof-of-concept for a4b2 agonists in the treatment of DPNP and
+supports exploration of more selective a4b2 NNR agonists to
+establish a suitable therapeutic index [15].
+0304-3959/$36.00  2012 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+doi:10.1016/j.pain.2012.01.009
+⇑ Corresponding author. Address: California Pacific Medical Center Research
+Institute, 2200 Webster Street, Suite 514, San Francisco, CA 94115. Tel.: +1 415 600
+1750; fax: +1 415 600 1725.
+E-mail address: rowbotm@cpmcri.org (M.C. Rowbotham).
+www.elsevier.com/locate/pain
+PAIN
+153 (2012) 862–868
+ABT-894 (3-(5,6-dichloro-pyridin-3-yl)-1(S),5 (S)-3,6-diazabicyclo[3.2.0]heptane) is a novel, highly selective a4b2 NNR agonist
+(compound 42 in [10]) that has demonstrated efficacy in preclinical animal models of neuropathic pain. Early preclinical and
+clinical data indicate that ABT-894 could offer an improved therapeutic index compared with the less selective agonist ABT-594.
+Whereas ABT-594 is only 2.4 times more selective for a4b2 over
+a3b4 NNRs [3], ABT-894 shows an almost exclusive affinity for
+the a4b2 subtype. Consistent with this receptor selectivity, ABT894 has shown positive effects comparable to ABT-594 in several
+preclinical neuropathic pain models, but with fewer adverse
+effects.
+In previous healthy-volunteer, repeated-dose studies, ABT894 was generally well tolerated up to 8 mg twice daily. The
+most commonly reported adverse events of dizziness, nausea,
+headache, and vomiting increased with dose, and the majority
+of events occurred at doses exceeding 8 mg twice daily. For
+doses exceeding 6 mg twice daily, there was a mild, dosedependent increase in mean heart rate (>3 beats/min). Based
+on preclinical predictions and the phase 1 safety and tolerability data, the dose range for the phase 2 DPNP studies was
+determined to be 1 mg twice daily to 6 mg twice daily, allowing
+for robust clinical hypothesis testing in a key target population.
+Reported here are the results of 2 randomized, double-blind,
+placebo-controlled phase 2 studies designed to examine the
+analgesic efficacy and safety of ABT-894 in patients with
+DPNP.
+2. Materials and methods
+2.1. Patient population
+In both studies, subjects were men and women between 18
+and 75 years of age with a diagnosis of diabetes mellitus (type
+1 or type 2) and a glycosylated hemoglobin (HbA1c) 69%. Subjects must have had painful distal symmetric diabetic polyneuropathy for P6 months and a score of P3 on the physical
+assessment portion of the Michigan Neuropathic Screening
+Instrument at the screening visit. In addition, subjects had to
+have an average score P4 during the 7 days before the baseline
+visit on the 24-hour average pain scale (11-point Likert scale, 0
+[no pain] to 10 [worst pain]). Prospective subjects were required to have a compliance rating of P60% (at least 5 of 7 days
+with completed baseline diary entries); an average score P4 on
+BPI (Brief Pain Inventory) average pain score at baseline visit. In
+study 1, subjects were excluded if they had a history of myocardial infarction within 6 months of the screening visit, undergone
+a cardiac revascularization within 30 days of screening or had
+systolic blood pressure P160 and/or diastolic blood pressure
+P100 at screening and/or baseline; in study 2, subjects were
+excluded if they had any history of myocardial infarction, had
+undergone a cardiac revascularization, or had systolic blood
+pressure P150 and/or diastolic blood pressure P100 at screening and baseline. Based on medical history and investigator
+assessment, patients were excluded if they had a major psychiatric disorder including bipolar disorder, schizophrenia, or borderline personality disorder (defined by the Diagnostic and
+Statistical Manual of Mental Disorders IV). A major depressive
+episode within 2 years was exclusionary; however, if patients
+had been treated for major depressive disorder within 2 years,
+they could have been included upon the investigator’s consultation with the study medical director. An independent ethics
+committee/institutional review board approved both study protocols, and informed consent was obtained for each patient
+before any study-related procedures being performed.
+2.2. Study design
+Both studies were phase 2, multiple-country, randomized, double-blind, placebo-controlled, parallel group studies. Study 1
+(NCT00507936) enrolled 280 subjects at 47 sites, from August
+2007 to October 2008. Study 2 (NCT00548925) enrolled 124 subjects at 26 sites, from November 2007 to December 2008. A screening/washout period was followed by a baseline visit, an 8-week
+treatment period, and a 1-week follow-up visit (Fig. 1). Study visits
+occurred at baseline; at Weeks 1, 2, 4, 6, and 8 (on treatment); and
+Week 9 (1 week posttreatment follow-up visit).
+2.3. Dosing
+Study 1 had 5 treatment groups: 3 doses of ABT-894 (1 mg,
+2 mg, 4 mg twice daily), 1 dose of duloxetine (60 mg once daily,
+the dose of duloxetine approved for DPNP by the U.S. Food and
+Drug Administration and European Medicines Agency), and placebo. To maintain blinding, subjects assigned to duloxetine took
+2 pills daily: 1 duloxetine 60 mg and 1 placebo. Study 2 had 2
+treatment groups: ABT-894 6 mg twice daily and placebo. Study
+1 included doses of ABT-894 up to 4 mg twice daily. Because of
+the potential for an increase in heart rate after doses greater than
+6 mg twice daily (seen in earlier phase 1 trials), Study 2 evaluated
+6 mg twice daily using a more restrictive cardiovascular enrollment criteria (see Patient Population, described earlier). For each
+study, patients were randomized 1:1 to each treatment arm via
+an interactive voice response system using a randomization schedule that was generated before study start. An adaptive dropping-arm design was used for Study 1, which involved an interim
+efficacy evaluation. The details of this design are described in the
+online Supplementary text.
+2.4. Concomitant medications
+Patients must have discontinued all analgesics for DPNP, including anticonvulsants and antidepressants used for pain. Patients
+were required to undergo washout of all disallowed analgesics
+for at least 5 half-lives of the longest acting, or 2 days, whichever
+was longer. Other excluded medications included monoamine oxidase inhibitors, selective norepinephrine reuptake inhibitors,
+varenicline, any inhibitor of CYP2D6, and intramuscular or intravenous corticosteroids (inhaled corticosteroids were allowed). Aspirin (6325 mg/day) was permitted for cardiovascular prophylaxis.
+The following medications were also allowed, provided they had
+been at a stable dose for at least 30 days: nonsteroidal anti-inflammatory drugs for conditions other than DPNP, antidepressants
+(other than those listed) for depression or anxiety, benzodiazepines for sleep and/or anxiety, and over-the-counter topical analgesics. Acetaminophen (maximum 3000 mg/day) was allowed as
+a rescue medication up to 3 days per week during the treatment
+period, but not within 24 hours before scheduled study visits.
+2.5. Efficacy assessments
+The primary efficacy outcome measure in both studies was the
+weekly mean of the 24-hour average pain score, recorded using an
+11-point Likert scale and calculated from each patient’s daily diary.
+All patients in all countries utilized the same electronic diary device to record pain assessments and rescue medication use. Each
+evening, patients rated separately their average pain over the past
+24 hours and their worst pain during the day on 11-point Likert
+scales. At scheduled study visits, patients completed questions
+regarding their pain and its effects on daily living using the same
+electronic diaries that were used to record daily pain ratings. Secondary efficacy outcomes included the BPI Short Form (BPI-SF) [8],
+M.C. Rowbotham et al. / PAIN
+153 (2012) 862–868 863
+Clinician Global Impression-Severity [14], Patient Global Impression-Change [17], Short Form McGill Pain Questionnaire [5],
+SF-36 Health Status Survey [21], the EUROQOL-5D [1], and the
+Neuropathic Pain Scale [15].
+2.6. Safety assessments
+Safety assessments included adverse event monitoring, vital
+signs, physical examination, electrocardiography (ECG), and laboratory test assessments. Concomitant medication review was performed throughout the study.
+2.7. Statistical design and analyses
+For both studies, a sample size of 55 subjects per treatment
+group was planned. The sample size was estimated to have at least
+80% power to detect a treatment group difference of 1.4 points in
+the change from baseline to final observation on the weekly mean
+of the 24-hour average pain score between an ABT-894 dose group
+and the placebo group at a 1-sided significance level of a = 0.05. In
+the sample size calculation, it was assumed that the common standard deviation for the change was 2.76 and that 10% of the subjects
+would not have any postbaseline data for the weekly mean 24-
+hour average pain score.
+The intent-to-treat population comprised all randomized subjects who received at least 1 dose of study drug. For efficacy
+variables, only subjects with both baseline and at least 1 postbaseline efficacy assessment were included in the corresponding analysis. In the analysis of any given variable, baseline is defined as the
+observation collected at or before the randomization visit; final
+observation is defined as the last nonmissing observation of that
+variable collected during the 8-week treatment period. The weekly
+mean 24-hour average pain score was calculated from the subject’s
+diary data for the 7 days before a scheduled clinic visit.
+The treatment group difference in mean change from baseline
+to final observation on the weekly mean 24-hour average pain
+score was primarily assessed by an analysis of covariance model
+with terms of treatment and study site, and a covariate of baseline
+score. In Study 1, the treatment group difference between duloxetine and placebo was also evaluated. A maximum-likelihood, repeated-measures analysis for change from baseline to each
+postbaseline assessment on the weekly mean 24-hour average
+pain score was also performed. The repeated-measures model included fixed terms of treatment, site, week, and treatment by week
+interaction, as well as baseline score and baseline score by week
+interaction. An unstructured variance-covariance structure was
+used. The same analytical models were used to assess treatment
+group differences for all continuous secondary efficacy variables.
+Categorical variables were analyzed by Fisher exact test. An analysis of variance was used to test whether the demographic and
+baseline disease characteristics were comparable among treatment
+groups at baseline. As specified in the clinical protocols, 1-sided
+tests of significance were performed for all efficacy analyses.
+Adverse events were coded using the Medical Dictionary for
+Regulatory Activities (MedDRA) version 11.0. Treatment-emergent
+adverse events (AEs) (i.e., those that emerged or worsened in
+severity after initiation of study drug) were tabulated by system
+organ class and MedDRA preferred term for each treatment group.
+Treatment group differences in the proportion of subjects reporting any AE or specific AEs were evaluated using Fisher exact test.
+Change from baseline to final observations on laboratory values
+and vital signs were analyzed using a 1-way analysis of variance
+with treatment as the main effect. Treatment group differences
+in normal or abnormal categories of ECGs were evaluated using
+Fisher exact test. For all safety analyses, 2-sided tests were performed as specified in the protocols.
+3. Results
+3.1. Subjects
+A total of 280 patients were randomized into Study 1 and received at least 1 dose of study drug; 124 patients were randomized
+into Study 2 and received at least 1 dose of study drug. For each
+study, patient disposition is shown in Supplementary Fig. 1 (CONSORT flow diagram). Patient demographic and baseline characteristics are shown in Table 1. There were no statistically significant
+differences in demographic or baseline characteristics among the
+treatment groups within either study, with the exception of
+alcohol use in Study 1 (data not shown).
+3.2. Efficacy
+The ABT-894 treatment did not result in statistically significant
+differences in the change of the weekly mean 24-hour average pain
+score from baseline to final observation when compared with placebo in either study (P values for each dose P.457 vs placebo in
+Study 1; P = .347 vs placebo in Study 2), nor did it demonstrate statistically significant effects on any secondary outcomes, with the
+exception of the ABT-894 4 mg twice daily dose on the BPI-SFAverage of 7 interference scores (P < .05) in Study 1. No significant
+effects of ABT-894 were detected in the Neuropathic Pain Scale
+(data not shown). The duloxetine group showed statistically significant differences in the change of the weekly mean 24-hour average pain score from baseline to final observation (P = .032 vs
+placebo), as well as on 2 secondary outcomes in Study 1 (Table 2).
+Fig. 1. Study design.
+864 M.C. Rowbotham et al. / PAIN
+153 (2012) 862–868
+Table 1
+Subject demographics and baseline characteristics (intent-to-treat dataset).
+Study 1, n = 280 Study 2, n = 124
+Placebo (n = 51) ABT-894 Duloxetine
+(n = 57)
+Placebo
+(n = 65)
+ABT-894 6 mg
+twice daily (n = 59) 1 mg twice daily
+(n = 61)
+2 mg twice
+daily (n = 56)
+4 mg twice
+daily (n = 55)
+Sex
+Male, n (%) 28 (54.9%) 34 (55.7%) 31 (55.4%) 29 (52.7%) 32 (56.1%) 40 (61.5%) 30 (50.8%)
+Female, n (%) 23 (45.1%) 27 (44.3%) 25 (44.6%) 26 (47.3%) 25 (43.9%) 25 (38.5%) 29 (49.2%)
+Race
+White, n (%) 41 (80.4%) 43 (70.5%) 42 (75.0%) 42 (76.4%) 44 (77.2%) 53 (81.5%) 42 (71.2%)
+Black, n (%) 6 (11.8%) 7 (11.5%) 7 (12.5%) 9 (16.4%) 6 (10.5%) 12 (18.5%) 14 (23.7%)
+Other, n (%) 4 (7.8%) 11 (18.0%) 7 (12.5%) 4 (7.3%) 7 (12.3%) 0 3 (5.1%)
+Age (y), mean (SD) 59.6 (7.0) 57.5 (9.2) 57.9 (8.0) 58.3 (8.1) 60.1 (7.8) 56.5 (10.8) 57.0 (8.8)
+Nicotine use
+Former user, n (%) 15 (29.4%) 20 (32.8%) 12 (21.4%) 14 (25.5%) 19 (33.3%) 22 (33.8%) 15 (25.4%)
+Nonuser, n (%) 30 (58.8%) 32 (52.5%) 30 (53.6%) 29 (52.7%) 30 (52.6%) 35 (53.8%) 34 (57.6%)
+Current user, n (%) 6 (11.8%) 9 (14.8%) 14 (25.0%) 12 (21.8%) 8 (14.0%) 8 (12.3%) 10 (16.9%)
+Diabetes history
+Type I diabetes, n (%)
+Years, mean (SD)
+3(5.9%)
+19.3 (4.0)
+5 (8.2%)
+37.4 (11.2)
+3 (5.4%)
+27.0 (13.5)
+3 (5.5%)
+31.3 (4.7)
+1 (1.8%)
+24.0 (n/a)
+8 (12.3%)
+23.0 (13.9)
+4 (6.8%)
+21.0 (21.4)
+Type II diabetes, n (%)
+Years, mean (SD)
+48 (94.1%)
+12.9 (9.6)
+55 (90.2%)
+10.1 (7.8)
+53 (94.6%)
+11.5 (9.6)
+52 (94.5%)
+11.4 (8.2)
+55 (96.5%)
+11.5 (8.3)
+54 (83.1%)
+12.4 (9.0)
+54 (91.5%)
+10.6 (7.4)
+Diabetes, unspecified, n (%)
+years, mean (SD)
+0 1 (1.6%)
+26.0 (n/a)
+0 0 1 (1.8%)
+31.0 (n/a)
+3 (4.6%)
+26.0 (8.0)
+1 (1.7%)
+3.0 (n/a)
+Years of diabetic neuropathic pain history, mean (SD) 4.4 (3.7) 4.5 (3.4) 4.9 (4.7) 4.8 (4.6) 4.8 (5.0) 5.3 (4.8) 4.2 (3.2)
+Efficacy assessments
+Weekly mean 24-hour average pain score, mean (SD) 6.62 (1.23) n = 51 6.76 (1.51) n = 61 6.43 (1.43) n = 56 6.23 (1.35) n = 55 6.61 (1.37) n = 57 6.79 (1.58) n = 65 6.74 (1.51) n = 59
+Brief Pain Inventory–Short Form, mean (SD)
+Average pain 6.5 (1.5) n = 51 6.5 (1.5) n = 60 6.1 (1.5) n = 54 6.1 (1.4) n = 55 6.4 (1.3) n = 57 6.6 (1.7) n = 65 6.6 (1.7) n = 58
+Current pain 5.9 (1.9) n = 51 6.4 (1.8) n = 60 6.1 (2.0) n = 54 5.9 (2.0) n = 55 6.3 (1.8) n = 56 6.5 (2.0) n = 65 6.2 (1.9) n = 57
+24-hour worst pain 7.1 (1.6) n = 51 7.4 (1.6) n = 60 7.1 (1.6) n = 54 6.9 (1.7) n = 55 7.4 (1.3) n = 57 7.4 (1.7) n = 65 7.3 (1.5) n = 58
+24-hour least pain 5.9 (1.9) n = 51 5.7 (2.0) n = 60 5.5 (2.2) n = 54 5.4 (2.2) n = 55 5.4 (2.1) n = 57 5.9 (2.2) n = 65 5.9 (2.0) n = 58
+Average of 7 interference scores 5.5 (2.0) n = 51 5.4 (2.0) n = 60 5.6 (2.3) n = 54 5.4 (2.2) n = 55 5.4 (2.2) n = 56 6.1 (2.2) n = 65 5.7 (2.1) n = 57
+Clinician Global Impression–Severity, mean (SD) 4.2 (0.9) n = 50 4.4 (0.9) n = 60 4.3 (1.0) n = 55 4.3 (0.9) n = 54 4.4 (0.8) n = 56 4.7 (0.8) n = 62 4.6 (1.0) n = 57
+SF-MPQ–sum of 11 sensory pain scores, mean (SD) 18.0 (5.7) n = 51 17.3 (6.5) n = 60 18.1 (6.8) n = 54 18.5 (6.6) n = 55 18.3 (6.2) n = 56 19.7 (7.1) n = 65 17.8 (6.2) n = 57
+SF-36, mean (SD)
+Physical component summary 33.2 (6.9) n = 51 34.0 (8.6) n = 60 35.5 (7.7) n = 54 35.2 (7.4) n = 55 34.3 (8.4) n = 56 33.6 (8.2) n = 65 33.8 (8.4) n = 57
+Mental component summary 42.3 (11.5) n = 51 43.9 (12.8) n = 60 43.7 (12.3) n = 54 43.8 (12.4) n = 55 45.1 (10.9) n = 56 43.0 (12.8) n = 65 44.8 (10.7) n = 57
+EQ-5D–weighted index 0.66 (0.16) n = 51 0.63 (0.21) n = 60 0.63 (0.20) n = 54 0.67 (0.20) n = 55 0.67 (0.16) n = 56 0.61 (0.21) n = 65 0.66 (0.18) n = 57
+EQ-5D = EUROQOL - 5D; n/a = not applicable; SF-36 = Short Form 36; SF-MPQ = Short Form McGill Pain Questionnaire.
+M.C. Rowbotham et al. / PAIN
+153 (2012) 862–868 865
+In a repeated-measures analysis of the change of the weekly mean
+24-hour average pain score from baseline to Weeks 1 to 8, ABT-894
+did not demonstrate statistically significant effects at any time
+point, whereas in Study 1, duloxetine showed statistically significant effects at each time point (Fig. 2).
+3.3. Safety
+The total number of subjects who reported at least 1 treatmentemergent AE and a summary of the most commonly occurring
+(P5%) AEs in the total ABT-894–treated subjects are shown in Table 3. Within each study, there were no statistically significant differences between treatment groups in the proportion of subjects
+who reported at least 1 treatment-emergent AE. Most AEs were
+mild to moderate in severity, and there was no evidence that the
+overall incidence rates of AEs were dose dependent in the ABT894 treatment groups.
+In Study 1, 1 subject (2.0%) in the placebo group, 1 subject
+(1.8%) in the duloxetine group, and 4 subjects (2.3%) in the
+ABT-894 groups reported serious adverse events (SAEs). The
+SAEs in the ABT-894 groups were coronary artery stenosis, cellulitis, diverticulitis, pneumonia, third-degree burns, benign lung
+Table 2
+Efficacy outcomes (intent-to-treat dataset).
+Change from baseline, least squares mean (SE)*
+Study 1 Study 2
+Placebo ABT-894 Duloxetine Placebo ABT-894 6 mg
+twice daily 1 mg twice daily 2 mg twice daily 4 mg twice daily
+Weekly mean 24-hour average pain
+score
+2.1 (0.3)
+n = 50
+2.0 (0.2)
+n = 60
+1.6 (0.3)
+n = 56
+2.1 (0.3)
+n = 54
+2.8 (0.3)
+n = 54
+1.7 (0.3)
+n = 64
+1.8 (0.3)
+n = 58
+Brief Pain Inventory–Short Form
+Average pain 1.9 (0.3)
+n = 50
+2.0 (0.3)
+n = 60
+1.5 (0.3)
+n = 53
+2.3 (0.3)
+n = 53
+2.3 (0.3)
+n = 56
+1.5 (0.3)
+n = 62
+1.8 (0.3)
+n = 57
+Current pain 2.1 (0.3)
+n = 50
+2.1 (0.3)
+n = 60
+1.8 (0.3)
+n = 53
+2.6 (0.3)
+n = 53
+2.6 (0.3)
+n = 55
+1.8 (0.3)
+n = 62
+1.9 (0.3)
+n = 56
+24-hour worst pain 1.9 (0.3)
+n = 50
+2.0 (0.3)
+n = 60
+1.9 (0.3)
+n = 53
+2.5 (0.3)
+n = 53
+2.7 (0.3)
+n = 56
+1.4 (0.3)
+n = 62
+1.9 (0.4)
+n = 57
+24-hour least pain 1.7 (0.3)
+n = 50
+2.0 (0.3)
+n = 60
+1.6 (0.3)
+n = 53
+2.1 (0.3)
+n = 53
+2.1 (0.3)
+n = 56
+1.6 (0.3)
+n = 62
+1.8 (0.3)
+n = 57
+Average of 7 interference scores 1.9 (0.3)
+n = 50
+2.3 (0.3)
+n = 60
+1.7 (0.3)
+n = 53
+2.6 (0.3)
+n = 53
+2.5 (0.3)
+n = 55
+2.0 (0.3)
+n = 62
+1.9 (0.3)
+n = 56
+Patient Global Impression of Change 3.0 (0.2)
+n = 50
+2.9 (0.1)
+n = 61
+3.0 (0.2)
+n = 55
+3.0 (0.2)
+n = 53
+2.8 (0.2)
+n = 56
+3.1 (1.2)
+n = 62
+3.0 (1.2)
+n = 58
+Clinician Global Impression–Severity 0.8 (0.2)
+n = 50
+0.9 (0.1)
+n = 60
+0.7 (0.1)
+n = 54
+0.8 (0.1)
+n = 52
+1.1 (0.1)
+n = 55
+1.0 (0.1)
+n = 60
+0.9 (0.2)
+n = 57
+SF-MPQ–sum of 11 sensory pain
+scores
+5.2 (0.9)
+n = 49
+5.5 (0.8)
+n = 60
+5.5 (0.9)
+n = 53
+5.7 (0.9)
+n = 53
+6.7 (0.9)
+n = 55
+5.4 (0.8)
+n = 58
+4.5 (0.9)
+n = 53
+SF-36
+Physical component summary 3.8 (0.9)
+n = 49
+4.9 (0.8)
+n = 60
+4.7 (0.8)
+n = 53
+5.0 (0.8)
+n = 53
+6.8 (0.8)
+n = 55
+2.9 (0.9)
+n = 58
+2.7 (1.0)
+n = 53
+Mental component summary 2.8 (1.2)
+n = 49
+4.8 (1.1)
+n = 60
+0.9 (1.2)
+n = 53
+3.2 (1.2)
+n = 53
+2.3 (1.2)
+n = 55
+2.4 (1.1)
+n = 58
+0.4 (1.2)
+n = 53
+EQ-5D–weighted index 0.07 (0.02)
+n = 49
+0.07 (0.02)
+n = 60
+0.07 (0.02)
+n = 53
+0.07 (0.02)
+n = 53
+0.07 (0.02) n = 55 0.06 (0.02)
+n = 58
+0.07 (0.02)
+n = 53
+Patients with 30% improvement,
+n (%)
+26 (52.0%) 26 (43.3%) 24 (42.9%) 25 (46.3%) 37 (68.5%) 29 (45.3%) 21 (36.2%)
+EQ-5D = EUROQOL-5D; n/a = not applicable; SF-36 = Short Form 36; SF-MPQ = Short Form McGill Pain Questionnaire.
+* Least squares mean (SE) from analysis of covariance model for change from baseline to final with factors for treatment, site, and baseline score.  Statistically significant at 1-sided P = .05 level.  Least squares mean (SE) from analysis of variance model with factors for treatment and site.
+-4
+-3
+-2
+-1
+0
+1 Placebo
+Duloxetine 60 mg QD
+ABT-894 1 mg BID
+ABT-894 2 mg BID
+ABT-894 4 mg BID
+0
+A
+*
+*** *** *** *** *** ** **
+Week
+LS Mean Change
+from Baseline (SE)
+-4
+-3
+-2
+-1
+0
+1 Placebo
+ABT-894 6 mg BID
+12345678 0 12345678
+B
+Week
+LS Mean Change
+from Baseline (SE)
+Fig. 2. Mean changes from baseline in 24-Hour average pain score in (A) Study 1 and (B) Study 2 (repeated measures analysis, ITT dataset). ⁄⁄⁄, ⁄⁄, ⁄
+, Statistically significant at
+one-sided P = 0.001, 0.01, 0.05 levels, respectively (repeated measures model for change from baseline included treatment, site, visit, interaction of treatment and visit,
+baseline score, interaction of baseline score and visit).
+866 M.C. Rowbotham et al. / PAIN
+153 (2012) 862–868
+neoplasm, benign neoplasm, and nephrolithiasis. One placebo
+subject had an SAE of infected skin ulcer, and 1 duloxetine
+subject had an SAE of electrolyte imbalance. All of the SAEs were
+considered not related or probably not related to study drug by
+the investigator. One subject in the duloxetine treatment group
+in Study 1 died of pancreatic cancer with metastasis to the liver
+(occurred 53 days after the last dose of study drug and was reported by the investigator as a poststudy SAE not related to
+study drug). In Study 2, 1 subject (1.5%) in the placebo group
+and 4 subjects (6.8%) in the ABT-894 group had treatment-emergent SAEs during the study. SAEs in the ABT-894 group were
+hypoglycemic coma, cystitis, pyelonephritis, sepsis, nerve compression, and pulmonary embolism. One placebo-treated subject
+had an SAE of diverticulosis. All of the SAEs were considered not
+related to study drug by the investigator. No deaths occurred
+during Study 2.
+AEs were the primary reason for premature discontinuation in
+Study 1 of 6 ABT-894 subjects (3.5%), 3 placebo subjects (5.9%),
+and 11 duloxetine subjects (19.3%); in Study 2, of 4 ABT-894 subjects (6.8%) and 4 placebo subjects (6.2%). There were no clinically
+significant changes in ECG parameters, vital signs, or laboratory
+parameters in either study.
+4. Discussion
+In these 2 double-blind, placebo-controlled studies, a range of
+ABT-894 doses (1 mg, 2 mg, 4 mg, and 6 mg twice daily) failed to
+demonstrate analgesic efficacy in DPNP as assessed by change from
+baseline to final observation in the weekly mean 24-hour average
+pain score. Similarly, ABT-894 did not demonstrate efficacy on secondary end points. Duloxetine, included as an active comparator
+for assay sensitivity in Study 1, did demonstrate statistically significant efficacy on the primary end point and 2 secondary end points.
+The results of the current studies are not consistent with those
+seen in an earlier study of ABT-594, a less selective a4b2 NNR agonist, in which ABT-594 significantly reduced average 24-hour pain
+ratings compared with placebo in patients with DPNP at all doses
+tested [15]. Because of the side effect profile of ABT-594, no therapeutic index could be identified. We expected that a more selective
+NNR agonist with better specificity for the a4b2 subtype would
+provide similar analgesic effects without limiting safety issues.
+The reasons for the failure of ABT-894 to show clinical efficacy in
+the current DPNP trials are not clear. Few published trials have included an active comparator such as duloxetine. In study 1, the active comparator duloxetine did show statistically significant
+analgesic efficacy, indicating that Study 1 was effectively conducted and not a failed trial. In addition, the studies were large enough to have more than sufficient power to detect efficacy (a total
+of 231 patients received ABT-894), and the observed placebo response rates were within the expected range. It is possible that
+ABT-594, which is a less selective a4b2 NNR agonist than ABT894, elicits some of its effects via activity at non-a4b2 NNRs. If this
+is the case, the preferential affinity of ABT-894 for a4b2 NNRs may
+have been a disadvantage that resulted in a lack of analgesic efficacy. Multiple mechanisms of action may be advantageous in
+achieving a clinical response, and has been postulated as a potential explanation for the efficacy seen with tricyclic antidepressants
+[18].
+The exposure levels achieved in both studies were as predicted,
+but it is possible that subjects may have required higher exposures
+of ABT-894 than predicted from preclinical studies to demonstrate
+analgesic efficacy. Although safety and tolerability data from
+healthy volunteer studies indicated that higher doses of ABT-894
+may not have been suitable for outpatient studies, the lack of
+dose-limiting AEs or safety outcomes in the current studies suggest
+that the dose range predicted by healthy volunteer studies may
+have been too restrictive for a placebo-controlled, randomized trial
+in DPNP patients. However, even if ABT-894 doses higher than
+6 mg twice daily were tested in a future study and produced analgesic effects, it is possible that the therapeutic index for this compound might still be no better than that for ABT-594 [15]. Taken
+together, the results of the ABT-594 and ABT-894 studies conducted to date indicate that it may not be feasible to define a therapeutic index for a4b2 NNRs in the treatment of neuropathic pain.
+Overall, ABT-894 up to 6 mg twice daily was well tolerated and
+exhibited an AE profile consistent with side effects associated with
+NNR activation, e.g., gastrointestinal and nervous system effects.
+The most common AEs in the ABT-894 treatment groups (i.e.,
+P5% total ABT-894 subjects) were headache, nausea, dizziness,
+and fatigue. The increased heart rate of 2 to 3 beats/min observed
+in a phase 1 study at a 6 mg twice daily dose of ABT-894 was not
+observed in either of the current phase 2 studies. Premature discontinuation rates due to AEs were relatively low at all doses of
+ABT-894. In contrast, the active comparator duloxetine showed
+analgesic efficacy in Study 1 but had an AE discontinuation rate
+exceeding 19%, much higher than for ABT-894 and placebo,
+although consistent with previously reported studies of duloxetine
+[7,19,22].
+Currently available medications specifically approved for DPNP,
+such as pregabalin and duloxetine, are not effective in all patients
+and have clinically significant side effect profiles. Despite multiple
+efforts, no new therapies for DPNP have been approved. Trials of
+tanezumab, a monoclonal antibody against nerve growth factor,
+were recently halted for diabetic peripheral neuropathy, as well
+as for chronic lower back pain and osteoarthritis, due to concerns
+over patient safety [12]. Another compound, V3381 (indantadol),
+an N-methyl-D-aspartate receptor (NMDAR) antagonist and nonselective monoamine oxidase inhibitor, recently failed to show significant benefit to patients in a phase 2b DPNP study [9].
+Lacosamide, a partially subtype-selective sodium channel blocking
+anticonvulsant approved for the control of partial-onset seizures,
+has shown mixed results in diabetic neuropathy, demonstrating
+Table 3
+Treatment-emergent adverse events (AE) in 5% of subjects or more in any ABT-894 group.
+Number of subjects (%)
+Study 1, n = 280 Study 2, n = 124
+Placebo
+(n = 51)
+ABT-894 Duloxetine
+(n = 57)
+Placebo
+(n = 65)
+ABT-894
+6 mg twice daily
+(n = 59) 1 mg twice daily
+(n = 61)
+2 mg twice daily
+(n = 56)
+4 mg twice daily
+(n = 55)
+Total
+(n = 172)
+Any AE 32 (62.7) 41 (67.2) 35 (62.5) 32 (58.2) 108 (62.8) 42 (73.7) 32 (49.2) 23 (39.0)
+Headache 3 (5.9) 8 (13.1) 10 (17.9) 5 (9.1) 23 (13.4) 3 (5.3) 5 (7.7) 4 (6.8)
+Nausea 2 (3.9) 5 (8.2) 3 (5.4) 4 (7.3) 12 (7.0) 9 (15.8) 5 (7.7) 0
+Dizziness 0 4 (6.6) 5 (8.9) 2 (3.6) 11 (6.4) 4 (7.0) 4 (6.2) 1 (1.7)
+Fatigue 2 (3.9) 4 (6.6) 3 (5.4) 3 (5.5) 10 (5.8) 7 (12.3) 2 (3.1) 4 (6.8)
+M.C. Rowbotham et al. / PAIN
+153 (2012) 862–868 867
+numerical improvements over placebo but not consistently meeting predefined efficacy end points [16,23,24]. Together, these
+results, as well as those reported here with ABT-894, demonstrate
+the continued need for new therapies and the challenges in developing new medications for the treatment of DPNP.
+Conflict of interest statement
+These studies were sponsored by Abbott Laboratories. Dr. Rowbotham has served as a consultant to Abbott, Adynxx, Afferent
+Pharmaceuticals, Allergan, Arcion, Bristol Meyers Squibb, Cardiome, Flexion, Kyowa Hakko Kirin, Neurotherapeutics Pharma, Nuvo
+Research, Xenon, Xenoport, and Zalicus. Dr. Stacey has received
+grant support from NeurogesX and Pfizer, and has served as a consultant to AstraZeneca, Boehringer Ingelheim, Endo Pharmaceuticals, NeurogesX, and Pfizer. Dr. Arslanian has no conflicts of
+interest to declare. Dr. Zhou is an employee of Abbott. Drs. Nothaft,
+Duan, Best, and Pritchett are employees of Abbott and hold Abbott
+stock and stock options.
+Acknowledgments
+Shu Han, PhD, a former employee of Abbott, contributed to the
+statistical analysis plan. Sandra E. Sinisi, PhD, a former employee
+of Abbott, contributed to data analysis. Regula E. Egli, PhD,
+and Nathan R. Rustay, PhD, both employees of Abbott, provided
+medical writing support in the development of this article.
+The authors acknowledge the contributions of the study investigators. The following investigators contributed to study 1: Gregory D. Ales, DO; Melchor Alpizar Salazar, MD, FACE; Roberto
+Aguirre, CCRP, FMD; Jeffrey E. Atkinson, MD; Klaus Badenhoop,
+MD, PhD; Ramsin Benyamin, MD; Patrick Blakeslee, DO; Cesar Calvo Vargas, MD; Dr. Guillaume Charpentier; Dr. Gildred Colon´ -Vega;
+Prof. Giancarlo Comi, MD; Michael Derwahl, MD; Edwin Dunteman, MD, MS; Prof. Dr. Thomas Forst; Martin Füchtenbusch,
+PhD; Pedro Alberto García-Hernández, MD; James E. Greenwald,
+MD, PhD; Thomas Haak, MD; Gordon Irving, MD; Prof. Harald
+Klein; Elias M. Kolettis, DO, MS; Marc Levy, MD; Michael Liebowitz,
+MD; Lon D. Lynn, DO; Stephan Maxeiner, MD; Martin D. Mollen,
+MD; Michael Morcos, PD Dr.; Serena A. Mulhern, MD; Alan J. Reichman, MD; Marc Rendell, MD; Jean-Louis Richard, MD; David J.
+Sandercock, DO; Sherwyn L. Schwartz, MD; Steve Sitar, MD; Vincenza Spallone, MD, PhD; Sidney A. Spector, MD, PhD; Michael
+M. Tuchman, MD, FAAN; Vincent C. Woo, MD; FRCPC. The following investigators contributed to study 2: Timothy R. Smith, MD,
+RPh (coordinating investigator); Tomáš Brychta, MD, MSc, PhD;
+Dr. Guillaume Charpentier; Gregory V. Collins, MD; Clinton N. Corder, PhD, MD; Michael Derwahl, MD; Prof. Dr. Thomas Forst; Martin Füchtenbusch, PhD; Rafael Gálvez, PhD; José Miguel GonzálezClemente, MD, PhD; Thomas Haak, MD; Kenneth S. Hershon, MD,
+FACE, FACP; Pavol Hlúbik, MD; Robert Lipetz, DO; Lon D. Lynn,
+DO; Sam S. Miller, MD, FACE; Dr. Parth Narendran; Sherwyn L. Schwartz, MD; Luciano Scionti, MD; Richard L. Weinstein, MD; Emil
+Záhumensky´ , MD; Dan Ziegler, MD, PhD, FRCPE.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at doi:10.1016/j.pain.2012.01.009.
+References
+[1] Armstrong DG, Chappell AS, Le TK, Kajdasz DK, Backonja M, D’Souza DN,
+Russell JM. Duloxetine for the management of diabetic peripheral neuropathic
+pain: evaluation of functional outcomes. Pain Med 2007;8:410–8.
+[2] Decker MW, Rueter LE, Bitner RS. Nicotinic acetylcholine receptor agonists: a
+potential new class of analgesics. Curr Top Med Chem 2004;4:369–84.
+[3] Donnelly-Roberts DL, Puttfarcken PS, Kuntzweiler TA, Briggs CA, Anderson DJ,
+Campbell JE, Piattoni-Kaplan M, McKenna DG, Wasicak JT, Holladay MW,
+Williams M, Arneric SP. ABT-594 [(R)-5-(2-azetidinylmethoxy)-2-
+chloropyridine]: a novel, orally effective analgesic acting via neuronal
+nicotinic acetylcholine receptors. I. In vitro characterization. J Pharmacol Exp
+Ther 1998;285:777–86.
+[4] Dworkin RH, O’Connor AB, Backonja M, Farrar JT, Finnerup NB, Jensen TS, Kalso
+EA, Loeser JD, Miaskowski C, Nurmikko TJ, Portenoy RK, Rice AS, Stacey BR,
+Treede RD, Turk DC, Wallace MS. Pharmacologic management of neuropathic
+pain: evidence-based recommendations. Pain 2007;132:237–51.
+[5] Dworkin RH, Turk DC, Revicki DA, Harding G, Coyne KS, Peirce-Sandner S,
+Bhagwat D, Everton D, Burke LB, Cowan P, Farrar JT, Hertz S, Max MB,
+Rappaport BA, Melzack R. Development and initial validation of an expanded
+and revised version of the Short-Form McGill Pain Questionnaire (SF-MPQ-2).
+Pain 2009;144:35–42.
+[6] Finnerup NB, Sindrup SH, Jensen TS. The evidence for pharmacological
+treatment of neuropathic pain. Pain 2010;150:573–81.
+[7] Goldstein DJ, Lu Y, Detke MJ, Lee TC, Iyengar S. Duloxetine vs. placebo in
+patients with painful diabetic neuropathy. Pain 2005;116:109–18.
+[8] Hoffman DL, Sadosky A, Dukes EM, Alvir J. How do changes in pain severity
+levels correspond to changes in health status and function in patients with
+painful diabetic peripheral neuropathy? Pain 2010;149:194–201.
+[9] IN-STEP Phase IIb study results—V3381 misses primary endpoint in
+neuropathic pain. Vernalis press release, March 24, 2010. <http://
+www.vernalis.com/media-centre/latest-releases/567-in-step-phase-iib-studyresults-> (accessed 19.8.2011).
+[10] Ji J, Schrimpf MR, Sippy KB, Bunnelle WH, Li T, Anderson DJ, Faltynek C, Surowy
+CS, Dyhring T, Ahring PK, Meyer MD. Synthesis and structure-activity
+relationship studies of 3,6-diazabicyclo[3.2.0]heptanes as novel a4b2 nicotinic
+acetylcholine receptor selective agonists. J Med Chem 2007;50:5493–508.
+[11] O’Connor AB, Dworkin RH. Treatment of neuropathic pain: an overview of
+recent guidelines. Am J Med 2009;122:S22–32.
+[12] Pfizer suspends chronic pain studies in tanezumab clinical trial program; some
+studies continue in areas of unmet medical need. Pfizer press release, July 19,
+2010. <http://pfizer.mediaroom.com/index.php?s=5149&item=11206>
+(accessed 19.8.2011).
+[13] Poncelet AN. Diabetic polyneuropathy. Risk factors, patterns of presentation,
+diagnosis, and treatment. Geriatrics 2003;58:16–8. 24–5, 30.
+[14] Raskin J, Wang F, Pritchett YL, Goldstein DJ. Duloxetine for patients with
+diabetic peripheral neuropathic pain: a 6-month open-label safety study. Pain
+Med 2006;7:373–85.
+[15] Rowbotham MC, Duan WR, Thomas J, Nothaft W, Backonja MM. A randomized,
+double-blind, placebo-controlled trial evaluating the efficacy and safety of
+ABT-594 in patients with diabetic peripheral neuropathic pain. Pain
+2009;146:245–52.
+[16] Shaibani A, Fares S, Selam J-L, Arslanian A, Simpson J, Sen D, Bongardt S.
+Lacosamide in painful diabetic neuropathy: an 18-week double-blind placebocontrolled trial. J Pain 2009;10:818–28.
+[17] Shaibani A, Fares S, Selam JL, Arslanian A, Simpson J, Sen D, Bongardt S.
+Lacosamide in painful diabetic neuropathy: an 18-week double-blind placebocontrolled trial. J Pain 2009;10:818–28.
+[18] Sindrup SH, Otto M, Finnerup NB, Jensen TS. Antidepressants in the treatment
+of neuropathic pain. Basic Clin Pharmacol Toxicol 2005;96:399–409.
+[19] Skljarevski V, Desaiah D, Liu-Seifert H, Zhang Q, Chappell AS, Detke MJ, Iyengar
+S, Atkinson JH, Backonja M. Efficacy and safety of duloxetine in patients with
+chronic low back pain. Spine 2010;35:E578–85.
+[20] Wang N, Orr-Urtreger A, Korczyn AD. The role of neuronal nicotinic
+acetylcholine receptor subunits in autonomic ganglia: lessons from knockout
+mice. Prog Neurobiol 2002;68:341–60.
+[21] Ware Jr JE, Snow KK, Kosinski M, Gandek B. SF-36 health survey: manual and
+interpretation guide. Boston, MA: The Health Institute, New England Medical
+Center; 1993.
+[22] Wernicke JF, Pritchett YL, D’Souza DN, Waninger A, Tran P, Iyengar S, Raskin J.
+A randomized controlled trial of duloxetine in diabetic peripheral neuropathic
+pain. Neurology 2006;67:1411–20.
+[23] Wymer JP, Simpson J, Sen D, Bongardt S. Efficacy and safety of lacosamide in
+diabetic neuropathic pain: an 18-week double-blind placebo-controlled trial
+of fixed-dose regimens. Clin J Pain 2009;25:376–85.
+[24] Ziegler D, Hidvegi T, Gurieva I, Bongardt S, Freynhagen R, Sen D, Sommerville
+K. Efficacy and safety of lacosamide in painful diabetic neuropathy. Diabetes
+Care 2010;33:839–41.
+868 M.C. Rowbotham et al. / PAIN
+153 (2012) 862–868

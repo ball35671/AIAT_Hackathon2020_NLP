@@ -1,0 +1,713 @@
+Impact of maternal immunization on influenza
+hospitalizations in infants
+Katherine A. Poehling, MD, MPH; Peter G. Szilagyi, MD, MPH; Mary A. Staat, MD, MPH; Beverly M. Snively, PhD;
+Daniel C. Payne, PhD, MSPH; Carolyn B. Bridges, MD; Susan Y. Chu, PhD, MSPH; Laney S. Light, MS; Mila M. Prill, MSPH;
+Lyn Finelli, DrPH; Marie R. Griffin, MD, MPH; Kathryn M. Edwards, MD; for the New Vaccine Surveillance Network
+I
+n the United States, influenza vaccination is universally recommended
+for all children 6 months-18 years of age
+due to the large burden of influenza hospitalizations and outpatient visits in this
+age group.1 Infants 6 months of age
+have the highest rates of pediatric influenza hospitalizations,2-6 but none of the
+influenza vaccines are licensed for this
+age group.7-9 Hence, influenza vaccine is
+recommended for all close contacts of
+infants to reduce the likelihood of transmission.10 It is also recommended for
+pregnant women since they have an increased risk of influenza-related complications and hospitalizations, with the
+highest risk during the third trimester.11-16 National data indicate that the
+proportion of pregnant women who received influenza vaccine has increased
+from a low of 9% in 2002 through 2003 to
+a high of 51%in 2009 through 2010 during
+the H1N1 influenza pandemic.1,17,18
+Influenza vaccination during pregnancy is primarily recommended to protect pregnant women themselves. However, a recent randomized controlled
+trial from Bangladesh and an observational study among Native American
+populations reported benefits of influenza vaccine both for mothers and their
+young infants.19,20 Influenza antibodies
+are efficiently transferred across the plaWe sought to determine whether maternal vaccination during pregnancy was associated
+with a reduced risk of laboratory-confirmed influenza hospitalizations in infants 6
+months old. Active population-based, laboratory-confirmed influenza surveillance was
+conducted in children hospitalized with fever and/or respiratory symptoms in 3 US counties
+from November through April during the 2002 through 2009 influenza seasons. The
+exposure, influenza vaccination during pregnancy, and the outcome, positive/negative
+influenza testing among their hospitalized infants, were compared using logistic regression
+analyses. Among 1510 hospitalized infants 6 months old, 151 (10%) had laboratoryconfirmed influenza and 294 (19%) mothers reported receiving influenza vaccine during
+pregnancy. Eighteen (12%) mothers of influenza-positive infants and 276 (20%) mothers
+of influenza-negative infants were vaccinated (unadjusted odds ratio, 0.53; 95% confidence interval, 0.32– 0.88 and adjusted odds ratio, 0.52; 95% confidence interval, 0.30 –
+0.91). Infants of vaccinated mothers were 45-48% less likely to have influenza hospitalizations than infants of unvaccinated mothers. Our results support the current influenza
+vaccination recommendation for pregnant women.
+Key words: infants, influenza hospitalization, influenza vaccine, maternal vaccination,
+vaccine effectiveness
+From the Departments of Pediatrics (Dr Poehling), Epidemiology and Prevention (Dr Poehling), and Biostatistical Sciences (Dr Snively and
+Ms Light), Wake Forest University School of Medicine, Winston-Salem, NC; Department of Pediatrics, University of Rochester School of
+Medicine and Dentistry, Rochester, NY (Dr Szilagyi); Department of Pediatrics, Cincinnati Children’s Hospital Medical Center, Cincinnati,
+OH (Dr Staat); National Center for Immunization and Respiratory Diseases (Drs Payne, Bridges, and Finelli, and Ms Prill) and Division of
+Reproductive Health, National Center for Chronic Disease Prevention and Health Promotion (Dr Chu), Centers for Disease Control and
+Prevention, Atlanta, GA; and Departments of Internal Medicine (Dr Griffin), Preventive Medicine (Dr Griffin), and Pediatrics (Dr Edwards),
+Vanderbilt University Medical Center, Nashville, TN.
+Presented, in part, at the 2005 Pediatric Academic Societies Meeting in Washington, DC, May 16, 2005.
+Received Dec. 16, 2010; revised Feb. 4, 2011; accepted Feb. 14, 2011.
+Reprints not available from the authors.
+Conflict of Interest: This project was supported by Cooperative Agreement nos. U01/IP000017, U01/IP000022, and U01/IP000147 from the Centers
+for Disease Control and Prevention. Dr Poehling received support from National Institute of Allergy and Infectious Diseases (K23 AI065805) and
+Wachovia Research Fund. Dr Staat had funding from Medimmune for respiratory syncytial virus studies; Dr Griffin received grant funding from
+Medimmune; Dr Edwards received grant funding from Wyeth, Novartis, Sanofi-Pasteur, and CSL with only the CSL funding being related to influenza
+studies. Dr Staat was on the Medimmune Advisory Board, and Dr Edwards was a consultant to NexBio. Drs Szilagyi, Snively, Payne, Bridges, Chu,
+Finelli, and Ms Light and Ms Prill have no conflicts to report.
+Contents are solely the responsibility of the authors and do not necessarily represent the official views of the Centers for Disease Control and
+Prevention.
+Publication of this article was supported by the Centers for Disease Control and Prevention and the Association of Maternal and Child Health
+Programs.
+0002-9378/$36.00 • © 2011 Mosby, Inc. All rights reserved. • doi: 10.1016/j.ajog.2011.02.042
+www.AJOG.org
+Supplement to JUNE 2011 American Journal of Obstetrics & Gynecology S141
+centa and have been observed to provide
+indirect protection to infants for the first
+2-3 months of life, when infants are too
+young to receive influenza vaccine.20,21
+We sought to determine whether maternal vaccination during pregnancy was
+associated with a reduced risk of laboratory-confirmed influenza hospitalizations in infants 6 months of age living
+in 3 geographically diverse US counties
+over 7 consecutive influenza seasons. We
+focused on influenza hospitalizations
+because they are associated with the
+highest costs and because most childhood deaths occur among hospitalized
+patients.22,23
+Materials and methods
+The New Vaccine Surveillance Network,
+funded by the Centers for Disease Control and Prevention, conducted active,
+population-based, laboratory-confirmed
+influenza surveillance among children
+hospitalized with influenza in 3 US
+counties: Davidson County, Tennessee
+(Nashville); Hamilton County, Ohio
+(Cincinnati); and Monroe County, New
+York (Rochester).2 Children were eligible for enrollment if they were hospitalized with fever and/or acute respiratory
+symptoms during the winter from November through April and resided
+within these 3 counties. Seven consecutive influenza seasons were included:
+2002-2003 through 2008-2009 in Nashville, TN, and Rochester, NY, and 2003-
+2004 through 2008-2009 in Cincinnati,
+OH. In 2008 through 2009, the seasonal
+influenza season ended in April 2009,
+which was prior to the detection of
+H1N1 in this network.
+All enrolled children had nasal and
+throat swabs obtained for viral culture
+and/or reverse transcription polymerase
+chain reaction for influenza A or B as
+previously described.24 Parents of enrolled children had a standardized questionnaire administered to ascertain presenting symptoms and their duration,
+birth and medical history, history of maternal influenza vaccination during
+pregnancy with the enrolled child, and
+social history. The medical record was
+reviewed after discharge.
+The study population comprised inpatients 6 months of age enrolled
+through hospital surveillance with fever
+and/or acute respiratory symptoms during 1 of the 7 consecutive influenza seasons. Most infants were enrolled as inpatients although some were enrolled as
+outpatients and subsequently hospitalized. For infants with multiple hospitalizations during an influenza season, only
+the first hospitalization during the study
+period was included. Each influenza season was defined as the period spanning
+the first to last influenza-positive nasal/
+throat swab among all study infants.
+Since the opportunity for the mother to
+receive the influenza vaccine varied by
+birth month, we divided each influenza
+season into early, middle, and late season
+tertiles, based on the day of enrollment
+of influenza-positive infants. A control
+group of hospitalized infants without
+laboratory-confirmed influenza were assigned to early, middle, and late tertiles
+by comparing their dates of enrollment
+with the influenza-positive cases.
+The primary exposure variable was
+maternal influenza vaccination status
+during pregnancy, and the primary outcome variable was the presence or absence of laboratory-confirmed influenza
+among their hospitalized infants. Categorical variables that can influence hospitalizations in general and thus could
+potentially influence influenza-related
+hospitalizations in infants were compared by 2 analysis. For adjusted analyses, we created 3 multivariate logistic
+regression model analyses a priori based
+on demographic, medical, and social risk
+factors previously shown to be associated
+with increased risk of influenza or respiratory hospitalizations.2,3,5,25-29 The
+core demographic model included the
+following covariates: age, sex, race/ethnicity, site, study year, and tertile of the
+influenza season. The second model
+evaluated the core demographic model
+and 2 medical covariates: prematurity
+and presence of any high-risk medical
+conditions in the infant for which influenza vaccine was recommended in persons 6 months of age.16 The third
+model included the core demographic
+model and 5 additional variables: smoke
+exposure at home, number of siblings (0 to
+3), day care attendance, insurance status
+(public/private/none), andwhether theinfant was ever breast-fed. All model covariates were treated as categorical variables.
+Confidence intervals (CI) were calculated
+at the 95% level; P values  .05 were considered statistically significant. All analyses
+were computed using STATA software
+10.0 (StataCorp, College Station, TX).
+From 2005-2006 through 2008-2009,
+we asked mothers of young infants if
+they had an influenza-like illness during
+pregnancy because an influenza illness
+during pregnancy could lead to the development of protective antibodies for
+that influenza serotype in the infant.
+Hence, we performed a subanalysis of
+the unadjusted and the 3 adjusted models described above to determine the
+protective effect of either maternal vaccination for all years or influenza-like illness during pregnancy from the last 4
+years of the study period.
+Human and nonhuman
+experimentation
+The study was approved with informed
+consent from the parent or guardian by
+the institutional review boards at each
+site and the Centers for Disease Control
+and Prevention.
+Results
+Over 7 influenza seasons, 2122 hospitalized infants were eligible for enrollment
+in the 3 New Vaccine Surveillance Network sites and 1423 (67%) of the eligible
+infants were included from the inpatient
+setting (Figure 1). Reasons for exclusion
+were 307 (44%) protocol deviations at
+Cincinnati, OH, 132 (19%) parental refusal, 130 (19%) parents missed or not
+available, 89 (13%) lack of language
+translator, 38 (5%) discharged prior to
+being approached, and 3 (1%) physician refusal. Of these 1423 hospitalized
+and enrolled infants, 57 (4%) had unknown or missing maternal influenza
+vaccination status, 3 (0.2%) had indeterminate influenza status (ie, negative
+RNA control), 3 (0.2%) had unknown
+race/ethnicity, and 23 (2%) represented
+a second study hospitalization during
+the influenza season and were excluded
+from analysis. The overall study population comprised these 1337 eligible infants enrolled solely from the inpatient
+setting and an additional 173 eligible inSupplement www.AJOG.org
+S142 American Journal of Obstetrics & Gynecology Supplement to JUNE 2011
+fants who were hospitalized following
+enrollment in the emergency department and fulfilled all inpatient enrollment criteria. Among these 1510 infants
+hospitalized with fever and/or respiratory symptoms during the influenza season (Table 1), 151 (10%) had laboratoryconfirmed influenza–with 136 (90%)
+influenza A and 15 (10%) influenza B.
+Among all hospitalized infants, a higher
+proportion of infants 2 months than
+those 2 to 6 months of age were influenza positive. The proportion of infants
+who were influenza positive varied significantly across study years, ranging
+from 3% in 2006 through 2007 to 15% in
+2003 through 2004.
+A total of 294 (19%) mothers reported
+that they had received the influenza vaccine during that pregnancy (Table 2).
+This proportion varied by influenza season, ranging from 10% in 2003 through
+2004 to 38% in 2008 through 2009, and
+by age of the infant at the time of enrollment during the influenza season, ranging from 24% for neonates 1 month of
+age to 9% for infants 4-5 months of age.
+The proportion of infants whose mothers were vaccinated varied from only
+13-15% at the Cincinnati, OH, and
+Nashville, TN, sites up to 33% at the
+Rochester, NY, site. The proportion of
+infants whose mothers were vaccinated
+was 15% for blacks, 21% for whites, and
+22% for Hispanics. Infants with private
+insurance were more likely to have a vaccinated mother than those with public or
+no insurance. Breast-fed infants were
+more likely to have mothers who reported being vaccinated than infants of
+mothers who never breast-fed. Nonsmoking households had a higher proportion of infants whose mothers were
+vaccinated than households with a
+smoker.
+Among influenza-positive infants during all study years, 12% of their mothers
+reported influenza vaccination during
+pregnancy, while among influenza-negative infants, 20% of their mothers reported
+influenza vaccination, yielding an unadjusted odds ratio (OR) of 0.53 (95% confidence interval [CI], 0.32–0.88). Similar results were obtained in the 3 multivariate
+models shown in Figure 2. Since a significant proportion of data from Cincinnati,
+OH, was excluded for protocol violations,
+a sensitivity analysis that included only
+Rochester, NY, and Nashville, TN, data
+was performed and yielded similar results
+to the combined data. In the core demographic model, adjusting for age, sex, race/
+ethnicity, site, study year, and early, middle, or late influenza season, the OR for
+having an influenza-positive, hospitalized
+infant among vaccinated mothers was 0.55
+(95%CI,0.32–0.95).Model2included the
+core demographic model plus prematurity
+and high-risk conditions and had an OR of
+0.55 (95% CI, 0.32–0.94). These medical
+covariates did not impact the estimate and
+were not included in the third model.
+Model 3 included the core demographic
+model, exposure to smoke, siblings, day
+care, insurance, and presence of breastfeeding and had an OR of 0.52 (95% CI,
+0.30 –0.91). As shown, adjustmentsfor covariates did not affect the results substantially. Overall, results of the multivariate
+modeling suggest that maternal vaccination reduced the risk of influenza by
+45-48%.
+A total of 110 mothers from 2005-2006
+through 2008-2009 reported a history of
+influenza-like illness during pregnancy, of
+which 81 (74%) had not received theinfluenza vaccine during that pregnancy. In a
+subanalysis combining both maternal influenza vaccinationfor all7 years and a history of an influenza-like illness during
+pregnancy for 4 years, we found that the
+unadjusted and adjusted estimates were
+similar with a 45-49% reduced risk of influenza in the infant.
+Comment
+Our results indicate that hospitalized infants whose mothers received influenza
+vaccine during pregnancy were 45-48%
+less likely to have laboratory-confirmed
+influenza during their first influenza
+season compared with infants of unvaccinated mothers. Adding history of influenza-like illness during pregnancy to
+the analyses had little impact on the OR
+for having an influenza-positive, hospitalized infant. Given that infants 6
+months of age have the highest hospitalization rate among all children2-6 and
+that the vaccine is not licensed for that
+age group,16 these data support that infants born to vaccinated mothers benefit
+from the transfer of maternally derived
+antibodies.
+Four previously published studies
+support our conclusions. First, a prospective, observational study among Native Americans from 2002 through 2005
+found that infants of vaccinated mothers
+had a 41% reduction of the risk of laboratory-confirmed influenza infection in
+the inpatient and outpatient settings as
+FIGURE 1
+Study population
+Poehling. Maternal influenza immunization and their infants. Am J Obstet Gynecol 2011.
+www.AJOG.org Supplement
+Supplement to JUNE 2011 American Journal of Obstetrics & Gynecology S143
+determined by viral culture or antibody
+titers (relative risk, 0.59; 95% CI, 0.37–
+0.93).20 A second study, a randomized
+controlled trial of maternal influenza
+vaccination during pregnancy, was conducted in Bangladesh in 2004 through
+2005. In this tropical country with yearround influenza circulation, investigators reported fewer rapid test– confirmed influenza cases among infants of
+mothers who received influenza vaccine
+compared with infants of unvaccinated
+mothers (6 vs 16 infants, respectively)
+for a vaccine effectiveness estimate of
+63% (95% CI, 5– 85%). Among 110 infants in the influenza vaccine group and
+153 infants in the control group, vaccine
+effectiveness against unspecified respiratory illness with fever was 29% (95% CI,
+7– 46%).19 Third, a matched case-control study compared hospitalized infants
+with physician-ordered direct fluorescent antibody for seasonal influenza
+from 2000 through 2009. Cases with a
+positive influenza test result and controls
+with a negative test result were matched
+by date of birth and date of hospitalization. Maternal vaccinations were included only if they were confirmed and
+given at least 14 days prior to delivery.
+Effectiveness of maternal vaccination
+among infants 6 months of age was reported to be 91.5% (95% CI, 62–98%).30
+Fourth, a Northern California Kaiser
+Permanente database study over 5
+influenza seasons (1997 through 2002),
+found that maternal vaccination was associated with a decreased risk of pneumonia or influenza hospitalization in
+their infants with an adjusted hazard ratio of 0.63 (95% CI, 0.30 –1.29), translating into 37% protection.31 Our 95% CIs
+for protection of maternal vaccination
+from influenza hospitalizations among
+infants 6 months of age overlap those
+from each of these studies.
+Our study differs from the previously
+published studies in several ways. First,
+we included 7 consecutive influenza seasons and used prospective, populationbased and laboratory-confirmed surveillance to identify eligible infants. By
+systematically testing all eligible infants
+using culture and molecular methods to
+define influenza infections, we utilized
+sensitive and specific methods and
+TABLE 1
+Characteristics of infants <6 months of age hospitalized
+with and without laboratory confirmed influenza
+Characteristic
+Total
+(row %)
+Influenza  Influenza
+n  1510 n  151 n  1359 P value
+Maternal influenza vaccine .....................................................................................................................................................................................................................................
+No 1216 133 (11%) 1083 (89%) .01 .....................................................................................................................................................................................................................................
+Yes 294 18 (6%) 276 (94%) ..............................................................................................................................................................................................................................................
+Influenza season .....................................................................................................................................................................................................................................
+Early 572 51 (9%) 521 (91%) .51 .....................................................................................................................................................................................................................................
+Middle 485 50 (10%) 435 (89%) .....................................................................................................................................................................................................................................
+Late 453 50 (11%) 403 (89%) ..............................................................................................................................................................................................................................................
+Age group, mo .....................................................................................................................................................................................................................................
+0 399 49 (12%) 350 (87%)  .001 .....................................................................................................................................................................................................................................
+1 507 66 (13%) 441 (87%) .....................................................................................................................................................................................................................................
+2-3 411 24 (6%) 387 (94%) .....................................................................................................................................................................................................................................
+4-5 193 12 (6%) 181 (94%) ..............................................................................................................................................................................................................................................
+Sex.....................................................................................................................................................................................................................................
+Female 664 68 (10%) 596 (90%) .78 .....................................................................................................................................................................................................................................
+Male 846 83 (10%) 763 (90%) ..............................................................................................................................................................................................................................................
+Study site .....................................................................................................................................................................................................................................
+Nashville, TN 554 60 (11%) 494 (89%) .53 .....................................................................................................................................................................................................................................
+Rochester, NY 425 44 (10%) 381 (90%) .....................................................................................................................................................................................................................................
+Cincinnati, OH 531 47 (9%) 484 (91%) ..............................................................................................................................................................................................................................................
+Study year .....................................................................................................................................................................................................................................
+2002-2003 99 9 (9%) 90 (91%)  .001 .....................................................................................................................................................................................................................................
+2003-2004 251 38 (15%) 213 (84%) .....................................................................................................................................................................................................................................
+2004-2005 322 40 (12%) 282 (88%) .....................................................................................................................................................................................................................................
+2005-2006 176 16 (9%) 160 (91%) .....................................................................................................................................................................................................................................
+2006-2007 230 8 (3%) 222 (97%) .....................................................................................................................................................................................................................................
+2007-2008 232 29 (13%) 203 (88%) .....................................................................................................................................................................................................................................
+2008-2009 200 11 (6%) 189 (95%) ..............................................................................................................................................................................................................................................
+Race/ethnicity .....................................................................................................................................................................................................................................
+White 706 59 (8%) 647 (92%) .11 .....................................................................................................................................................................................................................................
+Black 439 53 (12%) 386 (88%) .....................................................................................................................................................................................................................................
+Hispanic 365 39 (11%) 326 (89%) ..............................................................................................................................................................................................................................................
+Medical covariates .....................................................................................................................................................................................................................................
+Premature ............................................................................................................................................................................................................................
+Yes 178 13 (7%) 165 (93%) .20 ............................................................................................................................................................................................................................
+No 1325 138 (10%) 1187 (90%) .....................................................................................................................................................................................................................................
+High-risk condition ............................................................................................................................................................................................................................
+Yes 119 7 (6%) 112 (94%) .12 ............................................................................................................................................................................................................................
+No 1391 144 (10%) 1247 (90%) ..............................................................................................................................................................................................................................................
+Poehling. Maternal influenza immunization and their infants. Am J Obstet Gynecol 2011. (continued )
+Supplement www.AJOG.org
+S144 American Journal of Obstetrics & Gynecology Supplement to JUNE 2011
+avoided the biases associated with physician-ordered testing; the study utilizing
+physician-ordered testing to identify eligible infants had a much higher proportion of infants with high-risk conditions
+than our study population. Second, we
+focused on hospitalizations whereas 2
+previous studies included more outpatient visits than hospitalizations. Third,
+we included 3 diverse geographic regions
+of the United States whereas all previous
+studies reported data from 1 geographic
+region.
+Our study has several limitations. Although we enrolled a large proportion of
+eligible infants, a number of them had to
+be excluded because of protocol violations, and infants who were and were not
+included in the study population could
+have systematically differed. Neither
+confirmed influenza vaccination status
+nor documented influenza disease status
+was available from mothers, and serologic assays were not performed on either infants or mothers. Since the study
+focused on hospitalized infants and not
+those seen only in the outpatient clinic or
+emergency departments, the generalizability of these results to outpatient settings is unknown. However, admission
+criteria for infants with fever and respiratory symptoms change over the first
+few weeks of life, so limiting the study
+population to solely inpatients allowed
+us to focus on severe outcomes.
+Our estimates of maternal vaccination
+are consistent with national estimates17
+and lower than estimates from one
+health care system that implemented interventions to increase their maternal
+vaccination rates.32 We have previously
+reported higher influenza vaccine coverage among children 6-59 months of
+age in Rochester, NY, than in Nashville,
+TN, or Cincinnati, OH.33 Because of
+this consistent pattern, these differences
+seem to reflect geographical differences
+in influenza vaccination patterns. We
+found higher rates of maternal vaccination when the infant had private insurance compared with public or no insurance. This differs from the seasonal
+influenza vaccine coverage reported by
+the Rhode Island Pregnancy Risk Assessment Monitoring System, which found
+similar coverage between women with
+FIGURE 2
+Infant protection from maternal vaccination
+Model 3
+Model 2
+Model 1
+Unadjusted
+Odds Ratio
+0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 1.2 1.4 1.6 1.8 2.0
+0.53 (0.32 - 0.88)
+0.55 (0.32 - 0.95)
+0.55 (0.32 - 0.94)
+0.52 (0.30 - 0.91)
+Odds ratio and 95% confidence interval for protection provided by influenza vaccination during pregnancy
+on laboratory-confirmed influenza hospitalizations among infants for unadjusted and adjusted models.
+Poehling. Maternal influenza immunization and their infants. Am J Obstet Gynecol 2011.
+TABLE 1
+Characteristics of infants <6 months of age hospitalized
+with and without laboratory confirmed influenza (continued)
+Characteristic
+Total
+(row %)
+Influenza  Influenza
+n  1510 n  151 n  1359 P value
+Social covariates .....................................................................................................................................................................................................................................
+Exposed to smoke ............................................................................................................................................................................................................................
+Yes 613 62 (10%) 551 (90%) .85 ............................................................................................................................................................................................................................
+No 896 88 (10%) 808 (90%) ..............................................................................................................................................................................................................................................
+No. of siblings ............................................................................................................................................................................................................................
+0 341 33 (10%) 308 (90%) .10 ............................................................................................................................................................................................................................
+1 539 42 (8%) 497 (92%) ............................................................................................................................................................................................................................
+2 341 43 (13%) 298 (87%) ............................................................................................................................................................................................................................
+3 289 33 (11%) 256 (89%) .....................................................................................................................................................................................................................................
+Day care ............................................................................................................................................................................................................................
+Yes 152 7 (5%) 145 (95%) .02 ............................................................................................................................................................................................................................
+No 1356 144 (11%) 1212 (89%) .....................................................................................................................................................................................................................................
+Insurance ............................................................................................................................................................................................................................
+Public 891 94 (11%) 797 (89%) .67 ............................................................................................................................................................................................................................
+Private 507 46 (9%) 461 (91%) ............................................................................................................................................................................................................................
+None 105 10 (10%) 95 (90%) .....................................................................................................................................................................................................................................
+Ever breast-fed ............................................................................................................................................................................................................................
+Yes 916 97 (11%) 819 (89%) .34 ............................................................................................................................................................................................................................
+No 594 54 (9%) 540 (91%) ..............................................................................................................................................................................................................................................
+Percentages may not sum to 100% due to rounding.
+Poehling. Maternal influenza immunization and their infants. Am J Obstet Gynecol 2011.
+www.AJOG.org Supplement
+Supplement to JUNE 2011 American Journal of Obstetrics & Gynecology S145
+public and private insurance. Given that
+obstetrician-gynecologists have consistently identified financial costs as a major
+barrier to influenza vaccination of pregnant women,34-36 it is possible that differences in vaccine coverage between public
+and private insurance vary geographically.
+Maternal vaccination during pregnancy
+is recommended since pregnant women
+have an increased risk of influenza-associated morbidity and mortality.11-15 However, despite this recommendation, pregnant women have traditionally had the
+lowest influenza vaccine coverage of any
+group for whom influenza vaccine is specifically recommended.17 Although most
+(84.5%) obstetricians support influenza
+vaccination of all pregnant women,34 few
+mothers (20%) report being offered influenza vaccination during pregnancy.37 Obstetricians play a critical role in the influenza vaccination coverage of pregnant
+women. For first pregnancies, obstetricians are often the only medical professional seeing the pregnantwomen;for subsequent pregnancies, pregnant women
+may see the pediatrician, however, pediatricians do not tend to vaccinate pregnant
+women since they are not their patients.
+Half of all pregnant women who received
+the monovalent H1N1 vaccine in 2009
+through 2010 reported receiving it in the
+obstetrician-gynecologist office and none
+reported receiving it in a pediatric office.18
+Because numerous studies have demonstrated comparable or increased influenza antibody titers in the cord blood
+when compared with maternal levels,3,38-43 maternal vaccination should
+afford some protection of newborn infants against influenza and is supported
+by our study. Similar to other studies, we
+found between 45% and 48% protection
+against laboratory-confirmed influenza
+hospitalizations among infants whose
+mothers reported receiving influenza vaccine during pregnancy. Using data from
+our earlier studies of 4.5 influenza-attributable hospitalizations among 1000 infants6months of age2
+and census data of
+4,251,095live-birthsin theUnitedStatesin
+2008,44we project that there are an average
+of 19,130 influenza-attributable hospitalizations among infants 6 months of age
+per year. A 45-48% reduction in this burden would yield an estimated 8600-9200
+TABLE 2
+Characteristics of hospitalized infants <6 months
+of age by maternal influenza vaccination status
+Characteristic
+Total
+(row %)
+Vaccinated Not vaccinated
+n  1510 n  294 n  1216 P value
+Influenza-positive .....................................................................................................................................................................................................................................
+No 1359 276 (20%) 1083 (80%) .01 .....................................................................................................................................................................................................................................
+Yes 151 18 (12%) 133 (88%) ..............................................................................................................................................................................................................................................
+Influenza season .....................................................................................................................................................................................................................................
+Early 572 98 (17%) 474 (83%) .06 .....................................................................................................................................................................................................................................
+Middle 485 92 (19%) 393 (81%) .....................................................................................................................................................................................................................................
+Late 453 104 (23%) 349 (77%) ..............................................................................................................................................................................................................................................
+Age group, mo .....................................................................................................................................................................................................................................
+0 399 96 (24%) 303 (76%)  .001 .....................................................................................................................................................................................................................................
+1 507 92 (18%) 415 (82%) .....................................................................................................................................................................................................................................
+2-3 411 88 (21%) 323 (79%) .....................................................................................................................................................................................................................................
+4-5 193 18 (9%) 175 (91%) ..............................................................................................................................................................................................................................................
+Sex.....................................................................................................................................................................................................................................
+Female 664 123 (19%) 541 (81%) .41 .....................................................................................................................................................................................................................................
+Male 846 171 (20%) 675 (80%) ..............................................................................................................................................................................................................................................
+Study site .....................................................................................................................................................................................................................................
+Nashville, TN 554 84 (15%) 470 (85%)  .001 .....................................................................................................................................................................................................................................
+Rochester, NY 425 142 (33%) 283 (67%) .....................................................................................................................................................................................................................................
+Cincinnati, OH 531 68 (13%) 463 (87%) ..............................................................................................................................................................................................................................................
+Study year .....................................................................................................................................................................................................................................
+2002-2003 99 18 (18%) 81 (82%)  .001 .....................................................................................................................................................................................................................................
+2003-2004 251 25 (10%) 226 (90%) .....................................................................................................................................................................................................................................
+2004-2005 322 43 (13%) 279 (87%) .....................................................................................................................................................................................................................................
+2005-2006 176 31 (18%) 145 (82%) .....................................................................................................................................................................................................................................
+2006-2007 230 45 (20%) 185 (80%) .....................................................................................................................................................................................................................................
+2007-2008 232 57 (25%) 175 (75%) .....................................................................................................................................................................................................................................
+2008-2009 200 75 (38%) 125 (63%) ..............................................................................................................................................................................................................................................
+Race/ethnicity .....................................................................................................................................................................................................................................
+White 698 147 (21%) 551 (79%) .005 .....................................................................................................................................................................................................................................
+Black 430 63 (15%) 367 (85%) .....................................................................................................................................................................................................................................
+Hispanic 363 80 (22%) 283 (78%) ..............................................................................................................................................................................................................................................
+Medical covariates .....................................................................................................................................................................................................................................
+Premature ............................................................................................................................................................................................................................
+Yes 178 33 (19%) 145 (81%) .73 ............................................................................................................................................................................................................................
+No 1325 260 (20%) 1065 (80%) .....................................................................................................................................................................................................................................
+High-risk condition ............................................................................................................................................................................................................................
+Yes 119 22 (18%) 97 (82%) .78 ............................................................................................................................................................................................................................
+No 1391 272 (20%) 1119 (80%) ..............................................................................................................................................................................................................................................
+Poehling. Maternal influenza immunization and their infants. Am J Obstet Gynecol 2011. (continued )
+Supplement www.AJOG.org
+S146 American Journal of Obstetrics & Gynecology Supplement to JUNE 2011
+fewer influenza-attributable hospitalizations among young infants each year.
+Thus, our findings suggest that influenza
+vaccination of pregnant women may reduce the risk ofinfluenza-attributable hospitalization among infants in the first 5
+months of life, further supporting the current influenza vaccination recommendations for pregnant women. f
+ACKNOWLEDGMENTS
+We are grateful to all the infants and their families who participated and made this study possible. We also appreciate the efforts of many
+others who provided invaluable support and
+contributions. They include Monica McNeal,
+PhD, David Witte, PhD, Vanessa Florian, Diana
+Henderson, MPH, MSW, Michol Holloway,
+MPH, Linda Jamison, RN, BSN, CIC, at Cincinnati Children’s Hospital Medical Center in Cincinnati, OH; Carol Ann Clay, RN, Erin Keckley,
+RN, Diane Kent, RN, Mariah Daly, RN, Nayleen
+Whitehead, Yuwei Zhu, MD, MS, at Vanderbilt
+University Medical Center in Nashville, TN; and
+Christina Albertin, MPH, Geraldine Lofthus,
+PhD, Kenneth Schnabel, MBA, at University of
+Rochester School of Medicine and Dentistry at
+Rochester, NY; and those who provided support for surveillance activities at the Centers for
+Disease Control and Prevention, including Ranee Seither, MPH, Frances Walker, MSPH,
+Marika Iwane, PhD, and Minnie Wang, MD.
+REFERENCES
+1. Fiore AE, Uyeki TM, Broder K, et al. Prevention and control of influenza with vaccines: recommendations of the Advisory Committee on
+Immunization Practices (ACIP), 2010. MMWR
+Morb Mortal Wkly Rep 2010;59:1-62.
+2. Poehling KA, Edwards KM, Weinberg GA, et
+al. The underrecognized burden of influenza in
+young children. N Engl J Med 2006;355:31-40.
+3. Glezen WP, Taber LH, Frank AL, Gruber WC,
+Piedra PA. Influenza virus infections in infants.
+Pediatr Infect Dis J 1997;16:1065-8.
+4. Neuzil KM, Zhu Y, Griffin MR, et al. Burden of
+interpandemic influenza in children younger
+than 5 years: a 25-year prospective study. J Infect Dis 2002;185:147-52.
+5. Neuzil KM, Mellen BG, Wright PF, Mitchel EF
+Jr, Griffin MR. The effect of influenza on hospitalizations, outpatient visits, and courses of antibiotics in children. N Engl J Med 2000;342:225-31.
+6. Kim HW, Brandt CD, Arrobio JO, Murphy B,
+Chanock RM, Parrott RH. Influenza A and B virus
+infection in infants and young children during the
+years 1957-1976. Am J Epidemiol 1979;109:
+464-79.
+7. Groothuis JR, Levin MJ, Rabalais GP, Meiklejohn G, Lauer BA. Immunization of high-risk infants younger than 18 months of age with splitproduct influenza vaccine. Pediatrics 1991;87:
+823-8.
+8. Gruber WC, Darden PM, Still JG, Lohr J,
+Reed G, Wright PF. Evaluation of bivalent live
+attenuated influenza A vaccines in children 2
+months to 3 years of age: safety, immunogenicity and dose-response. Vaccine 1997;15:
+1379-84.
+9. Karron RA, Steinhoff MC, Subbarao EK, et al.
+Safety and immunogenicity of a cold-adapted
+influenza A (H1N1) reassortant virus vaccine administered to infants less than six months of
+age. Pediatr Infect Dis J 1995;14:10-6.
+10. Poehling KA, Szilagyi PG. Not just for kids:
+new paradigms for vaccine delivery in pediatrics. Acad Pediatr 2009;9:293-4.
+11. Mullooly JP, Barker WH, Nolan TF Jr. Risk
+of acute respiratory disease among pregnant
+women during influenza A epidemics. Public
+Health Rep 1986;101:205-11.
+12. Hartert TV, Neuzil KM, Shintani AK, et al.
+Maternal morbidity and perinatal outcomes
+among pregnant women with respiratory hospitalizations during influenza season. Am J Obstet Gynecol 2003;189:1705-12.
+13. Dodds L, McNeil SA, Fell DB, et al. Impact
+of influenza exposure on rates of hospital admissions and physician visits because of respiratory illness among pregnant women. CMAJ
+2007;176:463-8.
+14. Cox S, Posner SF, McPheeters M, Jamieson DJ, Kourtis AP, Meikle S. Hospitalizations with respiratory illness among pregnant
+women during influenza season. Obstet Gynecol 2006;107:1315-22.
+15. ACOG Committee on Obstetric Practice.
+ACOG committee opinion number 305, November 2004: influenza vaccination and treatment during pregnancy. Obstet Gynecol 2004;
+104:1125-6.
+16. Fiore AE, Shay DK, Broder K, et al. Prevention and control of seasonal influenza with vaccines: recommendations of the Advisory Committee on Immunization Practices (ACIP), 2009.
+MMWR Recomm Rep 2009;58:1-52.
+17. Lu P, Bridges CB, Euler GL, Singleton JA.
+Influenza vaccination of recommended adult
+populations, US, 1989-2005. Vaccine 2008;26:
+1786-93.
+18. Centers for Disease Control and Prevention.
+Seasonal influenza and 2009 H1N1 influenza vaccination coverage among pregnant women–10
+states, 2009-10 influenza season. MMWR Morb
+Mortal Wkly Rep 2010;59:1541-5.
+19. Zaman K, Roy E, Arifeen SE, et al. Effectiveness of maternal influenza immunization in mothers and infants. N Engl J Med 2008;359:1555-64.
+TABLE 2
+Characteristics of hospitalized infants <6 months of
+age by maternal influenza vaccination status (continued)
+Characteristic
+Total
+(row %)
+Vaccinated Not vaccinated
+n  1510 n  294 n  1216 P value
+Social covariates .....................................................................................................................................................................................................................................
+Exposed to smoke ............................................................................................................................................................................................................................
+Yes 613 83 (14%) 530 (86%)  .001 ............................................................................................................................................................................................................................
+No 896 211 (24%) 685 (76%) .....................................................................................................................................................................................................................................
+No. of siblings ............................................................................................................................................................................................................................
+0 341 75 (22%) 266 (78%) .32 ............................................................................................................................................................................................................................
+1 539 108 (20%) 431 (80%) ............................................................................................................................................................................................................................
+2 341 64 (19%) 277 (81%) ............................................................................................................................................................................................................................
+3 289 47 (16%) 242 (84%) .....................................................................................................................................................................................................................................
+Day care ............................................................................................................................................................................................................................
+Yes 152 29 (19%) 123 (81%) .89 ............................................................................................................................................................................................................................
+No 1356 265 (20%) 1091 (80%) .....................................................................................................................................................................................................................................
+Insurance ............................................................................................................................................................................................................................
+Public 891 146 (16%) 745 (84%)  .001 ............................................................................................................................................................................................................................
+Private 507 137 (27%) 370 (73%) ............................................................................................................................................................................................................................
+None 105 8 (8%) 97 (92%) .....................................................................................................................................................................................................................................
+Ever breast-fed ............................................................................................................................................................................................................................
+Yes 916 207 (22%) 709 (77%)  .001 ............................................................................................................................................................................................................................
+No 594 87 (15%) 507 (85%) ..............................................................................................................................................................................................................................................
+Percentages may not sum to 100% due to rounding.
+Poehling. Maternal influenza immunization and their infants. Am J Obstet Gynecol 2011.
+www.AJOG.org Supplement
+Supplement to JUNE 2011 American Journal of Obstetrics & Gynecology S147
+20. Eick AA, Uyeki TM, Klimov A, et al. Maternal
+influenza vaccination and effect on influenza virus infection in young infants. Arch Pediatr Adolesc Med 2011;165:104-11.
+21. Healy CM, Baker CJ. Prospects for prevention of childhood infections by maternal immunization. Curr Opin Infect Dis 2006;19:271-6.
+22. Fairbrother G, Cassedy A, Ortega-Sanchez
+IR, et al. High costs of influenza: direct medical
+costs of influenza disease in young children.
+Vaccine 2010;28:4913-9.
+23. Finelli L, Fiore A, Dhara R, et al. Influenzaassociated pediatric mortality in the United
+States: increase of Staphylococcus aureus
+coinfection. Pediatrics 2008;122:805-11.
+24. Weinberg GA, Erdman DD, Edwards KM, et
+al. Superiority of reverse-transcription polymerase chain reaction to conventional viral culture
+in the diagnosis of acute respiratory tract infections in children. J Infect Dis 2004;189:706-10.
+25. Glezen WP, Greenberg SB, Atmar RL, Piedra PA, Couch RB. Impact of respiratory virus
+infections on persons with chronic underlying
+conditions. JAMA 2000;283:499-505.
+26. Izurieta HS, Thompson WW, Kramarz P, et
+al. Influenza and the rates of hospitalization for
+respiratory disease among infants and young
+children. N Engl J Med 2000;342:232-9.
+27. Mullooly JP, Barker WH. Impact of type A
+influenza on children: a retrospective study.
+Am J Public Health 1982;72:1008-16.
+28. Wright AL, Holberg CJ, Martinez FD, Morgan WJ, Taussig LM. Breast feeding and lower
+respiratory tract illness in the first year of life;
+Group Health Medical Associates. BMJ 1989;
+299:946-9.
+29. Sinha A, Madden J, Ross-Degnan D,
+Soumerai S, Platt R. Reduced risk of neonatal
+respiratory infections among breastfed girls but
+not boys. Pediatrics 2003;112:e303.
+30. Benowitz I, Esposito DB, Gracey KD, Shapiro ED, Vazquez M. Influenza vaccine given to
+pregnant women reduces hospitalization due to
+influenza in their infants. Clin Infect Dis 2010;
+51:1355-61.
+31. Black SB, Shinefield HR, France EK, Fireman BH, Platt ST, Shay D. Effectiveness of influenza vaccine during pregnancy in preventing
+hospitalizations and outpatient visits for respiratory illness in pregnant women and their infants.
+Am J Perinatol 2004;21:333-9.
+32. Mouzoon ME, Munoz FM, Greisinger AJ, et
+al. Improving influenza immunization in pregnant women and healthcare workers. Am J
+Manag Care 2010;16:209-16.
+33. Eisenberg KW, Szilagyi PG, Fairbrother G,
+et al. Vaccine effectiveness against laboratoryconfirmed influenza in children 6 to 59 months
+of age during the 2003-2004 and 2004-2005
+influenza seasons. Pediatrics 2008;122:911-9.
+34. Power ML, Leddy MA, Anderson BL, Gall
+SA, Gonik B, Schulkin J. Obstetrician-gynecologists’ practices and perceived knowledge regarding immunization. Am J Prev Med 2009;
+37:231-4.
+35. Schrag SJ, Fiore AE, Gonik B, et al. Vaccination and perinatal infection prevention practices among obstetrician-gynecologists. Obstet
+Gynecol 2003;101:704-10.
+36. Gonik B, Jones T, Contreras D, Fasano N,
+Roberts C. The obstetrician-gynecologist’s role
+in vaccine-preventable diseases and immunization. Obstet Gynecol 2000;96:81-4.
+37. Yudin MH, Salaripour M, Sgro MD. Pregnant women’s knowledge of influenza and the
+use and safety of the influenza vaccine during
+pregnancy. J Obstet Gynaecol Can 2009;31:
+120-5.
+38. Reuman PD, Ayoub EM, Small PA. Effect of
+passive maternal antibody on influenza illness in
+children: a prospective study of influenza A in
+mother-infant pairs. Pediatr Infect Dis J 1987;
+6:398-403.
+39. Puck JM, Glezen WP, Frank AL, Six HR.
+Protection of infants from infection with influenza A virus by transplacentally acquired antibody. J Infect Dis 1980;142:844-9.
+40. Englund JA, Mbawuike IN, Hammill H, Holleman MC, Baxter BD, Glezen WP. Maternal
+immunization with influenza or tetanus toxoid
+vaccine for passive antibody protection in
+young infants. J Infect Dis 1993;168:647-56.
+41. Sumaya CV, Gibbs RS. Immunization of
+pregnant women with influenza A/New Jersey/76 virus vaccine: reactogenicity and immunogenicity in mother and infant. J Infect Dis
+1979;140:141-6.
+42. Irving WL, James DK, Stephenson T, et al.
+Influenza virus infection in the second and third
+trimesters of pregnancy: a clinical and seroepidemiological study. BJOG 2000;107:1282-9.
+43. Wutzler P, Schmidt-Ott R, Hoyer H, Sauerbrei A. Prevalence of influenza A and B antibodies in pregnant women and their offspring. J Clin
+Virol 2009;46:161-4.
+44. Hamilton BE, Martin JA, Ventura SJ. Births:
+preliminary data for 2008. Available at: http://
+www.cdc.gov/nchs/data/nvsr/nvsr58/nvsr58_
+16. Accessed March 18, 2011.
+Supplement www.AJOG.org
+S148 American Journal of Obstetrics & Gynecology Supplement to JUNE 2011

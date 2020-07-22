@@ -1,0 +1,519 @@
+﻿J Neurol (2004) 251 : 1260–1266
+DOI 10.1007/s00415-004-0529-6 ORIGINAL COMMUNICATION
+K. Hahn
+G. Arendt
+J. S. Braun
+H.-J. von Giesen
+I. W. Husstedt
+M. Maschke
+E. Straube
+E. Schielke
+for the
+German Neuro-AIDS Working
+Group
+A placebo-controlled trial of gabapentin
+for painful HIV-associated
+sensory neuropathies
+JON 1529
+Introduction
+Since the introduction of highly active antiretroviral
+therapy (HAART) and the subsequent decrease of opportunistic CNS-infections HIV-associated polyneuropathy is one of the most frequently observed neurological complications in HIV-seropositive patients.
+There are several subtypes of neuropathies, which can
+be differentiated by clinical and electrophysiological criteria and which have different incidences in the stages of
+HIV-infection.
+The HIV-associated sensory neuropathies (HIV-SN)
+include both the HIV-induced distal-symmetric
+polyneuropathy (DSP) due to the HIV infection by itself
+and the antiretroviral toxic neuropathy (ATN) [8]. With
+Received: 14 August 2003
+Received in revised form: 27 April 2004
+Accepted: 3 May 2004
+G. Arendt · H.-J. von Giesen
+Department of Neurology
+Heinrich Heine University
+Düsseldorf, Germany
+I. W. Husstedt
+Department of Neurology
+University of Münster, Germany
+M. Maschke
+Department of Neurology
+University of Duisburg-Essen, Germany
+E. Straube
+Neurological Clinic
+Barsinghausen, Germany
+E. Schielke
+Department of Neurology
+Auguste-Viktoria-Hospital
+Berlin, Germany
+Dr. med. K. Hahn () · J. S. Braun
+Department of Neurology
+Charité Campus Mitte
+Schumannstr. 20/21
+D-10117 Berlin, Germany
+Tel.: +49-30/450-560102
+Fax: +49-30/450-560932
+E-Mail: katrin.wetzel@charite.de
+■ Abstract Background Painful
+HIV-associated sensory neuropathies (HIV-SN) are a common
+complication of HIV infection. The
+pathogenesis is unknown and the
+treatment very limited. Gabapentin
+(GBP) is effective in painful diabetic neuropathy and postherpetic
+neuralgia and its effectiveness on
+painful HIV-SN has been reported
+anecdotally.Design Multicenter,
+prospective, randomised, doubleblind, placebo-controlled study.
+Methods Patients were followed for
+a 1-week screening, a 4-week double-blind and a 2-week open treatment phase. GBP was initiated at
+400 mg/d, titrated over 2 weeks to
+1200 mg/d, and then either maintained at this level or – if not beneficial – titrated to 2400 mg/d. After
+4 weeks the medication was unblinded and the patient had the
+choice to begin, to maintain or to
+increase GBP to 3600 mg/d. The
+primary outcome measure was an
+improvement in median pain on
+the Visual Analogue Scale (VAS)
+from the screening week compared
+to the 4th treatment week. A secondary efficacy measure was the
+median sleep score (VAS). Results
+15 patients received GBP and 11
+placebo. In each group one patient
+dropped out during the doubleblind phase. Median pain (GBP 5.1;
+placebo 4.7) and sleep score (GBP
+4.5; placebo 5.6) did not differ between both groups at baseline. In
+the GBP-group there was a significant decrease of the pain to 2.85
+(–44.1 %) as well as of the sleep
+VAS to 2.3 (–48.9 %). No significant
+decrease in the pain (median
+VAS =3.3, –29.8 %) as well as in the
+sleep score (median VAS = 4.95,
+–11.6 %) was observed in the
+placebo-group. GBP was generally
+well tolerated. The most frequent
+side effect was somnolence reported in 80 % of GBP-treated patients. Conclusions GBP was more
+effective than placebo in reducing
+pain and sleep interference in patients with HIV-SN.
+■ Key words HIV · gabapentin ·
+neuropathy · neuropathic pain
+1261
+a prevalence between 35 and 88 % [4, 7, 10, 12] the DSP
+is the most frequent subtype occurring particularly in
+later stages of infection. Its progression is subacute to
+chronic and the patients develop predominantly sensory
+symptoms such as neuropathic pain. The pain is bilateral and described as numbness or burning, is usually
+most severe on the soles and is the most debilitating
+symptom for the patients. The ATN which is caused by
+dideoxynucleoside therapy (especially ddC, ddI and
+d4T) has similar clinical characteristics. However, these
+dideoxynucleosides may be essential in the antiretroviral treatment and discontinuation thus aggravates the
+risk of virological failure.
+The pathogenesis of DSP and ATN is not known in
+detail. It is presumed that the sensory neurons in the
+dorsal root ganglia (DRG) could be the primary site of
+lesion, which leads secondarily to a dying back process
+with axonal degeneration. This results in a length-dependent degeneration of peripheral nerve fibers with
+prominent involvement of small myelinated and unmyelinated fibers conducting nociception [6]. Changes
+in small nerve fibers proximal to the epidermis [16] or
+the formation of aberrant central connections [27]
+could be possible explanations for the neuropathic pain
+experienced by patients with DSP and ATN.
+Treatment of painful neuropathy in HIV infection is
+difficult.Numerous symptomatic therapeutic trials have
+been performed with limited success, including peptide
+T [22], amitriptyline [9, 21], acupuncture [21], mexiletine [9], topical capsaicin [17] and lamotrigine [23].
+The anticonvulsant gabapentin (GBP) has been
+demonstrated to be effective in painful diabetic neuropathy [2] and postherpetic neuralgia [19] and its effectiveness on painful HIV-SN has been published in
+anecdotal series [5, 11, 15].
+The mechanisms of GBP treatment effect on neuropathic pain have not been fully elucidated. As a structural analogue of γ-aminobutyric acid (GABA) it does
+not have any direct GABAergic activity. There is evidence for a possible effect of GBP on α2-δ calcium channels, which could explain its pain relieving effect [26]. In
+addition to its central allodynic effect [1], GBP has also
+been shown to inhibit ectopic discharge activity from
+injured nerves [18].
+GBP, with its low adverse effect and drug interaction
+profile, may offer an effective treatment for neuropathic
+pain in HIV-infected patients. Previous studies investigating GBP in HIV-SN were open trials. Consequently,
+we performed a controlled clinical trial to investigate the
+efficacy of GBP in managing pain in HIV-SN.
+Subjects and methods
+■ Study design
+We conducted a multicenter, randomised, double-blind, placebo-controlled study to evaluate the effect of GBP in the treatment of painful
+HIV-SN. The study was performed in an outpatient setting. Patients
+of 5 clinical centers participated. The protocol and informed consent
+were approved by the institutional review board of each participating
+center.
+Patients were observed for 3 phases: a 1-week screening phase, a
+4-week double-blind phase and a 2-week open treatment phase. Patients were seen at 5 visits: an initial envollment visit (screening), a
+randomisation visit (week 0, at the end of a baseline week), and 3 subsequent visits 2, 4 and 6 weeks after randomisation. After the screening phase the subjects were randomised to receive either GBP or
+placebo in a double-blind design. Gabapentin dosage and matching
+placebo were titrated (400 mg/day every four days) over 2 weeks up to
+1200 mg/d in three divided doses. In the case of sufficient improvement the dosage was maintained at this level, but if beneficial effects
+were not sufficient, the dosage was increased up to 2400 mg/d over
+further 2 weeks in the same manner. After this 4-week period the
+study medication was unblinded and the patient had the choice to begin, to maintain (1200 mg/d or 2400 mg/d) or to increase the GBP
+dosage up to 3600 mg/d. Fig. 1 summarises the study design.
+To be eligible, subjects had to have symptoms of painful HIV-SN,
+diagnosed by a neurologist based on history, as well as clinical and
+neurophysiological examination, had to give informed written consent, had to be aged 18 years or over and they had to have completed
+a baseline pain diary over one week prior to randomisation. HIV-SN
+was diagnosed according to the standard definition [3] including distal sensory symptoms (paresthesia, dysesthesia or pain), abnormal
+sensory signs (elevated vibratory threshold or pin hyperalgesia), decreased or absent ankle reflexes.
+Patients were excluded if they were pregnant or were taking tricyclic or tetracyclic antidepressants, other anticonvulsants, topical
+capsaicin, mexiletine, alpha-liponic acid, systemic corticosteroids or
+immune modulators, central analgesics or had received nerve blocks
+or acupuncture. Other exclusion criteria included alternative causes
+for neuropathy (i. e. diabetes mellitus, alcohol and/or drug abuse, vitamin B12 deficiency), acute or chronic pancreatitis or chronic renal
+insufficiency (to avoid the necessary dosage reduction) and elevated
+parameters of lipase and/or amylase. All other regular use of analgesics was discontinued or reduced to a minimum of non-steroidal
+anti-inflammatory drugs (NSAIDs) (i. e. paracetamol, diclofenac). No
+patient was treated with opiates during the course of the study.
+■ Outcome measures
+The primary outcome measure was the efficacy of GBP in improving
+the painful symptoms in HIV-SN. The pain was measured twice daily
+by patients in a diary using the 10-cm Visual Analogue Scale (VAS) of
+Fig. 1 Study-design
+1262
+the Short-Form McGill Pain Questionnaire (SF-MPQ) ranging from
+0 =no pain to 10 cm = maximal pain intensity. The primary endpoint
+for assessing efficacy was the difference in the weekly median pain
+score between the 4th week of treatment and the baseline week. Additionally, we assessed the range of change of weekly median pain score
+over the course of the trial.
+A secondary efficacy measure was the median sleep interference
+score as recorded in the patients’ daily diary measured by VAS (0 = excellent sleep; 10 cm = no sleep due to pain). The safety of GBP was assessed using adverse event data in a table in the diary (somnolence,
+dizziness, gait ataxia, nausea and others) ranging from mild, moderate to severe. Laboratory safety tests were assessed during visit 1 and
+5 (glucose, lipase).
+■ Randomisation
+Randomisation was performed by producing a randomisation schedule that assigned each patient to GBP or a matching placebo. GBP and
+placebo were provided as identically appearing capsules and were
+packaged in subject-specific repositories from a central pharmacy.
+Patients enrolled were sequentially assigned a patient number.
+■ Statistical analysis
+The primary efficacy parameter – change in the median pain score
+from the baseline week to the 4th treatment week – was evaluated from
+daily pain diaries. The score was determined by calculating the median pain score for the baseline and the 4th treatment week. The sleep
+interference – the change from the baseline in median daily sleep rating score – was determined in the same manner. Differences in baseline parameters between both groups were tested with the MannWhitney U-test. Differences in change of the median pain score were
+analysed using the Wilcoxon test. All statistical tests were two-tailed
+and 95 % confidence intervals are provided for the primary endpoint.
+We compared also both treatment regimes (GBP and placebo) for the
+slope of change from the pain and sleep interference score over the
+course of 5 weeks (baseline to the 4th week of treatment) by an analysis of covariance (ANCOVA) model.
+Results
+■ Baseline characteristics of study subjects
+A total of 26 subjects were enrolled at baseline. 15 were
+randomised to GPB and 11 to a placebo. Demographic
+and baseline clinical characteristics at randomisation
+are shown in Table 1. There was no statistically significant difference in distribution of sex, age, CD 4 cell
+count, duration of painful neuropathy and VAS baseline
+pain and sleep interference score (Mann-Whitney-Utest). The groups were well balanced also with respect to
+the use of dideoxynucleoside antiretrovirals and analgesics. Table 2 summarises the details of the antiretroviral treatment of all patients at baseline.
+DSP was due to HIV itself in 16 patients (no concomitant or prior [last 3 months] use of neurotoxic antiretroviral agents) and potentially associated with or
+caused by neurotoxic antiretroviral drugs in 10 cases.
+The latter included 7 patients with an actual concomitant antiretroviral treatment of d4T and/or ddI (GBP
+n = 4; placebo n =3) and 3 patients, who had had neurotoxic antiretroviral drugs (d4T and/or ddI) in the period
+of 3 months before starting the study (GBP n = 2;
+placebo n = 1). Patient 15 who was initially treated with
+D4T stopped the antiretroviral therapy at day 8.
+■ Study experience
+Fig. 2 gives an overview of the study course. From the 26
+patients one patient dropped out during the doubleblind phase in each group (patient 5 and 19). The patient
+in the GBP-group discontinued the study because of adverse effects (dizziness, somnolence) two days after
+treatment with 400 mg GBP. There were 2 patients (paCharacteristics GBP placebo p value
+n = 15 n = 11 (U-test)
+Sex; women/men 5/10 1/10 0.305
+Age [years]; median (range) 46 (27–59) 44 (35–61) 0.959
+CD 4 count [cells/µl]; median (range) 395 (33–1236) 319 (81–1044) 0.507
+Duration of painful neuropathy [weeks]; median (range) 48 (2–384) 28 (4–240) 1.0
+Pain score; median (range) 5.1 (1.7–8.7) 4.7 (1.5–9.3) 0.919
+Sleep score; median (range) 4.5 (1.6–7.0) 5.6 (0.2–7.8) 0.281
+Concomitant analgesic medications 0.959
+none 12 9
+NSAID 3 2
+Concomitant neurotoxic antiretroviral drugs 1.0
+didanosine (ddI) 1 /
+stavudine (d4T) 1 1
+ddI + d4T 2 2
+No antiretroviral treatment 1 1 0.919
+Table 1 Demographics, clinical characteristics and
+pain/sleep scores in evaluable subjects at baseline
+1263
+tient 20, 22) in the placebo group, who did not start GBP
+treatment after unblinding the study in visit 4 for personal reasons.One patient in the GBP-group (patient 10)
+discontinued after 6 weeks owing to inefficacy. Thus, 24
+patients (92.3 %) completed the blinded treatment period (GBP n = 14, placebo n = 10) and 21 patients
+(80.8 %) completed the whole 7-week study (GBP n = 13,
+placebo n = 8).
+■ Outcome
+GBP-treated patients had notable pain relief measured
+by their weekly median pain score after four weeks of
+treatment (n = 15, median baseline week = 5.1, median
+4th week of treatment = 2.85, –44.1 %). The pain VAS in
+the 4th week compared with the baseline was significantly lower (Wilcoxon-test; p < 0.05). We observed also
+a decrease of the pain score in the placebo-treated patients (n = 11, median of the baseline week = 4.7, median
+4th week of treatment = 3.3, –29.8 %) but this was not significant (Wilcoxon-test, p = 0.646). Fig. 3 illustrates the
+curve of the pain for the baseline week and the 4-week
+blinded-phase.
+The GBP effect included a significant decrease of the
+sleep interference score (median baseline week = 4.5,
+median 4th week of treatment = 2.3, –48.9 % [Wilcoxontest, p < 0.05]) compared with the placebo-group (median baseline week = 5.6, median 4th week of treatment = 4.95, –11.6 % [Wilcoxon-test, p = 0, 575]) as
+shown in Fig. 4. Thus GBP was more effective than
+placebo in reducing pain and sleep interference in patients with HIV-SN.
+In an analysis of covariance (ANCOVA) model we
+compared the change of the pain score and the sleep inTable 2 Antiretroviral regime at baseline
+GBP-treated patients
+1 ABC, DDI, RTV, IDV
+2 no antiretroviral treatment
+3 AZT/3TC, NVP
+4 AZT/3TC/ABC, LPV
+5 3TC, LPV
+6 AZT/3TC, LPV
+7 AZT/3TC, NVP
+8 AZT, ABC, RTV, NVP
+9 AZT/3TC, LPV, EFV
+10 D4T, DDI, RTV, APV
+11 AZT, 3TC, LPV
+12 AZT/3TC, NVP
+13 D4T, DDI, LPV
+14 3TC, NVP,NFV
+15 D4T, 3TC, NVP
+Placebo-treated patients
+16 AZT/3TC, ABT 378r, EFV
+17 AZT/3TC, ABC, APV, LPV
+18 AZT/3TC, RTV, APV
+19 AZT/3TC, NVP
+20 3TC, IDV, NVP
+21 D4T, DDI, 3TC, RTV, LPV
+22 D4T, DDI, APV
+23 D4T, 3TC, RTV, IDV
+24 no antiretroviral treatment
+25 AZT/3TC, NVP
+26 3TC, NVP
+Fig. 2 Profile of the trial
+Fig. 3 Change of the median pain score from the baseline to the 4thweek of treatment
+1264
+terference score from the baseline week to the 4th week
+of treatment. In this analysis the change of the pain and
+also the sleep interference score in the GBP-treated
+group was significant (pain and sleep score p < 0.05).
+This did not apply to the placebo-group (change of pain
+score p = 0.175, change of sleep score p = 0.243). However, a comparison of the changes between GBP and
+placebo-group over 5 weeks did not show a significant
+difference for the pain score or for the sleep interference
+score.
+■ Effects on analgesic use
+The concomitant analgesic self-treatment of the patients
+was low. At visit 1 patients were instructed to discontinue or to reduce all regular use of analgesics. In the
+baseline week there were 2 patients (18.2 %) in the
+placebo-group, who took NSAID and 3 (20 %) in the
+GBP-group. The situation was similar after 4 weeks of
+treatment. There was one patient in the placebo-group
+and one in the GBP-group who took NSAID. The differences between both groups were not significant
+(p = 0.931).
+■ Adverse events
+The most frequent adverse effects are shown in Table 3.
+There was only one patient in the GBP-group, who discontinued the study because of severe dizziness and somnolence two days after the initiation of a daily treatment
+of 400 mg GBP.Apart from this patient GBP was generally
+well tolerated in the study subjects. Somnolence was the
+most frequently reported side effect in 80 % of GBPtreated patients in a range from mild to severe. This was
+significant (p < 0.05) compared with the placebo-group.
+Dizziness,gait ataxia and nausea were also more frequent
+in the GBP-group, but compared with placebo-treated
+patients not statistically significant.
+There were also no significant changes in lipase or
+blood glucose after 4 weeks of treatment with GBP
+(n = 12). We observed only a slight increase of lipase to
+88 U/l and to 94 U/l in two patients and a slight elevation
+of the blood glucose to 135 mg/dl in two patients.
+Discussion
+We have assessed the efficacy and safety of GBP in reducing pain attributed to HIV-SN by conducting a multicenter, prospective, randomised, double-blind,
+placebo-controlled trial.
+The trial did not depend on electrophysiological data
+because DSP as well as ATN show a predominant pathological involvement of the small sensory fibers [25] of
+the intradermal nerve endings, which include both ADelta and C fibers that convey slow nociception. The
+small fibers cannot be evaluated with standard electrodiagnostic studies,because nerve conduction studies assess only large sensory and motor fibers. Thus, the diagnosis is predominantly a clinical one made by a
+neurologist.
+The results of our study show that GBP was more effective in reducing the pain and the sleep interference
+score in HIV-SN than placebo. Notably, we found also a
+placebo response in the pain score (–29.8 %) in this trial
+but the response to GBP was much larger (–44.1 %).
+High and variable placebo responses are typical of pain
+studies [14].
+Two large, randomised clinical trials including patients with diabetic neuropathy [2] and patients with
+postherpetic neuralgia [19] have demonstrated the efficacy of GBP in treating neuropathic pain titrated up to
+Fig. 4 Change of the median sleep interference score from the baseline to the 4th
+week of treatment
+Table 3 Adverse effects in the double-blind phase
+Preferred Terms GBP (n = 15) placebo (n = 11) p value (U-test)
+somnolence 12 (80 %) 2 (18.2 %) 0.006*
+mild 4 (26.7 %) 1 (9.1 %)
+moderate 4 (26.7 %) /
+severe 4 (26.7 %) 1 (9.1 %)
+dizziness 9 (60 %) 5 (45.5 %) 0.305
+mild 3 (20 %) 3 (27.3 %)
+moderate 1 (6.7 %) 1 (9.1 %)
+severe 5 (33.3 %) 1 (9.1 %)
+gait ataxia 7 (46.6 %) 3 (27.3 %) 0.357
+mild 2 (13.3 %) 2 (18.2 %)
+moderate 3 (20 %) /
+severe 2 (13.3 %) 1 (9.1 %)
+nausea 5 (33.3 %) 2 (18.2 %) 0.474
+mild 3 (20 %) 2 (18.2 %)
+moderate 2 (13.3 %) /
+severe / /
+headache 1 (6.7 %) 1 (9.1 %) 0.919
+1265
+3600 mg/day. The most common adverse effects were
+somnolence (up to 27.4 %), dizziness (23.9 %), ataxia
+(7.1 %), nausea (8.3 %) and peripheral edema (9.7 %).
+Dizziness and somnolence led in a few patients to withdrawal from the study. We observed a higher rate of adverse effects. Of the patients in the GBP-group 80 % reported somnolence, 60 % dizziness, 46.6 % ataxia and
+33.3 % nausea at a maximum GBP dosage of
+2400 mg/day. There was only one patient, who discontinued the study because of adverse effects and this patient was treated with the very low dosage of 400 mg
+daily only. Therefore, the high dosage chosen for study
+cannot sufficiently explain the high rate of adverse effects.We also observed a higher rate of adverse effects in
+the placebo-group (somnolence 18.2 %, dizziness
+45.5 %, ataxia 27.3 % and nausea 18.2 %) than described
+in the above cited studies. The detailed information provided to the patients before commencing the study may
+have subconsciously drawn their attention to these
+symptoms. No serious adverse effects were observed.
+The principal limitation of this study is the small number of enrolled subjects because of the very strict inclusion criteria, so that reported adverse effects of only a
+few subjects have a greater influence for the whole study
+group.
+The study population included 10 patients with a
+neuropathy potentially associated or caused by neurotoxic antiretroviral drugs. One patient stopped the antiretroviral neurotoxic exposure after 8 days, but it is
+known that the symptoms of an ATN continue or even
+worsen for up to approximately 6–8 weeks despite withdrawal of the offending drug. Because of the small number of enrolled subjects we did not differentiate the efficacy of GBP between patients with a DSP or ATN
+further.
+At present there is no standard regimen for treatment
+of painful HIV-SN. Agents commonly applied in neuropathic pain including amitriptyline, mexiletine and topical capsaicin did not show any advantage over placebo
+[9, 17, 21] in double-blind trials, neither did peptide T
+[22] or acupuncture [21]. Carbamazepine should be
+used only very cautiously in HIV-infected patients who
+are treated with protease inhibitors or non-nucleoside
+analogue antiretroviral agents, because of its interaction
+spectrum.GBP, conversely, can be easily applied because
+of its lack of interaction with antiretroviral therapy.
+Lamotrigine up to 300 mg was significantly effective
+compared with placebo in HIV-associated neuropathy
+but not in ATN [23], but 25 % of the lamotrigine-treated
+patients discontinued the study because of allergic skin
+reactions. In a new prospective, double-blind, placebocontrolled trial in a larger cohort [24] lamotrigine was
+well tolerated and effective for neuropathic pain in patients with neurotoxic antiretroviral therapy. An alternative treatment could be also recombinant human
+nerve growth factor which is reported to be effective in
+painful HIV-SN [13, 20].
+Previous studies investigating GBP in HIV-SN were
+open trials [5, 11, 15]. Therefore, the reported effectiveness of GBP needed to be confirmed using a controlled
+study design. The present double-blind, placebo-controlled trial closed this gap, although a small number of
+patients were included.
+In summary, the present study demonstrates the efficacy of GBP in relieving pain and sleep interference in
+patients with HIV-SN.
+■ Acknowledgment We thank Justin C. McArthur for helpful comments. This work was supported by a grant from Pfizer (0945-00SP02).
+References
+1. Abdi S, Lee DH, Chung JM (1998) The
+anti-allodynic effects of amitryptiline,
+gabapentin and lidocaine in an art
+model of neuropathic pain. Anesth
+Analg 87:1360–1366
+2. Backonja M, Beydoun A, Edwards KR,
+et al. (1998) Gabapentin for the symptomatic treatment of painful neuropathy in patients with diabetes mellitus:
+a randomized controlled trial. JAMA
+280:1831–1836
+3. Childs EA, Lyles RH, Selnes OD, et al.
+(1999) Plasma viral load and CD4 lymphocytes predict HIV-associated dementia and sensory neuropathy. Neurology 52:607–613
+4. Deutsche Neuro-AIDS-Arbeitsgemeinschaft [DNAA] (2000) Erkrankungen
+des peripheren Nervensystems und
+der Muskulatur bei der HIV-Infektion.
+Nervenarzt 71(6):442–450
+5. Gatti A, Jann S, Sandro B, Manuela B
+(1998) Gabapentin in the treatment of
+distal symmetric axonopathy in HIV
+infected patients. Neurology 50:A216
+abstract (P04.053)
+6. Griffin JW, Crawford TO, McArthur JC,
+et al. (1998) Peripheral neuropathies
+associated with HIV infection. In: Gendelman HE, Lipton SA, Epstein L,
+Swindells S (eds) The neurology of
+AIDS. New York, Chapman & Hall, pp
+275–291
+7. Husstedt IW, Grotemeyer KH, Busch J,
+Zidek W (1994) Early detection of distal symmetrical polyneuropathy during HIV infection by paired stimulation of sural nerve. Electroencephalogr
+Clin Neurophysiol 93:169–174
+8. Keswani SC, Pardo C, Cherry CL, Hoke
+A, McArthur JC (2002) HIV-associated
+sensory neuropathies. AIDS 16:
+2105–2117
+9. Kieburtz K, Simpson D, Yiannoutsos C,
+et al. (1998) A randomized trial of
+amitriptyline and mexiletine for
+painful neuropathy in HIV infection.
+Neurology 51:1682–1688
+10. Lange D (1994) AAEM minimonograph #41: Neuromuscular diseases associated with HIV-1 infection. Muscle
+Nerve 17:16–30
+11. La Spina I, Porazzi D, Maggiolo F, Bottura P, Suter F (2001) Gabapentin in
+painful HIV-related neuropathy: a report of 19 patients, preliminary observations. Eur J Neurol 8:71–75
+1266
+12. Malessa R, Agelink M, Himmelmann
+M, Kloss T, Mertins L, Brockmeyer NH
+(1996) Nerve conduction changes in
+asymptomatic HIV-1 seropositive individuals in the absence of other risk
+factors for neuropathy. Electromyogr
+Clin Neurophysiol 36:3–8
+13. McArthur JC, Yiannoutsos C, Simpson
+DM, et al. (2000) A phase II trial of
+nerve growth factor for sensory neuropathy associated with HIV-infection.
+Neurology 54:1080–1088
+14. McQuay H, Carroll D, Moore A (1995)
+Variation in the placebo effect in randomised controlled trials of analgesics:
+all is as blind as it seems. Pain 64:
+331–335
+15. Newshan G (1998) HIV neuropathy
+treated with gabapentin. AIDS 12:
+219–221
+16. Novakovic SD, Tzoumaka E, McGivern
+JG, et al. (1998) Distribution of the
+tetrodotoxin-resistant sodium channel
+PN3 in rat sensory neurons in normal
+and neuropathic conditions. J Neurosci
+18:2174–2187
+17. Paice JA, Estwing Ferrans C, Lashley
+FR, Shott S, Vizgirda V, Pitrak D (2000)
+Topical capsaicin in the management
+of HIV-associated peripheral neuropathy. J Pain Symptom Manage 19(1):
+45–52
+18. Pan HL, Eisenach JC, Chen SR (1999)
+Gabapentin suppresses ectopic nerve
+discharges and reverses allodynia in
+neuropathic rats. J Pharmacol Exp
+Ther 288:1026–1030
+19. Rowbotham M, Harden N, Stacey B,
+Bernstein P, Magnus-Miller L (1998)
+Gabapentin for the treatment of postherpetic neuralgia: a randomized controlled trial. JAMA 280:1837–1842
+20. Schiffito G, Yiannoutsos C, Simpson
+DM, et al. (2001) Long-term treatment
+with recombinant nerve growth factor
+for HIV-associated sensory neuropathy. Neurology 57:1313–1316
+21. Shlay JC, Chaloner K, Max MB, et al.
+(1998) Acupuncture and amitriptyline
+for pain due to HIV-related peripheral
+neuropathy; a randomized trial. JAMA
+280(18):1590–1595
+22. Simpson DM, Dorfman D, Olney RK,
+et al. (1996) Peptide T in the treatment
+of painful distal neuropathy associated
+with AIDS: results of a placebo-controlled trial. The peptide T Neuropathy
+Study Group. Neurology 47:1254–1259
+23. Simpson DM, Olney R, McArthur JC,
+Khan A, Godbold J, Ebel-Frommer K
+(2000) A placebo-controlled trial of
+lamotrigine for painful HIV-associated
+neuropathy. Neurology 54:2115–2119
+24. Simpson DM, McArthur JC, Olney R,
+et al. (2003) Lamotrigine for HIV-associated painful sensory neuropathies: A
+placebo-controlled trial. Neurology
+60:1508–1514
+25. Tagliati M, Grinnel J, Godbold J, Simpson DM (1999) Peripheral nerve function in HIV infection: clinical, electrophysiologic, and laboratory findings.
+Arch Neurol 56:84–89
+26. Taylor CP, Gee NS, Su TZ, et al. (1998) A
+summary of mechanistic hypotheses
+of gabapentin pharmacology. Epilepsy
+Res 29:233–249
+27. Woolf CJ, Salter MW (2000) Neuronal
+plasticity: increasing the gain in pain.
+Science 288:1765–1769

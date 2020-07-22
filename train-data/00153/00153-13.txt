@@ -1,0 +1,906 @@
+ORIGINAL ARTICLE
+Is education an effective management strategy for reducing
+cancer-related fatigue?
+Amanda Purcell & Jennifer Fleming &
+Bryan Burmeister & Sally Bennett & Terry Haines
+Received: 25 February 2010 /Accepted: 27 July 2010 / Published online: 8 August 2010
+# Springer-Verlag 2010
+Abstract
+Purpose The use of education is recommended to teach
+patients self-care behaviours to reduce cancer-related
+fatigue, however, there is little evidence of its effectiveness
+or optimal timing. This educationally based cancer-related
+fatigue intervention trial, CAN-FIT, aimed to reduced
+severity of fatigue in radiotherapy patients.
+Methods One hundred and ten participants aged ≥18 years
+undergoing curative radiotherapy were randomly assigned to
+receive (1) pre- and post-radiotherapy fatigue education and
+support (RFES); (2) pre-RFES only; (3) post-RFES only; or
+(4) no RFES (standard care). Data collection occurred at preand post- radiotherapy and at 6-weeks follow-up.
+Results The intervention was not associated with reduction in
+fatigue levels at any assessment point. Significant changes
+were seen with secondary activity-based outcomes: Physical
+activity participation: Pre-RFES was associated with significantly greater increase in vigorous [Assessment (Ax)1-Ax2:
+1.05 (0.24, 1.86) p<0.01: Ax2–Ax3: 1.24, (0.44, 2.03) p<
+0.01] and moderate physical activity participation [Ax1–
+Ax2: 1.4 (0.53, 2.26) p<0.01]. Post-RFES was associated
+with significant improvements in walking levels [Ax1–Ax3:
+5.82 (0.07, 11.56) p<0.05] compared with no pre-RFES.
+Paid and unpaid employment: Pre-RFES was associated with
+slower return to pre-treatment levels of paid work [Ax2–
+Ax3: −0.72 (−1.41, −0.04) p<0.05] than no pre-RFES. PostRFES was associated with decreased levels of unpaid work
+[Ax1–Ax3: 561.79 (51.21, 1,072.37) p<0.05] compared
+with no post-RFES.
+Conclusion The CAN-FIT programme did not significantly
+improve the primary outcome, level of fatigue, regardless of
+when it was delivered, however, significant changes were
+observed in activity-based outcomes. Further investigations
+into educationally based programmes should target activity
+participation rather than changes in underlying fatigue to
+improve overall patient health.
+Keywords Cancer-related fatigue . Patient education .
+Radiotherapy . Symptom management
+Introduction
+Cancer-related fatigue is a widespread and complex problem
+amongst all cancer patients including radiotherapy patients [1,
+2]. The pattern of fatigue during radiotherapy is commonly
+thought to increase towards the end of treatment and decrease
+thereafter [3–5]. Cancer-related fatigue is thought to occur in
+association with a number of modifiable symptom correlates
+Financial disclosures: There are no financial disclosures from any
+authors.
+A. Purcell (*) : J. Fleming
+Occupational Therapy Department, Princess Alexandra Hospital,
+Ipswich Rd, Woolloongabba 4102,
+Brisbane, Australia
+e-mail: amanda.purcell@uqconnect.edu.au
+A. Purcell : J. Fleming : S. Bennett
+The University of Queensland,
+School of Health and Rehabilitation Sciences,
+Brisbane, Australia
+B. Burmeister
+Radiation Oncology Department, Princess Alexandra Hospital,
+Ipswich Rd, Woolloongabba 4102,
+Brisbane, Australia
+T. Haines
+Monash University, Southern Physiotherapy School,
+Cheltenham, Australia
+T. Haines
+Southern Health Continuing Care,
+Cheltenham, Australia
+Support Care Cancer (2011) 19:1429–1439
+DOI 10.1007/s00520-010-0970-2
+including reduced physical activity, participation in activities
+of daily living, performance status, social support, anxiety,
+depression, nausea and sleep problems [5, 6]. It is suggested
+that identification and treatment of fatigue-related correlates
+through multi-focused symptom management is likely to
+have the greatest beneficial effect on reducing overall fatigue
+[7, 8]. Studies examining the mediating impact of change
+in one symptom on change in another related symptom
+have supported this multi-focused symptom management
+approach. For example, an intervention targeting sleep has
+been shown to alleviate fatigue [9] and an intervention
+targeting functional status similarly reduced fatigue through
+its relationship with depressive symptoms [10].
+To manage fatigue and its associated symptoms, a variety
+of self-care behaviours have been trialled with inconclusive
+results. These behaviours include exercise [11], energy
+conservation/activity management [12], sleep hygiene [13],
+improved nutrition [14] and psychosocial strategies [15]. Of
+these self-care behaviours, exercise has undergone the most
+research in recent years though the efficacy of this approach
+requires further investigation [16–18].
+Educational interventions involving fatigue self-care
+behaviours are a commonly recommended fatigue management strategy [19]. Education is thought to prepare patients
+for the manifestation, consequences and optimal management of fatigue so they are less likely to experience stress
+than if fatigue develops unexpectedly [20]. Educational
+interventions have potential to increase patients' knowledge
+and may also assist patients to learn fatigue management and
+coping strategies [20], though the evidence supporting the
+efficacy of this approach is scant [21]. Given the common
+use of educational interventions and their hypothesised yet
+unproven benefits, there is a need to evaluate the efficacy of
+education programmes to minimise the impact of cancerrelated fatigue and to identify optimal delivery timing and
+approaches for this education. In this cancer-related fatigue
+intervention trial (CAN-FIT) we sought to examine whether
+(1) providing pre-radiotherapy fatigue education and support
+(RFES) reduced severity of fatigue experienced at the end
+and 6 weeks after radiotherapy, (2) providing post-RFES
+reduced severity of fatigue experienced 6 weeks after
+radiotherapy (3) providing pre and post-RFES reduced
+severity of fatigue experienced 6 weeks after radiotherapy.
+Patients and methods
+Design
+This study was a single-centre, factorial randomised
+controlled trial with blinding of recruiters and data
+collectors. Data was collected at three time-points; preand post- radiotherapy treatment and at 6-weeks follow-up.
+Subjects
+Subjects were recruited from the Radiation Oncology
+Department of a single major metropolitan hospital in
+Brisbane, Australia. All patients undergoing outpatient
+radiotherapy treatment aged 18 years or over and booked
+for 20 or more days of radiotherapy for cancer treatment
+were candidates for inclusion in the study. Patients were
+excluded if the following criteria were present (1) low
+performance status (Karnofsky level of <60/100 requiring
+at least considerable assistance and frequent medical care),
+(2) undergoing treatment with palliative intent (3) undergoing other concurrent cancer treatments (e.g., chemotherapy), (4) involvement in other programmes or research
+specifically targeting fatigue, (5) inability to complete
+questionnaires due to cognitive or literacy levels.
+A sample size of 110 participants was estimated to have
+80% power to detect a previously identified minimally
+clinically significant difference of 2.1 units of the Multidimensional Fatigue Inventory (MFI) general fatigue subscale
+[22] between intervention and control groups. This analysis
+is based on examination of the main effect of the pre- or posttreatment interventions, not the simple effects of the complete
+CAN-FIT programme compared with no treatment (assuming
+a standard deviation of 4.8, one pre-intervention and two
+post-intervention measures and correlation between pre and
+post measures of r=0.7 using a two-tailed alpha of 0.05).
+Intervention/control conditions
+Participants recruited to the study were randomly allocated
+into one of four groups:
+& Group 1: Pre- and post-RFES sessions
+& Group 2: Pre-RFES session
+& Group 3: Post-RFES session
+& Group 4: No RFES session (i.e., standard care only)
+The intervention CAN-FIT was developed specifically
+for this investigation by the research team. The CAN-FIT
+programme aimed to reduce participant's level of fatigue by
+employing self-care behaviours designed to minimise
+fatigue. The programme was based upon the Health Belief
+Model which uses attitudes and beliefs of individuals to
+modify health behaviours [23]. Programme components
+included RFES sessions (60 mins) delivered using a
+structured PowerPoint presentation 1 week prior to radiotherapy planning and 1–2 weeks after the completion of
+radiotherapy, a participant handbook, a goal setting sheet
+and progress diary. Two follow-up phone calls using a
+structured script were provided 2 and 4 weeks after each
+education session to reinforce information. Session content
+addressed radiotherapy and its processes; potential treatment side effects including fatigue; and behavioural
+1430 Support Care Cancer (2011) 19:1429–1439
+strategies to reduce fatigue including activity modification,
+participation in exercise/activity, maintaining weight/nutrition, sleep hygiene tips and relaxation strategies.
+The control group received standard care only in the
+form of a one-to-one verbal nursing education about the
+radiotherapy process and the patient-specific diagnosis and
+a standardised written information package about radiotherapy treatment. A one-page flyer was provided with
+generic information about fatigue.
+Measures
+Baseline descriptors of the sample were taken from medical
+records and functional performance status was measured
+using the Karnofsky performance status scale [24], a singleitem scale ranging from 0 (death) to 100 (normal
+performance status with no complaints) [24, 25].
+Primary outcome measure
+The Multidimensional Fatigue Inventory (MFI) [26] was
+used to measure patient fatigue. The MFI is a 20-item
+assessment tool with five subscales: general fatigue,
+physical fatigue, mental fatigue, reduced activity and
+reduced motivation. Each subscale consists of four items,
+two indicative of fatigue and two contraindicative. Each
+fatigue subscale has a potential score range from 4 to 20,
+where higher scores indicate more fatigue. The MFI
+subscales have previously been reported to have good
+internal consistency (average Cronbach's Alpha=0.81) [22]
+and overall has been demonstrated to be a valid instrument
+for use amongst people with cancer [26].
+Secondary outcome measures
+Inter-relationships between cancer-related fatigue and other
+health constructs have previously been posited [27]. We
+therefore sought to examine the effect of the CAN-FIT
+programme on these health constructs measured using the
+following participant-rated outcomes.
+Health-related quality-of-life was measured using the
+EuroQual-5D (EQ-5D) comprising a visual analogue scale
+scored from 0 (worst imaginable health state) to 100 (best
+imaginable health state) and a five-item instrument converted into a utility score using the Dolan approach [28].
+Utility scores range −0.59 to 1 with a higher score
+indicating higher quality of life. Leisure and self-care
+activity participation was measured using the 15-item
+Frenchay Activities Index (FAI) [29]. The summary score
+generated ranges 0–45 with a higher score indicating
+increased participation in activities. Physical activity participation was measured using the International Physical
+Activity Questionnaire (IPAQ) short form [30]. This
+assessment generated variables for participation in vigorous
+and moderate activity and the amount of time per week
+spent walking. Participant anxiety and depression were
+measured using the Hospital Anxiety and Depression Scale
+(HADS) [31]. Subscale scores range from 0–21 with higher
+score indicating more anxiety/depression. Sleep disturbance
+was measured using the Medical Outcomes Study Sleep
+measure (MOSS) [32, 33]. Item responses are scored from
+0–100 and are averaged to create subscale scores with a
+higher score indicating more sleep problems. Time in paid
+employment or doing domestic work was assessed using
+the Health and Labour Questionnaire (HLQ) [34].
+Procedure
+Potential participants were identified through screening of
+radiotherapy booking forms and were provided with written
+and verbal information about the study by the principal
+investigator (AP). If informed consent was provided, relevant
+demographic and clinical information was extracted from the
+medical record and obtained from participants via interview.
+Participants were subsequently allocated into groups as
+determined by a simple randomisation sequence developed
+using a computerised random number generator. A researcher
+independent of the investigative team supervised both the
+development of the random allocation sequence and placing
+of the sequence into opaque, sequentially numbered envelopes stored securely in a research office. Once aware of the
+allocation, the principal investigator (AP) had no further
+contact with participants. A research assistant administered
+assessments and was blinded to group allocation. A second
+research assistant coordinated the interventions delivered by a
+multidisciplinary team.
+The trial was registered with the Australia New Zealand
+Clinical Trials registry (ACTRN12608000171314) and was
+approved by the ethics committee of both hospital and
+university the ethics committees.
+Analysis
+Demographic information
+Participant demographics and outcome surveys collected at
+baseline were compared between groups using unpaired t tests
+(data with normal distribution), logistic regression (dichotomous data and dummy variables for categorical data), or
+Wilcoxon rank-sum tests (skewed continuous data).
+Outcome measures
+Where summary scores were utilised, recommended scoring methods for each questionnaire were applied. Data
+Support Care Cancer (2011) 19:1429–1439 1431
+transformations were employed as indicated by the data
+distributions: IPAQ moderate and vigorous activity and
+HLQ participation in paid work variables were dichotomised; EQ5D utility and VAS scores underwent square
+transformations; and IPAQ walking and HADS depression
+scores underwent square root transformations.
+The overall study had a 2×2×3 factorial structure
+comprising factors of “pre” intervention (pre-RFES vs. no
+pre-RFES), “post” intervention (post-RFES vs. no postRFES), and “assessment” (Ax where Ax1: Preradiotherapy, Ax2: Post-radiotherapy, Ax3: 6-week
+follow-up) respectively. Generalized Estimating Equations
+(GEEs) were used to compare outcomes between intervention conditions due to the longitudinal nature of this design
+and likelihood of incomplete follow-up (given the clinical
+context of the trial). The GEE can account for missing
+continuous outcomes data without list-wise deletion or need
+for imputation, regardless of the nature of missing data,
+through selection of a working correlation matrix [35].
+Aim 1. The effect of pre-FES on patient outcomes: This
+analysis examined the difference between groups
+(pre-RFES versus no pre-RFES) in change in
+clinical outcomes across assessments (change from
+Ax1 to Ax2, and change from Ax1 to Ax3). An
+interaction between receiving both the pre-RFES
+and post-RFES interventions was investigated
+though found not to be significant for each outcome.
+Aim 2. The effect of post-RFES on patient outcomes: This
+analysis examined the difference between groups
+(post-RFES versus no post-RFES) in change in
+clinical outcomes across assessments (change from
+Ax2 to Ax3). Data from Ax2 was used as the
+baseline in these analyses as the post-RFES did not
+occur until after the end of treatment. Again an
+interaction between receiving both the pre-RFES
+and post-RFES interventions was investigated
+though found not to be significant for each outcome.
+Aim 3. The effect of receiving the complete CAN-FIT
+programme as opposed to standard care: Outcomes were compared between those who did not
+receive pre-RFES or post-RFES intervention with
+those who received both. Change in clinical
+outcomes from Ax1 to Ax3 was modelled to
+Eligible patients (n = 293) Excluded (n = 183)
+Unable to contact in required time (n = 49)
+Refused to participate (n = 113)
+Enrolled and randomised (n = 110) Excluded by medical consultant (n = 21)
+Assessment 1
+(Ax1)
+Assessment 2
+(Ax2)
+Assessment 3
+(Ax3)
+Pre-RT
+intervention
+Post-RT
+intervention
+Allocation
+Analysis
+Group 2: Allocated (n = 28)
+Received intervention n = 27
+Did not receive intervention (n = 0)
+Group 1: Allocated (n = 27)
+Completed Ax2 (n = 23)
+Did not complete Ax2 (n = 4)
+- Treatment cancelled (n = 2)
+- Withdrew (recurrence) (n = 1)
+- Did not return Ax2 (n = 1)
+Completed Ax1 (n = 27)
+Did not complete Ax1 (n = 0)
+Received intervention (n = 22)
+Did not receive intervention (n = 5)
+- Treatment cancelled (n = 2)
+- Withdrew (n = 1)
+- Not able to attend (n = 1)
+- Not willing to attend (n = 1)
+Completed Ax3 (n = 21)
+Did not complete Ax3 (n = 6)
+- Treatment cancelled (n = 2)
+- Withdrew (n = 1)
+- Did not return Ax3 (n = 3)
+Completed Ax1 (n = 26)
+Did not complete Ax1 (n = 2)
+- Withdrew (unwell) (n = 1)
+- Withdrew (no reason) (n = 1)
+Received intervention n = 26
+Did not receive intervention (n = 2)
+-Withdrew (unwell; no reason)(n = 2)
+Completed Ax2 (n = 23)
+Did not complete Ax2 (n = 5)
+- Treatment cancelled (n = 1)
+- Withdrew (n = 2)
+- Did not return Ax2 (n = 2)
+Completed Ax3 (n = 24)
+Did not complete Ax3 (n = 4)
+- Withdrew (n = 2)
+- Withdrew (recurrence) (n = 1)
+- Treatment cancelled (n = 1)
+- Did not return Ax3 (n = 1)
+Group 3: Allocated (n = 27)
+Completed Ax1 (n = 23)
+Did not complete Ax1 (n = 4)
+- Withdrawal (no reason) (n = 1)
+- Withdrawal (family death) (n = 1)
+- Not able to contact (n = 2)
+Completed Ax2 (n = 23)
+Did not complete Ax2 (n = 4)
+- Withdrawal (n = 2)
+- Not able to contact (n = 2)
+Received intervention (n = 23)
+Did not receive intervention (n = 4)
+- Withdrawal (n = 2)
+- Not able to contact (n = 1)
+- Did not attend (n =1 )
+Completed Ax3 (n = 22)
+Did not complete Ax3 (n = 5)
+- Withdrawal (n = 2)
+- Not able to contact (n = 2)
+- Did not return Ax3 (n = 1)
+Group 4: Allocated (n = 28)
+Completed Ax1 (n = 26 )
+Did not complete Ax1 (n = 2)
+- Withdrew (too tired) n = 1
+-Withdrew (other duties) (n=1)
+Completed Ax2 (n = 25)
+Did not complete Ax2 (n = 3)
+- Withdrew (comorbidities) (n = 1)
+- withdrew (n = 2)
+Completed Ax3 (n = 24)
+Did not complete Ax3 (n = 4)
+- Withdrew (n = 3)
+- Did not return Ax3 (n = 1)
+Analysed
+- Ax1: n = 27 (100%)
+- Ax2: n = 23 (85.2%)
+- Ax3: n = 21 (77.8%)
+Analysed
+- Ax1: n = 26 (92.9%)
+- Ax2: n = 23 (82.1%)
+- Ax3: n = 24 (85.7%)
+Analysed
+- Ax1: n = 23 (85.2%)
+- Ax2: n = 23 (85.2%)
+- Ax3: n = 22 (81.5%)
+Analysed
+- Ax1: n = 26 (92.6%)
+- Ax2: n = 25 (89.3%)
+- Ax3: n = 24 (85.7%)
+Fig. 1 Participant flow diagram
+1432 Support Care Cancer (2011) 19:1429–1439
+accommodate delivery of the entire CAN-FIT
+programme.
+Results
+During a 10-month recruitment period from April 2008 to
+February 2009, 293 patients were eligible for entry to the
+study. Of these, 110 participants were recruited (37.5%)
+with complete data obtained from 102 (92.7%) participants
+for Ax1, 94 (85.5%) for Ax2 and 91 (82.7%) for Ax3
+(Fig. 1). Participants were most commonly diagnosed with
+breast and prostate cancer. Demographic variables were
+broadly consistent between groups (Table 1) however some
+differences in the baseline assessment of outcome variables
+were identified (Table 2). These differences were in
+depression (pre vs. no pre-RFES), cancer-related fatigue
+reduced motivation subscale (pre vs. no pre-RFES) and
+time spent walking (post vs. not post-RFES).
+No significant interactions between pre-RFES and postRFES were identified indicating each aim could be
+analysed independently.
+Pre-RFES (compared to no pre-RFES) was not associated with change in fatigue levels for any of the MFI
+subscales at any assessment point (Table 3). At end of
+radiotherapy, significant treatment effects were noted with
+the treatment group having a greater increase in vigorous
+and moderate physical activity participation but a greater
+decrease in quality of life as measured by the EQ5D utility
+score. At follow-up assessment, the treatment group had
+significantly greater increase in vigorous activity and
+greater decrease in paid work participation.
+The post-RFES (compared to no post-RFES) analysis
+revealed greater improvement in mental fatigue and EQ-5D
+utility scores favouring those who did not attend post-RFES
+(Table 4). A significant treatment effect was seen with
+walking and participation in unpaid work with those who
+attended post-RFES having a greater increase in walking
+and greater decrease in unpaid work from start of treatment
+to follow-up assessment.
+No significant treatment effects noted on the fatigue or
+other secondary outcomes from the complete CAN-FIT
+programme analysis (Table 5).
+Discussion
+This study sought to determine the efficacy of a fatigue
+education and support programme, CAN-FIT, and identify
+Table 1 Comparison of demographics at baseline assessment
+Demographics Pre-RFES
+(n=52)
+No pre-RFES
+(n=49)
+Post-RFES
+(n=50)
+No post-RFES
+(n=53)
+CAN-FIT
+(n=27)
+Control
+(n=26)
+Age (years) 56.6 (12.4) 58.7 (12.7) 57.6 (13.6%) 57.6 (11.6%) 60.7 (2.08) 56.9 (2.56)
+Sex: female 28 (50.9%) 24 (43.6%) 27 (50.0%) 25 (44.6%) 14 (51.9%) 11 (39.3%)
+Ethnicity
+Non-indigenous Aust 40 (72.7%) 46 (83.6%) 44 (81.5%) 42 (75.0%) 22 (81.48%) 24 (85.71%)
+Other ethnicity 15 (27.3%) 9 (16.4%) 10 (18.5%) 14 (25.0%) 5 (18.5%) 4 (14.3%)
+Employment
+Full time 19 (34.6%) 22 (40.0%) 19 (35.2%) 22 (39.3%) 8 (29.6%) 11 (39.3%)
+Part time 6 (10.9%) 3 (5.5%) 3 (5.6%) 6 (10.7%) 3 (11.1%) 3 (10.7%)
+Casual 2 (3.6%) 4 (7.3%) 3 (5.6%) 3 (5.5%) 1 (3.7%) 2 (7.4%)
+Not working 28 (50.9%) 26 (47.3%) 29 (53.7%) 25 (44.6%) 15 (55.6%) 12 (42.9%)
+Performance status (KPSS) 80 (80, 90) 80 (70, 90) 80 (80, 90) 80 (70, 90) 80 (80, 90) 80 (70, 90)
+Diagnosis
+Breast cancer 21 (38.2%) 17 (30.9%) 18 (33.3%) 20 (35.7%) 10 (37.04%) 9 (32.14%)
+Head and neck 3 (5.5%) 7 (12.7%) 3 (5.6%) 7 (12.5%) 1 (3.70%) 5 (17.86%)
+Melanoma 6 (10.9%) 6 (10.9%) 8 (14.8%) 4 (7.1%) 3 (11.11%) 1 (3.57%)
+Prostate cancer 19 (34.6%) 17 (30.9%) 18 (33.3%) 18 (32.1%) 10 (37.04%) 9 (32.14%)
+Other diagnosis 6 (10.9%) 8 (14.6%) 7 (13.0%) 7 (12.5%) 3 (11.1%) 4 (14.3%)
+Radiotherapy (RT) treatment
+Length of RT (days) 30.4 (5.6) 28.6 (7.3) 28.6 (7.3) 30.5 (5.6) 29.0 (8.4) 30.1 (5.7)
+Dose of RT(Gy) 60.7 (10.8) 60.0 (10.6) 59.4 (11.1) 61.2 (10.3) 60.4 (11.0) 61.5 (9.9)
+Data presented are mean (sd), median (IQR) or frequency (%)
+CAN-FIT cancer-related fatigue intervention trial, RFES radiotherapy fatigue education and support, KPSS Karnofsky Performance Status Scale
+Support Care Cancer (2011) 19:1429–1439 1433
+Table 2 Comparison of outcome variables at baseline assessment
+Outcome variables Pre-RFES
+(n=52)
+No pre-RFES
+(n=49)
+p value Post-RFES
+(n=50)
+No Post-RFES
+(n=53)
+p value CAN-FIT
+(n=27)
+Control
+(n=26)
+p value
+Fatigue: Multidimensional Fatigue Inventory
+General fatigue 11.0 (4.5) 12.0 (5.2) 0.30 11.7 (4.6) 11.3 (5.2) 0.63 10.7 (0.8) 11.2 (5.6) 0.72
+Physical fatigue 11.9 (3.0) 12.9 (2.8) 0.09 12.4 (3.0) 12.4 (21.9) 1.00 11.5 (2.9) 12.5 (2.7) 0.22
+Reduced activity 10.4 (5.2 11.3 (5.7) 0.42 11.3 (5.7) 10.4 (5.2) 0.43 10.2 (5.2) 10.1 (5.1) 0.98
+Reduced motivation 7.8 (3.5) 9.5 (4.3) 0.04 8.8 (4.2) 8.6 (3.9) 0.75 7.2 (3.7) 8.6 (4.1) 0.20
+Mental fatigue 8.2 (4.6) 9.9 (4.8) 0.08 8.9 (4.9) 9.1 (4.6) 0.84 6.9 (3.9) 8.7 (4.4) 0.13
+Health-related quality of life: EuroQual-5D
+Utility 0.80 (0.69, 1) 0.78 (0.7,0.91) 0.22 0.76 (0.69, 1) 0.81 (0.69, 1) 0.89 0.80 (0.73, 1) 0.80 (0.67, 1) 0.44
+Visual analogue scale 80 (70, 90) 77.5 (60, 90) 0.31 75 (60.8, 90) 80 (70, 90) 0.41 80 (69.2, 90) 82.5 (54.8, 90) 0.96
+Sleep problems: Medical Outcomes Study Sleep measure
+Sleep problem index I 32.6 (23.2) 34.8 (23.3) 0.65 34.5 (22.8) 32.8 (23.8) 0.71 26.7 (19.0) 26.8 (20.3) 0.98
+Sleep problem index II 32.4 (23.5) 36.4 (23.8) 0.41 23.1 (35.1) 33.7 (24.3) 0.77 26.2 (19.0) 28.9 (21.9) 0.63
+Leisure/self-care activities: Frenchay Activities Index
+Summary score 28.9 (8.1) 28.0 (9.7) 0.63 29.0 (8.4) 27.8 (8.5) 0.52 31.3 (7.6) 29.1 (8.9) 0.37
+Physical activity: International Physical Activities Questionnaire
+Performs vigorous activity 15 (27.3%) 22 (40.0%) 0.16 20 (37.0%) 17 (30.4%) 0.46 7 (25.9%) 9 (32.1%) 0.61
+Performs moderate activity 24 (43.6%) 32 (58.2%) 0.13 27 (50.0%) 29 (51.8) 0.85 11 (40.7%) 16 (57.1%) 0.23
+Walking (min/week) 210 (120, 405) 240 (120, 450) 0.97 180 (60, 360) 330 (180, 742.5) 0.03 195 (120, 330) 285 (187.5, 742.5) 0.08
+Anxiety/depression: Hospital Anxiety and Depression Scale
+Anxiety 5.7 (3.6) 7.0 (4.3) 0.10 5.9 (4.0) 6.7 (3.9) 0.32 5.5 (3.9) 7.6 (4.3) 0.08
+Depression 3 (1, 5) 5 (1, 7) 0.04 3.5 (1, 6.25) 3 (1, 7) 0.97 2 (1, 4) 3.5 (1, 7) 0.22
+Occupational productivity: Health and Labour Questionnaire
+Unpaid work (min/week) 1,367.1 (1,055.4) 1,506.2 (1,033.9) 0.52 1,170 (600, 2,415) 1,260 (750, 1,980) 0.29 1,536.3 (1,180.7) 1,449.4 (814.9) 0.77
+Hours paid work 18 (32.7%) 14 (25.5%) 0.40 16 (29.6%) 16 (28.6%) 0.90 11 (40.7%) 9 (32.1%) 0.51
+Data presented are mean (sd), median (IQR) or frequency (%)
+RFES radiotherapy fatigue education and support, CAN-FIT cancer-related fatigue intervention trial
+1434 Support Care Cancer (2011) 19:1429
+–1439
+Table 3 Effects of receiving pre-RFES (radiotherapy fatigue education and support) compared with not receiving pre-RFES
+Ax1 Ax2 Change from Ax3 Change from
+Pre-RFES
+(n=52)
+No pre-RFES
+(n=49)
+Pre-RFES
+(n=46)
+No pre-RFES
+(n=48)
+Ax1-Ax2 coefficient
+(95% CI)
+Pre-RFES
+(n=45)
+No pre-RFES
+(n=46)
+Ax1–Ax3
+coefficient (95% CI)
+Fatigue: Multidimensional fatigue inventory
+General fatigue 11.0 (4.5) 12.0 (5.2) 11.1 (4.7) 12.5 (5.3) −0.67 (−2.3, 0.97) 9.8 (4.1) 10.7 (4.8) 0.08 (−1.58, 1.73)
+Physical
+fatigue
+11.9 (3.0) 12.9 (2.8) 12.8 (2.9) 13.0 (3.2) 0.69 (−0.48, 1.86) 11.8 (2.5) 12.0 (2.5) 0.64 (−0.53, 1.81)
+Reduced
+activity
+10.4 (5.2) 11.3 (5.7) 11.0 (4.9) 12.0 (5.5) −0.49 (−2.50, 1.51) 8.9 (4.3) 9.1 (5.2) 0.38 (−1.65, 2.42)
+Reduced
+motivation
+9.5 (4.3) 9.5 (4.4) 8.4 (4.3) 9.5 (4.6) 0.35 (−1.15, 1.85) 7.4 (4.0) 8.2 (4.8) 1.01 (−0.51, 2.52)
+Mental fatigue 8.2 (4.6) 9.9 (4.8) 8.2 (4.6) 9.3 (5.3) 0.72 (−0.95, 2.39) 7.4 (3.8) 8.5 (4.9) 0.77 (−0.91, 2.46)
+Health-related quality of life: EuroQual-5D
+Utility 0.80 (0.69, 1) 0.78 (0.7,0.91) 0.76 (0.69, 0.86) 0.80 (0.69, 1) −0.11 (−0.22, 0.00)* 0.85 (0.76, 1) 0.81 (0.74 1) −0.04 (−0.15, 0.07)
+Visual
+analogue
+scale
+80 (70, 90) 77.5 (60, 90) 80 (60, 87.75) 80 (60, 90) −679.36 (−1,741.31, 382.59) 80 (70, 90) 80 (67.5, 92) −354.3 (−1,426.01, 717.42)
+Sleep problems: Medical Outcomes Study Sleep measure
+Sleep problem
+index I
+32.6 (23.2) 34.8 (23.3) 32.0 (19.6) 35.1 (21.8) −0.4 (−7.62, 6.83) 26.7 (19.8) 30.1 (22.2) −0.09 (−7.38, 7.21)
+Sleep problem
+index II
+32.4 (23.5) 36.4 (23.8) 32.4 (19.7) 37.6 (22.1) −0.75 (−7.63, 6.12) 25.7 (19.1) 28.6 (19.9) 0.42 (−6.51, 7.36)
+Leisure/self-care activities: Frenchay Activities Index
+Summary score 28.9 (8.1) 28.0 (9.7) 27.7 (10.6) 28.0 (9.4) −1.01 (−4.3, 2.29) 29.3 (9.5 31.0 (8.4) −2.18 (−5.39, 1.02)
+Physical activity: International Physical Activities Questionnaire
+Performs
+vigorous
+activity
+15 (27.3%) 22 (40.0%) 23 (42.8%) 17 (30.9%) 1.05 (0.24, 1.86)** 31 (56.4%) 22 (40.0%) 1.24 (0.44, 2.03)**
+Performs
+moderate
+activity
+24 (43.6%) 32 (58.2%) 33 (60.0%) 22 (40.0%) 1.4 (0.53, 2.26)** 20 (36.4%) 32 (58.2%) 0.82 (−0.05, 1.68)
+Walking (min/
+week)
+210 (120, 405) 240 (120, 450) 190 (60, 375) 180 (120, 360) 1.63 (−5.08, 8.35) 180 (90, 495) 240 (172.5, 600) −0.74 (−7.48, 5.99)
+Anxiety/depression: Hospital Anxiety and Depression Scale
+Anxiety 5.7 (3.6) 7.0 (4.3) 5.3 (4.1) 5.8 (4.1) 0.23 (−1.09, 1.55) 5.0 (3.5) 5.5 (3.8) 0.74 (−0.59, 2.08)
+Depression 3 (1, 5) 5 (1, 7) 2 (1,4) 4 (2, 7) 0.07 (−0.30, 0.44) 2 (1, 3) 4 (2,6) −0.08 (−0.46, 0.29)
+Occupational productivity: Health and Labour Questionnaire
+Unpaid work
+(min/week)
+1,367.1 (1,055.4) 1,506.2 (1,033.9) 1,287.5 (1,152.8) 1,280.6 (1,055.0) 100.78 (−372.10, 573.65) 1,458.1 (991.2) 1,501.7 (973.0) 126.36 (−343.94, 596.65)
+Hours paid
+work
+18 (32.7%) 14 (25.5%) 11 (20.0%) 12 (21.8%) −0.46 (−1.18, 0.25) 13 (23.6%) 17 (30.9%) −0.72 (−1.41, −0.04)*
+Data presented are mean (sd), median (IQR) or frequency (%)
+Ax Assessment, CI confidence interval
+*p<0.05
+**p<0.01
+Support Care Cancer (2011) 19:1429
+–1439 1435
+an optimal approach for its delivery in relation to timing of
+provision. No form of the intervention achieved significant
+reduction in the primary outcome, fatigue at any time point.
+There are a number of potential explanations for this
+finding; first, the pattern of fatigue scores did not change
+significantly across the three time-points. An earlier study
+by this research team which examined fatigue with identical
+assessments and time-points in the same radiotherapy
+population (n=220) [22] found that fatigue increased
+significantly from baseline to end of treatment and then
+decreased significantly by 6-week follow-up echoing
+findings of similar research [3, 36]. This discrepancy may
+be explained by potential compensatory rivalry between
+groups aware of the aim of the study or by sample bias. The
+recruitment rate for this study (37%) was significantly
+lower than the previous study in the same centre (70%) [5]
+potentially indicating a sample of motivated participants
+who had a different fatigue experience. However, we must
+also consider the impact of educational interventions which
+in themselves, may not be powerful enough to mediate
+substantial improvement in such a complex and multifactorial symptom as fatigue whilst it changes significantly
+under the influence of an external factor (radiotherapy
+treatment) [37].
+Analysis of the complete CAN-FIT programme with
+both pre- and post-RFES sessions did not show any
+significant benefits above those of providing one session
+alone for the primary or secondary outcomes. However,
+Table 4 Effects of receiving post-RFES (radiotherapy fatigue education and support) compared with not receiving post-RFES
+Ax2 Ax3 Change from Ax2–Ax3
+coefficient (95% CI)
+Post-RFES (n=46) No post-RFES (n=48) Post-RFES (n=43) No post-RFES
+(n=48)
+Fatigue: Multidimensional Fatigue Inventory
+General fatigue 11.7 (4.9) 12.0 (5.2) 10.0 (4.3) 10.6 (4.7) 0.22 (−1.35, 1.79)
+Physical fatigue 13.0 (3.1) 12.8 (2.9) 12.1 (2.7) 11.6 (2.8) 0.41 (−0.80, 1.62)
+Reduced activity 11.5 (5.4) 11.5 (5.1) 9.7 (5.1) 8.4 (4.4) −1.32 (−3.12, 0.49)
+Reduced motivation 8.9 (4.3) 9.0 (4.7) 8.1 (4.8) 7.8 (4.1) 0.35 (−1.15, 1.86)
+Mental fatigue 7.9 (4.8) 9.6 (4.9) 7.9 (4.7) 8.0 (4.2) −1.66 (−3.21, −0.10)*
+Health-related quality of life: EuroQual-5D
+Utility 0.80 (0.69, 1) 0.76 (0.69, 1) 0.81 (0.73, 1) 0.85 (0.76, 1) 0.10 (0.00, 0.20)*
+Visual analogue scale 80 (60, 90) 80 (60, 90) 80 (70, 90) 80 (70, 90) 329.67 (−717.33, 1,376.67)
+Sleep problems: Medical Outcomes Study Sleep measure
+Sleep problem index I 35.0 (20.6) 32.1 (20.9) 29.5 (23.2) 27.5 (19.1) 0.88 (−4.83, 6.60)
+Sleep problem index II 36.1 (20.8) 33.9 (21.4) 25.9 (20.4) 28.2 (18.8) 1.15 (−4.69, 6.99)
+Leisure/self-care activities: Frenchay Activities Index
+Summary score 29.0 (9.5) 26.8 (10.3) 30.8 (9.1) 29.7 (8.9) −0.14 (−3.03, 2.75)
+Physical activity: International Physical Activities Questionnaire
+Performs vigorous
+activity
+18 (33.3%) 22 (39.3%) 24 (44.4%) 29 (51.8%) 0.04 (−0.68, 0.76)
+Performs moderate
+activity
+28 (51.9%) 27 (48.2%) 34 (63.0%) 33 (58.9%) −0.02 (−0.91, 0.86)
+Walking (min/week) 165 (67.5, 352.5) 300 (112.5, 401.25) 240 (87.5, 600) 240 (120, 420) 5.82 (0.07, 11.56)*
+Anxiety/depression: Hospital Anxiety and Depression Scale
+Anxiety 5.3 (4.1) 5.8 (4.0) 5.1 (4.1) 5.5 (3.3) 0.02 (−1.27, 1.32)
+Depression 3 (1.75, 5.25) 3 (1, 6.25) 3 (1, 5) 3 (1, 4.5) 0.16 (−0.19, 0.52)
+Occupational productivity: Health and Labour Questionnaire
+Unpaid work (min/
+week)
+1,423.7 (1,337.7) 1,140.7 (767.8) 1,299.3 (764.3) 1,650.9 (1,121.1) 561.79 (51.21, 1,072.37)*
+Participates in paid
+work
+13 (24.1%) 10 (17.9%) 14 (25.9%) 16 (28.6%) 0.51 (−0.13, 1.15)
+Data presented are mean (sd), median (IQR) or frequency (%)
+Ax assessment, CI confidence interval
+*p<0.05
+**p<0.01
+1436 Support Care Cancer (2011) 19:1429–1439
+significant benefits were observed on the secondary outcomes in those who attended one RFES session. Participants receiving pre-RFES reported significant increase in
+physical activity participation (vigorous and moderate
+activity) during radiotherapy whilst maintaining consistent
+levels of fatigue. In comparison, those who did not attend
+pre-RFES decreased their level of physical activity participation. Physical activity has previously been demonstrated
+to improve cardiopulmonary function and quality of life
+[38] and may decrease risk of cancer recurrence [39, 40].
+Previous studies with more intense intervention protocols
+have also demonstrated similar increased activity participation [38] however, due to the staffing required, these
+protocols are difficult to implement in resource-light
+clinical environments. This educational intervention has
+high feasibility for clinical use based on its group-based
+educational design.
+Participation in paid and unpaid employment for the
+whole sample decreased from start to end of radiotherapy
+and increased at follow-up assessment. A significantly
+slower increase in paid work at follow-up assessment was
+noted in those who attended pre-RFES. Against the trend
+established by the overall sample, levels of unpaid work
+decreased after radiotherapy in those who attended postRFES. While the cause of these changes cannot be
+conclusively ascertained from the study results, we
+hypothesise participants of education groups may have
+consciously reprioritised their involvement in work-related
+activities to increase their involvement in physical activities
+based on the activity management education provided.
+Table 5 Effects of receiving complete CAN-FIT (cancer-related fatigue intervention trial) programme compared with receiving standard care
+Ax 1 Ax 3 Change from Ax1–Ax3
+Coefficient (95%CI)
+CAN-FIT (n=27) Standard Care (n=26) CAN-FIT (n=21) Standard Care
+(n=24)
+Fatigue: Multidimensional Fatigue Inventory
+General fatigue 10.7 (0.8) 11.2 (5.6) 9.3 (3.7) 10.7 (5.0) 1.04 (−1.16, 3.24)
+Physical fatigue 11.5 (2.9) 12.5 (2.7) 11.9 (2.5) 11.6 (3.0) −1.28 (−2.93, 0.38)
+Reduced activity 10.2 (5.2) 10.1 (5.1) 9.14 (4.3) 8.2 (4.5) −0.77 (−3.62, 2.08)
+Reduced motivation 7.2 (3.7) 8.6 (4.1) 7..2 (4.0) 7.4 (4.2) −1.03 (−3.34, 1.28)
+Mental fatigue 6.9 (3.9) 8.7 (4.4) 6.6 (3.9) 7.8 (4.7) −0.57 (−2.63, 1.49)
+Health-related quality of life: EuroQual-5D
+Utility 0.80 (0.73, 1) 0.80 (0.67, 1) 0.83 (0.73, 1) 0.81 (0.76, 1) 358.15 (−1,325.68, 2,041.97)
+Visual Analogue Scale 80 (69.2, 90) 82.5 (54.8, 90) 80 (68.75, 90) 80 (56.5, 95) 0.1 (−0.06, 0.27)
+Sleep problems: Medical Outcomes Study Sleep measure
+Sleep problem index I 26.7 (19.0) 26.8 (20.3) 23.2 (18.8) 25.3 (17.6) 1.76 (−8.17, 11.68)
+Sleep problem index II 26.2 (19.0) 28.9 (21.9) 21.9 (18.4) 27.2 (18.5) 2.73 (−6, 11.46)
+Leisure/self-care activities: Frenchay Activities Index
+Summary score 31.3 (7.6) 29.1 (8.9) 30.9 (8.7) 31.2 (7.5) 2.34 (−2.13, 6.81)
+Physical activity: International Physical Activities Questionnaire
+Performs vigorous
+activity
+7 (25.9%) 9 (32.1%) 13 (48.2%) 11 (39.3%) −0.66 (−1.88, 0.55)
+Performs moderate
+activity
+11 (40.7%) 16 (57.1%) 17 (63.0%) 15 (53.6%) −1.05 (−2.28, 0.18)
+Walking (min/week) 195 (120, 330) 285 (187.5, 742.5) 270 (105, 690) 300 (180, 600) −6.15 (−16.32, 4.02)
+Anxiety/depression: Hospital Anxiety and Depression Scale
+Anxiety 5.5 (3.9) 7.6 (4.3) 5.2 (4.0) 6.0 (3.5) −0.85 (−2.68, 0.98)
+Depression 2 (1, 4) 3.5 (1, 7) 2 (1, 4) 4 (2, 5.5) 0.00 (−0.57, 0.58)
+Occupational productivity: Health and Labour Questionnaire
+Unpaid work (min/week) 1,536.3 (1,180.7) 1,449.4 (814.9) 1,341.4 (870.1) 1,707.2 (1,146.7) 454.75 (−184.33, 1,093.82)
+Participates in paid work 11 (40.7%) 9 (32.1%) 8 (29.6%) 11 (39.3%) 0.8 (0.00, 1.61)
+Data presented are mean (sd), median (IQR) or frequency (%)
+CI confidence interval, Ax Assessment
+*p<0.05
+**p<0.01
+Support Care Cancer (2011) 19:1429–1439 1437
+Quality of life was measured using the EQ-5D utility
+and VAS scores. The VAS score did not show significant
+change throughout the study however, the EQ-5D results
+required further examination. Pre-RFES was associated
+with a significant decrease in EQ-5D utility from start to
+end of radiotherapy treatment; however, this trend did
+not continue at the follow-up assessment. Examination of
+this result showed that changes across four of the five
+domains assessed by the EQ-5D utility were small
+(mobility, personal care, usual activities, anxiety/depression) whereas a large increase in the pain/discomfort
+domain occurred in the pre-RFES group principally
+accounting for the result. This change did not continue
+at the follow-up assessment. Examination of baseline
+data of participant VAS ratings of pain found the preRFES group had a greater increase (1.3 to 2.7) compared
+with the no pre-RFES group (1.3 to 2.4) reinforcing the
+contribution of pain to this result. Whilst further
+investigation is required, this finding is unlikely to be
+related to the intervention as the education provided did
+not address pain.
+EQ-5D utility and mental fatigue scores had significantly
+less improvement after radiotherapy in the post-RFES
+compared with no post-RFES group. The differences in
+EQ-5D scores were distributed across a number of domains.
+Whilst a cause for this relative decline in mental fatigue and
+quality of life is not clear, the timing of the post-RFES
+education and the need to return to the treatment centre may
+potentially have prolonged participants' attention to or
+memory of the experience of radiotherapy resulting in
+prolonged distress.
+One limitation of the study was the absence of a measure
+of fatigue distress. The experimental group anecdotally
+reported that their fatigue distress was reduced by attending
+the education sessions. Measuring this construct may have
+provided additional information about the effects of the
+RFES sessions. Additionally, the lack of a matched
+attentional control group could be seen as a limitation
+although this design was chosen to mimic the current
+clinical environment as seen in similar studies [41].
+However, this design limits conclusions about whether the
+treatment works, instead it allows us to investigate whether
+the new treatment is more effective than standard care [42].
+The most common diagnoses represented in this study
+were breast and prostate cancer. Other solid tumour
+diagnoses represented (melanoma and head and neck
+cancer) were not equally distributed between randomised
+groups. Of particular note is the presence of only one head
+and neck patient in the CAN-FIT intervention group.
+Haematological malignancies were not well represented
+due to their lower representation in radiotherapy groups.
+The findings from this study require replication in these
+other diagnostic groups.
+Conclusion
+The CAN-FIT programme did not significantly improve the
+primary outcome, level of fatigue, regardless of when it was
+delivered. However pre-RFES was associated with increased participation in vigorous and moderate activity
+without a corresponding increase in fatigue. It appears that
+the success of educationally based programmes targeting
+activity-based outcomes should be further investigated
+rather than pursuing change in underlying fatigue. This
+may assist patients to develop realistic expectations for their
+treatment phase and to improve overall patient health.
+Acknowledgments For the generous funding provided, the authors
+thank Queensland Health Cancer Control Team; Queensland Health,
+Health Practitioner Research Scheme; and the Princess Alexandra
+Hospital Cancer Collaborative Group. Thanks also for the support and
+cooperation of the Princess Alexandra Hospital Occupational Therapy
+and Radiotherapy Departments.
+Role of funding source Funding sources provided indirect funding
+only. No direct involvement occurred.
+Conflict of Interest None.
+References
+1. Stone PC, Minton O (2008) Cancer-related fatigue. Eur J Cancer
+44:1097–1104
+2. Henry DH et al (2008) Symptoms and treatment burden associated
+with cancer treatment: results from a cross-sectional national
+survey in the US. Support Care Cancer 16:791–801
+3. Ahlberg K, Ekman T, Gaston-Johansson F (2005) The experience
+of fatigue, other symptoms and global quality of life during
+radiotherapy for uterine cancer. Int J Nurs Stud 42:377–386
+4. Ahsberg E, Furst CJ (2001) Dimensions of fatigue during
+radiotherapy–an application of the Swedish Occupational Fatigue
+Inventory (SOFI) on cancer patients. Acta Oncol 40:37–43
+5. Purcell A et al (2010) A multidimensional examination of
+correlates of fatigue during radiotherapy. Cancer 116:529–537
+6. Chow E et al (2008) Symptom clusters in cancer patients with
+brain metastases. Clin Oncol 20:76–82
+7. Yennurajalingam S et al (2008) Association between fatigue and
+other cancer-related symptoms in patients with advanced cancer.
+Support Care Cancer 16:1125–1130
+8. Beck S, Dudley W, Barsevick A (2005) Pain, sleep disturbance,
+and fatigue in patients with cancer: using a mediation model to
+test a symptom cluster. Oncol Nurs Forum 32:E48–E55
+9. Hickok J et al (2005) Frequency, severity, clinical course, and
+correlates of fatigue in 372 patients during 5 weeks of radiotherapy for cancer. Cancer 104:1772–1778
+10. Barsevick AM, Dudley WN, Beck SL (2006) Cancer-related
+fatigue, depressive symptoms, and functional status: a mediation
+model. Nurs Res 55:366–372
+11. Mock V et al (2005) Exercise manages fatigue during breast cancer
+treatment: a randomized controlled trial. Psychooncology 14:464–477
+12. Barsevick A et al (2004) A randomized clinical trial of energy
+conservation for patients with cancer-related fatigue. Cancer
+100:1302–1310
+1438 Support Care Cancer (2011) 19:1429–1439
+13. Montgomery, P. and Dennis, J. (2003). Cognitive behavioural
+interventions for sleep problems in adults aged 60+. Cochrane
+Database of Systematic Reviews Art: CD003161. doi:10.1002/
+14651858.CD003161.
+14. Brown J (2002) A systematic review of the evidence on symptom
+management of cancer-related anorexia and cachexia. Oncol Nurs
+Forum 29:517–530
+15. Goedendorp, M.M., et al. (2009). Psychosocial interventions for
+reducing fatigue during cancer treatment in adults. Cochrane
+Database of Systematic Reviews Art: CD006953. doi:10.1002/
+14651858.CD006953.pub2.
+16. McNeely ML et al (2006) Effects of exercise on breast cancer
+patients and survivors: a systematic review and meta-analysis.
+Can Med Assoc J 175:34–41
+17. Kangas M, Bovbjerg DH, Montgomery GH (2008) Cancer-related
+fatigue: a systematic and meta-analytic review of nonpharmacological therapies for cancer patients. Psychol Bull
+134:700–741
+18. Jacobsen PB et al (2007) Systematic review and meta-analysis of
+psychological and activity-based interventions for cancer-related
+fatigue. Health Psychol 26:660–667
+19. National Comprehensive Cancer Network (2009) Cancer-related
+fatigue. NCCN Practice Guidelines in Oncology
+20. Mock V (2003) Cancer-Related Fatigue. Evidence-based cancer
+care and prevention, C. Given, et al., Editors. Springer, New York,
+In, pp 242–273
+21. Ahlberg K et al (2003) Assessment and management of cancerrelated fatigue in adults. Lancet 362:640–650
+22. Purcell A et al (2010) Determining the minimal clinically
+important difference criteria for the Multidimensional Fatigue
+Inventory in a radiotherapy population. Support Care Cancer
+18:307–315
+23. Rosenstock IM, Strecher VJ, Becker MH (1988) Social learning
+theory and the Health Belief Model. Health Educ Behav 15:175–183
+24. Mor V et al (1984) The Karnofsky Performance Status Scale. An
+examination of its reliability and validity in a research setting.
+Cancer 53:2002–2007
+25. Abernethy A, Shelby-James T, Fazekas BS, Woods D, Currow D
+(2005) The Australia-modified Karnofsky Performance Status
+(AKPS) scale: a revised scale for contemporary palliative care
+clinical practice. BMC Palliative Care 4:7. doi:10.1186/1472-
+684X-4-7
+26. Smets EM et al (1995) The Multidimensional Fatigue Inventory
+(MFI) psychometric qualities of an instrument to assess fatigue. J
+Psychosom Res 39:315–325
+27. Purcell A et al (2009) Cancer-related fatigue: a review and a
+conceptual framework to guide therapist understanding. Br J
+Occup Ther 72:79–86
+28. Dolan P, Roberts J (2002) Modelling valuations for Eq-5d health
+states: an alternative model using differences in valuations. Med
+Care 40:442–446
+29. Turnbull JC et al (2000) Validation of the Frenchay Activities
+Index in a general population aged 16 years and older. Arch Phys
+Med Rehabil 81:1034–1038
+30. Craig CL et al (2003) International physical activity questionnaire: 12-
+country reliability and validity. Med Sci Sports Exerc 35:1381–1395
+31. Zigmond AS, Snaith RP (1983) The hospital anxiety and
+depression scale. Acta Psychiatr Scand 67:361–370
+32. Hays RD, Stewart AL (1992) Sleep measures. In: Stewart AL,
+Ware JE (eds) Measuring functioning and well-being: The
+Medical Outcomes Study approach. Duke University Press,
+Durham, NC, pp 235–259
+33. Hays RD et al (2005) Psychometric properties of the Medical
+Outcomes Study Sleep measure. Sleep Med 6:41–44
+34. van Roijen L et al (1996) Labor and health status in economic
+evaluation of health care. The Health and Labor Questionnaire. Int
+J Technol Assess Health Care 12:405–415
+35. Twisk J (2003) Applied longitudinal data analysis for epidemiology—
+a practical guide. (2003). Cambridge University Press, Cambridge
+36. Furst CJ, Ahsberg E (2001) Dimensions of fatigue during
+radiotherapy. An application of the Multidimensional Fatigue
+Inventory. Support Care Cancer 9:355–360
+37. Yates P et al (2005) Randomized controlled trial of an educational
+intervention for managing fatigue in women receiving adjuvant
+chemotherapy for early-stage breast cancer. J Clin Oncol
+23:6027–6036
+38. Courneya KS et al (2003) Randomized controlled trial of exercise
+training in postmenopausal breast cancer survivors: cardiopulmonary and quality of life outcomes. J Clin Oncol 21:1660–1668
+39. Holmes MD et al (2005) Physical activity and survival after breast
+cancer diagnosis. J Am Med Assoc 293:2479–2486
+40. Holick CN et al (2008) Physical activity and survival after
+diagnosis of invasive breast cancer. Cancer Epidemiol Biomark
+Prev 17:379–386
+41. Armes J et al (2007) A randomized controlled trial to evaluate the
+effectiveness of a brief, behaviorally oriented intervention for
+cancer-related fatigue. Cancer 110:1385–1395
+42. Portney L, Watkins M (2009) Statistical measures of validity. In:
+Foundations of clinical research. Pearson Prentice Hall, New
+Jersey, pp 619–658
+Support Care Cancer (2011) 19:1429–1439 1439

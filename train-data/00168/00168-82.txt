@@ -1,0 +1,864 @@
+American Journal of Epidemiology
+ª The Author 2011. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of
+Public Health. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.
+Vol. 174, No. 3
+DOI: 10.1093/aje/kwr072
+Advance Access publication:
+June 7, 2011
+Original Contribution
+Guillain-Barre´ Syndrome, Influenzalike Illnesses, and Influenza Vaccination
+During Seasons With and Without Circulating A/H1N1 Viruses
+Lamiae Grimaldi-Bensouda*, Annick Alpe´rovitch, Ge´rard Besson, Christophe Vial,
+Jean-Marie Cuisset, Caroline Papeix, Olivier Lyon-Caen, Jacques Benichou, Michel Rossignol,
+and Lucien Abenhaim for the GBS-PGRx Study Group
+* Correspondence to Dr. Lamiae Grimaldi-Bensouda, LA-SER and Institut Pasteur, 10 place de Catalogne, 75014 Paris, France
+(e-mail: lgrimaldi@pgrx.net).
+Initially submitted November 17, 2010; accepted for publication February 22, 2011.
+The role of influenzalike illnesses and influenza vaccination in the development of Guillain-Barre´ syndrome
+(GBS), particularly the role of A/H1N1 epidemics and A/H1N1 vaccination, is debated. Data on all incident GBS
+cases meeting the Brighton Collaboration criteria that were diagnosed at 25 neurology centers in France were
+prospectively collected between March 2007 and June 2010, covering 3 influenzavirus seasons, including the
+2009–2010 A/H1N1 outbreak. A total of 457 general practitioners provided a registry of patients from which 1,080
+controls were matched by age, gender, index date (calendar month), and region to 145 cases. Causal relations
+were assessed by multivariate case-control analysis with adjustment for risk factors (personal and family history
+of autoimmune disorders, among others), while matching on age, gender, and calendar time. Influenza (seasonal
+or A/H1N1) or influenzalike symptoms in the 2 months preceding the index date was associated with GBS,
+with a matched odds ratio of 2.3 (95% confidence interval (CI): 0.7, 8.2). The difference in the rates of GBS
+occurring between influenza virus circulation periods and noncirculation periods was highly statistically significant
+(P ¼ 0.004). Adjusted odds ratios for GBS occurrence within 6 weeks after seasonal and A/H1N1 vaccination were
+1.3 (95% CI: 0.4, 4.1) and 0.9 (95% CI: 0.1, 7.6), respectively. Study results confirm that influenza virus is a likely
+risk factor for GBS. Conversely, no new concerns have arisen regarding influenza vaccination.
+case-control studies; Guillain-Barre syndrome; influenza A virus, H1N1 subtype; influenza, human; risk;
+vaccination
+Abbreviations: CI, confidence interval; GBS, Guillain-Barre´ syndrome; GROG, Groupes Re´gionaux d’Observation de la Grippe;
+PGRx, Pharmacoepidemiologic General Research eXtension.
+Guillain-Barre´ syndrome (GBS) is an immune-mediated
+disorder of the peripheral nervous system usually presenting
+as an acute inflammatory demyelinating polyradiculoneuropathy. Patients with GBS often recover within a few
+months; however, nearly 20% develop permanent neurologic disabilities. In a nationwide study conducted in the
+Unites States from 2000 to 2004, the mortality rate was
+2.6%; rates as high as 10% have been reported (1–8). The
+incidence of GBS varies between 1 and 4 cases per 100,000
+person-years worldwide (4, 8). Men are at higher risk
+(1.5 times) of GBS than women (8). Epidemiologic studies
+from Europe and North America showed that GBS incidence increased with age and was 4 times higher in persons
+aged 75 years or more than in those aged 30 years or less (8).
+Infectious agents may trigger the immunopathologic process leading to GBS. Case-control studies have consistently
+shown an association between previous infections caused
+by Campylobacter jejuni or cytomegalovirus and GBS
+occurrence (9). The data available on Epstein-Barr virus,
+Mycoplasma pneumoniae, and other infections as possible
+causative agents for GBS are less consistent. Anecdotal
+reports following influenza virus infection or influenzalike
+illnesses have been recently confirmed by analysis of the
+United Kingdom’s General Practice Research Database
+326 Am J Epidemiol. 2011;174(3):326–335
+Downloaded from https://academic.oup.com/aje/article-abstract/174/3/326/246040 by guest on 15 October 2019
+showing an association of influenza and influenzalike illnesses with GBS (10, 11).
+Following implementation of the National Influenza
+Immunization Program against swine influenza in the
+United States in 1976, a possible increase in GBS incidence
+was reported following A/New Jersey/76/H1N1 influenza
+vaccination, leading to suspension of the vaccination program (12). In a few subsequent studies, investigators reported an increased risk of GBS following administration
+of influenza vaccine (13, 14), while others did not find any
+significant association (10, 15). Among these studies, only
+1 concomitantly studied the presence of influenzalike illnesses and vaccination, providing evidence of a causative
+role of influenza viruses as a risk factor for GBS rather than
+the vaccine (10). To our best knowledge, no investigators
+have reported specifically on A/H1N1 influenza and GBS
+so far. In response to the emergence of a pandemic influenza
+A/H1N1 virus outbreak in 2009, new influenza A/H1N1
+vaccines were promptly developed and introduced in the
+general population. In many countries, national vaccination
+programs were launched, and vaccine safety monitoring
+was a major concern for medical agencies and public health
+authorities.
+In 2007, we started a prospective case-control study
+to explore the relation between exposure to medicines (including vaccines) and subsequent development of GBS.
+Within this study, we examined whether influenza itself
+and vaccination against influenza (i.e., seasonal influenza
+and A/H1N1 influenza) might be associated with an increased risk of GBS. We also examined the temporal distribution of the GBS cases recruited by the participating study
+centers during the periods with and without circulation of
+influenza viruses.
+MATERIALS AND METHODS
+Study population
+To be eligible for the study, cases and controls had to
+be resident in continental France and had to be able to read
+and respond to a telephone interview. Participation was
+not restricted by age. The study protocol was submitted to
+the Ethical Review Committee of Paris-Ile de France III
+(Comite´ de Protection des Personnes Ile de France III)
+and approved by the French Data Protection Authority
+(Commission Nationale de l’Informatique et des Liberte´s).
+All participants signed an informed consent form.
+Cases
+All university and major regional hospital centers (n ¼ 83)
+from metropolitan France known to include a large
+neurology clinic were approached to participate in the
+Pharmacoepidemiologic General Research eXtension
+(PGRx) System (LA-SER, Paris, France) network in neurology (PGRx-Neuro). In addition, 9 centers known to treat
+neurologic diseases in children were approached. Among
+the adult PGRx neurology centers, 46 (55.4%) agreed to
+participate, of which 22 reported treating GBS and thus
+were considered for the GBS registry (PGRx-GBS); 2 were
+neurologic intensive care units. Of the pediatric centers, 6
+(67%) agreed to participate, of which 3 were neuropediatric
+units treating GBS cases; they were all considered for this
+study. Consecutive subjects presenting with a clinical pattern evocative of GBS were prospectively identified by the
+participating centers, and every eligible case was registered.
+The recruiting neurologist completed a detailed medical
+data form. Cases were ascertained for diagnostic certainty
+using an algorithm based on the Brighton Collaboration
+criteria for case definition (12, 16–19) considering clinical,
+electrophysiologic, and cerebrospinal fluid data. Borderline
+cases were reviewed by 2 independent experts who were
+blinded to medication and vaccination exposure. Each case
+was qualified according to the Brighton Collaboration levels
+of certainty into level 1, 2, or 3 (Table 1) (12, 16–19). Cases
+not meeting the criteria for any of these levels were not
+retained. The index date of a case was defined as the date of
+the first sign or symptom indicative of the episode of GBS
+that led the subject to consult a physician (general practitioner or neurologist).
+Each one of the GBS centers was visited every 2 months
+at a minimum by an external clinical research assistant for
+exhaustive recruitment. A formal audit of completeness of
+inclusion and quality of data entered was done for every
+center; a period of 2 months was randomly selected for this
+audit. No additional eligible cases were found.
+In anticipation of the influenza A/H1N1 vaccination
+program, which started in October 2009, the 21 adult PGRx
+neurology centers not specializing in GBS were surveyed to
+locate all possible leads for capture of new GBS cases. The
+neurology centers did not identify any GBS cases and are
+not included in this report.
+Controls
+Controls were selected from a registry comprising general
+practitioners from across France, which is made available
+for studies using general practice patients (20). The 457
+participating general practitioners were located in the same
+regions as the neurology centers and had been contacted
+after random selection from the French national list of
+general practitioners. The participating general practitioners
+were instructed to recruit patients regardless of their reasons
+Table 1. Case Definitions of Guillain-Barre´ Syndrome Based on the
+Brighton Collaboration Criteriaa
+Brighton
+Collaboration
+Level
+Clinical
+Presentation
+1 Clinical, electrophysiologic, and CSF data
+must be consistent with the onset of GBS.
+2 Clinical data and either electrophysiologic
+or CSF data must be consistent with the
+onset of GBS.
+3 Clinical data must be consistent with the
+onset of GBS.
+Abbreviations: CSF, cerebrospinal fluid; GBS, Guillain-Barre´
+syndrome. a Brighton Collaboration Foundation, Basel, Switzerland (12, 16–19).
+GBS and A/H1N1, Seasonal Influenzalike Illness, and Vaccination 327
+Am J Epidemiol. 2011;174(3):326–335
+Downloaded from https://academic.oup.com/aje/article-abstract/174/3/326/246040 by guest on 15 October 2019
+for consulting a physician. The general practitioners identified, registered, and recruited the first male patient and the
+first female patient who presented to their practice and
+agreed to take part in the study, for each of the following
+age categories: <3, 3–6, 7–12, 13–17, 18–34, 35–49, 50–64,
+65–79, and 80 years. For the age categories 50–64 years
+and 65–79 years, the second male and the second female
+presenting to the practice were also recruited. A registry of
+8,147 subjects was thus constituted.
+Physicians were requested to complete an electronic data
+form for every subject in the registry, which included medical information (chronic diseases and comorbid conditions,
+medical risk factors, and routine biologic data). Controls
+were selected from this registry. All subjects fulfilling
+the inclusion criteria and not meeting any of the exclusion
+criteria were identified by the research team, and as many
+controls as were available were individually matched to
+cases. This was achieved by using an iterative matching
+process, with a control being dropped from the pool after
+matching. The dates for control recruitment were matched
+(by calendar month) to the index date of the associated case.
+Additional matching criteria included gender, age (65 years
+for cases aged 18 years or more and 61 year for cases
+younger than 18 years), and place of residence (northern
+or southern France).
+Data collection
+In France, annual vaccination against seasonal influenza
+is recommended for children aged 6 months–18 years,
+adults aged 65 years or older, health-care workers, anyone
+at least 6 months of age with certain underlying chronic
+conditions, pregnant women, and people who come into
+direct contact with anyone at high risk. However, following
+the influenza virus outbreak in 2009, all residents of France
+were urged to be vaccinated against A/H1N1. National vaccination coverage is assessed by the French Institute for
+Public Health Surveillance (Institut de Veille Sanitaire).
+Each participant (or one of his/her parents if under age
+18 years) was interviewed by telephone, blindly to case/
+control status. Participants had been previously sent a guide
+to the structured interview. The guide included a list and a
+packaged visual display of drugs and vaccines, compiled
+according to a method used previously (21). Self-reported
+data on use of drugs and vaccines for the last 2 years were
+collected. Starting with the beginning of the French influenza A/H1N1 vaccination program, participants (cases and
+controls) were specifically asked whether they had undergone vaccination for protection against influenza A/H1N1
+virus, which was administered in specialized centers and
+thus easily identifiable.
+Objective confirmation of vaccine use was sought and
+obtained in a sample of 40% of cases and controls for the
+seasonal vaccination. The proportion was raised to 100%
+during the A/H1N1 vaccination program. Confirmation of
+vaccination included copies of vaccination sheets or certificates and/or a health agenda, vaccine batch numbers, attestation of vaccination against A/H1N1 viruses, or verification
+that the latter vaccination had been received at a specialized
+A/H1N1 vaccination center.
+Other data
+Additional data collected during the interview included
+information on occupation, frequency of consultation with
+a physician during the past 12 months, and use of other
+drugs and vaccines. Additional information collected from
+the physicians included data on family history of autoimmune diseases and major comorbid conditions (cardiovascular diseases, diabetes, musculoskeletal diseases, and
+neurologic diseases).
+Data about the temporal pattern of influenza epidemics
+in France for the years 2007–2010 were obtained from the
+French Regional Groups for the Surveillance of Influenza
+(Groupes Re´gionaux d’Observation de la Grippe (GROG))
+(22). The GROG network collects data related to influenza
+incidence—seasonal and/or A/H1N1—across France. Each
+day was categorized according to whether or not it was
+included within a circulation period using GROG methodology (23).
+Statistical analysis
+The possible relation between influenza vaccines—seasonal
+and A/H1N1—and GBS was investigated in the cases and
+matched controls included in the case-control study. For the
+influenza A/H1N1 vaccine, analysis was restricted to the GBS
+cases that had occurred from commencement of the French
+national vaccination program on October 20, 2009, to 6 weeks
+after the end of the vaccination campaign on March 31, 2010.
+Time windows at risk
+The primary time window at risk was fixed at 6 weeks
+according to the US Centers for Disease Control and
+Prevention (24). Secondly, 7-week to 3-month and 4-month
+to 6-month time windows were also considered, as reported
+by Stowe et al. (10).
+Statistical methods
+For each time window and vaccine, odds ratios with 95%
+confidence intervals were computed using conditional logistic regression models taking into account the variable number of controls per case (25). Two logistic regression models
+were used for each analysis. In model 1, results were specifically adjusted using the matching variables (matched
+odds ratio). Model 2 estimated odds ratios adjusted for the
+risk factors considered for each analysis. Separate models
+were fitted for each main variable under consideration.
+For the study of influenza vaccination, use of seasonal
+influenza vaccines and/or A/H1N1 influenza vaccines was
+considered with respect to the index date for the primary
+time window at risk. The risk factors considered for this
+analysis were: 1) administration of any other vaccine during
+the time window for exposure under study (yes/no); 2) past
+use of influenza vaccine(s)—report of vaccination for previous influenza seasons (1 or more years preceding the index
+date) (yes/no); 3) family history of autoimmune diseases
+(yes/no); 4) number of physician visits in the previous year
+(0–2, 3–6, 7–12, or 13); 5) receipt of antibiotic or antiviral
+treatments during the 2 months preceding the index date
+328 Grimaldi-Bensouda et al.
+Am J Epidemiol. 2011;174(3):326–335
+Downloaded from https://academic.oup.com/aje/article-abstract/174/3/326/246040 by guest on 15 October 2019
+(yes/no); and 6) antipyretic intake during the 2 months preceding the index date (yes/no).
+The study of the effect of influenzalike illnesses included
+the presence of influenza or influenzalike illnesses during
+the 2 months preceding the index date, adjusted for receipt
+of influenza vaccine (seasonal and/or A/H1N1 vaccines) and
+factors 1–4 above. For the sensitivity analysis, recent bacterial or viral infection was defined as reporting of influenza,
+reporting of influenzalike symptoms, and/or use of antibiotic, antiviral, or antipyretic agents during the 2 months
+preceding the index date (data on influenza and influenzalike illnesses were collected from October 2009 onward).
+To assess the potential effect of overmatching by age
+(which was thought to be related to the probability of exposure to influenza vaccine), we performed 2 sensitivity
+analyses: 1) an unconditional logistic regression analysis
+including age as a continuous variable for the same population of cases and controls as the one used for the main
+analysis and 2) a conditional logistic regression analysis
+adjusted for age (in addition to the criteria used for the main
+analysis adjustment) performed using a new set of controls
+selected from the reference population by matching only on
+date, gender, and place of residence.
+We also examined the temporal distribution of the GBS
+cases with regard to the influenza circulating period data in
+the centers participating from October 2008 to March 2010
+(in the preceding year, only a few centers had joined the
+study). The mean monthly numbers of GBS cases occurring
+in circulating and noncirculating periods were compared
+using a t test. Both A/H1N1 and seasonal influenza vaccination in the reference population was compared with expectations. For that purpose, the vaccination proportion
+observed in the recruited sample was standardized for
+the age and gender structure of the French population. Standardization to gender and age strata used for recruitment
+was based on the 2009 census survey (http://www.insee.fr/)
+from the French National Institute of Statistics and Economic
+Studies (Institut National de la Statistique et des E´tudes
+E´ conomiques).
+RESULTS
+Between March 2007 and June 2010, 175 subjects were
+referred to the study centers and recruited for the study in
+the 25 GBS-specialized adult and pediatric neurology centers. None of the recruited subjects was seen at the additional 21 PGRx neurology centers not specializing in GBS.
+Among the cases referred, 173 met Brighton level 1, 2, or 3
+criteria for GBS; 1 was later confirmed as a case of chronic
+polyradiculoneuritis, and another case not meeting the
+Brighton criteria for GBS was rejected. From the 173 included cases, 18 persons accepted but could not be reached
+for the interview (after several attempts were made up
+to 45 days following recruitment), 3 refused to participate
+afterwards, and 7 were interviewed but no control from the
+general practitioners’ registry was found to match them in
+the appropriate time window (Figure 1). Thus, 145 cases and
+1,080 matched controls were included in this study. Among
+the included cases, 33 (22.7%) were first seen in emergency
+rooms of other hospitals in the same geographic area as
+the GBS-specialized centers but without units specializing
+in GBS; none of these were tertiary referrals.
+The clinical features of the GBS cases are summarized
+in Table 2. The incident cases meeting the Brighton criteria
+were distributed as follows: 113, 29, and 3 cases for levels
+1, 2, and 3 of GBS, respectively. The main characteristics
+of cases and controls included in the case-control study are
+shown in Table 3. The mean age of cases was 48.6 years
+(standard deviation, 18; range, 4–79), and 61% were male.
+While 56% of the subjects had merely a motor syndrome,
+31% showed both sensory and motor symptoms (Table 2).
+At hospital admission, 29% of the subjects had severe motor
+disorders and/or major respiratory difficulties (Hughes score
+4–5). No in-hospital deaths were reported. The mean delay
+between the first sign or symptom and inclusion in the study
+was 58.9 days (standard deviation, 24.6; range, 3–92).
+Overall, the comparison between cases and controls
+showed no meaningful difference (Table 3) with regard to
+sociodemographic factors, occupation, history of neurologic
+disorders, or family history of autoimmune diseases. The
+most frequent diagnoses among controls at the time of
+recruitment were cardiovascular and musculoskeletal disorders, as expected for this general practice population
+(results not shown). The frequency of consultation with a
+general practitioner was similar for both groups.
+Table 4 displays the mean rate of occurrence of GBS
+cases per month in the participating centers between
+October 2008 and March 2010 using the dates of the cases’
+first symptoms, separating the periods of influenza virus
+circulation and noncirculation according to the GROG
+method. In the absence of influenza virus circulation, the
+rates were 4.24 cases per 30 days in 2008 and 4.36 cases per
+30 days in 2009 (average ¼ 4.29 cases per 30 days). During
+the 2008–2009 seasonal influenza circulating period, the
+rate was 6.22 cases per 30 days, and during the corresponding period in 2009–2010, when both the seasonal and
+A/H1N1 influenza viruses were circulating, the rate was 8.03
+cases per 30 days (average for influenza circulating periods ¼ 7.26 cases per 30 days). The difference between the
+rates of GBS case occurrence during circulating and noncirculating periods was statistically significant (P ¼ 0.004);
+this was not the case for the comparisons within circulation
+and noncirculation periods. Unexpectedly, 17 cases occurred
+in January 2010 alone (8 cases in January 2009).
+In the case-control analysis of patients recruited from
+October 2009 onward, the presence of influenza or influenzalike illnesses during the 2 months preceding the index
+date was associated with the occurrence of GBS, with
+a matched odds ratio of 2.33 (95% confidence interval
+(CI): 0.66, 8.19) (data recorded from October 2009 onward)
+and an adjusted odds ratio of 2.11 (95% CI: 0.57, 7.73)
+(Table 5). In the analysis using the whole patient population
+recruited, the adjusted odds ratio for GBS associated with
+influenza, influenzalike illnesses, or markers of acute infection (antibiotic, antiviral, or antipyretic use) during the 2
+months preceding the index date was 2.04 (95% CI: 1.18,
+3.50) (Table 5).
+Among the 2,077 potential referents recruited between
+October 20, 2009 (the start of the A/H1N1 influenza
+GBS and A/H1N1, Seasonal Influenzalike Illness, and Vaccination 329
+Am J Epidemiol. 2011;174(3):326–335
+Downloaded from https://academic.oup.com/aje/article-abstract/174/3/326/246040 by guest on 15 October 2019
+vaccination season) and June 2010, 147 (7.1%) had been
+vaccinated (at any point in the past) against A/H1N1, corresponding to 7.3% (95% CI: 6.0, 8.6) when standardized
+to the structure of the French population. Similarly, during
+the winter of 2009–2010, among the 2,355 potential referents recruited from September 10, 2009 (the start of the
+seasonal influenza vaccination season) to June 2010, 589
+(25.0%) had been vaccinated with seasonal influenza vaccines, corresponding to 20% (95% CI: 18, 21) when standardized to the structure of the French population. These
+percentages of use of both influenza vaccines were comparable to expectations (7.9% and 26% for A/H1N1 and
+seasonal influenza vaccination coverage, respectively,
+according to the Institute for Public Health Surveillance).
+For subjects aged 65 years or older, 67% and 8.5% were
+vaccinated against A/H1N1 and seasonal influenza, respectively, which is very close to observed figures in the
+French population.
+The proportion of subjects who had been exposed to
+an influenza vaccine—either or both seasonal vaccine and
+A/H1N1 vaccine—during the 6-week time window was
+4.1% for GBS cases and 3.0% for controls (Table 6). For
+this primary time window, exposure to any influenza vaccine
+was associated with GBS, with an adjusted odds ratio
+of 1.22 (95% CI: 0.45, 3.32). When seasonal and A/H1N1
+vaccination were examined separately, the adjusted odds
+ratio for exposure to seasonal influenza vaccine within the
+6 weeks before GBS onset was 1.30 (95% CI: 0.41, 4.12);
+for the influenza A/H1N1 vaccine, the odds ratio was 0.92
+(95% CI: 0.11, 7.55). In the secondary analysis using the
+7-week to 3-month and 4-month to 6-month time windows,
+the odds ratio estimates were all under or around unity and
+were not statistically significant (Table 6).
+In the sensitivity analysis using the same populations
+of cases and matched controls as the ones used for the
+main analysis in unconditional logistic regression, the
+crude and adjusted odds ratio estimates for exposure within
+the 6 weeks before GBS onset were 1.41 (95% CI: 0.58,
+3.44) and 1.22 (95% CI: 0.48, 3.14), respectively, for
+all influenza vaccines; 1.64 (95% CI: 0.61, 4.39) and 1.41
+(95% CI: 0.49, 4.06), respectively, for seasonal influenza
+vaccines; and 0.78 (95% CI: 0.10, 6.26) and 1.02 (95% CI:
+0.11, 9.04), respectively, for influenza A/H1N1 vaccines.
+Additionally, the selection of controls without matching
+on age (matched only on gender and index date) yielded
+151 cases and 5,054 matched controls over the entire study
+period and 40 cases and 1,162 matched controls over
+the period from October 20, 2009, to March 31, 2010.
+The matched crude and adjusted odds ratio estimates for
+exposure within the 6 weeks before GBS onset were 0.93
+(95% CI: 0.39, 2.24) and 1.11 (95% CI: 0.45, 2.75), respectively, for all influenza vaccines; 0.95 (95% CI: 0.36,
+2.49) and 1.13 (95% CI: 0.42, 3.08), respectively, for seasonal influenza vaccines; and 0.81 (95% CI: 0.11, 6.20)
+and 1.03 (95% CI: 0.13, 8.26), respectively, for influenza
+A/H1N1 vaccines.
+Suspected GBS cases
+referred to the 25 study
+centers
+(n = 175)
+Assessed for eligibility
+(n = 173)
+Total included
+(n = 145)
+Eligible but not included:
+Not available for the interview (n = 18)
+Refused to participate afterwards (n = 3)
+Interviewed but failed to find matching control (n = 7)
+Excluded:
+Case confirmed as chronic polyradiculoneuritis (n = 1)
+Case not meeting Brighton criteria (n = 1)
+Figure 1. Recruitment of participants for a study of the relation between influenza illness and vaccination and risk of Guillain-Barre´ syndrome
+(GBS), France, March 2007–June 2010.
+330 Grimaldi-Bensouda et al.
+Am J Epidemiol. 2011;174(3):326–335
+Downloaded from https://academic.oup.com/aje/article-abstract/174/3/326/246040 by guest on 15 October 2019
+DISCUSSION
+The present study had the unique advantage of starting
+long before the A/H1N1 pandemic was announced and in
+the absence of any alert, and it combined both exhaustive
+recruitment of cases in the study centers and a case-control
+analysis. In addition, to our knowledge, it is the sole study
+on this topic using clinical data where GBS cases have been
+confirmed. A significantly higher occurrence of GBS was
+observed during influenza virus circulating periods in 2008–
+2009 and 2009–2010 than during comparative noncirculating periods. Whether these differences could be attributable
+to vaccination as opposed to the viral infection itself was
+studied with the case-control analysis. It also found that
+subjects with a recent history of influenza or influenzalike
+symptoms showed higher odds of GBS but that vaccination
+itself was not associated with significantly elevated odds
+ratios, regardless of whether the vaccine was seasonal or
+A/H1N1 vaccine.
+Practically all influenza viruses circulating in the 2009–
+2010 winter season were the A/H1N1 strain, whereas seasonal influenza viruses were circulating during the same
+period in 2008–2009. The rate of GBS occurrence in
+2009–2010 was slightly higher than that in 2008–2009,
+but this difference was not statistically significant.
+Our findings were consistent with those of Stowe et al.
+(10) and Tam et al. (11), who reported an increased risk
+of GBS during the 2-month period following influenza or
+influenzalike illness in patients from the United Kingdom’s
+General Practice Research Database. Stowe et al. (10) also
+reported no appreciable evidence of an increased risk of
+GBS with seasonal influenza vaccines.
+According to figures released by the European Medicines
+Agency in early May 2010, 46 million Europeans had been
+Table 2. Clinical Features of Guillain-Barre´ Syndrome Cases (n ¼ 145), France, March 2007–June 2010
+Variable No. With Dataa No. %
+Clinical symptoms at onset 145
+Motor deficit 81 55.8
+Sensory deficit 94 64.8
+Pain 69 47.6
+Clinical history
+Neurologic symptoms at hospital admission 142
+Lower limb weakness 142 100
+Rapidly progressing weakness 113 79.6
+Bilateral symptoms 136 95.8
+Symmetric neurologic symptoms 124 87.3
+Cranial nerve deficits 140 44 31.4
+Hughes scoreb at hospital admission 142
+0–1 (minimal or no deficit) 27 19.0
+2 (patient walks >5 m unaided but is unable to perform manual tasks) 38 26.8
+3 (patient walks >5 m aided) 36 25.4
+4 (patient is restricted to bed or a wheelchair) 37 26.1
+5 (patient needs intubation to assist with breathing at least part
+of the day)
+4 2.8
+Muscle response testing scorec 3 in at least 1 limb 141 90 63.8
+Decreased or absent deep tendon reflexes at least in 1 limb 142 136 95.8
+Duration of the extension phase 30 days 141 137 97.2
+Diagnostic tests
+Elevation of CSF protein level and total white blood cell count in
+CSF <50 cells/mm3 137 136 99.3
+Abnormal nerve conduction 137 119 86.9
+At least 1 positive serologic finding (Mycoplasma pneumoniae, Campylobacter jejuni, cytomegalovirus, Epstein-Barr virus)
+67 57 85.1
+Abbreviation: CSF, cerebrospinal fluid.
+a Actual number of subjects for whom data were available.
+b For additional information on the Hughes score, see the article by Hughes et al. (27).
+c 0 ¼ absence of muscular contraction; 1 ¼ visible muscular contraction without limb movement; 2 ¼ movement
+insufficient to counteract gravity; 3 ¼ movement sufficient to counteract gravity; 4 ¼ movement sufficient to counteract
+gravity and resistance; 5 ¼ normal muscular strength.
+GBS and A/H1N1, Seasonal Influenzalike Illness, and Vaccination 331
+Am J Epidemiol. 2011;174(3):326–335
+Downloaded from https://academic.oup.com/aje/article-abstract/174/3/326/246040 by guest on 15 October 2019
+immunized against influenza A/H1N1 virus and 111 GBS
+cases had been reported following vaccination, yielding
+an estimated GBS incidence of 2.4 cases per million
+among vaccinated persons (26). Experts from the European
+Medicines Agency concluded that there was no indication of a risk similar to the one feared during the 1976
+influenza vaccination program in the United States (26).
+However, in view of possible underreporting of cases,
+epidemiologic studies were recommended.
+In the United States, several studies have pointed towards
+an increased incidence of GBS associated with influenza
+vaccines, including A/H1N1. Preliminary data from the
+GBS surveillance conducted by the US Centers for Disease
+Control and Prevention after 2009–2010 influenza A/H1H1
+Table 3. Characteristics of Cases and Controls in a Study of the Relation Between Influenza Illness and Vaccination and Risk of Guillain-Barre´
+Syndrome, France, March 2007–June 2010
+Variable
+Cases (n 5 145) Controls (n 5 1,080)
+P Value
+No. % Mean (SD) No. % Mean (SD)
+(n ¼ 145) (n ¼ 1,080)
+Male gender 88 60.7 681 63.1 0.58
+Age, years 48.6 (18)a 50.7 (18.1)b 0.18
+Main occupation (persons aged 18 years) (n ¼ 137) (n ¼ 981)
+Unemployed or self-employed at home 11 8.0 48 4.9 0.31
+Executive, self-employed professional, or teacher 35 25.5 220 22.4
+Technician, social worker, commerce, or service or
+industry employee
+62 45.3 502 51.2
+Manual laborer 29 21.2 211 21.5
+No. of consultations with a physician over the previous 12 months (n ¼ 142) (n ¼ 1,068)
+0–2 12 8.5 80 7.5 0.70
+3–6 47 33.1 408 38.2
+7–12 48 33.8 339 31.7
+13 35 24.6 241 22.6
+(n ¼ 141) (n ¼ 1,065)
+Neurologic disease 11 7.8 69 6.5 0.55
+(n ¼ 90) (n ¼ 715)
+Family history of autoimmune disease in a first-degree relative 7 7.8 72 10.1 0.49
+Abbreviation: SD, standard deviation.
+a Age range of cases, 4–79 years.
+b Age range of controls, 3–80 years.
+Table 4. Monthly Rates of Occurrence of Guillain-Barre´ Syndrome During Influenza (Seasonal and/or A/H1N1)
+Circulating Periods and Noncirculating Periods at 23 Specialized Neurology Centers, France, March 2007–June
+2010
+Perioda Rate of GBS Case Occurrence
+(No. of Cases per 30 Days)
+P for Comparison
+Between 2 Seasons
+Influenza virus circulatingb
+Seasonal influenza (December 15, 2008–
+March 22, 2009)
+6.22
+A/H1N1 (October 12, 2009–February 21, 2010) 8.03
+Total 7.26 0.31
+Influenza virus not circulatingb
+April 7, 2008–December 14, 2008 4.24
+March 23, 2009–October 11, 2009 4.36
+Total 4.29 0.90
+Abbreviation: GBS, Guillain-Barre´ syndrome. a Comparison between circulation and noncirculation periods: P ¼ 0.004. b According to the French Regional Groups for the Surveillance of Influenza (Groupes Re´gionaux d’Observation de
+la Grippe).
+332 Grimaldi-Bensouda et al.
+Am J Epidemiol. 2011;174(3):326–335
+Downloaded from https://academic.oup.com/aje/article-abstract/174/3/326/246040 by guest on 15 October 2019
+vaccination showed incidences of 1.9 per 100,000 personyears and 1.2 per 100,000 person-years among vaccinated
+and unvaccinated persons, respectively (24). Our data did
+not support such an association, but our study had limited
+statistical power to address this question. Interestingly,
+Lasky et al. (14) had previously reported an adjusted relative risk of 1.7 for GBS and influenza vaccination in the
+combined 1992–1993 and 1993–1994 periods, using a
+population-based study. Juurlink et al. (13) reported a relative incidence of 1.45 when comparing between exposure
+and control periods where the majority of vaccines administered to adults were assumed to be for influenza. However,
+the 3 US studies (13, 14, 24) could not control for some
+confounding factors, such as influenza illnesses before the
+GBS index date. In our study, the numbers of GBS cases
+referred to the study centers were similar during the influenza A/H1N1 vaccination programs in 2009–2010 and the
+corresponding 2008–2009 periods.
+A case-control study is a valid and efficient design with
+which to examine the risk of rare events, also appraising
+causal associations and potential confounding, while matching for factors associated with calendar time (21). Usual
+Table 5. Odds Ratios for Guillain-Barre´ Syndrome According to Exposure to Influenza, Influenzalike Illness, or Other Acute Infections During the
+2 Months Preceding the Index Date, France, March 2007–June 2010
+Exposure
+Exposed
+Cases
+Exposed
+Controls
+Crude
+Matched
+OR
+95% CI Adjusted
+ORa 95% CI
+No. % No. %
+(n ¼ 40) (n ¼ 314)
+Influenza or influenzalike symptoms
+in the previous 2 monthsb 4 10.0 13 4.1 2.33 0.66, 8.19 2.11 0.57, 7.73
+(n ¼ 145) (n ¼ 1,080)
+Influenza or influenzalike symptoms
+in the previous 2 months or use of
+antibiotic, antiviral, or antipyretic
+agents in the previous 2 monthsb
+23 15.9 82 7.6 2.03 1.18, 3.48 2.04 1.18, 3.50
+Abbreviations: CI, confidence interval; OR, odds ratio.
+a Adjusted for receipt of other vaccines during the same time window, receipt of influenza vaccine in the past (before the time window
+considered), family history of autoimmune diseases, and number of physician consultations in the previous year (0–2, 3–6, 7–12, or 13). b The 2 months prior to the index date (date of first symptoms and date of physician consultation for cases and controls, respectively).
+Table 6. Odds Ratios for Guillain-Barre´ Syndrome According to Exposure to Influenza (Seasonal and/or A/H1N1) Vaccination, France, March
+2007–June 2010
+Exposure and Time Windowa
+Exposed
+Cases
+Exposed
+Controls
+Crude
+Matched
+OR
+95% CI Adjusted
+ORb 95% CI
+No. % No. %
+All influenza vaccines
+(A/H1N1 þ seasonal)
+(n ¼ 145) (n ¼ 1,080)
+First 6 weeks 6 4.1 32 3.0 1.16 0.43, 3.15 1.22 0.45, 3.32
+7 weeks to 3 months 7 4.8 74 6.9 0.65 0.27, 1.59 0.66 0.27, 1.65
+4 months to 6 months 12 8.3 124 11.5 0.81 0.35, 1.85 0.80 0.34, 1.88
+Seasonal influenza vaccine only (n ¼ 145) (n ¼ 1,080)
+First 6 weeks 5 3.4 23 2.1 1.23 0.39, 3.85 1.30 0.41, 4.12
+7 weeks to 3 months 6 4.1 66 6.1 0.60 0.23, 1.56 0.60 0.23, 1.60
+4 months to 6 months 11 7.6 122 11.3 0.70 0.30, 1.63 0.69 0.29, 1.66
+Influenza A/H1N1 vaccine onlyc (n ¼ 40) (n ¼ 314)
+First 6 weeks 1 2.5 10 3.2 0.89 0.11, 7.28 0.92 0.11, 7.55
+7 weeks to 3 months 1 2.5 8 2.5 1.12 0.13, 9.94 1.08 0.09, 13.15
+4 months to 6 months 0 0.0 4 1.3 NC NC
+Abbreviations: CI, confidence interval; OR, odds ratio; NC, not converged.
+a The time window prior to the index date (date of first symptoms and date of physician consultation for cases and controls, respectively).
+b Adjusted for receipt of other vaccines during the same time window, receipt of influenza vaccine in the past (before the time window
+considered), family history of autoimmune diseases, number of physician consultations in the previous year (0–2, 3–6, 7–12, or 13), antibiotic
+or antiviral treatment in the previous 2 months, and use of antipyretic agents in the previous 2 months. c Considered period of interest: October 20, 2009–March 31, 2010.
+GBS and A/H1N1, Seasonal Influenzalike Illness, and Vaccination 333
+Am J Epidemiol. 2011;174(3):326–335
+Downloaded from https://academic.oup.com/aje/article-abstract/174/3/326/246040 by guest on 15 October 2019
+threats to validity with the use of such a design are selection
+bias and recall bias. The systematic recruitment of subjects
+in the PGRx registry used for this study, verified through
+the audit of study centers, greatly minimized the possibility
+of selection bias. A major strength in this respect consists
+of the study’s being launched in the absence of any alert,
+nearly 2 years before the influenza A/H1N1 virus pandemic
+and the beginning of the French vaccination program.
+The reliability of the exposure data also contributes to its
+strength, further validated by the study of objective sources
+of information, which confirmed reported exposures in all
+subjects in the sample studied. The overall rate of exposure to influenza vaccines in controls, notably exposure to
+A/H1N1 vaccination (7.3% over the entire study period),
+are almost identical to expectations derived from national
+statistics (7.9% also for the A/H1N1 vaccine). The consideration of influenzalike illness as a potential confounder
+in a substudy and the consideration of seasonality through
+the matching on calendar time by month are additional
+advantages of our study, since these confounders were
+not always considered fully in some of the studies cited
+above (13, 14, 24). Persons vaccinated against influenza are more likely to have been recently exposed to
+influenza and to have developed the initial symptoms of
+the disease. Such protopathic bias may represent a serious
+confounder in studies not controlling for the presence of
+these symptoms (13).
+There were some limitations to our study. Firstly, both
+of the general-practice-based studies conducted by Stowe
+et al. (10) and Tam et al. (11) estimated odds ratios of
+approximately 18 (16.64 and 18.64 for 1-month and 2-
+month at-risk periods, respectively), suggesting that exposure misclassification might have occurred in our study.
+The resulting odds ratio of 2.3 is probably due to the retrospective collection of data on exposure. In fact, the statistical corrections for misclassification of Campylobacter
+infection reported by Tam et al. in their study (11), for
+example, resulted in considerably higher odds ratios than
+originally estimated. Secondly, the statistically significant
+difference observed between the rate of GBS cases occurring during influenza circulating and noncirculating periods
+should be cautiously interpreted. Because no such data
+are available from previous years, this difference could
+be explained either by the circulation of influenza viruses
+or by seasonal variations due to circulation of other GBScausing pathogens. Thirdly, only 40 GBS cases occurred
+during the influenza A/H1N1 vaccination program; therefore, the ability to detect a small increase in GBS risk was
+very limited. The addition of 1 more exposed case might
+have resulted in substantial changes in the odds ratio estimates. Thus, our findings cannot rule out a risk of very
+small magnitude associated with influenza vaccination.
+The case-control analysis of influenza A/H1N1 vaccination
+had little statistical power, but no signal emerged from
+the monitoring study of 46 large neurology centers throughout the country: Only 1 confirmed GBS case exposed to
+A/H1N1 vaccination during the previous 6 weeks was observed at the 25 GBS-specialized neurology centers, which
+were constantly monitored over the study period. No GBS
+cases at all occurred at the remaining 21 large neurology
+centers that were monitored during the A/H1N1 vaccination
+campaign, despite several million persons being vaccinated
+throughout the country.
+Influenza infections and influenzalike illnesses are likely
+risk factors for GBS and should therefore be considered
+serious confounders in future studies of GBS and vaccination. On the other hand, no new concerns about influenza
+vaccination, notably use of the A/H1N1 vaccine, have been
+identified. However, in view of the very rare incidence of
+GBS and the resultant paucity of available data, monitoring
+of influenza vaccine safety is still needed.
+ACKNOWLEDGMENTS
+Author affiliations: LA-SER, Paris, France (Lamiae
+Grimaldi-Bensouda); Institut Pasteur, Paris, France (Lamiae
+Grimaldi-Bensouda); INSERM U708–Neuroepidemiology,
+La Pitie´-Salpeˆtrie`re Hospital, Paris, France (Annick
+Alpe´rovitch); General Neurology Unit, Michallon University
+Hospital, Grenoble, France (Ge´rard Besson); Department of
+Electroneuromyography and Neuromuscular Pathologies,
+Pierre Wertheimer GHE Neurological Hospital, Lyon,
+France (Christophe Vial); Pediatric Neurology Unit, RogerSalengro University Hospital, Lille, France (Jean-Marie
+Cuisset); Federation of Nervous System Diseases, La Pitie´-
+Salpeˆtrie`re Hospital, Paris, France (Caroline Papeix, Olivier
+Lyon-Caen); Department of Biostatistics, Rouen University
+Hospital, Rouen, France (Jacques Benichou); INSERM
+U657, University of Rouen, Rouen, France (Jacques
+Benichou); Department of Epidemiology and Biostatistics, Faculty of Medicine, McGill University, Montreal,
+Quebec, Canada (Michel Rossignol); LA-SER Centre
+for Risk Research, Montreal, Quebec, Canada (Michel
+Rossignol); Department of Epidemiology, London School
+of Hygiene and Tropical Medicine, London, United Kingdom
+(Lucien Abenhaim); and LA-SER Europe Ltd., London,
+United Kingdom (Lucien Abenhaim).
+The authors acknowledge LA-SER, GSK Biologicals,
+and Sanofi-Pasteur for financial support. LA-SER is an independent research organization which owns and develops
+the Pharmacoepidemiologic General Research eXtension
+(PGRx) System database. LA-SER has no commercial interests in any of the products studied. To study the data from
+PGRx and other sources, LA-SER receives funds and/or
+other support from regulatory agencies, public sources, academic institutions, private groups, and the pharmaceutical
+industry (over the last 36 months, donor companies have
+included (but not exclusively) the following: AstraZeneca,
+Boiron, Expanscience, Genevrier, GSK, Janssen-Cilag,
+Merck/Shering Plough, Negma/Wokhardt, Novartis, Pfizer,
+and several divisions of Sanofi).
+The authors thank Rita Moreira da Silva, Yann Hamon,
+and Dr. Elodie Aubrun for their assistance.
+The GBS-PGRx Study Group: Drs. A. Abdelmoumni,
+E. Aubrun, A. Cosson, J. De Seze, D. Brassat, C. L. Frenay,
+C. Vial, E. Giraud, F. Bolgert, G. Meliksetyan, G. Besson,
+G. Sole, G. Nicolas, H. Husson, J. Maupetit, J. M. Cuisset,
+J. M. Paquet, L. Magy, M. Charif, M. Bru, O. Heinzle,
+334 Grimaldi-Bensouda et al.
+Am J Epidemiol. 2011;174(3):326–335
+Downloaded from https://academic.oup.com/aje/article-abstract/174/3/326/246040 by guest on 15 October 2019
+P. Berquin, P. Lejoyeux, P. Labauge, P. Giraud, R. J. Morales,
+S. Demeret, and V. Pautot.
+Prior results of this study were presented in poster form
+at the 26th annual meeting of the International Society
+for Pharmacoepidemiology, Brighton, United Kingdom,
+August 19–22, 2010.
+Conflict of interest: Dr. Lamiae Grimaldi-Bensouda was
+the recipient of a research fellowship from INSERM at the
+time of the study and is currently employed by LA-SER.
+Dr. Annick Alpe´rovitch has received consultancy fees or
+honoraria for work on the GBS-PGRx System project from
+LA-SER. Dr. Ge´rard Besson has received reimbursement
+for travel to board meetings unrelated to this work from
+l’Association pour la Recherche En Neuropharmacologie.
+Dr. Christophe Vial has received honoraria for work on the
+PGRx System from LA-SER. Dr. Michel Rossignol is currently employed by LA-SER and has received honoraria
+for advisory work and lectures unrelated to this work from
+Sanofi-Aventis, Eli Lilly, and NovoNordisk. Dr. Lucien
+Abenhaim is a stock owner and chairman of LA-SER, the
+company that conducted the study. Drs. Jean-Marie Cuisset,
+Caroline Papeix, Olivier Lyon-Caen, and Jacques Benichou
+declare no conflicts of interest.
+REFERENCES
+1. Alshekhlee A, Hussain Z, Sultan B, et al. Guillain-Barre´
+syndrome: incidence and mortality rates in US hospitals.
+Neurology. 2008;70(18):1608–1613.
+2. McGrogan A, Madle GC, Seaman HE, et al. The epidemiology
+of Guillain-Barre´ syndrome worldwide. A systematic
+literature review. Neuroepidemiology. 2009;32(2):150–163.
+3. Hughes RA, Cornblath DR. Guillain-Barre´ syndrome. Lancet.
+2005;366(9497):1653–1666.
+4. Rees JH, Thompson RD, Smeeton NC, et al. Epidemiological
+study of Guillain-Barre´ syndrome in south east England.
+J Neurol Neurosurg Psychiatry. 1998;64(1):74–77.
+5. Bogliun G, Beghi E. Incidence and clinical features of acute
+inflammatory polyradiculoneuropathy in Lombardy, Italy,
+1996. Italian GBS Registry Study Group. Acta Neurol Scand.
+2004;110(2):100–106.
+6. Chio` A, Cocito D, Leone M, et al. Guillain-Barre´ syndrome:
+a prospective, population-based incidence and outcome
+survey. Neurology. 2003;60(7):1146–1150.
+7. Van Koningsveld R, Van Doorn PA, Schmitz PI, et al. Mild
+forms of Guillain-Barre´ syndrome in an epidemiologic survey
+in The Netherlands. Neurology. 2000;54(3):620–625.
+8. Govoni V, Granieri E. Epidemiology of the Guillain-Barre´
+syndrome. Curr Opin Neurol. 2001;14(5):605–613.
+9. Hao Q, Saida T, Kuroki S, et al. Antibodies to gangliosides
+and galactocerebroside in patients with Guillain-Barre´
+syndrome with preceding Campylobacter jejuni and other
+identified infections. J Neuroimmunol. 1998;81(1-2):
+116–126.
+10. Stowe J, Andrews N, Wise L, et al. Investigation of the
+temporal association of Guillain-Barre syndrome with
+influenza vaccine and influenzalike illness using the
+United Kingdom General Practice Research Database.
+Am J Epidemiol. 2009;169(3):382–388.
+11. Tam CC, O’Brien SJ, Petersen I, et al. Guillain-Barre´
+syndrome and preceding infection with Campylobacter,
+influenza and Epstein-Barr virus in the General Practice
+Research Database. PLoS One. 2007;2(4):e344. doi: 10.1371/
+journal.pone.0000344.
+12. Schonberger LB, Bregman DJ, Sullivan-Bolyai JZ, et al.
+Guillain-Barre syndrome following vaccination in the
+National Influenza Immunization Program, United States,
+1976–1977. Am J Epidemiol. 1979;110(2):105–123.
+13. Juurlink DN, Stukel TA, Kwong J, et al. Guillain-Barre´
+syndrome after influenza vaccination in adults: a populationbased study. Arch Intern Med. 2006;166(20):2217–2221.
+14. Lasky T, Terracciano GJ, Magder L, et al. The Guillain-Barre´
+syndrome and the 1992–1993 and 1993–1994 influenza
+vaccines. N Engl J Med. 1998;339(25):1797–1802.
+15. Stratton K, Alamario DA, Wizemann T, et al. Immunization
+Safety Review: Influenza Vaccines and Neurological
+Complications. Washington, DC: National Academies Press;
+2004.
+16. Sejvar JJ, Uyeki TM. Neurologic complications of 2009
+influenza A (H1N1): heightened attention on an ongoing
+question. Neurology. 2010;74(13):1020–1021.
+17. The Brighton Collaboration. Immunize Safely. Basel,
+Switzerland: Brighton Collaboration Foundation; 2010.
+(http://www.brightoncollaboration.org). Accessed June 25,
+2010.
+18. Asbury AK, Arnason BGW, Karp HR, et al. Criteria for
+diagnosis of Guillain-Barre´ syndrome. Ann Neurol. 1978;
+3(6):565–566.
+19. Asbury AK, Cornblath DR. Assessment of current diagnostic
+criteria for Guillain-Barre´ syndrome. Ann Neurol. 1990;
+27(suppl):S21–S24.
+20. Grimaldi-Bensouda L, Rossignol M, Aubrun E, et al.
+Agreement between patients’ self-report and physicians’
+prescriptions on cardiovascular drug exposure: the PGRx
+database experience. Pharmacoepidemiol Drug Saf. 2010;
+19(6):591–595.
+21. Abenhaim L, Moride Y, Brenot F, et al. Appetite-suppressant
+drugs and the risk of primary pulmonary hypertension.
+International Primary Pulmonary Hypertension Study Group.
+N Engl J Med. 1996;335(9):609–616.
+22. Groupes Re´gionaux d’Observation de la Grippe.
+Surveillance alle´ge´. Paris, France: Groupes Re´gionaux
+d’Observation de la Grippe; 2010. (http://www.grog.org/
+cgi-files/db.cgi?action¼bulletin_grog). Accessed June 25,
+2010.
+23. Groupes Re´gionaux d’Observation de la Grippe. Le seuil
+e´pide´mique utilise´ par les GROG. Paris, France: Groupes
+Re´gionaux d’Observation de la Grippe; 2010. (http://www.
+grog.org/documents/seuilepidemique.pdf). Accessed June 25,
+2010.
+24. Preliminary results: surveillance for Guillain-Barre´
+syndrome after receipt of influenza A (H1N1) 2009
+monovalent vaccine—United States, 2009–2010. MMWR
+Morb Mortal Wkly Rep. 2010;59(21):657–661.
+25. SAS Institute Inc. SAS/STAT 9.1 User’s Guide. Vols 1–7. Cary,
+NC: SAS Institute Inc; 2004.
+26. European Medicines Agency. Pandemic Influenza
+Pharmacovigilance Updates. London, United Kingdom:
+European Medicines Agency; 2010. (http://www.ema.europa.
+eu/influenza/updates.html). Accessed June 25, 2010.
+27. Hughes RA, Newsom-Davis JM, Perkin GD, et al. Controlled
+trial of prednisolone in acute polyneuropathy. Lancet. 1978;
+2(8093):750–753.
+GBS and A/H1N1, Seasonal Influenzalike Illness, and Vaccination 335
+Am J Epidemiol. 2011;174(3):326–335
+Downloaded from https://academic.oup.com/aje/article-abstract/174/3/326/246040 by guest on 15 October 2019

@@ -1,0 +1,445 @@
+﻿Revista de Investigación Clínica i es / Vol. 64, Núm. 4 / Julio-Agosto, 2012 / pp 315-321
+Comparative study of enalapril vs. losartan on
+residual renal function preservation in automated
+peritoneal dialysis. A randomized controlled study
+Fernando Arturo Reyes-Marín,* Claudia Calzada,*** Araceli Ballesteros,* Dante Amato**
+* Hospital de Concentración, Instituto de Seguridad Social del Estado de México y Municipios (ISSEMYM) de Satélite, Naucalpan.
+** Facultad de Estudios Superiores Iztacala, Universidad Nacional Autónoma de México, Tlalnepantla.
+*** Instituto Politécnico Nacional, Escuela Superior de Medicina.
+ARTÍCULO ORIGINAL
+ABSTRACT
+Background. Residual renal function (RRF) is an important
+determinant of mortality and morbidity in patients receiving
+peritoneal dialysis (PD). Recent studies have shown a positive
+effect of angiotensin converting enzyme inhibitors (ACEi) and
+angiotensin II receptor blockers (ARBs) on RRF in PD patients. Objective. To compare enalapril and losartan for RRF
+preservation in automated peritoneal dialysis (APD) patients.
+Material and methods. An open label randomized controlled trial (RCT) with a 12 month follow-up period was conducted to compare the effect of enalapril vs. losartan on RRF
+preservation in 60 APD patients. Measurements were done at
+the start of the study (baseline), 3, 6, 9, and 12 months. A historical control group (HCG) without treatment was included
+to assess the natural history of RRF loss. Results. RRF in the
+enalapril group dropped from 3.65 ± 1.6 (baseline) to 2.36 ±
+0.38 mL/min/l.73 m2 (12 months). In the losartan group RRF
+was reduced from 4.1± 2.01 (baseline) to 2.54 ± 0.47 mL/min/
+l.73m2 (12 months). There were not significant differences
+between the two groups regarding RRF at 12 months. In the
+HCG, RRF declined from 3.68 ± 0.48 to 1.4± 0.29 mL/min/
+1.73m2 (12 months). RRF in the HCG was significantly lower
+than RRF in the two treated groups at 12 months (P < 0.05).
+Conclusions. There was not significant difference on RRF
+preservation between enalapril and losartan groups. Comparing these results to those of the HCG suggests that the treatment with any of the drugs is useful in preserving RRF.
+Key words. Residual renal function. ACE inhibitors. Angiotensin II blockers. Automated peritoneal dialysis. Randomized
+controlled trial.
+Estudio comparativo de enalapril vs. losartán en la
+conservación de la función renal residual, en diálisis
+peritoneal automatizada. Ensayo clínico aleatorizado
+RESUMEN
+Antecedentes. La función renal residual (FRR) es una determinante importante de mortalidad y morbilidad en pacientes
+tratados con diálisis peritoneal (DP). En estudios recientes se
+mostró un efecto positivo de los inhibidores de la enzima conversora de angiotensina (IECA) y de los antagonistas de los receptores de angiotensina II (ARA II) en la FRR en pacientes en
+DP. Objetivo. Comparar enalapril y losartán en la preservación de la FRR en pacientes en diálisis peritoneal automatizada
+(DPA). Material y métodos. Se hizo un estudio clínico aleatorizado (ECA) con periodo de seguimiento de 12 meses para
+comparar el efecto de enalapril vs. losartán en 60 pacientes en
+DPA. Las mediciones se hicieron al inicio del estudio, a los
+tres, seis, nueve y 12 meses. Se incluyó un grupo control histórico (GCH) sin tratamiento para valorar la evolución natural de
+la pérdida de la FRR. Resultados. En el grupo de enalapril la
+FRR se redujo de 3.65 ± 1.6 (basal) a 2.36 ± 0.38 mL/min/1.73
+m2 (12 meses). En el grupo de losartán la FRR disminuyó de
+4.1 ± 2.01 (basal) a 2.54 ± 0.47 mL/min/1.73m2 (12 meses). No
+hubo diferencias significativas entre los dos grupos en la FRR
+basal ni a los 12 meses. En el GCH la FRR disminuyó de 3.68 ±
+0.48 (basal) a 1.4 ± 0.29 mL/min por 1.73 m2 (12 meses). La
+FRR en el GCH a los 12 meses es significativamente menor que
+la FRR en los dos grupos tratados (p < 0.05). Conclusiones.
+No hubo diferencia significativa en la preservación de la FRR
+entre los grupos de enalapril y losartán. La comparación de estos resultados con los del GCH sugiere que el tratamiento con
+cualquiera de los dos fármacos es útil para preservar la FRR en
+pacientes en DPA.
+Palabras clave. Función renal residual. Inhibidores de
+ECA. Bloqueadores de receptor de angiotensina II. Diálisis
+peritoneal automatizada. Estudio clínico aleatorizado.
+316 Reyes-Marín FA, et al. Enalapril vs. losartan on residual renal function preservation. Re es Rev Invest Clin v 2012; 64 (4): 315-321
+INTRODUCTION
+Angiotensin-converting enzyme inhibitors (ACEi)
+and angiotensin II receptor blockers (ARBs) are recommended in peritoneal dialysis (PD) patients for
+hypertension or heart failure control.1-3 Angiotensin
+II (AII) is an important factor in the development of
+renal fibrosis due to its hemodynamic effects on glomeruli and stimulation of extracellular matrix proteins synthesis, mediated by transforming growth
+factor-beta (TGFβ).4-7 This may explain why treatment with ACEi and ARBs is renoprotective in
+patients with diabetic and non diabetic nephropathy.8-12
+Treatment with ACEi and ARBs has been shown
+to be associated with decreased risk of residual renal
+function (RRF) decline in PD patients. The use of renin-angiotensin-aldosterone system (RAAS) blockade
+was independently associated with a 32% decrease in
+the development of anuria in patients with chronic
+kidney disease (CKD) irrespective of the dialysis modality.13 A 70% decrease in mortality of PD patients
+treated with either ACEi or ARBs therapy has been
+shown.14 It is tempting to speculate that the improved survival may have been related, at least in part,
+to preservation of RRF by the use of these agents.
+It was shown that ramipril reduced the rate of
+RRF decline and delayed the development of complete anuria in prevalent continuous ambulatory peritoneal dialysis (CAPD) patients after 12 months.
+Average RRF declined 2.07 mL/min per 1.73 m2. The
+difference between the average changes in RRF in
+the groups from baseline to 12 months was 0.93 mL/
+min per 1.73 m2 (95% CI 0.09 to 1.78 mL/min per
+1.73 m2).15 Another approach to inhibiting the
+RAAS is ARBs administration. It was demonstrated
+that RRF and daily urine volume were significantly
+better preserved in CAPD patients on valsartan (4.3
+± 0.7 to 3.4 ± 0.3 mL/min/1.73m2) as compared to
+controls (5.9 ± 0.5 to 2.8 ± 0.4 mL/min/1.73m2).16
+Although these two studies were small, they showed
+that drugs with renoprotective effects continue to
+exert benefits in patients with stage 1-4 CKD and
+slow the progression to anuria in stage 5 CKD patients on dialysis and thus should be continued in
+all patients in DP with RRF.17
+Recently the time course of decline of RRF in 452
+incident non anuric PD patients was followed-up for
+3 years after the start of dialysis; one group of patients received ACEi/ARBs and the other was the
+control group. In contrast with previously published
+information, the time course of decline of RRF was
+not different between the 2 groups over the 3 years
+of PD treatment.18
+In order to compare enalapril and losartan efficacy for RRF preservation in automated peritoneal
+dialysis (APD) patients, we conducted a randomized
+clinical trial (RCT) with a 1-year follow-up period.
+Unlike previously reported studies, our objective
+was to compare two good pharmacological options
+for RRF preservation in APD patients. We included
+a historical control group (HCG) of 30 patients in
+APD, in order to assess the natural history of RRF
+loss in 12 months without treatment.
+MATERIAL AND METHODS
+A prospective, open label, RCT was conducted. Sixty patients with APD as the initial renal replacement
+therapy for at least 1 year and RRF of at least 2 mL/
+min/1.73 m2 were selected. Patients with infectious
+systemic disease, recurrent peritonitis, severe malnutrition, intolerance to ACEi or ARBs, and underlying
+medical conditions such as congestive heart failure,
+myocardial infarction, malignant hypertension and
+stroke within the preceding 6 months, were excluded.
+Patients were randomly assigned to one of the
+two arms of the study. Assignment was in a 1:1
+ratio by a computer generated list. After randomization, patients in one arm received ACEi (enalapril 10
+mg/day), and those in the other arm ARBs (losartan
+50 mg/day). RRF was measured as the mean of creatinine and urea clearances using 24 h urine collection and expressed as mL/min per 1.73 m2. RRF was
+measured 5 times, at baseline, 3, 6, 9 and 12
+months. At the time of enrollment all the patients
+had hematic count, glucose, blood urea nitrogen,
+creatinine, serum electrolytes (Na, K, Ca and P),
+peritoneal Kt/V and peritoneal creatinine clearance.
+Sample size was calculated to test the hypothesis
+of a 2 mL/min/1.73 m2 difference in RRF between the
+two arms favoring the enalapril arm,15 a total standard deviation of 2.5, two sided α = 0.05 and power
+(1-β) = 0.80. The calculated sample size was 30 patients per group (Power & sample size calculations.
+v 2.1.31 NJ, USA).
+All the studied patients signed an informed written consent. The participating patients were recruited from the Hospital General ISSEMYM, in
+Naucalpan, Mexico. The Hospital’s Clinical Research
+and Ethical Committee approved the study. On the
+basis of the sample size estimate, 60 stable patients
+receiving APD were included. Antihypertensive
+agents other than ACEi and ARBs were allowed.
+Doses were adjusted appropriately to achieve and
+maintain a 130/85 mm Hg target blood pressure.
+After randomization, patients were followed at 0, 3,
+Reyes-Marín FA, et al. Enalapril vs. losartan on residual renal function preservation. Rev Invest Clin Inv t 2012; 64 (4): 315-321 317
+6, 9 and 12 months and RRF was measured at these
+times. A HCG of 30 patients in APD, was included
+in order to assess the natural history of RRF loss in
+12 months without treatment.
+The primary outcome measures were the longitudinal change in RRF and the time to anuria. Anuria
+was defined as total absence of urine output. Secondary outcome measures included peritonitis, duration of hospitalization for any cause, drug
+effects, cardiovascular events, nonfatal myocardial infarction, cerebrovascular events with permanent neurologic deficit and peripheral vascular
+disease requiring lower limb amputation above the
+ankle. Patients were asked open-ended questions
+about adverse events at each clinic visit.
+Statistics
+Data are presented as mean and standard deviation for continuous variables and as proportions
+for categorical variables. The analysis of the effect
+of enalapril and losartan on longitudinal changes in
+RRF and differences between the two groups were
+done by repeated measures of analysis of variance
+(ANOVA). The differences of RRF among the three
+groups were done by one way ANOVA. KaplanMeier estimator was used to analyze the probability
+of developing anuria in both groups. Chi-square test
+was used to analyze differences in hospitalizations
+and peritonitis. Statistical analyzes were done with
+SPSS v14 (SPSS Inc., Chicago, IL, USA). A p value
+of 0.05 or less was considered to be statistically significant.
+RESULTS
+Thirty patients were enrolled in each group; their
+baseline clinical characteristics are shown in table
+1. There were not statistically significant differences
+in male: female ratio, age, weight, and height
+Table 1. Baseline clinical characteristics and laboratory values in the two groups of patients.
+Parameter Enalapril Losartan p
+N 30 30 NS
+Age (years) 42.5 ± 18.5 49.2 ± 19.6 NS
+Gender (female/male) 14 / 16 10 / 20 NS
+Weight (kg) 62 ± 5 66 ± 8 NS
+Height (m) 1.62 ± 5 1.68 ± 3 NS
+BMI (kg/m2) 25 ± 2.5 25 ± 3 NS
+Systolic BP (mmHg) 130 ± 5 135 ± 10 NS
+Diastolic BP (mmHg) 80 ± 10 70 ± 5 NS
+Mean dialysis duration (years) 1.8 ± 0.6 1.5 ± 0.5 NS
+Antihypertensive medication 30(100%) 30(100%) NS
+Prazosin 18(60%) 20(67%) NS
+β-blocker 12(40%) 10(33%) NS
+CKD diagnosis NS
+Diabetes mellitus 12(40%) 14(47%) NS
+Nephrosclerosis 4(13%) 3(10%) NS
+Other or unknown 14(47%) 13(43%) NS
+Hemoglobin (g/dL) 10.5 ± 1 11 ± 2 NS
+Hematocrit (%) 30 ± 1 31 ± 2 NS
+Leukocytes (mm3) 8000 ± 2000 9,000 ± 1,000 NS
+Glucose (mg/dL) 140 ± 20 130 ± 10 NS
+Albumin (g/dL) 3.8 ± 0.5 4 ± 0.2 NS
+rGFR (mL/min) 3.65 ± 1.6 4.1 ± 2.01 NS
+Proteinuria (g/24 h) 1.1 ± 0.2 1.3 ± 0.3 NS
+Total Cr CL (L/week) 70 ± 2 69 ± 1 NS
+Total Kt/V 1.95 ± 0.1 2 ± 0.2 NS
+UFR (L/24 h) 1 ± 0.2 l.l ± 0.3 NS
+BMI: body mass Index. BP: blood pressure. NS: non-significant. rGFR: residual glomerular filtration rate. Total Cr Cl: total weekly creatinine clearance. UFR:
+Ultrafiltration rat.
+318 Reyes-Marín FA, et al. Enalapril vs. losartan on residual renal function preservation. Re es Rev Invest Clin v 2012; 64 (4): 315-321
+between the groups. Blood pressure at baseline and
+the cause of CKD were not different between the
+groups. There were similar numbers of diabetic
+patients in the two groups. The baseline laboratory
+tests results were similar in both groups (Table 1).
+The 30 patients in HCG had 48 ± 7.2 years, gender:
+12 women/18 men and the time in dialysis was 1.7 ±
+0.5 years, similar clinical characteristics with the
+other two groups (p > 0.05).
+Baseline renal function and dialysis adequacy indexes are shown in table 1. The two groups showed
+similar result of PD adequacy, including Kt/V, ultrafiltration rate and weekly creatinine clearance.
+RRF gradually declined during the study period in
+both groups (Figure 1). RRF was similar at baseline
+in both groups, 3.65 ± 1.6 in the enalapril group
+and 4.1 ± 2.01 mL/min/1.73 m2 in the losartan
+group (ns). At 6 months, RRF was 3.0 ± 0.5 in the
+enalapril group and 3.14 ± 1.6 mL/min/1.73 m2 in
+the losartan group (ns) and at 12 months RRF was
+2.36 ± 0.38 in the enalapril group and 2.54 ± 0.47
+mL/min/1.73 m2 in the losartan group (ns). RRF declined by 1.29 ± 1.21 in the enalapril group compaFigure 1. Residual glomerular filtration rate at baseline and during follow-up in the two groups. Error bars = 95% confidence interval.
+7
+6
+5
+4
+3
+2
+1
+0
+Residual GRF, mL/min
+0 3 6 9 12
+Follow-up, months
+Table 2. Table 2. Comparison of residual renal function among the groups.
+HCG (n = 30) Enalapril group (n = 30) Losartan group (n = 30)
+Baseline RRF (mL/min/1.73 m2) 3.68 ± 0.48* 3.65 ± 1.6 4.1 ± 2.01
+12 months RRF (mL/min/1.73 m2) 1.4 ± 0.29 2.36 ± 0.38** 2.54 ± 0.47**
+HCG: historical control group. *p > 0.05 vs. baseline enalapril and losartan groups. **p < 0.05 vs. HCG at 12 months.
+red with 1.56 ± 1.54 mL/min/1.73 m2 in the losartan group (ns). The average decline in RRF in patients receiving losartan was 0.27 mL/min/1.73 m2
+less than that in enalapril group (ns) (Figure 1).
+RRF in the HCG at baseline was 3.68 ± 0.48 mL/
+min/1.73m2 which was not different from baseline
+values in the enalapril and losartan groups. At 12
+months it dropped to 1.4 ± 0.29 mL/min/1.73m2 (p
+< 0.05 vs. RRF at 12 months in the enalapril and losartan groups) (Table 2).
+There were not differences in the number of patients developing anuria between the two groups; 11
+patients were anuric at the end of the study in
+the enalapril group and 12 patients in the losartan group (Figure 2). Urinary volume in the enalapril group was 653 ± 243 mL/d and in the
+losartan group was 798 ± 353 mL/d (ns). Proteinuria at the beginning of the study was 1.1 ± 0.2 g/24 h
+Number at risk
+Group: Enalapril
+30 28 24 19 19
+Group: Losartan
+30 27 21 18 18
+Figure 2. gKaplan Meier estimation of patients who progressed to
+anuria in the two groups.
+100
+80
+60
+40
+20
+0
+Probability of anuria (%)
+0 36 9 12
+Follow-up, months
+Reyes-Marín FA, et al. Enalapril vs. losartan on residual renal function preservation. Rev Invest Clin Inv t 2012; 64 (4): 315-321 319
+in the enalapril group and 1.3 ± 0.3 g/24 h in the losartan group (ns), and at the end of the study 0.400
+± 0.100 g/24 h in the enalapril group and 0.500 ±
+0.100 g/24 h in the losartan group (ns).
+There were not differences in number of hospitalizations between the groups. The frequency of infections and peritonitis was low and similar in the two
+groups. There was good drug tolerance in both
+groups, the frequency of cough was minimal, and
+there were not hyperkalemia episodes (Table 3).
+DISCUSSION
+There are two RCT’s showing the benefit of ACEi/
+ARBs on RRF preservation in PD patients.15,16 The
+time course of RRF declination was similar in both
+studies. In one of them, ramipril use over 12 months
+was associated to a significant average RRF declination of 2.07 ml/min per 1.73 m2 vs. 3.0 mL/min
+per 1.73 m2 in the control group. The difference
+between the average changes in RRF from baseline
+to 12 months was 0.93 mL/min per 1.73 m2 (95% CI,
+0.09 to 1.78 mL/min per 1.73 m2) between ramipril
+and control group.15 The other study showed that
+valsartan significantly slowed the progressive decline of RRF (4.3 ± 0.7 to 3.2 ± 0.3 mL/min/1.73 m2)
+in 34 Japanese CAPD patients, as compared to controls (5.9 ± 0.5 to 2.8 ± 0.4 mL/min/1.73 m2).16
+However, other recently published observational cohort study, could not confirm the results of the two
+aforementioned studies showing no differences between the cohort receiving ACEi or ARBs treatment
+and the control group in the decline of RRF at two
+and three years of follow-up.18 Some limitations of
+this work are that it is an observational study, the
+information about treatment with ACEi/ARBs before
+the start of dialysis was not available, and it is unknown why the patients were prescribed ACEi or
+ARBs.
+The aim of the present study was to compare the
+effect of two good pharmacologic alternatives for RRF
+preservation in APD patients: an ACEi (enalapril)
+and an ARBs (losartan). We decided to compare these
+two very effective treatments because enalapril is the
+first choice for this purpose in Mexico and losartan
+represents another treatment option.
+The mean of age of the patients included in the
+present study is 45 years, they are younger than
+the average patients on PD in developed countries,
+but of similar age than patients from other published
+Mexican cohorts.19,20 In 43% of the patients the
+cause of CKD was diabetic nephropathy.
+There is not a control group without treatment,
+because by the time the study was approved and initiated it was widely accepted in the medical literature that ACEi and ARBs are effective for RRF
+preservation,15,16,28 and that preserving RRF in PD
+patients is very important,17 so it was considered
+unethical to leave a group of patients without the
+benefits of the treatment. However, we included a
+HCG to assess the natural history of RRF decline
+without treatment in a group with features similar
+to those of the enalapril and losartan groups.
+Baseline RRF in the HCG was similar to baseline
+RRF in both treated groups, but RRF at 12 months
+in the HCG was significantly lower than RRF at 12
+months in both treated groups. This result suggests
+that treatment with enalapril or losartan is useful
+to preserve RRF in patients in APD.
+Using a HCG is a limitation of the study. The patients in the HCG had similar age, gender, and time
+in APD, and they were treated at the same healthcare facility than the enalapril and losartan groups.
+However, the group was non-randomized, non-concurrent, non-parallel and non-synchronic, so this
+conclusion should be taken with caution.
+Proteinuria was similar in the two groups at the beginning and at the end of the study. The urine output
+Table 3.Adverse events.
+Parameter Enalapril group (n = 30) Losartan group (n = 30) p
+Episodes of peritonitis (n) 6 7 NS
+Cardiovascular events (n)
+Fatal 0 0 NS
+Nonfatal 3 4
+Hospitalization, patients admitted (n) 5 4 NS
+Cough (n) 2 3 NS
+Hyperkalemia (n) 0 0 NS
+320 Reyes-Marín FA, et al. Enalapril vs. losartan on residual renal function preservation. Re es Rev Invest Clin v 2012; 64 (4): 315-321
+declined progressively during the study in both groups
+and there were similar proportions of patients with
+anuria in both groups at the end of the study.
+The possible benefits of enalapril and losartan in
+RRF preservation, seem to be related to inhibition of
+the actions of AII and TGFβ on the remaining functional glomeruli, maybe avoiding progressive
+glomerulosclerosis, and extracellular matrix accumulation, independently of blood pressure control.21,22 At the beginning of the study blood
+pressure was normal, and during the follow-up
+period it was maintained within the pre-specified
+target values in both groups.
+The study includes only patients on APD. There
+are no reported differences between CAPD and APD
+patients regarding RRF declination rate.23-27
+APD has become more popular over the last years,
+the global trend is to use APD more frequently than
+CAPD, and maybe in a few years APD will be the
+predominant PD modality used all over the world.
+The main weaknesses of the study are the small
+population, the lack of blindness and the use of a
+HCG. Its strength is that it is a parallel randomized
+controlled trial. Its originality lies in the comparison of an ACE inhibitor and an ARB that has not
+been previously done, and that it was carried out in
+a population of patients receiving APD.
+We did not demonstrate differences between enalapril and losartan in slowing RRF decline in patients on APD. Any of them may be a suitable
+alternative for RRF preservation in young APD patients. The demonstration of equivalence of enalapril and losartan for RRF preservation may be
+important because the cost of the two alternatives is
+different. This may be especially relevant when there
+are economic constrictions. On the other hand, disregarding costs considerations, the knowledge that
+any of the two alternatives may be useful for RRF
+preservation is important in cases of intolerance to
+one of the drugs.
+REFERENCES
+1. K/DOQI Clinical practice guidelines on hypertension and antihypertensive agents in chronic kidney disease. Am J Kidney
+Dis 2004; 43: 1-290.
+2. Brenner BM, Cooper ME, de Zeeuw D. Effects of losartan on
+renal and cardiovascular outcomes in patients with type 2 diabetes and nephropathy. N Engl J Med 2001; 345: 861-9.
+3. Ruggenenti P, Perna A, Gherardi G, Garini G, et al. Renoprotective properties of ACE-inhibition in non-diabetic nephropathies
+with non-nephrotic proteinuria. Lancet 1999; 354: 359-64.
+4. Griffin KA, Bidani AK. Progression of renal disease: renoprotective specificity of renin-angiotensin system blockade. Clin J
+Am Soc Nephrol 2006; 1: 1054-65.
+5. Wolf G, Neilson EG. Angiotensin-II as a renal growth factor. J
+Am Soc Nephrol 1993; 3: 1531-40.
+6. Fern RJ, Yesko CM, Thornhill BA, et al. Reduced angiotensin
+expression attenuates renal interstitial fibrosis in obstructive
+nephropathy in mice. J Clin Invest 1999; 103: 39-46.
+7. Kagami S, Border WA, Miller DE, Noble NA. Angiotensin-II
+stimulates extracellular matrix protein synthesis through induction of transforming growth factor-beta expression in rat glomerular mesangial cells. J Clin Invest 1994; 93: 2431-7.
+8. Brenner BM, Cooper ME, de Zeeuw D, et al.; RENAAL Study
+Investigators. Effects of losartan on renal and cardiovascular
+outcomes in patients with type 2 diabetes and nephropathy. N
+Engl J Med 2001; 345: 861-9.
+9. Lewis E, Hunsicker L, Bain R, Rhode R. The effect of angiotensin-converting-enzyme inhibition on diabetic nephropathy.
+N Engl J Med 1993; 329: 1456-62.
+10. Kalaitzidis RG, Bakris GL. The current state of RAAS blockade
+in the treatment of hypertension and proteinuria. Curr Cardiol
+Rep 2009; 11: 436-42.
+11. Perl J, Bargman JM. The importance of residual kidney function for patients on dialysis: A critical review. Am J Kidney Dis
+2009; 53: 1068-81.
+12. Lewis E, Hunsicker L, Clarke WR, et al. Renoprotective effect
+of the angiotensin-receptor antagonist irbesartan in patients
+with nephropathy due to type 2 diabetes. N Engl J Med 2001;
+345: 851-60.
+13. Moist LM, Port FK, Orzol Sm, et al. Predictors of loss of residual renal function among new dialysis patients. J Am Soc Nephrol 2000; 11: 556-64.
+14. Fang W, Oreopoulos DG, Bargman JM. Use of ACE inhibitors
+or angiotensin receptor blockers and survival in patients on peritoneal dialysis. Nephrol Dial Transplant 2008; 23: 3704-10.
+15. Li PKT, Chow KM, Wong TYH, et al. Effects of an angiotensin-converting enzyme inhibitor on residual renal function in
+patients receiving peritoneal dialysis. Ann Intern Med 2003;
+139: 105-12.
+16. Suzuki H, Kanno Y, Sugahora S, et al. Effects of an angiotensin II receptor blocker, valsartan, on residual renal function in
+patients on CAPD. Am J Kidney Dis 2004; 43: 1056-64.
+17. Wank AY-M, Lai K-N. The importance of residual renal function in dialysis patients. Kidney Int 2006; 69: 1726-32.
+18. Kolesnyk I, Noordzij M, Dekker FW, et al. Treatment with angiotensin II inhibitors and residual renal function in peritoneal
+dialysis patients. Perit Dial Int 2011; 31: 53-9.
+19. Paniagua R, Amato D, Vonesh E, Correa-Rotter R, Ramos A, Moran J, et al. Effects of increased peritoneal clearances on mortality
+rates in peritoneal dialysis: ADEMEX, a prospective, randomized,
+controlled trial. J Am Soc Nephrol 2002; 13: 307-20.
+20. Reyes Marin A, Asbun J, Amato D. Efectividad de hemodiálisis diaria comparada con hemodiálisis intermitente en el tratamiento por insuficiencia renal aguda. Nefrología Mexicana
+2011; 32: 3-7.
+21. Fogo AB. The role of angiotensin II and plasminogen activator
+inhibitor-1 in progressive glomerulosclerosis. Am J Kidney Dis
+2000; 35: 179-88.
+22. Kagami S, Border WA, Miller DE, Noble NA. Angiotensin II
+stimulates extracellular matrix protein synthesis through induction of transforming growth factor-beta expression in rat glomerular mesangial cells. J Clin Invest 1994; 93: 2431-7.
+23. Bro S, Bjorner JB, Tofte-Jensen P, et al. A prospective, randomized multicenter study comparing APD and CAPD treatment.
+Perit Dial Int 1999; 19: 526-33.
+24. De Fijter CW, Oe LP, Nauta JJ, et al. Clinical efficacy and morbidity associated with continuous cyclic compared with continuous ambulatory peritoneal dialysis. Ann Intern Med 1994;
+120: 264-71.
+Reyes-Marín FA, et al. Enalapril vs. losartan on residual renal function preservation. Rev Invest Clin Inv t 2012; 64 (4): 315-321 321
+dialysis adequacy 2011. Peritoneal Dialysis International
+2011; 31: 218-39.
+Correspondence and reprint request:
+Dr. Fernando Arturo Reyes-Marín
+Av. Lomas Verdes, Núm. 825
+53120, Naucalpan, Estado de México
+Tel.: 5572-0521. Fax: 5343-7490
+Correo electrónico: artmar@prodigy.net.mx
+Recibido el 20 de octubre 2011.
+Aceptado el 14 de marzo 2012.
+25 . Mehrotra R. Long-term outcomes in automated peritoneal
+dialysis: Similar or better than in continuous ambulatory peritoneal dialysis? Perit Dial Int 2009; 29(Suppl. 2): S111-
+S114.
+26. Hidaka H, Nakao T. Preservation of residual renal function
+and factors affecting its decline in patients on peritoneal dialysis. Nephrology 2003; 8: 184-91.
+27. Wieneke MM, Marrion V, Dian CG, et al. Decline in residual
+renal function in automated compared with continuous ambulatory peritoneal dialysis. Clin J Am Soc Nephrol 2011; 6;
+537-42.
+28. Peter G, Blake, Joanne M. Bargman, K Scott Brimble, et al. Clinical practice guidelines and recommendations on peritoneal

@@ -1,0 +1,624 @@
+Original Research
+Home Management of Oral Anticoagulation via Telemedicine Versus
+Conventional Hospital-Based Treatment
+Henry Christensen, M.Sc.IT,1 Jens-Jacob Lauterlein, M.D.,1
+Patricia D. Sørensen, M.D.,1 Eva R.B. Petersen, M.D.,1 Jonna
+S. Madsen, M.D., Ph.D.,1,2 and Ivan Brandslund, M.D., D.M.Sc.1,2
+1
+Department of Clinical Biochemistry, Vejle Hospital, Vejle,
+Denmark.
+2
+Institute of Regional Health Research, University of Southern
+Denmark, Odense, Denmark.
+Abstract
+Background and Objective: We have developed an expert computer
+system for the control of oral anticoagulation therapy, accessible by
+the patients via their own computer. To investigate if the weekly
+measurement and dosing of international normalized ratio (INR) at
+home using the online Internet-based system was superior to conventional treatment, we performed a randomized, controlled trial.
+Patients and Methods: All 669 patients in our anticoagulation
+clinic were asked to participate in the trial, providing that they had
+Internet access and could use the CoaguChek XS system. A total of
+140 patients were included and randomized to (A) once weekly
+measurement and report online, (B) twice weekly measurement and
+report online, and (C) continued conventional treatment with INR
+measurement in the lab every 4 weeks and dose adjustment by letter.
+Results: Group A had 79.7% (95% CI 79.0–80.3) of time in therapeutic range (TTR), group B 80.2% (95% CI 79.4–80.9) of TTR,
+and group C 72.7% (95% CI 71.9–73.4) TTR. Groups A and B
+perform statistically significantly better than the conventional group
+C, with a difference of TTR of 7% points (p < 2.2 · 1016), whereas
+no difference was seen between A and B. Conclusion: Home measurement of INR and the reporting and dosing of results online once a
+week increase TTR from 72% to 79% as compared to conventional
+computer-assisted monitoring in an anticoagulation clinic.
+Key words: telemedicine, INR, oral anticoagulation
+Introduction
+T
+raditionally oral anticoagulation with warfarin or phenprocoumon has been monitored in patients visiting hospitalbased clinics on a monthly basis. Usually, the patient
+presents to an office or at a laboratory drawing center,
+where a venous blood sample is taken and transported to the laboratory for analysis. In the laboratory a prothrombin time is performed, and the result is expressed in international normalized ratio
+(INR) as defined by the World Health Organization (WHO), making
+the result worldwide transferable and usable. After a variable length
+of time, in some hospitals within an hour and in others after a day, the
+result is available to the patient’s physician. The physician reviews
+the patients result and after consulting the patient’s medical record,
+with information on present dose of drug, previous INR level, target
+for INR, and therapeutic range according to diagnosis, determines a
+clinical course of action and/or drug dose adjustment. The patient is
+contacted, usually by writing and in some cases by phone, and is
+given the instructions for drug intake and next date of measurement.1
+This is traditionally managed in a paper record system.
+Due to an unacceptable frequency of adverse events caused by
+mistakes or failures in correct dosing or transfer of prescription doses
+to paper, many clinics in Denmark have started using electronic
+expert systems or electronic patient record systems for the managing
+of these chronic patients.
+Due to the widening indications for oral anticoagulation especially
+atrial fibrillation during the last 15 years and the increase in age of the
+population, the number of patients on anticoagulation has increased
+in Denmark from estimated 10,000 patients out of 5.5 mill population
+in treatment in 1993 to 90,000 in 2007.2 The current demand for oral
+anticoagulation therapy is expected to increase up to sixfold by 20503
+and this imposes a severe burden on the healthcare system.
+In our local clinic the number of patients has increased from 250 to
+around 700. To cope with this burden we developed our AC anticoagulation computer system (CSO/AC; IntraMed A/S, Værløse,
+Denmark) to be accessible for the patients via the Internet.4 Figure 1
+shows the user interface, and Figure 2 shows the architecture of the
+installation. According to Danish law, this is only legal if security
+rules are followed, including controlling identity via both civil registration number and a digital signature system (OCES), administered
+by the Danish National IT and Telecom Agency.5
+From 2006 to 2008, we conducted pilot studies on the system’s
+functionality and also performed a pilot study with 15 patients on
+self-testing on the CoaguChek S system (Roche Diagnostics A/S,
+Hvidovre, Denmark), reporting the INR online to the CSO patient
+record system.
+The reception of an INR measurement prompts an immediate demand for attention in the anticoagulation clinics computer screen. The
+attending doctor handles the patients within an hour, creating a letter of
+future dosage, accessible immediately on the patient’s own PC.
+Based on the patient experience with the functionality of the
+system and the convenience for the patients, saving time and
+transport expenses, we decided to find out, whether the system would
+increase quality of treatment, as measured by time in therapeutic
+range (TTR).6
+DOI: 10.1089/tmj.2010.0128 ª MARY ANN LIEBERT, INC. . VOL. 17 NO. 3 . APRIL 2011 TELEMEDICINE and e-HEALTH 169
+Materials and Methods
+STUDY DESIGN
+A randomized, controlled trial (RCT) was carried out at the anticoagulation clinic in the Vejle County Hospital to test the hypothesis
+that patient self-testing (PST) using an online access to the anticoagulation (AC) clinic might be superior to standard anticoagulation
+control. All (669) patients in treatment at the AC clinic received a letter
+explaining about the investigation and they were asked—provided they
+had a computer, had Internet access, and were willing to measure with
+the point-of-care test system at home—whether they would like to
+participate in this three-armed controlled trial. Those willing to participate, 140 patients, were randomized to one of three groups: group
+A, measuring INR at home once a week; group B, measuring INR twice
+a week; and group C, continuing regular visits to the AC clinic for the
+next year before being switched to the PST methodology.
+This study was approved by the Science Ethics Committee in the
+Region of Southern Denmark (Project-ID: S-20080053). The primary
+outcome, quality of anticoagulation treatment, TTR for the single
+patient depending on each patients own therapeutic range during the
+study period, was recorded according to the Rosendaal method.6
+Secondary outcomes were the number of INR measurements below
+1.5 or above 5.0. Numbers of adverse clinical events were recorded
+but were too infrequent to be of value.
+SAMPLE SIZE AND STATISTIC ANALYSIS
+Our expectation was that the TTR would increase 10% based on
+previous studies.7 Based on statistics for the conventional treatment,
+it was seen that during 300 days
+of observation for the single
+patient the range of days within
+TR was from 150 to 300 days, the
+estimated standard deviation
+(SD) then 30 days. As the mean
+was 210 days and we wanted to
+detect an increase of 30 days,
+with a type 1 risk of 1% and a
+power to detect the difference of
+95%, 35 patients were needed in
+each group for at least 300 days.
+Hence, 140 patients were randomized to the three groups.
+The primary variable was TTR
+as measured with the Rosendaal
+method in each arm. The difference in TTR between groups A,
+B, and C was calculated using
+chi-squared test, t-tests, or the
+nonparametric equivalent where
+appropriate using the R-software
+(R Foundation for Statistical
+Computing, Vienna, Austria).
+Each patient in groups A, B,
+and C, respectively, was also
+compared to the previous 12-month period if data were available, and
+statistics performed with the paired sample Wilcoxon rank sum test.
+STUDY POPULATION
+All included patients were on lifelong therapy and been in treatment for at least 6 months. They were asked to participate on the
+condition that they were willing to accept a randomization to a
+control group continuing conventional care for the next 12 months.
+The participants should be able to use the Internet and demonstrate
+their ability to use the CoaguChek XS system for measuring INR after
+a 1-h teaching session. Patients were excluded from group A if they
+had more than two intervals longer than 3 weeks without testing. In
+group B, patients excluded for having more than two intervals longer
+than 2 weeks. In group C, patients were excluded for having more
+than two intervals longer than 5 weeks. In all groups, patients were
+excluded if they had a one period longer than 60 days without testing.
+RECRUITMENT
+All participants received a letter asking them to participate and
+explaining the design of the study. Patients responding were further
+informed by the staff and evaluated for their ability to cope and
+participate in the investigation.
+EDUCATION AND TRAINING
+Patients in groups A and B were educated in using the computer interface and the CoaguChek XS point-of-care test system
+within *2 h. All patients in treatment at the clinic are aware of the
+Fig. 1. User interface for the AC anticoagulation computer system.
+CHRISTENSEN ET AL.
+170 TELEMEDICINE and e-HEALTH APRIL 2011
+theoretical aspects of anticoagulation, mechanism of action, meaning and importance of INR values and target ranges, diet and lifestyle,
+and symptoms of over-coagulation, drug interaction, and compliance. Group C was not trained beyond this education.
+The patients’ ability to measure correctly was tested by comparing
+obtained values from the point-of-care instrument to the laboratory
+result. Patients and the point-of-care instrument were accepted if
+able to measure within 0.5 INR of difference. One patient was unable
+to measure within 0.5 and was excluded before randomization.
+The randomization program QuickCalcs (GraphPad Software, Inc.,
+La Jolla, CA) generated a random allocation sequence and the patients were assigned to group A, B, or C accordingly. The trial was
+unblinded. The patients received a manual for online access and
+reporting of their INR and further on the communication system
+connected to the reporting of the single INR measurement (e-mail
+system integrated in the EPJ-expert system). They entered the study
+immediately after training consecutively over a period of 1 year
+(from April 22, 2008).
+MANAGEMENT OF PST PATIENTS
+Group A measured once a week and group B twice a week and
+reported the single value, which was acted upon by the AC clinic by
+adjusting dose for the following period and reported via the system. If patients reported problems
+or asked questions on the parallel mail system, they
+were answered by the AC staff or contacted via
+telephone. The AC staff responded within 4 h to
+reported INR values. Patients not reporting their
+INR within the agreed time were alerted through
+mail by letter. Patients observing values below 1.5
+or above 5 were alerted by the system to contact the
+clinic immediately as was the rule for changes
+exceeding biological possible limits. The doctors,
+three junior and two senior, in the clinic decided all
+changes in medication in the same way for groups
+A, B, and C.
+Every half-year the patients visited the clinic to
+make a parallel measurement on their point-of-care
+system with the laboratory method. All fulfilled the
+demand of maximum difference of 0.5 INR.
+TRADITIONAL MONITORING
+Patients randomized to group C visited the clinic
+according to the usual rules of measurements being
+maximum 4 weeks, but dependable on percentage
+change in warfarin-dose with shorter time interval.
+INR analysis was performed on a STAGO STA-R
+Evolution (DIAGNOSTICA STAGO, Asnie`res sur
+Seine, France) dose adjustments were performed by
+the attending doctor. The CSO/AC anticoagulation
+Fig. 2. The architecture of the AC anticoagulation computer system.
+Fig. 3. Identification of eligible patients and patient enrollment.
+HOME MANAGEMENT OF ORAL ANTICOAGULATION
+ª MARY ANN LIEBERT, INC. . VOL. 17 NO. 3 . APRIL 2011 TELEMEDICINE and e-HEALTH 171
+expert system (IntraMed A/S) was used for decision support and
+registration. The expert system suggested both a new dose and a new
+measurement date both adjustable by the doctor.
+ADVERSE EVENT REPORTING
+Patients reported via the mail system or by telephone any incident
+during the period, including hospitalizations. Hospitalizations were
+recorded through a discharge letter from the department, and
+checked for every single patient in the electronic hospital database.
+Results
+STUDY POPULATION
+One hundred forty patients were randomized for the three groups.
+The patients were randomized to the three groups as shown in Figure 3.
+Table 1. Patient Demographics
+AC CLINIC GROUP A GROUP B GROUP C
+NUMBER 669 46 37 40
+Mean age (range) 66.9 (19–93) 61.6 (21–83) 63.3 (34–86) 66.0 (49–82)
+Gender
+Male (%) 424 (63.3) 32 (69.6) 25 (67.6) 35 (87.5)
+Female (%) 245 (36.6) 14 (30.4) 12 (32.4) 5 (12.5)
+Race
+Caucasian 668 46 37 40
+Other 1
+Indication [numbers (%)]
+Cardiac aneurysms 4 (0.6) 1 (2.2) 1 (2.7)
+Antiphospholipid syndrome 6 (0.9) 2 (4.4) 2 (5.4)
+Atrial fibrillation 357 (53.4) 25 (54,4) 19 (51.4) 27 (67.5)
+Cardiomyopathy 19 (2.8) 3 (6.5) 2 (5.4) 2 (5.0)
+DVT/PE 109 (16.3) 9 (19.6) 7 (18.9) 9 (22.5)
+Factor II and V mutation 2 (0.3)
+Ischemic heart disease 13 (1.9) 1 (2.17) 1 (2.5)
+Prosthetic heart valves 83 (12.4) 7 (15.2) 7 (18.9) 9 (22.5)
+Mitral stenosis 1 (0.1)
+Cerebral infarct/cerebral ischemia 65 (9.7) 6 (13.0) 6 (16.2) 6 (15.0)
+Other 45 (6.7) 3 (6.5) 4 (10.8) 2 (5.0)
+Target INR range [numbers (%)]
+1.8–2.5 3 (0.4)
+1.8–2.7 1 (0.1) 1 (2.5)
+1.8–2.8 1 (0.1) 1 (2.2)
+2.0–2.5 28 (4.2) 1 (2.7) 1 (2.5)
+2.0–3.0 590 (88.2) 39 (84.8) 31 (83.78) 36 (90.0)
+2.5–3.0 4 (0.6)
+2.5–3.5 36 (5.4) 5 (10.9) 4 (10.8) 1 (2.5)
+3.0–4.0 6 (0.9) 1 (2.2) 1 (2.7) 1 (2.5)
+AC, ; DVT, deep venous thrombosis; PE, pulmonary embolism; INR, international normalized ratio.
+CHRISTENSEN ET AL.
+172 TELEMEDICINE and e-HEALTH APRIL 2011
+This represented *20% of the anticoagulation clinic population as
+a whole. Seventeen patients were withdrawn for the following reasons. In group A, five persons were withdrawn for having more than
+two intervals longer than 3 weeks without testing. In group B, three
+patients were withdrawn for having more than two intervals longer
+than 2 weeks. In group C, four patients were withdrawn for having
+more than two intervals longer than 5 weeks and five patients were
+withdrawn for having one interval longer than 60 days without
+testing. In all circumstances they returned to the program. Absences
+were caused by personal and family reasons.
+One hundred twenty-three (n ¼ 123) completed the trial. Patient
+demographics and indication of anticoagulation are shown in Table 1
+compared to regular AC clinic. There were no significant difference
+between the three groups, but the age and gender differed from the
+AC clinic in general. There was not found any significant difference
+between the groups and the AC clinic in the indication of anticoagulation and the target INR range.
+OUTCOME
+Data are shown in Tables 2 and 3.
+The overall days in TR during the trial for the three groups were as
+follows: group A, 12,288 of 15,427 days in TR (79.7%) (95% CI 79.0–
+80.3); group B, 9,904 of 12,348 days (80.2%) (95% CI 79.4–80.9);
+group C, 10,195 of 14,026 days in TR (72.7%) (95% CI 71.9–73.4).
+Groups A and B performed statistically significantly better than the
+conventional group C, with a difference in relative TTR of 7% points
+( p < 2.2 · 1016), whereas no difference was seen between A and B,
+once a week or twice a week.
+The overall number of INR measurements in TR was in the same
+period: group A, 1,635 of 2,087 measurements (78.3%) (95% CI 76.5–
+80.1); group B, 2,407 of 2,979 measurements (80.8%) (95% CI 79.3–
+82.1); group C, 616 of 916 measurements (67.2%) (95% CI 64.1–70.2).
+The chi-squared test showed a statistical significant difference between groups A and B ( p ¼ 0.0321), and both performed significantly
+better than group C ( p < 1.046 · 1010).
+The individual relative TTR values are illustrated in Figure 4.
+Mean INR is close to the target in all three groups but with a
+difference in the variation. Kruskal–Wallis rank sum test shows that
+there is no difference in the three groups mean values ( p ¼ 0.09476),
+but that there is a difference in the SDs ( p ¼ 0.009794). (Before
+Table 2. Frequency of Testing and Extreme International Normalized Ratio Values
+ALL BEFORE TRIAL A IN TRIAL B IN TRIAL C IN TRIAL
+Mean frequency of
+testing – SD in days
+21.3 – 11.2 7.4 – 2.7 4.1 – 1.8 15.3 – 8.8
+No. of extreme INR
+(<1.5, >5.0) (%)
+23 (1.7) 16 (1.2) 21 (0.7) 31 (3.4)
+No. of <1.5 (%) 23 (1.7) 13 (0.6) 16 (0.5) 25 (2.7)
+No. of >5.0 (%) 0 (0.0) 3 (0.1) 5 (0.2) 6 (0.7)
+SD, standard deviation.
+Table 3. Time in Therapeutic Range and Number of International Normalized Ratio Measurements in Therapeutic Range
+for Groups A, B, and C (Conventional Group)
+GROUP
+NO. OF
+PATIENTS MONTHS
+AVERAGE
+MONTHS
+PER
+PATIENT
+DAYS IN TR
+(%) (95%
+CONFIDENCE
+INTERVAL) P-VALUE P-VALUE
+NO. OF INR
+MEASUREMENTS
+IN TR (%) (95%
+CONFIDENCE
+INTERVAL) P-VALUE P-VALUE
+A 46 507.2 11.03 12,288 (79.7)
+(79.0–80.3)
+<2.2 · 1016
+(A vs. C)
+0.2516
+(A vs. B)
+1,635 (78.3)
+(76.5–80.1)
+1.046 · 1010
+(A vs. C)
+0.0321
+(A vs. B)
+B 37 406.0 10.97 9,904 (80.2)
+(79.4–80.9)
+<2.2 · 1016
+(B vs. C)
+— 2,407 (80.8)
+(79.3–82.1)
+<2.2 · 1016
+(B vs. C)
+—
+C 40 461.0 11.52 10,195 (72.7)
+(71.9–73.4)
+— — 616 (67.2)
+(64.1–70.2)
+— —
+p-values are found with chi-squared test.
+TR, therapeutic range.
+HOME MANAGEMENT OF ORAL ANTICOAGULATION
+ª MARY ANN LIEBERT, INC. . VOL. 17 NO. 3 . APRIL 2011 TELEMEDICINE and e-HEALTH 173
+looking at the variance of the INR measurements one patient with
+extreme INR values was removed from group B.) Comparing SDs for
+the individual groups shows that the SD for group C differs from both
+groups A and B ( p < 0.04516) (Table 4).
+ADVERSE EFFECTS
+No patients died during the trial. One patient was admitted to
+hospital during the trial. The reason for hospitalization was an INR
+over 9. The next day the patient’s INR measured 5.1. No other adverse
+effects were reported.
+ANCILLARY ANALYSES
+The chi-squared test was used to test whether the proportion of
+number of INR measurements in and outside TR are equal in the
+groups for a similar period before the trial and in the trial. Group C
+was the only one that had the same proportions of INR measurement
+in and outside TR as would be expected as that group continued in
+conventional treatment (Table 5). (Chi-squared test for TTR showed
+no equal proportions.)
+DOSING
+Comparison of mean doses for the individual patient before and in
+the trial is performed with the Wilcoxon rank sum test. The p-values
+are shown in Table 6. None of the groups showed a statistically
+significant change in doses from before the trial, nor did the SD of the
+individual patient dose show any significant change.
+Discussion
+This study is the second largest RCT study in observed patient
+years yet to evaluate the quality of oral anticoagulation using patient
+self-testing and Internet patient-to-doctor communication via direct
+patient access to the electronic record system. Further, one weekly
+measurement was compared to twice a week.
+In total, 123 patients completed the trial spanning 114 patients
+years. These numbers narrow the confidence limits to a minimum
+and reduce p-values. Using an electronic system for conventional
+hospital-based measurement and dosing, the TTR was 72.7% over
+an average of 1 year with 95% CI of 71.9%–73.9%. Using once-aweek home measurement, the TTR was 79.7%, 95% CI 79.0%–80.3%,
+p-value for statistically significant difference based on actual number of days being <2.2 · 1016.
+Table 4. Overall Mean International Normalized Ratio and Mean Standard Deviation for the Three Groups in Trial
+for Patients with Therapeutic Range 2.0–3.0
+GROUP NO. OF PATIENTS
+MEAN (INR),
+P ¼ 0.09476
+MEAN (SD),
+P ¼ 0.00979 P-VALUE (SD) P-VALUE (SD)
+A (TI 2.0–3.0) 39 2.506 0.4421 0.04516 (A vs. C) 0.1744 (A vs. B)
+B (TI 2.0–3.0) 31 2.491 0.4169 0.003865 (B vs. C) —
+C (TI 2.0–3.0) 36 2.442 0.5453 — —
+Comparing mean INR and SD with Kruskal–Wallis test and individual SDs between groups with Wilcoxon rank sum test.
+TI, therapeutic interval.
+Table 5. Chi-Squared Test on International Normalized
+Ratio Measurements In and Outside Therapeutic Range,
+for the Three Groups Before Trial and in the Trial
+INR MEASUREMENTS
+IN AND OUTSIDE TR (%)
+GROUP BEFORE TRIAL IN TRIAL P-VALUE
+A 323/133 (70.8/29.2) 1,635/452 (78.3/21.7) 0.0005576
+B 295/158 (65.1/34.8) 2,407/572 (80.8/19.2) 3.035 · 1014
+C 307/127 (70.7/29.3) 616/300 (67.2/32.8) 0.198
+Fig. 4. Percent time in therapeutic range in groups A, B, and C. The
+horizontal line identifies median time in therapeutic range with
+each approach.
+CHRISTENSEN ET AL.
+174 TELEMEDICINE and e-HEALTH APRIL 2011
+Thus, the main conclusion of this study is that the TTR increased
+from 73% to 80%, a percentage difference 7% (95% CI 6.0%–7.9%).
+No advantage was found measuring INR twice a week, the difference to once a week being nonsignificant p ¼ 0.2516. Twice a
+week being considerable more expensive, the advantage is too inferior to be applied in daily practice.
+The stability of INR values over a year was better for self-testing,
+the SD of the single patient in the once a week group being 0.44 INR
+against the conventional control group 0.55 INR ( p < 0.045).
+In the secondary outcome parameters, the number of INR measurements below 1.5 or above 5.0 showed no significant difference
+between groups A and B ( p ¼ 0.92), and both were significant better
+than group C ( p < 2.0 · 106
+).
+No patients died during the trial. Only one patient was admitted to
+hospital during the trial. The reason for hospitalization was an INR over
+9, without bleeding. We believe that this remarkable finding is caused
+by the patients who chose to participate are younger and more engaged,
+knowledgeable, computer literate, and, in general, in better health.
+The TTR of 80% is, to our knowledge, the highest published value
+in RCT until now. A recent article had a TTR with conventional versus
+PST of 59% and 74%, but with wide confidence intervals caused by a
+relatively low number of 66 observation years for 132 patients, and
+with measurement every 4.6 days.7 The Dabigatran study8 had only
+60% in TTR, using conventional management.
+The absolute value of TTR is important as it is a marker for the risk
+of bleeding and thrombosis. A 10% difference in TTR thus corresponds to an increased risk of 1.29 for mortality, 1.10 for stroke, and
+1.12 for other thrombolic events.9
+We observed the same mean INR in the three groups, meaning that
+there was no tendency for the doctors to be more cautious in the
+control group.
+Comparing outcome parameters in the single patient in the period
+1 year before trial and during trial, the above observations from the
+RCT were reaffirmed, as the groups with once and twice weekly
+measurements improved (Table 5), whereas the control group showed
+no improvement. This demonstrated the absence of a Hawthorne or
+placebo effect. This was true even though the frequency of testing
+increased from every 21.3 days to every 15.3 days in the conventional control group. This can be explained by the doctors being more
+careful, repeating measurements more than usual.
+A concern using point-of-care testing instruments is always that
+the measurements have a bias or an increased analytical imprecision.
+For the CoaguChek XS the analytical quality has been thoroughly
+documented,10–14 and our finding that patient SDs are smaller than
+during conventional treatment emphasizes this. Thus, the analytical
+imprecision is unimportant in relation to patient variation.15,16
+A possible bias of the CoaguChek XS system was controlled by
+parallel measurements toward the Stago laboratory method and acceptable difference were seen (data not shown).
+To monitor a possible drift in electronics during the trial period,
+the average dose of warfarin before and during the RCT was calculated. As Table 6 shows no increase or decrease in average weekly
+dose was seen for the single patient or the groups, demonstrating that
+the CoaguChek XS monitors were without clinical significant measurement bias.
+The reduced SD for INR values during PST could be expected to
+reflect more frequent and finer adjustment of the INR dose. This is,
+however, not seen, as the SD of dose in mg/week did not change
+significantly though the PST; groups A and B showed lower values
+against group C’s increased values. We do believe, however, that the
+more frequent testing enables smaller adjustments to keep INR in
+therapeutic range. A larger study is needed to confirm this.
+When comparing patient self-management (PSM) (testing and
+self-dosing) against PST as in this article, it seems that quality of
+management is better with PST, 79.7% of time in TR against 70.2%–
+74% for PSM.17–19
+As PST is expensive in medical manpower as compared to PSM, we
+will now randomize our 180 patients currently in PST to continue in
+PST or self-dosing via the expert computer system, to see if quality
+can be maintained.
+In conclusion, we believe that to have documented that managing
+patients anticoagulation by telemedicine and based on home measurement of INR is safe and possibly of a better quality as measured by
+TTR than patients’ self-management. Patient preference and satisfaction using this telemedical solution will be reported in a separate article.
+Acknowledgments
+The authors would like to thank Biomedical Laboratory Scientist
+Hanne Leth Laursen for teaching patients to measure INR and to
+access the electronic patient journal and for registration of adverse
+Table 6. Wilcoxon Signed Rank Test of Differences in Individual Mean Doses and Standard Deviation Before and in the Trial
+MEAN WEEKLY DOSE MG/WEEK (RANGE) MEAN SD OF WEEKLY DOSE MG/WEEK
+GROUP BEFORE TRIAL IN TRIAL P-VALUE BEFORE TRIAL IN TRIAL P-VALUE
+A 39.1 (5.5–144.2) 38.9 (5.8–131.1) 0.8813 2.15 1.95 0.8660
+B 35.6 (10.8–60.2) 36.8 (16.8–66.6) 0.1815 2.29 1.79 0.3992
+C 37.4 (5.7–88.4) 38.3 (6.1–90.1) 0.06728 1.68 1.93 0.5112
+HOME MANAGEMENT OF ORAL ANTICOAGULATION
+ª MARY ANN LIEBERT, INC. . VOL. 17 NO. 3 . APRIL 2011 TELEMEDICINE and e-HEALTH 175
+events. Our patients are thanked for their willingness to participate in
+the study. The study was financed by Lillebaelt Hospital.
+Disclosure Statement
+No competing financial interests exist.
+REFERENCES
+1. Wurster M, Doran T. Anticoagulation management: A new approach. Disease
+Manag 2006;9:201–209.
+2. The Danish Society of Cardiology. Antitrombotisk behandling ved
+kardiovaskulære sygdomme ‘‘Trombokardiologi’’ DCS vejledning 2007. Nr. 2.
+Available at www.dskb.dk/media/documents/dcs.pdf (last accessed April 9,
+2010).
+3. Miyasaka Y, Barnes ME, Gersh BJ, Cha SS, Bailey KR, Abhayaratna WP, et al.
+Secular trends in incidence of atrial fibrillation in Olmsted County, Minnesota,
+1980 to 2000, and implications on the projections for future prevalence.
+Circulation 2006;114:119–125.
+4. Brandslund I. Development and implementation of an electronic decision
+support system for oral anticoagulation. Klinisk Biokemi i Norden. 2004;16:
+12–15. Available at www.kkno.org/hefter2004/kkn2004-3.pdf (last accessed
+April 9, 2010).
+5. Danish National IT and Telecom Agency. Available at http://en.itst.dk/ (last
+accessed April 9, 2010).
+6. Rosendaal FR, Cannegieter SC, van der Meer FJM, Brie¨t E. A method to
+determine the optimal intensity of oral anticoagulant therapy. Thromb Haemost
+1993;69:236–239.
+7. Ryan F, Byrne S, O’Shea S. Randomized controlled trial of supervised
+self-testing of warfarin therapy using an Internet-based expert system.
+J Thromb Haemost 2009;7:1284–1290.
+8. Schulman S, Kearon C, Kakkar AK, Mismetti P, Schellong S, Eriksson H, et al.
+Dabigatran versus warfarin in the treatment of acute venous
+thromboembolism. N Engl J Med 2009;361:2342–2352.
+9. Van Walraven C, Oake N, Wells PS, Forster AJ. Burden of potentially avoidable
+anticoagulant-associated hemorrhagic and thromboembolic events in the
+elderly. Chest 2007;131:1508–1515.
+10. Ryan F, O’Shea S, Byrne S. The reliability of point-of-care prothrombin time
+testing. A comparison of CoaguChek S and XS INR measurements with hospital
+laboratory monitoring. Int J Lab Hematol 2010;32:e26–e33.
+11. Braun S, Watzke H, Hasenkam JM, Schwab M, Wolf T, Dovifat C, Vo¨ller H.
+Performance evaluation of the new CoaguChek XS system compared with the
+established CoaguChek system by patients experienced in INR-self
+management. Thromb Haemost 2007;97:310–314.
+12. Wieloch M, Hillarp A, Strandberg K, Nilsson C, Svensson PJ. Comparison and
+evaluation of a Point-of-care device (CoaguChek XS) to Owren-type
+prothrombin time assay for monitoring of oral anticoagulant therapy with
+warfarin. Thromb Res 2009;124:344–348.
+13. Plesch W, Van den Besselaar AMHP. Validation of the international normalized
+ratio (INR) in a new point-of-care system designed for home monitoring of oral
+anticoagulation therapy. Int J Lab Hematol 2009;31:20–25.
+14. Plesch W, Wolf T, Breienbeck N, Dikkeschei LD, Cervero A, Perez PL, Van den
+Besselaar AMHP. Results of the performance verification of the CoaguChek XS
+System. Thromb Res 2008;123:381–389.
+15. Lassen JF, Brandslund I, Antonsen S. International normalized ratio for
+prothrombin times in patients taking oral anticoagulants: Critical difference
+and probability of significant change in consecutive measurements. Clin Chem
+1995;41:444–447.
+16. Lassen JF, Kjeldsen J, Antonsen S, Petersen PH, Brandslund I. Interpretation
+of serial measurements of international normalized ratio for prothrombin
+times in monitoring oral anticoagulant therapy. Clin Chem 1995;41:
+1171–1176.
+17. Hamad MAS, van Eeklen E, van Agt T, van Straten AHM. Self-management
+program improves anticoagulation control and quality of life: A prospective
+randomized study. Eur J Cardiothorac Surg 2009;35:265–269.
+18. Jensen CF, Christensen TD, Maegaard M, Hasenkam JM. Quality of
+anticoagulant therapy in patients who perform self management: Warfarin
+versus phenoprocoumon. J Thromb Thrombolysis 2009;28:276–281.
+19. Fitzmaurice DA, Murray ET, Allan TF, Hobbs FDR. A randomised controlled trial
+of patient self management of oral anticoagulation treatment compared with
+primary care management. J Clin Pathol 2002;55:845–849.
+Address correspondence to:
+Ivan Brandslund, M.D., D.M.Sc.
+Department of Clinical Biochemistry
+Vejle Hospital
+Kabbeltoft 25
+7100 Vejle
+Denmark
+E-mail: ivan.brandslund@slb.regionsyddanmark.dk
+Received: July 30, 2010
+Revised: September 21, 2010
+Accepted: October 1, 2010
+CHRISTENSEN ET AL.
+176 TELEMEDICINE and e-HEALTH APRIL 2011
+This article has been cited by:
+1. Barbara Rita Barricelli, Jose Abdelnour-Nocera, Jennie Wilson, Ken Eason. 2019. Sociotechnical design for mobile anticoagulant
+therapy. Health and Technology 6. . [Crossref]
+2. Mohammadreza Naderi Haji, Hamid Moghaddasi, Babak Sharif-Kashani, Alireza Kazemi, Forugh Rahimi. 2019. Characteristics
+of software used in self-management of vitamin K antagonist therapy: A systematic review. European Journal of Cardiovascular
+Nursing 18:5, 358-365. [Crossref]
+3. Brasen Claus L., Madsen Jonna S., Parkner Tina, Brandslund Ivan. 2019. Home Management of Warfarin Treatment Through
+a Real-Time Supervised Telemedicine Solution: A Randomized Controlled Trial. Telemedicine and e-Health 25:2, 109-115.
+[Abstract] [Full Text] [PDF] [PDF Plus]
+4. Bushra Moiz, Anila Rashid, Muhammad Hasan, Lena Jafri, Ahmed Raheem. 2018. Prospective Comparison of Point-of-Care
+Device and Standard Analyzer for Monitoring of International Normalized Ratio in Outpatient Oral Anticoagulant Clinic. Clinical
+and Applied Thrombosis/Hemostasis 24:7, 1153-1158. [Crossref]
+5. Emily M. Hawes, Erika Lambert, Alfred Reid, Gretchen Tong, Mark Gwynne. 2018. Implementation and evaluation of a
+pharmacist-led electronic visit program for diabetes and anticoagulation care in a patient-centered medical home. American Journal
+of Health-System Pharmacy 75:12, 901-910. [Crossref]
+6. Andreas Bietenbeck, Siegfried Jedamzik. POCT in telemedicine 333-336. [Crossref]
+7.Daniel M. Witt, Robby Nieuwlaat, Nathan P. Clark, Jack Ansell, Anne Holbrook, Jane Skov, Nadine Shehab, Juliet Mock,
+Tarra Myers, Francesco Dentali, Mark A. Crowther, Arnav Agarwal, Meha Bhatt, Rasha Khatib, John J. Riva, Yuan Zhang,
+Gordon Guyatt. 2018. American Society of Hematology 2018 guidelines for management of venous thromboembolism: optimal
+management of anticoagulation therapy. Blood Advances 2:22, 3257. [Crossref]
+8.Danielle E Clarkesmith, Helen M Pattison, Phyo H Khaing, Deirdre A Lane. 2017. Educational and behavioural interventions
+for anticoagulant therapy in patients with atrial fibrillation. Cochrane Database of Systematic Reviews 6. . [Crossref]
+9. Peter Brønnum Nielsen, Søren Lundbye-Christensen, Meriam van der Male, Torben Bjerregaard Larsen. 2017. Using a
+personalized decision support algorithm for dosing in warfarin treatment: A randomised controlled trial. Clinical Trials and
+Regulatory Science in Cardiology 25, 1-6. [Crossref]
+10. Andreas Bietenbeck, Siegfried Jedamzik. POCT in der Telemedizin 333-336. [Crossref]
+11. Carl J Heneghan, Josep M Garcia-Alamino, Elizabeth A Spencer, Alison M Ward, Rafael Perera, Clare Bankhead, Pablo
+Alonso-Coello, David Fitzmaurice, Kamal R Mahtani, Igho J Onakpoya. 2016. Self-monitoring and self-management of oral
+anticoagulation. Cochrane Database of Systematic Reviews 20. . [Crossref]
+12. Thomas Decker Christensen, Erik Lerkevang Grove, Peter Brønnum Nielsen, Torben Bjerregaard Larsen. 2016. Self-managed
+oral anticoagulant therapy: a call for implementation. Expert Review of Cardiovascular Therapy 14:3, 255-257. [Crossref]
+13. Esther PWA Talboom-Kamp, Noortje A Verdijk, Lara M Harmans, Mattijs E Numans, Niels H Chavannes. 2016. An eHealth
+Platform to Manage Chronic Disease in Primary Care: An Innovative Approach. interactive Journal of Medical Research 5:1, e5.
+[Crossref]
+14. Barbara Rita Barricelli, Yanet Devis. mHealth in Resource-Constrained Environments 619-636. [Crossref]
+15. Una Ørvim Sølvik, Elisabeth Sellevoll Løkkebø, Ann Helen Kristoffersen, Anne Vegard Stavelin, Stein Binder, Sverre Sandberg.
+2015. Egenkontroll av warfarinbehandling. Tidsskrift for Den norske legeforening 135:9, 849-853. [Crossref]
+16. MARVA V. FOSTER, KRISTEN A. SETHARES. 2014. Facilitators and Barriers to the Adoption of Telehealth in Older Adults.
+CIN: Computers, Informatics, Nursing 32:11, 523-533. [Crossref]
+17. Mathew George, Phuong Ngo, Amy Prawira. 2014. Rural Oncology: Overcoming the Tyranny of Distance for Improved Cancer
+Care. Journal of Oncology Practice 10:3, e146-e149. [Crossref]
+18. Barbara Rita Barricelli, Yanet Devis. 2014. mHealth in Resource-Constrained Environments. International Journal of
+Sociotechnology and Knowledge Development 6:1, 18-35. [Crossref]
+19. Hanjun Lin, Yeh-Liang Hsu, Ming-Shinn Hsu, Chih-Ming Cheng. 2013. Development and Practice of a Telehealthcare Expert
+System (TES). Telemedicine and e-Health 19:7, 549-556. [Abstract] [Full Text] [PDF] [PDF Plus]
+20.Danielle E Clarkesmith, Helen M Pattison, Deirdre A Lane. Educational and behavioural interventions for anticoagulant therapy
+in patients with atrial fibrillation . [Crossref]
+21. Neeltje van den Berg, Maika Schumann, Kathleen Kraft, Wolfgang Hoffmann. 2012. Telemedicine and telecare for older patients
+—A systematic review. Maturitas 73:2, 94-114. [Crossref]
+22. Sabe Sabesan, Sarah Larkins, Rebecca Evans, Suresh Varma, Athena Andrews, Petra Beuttner, Sean Brennan, Michael Young.
+2012. Telemedicine for rural cancer care in North Queensland: Bringing cancer care home. Australian Journal of Rural Health
+20:5, 259-264. [Crossref]
+23. Kurt Boman, Thomas Davidson, Mats Gustavsson, Mona Olofsson, Gun-Britt Renström, Lars Johansson. 2012. Telemedicine
+improves the monitoring process in anticoagulant treatment. Journal of Telemedicine and Telecare 18:6, 312-316. [Crossref]
+24. Milovan Matovic, Slobodan Jankovic, Marija Jeremic, Marina Vlajkovic, Vesna Matovic. 2012. Online Remote Monitoring of
+Patients with Differentiated Thyroid Carcinomas and Neuroendocrine Tumors Treated with High Doses of Radionuclides.
+Telemedicine and e-Health 18:4, 264-270. [Abstract] [Full Text] [PDF] [PDF Plus]
+25. Ahmad Fayaz-Bakhsh, Ali Kazemi Karyani. 2012. Regarding: “Home Management of Oral Anticoagulation via Telemedicine
+Versus Conventional Hospital-Based Treatment”. Telemedicine and e-Health 18:4, 314-315. [Citation] [Full Text] [PDF] [PDF
+Plus]
+26. Rune Rasmussen, Pernille Corell, Poul Madsen, Karsten Overgaard. 2012. Effects of computer-assisted oral anticoagulant therapy.
+Thrombosis Journal 10:1, 17. [Crossref]

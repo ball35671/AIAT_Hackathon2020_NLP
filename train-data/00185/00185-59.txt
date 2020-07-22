@@ -1,0 +1,296 @@
+﻿Abstract
+Background
+In the third season of I-MOVE (Influenza Monitoring Vaccine Effectiveness in Europe), we undertook a multicentre case-control study based on sentinel practitioner surveillance networks in eight European Union (EU) member states to estimate 2010/11 influenza vaccine effectiveness (VE) against medically-attended influenza-like illness (ILI) laboratory-confirmed as influenza.
+
+Methods
+Using systematic sampling, practitioners swabbed ILI/ARI patients within seven days of symptom onset. We compared influenza-positive to influenza laboratory-negative patients among those meeting the EU ILI case definition. A valid vaccination corresponded to > 14 days between receiving a dose of vaccine and symptom onset. We used multiple imputation with chained equations to estimate missing values. Using logistic regression with study as fixed effect we calculated influenza VE adjusting for potential confounders. We estimated influenza VE overall, by influenza type, age group and among the target group for vaccination.
+
+Results
+We included 2019 cases and 2391 controls in the analysis. Adjusted VE was 52% (95% CI 30-67) overall (N = 4410), 55% (95% CI 29-72) against A(H1N1) and 50% (95% CI 14-71) against influenza B. Adjusted VE against all influenza subtypes was 66% (95% CI 15-86), 41% (95% CI -3-66) and 60% (95% CI 17-81) among those aged 0-14, 15-59 and ≥60 respectively. Among target groups for vaccination (N = 1004), VE was 56% (95% CI 34-71) overall, 59% (95% CI 32-75) against A(H1N1) and 63% (95% CI 31-81) against influenza B.
+
+Conclusions
+Results suggest moderate protection from 2010-11 trivalent influenza vaccines against medically-attended ILI laboratory-confirmed as influenza across Europe. Adjusted and stratified influenza VE estimates are possible with the large sample size of this multi-centre case-control. I-MOVE shows how a network can provide precise summary VE measures across Europe.
+
+Figures
+Table 4Table 5Table 6Figure 1Table 1Figure 2Figure 3Table 2Table 3Table 4Table 5Table 6Figure 1Table 1Figure 2
+   
+Citation: Kissling E, Valenciano M, Cohen JM, Oroszi B, Barret A-S, Rizzo C, et al. (2011) I-MOVE Multi-Centre Case Control Study 2010-11: Overall and Stratified Estimates of Influenza Vaccine Effectiveness in Europe. PLoS ONE 6(11): e27622. https://doi.org/10.1371/journal.pone.0027622
+
+Editor: Suryaprakash Sambhara, Centers for Disease Control and Prevention, United States of America
+
+Received: September 9, 2011; Accepted: October 20, 2011; Published: November 15, 2011
+
+Copyright: © 2011 Kissling et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Funding: The authors have no support or funding to report.
+
+Competing interests: The authors have the following competing interest: E. Kissling, M. Valenciano, T. Seyler, C. Savulescu and A. Moren are employees of EpiConcept, Paris. J.M. Cohen and I. Daviaud are employees of GROG/Open Rome, Paris. As Head of Open Rome, J.M. Cohen is involved in several epidemiological studies that are partially or fully funded by pharmaceutical companies (Sanofi-Pasteur, GSK, Roche), nonprofit organizations (Mutuelles, Résaeu DES France) or public institutions (ECDC, CU Strasbourg). He is a member of Association Mieux Prescrire and the advisory boards of Novartis, Roche, and Wyeth (free participation, no compensation). During the past five years, he has received travel grants from Sanofi-Pasteur and Roche. I. Daviaud is involved, through the other institution with which she is affiliated and salaried (Open Rome research department), in the coordination or analysis of epidemiological studies partially or fully funded by Roche and GSK. EpiConcept conducted for the Mexican Social Security and GSK an evaluation of the Mexican hospital based surveillance system for intussusceptions (2008). EpiConcept coordinated studies for measuring influenza vaccine effectiveness funded by EVM, the association of the European Vaccine Manufacturers. None of the current authors were involved in these studies (2009). EpiConcept conducts for SP-MSD the data analysis of a study conducted in Finland to measure the impact of rotavirus vaccination on hospitalisation for acute gastroenteritis due to rotavirus infection (2009-10). There are no patents, products in development or marketed products to declare. This does not alter the authors' adherence to all the PLoS ONE policies on sharing data and materials. All other authors have declared that no competing interests exist.
+
+Introduction
+Influenza is a constantly evolving virus and the antigenic composition of vaccines requires annual formulation. Therefore, vaccine effectiveness (VE) estimates from previous years cannot be used to measure the performance of the current year's vaccine.
+
+In Europe, influenza vaccine composition is reviewed every year. The available vaccine brands, the target groups for vaccination and the vaccination coverage vary across countries. In 2009 the European Council of Ministers recommended European Union (EU) Member States (MS) to reach an influenza vaccination coverage of 75% in all risk groups by the winter season of 2014-15. Risk groups were defined as individuals 65 years and older, and people with underlying medical conditions in the following categories: chronic respiratory and cardiovascular diseases; chronic metabolic disorders; chronic renal and hepatic diseases; immune system dysfunctions (congenital or acquired)[1]. A survey conducted in 2009 among 27 EU MS, Norway and Iceland indicated that all the 27 responding countries recommended seasonal vaccination to the older adult population and to individuals with underlying chronic disease. Six countries recommended vaccination of children aged between six months and < 18 years and ten to pregnant women. Twenty three countries recommended vaccination to health care workers (HCW) in hospitals and long-term facilities and 22 to HCW in out-patient clinics [2].
+
+Taking into account the differences between EU MS, monitoring influenza VE at European level is a major challenge. In 2007, the I-MOVE (Influenza Monitoring Vaccine Effectiveness in Europe) network was established to monitor influenza vaccine effectiveness within and across the seasons in the EU and the European Economic Area (EEA) [3]. The network is funded by the European Centre for Disease Prevention and Control (ECDC) and includes 19 public health institutes from the EU and EEA.
+
+In 2008-9, the pilot season for I-MOVE, we conducted a multi-centre case control study among study sites in five EU MS to provide a pooled estimate of influenza VE among elderly (age ≥ 65 years) across Europe [4]. During the pandemic season in 2009-10, the multi-centre case control study was expanded to study sites in seven countries and the study population included all age groups. During this season the adjusted pandemic VE was 71.9% (95% CI 45.6-85.5) overall, 78.4% (95% CI 54.4 – 89.8) in the < 65 years and 72.9 (95% CI 39.8-87.8) in those without chronic disease [5].
+
+In the 2010-11 season, study sites from eight EU MS participated in the I-MOVE multi-centre case control study. The objectives were to measure the effectiveness of the 2010-11 trivalent seasonal influenza vaccine to prevent medically-attended influenza-like illness (ILI) confirmed as influenza, by influenza virus type, among all the population and among the target population for the influenza vaccine.
+
+Methods
+The eight study sites included in the multi-centre case control study were settings in France, Hungary, Ireland, Italy, Poland, Portugal, Romania and Spain. In six study sites, primary care practitioners belonging to the national influenza sentinel networks were invited to participate in the study. In Portugal and Italy, practitioners other than those participating in the national influenza sentinel networks were also invited to participate.
+
+The study population consisted of non-institutionalised patients consulting a participating practitioner for ILI or acute respiratory illness (ARI) (France only) who had a nasal or throat swab taken less than eight days after symptom onset and with no contra-indication for influenza vaccination. In Hungary the study population was restricted to those 18 years or older. We defined the start of the study period in each of the study sites as more than 14 days after the start of the 2010-11 influenza vaccination campaign.
+
+Practitioners in Ireland, Poland Portugal, Spain and France swabbed all ILI/ARI patients aged 65 and over, in Hungary they swabbed all ILI patients 60 and over and in Italy they systematically swabbed one ILI/ARI patient aged 65 and over per week. In all study sites practitioners systematically sampled ILI/ARI patients to swab among the other age groups, apart from Romania where practitioners swabbed all ILI patients in all age groups.
+
+In all study sites, practitioners interviewed the ILI patients using country-specific questionnaires. The common variables collected in the the eight study sites included ILI signs and symptoms, age, sex, pregnancy, presence of chronic conditions, severity of the chronic disease measured as the number of hospitalisations for the chronic disease in the previous 12 months, smoking history (none, past, current smoker), number of practitioner visits in the previous 12 months, 2009-10 pandemic vaccination status, seasonal influenza vaccination in the 2009-10 and in the 2010-11 season.
+
+A case was defined as a patient with signs and symptoms adhering to the EU ILI case definition (sudden onset of symptoms and at least one of the following four systemic symptoms: fever or feverishness, malaise, headache, myalgia and at least one of the following three respiratory symptoms cough, sore throat, shortness of breath), who was swabbed and tested positive for influenza using real-time polymerase chain reaction (RT-PCR) or culture. Controls were EU ILI patients who were swabbed and tested negative for influenza.
+
+An individual was considered vaccinated if he/she received at least one dose of the 2010-11 seasonal vaccine more than 14 days before the date of onset of ILI symptoms. Swabs were tested for influenza at the respective countries' National Influenza Reference Laboratory (in Spain, the laboratories of the regional sentinel networks integrated in the Spanish Influenza Sentinel Surveillance System). In each country, all or a subset of influenza isolates were antigenically characterised. Laboratory viral detection, typing, subtyping and variant analysis performed in each of the National Reference Laboratories are described elsewhere [6].
+
+According to country specific requirements for ethical approval, all participants provided oral or written consent for recruitment to the study. The eight study teams sent their anonymised dataset to EpiConcept, the I-MOVE coordination focal point where a common dataset was created.
+
+We excluded ILI patients if they presented ILI symptoms before the week of onset of the first recruited influenza case. For each study site, we excluded ILI patients presenting either after the onset week of the last recruited influenza case or after the onset week of the case prior to two consecutive weeks of no positive case recruited. To estimate VE against A(H1N1)2009 and against influenza B virus, we based the exclusion criteria on the week of onset of the first and last A(H1N1)2009 and influenza B case respectively. We compared the characteristics of cases and controls using Chi square tests, T-tests, Fisher's exact test or the Mann-Whitney test depending on the nature of the variable.
+
+We used chained equations to impute missing values; we used missing at random assumptions and independently analysed 20 copies of the data using 30 cycles of regression [7]. The variables included in the imputation model were the outcome and the vaccination status for the 2010-11 season as well as covariates: age group, sex, presence of chronic conditions, at least one hospitalisation in the previous 12 months for chronic disease, smoking history, number of practitioner visits in the previous 12 months (0–1, 2–4, 5+), 2009-10 pandemic vaccination status, seasonal influenza vaccination in the 2009-10, belonging to a target group for vaccination, week of symptom onset and study site.
+
+We estimated the pooled VE as 1- the odds ratio (OR) using a one-stage method with study as fixed effect in the model. We estimated VE against all influenza, influenza A(H1N1)2009 and influenza B.
+
+To estimate confounder adjusted VE, we used a logistic regression model including the potential confounding factors: age (ten year age bands), sex, presence of chronic conditions, at least one hospitalisation in the previous 12 months for chronic disease, current smoking, number of practitioner visits in the previous 12 months, 2009-10 pandemic vaccination status, seasonal influenza vaccination in the 2009-10, week of symptom onset.
+
+We stratified VE into three age groups (0–14, 15–59 and 60 years and above). Analyses were further restricted to the target group for vaccination. Five study sites included the variable “belongs to the target group for vaccination” in their questionnaire. For the other three study sites, we defined it based on the variables (e.g. age group, chronic diseases, pregnancy, profession) included in the study site questionnaires that allowed target groups to be identified.
+
+We used Cochran's Q-test and the I2 index to test the heterogeneity between study sites [8] and as a sensitivity analysis we carried out a two-stage pooled analysis [9] to compare against the one-stage pooled results. In the two-stage pooled analysis adjusted influenza VE estimates are calculated by study site and a pooled average of those results is computed. Due to limitations in sample size we only included the potential most important confounders age groups (0-14, 15-59 and 60+ years), time (month of symptom onset), and chronic disease in the models as stable models could be fitted for each study site with these covariates. The Irish study site was excluded from this analysis, due to sparse data (no vaccinated cases).
+
+We conducted all statistical analysis using Stata version 11 (StataCorp. 2007. Stata Statistical Software: Release 11. College Station, TX: StataCorp LP).
+
+Results
+In the countries of the eight study sites, influenza activity peaked between week 52 2010 (Portugal) and week 8 2011 (Romania) (Figure 1). A total of 23 vaccines were used in the eight countries; six of them were adjuvanted (Table 1).
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Figure 1. Influenza-like illness/Acute Respiratory Infection rates by week as reported by the National Sentinel systems, I-MOVE multi-centre case control study, influenza season 2010-11.
+https://doi.org/10.1371/journal.pone.0027622.g001
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 1. Seasonal 2010-11 vaccines used by study site, I-MOVE multi-centre case control study, influenza season 2010-11.
+https://doi.org/10.1371/journal.pone.0027622.t001
+
+A total of 1035 practitioners agreed to participate in the study; 765 of them (74.0%) recruited at least one ILI patient meeting the EU case definition and swabbed < 8 days after onset of symptoms within the study period (Table 2). We excluded two individuals with contraindications for vaccination, two individuals who had received antivirals prior to swabbing, 58 individuals without information on lab results, 12 individuals who received vaccination prior to begin of the country's national vaccination campaign, 660 individuals who did not adhere to the EU ILI case definition, 26 individuals who were swabbed more than seven days after symptom onset and 163 individuals that presented outside of the onset week of the first or last case (Figure 2). We included 4410 ILI patients in the analysis: 2019 cases and 2391 controls. Among the cases, 1179 (58.4%) were positive for influenza A(H1N1)2009 virus, 40 (2.0%) for influenza A(H3N2) virus, 37 (1.8%) were positive for influenza A virus that could not be subtyped and 765 (37.9%) were positive for influenza B virus (Figure 3). Two of the cases presented a co-infection, one positive for influenza A(H1N1)2009 and for influenza B virus and one positive for influenza A(H3N2) and influenza B virus.
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Figure 2. Flowchart of data exclusion for pooled analysis, I-MOVE multi-centre case control study, influenza season 2010-11.
+https://doi.org/10.1371/journal.pone.0027622.g002
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Figure 3. ILI patients influenza positive (N = 2019), A(H1N1)2009 positive (N = 1179), B positive (N = 765) and influenza negative (N = 2391) by week of symptom onset, I-MOVE multi-centre case control study, influenza season 2010-11.
+https://doi.org/10.1371/journal.pone.0027622.g003
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 2. Practitioner participation, Influenza-like illness (ILI) patients recruited by case control status, vaccination status, and study site, I-MOVE multi-centre case control study, influenza season 2010-11.
+https://doi.org/10.1371/journal.pone.0027622.t002
+
+Among 4390 individuals with information on vaccination status and vaccination date for seasonal vaccination in 2010-11, 337 (7.7%) were vaccinated (ranging from 3.2% in Ireland to 19.5% in Italy).
+
+The median age was lower in cases (23 years, standard deviation (SD): 19.4 years) than in controls (32 years, SD: 22.7 years) (Table 3). The delay between onset of symptoms and swabbing was slightly shorter in cases (mean: 1.7 days, range: 0–7 days) than in controls (mean: 1.8 days, range: 0–7 days). The proportion of individuals presenting with fever, headache, myalgia or cough was higher among cases than among controls, while the proportion of those presenting with shortness of breath or sore throat was higher among controls than among cases. Compared with cases, a higher proportion of controls had diabetes, heart disease, any chronic disease or were hospitalised at least once for their chronic disease in the previous 12 months. A higher proportion of controls were current or past smokers, vaccinated with the 2009-10 seasonal influenza vaccine, vaccinated with the 2009-10 pandemic influenza vaccine and belonged to the target group for vaccination. The proportion of individuals visiting their practitioner more than once in the previous 12 months, was higher among controls (68.6%) than among cases (56.9%).
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 3. Characteristics of influenza cases and test-negative controls included in the study by characteristics, I-MOVE multi-centre case control study, influenza season 2010-11.
+https://doi.org/10.1371/journal.pone.0027622.t003
+
+In the complete case dataset, the Q test (p = 0.337) and the I2 index (12.1%) testing for heterogeneity between the individual VE estimates of seven study sites (Ireland excluded as no vaccinated cases) using models adjusted for age group, onset month and chronic disease suggested no statistical heterogeneity.
+
+In the complete case analysis we included 3254 ILI patients, giving 73.8% of complete data. Two variables contained 1271 of the 1540 missing values (82.5%): practitioner visits in the previous year, missing values in 789 records (17.9%), and smoking, missing values in 482 records (10.9%). Excluding these variables, the data were 95.4% complete. Crude VE against all influenza was 65.5% (95% CI 53.2-74.6) and adjusted VE was 50.9% (95% CI 25.2-67.7)(Table S1).
+
+In the imputed analysis we included 4410 individuals. Crude imputed VE against any influenza was 64.2% (95% CI 53.2-72.6) and the adjusted 51.9% (95% CI 30.0-66.9) (Table 4). The adjusted VE against all influenza by age group was 65.7% (95% CI 15.4-86.1), 41.3% (95% CI -2.6-66.4) and 59.9% (95% CI 16.7-80.7) among those aged 0-14, 15-59 and 60 and above years respectively (Table 4).
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 4. Pooled crude and adjusted seasonal vaccine effectiveness against all influenza, A(H1N1)2009 and influenza B, overall and by age group, imputed data, I-MOVE multi-centre case control study, influenza season 2010-11.
+https://doi.org/10.1371/journal.pone.0027622.t004
+
+Adjusted VE against A(H1N1)2009 was 55.5% (95% CI 28.7-72.2) and against influenza B 49.8% (95% CI 13.8-70.8). Adjusted VE against A(H1N1)2009 was 77.2% (95% CI 16.0-93.8), 27.2% (95% CI -37.1-61.4) and 72.3 (95% CI 26.5-89.6) in the 0-14, 15-59 and 60+ year old age groups. Adjusted VE estimates against influenza B virus in these age groups ranged between 55.5% and 63.7% (Table 4).
+
+The two-stage random effects pooled analysis VE estimate against all influenza was similar to the one-stage complete case fixed effects analysis adjusted for the same covariates (47.7% and 48.7%; Table S2).
+
+Analysis restricted to the groups targeted for the seasonal 2010-11 vaccine
+Of the 4410 ILI patients included in the study 1012 (23.0%) belonged to a group targeted for the seasonal 2010-11 vaccination: 381 influenza cases and 631 controls. Among the cases, 227 (59.6%) were positive for influenza A(H1N1)2009 virus, nine (2.4%) for influenza A(H3N2) virus, 11 (2.9%) were positive for influenza A virus that could not be subtyped and 134 (35.2%) were positive for influenza B virus.
+
+Among 1002 individuals with information on vaccination status and vaccination date for seasonal vaccination in 2010-11, 281 (28.0%) were vaccinated (ranging from 11% in Poland to 43% in Italy).
+
+The characteristics for which cases and controls differed were the same among the target group for vaccination as among all the ILI patients included in the study. The only exceptions were that in the target group there were no differences in the proportion of cases and controls presenting with myalgia or sore throat (Table 5).
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 5. Characteristics of influenza cases and test-negative controls among the target group for vaccination, I-MOVE multi-centre case control study, influenza season 2010-11.
+https://doi.org/10.1371/journal.pone.0027622.t005
+
+In the complete case database (Ireland excluded as no vaccinated cases), the Q test (p = 0.045) and the I2 index (53.4%) testing for heterogeneity between the individual VE estimates of the seven study sites (Ireland excluded as no vaccinated cases) using models adjusted for age, onset month and chronic disease suggested medium statistical heterogeneity.
+
+The adjusted imputed VE against all influenza was 56.2% (95% CI 34.3-70.7) overall and 54.0% (95% CI 6.6-77.3) in the 15-59 year age group (Table 6). The overall adjusted VE against A(H1N1)2009 was 58.9% and 63.4% against influenza B.
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 6. Pooled crude and adjusted seasonal vaccine effectiveness overall and by influenza type and age group among the target group for vaccination, imputed data, I-MOVE multi-centre case control study, influenza season 2010-11.
+https://doi.org/10.1371/journal.pone.0027622.t006
+
+The two-staged random effects pooled analysis VE estimate against all influenza was 57.1% and the one-stage complete case fixed effects analysis adjusted for the same covariates was 52.8% (Table S2).
+
+Discussion
+The 2010-11 I-MOVE multi-centre case control study based on sentinel primary health practitioner networks from eight countries in the EU provided overall and stratified VE estimates. All the overall and stratified pooled estimates (range from 27.2% to 77.2%) suggested a moderate adjusted VE against medically attended influenza. The overall adjusted VE against A(H1N1)2009 and influenza B virus did not differ substantially from the VE estimate against all influenza.
+
+According to data reported by the Community Network of Reference Laboratories (CNRL) for Human Influenza in Europe, in 2010-11 there was a good match between the vaccine and circulating A and B influenza virus strains [10]. The adjusted point VE estimates against all influenza and against A(H1N1)2009 virus, were lower in the 15–59 year olds than in the 0-14 and 60 and above age groups. Age-specific VE estimates against influenza B virus did not vary substantially.
+
+Our results suggest that the effectiveness of the seasonal 2010-11 influenza vaccine against medically attended ILI confirmed as A(H1N1)2009 virus was lower than the effectiveness of the 2009-10 season monovalent pandemic vaccine[5], [11], [12]. This could be explained by last season's perfect match between the circulating and the vaccine virus strain, by last season's use of adjuvanted influenza vaccines, by the amount of A(H1N1)2009 antigen that was higher in the monovalent than in the trivalent vaccine or by an overestimation of the VE in 2009-10. In the pandemic season, vaccination campaigns started during the pandemic wave or after the peak of the pandemic once part of the population had acquired natural immunity. If vaccinated persons had had a higher risk of infection before vaccination (e.g. children) the VE could have been overestimated [5].
+
+While some studies carried out in the 2010-11 season suggested a higher effect of the combined use of 2010-11 seasonal and 2009-10 pandemic vaccine, this was not seen in our study [13]–[15]. Adjusted VE against all influenza was around 12% for the 2009-10 pandemic vaccine, around 59% for the 2010-11 seasonal influenza vaccine and 44% for both vaccines together (data not shown).
+
+The majority of countries participating in this study used both adjuvanted and non-adjuvanted influenza vaccines (Table 1). The different vaccine types were used in different subpopulations. With the data collected for this study, it was not possible to identify the target groups to enable an estimate by vaccine type.
+
+For both analyses done (all ILI patients and those targeted for vaccination) our study is limited by the small sample size for subgroup analysis and the low vaccination coverage. Precise estimates were not always possible, particularly in children 0-14 years usually not targeted for vaccination.
+
+As any observational study, the I-MOVE multi-centre case control study is subject to selection bias. However systematic sampling of ILI/ARI patients in all study sites and the blinding of participating practitioners to the case/control status of ILI cases should minimise this bias.
+
+We applied the test-negative design, which has been suggested to adjust for health seeking behaviour amongst study participants [16], [17]. In the analysis of the 2009-10 season multi-centre case control study, the number of practitioner visits in the previous year was a strong confounder [5]. In 2010-11 controls had a poorer health status than cases. However for all outcomes used, in the multivariable analysis the only covariates that changed the OR by more than 5% when omitted from the model were age group (-10.7%) and onset week (7.1%) (Figure S1). In the target group for vaccination this was similar (age group: -11.5%; onset week: 8.0%) (Figure S2).
+
+When comparing crude and adjusted VE estimates, negative confounding was predominant among the youngest and oldest age groups, whereas for the 15-59 year age group there was positive confounding. This differential confounding may be due to the small sample size and highlights the need for adequate sample size for age-stratified estimates to investigate this further.
+
+We adjusted by age using ten-year age bands to minimize residual confounding by age, however we cannot exclude there was further residual confounding in this variable or from unmeasured confounders.
+
+Comparison of one-stage and two-stage results showed similar results (Table S2), indicating the appropriateness of the one-stage model. While analyses using the whole population showed no significant heterogeneity, the results suggested medium heterogeneity between study sites when restricting the analysis to the target group for vaccination. While all study sites used the same protocol, there were differences in influenza incidence, vaccines used, health seeking behaviour and target groups for vaccination. In the next season a higher sample size will be sought among the target group for vaccination in order to carry out a two-stage random effects pooled analysis adjusted for more covariates.
+
+The Italian VE point estimate appeared to deviate in the distribution of VE per country (Figure S3 and S4). Upon exclusion of Italy, heterogeneity was neither present overall nor in any subgroups and all VE estimates were higher. Detailed investigation into information or selection bias or into differences in missing data between Italy and other study sites yielded no differences. Therefore we assumed that a one-stage model was still appropriate and included Italy in the pooled VE estimates.
+
+Overall VE estimates from the target population were similar to the estimates from the whole population. One limitation of the analysis restricted to the target population for vaccination is that the variable “belonging to the target population” was not collected homogeneously between study sites. In some sites not all information on target group for vaccination was available (mainly lack of information on people with professions that are targeted for vaccination). This may have resulted in excluding some of the target population from the analysis.
+
+The strengths of this study lie in the sample size due to the multi-centre case control study design. Early adjusted estimates were possible in February 2011 [18] as well as estimates by influenza type, age group and target group for vaccination. Countries share the same protocol, which includes systematic sampling and documentation of many covariates to adjust for positive and negative confounding [17].
+
+In conclusion, the I-MOVE multi-centre case control study provided summary influenza VE estimates across Europe and showed a moderate VE against medically attended ILI laboratory-confirmed influenza in a season of good match between the circulating influenza strains and the strains included in the 2010-11 trivalent vaccine. Next season further study sites may be included in the pooled analysis and current study sites will focus on increasing sample size through recruitment of more GPs in order to obtain more precise estimates, to carry out an adjusted two-stage pooled analysis and to obtain age-specific estimates by influenza type among the target group for vaccination. Even if the trivalent inactivated influenza vaccines may only provide a moderate protection against medically-attended ILI laboratory confirmed as influenza, they remain, until more efficient vaccines are available, the most effective measure to prevent influenza infection and its consequences.
+
+Supporting Information
+Figure_S1.doc
+figshare 1 / 6 Download
+Percentage difference in OR when omitting covariates from imputed adjusted model, total population, by influenza type, I-MOVE multi-centre case control study, influenza season 2010-11
+
+Figure S1.
+Percentage difference in OR when omitting covariates from imputed adjusted model, total population, by influenza type, I-MOVE multi-centre case control study, influenza season 2010-11
+
+https://doi.org/10.1371/journal.pone.0027622.s001
+
+(DOC)
+
+Figure S2.
+Percentage difference in OR when omitting covariates from imputed adjusted model, target population for vaccination, by influenza type, I-MOVE multi-centre case control study, influenza season 2010-11
+
+https://doi.org/10.1371/journal.pone.0027622.s002
+
+(DOC)
+
+Figure S3.
+Overall VE against all influenza by study adjusted for age group, chronic conditions and onset month and pooled estimate using random effects, multi-centre case control study, influenza season 2010-11.
+
+https://doi.org/10.1371/journal.pone.0027622.s003
+
+(DOC)
+
+Figure S4.
+VE against all influenza by study site among target group for vaccination adjusted for age group, chronic conditions and onset month and pooled estimate using random effects, multi-centre case control study, influenza season 2010-11.
+
+https://doi.org/10.1371/journal.pone.0027622.s004
+
+(DOC)
+
+Table S1.
+Pooled crude and adjusted seasonal vaccine effectiveness against all influenza, A(H1N1)2009 and influenza B virus, for all ages, complete case analysis, I-MOVE multi-centre case control study, influenza season 2010-11.
+
+https://doi.org/10.1371/journal.pone.0027622.s005
+
+(DOC)
+
+Table S2.
+Comparison of VE against all influenza using 1-stage and 2-stage pooled models, I-MOVE multi-centre case control study, influenza season 2010-11.
+
+https://doi.org/10.1371/journal.pone.0027622.s006
+
+(DOC)
+
+Acknowledgments
+All participating GPs and paediatricians in France (Réseau des GROG), Hungary, Ireland, Italy, Poland, Portugal (“Médicos-Sentinela” and GPs participating in EUROEVA project), Romania, Spain (cycEVA).
+
+France: I Grog (Réseau des GROG), A Mosnier, TT Bui (Open Rome), V Enouf (National Reference Centre for Influenza virus France North and South), M Valette, A Vabret, P Pothier, G Agius, F Stoll-Keller, S Rogez, JM Mansuy, G Giraudeau, H Fleury, N Leveque (associated hospital laboratories).
+
+Hungary: M Melles, A Csohán, Z Molnár, K Kaszás, O Budavari, E Kozma (National Centre for Epidemiology, Department of Epidemiology), S Caini (National Centre for Epidemiology, Department of Epidemiology; EPIET, European Centre for Disease Prevention and Control (ECDC), Sweden), M Rózsa, É Hercegh (National Centre for Epidemiology, Influenza Reference Laboratory), local study coordinators from the National Public Health and Medical Officers' Service.
+
+Ireland: A O'Malley, D O'Flanagan, A O'Hora, O Bannon, S Cotter, L Domegan, S Gee, D Igoe, J Mereckiene, P O'Lorcain (Health Protection Surveillance Centre); C Collins, O Levis, M Joyce (Irish College of General Practitioners), S Coughlan, J Moran, A Waters (National Virus Reference Laboratory).
+
+Italy: MC Rota, A Bella, F D'Ancona, S Giannitelli, S Declich, S Puzelli, and I Donatelli (ISS), A Azzi (Regional Reference Laboratory Toscana), G Delogu (Catholic University of the Sacred Heart, Department of Microbiology).
+
+Poland: M Głuchowska (National Institute of Public Health, Department of Epidemiology), M Romanowska, L Brydak (National Institute of Public Health, National Influenza Centre).
+
+Portugal: A Machado, CM Dias, JM Falcáo (Instituto Nacional de Saúde Dr. Ricardo Jorge, Department of Epidemiology) I Falcáo (Direcção Geral da Saúde, Unidade de Emergência em Saúde Pública), R Guiomar, P Conde, P Gonçalves (Instituto Nacional de Saúde Dr. Ricardo Jorge, Department of Infectious Diseases).
+
+Romania: E Lupulescu (INCDMI Cantacuzino, Laboratory for Viral Respiratory Infections), V Alexandrescu, G Ionescu (INCDMI Cantacuzino, Pharmacovigilence and clinical study), A Pistol, R Popescu (National Institute for Public Health), E Duca (Public Health Directorate Iasi), S Ibram (Public Health Directorate Constanta), D Dan (Public Health Directorate Prahova), C Truica (Public Health Directorate Calarsi), CM Sima (Public Health Directorate Maramures), E Marialaki (Public Health Directorate Mures).
+
+Spain: S de Mateo (National Centre of Epidemiology), F Pozo, I Casas, J Ledesma (National Influenza Centre), J Giménez, JM Vanrell (Baleares); C Rodríguez, T Vega (Castilla y León); A Martinez, N Torner (Cataluña); JM Ramos, MC Serraro (Extremadura), M García Cenoz, J Castilla (Navarra); JM Altzibar, JM Arteagoitia (País Vasco); C Quiñones, M Perucha (La Rioja); D Castrillejo (Melilla).
+
+Author Contributions
+Conceived and designed the experiments: MV JMC CR BN DP AL JOD CS BCC AM. Performed the experiments: JMC BO ASB CR PS BN DP AL ID JKH JOD TS IAP-S PP AEI CS. Analyzed the data: EK MV AM. Participated in protocol writing: MV AM EK. Adapted GROG network database to I-MOVE design: JMC. Conceived the idea of a European network for monitoring influenza vaccine effectiveness: BCC. Wrote the first draft of the paper: EK MV. Contributed to the writing of the paper: EK MV JMC BO ASB CR PS BN DP AL ID JKH JOD TS IAP-S PP AEI SJ-J CS BCC AM.
+
+References
+1.European Commission (2009) Proposal for a Council recommendation on seasonal influenza vaccination. 353/final/2. Available from: http://ec.europa.eu/health/ph_threats/com/Influenza/docs/seasonflu_rec2009_en.pdf. Accessed October 2011.
+2.Mereckiene J, Cotter S, D'Ancona F, Giambi C, Nicoll A, et al. (2010) Differences in national influenza vaccination policies across the European Union, Norway and Iceland 2008-2009. Euro Surveill 15:
+View ArticleGoogle Scholar
+3.Valenciano M, Ciancio B, Moren A (2008) First steps in the design of a system to monitor vaccine effectiveness during seasonal and pandemic influenza in EU/EEA Member States. Euro Surveill 13: 19015.
+View ArticleGoogle Scholar
+4.Kissling E, Valenciano M, Falcao J, Larrauri A, Widgren K, et al. (2009) “I-MOVE” towards monitoring seasonal and pandemic influenza vaccine effectiveness: lessons learnt from a pilot multi-centric case-control study in Europe, 2008-9. Euro Surveill 14:
+View ArticleGoogle Scholar
+5.Valenciano M, Kissling E, Cohen JM, Oroszi B, Barret AS, et al. (2011) Estimates of pandemic influenza vaccine effectiveness in Europe, 2009-2010: results of Influenza Monitoring Vaccine Effectiveness in Europe (I-MOVE) multicentre case-control study. PLoS Med 8: e1000388.
+View ArticleGoogle Scholar
+6.European Centre for Disease Prevention and Control (ECDC) (2010) European Influenza Surveillance Network (EISN). Table 2: Characteristics of the virological surveillance systems participating in EISN. Available from: http://www.ecdc.europa.eu/en/activities/surveillance/EISN/laboratory_network/Pages/laboratory_network.aspx. Accessed October 2011.
+7.Sterne JA, White IR, Carlin JB, Spratt M, Royston P, et al. (2009) Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls. BMJ 338: b2393.
+View ArticleGoogle Scholar
+8.Huedo-Medina TB, Sanchez-Meca J, Marin-Martinez F, Botella J (2006) Assessing heterogeneity in meta-analysis: Q statistic or I2 index? Psychol Methods 11: 193–206.
+View ArticleGoogle Scholar
+9.Stukel TA, Demidenko E, Dykes J, Karagas MR (2001) Two-stage methods for the analysis of pooled data. Stat Med 20: 2115–2130.
+View ArticleGoogle Scholar
+10.Community Network of Reference Laboratories (CNRL) for Human Influenza in Europe (2011) Influenza virus characterisation. Summary Europe, May-June 2011.
+11.Castilla J, Moran J, Martinez-Artola V, Fernandez-Alonso M, Guevara M, et al. (2011) Effectiveness of the monovalent influenza A(H1N1)2009 vaccine in Navarre, Spain, 2009-2010: Cohort and case control study. Vaccine.
+12.Hardelid P, Fleming DM, McMenamin J, Andrews N, Robertson C, et al. (2011) Effectiveness of pandemic and seasonal influenza vaccine in preventing pandemic influenza A(H1N1)2009 infection in England and Scotland 2009-2010. Euro Surveill 16:
+View ArticleGoogle Scholar
+13.Castilla J, Moran J, Martinez-Artola V, Reina G, Martinez-Baz I, et al. (2011) Effectiveness of trivalent seasonal and monovalent influenza A(H1N1)2009 vaccines in population with major chronic conditions of Navarre, Spain: 2010/11 mid-season analysis. Euro Surveill 16:
+View ArticleGoogle Scholar
+14.Pebody R, Hardelid P, Fleming D, McMenamin J, Andrews N, et al. (2011) Effectiveness of seasonal 2010/11 and pandemic influenza A(H1N1)2009 vaccines in preventing influenza infection in the United Kingdom: mid-season analysis 2010/11. Euro Surveill 16:
+View ArticleGoogle Scholar
+15.Savulescu C, Jimenez-Jorge S, de Mateo S, Ledesma J, Pozo F, et al. (2011) Effectiveness of the 2010/11 seasonal trivalent influenza vaccine in Spain: preliminary results of a case-control study. Euro Surveill 16:
+View ArticleGoogle Scholar
+16.Belongia EA, Kieke BA, Donahue JG, Greenlee RT, Balish A, et al. (2009) Effectiveness of inactivated influenza vaccines varied substantially with antigenic match from the 2004-2005 season to the 2006-2007 season. J Infect Dis 199: 159–167.
+View ArticleGoogle Scholar
+17.Valenciano M, Kissling E, Ciancio BC, Moren A (2010) Study designs for timely estimation of influenza vaccine effectiveness using European sentinel practitioner networks. Vaccine 28: 7381–7388.
+View ArticleGoogle Scholar
+18.Kissling E, Valenciano M (2011) Early estimates of seasonal influenza vaccine effectiveness in Europe, 2010/11: I-MOVE, a multicentre case-control study. Euro Surveill 16:
+View ArticleGoogle Scholar

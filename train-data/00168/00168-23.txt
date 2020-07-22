@@ -1,0 +1,607 @@
+Efficacy of a trivalent influenza vaccine against seasonal strains and
+against 2009 pandemic H1N1: A randomized, placebo-controlled trial
+William J.H. Mcbride a,⇑
+, Walter P. Abhayaratna b,c
+, Ian Barr d
+, Robert Booy e
+, Jonathan Carapetis f
+,
+Simon Carson g
+, Ferdinandus De Looze h
+, Rod Ellis-Pegler i
+, Leon Heron e
+, Jeff Karrasch j
+, Helen Marshall k
+,
+Jodie Mcvernon l,1
+, Terry Nolan l
+, William Rawlinson m, Jim Reid n
+, Peter Richmond o
+, Sepehr Shakib p
+,
+Russell L. Basser q
+, Gunter F. Hartel q,2
+, Michael H. Lai q,3
+, Steven Rockman q
+, Michael E. Greenberg q,4
+a James Cook University, Cairns Hospital Clinical School, Cairns, Queensland 4870, Australia
+b Academic Unit of Internal Medicine, Canberra Hospital, Woden, Australian Capital Territory 2606, Australia
+c ANU College of Medicine, Biology and Environment, Australian National University, Canberra, Australian Capital Territory 0200, Australia
+dWorld Health Organization Collaborating Centre for Reference and Research on Influenza, North Melbourne, Victoria 3051, Australia
+eNational Centre for Immunisation Research and Surveillance of Vaccine Preventable Diseases, The University of Sydney and The Children’s Hospital at Westmead, Westmead,
+New South Wales 2145, Australia
+f
+Menzies School of Health Research, Charles Darwin University, Darwin, Northern Territory 0810, Australia
+g Southern Clinical Trials Ltd, Christchurch 8013, New Zealand
+h Trialworks Clinical Research Pty Ltd and Discipline of General Practice, School of Medicine, University of Queensland, Brisbane, Queensland 4067, Australia i
+Auckland Clinical Studies, Auckland 1072, New Zealand
+j
+Redcliffe Hospital, Redcliffe, Queensland 4020, Australia
+k Vaccinology and Immunology Research Trials Unit (VIRTU), Women’s and Children’s Hospital, Robinson Research Institute and School of Medicine, University of Adelaide, Adelaide,
+South Australia 5006, Australia
+l
+Vaccine and Immunization Research Group, Melbourne School of Population and Global Health, University of Melbourne, and Murdoch Children’s Research Institute, Parkville, Victoria
+3052, Australia
+m South Eastern Sydney and Illawarra Area Health Service and University of New South Wales, Sydney, New South Wales 2052, Australia
+nDunedin School of Medicine, University of Otago, Dunedin 9054, New Zealand
+oUniversity of Western Australia, School of Paediatrics and Child Health, Princess Margaret Hospital for Children, Perth, Western Australia 6872, Australia pDiscipline of Pharmacology, School of Medical Sciences, University of Adelaide, Adelaide, South Australia 5001, Australia
+q Clinical Research and Development, CSL Limited, Parkville, Victoria 3052, Australia
+article info
+Article history:
+Received 4 April 2016
+Received in revised form 31 July 2016
+Accepted 11 August 2016
+Available online 29 August 2016
+Keywords:
+Cross-protection
+Influenza A virus
+H1N1 subtype
+Influenza vaccine efficacy
+abstract
+Background: Before pandemic H1N1 vaccines were available, the potential benefit of existing seasonal
+trivalent inactivated influenza vaccines (IIV3s) against influenza due to the 2009 pandemic H1N1 influenza strain was investigated, with conflicting results. This study assessed the efficacy of seasonal IIV3s
+against influenza due to 2008 and 2009 seasonal influenza strains and against the 2009 pandemic
+H1N1 strain.
+Methods: This observer-blind, randomized, placebo-controlled study enrolled adults aged 18–64 years
+during 2008 and 2009 in Australia and New Zealand. Participants were randomized 2:1 to receive IIV3
+or placebo. The primary objective was to demonstrate the efficacy of IIV3 against laboratory-confirmed
+influenza. Participants reporting an influenza-like illness during the period from 14 days after vaccination
+until 30 November of each study year were tested for influenza by real-time reverse transcription
+http://dx.doi.org/10.1016/j.vaccine.2016.08.038
+0264-410X/ 2016 The Authors. Published by Elsevier Ltd.
+This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+⇑ Corresponding author at: College of Medicine and Dentistry, James Cook University, Cairns Clinical School, Cairns Hospital, PO Box 902, Cairns, Queensland 4870,
+Australia.
+E-mail addresses: john.mcbride@jcu.edu.au (W.J.H. Mcbride), walter.abhayaratna@act.gov.au (W.P. Abhayaratna), Ian.Barr@influenzacentre.org (I. Barr), Robert.
+booy@health.nsw.gov.au (R. Booy), jonathan.carapetis@telethonkids.org.au (J. Carapetis), Simon.Carson@cshc.co.nz (S. Carson), freddelooze@austrials.com.au (F. De Looze),
+rodbep@gmail.com (R. Ellis-Pegler), LeonH@chw.edu.au (L. Heron), jeffkarrasch@gmail.com (J. Karrasch), helen.marshall@adelaide.edu.au (H. Marshall), j.mcvernon@unimelb.edu.au (J. Mcvernon), t.nolan@unimelb.edu.au (T. Nolan), w.rawlinson@unsw.edu.au (W. Rawlinson), jim.reid@otago.ac.nz (J. Reid), ssshakib@gmail.com (S. Shakib),
+Russell.Basser@seqirus.com (R.L. Basser), Gunter@HartelConsulting.com (G.F. Hartel), michael_h.lai@novartis.com (M.H. Lai), Steve.Rockman@seqirus.com (S. Rockman),
+Michael.greenberg@sanofipasteur.com (M.E. Greenberg). 1 Present address: Modelling and Simulation Unit, Melbourne School of Population and Global Health, The University of Melbourne, Victoria 3010, Australia and Murdoch
+Childrens Research Institute, Parkville, Victoria 3052, Australia.
+2 Present address: Hartel Consulting, Brisbane, Queensland 4170, Australia. 3 Present address: Novartis Pharma AG, Retina Development Franchise, Novartis Campus, 4056 Basel, Switzerland. 4 Present address: Sanofi Pasteur, San Francisco, CA 94107, USA.
+Vaccine 34 (2016) 4991–4997
+Contents lists available at ScienceDirect
+Vaccine
+journal homepage: www.elsevier.com/locate/vaccine
+Seasonal influenza
+Seasonal trivalent inactivated influenza
+vaccine
+polymerase chain reaction.
+Results: Over a study period of 2 years, 15,044 participants were enrolled (mean age ± standard deviation: 35.5 ± 14.7 years; 54.4% female). Vaccine efficacy of the 2008 and 2009 IIV3s against influenza
+due to any strain was 42% (95% confidence interval [CI]: 30%, 52%), whereas vaccine efficacy against influenza due to the vaccine-matched strains was 60% (95% CI: 44%, 72%). Vaccine efficacy of the 2009 IIV3
+against influenza due to the 2009 pandemic H1N1 strain was 38% (95% CI: 19%, 53%). No vaccinerelated deaths or serious adverse events were reported. Solicited local and systemic adverse events were
+more frequent in IIV3 recipients than placebo recipients (local: IIV3 74.6% vs placebo 20.4%, p < 0.001;
+systemic: IIV3 46.6% vs placebo 39.1%, p < 0.001).
+Conclusions: The 2008 and 2009 IIV3s were efficacious against influenza due to seasonal influenza strains
+and the 2009 IIV3 demonstrated moderate efficacy against influenza due to the 2009 pandemic H1N1
+strain.
+Funded by CSL Limited, ClinicalTrials.gov identifier NCT00562484
+ 2016 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://
+creativecommons.org/licenses/by/4.0/).
+1. Introduction
+Trivalent influenza vaccines (IIV3s) containing antigens of two
+influenza A strains (A/H1N1, A/H3N2) and one influenza B strain
+are effective in protecting against influenza [1,2]. As new influenza
+variants arise via frequent antigenic change, the influenza strains
+included in IIV3s frequently change between influenza seasons,
+based on recommendations by the World Health Organization
+(WHO) [3].
+The 2009 H1N1 pandemic raised the question of whether existing seasonal IIV3s might provide protection against this novel influenza strain. Early analyses of stored sera from vaccine trials
+demonstrated limited antibody reactivity to this new virus; therefore, IIV3s were predicted to be of no benefit [4,5]. Over the course
+of the pandemic, numerous observational studies of IIV3 effectiveness were conducted and yielded conflicting results [6], suggesting
+seasonal vaccines to be protective [7–12], ineffective [13–17], or
+even detrimental [18] against influenza due to the pandemic
+H1N1 strain. A meta-analysis of 8 case-control studies with low risk
+of bias found that IIV3 s provided moderate cross-protection
+against laboratory-confirmed pandemic H1N1 influenza [19]. However, few randomized controlled trials have addressed this
+question.
+The onset of the 2009 H1N1 pandemic in Australia and New
+Zealand coincided with the second year of a large, phase 4, randomized, placebo-controlled, efficacy study of a seasonal IIV3 (Fluvax, CSL Limited, Parkville, Victoria, Australia). The aim of this
+study was to evaluate the clinical efficacy, safety, and tolerability
+of IIV3 in healthy adults during the 2008 and 2009 Southern Hemisphere influenza seasons. This timing afforded us the opportunity
+to evaluate the efficacy of the 2009 IIV3 in the prevention of
+laboratory-confirmed 2009 H1N1 influenza in a study cohort of
+7500 adults. This report describes the efficacy of the 2008 and
+2009 IIV3s against influenza due to seasonal influenza strains, as
+well as a post hoc analysis of the clinical efficacy of the 2009
+IIV3 against the 2009 pandemic H1N1 strain.
+2. Materials and methods
+2.1. Study design
+This phase 4, randomized, observer-blinded, placebocontrolled, efficacy study enrolled healthy adults aged 18 to less
+than 65 years over two consecutive influenza seasons (2008 and
+2009) across 25 sites in Australia and New Zealand. The purpose
+of this study was to evaluate the clinical efficacy, safety, and tolerability of a IIV3 (Fluvax, CSL Limited, Parkville, Victoria, Australia).
+All participants provided written informed consent under ethics
+approval from each participating institution and the study was
+conducted in accordance with the Declaration of Helsinki.
+Healthy, non-pregnant adults were eligible for enrollment if
+they were 18 years to less than 65 years old at the time of vaccination. Main exclusion criteria were: allergy to any of the vaccine
+components; medically unstable clinical condition; planned or current pregnancy; lactation; history of Guillain-Barré Syndrome;
+confirmed or suspected immunosuppressive condition; current or
+recent immunosuppressive therapy; concurrent participation in a
+clinical trial or use of an investigational compound; or recommended for seasonal influenza vaccination according to guidelines
+in Australia [20] or New Zealand [21]. Participants enrolled in 2008
+were ineligible to be enrolled in 2009.
+2.2. Randomization and masking
+Participants were randomized in a 2:1 ratio to receive a single
+injection of 0.5 mL IIV3 or placebo, administered intramuscularly
+into the deltoid muscle (23 gauge needle, 0.6 mm wide, 25 mm
+long). As there was a visual difference between IIV3 and placebo,
+study personnel who were involved in the preparation and administration of the study vaccine had no further involvement in the
+study conduct. Participants and investigational site staff involved
+in performing study assessments remained blinded to treatment
+allocation.
+The randomization code was prepared by a statistician,
+employed by CSL Limited, with the use of SAS software (version
+9.1.3; SAS Institute, Cary, NC, USA), using simple block randomization to maintain approximate allocation balance.
+2.3. Vaccines and placebo
+The two commercially available study vaccines fulfilled all of
+the applicable regulatory requirements and were composed of
+World Health Organization recommended strains for the Southern Hemisphere in 2008 and 2009, respectively (2008: A/Solomon Islands/3/2006 [H1N1], A/Brisbane/10/2007 [H3N2], B/
+Brisbane/3/2007; 2009: A/Brisbane/59/2007 [H1N1], A/Brisbane/10/2007 [H3N2], B/Florida/4/2006). Each vaccine contained
+15 lg of each hemagglutinin antigen from the respective influenza strains per 0.5 mL dose. The thimerosal-free vaccine was
+prepared in the allantoic fluid of embryonated chicken eggs as
+previously described [22]. Placebo consisted of vaccine diluent
+and was composed of saline, dibasic sodium phosphate, and
+monobasic sodium phosphate. Batch numbers for the 2008
+vaccine and placebo were 00749112A and FLUPLACEBO, respectively; batch numbers for the 2009 vaccine and placebo were
+04749111A and IV313248B1, respectively.
+4992 W.J.H. Mcbride et al. / Vaccine 34 (2016) 4991–4997
+2.4. Safety assessments
+Solicited adverse events (AEs) and oral temperature were
+recorded in diary cards on the evening of vaccination and every
+evening for the next 4 days. Unsolicited AEs that occurred on the
+day of vaccination and for the 20 days after were recorded in diary
+cards. Information regarding the occurrence of serious adverse
+events (SAEs) was collected from the day of vaccination to
+180 days after study vaccination. A data monitoring committee
+was established according to United States Food and Drug Administration guidelines [23].
+2.5. Clinical and laboratory outcomes
+Stimulated by weekly reminder contacts from investigators,
+participants reported signs and symptoms of an influenza-like illness (ILI) from day 14 after vaccination until 30 November of the
+respective study year, the time typically marking the end of influenza circulation in the Southern Hemisphere. An ILI was defined as
+at least one respiratory symptom (e.g., cough, sore throat, nasal
+congestion) and at least one systemic symptom (e.g., fever
+P37.8 C [oral], feverishness, chills, body aches). This broad case
+definition was chosen to maximize the chance of detecting influenza infections. Participants who reported signs and symptoms
+of an ILI had nose and throat swab specimens collected within
+72 h of symptom onset for laboratory confirmation of influenza
+infection. Laboratory-confirmed influenza was defined as a nose
+or throat specimen testing positive by viral culture and/or realtime reverse transcription polymerase chain reaction (rRT-PCR,
+Focus Diagnostics, Cypress, CA, USA). Laboratory-confirmed cases
+were typed to determine whether they matched the strains
+included in the vaccine. Except for those specimens identified to
+be 2009 H1N1 by rRT-PCR, influenza strain typing was determined
+by gene sequencing (for A subtypes H1N1 and H3N2) or pyrosequencing (for B strains) performed by the WHO Collaborating Centre (Melbourne, Australia) [24].
+2.6. Statistical analysis
+Vaccine efficacy was assessed for each influenza virus type and
+subtype only for laboratory-confirmed cases that occurred 14 or
+more days after vaccination and before 30 November of each trial
+year. Vaccine efficacy was defined as the relative reduction in influenza rate in the IIV3 group relative to the placebo group, i.e., vaccine efficacy = 1 – (IIV3 recipient infection rate/placebo recipient
+infection rate). The primary analysis tested whether vaccine efficacy versus placebo was significantly greater than or equal to
+40%. The primary endpoint was achieved if the lower bound of
+the (1  2a)  100% confidence interval (CI) for vaccine efficacy
+was 40% or higher.
+The study was designed as a 2-year study with an interim analysis after the first season. A Pocock alpha-spending function was
+used to maintain an overall one-sided a = 0.025 for the primary
+endpoint, whereby in the first season a = 0.01550 and in the second season a = 0.01387. Assuming an influenza attack rate of at
+least 3% and a vaccine efficacy of at least 70%, then a first season
+sample size of N = 7500 randomized participants in a 2:1 ratio to
+active vaccine and placebo (N = 5000 and 2500, respectively), with
+a 10% drop-out rate, yields at least 90% power for a one-sided test
+of vaccine efficacy being greater than 40% using a = 0.01550 (PASS
+2005, NCSS, LLC, Kaysville, UT, USA).
+The primary analysis assessed vaccine efficacy against any
+influenza infection and infections caused by vaccine-matched
+strains. A post hoc analysis of efficacy against non-vaccine strains
+was also carried out to assess cross-protection. In addition, for
+the 2009 season, where most cases were of the pandemic H1N1
+strain, vaccine efficacy was also analyzed by age strata
+(17–39 years, 40–54 years, and 55–65 years).
+3. Results
+3.1. Demographic and baseline clinical characteristics
+The first year of the study was conducted between 25 February
+2008 and 28 January 2009, and the second year between 9 March
+2009 and 29 January 2010. A total of 15,479 individuals were
+assessed for eligibility, and 15,044 were randomly assigned to a
+study arm (7544 in 2008, 7500 in 2009, Fig. 1). The mean age of
+participants was 35.5 years and 9.6% reported having received a
+seasonal influenza vaccine during the 12 months before entering
+the study (Table 1). Approximately 90% of participants were White
+and approximately 55% were female. Most (63%) had never previously received an influenza vaccination, and most were nonsmokers.
+Protocol violations occurred in 41 (0.3%) participants and were
+distributed equally between study arms (IIV3 group: 28 [0.3%] participants; placebo group: 13 [0.3%] participants). Note that 2 participants aged 17 years and 2 participants aged 65 years were
+enrolled in the study and included in the evaluable population.
+3.2. Concomitant medications
+A total of 7194 (47.9%) participants were receiving concomitant
+medications at baseline. The most frequently recorded baseline
+medications were birth control medications (ethinylestradiol/levo
+norgestrel: 1122 [7.5%] participants; ethinylestradiol/cyproterone
+acetate; 419 [2.8%] participants) and salbutamol (375 [2.5%] participants), taken by similar proportions of participants in the IIV3 and
+placebo groups.
+Influenza vaccines other than the study vaccine were received
+by 140 (0.9%) participants during on-study periods (IIV3 group:
+108 [1.1%] participants; placebo group: 32 [0.6%] participants). Of
+these, 135 participants reported receiving the 2009 H1N1 pandemic influenza vaccine (Table 1). All 140 participants were
+excluded from the efficacy analysis before unblinding. An additional 40 participants who took other prohibited medications
+(e.g., immunosuppressive therapy) were excluded from the efficacy
+analysis before unblinding.
+3.3. Vaccine efficacy
+In the 2008 and 2009 influenza seasons combined, laboratoryconfirmed influenza was identified in 222 of 9889 (2.2%) IIV3
+recipients and 192 of 4960 (3.9%) placebo recipients (Table 2).
+The incidence of laboratory-confirmed influenza due to vaccinematched strains was low during both study years (Table 2). Of
+the 179 participants with laboratory-confirmed influenza identified in the IIV3 and placebo groups in 2008, 107 (59.8%) were
+caused by influenza B strain; 64 of the 107 (59.8%) influenza B
+strains were antigenically dissimilar to the vaccine strains
+(Table 2). All influenza A strains identified in 2008 were antigenically similar to the vaccine strains. Of the 235 influenza infections
+identified in the IIV3 and placebo groups in 2009, 219 (93.2%) were
+caused by strains antigenically dissimilar to the vaccine strains. Of
+these 219 mismatched strains, 209 (95.4%) were characterized as
+2009 H1N1 (Table 2).
+Overall vaccine efficacy in the 2008 and 2009 influenza seasons
+combined was 42.0% (95% CI: 29.9%, 52.0%; a = 0.01387 lower
+bound 28%; Table 2, Fig. 2). Vaccine efficacy against influenza
+strains contained in the vaccine, however, was higher at 60.1%
+(95% CI: 43.8%, 71.7%; a = 0.01387 lower bound 41%; Table 2,
+W.J.H. Mcbride et al. / Vaccine 34 (2016) 4991–4997 4993
+Fig. 2). Post hoc analysis of vaccine efficacy against influenza
+strains not included in the vaccine yielded variable results. Vaccine
+efficacy against mismatched B strains (9.7%; 95%CI: 85.8%,
+35.2%) and against mismatched H3N2 (49.8%; 95% CI: 73.2%,
+85.5%) was not statistically significant (Table 2, Fig. 2). By contrast,
+vaccine efficacy against the 2009 pandemic H1N1 strain was 38.3%
+(95% CI: 19.3%, 52.8%; Table 2, Fig. 2).
+Post hoc analysis by age suggested that the efficacy of the 2009
+IIV3 against the 2009 pandemic H1N1 strain was highest in older
+participants compared with younger participants. In participants
+55–65 years of age, vaccine efficacy against the 2009 pandemic
+strain was 65.8% (95% CI: 4.6%, 87.7%), whereas in participants
+17–39 years of age, vaccine efficacy was 38.1% (95% CI: 16.1%,
+54.4%). Vaccine efficacy in participants 40–54 years of age was
+21.6%; however, the CIs were wide and included 0 (95% CI:
+56.3%, 60.7%). However, the differences in vaccine efficacy
+between age groups were not statistically significant for the 2009
+pandemic H1N1 strain (logistic regression analysis, p = 0.416).
+In contrast, post hoc analysis by age suggested similar vaccine
+efficacy against matched strains across 2008 and 2009 between
+age groups. In participants 55–65 years of age, vaccine efficacy
+against all matched strains was 68.4% (95% CI: 3.7%, 89.6%),
+whereas in participants 17–39 years of age, vaccine efficacy was
+55.1% (95% CI: 30.3%, 71.1%). Vaccine efficacy in participants
+40–54 years of age was 66.7% (95% CI: 37.2%, 82.3%). The differences in vaccine efficacy between age groups were not statistically
+significant for the matched strains (logistic regression analysis,
+p = 0.683).
+3.4. Adverse events
+No vaccine-related deaths or SAEs were reported. One or more
+solicited local AEs were reported by 74.6% of IIV3 recipients and
+by 20.4% of placebo recipients (p < 0.001; Fig. 2A). Pain and
+injection-site tenderness were the most frequently reported local
+AEs. Solicited systemic AEs were less common than local events,
+with one or more AEs reported by 46.6% of IIV3 recipients and
+39.1% of placebo recipients (p < 0.001; Fig. 2B). Malaise, headache,
+and myalgia were the most frequently reported systemic AEs in
+both groups. The majority of solicited local and systemic AEs were
+of mild to moderate intensity and of limited duration (less than
+3 days). The frequency of unsolicited AEs was similar between
+treatment groups (IIV3 group: 33.9%; placebo group: 35.1%).
+4. Discussion
+Despite being conducted during two influenza seasons with
+substantial mismatch between vaccine and circulating influenza
+strains (in 2008, influenza B was the predominant circulating type
+whereas in 2009, pandemic A(H1N1)pdm09 was predominant
+[25]), this large, randomized, placebo-controlled trial
+Fig. 1. Flow of study participants during the 2008 and 2009 Southern Hemisphere
+influenza seasons. *
+Prohibited medications were: any investigational compound;
+immunosuppressive or immunomodulating medications (with the exception of
+topical or inhaled corticosteroids); any vaccine; immunoglobulins or blood
+products.
+Table 1
+Demographic and baseline characteristics.
+Characteristic Placebo (N = 5011) IIV3 (N = 10,033) Total (N = 15,044)
+Mean age, years (SD) 35.4 (14.7) 35.5 (14.7) 35.5 (14.7)
+Sex, n (%)
+Female 2667 (53.2) 5523 (55.0) 8190 (54.4)
+Ethnicity, n (%)
+Hispanic/Latino 75 (1.5) 155 (1.5) 230 (1.5)
+Not Hispanic/Latino 4936 (98.5) 9878 (98.5) 14,814 (98.5)
+Race, n (%)
+White 4526 (90.3) 9039 (90.1) 13,565 (90.2)
+Nonwhite 485 (9.7) 994 (9.9) 1479 (9.8)
+Smoking historya
+, n (%)
+Current smoker 854 (17.0) 1671 (16.7) 2525 (16.8)
+Past smoker 1139 (22.7) 2225 (22.2) 3364 (22.4)
+Never smoked 2993 (59.7) 6093 (60.7) 9086 (60.4)
+Prior year influenza vaccination, n (%) 467 (9.3) 976 (9.7) 1443 (9.6)
+Have ever received an influenza vaccination, n (%) 1868 (37.3) 3769 (37.6) 5637 (37.5)
+Pandemic H1N1 vaccinationb
+, n (%) 31 (0.6) 104 (1.0) 135 (0.9)
+Abbreviations: SD = standard deviation; IIV3 = inactivated influenza vaccine, trivalent.
+a Smoking history information was missing for 25 (0.5%) participants in the placebo group and 44 (0.4%) participants in the IIV3 group. b 2009 season only.
+4994 W.J.H. Mcbride et al. / Vaccine 34 (2016) 4991–4997
+demonstrated efficacy against influenza due to vaccine-matched
+influenza strains. Efficacy was also demonstrated for a seasonal
+influenza vaccine against influenza due to laboratory-confirmed
+2009 H1N1 infection.
+A possible explanation for the observed cross-protection of the
+2009 IIV3 against the 2009 pandemic H1N1 strain is the stimulation
+of cross-reactive antibodies. Cross-reactive antibodies may be vaccine strain-specific or boosting of antibodies directed at earlier
+influenza strains to which the individual was exposed. We observed
+a boosting of cross-reactive antibodies in our clinical trials of monovalent 2009 H1N1 vaccine in adults and children in Australia
+[26,27], where individuals who had previously received 2009 IIV3
+had higher pre-vaccination antibody titers to 2009 H1N1 than those
+who had not received the vaccine. The findings of the current study
+are supported by data from other studies of antibody crossreactivity in individuals before and after receipt of IIV3 [28],
+although in those studies the effect was greater for those aged over
+60 years [4,29]; the magnitude of efficacy was highest in those over
+55 years in our study. This further suggests that protective efficacy
+may be a result of cross-protective immunity from multiple vaccinations or exposure to a related virus earlier in life, i.e., some degree
+of original antigenic sin. Induction of cross-reactive T cell responses
+to conserved viral epitopes may also be a factor underlying the
+cross-protection observed in this study [30].
+Table 2
+Laboratory-confirmed influenza cases, attack rates, and vaccine efficacy (overall, against vaccine-matched strains, and against non-vaccine strains).
+Study year/influenza infections Placebo IIV3 Vaccine efficacy % (95% CI)
+Cases n Attack rate % Cases n Attack rate %
+2008/2009 combined n = 4960 n = 9889
+All 192 3.9 222 2.2 42.0% (29.9%, 52.0%)
+Vaccine-matched 73 1.5 58 0.6 60.1% (43.8%, 71.7%)
+2008 n = 2501 n = 5014
+All 82 3.3 97 1.9 41.0% (21.1%, 55.9%)
+Vaccine-matched 62 2.5 53 1.1 57.4% (38.7%, 70.4%)
+B 20 0.8 44 0.9 9.7% (85.8%, 35.2%)
+2009 n = 2459 n = 4875
+All 110 4.5 125 2.6 42.7% (26.3%, 55.4%)
+Vaccine-matched 11 0.5 5 0.1 77.1% (34.1%, 92.0%)
+H3N2 5 0.2 5 0.1 49.8% (73.2%, 85.5%)
+H1N1a (pandemic) 94 3.8 115 2.4 38.3% (19.3%, 52.8%)
+Abbreviations: CI = confidence interval; IIV3 = inactivated influenza vaccine trivalent.
+a All H1N1 infections in 2009 were identified as pandemic H1N1.
+Fig. 2. Solicited adverse events within 5 days of vaccination. Panel A: Local adverse events; Panel B: Systemic adverse events; *
+p < 0.05 versus placebo.
+W.J.H. Mcbride et al. / Vaccine 34 (2016) 4991–4997 4995
+This randomized controlled study demonstrated protection by
+seasonal IIV3 against laboratory-confirmed 2009 H1N1 influenza
+in adults. Two other randomized controlled studies that have
+investigated the efficacy of seasonal IIV3s against the 2009 pandemic H1N1 strain were conducted in children in Hong Kong
+[31,32]. The first small pilot study (N = 119) conducted during
+2009 found no evidence of protection (or harm), but was not powered to investigate this outcome [30]. The second larger study
+(N = 796) conducted in 2009–2010 showed children who received
+IIV3 had a reduced risk of pandemic influenza A, with a vaccine
+efficacy estimate of 47% (95% CI, 15–67%) [32].
+The 2008 and 2009 IIV3s were generally well tolerated, with no
+safety concerns identified. It should be noted that the subsequent
+2010 IIV3 was associated with an unexpected increase in postmarketing reports of febrile seizure compared with previous seasonal
+IIV3 s, predominantly in children <5 years of age. This was likely
+due to the combination of the new influenza strains included in
+the 2010 IIV3 and the CSL standard method of manufacture. This
+method preserved strain-specific viral components of the new
+influenza strains, heightening immune activation of innate
+immune cells, which, in a small proportion of children <5 years
+of age, was associated with the occurrence of febrile seizures
+[33,34]. No patient in the current study reported febrile seizures
+during the study period.
+The strengths of this study were the randomized, placebocontrolled design, relatively large size, and use of a clinical efficacy
+endpoint rather than a serological surrogate endpoint. As such, the
+study was less subject to the potential sources of bias and confounding associated with the previously reported observational
+studies. Nevertheless, this study is subject to certain limitations.
+There was no description of the clinical course of influenza infection among vaccinated and unvaccinated cases, so we cannot
+report the impact of vaccination on the course of illness or associated co-morbidity. Our study population was limited to healthy
+adults 17–65 years of age (mean, 35 years), so we cannot address
+the impact of seasonal IIV3 on preventing 2009 H1N1 in children,
+a group more immunologically naive to influenza. Most subjects
+were also female, non-smokers, influenza-vaccine naïve, white,
+and not Hispanic. In addition, our study did not measure serologic
+endpoints for influenza infection and, therefore, we can report efficacy only against symptomatic influenza infection.
+The formulations for the 2009 Southern Hemisphere and
+2009/10 Northern Hemisphere contained identical influenza A
+strains. As the monovalent H1N1 vaccine was not available during
+the first wave of the 2009 influenza pandemic, this study suggests
+that any use of seasonal vaccine in either the Southern or Northern
+Hemisphere may have had a positive impact on mitigating the
+peak incidence of pandemic H1N1 infections. Pre-pandemic mathematical modelling indicated that a vaccine, even one with low
+efficacy, used early in a pandemic could have meaningful benefit
+in reducing the amplitude of the pandemic wave [35].
+5. Conclusions
+The 2008 and 2009 seasonal IIV3s demonstrated clinical efficacy in healthy adults against influenza infection caused by the
+strains included in the vaccines. In addition, the 2009 seasonal
+IIV3 conferred significant clinical efficacy in healthy adults against
+laboratory-confirmed 2009 pandemic H1N1 infection.
+Funding support
+This study was sponsored by CSL Limited, manufacturer of Fluvax. Editorial assistance was provided by Justine Southby, PhD,
+CMPP, and Luke Carey, PhD, of ProScribe – Envision Pharma Group,
+and was funded by CSL Limited. ProScribe’s services complied with
+international guidelines for Good Publication Practice (GPP3).
+Role of the sponsor
+The study sponsor was responsible for the final study protocol,
+oversaw the data management and analysis, and was involved in
+the interpretation of the data, the writing of the manuscript, and
+the decision to submit the manuscript for publication.
+Role of contributors
+PR, RB, LH, JK, TN, RLB, and GFH designed the study. IB was
+responsible for strain typing. PR, WPA, RB, SC, FDL, RE-P, LH, JK,
+HM, WJHM, JM, TN, WR, JR, and SS recruited subjects into the
+study. GFH was responsible for data analysis. All authors contributed to writing of the report. All authors saw and approved
+the final version of the report.
+Conflict of interest
+RLB, GFH, MHL, SR, and MEG are/were employees of CSL and
+hold shares. PR has received research funding and travel support
+for investigator meetings from CSL. IB has received grant funding
+from CSL under contract for influenza virus identification. RB has
+received funding from CSL, Roche, Sanofi Pasteur, GSK and Pfizer
+to conduct research or attend and present at scientific meetings.
+Any funding received is directed to a research account at The Children’s Hospital at Westmead and is not personally accepted by RB.
+FDL has received support from Trialworks Clinical Research Services to attend investigator meetings. RE-P has received funding
+for clinical trial participation and trial-related travel from Auckland
+Clinical Studies and paid to his institution. LH has received
+research funding from CSL, Novartis, Sanofi-Aventis, Roche, and
+GSK, paid to his institution. JK has received funding from CSL for
+clinical trial recruitment and travel to investigator meetings. HM
+has received travel support from CSL and Novartis Vaccines to present independent scientific data and research grants paid to her
+institution from CSL, Novartis Vaccines, and Pfizer Vaccines. WJHM
+has received travel support for investigator meetings from CSL but
+no direct funds and holds shares in CSL. JM has received research
+funding and travel support for investigator meetings from CSL,
+has served as a consultant and speaker for Novartis, and as a consultant for the governments of Australia and Mongolia. All support
+has been paid directly to her institution. TN’s institution (MCRI)
+has received research support from CSL, Sanofi Pasteur, Novartis,
+Pfizer, GSK, and Novavax, and TN has served on a data safety monitoring board for GSK (HPV vaccine, resigned in 2012) and GSK
+advisory boards (unpaid) for pertussis vaccine (2014 and 2016).
+SS has received funding for consultancy from CMAX Drug Studies
+Unit. All other authors: no conflicts.
+The study centers were
+Vaccine Trials Group, Princess Margaret Hospital; VIRTU staff of
+the Women’s and Children’s Hospital, Adelaide; VIRGo staff,
+University of Melbourne; National Centre for Immunisation
+Research & Surveillance of Vaccine Preventable Diseases, The Children’s Hospital of Westmead; AUSTRIALS; CMAX; Trialworks Clinical Research Services; Cairns Base Hospital; Auckland Clinical
+Studies Limited; Southern Clinical Trials Limited; RMC Medical
+Research Limited; Emeritus Research; SEALS, Prince of Wales
+Hospital; Department of Clinical & Biomedical Science, Geelong
+Hospital; Clinical Trials Unit, the Australian National University
+4996 W.J.H. Mcbride et al. / Vaccine 34 (2016) 4991–4997
+Hospital; Hobart Sexual Health Service; Gold Coast Hospital; Youth
+Health Centre, Christchurch; Lung Institute of Western Australia.
+Acknowledgments
+We thank the trial participants, the staff of each trial centre, and
+the staff of CSL Limited who committed their time and effort to this
+study. We acknowledge Dr. Neil Formica for his helpful input into
+revising the manuscript and Dr. Jane Leong for coordinating the
+writing and review process and for reviewing the manuscript.
+We would also like to acknowledge Focus Diagnostics, Trident
+Clinical Research, Quintiles Inc, EMMES, Contact Management,
+Publicis Life Brands, and Medidata Solutions. The Melbourne
+WHO Collaborating Centre for Reference and Research on Influenza
+is supported by the Australian Government Department of Health
+and Ageing. HM acknowledges support from the NHMRC (CDF2
+APP1084951).
+References
+[1] Cox NJ, Subbarao K. Influenza Lancet 1999;354(9186):1277–82.
+[2] Osterholm MT, Kelley NS, Sommer A, Belongia EA. Efficacy and effectiveness of
+influenza vaccines: a systematic review and meta-analysis. Lancet Infect Dis
+2012;12(1):36–44.
+[3] World Health Organization. Vaccines. 2015Available from: <http://www.who.
+int/influenza/vaccines/about/en/>2015 [accessed 28 October 2015].
+[4] Centers for Disease Control and Prevention. Serum cross-reactive antibody
+response to a novel influenza A (H1N1) virus after vaccination with seasonal
+influenza vaccine. MMWR Morb Mortal Wkly Rep 2009;58(19):521–4.
+[5] Hancock K, Veguilla V, Lu X, Zhong W, Butler EN, Sun H, et al. Cross-reactive
+antibody responses to the 2009 pandemic H1N1 influenza virus. N Engl J Med
+2009;361(20):1945–52.
+[6] Kelly H, Barry S, Laurie K, Mercer G. Seasonal influenza vaccination and the risk
+of infection with pandemic influenza: a possible illustration of non-specific
+temporary immunity following infection. Euro Surveill 2010;15(47).
+[7] Chen MI, Lee VJ, Lim WY, Barr IG, Lin RT, Koh GC, et al. 2009 influenza A(H1N1)
+seroconversion rates and risk factors among distinct adult cohorts in
+Singapore. JAMA 2010;303(14):1383–91.
+[8] Echevarria-Zuno S, Mejia-Arangure JM, Mar-Obeso AJ, Grajales-Muniz C,
+Robles-Perez E, Gonzalez-Leon M, et al. Infection and death from influenza A
+H1N1 virus in Mexico: a retrospective analysis. Lancet 2009;374(9707):
+2072–9.
+[9] Garcia-Garcia L, Valdespino-Gomez JL, Lazcano-Ponce E, Jimenez-Corona A,
+Higuera-Iglesias A, Cruz-Hervert P, et al. Partial protection of seasonal trivalent
+inactivated vaccine against novel pandemic influenza A/H1N1 2009: casecontrol study in Mexico City. BMJ 2009;339:b3928.
+[10] Johns MC, Eick AA, Blazes DL, Lee SE, Perdue CL, Lipnick R, et al. Seasonal
+influenza vaccine and protection against pandemic (H1N1) 2009-associated
+illness among US military personnel. PLoS ONE 2010;5(5):e10722.
+[11] Loeb M, Earn DJ, Smieja M, Webby R. Pandemic (H1N1) 2009 risk for nurses
+after trivalent vaccination. Emerg Infect Dis 2010;16(4):719–20.
+[12] Orellano PW, Reynoso JI, Carlino O, Uez O. Protection of trivalent inactivated
+influenza vaccine against hospitalizations among pandemic influenza A
+(H1N1) cases in Argentina. Vaccine 2010;28(32):5288–91.
+[13] Centers for Disease Control and Prevention. Effectiveness of 2008–09 trivalent
+influenza vaccine against 2009 pandemic influenza A (H1N1) – United States,
+May–June 2009. MMWR Morb Mortal Wkly Rep 2009;58(44):1241–5.
+[14] Iuliano AD, Reed C, Guh A, Desai M, Dee DL, Kutty P, et al. Notes from the field:
+outbreak of 2009 pandemic influenza A (H1N1) virus at a large public
+university in Delaware, April–May 2009. Clin Infect Dis 2009;49(12):1811–20.
+[15] Kelly H, Grant K. Interim analysis of pandemic influenza (H1N1) 2009 in
+Australia: surveillance trends, age of infection and effectiveness of seasonal
+vaccination. Euro Surveill 2009;14(31).
+[16] Lessler J, Reich NG, Cummings DA, Nair HP, Jordan HT, Thompson N. Outbreak
+of 2009 pandemic influenza A (H1N1) at a New York City school. N Engl J Med
+2009;361(27):2628–36.
+[17] Puig-Barbera J, Arnedo-Pena A, Pardo-Serrano F, Tirado-Balaguer MD, PerezVilar S, Silvestre-Silvestre E, et al. Effectiveness of seasonal 2008–2009, 2009–
+2010 and pandemic vaccines, to prevent influenza hospitalizations during the
+autumn 2009 influenza pandemic wave in Castellon, Spain. A test-negative,
+hospital-based, case-control study. Vaccine 2010;28(47):7460–7.
+[18] Skowronski DM, De Serres G, Crowcroft NS, Janjua NZ, Boulianne N, Hottes TS,
+et al. Association between the 2008–09 seasonal influenza vaccine and
+pandemic H1N1 illness during Spring-Summer 2009: four observational
+studies from Canada. PLoS Med 2010;7(4):e1000258.
+[19] Yin JK, Chow MY, Khandaker G, King C, Richmond P, Heron L, et al. Impacts on
+influenza A(H1N1)pdm09 infection from cross-protection of seasonal trivalent
+influenza vaccines and A(H1N1)pdm09 vaccines: systematic review and metaanalyses. Vaccine 2012;30(21):3209–22.
+[20] The Australian immunisation handbook/National Health and Medical Research
+Council. 9th ed. National Health and Medical Research Council (Australia);
+2008.
+[21] Ministry of Health. Immunisation handbook. Wellington: Ministry of Health;
+2006.
+[22] Nolan T, Richmond PC, McVernon J, Skeljo MV, Hartel GF, Bennet J, et al. Safety
+and immunogenicity of an inactivated thimerosal-free influenza vaccine in
+infants and children. Influenza Other Respir Viruses 2009;3(6):315–25.
+[23] Food and Drug Administration. FDA guidance: establishment and operation of
+clinical trial data monitoring committees. guidance for clinical trial
+sponsorsAvailable from: <http://www.fda.gov/downloads/Regulatory
+Information/Guidances/ucm127073.pdf>2015 [accessed 5 November 2015].
+[24] Dawood FS, Jain S, Finelli L, Shaw MW, Lindstrom S, Garten RJ, et al. Emergence
+of a novel swine-origin influenza A (H1N1) virus in humans. N Engl J Med
+2009;360(25):2605–15.
+[25] World Health Organization. Influenza Surveillance Report by CountryAvailable
+from: <https://extranet.who.int/sree/Reports?op=vs&path=/WHO_HQ_
+Reports/G5/PROD/EXT/Influenza%20Surveillance+Report+by+Country>2016
+[accessed 26 July 2016].
+[26] Greenberg ME, Lai MH, Hartel GF, Wichems CH, Gittleson C, Bennet J, et al.
+Response to a monovalent 2009 influenza A (H1N1) vaccine. N Engl J Med
+2009;361(25):2405–13.
+[27] Nolan T, McVernon J, Skeljo M, Richmond P, Wadia U, Lambert S, et al.
+Immunogenicity of a monovalent 2009 influenza A(H1N1) vaccine in infants
+and children: a randomized trial. JAMA 2010;303(1):37–46.
+[28] Corti D, Suguitan Jr AL, Pinna D, Silacci C, Fernandez-Rodriguez BM, Vanzetta F,
+et al. Heterosubtypic neutralizing antibodies are produced by individuals
+immunized with a seasonal influenza vaccine. J Clin Invest 2010;120
+(5):1663–73.
+[29] Marcelin G, Bland HM, Negovetich NJ, Sandbulte MR, Ellebedy AH, Webb AD,
+et al. Inactivated seasonal influenza vaccines increase serum antibodies to the
+neuraminidase of pandemic influenza A(H1N1) 2009 virus in an agedependent manner. J Infect Dis 2010;202(11):1634–8.
+[30] Subbramanian RA, Basha S, Shata MT, Brady RC, Bernstein DI. Pandemic and
+seasonal H1N1 influenza hemagglutinin-specific T cell responses elicited by
+seasonal influenza vaccination. Vaccine 2010;28(52):8258–67.
+[31] Cowling BJ, Ng S, Ma ES, Cheng CK, Wai W, Fang VJ, et al. Protective efficacy of
+seasonal influenza vaccination against seasonal and pandemic influenza virus
+infection during 2009 in Hong Kong. Clin Infect Dis 2010;51(12):1370–9.
+[32] Cowling BJ, Ng S, Ma ES, Fang VJ, So HC, Wai W, et al. Protective efficacy against
+pandemic influenza of seasonal influenza vaccination in children in Hong
+Kong: a randomized controlled trial. Clin Infect Dis 2012;55(5):695–702.
+[33] Rockman S, Dyson A, Koernig S, Becher D, Ng M, Morelli AB, et al. Evaluation of
+the bioactivity of influenza vaccine strains in vitro suggests that the
+introduction of new strains in the 2010 Southern Hemisphere trivalent
+influenza vaccine is associated with adverse events. Vaccine 2014;32
+(30):3861–8.
+[34] Rockman S, Becher D, Dyson A, Koernig S, Morelli AB, Barnden M, et al. Role of
+viral RNA and lipid in the adverse events associated with the 2010 Southern
+Hemisphere trivalent influenza vaccine. Vaccine 2014;32(30):3869–76.
+[35] Germann TC, Kadau K, Longini Jr IM, Macken CA. Mitigation strategies for
+pandemic influenza in the United States. Proc Natl Acad Sci USA 2006;103
+(15):5935–40.
+W.J.H. Mcbride et al. / Vaccine 34 (2016) 4991–4997 4997

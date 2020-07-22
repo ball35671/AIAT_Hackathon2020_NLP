@@ -1,0 +1,3157 @@
+﻿Cochrane Database of Systematic Reviews
+Haemostatic therapies for acute spontaneous intracerebral
+haemorrhage (Review)
+Al-Shahi Salman R, Law ZK, Bath PM, Steiner T, Sprigg N
+Al-Shahi Salman R, Law ZK, Bath PM, Steiner T, Sprigg N.
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage.
+Cochrane Database of Systematic Reviews 2018, Issue 4. Art. No.: CD005951.
+DOI: 10.1002/14651858.CD005951.pub4.
+www.cochranelibrary.com
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+T A B L E O F C O N T E N T S
+HEADER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+ABSTRACT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+PLAIN LANGUAGE SUMMARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+SUMMARY OF FINDINGS FOR THE MAIN COMPARISON . . . . . . . . . . . . . . . . . . . 3
+BACKGROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+OBJECTIVES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+METHODS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+RESULTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Figure 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Figure 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Figure 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Figure 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+ADDITIONAL SUMMARY OF FINDINGS . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+DISCUSSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+AUTHORS’ CONCLUSIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+ACKNOWLEDGEMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+REFERENCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+CHARACTERISTICS OF STUDIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+DATA AND ANALYSES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Analysis 1.1. Comparison 1 Blood clotting factors vs placebo or open control, Outcome 1 Death or dependence (mRS 4 to
+6) at day 90. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+Analysis 1.2. Comparison 1 Blood clotting factors vs placebo or open control, Outcome 2 Death or dependence (GOS-E 1
+to 4) at day 90. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Analysis 1.3. Comparison 1 Blood clotting factors vs placebo or open control, Outcome 3 Death by day 90. . . . 57
+Analysis 1.4. Comparison 1 Blood clotting factors vs placebo or open control, Outcome 4 All serious adverse events. 58
+Analysis 1.5. Comparison 1 Blood clotting factors vs placebo or open control, Outcome 5 Thromboembolic serious adverse
+events. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+Analysis 1.6. Comparison 1 Blood clotting factors vs placebo or open control, Outcome 6 Intracerebral haemorrhage
+growth by 24 hours. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+Analysis 2.1. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 1 Death or dependence (mRS 4 to
+6) at day 90. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+Analysis 2.2. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 2 Death by day 90. . . . 62
+Analysis 2.3. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 3 All serious adverse events. 63
+Analysis 2.4. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 4 Thromboembolic serious adverse
+events. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Analysis 2.5. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 5 Barthel Index. . . . . 64
+Analysis 2.6. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 6 EuroQoL health utility score. 65
+Analysis 2.7. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 7 Intracerebral haemorrhage
+growth by 24 hours. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+Analysis 3.1. Comparison 3 Platelet transfusion vs open control, Outcome 1 Death or dependence (mRS 4 to 6) at day
+90. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+Analysis 3.2. Comparison 3 Platelet transfusion vs open control, Outcome 2 Death by day 90. . . . . . . . . 67
+Analysis 3.3. Comparison 3 Platelet transfusion vs open control, Outcome 3 All serious adverse events. . . . . . 68
+Analysis 3.4. Comparison 3 Platelet transfusion vs open control, Outcome 4 Thromboembolic serious adverse events. 69
+Analysis 3.5. Comparison 3 Platelet transfusion vs open control, Outcome 5 Intracerebral haemorrhage growth by 24
+hours. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+Analysis 4.1. Comparison 4 Blood clotting factors vs fresh frozen plasma, Outcome 1 Death by day 90. . . . . . 70
+Analysis 4.2. Comparison 4 Blood clotting factors vs fresh frozen plasma, Outcome 2 All serious adverse events. . . 71
+APPENDICES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+WHAT’S NEW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+HISTORY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) i
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+CONTRIBUTIONS OF AUTHORS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+DECLARATIONS OF INTEREST . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+DIFFERENCES BETWEEN PROTOCOL AND REVIEW . . . . . . . . . . . . . . . . . . . . . 76
+INDEX TERMS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) ii
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+[Intervention Review]
+Haemostatic therapies for acute spontaneous intracerebral
+haemorrhage
+Rustam Al-Shahi Salman1
+, Zhe Kang Law2,3
+, Philip M Bath3
+, Thorsten Steiner4,5
+, Nikola Sprigg3
+1Centre for Clinical Brain Sciences, University of Edinburgh, Edinburgh, UK. 2Department of Medicine, Universiti Kebangsaan
+Malaysia Medical Centre, Kuala Lumpur, Malaysia. 3Stroke Trials Unit, Division of Clinical Neuroscience, University of Nottingham,
+City Hospital, Nottingham, UK. 4Klinikum Frankfurt Höchst, Frankfurt, Germany. 5Department of Neurology, Heidelberg University
+Hospital, Heidelberg, Germany
+Contact address: Rustam Al-Shahi Salman, Centre for Clinical Brain Sciences, University of Edinburgh, FU303i, First floor, Chancellor’s
+Building, 49 Little France Crescent, Edinburgh, Midlothian, EH16 4SB, UK. rustam.al-shahi@ed.ac.uk.
+Editorial group: Cochrane Stroke Group.
+Publication status and date: New search for studies and content updated (conclusions changed), published in Issue 4, 2018.
+Citation: Al-Shahi Salman R, Law ZK, Bath PM, Steiner T, Sprigg N. Haemostatic therapies for acute spontaneous intracerebral
+haemorrhage. Cochrane Database of Systematic Reviews 2018, Issue 4. Art. No.: CD005951. DOI: 10.1002/14651858.CD005951.pub4.
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+A B S T R A C T
+Background
+Outcome after spontaneous (non-traumatic) intracerebral haemorrhage (ICH) is influenced by haematoma volume; up to one-third
+of ICHs enlarge within 24 hours of onset. Early haemostatic therapy might improve outcome by limiting haematoma growth. This is
+an update of a Cochrane Review first published in 2006, and last updated in 2009.
+Objectives
+To examine 1) the effectiveness and safety of individual classes of haemostatic therapies, compared against placebo or open control, in
+adults with acute spontaneous intracerebral haemorrhage, and 2) the effects of each class of haemostatic therapy according to the type
+of antithrombotic drug taken immediately before ICH onset (i.e. anticoagulant, antiplatelet, or none).
+Search methods
+We searched the Cochrane Stroke Trials Register, CENTRAL; 2017, Issue 11, MEDLINE Ovid, and Embase Ovid on 27 November
+2017. In an effort to identify further published, ongoing, and unpublished randomised controlled trials (RCT), we scanned bibliographies of relevant articles and searched international registers of RCTs in November 2017.
+Selection criteria
+We sought randomised controlled trials (RCTs) of any haemostatic intervention (i.e. pro-coagulant treatments such as coagulation
+factors, antifibrinolytic drugs, or platelet transfusion) for acute spontaneous ICH, compared with placebo, open control, or an active
+comparator, reporting relevant clinical outcome measures.
+Data collection and analysis
+Two authors independently extracted data, assessed risk of bias, and contacted corresponding authors of eligible RCTs for specific data
+if they were not provided in the published report of an RCT.
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 1
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Main results
+We included 12 RCTs involving 1732 participants. There were seven RCTs of blood clotting factors versus placebo or open control
+involving 1480 participants, three RCTs of antifibrinolytic drugs versus placebo or open control involving 57 participants, one RCT of
+platelet transfusion versus open control involving 190 participants, and one RCT of blood clotting factors versus fresh frozen plasma
+involving five participants. We were unable to include two eligible RCTs because they presented aggregate data for adults with ICH
+and other types of intracranial haemorrhage. We identified 10 ongoing RCTs. Across all seven criteria in the 12 included RCTs, the
+risk of bias was unclear in 37 (44%), high in 16 (19%), and low in 31 (37%). Only one RCT was at low risk of bias in all criteria.
+In one RCT of platelet transfusion versus open control for acute spontaneous ICH associated with antiplatelet drug use, there was a
+significant increase in death or dependence (modified Rankin Scale score 4 to 6) at day 90 (70/97 versus 52/93; risk ratio (RR) 1.29,
+95% confidence interval (CI) 1.04 to 1.61, one trial, 190 participants, moderate-quality evidence). All findings were non-significant for
+blood clotting factors versus placebo or open control for acute spontaneous ICH with or without surgery (moderate-quality evidence),
+for antifibrinolytic drugs versus placebo (moderate-quality evidence) or open control for acute spontaneous ICH (moderate-quality
+evidence), and for clotting factors versus fresh frozen plasma for acute spontaneous ICH associated with anticoagulant drug use (no
+evidence).
+Authors’ conclusions
+Based on moderate-quality evidence from one trial, platelet transfusion seems hazardous in comparison to standard care for adults with
+antiplatelet-associated ICH.
+We were unable to draw firm conclusions about the efficacy and safety of blood clotting factors for acute spontaneous ICH with or
+without surgery, antifibrinolytic drugs for acute spontaneous ICH, and clotting factors versus fresh frozen plasma for acute spontaneous
+ICH associated with anticoagulant drug use.
+Further RCTs are warranted, and we await the results of the 10 ongoing RCTs with interest.
+P L A I N L A N G U A G E S U M M A R Y
+Treatments to help blood clotting to improve the recovery of adults with stroke due to bleeding in the brain
+Review question
+Do treatments to help blood clot reduce the risk of death and disability for adults with stroke due to bleeding in the brain?
+Background
+More than one-tenth of all strokes are caused by bleeding in the brain (known as brain haemorrhage). The bigger the haemorrhage,
+the more likely it is to be fatal. Roughly one-third of brain haemorrhages enlarge significantly within the first 24 hours. Therefore,
+treatments that promote blood clotting might reduce the risk of death or being disabled after brain haemorrhage by limiting its growth,
+if given soon after the bleeding starts. However, haemostatic drugs might cause unwanted clotting, leading to unwanted side effects,
+such as heart attacks and clots in leg veins.
+Study characteristics
+We found 12 randomised controlled trials, including 1732 participants, up to November 2017.
+Key results
+We found moderate-quality evidence of harm from platelet transfusion for people who had used antiplatelet drugs until they had a brain
+haemorrhage. We found no evidence of either benefit or harm from other haemostatic therapies for people with brain haemorrhage.
+Quality of the evidence
+Overall, the quality of the evidence was moderate to low.
+More information will become available from the 10 trials that are ongoing.
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 2
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+S U M M A R Y O F F I N D I N G S F O R T H E M A I N C O M P A R I S O N [Explanation]
+Blood clotting factors compared with placebo or open control for acute spontaneous intracerebral haemorrhage
+Patient or population: adults with acute spontaneous intracerebral haemorrhage
+Settings: secondary care
+Intervention: recombinant activated factor VII
+Comparison: placebo or open control
+Outcomes Relative effect
+(95% CI)
+No of Participants
+(studies)
+Quality of the evidence
+(GRADE)
+Comments
+Death or dependence (mRS 4 to
+6) at day 90
+RR 0.87 (0.70 to 1.07) 1390
+(6)
+⊕⊕⊕
+
+moderate¹
+GRADE Working Group grades of evidence
+High quality: Further research is very unlikely to change our conf idence in the estimate of effect.
+M oderate quality: Further research is likely to have an important impact on our conf idence in the estimate of effect and may change the estimate.
+Low quality: Further research is very likely to have an important impact on our conf idence in the estimate of effect and is likely to change the estimate.
+Very low quality: We are very uncertain about the estimate.
+CI: conf idence interval; RR: risk ratio; mRS: modif ied Rankin Scale
+¹We downgraded the quality of the evidence once because of imprecision.
+3 Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+B A C K G R O U N D
+Description of the condition
+The burden of haemorrhagic stroke is out of proportion to its
+frequency as a subtype of stroke. Although haemorrhagic stroke
+causes 11% to 22% of all new strokes (Feigin 2009), it caused
+50% of all stroke deaths, and approximately 42% (47 million)
+of the disability-adjusted life years lost due to stroke in the 2013
+Global Burden of Disease study (Feigin 2015). Spontaneous (nontraumatic) intracerebral haemorrhage (ICH) accounts for twothirds of haemorrhagic stroke, amounting to more than two million strokes per year (Al-Shahi Salman 2009a). ICH is due to
+cerebral small vessel disease, and may be associated with the use
+of antithrombotic (i.e. anticoagulant or antiplatelet) drugs. The
+age-specific incidence of ICH - like the age-specific incidence of
+ischaemic stroke and myocardial infarction - rises with age (Feigin
+2015). Two-thirds of people who have an ICH are 75 years or
+older (Lovelock 2007; Samarasekera 2015). Given that the number of people aged 75 years and older is projected to rise in many
+parts of the world, the burden due to ICH incidence, recurrence,
+and prevalence will rise.
+Outcome after stroke due to ICH is poor: one-year survival is 46%
+(95% confidence interval (CI) 43% to 49%), five-year survival is
+29% (95% CI 26% to 33%), and predictors most consistently associated with death are increasing age, decreasing Glasgow Coma
+Scale score, increasing ICH volume, presence of intraventricular haemorrhage, and deep or infratentorial ICH location (Poon
+2014). Approximately one-third of acute ICHs (i.e. less than 24
+hours after symptom onset or time last seen well) enlarge from
+three to 24 hours after onset (Brott 1997); ICH growth is independently associated with death and poor outcome (Davis 2006).
+Description of the intervention
+The three main components of haemostasis (the process that stops
+bleeding) are vasoconstriction, platelet plug formation, and coagulation.
+Vascular smooth muscle cell vasoconstriction is a blood vessel’s
+first response to injury. They constrict the damaged vessels, which
+reduces the amount of blood flow through the area and limits the
+amount of blood loss. Collagen is exposed at the site of injury,
+which causes platelets to adhere to the injury site.
+Primary haemostasis is achieved by platelets, which adhere to damaged endothelium to form a platelet plug. Plug formation is activated by the Von Willebrand factor, which is found in plasma.
+When platelets are activated, they express glycoprotein receptors
+that interact with other platelets, producing aggregation and adhesion. Platelets release cytoplasmic granules that contain serotonin, adenosine diphosphate (ADP), and thromboxane A2, all of
+which increase the effect of vasoconstriction. ADP attracts more
+platelets to the affected area, serotonin is a vasoconstrictor, and
+thromboxane A2 assists in platelet aggregation, vasoconstriction,
+and degranulation.
+Secondary haemostasis starts once a platelet plug has been formed.
+Blood plasma clotting factors are activated in a sequence of events
+known as the coagulation cascade. Inactive fibrinogen produces a
+fibrin mesh around the platelet plug to hold it in place. Red and
+white blood cells are trapped in the mesh to produce a thrombus,
+or clot. Tissue factor (also called platelet tissue factor, factor III,
+or thromboplastin) is a protein that is exposed after endothelial
+damage, which leads to thrombin formation and activation of the
+tissue factor pathway, as well as its circulating ligand factor VII.
+Therapies that intervene in primary haemostasis (e.g. platelet
+transfusion) or secondary haemostasis (e.g. administration of clotting factors (fresh frozen plasma (FFP), or prothrombin complex
+concentrate (PCC), or antifibrinolytic drugs) might promote clot
+formation, decrease bleeding, and thus improve outcomes by limiting ICH growth.
+How the intervention might work
+Theoretically, early interventions to reduce acute ICH volume
+might improve outcomes. Although surgical craniotomy to evacuate spontaneous supratentorial ICH and reduce ICH volume
+was found to reduce the odds of dying or becoming dependent
+compared with medical management alone, the result was not
+very robust, and surgical evacuation is not frequently used (Prasad
+2008). Therefore, medical (non-surgical) interventions to promote haemostasis, and limit haematoma growth, have become the
+main focus of acute ICH therapeutic research.
+Why it is important to do this review
+Various haemostatic therapies have been investigated in a variety
+of spontaneous bleeding conditions with little evidence for their
+effectiveness in some settings (Johansen 2015: Stanworth 2012;
+Wikkelsø 2013), but clear benefit in others (Ker 2015). It is unclear whether they are effective for acute ICH. Therefore, we systematically reviewed the literature for randomised controlled trials
+(RCTs) of all potential haemostatic therapies for the treatment of
+acute spontaneous ICH.
+O B J E C T I V E S
+To examine 1) the effectiveness and safety of individual classes
+of haemostatic therapies, compared against placebo or open control, in adults with acute spontaneous intracerebral haemorrhage
+(ICH), and 2) the effects of each class of haemostatic therapy according to the type of antithrombotic drug taken immediately before ICH onset (i.e. anticoagulant, antiplatelet, or none).
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 4
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+M E T H O D S
+Criteria for considering studies for this review
+Types of studies
+Randomised controlled trials, whether published or unpublished,
+regardless of the language of publication. Pseudo-randomised
+studies were not eligible.
+Types of participants
+People of any sex, aged 16 years or older. We restricted this review to people with radiographically-confirmed acute spontaneous
+intracerebral haemorrhage (ICH). Where possible, we grouped
+RCTs, or participant subgroups, by whether ICH was associated
+with antiplatelet drug use, anticoagulant drug use, or neither.
+Types of interventions
+Single or multiple haemostatic therapies (including antifibrinolytic drugs, blood coagulation factors, antidotes to specific antithrombotic drugs, platelet transfusion, or other platelet activation therapies), regardless of dosage or route of administration.
+Interventions could be compared against placebo, open control,
+or an active comparator.
+Types of outcome measures
+We assessed the following outcomes at 90 days after randomization
+(or at the end of scheduled follow-up, if not provided at 90 days).
+Primary outcomes
+• Death or dependence from any cause (measured on a
+standard rating scale, such as the modified Rankin Scale)
+Secondary outcomes
+• All serious adverse events (if possible, with a separate
+analysis of arterial and venous thromboembolic events, including
+deep vein thrombosis symptomatic pulmonary embolism,
+arterial embolism, myocardial infarction, ischaemic stroke, and
+disseminated intravascular coagulation)
+• Change in volume of ICH on follow-up brain imaging
+• Death from any cause (categorised into early (e.g. less than
+seven days) and late (e.g. between seven days and the end of
+follow-up) if possible)
+• Quality of life
+• Mood
+• Cognitive function
+Search methods for identification of studies
+See the ’Specialized register’ section in the Cochrane Stroke Group
+module. We searched for trials in all languages, and arranged for
+the translation of relevant articles when necessary.
+Electronic searches
+The Cochrane Stroke Group Information Specialist searched the
+Cochrane Stroke Group Trials Register (last searched 27 November 2017), the Cochrane Central Register of Controlled Trials
+(CENTRAL; 2017, Issue 11) in the Cochrane Library (searched
+27 November 2017; Appendix 1); MEDLINE Ovid (1946 to 27
+November 2017; Appendix 2); and Embase Ovid (1974 to 27
+November 2017; Appendix 3).
+One review author (ZL) also searched the following international
+registers of RCTs on 27 November 2017.
+• US National Institutes of Health Ongoing Trials Register
+ClinicalTrials.gov (clinicaltrials.gov) using the search strategy in
+Appendix 4;
+• World Health Organization (WHO) International Clinical
+Trials Registry Platform (ICTRP; apps.who.int/trialsearch) using
+the search strategy in Appendix 5.
+Searching other resources
+In an effort to identify further published, ongoing, and unpublished RCTs, three authors (RA-SS, NS, and ZL) scanned bibliographies of relevant articles.
+Data collection and analysis
+Selection of studies
+Two authors independently checked the titles and abstracts of
+studies identified by the search strategy for RCTs meeting the
+selection criteria for the first version of this review (You 2006). Two
+authors (ZL or RA-SS) independently screened the results of the
+updated searches for potentially eligible studies for this updated
+review, and obtained the full published articles or trial registry
+entries for studies likely to be relevant RCTs. Two authors (NS and
+RA-SS) independently read these potentially eligible RCTs in full,
+and confirmed their inclusion according to the inclusion criteria.
+Data extraction and management
+Two authors (NS and RA-SS) used a standard data collection form
+to independently extract data on risk of bias, other RCT characteristics, participants, methods, interventions, outcomes, and results. If necessary, we sought additional data from the principal
+investigators of RCTs that met, or potentially met the inclusion
+criteria. We sought unpublished data that were not quantified in
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 5
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+the original publications, or not presented as stratified by intracranial haemorrhage type, from the principal investigators and pharmaceutical companies. In the one study for which these data were
+not forthcoming, RA-SS measured the numbers in the relevant
+groups in the stacked bar charts, using Adobe Acrobat Professional
+measuring tools on the PDF of the published study (Mayer 2008
+(FAST)). In one phase II study, we could obtain only limited data
+from the Novo Nordisk website (F7ICH-1602 2007).
+Assessment of risk of bias in included studies
+Two authors (NS and RA-SS) independently assessed included
+RCTs’ risk of bias, according to the seven criteria of the Cochrane
+’Risk of bias’ tool (Higgins 2011). The same two authors discussed
+and agreed on the overall quality of the evidence for each outcome,
+using the GRADE approach (Higgins 2011).
+Measures of treatment effect
+We calculated risk ratio (RR) for dichotomous data, and mean
+difference (MD), or standardized mean difference (SMD) for different measures of the same outcome, for continuous data.
+Dealing with missing data
+We sought missing data from studies’ corresponding authors, and
+used all the data that were available to us.
+Assessment of heterogeneity
+We estimated inconsistency between RCTs using the I² statistic.
+Assessment of reporting biases
+We used funnel plots to assess publication bias where there were
+sufficient data.
+Data synthesis
+We used a random-effects model (because we expected studies of
+different drugs and doses to estimate different, yet related, treatment effects) to calculate RRs and 95% confidence intervals (CIs),
+with the inverse variance method.
+Subgroup analysis and investigation of heterogeneity
+We expected to find that the choice of intervention and comparator would be largely determined by the use and type of antithrombotic drug taken prior to a spontaneous acute ICH (e.g.
+fresh frozen plasma (FFP), or prothrombin complex concentrate
+(PCC) for anticoagulant-associated ICH, platelet transfusion for
+antiplatelet-associated ICH). However, where interventions were
+used for ICH, whether it was associated with antithrombotic drug
+use or not (e.g. the clotting factor recombinant activated factor
+VII, antifibrinolytic drugs), and where ICH evacuation using craniotomy was performed, we stratified our analyses by pre-ICH antithrombotic drug use and use of surgery.
+R E S U L T S
+Description of studies
+Results of the search
+Our searches identified 31 potentially eligible randomised controlled trials (RCT); see Figure 1 for the flowchart describing the searches done for this update. We excluded nine studies because: they never started (Ciccone 2007; NCT02429453),
+they did not report any of our primary or secondary outcomes
+(Meng 2003; Zhou 2005), they did not report data and outcomes in the intracerebral haemorrhage population (Kerebel
+2013; Steiner 2016 (INCH)), they did not quantify outcomes
+(Madjdinasab 2008), the study was stopped due to poor enrolment but never reported results (NCT00222625), or the study
+did not relate to a haemostatic therapy (Li 2016). Ten RCTs
+were still in the process of recruitment (Liu 2017 (TRAIGE);
+Meretoja 2014 (STOP-AUST);NCT00699621;NCT02777424;
+NCT02866838; NCT03044184; NOR-ICH), follow-up (Sprigg
+2016 (TICH-2)), or reporting (NCT00810888; NCT01359202)
+at the time of writing, and will be assessed for inclusion with
+the next update. This left 12 RCTs that we included in this review, all of which included acute intracerebral haemorrhage (ICH)
+in adults aged 18 years or older (Arumugam 2015; Baharoglu
+2016 (PATCH); Boulis 1999; F7ICH-1602 2007; Imbert 2012
+(PRE-SICH); Li 2012; Mayer 2005a; Mayer 2005b; Mayer
+2006; Mayer 2008 (FAST); Sprigg 2014 (TICH-1); Zazulia 2001
+(ATICH)).
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 6
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Figure 1. Study flow diagram
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 7
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+We included seven RCTs of blood clotting factors versus placebo
+or open control involving 1480 participants (F7ICH-1602 2007;
+Imbert 2012 (PRE-SICH); Li 2012; Mayer 2005a; Mayer 2005b;
+Mayer 2006; Mayer 2008 (FAST)), three RCTs of antifibrinolytic drugs versus placebo or open control involving 57 participants (Arumugam 2015; Sprigg 2014 (TICH-1); Zazulia 2001
+(ATICH)), one RCT of platelet transfusion versus open control
+involving 190 participants (Baharoglu 2016 (PATCH)), and one
+RCT of blood clotting factors versus fresh frozen plasma involving
+five participants (Boulis 1999).
+Included studies
+We included 12 RCTs. For details, please refer to the ’
+Characteristics of included studies’ table.
+Of the seven RCTs of blood clotting factors versus placebo or
+open control, six examined blood clotting factors in adults with
+acute spontaneous ICH (F7ICH-1602 2007; Li 2012; Mayer
+2005a; Mayer 2005b; Mayer 2006; Mayer 2008 (FAST)), and one
+in adults with acute spontaneous ICH undergoing craniotomy
+(Imbert 2012 (PRE-SICH)). Five studies were funded and conducted by Novo Nordisk, and compared the use of various doses
+of intravenous recombinant activated clotting factor VII (rFVIIa;
+(973 participants)) against placebo (422 participants), started
+within four hours of ICH onset in adults (F7ICH-1602 2007;
+Mayer 2005a; Mayer 2005b; Mayer 2006; Mayer 2008 (FAST)).
+Novo Nordisk supplied supplementary, unpublished data from
+three trials (Mayer 2005a; Mayer 2005b; Mayer 2006), but did not
+respond to several requests to provide further data from two trials
+(F7ICH-1602 2007; Mayer 2008 (FAST)). The other study of intravenous rFVIIa was performed independently of Novo Nordisk,
+as a single centre, phase II study, in adults with acute spontaneous
+ICH within six hours of ICH onset (Li 2012). We had not prespecified the exclusion of RCTs of haemostatic therapies following
+surgical intervention, so we included Imbert 2012 (PRE-SICH),
+which was a phase II study of intravenous rFVIIa in adults with
+acute spontaneous ICH undergoing craniotomy, administered immediately after the evacuation of the haematoma, within 24 hours
+of ICH onset.
+Of the three RCTs of antifibrinolytic drugs versus placebo or open
+control, Zazulia 2001 (ATICH) was a phase II RCT of intravenous
+aminocaproic acid compared against supportive treatment alone,
+started within three hours of ICH onset in adults. Dr AllysonZazulia provided unpublished data, because the trial was stopped after
+the enrolment of three participants because recruitment had been
+slow, and the investigators decided that the rationale for rFVIIa
+was better (Zazulia 2005). Sprigg 2014 (TICH-1) was a phase II
+RCT of intravenous tranexamic acid compared against supportive
+treatment alone, started within 24 hours of ICH onset in adults.
+Arumugam 2015 was a phase II RCT of intravenous tranexamic
+acid compared against supportive treatment alone, started within
+eight hours of ICH onset in adults.
+We found one RCT of platelet transfusion versus open control
+involving 190 participants (Baharoglu 2016 (PATCH)).
+We found one RCT of blood clotting factors versus fresh frozen
+plasma involving five participants with acute spontaneous ICH
+associated with anticoagulant drug use (Boulis 1999).
+Excluded studies
+We excluded nine studies. For details, please refer to the ’
+Characteristics of excluded studies’ table. We excluded two eligible RCTs because they presented aggregate data for adults with
+ICH as well as other types of intracranial haemorrhage, and the
+study authors could not provide data restricted to the ICH group
+alone by the time this review was submitted (Kerebel 2013; Steiner
+2016 (INCH)). One abstract proposed a RCT of tranexamic acid
+for ICH, but the corresponding author confirmed that funding
+had not been obtained (Ciccone 2007). We found two studies of
+aprotinin, but it was unclear whether they included some participants in both studies, and the outcome measures used were unsuitable for meta-analysis in this review (Meng 2003; Zhou 2005).
+NCT02429453 was a planned RCT of fresh frozen plasma (FFP)
+versus prothrombin complex concentrate (PCC), but was terminated before enrolment began. NCT00222625 was a study of coagulation factors, but it was “stopped due to slow recruitment”
+(Iorio 2012). Dr Iorio has not responded to requests for clarification about whether any data were collected. Madjdinasab 2008
+was a study of coagulation factors, but no results were reported,
+and there was no response from the authors to requests for information for this review. Finally, Li 2016 was excluded as the intervention (TRABC) did not appear to be haemostatic, and had four
+Traditional Chinese Medicine (TCM) medicinals.
+We identified 10 ongoing or recently completed but unreported
+RCTs. See ’Characteristics of ongoing studies’ table for details.
+Two RCTs examined blood clotting factors versus placebo or open
+control (NCT00810888; NCT01359202), five examined antifibrinolytic drugs versus placebo or open control in acute spontaneous ICH (Liu 2017 (TRAIGE); Meretoja 2014 (STOP-AUST);
+NCT03044184; NOR-ICH; Sprigg 2016 (TICH-2)); one RCT
+examined antifibrinolytic drugs versus placebo or open control in
+acute spontaneous ICH associated with anticoagulant drug use
+(NCT02866838); one RCT examined platelet transfusion versus
+open control (NCT00699621), and one RCT examined blood
+clotting factors versus fresh frozen plasma in acute spontaneous
+ICH associated with anticoagulant drug use (NCT02777424).
+Risk of bias in included studies
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 8
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Across all seven domains in the 12 included RCTs, we assessed
+that the risk of bias, according to the Cochrane ’Risk of bias’ tool,
+and guidance in the Cochrane Handbook for Systematic Reviews of
+Interventions, was unclear in 37 (44%), high in 16 (19%), and low
+in 31 (37%; (Figure 2; Figure 3; Higgins 2011)). Only one RCT
+was at low risk of bias in all domains (Sprigg 2014 (TICH-1)).
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 9
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Figure 2. ’Risk of bias’ summary: review authors’ judgements about each risk of bias criteria for each
+included study
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 10
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Figure 3. Risk of bias graph: review authors’ judgements about each risk of bias criteria presented as
+percentages across all included studies
+Allocation
+The risk of bias in random sequence generation was low in two
+RCTs, unclear in 10 RCTs, and high in none. The risk of bias
+in allocation concealment was low in two RCTs, unclear in nine
+RCTs, and high in one.
+Only four RCTs clearly described the method of randomization (
+Baharoglu 2016 (PATCH); Mayer 2005b; Sprigg 2014 (TICH-1);
+Zazulia 2001 (ATICH)), and one RCT simply mentioned ’block
+randomization according to site’ (Mayer 2008 (FAST)).
+Allocation was reported as being concealed in the papers for
+Baharoglu 2016 (PATCH) and Sprigg 2014 (TICH-1), there was
+a risk of unblinding in one study (Mayer 2008 (FAST)), and the
+rest were unclear about allocation concealment.
+It became apparent during questioning after the presentation of
+the Mayer 2008 (FAST) data at the European Stroke Conference
+in Glasgow, UK, in 2007 (Mayer 2007), that the imbalance in
+allocation between the three groups in this trial (there were approximately 30 more participants analysed in the 80 mcg/kg dose
+group than the other two groups) was due to the 80 mcg/kg dose
+of rFVIIa tending to be packed in the first of the three boxes of
+study drug for part of the trial (which might have unblinded investigators, in view of the preponderance of thromboembolic adverse
+events with the higher dose).
+Blinding
+Five of the 12 RCTs did not blind the intervention and comparator (Arumugam 2015; Baharoglu 2016 (PATCH); Boulis 1999;
+Imbert 2012 (PRE-SICH); Zazulia 2001 (ATICH)), four did
+blind intervention and comparator, and the risk of bias was unclear
+in three RCTs. Whether participants and personnel were blinded
+to treatment allocation was only explicitly stated in Baharoglu
+2016 (PATCH), but correspondence with the study authors verified that this was the case for Mayer 2006; Zazulia 2001 (ATICH),
+and Sprigg 2014 (TICH-1). The risk of bias in the remaining
+RCTs was unclear in three RCTs, and high in five RCTs.
+Risk of bias from blinding of outcome assessment was low in five
+RCTs, high in one RCT, and unknown in six RCTs. Assessment of
+radiological outcome was blinded to treatment allocation in nine
+included RCTs (Arumugam 2015; Baharoglu 2016 (PATCH);
+Imbert 2012 (PRE-SICH); Mayer 2005a; Mayer 2005b; Mayer
+2006; Mayer 2008 (FAST); Sprigg 2014 (TICH-1); Zazulia 2001
+(ATICH)), but information was not provided in others.
+Incomplete outcome data
+Overall, the risk of bias from incomplete outcome data was low
+in six RCTs, high in two RCTs, and unclear in the remaining
+four RCTs. Only Baharoglu 2016 (PATCH); Mayer 2008 (FAST),
+and Sprigg 2014 (TICH-1) provided data about completeness of
+clinical follow-up. In Arumugam 2015 and Li 2012, four participants had missing data. Boulis 1999 excluded eight participants
+after randomization. The last-observation-carried-forward technique was used in Mayer 2005b and Mayer 2008 (FAST), which
+is likely to be unbiased only if the completeness of follow-up was
+high.
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 11
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Selective reporting
+Bias from selective outcome reporting was low in eight RCTs,
+appeared to be low in two RCTs, and high in two other RCTs.
+Other potential sources of bias
+There were differences in baseline characteristics between treatment and control arms in the rFVIIa RCTs, especially in Mayer
+2008 (FAST): 90-day case fatality was worse in the placebo group
+in Mayer 2005b (29%) than in Mayer 2008 (FAST) (19%), which
+might be one explanation for the difference between the RCTs’
+findings. There was no visual evidence of funnel plot asymmetry in
+the largest group of RCTs, which compared blood clotting factors
+versus placebo or open control for death or dependency (Figure
+4).
+Figure 4. Funnel plot of comparison: 1 Blood clotting factors vs placebo or open control, outcome: 1.1
+Death or dependence (mRS 4 to 6) at day 90
+Effects of interventions
+See: Summary of findings for the main comparison Blood
+clotting factors versus placebo or open control; Summary of
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 12
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+findings 2 Antifibrinolytic drugs versus placebo; Summary of
+findings 3 Platelet transfusion versus open control; Summary of
+findings 4 Blood clotting factors versus fresh frozen plasma
+We analysed data on intervention effects In 12 RCTs involving
+1732 participants (1150 allocated to intervention and 582 allocated to control or active comparator), split by type of intervention as follows.
+Blood clotting factors versus placebo or open control
+In RCTs of blood clotting factors (N = 1018) versus placebo or
+open control (N = 462) for acute spontaneous ICH with or without surgery, use of blood clotting factors led to non-significant
+reductions in death or dependence (risk ratio (RR) 0.87, 95%
+confidence interval (CI) 0.70 to 1.07; six trials, 1390 participants;
+moderate-quality evidence; Analysis 1.1); in death (RR 0.75, 95%
+CI 0.51 to 1.09; seven trials, 1480 participants; moderate-quality evidence; Analysis 1.3); in all serious adverse events (RR 0.81,
+95% CI 0.30 to 2.22; two trials, 87 participants; moderate-quality evidence; Analysis 1.4); and in ICH growth (RR 0.74, 95%
+CI 0.36 to 1.48; three trials, 151 participants; moderate-quality
+evidence; Analysis 1.6). Blood clotting factors resulted in a nonsignificant increase in all serious thromboembolic serious adverse
+events (RR 1.24, 95% CI 0.80 to 1.91; five trials, 1398 participants; moderate-quality evidence; Analysis 1.5). In these analyses,
+the I² varied from 0% to 53%. We downgraded the quality of the
+evidence by one level because of concerns with design and risk of
+bias.
+Antifibrinolytic drugs versus placebo or open control
+In RCTs of antifibrinolytic drugs (N = 33) versus placebo or open
+control (N = 24) for acute spontaneous ICH, use of antifibrinolytic drugs led to non-significant increases in death or dependence (RR 1.25, 95% CI 0.57 to 2.75; one trial, 24 participants;
+moderate-quality evidence; Analysis 2.1), in death (RR 1.16, 95%
+CI 0.31 to 4.39; three trials, 57 participants; moderate-quality
+evidence; Analysis 2.2), in all serious adverse events (RR 1.50,
+95% CI 0.39 to 5.83; one trial, 24 participants; moderate-quality
+evidence; Analysis 2.3), and in thromboembolic serious adverse
+events (RR 1.59, 95% CI 0.07 to 35.15; one trial, 24 participants;
+moderate-quality evidence; Analysis 2.4). Antifibrinolytic drugs
+led to a non-significant reduction in ICH growth (RR 0.76, 95%
+CI 0.56 to 1.05; three trials, 57 participants; moderate-quality
+evidence; Analysis 2.7). In these analyses, the I² was 0% to 1%.
+We downgraded the quality of the evidence to moderate because
+of imprecision.
+Platelet transfusion versus open control
+In one RCT of platelet transfusion (N = 97) versus open control
+(N = 93) for acute spontaneous ICH associated with antiplatelet
+drug use, platelet transfusion led to a significant increase in death
+or dependence (RR 1.29, 95% CI 1.04 to 1.61; one trial, 190
+participants; moderate-quality evidence; Analysis 3.1), and nonsignificant increases in death (RR 1.42, 95% CI 0.88 to 2.28; one
+trial, 190 participants; moderate-quality evidence; Analysis 3.2),
+in all serious adverse events (RR 1.46, 95% CI 0.98 to 2.16; one
+trial, 190 participants; moderate-quality evidence; Analysis 3.3),
+in thromboembolic serious adverse events (RR 3.84, 95% CI 0.44
+to 33.68; one trial, 190 participants; moderate-quality evidence;
+Analysis 3.4), and in ICH growth (RR 1.11, 95% CI 0.56 to 2.20;
+one trial, 190 participants; moderate-quality evidence; Analysis
+3.5). We downgraded the quality of the evidence by one level
+because of imprecision.
+Clotting factors versus fresh frozen plasma
+No conclusions could be drawn from one small RCT of clotting
+factors (N = 2) versus fresh frozen plasma (N = 3) for acute spontaneous ICH associated with anticoagulant drug use, which did
+not report the primary outcome of this review.
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 13
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+A D D I T I O N A L S U M M A R Y O F F I N D I N G S [Explanation]
+Antifibrinolytic drugs compared with placebo for acute spontaneous intracerebral haemorrhage
+Patient or population: adults with acute spontaneous intracerebral haemorrhage
+Settings: secondary care
+Intervention: tranexam ic acid
+Comparison: placebo
+Outcomes Relative effect
+(95% CI)
+No of Participants
+(studies)
+Quality of the evidence
+(GRADE)
+Comments
+Death or dependence (mRS 4 to
+6) at day 90
+RR 1.25 (0.57 to 2.75) 24
+(1)
+⊕⊕⊕
+
+moderate¹
+GRADE Working Group grades of evidence
+High quality: Further research is very unlikely to change our conf idence in the estimate of effect.
+M oderate quality: Further research is likely to have an important impact on our conf idence in the estimate of effect and may change the estimate.
+Low quality: Further research is very likely to have an important impact on our conf idence in the estimate of effect and is likely to change the estimate.
+Very low quality: We are very uncertain about the estimate.
+CI: conf idence interval; RR: risk ratio; mRS: modif ied Rankin Scale
+¹We downgraded the quality of the evidence once because of imprecision.
+14 Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Platelet transfusion compared with open control for acute spontaneous intracerebral haemorrhage associated with antiplatelet drug use
+Patient or population: adults with acute spontaneous intracerebral haemorrhage associated with antiplatelet drug use
+Settings: secondary care
+Intervention: platelet transfusion
+Comparison: open control
+Outcomes Relative effect
+(95% CI)
+No of Participants
+(studies)
+Quality of the evidence
+(GRADE)
+Comments
+Death or dependence (mRS 4 to
+6) at day 90
+RR 1.29 (1.04 to 1.61) 190
+(1)
+⊕⊕⊕
+moderate¹
+GRADE Working Group grades of evidence
+High quality: Further research is very unlikely to change our conf idence in the estimate of effect.
+M oderate quality: Further research is likely to have an important impact on our conf idence in the estimate of effect and may change the estimate.
+Low quality: Further research is very likely to have an important impact on our conf idence in the estimate of effect and is likely to change the estimate.
+Very low quality: We are very uncertain about the estimate.
+CI: conf idence interval; RR: risk ratio; mRS: modif ied Rankin Scale
+¹We downgraded the quality of the evidence once because of imprecision.
+15 Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Blood clotting factors compared with fresh frozen plasma for acute spontaneous intracerebral haemorrhage associated with anticoagulant drug use
+Patient or population: adults with acute spontaneous intracerebral haemorrhage associated with anticoagulant drug use
+Settings: secondary care
+Intervention: fresh frozen plasma (intravenous), vitam in K (subcutaneous), and factor IX complex concentrate
+Comparison: fresh frozen plasma (intravenous)
+Outcomes Relative effect
+(95% CI)
+No of Participants
+(studies)
+Quality of the evidence
+(GRADE)
+Comments
+Death or dependence (mRS 4 to
+6) at day 90
+No evidence No evidence as mRS not measured
+GRADE Working Group grades of evidence
+High quality: Further research is very unlikely to change our conf idence in the estimate of effect.
+M oderate quality: Further research is likely to have an important impact on our conf idence in the estimate of effect and may change the estimate.
+Low quality: Further research is very likely to have an important impact on our conf idence in the estimate of effect and is likely to change the estimate.
+Very low quality: We are very uncertain about the estimate.
+CI: conf idence interval
+16 Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review)
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+D I S C U S S I O N
+Summary of main results
+There was moderate-quality evidence, based on the findings of one
+RCT (190 participants), that platelet transfusion appeared hazardous in comparison to standard care for adults with antiplateletassociated intracerebral haemorrhage (ICH). Based on moderatequality evidence, we were unable to draw firm conclusions about
+the efficacy and safety of blood clotting factors versus placebo or
+open control for acute spontaneous ICH with or without surgery
+(seven trials, 1480 participants), or antifibrinolytic drugs versus
+placebo or open control for acute spontaneous ICH (three trials, 57 participants). The one very small trial (five participants)
+we found on clotting factors versus fresh frozen plasma for acute
+spontaneous ICH associated with anticoagulant drug use did not
+measure our primary outcome, and provided limited data on the
+secondary outcomes.
+Overall completeness and applicability of
+evidence
+Alongside the 12 included RCTs, we were unable to include two
+eligible RCTs (N = 113) comparing clotting factors versus fresh
+frozen plasma for acute spontaneous ICH associated with anticoagulant drug use because data on participants with intracerebral haemorrhage could not be separated from participants with
+subdural intracranial haemorrhage (Kerebel 2013; Steiner 2016
+(INCH)). This resulted in a shortage of data comparing clotting
+factors versus fresh frozen plasma for acute spontaneous ICH associated with anticoagulant drug use.
+The results of 10 ongoing or recently completed unreported
+RCTs are awaiting completion and publication (Characteristics of
+ongoing studies). Two of these were recently completed RCTs (N
+= 142) investigating clotting factors in participants with radiological criteria associated with increased risk of haematoma expansion,
+so the RCTs in the review only include all patients with ICH and
+not the subgroup most at risk of ICH growth, i.e. those with the
+radiological ’spot sign’ (tiny, enhancing foci within haematomas)
+(NCT00810888; NCT01359202).
+There were few data available on antifibrinolytic drugs versus
+placebo after spontaneous acute ICH, but five ongoing RCTs
+(N > 2500) are investigating the antifibrinolytic drug tranexamic
+acid versus placebo in acute spontaneous ICH without anticoagulant use (Liu 2017 (TRAIGE); Meretoja 2014 (STOP-AUST);
+NCT03044184; NOR-ICH; Sprigg 2016 (TICH-2)), and with
+anticoagulant drug use (NCT02866838). Publication of the
+largest RCT is expected in 2018 (Sprigg 2016 (TICH-2)).
+It was unclear whether recruitment was complete for one RCT of
+platelet transfusion (N = 100; NCT00699621). Further RCTs of
+platelet transfusion seem unlikely, so we await the publication of
+this RCT to see if the findings of Baharoglu 2016 (PATCH) are
+externally valid.
+Quality of the evidence
+We included 12 RCTs with 1732 participants (1150 allocated to
+intervention, 582 allocated to control or active comparator). One
+double-blind RCT (Sprigg 2014 (TICH-1)), and one open RCT
+(Baharoglu 2016 (PATCH)), were at low risk of bias, but the risk
+of bias of most other RCTs was moderate to high (Figure 2; Figure
+3). The RCT finding harm from platelet transfusion has not been
+replicated in another RCT (Baharoglu 2016 (PATCH)).
+The largest quantity of data was from RCTs of recombinant activated clotting factor VII (rFVIIa), which were at moderate risk of
+bias, and their results were moderately inconsistent, showing nonsignificant benefits of rFVIIa. These findings have not changed
+practice (Hemphill 2015 (AHA ICH); RCP 2016; Steiner 2014
+(ESO ICH)), and have led to explorations of the use of rFVIIa
+in ICH sub-groups in as-yet-unpublished RCTs (NCT00810888;
+NCT01359202).
+We rated the overall quality of all of the available evidence as
+moderate for three comparisons on the grounds of imprecision
+(Analysis 1.1; Analysis 2.1; Analysis 3.1), and poor for one comparison on the grounds of imprecision and limitations in study
+design (Analysis 4.1).
+Potential biases in the review process
+We followed a dual review process: two authors (NS and RA-SS)
+independently extracted data that reduced identification bias and
+improved risk of bias assessment in comparison to the previous
+update of this review.
+We were unable to include data from two eligible studies that separately showed benefits of clotting factors versus FFP on intermediate outcomes (speed of international normalised ratio (INR) reduction) after intracranial haemorrhage as data were not available
+for the ICH population; we hope to include these RCTs in the
+next update of this review to also examine the effect of clotting
+factors versus FFP on clinical outcomes (Steiner 2016 (INCH);
+Kerebel 2013).
+Agreements and disagreements with other
+studies or reviews
+This review was completed after the most recent updates of the
+European and North American ICH guidelines (Hemphill 2015
+(AHA ICH); Steiner 2014 (ESO ICH)). These guidelines predated the results of Baharoglu 2016 (PATCH), and simply found
+that “the usefulness of platelet transfusions in ICH patients with
+a history of antiplatelet use is uncertain”. Guidance on platelet
+transfusion has changed to reflect the results of Baharoglu 2016
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 17
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+(PATCH), where platelet transfusion was associated with a worse
+outcome, hence platelet transfusion is not recommended (Dastur
+2017). Consistent with our findings, guidelines have not recommended the use of clotting factors, such as rFVIIa for acute spontaneous ICH not associated with anticoagulant use (Hemphill 2015
+(AHA ICH); RCP 2016; Steiner 2014 (ESO ICH)). The AHA
+and ESO guidelines preceded the publication of Steiner 2016
+(INCH), but the national stroke guidelines in the UK recommend
+using prothrombin complex concentrate for anticoagulant-associated ICH, reflecting the findings of Steiner 2016 (INCH) on the
+intermediate outcome of speed of INR reduction (RCP 2016).
+A U T H O R S ’ C O N C L U S I O N S
+Implications for practice
+Platelet transfusion appears hazardous in comparison to standard
+care for adults with antiplatelet-associated ICH (this is based on
+the findings of one trial). We are unable to draw firm conclusions
+about the efficacy and safety of blood clotting factors for acute
+spontaneous ICH (with or without surgery), antifibrinolytic drugs
+for acute spontaneous ICH, clotting factors or fresh frozen plasma
+for acute spontaneous ICH associated with anticoagulant drug
+use.
+Implications for research
+Although rFVIIa does not appear beneficial on the basis of
+existing evidence, RCTs of its use in specific subgroups have
+been undertaken and their results are awaited (NCT00810888;
+NCT01359202). Clotting factors appear superior to fresh frozen
+plasma for normalising coagulation in the RCTs that we could
+not include because they were not restricted to ICH (Kerebel
+2013; Steiner 2016 (INCH)), but their superiority for improving
+clinical outcome needs to be established. The effect of antifibrinolytic drugs for acute ICH is uncertain, but in view of their effects in other conditions (Ker 2015), the results of several ongoing
+RCTs are keenly awaited (Liu 2017 (TRAIGE); Meretoja 2014
+(STOP-AUST); NCT02866838; NCT03044184; Sprigg 2016
+(TICH-2)).
+A C K N O W L E D G E M E N T S
+We are grateful to You Hong who was a co-author for the first
+published version of this review (You 2006). We are also grateful
+to Huey-Juan Lin, Mei-Chiun Tseng, and Michael Poon for their
+help with translation and data extraction. We thank the staff at
+the Cochrane Stroke Group editorial office for their assistance.
+R E F E R E N C E S
+References to studies included in this review
+Arumugam 2015 {published data only}
+Arumugam A, Rahman NAA, Theophilus SC, Shariffudin
+A, Abdullah JM. Tranexamic acid as antifibrinolytic agent in
+non traumatic intracerebral hemorrhages. Malaysian Journal
+of Medical Sciences 2015;December(Special issue):62–71.
+Baharoglu 2016 (PATCH) {published data only}
+∗ Baharoglu MI, Cordonnier C, Al-Shahi Salman R, de Gans
+K, Koopman MM, Brand A, the PATCH Investigators.
+Platelet transfusion versus standard care after acute stroke
+due to spontaneous cerebral haemorrhage associated with
+antiplatelet therapy (PATCH): a randomised, open-label,
+phase 3 trial. Lancet 2016;387(10038):2605–13.
+Gans K, de Haan RJ, Majoie CB, Koopman MK, Brand
+A, Dijkgraaf MG: the PATCH Investigators. PATCH:
+platelet transfusion in cerebral haemorrhage: study protocol
+for a multicentre, randomised, controlled trial. BMC
+Neurology 2010;10:19. Netherlands National Trial Register
+NTR1303]
+Boulis 1999 {published data only}
+Boulis NM, Bobek MP, Schmaier A, Hoff JT. Use of factor
+IX complex in warfarin-related intracranial hemorrhage.
+Neurosurgery 1999;45(5):1113–8.
+F7ICH-1602 2007 {unpublished data only}
+Novo Nordisk. Randomised, double-blind, multicentre,
+placebo controlled dose-escalation study to evaluate the
+safety and preliminary efficacy of activated recombinant
+factor VII (NN-007) in acute intracerebral haemorrhage.
+Unpublished 2007. Novo Nordisk Trial ID F7ICH–1602]
+Imbert 2012 (PRE-SICH) {published data only}
+Imberti R, Pietrobono L, Klersy C, Gamba G, Iotti GA,
+Cornara G. Intraoperative intravenous administration
+of rFVIIa and hematoma volume after early surgery for
+spontaneous intracerebral hemorrhage: a randomized
+prospective phase II study. Minerva Anestesiologica 2012;78
+(2):168–75.
+Li 2012 {published data only}
+Li X, Wang YQ, Li W. Intervention study on recombinant
+activated factor VIIa in depressing early hematoma
+extensions of cerebral hemorrhage. Chinese Journal of New
+Drugs 2012;21(2):161–3.
+Mayer 2005a {published data only}
+Mayer SA, Brun NC, Broderick J, Davis S, Diringer MN,
+Skolnick BE, et al. Safety and feasibility of recombinant
+factor VIIa for acute intracerebral hemorrhage. Stroke 2005;
+36(1):74–9.
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 18
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Mayer 2005b {published data only}
+Mayer SA, Brun NC, Begtrup K, Broderick J, Davis S,
+Diringer MN, et al. Recombinant activated factor VII for
+acute intracerebral hemorrhage. New England Journal of
+Medicine 2005;352(8):777–85.
+Mayer 2006 {published and unpublished data}
+Mayer SA, Brun NC, Broderick J, Davis SM, Diringer
+MN, Skolnick BE, et al. Recombinant activated factor VII
+for acute intracerebral hemorrhage: US phase IIA trial.
+Neurocritical Care 2006;4(3):206–14. Novo Nordisk Trial
+ID F7ICH–2073]
+Mayer 2008 (FAST) {published data only (unpublished sought but not
+used)}
+Mayer SA, Brun NC, Begtrup K, Broderick J, Davis S,
+Diringer MN, et al. Efficacy and safety of recombinant
+activated factor VII for acute intracerebral hemorrhage.
+New England Journal of Medicine 2008; Vol. 358, issue
+20:2127–37.
+Sprigg 2014 (TICH-1) {published data only}
+Sprigg N, Renton C, Kwong Y, Dineen R, Bath PM.
+Tranexamic acid for acute intracerebral haemorrhage
+(TICH): results of the first randomised controlled trial.
+International Journal of Stroke 2012;7:7.
+∗ Sprigg N, Renton CJ, Dineen RA, Kwong Y, Bath
+PMW. Tranexamic acid for spontaneous intracerebral
+hemorrhage: a randomized controlled pilot trial. Journal
+of Stroke and Cerebrovascular Diseases 2014;23(6):1312–8.
+ISRCTN50867461]
+Zazulia 2001 (ATICH) {unpublished data only}
+Zazulia AR. Antifibrinolytic therapy in acute intracerebral
+hemorrhage - ATICH. www.strokecenter.org (accessed 27
+November 2017).
+References to studies excluded from this review
+Ciccone 2007 {unpublished data only}
+Ciccone A, Brambilla G, Pozzi M, Roccatagliata D,
+Botto E, Gruccione A. Antifibrinolytic treatment of acute
+spontaneous intracerebral haemorrhage: rationale of the
+ANTITHESIS protocol. Proceedings of the Italian Stroke
+Forum. Florence, Italy, 2007:Abst. EMORR˙03.
+Kerebel 2013 {published data only}
+Kerebel D, Joly L-M, Honnart D, Schmidt J, Galanaud
+D, Negrier C, Lex206 Investigator Group. A French
+multicenter randomised trial comparing two doseregimens of prothrombin complex concentrates in urgent
+anticoagulation reversal. Critical Care 2013;17:R4.
+Li 2016 {published data only}
+Li J-Y, Yuan L-X, Zhang G-M, Zhou L, Gao Y, Li Q-B, et
+al. Activating blood circulation to remove stasis treatment
+of hypertensive intracerebral hemorrhage: a multi-center
+prospective randomized open-label blinded-endpoint trial.
+Chinese Journal of Integrative Medicine 2016;22(5):328–33.
+Madjdinasab 2008 {published data only}
+Madjdinasab NN, Sharafaddinzadeh N, Mohamadianinejad
+E, Bavarsad R, Khakzadeh A. Effect of Novoseven
+on hospitalization duration of Iranian ICH patients.
+Cerebrovascular Diseases 2008;25(Suppl 2):158.
+Meng 2003 {published data only}
+Meng L, Wu J, Zhou C. Auxiliary treatment of aprotinin
+on cerebral hemorrhage: clinical observation. Journal of
+Apoplexy and Nervous Diseases 2003;20(3):233–4.
+NCT00222625 {unpublished data only}
+NCT00222625. rFVIIa in ICH in patients treated with
+anticoagulants or anti-platelets. clinicaltrials.gov/ct2/show/
+NCT00222625 (first received 22 September 2005).
+NCT02429453 {unpublished data only}
+NCT02429453. FFP versus PCC in intracranial
+hemorrhage. clinicaltrials.gov/ct2/show/NCT02429453
+(first received 29 April 2015).
+Steiner 2016 (INCH) {published data only}
+Steiner T, Poli S, Griebe M, Hüsing J, Hajda J, Freiberger
+A, et al. Fresh frozen plasma versus prothrombin complex
+concentrate in patients with intracranial haemorrhage
+related to vitamin K antagonists (INCH): a randomised
+trial. Lancet Neurology 2016;15(6):566–73.
+Zhou 2005 {published data only}
+Zhou C, Wu J, Meng L. Mechanism of aprotinin in
+auxiliary treatment of cerebral hemorrhage. Chinese Journal
+of Neurology 2005;38(1):22–4.
+References to ongoing studies
+Liu 2017 (TRAIGE) {unpublished data only}
+Liu L, Wang Y, Meng X, Li N, Tan Y, Nie X, et al.
+the TRAIGE investigators. Tranexamic acid for acute
+intracerebral hemorrhage growth predicted by spot sign
+trial: rationale and design. International Journal of Stroke
+2017;12(3):326-31.
+Meretoja 2014 (STOP-AUST) {unpublished data only}
+Meretoja A, Churilov L, Campbell BCV, Aviv RI, Yassi N,
+Barras C, et al. The Spot sign and Tranexamic acid On
+Preventing ICH growth - AUStralasia Trial (STOP-AUST):
+protocol of a phase II randomized, placebo-controlled,
+double-blind,multicenter trial. International Journal of
+Stroke 2014;9(4):519-24.
+NCT00699621 {unpublished data only}
+NCT00699621. Platelet transfusion in acute intracerebral
+hemorrhage. clinicaltrials.gov/ct2/show/NCT00699621
+(first received 18 June 2008).
+NCT00810888 {unpublished data only}
+NCT00810888. The Spot Sign for predicting and treating
+ICH growth study (STOP-IT). clinicaltrials.gov/ct2/show/
+NCT00810888 (first received 18 December 2008).
+NCT01359202 {unpublished data only}
+NCT01359202. ’Spot Sign’ selection of intracerebral
+hemorrhage to guide hemostatic therapy (SPOTLIGHT).
+clinicaltrials.gov/ct2/show/NCT01359202 (first received
+24 May 2011).
+NCT02777424 {published data only}
+NCT02777424. Prothrombin complex concentrate versus
+fresh frozen plasma to correct coagulation disorders in adult
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 19
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+neurosurgical patients (CLOT-CRANE). clinicaltrials.gov/
+ct2/show/NCT02777424 (first received 19 May 2016).
+NCT02866838 {published data only}
+NCT02866838. Treatment of Intracerebral Hemorrhage
+in Patients on Non-vitamin K Antagonist (TICH-NOAC).
+clinicaltrials.gov/ct2/show/NCT02866838 (first received
+15 August 2016).
+NCT03044184 {unpublished data only}
+NCT03044184. Tranexamic acid for spontaneous acute
+cerebral hemorrhage trial (TRANSACT). clinicaltrials.gov/
+ct2/show/NCT03044184 (first received 6 February 2017).
+NOR-ICH {published data only}
+The Norwegian Intracerebral Hemorrhage Trial
+(NOR-ICH). helseforskning.etikkom.no/prosjekterirek/
+prosjektregister/prosjekt?p document id=324797 (first
+received 1 March 2013).
+Sprigg 2016 (TICH-2) {unpublished data only}
+Sprigg N, Robson K, Bath P, Dineen R, Roberts I, Robinson
+T, for the TICH-2 Investigators. Intravenous tranexamic
+acid for hyperacute primary intracerebral hemorrhage:
+protocol for a randomized, placebo-controlled trial.
+International Journal of Stroke 2016;11(6):717-23.
+Additional references
+Al-Shahi Salman 2009a
+Al-Shahi Salman R, Labovitz DL, Stapf C. Spontaneous
+intracerebral haemorrhage. BMJ 2009;339:b2586.
+Brott 1997
+Brott T, Broderick J, Kothari R, Barsan W, Tomsick T,
+Sauerbeck L, et al. Early hemorrhage growth in patients
+with intracerebral hemorrhage. Stroke 1997;28(1):1–5.
+Dastur 2017
+Dastur YK, Wengui Y. Current management of spontaneous
+intracerebral haemorrhage. Stroke and Vascular Neurology
+2017;2(1):21–9.
+Davis 2006
+Davis SM, Broderick J, Hennerici M, Brun NC, Diringer
+MN, Mayer SA, et al. Hematoma growth is a determinant of
+mortality and poor outcome after intracerebral hemorrhage.
+Neurology 2006;66(8):1175–81.
+Feigin 2009
+Feigin VL, Lawes CM, Bennett DA, Barker-Collo SL,
+Parag V. Worldwide stroke incidence and early case fatality
+reported in 56 population-based studies: a systematic
+review. Lancet Neurology 2009;8(4):355–69.
+Feigin 2015
+Feigin VL, Krishnamurthi RV, Parmar P, Norrving B,
+Mensah GA, Bennett DA, et al. Update on the global
+burden of ischemic and hemorrhagic stroke in 1990-2013:
+the GBD 2013 Study. Neuroepidemiology 2015;45(3):
+161–76.
+Hemphill 2015 (AHA ICH)
+Hemphill JC, Greenberg SM, Anderson CS, Becker K,
+Bendok BR, Cushman M, the American Heart Association
+Stroke Council, Council on Cardiovascular and Stroke
+Nursing, and Council on Clinical Cardiology. Guidelines
+for the management of spontaneous intracerebral
+hemorrhage: a guideline for healthcare professionals
+from the American Heart Association/American Stroke
+Association. Stroke 2015;46(7):2032–60.
+Higgins 2011
+Higgins JPT, Green S, editor(s). Cochrane Handbook
+for Systematic Reviews of Interventions Version 5.1.0
+(updated March 2011). The Cochrane Collaboration,
+2011. Available from handbook.cochrane.org.
+Iorio 2012
+Iorio. Personal communication (email) 9th April 2012.
+Johansen 2015
+Johansen M, Wikkelsø A, Lunde J, Wetterslev J, Afshari A.
+Prothrombin complex concentrate for reversal of vitamin K
+antagonist treatment in bleeding and non-bleeding patients.
+Cochrane Database of Systematic Reviews 2015, Issue 7.
+DOI: 10.1002/14651858.CD010555.pub2
+Ker 2015
+Ker K, Roberts I, Shakur H, Coats TJ. Antifibrinolytic
+drugs for acute traumatic injury. Cochrane Database
+of Systematic Reviews 2015, Issue 5. DOI: 10.1002/
+14651858.CD004896.pub4
+Lovelock 2007
+Lovelock CE, Molyneux AJ, Rothwell PM, Oxford Vascular
+Study. Change in incidence and aetiology of intracerebral
+haemorrhage in Oxfordshire, UK, between 1981 and 2006:
+a population-based study. Lancet Neurology 2007;6(6):
+487–93.
+Mayer 2007
+Mayer SA. Personal communication (discussion at the
+European Stroke Conference, Glasgow, UK 2007.
+Poon 2014
+Poon MT, Fonville AF, Al-Shahi Salman R. Long-term
+prognosis after intracerebral haemorrhage: systematic
+review and meta-analysis. Journal of Neurology, Neurosurgery
+and Psychiatry 2014;85(6):660–7.
+Prasad 2008
+Prasad K, Mendelow AD, Gregson B. Surgery for primary
+supratentorial intracerebral haemorrhage. Cochrane
+Database of Systematic Reviews 2008, Issue 4. DOI:
+10.1002/14651858.CD000200.pub2
+RCP 2016
+Intercollegiate Stroke Working Party. National Clinical
+Guideline for Stroke. Fifth. London: Royal College of
+Physicians, 2016.
+Samarasekera 2015
+Samarasekera N, Fonville A, Lerpiniere C, Farrall AJ,
+Wardlaw JM, White PM, the Lothian Audit of the
+Treatment of Cerebral Haemorrhage Collaborators.
+Influence of intracerebral hemorrhage location on incidence,
+characteristics, and outcome: population-based study.
+Stroke 2015;46(3):361–8.
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 20
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Stanworth 2012
+Simpson E, Lin Y, Stanworth S, Birchall J, Doree C,
+Hyde C. Recombinant factor VIIa for the prevention and
+treatment of bleeding in patients without haemophilia.
+Cochrane Database of Systematic Reviews 2012, Issue 2.
+DOI: 10.1002/14651858.CD005011.pub4
+Steiner 2014 (ESO ICH)
+Steiner T, Al-Shahi Salman R, Beer R, Christensen H,
+Cordonnier C, Csiba L, et al. European Stroke Organisation
+(ESO) guidelines for the management of spontaneous
+intracerebral hemorrhage. International Journal of Stroke
+2014;9(7):840–55.
+Wikkelsø 2013
+Wikkelsø A, Lunde J, Johansen M, Stensballe J, Wetterslev
+J, Møller AM, et al. Fibrinogen concentrate in bleeding
+patients. Cochrane Database of Systematic Reviews 2013,
+Issue 8. DOI: 10.1002/14651858.CD008864.pub2
+Zazulia 2005
+Zazulia. Personal communication email 1, 15, 30 Nov 2005
+2005.
+References to other published versions of this review
+Al-Shahi 2007
+Al-Shahi R, You H. Hemostatic drug therapies for acute,
+nontraumatic intracerebral hemorrhage. Stroke 2007;38:
+204–5.
+Al-Shahi Salman 2009b
+Al-Shahi Salman R. Haemostatic drug therapies for acute
+spontaneous intracerebral haemorrhage. Cochrane Database
+of Systematic Reviews 2009, Issue 4. DOI: 10.1002/
+14651858.CD005951.pub3
+You 2006
+You H, Al-Shahi Salman R. Haemostatic drug therapies
+for acute primary intracerebral haemorrhage. Cochrane
+Database of Systematic Reviews 2006, Issue 3. DOI:
+10.1002/14651858.CD005951.pub2
+∗
+Indicates the major publication for the study
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 21
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+C H A R A C T E R I S T I C S O F S T U D I E S
+Characteristics of included studies [ordered by study ID]
+Arumugam 2015
+Methods Single-blinded, randomised placebo-controlled trial of tranexamic acid (intravenous 1 g
+bolus, followed by infusion 1 g/h for 8 h) in acute (< 8 h) primary ICH. Strict blood
+pressure control (target SBP 140 mmHg to 160 mmHg)
+A repeat brain CT was done after 24 h to reassess haematoma growth. The primary
+objective was to test the effect of tranexamic acid on haematoma growth. Other objectives
+were to test the feasibility, tolerability, and adverse events of tranexamic acid in primary
+ICH
+Participants Inclusion criteria
+• Patients aged ≥ 18 years (either sex),
+• Non-surgically managed patients who were evaluated by the on-call neurosurgeon
+and, were deemed inappropriate for surgical intervention,
+• Event within 8 h of onset,
+• Hypertensive intracerebral bleed, and
+• Supratentorial lesion.
+Exclusion criteria
+• Patients on anticoagulant therapy,
+• Brainstem bleed,
+• Intraventricular bleed on the first brain CT brain, including participants who
+developed an intraventricular bleed during the study,
+• Malignant hypertension,
+• Subarachnoid haemorrhage suggestive of a ruptured aneurysm,
+• Trauma,
+• Blood disorder (e.g. haemophilia and idiopathic thrombocytopenic purpura),
+• Infection (e.g. dengue haemorrhagic fever),
+• Hepatic or renal impairment,
+• Previous venous thrombosis or embolic disease,
+• Recent ischaemic event (within 12 months), such as ischaemic stroke, MI, or
+peripheral artery disease, and
+• Pregnant or breast-feeding women (pregnancy was evaluated in women of childbearing age using a urine pregnancy test).
+Interventions Intervention: tranexamic acid (1 g diluted in 100 mL of 0.9% saline) over a period of 10
+minutes. The initial dose was followed by a maintenance dose of 1 g/h for 8 h. Labetalol
+infusion 2 mg/min to achieve SBP 140 mmHg to 160 mmHg
+Comparator: placebo mentioned, but not described. Labetalol infusion 2 mg/min to
+achieve SBP 140 mmHg to 160 mmHg
+Outcomes Repeat CT brain scan was performed after 24 h, and a blinded radiologist evaluated the
+size and volume of the haematoma. Adverse events due to tranexamic acid that occurred
+within 24 h of the treatment were documented by the investigator or pharmacist
+Notes
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 22
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Arumugam 2015 (Continued)
+Risk of bias
+Bias Authors’ judgement Support for judgement
+Random sequence generation (selection
+bias)
+Unclear risk Quote: “Each envelope represented either
+the drug or control group, which was assigned using a random sequence programmer.”
+Allocation concealment (selection bias) Unclear risk Quote: “Patients or their family members
+randomly chose one envelope from a box
+containing 30 closed envelopes.”
+Blinding of participants and personnel
+(performance bias)
+All outcomes
+High risk Single blind
+Blinding of outcome assessment (detection
+bias)
+All outcomes
+Low risk Blinded radiologist for primary outcome.
+High risk for other outcomes (not stated as
+blinded)
+Incomplete outcome data (attrition bias)
+All outcomes
+High risk 4 participants had missing data
+Selective reporting (reporting bias) Low risk All outcomes in the paper were reported.
+No protocol
+Baharoglu 2016 (PATCH)
+Methods Multicentre, open-label, masked-endpoint, randomized trial, using a secure web-based
+system that concealed allocation and used biased coin randomization (1:1 stratified by
+hospital and type of antiplatelet therapy)
+Participants Inclusion criteria
+• Participants aged 18 years or older
+• Non-traumatic supratentorial intracerebral haemorrhage confirmed by brain
+imaging
+• GCS score of 8 to 15
+• In whom platelet transfusion could be initiated within 6 h of symptom onset (or
+last seen well) and within 90 minutes of brain imaging
+• Who had been on antiplatelet therapy with a cyclo-oxygenase (COX) inhibitor
+(aspirin or carbasalate calcium), adenosine diphosphate (ADP) receptor inhibitor
+(clopidogrel), or an adenosine reuptake inhibitor (dipyridamole) for at least 7 days
+preceding intracerebral haemorrhage
+• Pre-intracerebral haemorrhage mRS score of 0 (no symptoms) or 1 (no significant
+disability despite symptoms; able to carry out all usual duties and activities)
+Exclusion criteria
+• Blood on brain imaging suggestive of epidural or subdural haematoma, or an
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 23
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Baharoglu 2016 (PATCH) (Continued)
+underlying aneurysm or arteriovenous malformation
+• Planned surgical evacuation of intracerebral haemorrhage within 24 h of
+admission
+• Intraventricular blood more than sedimentation in the posterior horns of the
+lateral ventricles
+• Previous adverse reaction to platelet transfusion
+• Known use of vitamin K antagonist (unless INR ≤ 1.3) or history of coagulopathy
+• Known thrombocytopenia (lower than 100 cells x 10
+/L)
+• Lacking mental capacity by national legal standards before intracerebral
+haemorrhage
+• Death appeared imminent
+Interventions Intervention: standard care with platelet transfusion within 90 minutes of diagnostic
+brain imaging
+Comparator: standard care
+Outcomes The primary outcome was shift towards death or dependence rated on the mRS at 3
+months, and analysed by ordinal logistic regression, adjusted for stratification. Variables
+and the Intracerebral Haemorrhage Score Secondary clinical outcomes at 3 months were:
+survival (mRS score of 1 to 5), poor outcome defined as an mRS score of 4 to 6, and
+poor outcome defined as an mRS score of 3 to 6
+The secondary explanatory outcome was median absolute intracerebral haemorrhage
+growth in mL after 24 h on brain imaging
+Safety outcomes were defined as complications of platelet transfusion (transfusion reactions, thrombotic complications)
+Notes NTR1303
+Risk of bias
+Bias Authors’ judgement Support for judgement
+Random sequence generation (selection
+bias)
+Low risk Quote: “Randomisation was done by investigators via a secure, web-based, computerised randomization system (TENALEA,
+Clinical Trial Data Management system;
+NKIAVL, Amsterdam, The Netherlands)
+that stratified assignment by study hospital and type of pre-intracerebral haemorrhage antiplatelet therapy (COX inhibitor
+alone, ADP receptor inhibitor alone, COX
+inhibitor with an adenosine-reuptake inhibitor, or COX inhibitor with an ADP receptor inhibitor). A biased coin randomization was used, with coin bias factor of 3
+and coin bias threshold of 2”
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 24
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Baharoglu 2016 (PATCH) (Continued)
+Allocation concealment (selection bias) Low risk Allocation was concealed from investigators by the web-based randomization system
+Blinding of participants and personnel
+(performance bias)
+All outcomes
+High risk Participants and local investigators giving
+interventions were not masked to treatment allocation
+Blinding of outcome assessment (detection
+bias)
+All outcomes
+Low risk Treatment allocation was concealed to outcome assessors and investigators analysing
+data
+Incomplete outcome data (attrition bias)
+All outcomes
+Low risk Follow-up for the primary outcome was
+complete
+Selective reporting (reporting bias) Low risk All outcomes were reported
+Boulis 1999
+Methods RCT
+Participants Inclusion criteria
+• CT-proven intracranial haemorrhage
+• Documented history of warfarin use
+• Prothrombin time > 17 seconds
+Exclusion criteria
+• Clinical evidence of brainstem herniation
+Interventions Intervention: fresh frozen plasma
+Comparator: fresh frozen plasma (intravenous), vitamin K (subcutaneous) and factor IX
+complex concentrate (Konyne; Bayer, Elkhart, IN: containing high concentrations of
+activated vitamin K-dependent clotting factors II, VII, IX, and X; dosage according to
+body weight; intravenous infusion at 100 IU/min)
+Outcomes Time to INR correction, rate of INR correction, change in GCS
+Notes
+Risk of bias
+Bias Authors’ judgement Support for judgement
+Random sequence generation (selection
+bias)
+Unclear risk Not mentioned
+Allocation concealment (selection bias) Unclear risk Not mentioned
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 25
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Boulis 1999 (Continued)
+Blinding of participants and personnel
+(performance bias)
+All outcomes
+High risk Blinding was not described
+Blinding of outcome assessment (detection
+bias)
+All outcomes
+High risk Blinding was not described
+Incomplete outcome data (attrition bias)
+All outcomes
+High risk Post-randomisation exclusion of 8 participants
+Selective reporting (reporting bias) Unclear risk Outcomes not pre-specified
+F7ICH-1602 2007
+Methods Randomised, double-blind, Japanese multicentre, placebo-controlled, phase II doseescalation trial with 3 dose tiers
+Participants Inclusion criteria
+• Age ≥ 20 years
+• Spontaneous ICH (not in brainstem)
+• Within 3 h of onset
+Interventions Intervention: recombinant activated factor VII (NovoSeven) at doses of 40 mcg/kg (N
+= 15), 80 mcg/kg (N = 15), or 120 mcg/kg (N = 15), within 1 h of baseline CT
+Comparator: placebo (N = 45), within 1 h of baseline CT
+Outcomes Preliminary efficacy evaluations were performed as follows
+• mRS, the BI scores at 15 days post-dose and 90 days post-dose
+• Absolute and percent change in ICH volume, total haemorrhage volume (ICH +
+IVH), and total lesion volumes (ICH + IVH + oedema) as measured by head CT scans
+from baseline to 24 h, 48 h, and 72 h post-dose
+• Change in the GCS and the NIHSS scores from baseline to 1 h post-dose, 24 h
+post-dose, 48 h post-dose, 72 h post-dose, 15 days post-dose, and 90 days post-dose
+• Mortality at 90 days post-dose
+Criteria for evaluation: safety
+• Occurrence of thromboembolic serious adverse events until the ’End of trial’ form
+was completed
+• Changes in laboratory coagulation parameters (D-dimer, Fragment 1+2,
+Fibrinogen, Platelets, PT-INR, and APTT) from prior to dosing to 1 h post-dose, 24 h
+post-dose, 48 h post-dose, and 72 h post-dose
+• Exacerbation of brain oedema (oedema/ICH volume ratio > 2.5) assessed using
+head CT scan at 24 h post-dose, 48 h post-dose, and 72 h post-dose
+• Occurrence of adverse events until discharge or 90 days post-dose, whichever
+came first, and serious adverse events until the ’End of trial’ form was completed
+Notes ClinicalTrials.gov number NCT00266006. This unpublished trial was funded by Novo
+Nordisk, which did not respond to requests to provide data beyond what was on their
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 26
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+F7ICH-1602 2007 (Continued)
+website
+Risk of bias
+Bias Authors’ judgement Support for judgement
+Random sequence generation (selection
+bias)
+Unclear risk Not described
+Allocation concealment (selection bias) Unclear risk Not described
+Blinding of participants and personnel
+(performance bias)
+All outcomes
+Unclear risk Participants and personnel said to be
+blinded to treatment allocation
+Blinding of outcome assessment (detection
+bias)
+All outcomes
+Unclear risk The assessment of outcomes was not explicitly stated to be blinded
+Incomplete outcome data (attrition bias)
+All outcomes
+Unclear risk Not specified
+Selective reporting (reporting bias) High risk Data not provided for most major outcomes
+Imbert 2012 (PRE-SICH)
+Methods Randomised (2:1), open-label, single-blinded parallel group phase 2 pilot trial involving
+21 participants with spontaneous supratentorial ICH diagnosed by CT
+Participants Inclusion criteria
+• People 18 to 75 years of age with spontaneous supratentorial ICH documented by
+CT scan
+• Surgery was expected within 24 h from the onset of symptoms
+Exclusion criteria
+• MI or the placement of coronary or carotid stents in the 6 months prior to the
+study
+• Solid organ transplantation
+• Pregnancy
+Interventions All participants were intubated, ventilated, and underwent craniotomy with the intention of complete haematoma removal. The haematoma cavity was lined with Surgicel
+(Johnson & Johnson, New Brunswick, NJ, USA). Blood pressure was measured continuously, and data were collected every 1 to 2 h. Efforts were made to maintain the mean
+arterial blood pressure between 90 mmHg and 130 mmHg, PaCO within the range
+of 35 mmHg to 40 mmHg, natraemia between 137 and 147 mmol/L and to obtain
+normoglycaemia (80 mg/dL to 110 mg/dL)
+Intervention: 100 mcg/kg of rFVIIa (NovoSeven, Novo Nordisk, Denmark) by intravenous infusion in 5 to 10 minutes immediately after evacuation of the haematoma, at
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 27
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Imbert 2012 (PRE-SICH) (Continued)
+the beginning of the closure of the dura
+Comparator: saline solution by intravenous infusion in 5 to 10 minutes immediately
+after evacuation of the haematoma, at the beginning of the closure of the dura
+Outcomes Haematoma volume was assessed by CT scan immediately, 18 h to 30 h, and 5 days to 7
+days after evacuation of the haematoma. The primary endpoint was haematoma volume
+at 18 h to 30 h after surgery. Outcome was evaluated at 6 months using the mRS; poor
+outcome was defined as death or an mRS score of 4 to 5, and good outcome was defined
+as an mRS score of 0 to 3
+Notes NCT00128050
+Risk of bias
+Bias Authors’ judgement Support for judgement
+Random sequence generation (selection
+bias)
+Unclear risk Not described
+Allocation concealment (selection bias) Unclear risk Not described
+Blinding of participants and personnel
+(performance bias)
+All outcomes
+High risk They stated the trial was both open label and placebo controlled in the methods,
+but that ’saline’ was the comparator. This
+seemed like an open trial
+Blinding of outcome assessment (detection
+bias)
+All outcomes
+Unclear risk Haematoma volume assessment blinded,
+but unsure about clinical outcomes
+Incomplete outcome data (attrition bias)
+All outcomes
+Low risk Seemed complete for all outcomes. Unable to extract data on haematoma growth,
+all SAEs, and all thromboembolic adverse
+events (although they were reported separately)
+Selective reporting (reporting bias) Low risk All outcomes specified in the methods appeared to have been reported
+Li 2012
+Methods Single-centre RCT
+Participants Inclusion criteria
+• Intracerebral haemorrhage
+• Within 6 h of onset
+• Age ≥ 18 years
+• Able to perform CT scan 24 h post-treatment
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 28
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Li 2012 (Continued)
+Exclusion criteria
+• Secondary haemorrhage, i.e. tumour, AVM, anticoagulant-associated
+• Surgery within 24 h
+• Admission GCS 3 to 5
+• Hereditary or acquired coagulation dysfunction
+• Previous ICH in which haematoma had not been fully resolved
+• Serious comorbidities or end-stage diseases (unspecified)
+• Known renal impairment or thyroid dysfunction (unspecified)
+Interventions Intervention: intravenous rFVIIa (NovoSeven) 40 µg/kg, concentration at 0.6 g/L,
+within 6 h of ICH onset, injected over 2 to 5 minutes
+Comparator: routine or best medical treatment
+All participants received Piracetam 8 g iv 4 times/day
+Outcomes ICH growth, GCS at 24 h, NIHSS at 24 h, mRS at 90 days, adverse events
+Notes Data extracted by DrMichael Poon (www.researchgate.net/profile/Michael Poon3) from
+full text record available from en.cnki.com.cn/Article en/CJFDTotal-ZXYZ201202009.
+htm
+Risk of bias
+Bias Authors’ judgement Support for judgement
+Random sequence generation (selection
+bias)
+Unclear risk Not specified
+Allocation concealment (selection bias) Unclear risk Not specified
+Blinding of participants and personnel
+(performance bias)
+All outcomes
+Unclear risk Not mentioned
+Blinding of outcome assessment (detection
+bias)
+All outcomes
+Unclear risk Not mentioned
+Incomplete outcome data (attrition bias)
+All outcomes
+Unclear risk Not mentioned
+Selective reporting (reporting bias) Low risk All outcomes appeared to be reported
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 29
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Mayer 2005a
+Methods Parallel group, randomised, placebo-controlled, phase II: a dose-escalation safety and
+efficacy study
+Participants Inclusion criteria:
+• Age 18 years or older
+• Spontaneous ICH within 3 h of onset with no obvious secondary cause
+Exclusion criteria:
+• GCS 3 to 5
+• Surgical ICH evacuation planned within 24 h
+• mRS > 2 pre-ICH
+• Allergy to trial product
+• Participation in another RCT
+Interventions Intervention: recombinant activated factor VII (NovoSeven) at doses of 10 mcg/kg, 20
+mcg/kg, 40 mcg/kg, 80 mcg/kg, 120 mcg/kg, or 160 mcg/kg, within 1 h of baseline CT
+Comparator: placebo, within 1 h of baseline CT
+Outcomes Adverse events at days 1 to 5, 15 (or hospital discharge), and 90; change in ICH ± IVH
+volume on CT between baseline and 24 h; ICH growth (> 33% or 12.5 mL); drop of
+> 1 GCS point or increase of > 3 NIHSS points on days 0 to 5; dead versus alive with
+little disability (BI 95 to 100, GOS-E 8, mRS 0 to 2), versus alive and functionally
+independent (BI 60 to 100, GOS-E 5 to 8, mRS 0 to 3) at day 90
+Notes There was imbalance in the baseline ICH volumes between placebo and treatment groups
+(increasing with higher recombinant factor VIIa doses), although the authors stated that
+this was not statistically significant. The trial drug was given to 2 of 47 participants more
+than 4 h after ICH onset. This trial was funded by Novo Nordisk
+Risk of bias
+Bias Authors’ judgement Support for judgement
+Random sequence generation (selection
+bias)
+Unclear risk The method of randomization was not
+specified
+Allocation concealment (selection bias) Unclear risk Not described. Quote: “A randomization
+schedule was generated.”
+Blinding of participants and personnel
+(performance bias)
+All outcomes
+Unclear risk Providers were said to be blinded to treatment allocation (but treatment dose escalation may have been apparent)
+Blinding of outcome assessment (detection
+bias)
+All outcomes
+Unclear risk The assessment of outcomes was not explicitly stated to be blinded
+Incomplete outcome data (attrition bias)
+All outcomes
+Unclear risk Unclear
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 30
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Mayer 2005a (Continued)
+Selective reporting (reporting bias) Unclear risk Unclear
+Mayer 2005b
+Methods Parallel group, randomised, placebo-controlled, phase IIB, dose-ranging, proof-of-concept study
+Participants Inclusion criteria:
+• Age 18 years or older
+• Spontaneous ICH
+• Within 3 h of onset
+Exclusion criteria:
+• GCS 3 to 5
+• Surgical ICH evacuation planned within 24 h
+• Known underlying cause of ICH
+• On oral anticoagulants
+• Known thrombocytopaenia
+• Coagulopathy, disseminated intravascular coagulation, sepsis, or crush injury
+• Pregnant
+• mRS > 2 pre-ICH
+• Symptomatic thrombotic or vaso-occlusive disease within 30 days before ICH
+(mid-way through the trial this was amended to exclude patients with any history of
+thrombotic or vaso-occlusive disease)
+Interventions Intervention: recombinant activated factor VII (NovoSeven) at doses of 40 mcg/kg, 80
+mcg/kg, or 160 mcg/kg, within 1 h of baseline CT and no later than 4 h after ICH onset
+Comparator: placebo, within 1 h of baseline CT and no later than 4 h after ICH onset
+Outcomes Percentage change in ICH volume on CT from baseline to 24 h; mRS 4 to 6, or GOSE 1 to 4 at 90 days; adverse events in hospital, and serious adverse events until day 90
+Notes One important exclusion criterion was changed mid-way through the RCT. This trial
+was funded by Novo Nordisk, which did not respond to repeated requests to provide
+further data from this trial
+Risk of bias
+Bias Authors’ judgement Support for judgement
+Random sequence generation (selection
+bias)
+Unclear risk Not described
+Allocation concealment (selection bias) Unclear risk Quote: “A randomization schedule was
+generated and as patients were recruited,
+they were allocated to the next available
+randomization number within the dose
+tier, which indicated whether the patient
+was to receive placebo or rFVIIa.”
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 31
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Mayer 2005b (Continued)
+Blinding of participants and personnel
+(performance bias)
+All outcomes
+Low risk 4/block, sequentially numbered, identicalappearing containers
+Blinding of outcome assessment (detection
+bias)
+All outcomes
+Unclear risk Radiological outcomes blinded. Clinical
+and lab outcomes - unclear
+Incomplete outcome data (attrition bias)
+All outcomes
+Low risk Appeared complete
+Selective reporting (reporting bias) Low risk Appeared complete
+Mayer 2006
+Methods Parallel group, randomised, double-blind, placebo-controlled, phase II: a dose escalation
+safety study
+Participants Inclusion criteria
+• Age 18 years or older
+• Spontaneous ICH within 3 h of onset
+Exclusion criteria
+• GCS 3 to 5
+• Surgical ICH evacuation planned within 24 h
+• Known underlying cause of ICH
+• On oral anticoagulants
+• Known thrombocytopaenia
+• Coagulopathy, disseminated intravascular coagulation, sepsis, or crush injury
+• Pregnant
+• mRS > 2 pre-ICH
+• Any history or acute evidence of thrombotic, hypercoagulable, or vaso-occlusive
+disease
+• Known or suspected allergy to trial product
+• Participation in another trial
+Interventions Intervention: recombinant activated factor VII (NovoSeven) at doses of 5 mcg/kg, 20
+mcg/kg, 40 mcg/kg, or 80 mcg/kg, within 4 h of ICH onset
+Comparator: placebo, within 4 h of ICH onset
+Outcomes Serious adverse events; coagulation parameters; perihaematomal oedema; ICH volume
+ratio on CT; change in ICH volume from baseline on CT; change in neurological scores
+Notes This trial was funded by Novo Nordisk
+Risk of bias
+Bias Authors’ judgement Support for judgement
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 32
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Mayer 2006 (Continued)
+Random sequence generation (selection
+bias)
+Unclear risk The method of randomization was not described
+Allocation concealment (selection bias) Unclear risk The method of allocation concealment was
+not described
+Blinding of participants and personnel
+(performance bias)
+All outcomes
+Low risk Double-blind
+Blinding of outcome assessment (detection
+bias)
+All outcomes
+Low risk Double-blind
+Incomplete outcome data (attrition bias)
+All outcomes
+Unclear risk 1 participant clinically deteriorated prior
+to dosing and underwent emergency
+haematoma evacuation, so dropped out after randomization. Otherwise, completeness of follow-up was not mentioned
+Selective reporting (reporting bias) Low risk All stated outcomes were reported
+Mayer 2008 (FAST)
+Methods Parallel group, randomised, placebo-controlled, phase III trial
+Participants Inclusion criteria
+• Spontaneous ICH (including bleeding in brainstem and cerebellum) diagnosed by
+a CT scan within 3 h of symptom onset
+• Men or women, aged 18 years or over (20 or over in Taiwan)
+• Informed consent
+Exclusion criteria
+• Time of ICH onset is unknown, or more than 3 h
+• People with secondary ICH
+• Surgical haematoma evacuation planned within 24 h of symptom onset
+• GCS 3 to 5
+• Known oral anticoagulant use (unless the INR is documented below 1.4)
+• Known thrombocytopenia (unless current platelets documented above 50,000/
+mL)
+• Pre-existing disability (mRS 3 to 5)
+• Any known history of haemophilia or other coagulopathy
+• Known acute myocardial ischaemia, unresolved unstable angina, acute
+septicaemia, acute crush injury, acute disseminated intravascular coagulation, or acute
+thrombotic stroke
+• Pregnancy
+• Known or suspected allergy to trial product or related products
+• Previous participation in this trial
+• Known participation in any investigational drug or device trial within 30 days of
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 33
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Mayer 2008 (FAST) (Continued)
+entry into this trial
+• People known or suspected of not being able to comply with this trial protocol (e.
+g. due to alcoholism, drug dependency, or psychological disorder)
+Interventions Intervention:
+Recombinant activated factor VII (NovoSeven) at doses of 20 mcg/kg or 80 mcg/kg,
+within 1 h of baseline CT and no later than 4 h after ICH onset
+Comparator:
+Placebo
+Outcomes Primary efficacy endpoint was poor outcome, defined as death or severe disability (scores
+of 5 to 6 on the mRS) at day 90. Analysis claimed to be intention-to-treat, but it did
+not appear to be
+Secondary efficacy endpoints: BI, GOS-E, NIHSS, the EuroQol scale, and the Revised
+Hamilton Rating Scale for Depression at day 90; absolute and percent change in ICH
+volume as measured by CT from prior to dosing to 24 h after the baseline scan; good
+outcome (mRS 0 to 1) at day 90; absolute and percent change in total lesion volumes
+(ICH + IVH + oedema) from baseline to 72 h; BI at day 90; case fatality
+Safety endpoints: the occurrence of adverse events until hospital discharge, or until day
+90, whichever came first, and serious adverse events until the ’End of trial’ form was
+completed
+Notes This trial was funded by Novo Nordisk, which did not respond to repeated requests to
+provide further data from this trial
+Risk of bias
+Bias Authors’ judgement Support for judgement
+Random sequence generation (selection
+bias)
+Unclear risk Quote: “Block randomization according to
+site...”
+Allocation concealment (selection bias) High risk It became apparent during questioning after the presentation of this trial’s data at
+the European Stroke Conference (Glasgow
+2007), that the imbalance in allocation between the 3 groups in this trial (there were
+approximately 30 more participants analysed in the 80 mcg/kg dose group than the
+other 2 groups) was due to the fact that
+the 80 mcg/kg dose of rFVIIa tended to
+be packed in the first of the 3 boxes of
+study drugfor part of the trial (which might
+have unblinded investigators, in view of the
+preponderance of thromboembolic adverse
+events with the higher dose)
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 34
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Mayer 2008 (FAST) (Continued)
+Blinding of participants and personnel
+(performance bias)
+All outcomes
+Unclear risk Classified as ’double-blind’, but not described
+Blinding of outcome assessment (detection
+bias)
+All outcomes
+Unclear risk Classified as ’double-blind’, but not described
+Incomplete outcome data (attrition bias)
+All outcomes
+Low risk Quote: “Outcome scores at day 15 were
+used according to the principle of the last
+observation carried forward for 9 patients
+receiving placebo, 9 patients receiving 20
+µg of rFVIIa per kilogram, and 13 patients
+receiving 80 µg of rFVIIa per kilogram (3.
+7% of patients overall), for whom scores
+at day 90 were missing. Modified Rankin
+scale scores were not available for one patient receiving placebo and one patient receiving 20 µg of rFVIIa per kilogram.”
+Selective reporting (reporting bias) High risk EuroQuol and Hamilton depression score
+not reported
+Sprigg 2014 (TICH-1)
+Methods Single-centre, prospective, randomised (2:1), double-blind, placebo-controlled blinded
+endpoint trial of tranexamic acid (intravenous 1 g bolus, 1 g infusion/8 h) in acute (<
+24 h) spontaneous ICH
+Participants Adults with acute (< 24 h after ictus) spontaneous ICH were identified and enrolled
+from the stroke service at Nottingham University Hospital NHS Trust. The principal
+exclusion criteria included secondary ICH (anticoagulation, known vascular malformations), previous venous thromboembolic disease, recent (< 12 months) ischaemic events
+(ischaemic stroke, MI, PAD), renal impairment (estimated glomerular filtration rate <
+50 mmol), and pregnancy or breast feeding
+Interventions Intervention: intravenous tranexamic acid (Cyklokapron; Phamacia Limited, Kent, UK)
+administered as a 1 g loading dose infusion for 10 minutes followed by a 1 g infusion
+for a period of 8 h
+Comparator: matching placebo (0.9% saline) administered by identical regime
+Outcomes The primary outcome was trial feasibility (surrogate for trial acceptability: number of
+participants screened who were eligible for enrolment and who gave informed consent)
+Secondary outcomes included tolerability (adverse events occurring during or after administration of tranexamic acid) and safety (clinical information on ischaemic events, i.
+e. ischaemic stroke, TIA, acute coronary syndrome, PAD, and VTE were also recorded)
+. The Data Safety Monitoring Committee reviewed unblinded safety data after 6, 12,
+and 18 participants had been recruited and followed for 7 days
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 35
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Sprigg 2014 (TICH-1) (Continued)
+Notes Dr N Sprigg provided information for assessment of risk of bias
+Risk of bias
+Bias Authors’ judgement Support for judgement
+Random sequence generation (selection
+bias)
+Low risk Details not given in paper, but confirmed
+by author as computer-generated
+Allocation concealment (selection bias) Low risk Details not given in paper, but confirmed
+by author as concealment until end of trial
+Blinding of participants and personnel
+(performance bias)
+All outcomes
+Low risk Details not given in paper, but confirmed
+by author as participants and trial staff all
+blinded to allocation for duration of trial
+Blinding of outcome assessment (detection
+bias)
+All outcomes
+Low risk Not presented in paper, but author confirmed all assessments (clinical and radiological) were blinded
+Incomplete outcome data (attrition bias)
+All outcomes
+Low risk Complete outcome data presented
+Selective reporting (reporting bias) Low risk No selective reporting
+Zazulia 2001 (ATICH)
+Methods Parallel group, RCT
+Participants Inclusion criteria:
+• spontaneous non-traumatic supratentorial ICH (on brain CT),
+• age 18 years or older,
+• treatment begun within 3 h of ICH onset
+Exclusion criteria:
+• clinical suspicion of ICH due to aneurysm, tumour, bleeding diathesis,
+• SAH Fisher grade > 3,
+• plans for immediate surgery,
+• on coumadin,
+• prothrombin time > 14,
+• pregnant,
+• platelet count < 100,000,
+• undergoing haemodialysis,
+• treated with thrombolytic therapy in the last 48 h,
+• known DVT, MI, or PE within the last 3 months,
+• acute MI on ECG,
+• GCS < 5
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 36
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Zazulia 2001 (ATICH) (Continued)
+Interventions Intervention: aminocaproic acid (Amicar) intravenous bolus of 10 g over 5 to 10 minutes,
+followed by a continuous intravenous infusion of 50 g diluted in 478 mL 0.9% NaCl
+and infused at 30 cc/h over 24 h
+Comparator: routine treatment
+Outcomes • Antifibrinolytic activity levels,
+• ICH enlargement on CT by > 33% from baseline to 24 h,
+• in-hospital death,
+• 90-day case fatality,
+• FIM and mRS,
+• aminocaproic acid plasma levels,
+• development of ischaemic stroke (defined as a new lucency in a vascular
+distribution not in the area of the initial haemorrhage on the 7-day CT, or a new focal
+neurological deficit reflecting a vascular territory separate from the initial haemorrhage
+and that cannot be explained by other cause),
+• symptomatic DVT confirmed by venous duplex ultrasonography,
+• symptomatic PE confirmed by ventilation-perfusion lung scan, pulmonary
+angiogram, or autopsy,
+• change in hydrocephalus score,
+• laboratory evidence of disseminated intravascular coagulation,
+• evidence of haemodynamic compromise during drug infusion (hypotension >
+15% of baseline mean arterial pressure ± bradycardia or arrhythmia)
+Notes Studied terminated prematurely after 3 participants enrolled
+Risk of bias
+Bias Authors’ judgement Support for judgement
+Random sequence generation (selection
+bias)
+Unclear risk 10/block
+Allocation concealment (selection bias) Unclear risk Unclear
+Blinding of participants and personnel
+(performance bias)
+All outcomes
+High risk Not blinded
+Blinding of outcome assessment (detection
+bias)
+All outcomes
+Low risk Radiological outcomes blinded. Clinical outcomes unclear
+Incomplete outcome data (attrition bias)
+All outcomes
+Low risk Complete data presented
+Selective reporting (reporting bias) Low risk No selective reporting
+APTT: activated partial thromboplastin time
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 37
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+AVM: arteriovenous malformation
+BI: Barthel Index
+CT: computed tomography
+DVT: deep vein thrombosis
+ECG: electrocardiogram
+FIM: Functional Independence Measure
+GCS: Glasgow Coma Score
+GOS-E: Extended Glasgow Outcome Scale
+ICH: intracerebral haemorrhage
+INR: international normalised ratio
+IVH: intraventricular haemorrhage
+MI: myocardial infarction
+mRS: modified Rankin Scale
+NaCl: sodium chloride
+NIHSS: National Institutes of Health Stroke Scale
+PE: pulmonary embolism
+RCT: randomised controlled trial
+SAE: serious adverse event
+SAH: subarachnoid haemorrhage
+SBP: systolic blood pressure
+TIA: transient ischaemic attack
+Characteristics of excluded studies [ordered by study ID]
+Study Reason for exclusion
+Ciccone 2007 This was a proposal for a study, but was not initiated due to ’lack of funding’, according to Dr Ciccone
+Kerebel 2013 This trial combined participants with either intracerebral haemorrhage or subdural haemorrhage, but did
+not report outcomes by intracranial haemorrhage subtype. We requested data restricted to the group with
+ICH, but did not receive these data before submission of this review; we hope to include them in the next
+update
+Li 2016 The intervention (TRABC) did not appear to be haemostatic, according to a Traditional Chinese Medicine
+expert (sarah-price.co.uk/): Xing Nao Jing has 4 TCM medicinals (She Xiang, Yu Jin, Zhi Zi and Bing Pian)
+, traditionally used to revive the unconscious patient
+Madjdinasab 2008 No quantifiable outcome results were reported.
+Meng 2003 It was unclear whether the participants in this study were included inZhou 2005. The outcome measures used
+were unsuitable for meta-analysis in this review. none of the pre-specified primary or secondary outcomes
+were collected
+NCT00222625 This study was ’stopped due to slow recruitment’, according to Dr Iorio, who has not yet responded to
+requests for clarification about whether any data were collected
+NCT02429453 This study was ’withdrawn before enrolment’, according to the Clinical Trial Registry
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 38
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+(Continued)
+Steiner 2016 (INCH) This trial combined participants with either intracerebral haemorrhage or subdural haemorrhage, but did
+not report outcomes by intracranial haemorrhage subtype. We requested data restricted to the group with
+ICH, but did not receive these data before submission of this review; we hope to include them in the next
+update
+Zhou 2005 It was unclear whether this study included the participants in Meng 2003. The outcome measures used were
+unsuitable for meta-analysis in this review, none of the pre-specified primary or secondary outcomes were
+collected
+ICH: intracerebral haemorrhage
+Characteristics of ongoing studies [ordered by study ID]
+Liu 2017 (TRAIGE)
+Trial name or title Tranexamic Acid for Acute ICH Growth prEdicted by Spot Sign (TRAIGE)
+Methods The purpose of this study is to determine if CTA can predict which individuals with ICH will experience
+significant growth in the size of the haemorrhage. For individuals who are at high risk for haemorrhage growth,
+the study will compare the drug tranexamic acid to placebo to determine the effect and safety on ICH
+Participants Inclusion criteria
+People presenting with an acute spontaneous hypertensive ICH
+• CTA evaluation can be accomplished within 6 h of symptom onset, with ’spot sign’ positive in CTA
+original image
+• Age range from 18 to 79 years
+• Randomisation can be finished and treatment can commence within 8 h of symptom onset
+• Informed consent has been received in accordance with local ethics committee requirements
+Exclusion Criteria:
+• ICH known or suspected to be secondary to tumour, vascular malformation, aneurysm, or trauma
+• Infratentorial ICH
+• GCS total score < 8
+• ICH volume > 70 mL
+• Parenchymal haemorrhage with ventricle involved, blood completely fills one lateral ventricle or more
+than half of both lateral ventricles
+• Contraindication of CTA imaging (e.g. known or suspected iodine allergy or significant renal failure)
+• Any history or current evidence suggestive of venous or arterial thrombotic events within the previous
+6 months, including clinical, ECG, laboratory, or imaging findings. Clinically silent chance findings of old
+ischaemia are not considered exclusion criteria.
+• Planned surgery for ICH
+• Pregnancy, within 30 days after delivery, or during lactation
+• Use of heparin, low-molecular weight heparin, or oral anticoagulation within the previous 1 week,
+with abnormal laboratory values
+• Known allergy to tranexamic acid
+• Prestroke modified mRS score of > 2
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 39
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Liu 2017 (TRAIGE) (Continued)
+Interventions Intervention: tranexamic acid
+Comparator: 0.9% normal saline placebo
+Outcomes Primary outcome measures
+• haemorrhage growth (time frame: 24 ± 2 h) either > 33%, or > 6 mL increase from baseline, adjusted
+for baseline ICH volume
+Secondary outcome measures
+• Major thromboembolic events (time frame: 30 ± 4 days; acute MI, acute cerebral ischaemia, acute PE)
+• Poor clinical outcome (time frame: 90 ± 7 days): the number of participants who died or have major
+disability (mRS 4 to 6)
+• Short-term outcome: the number of participants with mRS 0 to 2 at 30 ± 4 days
+• Other thromboembolic events (time frame: 90 ± 7 days): other thromboembolic events, such as venous
+thrombosis and other peripheral arterial embolism
+• Death due to any cause: number of patients that died due to any cause by 90 ± 7 days
+Starting date September 2015
+Contact information Liping Liu, Professor of Neurology and Stroke Center, Beijing Tiantan Hospital, Capital Medical University,
+Ministry of Science and Technology of the People’s Republic of China
+Notes NCT02625948
+Meretoja 2014 (STOP-AUST)
+Trial name or title STOP-AUST: The Spot Sign and Tranexamic Acid On Preventing ICH Growth - AUStralasia Trial (STOPAUST)
+Methods The aim of the study is to test if ICH patients who have contrast extravasation on CTA, the ’spot sign’, have
+lower rates of haematoma growth when treated with tranexamic acid within 4.5 h of stroke onset, compared
+with placebo
+Participants Inclusion criteria
+• People presenting with an acute ICH
+• Contrast extravasation within the haemorrhage, ’spot sign’, evaluated from the CTA according to 3
+criteria, all of which must be present: Serpiginous or spot-like appearance within the margin of a
+parenchymal haematoma without connection to an outside vessel; the density (in Hounsfield units) should
+be greater than that of the background haematoma (site investigators are not required to document the
+density); and no hyperdensity at the corresponding location on non-contrast CT
+• Age ≥ 18 years
+• Treatment can commence within 1 h of initial CT and within 4.5 h of symptom onset (or in people
+with unknown time of symptom onset, the time the person was last known to be well)
+• Informed consent has been received in accordance to local ethics committee requirements
+Exclusion criteria
+• GCS total score < 8
+• Brainstem ICH
+• ICH volume > 70 mL as measured by the ABC/2 method
+• ICH known or suspected by study investigator to be secondary to trauma, aneurysm, vascular
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 40
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Meretoja 2014 (STOP-AUST) (Continued)
+malformation, haemorrhagic transformation of ischaemic stroke, cerebral venous thrombosis, thrombolytic
+therapy, tumour, or infection
+• Contrast already administered within 24 h prior to initial CT or contraindication to imaging with CT
+contrast agents (e.g. known or suspected iodine allergy or significant renal failure)
+• Any history or current evidence suggestive of venous or arterial thrombotic events within the previous
+12 months, including clinical, ECG, laboratory, or imaging findings. Clinically silent chance findings of old
+ischaemia are not considered exclusion criteria.
+• Hereditary or acquired haemorrhagic diathesis or coagulation factor deficiency
+• Use of heparin, low-molecular weight heparin, GPIIb/IIIa antagonist, or oral anticoagulation (e.g.
+warfarin, factor Xa inhibitor, thrombin inhibitor) within the previous 14 days, irrespective of laboratory
+values
+• Pregnancy (women of childbearing potential must be tested)
+• Planned surgery for ICH within 24 h
+• Concurrent or planned treatment with haemostatic agents (e.g. PCC, vitamin K, fresh frozen plasma,
+or platelet transfusion)
+• Participation in any investigational study in the last 30 days
+• Known terminal illness, or planned withdrawal of care or comfort care measures
+• Any condition that in the judgment of the investigator could impose hazards to the patient if study
+therapy is initiated, or affect the participation of the patient in the study
+Interventions Intervention: intravenous tranexamic acid 1000 mg in 100 mL 0.9% normal saline over 10 minutes followed
+by 1000 mg in 500 mL 0.9% normal saline infusion over 8 h
+Comparator: intravenous placebo in 100 mL 0.9% normal saline over 10 minutes followed by 500 mL 0.9%
+normal saline infusion over 8 h
+Outcomes Primary outcome measures
+• ICH growth by 24 ± 3 h as defined by either 33% or 6 mL increase from baseline, adjusted for baseline
+ICH volume.
+Secondary outcome measures
+• Major thromboembolic events (MI, ischaemic stroke, PE), measured within 90 ± 7 days)
+• Absolute ICH growth volume by 24 ± 3 h, adjusted for baseline ICH volume
+• Absolute IVH growth volume by 24 ± 3 h, adjusted for baseline IVH volume
+• mRS score of 0 to 4 at 3 months
+• mRS score of 0 to 3 at 3 months
+• Categorical shift in mRS at 3 months, subject to the validity of proportional odds assumption
+• Death due to any cause by 3 months
+Starting date December 2012
+Contact information Atte Meretoja, The Florey Institute of Neuroscience and Mental Health
+Notes NCT01702636
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 41
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+NCT00699621
+Trial name or title Platelet transfusion in acute intracerebral haemorrhage
+Methods • To explore whether use of antiplatelet agents leads to a rapid enlargement of haematoma after onset of
+acute ICH
+• To explore the efficacy and safety of platelet transfusion for prevention of haematoma growth in people
+who experienced acute ICH while on antiplatelet medication
+Participants Inclusion criteria
+• Taking either aspirin, clopidogrel, or a combination of aspirin and dipyridamole
+• Acute primary ICH
+• > 17 years
+• Admitted within 6 h after onset of ICH
+• ICH score < 4
+Exclusion criteria
+• Type of ICH other than acute primary ICH
+• People who need neurosurgery
+• Life expectancy < 3 months due to comorbid disorders
+• Confirmed malignant disease (cancer)
+• Confirmed acute MI
+• Hepatitis, liver cirrhosis, or both
+• Renal failure
+• Infectious disease (HIV, endocarditis, etc)
+• Current or previous haematologic disease
+• Women of childbearing age, if pregnant
+• Participation in another study within the preceding 30 days
+Interventions Intervention: 4 units of fresh platelets will be infused immediately
+Comparator: no platelet transfusion (open control)
+Outcomes Primary outcome measures
+• Haematoma growth within 24 h measured as increase in haematoma volume observed by head CT
+(time frame: 24 h)
+Secondary outcome measures
+• GOS (time frame: 90 days)
+• Cardiovascular death occurring within the treatment period (time frame: 90 days)
+• Death due to any cause occurring within the treatment period (time frame: 90 days)
+• Acute MI (time frame: 90 days)
+• VTE (time frame: 90 days)
+Starting date January 2009
+Contact information Matti E Hillbom, Oulu University Central Hospital, Department of Neurology
+Notes NCT00699621
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 42
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+NCT00810888
+Trial name or title The Spot Sign for Predicting and Treating ICH Growth study (STOP-IT)
+Methods The purpose of this study is to determine if computed tomography angiography can predict which individuals
+with ICH will experience significant growth in the size of the haemorrhage. For individuals who are at high
+risk for haemorrhage growth, the study will compare the drug recombinant activated factor VII (rFVIIa) to
+placebo to determine the effect of rFVIIa on ICH growth
+Participants Inclusion criteria
+• Acute, spontaneous ICH (including bleeding in cerebellum) diagnosed by non-enhanced CT scan
+within 5 h of symptom onset. (Time of onset is defined as the last time the patient was witnessed to be at
+baseline, i.e. people who have stroke symptoms upon awakening will be considered to have their onset at
+beginning of sleep)
+• Age ≥ 18 years through 80 years (candidates must have had their 18th birthday, but not had their 81st
+birthday)
+• For spot positive patients, dosing of study drug within 90 minutes of enrolling CT scan
+Exclusion criteria
+• Time of symptom onset of ICH is unknown or more than 5 h prior to baseline CT scan
+• ICH secondary to known or suspected trauma, aneurysm, vascular malformation, haemorrhagic
+conversion of ischaemic stroke, venous sinus thrombosis, thrombolytic treatment of any condition (e.g. MI,
+cerebral infarction, etc), CNS tumour or CNS infection
+• Brainstem location of haemorrhage (people with cerebellar haemorrhage may be enrolled)
+• Serum creatinine > 1.4 mg/dL (123 µmol/L). Sites that currently perform CTA as standard of care for
+ICH will follow their standard procedures regarding renal insufficiency
+• Known allergy to iodinated contrast media
+• Intravenous or intra-arterial administration of iodinated contrast media within the previous 24 h of
+baseline CT scan
+• Known hereditary (e.g. haemophilia) or acquired haemorrhagic diathesis, coagulation factor deficiency,
+or anticoagulant therapy with INR > 1.2
+• Known or suspected thrombocytopenia (unless current platelet count documented above 50,000/µL)
+• Unfractionated heparin use with abnormal PTT
+• Low-molecular weight heparin use within the previous 24 h
+• GPIIb/IIIa antagonist use in the previous 2 weeks
+• GCS score < 8 at time of proposed enrolment
+• Pre-admission mRS score > 2
+• Baseline ICH volume of < 0.5 cc (haematoma volume will be estimated by local investigators from the
+baseline CT using the ABC/2 method)
+• Baseline ICH volume > 90 cc
+• Planned surgical evacuation of ICH within 24 h of symptom onset (placement of intraventricular
+catheter is not a contraindication to study enrolment)
+• Evidence of acute or subacute ischaemic stroke on baseline qualifying CT scan
+• Clinical history of thromboembolism or ischaemic vascular disease, including MI, coronary artery
+bypass surgery, cardiac angina, TIA, ischaemic stroke, peripheral artery disease (vascular claudication),
+cerebral bypass surgery, carotid endarterectomy, deep venous thrombosis, pulmonary embolism, or coronary
+or cerebrovascular angioplasty or stenting. (Clinically silent evidence of old ischaemia on EKG (Q waves) or
+CT scan (silent old infarct) will not be considered reasons for exclusion)
+• Baseline electrocardiogram shows evidence of acute cardiac ischaemia (ST elevation in 2 contiguous
+leads, new LBBB, or ST depression)
+• Clinical history suggestive of acute cardiac ischaemia (e.g. chest pain)
+• Abnormal baseline troponin
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 43
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+NCT00810888 (Continued)
+• Females of childbearing potential who are known to be pregnant, lactating, or who have positive
+pregnancy tests on admission
+• Advanced or terminal illness or any other condition the investigator feels would pose a significant
+hazard to the patient if rFVIIa were administered
+• Recent (within 30 days) participation in any investigational drug or device trial or earlier participation
+in any investigational drug or device trial for which the duration of effect is expected to persist until the
+time of STOP-IT enrolment
+• Planned withdrawal of care or comfort care measures
+• Person known or suspected of not being able to comply with trial protocol (e.g. due to alcoholism,
+drug dependency or psychological disorder)
+• Informed consent cannot be obtained from the patient or legally authorised representative
+Interventions Intervention: recombinant activated factor VII. Participants will receive rFVIIa at 80 mcg/kg (maximum dose
+volume 21.3 mL, equivalent to maximum weight of 160 kg)
+Comparator: placebo. An inactive substance (maximum dose volume 21.3 mL, equivalent to maximum
+weight of 160 kg)
+Outcomes Primary outcome measures: life-threatening thromboembolic complications defined as development of 1)
+acute myocardial ischaemia, 2) acute cerebral ischaemia, and 3) acute pulmonary embolism (time frame:
+through day 4 after completion of study drug). The rate of haematoma growth among spot sign positive
+participants at 24 h, comparing participants treated with rFVIIa to those treated with placebo. Haematoma
+growth will be defined as a > 33% or > 6 cc increase in volume (time frame: at 24 h).
+The sensitivity and specificity of the spot sign for predicting haematoma growth (time frame: baseline head
+CT scan within 5 h, followed by a CT angiogram. Haematoma growth determined by comparison with a
+head CT scan performed at 24 h)
+Secondary outcome measures: incidence of other potentially study drug-related thromboembolic complications, such as deep venous thrombosis and elevations in troponin not associated with ECG changes (time
+frame: through day 4 after completion of study drug)
+90-day outcomes among spot positive people, dichotomised as mRS score of 0 to 4 verses 5 to 6, comparing
+participants treated with rFVIIa to those treated with placebo (time frame: 90 days (± 7 days) from time of
+study enrolment). The positive and negative predictive values of the spot sign and the accuracy of the site
+investigators for correct identification of the spot sign as compared to a blinded study neuroradiologist (time
+frame: baseline head CT scan within 5 h, followed by a CT angiogram. Haematoma growth determined by
+comparison with a head CT scan performed at 24 h. Rate of total haemorrhage volume growth (haematoma
++ IVH) among spot-positive participants (time frame: 24 h (± 3 h) from baseline CT scan)
+Starting date November 2010
+Contact information Matthew Flaherty, Associate Professor, University of Cincinnati
+Notes NCT00810888
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 44
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+NCT01359202
+Trial name or title ’Spot Sign’ Selection of Intracerebral Hemorrhage to Guide Hemostatic Therapy (SPOTLIGHT)
+Methods This clinical trial will enrol 110 participants from approximately 15 Canadian stroke centres. People coming
+to the emergency department with bleeding in the brain not due to trauma or other known causes who can
+be treated within 6 h of onset will undergo CT angiography using standard CT scanners (’CAT scan’). Those
+with a ’spot sign’, a type of marker on the CT scan that shows the brain is still bleeding, will be randomly
+assigned to a single injection of ’factor 7’ (a blood clotting drug used in haemophilia) or placebo (inactive
+saline); people without a spot sign will not be treated. The researchers will look at how much bleeding happens
+after the treatments are administered, as well as clinical outcomes such as death and disability. The researchers
+think that factor 7 will cause the bleeding to stop faster and possibly decrease death and disability
+Participants Inclusion criteria
+• Acute spontaneous primary supratentorial ICH diagnosed by CT scan
+• Presence of a spot sign within the haematoma on CTA source images
+• Baseline ICH volume 3 mL to 90 mL
+• Age 18 or older
+• Investigator is able to randomise and administer study drug as soon as possible within a target of 60
+minutes after CT angiogram and no later than 6 h after stroke symptom onset (using the ’last seen normal’
+principle)
+• Plan to provide full medical care for at least 24 h
+• Assent-consent from participant or LAR prior to enrolment, or a waiver of consent (where REB
+approved) if patient or LAR assent-consent is not possible prior to enrolment
+Exclusion criteria
+• Brainstem or cerebellar haemorrhage
+• ICH secondary to known or suspected trauma, aneurysm, vascular malformation, hemorrhagic
+conversion of ischaemic stroke, venous sinus thrombosis, thrombolytic treatment, tumour, or infection; or
+an in-hospital ICH or ICH as a result of any in-hospital procedure or illness
+• Baseline brain imaging shows evidence of acute or subacute ischaemic stroke (chronic infarcts are not
+an exclusion)
+• Contrast administration within the previous 24 h
+• Evidence of thromboembolic risk factors, defined as any of the following: known history within the
+past 6 months of any of the following: 1) MI, 2) coronary artery bypass surgery, 3) angina, 4) ischaemic
+stroke, 5) TIA, 6) carotid endarterectomy, 7) cerebral bypass surgery, 8) deep venous thrombosis, 9)
+pulmonary embolism, 10) any vascular angioplasty, stenting (coronary, peripheral vascular, or
+cerebrovascular) or filter (e.g. vena cava filter); 11) prosthetic cardiac valve, and, or 12) known history of a
+high-risk thrombophilia (e.g. antithrombin III deficiency, antiphospholipid antibody syndrome, protein C
+deficiency, etc)
+• Known hereditary (e.g. haemophilia) or acquired haemorrhagic diathesis or coagulation factor
+deficiency
+• Any known condition that the investigator feels would pose a significant hazard if rFVIIa were
+administered
+• Planned surgery for ICH within 24 h (placement of intraventricular catheter is not an exclusion)
+• Planned withdrawal of care before 24 h post-ICH onset
+• Known participation in another therapeutic trial
+• Known allergy or other contraindication to iodinated contrast dye
+• Known or suspected hypersensitivity to the trial product
+• Known unfractionated heparin use - must check PTT and exclude if elevated above upper limit of
+local lab’s reference range
+• Known low-molecular weight heparin, heparinoid, factor X inhibitor, or direct thrombin inhibitor use
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 45
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+NCT01359202 (Continued)
+within previous 7 days
+• Known GPIIb/IIIa antagonist use in previous 2 weeks
+• Known warfarin (or other anticoagulant) therapy with INR > 1.40. Note: if the patient is suspected to
+have cirrhosis, study staff are to wait for the INR value prior to dosing, and ensure they do not enrol the
+patient if the INR value is > 1.40. Otherwise, the physician should use their discretion if they believe the
+patient is not at risk for elevated INR
+• Concurrent or planned treatment with prothrombin complex concentrate, vitamin K, fresh frozen
+plasma, or platelet transfusion
+• Pregnancy or lactation. Women of childbearing potential must have a negative pregnancy test prior to
+randomization.
+• Current clinical symptoms suggestive of acute coronary ischaemia (e.g. chest pain).
+• Baseline ECG evidence of acute coronary ischaemia (e.g. ST elevation in 2 contiguous leads, new
+LBBB, ST depression)
+• Baseline platelet count < 50,000, INR > 1.40, or elevated PTT
+Interventions Intrevention: rfVIIa 80 ug/kg IV bolus
+Comparator: placebo standard saline solution
+Outcomes Primary outcome measures
+• ICH size: difference between groups in ICH size on CT scan at 24 h post-dose, adjusted for baseline
+ICH size
+Secondary outcome measures:
+• Feasibility (time frame: 0): percentage of sites that can meet recruitment targets of 2 patients per site
+per year; % of patients who meet the target time of < 45 minutes from emergency department arrival to the
+start of the scan; % of patients who meet the target time of < 60 minutes from the end of the CT angiogram
+to administration of study drug; local site spot sign interpretation accuracy as judged by central adjudicator;
+protocol violations; waiver of consent process, evaluation, and effectiveness (time frame: 4.90 days); waiver
+of consent use, acceptability, and effect on treatment times. Questionnaire will be administered to subject or
+LAR at 4 days and 90 days
+• Acute blood pressure control (time frame: 1 h): % of participants in whom blood pressure control was
+achieved, defined as achieving systolic BP < 180 mmHg within 1 h post-randomisation
+• Thromboembolic events : incidence of MI and ischaemic stroke within 4 days; any other arterial or
+venous thromboembolic SAEs within 4 days
+• Mortality : 90-day mortality rate
+• Unstable angina: unstable angina within 4 days of treatment
+• Troponin increase : troponin rise above upper limit of normal within 4 days (without clinical
+symptoms or ECG evidence of acute coronary syndrome)
+• DVT : deep venous thrombosis (DVT) within 4 days
+• Pulmonary embolism : PE within 30 days
+• Cognition : Montreal Cognitive Assessment (MoCA) and Stroke Impact Scale at 90 days and 1 year
+• Disability : proportion of participants with mRS score 5 to 6 (death or severe disability) at 90 days and
+1 year
+Starting date May 2011
+Contact information Dr David Gladstone, Sunnybrook Health Sciences Centre
+Notes NCT01359202
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 46
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+NCT02777424
+Trial name or title Prothrombin complex concentrate versus fresh frozen plasma to correct coagulation disorders in adult neurosurgical patients (CLOT-CRANE)
+Methods This prospective, randomized, multicentre study is performed to determine whether prothrombin complex
+concentrates confers any benefits over fresh frozen plasma in adult neurological patients with coagulation
+disorders (PT value less than 60%)
+Participants Inclusion criteria
+• People with spontaneous ICH, traumatic ICH, or people requiring neurological surgery
+• Coagulation disorder defined by PT < 60%
+Exclusion criteria
+• Concomitant use of oral anticoagulant drugs
+• Acquired deficiency of coagulation factors whose treatment is established
+• Hypersensitivity to a PCC
+• History of thrombocytopenia induced by heparin
+• Disseminated intravascular coagulation
+• Extracranial active bleeding
+• Hypersensitivity to vitamin K
+Interventions Intervention: PCC. Administration of a single dose of PCC (25 U/kg equivalent factor IX)
+Comparator: fresh frozen plasma. Administration of a single dose of fresh frozen plasma of 15 mL/kg
+Outcomes Primary outcome measures
+• Proportion of participants with correction of prothrombin time (PT < 60% at end of treatment
+administration - an average of 1 h)
+Starting date January 2016
+Contact information Laurence Salomon, Fondation Ophtalmologique Adolphe de Rothschild
+Notes NCT02777424
+NCT02866838
+Trial name or title Treatment of intracerebral hemorrhage in patients on non-vitamin K antagonist (TICH-NOAC)
+Methods NOACs target selected players in the coagulation cascade as the direct thrombin inhibitor dabigatran and
+the factor Xa-inhibitors apixaban and rivaroxaban. ICH is the most feared complication of NOAC treatment
+(NOAC-ICH)
+Outcome of NOAC-ICH can be devastating and is a major cause of death and disability. There is no
+proven treatment for NOAC-ICH. Haematoma expansion (HE) is associated with unfavourable outcome.
+Tranexamic acid (TA) is an anti-fibrinolytic drug that is used in a number of bleeding conditions other than
+ICH
+Participants Inclusion criteria
+• Acute ICH (symptom onset < 12 h)
+• Prior treatment with a novel direct oral anticoagulant (apixaban, dabigatran, edoxaban, or rivaroxaban;
+last intake < 48 h or proven NOAC activity by relevant coagulation assays)
+• Age > 18 years, no upper age limit
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 47
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+NCT02866838 (Continued)
+• Informed consent has been received in accordance to local ethics committee requirements
+Exclusion criteria
+• Severe pre-morbid disability (mRS > 4)
+• Anticoagulation with vitamin K antagonists (VKA; recent intake)
+• Secondary ICH (e.g. AVM, tumour, trauma). Note: it is not necessary for investigators to exclude
+underlying structural abnormality prior to enrolment, but where an underlying structural abnormality is
+already known, these people should not be recruited.
+• GCS < 5
+• Pregnancy
+• Planned neurosurgical haematoma evacuation within 24 h (before follow-up imaging)
+• PE or DVT within the last 2 weeks
+Interventions Intervention: intravenous tranexamic acid: 1 g loading dose given as 100 mL infusion over 10 minutes,
+followed by another 1 g in 250 mL infused over 8 h
+Comparator: placebo: saline 0.9% given in identical dosage as experimental drug
+Outcomes Primary outcome measures
+• Haematoma expansion (time frame: up to 27 h ): change in ICH-volume between baseline CT and
+follow-up CT at 24 ± 3 h of 33% relative or 6 mL absolute increase
+Secondary outcome measures:
+• mRS 0 to 4 at month 3
+• mRS 0 to 3 at month 3
+• Categorical shift in mRS at month 3
+• Mortality due to any cause at month 3
+• In-hospital mortality (time frame: baseline until discharge from hospital - hospital stays last, on
+average, 10 days)
+• Absolute ICH growth volume by 24 ± 3 h, adjusted for baseline ICH volume
+• Symptomatic HE defined as HE plus a neurological deterioration of NIHSS > 4 points or GCS > 2
+points
+• Number of major thromboembolic events (MI, ischaemic stroke, PE - safety endpoints; 3 months)
+• Number of neurosurgical interventions (including craniectomy, external ventricular drain, haematoma
+evacuation; 3 months)
+Starting date December 2016
+Contact information Philippe Lyrer, Stroke Center and Neurology, University Hospital Basel
+Notes NCT02866838
+NCT03044184
+Trial name or title Tranexamic acid for spontaneous acute cerebral hemorrhage trial (TRANSACT)
+Methods This study aims to explore the effectiveness of tranexamic acid (also known as transamine or TXA) in reducing
+haematoma expansion in people with haemorrhagic stroke when given in the acute phase
+Participants Inclusion criteria
+• People with CT evidence of supratentorial ICH
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 48
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+NCT03044184 (Continued)
+• Initiation of trial medication within 3 h from the time of symptoms onset
+• Ethnic Chinese
+• Reasonable expectation of completion of outcome measures at follow-up
+• Written informed consent from either the patient, next-of-kin, or legal guardian
+Exclusion criteria
+• Patients not expected to survive 24 h after admission
+• Patients with brainstem herniation syndrome on admission
+• Patients who need immediate neurosurgical intervention
+• GCS of 5 or less on admission i.e. a GCS score of 2 according to the Hemphil ICH score
+• Previous antiplatelet and anticoagulant medication use
+• Known thrombocytopenia or coagulopathy
+• Disseminated intravascular coagulation on admission
+• Acute sepsis on admission
+• ICH secondary to intracranial vascular lesion: aneurysm, AVM, neoplasm, or dural venous sinus
+thrombosis
+• Previous venous thromboembolic disease: DVT
+• History of ischaemic stroke or TIA within 12 months
+• History of ischaemic heart disease or MI
+• History of peripheral vascular disease
+• Patients with previous disability (prestroke mRS score > 2)
+• Pregnancy or breast feeding
+• History of allergy to tranexamic acid
+Interventions Intervention: standard management for people with spontaneous ICH according to 2015 AHA/ASA Guidelines for the Management of Intracerebral Hemorrhage. Participants will have 1 g of tranexamic acid (diluted
+in 100 mL of normal saline 0.9%) intravenously infused over 10 minutes, within 3 h of symptom presentation, and another 1 g of tranexamic acid (diluted in 100 mL of normal saline 0.9%) infused over 8 h
+Comparator: standard management for participants with spontaneous ICH according to 2015 AHA/ASA
+Guidelines for the Management of Intracerebral Hemorrhage. Participants will have 100 mL of normal saline
+0.9% intravenously infused over 10 minutes within 3 h of symptom presentation, and another 100 mL of
+normal saline 0.9% infused over 8 h
+Outcomes Primary outcome measures
+• ICH volume (by CT brain scan) at 6 h: intracerebral haematoma volume (mL) as assessed by CT brain
+scan
+• ICH volume (by CT brain scan) at 24 h: intracerebral haematoma volume (mL) as assessed by CT
+brain scan
+• ICH volume (by CT brain scan) at 1 week: intracerebral haematoma volume (mL) as assessed by CT
+brain scan
+Secondary outcome measures
+• GOS ( at 3 months and 6 months after stroke)
+• mRS (at 3 months and 6 months after stroke)
+• Stroke-specific quality of life scale ( at 3 months and 6 months after stroke)
+• 30-day mortality : all-cause mortality within 30 days of admission
+• Vascular occlusive events (at 30 days after admission): ischaemic stroke, MI, PE, DVT
+• Rate of seizures: rate of seizures within 30 days of stroke
+• Tranexamic acid-associated adverse effects (at 30 days after admission): intolerable gastrointestinal
+symptoms, such as dyspepsia, diarrhoea, vomiting. Allergic reaction to tranexamic acid
+• Need for neurosurgical intervention (at 30 days after admission): need for operative management of
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 49
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+NCT03044184 (Continued)
+the haemorrhagic stroke
+Starting date 1 April 2017
+Contact information Peter YM Woo, Neurosurgery, Kwong Wah Hospital
+Notes NCT03044184
+NOR-ICH
+Trial name or title The Norwegian Intracerebral Haemorrhage trial (NOR-ICH)
+Methods Multicentre prospective randomized, open-label, blinded endpoint (PROBE) trial. There are 2 arms in the
+study: arm A treats participants presenting within 2.5 h from onset, and arm B treats participants presenting
+between 2.5 and 4.5 h
+Participants The trial aims to recruit 500 participants, aged 18 years to 80 years, over 4 years
+Interventions Intervention: intravenous tranexamic acid 1 g bolus followed by 1 g at 2 h, 4 h, and 8 h from the first dose,
+lasting for 28 h in total
+Comparator: open control
+Outcomes Primary outcome: haematoma expansion at 24 h
+Secondary outcomes: increase in NIHSS score within 36 h, NIHSS at day 7, mRS at day 90, and symptomatic
+thromboembolic events within 7 days
+Starting date 2012
+Contact information
+Notes This information is based on a record we found at helseforskning.etikkom.no/prosjekterirek/prosjektregister/
+prosjekt?p document id=324797
+Sprigg 2016 (TICH-2)
+Trial name or title Tranexamic acid for IntraCerebral Haemorrhage (TICH-2)
+Methods A pragmatic phase III prospective double-blind randomised placebo-controlled trial
+Participants Inclusion criteria
+• Adults with acute spontaneous ICH
+• Within 8 h of stroke symptom onset or time last seen well
+Exclusion criteria
+• People with ICH secondary to anticoagulation, thrombolysis or known underlying structural
+abnormality such as AVM, aneurysm, tumour, or venous thrombosis. An underlying structural abnormality
+does not need to be excluded before enrolment, but where known, patients should not be recruited
+• Contraindication to tranexamic acid
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 50
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Sprigg 2016 (TICH-2) (Continued)
+• Premorbid dependency (mRS > 4)
+• Concurrent participation in another drug or device trial. Participants enrolled in TICH-2 may be
+enrolled into the RESTART trial after 21 days
+• Prestroke life expectancy
+Target sample size 2000
+Interventions Intervention: intravenous tranexamic acid: 1 g loading dose given as 100 mL infusion over 10 minutes,
+followed by another 1 g in 250 mL infused over 8 h
+Comparator: matching placebo (normal saline 0.9%) administered by identical regimen
+Outcomes Primary outcome measure: to assess whether tranexamic acid is safe and reduces death or dependency after
+primary ICH. Death or dependency (ordinal shift on mRS) at day 90 will be analysed by intention-totreat using ordinal logistic regression (OLR), with adjustment for minimisation factors. The assumption of
+proportional odds will be tested using the likelihood ratio test. Comparison of tranexamic acid versus control
+Secondary outcome measures
+• At day 7 (or discharge if sooner), neurological impairment (NIHSS)
+• At day 90, disability (BI), Quality of Life (EuroQoL), cognition, cognition and mood (TICS and ZDS)
+• Safety: death, serious adverse events, thromboembolic events, seizures
+• Costs: length of hospital stay, re-admission, institutionalisation
+• Radiological efficacy and safety (CT scan): change in haematoma volume from baseline to 24 h,
+haematoma location, and new infarction
+Starting date 1 March 2013
+Contact information Prof Nikola Sprigg, University of Nottingham
+Notes ISRCTN93732214
+AVM: arteriovenous malformation
+BI: Barthel Index
+CT: computed tomography
+CTA: computed tomography angiography
+DVT: deep vein thrombosis
+ECG: electrocardiogram
+GCS: Glasgow Coma Score
+GOS: Glasgow Outcome Scale
+h: hour(s)
+ICH: intracerebral haemorrhage
+INR: international normalised ratio
+IVH: intraventricular haemorrhage
+MI: myocardial infarction
+mRS: modified Rankin Scale
+NIHSS: National Institutes of Health Stroke Scale
+NOAC: non-vitamin K antagonist oral anticoagulants
+PCC: prothrombin complex concentrate
+PE: pulmonary embolism
+RCT: randomised controlled trial
+SAE: serious adverse event
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 51
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+SAH: subarachnoid haemorrhage
+SBP: systolic blood pressure
+TIA: transient ischaemic attack
+VTE: venous thromboembolism
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 52
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+D A T A A N D A N A L Y S E S
+Comparison 1. Blood clotting factors vs placebo or open control
+Outcome or subgroup title
+No. of
+studies
+No. of
+participants Statistical method Effect size
+1 Death or dependence (mRS 4 to
+6) at day 90
+6 1390 Risk Ratio (IV, Random, 95% CI) 0.87 [0.70, 1.07]
+1.1 Acute spontaneous ICH 5 1369 Risk Ratio (IV, Random, 95% CI) 0.86 [0.66, 1.11]
+1.2 Acute spontaneous ICH
+undergoing craniotomy
+1 21 Risk Ratio (IV, Random, 95% CI) 0.88 [0.59, 1.31]
+2 Death or dependence (GOS-E 1
+to 4) at day 90
+3 486 Risk Ratio (IV, Random, 95% CI) 0.90 [0.81, 1.01]
+2.1 Acute spontaneous ICH 3 486 Risk Ratio (IV, Random, 95% CI) 0.90 [0.81, 1.01]
+3 Death by day 90 7 1480 Risk Ratio (IV, Random, 95% CI) 0.75 [0.51, 1.09]
+3.1 Acute spontaneous ICH 6 1459 Risk Ratio (IV, Random, 95% CI) 0.71 [0.44, 1.14]
+3.2 Acute spontaneous ICH
+undergoing craniotomy
+1 21 Risk Ratio (IV, Random, 95% CI) 0.86 [0.41, 1.80]
+4 All serious adverse events 2 87 Risk Ratio (IV, Random, 95% CI) 0.81 [0.30, 2.22]
+4.1 Acute spontaneous ICH 2 87 Risk Ratio (IV, Random, 95% CI) 0.81 [0.30, 2.22]
+5 Thromboembolic serious adverse
+events
+5 1398 Risk Ratio (IV, Random, 95% CI) 1.24 [0.80, 1.91]
+5.1 Acute spontaneous ICH 5 1398 Risk Ratio (IV, Random, 95% CI) 1.24 [0.80, 1.91]
+6 Intracerebral haemorrhage
+growth by 24 hours
+3 151 Risk Ratio (IV, Random, 95% CI) 0.74 [0.36, 1.48]
+6.1 Acute spontaneous ICH 3 151 Risk Ratio (IV, Random, 95% CI) 0.74 [0.36, 1.48]
+Comparison 2. Antifibrinolytic drugs vs placebo or open control
+Outcome or subgroup title
+No. of
+studies
+No. of
+participants Statistical method Effect size
+1 Death or dependence (mRS 4 to
+6) at day 90
+1 24 Risk Ratio (IV, Random, 95% CI) 1.25 [0.57, 2.75]
+1.1 Acute spontaneous ICH 1 24 Risk Ratio (IV, Random, 95% CI) 1.25 [0.57, 2.75]
+2 Death by day 90 3 57 Risk Ratio (IV, Random, 95% CI) 1.16 [0.31, 4.39]
+2.1 Acute spontaneous ICH 3 57 Risk Ratio (IV, Random, 95% CI) 1.16 [0.31, 4.39]
+3 All serious adverse events 1 24 Risk Ratio (IV, Random, 95% CI) 1.5 [0.39, 5.83]
+3.1 Acute spontaneous ICH 1 24 Risk Ratio (IV, Random, 95% CI) 1.5 [0.39, 5.83]
+4 Thromboembolic serious adverse
+events
+1 24 Risk Ratio (IV, Random, 95% CI) 1.59 [0.07, 35.15]
+4.1 Acute spontaneous ICH 1 24 Risk Ratio (IV, Random, 95% CI) 1.59 [0.07, 35.15]
+5 Barthel Index 1 24 Mean Difference (IV, Random, 95% CI) -22.50 [-45.65, 0.
+65]
+5.1 Acute spontaneous ICH 1 24 Mean Difference (IV, Random, 95% CI) -22.50 [-45.65, 0.
+65]
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 53
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+6 EuroQoL health utility score 1 24 Mean Difference (IV, Random, 95% CI) -0.04 [-0.35, 0.27]
+6.1 Acute spontaneous ICH 1 24 Mean Difference (IV, Random, 95% CI) -0.04 [-0.35, 0.27]
+7 Intracerebral haemorrhage
+growth by 24 hours
+3 57 Risk Ratio (IV, Random, 95% CI) 0.76 [0.56, 1.05]
+7.1 Acute spontaneous ICH 3 57 Risk Ratio (IV, Random, 95% CI) 0.76 [0.56, 1.05]
+Comparison 3. Platelet transfusion vs open control
+Outcome or subgroup title
+No. of
+studies
+No. of
+participants Statistical method Effect size
+1 Death or dependence (mRS 4 to
+6) at day 90
+1 190 Risk Ratio (IV, Random, 95% CI) 1.29 [1.04, 1.61]
+1.1 Acute antiplateletassociated ICH
+1 190 Risk Ratio (IV, Random, 95% CI) 1.29 [1.04, 1.61]
+2 Death by day 90 1 190 Risk Ratio (IV, Random, 95% CI) 1.42 [0.88, 2.28]
+2.1 Acute antiplateletassociated ICH
+1 190 Risk Ratio (IV, Random, 95% CI) 1.42 [0.88, 2.28]
+3 All serious adverse events 1 190 Risk Ratio (IV, Random, 95% CI) 1.46 [0.98, 2.16]
+3.1 Acute antiplateletassociated ICH
+1 190 Risk Ratio (IV, Random, 95% CI) 1.46 [0.98, 2.16]
+4 Thromboembolic serious adverse
+events
+1 190 Risk Ratio (IV, Random, 95% CI) 3.84 [0.44, 33.68]
+4.1 Acute antiplateletassociated ICH
+1 190 Risk Ratio (IV, Random, 95% CI) 3.84 [0.44, 33.68]
+5 Intracerebral haemorrhage
+growth by 24 hours
+1 190 Risk Ratio (IV, Random, 95% CI) 1.11 [0.56, 2.20]
+5.1 Acute antiplateletassociated ICH
+1 190 Risk Ratio (IV, Random, 95% CI) 1.11 [0.56, 2.20]
+Comparison 4. Blood clotting factors vs fresh frozen plasma
+Outcome or subgroup title
+No. of
+studies
+No. of
+participants Statistical method Effect size
+1 Death by day 90 1 5 Risk Ratio (IV, Random, 95% CI) 0.27 [0.02, 3.74]
+1.1 Acute anticoagulantassociated ICH
+1 5 Risk Ratio (IV, Random, 95% CI) 0.27 [0.02, 3.74]
+2 All serious adverse events 1 5 Risk Ratio (IV, Random, 95% CI) 0.27 [0.02, 3.74]
+2.1 Acute anticoagulantassociated ICH
+1 5 Risk Ratio (IV, Random, 95% CI) 0.27 [0.02, 3.74]
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 54
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 1.1. Comparison 1 Blood clotting factors vs placebo or open control, Outcome 1 Death or
+dependence (mRS 4 to 6) at day 90.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 1 Blood clotting factors vs placebo or open control
+Outcome: 1 Death or dependence (mRS 4 to 6) at day 90
+Study or subgroup
+Blood
+clotting
+factor(s)
+Placebo/open
+control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute spontaneous ICH
+Mayer 2005b 160/303 66/96 32.3 % 0.77 [ 0.65, 0.91 ]
+Mayer 2005a 16/36 5/11 6.7 % 0.98 [ 0.46, 2.06 ]
+Mayer 2006 15/32 4/8 6.1 % 0.94 [ 0.43, 2.06 ]
+Mayer 2008 (FAST) 269/557 120/262 33.4 % 1.05 [ 0.90, 1.23 ]
+Li 2012 5/32 13/32 4.8 % 0.38 [ 0.16, 0.95 ]
+Subtotal (95% CI) 960 409 83.3 % 0.86 [ 0.66, 1.11 ]
+Total events: 465 (Blood clotting factor(s)), 208 (Placebo/open control)
+Heterogeneity: Tau2 = 0.04; Chi2 = 10.59, df = 4 (P = 0.03); I2 =62%
+Test for overall effect: Z = 1.14 (P = 0.25)
+2 Acute spontaneous ICH undergoing craniotomy
+Imber t 2012 (PRE-SICH) 10/13 7/8 16.7 % 0.88 [ 0.59, 1.31 ]
+Subtotal (95% CI) 13 8 16.7 % 0.88 [ 0.59, 1.31 ]
+Total events: 10 (Blood clotting factor(s)), 7 (Placebo/open control)
+Heterogeneity: not applicable
+Test for overall effect: Z = 0.64 (P = 0.52)
+Total (95% CI) 973 417 100.0 % 0.87 [ 0.70, 1.07 ]
+Total events: 475 (Blood clotting factor(s)), 215 (Placebo/open control)
+Heterogeneity: Tau2 = 0.03; Chi2 = 10.61, df = 5 (P = 0.06); I2 =53%
+Test for overall effect: Z = 1.30 (P = 0.19)
+Test for subgroup differences: Chi2 = 0.01, df = 1 (P = 0.93), I2 =0.0%
+0.2 0.5 1 2 5
+Favours clotting factors Favours placebo/control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 55
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 1.2. Comparison 1 Blood clotting factors vs placebo or open control, Outcome 2 Death or
+dependence (GOS-E 1 to 4) at day 90.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 1 Blood clotting factors vs placebo or open control
+Outcome: 2 Death or dependence (GOS-E 1 to 4) at day 90
+Study or subgroup
+Blood
+clotting
+factor(s)
+Placebo/open
+control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute spontaneous ICH
+Mayer 2005a 24/36 7/11 4.9 % 1.05 [ 0.63, 1.73 ]
+Mayer 2005b 221/303 78/96 89.7 % 0.90 [ 0.80, 1.01 ]
+Mayer 2006 20/32 6/8 5.4 % 0.83 [ 0.51, 1.35 ]
+Total (95% CI) 371 115 100.0 % 0.90 [ 0.81, 1.01 ]
+Total events: 265 (Blood clotting factor(s)), 91 (Placebo/open control)
+Heterogeneity: Tau2 = 0.0; Chi2 = 0.45, df = 2 (P = 0.80); I2 =0.0%
+Test for overall effect: Z = 1.83 (P = 0.067)
+Test for subgroup differences: Not applicable
+0.5 0.7 1 1.5 2
+Favours clotting factors Favours placebo/control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 56
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 1.3. Comparison 1 Blood clotting factors vs placebo or open control, Outcome 3 Death by day 90.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 1 Blood clotting factors vs placebo or open control
+Outcome: 3 Death by day 90
+Study or subgroup
+Blood
+clotting
+factor(s)
+Placebo/open
+control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute spontaneous ICH
+Mayer 2005a 3/36 2/11 4.7 % 0.46 [ 0.09, 2.40 ]
+Mayer 2005b 56/303 28/96 30.7 % 0.63 [ 0.43, 0.94 ]
+Mayer 2006 7/32 1/8 3.5 % 1.75 [ 0.25, 12.26 ]
+F7ICH-1602 2007 0/45 0/45 Not estimable
+Mayer 2008 (FAST) 112/557 51/262 35.6 % 1.03 [ 0.77, 1.39 ]
+Li 2012 3/32 12/32 8.6 % 0.25 [ 0.08, 0.80 ]
+Subtotal (95% CI) 1005 454 83.2 % 0.71 [ 0.44, 1.14 ]
+Total events: 181 (Blood clotting factor(s)), 94 (Placebo/open control)
+Heterogeneity: Tau2 = 0.13; Chi2 = 9.03, df = 4 (P = 0.06); I2 =56%
+Test for overall effect: Z = 1.42 (P = 0.16)
+2 Acute spontaneous ICH undergoing craniotomy
+Imber t 2012 (PRE-SICH) 7/13 5/8 16.8 % 0.86 [ 0.41, 1.80 ]
+Subtotal (95% CI) 13 8 16.8 % 0.86 [ 0.41, 1.80 ]
+Total events: 7 (Blood clotting factor(s)), 5 (Placebo/open control)
+Heterogeneity: not applicable
+Test for overall effect: Z = 0.40 (P = 0.69)
+Total (95% CI) 1018 462 100.0 % 0.75 [ 0.51, 1.09 ]
+Total events: 188 (Blood clotting factor(s)), 99 (Placebo/open control)
+Heterogeneity: Tau2 = 0.08; Chi2 = 9.05, df = 5 (P = 0.11); I2 =45%
+Test for overall effect: Z = 1.50 (P = 0.13)
+Test for subgroup differences: Chi2 = 0.19, df = 1 (P = 0.66), I2 =0.0%
+0.1 0.2 0.5 1 2 5 10
+Favours clotting factors Favours placebo/control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 57
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 1.4. Comparison 1 Blood clotting factors vs placebo or open control, Outcome 4 All serious
+adverse events.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 1 Blood clotting factors vs placebo or open control
+Outcome: 4 All serious adverse events
+Study or subgroup
+Blood
+clotting
+factor(s)
+Placebo/open
+control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute spontaneous ICH
+Mayer 2005a 9/36 3/11 80.5 % 0.92 [ 0.30, 2.81 ]
+Mayer 2006 2/32 1/8 19.5 % 0.50 [ 0.05, 4.85 ]
+Total (95% CI) 68 19 100.0 % 0.81 [ 0.30, 2.22 ]
+Total events: 11 (Blood clotting factor(s)), 4 (Placebo/open control)
+Heterogeneity: Tau2 = 0.0; Chi2 = 0.22, df = 1 (P = 0.64); I2 =0.0%
+Test for overall effect: Z = 0.40 (P = 0.69)
+Test for subgroup differences: Not applicable
+0.1 0.2 0.5 1 2 5 10
+Favours clotting factors Favours placebo/control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 58
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 1.5. Comparison 1 Blood clotting factors vs placebo or open control, Outcome 5 Thromboembolic
+serious adverse events.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 1 Blood clotting factors vs placebo or open control
+Outcome: 5 Thromboembolic serious adverse events
+Study or subgroup
+Blood
+clotting
+factor(s)
+Placebo/open
+control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute spontaneous ICH
+Mayer 2005b 21/303 2/96 9.1 % 3.33 [ 0.79, 13.93 ]
+Mayer 2005a 1/37 1/11 2.6 % 0.30 [ 0.02, 4.37 ]
+Mayer 2006 3/32 1/8 4.1 % 0.75 [ 0.09, 6.29 ]
+F7ICH-1602 2007 1/45 2/45 3.3 % 0.50 [ 0.05, 5.32 ]
+Mayer 2008 (FAST) 55/558 21/263 80.8 % 1.23 [ 0.76, 2.00 ]
+Total (95% CI) 975 423 100.0 % 1.24 [ 0.80, 1.91 ]
+Total events: 81 (Blood clotting factor(s)), 27 (Placebo/open control)
+Heterogeneity: Tau2 = 0.0; Chi2 = 3.69, df = 4 (P = 0.45); I2 =0.0%
+Test for overall effect: Z = 0.97 (P = 0.33)
+Test for subgroup differences: Not applicable
+0.1 0.2 0.5 1 2 5 10
+Favours clotting factors Favours placebo/control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 59
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 1.6. Comparison 1 Blood clotting factors vs placebo or open control, Outcome 6 Intracerebral
+haemorrhage growth by 24 hours.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 1 Blood clotting factors vs placebo or open control
+Outcome: 6 Intracerebral haemorrhage growth by 24 hours
+Study or subgroup
+Blood
+clotting
+factor(s)
+Placebo/open
+control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute spontaneous ICH
+Mayer 2005a 8/36 1/11 10.8 % 2.44 [ 0.34, 17.46 ]
+Mayer 2006 23/32 7/8 61.2 % 0.82 [ 0.58, 1.15 ]
+Li 2012 4/32 11/32 28.0 % 0.36 [ 0.13, 1.02 ]
+Total (95% CI) 100 51 100.0 % 0.74 [ 0.36, 1.48 ]
+Total events: 35 (Blood clotting factor(s)), 19 (Placebo/open control)
+Heterogeneity: Tau2 = 0.18; Chi2 = 3.48, df = 2 (P = 0.18); I2 =42%
+Test for overall effect: Z = 0.86 (P = 0.39)
+Test for subgroup differences: Not applicable
+0.1 0.2 0.5 1 2 5 10
+Favours clotting factors Favours placebo/control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 60
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 2.1. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 1 Death or
+dependence (mRS 4 to 6) at day 90.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 2 Antifibrinolytic drugs vs placebo or open control
+Outcome: 1 Death or dependence (mRS 4 to 6) at day 90
+Study or subgroup Antifibrinolytic
+Placebo/open
+control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute spontaneous ICH
+Sprigg 2014 (TICH-1) 10/16 4/8 100.0 % 1.25 [ 0.57, 2.75 ]
+Total (95% CI) 16 8 100.0 % 1.25 [ 0.57, 2.75 ]
+Total events: 10 (Antifibrinolytic), 4 (Placebo/open control)
+Heterogeneity: not applicable
+Test for overall effect: Z = 0.55 (P = 0.58)
+Test for subgroup differences: Not applicable
+0.01 0.1 1 10 100
+Favours antifibrinolytic Favours placebo/control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 61
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 2.2. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 2 Death by day 90.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 2 Antifibrinolytic drugs vs placebo or open control
+Outcome: 2 Death by day 90
+Study or subgroup Antifibrinolytic
+Placebo/open
+control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute spontaneous ICH
+Zazulia 2001 (ATICH) 2/2 0/1 29.3 % 3.33 [ 0.29, 38.75 ]
+Sprigg 2014 (TICH-1) 3/16 2/8 70.7 % 0.75 [ 0.16, 3.62 ]
+Arumugam 2015 0/15 0/15 Not estimable
+Total (95% CI) 33 24 100.0 % 1.16 [ 0.31, 4.39 ]
+Total events: 5 (Antifibrinolytic), 2 (Placebo/open control)
+Heterogeneity: Tau2 = 0.01; Chi2 = 1.01, df = 1 (P = 0.32); I2 =1%
+Test for overall effect: Z = 0.22 (P = 0.83)
+Test for subgroup differences: Not applicable
+0.01 0.1 1 10 100
+Favours antifibrinolytic Favours placebo/control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 62
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 2.3. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 3 All serious
+adverse events.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 2 Antifibrinolytic drugs vs placebo or open control
+Outcome: 3 All serious adverse events
+Study or subgroup Antifibrinolytic
+Placebo/open
+control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute spontaneous ICH
+Sprigg 2014 (TICH-1) 6/16 2/8 100.0 % 1.50 [ 0.39, 5.83 ]
+Total (95% CI) 16 8 100.0 % 1.50 [ 0.39, 5.83 ]
+Total events: 6 (Antifibrinolytic), 2 (Placebo/open control)
+Heterogeneity: not applicable
+Test for overall effect: Z = 0.59 (P = 0.56)
+Test for subgroup differences: Not applicable
+0.01 0.1 1 10 100
+Favours antifibrinolytic Favours placebo/control
+Analysis 2.4. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 4 Thromboembolic
+serious adverse events.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 2 Antifibrinolytic drugs vs placebo or open control
+Outcome: 4 Thromboembolic serious adverse events
+Study or subgroup Antifibrinolytic
+Placebo/open
+control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute spontaneous ICH
+Sprigg 2014 (TICH-1) 1/16 0/8 100.0 % 1.59 [ 0.07, 35.15 ]
+Total (95% CI) 16 8 100.0 % 1.59 [ 0.07, 35.15 ]
+Total events: 1 (Antifibrinolytic), 0 (Placebo/open control)
+Heterogeneity: not applicable
+Test for overall effect: Z = 0.29 (P = 0.77)
+Test for subgroup differences: Not applicable
+0.01 0.1 1 10 100
+Favours antifibrinolytic Favours placebo/control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 63
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 2.5. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 5 Barthel Index.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 2 Antifibrinolytic drugs vs placebo or open control
+Outcome: 5 Bar thel Index
+Study or subgroup Antifibrinolytic
+Placebo/open
+control
+Mean
+Difference Weight
+Mean
+Difference
+N Mean(SD) N Mean(SD) IV,Random,95% CI IV,Random,95% CI
+1 Acute spontaneous ICH
+Sprigg 2014 (TICH-1) 16 59.2 (39.7) 8 81.7 (18.1) 100.0 % -22.50 [ -45.65, 0.65 ]
+Total (95% CI) 16 8 100.0 % -22.50 [ -45.65, 0.65 ]
+Heterogeneity: not applicable
+Test for overall effect: Z = 1.91 (P = 0.057)
+Test for subgroup differences: Not applicable
+-100 -50 0 50 100
+Favours antifibrinolytic Favours placebo/control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 64
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 2.6. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 6 EuroQoL health
+utility score.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 2 Antifibrinolytic drugs vs placebo or open control
+Outcome: 6 EuroQoL health utility score
+Study or subgroup Antifibrinolytic
+Placebo/open
+control
+Mean
+Difference Weight
+Mean
+Difference
+N Mean(SD) N Mean(SD) IV,Random,95% CI IV,Random,95% CI
+1 Acute spontaneous ICH
+Sprigg 2014 (TICH-1) 16 0.5 (0.5) 8 0.54 (0.27) 100.0 % -0.04 [ -0.35, 0.27 ]
+Total (95% CI) 16 8 100.0 % -0.04 [ -0.35, 0.27 ]
+Heterogeneity: not applicable
+Test for overall effect: Z = 0.25 (P = 0.80)
+Test for subgroup differences: Not applicable
+-0.5 -0.25 0 0.25 0.5
+Favours antifibrinolytic Favours placebo/control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 65
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 2.7. Comparison 2 Antifibrinolytic drugs vs placebo or open control, Outcome 7 Intracerebral
+haemorrhage growth by 24 hours.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 2 Antifibrinolytic drugs vs placebo or open control
+Outcome: 7 Intracerebral haemorrhage growth by 24 hours
+Study or subgroup Antifibrinolytic
+Placebo/open
+control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute spontaneous ICH
+Arumugam 2015 11/15 15/15 96.4 % 0.74 [ 0.54, 1.02 ]
+Sprigg 2014 (TICH-1) 3/16 1/8 2.2 % 1.50 [ 0.18, 12.22 ]
+Zazulia 2001 (ATICH) 1/2 0/1 1.4 % 2.00 [ 0.14, 28.42 ]
+Total (95% CI) 33 24 100.0 % 0.76 [ 0.56, 1.05 ]
+Total events: 15 (Antifibrinolytic), 16 (Placebo/open control)
+Heterogeneity: Tau2 = 0.0; Chi2 = 0.93, df = 2 (P = 0.63); I2 =0.0%
+Test for overall effect: Z = 1.68 (P = 0.092)
+Test for subgroup differences: Not applicable
+0.2 0.5 1 2 5
+Favours antifibrinolytic Favours placebo/control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 66
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 3.1. Comparison 3 Platelet transfusion vs open control, Outcome 1 Death or dependence (mRS 4
+to 6) at day 90.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 3 Platelet transfusion vs open control
+Outcome: 1 Death or dependence (mRS 4 to 6) at day 90
+Study or subgroup Platelet transfusion Open control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute antiplatelet-associated ICH
+Baharoglu 2016 (PATCH) 70/97 52/93 100.0 % 1.29 [ 1.04, 1.61 ]
+Total (95% CI) 97 93 100.0 % 1.29 [ 1.04, 1.61 ]
+Total events: 70 (Platelet transfusion), 52 (Open control)
+Heterogeneity: not applicable
+Test for overall effect: Z = 2.29 (P = 0.022)
+Test for subgroup differences: Not applicable
+0.5 0.7 1 1.5 2
+Favours platelet infusion Favours open control
+Analysis 3.2. Comparison 3 Platelet transfusion vs open control, Outcome 2 Death by day 90.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 3 Platelet transfusion vs open control
+Outcome: 2 Death by day 90
+Study or subgroup Platelet transfusion Open control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute antiplatelet-associated ICH
+Baharoglu 2016 (PATCH) 31/97 21/93 100.0 % 1.42 [ 0.88, 2.28 ]
+Total (95% CI) 97 93 100.0 % 1.42 [ 0.88, 2.28 ]
+Total events: 31 (Platelet transfusion), 21 (Open control)
+Heterogeneity: not applicable
+Test for overall effect: Z = 1.43 (P = 0.15)
+Test for subgroup differences: Not applicable
+0.5 0.7 1 1.5 2
+Favours platelet infusion Favours open control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 67
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 3.3. Comparison 3 Platelet transfusion vs open control, Outcome 3 All serious adverse events.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 3 Platelet transfusion vs open control
+Outcome: 3 All serious adverse events
+Study or subgroup Platelet transfusion Open control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute antiplatelet-associated ICH
+Baharoglu 2016 (PATCH) 41/97 27/93 100.0 % 1.46 [ 0.98, 2.16 ]
+Total (95% CI) 97 93 100.0 % 1.46 [ 0.98, 2.16 ]
+Total events: 41 (Platelet transfusion), 27 (Open control)
+Heterogeneity: not applicable
+Test for overall effect: Z = 1.87 (P = 0.062)
+Test for subgroup differences: Not applicable
+0.05 0.2 1 5 20
+Favours platelet infusion Favours open control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 68
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 3.4. Comparison 3 Platelet transfusion vs open control, Outcome 4 Thromboembolic serious
+adverse events.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 3 Platelet transfusion vs open control
+Outcome: 4 Thromboembolic serious adverse events
+Study or subgroup Platelet transfusion Open control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute antiplatelet-associated ICH
+Baharoglu 2016 (PATCH) 4/97 1/93 100.0 % 3.84 [ 0.44, 33.68 ]
+Total (95% CI) 97 93 100.0 % 3.84 [ 0.44, 33.68 ]
+Total events: 4 (Platelet transfusion), 1 (Open control)
+Heterogeneity: not applicable
+Test for overall effect: Z = 1.21 (P = 0.23)
+Test for subgroup differences: Not applicable
+0.01 0.1 1 10 100
+Favours platelet infusion Favours open control
+Analysis 3.5. Comparison 3 Platelet transfusion vs open control, Outcome 5 Intracerebral haemorrhage
+growth by 24 hours.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 3 Platelet transfusion vs open control
+Outcome: 5 Intracerebral haemorrhage growth by 24 hours
+Study or subgroup Platelet transfusion Open control Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute antiplatelet-associated ICH
+Baharoglu 2016 (PATCH) 15/97 13/93 100.0 % 1.11 [ 0.56, 2.20 ]
+Total (95% CI) 97 93 100.0 % 1.11 [ 0.56, 2.20 ]
+Total events: 15 (Platelet transfusion), 13 (Open control)
+Heterogeneity: not applicable
+Test for overall effect: Z = 0.29 (P = 0.77)
+Test for subgroup differences: Not applicable
+0.01 0.1 1 10 100
+Favours platelet infusion Favours open control
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 69
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 4.1. Comparison 4 Blood clotting factors vs fresh frozen plasma, Outcome 1 Death by day 90.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 4 Blood clotting factors vs fresh frozen plasma
+Outcome: 1 Death by day 90
+Study or subgroup
+Blood
+clotting
+factor(s) Fresh frozen plasma Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute anticoagulant-associated ICH
+Boulis 1999 0/2 2/3 100.0 % 0.27 [ 0.02, 3.74 ]
+Total (95% CI) 2 3 100.0 % 0.27 [ 0.02, 3.74 ]
+Total events: 0 (Blood clotting factor(s)), 2 (Fresh frozen plasma)
+Heterogeneity: not applicable
+Test for overall effect: Z = 0.98 (P = 0.33)
+Test for subgroup differences: Not applicable
+0.01 0.1 1 10 100
+Favours clotting factors Favours FFP
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 70
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Analysis 4.2. Comparison 4 Blood clotting factors vs fresh frozen plasma, Outcome 2 All serious adverse
+events.
+Review: Haemostatic therapies for acute spontaneous intracerebral haemorrhage
+Comparison: 4 Blood clotting factors vs fresh frozen plasma
+Outcome: 2 All serious adverse events
+Study or subgroup
+Blood
+clotting
+factor(s) Fresh frozen plasma Risk Ratio Weight Risk Ratio
+n/N n/N IV,Random,95% CI IV,Random,95% CI
+1 Acute anticoagulant-associated ICH
+Boulis 1999 0/2 2/3 100.0 % 0.27 [ 0.02, 3.74 ]
+Total (95% CI) 2 3 100.0 % 0.27 [ 0.02, 3.74 ]
+Total events: 0 (Blood clotting factor(s)), 2 (Fresh frozen plasma)
+Heterogeneity: not applicable
+Test for overall effect: Z = 0.98 (P = 0.33)
+Test for subgroup differences: Not applicable
+0.01 0.1 1 10 100
+Favours clotting factors Favours FFP
+A P P E N D I C E S
+Appendix 1. Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 11) in the
+Cochrane Library (searched 27 November 2017)
+#1 [mh hemostatics]
+#2 [mh “Blood Coagulation Factors”]
+#3 [mh ˆhemostasis/DE] or [mh ˆ“blood coagulation”/DE] or [mh ˆfibrinolysis/DE] or [mh “platelet activation”/DE] or [mh antithrombins] or [mh ˆthrombin/AI]
+#4 ((haemosta* or hemosta* or antihaemorrhag* or antihemorrhag*) near/5 (drug* or agent* or treat* or therap*)):ti,ab
+#5 (antifibrinolytic* or coagulat* next factor* or clotting next factor* or aminocaproic next acid or 6-aminocaproic next acid or
+“tranexamic acid” or aprotinin or factor next VII* or “factor 7” or “factor 7a” or NovoSeven or thrombin next inhib* or argatroban):
+ti,ab
+#6 [mh ˆ“platelet transfusion”] or [mh ˆ“blood component transfusion”]
+#7 [mh ˆ“blood platelets”]
+#8 (infus* or transfus*):ti,ab
+#9 #7 and #8
+#10 ((platelet* or thrombocyte* or blood component*) near/5 (transfus* or infus*)):ti,ab
+#11 #1 or #2 or #3 or #4 or #5 or #6 or #9 or #10
+#12 [mh “basal ganglia haemorrhage”] or [mh ˆ“intracranial hemorrhages”] or [mh ˆ“cerebral haemorrhage”] or [mh ˆ“intracranial
+hemorrhage, hypertensive”]
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 71
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+#13 ((brain* or cerebr* or cerebell* or intracerebral or intracran* or parenchymal or intraparenchymal or intraventricular or infratentorial
+or supratentorial or basal next gangli* or putaminal or putamen or posterior next fossa or hemispher* or stroke or apoplex*) near/5
+(haemorrhage* or hemorrhage* or haematoma* or hematoma* or bleed*)):ti,ab
+#14 (ICH or ICHs):ti,ab
+#15 #12 or #13 or #14
+#16 #11 and #15
+Appendix 2. MEDLINE Ovid (1946 to 27 November 2017)
+1. exp hemostatics/
+2. exp Blood Coagulation Factors/
+3. hemostasis/de or blood coagulation/de or fibrinolysis/de or exp platelet activation/de or exp antithrombins/ or thrombin/ai
+4. ((haemosta$ or hemosta$ or antihaemorrhag$ or antihemorrhag$) adj5 (drug$ or agent$ or treat$ or therap$)).tw.
+5. (antifibrinolytic$ or coagulat$ factor$ or clotting factor$ or aminocaproic acid or 6- aminocaproic acid or tranexamic acid or
+aprotinin or factor VII$ or factor 7 or factor 7a or NovoSeven or thrombin inhib$ or argatroban).tw,nm.
+6. platelet transfusion/
+7. blood component transfusion/
+8. blood platelets/ and (infus$ or transfus$).tw.
+9. ((platelet$ or thrombocyte$ or blood component$) adj5 (transfus$ or infus$)).tw.
+10. 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9
+11. exp basal ganglia hemorrhage/ or intracranial hemorrhages/ or cerebral hemorrhage/ or intracranial hemorrhage, hypertensive/
+12. ((brain$ or cerebr$ or cerebell$ or intracerebral or intracran$ or parenchymal or intraparenchymal or intraventricular or infratentorial
+or supratentorial or basal gangli$ or putaminal or putamen or posterior fossa or hemispher$ or stroke or apoplex$) adj5 (h?emorrhag$
+or h?ematoma$ or bleed$)).tw.
+13. 11 or 12 or (ICH or ICHs).tw.
+14. 10 and 13
+15. Randomized Controlled Trials as Topic/
+16. random allocation/
+17. Controlled Clinical Trials as Topic/
+18. control groups/
+19. clinical trials as topic/ or clinical trials, phase i as topic/ or clinical trials, phase ii as topic/ or clinical trials, phase iii as topic/ or
+clinical trials, phase iv as topic/
+20. double-blind method/
+21. single-blind method/
+22. Placebos/
+23. placebo effect/
+24. Drug Evaluation/
+25. Research Design/
+26. randomized controlled trial.pt.
+27. controlled clinical trial.pt.
+28. clinical trial.pt.
+29. random$.tw.
+30. (controlled adj5 (trial$ or stud$)).tw.
+31. (clinical$ adj5 trial$).tw.
+32. ((control or treatment or experiment$ or intervention) adj5 (group$ or subject$ or patient$)).tw.
+33. (quasi-random$ or quasi random$ or pseudo-random$ or pseudo random$).tw.
+34. ((singl$ or doubl$ or tripl$ or trebl$) adj5 (blind$ or mask$)).tw.
+35. placebo$.tw.
+36. controls.tw.
+37. or/15-36
+38. 14 and 37
+39. exp animals/ not humans.sh.
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 72
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+40. 38 not 39
+Appendix 3. Embase Ovid (1974 to 27 November 2017)
+1. exp hemostatic agent/ or exp antifibrinolytic agent/ or exp blood clotting factor/ or exp thrombin inhibitor/
+2. hemostasis/
+3. exp blood clotting/
+4. thrombocyte activation/
+5. 2 or 3 or 4
+6. drug effect/ or dt.fs.
+7. 5 and 6
+8. ((haemosta$ or hemosta$ or antihaemorrhag$ or antihemorrhag$) adj5 (drug$ or agent$ or treat$ or therap$)).tw.
+9. (antifibrinolytic$ or coagulat$ factor$ or clotting factor$ or aminocaproic acid or 6- aminocaproic acid or tranexamic acid or
+aprotinin or factor VII$ or factor 7 or factor 7a or NovoSeven or thrombin inhib$ or argatroban).tw.
+10. thrombocyte transfusion/
+11. blood component therapy/
+12. exp thrombocyte/ and (infus$ or transfus$).tw.
+13. ((platelet$ or thrombocyte$ or blood component$) adj5 (transfus$ or infus$)).tw.
+14. 1 or 7 or 8 or 9 or 10 or 11 or 12 or 13
+15. basal ganglion hemorrhage/ or brain hemorrhage/ or brain ventricle hemorrhage/ or cerebellum hemorrhage/
+16. ((brain$ or cerebr$ or cerebell$ or intracerebral or intracran$ or parenchymal or intraparenchymal or intraventricular or infratentorial
+or supratentorial or basal gangli$ or putaminal or putamen or posterior fossa or hemispher$ or stroke or apoplex$) adj5 (h?emorrhag$
+or h?ematoma$ or bleed$)).tw.
+17. 15 or 16 or (ICH or ICHs).tw.
+18. 14 and 17
+19. randomized controlled trial/
+20. “randomized controlled trial (topic)”/
+21. Randomization/
+22. Controlled Study/
+23. control group/
+24. exp clinical trial/
+25. Double Blind Procedure/
+26. Single Blind Procedure/ or triple blind procedure/
+27. placebo/
+28. drug dose comparison/
+29. drug comparison/
+30. “types of study”/
+31. random$.tw.
+32. (controlled adj5 (trial$ or stud$)).tw.
+33. (clinical$ adj5 trial$).tw.
+34. ((control or treatment or experiment$ or interventionl) adj5 (group$ or subject$ or patient$)).tw.
+35. (quasi-random$ or quasi random$ or pseudo-random$ or pseudo random$).tw.
+36. ((singl$ or doubl$ or tripl$ or trebl$) adj5 (blind$ or mask$)).tw.
+37. placebo$.tw.
+38. controls.tw.
+39. or/19-38
+40. 18 and 39
+41. (exp animals/ or exp invertebrate/ or animal experiment/ or animal model/ or animal tissue/ or animal cell/ or nonhuman/) not
+(human/ or normal human/ or human cell/)
+42. 40 not 41
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 73
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Appendix 4. US National Institutes of Health Ongoing Trials Register ClinicalTrials.gov
+Study Type: Intervention
+Study results: All studies
+Recruitment: All studies
+Age group: Adults & seniors
+Condition: (cerebral haemorrhage OR intracerebral haemorrhage OR intracranial haemorrhage OR intraparenchymal haemorrhage
+OR parenchymal haemorrhage OR intraventricular haemorrhage OR haemorrhagic stroke OR ICH OR intracerebral bleed)
+Intervention (performed as four separate searches, and then de-duplicated, due to the word limit for search criteria): haemostatics
+OR haemostasis OR haemostatic agents OR haemostatic therapy OR haemostatic treatment OR antihaemorrhagic agent OR antihaemorrhagic therapy OR antihaemorrhagic treatment OR antihaemorrhage agent OR antihaemorrhage therapy OR blood clotting
+OR blood coagulation factors OR blood coagulation OR coagulation factors OR thrombin OR platelet activation OR thrombocyte
+activation OR platelet transfusion OR blood component transfusion OR thrombocyte transfusion OR antifibrinolytic agents OR
+antifibrinolysis OR tranexamic acid OR aminocaproic acid OR 6-aminocaproic acid OR aprotinin OR factor VIIa OR factor VII OR
+Factor 7a OR factor 7 or NovoSeven Or argatroban OR thrombin inhibitor OR desmopressin OR fresh frozen plasma OR FFP OR
+prothrombin complex concentrates OR PCC
+Appendix 5. World Health Organization (WHO) International Clinical Trials Registry Platform
+(ICTRP)
+Condition: brain haemorrhage OR cerebral haemorrhage OR intracerebral haemorrhage OR intracranial haemorrhage OR intraparenchymal haemorrhage OR intraventricular haemorrhage OR cerebellar haemorrhage OR parenchymal haemorrhage OR infratentorial haemorrhage OR supratentorial haemorrhage OR basal ganglia haemorrhage OR basal ganglion haemorrhage OR thalamic
+haemorrhage OR putaminal haemorrhage OR posterior fossa haemorrhage OR hemispheric haemorrhage OR haemorrhagic stroke OR
+haemorrhagic apoplexy brain haematoma OR cerebral haematoma OR intracerebral haematoma OR intracranial haematoma OR intraparenchymal haematoma OR intraventricular haematoma OR cerebellar haematoma OR parenchymal haematoma OR infratentorial
+haematoma OR supratentorial haematoma OR basal ganglia haematoma OR basal ganglion haematoma OR thalamic haematoma OR
+putaminal haematoma OR posterior fossa haematoma OR hemispheric haematoma OR brain bleed OR cerebral bleed OR intracerebral
+bleed OR intracranial bleed OR intraparenchymal bleed OR parenchymal bleed OR intraventricular bleed OR cerebellar bleed OR
+infratentorial bleed OR supratentorial bleed OR basal ganglia bleed OR putaminal bleed OR posterior fossa bleed OR hemispheric
+bleed OR ICH OR ICHs
+Intervention: haemostatics OR haemostasis OR haemostatic agents OR haemostatic therapy OR haemostatic treatment OR antihaemorrhagic agent OR antihaemorrhagic therapy OR antihaemorrhagic treatment OR antihaemorrhage agent OR antihaemorrhage
+therapy OR antihaemorrhage treatment OR blood clotting OR blood coagulation factors OR blood coagulation OR coagulation
+factors OR thrombin OR platelet activation OR thrombocyte activation OR platelet transfusion OR blood component transfusion OR
+thrombocyte transfusion OR antifibrinolytic agents OR antifibrinolysis OR tranexamic acid OR aminocaproic acid OR 6-aminocaproic
+acid OR aprotinin OR factor VIIa OR factor VII OR Factor 7a OR factor 7 or NovoSeven Or argatroban OR thrombin inhibitor OR
+desmopressin OR fresh frozen plasma OR FFP OR prothrombin complex concentrates OR PCC
+W H A T ’ S N E W
+Last assessed as up-to-date: 27 November 2017.
+Date Event Description
+10 December 2017 New search has been performed • Title modified.
+• Inclusion criteria clarified to include participants
+with stroke due to intracerebral haemorrhage
+accompanied by any sort of antithrombotic drug use.
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 74
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+(Continued)
+• Inclusion criteria clarified to allow placebo,
+open control, or active comparators.
+• Literature and trial register search strategies
+updated to November 2017.
+• Stratification of analyses by antithrombotic use.
+• We added six new trials and data from a further
+334 participants, for a total of 12 trials and 1732
+participants.
+10 December 2017 New citation required and conclusions have changed • Our new conclusion is that platelet transfusion
+seems hazardous in comparison to standard care for
+adults with antiplatelet-associated acute spontaneous
+intracerebral haemorrhage.
+• We remain unable to draw firm conclusions
+about the efficacy and safety of blood clotting factors
+and antifibrinolytic drugs for acute spontaneous
+intracerebral haemorrhage.
+H I S T O R Y
+Protocol first published: Issue 2, 2006
+Review first published: Issue 3, 2006
+Date Event Description
+24 June 2013 Amended Co-authors added
+29 June 2009 New citation required and conclusions have changed In comparison to the previous version of this review, haemostatic drugs no longer significantly reduced death or dependence after acute spontaneous intracerebral haemorrhage
+29 June 2009 New search has been performed Updated with the addition of 841 people randomised in the
+FAST trial
+8 July 2008 Amended Converted to new review format.
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 75
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+C O N T R I B U T I O N S O F A U T H O R S
+RA-SS registered the title, developed the original protocol, and wrote the first two versions of the review. All authors revised the protocol.
+RA-SS and ZKL screened the title and abstracts of potentially eligible studies. RA-SS and NS reviewed potentially eligible studies in
+full, appraised their risk of bias, extracted data from them, and obtained further data from study authors. RA-SS and NS updated the
+review. PB and TS edited and provided comments on the review. RA-SS is responsible for the final version and is the guarantor.
+D E C L A R A T I O N S O F I N T E R E S T
+RA-SS: none known.
+ZKL: none known.
+PB: none known.
+TS declared intellectual competing interests due to his involvement with some included RCTs (Mayer 2005a; Mayer 2005b; Mayer
+2006; Mayer 2008 (FAST); Steiner 2016 (INCH)). TS had no role in study selection, assessment and data extraction with regard to
+these studies.
+NS: none known.
+D I F F E R E N C E S B E T W E E N P R O T O C O L A N D R E V I E W
+• Title modified.
+• Inclusion criteria clarified to include participants with stroke due to intracerebral haemorrhage accompanied by any sort of
+antithrombotic drug use.
+• Inclusion criteria clarified to allow placebo, open control, or active comparators.
+• Literature and trial register search strategies updated (see Appendix 1; Appendix 2; Appendix 3; Appendix 4; Appendix 5). Some
+of the names of the databases have been changed, some databases have been superceded, and we abandoned searches of other
+databases: CenterWatch Clinical Trials Listing Service (www.centerwatch.com); Computer Retrieval of Information on Scientific
+Projects (crisp.cit.nih.gov); NIH Clinical Research Studies Database (clinicalstudies.info.nih.gov); Stroke Trials Directory (
+www.strokecenter.org/trials); and Trials Central (www.trialscentral.org/ClinicalTrials.asp) were not searched; pharmaceutical
+companies were not contacted.
+• Introduction of new secondary outcomes: death from any cause (categorised into early (< 7 days) and late (between 7 days and
+the end of follow-up) if possible), quality of life, mood, cognitive function.
+• Stratification of analyses by antithrombotic use and intended surgery.
+• New and ongoing trials added.
+I N D E X T E R M S
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 76
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+Medical Subject Headings (MeSH)
+Aminocaproic Acid [∗
+therapeutic use]; Antifibrinolytic Agents [adverse effects; ∗
+therapeutic use]; Cerebral Hemorrhage [∗drug therapy;
+mortality]; Factor VIIa [adverse effects; ∗
+therapeutic use]; Hemostasis; Hemostatics [∗
+therapeutic use]; Randomized Controlled Trials
+as Topic; Recombinant Proteins [adverse effects; therapeutic use]
+MeSH check words
+Adult; Humans
+Haemostatic therapies for acute spontaneous intracerebral haemorrhage (Review) 77
+Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.

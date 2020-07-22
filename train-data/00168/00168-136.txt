@@ -1,0 +1,626 @@
+Maternal outcomes among pregnant women receiving
+live attenuated influenza vaccine
+Seth L. Toback,a Richard Beigi,b Patricia Tennis,c Frangiscos Sifakis,a Brian Calingaertc and
+Christopher S. Ambrosea
+a
+MedImmune, LLC, One MedImmune Way, Gaithersburg, MD, USA. b
+Magee-Womens Hospital, Pittsburgh, PA, USA. c
+RTI Health Solutions,
+Research Triangle Park, NC, USA.
+Correspondence: Seth L. Toback, MD, MedImmune, LLC, One MedImmune Way, Gaithersburg, MD 20878, USA.
+E-mail: tobacks@medimmune.com
+Accepted 2 May 2011. Published Online 14 June 2011.
+Background Although the live attenuated influenza vaccine
+(LAIV) prescribing information contains warnings⁄ precautions
+against use during pregnancy, administration of LAIV to pregnant
+women does occur. Data regarding maternal outcomes after LAIV
+administration during pregnancy are limited.
+Objectives Maternal outcomes after LAIV vaccination during
+pregnancy were examined.
+Methods Data from a health insurance claims database that
+covers approximately 50 million individuals were analyzed for the
+six influenza seasons from 2003–2004 through 2008–2009.
+Emergency department (ED) visits and hospitalizations occurring
+within 42 days of vaccination were analyzed by primary diagnosis;
+outcomes were categorized as cardiopulmonary, obstetric, and
+other. Cohort characteristics were analyzed using descriptive
+statistics.
+Results Of 834 999 pregnancies identified, 138 (0Æ017%) were
+among women who received LAIV vaccinations. Of the 138
+pregnant women, 13% were £19 years, 67% were 20–34 years, and
+20% were ‡35 years of age. Eight events occurred within 42 days
+of vaccination: one ED visit for bronchitis, two hospitalizations
+for hyperemesis gravidarum and premature labor, and five ED
+visits⁄ hospitalizations for common medical conditions. All
+outcomes identified after LAIV exposure occurred at rates similar
+to rates in unvaccinated pregnant women reported in the medical
+literature.
+Conclusions Administration of LAIV to pregnant women is rare;
+the rate has remained constant since 2004–2005. In this cohort,
+there was no evidence of significant maternal adverse outcomes
+after receipt of LAIV. These data may offer some reassurance to
+providers and pregnant women in the event of inadvertent LAIV
+administration, but do not support the routine use of LAIV in
+pregnant women.
+Keywords Inactivated influenza vaccine, live attenuated influenza
+vaccine, pregnancy, safety.
+Please cite this paper as: Toback et al. (2012) Maternal outcomes among pregnant women receiving live attenuated influenza accine. Influenza and Other
+Respiratory Viruses 6(1), 44–51.
+Introduction
+Women who are pregnant during the influenza season are
+at increased risk for severe complications from influenza
+infections.1–3 For this reason, influenza vaccination at any
+time during pregnancy is recommended by the US Advisory Committee on Immunization Practices (ACIP) and
+the American College of Obstetricians and Gynecologists
+(ACOG).1,4 Two types of influenza vaccines are approved
+in the United States: injectable trivalent inactivated influenza vaccines (TIV) and the intranasal live attenuated
+influenza vaccine (LAIV). The safety of TIV during pregnancy has been well established.5,6 Accordingly, the US
+Centers for Disease Control and Prevention (CDC) recommend that TIV are used to vaccinate pregnant women during the influenza season. As with all live vaccines, LAIV is
+not recommended for use during pregnancy.1,7 LAIV is
+approved in the United States for use in eligible children
+and adults 2–49 years of age, and more than 40 million
+doses of seasonal trivalent LAIV have been distributed for
+use in the United States from licensure in 2003 through
+the 2010–2011 influenza season (MedImmune, data on
+file).
+It is not known whether LAIV administration during
+pregnancy is associated with any maternal or fetal risks. To
+date, there has been little information available. A 2010
+analysis of data from the Vaccine Adverse Events Reporting
+System (VAERS) reported 27 pregnant women from 2003
+through 2009 who received LAIV, 60% of whom did not
+report any associated adverse event.8 Of those reporting
+adverse events, the most common were spontaneous abortion (n = 3), fever (n = 3), vomiting (n = 3), headache
+DOI:10.1111/j.1750-2659.2011.00266.x
+www.influenzajournal.com Original Article
+44 ª 2011 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 6, 44–51
+(n = 3), and sore throat (n = 2). No congenital anomalies
+or adverse fetal events were reported. Additionally, a study
+by Piedra et al. 9 described fetal outcomes among six adolescents who were inadvertently vaccinated with LAIV while
+pregnant. Among these pregnancies, there were five fullterm healthy infants and one preterm delivery. The lack of
+available information regarding maternal and fetal risks
+after LAIV vaccination and concerns regarding inadvertent
+vaccination of pregnant women has complicated vaccination efforts in some settings.10
+Although LAIV is not recommended to be administered
+to pregnant women, administration of LAIV to pregnant
+women does rarely occur. The purpose of this study was to
+quantify, using healthcare claims data, the frequency of
+LAIV vaccination among pregnant women and to assess
+maternal adverse events after vaccination with LAIV.
+Methods
+Anonymized patient-specific claims data were obtained
+from the LifeLink Health Plan Claims Database (IMS
+Health, Norwalk, CT, USA). At the time of data acquisition, the database included medical and pharmacy claims
+from more than 50 million unique members from over 90
+U.S. health plans. The database includes inpatient and outpatient claims, including diagnoses in ICD-9-CM format,
+procedures in CPT-4 and HCPCS formats, and retail and
+mail-order pharmacy claims containing National Drug
+Codes (NDC). Date and place of service are included with
+all claims. Information regarding influenza vaccinations for
+which claims were not submitted was unavailable.
+The study population consisted of females who were
+12–49 years of age at the time they had a claim for delivery
+of a child. For inclusion, individuals were required to have
+at least 270 days of continuous enrollment in the database
+before delivery. Data from October 2003 through September 2009 were included in the analysis. Because the database was unable to link claims data for a mother and her
+offspring, no fetal outcomes could be examined.
+Pregnant women were identified by a claim for a delivery
+procedure code or an ICD-9-CM diagnosis code for a
+delivery. Women could contribute more than one pregnancy and delivery to the analysis as long as the aforementioned criteria were met for each included delivery. For
+pregnancies with multiple delivery codes during the period
+of pregnancy, the investigators manually reviewed the
+claims to ascertain the correct delivery date based on the
+date of the delivery procedure code; if no delivery procedure code was present, the delivery date was assigned to be
+the date of the first ICD-9-CM diagnosis code for a delivery. LAIV exposure during pregnancy was identified by the
+presence of CPT code 90660 or an NDC code of
+66019010001, 66019020001, 66019030001, 66019040001,
+66019050001, or 66019060001. TIV exposure was defined
+by the presence of an insurance claim with a CPT code of
+90655, 90656, 90657, 90658, 90659, or relevant NDC code.
+The 2009 monovalent H1N1 pandemic influenza vaccines
+were not in use at the time of the study and were not
+included in the analysis.
+For each pregnancy, a date of conception was calculated
+by estimating the duration of pregnancy from ICD-9-CM
+codes associated with the delivery. If an ICD-9-CM code
+for gestational age (765Æ2x) was recorded at the time of
+delivery, the conception date was assumed to precede delivery by the upper limit of the range of weeks associated with
+the specific code. We used the upper limit to maximize the
+detection of LAIV vaccination during pregnancy. If the
+765Æ2x codes were not present, but premature delivery was
+indicated by codes 644Æ20 or 644Æ21, the date of conception
+was assumed to be 245 days before delivery, the approximate gestational age for children born <37 weeks as
+described by Martin et al.11 If neither the 765Æ2x nor the
+644Æ2x codes were present, but the birth involved multiple
+infants, then the conception date was assumed to be
+256 days before delivery, the midpoint of the range of days
+used by Cole et al.12 For all other pregnancies, the conception date was estimated as the date 270 days before delivery.13 The end of the first and second trimesters was
+defined as 90 and 180 days after conception, respectively;
+the end of the third trimester was the delivery date. The
+gestational day at the time of vaccination was defined as
+the number of days between LAIV vaccination and the estimated date of conception.
+To evaluate the presence of underlying high-risk medical
+conditions, available ICD-9-CM codes from claims as early
+as January 1997 to the time of vaccination were reviewed.
+To qualify as having a high-risk condition, a subject had to
+have at least one hospital ⁄ emergency department (ED)
+claim or two outpatient claims on separate dates for the
+condition on or before the delivery date. The following
+ICD-9-CM codes were used to define high-risk disease
+groups: chronic cardiac disease (093, 393–398, 402–404,
+410–414, 416, 424–425, 428–429, 440, and 745–746);
+chronic pulmonary disease (277Æ0, 491–496, 500–506, 515–
+517, and 519Æ9); diabetes mellitus (250 and 648Æ0); chronic
+renal disease (581–583, 585, and 587, or CPT codes 800,
+801, 90935, 90937, 90940); malignancy (140–199 [except
+173] and 200–208); and immunosuppressive disorders
+(042–044 and 136Æ3).3
+Live attenuated influenza vaccine was first widely available in the United States in the fall of 2003. To calculate
+the proportion of deliveries with LAIV vaccination during
+pregnancy, we divided the number of eligible deliveries
+with LAIV vaccination during pregnancy by the total number of eligible deliveries that occurred on or after October
+1, 2003, through September 2009. The number of pregnant
+Outcomes in women who received LAIV while pregnant
+ª 2011 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 6, 44–51 45
+women vaccinated with LAIV in each influenza season was
+divided by the number of doses distributed each season to
+estimate the number of vaccinations per million doses distributed for each season.
+To assess potential adverse outcomes among the cohort
+of women vaccinated with LAIV during pregnancy, all
+health insurance claims for hospitalization or ED visits
+occurring within 42 days post-vaccination were reviewed.
+Because the sample of LAIV-vaccinated pregnant women
+was small, a qualitative description of adverse outcomes in
+comparison with the rates published in the medical literature was provided. For each hospitalization or ED visit,
+authors reviewed the primary discharge diagnoses and
+grouped events into three categories: obstetric outcomes
+(those not related to delivery), cardiopulmonary outcomes,
+and other medical outcomes. For hospitalizations within
+42 days post-vaccination listing a primary discharge diagnosis of normal delivery, all additional codes associated with
+that hospitalization were also reviewed. Any diagnosis code
+for a previously unrecorded medical condition that was not
+related to routine labor and delivery and not related to a
+fetal condition was considered to be a potential outcome of
+interest. To evaluate any potential long-term side effects of
+vaccination, primary discharge diagnoses associated with
+hospitalizations from the time of vaccination up until, but
+not including, the hospitalization at the time of delivery
+were analyzed. To focus on serious adverse events, only
+hospitalizations were considered in this analysis. If a subject
+had a claim for an ED visit and hospitalization on the same
+day, a single hospitalization event was counted. The number
+and percentage of women who experienced either a hospitalization or ED visit was stratified by trimester of vaccination. Women with high-risk medical conditions were
+included in the analysis and examined separately.
+Because the delivery of a child was an entry criterion
+and delivery data were only available through September
+2009, the 2008–2009 cohort would not include first-trimester vaccinations of women with deliveries after September
+2009. All analyses were performed using SAS 9.1.3 (SAS
+Institute Inc., Cary, NC, USA) or Microsoft Excel (Microsoft, Redmond, WA, USA). Because data were anonymized,
+the protocol was granted Institutional Review Board (IRB)
+review exemption by the RTI International IRB.
+Results
+The database search identified 834 999 women with a pregnancy resulting in a delivery between October 2003 and
+September 2009. Of these, 138 women (0Æ017%) had a
+claim for LAIV vaccination while pregnant. The number of
+vaccinations increased throughout the study period with
+14, 12, 17, 32, 22, and 41 occurring in the 2003–2004,
+2004–2005, 2005–2006, 2006–2007, 2007–2008, and 2008–
+2009 seasons, respectively. In the first year LAIV was available, there was a disproportionally high number of vaccinations during pregnancy, namely 31Æ1 per million LAIV
+doses distributed. Since the 2003–2004 season, the rate of
+LAIV vaccination during pregnancy per million LAIV doses
+distributed has remained constant with an average of 7Æ9
+per season (range: 5Æ7–12Æ3 per season). The characteristics
+of those vaccinated with LAIV relative to those not vaccinated with LAIV were comparable (Table 1), with the
+exception of LAIV-vaccinated women having a greater likelihood of being £19 years of age (13% versus 5%;
+P < 0Æ0001) and of having >10 prenatal visits (21% versus
+13%; P < 0Æ01). LAIV-vaccinated women were also less
+likely to have a claim for vaccination with TIV (4% versus
+Table 1. Characteristics of LAIV-vaccinated and LAIV-unvaccinated
+cohorts
+LAIV
+vaccinated
+(n = 138)
+LAIV
+non-exposed
+(n = 834 861)
+n (%) n (%)
+Maternal age at delivery, year
+14–19 18 (13)* 45 447 (5)
+20–34 93 (67) 629 545 (75)
+35–43 27 (20) 159 869 (19)
+Gestational age at birth, week
+£36 7 (5) 66 003 (8)
+>36 131 (95) 768 858 (92)
+High-risk medical condition
+Cardiac disease 5 (4) 19 172 (2)
+Pulmonary disease 10 (7) 42 491 (5)
+Diabetes mellitus 7 (5) 25 649 (3)
+Renal disease 0 (0) 1096 (0)
+Malignancy 1 (1) 4752 (1)
+Immunosuppresive disorder 0 (0) 444 (0)
+Any high-risk condition 21 (15) 86 666 (10)
+Claim for TIV during pregnancy 6 (4) 96 600 (12)
+Prenatal visit claims during pregnancy
+0 7 (5) 48 041 (6)
+1–3 33 (24) 225 294 (27)
+4–6 43 (31) 291 776 (35)
+7–10 26 (19) 164 468 (20)
+>10 29 (21) 105 282 (13)
+Trimester at vaccination
+1st 65 (47) NA
+2nd 37 (27) NA
+3rd 36 (26) NA
+LAIV, live attenuated influenza vaccine; NA, not applicable; TIV,
+trivalent inactivated influenza vaccine.
+*Significantly different than LAIV non-exposed, P < 0Æ0001.
+
+At least one hospital ⁄ emergency department claim or two outpatient claims anytime on or before delivery date.
+
+Significantly different than LAIV non-exposed, P < 0Æ01.
+Toback et al.
+46 ª 2011 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 6, 44–51
+12%; P < 0Æ01). Of those vaccinated with LAIV, 47%, 27%,
+and 26% were vaccinated in the first, second, and third trimesters, respectively. Among the 65 first-trimester exposures, 42 occurred during the first 6 weeks of pregnancy.
+When trimester of vaccination was analyzed by influenza
+season, no trends were discernible among the small number
+of vaccinations occurring each season (Fig. 1). Women vaccinated in each trimester were comparable with similar
+mean age, number of high-risk medical conditions, and
+number of prenatal visits.
+In addition to pregnancy, 21 women had an underlying
+high-risk medical condition, specifically cardiac disease,
+pulmonary disease, diabetes mellitus, or malignancy. Six
+patients vaccinated with LAIV also had a claim for TIV
+during pregnancy; in 5 of the 6 patients, the TIV claim
+occurred on the same date as the LAIV claim. All LAIV
+vaccinations occurred between September and February of
+each influenza season, with 87% occurring in October
+through December. The specialty of the vaccinating physician was only available in 26 of the 138 cases and therefore
+was not evaluated.
+Eight unique individuals were found to have a claim for a
+hospitalization or ED visit within 42 days post-vaccination
+with LAIV (three hospitalizations, five ED visits; Table 2).
+Two events were obstetric in nature (hyperemesis gravidarum and threatened premature labor), one event was cardiopulmonary in nature (bronchitis), and five events were
+because of other medical conditions (pyelonephritis, epigastric symptoms, limb pain, diarrhea, and chest pain). One
+woman was hospitalized twice for the same diagnosis (threatened premature labor without delivery) on days 9 and 12
+post-vaccination, which was counted as a single hospitalization. The three women with ED visits for limb pain, chest
+pain, and bronchitis, respectively, had pre-existing diagnoses
+of degenerative thoracic scoliosis, diabetes mellitus, and
+asthma with congestive heart failure, respectively. Overall,
+5Æ8% of women experienced a hospitalization or ED visit
+within 42 days post-vaccination with LAIV; 1Æ4%, 0Æ7%, and
+3Æ6% experienced an obstetric event, cardiopulmonary event,
+and other medical event, respectively. The rates of hospitalization and ⁄ or ED visits within 42 days post-vaccination
+were higher among women vaccinated in the first and second trimesters (6Æ2% and 8Æ1%, respectively) than among
+women vaccinated in the third trimester (2Æ8%). Similarly,
+14Æ3% of women with high-risk underlying conditions experienced an event (three events among 21 women) compared
+with 4Æ3% of women without high-risk conditions (five
+events among 117 women).
+Nineteen women were hospitalized for a delivery within
+42 days post-vaccination. Among these women, four maternal medical conditions that had not been previously diagnosed during pregnancy and that were unrelated to routine
+delivery were noted (polyhydramnios, anemia of pregnancy,
+premature rupture of membranes, and transient hypertension). Five additional hospitalizations that occurred more
+than 42 days post-vaccination were noted before delivery
+(Table 3). Diagnoses included three obstetric conditions
+(cervical carcinoma in situ, other placental condition, and
+breech presentation) and two infections (pyelonephritis
+and influenza). The subject who was hospitalized for pyelonephritis had a history of recurrent urinary tract infections,
+before, during, and after pregnancy and was the same subject who was hospitalized for pyelonephritis within 42 days
+post-vaccination. The subject hospitalized for influenza was
+vaccinated with LAIV in December 2008 and diagnosed
+with influenza in August 2009.
+40
+50
+60
+70
+80
+90
+100
+3rd trimester
+2nd trimester
+1st trimester
+0
+10
+20
+30
+2003–2004
+(n = 14)
+2004–2005
+(n = 12)
+2005–2006
+(n = 17)
+2006–2007
+(n = 32)
+2007–2008
+(n = 22)
+2008–2009*
+(n = 41)
+Proportion of vaccinations (%)
+Influenza season of vaccination
+Figure 1. Trimester of vaccination with LAIV
+by influenza season (season defined as
+September–February). LAIV, live attenuated
+influenza vaccine. *Because the data analyzed
+included deliveries through September 2009,
+the 2008–2009 cohort may be missing some
+first-trimester vaccinations (see Methods for
+full description).
+Outcomes in women who received LAIV while pregnant
+ª 2011 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 6, 44–51 47
+Discussion
+This analysis of health insurance claims from a large U.S.
+population during the 2003–2004 through 2008–2009 influenza seasons demonstrates that LAIV vaccination during
+pregnancy is rare. The number of LAIV vaccinations during
+pregnancy increased throughout the study period, commensurate with the total number of LAIV doses distributed
+Table 2. Primary diagnoses for emergency department visit or hospitalization within 42 days after LAIV vaccination
+Event
+Events* Among LAIV-Vaccinated Women, n Proportion of
+LAIV-vaccinated
+women with
+ED visit or
+hospitalization,
+ED visit Hospitalization %, (95% CI)
+ED visit or
+hospitalization
+Any complication 5 3 8 5Æ8 (2Æ5–11Æ1)
+Obstetrical complications
+Any 0 2 2 1Æ4 (0Æ2–5Æ1)
+643Æ13 – Hyperemesis gravidarum with metabolic
+disturbance, antepartum
+01 1 0Æ7 (0Æ02–4Æ0)
+644Æ03 – Threatened premature labor, without delivery 0 1 1 0Æ7 (0Æ02–4Æ0)
+Cardiopulmonary conditions
+Any 1 0 1 0Æ7 (0Æ02–4Æ0)
+466Æ0 – Acute bronchitis 1 0 1 0Æ7 (0Æ02–4Æ0)
+Other conditions
+Any 4 1 5 3Æ6 (1Æ2–8Æ3)
+590Æ80 – Pyelonephritis, unspecified 0 1 1 0Æ7 (0Æ02–4Æ0)
+789Æ06 – Epigastric symptoms involving abdomen and pelvis 1 0 1 0Æ7 (0Æ02–4Æ0)
+729Æ5 – Pain in limb 1 0 1 0Æ7 (0Æ02–4Æ0)
+787Æ91 – Diarrhea 1 0 1 0Æ7 (0Æ02–4Æ0)
+786Æ59 – Chest pain; other 1 0 1 0Æ7 (0Æ02–4Æ0)
+ED, emergency department; LAIV, live attenuated influenza vaccine.
+*Excludes visits for delivery. Each woman could contribute only one ED visit and one hospitalization per ICD-9 code.
+Table 3. Listing of primary diagnoses associated with all hospitalizations occurring any time between LAIV vaccination and delivery*
+Diagnosis
+Day of
+occurrence
+Length of
+stay, days
+0–42 days post-vaccination
+590Æ80 – Pyelonephritis, unspecified 6 3
+643Æ13 – Hyperemesis gravidarum with metabolic disturbance, antepartum 7 3
+644Æ03 – Threatened premature labor, without delivery 9,12 1
+‡43 days post-vaccination
+233Æ1 – Carcinoma in situ of cervix uteri 51 1
+590Æ1 – Acute pyelonephritis 62§ 5
+656Æ73 – Other placental conditions affecting management of mother, antepartum 126 4
+652Æ23 – Breech presentation without version, antepartum 184 1
+487Æ1 – Influenza with other respiratory manifestations 240 1
+LAIV, live attenuated influenza vaccine.
+*Excludes hospitalizations for delivery.
+
+Day of occurrence relative to LAIV vaccination (1 = day of vaccination).
+
+Both hospitalizations for code 644Æ03 occurred in the same subject on separate days. §
+Same subject hospitalized for diagnosis code 590Æ80 on day 6 post-vaccination.
+Toback et al.
+48 ª 2011 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 6, 44–51
+each season. When LAIV use in pregnancy does occur, it is
+more likely to occur in adolescents, which is not surprising
+given the extensive use of the vaccine in children and adolescents in the U.S. Additionally, LAIV use in pregnancy is
+most likely to occur very early in the pregnancy, when a
+pregnancy may be unrecognized. For second- and third-trimester vaccinations, it is likely that the pregnancy was
+known and LAIV was administered owing to a lack of
+knowledge regarding the recommended use of the vaccine.
+Interestingly, LAIV vaccination in the second and third trimesters has not decreased in later years as LAIV use has
+become more widespread, which suggests that some groups
+of healthcare providers would benefit from increased education regarding the recommended use of LAIV.
+Hospitalizations or ED visits were uncommon within
+42 days of LAIV vaccination. All three hospitalizations that
+occurred were because of common causes of antepartum
+hospitalization: hyperemesis gravidarum, threatened premature labor, and pyelonephritis (all at a rate of 0Æ7%).
+Hyperemesis gravidarum has been reported to occur in
+0Æ3% to 1Æ5% of all live births, with most references reporting an incidence of 0Æ5%.14 Threatened premature labor is
+the most common non-delivery cause of hospitalization
+among pregnant women,15 with an incidence rate of firsttime hospitalization of 5Æ7% occurring in women from
+24 weeks gestational age through delivery.16 Antepartum
+hospitalization for pyelonephritis has been reported to
+occur in 1–2% of all pregnancies.17,18 The five ED visits
+within 42 days post-vaccination were because of common
+medical conditions, and three of the women had underlying illnesses that may have played contributing roles. The
+ED visit for bronchitis is notable given that LAIV is a live
+attenuated virus vaccine. It is not possible to determine
+whether there was a causal relationship between LAIV and
+the episode of bronchitis. Acute respiratory infections are
+common complications of pregnancy, and bronchitis has
+been found to occur in 1% of all pregnancies.19 While
+LAIV can cause minor upper respiratory symptoms such as
+rhinorrhea or sore throat, clinical studies of LAIV in
+healthy adults,20,21 children and adolescents with asthma,
+and older adults with chronic obstructive pulmonary disease have not shown an increase in medically attended
+respiratory events after vaccination.22,23 For the women
+hospitalized for delivery within 42 days of vaccination, the
+four diagnoses that were potentially new (polyhydramnios,
+anemia of pregnancy, premature rupture of membranes
+and transient hypertension) were all common obstetric
+complications that can be noted for the first time during a
+hospitalization for delivery.6,24
+For the five hospitalizations occurring later than 42 days
+post-vaccination, but before delivery, three were because of
+common obstetric conditions,6,25 one was because of a
+reoccurrence of pyelonephritis, and one was because of
+influenza. For the influenza hospitalization, the dates of
+vaccination and hospitalization suggest that the woman
+was immunised with 2008–2009 trivalent seasonal LAIV in
+December 2008 and diagnosed in August 2009 with pandemic H1N1 influenza. The 2008–2009 seasonal formulation of LAIV would not be expected to provide protection
+against pandemic H1N1 illness.26
+This analysis has several limitations. Despite the very
+large sample size, the actual number of women in the study
+who were exposed to LAIV during pregnancy was small.
+The available sample size was sufficient, with 95% probability, to detect at least one event for outcomes occurring at a
+frequency of 2Æ2% or greater. Additionally, the precision of
+rate estimates for hospitalization and ED visits because of
+specific adverse events among these vaccinated women is
+limited. Consequently, rates of events occurring after vaccination with TIV were not generated for comparison. Furthermore, claims data may not include all diagnoses
+experienced by a patient, and the codes may lack sufficient
+specificity for some conditions. Also, because the date of
+conception was estimated in this study, some misclassification of vaccine exposure by pregnancy status likely
+occurred. Our study also assumes that there is accurate
+coding of medical conditions and procedures via specific
+coding systems. Coding errors could result in classifying
+another medication or vaccine as LAIV or classifying LAIV
+as another vaccine. Generally, the rare nature of such errors
+has minimal impact on quantifying the rate of common
+events. However, for rare events, such as LAIV vaccination
+among pregnant women, such errors can erroneously overor underestimate the rate of the event of interest. Coding
+errors may explain the five subjects who had claims for
+TIV and LAIV on the same day. Additionally, as noted previously, the 2008–2009 cohort would not include first-trimester vaccinations of women with deliveries after
+September 2009; however, these vaccinations would have
+been expected to occur in January through June, months in
+which LAIV vaccination was rare in the other influenza
+seasons evaluated. Consequently, the number of 2008–2009
+vaccinations that were not captured is expected to be low.
+This study is also limited by its lack of claims data
+regarding birth outcomes. The database we used was
+unable to link maternal claims data to the claims data
+describing their offspring. However, existing data from
+clinical study case reports and spontaneous reports to
+VAERS have not demonstrated any increased risk of
+adverse fetal outcomes with LAIV administration during
+pregnancy. In an analysis of 49 live births whose mothers
+were vaccinated with LAIV while pregnant, 36 infants were
+described as ‘healthy’, 11 had no additional details
+reported, one infant was delivered prematurely (32–
+33 weeks gestational age), and one infant was born with
+clinodactyly,27 a relatively common hand anomaly characOutcomes in women who received LAIV while pregnant
+ª 2011 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 6, 44–51 49
+terized by curvature of the fifth finger toward the adjacent
+fourth finger. Also, no vaccine-related fetal malformations
+or other evidence of teratogenesis were noted in animal
+developmental toxicity studies.28 Despite the lack of data
+regarding outcomes after fetal exposure to LAIV, it is reassuring to note that there is no known fetal injury that has
+been linked to maternal exposure to wild-type influenza,
+unlike wild-type viruses for which other live vaccines exist
+(e.g., varicella and rubella).29,30
+Finally, we limited evaluated pregnancies to those resulting in the delivery of a child and did not assess spontaneous abortions. Spontaneous abortions may not result in a
+medical encounter, making the accuracy of the calculations
+based on claims data unreliable. However, in an analysis of
+67 documented LAIV vaccinations during pregnancy from
+clinical trials and spontaneous VAERS reports, only eight
+(11Æ9%) cases resulted in spontaneous abortions,27 a proportion that is similar to or below reported national rates
+of spontaneous abortions and very similar to that reported
+for TIV in VAERS reports from 1990 to 2009.8,31,32
+Despite the aforementioned limitations, this study examined a very large database, which provided a broad reflection of real-world clinical practice within the U.S. The
+study’s unique contribution is the quantification of the frequency of LAIV vaccination during pregnancy and of medically attended adverse event frequencies, which cannot be
+estimated from spontaneous reporting systems such as
+VAERS. In this analysis, vaccination with LAIV during
+pregnancy was uncommon and did not reveal rates of
+maternal adverse events that differed from those known to
+occur in the general population of pregnant women. These
+data may offer some reassurance to providers and pregnant
+women in the event of inadvertent LAIV administration
+during pregnancy; however, these data do not support the
+routine use of LAIV in pregnant women.
+Acknowledgements
+This research was funded by MedImmune, LLC, Gaithersburg, MD. As part of a consulting agreement with RTI
+Health Solutions, MedImmune provided funding to support protocol development, data collection, analysis, and
+manuscript development activities associated with this
+manuscript. Editorial assistance in formatting the manuscript for submission was provided by Sue Myers, MSc,
+and Gerard P. Johnson, PhD, of Complete Healthcare
+Communications, Inc. (Chadds Ford, PA) and was funded
+by MedImmune, LLC.
+Conflict of Interest
+Drs Toback, Sifakis, and Ambrose are employees of MedImmune, LLC, and as such receive a salary from the company. Dr Tennis and Mr Calingaert are employees of RTI
+Health Solutions and provide customized research services
+as a condition of employment. Dr Beigi received no compensation for his work on this manuscript.
+References
+1 Fiore AE, Uyeki TM, Broder K et al. Prevention and control of influenza with vaccines: recommendations of the Advisory Committee
+on Immunization Practices (ACIP), 2010. MMWR Recomm Rep
+2010; 59:1–62.
+2 Lindsay L, Jackson LA, Savitz DA et al. Community influenza activity
+and risk of acute influenza-like illness episodes among healthy
+unvaccinated pregnant and postpartum women. Am J Epidemiol
+2006; 163:838–848.
+3 Neuzil KM, Reed GW, Mitchel EF, Simonsen L, Griffin MR. Impact
+of influenza on acute cardiopulmonary hospitalizations in pregnant
+women. Am J Epidemiol 1998; 148:1094–1102.
+4 American College of Obstetricians and Gynecologists (ACOG).
+Immunization updates for pregnant women in influenza season
+2010 Available at: http://www.acog.org/acog_sections/
+dist_notice.cfm?recno=27&bulletin=2592 (Accessed 6 April 2011).
+5 Mak TK, Mangtani P, Leese J, Watson JM, Pfeifer D. Influenza vaccination in pregnancy: current evidence and selected national policies. Lancet Infect Dis 2008; 8:44–52.
+6 Munoz FM, Greisinger AJ, Wehmanen OA et al. Safety of influenza
+vaccination during pregnancy. Am J Obstet Gynecol 2005;
+192:1098–1106.
+7 Centers for Disease Control and Prevention. Guidelines for vaccinating pregnant women. 2010 Available at: http://www.cdc.gov/
+vaccines/pubs/preg-guide.htm (Accessed 6 April 2011).
+8 Moro PL, Broder K, Zheteyeva Y et al. Adverse events in pregnant
+women following administration of trivalent inactivated influenza
+vaccine and live attenuated influenza vaccine in the Vaccine
+Adverse Event Reporting System, 1990–2009. Am J Obstet Gynecol
+2011; 204:146.e1–146.e7.
+9 Piedra PA, Gaglani MJ, Riggs M et al. Live attenuated influenza vaccine, trivalent, is safe in healthy children 18 months to 4 years, 5 to
+9 years, and 10 to 18 years of age in a community-based, nonrandomized, open-label trial. Pediatrics 2005; 116:e397–e407.
+10 Tran CH, McElrath J, Hughes P et al. Implementing a communitysupported school-based influenza immunization program. Biosecur
+Bioterror 2010; 8:331–341.
+11 Martin JA, Hamilton BE, Sutton PD et al. Births: Final Data for 2006
+National Vital Statistics Reports; vol 57 no 7. Hyattsville, MD,
+National Center for Health Statistics, 2009.
+12 Cole JA, Modell JG, Haight BR, Cosmatos IS, Stoler JM, Walker AM.
+Bupropion in pregnancy and the prevalence of congenital malformations. Pharmacoepidemiol Drug Saf 2007; 16:474–484.
+13 Andrade SE, Raebel MA, Morse AN et al. Use of prescription medications with a potential for fetal harm among pregnant women.
+Pharmacoepidemiol Drug Saf 2006; 15:546–554.
+14 Verberg MF, Gillott DJ, Al-Fardan N, Grudzinskas JG. Hyperemesis
+gravidarum, a literature review. Hum Reprod Update 2005; 11:527–
+539.
+15 Bennett TA, Kotelchuck M, Cox CE, Tucker MJ, Nadeau DA. Pregnancy-associated hospitalizations in the United States in 1991 and
+1992: a comprehensive view of maternal morbidity. Am J Obstet
+Gynecol 1998; 178:346–354.
+16 McPheeters ML, Miller WC, Hartmann KE et al. The epidemiology
+of threatened preterm labor: a prospective cohort study. Am J
+Obstet Gynecol 2005; 192:1325–1329; discussion 1329–1330.
+Toback et al.
+50 ª 2011 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 6, 44–51
+17 Jolley JA, Wing DA. Pyelonephritis in pregnancy: an update on treatment options for optimal outcomes. Drugs 2010; 70:1643–1655.
+18 Millar LK, Cox SM. Urinary tract infections complicating pregnancy.
+Infect Dis Clin North Am 1997; 11:13–26.
+19 Banhidy F, Acs N, Puho EH, Czeizel AE. Maternal acute respiratory
+infectious diseases during pregnancy and birth outcomes. Eur J Epidemiol 2008; 23:29–35.
+20 Nichol KL, Mendelman PM, Mallon KP et al. Effectiveness of
+live, attenuated intranasal influenza virus vaccine in healthy, working adults: a randomized controlled trial. JAMA 1999; 282:
+137–144.
+21 Treanor JJ, Kotloff K, Betts RF et al. Evaluation of trivalent, live,
+cold-adapted (CAIV-T) and inactivated (TIV) influenza vaccines in
+prevention of virus infection and illness following challenge of
+adults with wild-type influenza A (H1N1), A (H3N2), and B viruses.
+Vaccine 1999; 18:899–906.
+22 Fleming DM, Crovari P, Wahn U et al. Comparison of the efficacy
+and safety of live attenuated cold-adapted influenza vaccine, trivalent, with trivalent inactivated influenza virus vaccine in children and
+adolescents with asthma. Pediatr Infect Dis J 2006; 25:860–869.
+23 Gorse GJ, O’Connor TZ, Young SL et al. Impact of a winter respiratory virus season on patients with COPD and association with influenza vaccination. Chest 2006; 130:1109–1116.
+24 Cardwell MS. Polyhydramnios: a review. Obstet Gynecol Surv 1987;
+42:612–617.
+25 Giuntoli R, Yeh IT, Bhuett N, Chu W, Van Leewen K, Van der Lans
+P. Conservative management of cervical intraepithelial neoplasia
+during pregnancy. Gynecol Oncol 1991; 42:68–73.
+26 Hancock K, Veguilla V, Lu X et al. Cross-reactive antibody responses
+to the 2009 pandemic H1N1 influenza virus. N Engl J Med 2009;
+361:1945–1952.
+27 Toback SL, Falloon J, Ambrose CS. Case reports on maternal and
+fetal outcomes after exposure to LAIV during pregnancy. National
+Immunization Conference; 2010 April 19–22; Atlanta, GA.
+28 FluMist (Influenza Virus Vaccine Live, Intranasal, Full prescribing
+information). Full Prescribing Information. Gaithersburg, MD: MedImmune, 2010.
+29 Watson JC, Hadler SC, Dykewicz CA, Reef S, Phillips L. Measles,
+mumps, and rubella – vaccine use and strategies for elimination of
+measles, rubella, and congenital rubella syndrome and control of
+mumps: recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep 1998; 47:1–57.
+30 Marin M, Guris D, Chaves SS, Schmid S, Seward JF. Prevention of
+varicella: recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep 2007; 56:1–40.
+31 Everett C. Incidence and outcome of bleeding before the 20th
+week of pregnancy: prospective study from general practice. BMJ
+1997; 315:32–34.
+32 Wilcox AJ, Weinberg CR, O’Connor JF et al. Incidence of early loss
+of pregnancy. N Engl J Med 1988; 319:189–194.
+Outcomes in women who received LAIV while pregnant
+ª 2011 Blackwell Publishing Ltd, Influenza and Other Respiratory Viruses, 6, 44–51 51

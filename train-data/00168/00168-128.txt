@@ -1,0 +1,616 @@
+Downloaded from https://journals.lww.com/greenjournal by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3gMUBbG+M1ZWrSZ5tFj06gTKIFEXBEyrTftVaG7rtdW/b5QhIwu+IqQ== on 10/15/2019
+10/15/2019 on BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3gMUBbG+M1ZWrSZ5tFj06gTKIFEXBEyrTftVaG7rtdW/b5QhIwu+IqQ== by https://journals.lww.com/greenjournal from Downloaded
+Maternal Safety of Trivalent Inactivated
+Influenza Vaccine in Pregnant Women
+James D. Nordin, MD, MPH, Elyse Olshen Kharbanda, MD, MPH, Gabriela Vazquez Benitez, PhD,
+Kristin Nichol, MD, MPH, MBA, Heather Lipkind, MD, MPH, Allison Naleway, PhD, Grace M. Lee, MD, MPH,
+Simon Hambidge, MD, PhD, Wei Shi, MPH, and Avalow Olsen, BS
+OBJECTIVE: To estimate the risks for medically attended
+events occurring within 42 days of receiving trivalent
+inactivated influenza vaccine and to evaluate specific
+risks of first-trimester vaccination.
+METHODS: This retrospective observational cohort
+study compared rates of medically attended adverse
+events in trivalent inactivated influenza-vaccinated and
+unvaccinated pregnant women in the Vaccine Safety
+Datalink. Using a Poisson distribution and log link, we
+calculated maternal adjusted incident rate ratios for
+composite safety outcomes for the full cohort and the
+subset vaccinated during the first trimester.
+RESULTS: The cohort included 75,906 vaccinated (28.4%
+in the first trimester) and 147,992 unvaccinated women
+matched by age, site, and pregnancy start date. In the
+first 3 days after vaccination, trivalent inactivated influenza vaccine was not associated with increased risk of
+specified medically attended events, including allergic
+reactions, cellulitis, and seizures (full cohort adjusted
+incident rate ratio 1.12, 95% confidence interval [CI]
+0.81–1.55; P5.48; first-trimester adjusted incident rate
+ratio .97, 95% CI 0.53–1.78; P5.93). In the first 42 days,
+no incident cases of Guillain-Barre´ syndrome, optic neuritis, transverse myelitis, or Bells palsy were identified.
+Trivalent inactivated influenza vaccine was not associated
+with thrombocytopenia (full cohort adjusted incident
+rate ratio 0.90, 95% CI 0.68–1.19; P5.45; first-trimester
+adjusted incident rate ratio 0.56, 95% CI 0.22–1.39;
+P5.21) or an acute neurologic event (full cohort
+adjusted incident rate ratio 0.92, 95% CI 0.54–1.6;
+P5.75; first-trimester adjusted incident rate ratio 1.05,
+95% CI 0.46–2.38; P5.91).
+CONCLUSIONS: Receipt of trivalent inactivated influenza vaccine during pregnancy was not associated with
+increased risk of adverse events in the 42 days after
+vaccination, supporting its safety for the mother.
+(Obstet Gynecol 2013;121:519–25)
+DOI: http://10.1097/AOG.0b013e3182831b83
+LEVEL OF EVIDENCE: II
+Pregnant women are at increased risk for serious
+complications from influenza.1,2 The increased
+burden of influenza during pregnancy was pronounced during the H1N1 pandemic;3–5 however,
+even in nonpandemic seasons, pregnant women are
+more likely than nonpregnant women to have an
+influenza-related hospitalization.1 Influenza infection
+during pregnancy also can adversely affect fetal
+growth and is a risk for preterm delivery.6,7 When
+administered during pregnancy, the trivalent inactivated influenza vaccine can prevent these adverse outcomes for expectant mothers and their fetuses.8–10
+Since 1997, the trivalent inactivated influenza
+vaccine has been recommended for otherwise healthy
+See related editorial on page 503.
+From the HealthPartners Institute for Education and Research, and Minneapolis
+VA Health Care System and University of Minnesota, Minneapolis, Minnesota;
+the Department of Obstetrics and Gynecology, Yale University, New Haven,
+Connecticut; Northwest Kaiser Permanente, Portland, Oregon; the Department of
+Population Medicine, Harvard Pilgrim Health Care Institute and Harvard
+Medical School, Boston, Massachusetts; and Kaiser Permanente Institute for
+Health Research, and Denver Health Community Health Services, Denver,
+Colorado.
+Supported by a subcontract with America’s Health Insurance Plans under contract 200-2002-00732 from the Centers for Disease Control and Prevention.
+The authors thank Beth Molitor, MBA, Leslie Kuckler, MPH, Rachel Gold, PhD,
+MPH, Karen Riedlinger, MPH, and Samantha Kurosky, MPH, for their assistance with data collection, and Mary VanBeusekom for her assistance in editing
+the manuscript.
+Corresponding author: James D. Nordin, MD, MPH, HealthPartners Institute
+for Education and Research, PO Box 1524, MS 21111R, Minneapolis, MN
+55425; email: James.D.Nordin@HealthPartners.com.
+Financial Disclosure
+Dr. Nichol has served on medical advisory boards for influenza vaccine
+manufacturers, including MedImmune, Sanofi Pasteur, GlaxoSmithKline, and
+Novartis. Dr. Naleway has received research funding from GlaxoSmithKline. The
+other authors did not report any potential conflicts of interest.
+© 2013 by The American College of Obstetricians and Gynecologists. Published
+by Lippincott Williams & Wilkins.
+ISSN: 0029-7844/13
+VOL. 121, NO. 3, MARCH 2013 OBSTETRICS & GYNECOLOGY 519
+women in their second or third trimester of pregnancy.
+In 2004, the Advisory Committee on Immunization
+Practices changed its recommendations to include
+women in any stage of pregnancy.11 These recommendations have been strongly endorsed by the
+American College of Obstetricians and Gynecologists.12 However, concerns regarding vaccine safety
+during pregnancy remain a persistent barrier to vaccination.13,14 Data from clinical trials,9,15,16 passive surveillance,17 and observational studies18 have not
+suggested any associations between the trivalent inactivated influenza vaccine and maternal or fetal
+adverse events. However, previous studies have been
+underpowered to detect rare outcomes, and no previous studies have adequately assessed the safety of
+first-trimester vaccination.19
+Using a large, geographically diverse, retrospective cohort of pregnant women, the goals of this study
+were to estimate the risks for medically attended
+events occurring within 42 days of receiving trivalent
+inactivated influenza vaccine and to evaluate specific
+risks of first-trimester vaccination.
+MATERIALS AND METHODS
+In this retrospective observational cohort study, we
+compared rates of medically attended adverse events
+in pregnant women vaccinated with trivalent inactivated influenza vaccine and unvaccinated pregnant
+women in the Vaccine Safety Datalink. The Vaccine
+Safety Datalink is a collaborative effort between the
+Centers for Disease Control and Prevention Immunization Safety Office and 10 health care systems across
+the United States. It includes data for 9.5 million
+individuals, comprising 3% of the United States
+population.20 The current study is first large cohort
+study of vaccine safety during pregnancy for the Vaccine Safety Datalink.21
+Seven Vaccine Safety Datalink sites (Group
+Health Cooperative, HealthPartners, Kaiser Permanente Colorado, Kaiser Permanente Northwest, Kaiser
+Permanente Northern California, Kaiser Permanente
+Southern California, and Marshfield Clinic Research
+Foundation) contributed data for this study. This study
+was approved by the Institutional Review Boards of all
+involved sites. All data were derived from claims and
+electronic medical records from the health care organizations. Pregnant women enrolled at those sites were
+identified using a previously validated algorithm developed by Hornbrook et al22 and data were adapted for
+use in the Vaccine Safety Datalink by Naleway et al.23
+The algorithm uses a hierarchical approach to identify
+pregnancy episodes, pregnancy outcomes (live births,
+still births, spontaneous abortions, therapeutic abortions,
+ectopic pregnancies, and gestational trophoblastic disease), and gestational age at pregnancy outcome. The
+algorithm calculates a pregnancy start date equivalent to
+the estimated last menstrual period. The first trimester
+was defined as less than 14 weeks of gestation, the second trimester was defined as 14 to less than 28 weeks,
+and the third trimester was defined as 28 weeks or more
+of gestation. In a recent validation of this algorithm,
+99% of live births were confirmed to occur within 30
+days of the algorithm-defined dates, and there was 98%
+agreement in gestational age between the algorithm and
+manual chart review.23 Additional strategies used in this
+algorithm to assign gestational age in weeks based on
+the timing of common prenatal procedures have been
+previously described.21
+Women were retained in the cohort if they had
+continuous insurance enrollment with no more than
+a 30-day administrative enrollment gap from 6
+months before the start of pregnancy until 2 months
+after the end of pregnancy. The following pregnancies
+were excluded: multiple gestation pregnancies;
+ectopic pregnancies; gestational trophoblastic disease;
+therapeutic abortions; and pregnancies in which the
+outcome could not be determined based on available
+data. In addition, women with no medical encounters
+during pregnancy were excluded (Appendix 1, available online at http://links.lww.com/AOG/A348).
+Receipt of trivalent inactivated influenza vaccine
+was identified from the Vaccine Safety Datalink vaccine
+files. The data sources for these files vary slightly across
+sites but generally include vaccines captured through
+claims and site-based vaccine registries. Data of workplace or pharmacy vaccination were available only
+when manually entered by a health care provider, on
+the basis of patient report. Exclusions included women
+receiving trivalent inactivated influenza vaccine within
+2 weeks of their estimated pregnancy start (because of
+some uncertainty regarding dates). To avoid including
+vaccines administered postpartum, women vaccinated
+within 1 week of their pregnancy end date also were
+excluded. In addition, women receiving other vaccines
+during pregnancy were excluded.
+After applying these inclusion and exclusion
+criteria, all pregnant women 14 through 49 years old
+retained in the cohort who received trivalent inactivated influenza vaccine during the 2002–2003 through
+the 2008–2009 influenza seasons were matched 1:2
+with replacement to unvaccinated women using a variable optimal matching algorithm.24 The original algorithm was modified so that matched vaccinated and
+unvaccinated women would be equally likely to be
+vaccinated during the same risk window. Match variables included age at pregnancy outcome (61 year),
+520 Nordin et al Influenza Vaccine Safety in Pregnant Women OBSTETRICS & GYNECOLOGY
+estimated pregnancy start date (630 days), and Vaccine Safety Datalink site. Unexposed women were assigned an index date equal to the trivalent inactivated
+influenza vaccine–exposed woman’s gestational age at
+vaccination.
+Adverse events were identified from International
+Classification of Diseases 9th Edition, Clinical Modification (ICD-9-CM) codes from inpatient, outpatient, or emergency department visits. Events on the
+day of vaccination (day 0) were included only if
+diagnosed at an inpatient or emergency department
+visit. Specific outcomes and windows were selected
+a priori based on biologic plausibility and past
+Vaccine Safety Datalink research on influenza vaccine
+safety in nonpregnant populations.25–28 For the first
+3 days after vaccination, outcomes included allergic
+reactions, cellulitis, fever or malaise, limb soreness or
+swelling, rash, seizures, and altered mental status.
+For the first 42 days after vaccination, outcomes
+included autonomic disorders, cranial nerve disorders, degeneration of the central nervous system,
+demyelinating disease, peripheral neuropathy or
+neuritis, Guillain-Barré syndrome, meningoencephalitides, movement disorders, myoneural disorders,
+paralytic syndromes, psychoses, spinocerebellar
+disease, myocarditis or pericarditis, and thrombocytopenia. To improve specificity for Guillain-Barré
+syndrome, only inpatient diagnoses were included.
+Appendix 2 (http://links.lww.com/AOG/A349) provides a complete listing of outcomes and their specific
+ICD-9-CM codes. Outcomes were included only if
+they represented new events. Washout periods to
+exclude pre-existing conditions were applied, and
+they varied by outcome (Appendix 2, available online
+at http://links.lww.com/AOG/A349).
+As previously described, vaccinated and unvaccinated cohorts were matched by age, site, and estimated pregnancy start date. Data of additional
+covariates that may have differed between these
+cohorts also were gathered.14 Pre-existing conditions
+(diabetes mellitus, heart disease, hypertension, neurologic disease, and pulmonary disease) and pregnancyrelated conditions (gestational diabetes, gestational
+hypertension, and preeclampsia) were identified from
+automated claims data from 6 months before pregnancy through the date of vaccination or index date.
+Receipt of medical care during the first trimester and
+hospitalization before the vaccination or index date
+also were recorded. In the absence of socioeconomic
+variables at the individual level, we used geocode files
+to describe, for each participant, the percentage of
+families in their census tract whose income was less
+than 150% of the federal poverty level.29 In the
+absence of a geocode, data for poverty was imputed
+using the expectation maximization algorithm.30
+We used x2 and Mann-Whitney U tests to compare baseline characteristics in vaccinated and unvaccinated populations (Tables 1). We report 0-day to
+3-day and 1-day to 42-day rates for potential adverse
+events in our exposed and unexposed cohorts per
+10,000 pregnancies. Crude associations between individual outcomes and trivalent inactivated influenza
+vaccine were analyzed using exact x2 tests.
+Using the generalized estimating equation method
+to account for the matching effect, with a Poisson
+distribution and log link, we calculated maternal
+incident rate ratios for the following composite safety
+outcomes: any event occurring 0–3 days after vaccination (Table 2); any neurologic event occurring 1–42
+days after vaccination; and thrombocytopenia (Table 3).
+Incident rate ratios were adjusted for receipt of medical care during the first trimester, hospitalization,
+and high-risk conditions before the vaccination or index
+date. Associations are presented as 0-day to 3-day or 1-
+day to 42-day adjusted incident rate ratios and 95%
+confidence intervals (CIs). Analyses were conducted
+for the entire cohort and for the subset of women vaccinated during the first trimester. In addition, we evaluated whether a cluster effect was present because of
+women with multiple pregnancies over the 7-year
+period or because of sampling controls with replacement. Results did not differ from our main analysis.
+Because the intraclass correlation was minimal for most
+models (,.001), and some models did not converge;
+these effects were ignored in the main analyses.31
+Most of the acute safety outcomes undergoing
+investigation (groups of ICD-9-CM codes) were
+expected to have 42-day incident background rates of
+approximately 1 per 10,000 women.32 Analyses for
+these outcomes had 80% power to detect a difference
+of 0.05% or an adjusted incident rate ratio of 1.5 with an
+a of 0.05. All analyses were performed using SAS 9.2.
+RESULTS
+Across the seven participating sites, from 1 June 2002
+through 31 July 2009, a total of 807,563 pregnancies
+among women aged 14 through 49 years were identified
+from administrative and claims data. After applying
+exclusions, 407,745 pregnancies remained; 19% received
+trivalent inactivated influenza vaccine while pregnant.
+Our final cohort consisted of 75,906 trivalent inactivated
+influenza vaccine–exposed pregnancies matched by
+age, Vaccine Safety Datalink site, and estimated pregnancy start date with 147,992 unvaccinated women
+(Appendix 1 [http://links.lww.com/AOG/A348] provides a detailed diagram of inclusions and exclusions.)
+VOL. 121, NO. 3, MARCH 2013 Nordin et al Influenza Vaccine Safety in Pregnant Women 521
+Table 1. Medically Attended Acute Events During the First 3 Days After Trivalent Inactivated Influenza
+Vaccination (or Index Date)*
+Event Vaccinated (n575,906) Unvaccinated (n5147,992) P
+Allergic reactions 6 (.8) 10 (.7) .79
+Cellulitis 10 (1.3) 21 (1.4) 1.0
+Fever or malaise 13 (1.7) 27 (1.8) 1.0
+Limb soreness or swelling 0 (0) 0 (0)
+Rash 15 (2) 21 (1.4) .38
+Seizures 1 (.1) 0 (0) .34
+Altered mental status 15 (2) 22 (1.5) .39
+Any event in the first 3 d, first-trimester exposures
+n (rate per 10,000) 16 (7.3) 31 (7.3)
+Adjusted incident rate ratio (95% CI)† 0.97 (0.53–1.78) Reference .93
+Any event in the first 3 d, full cohort
+n (rate per 10,000) 59 (7.8) 101 (6.8)
+Adjusted incident rate ratio (95% CI)† 1.12 (.81–1.55) Reference .48
+CI, confidence interval.
+Data are n (rate per 10,000 vaccinees) unless otherwise specified.
+* 0-day events include emergency or inpatient diagnoses; 0-day outpatient diagnoses are excluded.
+† Adjusted incident rate ratios (95% CI) and P from generalized estimating equation model accounting for the matching effect and adjusted
+for pre-existing high-risk conditions, receipt of care in the first trimester, and hospitalization before the vaccination or index date.
+Table 2. Medically Attended Acute Events Occurring in the First 42 Days After Trivalent Inactivated
+Influenza Vaccination (or Index Date)
+Event Vaccinated (n575,906) Unvaccinated (n5147,992) P
+Neurologic outcomes
+Autonomic disorders 1 (0.1) 4 (0.3) .67
+Cranial nerve disorders 0 (0) 0 (0) —
+Degenerations of the central nervous system 1 (0.1) 0 (0) .34
+Demyelinating disease 1 (0.1) 12 (.8) .07
+Peripheral neuropathy or neuritis 12 (1.6) 22 (1.5) .85
+Guillain-Barre´ syndrome* 0 (0) 1 (0.1) .34
+Meningoencephalitides 3 (0.4) 3 (0.2) .41
+Movement disorders 0 (0) 0 (0) —
+Myoneural disorders 1 (0.1) 1 (.1) 1.0
+Paralytic syndromes 1 (0.1) 1 (0.1) 1.0
+Psychoses 5 (0.7) 6 (0.4) .53
+Spinocerebellar disease 0 (0) 1 (0.1) 1.0
+Other outcomes
+Myocarditis or pericarditis 1 (0.1) 0 (0) .34
+Thrombocytopenia 80 (10.4) 170 (11.5) .55
+Any neurologic event in the first 42 d, first-trimester exposures
+n (rate per 10,000) 9 (4.1) 16 (3.8)
+Adjusted incident rate ratio (95% CI)† 1.05 (0.46–2.38) Reference .91
+Any neurologic event in the first 42 d, full cohort
+n (rate per 10,000) 22 (2.9) 45 (2.9)
+Adjusted incident rate ratio (95% CI)† 0.92 (0.54–1.56) Reference .75
+Thrombocytopenia in the first 42 d, first-trimester exposures
+n (rate per 10,000) 6 (2.7) 20 (4.7)
+Adjusted incident rate ratio (95% CI)† 0.56 (.22–1.39) Reference .21
+Thrombocytopenia in the first 42 d, full cohort
+n (rate per 10,000) 80 (10.4) 170 (11.5)
+Adjusted incident rate ratio (95% CI)† 0.90 (0.68–1.19) Reference .45
+CI, confidence interval.
+Data are n (rate per 10,000 vaccinees) unless otherwise specified.
+* Only inpatient Guillain-Barre´ syndrome diagnoses were included. † Adjusted incident rate ratios (95% CI) and P from generalized estimating equation model accounting for cluster matching effect and
+adjusted for high-risk pregnancy, receipt of care in the first trimester, and hospitalization before vaccination or index date.
+522 Nordin et al Influenza Vaccine Safety in Pregnant Women OBSTETRICS & GYNECOLOGY
+The mean age of our cohort was 30.865.6 years.
+Vaccination occurred in all three trimesters, including
+21,553 women (28.4%) vaccinated during their first
+trimester, 33,553 (44.2%) vaccinated during their second trimester, and 20,800 (27.4%) vaccinated during
+their third trimester. Although most women received
+medical care in the first trimester, rates were slightly
+higher among vaccinated women (88.8% compared
+with 86.4%). Compared with the unexposed, trivalent
+inactivated influenza vaccine–exposed women were
+more likely to have a pre-existing condition (14.5%
+compared with 11.7%), but they were somewhat less
+likely to be hospitalized before their vaccination or
+index date (5.3% compared with 5.7%).
+Rates for medically attended allergic reactions,
+skin infections, fever and malaise, rash, seizures, or
+altered mental status events 0–3 days after vaccination
+were low; none exceeded 2 per 10,000 among both
+the vaccinated and unvaccinated women. Compared
+with unvaccinated women, no increase was observed
+in the incidence of 0-day to 3-day events among vaccinated women (Table 1). In multivariable regression
+models, after accounting for the matching effect and
+adjusting for pre-existing conditions, receipt of care in
+the first trimester, and hospitalization before their vaccination or index date, in the first 3 days after vaccination, receipt of trivalent inactivated influenza
+vaccine was not associated with having a medically
+attended event (adjusted incident rate ratio 1.12,
+95% CI 0.81–1.55; P5.48). Similarly, in a regression
+model restricted to first-trimester vaccinees and their
+unexposed matches, in the first 3 days after vaccination, trivalent inactivated influenza vaccination was
+not associated with having a medically attended event
+(adjusted incident rate ratio 0.97, 95% CI 0.53–1.78;
+P5.93).
+The most common safety outcome in the 42 days
+after vaccination or index date among both vaccinated
+and unvaccinated pregnant women was thrombocytopenia, which occurred at a rate of 10.4 per 10,000
+vaccinees and 11.5 per 10,000 unexposed women.
+Among vaccinated women, there were no cases of
+Guillian-Barré syndrome, optic neuritis, Bells palsy, or
+transverse myelitis. For most other outcomes during
+the first 42 days, incident rates were less than 1 per
+10,000 vaccinees or unexposed women. We found no
+evidence of increased risk in the 42 days after receiving
+the trivalent inactivated influenza for any prespecified
+neurologic outcome, myocarditis or pericarditis, or
+thrombocytopenia (Table 2). After accounting for the
+matching effect and adjusting for pre-existing conditions, receipt of care in the first trimester, and hospitalization before the vaccination or index date, in the first
+42 days trivalent inactivated influenza vaccination was
+not associated with receiving a new diagnosis of thrombocytopenia (adjusted incident rate ratio 0.90, 95%
+CI 0.68–1.19; P5.45) or an acute neurologic event
+(adjusted incident rate ratio 0.92, 95% CI 0.54–1.56;
+P5.75) Similarly, in analyses restricted to women
+receiving trivalent inactivated influenza vaccine during
+their first trimester and their unexposed matches, trivalent inactivated influenza vaccination was not associated with a new episode of thrombocytopenia (adjusted
+incident rate ratio 0.56, 95% CI 0.22–1.39; P5.21) or
+an acute neurologic event (adjusted incident rate ratio
+1.05, 95% CI 0.46–2.38; P5.91).
+DISCUSSION
+In this observational multisite study of 75,906 women
+who received trivalent inactivated influenza vaccine
+during pregnancy, no increased risk for adverse events
+after vaccination was observed in the first 6 weeks after
+vaccination. In the United States, it is estimated that
+six million women become pregnant each year.33 Most
+are pregnant for at least a portion of the influenza
+season and therefore are strongly encouraged to be
+Table 3. Baseline Comparisons Between Women
+Exposed and Not Exposed to the Trivalent
+Inactivated Influenza Vaccine During
+Pregnancy
+Characteristic
+Vaccinated
+(n575,906)
+Unvaccinated
+(n5147,992) P
+Age (y) at pregnancy
+outcome
+Younger than 20 3.9 3.9 .64
+20—34 70.5 70.6
+35 or older 25.6 25.5
+Medical care during
+first trimester
+88.8 86.4 ,.001
+Hospitalized before
+vaccination or index
+date
+5.3 5.7 .002
+High-risk condition
+before vaccination
+or index date*
+14.5 11.7 ,.001
+Poverty† 13.0360.12 14.960.13 ,.001
+Gestational age at
+delivery (wk)‡
+39.0261.62 38.9961.68 ,.001
+Data are % unless otherwise specified.
+* Medical conditions (diabetes mellitus, gestational diabetes, heart
+disease, hypertension, gestational hypertension, preeclampsia,
+neurologic disease, or pulmonary disease) diagnosed during an
+outpatient, emergency, or inpatient medical encounter from 6
+months before estimated pregnancy start date through the
+vaccination or index date. † Percentage of families in census tract with income less than 150%
+of the federal poverty level. ‡ For pregnancies ending in a live birth.
+VOL. 121, NO. 3, MARCH 2013 Nordin et al Influenza Vaccine Safety in Pregnant Women 523
+vaccinated. This study should reassure these women
+and their health care providers of the safety of influenza vaccination for the outcomes we studied.
+Our study is unique because we report on a large
+geographically diverse cohort of women, including
+more than 20,000 women vaccinated during the first
+trimester. Thus, our findings greatly expand on previous observational studies by Deinard et al34 and
+Munoz et al.18 In 1981, Deinard et al studied 189 trivalent inactivated influenza vaccine–exposed and 517
+unexposed pregnant women and found no differences
+in maternal, perinatal, or neonatal complications.34
+More recently, in 2005, Munoz et al evaluated the
+safety of trivalent inactivated influenza vaccine administered to 252 pregnant women during their second
+trimester or third trimester of pregnancy. When compared with 826 matched unvaccinated pregnant
+women, no increased risk for adverse events in the first
+42 days after vaccination was observed. In addition,
+Munoz et al18 reported no difference in pregnancy or
+neonatal outcomes between the trivalent inactivated
+influenza vaccine-exposed and unexposed women.
+Our findings complement and expand on results
+recently reported from the Vaccine Adverse Event
+Reporting System. Moro and colleagues reviewed the
+Vaccine Adverse Event Reporting System reports
+among pregnant women who received the trivalent
+inactivated influenza vaccine from 1 July 1990 through
+30 June 2009. In this 20-year period, only 148 adverse
+events after receiving the trivalent inactivated influenza
+vaccine in pregnancy were identified; 20 (13.5%)
+reports were classified as serious. No unusual patterns
+of pregnancy complications or fetal outcomes were
+observed. Three reports of Guillain-Barré syndrome in
+pregnant women who received the trivalent inactivated
+influenza vaccine were noted in the Vaccine Adverse
+Event Reporting System; two of these cases were confirmed by chart review.35 As a passive reporting system, these reports are from an unknown denominator
+of pregnant vaccinated women. Background rates of
+Guillain-Barré syndrome in women of reproductive
+age range from 1.5 to 2.3 per 100,000 person-years;32
+risks for Guillain-Barré may increase up to threefold for
+women during the first 30 days postpartum.36 Although
+we were underpowered to detect differences in rates of
+Guillain-Barré syndrome between trivalent inactivated
+influenza vaccine–exposed and unexposed women, it is
+reassuring that we had no incident cases in more than
+76,000 vaccinated women.
+Several limitations to this study should be noted.
+First, as with all observational studies, there was potential
+for confounding by indication. At baseline, vaccinated
+women were more likely to have a chronic medical
+condition such as asthma and diabetes, whereas unvaccinated women were slightly more likely to have been
+hospitalized during the baseline period. We were able to
+adjust for these baseline differences in our multivariable
+models. However, it is likely that, similar to nonpregnant
+populations, other unmeasured confounders differed
+between vaccinated and unvaccinated women.37
+Second, data regarding whether women received
+the trivalent inactivated influenza vaccine were from
+claims or electronic medical record–based registries.
+Women vaccinated at nonmedical sites may have been
+misclassified as unexposed, potentially biasing our
+results. In a recent survey, up to 13% of women
+receiving the trivalent inactivated influenza vaccine
+while pregnant during the 2010–2011 influenza season
+did so at a pharmacy, other store, school, or workplace.38 Rates for women in our cohort to receive the
+trivalent inactivated influenza vaccine at alternative
+sites were likely to be lower, but data about the site
+of vaccination among pregnant women for 2002–2009
+is limited. Third, our choice of ICD-9-CM codes and
+outcomes were based on extensive previous research in
+the Vaccine Safety Datalink. However, these outcomes
+are still prone to misclassification because of errors in
+coding. Both of these limitations may have reduced our
+power to detect acute safety signals. In addition, we
+were able to assess only medically attended adverse
+events. Thus, our estimated rates for mild events such
+as malaise or limb soreness are probably underestimates of their true rates. Furthermore, despite the large
+size of our cohort, we had insufficient power to detect
+increased risks for rare events or to conduct subgroup
+analyses by year or vaccine manufacturer.
+In this large observational cohort study, receipt of
+the trivalent inactivated influenza vaccine during
+pregnancy was not associated with increased risk of
+medically attended acute adverse events in the 6 weeks
+after immunization. These findings should reassure
+pregnant women and their health care providers that
+the seasonal influenza vaccination is unlikely to cause
+the complications included in our study.
+REFERENCES
+1. Neuzil KM, Reed GW, Mitchel EF, Simonsen L, Griffin MR.
+Impact of influenza on acute cardiopulmonary hospitalizations
+in pregnant women. Am J Epidemiol 1998;148:1094–102.
+2. Dodds L, McNeil SA, Fell DB, Allen VM, Coombs A, Scott J,
+et al. Impact of influenza exposure on rates of hospital admissions and physician visits because of respiratory illness among
+pregnant women. CMAJ 2007;176:463–8.
+3. Creanga AA, Johnson TF, Graitcer SB, Hartman LK,
+Al-Samarrai T, Schwarz AG, et al. Severity of 2009 pandemic
+influenza A (H1N1) virus infection in pregnant women. Obstet
+Gynecol 2010;115:717–26.
+524 Nordin et al Influenza Vaccine Safety in Pregnant Women OBSTETRICS & GYNECOLOGY
+4. Louie JK, Acosta M, Jamieson DJ, Honein MA. Severe 2009
+H1N1 influenza in pregnant and postpartum women in California.
+N Engl J Med 2010;362:27–35.
+5. Siston AM, Rasmussen SA, Honein MA, Fry AM, Seib K,
+Callaghan WM, et al. Pandemic 2009 influenza A(H1N1) virus
+illness among pregnant women in the United States. JAMA
+2010;303:1517–25.
+6. Maternal and infant outcomes among severely ill pregnant and
+postpartum women with 2009 pandemic influenza A (H1N1)–
+United States, April 2009-August 2010. MMWR Morb Mortal
+Wkly Rep 2011;60:1193–6.
+7. Pierce M, Kurinczuk JJ, Spark P, Brocklehurst P, Knight M.
+Perinatal outcomes after maternal 2009/H1N1 infection:
+national cohort study. BMJ 2011;342:d3214.
+8. Fell DB, Sprague AE, Liu N, Yasseen AS 3rd, Wen SW,
+Smith G, et al. H1N1 influenza vaccination during pregnancy
+and fetal and neonatal outcomes. Am J Public Health 2012;102:
+e33–40.
+9. Zaman K, Roy E, Arifeen SE, Rahman M, Raqib R, Wilson E,
+et al. Effectiveness of maternal influenza immunization in mothers and infants. N Engl J Med 2008;359:1555–64.
+10. Omer SB, Goodman D, Steinhoff MC, Rochat R, Klugman KP,
+Stoll BJ, et al. Maternal influenza immunization and reduced
+likelihood of prematurity and small for gestational age births:
+a retrospective cohort study. PLoS Med 2011;8:e1000441.
+11. Harper SA, Fukuda K, Uyeki TM, Cox NJ, Bridges CB. Prevention and control of influenza: recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR
+Recomm Rep 2004;53:1–40.
+12. Influenza vaccination during pregnancy. Committee Opinion
+No. 468. American College of Obstetricians and Gynecologists.
+Obstet Gynecol 2010;116:1006–7.
+13. Ahluwalia IB, Singleton JA, Jamieson DJ, Rasmussen SA,
+Harrison L. Seasonal influenza vaccine coverage among pregnant women: pregnancy risk assessment monitoring system.
+J Womens Health (Larchmt) 2011;20:649–51.
+14. Ding H, Santibanez TA, Jamieson DJ, Weinbaum CM,
+Euler GL, Grohskopf LA, et al. Influenza vaccination coverage
+among pregnant women—National 2009 H1N1 Flu Survey
+(NHFS). Am J Obstet Gynecol 2011;204:S96–106.
+15. Sumaya CV, Gibbs RS. Immunization of pregnant women with
+influenza A/New Jersey/76 virus vaccine: reactogenicity and
+immunogenicity in mother and infant. J Infect Dis 1979;140:
+141–6.
+16. Tavares F, Nazareth I, Monegal JS, Kolte I, Verstraeten T,
+Bauchau V. Pregnancy and safety outcomes in women vaccinated with an AS03-adjuvanted split virion H1N1 (2009) pandemic influenza vaccine during pregnancy: a prospective
+cohort study. Vaccine 2011;29:6358–65.
+17. Moro PL, Broder K, Zheteyeva Y, Walton K, Rohan P,
+Sutherland A, et al. Adverse events in pregnant women following administration of trivalent inactivated influenza vaccine and
+live attenuated influenza vaccine in the Vaccine Adverse Event
+Reporting System, 1990-2009. Am J Obstet Gynecol 2011;204:
+146.e1–7.
+18. Munoz FM, Greisinger AJ, Wehmanen OA, Mouzoon ME,
+Hoyle JC, Smith FA, , et al. Safety of influenza vaccination
+during pregnancy. Am J Obstet Gynecol 2005;192:1098–106.
+19. Skowronski DM, De Serres G. Is routine influenza immunization warranted in early pregnancy? Vaccine 2009;27:4754–70.
+20. Baggs J, Gee J, Lewis E, et al. The Vaccine Safety Datalink:
+a model for monitoring immunization safety. Pediatrics 2011;
+127(Suppl 1):S45–53.
+21. Kharbanda E, Vazquez-Benitez G, Shi WX, Lipkind H,
+Naleway A, Molitor B, et al. Assessing the safety of influenza
+immunization during pregnancy: the Vaccine Safety Datalink.
+Am J Obstet Gynecol 2012;207:S47–51.
+22. Hornbrook MC, Whitlock EP, Berg CJ, et al. Development
+of an algorithm to identify pregnancy episodes in an integrated health care delivery system. Health Serv Res 2007;
+42:908–27.
+23. Naleway A, Gold R, Henninger M, Kurosky S, et al. Identifying
+pregnancy episodes in the vaccine safety datalink. Clin Med
+Res 2012;10:179.
+24. Bergstralh EJ, Kosanke JL, Jacobsen SJ. Software for optimal
+matching in observational studies. Epidemiology 1996;7:331–2.
+25. Hambidge SJ, Glanz JM, France EK, et al. Safety of trivalent
+inactivated influenza vaccine in children 6 to 23 months old.
+JAMA 2006;296:1990–7.
+26. Glanz JM, Newcomer SR, Hambidge SJ, et al. Safety of trivalent inactivated influenza vaccine in children aged 24 to 59
+months in the vaccine safety datalink. Arch Pediatr Adolesc
+Med 2011;165:749–55.
+27. Lee GM, Greene SK, Weintraub ES, Baggs J, Kulldorff M,
+Fireman BH, et al. H1N1 and seasonal influenza vaccine safety in
+the vaccine safety datalink project. Am J Prev Med 2011;41:121–8.
+28. H1N1 Vaccine Safety Working Group, Final report. Available
+at: http://www.hhs.gov/nvpo/nvac/reports/vsrawg_report_
+january_2012.pdf. Retrieved November 15, 2012.
+29. Minnesota Population Center. National Historical Geographic
+Information System: Version 2.0. Minneapolis (MN): University
+of Minnesota; 2011. Available at: http://www.nhgis.org/. Retrieved
+November 28, 2012.
+30. Little R, Rubin DB. Statistical analysis with missing data. 2nd
+ed. New York (NY): John Wiley; 2002.
+31. Sauzet O, Wright KC, Marston L, Brocklehurst P, Peacock JL.
+Modelling the hierarchical structure in datasets with very small
+clusters: a simulation study to explore the effect of the proportion of clusters when the outcome is continuous. Stat Med 2012
+Oct 1. [Epub ahead of print].
+32. Black S, Eskola J, Siegrist CA, Halsey N, Macdonald N, Law B,
+et al. Importance of background rates of disease in assessment
+of vaccine safety during mass immunisation with pandemic
+H1N1 influenza vaccines. Lancet 2009;374:2115–22.
+33. Ventura SJ, Mosher WD, Curtin SC, Abma JC, Henshaw S.
+Trends in pregnancies and pregnancy rates by outcome: estimates
+for the United States, 1976-96. Vital Health Stat 21 2000;56:1–47.
+34. Deinard AS, Ogburn P Jr. A/NJ/8/76 influenza vaccination
+program: effects on maternal health and pregnancy outcome.
+Am J Obstet Gynecol 1981;140:240–5.
+35. Moro PL, Broder K, Zheteyeva Y, Walton K, Rohan P,
+Sutherland A, et al. Adverse events in pregnant women following administration of trivalent inactivated influenza vaccine and
+live attenuated influenza vaccine in the Vaccine Adverse Event
+Reporting System, 1990-2009. Am J Obstet Gynecol 2011;204:
+146 e1–7.
+36. Cheng Q, Jiang GX, Fredrikson S, Link H, de Pedro-Cuesta J.
+Increased incidence of Guillain-Barre syndrome postpartum.
+Epidemiology 1998;9:601–4.
+37. Fireman B, Lee J, Lewis N, Bembom O, van der Laan M,
+Baxter R. Influenza vaccination and mortality: differentiating
+vaccine effects from bias. Am J Epidemiol 2009;170:650–6.
+38. Influenza vaccination coverage among pregnant women—
+United States, 2010-11 influenza season. MMWR Morb Mortal
+Wkly Rep 2011;60:1078–82.
+VOL. 121, NO. 3, MARCH 2013 Nordin et al Influenza Vaccine Safety in Pregnant Women 525

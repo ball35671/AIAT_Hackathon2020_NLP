@@ -1,0 +1,639 @@
+﻿Drugs 2003; 63 (13): 1417-1433 ADIS DRUG EVALUATION 0012-6667/03/0013-1417/$33.00/0
+© Adis Data Information BV 2003. All rights reserved.
+Tranexamic Acid
+A Review of its Use in the Management of Menorrhagia
+Keri Wellington and Antona J. Wagstaff
+Adis International Limited, Auckland, New Zealand
+Various sections of the manuscript reviewed by:
+E. Berntorp, Department of Coagulation Disorders, Malmo University Hospital, Malm ¨ o, Sweden; ¨ A. Dilley,
+Hematologic Disease Branch, Centers for Disease Control and Prevention, Atlanta, Georgia, USA; R.
+Hurskainen, Department of Obstetrics, University Hospital Helsinki, Helsinki, Finland; A. Lethaby,
+Department of Obstetrics and Gynaecology, National Women’s Hospital, Auckland, New Zealand; G.
+Samsioe, Department of Obstetrics and Gynaecology, Lund University Hospital, Lund, Sweden; R.W. Shaw,
+Academic Division of Obstetrics and Gynaecology, Derby City General Hospital, Derby, England; J.
+Shwayder, Department of Obstetrics and Gynecology, Denver Health Medical Center, Denver, Colorado,
+USA.
+Data Selection
+Sources: Medical literature published in any language since 1980 on tranexamic acid, identified using Medline and EMBASE,
+supplemented by AdisBase (a proprietary database of Adis International). Additional references were identified from the reference lists of
+published articles. Bibliographical information, including contributory unpublished data, was also requested from the company developing
+the drug.
+Search strategy: Medline, EMBASE and AdisBase search terms were ‘tranexamic acid’ and (‘heavy menstrual bleeding’ or ‘blood loss’ or
+‘menorrhagia’). Searches were last updated 28 May 2003.
+Selection: Studies in patients with heavy menstrual bleeding who received tranexamic acid. Inclusion of studies was based mainly on the
+methods section of the trials. When available, large, well controlled trials with appropriate statistical methodology were preferred. Relevant
+pharmacodynamic and pharmacokinetic data are also included.
+Index terms: Tranexamic acid, antifibrinolytics, heavy menstrual bleeding, menorrhagia, pharmacodynamics, pharmacokinetics,
+therapeutic use.
+Contents
+Summary .................................................................................. 1418
+1. Introduction ............................................................................ 1421
+2. Overview of Pharmacodynamic Properties ................................................ 1422
+3. Pharmacokinetic Properties .............................................................. 1424
+4. Therapeutic Efficacy .................................................................... 1424
+4.1 Effects on Menstrual Blood Loss ...................................................... 1425
+4.1.1 In Women with Idiopathic Menorrhagia ......................................... 1425
+4.1.2 In Women with Intrauterine Contraceptive Device-Associated Menorrhagia ........ 1426
+4.2 Effect on Patient Quality of Life ...................................................... 1427
+5. Tolerability .............................................................................. 1427
+1418 Wellington & Wagstaff
+6. Dosage and Administration .............................................................. 1428
+7. Place of Tranexamic Acid in the Management of Menorrhagia ............................. 1429
+Summary
+Abstract Tranexamic acid (Transamin®, Cyklokapron®, Exacyl®, Cyklo-f®) is a synthetic
+lysine derivative that exerts its antifibrinolytic effect by reversibly blocking lysine
+binding sites on plasminogen and thus preventing fibrin degradation.
+In a number of small clinical studies in women with idiopathic menorrhagia,
+tranexamic acid 2–4.5 g/day for 4–7 days reduced menstrual blood loss by
+34–59% over 2–3 cycles, significantly more so than placebo, mefenamic acid,
+flurbiprofen, etamsylate and oral luteal phase norethisterone at clinically relevant
+dosages. Intrauterine administration of levonorgestrel 20 μg/day, however, produced the greatest reduction (96% after 12 months) in blood loss; 44% of patients
+treated with levonorgestrel developed amenorrhoea. Tranexamic acid 1.5g three
+times daily for 5 days also significantly reduced menstrual blood loss in women
+with intrauterine contraceptive device-associated menorrhagia compared with
+diclofenac sodium (150mg in three divided doses on day 1 followed by 25mg
+three times daily on days 2–5) or placebo.
+Tranexamic acid, mefenamic acid, etamsylate, flurbiprofen or diclofenac sodium had no effect on the duration of menses in the studies that reported such data.
+In a large noncomparative, nonblind, quality-of-life study, 81% of women
+were satisfied with tranexamic acid 3–6 g/day for 3–4 days/cycle for three cycles,
+and 94% judged their menstrual blood loss to be ‘decreased’ or ‘strongly
+decreased’ compared with untreated menstruations.
+The most commonly reported drug-related adverse events are gastrointestinal
+in nature. The total incidence of nausea, vomiting, diarrhoea and dyspepsia in a
+double-blind study was 12% in patients who received tranexamic acid 1g four
+times daily for 4 days for two cycles (not significantly different to the incidence in
+placebo recipients).
+In conclusion, the oral antifibrinolytic drug tranexamic acid is an effective and
+well tolerated treatment for idiopathic menorrhagia. In clinical trials, tranexamic
+acid was more effective at reducing menstrual blood loss than mefenamic acid,
+flurbiprofen, etamsylate and oral luteal phase norethisterone. Although it was not
+as effective as intrauterine administration of levonorgestrel, the high incidence of
+amenorrhoea and adverse events such as intermenstrual bleeding resulting from
+such treatment may be unacceptable to some patients. Comparative studies of
+tranexamic acid with ε-aminocaproic acid, danazol and combined oral contraceptives, as well as long-term tolerability studies, would help to further define the
+place of the drug in the treatment of menorrhagia. Nevertheless, tranexamic acid
+may be considered as a first-line treatment for the initial management of idiopathic menorrhagia, especially for patients in whom hormonal treatment is either not
+recommended or not wanted.
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+Tranexamic Acid: A Review 1419
+Tranexamic acid exerts its antifibrinolytic effect by reversibly blocking lysine Overview of
+Pharmacodynamic binding sites on plasminogen, thus preventing plasmin (which is still formed via
+Properties activation of plasminogen by a plasminogen activator) from interacting with
+lysine residues on the fibrin polymer and subsequent fibrin degradation. The
+reduction in plasminogen binding to fibrin appears to result in either a decrease in
+the production of tissue plasminogen activator (t-PA) by endothelial cells or an
+increase in the rate of its clearance from the endometrium. Endometrial t-PA
+levels were significantly lower after three treatment cycles than before treatment
+in 12 menorrhagic women who received tranexamic acid 500mg four times daily
+for 5 days.
+In women with menorrhagia, fibrinolytic activity in utero is higher than in
+women with normal menstrual blood loss; this increased fibrinolysis is most likely
+due to higher levels of endometrium-derived plasmin and plasminogen activators.
+Tranexamic acid 1g three times daily for 5 days significantly reduced tissue
+plasminogen activator and plasmin activity in the menstrual and peripheral blood
+of menorrhagic women, compared with pre-treatment values.
+Tranexamic acid has no effect on overall blood coagulation parameters (e.g.
+platelet counts, activated partial thromboplastin time and prothrombin times), as
+determined from studies in patients undergoing a variety of surgical procedures.
+The pharmacokinetics of tranexamic acid are unaffected by the presence of food Pharmacokinetic
+Properties in the gastrointestinal tract; the oral bioavailability is approximately 34%. After
+oral administration of a single 2g dose to ten fasting healthy male volunteers, the
+mean maximum plasma concentration of tranexamic acid was 14.4 mg/L and was
+achieved 2.8 hours postdose; the area under the concentration-time curve from
+0–6 hours was 59.5 mg • h/L.
+Tranexamic acid is minimally bound to plasma proteins (≈3%) at therapeutic
+plasma concentrations (5–10 mg/L), and this appears to be fully accounted for by
+binding to plasminogen.
+The main route of elimination of tranexamic acid is via the kidneys. After oral
+administration of tranexamic acid 250 or 500mg to healthy adults, between 40 and
+70% of the administered dose was excreted unchanged in the urine within 24
+hours. The terminal elimination half-life is ≈2 hours.
+The efficacy of tranexamic acid in the treatment of idiopathic menorrhagia has Therapeutic Efficacy
+been evaluated in several small (n = 15–76) studies of variable design.
+Compared with either placebo or control groups, oral tranexamic acid 2–4.5 g/
+day for 4–7 days (total doses of 10–21.5g) per cycle effectively reduced menstrual
+blood loss by 34–59% over 2–3 cycles in women with menorrhagia. Tranexamic
+acid was significantly more effective at reducing menstrual blood loss than
+mefenamic acid 1.5 g/day for 5 days, flurbiprofen 200 mg/day for 5 days,
+etamsylate 2 g/day for 5 days and oral luteal phase norethisterone 10 mg/day.
+However, intrauterine administration of levonorgestrel 20 μg/day produced the
+greatest reduction in menstrual blood loss (96% reduction after 12 months; p <
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+1420 Wellington & Wagstaff
+0.01 vs tranexamic acid); 7 of the 16 patients treated with levonorgestrel developed amenorrhoea after up to 12 months’ treatment.
+In two nonblind studies, all patients achieved blood loss of <80 mL/cycle
+during treatment with tranexamic acid; 56% of tranexamic acid recipients
+achieved blood loss of <80 mL/cycle in a double-blind study.
+In a crossover study, tranexamic acid 1.5g three times daily for 5 days
+significantly reduced menstrual blood loss in women with intrauterine contraceptive device-associated menorrhagia compared with diclofenac sodium 150mg in
+three divided doses on day 1 followed by 25mg three times daily on days 2–5 or
+placebo. At the end of two cycles each of tranexamic acid and diclofenac sodium
+and one cycle of placebo, 16, 10 and 5 of the 19 patients, respectively, had lost a
+mean of <80mL of blood per cycle.
+Tranexamic acid, mefenamic acid, etamsylate, flurbiprofen or diclofenac sodium had no effect on the duration of menses in the studies that reported such data.
+The quality of life (social activity, work performance, productivity, cleanliness, action radius, overall functioning and tiredness) of patients with menorrhagia was significantly improved after three cycles of tranexamic acid 3–6 g/day for
+3–4 days/cycle in a large noncomparative, nonblind quality-of-life study. After
+the first and third treatment cycles, 58% and 81% of women were satisfied with
+tranexamic acid treatment, and 87% and 94% judged their menstrual blood loss to
+be ‘decreased’ or ‘strongly decreased’ compared with untreated menstruations.
+Significantly more recipients of tranexamic acid 4 g/day for 4 days than
+recipients of luteal-phase norethisterone 10 mg/day experienced improved flooding/leakage (83% vs 45%) and improved sex life (46% vs 15%) in a double-blind
+study. However, there was no significant between-group difference in the effect of
+treatment on general health.
+Oral tranexamic acid is well tolerated by most patients with menorrhagia. With Tolerability
+the exception of dysmenorrhoea, the most commonly reported drug-related
+adverse events are gastrointestinal in nature. The total incidence of nausea,
+vomiting, diarrhoea and dyspepsia in a double-blind study was 12% in patients
+who received tranexamic acid 1g four times daily for 4 days for two cycles;
+however, there were no statistically significant differences in the number or
+severity of adverse events experienced by patients during either the placebo run-in
+period or active treatment.
+An improvement in symptoms of dysmenorrhoea was reported by 19%, 13%
+and 4% of patients who received tranexamic acid, mefenamic acid or etamsylate
+in a nonblind study, and 27%, 35% and 15% of patients rated their symptoms as
+worse than those before treatment. Nonetheless, 77%, 74% and 33% of patients
+expressed a desire to continue treatment at the end of the study. Tranexamic acid
+had no significant effect on symptoms of dysmenorrhoea compared with baseline
+or norethisterone in a double-blind study.
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+Tranexamic Acid: A Review 1421
+The percentage of patients who discontinued treatment because of adverse
+events while receiving tranexamic acid was 0–12% in six studies; in four of the
+studies there were no discontinuations due to adverse events.
+There were no thromboembolic events in patients with menorrhagia in clinical
+studies. Furthermore, tranexamic acid has been widely used in Scandinavia as a
+first-line treatment for menorrhagia since the early 1970s and there has been no
+reported increase in the incidence of thromboembolic events.
+Tranexamic acid is approved for the treatment of menorrhagia. Underlying Dosage and
+Administration organic pathology as the cause of heavy menstrual bleeding (blood loss of >80mL
+per cycle) should be ruled out before initiating treatment. The recommended
+dosage differs from region to region. In Europe, however, the recommended oral
+dosage for the treatment of patients with menorrhagia is 1–1.5g three to four times
+daily for 3–4 days; the total daily oral dose should not exceed 4g, and treatment
+should be initiated once heavy menstrual bleeding has started.
+In the UK, tranexamic acid is contraindicated in patients with a history of
+thromboembolic disease; in Japan and the rest of the EU, caution and supervision
+is recommended in these patients. Active thromboembolic disease, however, is a
+contraindication for tranexamic acid use in the EU, including the UK. The drug is
+also contraindicated in most of the EU in patients with severe renal failure because
+of the risk of accumulation. Dosage reductions are recommended in patients with
+mild to moderate renal insufficiency.
+1. Introduction min. This activation is triggered by plasminogen
+activators, such as tissue plasminogen activator (tAt the site of an injured blood vessel, the blood PA), which are released from endothelial cells. Ficoagulation cascade produces thrombin, which then brinolysis is triggered when the plasminogen activa- cleaves small peptides from soluble fibrinogen to tor (which is adsorbed to the fibrin filament), plas- form fibrin monomers; these monomers then polym- minogen and fibrin are in close proximity to each erise to form fibrin, which is held together by other. Upon conversion of fibrinogen to fibrin, ly- noncovalent bonds. Transamidase factor XIIIa is sine residues become available, to which plasmi- also activated by thrombin to catalyse the formation nogen binds via lysine binding sites; plasminogen is of covalent bonds between fibrin molecules to form
+then converted to plasmin by an activator. Plasmin a clot resistant to dissolution. These insoluble fibrin
+then degrades fibrin to large fragments X and Y and aggregates, together with aggregated platelets, block then into smaller fragments (see figure 1).[1]
+the damaged blood vessel and prevent further bleeding. However, a balance between the formation and Excessive fibrinolysis is prevented by a number
+lysis of fibrin must exist to maintain and remould the of factors, including plasminogen activator inhibihaemostatic seal during the several days over which tors (PAIs) such as PAI-1 which slows fibrinolysis,
+the injured vessel wall is repaired. and plasmin inhibitors such as α2-antiplasmin which [1]
+Fibrinolysis is mediated by activation of plasmi- are found in the plasma and which rapidly inactivate
+nogen, the precursor to the proteolytic enzyme plas- any plasmin that escapes from a fibrin clot. When
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+1422 Wellington & Wagstaff
+these regulatory mechanisms fail, excessive bleed- converted to plasmin via an activator, the plasmin/
+ing may result.[1] tranexamic acid complex cannot bind to fibrin, and
+fibrinolysis is inhibited (figure 1).[10] Fibrinolysis also plays an important part in men- Plasminogen
+strual haemostasis; indeed, excessive fibrinolysis is activation and the subsequent actions of plasmin
+implicated in the cause of menorrhagia (blood loss occur via noncovalent interactions with macromoleof >80mL per menstrual cycle). Although various cules such as fibrin, extracellular matrix proteins
+underlying pathological mechanisms (such as poly- and cellular receptors. These interactions are medips, fibroids, endometriosis or inherited bleeding dis- ated by a series of five homologous triple-disulfideorders such as von Willebrand’s disease and haemo- bonded plasmin/plasminogen domains called krinphilia) are sometimes the cause of menorrhagia, gles; each of these kringles expresses a binding site
+for lysine analogues.[11] approximately 50% of women with heavy menstrual Tranexamic acid has strong
+blood loss have no anatomical or endocrinological affinity for one of these binding sites (dissociation
+abnormality or bleeding diathesis. constant [Kd] = 1.1 μmol/L) and low affinity for the [2-7] In such
+others (Kd = 750 μmol/L).[12] women, fibrinolytic activity in utero is higher than
+in women with normal menstrual blood loss; this In studies comparing the binding potencies of
+increased fibrinolysis is most likely due to higher tranexamic acid with ε-aminocaproic acid (another
+levels of endometrium-derived plasmin and plasmi- synthetic antifibrinolytic lysine derivative), tranexanogen activators.[4,8] As such, antifibrinolytic drugs mic acid was 6–10 times more potent.[13,14] Tranexaare often used to control heavy menstrual blood loss. mic acid and ε-aminocaproic acid appear to interact
+with kringle 5.[11] This narrow-focus review updates information Saturation of this binding site with
+on the use of the antifibrinolytic drug tranexamic tranexamic acid prevents the binding of plasmiacid (Transamin® nogen to the surface of fibrin and, thus, fibrinolysis 1, Cyklokapron®, Exacyl®,
+Cyklo-f®), a synthetic lysine derivative, in the man- is retarded. Furthermore, the reduction in plasmiagement of menorrhagia where no organic patho- nogen binding caused by tranexamic acid appears to
+logy has been detected. Tranexamic acid is also used result in either a decrease in the production of t-PA
+to control blood loss in a variety of other bleeding by endothelial cells or an increase in the rate of its
+disorders and surgical settings; the use of tranexa- clearance from the endometrium; in 12 menorrhagic
+mic acid in these indications, as well as in menorrha- women treated with tranexamic acid 500mg four
+gia and other gynaecological conditions, has been times daily for 5 days, endometrial t-PA levels were
+reviewed previously by Dunn and Goa. significantly lower after three treatment cycles than [9]
+before treatment (5.1 vs 11.7 IU/mg protein, p <
+0.001).[15] 2. Overview of PAI-1 levels were also significantly rePharmacodynamic Properties duced (1.6 vs 5.1 ng/mg protein, p < 0.001) suggesting that both t-PA and PAI-1 are secreted and/or
+This section summarises data from the previous cleared in response to the same stimuli.[15]
+review[9] of tranexamic acid but with particular em- In a study in women with menorrhagia (n = 20),
+phasis on studies concerning menorrhagia. tranexamic acid 1g three times daily for 5 days
+Tranexamic acid initiates an antifibrinolytic ef- significantly reduced t-PA and plasmin activity in
+fect by forming a reversible complex with plasmi- menstrual and peripheral blood.[8] Prior to treatment,
+nogen; subsequently, although plasminogen is still the activity of t-PA was higher (p < 0.001) in the
+1 Use of tradenames is for product identification purposes only and does not imply endorsement.
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+Tranexamic Acid: A Review 1423
+t-PA
+t-PA Plasmin t-PA Plasmin
+t-PA
+Plasminogen Plasminogen
+Lysine binding site Tranexamic acid
+Fibrin Fibrin
+Fibrin degradation
+products
+Fibrin degradation
+products
+Fibrin
+Activation of fibrinolysis Inhibition of fibrinolysis
+Fig. 1. Antifibrinolytic mechanism of action of tranexamic acid. Normally, plasminogen binds to fibrin at a lysine binding site and is converted
+in the presence of tissue plasminogen activator (t-PA) to plasmin. Tranexamic acid blocks the lysine binding site and prevents access of
+plasminogen to the fibrin molecule. Reproduced from Dunn and Goa.[9]
+menstrual blood of these menorrhagic women than treatment than in untreated healthy volunteers (p <
+0.05).[8] in the menstrual blood of healthy volunteers (n =
+20). Following treatment with tranexamic acid, al- In the same study, peripheral plasminogen levels
+though t-PA activity was still higher in menorrhagic were similar in healthy volunteers and untreated
+patients than in untreated healthy volunteers (p < patients; plasminogen levels in menstrual blood,
+although significantly (p < 0.001) lower than corre- 0.05), it was significantly lower than before treatsponding levels in peripheral blood, were also simi- ment (p < 0.01). Similarly, although plasmin activity
+lar in these two groups. However, plasminogen in the menstrual blood of untreated menorrhagic levels in peripheral (p < 0.02) and menstrual (p < women was not significantly different from that in 0.01) blood in patients were significantly lower after untreated healthy volunteers, it was significantly treatment with tranexamic acid than those recorded
+lowered by treatment with tranexamic acid. In peri- in untreated healthy volunteers.[8]
+pheral blood, there were no significant differences The pharmacodynamic effects of tranexamic acid in either t-PA or plasmin activity between untreated appear to vary according to the indication in which patients and healthy volunteers. However, tranexa- the drug is being used; for an overview of the
+mic acid reduced both t-PA and plasmin activity pharmacodynamics of tranexamic acid in indicaperipherally compared with pre-treatment values (p tions other than menorrhagia, the reader is referred
+< 0.01). Furthermore, peripheral plasmin, but not t- to the previous review by Dunn and Goa.[9] HowPA, activity was significantly lower in patients post- ever, the drug had no effect on overall blood coagu-
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+1424 Wellington & Wagstaff
+lation parameters (e.g. platelet counts, activated par- The mean renal clearance of tranexamic acid withtial thromboplastin time and prothrombin times) in out or with food was 137 mL/min and 131 mL/min
+studies in patients undergoing cardiac surgery with after a single 2g oral dose.[29]
+pulmonary bypass,[16-20] total knee arthroplasty,[21] There have been no clinically significant drugrecipients of orthotopic liver transplants,[22] or pa- drug interactions observed with tranexamic acid and
+tients with ruptured intracranial aneurysms.[23] concomitantly administered drugs.[30]
+3. Pharmacokinetic Properties 4. Therapeutic Efficacy
+Pharmacokinetic data for oral tranexamic acid in The efficacy of tranexamic acid in the treatment
+women with menorrhagia are lacking. The majority of idiopathic menorrhagia has been evaluated in
+of pharmacokinetic studies of the drug have been several small (n = 15–76) studies of variable design
+concerned with intravenous administration;[24-28] (table I).[15,32-35] In all five studies, women with
+there are, however, data for the oral formulation in idiopathic menorrhagia were selected after gynaecohealthy male, but not female, volunteers. logical examination; mean menstrual blood loss was
+The mean maximum plasma concentration >80 mL/cycle at baseline. The primary efficacy
+(Cmax) of tranexamic acid after oral administration variable in all studies was the effect of treatment on
+of a single 2g dose to ten fasting healthy male menstrual blood loss; the alkaline haematin method
+volunteers was 14.4 mg/L and was achieved 2.8 was used to estimate menstrual blood loss in all
+hours postdose (tmax) in a crossover study; studies except one, in which the Oxford total body [29] the
+counter method was used.[35] area under the concentration-time curve from 0–6 The effect of treatment
+on the duration of menses[32,34,35] hours (AUC6h) was 59.5 mg • h/L. Similar values and/or number of
+sanitary towels/tampons used[32,33,35] were obtained for Cmax (14.8 mg/L), tmax (2.9h) and was also reAUC6h (61.3 mg • h/L) after administration of a 2g ported in some of the studies. Tranexamic acid was
+dose with food. The bioavailability of oral tranexa- taken during menstruations at dosages of 500mg
+four times daily for 5 days,[15] mic acid was also similar when administered with- 1g four times daily for
+4 days,[33,35] 1g four times daily for 5 days,[32] out (33.4%) or with (34.9%) food. or 1.5g [29] Tranexamic
+acid is minimally bound to plasma proteins (≈3%) at three times daily for 3 days followed by 1g twice
+daily for 4 days, per cycle.[34] therapeutic plasma concentrations (5–10 mg/L), and
+this appears to be fully accounted for by binding to The effect of tranexamic acid 1.5g three times
+plasminogen.[30] daily for 5 days per cycle on heavy menstrual blood
+The main route of elimination of tranexamic acid loss associated with an intrauterine contraceptive
+is via the kidneys; the terminal elimination half-life device (IUCD) has also been evaluated in a randomof tranexamic acid is ≈2 hours. ised, double-blind, placebo-controlled crossover [30] After intravenous
+study.[36] administration of tranexamic acid 1g to three Of the 19 patients included in this study, 15
+healthy male volunteers, elimination followed three had a blood loss of >80 mL/cycle and four had a
+exponential phases, with >93% of the dose being blood loss of between 70 and 80 mL/cycle. Eighteen
+excreted unchanged in the urine after 24 hours, and patients had used a copper-containing device for at
+>95% after 72 hours; least 1 year and one woman had used an inert device [29] After oral administration of
+tranexamic acid 250mg or 500mg to healthy adults, for 10 years.
+between 40 and 70% of the administered dose was Patient quality of life during treatment with traexcreted unchanged in the urine within 24 hours.[31] nexamic acid has recently been assessed in a large (n
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+Tranexamic Acid: A Review 1425
+Table I. Efficacy of oral tranexamic acid (TXA) in the treatment of idiopathic menorrhagia
+Reference Trial design [no. of Treatment [no. of evaluable pts] Mean menstrual blood loss
+treatment cycles] baseline (mL) during treatment change from
+(mL) baseline (%)
+Bonnar & r, nb [3]a TXA 1g qid days 1–5 [26] 164 75 ↓54***
+Sheppard[32]
+MEF 500mg tid days 1–5 [23] 186 148 ↓20***
+ETM 500mg qid days 1–5 [27] 170 175 ↑3
+Callender r, db, co [3]a TXA 1g qid days 1–4 [16] 197 122 ↓38* (↓34 vs
+et al.[35] PL†)
+PL days 1–4 [16] 197 185 ↓6
+Gleeson et al.[15] nc [3]a TXA 500mg qid days 1–5 [15] 168 69 ↓59***
+Milsom et al.[34]b nb [12mo]c IUD releasing LEV 20 μg/day for 203 34, 25, 9d ↓83, 88, 96***d
+12mo [16]
+r, nb, co [4]c TXA 1.5g tid days 1–3, then 1g bid 295 155 ↓47**
+days 4–7 [15]
+FLU 100mg bid days 1–5 [15] 295 223 ↓24*
+Preston et al.[33] r, db [2]e TXA 1g qid days 1–4 [25] 175 97 ↓45****
+NOR 5mg bid days 19–26 [21] 173 208 ↑20
+a Baseline run-in of three cycles (no treatment).
+b 16 patients received nonblind intrauterine administration of LEV for 12 months. 15 additional patients were then randomised to
+receive nonblind treatment with TXA or FLU in crossover fashion.
+c Baseline run-in of two cycles (no treatment).
+d After 3, 6 and 12 months, respectively.
+e Baseline run-in of two cycles (placebo).
+bid = twice daily; co = crossover; db = double-blind; ETM = etamsylate; FLU = flurbiprofen; IUD = intrauterine device; LEV = levonorgestrel;
+MEF = mefenamic acid; nb = nonblind; nc = noncomparative; NOR = norethisterone; qid = four times daily; PL = placebo; pts = patients; r
+= randomised; tid = three times daily; ↓ indicates a reduction; ↑ indicates an increase; * p < 0.05, ** p < 0.01, *** p < 0.001, **** p < 0.0001
+vs baseline; † p < 0.05, †† p < 0.01 vs PL.
+= 839 evaluable patients) noncomparative, nonblind naire (developed by the author of the study), destudy in which patients received tranexamic acid for scribed their menstrual bleeding as heavy, normal or
+slight, and rated their satisfaction with treatment three cycles.[37] The only inclusion criterion in this
+study was a recommendation by the patient’s (scale 1–5, with 5 indicating ‘very satisfied’), and
+change in blood loss (scale 1–5, with 5 indicating gynaecologist for treatment of their heavy menstrual
+‘strongly decreased’).[37]
+bleeding with tranexamic acid, irrespective of the
+aetiology of menorrhagia. The tranexamic acid dos- 4.1 Effects on Menstrual Blood Loss
+age was also determined by the individual gynaecologists, and was generally between 3 and 6 g/day for 4.1.1 In Women with Idiopathic Menorrhagia
+3–4 days per cycle during menstruation. Patients Oral tranexamic acid 2–4.5 g/day for 4–7 days
+were also permitted to receive other medications (total doses of 10–21.5g) per cycle effectively re-
+(including hormone replacement therapy, duced menstrual blood loss by 34–59% over 2–3
+methylergometrine, gestagens, iron supplementa- cycles in women with menorrhagia (table I), comtion and NSAIDs) during treatment with tranexamic pared with either placebo or baseline.[15,32-35]
+acid, although 84% received only tranexamic acid. Tranexamic acid was significantly more effective
+At baseline and during their first and third menstrua- at reducing menstrual blood loss than the oral
+tions, patients completed a quality-of-life question- NSAIDs mefenamic acid 1.5 g/day for 5 days (p <
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+1426 Wellington & Wagstaff
+0.05) and flurbiprofen 200 mg/day for 5 days (p < month 3 [figure 2], 6 and 12; comparisons were
+0.05), the oral haemostatic agent etamsylate 2 g/day performed retrospectively).
+for 5 days (p < 0.001), and the progestogen norethis- During treatment with tranexamic acid, mean
+terone 10 mg/day administered orally for 7 days menstrual blood loss of <80 mL/cycle was achieved
+during the luteal phase (p < 0.0001) [figure 2]. in all patients in two nonblind studies (mean baseIndeed, mean menstrual blood loss increased by line menstrual blood loss was 168[15] and 164[32] mL/
+20% in recipients of norethisterone, compared with cycle; table I); in the double-blind study by Preston
+a reduction of 45% in tranexamic acid recipients et al.,[33] 56% of tranexamic acid recipients achieved
+(figure 2). However tranexamic acid was signifi- a mean menstrual blood loss of <80 mL/cycle, comcantly less effective than a levonorgestrel-releasing pared with 9.5% of the norethisterone group. How- (20 μg/day) intrauterine device (IUD; p < 0.01 at ever, intrauterine administration of levonorgestrel
+produced the greatest reduction in menstrual blood
+loss seen in all the studies (table I); nonetheless, 7 of
+the 16 patients treated with levonorgestrel developed amenorrhoea after up to 12 months’ treatment.[34]
+The number of sanitary towels/tampons used
+during treatment with tranexamic acid was reduced
+by 20% (p < 0.001) and 13% (p < 0.01) compared
+with placebo and no treatment, respectively, in two
+studies that reported these data.[32,35] Tranexamic
+acid, mefenamic acid, etamsylate and flurbiprofen
+had no effect on the duration of menses in the
+studies that reported such data.[32,34,35]
+4.1.2 In Women with Intrauterine Contraceptive
+Device-Associated Menorrhagia
+Tranexamic acid 1.5g three times daily for 5 days
+significantly reduced menstrual blood loss in
+women with IUCD-associated menorrhagia (mean
+baseline blood loss 135 mL/cycle) compared with
+diclofenac sodium 150mg in three divided doses on
+day 1 followed by 25mg three times daily on days
+2–5 or placebo (p < 0.001 for both; table II) in a
+crossover study.[36] At the end of two cycles each of
+tranexamic acid and diclofenac sodium and one
+cycle of placebo, 16, 10 and 5 of the 19 patients,
+respectively, had lost a mean of <80mL of blood per
+cycle. The duration of menses was not affected by
+either tranexamic acid or diclofenac sodium.
+−100
+−80
+−60
+−40
+−20
+0
+20
+40
+Change from baseline in blood loss (%)
+TXA MEF
+*
+ETM
+***
+Bonnar & Sheppard
+TXA FLU
+*
+LEV
+**
+Milsom et al.
+TXA NOR
+****
+Preston et al.
+Fig. 2. The comparative effect of oral tranexamic acid (TXA) on
+menstrual blood loss in women with idiopathic menorrhagia. In the
+three studies, women with idiopathic menorrhagia were enrolled
+after gynaecological examination; mean menstrual blood loss was
+>80 mL/cycle at baseline. In the randomised, nonblind study by
+Bonnar & Sheppard,[32] patients received TXA 1g four times daily
+for 5 days (n = 26), oral mefenamic acid (MEF) 500mg three times
+daily for 5 days (n = 23) or oral etamsylate (ETM) 500mg four times
+daily for 5 days (n = 27) for three cycles. In the study by Milsom et
+al.,[34] 16 patients received nonblind intrauterine administration of
+levonorgestrel (LEV) 20 μg/day for 12 months (3 month data are
+presented); 15 additional patients were then randomised to receive
+nonblind treatment with TXA 1.5g three times daily for 3 days
+followed by 1g twice daily for 4 days (n = 15) or oral flurbiprofen
+(FLU) 100mg twice daily for 5 days (n = 15) for four cycles in
+crossover fashion. In the randomised, double-blind study by Preston et al.,[33] patients received TXA 1g four times daily for 4 days for
+two cycles (n = 25) or oral norethisterone (NOR) 5mg twice daily for
+7 days during the luteal phase of two cycles. Changes from baseline in mean menstrual blood loss are presented. * p < 0.05, ** p <
+0.01, *** p < 0.001, **** p < 0.0001 vs TXA.
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+Tranexamic Acid: A Review 1427
+Table II. Efficacy of tranexamic acid (TXA) in slowing excessive blood loss associated with intrauterine contraceptive devices. Results are
+from a randomised, double-blind, crossover trial in 19 women receiving two cycles each of TXA and diclofenac sodium (DS), and one cycle
+of placebo (PL)[36]
+Treatment Mean menstrual blood loss
+baseline (mL) during treatment (mL) change from baseline (%)
+TXA 1.5g tid days 1–5 135 59 ↓56**†
+DS 50mg tid day 1, then 25mg 135 102 ↓24*
+tid days 2–5
+PL 135 128 ↓5
+tid = three times daily; * p < 0.01, ** p < 0.001 vs PL; † p < 0.001 vs DS.
+4.2 Effect on Patient Quality of Life 15%; p = 0.029) than norethisterone recipients in the
+double-blind study discussed in section 4.1.1. HowThe quality of life of women who received trane- ever, there was no significant between-group differxamic acid 3–6 g/day for 3–4 days/cycle in a quali- ence in the effect of treatment on general health.
+ty-of-life study was significantly improved after Significantly more tranexamic acid recipients than
+three cycles of treatment; however, the study was norethisterone recipients (p = 0.002) rated their
+noncomparative and nonblind.[37] At baseline, blood loss during treatment as better than that during
+60–80% of patients felt that during previous men- the placebo run-in.[33]
+struations they had considerable impairment (rating
+of 1 or 2 on a 5-point scale) in social activity, work 5. Tolerability
+performance, productivity, cleanliness, action radius
+and overall functioning, and were tired. During the Oral tranexamic acid is well tolerated by most
+third cycle of treatment with tranexamic acid, the patients with menorrhagia. The most commonly reproportion of patients who felt a considerable degree ported adverse events, excluding dysmenorrhoea,
+of impairment in any of these parameters was less are gastrointestinal. The total incidence of nausea,
+than 10% (p < 0.0001 vs baseline). Furthermore, vomiting, diarrhoea and dyspepsia in the doubleonly 7% of patients felt fit and active during untreat- blind study by Preston et al.[33] was 12% in patients
+ed menstruations, compared with 70% during the who received tranexamic acid 1g four times daily
+third treated menstruation (p < 0.0001). for 4 days for two cycles (n = 25), compared with
+After the first and third treatment cycles, 58% 33% in those who received oral luteal phase
+and 81% of women were satisfied with tranexamic norethisterone (n = 21); dysmenorrhoea was reportacid treatment (score of 4 or 5 on a 5-point scale), ed by 80% and 85% of tranexamic acid and norethisand 87% and 94% judged their menstrual blood loss terone recipients. However, there were no statistito be ‘decreased’ or ‘strongly decreased’ compared cally significant differences in the number or severiwith untreated menstruations. The correlation be- ty of adverse events experienced by patients during
+tween estimated blood loss and satisfaction with either the placebo run-in or active treatment in this
+treatment was high, with Spearman correlation coef- study.[33] In another study, the incidence of nausea
+ficients of 0.6 and 0.59 after the first and third (16% vs 0%; p < 0.01) and leg cramps (14% vs 2%;
+treatment cycles (p < 0.0001).[37] p < 0.05) was significantly higher with tranexamic
+Furthermore, Preston et al.[33] reported that sig- acid 500mg four times daily for 5 days during 43
+nificantly more patients who received tranexamic menstruations in 15 patients with idiopathic menoracid experienced reduced flooding/leakage (83% vs rhagia compared with no treatment during 45 men45%; p = 0.008) and improved sex life (46% vs struations in the same patients (figure 3).[15]
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+1428 Wellington & Wagstaff
+ies;[33-36] see tables I and II for dosage details). In the
+study by Bonnar and Sheppard,[32] 12%, 4% and
+15% of patients who received tranexamic acid, mefenamic acid or etamsylate discontinued treatment
+because nausea, headache or dizziness, whereas in
+the study by Gleeson et al.,[15] one patient discontinued treatment because of an allergic skin reaction
+(exfoliative facial dermatitis). Among recipients of
+intrauterine levonorgestrel, 15% (3 of 20 patients)
+discontinued treatment because of adverse events
+(two patients because of intermenstrual bleeding
+and one because of intermenstrual bleeding, acne,
+weight gain and mood changes); none of the patients
+who received tranexamic acid or flurbiprofen in this
+study discontinued because of adverse events.[34]
+Antifibrinolytics such as tranexamic acid have
+the potential to increase the incidence of thromboembolic events (e.g. deep vein thrombosis, pulmonary embolism, cerebral thrombosis, acute renal cortical necrosis or central retinal artery and vein obstruction). There were no reports, however, of
+thromboembolic events in the studies in patients
+with menorrhagia discussed in section 4, although
+these studies were of relatively short duration (≤4
+0 10 20 30 40 50 60 70
+Allergic skin
+reaction
+Paraesthesia
+Urinary
+frequency
+Chest pain
+Backache
+Headache
+Abdominopelvic
+pain
+Dysmenorrhoea
+Incidence of adverse events (%)
+Leg cramps *
+Nausea **
+Control
+Tranexamic acid
+Fig. 3. Incidence of adverse events during treatment with tranexamic acid or no treatment. Fifteen women with idiopathic menorrhagia received no treatment for three menstruations followed by three
+cycles of tranexamic acid 500mg four times daily for 5 days.[15] The
+data presented are the percentage incidence of adverse events
+occurring during a total of 45 non-treated menstruations and 43
+treated menstruations. * p < 0.05, ** p < 0.01 vs no treatment.
+months) and included small numbers of patients (the
+largest trial included 26 recipients of tranexamic In the study by Bonnar and Sheppard,[32] 19%,
+acid).[15,32-37] More importantly, tranexamic acid has 13% and 4% of patients who received tranexamic been widely used in Scandinavia as a first-line treat- acid (n = 26), mefenamic acid (n = 23) or etamsylate ment for menorrhagia since the early 1970s; over a (n = 27) reported an improvement in symptoms of 19-year time frame and 238 000 patient-years of dysmenorrhoea, and 27%, 35% and 15% rated their treatment, there has been no reported increase in the symptoms as worse than those before treatment. incidence of thromboembolic events.[38,39]
+Nonetheless, 77%, 74% and 33% of patients expressed a desire to continue treatment at the end of 6. Dosage and Administration the study (statistical analysis not reported). In other
+studies, tranexamic acid had no significant effect on Tranexamic acid is approved for the treatment of symptoms of dysmenorrhoea compared with base- menorrhagia (blood loss of >80mL per cycle) in a line or norethisterone.[15,33]
+number of different countries and regions, including
+The percentage of patients who discontinued Japan, the EU and Australasia, but not the US.
+treatment because of adverse events while receiving Underlying organic pathology as the cause of heavy
+tranexamic acid in studies discussed in section 4.1 menstrual bleeding should be ruled out before initiranged from 0 to 12%[15,32-36] (zero in most stud- ating treatment.[40,41] The drug is available for oral
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+Tranexamic Acid: A Review 1429
+administration as 250mg or 500mg tablets and/or menorrhagia). Subjectively, menorrhagia is broadly
+capsules and as a syrup containing 500mg in 5mL. defined as excessive blood loss, whereas objectively
+The recommended dosage of tranexamic acid it is defined as menstrual blood loss of >80mL per
+differs from region to region. In Europe, however, menstruation. The average blood loss during normal
+the recommended oral dosage for the treatment of menstruation is 35mL, with a range of 20–80mL.
+patients with menorrhagia is 1–1.5g three to four However, because women can only base their astimes daily for 3–4 days;[30,42] the total daily oral sessment of menorrhagia on their previous menstrudose should not exceed 4g, and treatment should be al history and their perception of what is normal
+initiated once heavy menstrual bleeding has start- blood loss in other women, over- and under-assessed.[30,42] ment of blood loss occurs. Nevertheless, a woman
+In Japan[31] and most of the EU,[30] caution and whose blood loss triples, but is still below 80mL, is
+supervision is recommended when administering likely to seek medical advice because of the adverse
+tranexamic acid to patients with a history of throm- social and psychological effects associated with inboembolic disease; in the UK,[42] tranexamic acid is creased menstrual blood loss.[45,46] Aside from the
+contraindicated in these patients. Active thrombo- decreased quality of life in women with heavy menembolic disease, however, is a contraindication for strual bleeding, menorrhagia is one of the main
+tranexamic acid use in the EU (including the UK). causes of iron-deficiency anaemia in premenopausal
+The drug is also contraindicated in most of the EU in women;[47] up to 67% of women with menstrual
+patients with severe renal failure, because of the risk blood loss >80 mL/cycle will be anaemic.[45]
+of accumulation.[30]
+The management of menorrhagia may be medical
+Dosage reductions are recommended in patients or surgical. Hysterectomy, which virtually guaranwith renal insufficiency.[30,42] For example, the fol- tees amenorrhoea, is the most frequently used surgilowing are recommended oral tranexamic acid dos- cal treatment for menorrhagia. Indeed, up to 60% of
+age reductions in patients with mild to moderate British women with menorrhagia who visit their
+renal insufficiency in the EU: patients with serum doctor have a hysterectomy within 5 years.[48] The
+creatinine levels between 120 and 249 μmol/L less invasive surgical techniques of endometrial ab- should receive 15 mg/kg twice daily; patients with lation or resection are becoming a more accepted serum creatinine levels between 250 and 500 μmol/ form of surgical treatment for menorrhagia.[49] AlL should receive 15 mg/kg once daily.[30]
+though complete amenorrhoea is not guaranteed
+after endometrial ablation or resection, the usual 7. Place of Tranexamic Acid in the outcome is hypomenorrhoea.[50] Of course, surgery Management of Menorrhagia of these types is not an option for many women,
+particularly those wanting to retain fertility. It is estimated that between 5 and 20% of women
+are affected by menorrhagia at some point during There are a number of medical therapies availtheir premenopausal years. able for the treatment of menorrhagia, including [7,43] Furthermore, between 12 and 25% of visits to a gynaecologist are antifibrinolytics (e.g. tranexamic acid and ε-aminodue to heavy menstrual bleeding. caproic acid), NSAIDs (e.g. mefenamic acid, [7,40,44] The term
+menorrhagia accounts for both heavy menstrual flurbiprofen), haemostatic agents (e.g. etamsylate),
+bleeding (over several consecutive cycles) due to cyclic progestogens (e.g. norethisterone), combined
+uterine pathology and heavy menstrual bleeding oral contraceptives, levonorgestrel-releasing IUDs
+with no detected organic pathology (i.e. idiopathic and the androgen agonist danazol.[46] The antifibri-
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+1430 Wellington & Wagstaff
+nolytic activity of tranexamic acid (see section 2) concerning the tolerability of tranexamic acid are
+was discovered in the mid 1960s lacking. [51] and since then
+the drug has been used in a variety of clinical Combined oral contraceptives are also effective
+settings where antifibrinolytic therapy is appropri- in the management of menorrhagia, and they offer
+ate, including menorrhagia. the additional advantage of providing reliable contraception to those who require it. However, In small clinical studies in women with idiopath30–40% of recipients experience adverse events in- ic menorrhagia (see section 4.1.1) or IUCD-related
+menorrhagia (see section 4.1.2), tranexamic acid cluding headaches, migraine, weight change, breast
+tenderness, nausea, vomiting, mood changes, hyper- reduced mean menstrual blood loss during 2–3 cytension and thromboses.[54] cles by up to 59%, and was more effective than Studies comparing the
+mefenamic acid, flurbiprofen, diclofenac sodium, efficacy and tolerability of combined oral contraetamsylate and norethisterone. The greatest reduc- ception and tranexamic acid in women with menorrhagia have not been undertaken to date. tion in blood loss in these studies was achieved with
+intrauterine administration of levonorgestrel for 1 Recently, three Cochrane reviews have evaluated
+year (96% reduction). Furthermore, a recent system- randomised controlled studies of antifibrinolyatic review of nine studies that measured the effi- tics,[55] NSAIDs[56] or cyclic progestogens[57] for the
+cacy of levonorgestrel-releasing IUDs in women treatment of heavy menstrual bleeding. Tranexamic
+with menorrhagia showed that mean reductions in acid was concluded to be more effective than placemenstrual blood loss with this device range from bo, NSAIDs, oral luteal phase progestogens or etam74–97%.[52] Thus, endometrial suppression with a sylate, and adverse events during treatment with
+progestogen introduced into the uterus via an IUD is tranexamic acid were reported to be no higher than
+highly effective in the treatment of menorrhagia. with any of these comparators.[55] NSAIDs were
+However, there is a risk of pelvic infection asso- concluded to be less effective than tranexamic acid
+ciated with IUDs,[53] and some women develop ame- or danazol and, although most studies were unnorrhoea with this treatment.[52] Indeed, 44% of derpowered, as efficacious as combined oral contrapatients (7 of 16) developed amenorrhoea during the ception, progesterone-releasing IUD, oral luteal
+course of the year-long study discussed in section phase progestogen or etamsylate.[56] To date, no
+4.1.1; of course, amenorrhoea may be beneficial to studies have compared tranexamic acid with
+some some patients. Intermenstrual spotting is also danazol or ε-aminocaproic acid in menorrhagic
+frequent during treatment with a levonorgestrel-re- women.
+leasing IUD.[52] The rates of treatment discontinua- Early reports of an increase in thromboembolic tion due to adverse events in levonorgestrel-releas- events in recipients of tranexamic acid, reports ing IUD recipients, as reviewed by Stewart et al.,[52]
+which led to restrictions of its use in Britain,[58] have
+ranged from 9 to 25% (most common reasons for been discounted; the incidence of thrombosis over a discontinuing treatment included IUD expulsion, in- 19-year time frame and 238 000 patient-years of termittent intermenstrual bleeding and prolonged treatment with tranexamic acid was similar to the
+bleeding and spotting). spontaneous frequency of thrombosis in women in
+The most common adverse events in recipients of the general population.[38] However, the use of tratranexamic acid were dysmenorrhoea and gastroin- nexamic acid is either cautioned or contraindicated
+testinal events such as nausea, vomiting, diarrhoea in patients with a history of thromboembolic disease
+and dyspepsia. However, formal long-term studies (section 6).
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+Tranexamic Acid: A Review 1431
+3. Woo YL, White B, Corbally R, et al. von Willebrand’s disease: Recent UK guidelines for the initial medical an important cause of dysfunctional uterine bleeding. Blood
+treatment of idiopathic menorrhagia recommend tra- Coagul Fibrinolysis 2002 Mar; 13 (2): 89-93
+nexamic acid or mefenamic acid for 3 months, and 4. Gleeson NC. Cyclic changes in endometrial tissue plasminogen
+activator and plasminogen activator inhibitor type 1 in women then indefinitely if successful, in those patients not with normal menstruation and essential menorrhagia. Am J
+requiring contraception or who prefer nonhormonal Obstet Gynecol 1994 Jul; 171 (1): 178-83
+5. Ewenstein BM. The pathophysiology of bleeding disorders treatment.[41] Recent New Zealand guidelines for the presenting as abnormal uterine bleeding. Am J Obstet Gynecol medical management of idiopathic menorrhagia also 1996 Sep; 175 (3 Pt 2): 770-7
+recommend tranexamic acid or NSAIDs as the 6. Cameron IT. Dysfunctional uterine bleeding. Baillieres Clin
+Obstet Gynaecol 1989 Jun; 3 (2): 315-27 second-ranked therapies, following the levonorges- 7. Kadir RA, Economides DL, Sabin CA, et al. Frequency of trel-releasing IUD.[40] However, tranexamic acid inherited bleeding disorders in women with menorrhagia. Lanwas the most favoured first-line drug for the treat- cet 1998 Feb 14; 351 (9101): 485-9
+ment of menorrhagia in a recent survey of New 8. Dockeray CJ, Sheppard BL, Daly L, et al. The fibrinolytic
+enzyme system in normal menstruation and excessive uterine
+Zealand gynaecologists.[59] bleeding and the effect of tranexamic acid. Eur J Obstet
+Gynecol Reprod Biol 1987 Apr; 24 (4): 309-18 In conclusion, the oral antifibrinolytic drug trane- 9. Dunn CJ, Goa KL. Tranexamic acid: a review of its use in
+xamic acid is an effective and well tolerated treat- surgery and other indications. Drugs 1999 Jun; 57 (6): 1005-32
+ment for idiopathic menorrhagia. In clinical trials, 10. Thorsen S. Differences in the binding to fibrin of native plasminogen and plasminogen modified by proteolytic degradation: tranexamic acid was more effective at reducing influence of omega-aminocarboxylic acids. Biochim Biophys
+menstrual blood loss than mefenamic acid, Acta 1975 May 30; 393 (1): 55-65
+11. Anonick PK, Vasudevan J, Gonias SL. Antifibrinolytic activi- flurbiprofen, etamsylate and oral luteal phase ties of α-N-acetyl-L-lysine methyl ester, ε-aminocaproic acid, norethisterone. Although it was not as effective as and tranexamic acid; importance of kringle interactions and
+active site inhibition. Arterioscler Thromb 1992 Jun; 12 (6): intrauterine administration of levonorgestrel, the
+708-16 high incidence of amenorrhoea and adverse events 12. Hoylaerts M, Lijnen HR, Collen D. Studies on the mechanism of
+such as intermenstrual bleeding resulting from such the antifibrinolytic action of tranexamic acid. Biochim Biophys Acta 1981 Feb 18; 673 (1): 75-85 treatment may be unacceptable to some patients.
+13. Dubber AH, McNicol GP, Douglas AS, et al. Some properties Comparative studies of tranexamic acid with ε-ami- of the antifibrinolytically active isomer of aminonocaproic acid, danazol and combined oral contra- methylcyclohexane carboxylic acid. Lancet 1964; II: 1317-9
+14. Andersson L, Nilsson IM, Nilehn J-E, et al. Experimental and ´ ceptives, as well as long-term tolerability studies, clinical studies on AMCA, the antifibrinolytically active iso- would help to further define the place of the drug in mer of p-aminomethyl cyclohexane carboxylic acid. Scand J
+the treatment of menorrhagia. Nevertheless, trane- Haematol 1965; 2 (3): 230-47
+15. Gleeson NC, Buggy F, Sheppard BL, et al. The effect of xamic acid may be considered as a first-line treat- tranexamic acid on measured menstrual loss and endometrial
+ment for the initial management of idiopathic men- fibrinolytic enzymes in dysfunctional uterine bleeding. Acta
+orrhagia, especially for patients in whom hormonal Obstet Gynecol Scand 1994 Mar; 73 (3): 274-7
+16. Shore-Lesserson L, Reich DL, Vela-Cantos F, et al. Tranexa- treatment is either not recommended or not wanted. mic acid reduces transfusions and mediastinal drainage in
+repeat cardiac surgery. Anesth Analg 1996 Jul; 83 (1): 18-26
+17. Blauhut B, Harringer W, Bettelheim P, et al. Comparison of the
+effects of aprotinin and tranexamic acid on blood loss and References related variables after cardiopulmonary bypass. J Thorac
+1. Merck & Co. I. Hemoatology and Oncology: hemostasis and Cardiovasc Surg 1994 Dec; 108 (6): 1083-91
+coagulation disorders [online]. Available from URL: http:// 18. Horrow JC, Van Riper DF, Strong MD, et al. Hemostatic effects
+www.merck.com/pubs/mmanual/section11/chapter131/ of tranexamic acid and desmopressin during cardiac surgery.
+131b.htm [Accessed 2003 Feb 18] Circulation 1991 Nov; 84 (5): 2063-70
+2. Ong YL, Hull DR, Mayne EE. Menorrhagia in von Willebrand 19. Brown RS, Thwaites BK, Mongan PD. Tranexamic acid is
+disease successfully treated with a single daily dose tranexa- effective in decreasing postoperative bleeding and transfusions
+mic acid. Haemophilia 1998 Jan; 4: 63-5 in primary coronary artery bypass operations: a double-blind,
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+1432 Wellington & Wagstaff
+randomized, placebo-controlled trial. Anesth Analg 1997 Nov; 35. Callender ST, Warner GT, Cope E. Treatment of menorrhagia
+85 (5): 963-70 with tranexamic acid: a double-blind trial. BMJ 1970 Oct 24; 4
+(729): 214-6 20. Soslau G, Horrow J, Brodsky I. Effect of tranexamic acid on
+platelet ADP during extracorporeal circulation. Am J Hematol 36. Ylikorkala O, Viinikka L. Comparison between antifibrinolytic
+1991 Oct; 38 (2): 113-9 and antiprostaglandin treatment in the reduction of increased
+menstrual blood loss in women with intrauterine contraceptive 21. Benoni G, Lethagen S, Fredin H. The effect of tranexamic acid devices. Br J Obstet Gynaecol 1983 Jan; 90 (1): 78-83 on local and plasma fibrinolysis during total knee arthroplasty. 37. Winkler UH. The effect of tranexamic acid on the quality of life Thromb Res 1997 Feb 1; 85 (3): 195-206
+of women with heavy menstrual bleeding. Eur J Obstet 22. Boylan JF, Klinck JR, Sandler AN, et al. Tranexamic acid Gynecol Reprod Biol 2001 Dec 1; 99 (2): 238-43 reduces blood loss, transfusion requirements, and coagulation 38. Rybo G. Tranexamic acid therapy: effective treatment in heavy factor use in primary orthotopic liver transplantation. Anesthe- menstrual bleeding: clinical update on safety. Therapeutic siology 1996 Nov; 85 (5): 1043-8; discussion 30A-31A Advances 1991; 4: 1-8
+23. Menzies SA, Hartley JA, Hitchcock ER, et al. The effect of 39. Berntorp E, Follrud C, Lethagen S. No increased risk of venous tranexamic acid on bleeding time and haemostasis. thrombosis in women taking tranexamic acid [letter]. Thromb Neurochirurgia (Stuttg) 1991 Sep; 34: 141-3 Haemost 2001 Aug; 86 (2): 714-5
+24. Dowd NP, Karski JM, Cheng DC, et al. Pharmacokinetics of 40. Farquhar CM. An evidence-based guideline for the management
+tranexamic acid during cardiopulmonary bypass. Anesthesiol- of heavy menstrual bleeding. N Z Med J 1999; 112 (1088):
+ogy 2002 Aug; 97 (2): 390-9 174-7
+25. Benoni G, Bjorkman S, Fredin H. Application of pharmacokine- ¨ 41. Royal College of Obstetricians and Gynaecologists. The initial
+tic data from healthy volunteers for the prediction of plasma management of menorrhagia: evidence-based clinical guideconcentrations of tranexamic acid in surgical patients. Clin lines no. 1. London: RCOG Press, 1998
+Drug Invest 1995 Nov; 10: 280-7 42. British Medical Association and the Royal Pharmaceutical
+26. Eriksson O, Kjellman H, Pilbrant Society of Great Britain. British National Formulary. 43rd ed. A, et al. Pharmacokinetics of ˚
+tranexamic acid after intravenous administration to normal London: British Medical Association and the Royal Pharmavolunteers. Eur J Clin Pharmacol 1974 Aug 23; 7 (5): 375-80 ceutical Society of Great Britain, 2002
+43. Dilley A, Drews C, Miller C, et al. von Willebrand disease and 27. Puigdell´ivol E, Carral ME, Moreno J, et al. Pharmacokinetics
+other inherited bleeding disorders in women with diagnosed and absolute bioavailability of intramuscular tranexamic acid
+menorrhagia. Obstet Gynecol 2001 Apr; 97 (4): 630-6 in man. Int J Clin Pharmacol Ther Toxicol 1985 Jun; 23 (6):
+298-301 44. Shwayder JM. Pathophysiology of abnormal uterine bleeding.
+Obst Gynecol Clin N Am 2000; 27 (2): 219-34 28. Andersson L, Eriksson O, Hedlund P-O, et al. Special consider- 45. Liddell H. Menorrhagia. N Z Med J 1993 Jun 23; 106 (958): ations with regard to the dosage of tranexamic acid in patients
+with chronic renal diseases. Urol Res 1978; 6 (2): 83-8 255-7
+46. Irvine GA, Cameron IT. Medical management of dysfunctional 29. Pilbrant A, Schannong M, Vessman J. Pharmacokinetics and uterine bleeding. Baillieres Best Pract Res Clin Obstet bioavailability of tranexamic acid. Eur J Clin Pharmacol 1981; Gynaecol 1999 Jun; 13 (2): 189-202 20 (1): 65-72 47. Mannucci PM. Hemostatic drugs. N Engl J Med 1998 Jul 23; 30. The European Agency for the Evaluation of Medicinal Products. 339 (4): 245-53 Committee for Proprietary Medicinal Products (CPMP) opin- 48. Coulter A, Bradlow J, Agass M, et al. Outcomes of referrals to ion following an article 10 referral: Cyklo-f (tranexamic acid) gynaecology outpatient clinics for menstrual problems: an [online]. Available from URL: http://www.emea.eu.int/pdfs/ audit of general practice records. Br J Obstet Gynaecol 1991 human/referral/090200en.pdf [Accessed 2003 Feb 14] Aug; 98 (8): 789-96
+31. Daiichi Pharmaceutical Co. Ltd. Transamin (tranexamic acid) 49. Garry R. Endometrial ablation and resection: validation of a capsules/tablets: prescribing information [online]. Available new surgical concept. Br J Obstet Gynaecol 1997 Dec; 104 from URL: http://www.jpma.or.jp/jpr/PDF/DAIICH05.PDF (12): 1329-31 [Accessed 2003 Feb 5] 50. Fraser IS. Medical, surgical and combination therapy for dys32. Bonnar J, Sheppard BL. Treatment of menorrhagia during men- functional uterine bleeding. Contemporary Rev Obstet
+struation: randomised controlled trial of ethamsylate, mefena- Gynecol 1999; 11 (3): 181-93
+mic acid, and tranexamic acid. BMJ 1996 Sep 7; 313 (7057): 51. Okamoto S, Sato S, Takada Y, et al. An active stereo isomer
+579-82 (trans-form) of AMCHA and its fibrinolytic (antiplasminic)
+33. Preston JT, Cameron IT, Adams EJ, et al. Comparative study of action in vitro and in vivo. Keio J Med 1964; 13: 177-85
+tranexamic acid and norethisterone in the treatment of ovulato- 52. Stewart A, Cummins C, Gold L, et al. The effectiveness of the
+ry menorrhagia. Br J Obstet Gynaecol 1995 May; 102 (5): levonorgestrel-releasing intrauterine system in menorrhagia: a
+401-6 systematic review. Br J Obstet Gynaecol 2001 Jan; 108 (1):
+34. Milsom I, Andersson K, Andersch B, et al. A comparison of 74-86
+flurbiprofen, tranexamic acid, and a levonorgestrel-releasing 53. Dardano KL, Burkman RT. The intrauterine contraceptive deintrauterine contraceptive device in the treatment of idiopathic vice: an often-forgotten and maligned method of contracepmenorrhagia. Am J Obstet Gynecol 1991 Mar; 164 (3): 879-83 tion. Am J Obstet Gynecol 1999 Jul; 181 (1): 1-5
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)
+Tranexamic Acid: A Review 1433
+54. Higham JM, Shaw RW. Risk-benefit assessment of drugs used prescribing practice. Int J Technol Assess Health Care 1995
+for the treatment of menstrual disorders. Drug Saf 1991 May; 6 Summer; 11 (3): 456-71
+(3): 183-91 59. Park S, Farquhar CM. A survey of practice preferences and 55. Lethaby A, Farquhar C, Cooke I. Antifibrinolytics for heavy attitudes to the New Zealand Guidelines for the Management menstrual bleeding. Cochrane Database Syst Rev 2000; (4):
+CD000249 of Heavy Menstrual Bleeding. Aust N Z J Obstet Gynaecol
+56. Lethaby A, Augood C, Duckitt K. Nonsteroidal anti-inflamma- 2002 Oct; 42 (4): 374-8
+tory drugs for heavy menstrual bleeding. Cochrane Database
+Syst Rev 2002; (1): CD000400
+57. Lethaby A, Irvine G, Cameron I. Cyclical progestogens for Correspondence: Keri Wellington, Adis International Limitheavy menstrual bleeding. Cochrane Database Syst Rev 2000; ed, 41 Centorian Drive, Private Bag 65901, Mairangi Bay, (2): CD001016 Auckland 10, New Zealand. 58. Coulter A, Kelland J, Peto V, et al. Treating menorrhagia in
+primary care: an overview of drug trials and a survey of E-mail: demail@adis.co.nz
+© Adis Data Information BV 2003. All rights reserved. Drugs 2003; 63 (13)

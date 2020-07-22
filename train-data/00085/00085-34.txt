@@ -1,0 +1,762 @@
+﻿645
+JRRD Volume 42, Number 5, Pages 645–654
+September/October 2005
+Journal of Rehabilitation Research & Development
+Efficacy of gabapentin in treating chronic phantom limb and residual
+limb pain
+Douglas G. Smith, MD;1–3 Dawn M. Ehde, PhD;2,4* Marisol A. Hanley, PhD;4
+ Kellye M. Campbell, MN, ARNP;2,4
+Mark P. Jensen, PhD;4
+ Amy J. Hoffman, BS;4
+ Asaad B. Awan, PharmD;2
+ Joseph M. Czerniecki, MD;4–5
+Lawrence R. Robinson, MD2,4
+1
+Department of Orthopaedics and Sports Medicine, University of Washington, Seattle, WA; 2
+Harborview Medical Center, Seattle, WA; 3Prosthetics Research Study, Seattle, WA; 4Department of Rehabilitation Medicine, University of
+Washington, Seattle, WA; 5
+Department of Veterans Affairs (VA), Rehabilitation Research and Development Center of
+Excellence for Limb Loss Prevention and Prosthetic Engineering, VA Puget Sound Health Care System, Seattle, WA
+Abstract—Twenty-four adults with phantom limb pain (PLP)
+and/or residual limb pain (RLP) participated in a double-blind
+crossover trial. Participants were randomly assigned to receive
+gabapentin or placebo and later crossed over to the other treatment, with a 5-week washout interval in which they did not
+receive medication. Gabapentin was titrated from 300 mg to
+the maximum dose of 3,600 mg. Measures of pain intensity,
+pain interference, depression, life satisfaction, and functioning
+were collected throughout the study. Analyses revealed no significant group differences in pre- to posttreatment change
+scores on any of the outcome measures. More than half of the
+participants reported a meaningful decrease in pain during the
+gabapentin phase compared with about one-fifth who reported
+a meaningful decrease in pain during the placebo phase. In this
+trial, gabapentin did not substantially affect pain. More
+research on the efficacy of gabapentin to treat chronic PLP and
+RLP is needed.
+Key words: amputation, chronic pain, gabapentin, limb loss,
+pain, pain treatment, phantom limb pain, randomized clinical
+trial, residual limb pain, treatment.
+INTRODUCTION
+Both phantom limb pain (PLP) and residual limb pain
+(RLP) are common chronic conditions in persons with
+amputation. A number of studies suggest that as many as
+55 to 85 percent of persons who have had amputations will
+experience PLP at some point following the amputation
+[1–6]. Of persons with chronic PLP, as many as onequarter are estimated to experience moderate to severe disability due to their PLP [2,7]. RLP is also quite common,
+affecting more than half of persons with amputation
+[2,6,8]. Unfortunately, although persons with limb loss
+Abbreviations: ANOVA = analysis of variance, BPI = Brief
+Pain Inventory, CES-D = Center for Epidemiologic Studies
+Depression Scale, CHART = Craig Handicap Assessment and
+Reporting Technique, FIM = Functional Independence Measure,
+GABA = gamma-aminobutyric acid, NRS = numerical rating
+scale, PLP = phantom limb pain, RLP = residual limb pain, SFMPQ = short-form McGill Pain Questionnaire, SWLS = Satisfaction with Life Scale, VAS = visual analog scale.
+This work was supported by a generous grant from John and
+Andrea Robertson to Harborview Medical Center for Limb
+Loss Research, Seattle, Washington, and a program project
+grant award from the National Institute of Child Health and
+Human Development and the National Institute of Neurological Disorders and Stroke, grant PO1 HD/NS33988.
+*Address all correspondence to Dawn M. Ehde, PhD; Harborview Medical Center, Department of Rehabilitation Medicine,
+Box 359740, 325 9th Avenue, Seattle, WA 98104; 206-731-
+2811; fax: 206-731-8580. Email: ehde@u.washington.edu
+DOI: 10.1682/JRRD.2005.05.0082
+646
+JRRD, Volume 42, Number 5, 2005
+report trying a number of pharmacological and nonpharmacological treatments to alleviate pain, the literature lacks
+controlled clinical trials of existing interventions [9].
+Gabapentin, a drug originally developed as an antiepileptic medication, has become increasingly popular as a
+treatment for chronic PLP and RLP. Gabapentin is derived
+by addition of a cyclohexyl group to the backbone of
+gamma-aminobutyric acid (GABA). In brain membranes,
+gabapentin interacts with a high-affinity binding site,
+which is an auxiliary subunit of voltage-sensitive calcium
+channels. Human and rat brain nuclear magnetic resonance spectroscopies indicate that gabapentin increases
+GABA synthesis in vivo. In vitro, gabapentin increases
+nonsynaptic GABA responses from neuronal tissues and
+reduces the release of several monoamine neurotransmitters [10]. In rats, gabapentin increases the threshold for
+mechanical allodynia after spinal nerve ligation [11].
+Several studies suggest that gabapentin effectively
+reduces pain associated with some chronic pain conditions in humans. These investigations include retrospective studies that suggest efficacy for sympathetically
+mediated pain syndromes [12], PLP [12], and cancer pain
+[13], as well as prospective studies for postherpetic neuralgia [14] and neuropathic pain secondary to multiple
+sclerosis [15]. For example, a prospective, double-blind,
+randomized study of pain due to diabetic neuropathy
+found a significantly greater reduction in daily pain in
+patients who received an 8-week trial of gabapentin (up to
+3,600 mg/day) than in patients who received 8 weeks of
+placebo [16]. Quality of life (as measured by the 36-Item
+Short-Form Health Survey) and sleep were also significantly improved in the gabapentin-treated group compared with the placebo group. However, a study
+comparing gabapentin with amitriptyline showed little
+difference between the two for relief of pain associated
+with diabetic neuropathy, although relatively low doses of
+gabapentin (900 or 1,800 mg/day) were used [17].
+Although gabapentin is commonly prescribed for
+chronic PLP and RLP, only one published randomized
+clinical trial of its efficacy was identified [18]. In the
+study, 19 multidisciplinary pain clinic patients with PLP
+were entered into a randomized, double-blind, placebocontrolled, crossover trial comparing gabapentin with an
+inert placebo. Each treatment phase was 6 weeks long
+with a 1-week washout period in between. During the
+active medication phase, gabapentin was titrated in increments of 300 mg to either the maximum tolerated dose or
+2,400 mg. For the 14 participants who completed both
+phases of the study, both gabapentin and placebo treatments resulted in reduced pain intensity scores, as measured by a 100 mm visual analog scale (VAS). Analyses
+revealed that PLP intensity change scores were significantly greater for gabapentin as compared with placebo;
+however, the two treatment groups did not significantly
+differ on measures of sleep interference, mood, or activities of daily living. The authors reported that gabapentin
+was generally well tolerated, with few side effects. This
+study did not examine RLP; thus whether gabapentin
+effectively relieves this type of pain is unknown.
+Given the potential for gabapentin to relieve PLP and
+RLP, as well as the fact that it is already commonly prescribed for these conditions, we performed a doubleblind, randomized, placebo-controlled, crossover trial to
+test its efficacy in persons with chronic PLP and RLP.
+The primary study hypothesis was that gabapentin would
+be superior to placebo in reducing PLP and RLP intensity. A secondary hypothesis was that gabapentin would
+be superior to placebo in increasing activity levels and
+participation and in reducing distress and use of painrelated medical services in persons with PLP and RLP.
+METHODS
+Participants
+We solicited participants from several sources.
+Notices of the study were placed in area clinics and prosthetists’ offices serving patients with amputation. Potential
+study participants were asked to contact the investigators
+to learn more about the study. Patients being seen for
+amputation-related clinical care at Good Samaritan Hospital in Puyallup, Washington, were also approached about
+possible study participation. Survey respondents from a
+previous study of patients treated for amputation at Harborview Medical Center (a regional trauma center) or
+Department of Veterans Affairs Puget Sound Health Care
+System who indicated interest in future research participation were called on the telephone and asked if they might
+be interested in participating [2].
+Study inclusion criteria were as follows:
+1. Lower-limb amputation at least 6 months prior.
+2. Average pain rating in the last month of at least 3 on a
+0 to 10 numerical rating scale (NRS) in either the
+phantom or residual limb.
+3. Agreement with medication schedules and protocols.
+4. Ability to read and speak English.
+647
+SMITH et al. Efficacy of gabapentin for amputation-related pain
+Individuals were excluded if they were younger than
+18 years; taking other antiepileptic medication or cimetidine (Tagamet); consuming more than two alcoholic
+drinks per day; if female, pregnant or breast-feeding a
+baby; found to have a high serum creatinine clearance
+level or low estimated creatinine clearance in a screening
+serum creatinine; or found to have a history of kidney
+disease. The University of Washington Human Subjects
+Review Committee approved the study, and each subject
+gave informed written consent.
+Among 78 individuals screened for potential participation, 25 were ineligible. The most common reasons for
+ineligibility were not enough pain (less than 3 on the 0 to
+10 NRS, sporadic pain) and abnormal serum creatinine
+levels. Twenty-nine participants declined to participate.
+The most common reasons for declining were not wanting to take the study medication and prior negative experience with gabapentin. A total of 24 persons (45% of
+those eligible) enrolled in the study.
+Measures
+Primary Outcome
+Participants rated PLP, defined as painful sensations
+in the part of the limb that had been amputated, and RLP,
+defined as pain in the residual limb (also known as the
+stump), using a 0 (no pain) to 10 (pain as bad as it could
+be) NRS. During both phases, participants were called
+three times during pretreatment and the last week of
+treatment and asked to use the NRS to rate their average
+and worst PLP and RLP in the previous 24 hours. These
+three ratings were then averaged to produce composite
+scores of average and worst PLP and RLP pain within
+each 7-day assessment window.
+Secondary Outcomes
+Following each phase, participants were asked to rate
+the meaningfulness of change in pain from pre- to posttreatment using the following 5-point categorical scale:
+1. “My pain decreased to a meaningful extent.”
+2. “There was some decrease in my pain but not enough
+to be meaningful.”
+3. “There was no change in my pain.”
+4. “There was some increase in my pain but not enough
+to be meaningful.”
+5. “My pain increased to a meaningful extent.”
+Similarly, to assess overall benefit from the study
+medication, participants were asked after each treatment
+phase and before unblinding to choose one of the following descriptors:
+1. “The benefits far outweighed the negative side
+effects.”
+2. “The benefits somewhat outweighed the negative
+side effects.”
+3. “There were no benefits or side effects, or there were
+very mild benefits and side effects.”
+4. “Although there were both benefits and side effects,
+they were about equal.”
+5. “The negative side effects somewhat outweighed the
+benefits.”
+6. “The negative side effects far outweighed the
+benefits.”
+Participants were also asked after each treatment
+phase to guess which medication they had just received
+and on what they had based their guess (i.e., based on
+pain relief, side effects, or other reasons).
+Pain interference was assessed with a modified version of the pain interference scale of the Brief Pain Inventory (BPI) [19], which asks respondents to rate the degree
+to which pain has interfered during the past week with
+seven daily activities, including general activity, mood,
+walking, normal work, relations with other people, sleep,
+and enjoyment of life. The walking item was changed to
+“mobility (ability to get around)” to be relevant to participants who were unable to walk, and three items pertaining
+to self-care, recreational activities, and social activities
+were added to gain a more thorough perspective of pain
+interference. The pain interference scale of the BPI has
+demonstrated its validity through strong associations with
+pain intensity across diverse pain conditions [19].
+The short-form McGill Pain Questionnaire (SF-MPQ)
+consists of 15 pain descriptors that respondents rate on a
+scale from 0 (none) to 3 (severe) [20]. The SF-MPQ total
+score correlates highly with the original MPQ total score
+and is sensitive to the effects of treatments for pain [20].
+Depressive symptoms were measured using the Center for Epidemiologic Studies Depression Scale (CES-D),
+a 20-item scale assessing how often participants have felt
+various depressive symptoms during the past week [21].
+The CES-D has been shown to be a reliable and valid
+measure of depressive symptoms [21]. In addition, the
+CES-D has been shown to be a valid measure of depression among patients with chronic pain [22].
+648
+JRRD, Volume 42, Number 5, 2005
+The Functional Independence Measure (FIM) is an
+18-item measure that was developed by the American
+Congress of Rehabilitation Medicine and the American
+Academy of Physical Medicine and Rehabilitation Task
+Force to Develop a National Uniform Data System for
+Medical Rehabilitation. The FIM rates the severity of
+patient disability and assesses outcomes of medical rehabilitation [23]. The FIM assesses independent functioning in self-care, sphincter control, mobility, transfers,
+locomotion, communication, and social cognition. An
+interview version of the FIM [24] was used in this study.
+The Satisfaction with Life Scale (SWLS) is a 5-item
+scale that measures global life satisfaction [25]. Diener et al.
+demonstrated that the SWLS assesses a single factor and has
+excellent test-retest stability and internal consistency [25].
+To assess disability, we used an interview version of
+the Craig Handicap Assessment and Reporting Technique (CHART) [26]. The CHART is a 27-item measure
+that assesses six dimensions: orientation, physical independence, mobility, occupation, social integration, and
+economic self-sufficiency. Respondents indicate the time
+spent in various activities, as well as their level of independence when performing these activities. Test-retest
+stability of the interview responses to the CHART is
+excellent [26].
+Finally, participants were asked to indicate the temporal pattern of any PLP before and after each treatment
+phase by rating their PLP as—
+1. “Constant with little or no variation.”
+2. “Constant with variations in intensity.”
+3. “Some pain-free periods.”
+Based on their response to this question, participants
+were classified into three groups: those who reported a
+change from constant pain at pretreatment to intermittent
+pain at posttreatment (improved), those who reported a
+change from intermittent pain at pretreatment to constant
+pain at posttreatment (worse), and those who reported the
+same pattern of PLP from pre- to posttreatment (no
+change). This process variable helped us understand the
+impact of gabapentin on the meaningfulness ratings (see
+analyses that follow).
+Study Design and Procedures
+The study was a double-blind, randomized, placebocontrolled, crossover trial of gabapentin for the treatment
+of pain in persons with amputations. All participants
+received 6 weeks of therapy with gabapentin and 6 weeks
+of therapy with placebo (lactose) in random order. After
+being screened and enrolled in the study, participants
+underwent a full medical history and physical examination. Telephone interviews were conducted during the
+pretreatment week prior to both phases of treatment. During the interviews, participants were asked to complete
+the primary and secondary outcome measures described
+in the methods section. Participants were then randomly
+assigned to receive either gabapentin (n = 11) or placebo
+(n = 13) during the first phase of treatment. The study
+pharmacist conducted the randomization technique using
+computer-generated random numbers. The Harborview
+Medical Center pharmacy compounded gabapentin and
+placebo capsules that were identical in appearance so that
+study investigators and participants could not determine
+study assignment by the capsules.
+The research study nurse contacted each participant
+to assess pain intensity and side effects. If a participant
+continued to report pain with few or no side effects, the
+dose was titrated to the next standardized level. Dose
+increases followed a standardized titration schedule
+(300 mg increases every 2 to 3 days) unless the pain
+intensity rating was 0 or uncomfortable side effects were
+reported. In the case of side effects, doses were either
+decreased or maintained at the same level, depending on
+the severity of the side effects. Participants receiving
+gabapentin were titrated from an initial dose of 300 mg
+on day 1 to the maximum tolerated dose or 3,600 mg
+maximum, taken in three divided doses. Seventy-nine
+percent (19) achieved the maximum dose of 3,600 mg
+(82% during Phase 1 and 77% during Phase 2). Identical
+dosing procedures were used for the placebo phase of
+treatment; that is, the number of placebo capsules taken
+was titrated so that it matched the standardized titration
+schedule of the gabapentin phase. Similarly, if participants reported side effects or a pain intensity of 0 during
+the placebo phase, the number of capsules was either
+decreased or maintained at the same level. Phase 1 posttreatment telephone interviews were completed during
+week 6 in which participants again completed all primary
+and secondary outcome measures. Participants in both
+groups were gradually titrated off of the medication during week 7. After a washout period of 5 weeks, Phase 2 of
+the study was conducted following the same procedures
+as Phase 1: pre- and posttreatment telephone interviews
+(during weeks 12 and 18, respectively), weekly contact
+with the research study nurse, and 6 weeks (weeks 13–18)
+of whichever study medication was not received during
+Phase 1, following the same titration schedule.
+649
+SMITH et al. Efficacy of gabapentin for amputation-related pain
+At the end of Phase 2 of treatment, a study investigator who was not involved in data collection or analyses
+unblinded the participants.
+Overview of Data Analyses
+We examined the significance of changes in pain
+intensity during the gabapentin phase compared with the
+placebo phase by first calculating change scores (posttreatment minus pretreatment) for each participant during
+each phase. We then calculated change scores for average
+and worst PLP intensity and average and worst RLP intensity. For each of the four measures of pain intensity, we
+used a paired samples t-test to compare each participant’s
+change score while receiving gabapentin with his or her
+change score while receiving placebo. We used the same
+procedures to test the significance of changes in pain interference (BPI), pain sensations (SF-MPQ), depressive
+symptoms (CES-D), satisfaction with life (SWLS), and
+functional ability (FIM, CHART).
+In addition, we tested for possible order effects by performing four two-way analyses of variance (ANOVAs),
+with treatment order (first vs second phase) and drug (gabapentin vs placebo) as the independent variables and pain
+intensity change score (examined separately for average
+and worst PLP and average and worst RLP) as the dependent variable. In this way, we were also able to test for
+interactions between treatment order and drug for each of
+the four pain intensity change scores. Because amputationrelated pain is often intermittent, we believed that constancy of pain (constant vs intermittent) was another potentially important outcome. We hypothesized that gabapentin
+would change the pattern of pain such that pain episodes
+would be experienced less often. Therefore, we conducted
+Pearson’s chi-square analyses to examine any differences in
+the proportions of participants who reported constant versus intermittent pain at pre- and posttreatment. We conducted exploratory analyses, described in more detail in the
+results section, to further investigate several interesting
+findings that emerged regarding reported meaningfulness
+of changes in pain and reported benefits of the drug.
+RESULTS
+Participant Characteristics
+Table 1 presents sociodemographic and amputation
+characteristics for the 24 participants. The majority of participants (n = 21) had lower-limb amputations. Table 2
+presents characteristics of the participants’ PLP and RLP
+at enrollment.
+At the end of each phase, participants were asked to
+guess which medication they had been receiving. Of the
+21 participants who answered this question after the
+gabapentin phase, 15 (62.3%) correctly guessed gabapentin, while 6 (25.0%) incorrectly guessed placebo. Of the
+15 participants who guessed accurately, 7 based their
+guess on pain relief, 3 on side effects, 4 on both pain
+relief and side effects, and 1 on other reasons. Of the 6
+who guessed incorrectly, 2 based their guess on pain
+relief, 2 on side effects, and 2 on both pain relief and side
+effects. Of the 20 participants who answered this question after the placebo phase, 12 (50.0%) correctly
+guessed placebo, while 8 (33.3%) incorrectly guessed
+gabapentin. Of the 12 participants who guessed accurately, 4 based their guess on pain relief, 0 on side effects,
+5 on both pain relief and side effects, and 3 on other reasons. Among the 8 who guessed incorrectly, 2 based their
+guess on pain relief, 3 on side effects, 2 on both pain
+relief and side effects, and 1 on other reasons (i.e., “random guess”). The proportions of participants who
+guessed correctly in the gabapentin phase compared with
+the placebo phase were not significantly different (χ2 =
+0.60, p = 0.44).
+Of the participants who reported that their pain
+decreased to a meaningful extent during the gabapentin
+phase, eight correctly guessed gabapentin, three incorrectly guessed placebo, and two did not answer the question. Of the participants who reported a meaningful pain
+decrease during the placebo phase, only one correctly
+guessed placebo, three incorrectly guessed gabapentin,
+and one did not answer the question. These analyses support the conclusion that participants could not easily
+identify whether they were receiving gabapentin or placebo and therefore the blinding process was successful.
+Pain Intensity
+As shown in Table 3, no significant differences in preto posttreatment pain intensity change scores while receiving gabapentin versus placebo were found for any of the
+four types of pain intensity (average and worst PLP and
+average and worst RLP). Effect sizes for these analyses
+ranged from 0.31 to 0.36, values usually interpreted as
+small [27]. In addition, Table 4 shows that no significant
+differences were found for change scores in pain sensations (SF-MPQ), depressive symptoms (CES-D), or pain
+interference (BPI). Satisfaction with life (SWLS) and
+650
+JRRD, Volume 42, Number 5, 2005
+functional ability (FIM, CHART) change scores were also
+not significant (not shown). Results of two-way ANOVAs
+with drug (gabapentin vs placebo) and treatment order
+(first vs second phase) as the independent variables and
+pain intensity change scores as the dependent variable
+were not significant for average and worst PLP and RLP.
+We ruled out order effects because neither a main effect for
+treatment order nor a significant interaction between drug
+and order was found.
+Meaningfulness of Change in Pain
+As described earlier, participants were asked at the
+end of each phase to rate the meaningfulness of any PLP
+or RLP change on a scale from 1 (My pain decreased to a
+Table 1.
+Sociodemographic and amputation characteristics of study participants
+(N = 24).
+Characteristic Value
+Age (yr)
+Mean ± SD 52.1 ± 15.5
+Range 25–76
+Sex, %
+Male 75.0
+Female 25.0
+Ethnic Group, % (n)
+Caucasian 70.8 (17)
+African American 12.5 (3)
+Native American 8.3 (2)
+Other 8.3 (2)
+Marital Status, % (n)
+Married 41.7 (10)
+Separated/divorced 33.4 (8)
+Living with partner 8.3 (2)
+Never married 8.3 (2)
+Widowed 8.3 (2)
+Education, % (n)
+Eleventh grade or below 4.2 (1)
+High school graduate 16.7 (4)
+Vocational/technical/some college 50.0 (12)
+College graduate 25.0 (6)
+Graduate/professional school 4.2 (1)
+Employment Status, % (n)*
+Employed full time 25.0 (6)
+Employed part time 12.5 (3)
+Retired 41.7 (10)
+Unemployed due to disability 25.0 (6)
+Unemployed other 4.2 (1)
+Level of Amputation, % (n)
+Transfemoral 33.4 (8)
+Transtibial 41.7 (10)
+Total knee 4.2 (1)
+Hip 4.2 (1)
+Toes 4.2 (1)
+Hand 4.2 (1)
+Transhumeral 4.2 (1)
+Shoulder 4.2 (1)
+Cause of Amputation, % (n)*
+Tumor 8.3 (2)
+Diabetes 8.3 (2)
+Vascular disease 8.3 (2)
+Injury 54.2 (13)
+Infection 25.0 (6)
+Gangrene 12.5 (3)
+Other 12.5 (3)
+*Sum is > 100% because participants could give more than one response.
+SD = standard deviation.
+Table 2.
+Pain and sensation characteristics at enrollment.
+Limb Pain Value
+Phantom Limb Pain (PLP)
+Participants with PLP (%) 87.5
+Constant PLP, little variation 8.3
+Constant PLP, with variation 29.2
+Some pain-free periods 58.3
+PLP rating (mean ± SD) 4.38 ± 2.57
+Frequency of Intermittent PLP
+Hourly 16.7
+Daily 29.2
+Weekly 8.3
+Duration of PLP Episodes (min)
+Median 45.00
+Range 1–840
+Location of PLP (%)*
+Calf 29.2
+Ankle 41.7
+Foot 75.0
+Toes 50.0
+Residual Limb Pain (RLP)
+Participants with RLP (%) 83.3
+RLP rating (mean ± SD) 3.96 ± 2.73
+Nonpainful Limb Sensations (NPLS)
+Participants with NPLS (%) 50.0
+Location of NPLS (%)*
+Calf 20.8
+Ankle 20.8
+Foot 33.3
+Toes 33.3
+*Sum is > 100% because participants could give more than one response.
+SD = standard deviation.
+651
+SMITH et al. Efficacy of gabapentin for amputation-related pain
+meaningful extent) to 5 (My pain increased to a meaningful extent). More than half of the participants reported a
+meaningful decrease in pain during the gabapentin phase
+compared with about one-fifth who reported a meaningful
+decrease in pain during the placebo phase (Table 5). A
+Pearson’s chi-square analysis revealed that significantly
+more participants reported a meaningful pain decrease
+during the gabapentin phase (χ2
+ = 5.69, p < 0.05).
+To investigate this finding further, we performed a
+two-way analysis of covariance with drug (gabapentin vs
+placebo) and treatment order (first vs second phase) as
+the independent variables and meaningfulness of change
+score as the dependent variable, while controlling for
+type of PLP (constant vs intermittent) at posttreatment.
+The covariate, type of PLP, was significant (F1, 46 = 5.70,
+p < 0.05); specifically, participants with intermittent pain
+rated their pain decrease as significantly more meaningful (mean = 1.82) compared with participants with constant pain (mean = 3.00). Even after controlling for type
+of PLP, we still found a significant treatment effect on
+meaningfulness (F1, 46 = 4.71, p < 0.05) such that participants during the gabapentin phase rated their pain
+decrease as significantly more meaningful (mean = 1.69)
+compared with participants during the placebo phase
+(mean = 2.35). We found no main effect for treatment
+order and no significant interaction between drug and
+treatment order.
+Reported Drug Benefits
+Participants also rated the overall benefit from the
+drug at the end of each treatment phase. Similar to the
+meaningfulness question, more than half of the participants of the gabapentin phase reported that the benefits of
+the drug outweighed the side effects compared with onethird of the placebo participants who reported this level of
+benefit. Pearson’s chi-square analysis of this difference,
+however, was not statistically significant (Table 5). Of
+participants in the gabapentin phase, approximately
+17 percent reported that the side effects outweighed the
+benefits of the drug compared with approximately 8 percent of participants in the placebo phase, but again, the
+chi-square analysis was not significant.
+Intermittent Versus Constant
+Table 6 reports the number and percentage of participants reporting intermittent versus constant pain during
+each phase. Regarding changes in the temporal pattern of
+PLP, 6 participants improved (i.e., reported a change from
+constant to intermittent pain), 16 had no change, and 0 got
+worse (i.e., reported a change from intermittent to constant
+Table 3.
+Pre- and posttreatment pain intensity and change scores.
+Measure Gabapentin Phase (Mean ± SD) Placebo Phase (Mean ± SD) Gabapentin vs
+Placebo
+Pre Post Pre – Post Pre Post Pre – Post t* ES
+Average PLP 4.38 ± 2.57 3.43 ± 2.45 0.94 ± 1.98 4.09 ± 2.44 3.60 ± 2.67 0.49 ± 2.20 0.70 0.31
+Worst PLP 5.91 ± 3.15 4.65 ± 3.05 1.15 ± 2.41 5.59 ± 2.98 4.82 ± 3.22 0.58 ± 2.86 –0.64 0.35
+Average RLP 3.63 ± 2.75 2.26 ± 1.94 1.22 ± 2.56 3.21 ± 2.43 2.79 ± 2.28 0.74 ± 1.94 0.81 0.36
+Worst RLP 4.71 ± 3.26 3.35 ± 2.93 1.22 ± 3.32 4.71 ± 3.00 4.21 ± 3.23 0.65 ± 3.05 0.76 0.32
+*t-scores are not significant.
+ES = effect size, PLP = phantom limb pain, RLP = residual limb pain, SD = standard deviation.
+Table 4.
+Pre- and posttreatment secondary outcome measure scores (pain sensations [SF-MPQ], depression [CES-D], pain interference [BPI]) and change
+scores.
+Measure Gabapentin Phase (Mean ± SD) Placebo Phase (Mean ± SD)
+Pre Post Pre – Post Pre Post Pre – Post t*
+SF-MPQ Sensory 11.74 ± 7.87 10.71 ± 6.84 1.25 ± 6.80 12.52 ± 7.87 10.35 ± 8.78 2.17 ± 7.52 –1.08
+SF-MPQ Affective 3.17 ± 2.81 3.15 ± 3.45 0.21 ± 2.20 3.61 ± 3.35 2.91 ± 3.42 0.70 ± 2.55 –1.65
+CES-D 17.50 ± 10.71 13.74 ± 10.17 4.22 ± 9.20 18.58 ± 12.67 14.81 ± 9.82 3.78 ± 10.13 –0.11
+BPI 30.51 ± 22.03 23.61 ± 19.40 6.05 ± 29.90 33.36 ± 25.19 25.38 ± 19.29 7.98 ± 24.19 –0.51
+*t-scores are not significant.
+BPI = Brief Pain Inventory, CES-D = Center for Epidemiologic Studies Depression Scale, SF-MPQ = short-form McGill Pain Questionnaire, SD = standard deviation.
+652
+JRRD, Volume 42, Number 5, 2005
+pain) during the gabapentin phase. In the placebo phase,
+2 participants improved, 19 had no change, and 1 got
+worse. We conducted a chi-square analysis of the proportions of participants in each of these three groups during
+the gabapentin phase compared with the placebo phase.
+Although more participants in the gabapentin phase
+appeared to move from constant to intermittent pain, a
+comparison of the proportion of participants in each phase
+was not statistically significant (χ2
+ = 3.26, p = 0.20).
+DISCUSSION
+In contrast to previous studies on the use of gabapentin for neuropathic pain, this study did not find significant
+differences between gabapentin and placebo on measures
+of pain intensity. Specifically, pre- to posttreatment
+change scores for gabapentin versus placebo were not
+significantly different for any of the four types of pain
+intensity (average and worst PLP and average and worst
+RLP). This contrasts with Bone et al.’s study in which
+PLP pain intensity ratings significantly decreased during
+the gabapentin phase as compared with the placebo phase
+[18]. Several important differences between the present
+study and Bone et al. may account for this discrepant
+finding. We recruited the present study sample from a
+wide range of resources, including the community. In
+contrast, Bone et al.’s participants were persons attending
+a multidisciplinary pain clinic and thus may have had
+more room for improvement with gabapentin treatment.
+In addition, their inclusion criteria required pain intensity
+ratings of at least 40 on a 100 mm VAS, whereas ours
+required a 3 or greater on the 0 to 10 NRS. Given the
+sample sources, the Bone et al. sample not surprisingly
+had a baseline pain rating (VAS of 67 in placebo first
+phase, 61 in gabapentin first phase) that was 18 to
+35 percent higher than our sample (4.36 in placebo first
+phase, 5.00 in gabapentin first phase, 4.65 for whole sample). In addition, Bone et al. only studied PLP, whereas
+we included participants with either PLP or RLP. Gabapentin is possibly more effective in patients reporting
+greater pretreatment pain intensities (moderate to severe)
+or in patients specifically with PLP than in patients with
+RLP or patients who experience only mild pain. Future
+research must examine the differential effects of different
+pain severities and pain locations, but our current sample
+size and design precluded such analyses.
+One notable finding is that the pain intensity change
+scores, the primary outcome variable, varied widely
+within groups during each phase, as one can see when
+comparing the mean change scores with their standard
+deviations (Table 3). Why the pain intensity change
+scores varied so greatly is not clear; however, betweengroup (or in this case, between-phase) differences are
+certainly more difficult to detect and effect size is smaller
+when score variance is high within groups. It may indeed
+be necessary to conduct a larger trial with more power to
+detect moderate but still potentially meaningful differences or to identify subgroups of responders.
+Interestingly, although we did not find significant differences on the primary outcome measure, exploratory
+analysis of the secondary measures did demonstrate a
+significantly greater proportion of participants reporting a
+meaningful decrease in pain during the gabapentin phase
+compared with the placebo phase. Participants with intermittent pain rated their pain decrease as significantly more
+meaningful compared with participants with constant pain,
+and when we controlled for type of PLP (constant vs
+intermittent), a significant treatment effect on meaningfulness was still observed. This finding is particularly interesting given that participants did not more accurately guess
+that they were receiving gabapentin than placebo. Thus, a
+placebo effect alone does not seem to account for these differences. Several explanations may account for this interesting but very exploratory finding. One possibility is that
+Table 5.
+Participant (%) reports of pain decrease and overall treatment benefit.
+Participant Response Gabapentin
+Phase
+Placebo
+Phase χ2
+Meaningful Pain
+Decrease
+54.2 20.8 5.69*
+Treatment Benefits
+Outweighed Side Effects
+54.2 33.3 2.56
+Treatment Side Effects
+Outweighed Benefits
+16.8 8.4 0.40
+*p < 0.05.
+Table 6.
+Number and percentage (%) of participants reporting constant vs
+intermittent phantom limb pain pre- and posttreatment.*
+Pain Gabapentin Phase Placebo Phase
+Pre Post Pre Post
+Constant 8 (36) 2 (9) 6 (27) 5 (23)
+Intermittent 14 (64) 20 (91) 16 (73) 17 (77)
+*Only 22 participants were included due to missing data.
+653
+SMITH et al. Efficacy of gabapentin for amputation-related pain
+the meaningfulness measure was more sensitive to
+changes in pain than the pain intensity measure used as the
+primary outcome in this study. In the pain field, the limitations of the 0 to 10 NRS as the only primary outcome measure in trials have been acknowledged [28]. Recently, a
+consensus panel recommended that participant ratings of
+global improvement and satisfaction with pain treatment
+be included as core outcomes in randomized clinical trials
+of pain treatments [28]. Such measures aggregate multiple
+aspects of the pain experience, including pain relief, side
+effects, changes in functioning, and convenience of treatment use, into a single measure. This explanation, while
+intriguing, is only hypothetical and in need of further
+study. Future studies of gabapentin should include participant ratings of global improvement and satisfaction with
+treatment as core outcomes. Another plausible explanation
+for the differences in meaningfulness of change is that,
+given the multiple analyses conducted, the finding was
+simply due to chance and not to an effect of gabapentin.
+Several limitations of this trial must be considered in
+the interpretation of its results. First, the sample size of
+this study was relatively small and therefore the study was
+underpowered. Given the increasing popularity of gabapentin treatment for PLP during the study period (1999–
+2003), we had growing difficulty finding potential participants who had never taken gabapentin. As mentioned earlier, a larger sample size might have increased our power
+to detect possible significant differences. Another issue to
+consider is that the participants in the present study may
+have had different mechanisms underlying their pain; for
+example, pain from nerve damage directly related to
+amputation versus pain from muscle cramping in the
+residual limb. Gabapentin is possibly more effective for
+one type of pain problem than for others, and these effects
+may have been washed out in the current sample.
+CONCLUSIONS
+Despite certain limitations, the current study is the
+largest reported trial studying gabapentin for chronic PLP
+and is the only study that has included persons with RLP.
+The findings suggest that, on average, gabapentin does
+not provide strong pain relief for these chronic pain conditions. However, the fact that participants reported
+greater “meaningfulness” of pain relief after receiving
+gabapentin supports the need for further study of gabapentin in PLP and RLP treatment. Further investigation is
+warranted to better elucidate the efficacy of gabapentin
+beyond any placebo effects and to determine if subgroups
+of persons with amputation respond to its use.
+ACKNOWLEDGMENTS
+We gratefully acknowledge the contributions of
+Bridget Bjork, Cindy Davis, Jessie Good, Helen Marshall,
+Kim McKearnan, and Erica Tyler, University of Washington, Department of Rehabilitation Medicine, in data
+collection and database management. We also would like
+to acknowledge the contributions of Cathy McDonald,
+CCRP, PhT, and Don Ferguson, PhT, Harborview Medical
+Center, Investigational Drug Service.
+REFERENCES
+ 1. Dijkstra PU, Geertzen JH, Stewart R, van der Schans CP.
+Phantom pain and risk factors: a multivariate analysis.
+J Pain Symptom Manage. 2002;24(6):578–85.
+ 2. Ehde DM, Czerniecki JM, Smith DG, Campbell KM,
+Edwards WT, Jensen MP, Robinson LR. Chronic phantom
+sensations, phantom pain, residual limb pain, and other
+regional pain after lower limb amputation. Arch Phys Med
+Rehabil. 2000;81(8):1039–44.
+ 3. Jensen TS, Krebs B, Nielsen J, Rasmussen P. Phantom limb,
+phantom pain and stump pain in amputees during the first
+6 months following limb amputation. Pain. 1983;17(3):
+243–56.
+ 4. Jensen TS, Krebs B, Nielsen J, Rasmussen P. Immediate
+and long-term phantom limb pain in amputees: incidence,
+clinical characteristics and relationship to pre-amputation
+limb pain. Pain. 1985;21(3):267–78.
+ 5. Smith DG, Ehde DM, Legro MW, Reiber GE, del Aguila
+M, Boone DA. Phantom limb, residual limb, and back pain
+after lower extremity amputations. Clin Orthop Relat Res.
+1999;361:29–38.
+ 6. Wartan SW, Hamann W, Wedley JR, McColl I. Phantom
+pain and sensation among British veteran amputees. Br
+J Anaesth. 1997;78(6):652–59.
+ 7. Pezzin LE, Dillingham TR, MacKenzie EJ. Rehabilitation
+and the long-term outcomes of persons with trauma-related
+amputations. Arch Phys Med Rehabil. 2000;81(3):292–300.
+ 8. Gallagher P, Allen D, Maclachlan M. Phantom limb pain
+and residual limb pain following lower limb amputation: a
+descriptive analysis. Disabil Rehabil. 2001;23(12):522–30.
+ 9. Nikolajsen L, Jensen TS. Phantom limb pain. Br J Anaesth.
+2001;87(1):107–16.
+654
+JRRD, Volume 42, Number 5, 2005
+10. Taylor CP. Mechanisms of action of gabapentin. Rev Neurol (Paris). 1997;153 Suppl 1:S39–45.
+11. Abdi S, Lee DH, Chung JM. The anti-allodynic effects of
+amitriptyline, gabapentin, and lidocaine in a rat model of
+neuropathic pain. Anesth Analg. 1998;87(6):1360–66.
+12. Rosenberg JM, Harrell C, Ristic H, Werner RA, de Rosayro
+AM. The effect of gabapentin on neuropathic pain. Clin J
+Pain. 1997;13(3):251–55.
+13. Caraceni A, Zecca E, Martini C, De Conno F. Gabapentin
+as an adjuvant to opioid analgesia for neuropathic cancer
+pain. J Pain Symptom Manage. 1999;17(6):441–45.
+14. Rowbotham M, Harden N, Stacey B, Bernstein P, MagnusMiller L. Gabapentin for the treatment of postherpetic neuralgia: a randomized controlled trial. JAMA. 1998;280(21):
+1837–42.
+15. Houtchens MK, Richert JR, Sami A, Rose JW. Open label
+gabapentin treatment for pain in multiple sclerosis. Mult
+Scler. 1997;3(4):250–53.
+16. Backonja M, Beydoun A, Edwards KR, Schwartz SL,
+Fonesca V, Hes M, LaMoreaux L, Garofalo E. Gabapentin
+for the symptomatic treatment of painful neuropathy in
+patients with diabetes mellitus: a randomized controlled
+trial. JAMA. 1998;280(21):1831–36.
+17. Morello CM, Leckband SG, Stoner CP, Moorhouse DF,
+Sahagian GA. Randomized double-blind study comparing
+the efficacy of gabapentin with amitriptyline on diabetic
+peripheral neuropathy pain. Arch Intern Med. 1999;159(16):
+1931–37.
+18. Bone M, Critchley P, Buggy DJ. Gabapentin in postamputation phantom limb pain: a randomized, double-blind,
+placebo-controlled, cross-over study. Reg Anesth Pain
+Med. 2002;27(5):481–86.
+19. Cleeland CS, Ryan KM. Pain assessment: global use of the
+Brief Pain Inventory. Ann Acad Med Singapore. 1994;23(2):
+129–38.
+20. Melzack R. The short-form McGill Pain Questionnaire.
+Pain. 1987;30(2):191–97.
+21. Radloff LS. The CES-D scale: a self-report depression
+scale for research in the general population. Appl Psychol
+Meas. 1977;1:385–401.
+22. Geisser ME, Roth RS, Robinson ME. Assessing depression
+among persons with chronic pain using the Center for Epidemiological Studies-Depression Scale and the Beck
+Depression Inventory: a comparative analysis. Clin J Pain.
+1997;13(2):163–70.
+23. Granger CV, Hamilton BB, Keith RA, Zielezny M, Sherwin FS. Advances in functional assessment for medical
+rehabilitation. Top Geriatr Rehabil. 1986;1(3):59–74.
+24. Hamilton BB, Granger CV. Guide for the use of uniform
+data set for medical rehabilitation. Buffalo (NY): Research
+Foundation of State University of New York; 1990.
+25. Diener E, Emmons RA, Larsen RJ, Griffin S. The satisfaction with life scale. J Pers Assess. 1985;49(1):71–75.
+26. Whiteneck GG, Charlifue SW, Gerhart KA, Overholser JD,
+Richardson GN. Quantifying handicap: a new measure of
+long-term rehabilitation outcomes. Arch Phys Med Rehabil. 1992;73(6):519–26.
+27. Cohen J. Statistical power analysis for the behavioral sciences. New York: Academic Press; 1969.
+28. Dworkin RH Turk DC, Farrar JT, Haythornthwaite JA,
+Jensen MP, Katz NP, Kerns RD, Stucki G, Allen RR, Bellamy N, Carr DB, Chandler J, Cowan P, Dionne R, Galer
+BS, Hertz S, Jadad AR, Kramer LD, Manning DC, Martin
+S, McCormick CG, McDermott MP, McGrath P, Quessy S,
+Rappaport BA, Robbins W, Robinson JP, Rothman M,
+Royal MA, Simon L, Stauffer JW, Stein W, Tollett J, Wernicke J, Witter J; IMMPACT. Core outcome measures for
+chronic pain clinical trials: IMMPACT recommendations.
+Pain. 2005;113(1–2):9–19.
+Submitted for publication June 3, 2004. Accepted in
+revised form June 2, 2005.

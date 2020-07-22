@@ -1,0 +1,561 @@
+﻿FEATURE
+ARTICLE
+Using Interactive
+Computer Simulation
+for Teaching the
+Proper Use of Personal
+Protective Equipment
+PAN-PAN HUNG, MSc
+KUP-SZE CHOI, PhD
+VICO CHUNG-LIM CHIANG, PhD
+The outbreak of severe acute respiratory syndrome (SARS) in
+2003 affected thousands of healthcare workers worldwide.
+As a lesson learned from the epidemic, infection control and
+occupational health became an area of focus to safeguard
+healthcare workers from infection hazards at work. The
+use of personal protective equipment (PPE) is an important
+approach to protect healthcare workers from acquiring occupational infections in healthcare settings. Examples of
+PPE include fit-tested N95 respirators, goggles or face
+shields, disposable long-sleeved gowns, and disposable
+gloves. However, improper use of PPE may instead lead to
+the spread of infectious agents among healthcare workers
+and patients. Although guidelines on the use of PPE have
+been developed, continuous outbreak of ward-related infections suggests the need to enhance the training of PPE usage
+for clinical staff.
+Many studies have demonstrated the effectiveness of
+different types of PPE in healthcare settings and their benefits for both healthcare workers and patients.1,2 However,
+it has also been shown that healthcare workers encounter
+difficulties of differing extent in complying with the guidelines of PPE usage, where the lack of knowledge is one of
+the key determinants. Reid et al3 examined the knowledge,
+self-reported behaviors, and the barriers regarding the use
+of PPE of the employees in a pediatric department. The
+study found that 66% of the employees were deficient in
+the knowledge of proper PPE usage, which was considered
+a major reason for low compliance with the guidelines.
+Similar findings were also obtained from a study by Sax
+et al.4 As a result, even though PPE is used, lack of knowledge in donning and doffing may negate its intended effects
+and instead increase the risk of infections. For example,
+contamination can easily occur during the process of glove
+CIN: Computers, Informatics, Nursing & February 2015 49
+CIN: Computers, Informatics, Nursing & Vol. 33, No. 2, 49–57 & Copyright B 2015 Wolters Kluwer Health, Inc. All rights reserved.
+The use of personal protective equipment is one
+of the basic infection control precautions in health
+care. The effectiveness of personal protective equipment is highly dependent on adequate staff training.
+In this project, a computer simulation program, as a
+supplement to conventional training approaches,
+was developed to facilitate the learning of the proper
+use of personal protective equipment. The simulation program was a Web-based interactive software
+with user-friendly graphical interface for users to
+practice the use of personal protective equipment
+usage via drag-and-drop metaphors and respond
+to questions online. The effectiveness of the computer simulation software was investigated by a
+controlled study. Fifty healthcare workers were randomly assigned into two groups: one received conventional personal protective equipment training
+only (control group), whereas the other also received
+the same conventional training but followed by
+using the developed simulation program for selflearning (experimental group). Their performance
+was assessed by personal protective equipment
+donning and doffing evaluation before and after
+the training. The results showed that the computer
+simulation program is able to improve the healthcare
+workers’ understanding and competence in using
+personal protective equipment.
+KEY WORDS
+Computer-simulated training & nursing education &
+online learning & personal protective equipment
+Author Affiliations: Faculty of Health and Social Sciences (Ms Hung),
+Centre for Smart Health (Dr Choi), School of Nursing (Dr Chiang), The
+Hong Kong Polytechnic University, Kowloon, Hong Kong.
+The work was supported in part by the Hong Kong Research
+Grants Council (PolyU 5134/12E).
+The authors have disclosed that they have no significant relationship with, or financial interest in, any commercial companies pertaining
+to this article.
+Corresponding author: Kup-Sze Choi, PhD, School of Nursing,
+The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong
+Kong (thomasks.choi@polyu.edu.hk).
+DOI: 10.1097/CIN.0000000000000125
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+removal if the required procedures are not followed correctly.
+It is therefore necessary to educate healthcare workers about
+the correct use of PPE and increase their competence. While
+many studies have also raised the importance of infection
+control training, particularly after the SARS outbreak,5 relatively few studies addressed the training methods and the
+efficiency.
+Personal protective equipment training is conventionally
+conducted through lectures, demonstrations, and handson practice, with the aid of videos and printed materials.6
+Recent decades have witnessed the increasingly important
+role of computer simulation in training and education. It
+has been considered as an effective and flexible way for
+healthcare training in a variety of situations. A main advantage of computer simulation is its ability to provide realworld experience with a high level of realism and interactions,7 which enable experiential and active learning in
+virtual environments. A number of positive outcomes in
+training and learning with computer simulation have been
+reported, in terms of learner satisfaction, realism, value, and
+knowledge.8 Computer simulation is also a commonly
+adopted training approach for the management of healthcare
+institutions, attributed to the realistic scenarios simulated
+with computers.9 Despite the benefits and popularity of
+computer simulation in healthcare education, few studies
+address the use of computer simulation in infection control
+training, particularly the use of PPE.
+In this study, a computer-based training program was
+designed in attempt to complement conventional PPE training approaches and to enhance the donning and doffing
+skills of the healthcare workers. The effectiveness of the
+computer program was evaluated by assessing healthcare
+workers’ compliance with the donning and doffing procedure before and after using the computerized method
+for training. The details will be discussed in the following
+sections.
+METHODS
+The Computer Simulation Program
+In this study, a computer simulation program for PPE training was designed based on the infection control guidelines of
+the World Health Organization10 and the local infection
+control authority.11 The design of the simulation program
+put emphasis on the essential techniques and the required
+sequence of wearing and removing PPE. It simulated PPE
+donning and doffing procedures for precautions against
+airborne danger, where five types of PPE, including N95
+respirator, face-shield, cap, gown, and gloves, were required.
+The simulation program began by testing users about the
+donning procedures, where a virtual changing room with
+a healthcare worker preparing to put on PPE was shown
+on the screen (Figure 1A). The five types of PPE were represented with the corresponding icons displayed at the
+bottom of the screen. The PPE could be dragged by the
+user with a computer mouse into the changing room and
+put onto appropriate body parts of the virtual healthcare
+worker to signify the donning of a PPE. The user was required to put on the five types of PPE following the correct
+sequence. Animation of the donning procedure was played
+when the correct choice of PPE was made. After virtual
+donning of a PPE was completed, the user was presented
+with multiple-choice questions (with animated insets for
+each choice as shown in Figure 1B) about the use of that
+PPE in order to test the understanding about the correct
+donning steps. Visual prompts were invoked if a PPE was
+selected in the wrong sequence or the PPE was put on
+wrong body parts. The user could retry, request for a hint,
+or give up and ask for the correct answer (Figure 1C). The
+computer simulation program repeated the above procedure for each of the five types of PPE until they were
+all put on the virtual healthcare worker. The simulation
+was then followed by the doffing procedure.
+Similar to the donning procedure, the correct sequence
+of removing the PPE put on the virtual healthcare worker
+was tested. The user was required to click on a PPE to signify
+the removal of that PPE. For example, Figure 1D illustrates
+the removal of the glove. When an incorrect choice was
+made, a visual prompt was invoked so that the user could
+retry, get a hint, or give up. The user was then challenged
+by multiple-choice questions concerning the proper way
+of removing that PPE (Figure 1E), followed by the playing
+of animations of the removal procedure. At this point, the
+user was also required to dispose the removed PPE to the
+appropriate trash bin, that is, the one with lid on the right
+in Figure 1F, by dragging the PPE icon with the computer
+mouse. The computer program further required the user
+to demonstrate the understanding of the need to wash hands
+after disposing each PPE, schematically by clicking on the
+virtual water sink with the mouse. These two steps—PPE
+disposal and hand washing—had to be carried out after the
+removal of each PPE. Failure would trigger visual prompts,
+and the user was required to retry until the two steps were
+correctly completed.
+The computer-simulated training can be completed in
+around 10 to 15 minutes. User performance was recorded
+in terms of the completion time, the number of errors made,
+the number of hints requested, and the score. A point deduction policy was adopted in the computer program,
+where the maximum score of the training was 100 points;
+five points were deducted for every error made (eg, picking
+a PPE in wrong sequence, selecting wrong answer for a
+multiple-choice question, disposing PPE into wrong trash
+bin, or forgetting to wash hands); two points were deducted each time when a hint was requested. That meant
+a user making excessive errors might have scored zero
+points before the end of the training. A pop-up window
+listing the top 10 users and their scores was shown on the
+50 CIN: Computers, Informatics, Nursing & February 2015
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+screen at the end of the simulated training. The computer
+simulation program was a Web-based application, which
+was accessible online with a generic Web browser. The Web
+server was able to log the activities of the users and collect
+user performance data.
+Sampling
+As healthcare workers in outpatient clinics are at risk of
+contracting infectious diseases, the 24-hour outpatient department (OPD) of a private hospital was invited to participate in the study. The OPD is at the frontline of the
+hospital, responsible for triaging patients and handling
+different infectious patients before admission. Information about the study and consent forms were sent to all
+healthcare workers of the OPD, including RNs, enrolled
+nurses, and healthcare assistants. Those who agreed to
+participate in the study, were able to read English, and with
+basic computer operation skills were recruited as subjects.
+The study was approved by the Human Subjects Ethics
+Committee of the institutional review board.
+Instruments
+Two instruments were used in the study, including the PPE
+donning and doffing evaluation form for measuring the
+FIGURE 1. Snapshots of the computer simulation program: (A) user is dragging the N95 respirator toward the virtual healthcare worker; (B) a
+multiple-choice question about the usage of N95 respirator is shown; (C) the system prompts the user for having mistakenly put a cap on the
+worker right after wearing the N95 respirator (should first put on the gown instead); (D) user clicks on the glove to remove it; (E) a
+multiple-choice question about the removal of the glove is shown; (F) user is dragging the glove to the trash bin with a lid.
+CIN: Computers, Informatics, Nursing & February 2015 51
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+subjects’ performance in actual gown-up and degown procedure and the IBMComputerSystemUsability Questionnaire
+(CSUQ) for evaluating subjects’ satisfaction toward the
+computer-simulated training program. The two instruments
+are further described as follows.
+The PPE donning and doffing evaluation form has been
+and is currently used in the participating hospital to assess
+healthcare workers’ gown-up and degown skills. It was
+adopted in the study to evaluate the hands-on skills of the
+subjects. The evaluation form consisted of two parts, concerning the donning and doffing procedures, respectively.
+It was a checklist designed for assessor to record whether
+the healthcare workers had carried out the required steps
+and used the PPE properly during the process of donning
+and doffing. For example, during the donning process, the
+evaluation form checked if the healthcare worker had
+ensured a PPE was intact and well-fitted, confirmed the
+N95 respirator was properly secured around the face and
+performed seal check, or whether the worker had fastened
+the strings of PPE in correct sequence. In the doffing process,
+the form checked if the removed PPE was kept inside out,
+whether the strings of PPE were loosened in correct sequence, or whether the healthcare worker had disposed
+the removed PPE into a proper trash bin and performed
+hand washing. One point was given for an item in the
+form if the corresponding step was carried out correctly.
+Conversely, no point was given if the required step was
+missed or not performed correctly. In the participating
+hospital, the donning and doffing performance of healthcare
+workers is considered satisfactory if they can correctly perform at least 90% of the steps specified in the items of the
+evaluation form.
+For the purpose of the study, the content validity of the
+PPE donning and doffing evaluation form adopted was
+reviewed by a panel of three experts on infection control.
+They were, respectively, an academic specializing in occupational health, a senior nursing officer, and a deputy in
+charge of an infection control department. The panel members assessed the content validity by rating the level of relevance of each item in the form using a 5-point Likert scale,
+from 1 (very irrelevant) to 5 (very relevant). They also provided comments on the items. After the review, one item
+was discarded from the original PPE donning evaluation
+form because it was considered repetitive by the panel,
+whereas the items in the doffing evaluation form were all
+rated ‘‘very relevant’’ and thus kept for the study. Accordingly, the final version of the evaluation form used in the
+study contained 16 items for the donning and 20 items for
+the doffing section, and thus the corresponding total score
+of the two sections was 16 and 20 points. The content
+FIGURE 2. Research design.
+52 CIN: Computers, Informatics, Nursing & February 2015
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+validity index of the donning and doffing sections was
+0.94 and 1.0, respectively, showing that the evaluation
+form possesses good content validity.12
+The CSUQ13 is a psychometric instrument designed to
+collect subjective opinions and user satisfaction toward a
+computer system. It contains 19 items and adopts a 7-point
+Likert scale for each item, with 1 indicating ‘‘strongly agree’’
+and 7 indicating ‘‘strongly disagree.’’ The items concern
+general usability of computer systems from several
+aspects, including ease of use, effectiveness, efficiency, productivity, information presentation and organization, interface, expectations of functions and capabilities, and
+overall satisfaction with the system. The questionnaire has
+strong evidence of reliability. In the study, the CSUQ was
+adopted to evaluate the subjects’ overall satisfaction with
+the computer simulation program.
+Research Design and Procedure
+An experimental study was conducted to evaluate the effectiveness of the proposed computer simulation program.
+The subjects were divided into two groups, one receiving
+conventional PPE training (control group) and the other
+receiving conventional PPE training plus computer-simulated
+training using the proposed simulation program (experimental group). The subjects were randomly assigned to
+the control and experimental group of the same size. A
+pretest-posttest design was adopted to study the effectiveness of the two training approaches by using the PPE
+donning and doffing evaluation form to measure the
+subjects’ performance before and after the training. A
+survey administered by using the IBM CSUQ was conducted to evaluate user satisfaction toward the computer
+simulation program.
+The research procedure is shown in Figure 2. It began
+with the pretest where the two groups of subjects were
+required to perform the gown-up and degown procedures.
+Their performance was assessed using the PPE donning
+and doffing evaluation form by an infection control link
+nurse of the participating hospital who was blinded about
+the research. Next, the subjects of both the control and experimental groups attended conventional PPE training. In the
+training, they received a 15-minute demonstration of PPE
+donning and doffing procedures by another infection control link nurse. After a week, the subjects of the control
+group were required to perform PPE donning and doffing
+again. Their performance was assessed with the evaluation form to yield the posttest results. For the experimental
+group, the subjects were asked to use the proposed computer simulation program to learn PPE donning and doffing.
+To reduce researcher bias, three research assistants were
+first trained to operate the computer simulation program
+and then responsible for teaching the subjects in the experimental group about the use of the simulation program.
+The subjects were expected to complete computer-simulated
+training within 15 minutes. After another week, the subjects
+in the experimental group were required to perform PPE
+donning and doffing, and their performance was assessed
+Table 2
+PPE Donning and Doffing Evaluation Score
+Experimental Group Control Group Between Groups
+Procedure Time Mean SD P Mean SD P P
+Donning Pre 13.52 0.653 .000 13.60 0.913 .000 .859
+Post 15.08 0.493 14.56 0.821 .013
+Doffing Pre 17.76 0.663 .000 17.28 0.980 .003 .055
+Post 19.48 0.653 18.32 0.988 .000
+Table 1
+Demographic Data (Percentage in Parentheses)
+Characteristic Range Experimental Group (n = 25) Control Group (n = 25)
+Age, y 20–30 11 (44%) 7 (28%)
+31–40 9 (36%) 9 (36%)
+41–50 5 (20%) 9 (36%)
+Rank RN 6 (24%) 6 (24%)
+Enrolled nurse 5 (20%) 5 (20%)
+Healthcare assistant 14 (56%) 14 (56%)
+Nursing working experience, y 0–3 5 (20%) 10 (40%)
+4–6 6 (24%) 2 (8%)
+7–9 1 (4%) 0 (0%)
+>9 13 (52%) 13 (52%)
+CIN: Computers, Informatics, Nursing & February 2015 53
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+to obtain the posttest results. Furthermore, they were also
+asked to complete the IBM CSUQ to collect their subjective
+opinion toward the simulation program.
+RESULTS
+Demographic Data
+Fifty healthcare workers took part in the study. Eighteen
+subjects (36%) were aged between 20 and 30 years, 18
+(36%) were aged between 31 and 40 years, and 14 (28%)
+were aged between 41 and 50 years. In terms of job ranks,
+12 subjects (24%) were RNs, 10 subjects (20%) were enrolled nurses, and 28 subjects (56%) were healthcare assistants. Regarding their working experience in nursing, 15
+subjects (30%) had 0 to 3 years of experience, eight subjects
+(16%) had 4 to 6 years of experience, one subject (2%) had
+7 to 9 years of experience, and 26 subjects (52%) had more
+than 9 years of experience. The subjects were randomly assigned into the control group and the experimental group,
+each with a size of 25. Demographic data for the two groups
+are shown in Table 1. Statistical results indicated that there
+was no significant difference in age (#2 = 2.03, P = .36),
+rank (#2 = 0.00, P = 1.00), and experience (#2 = 0.08, P =
+.78) between the control and experimental groups.
+Personal Protective Equipment Donning
+and Doffing Evaluation
+The performance of the subjects in PPE donning and doffing
+is shown in Table 2. As indicated in the last column of the
+table, Mann-Whitney U test showed that in the pretest,
+there was no significantly difference between the two groups
+for the donning (P = .859) and doffing evaluation (P = .055),
+whereas the posttest score of the experimental group was
+significantly higher than that of the control group for both
+the donning and doffing evaluation, with P = .013 and P <
+.000, respectively.
+On the other hand, Wilcoxon signed rank test showed
+that improvement in donning and doffing performance as
+observed in the posttest within each group was statistically
+significant. For the control group, the donning score and
+doffing score increased by 0.96 (P < .001) and 1.04 (P =
+.003), respectively. For the experimental group, the scores
+increased by 1.56 (P < .000) and 1.72 (P < .000), respectively.
+Correlation analysis was conducted to study whether
+the pretest donning and doffing scores of all the subjects
+were related to the age, rank, and working experience of
+the subjects. Refer to Table 3; analysis by Spearman >
+showed no association between the pretest scores and the
+three demographic variables. The same analysis was also
+conducted for the posttest scores of the control and experimental groups, respectively. The results in Table 4 indicate
+that the posttest score of the control group was significantly
+associated with the age and rank of the healthcare workers,
+whereas the score of the experimental group showed no
+association with the three demographic variables.
+Errors in Simulated Training
+For the subjects in the experimental group, the numbers
+of mistakes in answering the multiple-choice questions after
+the completion of the donning or doffing steps were recorded
+by the computer simulation program. There were, respectively, eight and nine multiple-choice questions for the
+donning and doffing procedures. The statistics are shown
+Table 4
+Correlation Analysis (Spearman >) of Posttest Score and Demographic Variables
+Variable Posttest Score Age Rank Experience
+Experimental group Posttest score —
+Age 0.30 —
+Rank 0.203 j0.375 —
+Experience j0.184 0.789a j0.397b —
+Control group Posttest score —
+Age 0.462b —
+Rank j0.563a j0.679a —
+Experience 0.133 0.731a j0.475b —
+Posttest score = posttest score of donning and doffing evaluation.
+a
+P < .01. b
+P < .05.
+Table 3
+Correlation Analysis (Spearman >) of Pretest
+Score and Demographic Variables
+Variable Pretest Score Age Rank Experience
+Pretest score —
+Age j0.117 —
+Rank j0.069 j0.506a —
+Experience j0.180 0.706a j0.443b —
+Pretest score = pretest score of donning and doffing evaluation.
+a
+P < .01. b
+P < .05.
+54 CIN: Computers, Informatics, Nursing & February 2015
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+in Table 5. A total of 43 mistakes were recorded for the
+25 subjects, 10 made during the donning procedure and
+33 at doffing. This means that on average the subjects
+scored 95% and 85% in the donning and doffing evaluations, respectively.
+User Satisfaction
+Among the 19 items of the IBM CSUQ,13 the score of each
+item as rated by the subjects ranged between 1 and 3 of the
+7-point Likert scale (lower score means better satisfaction).
+The lowest mean score was 1.4 (for four items), and the
+highest was 1.9 (for one item), whereas the SDs of the scores
+for the items were in the range of 0.49 to 0.78. The results
+showed that the subjects were satisfied with the computer
+simulation program, and the rating was consistent among
+all the subjects in the experimental group. They agreed
+that the computer simulation program was easy to use.
+DISCUSSION
+In this study, it was hypothesized that computer-simulated
+training could improve the PPE donning and doffing skills
+of healthcare workers. Refer to the results in Table 2; by
+comparing the pretest and posttest performance of the
+control and experimental groups, respectively, it is clear
+that there was an improvement in donning and doffing
+skills within each group, suggesting that the conventional
+and computer-simulated training approaches were both
+effective. However, when the posttest donning and doffing
+performance between the two groups was compared, the
+experimental group indeed outperformed the control group,
+which indicated that the use of the computer simulation
+program was able to further enhance the learning of proper PPE usage. On the other hand, after going through
+either training approach, all subjects were able to achieve
+the passing mark of 90% as required by the infection control
+department of the participating hospital. This demonstrates
+theimportanceofinfectioncontroltraininginraisinghealthcare
+workers’ competency in using PPE.
+In Table 3, the results from the correlation analysis
+showed that age, rank, and working experience were all
+not significantly associated with the pretest score. That is,
+the competency of the healthcare workers in PPE donning
+and doffing was about the same regardless of their rank or
+nursing experience. As clinical skills require repeated practice to competence, high-rank and experienced healthcare
+workers, for example, managers, may still be unable to use
+PPE properly if they are not in the frontlines of care, whereas
+senior clinicians are more likely to perform better. Coupled
+with the fact that only a few of the subjects managed to get
+the passing mark before the training, the finding brings up
+the need for attention to raise the awareness of proper PPE
+usage. It is therefore important for healthcare organizations
+and nursing schools to provide appropriate PPE education,
+and the proposed computer-simulated training is a promising
+approach. On the other hand, the correlation analysis conducted with the posttest donning and doffing scores in Table 4
+reveals that the conventional training approach was better
+received by healthcare workers of higher rank. This may be
+attributed to the stronger work experience they have that enables them to better comprehend the skills conveyed in the
+conventionaltraining approach than the lower-rank healthcare
+workers. This was not the case for the computer simulation
+program where the posttest score were not related to age,
+rank, and working experience of the subjects and thus a
+more suitable PPE training approach for healthcare workers
+in general while achieving a similar outcome.
+It appears that the subjects were less familiar with the
+doffing steps as evident from the fact that they made more
+errors in answering the multiple-choice questions presented
+by the computer simulation program on the doffing procedure when compared with that on the donning procedure.
+Moreover, one-third of the mistakes were made in answering the questions concerning the removal of N95 respirator
+(Table 5). In the computer simulation program, the noncontact technique for removing N95 respirator was adopted.
+This is a new technique recently recommended by the local
+infection control authority aiming to minimize hand contamination due to the removal. The results showed that subjects
+were not accustomed to this technique. For example, the performance data logged in the Web server showed that the subjects chose to grasp the bottom tie with one hand, instead of
+using both hands, as the first step of the removal of the N95
+respirator(Figure 3). Given the relatively weaker understanding
+of the doffing skills, more intensive training shall be provided
+accordingly to enhance the knowledge of proper PPE removal.
+Limitations
+Despite a controlled trial and the favorable results, the
+sample size of the study was relatively small, involving
+only 50 subjects. If more subjects could be recruited
+from other hospitals, the reliability of the study would be
+enhanced. Stronger evidence could be made available to
+Table 5
+Mistakes in Answering Multiple-Choice Questions
+Procedure Step No. of Times
+Donning Wear N95 respirator 3
+Wear face shield 1
+Wear cap 4
+Wear gown 2
+Wear gloves 0
+Doffing Remove gloves 4
+Remove gown 5
+Remove cap 8
+Remove face shield 5
+Remove N95 respirator 11
+CIN: Computers, Informatics, Nursing & February 2015 55
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+show that the computer simulation program was well suited
+for healthcare workers in general, independent of their rank
+or experience. In addition, the study lasted for 3 weeks
+for the experimental group, and the subjects received the
+computer-simulated training only once. It would be useful to
+further investigate the virtual learning progress of the subject
+when they received the training multiple times, as well as
+the relationship between the intensity of the computerized
+training and the performance in actual PPE usage, that is,
+the effectiveness of the transfer of knowledge gained from
+the computer-simulated training into real-world practice.
+Also, while the present study has shown that the computer simulation system is advantageous for the training
+of PPE usage, a cost-benefit analysis will be conducted to
+further evaluate the effectiveness of the computerized training. In this regard, the major cost-related factors include the
+human resourcesneeded to provide theconventionalinstructorled training versus the development of the software. The
+benefits can be assessed from the training time reduction
+and cost saving when compared with that required by
+conventional training, which will be estimated quantitatively
+with data obtained from a study specifically designed to
+measure the number of times and the duration of computerized
+training required to reach the necessary level of competency.
+CONCLUSION
+The study has demonstrated the effectiveness of using the
+computer simulation program to facilitate the training of
+PPE donning and doffing skills. It is an effective way to
+complement and enhance the conventional PPE training
+for healthcare workers and aid the strengthening of infection control and improving occupational health. This
+simulation program is a Web-based application, which is
+readily available and accessible online simply with a
+generic Web browser. While the results of the study were
+promising, a large-scale study shall be conducted to further
+substantiate the training effectiveness, ensuring that the
+knowledge gained from the virtual training is well transferrable to proper PPE donning and doffing practice. In
+particular, subjects will be allowed to use the computer
+simulation program multiple times over an extended period
+so as to further evaluate their e-learning progress and
+to study the retention effect. The current simulation program presented three-dimensional objects in two dimensions. To increase the virtual realism, a three-dimensional
+version of the program will be developed to enable users
+to visualize the PPE and the simulated scenarios in a more
+intuitive way.
+REFERENCES
+1. Conly JM. Personal protective equipment for preventing respiratory infections: what have we really learned? Can Med Assoc J. 2006;175(3):263.
+2. Chan JTS, Lau WHK, Wu YF. Confidence test for personal protective equipment. Hong Kong J Emerg Med. 2002;9(4):195–200.
+3. Reid SM, Farion KJ, Suh KN, Audcent T, Barrowman NJ, Plint AC.
+Use of personal protective equipment in Canadian pediatric emergency
+departments. Can J Emerg Med. 2011;13(2):71–78.
+FIGURE 3. Subjects picking ‘‘C. Grasp the bottom tie with one hand’’ as the first step to be performed for remove the N95 respirator while the
+correct answer is ‘‘D. Grasp the bottom tie with both hands.’’
+56 CIN: Computers, Informatics, Nursing & February 2015
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.
+4. Sax H, Perneger T, Hugonnet S, Herrault P, Chraiti MN, Pittet D.
+Knowledge of standard and isolation precautions in a large teaching
+hospital. Infect Control Hosp Epidemiol. 2005;26(3):298–304.
+5. Lau JTF, Fung KS, Wong TW, et al. SARS Transmission among hospital workers in Hong Kong. Emerging Infectious Disease. 2004;10(2):
+280–286.
+6. Pang X, Zhu Z, Xu F, et al. Evaluation of control measures implemented in the severe acute respiratory syndrome outbreak in Beijing,
+2003. JAMA. 2003;290(24):3215.
+7. Strauss R, Kinzie M. B. Student achievement and attitudes in a
+pilot study comparing an interactive videodisc simulation to conventional dissection. Am Biol Teach. 1994;56:398–402.
+8. Weaver A. High fidelity patient simulation in nursing education:
+an integrative review. Nurs Educ Perspect. 2011;32(1):37–40.
+9. Cassidy CR, Kreitner R. Supervision: Setting People Up for Success.
+Southwestern Cengage Learning: Mason, OH; 2010.
+10. Infection prevention and control of epidemic- and pandemic-prone
+acute respiratory diseases in health care (WHO Interim Guidelines).
+2007. http://www.who.int/csr/resources/publications/WHO_CDS_
+EPR_2007_6c.pdf. Accessed November 30, 2012.
+11. Guidelines on Infection Control Practice in the Clinic Setting. 2011. http://
+www.chp.gov.hk/files/pdf/guidelines_on_infection_control_practice_
+in_the_clinic_setting_dec_2011.pdf. Accessed November 30, 2012.
+12. Polit DF, Beck CT. Nursing Research: Principle and Methods.
+Philadelphia, PA: Lippincott; 2004.
+13. Lewis RJ. IBM Computer Usability Satisfaction Questionnaires:
+psychometric evaluation and instruction for use.Int J Hum Comput
+Interact. 1995;7(1):57–78.
+CIN: Computers, Informatics, Nursing & February 2015 57
+Copyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.

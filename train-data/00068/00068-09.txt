@@ -1,0 +1,385 @@
+﻿Eur J Clin Pharmacol (1992) 43:581-585
+© Springer-Verlag t992
+Originals
+Effect of Penicillin on the clinical course of streptococcal pharyngitis
+in general practice
+M. De Meyere 1 , Y. Mervieide 2, G. Verschraegen 3 , and M. Bogaert 4
+Departments of 1 General Practice, 2 Experimental Psychology, 3 Bacteriology and
+4 Heymans Institute of Pharmacology,, University Gent, Belgium
+Received: March 17, 1992/Accepted in revised form.: July 16, 1992
+Summary. The aim of the study was to explore whether
+penicillin was superior to placebo in altering the clinical
+course of proven streptococcal pharyngitis. A randomised, parallel, double blind placebo controlled trial of
+10 days duration was undertaken in 42 general practices
+in the Gent region (Flemish part of Belgium). Phenoxymethytpenicillin (adults 250 mg t.i.d, and children 125 mg
+t. i. d.) or placebo were administrated to 173 patients, aged
+5 to 50 y, with acute sore throat and a positive culture for
+Group A ]3-haemotytic streptococci. Penicillin and placebo tablets were identical. Patient compliance was monitored by assay of penicillin in urine (Sarcina lutea
+method).
+The primary outcome variable was sore throat as recorded by the physician on Day 3. The experiences of the
+patients themselves over the 10 day period were also assessed. Secondary outcome variables were other local and
+general symptoms and signs of streptococcal throat infection.
+In the penicillin group on Day 3, 23.2 % of the patients
+still complained of sore throat versus 65.9 % in the placebo group: difference 42.7% (C.I. 29.4%, 56.1%). This
+finding was confirmed by survival analysis of the symptom
+'sore throat', as recorded by the patients. The physicians
+recorded on Day 3 a significant positive effect on another
+symptom (malaise: P < 0.04) and certain clinical signs (abnormal throat: P < 0.07; and redness of throat: P < 0.003).
+Penicillin had more adverse effects than placebo
+(P < 0.007). It also inhibited the rise in ASLO (P < 0.001).
+In this study in general practice, penicillin had a slight
+but definitive positive effect on the clinical evolution of
+streptococcal pharyngitis. The clinical importance of this
+finding is not certain, as the physician in the community
+may lack the means to distinguish between viral and bacterial pharyngitis.
+Key words: Penicillin, Pharyngitis; clinical trial
+Penicillin has been administrated for streptococcal pharyngitis to prevent acute rheumatic fever ever since antibiotics became available. This management is based on
+the Fort Warren studies [1].
+It is remarkable that for many years no methodologically sound studies were done to investigate the influence
+of antibiotics on the clinical course of streptococcal pharyngitis. Some authors have concluded therefore, that 'the
+administration of antibiotics cannot be justified on the assumption that they relieve symptoms' [2].
+In the past six years, two randomised, double blind, placebo controlled investigations have been done in children,
+both of which demonstrated a beneficial effect of antibiotic therapy on the clinical course of Group A fl-haemolytic streptococcal (GABHS) pharyngitis [3, 4].
+A randomised, double blind, placebo controlled trial
+has now been undertaken to see whether in general practice, in children as well as in adults, penicillin had a favoutable effect on the clinical course of proven streptococcal
+pharyngitis.
+Patients and methods
+In the Gent region (Flemish part of Belgium), in 1989, 42 general
+practitioners were asked to perform a study in all male and female
+patients, aged between 5 and 50 y, who presented an acute sore
+throat for less than 5 days.
+The exclusion criteria were: previous history of acute rheumatic
+fever or poststreptococcal acute glomerutonephritis, use of antibiotics during the previous 14 days, allergy to beta-lactam antibiotics, and any high risk situation (as judged by the physician).
+All patients were allocated to one of the two therapeutic regimens. The target population was retrospectively identified by means
+of the results of a throat culture. Material for the throat culture was
+collected before the therapy was installed. In this paper, only the outcome in the GABHS-positives is presented.
+Culture
+Two different media were inoculated for isolation: an SBA plate
+(tryptic soy agar with 5 % sheep blood), and an ssA plate (5 % sheep
+blood agar containing crystal violet, colistin, and trimethoprim sulphamethoxazote), all supplied by Becton Dickinson [5]. All plates 
+582
+Table 1. Checklist used by the general practitioner
+Personal Symptoms Clinical findings
+details
+n = 9 n = 14 n = 13
+Age Sore throat Abnormal throat"
+Sex Submandibularpain Heavy red throat
+Domicile Cervical pain Exudate on tonsil
+Profession Muscular pain White exudate
+Persons at home Arthralgy Yellow exudate
+with sore throat Headache Green exudate
+Smoker Earpain Bilateral abnormal
+Tonsillectomy Abdominal pain throat
+Use of gargle Rhinitis Petechiae
+Season Cough Cervical adenitis
+Nausea Painful cerv. adenitis
+Diarrhoea Submandibular adenitis
+Shivers Painful submandibular
+Malaise adenitis
+Scarlatina
+Abnormal throat: abnormalities of colour or form of the pharynx
+and tonsils; presence of exudate or petechiae
+were incubated at 36 °C in a 5 % CO2 atmosphere for 48 h, with a first
+reading after 24 h. Growth was expressed semiquantitatively: 1 + if
+fl-haemolytic streptococci were present in the first inoculation zone,
+2 + when they were seen in the second zone too, and 3 + when they
+were detected in all streaked areas.
+All GABHS-positive patients were tested on Day 3 and
+Day 20.
+On Day 3, an urine specimen was obtained in the physician's office for assay for the presence of antimicrobial
+activity by the method of Charney [6]. The absence of Sarcina lutea in cultures from the placebo group, and the
+growth of this bacteria in the penicillin group were interpreted as violation of compliance.
+Statistical methods
+Statistical analyses were done on a PC with the
+SPSSPC + statistical program, except for the survival analysis, which was performed on SPSS-X, and the use of
+SAS for the logistic regression. Appropriate tests were selected for comparison of patient characteristics (Fisher's
+exact test and Wilcoxon rank test, Z 2, Pearson r correlation) and outcomes on Day 3 (Fisher exact test). Correction of the treatment effect for differences in covariates
+was done by logistic regression, as the outcome variable is
+a nominal dependent variable. Survival analysis (LeeDesu statistics) was performed for the data ~om the diary
+cards.
+P < 0.05 was accepted as significant. Bonferroni's correction for multiple measures was applied.
+Intervention
+Patients were randomised to receive penicillin or placebo.
+Identical tablets of phenoxymethylpenicillin (250 mg for
+adults and 125 mg for children up to 10 years) and placebo
+were prepared by the Laboratory for Pharmaceutical Technology, University of Gent (Director Prof. Dr.
+J. E Remon). Quality control was performed on weight,
+friability, hardness and disintegration time, and was satisfactory. Medication was delivered in a double-blind manner.
+Penicillin and placebo were administered three times a
+day. Patients (or their relatives) were instructed in the use
+of aspirin or acetaminophen as needed to control fever
+and pain. The use of these medications was noted on the
+diary card and on the checklist. Topical preparations (gargles, tablets, sprays) were allowed.
+Outcome measures
+On Day 1, baseline symptoms and signs were recorded on
+a checklist by the physician (Table 1). All patients were
+asked to attend again on Day 3 for a second evaluation.
+The main outcome measure was the difference between
+Days 1 and 3 in sore throat, as the primary outcome variable, and in the other, secondary variables (Table 1).
+Patients were asked to complete a diary card twice daily for 10 consecutive days. Information was obtained
+about sore throat, body temperature, malaise, the use of
+analgesics and whether the patient was able to perform
+normal daily activities.
+The ASLO was measured on Days 3 and 20, using the
+NA Latex ASL-Reagent (Behring) and nephelometry.
+Results
+As the prevalence of GABHS infection was 27 %, 181 patients were admitted to the treatment groups: 87 who received penicillin and 94 on placebo. Because 8 patients
+Table 2. Baseline comparison of the treatment groups (physicians'
+records)
+PeniciIlin Placebo p
+n = 82 n = 91
+Age (y) Mean:23.18 Mean:24.08 0.51 b
+Gender
+M 36.5 % 43.0 %
+F 63.5 % 57.0 % 0.44 ~
+Malaise 79.5 % 79.6 % 0.99 ~
+Redness of throat 77.8 % 88.6 % 0.07 a
+Bilateral abnormal throat 61.9 % 75.6 % 0.07"
+Degree of positivity throat
+culture: grade t 10.6 % 18.5 %
+grade 2 25.9 % 33.7 %
+grade 3 63.5 % 47.8 % 0.09 ~
+Initial ASLO-value
+(I.U./ml) Mean:315.67 Mean:325.44 0.87 b
+Submandibular adenitis 72.9% 70.1% 0.87 ~
+Use of analgesics 36.6 % 45.9 % 0.23"
+Absenteeism 74.1% 80.7 % 0.37 ~
+Tonsillectomy 8.1% 11.8 % 0.41 ~
+Duration of complaints
+before enrollment (hours) Mean:34.00 Mean:34.25 0.83 b
+Fever (°C) Mean:37.57 Mean:37.80 0.14 b
+Fischer's Exact Test; b Wilcoxon Rank Test 
+583
+% of patients with symptoms
+and clinical signs
+Peni iPla¢.
+100
+Peni Ptac,
+80
+1Day3 Lk~'~Day 1]
+Plac. Plac. p--'*
+60
+40
+20
+0
+Sore throat Malaise Redness throat Abnormal threat
+P < 0,0001 P < 0,04 P < 0.001 P < 0.007
+Fig, 1. Differences between placebo (n = 91) and penicillin (n = 82)
+on Days 1 and 3 in symptoms and clinical signs (Physicians records)
+(4.4 % ) dropped out (5 on penicillin and 3 on placebo), the
+real penicillin group consisted of 82 patients and the placebo group of 91 patients (flom the physicians'records).
+The treatment groups were comparable for most variables (Table 2) and no significant differences were found.
+The percentage of patients in relation to the time of recruitment was: tO.6% in January, 9.3% in February,
+10.4% in March, 11.2% in April, 8.4 % in May, 10.3 % in
+June, 7.2 % in July, 5.1% in August, 6.1% in September,
+11.3 % in October, 5.8 % in November, and 4.3 % in December.
+As evaluated by the physician, 23.2 % of the penicillin
+group had a sore throat versus 65.9% of the placebo
+group: the difference was 42.7 % in favour of penicillin
+(95% CI 29.4-56.1%; P<0.0001 Fisher's exact test;
+Fig 1).
+To obtain a clearer idea about the evolution of the sore
+throat, data from patients' diary cards were analysed.
+There was a response rate of 74.3 % (n = 136) and valid
+data from73.5 % (n = 131); suitable records were available
+from 61 patients in the penicillin group and 70 of those on
+placebo. As for treatment groups according to the physicians' records, the two groups were comparable in allvariables. The mean duration of sore throat was 2.8 days (penicillin) versus 3.7 days (placebo), i. e. a gain of about one day in
+symptom resolution (P < 0.001). The clinical importance
+of this finding was checked by survival analysis (10 day
+period), which confirmed the different evolution of sore
+throat in the two groups (P < 0.001). The evolution of sore
+throat in the two treatment groups is shown in Fig. 2.
+For other symptoms and signs, as recorded by the physicians, differences between Days 1 and 3 were found in
+malaise (P < 0.04), abnormal throat (P < 0.007), redness
+of the throat (P < 0.001); see Fig. 1. Malaise was also noted
+in the patient diary. The mean duration of malaise was
+2.52 d (penicillin) and 2.28 d (placebo); P by survival
+analysis was 0.04.
+Although randomisation was succesful and no significant differences between the two treatment groups could
+be detected (Table 2), it was decided to adjust the treatment effect with respect to the primary outcome variable
+(difference in sore throat on Day 3). The baseline covariates and certain other intervening variables, such as the
+concomitant use of analgesics, absenteeism and complicance, were analysed by a logistic regression.
+The logistic regression showed a significant effect of
+the type of treatment (P < 0.0001), while other variables
+did not have any influence. This result provides strong
+confirmation that the observed difference in treatment effect can be attributed to the difference in therapy (placebo
+or penicillin).
+A major point in the trial was the measurement of compliance. The overall violation of compliance measured on
+Day 3 was 8.2 %: 4.8 % (penicillin) and 3.4 % (placebo). A
+second analysis of the data, whit assignment of the patients to the group to which they really belonged, gave the
+same treatment effect as in the original analysis.
+The overall incidence of adverse effects was 14 % in the
+treated patients, 20.8 % in patients treated with penicillin
+and 5 % in the placebo group (P < 0.007). Subjective symptoms, such as itching, dysphagia and nausea, were more
+frequent in the penicillin group. Penicillin inhibited the
+rise in ASLO (P < 0.0009). No suppurative complications
+were observed.
+There was no effect at all of penicillin on the symptoms
+or clinical findings in the GABHS-negative patients.
+Discussion
+Since penicillin became available, many studies have been
+done to investigate its effect on the clinical evolution of
+streptococcal pharyngitis, most in selected populations.
+Several decades ago, studies were done in hospitalised
+patients [7, 8] and in a military population [9, 10,11], none
+of which were double blind or randomised. In the
+Eighties, 5 clinical trials were done in children. The study
+of Gerber et al [12] was not compliance controlled; Nelson's work [13] was not double blind; and the study by
+Krober [14] has occasioned considerable comment because of its very small size (26 GABHS-positives).
+1001
+80
+60
+% of patients with sore throat Penicillin -[3- Placebo
+(n =61) (n= 70)
+~, P<0.001
+k~a ' P <0.001
+40 ~ '''N" P < 0.001
+~ '",,~ P < 0,01
+20 ~ """~:~ P <0"05
+~-E3- ..
+-'I~ ....... E1
+0 ----% ~ r ± i I I ~ r
+D1 D2 D3 D4 £)5 D6 D7 D8 D9 D10
+Days after randomisation
+Fig.2. Effect of penicillin on sore throat in patients with GABHS
+pharyngitis, Survival analysis on diary cards completed by the patients 
+584
+Only the studies of Randolph et al (1985) and Pichichero et al (1987) fulfill most of the important methodological
+criteria. Yet, in the trial of Randolph et al (1985), the placebo did not physically ressemble the antibiotics used (penicillin and cefadroxyl) [3]. "Furthermore, all patients
+were instructed to avoid aspirin and acetaminophen
+(28 %), but were non compliant in this regard. Therefore,
+the study did not answer the more clinically practical question whether penicillin improves symptoms of streptococcal pharyngitis better than ad libitum use of antipyretic/analgetic drugs" [3].
+The conclusions even of valid studies in a selected population of children, cannot be universally generalised to
+the population in general practice.
+In general practice, four clinical trials have been done.
+Two studies were not controlled for compliance or antibody titre [15, 16]. The others were not double blind, nor
+were they controlled for compliance or antibody titre [17,
+18].
+Thus, the present study appears to be the first in general practice, which has fullfilled the 10 methodological criteria mentioned above [3, 4]: prospective, randomised,
+double blind, placebo controlled, compliance controlled
+on urine, controlled on a 'gold standard', representative
+population, comparable treatment group and direct observation.
+The most important conclusion is that penicillin has a
+positive effect on the clinical evolution of GABHS-pharyngitis. This was evident in our primary outcome variable
+assessed by the physician (Fig. 1), and was confirmed by
+the patients themselves (Fig. 2).
+According to the physicians' records on Day 3, the difference between placebo and penicillin was 42,7 %. Secondary analyses confirmed the positive effect of penicillin
+on other signs and symptoms: malaise and inflammed appearance of the throat. This result was obtained when
+treatment was started, on average, 1-5 d after the onset of
+the symptoms.
+Body temperature here was not influenced, although it
+was in other recent trials of penicillin. This was probably
+due to the fact that only 62.5 % of the present patients had
+fever on Day 1. In the study of Pichichero et al [3], fever
+was one of the five signs or symptoms of which three had
+to be present to gain entry to the study. In the trial of Randolph et al [4], all patients had fever on Day 1.
+Analysis of the patients' diaries made it clear that the
+difference between placebo and penicillin remained
+significant on Day 4, up to 24 h after the administration of
+penicillin ceased. The difference had disappeared from
+Day 5. As many have stated, and as our results confirm,
+the acute symptoms and signs of GABHS-pharyngitis are
+selflimiting [15, 16, 19, 20].
+The incidence of suppurative complications was too
+low for measurement of a difference between the two
+treatment strategies. This was also true in the study of
+Pichichero et al [3].
+In order to make an evaluation of the risk/benefit ratio
+of penicillin, the adverse effects were evaluated; penicillin
+produced more adverse effects than placebo. There is uncertainty about the long-term effects of antibiotic treatment of GABHS-pharyngitis. As in other trials [3], there
+was a decrease in the immunological response in the penicillin-treated group. Randolph et al [4] did not find a significant difference in the rise in ASLO in the treated
+groups. Some reselwation must be expressed about the
+possibility of a promoting influence on recurrence of the
+infection [3].
+The conclusions of the study are important for the clinical management of sore throat and especially of GABHSpharyngitis in general practice.
+If administreted within a short period after the onset of
+symptoms, penicillin is helpful for patients with proven
+streptococcal pharyngitis.
+A delay in initiating penicillin therapy will result in persistent acute symptoms and clinical findings for 24 h. This
+negative effect will be only seen in GABHS-positive patients (27 % here). Some of these patients will be carriers.
+It seems very difficult to identify the latter group. To
+obtain the beneficial effect of penicillin on the clinical
+evolution of GABHS sore throat, the diagnosis must be
+made immediately. The results of GABHS culture and
+antibody titres take several days to obtain. Clinical diagnosis is no better than "flipping a coin" [21] and the sensitivity of Streptests is too low ( < 0.90) to replace culture
+[22, 23].
+On the other hand, postponement of treatment will
+avoid the adverse effects of penicillin, it would not influence the rise in ASLO, and it might reduce the frequency
+of reinfection by GABHS.
+Like Pichichero et al (1987), we can finish with a question: "Is the immediate price worth the long term benefit?"
+Acknowledgements. With thanks to K. Soenen, secretary and organizer, and to the 42 general practitioners who cooperate to this
+study: Dr. RBehaeghe, Dr. R.Bellens, Dr. J.Bots, Dr. M.Braeckman, Dr. M. Bruggeman, Dr. T. Christiaens, Dr. M. Cosyns, Dr. J. De
+Maeseneer, Dr. D.De Martelaere, Dr. B.De Meerleer, Dr. G.De
+Munck, Dr. A.De Winter, Dr. A.Derese, Dr. RDevos (t), Dr.
+R.Dierckx, Dr. A.Everaert, Dr. D.Feys, Dr. L.Foucart, Dr.
+R Heyerick, Dr. J.Jonckheere, Dr. K.Klein, Dr. J.Lannoy, Dr.
+R.Liagre, Dr. J.RMatthijs, Dr. J.Matthys, Dr. B.Parmentier, Dr.
+L. Present, Dr. E Raat, Dr. L. Reyntens, Dr. W. Swinnen, Dr. J. Van
+Bouchaute, Dr. I.Van Der Meeren, Dr. J.Van Elsen, Dr. C.Van
+Lysebettens, Dr. J. Van Quickelberghe, Dr. W. Van Renterghem, Dr.
+J.Vercruysse, Dr. RVerdonck, Dr. K.Verhofstadt, Dr. J.Verplancken, Dr. R. Verstrepen, Dr. L. Willems.
+References
+1. Denny FW, Wannamaker LW, Brink WR, Rammelkamp CH,
+Custer EA (1950) Prevention of rheumatic fever. Treatment of
+the preceding streptococcal infection. JAMA t43:151-153
+2. Peter G, Smith AC (1977) Group A streptococcal infections of
+the skin and pharynx. N Engl J Med 297:365-370
+3. Pichichero ME, Disney FA, Talpey WB, Green JL, Francis AB,
+Roghmann KJ, Hoekelman RA (1987) Adverse and beneficial
+effects of immediate treatment of group A beta-hemolytic streptococcal pharyngitis with penicillin. Pediatr Infect Dis 6:635-643
+4. Randolph M, Gerber M, Demeo K, Wright L (1985) Effect of
+antibiotic therapy on the clinical course of streptococcal pharyngitis. J Pediatr 106:870-875
+5. Bellon J, Weise B, Verschraegen G, De Meyere M (1991) Selective Streptococcal Agar versus blood agar in the detection of
+group A beta-hemolytic streptococci in acute pharyngitis. J Clin
+Microbio129:2084-2085 
+6. Charney E, Bynum R, Eldredge D, Frank D, Mc Whinney A, Mc
+Nabbn S, Scheiner A, Sumpter E, Iker H (1967) How well do
+patients take oral penicillin? A collaborative study in private
+practice. Pediatrics 40:188-195
+7. Bennike T, Brochner-Mortensen K, Kjaer E, Skadhange K,
+Trolle E (1951) Penicillin therapy in acute tonsillitis, phlegmonous tonsillitis and ulcerative tonsillitis. Acta Med Scand 139: 253-
+274
+8. Jersild T (1948) Penicillin therapy in scarlet fever and complicating otitis. Lancet I: 671-673
+9. Brink WR, Rammelkamp CH Jr., Denny FW, Wannamaker LW
+(1951) Effect of penicillin and aureomycin on the natural
+course of streptococcal tonsillitis and pharyngitis. Am J Med 10:
+300-308
+10. Brumfitt W, O'Grady F, Slater J (1959)Benign streptococcal sore
+throat. Lancet II: 419-421
+11. Denny FW, Wannamaker LW, Hahne EO (1953) Comparative
+effects of penicillin, aureomycin and terramycin on streptococcal
+tonsillitis and pharyngitis. Pediatrics 11:7-13
+12. Gerber MA, Randolph MF, Mayo DR (1988) The group A streptococcal carrier state. A reexamination. Am J Dis Child 142: 562-
+565
+13. Nelson JD (1984) The effect of penicillin therapy on the symptoms and signs of streptococcal pharyngitis. Pediatr Infect Dis J
+3:10-13
+14. Krober MS, Bass JW, Michels GN (1985) Streptococcal Pharyngitis. Placebo-controlled double-blind evaluation of clinical
+evaluation of clinical response to penicillin therapy. JAMA 253:
+1271-1274
+15. Chapple PA, Franklin LM, Paulett JD, Tuckman E, Woodall J,
+Tomlinson A, Mc Donald J (1956) Treatment of acute sore throat
+585
+in general practice. Therapeutic trial with observations on symptoms and bacteriology: Br Med J 1:705-708
+16. Whitfield M J, Hughes AO (1981) Penicillin in acute sore throat.
+Practitioner 225:234-239
+17. Merenstein JH, Rogers KD (1974) Streptococcal pharyngitis:
+early treatment and management by nurse practitioners, JAMA
+227:1278-1280
+18. Smith D, Bell SM, Cranney KS (1969) Diagnosis and treatment
+of acute pharyngitis in general practice. Med J Aust 1:803-806
+19. Brumfitt W, Slater JD (1957) Treatment of acute sore throat with
+penicillin. Lancet I: 8-11
+20. De Melker RA (1987) Recurrent upper respiratory tract infections viewed as a natural phenomenon and a problem with
+multiple causation. Allgemein Medizin 16:29-36
+21. Hjortdahl R Laerum E, Mowinckel P (1988) Clinical assessment
+of pharyngitis in general practice. Scand J Prim Health Care 6:
+219-223
+22. Radetsky M, Todd JK (1984) Criteria for the evaluation of new
+diagnostic tests. Pediatr Infect Dis J 3:461-466
+23. Radetsky M, Wheeler RC, Roe MH, Todd JK (1985) Comparative evaluation of kits for rapid diagnosis of group A streptococcal disease. Pediatr Infect Dis 4:274-281
+Dr. M.De Meyere
+Department of General Practice
+University Hospital
+De Pintelaan, 185
+B-9000 Gent
+Belgium 

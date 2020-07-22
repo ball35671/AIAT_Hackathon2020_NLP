@@ -1,0 +1,858 @@
+﻿Intramuscular olanzapine versus intramuscular aripiprazole for the
+treatment of agitation in patients with schizophrenia: A pragmatic
+double-blind randomized trial
+Mantana KittipeerachonM.D ⁎, Warawat ChaichanM.D
+Nakhon Sawan Rajanagarindra Psychiatric Hospital, Phayuhakhiri, Nakhon Sawan 60130, Thailand
+article info abstract
+Article history:
+Received 9 November 2015
+Received in revised form 17 July 2016
+Accepted 18 July 2016
+Available online xxxx
+Objective: To evaluate and compare the effectiveness and adverse effects of intramuscular (IM) olanzapine and IM
+aripiprazole for the treatment of agitated patients with schizophrenia in clinical practice.
+Methods: A 24-hour randomized double-blind study carried out at a psychiatric hospital in Thailand enrolled
+adult patients (18–65 years old) with schizophrenia experiencing agitation. Patients received one dose of IM
+olanzapine or IM aripiprazole followed by routine oral psychotropic medications. Efficacy was primarily measured using the Excited Component of the Positive and Negative Syndrome Scale (PANSS-EC).
+Results: A total of 80 patients with a PANSS-EC score range of 22–35 entered the study, of whom 13% had a medical comorbidity and 40% a history of active substance abuse. The 40 patients receiving IM olanzapine showed
+greater improvement than the 40 patients receiving IM aripiprazole in PANSS-EC scores at 2 h after the injection
+(p = 0.002) but not at 24 h. The two treatments were well tolerated. Patients receiving IM olanzapine experienced greater somnolence than those receiving IM aripiprazole. There were no clinically relevant changes in
+vital signs in either group.
+Conclusion: The results indicate that IM olanzapine and aripiprazole are similarly effective and well tolerated in
+the real-world treatment of agitation associated with schizophrenia over the first 24 h. However, in the early
+hours, IM olanzapine may produce more sedation and reductions in agitation.
+© 2016 Elsevier B.V. All rights reserved.
+Keywords:
+Olanzapine
+Aripiprazole
+Intramuscular
+Agitation
+Schizophrenia
+1. Introduction
+Agitation can be considered a psychiatric emergency and is a common presentation for multiple psychiatric conditions, including schizophrenia (Nordstrom and Allen, 2007). Although a possible cause of
+agitation in patients with schizophrenia may be comorbidities, such as
+metabolic disorder, traumatic brain injury, and infection, the most common cause is psychotic relapse (Battaglia et al., 2007; Buckley et al.,
+2011). Management of agitated patients with schizophrenia involves
+non-pharmacological intervention and pharmacological agents (Marco
+and Vaughan, 2005; Marder, 2008). Effective pharmacological agents
+include several classes of antipsychotic agents and benzodiazepines
+(Marco and Vaughan, 2005). Benzodiazepines cause nonspecific sedation but have little effect on psychosis (Battaglia et al., 2007). For psychosis-driven agitation in patients with known schizophrenia,
+antipsychotics are preferred over benzodiazepines because they address the underlying psychosis (Wilson et al., 2012). The successful
+use of these medications also requires rapid onset of action (Buckley
+et al., 2011), which usually requires a medication/formulation to have
+a short time to peak plasma concentration (Citrome, 2013).
+Owing to its established efficacy in managing agitation in psychosis
+and rapid onset of action, the first-generation injectable antipsychotic
+haloperidol has long been used in the treatment of agitation in schizophrenia (Zeller and Citrome, 2016). Second-generation antipsychotics
+(SGAs) are a newer development in the management of agitation. Several SGAs, including olanzapine, ziprasidone, and aripiprazole, are commonly used in the acute setting and are now available as short-acting
+intramuscular (IM) formulations (Buckley et al., 2011; Wilson et al.,
+2012). Reports of meta-analyses have demonstrated that IM preparations of SGAs produce more favorable extrapyramidal side effect profiles
+than haloperidol (Citrome, 2007; Satterthwaite et al., 2008) while providing similarly strong effects in the reduction of agitation (Citrome,
+2007).
+Like other SGAs, olanzapine is primarily an antagonist of serotonergic (5-HT2A) and dopaminergic (D2) receptors. It also has antagonist effects on muscarinic, histamine, and alpha-1-adrenergic receptors
+(Bymaster et al., 1996; Schatzberg et al., 2007). Short-acting IM
+olanzapine reaches maximum plasma concentration in 15–45 min,
+compared with 3–6 h after an oral dose (U.S. Food and Drug
+Administration Psychopharmacological Drugs Advisory Committee,
+Schizophrenia Research xxx (2016) xxx–xxx
+⁎ Corresponding author.
+E-mail addresses: kittipeerachon@outlook.com (M. Kittipeerachon),
+warawat@hotmail.co.th (W. Chaichan).
+SCHRES-06914; No of Pages 8
+http://dx.doi.org/10.1016/j.schres.2016.07.017
+0920-9964/© 2016 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Schizophrenia Research
+journal homepage: www.elsevier.com/locate/schres
+Please cite this article as: Kittipeerachon, M., Chaichan, W., Intramuscular olanzapine versus intramuscular aripiprazole for the treatment of
+agitation in patients with schizophrenia: A pragma..., Schizophr. Res. (2016), http://dx.doi.org/10.1016/j.schres.2016.07.017
+2001). Previous studies in agitated patients with schizophrenia show
+that IM olanzapine 10 mg has efficacy in reducing agitation that is comparable but more rapid than IM haloperidol 7.5 mg (Breier et al., 2002;
+Wright et al., 2001, 2003). In clinical trials, the most frequently reported
+adverse events with IM olanzapine were somnolence, dizziness, asthenia, and hypotension (Wagstaff et al., 2005).
+Aripiprazole differs pharmacologically from the other SGAs. It is a
+partial agonist of the dopamine D2 and serotonin 5-HT1A receptors
+and an antagonist of 5-HT2A receptors (Burris et al., 2002). Aripiprazole
+has moderate affinity for histaminic and alpha-adrenergic receptors and
+low affinity for muscarinic receptors (Shapiro et al., 2003). A peak plasma concentration of aripiprazole is achieved in 1–3 h after IM injection,
+compared with 3–5 h after oral administration (Boulton et al., 2008;
+Mallikaarjun et al., 2004). In two large randomized double-blind placebo-controlled studies (Andrezina et al., 2006; Tran-Johnson et al., 2007),
+9.75 mg IM aripiprazole demonstrated rapid and effective control of agitation without oversedation in patients with schizophrenia and
+schizoaffective disorder. IM aripiprazole was well tolerated and associated with lower extrapyramidal side effects than IM haloperidol. The
+most frequent adverse events after injection of aripiprazole were headache, nausea, dizziness, and somnolence (Andrezina et al., 2006;
+Sanford and Scott, 2008; Tran-Johnson et al., 2007).
+Guidelines from the American Association for Emergency Psychiatry
+recommend using an SGA as monotherapy or in combination with another medication instead of haloperidol to treat agitated patients with
+a known psychotic disorder (Wilson et al., 2012).
+There have been no head-to-head trials of rapid-acting IM formulations of SGAs in the acute setting. Most comparisons of efficacy were
+generated relative to comparisons with placebos and older treatments.
+Although published reviews have generally indicated that SGAs are
+equally effective in reducing agitation, there are differences between
+the SGAs that should help the decision making process in clinical practice (Schleifer, 2011; Wilson et al., 2012). Short-acting IM aripiprazole
+appears slightly less efficacious than short-acting IM olanzapine
+(Citrome, 2007). The choice of pharmacological treatment for agitation
+should also take into account the risk of adverse reactions, the presence
+of medical comorbidities and substance abuse, and drug interactions
+with concomitant medications (Fagiolini et al., 2013; Ng et al., 2010;
+Zimbroff, 2008). In the first published review of the post-marketing
+safety data of IM olanzapine, 51.7% of fatal cases reported current or
+prior benzodiazepine use (Marder et al., 2010). A review of patients
+who received any type of SGA in emergency departments demonstrated
+that approximately 11% of them presented with evidence of alcohol intoxication and 21% were co-administered with benzodiazepines
+(Wilson et al., 2014), whereas most published studies of the administration of SGAs in agitated patients have not investigated their use with
+benzodiazepines or in alcohol-intoxicated patients (Wilson et al., 2012).
+The purpose of this study is to evaluate and compare the effectiveness and adverse effects of IM olanzapine and IM aripiprazole in the
+treatment of agitated patients with schizophrenia in real-world clinical
+practice.
+2. Methods
+2.1. Patients
+The study was conducted at Nakhon Sawan Rajanagarindra Psychiatric Hospital, the only psychiatric hospital in Lower Northern Thailand.
+The hospital offers outpatient care and inpatient hospitalization with 60
+beds and serves as a referral center for psychiatric patients in its area. Eligible participants were male and female patients aged 18–65 years
+with a diagnosis of schizophrenia according to the DSM-5 (American
+Psychiatric Association, 2013) visiting the outpatient or emergency department of the hospital from July 2014 to October 2014. Patients may
+have no history of antipsychotic treatment, may have been treated
+with oral antipsychotic medications or long-acting injectable
+antipsychotics, or may have discontinued medication. Our study required patients to be experiencing acute agitation with a total score of
+15 or higher on the Positive and Negative Syndrome Scale–Excited
+Component (PANSS-EC) and a score of 5 or higher on at least one
+item—the same scores as used for the administration of as-needed
+anti-agitation medication in the study hospital (Chaichan, 2008). The
+patients also had to be appropriate candidates for parenteral treatment
+according to the treating physician. Additionally, patients had to agree
+to be admitted to the hospital or their legally authorized representatives
+had to agree for them to be admitted. Patients were excluded if they had
+a known allergy to olanzapine or aripiprazole or were pregnant or
+breastfeeding. Medical comorbidity and substance use were not exclusion criteria. The study was approved by the Institutional Ethics Committee review board. The study was explained to the prospective
+patients or their legally authorized representatives and the patients or
+their representatives gave written informed consent before any protocol-required procedures were performed.
+2.2. Study design and treatment
+This was a pragmatic double-blind randomized study evaluating and
+comparing the effectiveness and adverse events of IM olanzapine with
+IM aripiprazole in the treatment of acute agitation in hospitalized patients with schizophrenia. The recruiting process was performed at
+the outpatient or emergency department of the study hospital and included a medical record review, history taking, and clinical evaluation.
+After a baseline assessment using relevant measures, participants
+were assigned to receive an IM dose of either 10 mg olanzapine or
+9.75 mg aripiprazole by a nurse who blindly picked the name of the
+assigned medication from a box with equal numbers of folded papers
+printed with each medication. The patients were then admitted to a
+psychiatric ward for a period of 24 h. The randomization and process
+to administer an injection of the study medication to the patients
+were carried out by nurses. The patients and the physician investigator
+were blinded to treatment assignment as long as the 24-hour assessment was not completed. The assessment was performed by the investigator and the nurse who administered the injection was not involved
+in the assessment process of the study.
+An IM injection of the study medication was given to the patients as
+soon as they were transferred to the ward. Repeated doses of the study
+medication or any kinds of parenteral medication were prohibited during the 24 h after the injection of the study medication. Following standard practice in the study hospital, a scheduled oral regimen of
+antipsychotics was prescribed and administered concomitantly since
+the first day of admission. The antipsychotic medication administered
+orally and its dose were decided by the treating physician. The treating
+physician was also allowed to prescribe a scheduled regimen of oral
+benzodiazepines, other psychotropic medications, and trihexyphenidyl.
+Nevertheless, as-needed (PRN) or stat orders for any medications were
+not allowed. Patients who had been taking medications for underlying
+medical conditions, such as antihypertensive or antidiabetic drugs,
+were allowed to continue taking their medications during the study
+period.
+2.3. Assessments
+Patient demographic data and psychiatric characteristics, including
+duration of the illness, duration of the current episode, and the total
+number of hospitalizations, were collected upon recruitment. In addition, patients' history of past treatment with long-acting injectable antipsychotics within 30 days prior to recruitment was collected, as were
+data on medical comorbidity and substance use. The initial severity of
+the symptoms associated with schizophrenia was evaluated using the
+Brief Psychiatric Rating Scale (BPRS), with 18 items and a scale of 1 to
+7 (Overall and Gorham, 1962).
+2 M. Kittipeerachon, W. Chaichan / Schizophrenia Research xxx (2016) xxx–xxx
+Please cite this article as: Kittipeerachon, M., Chaichan, W., Intramuscular olanzapine versus intramuscular aripiprazole for the treatment of
+agitation in patients with schizophrenia: A pragma..., Schizophr. Res. (2016), http://dx.doi.org/10.1016/j.schres.2016.07.017
+2.3.1. Efficacy assessments
+The efficacy of the study medications on agitation was primarily
+assessed using the PANSS-EC (Kay et al., 1987; Lindenmayer et al.,
+2004). The PANSS-EC scale is a subset of items derived from the
+PANSS and consists of five items: excitement, hostility, tension,
+uncooperativeness, and poor impulse control. Each item is scored on a
+seven-point severity scale (1 = absent to 7 = extreme), primarily by
+observation. The PANSS-EC is a validated and reliable instrument that
+allows for the investigation of the anti-agitation effects of antipsychotic
+treatment in short-term clinical trials (Lindenmayer et al., 2004;
+Montoya et al., 2011). The PANSS-EC was rated by the two investigators,
+psychiatrists with 10 years and 17 years of experience with the schizophrenic population, and the Thai version of the structured clinical interview for the PANSS was used as a guide for the evaluation (Nilchaikovit
+et al., 2000).
+Secondary outcome measures used to assess the severity of agitation
+during the study included the Agitation Calmness Evaluation Scale
+(ACES; Copyright Eli Lilly and Company), a single-item, nine-point
+scale that rates the patient on an agitated–calm–sleeping continuum.
+A score of 1 indicates marked agitation; 2, moderate agitation; 3, mild
+agitation; 4, normal; 5, mild calmness; 6, moderate calmness; 7, marked
+calmness; 8, deep sleep; and 9, unable to be aroused (Battaglia et al.,
+2003). This scale has high convergent validity and high reliability
+(Battaglia et al., 2003; Meehan et al., 2002) and has been used in several
+clinical trials (Montoya et al., 2011). The Clinical Global Impression-Severity of Illness (CGI-S;Guy, 1976) was also used to assess efficacy of the
+study medication. The CGI-S is a single-item instrument used to assess
+overall severity based on the clinician's experience with a particular patient population. Ratings on the CGI-S in this study focused on the severity of agitation rather than the severity of illness, with scores ranging
+from 1 (normal, not at all agitated) to 7 (among the most extremely agitated patients).
+Before patients were assigned to the study medications, the study
+investigator conducted baseline assessments using all of the efficacy
+measures. These measures were then rated again at 2 h and 24 h after
+an injection of the study medication. For each patient, the same rater
+conducted the assessment throughout the study.
+2.3.2. Safety assessments
+Patient adverse effects were monitored during the study period with
+spontaneous reports and using the Udvalg for Kliniske Undersogelser
+side effects rating scale (Lingjaerde et al., 1987). This questionnaire divides adverse effects into four general categories of symptoms: psychic,
+neurologic, autonomic, and miscellaneous. Extrapyramidal symptoms
+were also evaluated using the Simpson–Angus Scale (SAS; Simpson
+and Angus, 1970), which ranges from zero to 40, with higher scores indicating more extrapyramidal signs. Akathisia was also assessed using
+the Barnes Akathisia Scale (BARS; Barnes, 1989), which ranges from
+zero to 14, with higher scores indicating more severe akathisia. These
+adverse effect measures were performed together with an assessment
+of injection site reactions (including pain, swelling, and redness) at
+baseline and at 2 h and 24 h after an injection of the study medication.
+Patients' vital signs, including blood pressure and pulse rate, were also
+assessed.
+2.4. Statistical analysis
+Demographic data and baseline clinical characteristics were summarized using descriptive statistics. They were compared between two
+treatment groups using Student's t-test for continuous variables. Categorical variables were compared using a chi-squared test or, when
+N20% of the expected frequencies were less than five, a Fisher's exact
+test. Efficacy outcomes were changes from baseline to 2 h and 24 h
+after the injection as measured by PANSS-EC, ACES, and CGI-S scores.
+These were compared within treatment groups using paired t-tests
+and between the two groups using Student's t-test. Patients who
+achieved a 40% reduction or more in their PANSS-EC total score from
+baseline to 2 h and 24 h were defined as responders and the response
+rates were compared between the two treatment groups. A subgroup
+evaluation was also performed based on baseline agitation levels.
+Data on concomitant medications were summarized and the doses
+expressed as a multiple of the defined daily doses (DDD; World
+Health Organization Collaborating Centre for Drug Statistics
+Methodology, 2014) to allow comparisons of different antipsychotics
+and benzodiazepines between the two treatment groups. The DDD
+was obtained from the World Health Organization Collaborating
+Centre for Drug Statistics Methodology (2015) and is assumed to be
+the average maintenance dose per day for a drug used for its main indication in adults.
+Analysis of safety data included changes in blood pressure and pulse
+rates and extrapyramidal symptoms, akathisia, and other adverse
+events. Criteria for potentially clinically significant (PCS) changes in
+vital signs were defined and used in the safety analysis. An ACES score
+of 8 (deep sleep) or 9 (unarousable) was also considered an adverse effect. The numbers of patients who experienced adverse events were
+summarized for each treatment group. Mean changes from baseline in
+the SAS and BARS scores were also analyzed. All the statistical tests
+were two tailed and a p-value of 0.05 was considered statistically
+significant.
+3. Results
+3.1. Patient disposition and baseline characteristics
+A total of 80 agitated patients with schizophrenia were enrolled in
+the study. Two-thirds (67.5%) of the patients were men and the mean
+age was 40.7 years (range 18–62 years). All patients were ethnic
+Thais. A total of 40 patients received an IM dose of olanzapine and an
+equal number of patients received an IM dose of aripiprazole. All of
+the patients completed the study. Patient demographic and clinical
+characteristics are summarized in Table 1. There were no significant differences in demographic characteristics between treatment groups. The
+psychiatric histories, including the duration of the illness, the duration
+of the current episode, and the number of previous hospitalizations,
+were similar in both groups. The overall schizophrenic symptomatology
+at baseline, as measured by the BPRS total score, in the olanzapine group
+was more severe than that in the aripiprazole group (p = 0.050). With
+regard to the severity of agitation, all patients had a mean baseline
+PANSS-EC score of 28.61 ± 3.09 (range 22–35). There were no significant differences in the mean baseline PANSS-EC score between the
+two treatment groups.
+The numbers and percentages of patients with each type of comorbidity are listed in Table 1. Four patients (10.0%) in the olanzapine
+group and six patients (15.0%) in the aripiprazole group had medical comorbidity. One patient in the olanzapine group had more than one
+medical condition (hypertension, diabetes mellitus, and dyslipidemia),
+as did one patient in the aripiprazole group (hypertension and dyslipidemia). A total of 19 patients (47.5%) in the olanzapine group and 13 patients (32.5%) in the aripiprazole group presented with active substance
+abuse within one month. Five patients in the olanzapine group used
+more than one substance: Four used alcohol and nicotine and one
+used amphetamines and nicotine. Four patients in the aripiprazole
+group used more than one substance: One used alcohol and nicotine;
+one used amphetamines and nicotine; one used amphetamines and
+cannabis; and one used alcohol, amphetamines, and nicotine.
+3.2. Efficacy
+At baseline, there were no differences in the PANSS-EC total scores,
+ACES scores, and CGI-S scores between the olanzapine group and the
+aripiprazole group (Table 2). Each item's score for the baseline PANSSEC in the olanzapine group was comparable to the corresponding
+M. Kittipeerachon, W. Chaichan / Schizophrenia Research xxx (2016) xxx–xxx 3
+Please cite this article as: Kittipeerachon, M., Chaichan, W., Intramuscular olanzapine versus intramuscular aripiprazole for the treatment of
+agitation in patients with schizophrenia: A pragma..., Schizophr. Res. (2016), http://dx.doi.org/10.1016/j.schres.2016.07.017
+score in the aripiprazole group, except for a higher excitement score in
+the olanzapine group (p = 0.042). Within-group analysis demonstrated
+a significant decrease in the PANSS-EC total score of the olanzapine
+group from baseline to 2 h and 24 h after the injection (29.00 ± 3.27,
+13.65 ± 3.89, and 13.00 ± 4.91, respectively), as well as a significant decrease in that of the aripiprazole group (28.23 ± 2.89, 16.18 ± 5.33, and
+13.55 ± 4.08, respectively; p b 0.001 for all within-group comparisons
+vs. baseline). Similarly, ACES and CGI-S scores at the two time points
+showed improvements in each treatment group relative to the baseline
+(p b 0.001 for all within-group comparisons vs. baseline).
+The change from baseline to 2 h in the PANSS-EC total score of the
+olanzapine group (−15.35 ± 4.61) was significantly greater than that
+of the aripiprazole group (−12.05 ± 4.74; p = 0.002). For the PANSSEC individual item scores at 2 h, the olanzapine group showed a significant decrease in excitement, hostility, and uncooperativeness compared with the aripiprazole group, but not in tension or poor impulse
+control. At the same time point, greater improvement in ACES scores
+was observed in the olanzapine group (2.73 ± 1.13) than in the
+aripiprazole group (2.15 ± 1.05; p = 0.021). In addition, changes in
+the CGI-S score at 2 h in the olanzapine group (−3.68 ± 1.16) were
+greater than in the aripiprazole group (−3.10 ± 1.41; p = 0.050). However, the changes from baseline to 24 h in the PANSS-EC total score,
+PANSS-EC individual item scores, ACES score, and CGI-S score did not
+differ significantly between the two treatment groups.
+At 2 h after the injection, the patients receiving IM olanzapine
+achieved a significantly greater response rate (35 patients, 87.5%) than
+those receiving IM aripiprazole (27 patients, 67.5%; p = 0.032). The response rates at 24 h after the injection were higher than those at 2 h, but
+there was no statistically significant difference between the olanzapine
+group (37 patients, 92.5%) and the aripiprazole group (35 patients,
+87.5%; p = 0.456).
+To examine changes in the PANSS-EC total score and the response
+rate in patients with different baseline agitation levels, the patients
+were divided into two groups using the mean baseline PANSS-EC total
+score of all the patients as the cutoff value (28.61). Patients with a baseline PANSS-EC score of 28 or lower were classified as less severely agitated and patients with a baseline PANSS-EC score of 29 or higher
+were classified as more severely agitated. Mean changes from baseline
+in PANSS-EC total scores and the response rates for each treatment in
+less and more severely agitated subgroups are reported in Table 3. In
+more severely agitated patients, discrepancies between the olanzapine
+and aripiprazole groups seem to be observed in the response rate at
+2 h (95.7% and 62.5%, respectively) and at 24 h (91.3% and 75.0%,
+respectively).
+3.3. Concomitant medications
+The concomitant medications reported included long-acting antipsychotics received within 30 days prior to recruitment and scheduled
+oral medications taken during the 24-hour study period. These concomitant medications were categorized as antipsychotic medications, benzodiazepines, other psychotropic medications, anticholinergics, and
+medications for comorbid medical conditions (Table 4). Nine patients
+(22.5%) in the olanzapine group and five patients (12.5%) in the
+aripiprazole group received long-acting injectable antipsychotics within
+30 days prior to the study entry, including haloperidol decanoate and
+fluphenazine decanoate. A total of 39 patients (97.5%) in the IM
+olanzapine group and all the patients in the IM aripiprazole group received scheduled oral antipsychotics during the 24-hour study period,
+Table 1
+Baseline demographic data, psychiatric characteristics, and comorbidities.
+IM olanzapine IM aripiprazole p (n = 40) (n = 40)
+Demographics
+Age (years), mean (SD) 41.88 (9.81) 39.45 (12.19) 0.330a
+Gender, n (%) 0.340b
+Male 29 (72.5) 25 (62.5)
+Female 11 (27.5) 15 (37.5)
+Education (years), mean (SD) 8.38 (4.02) 8.68 (4.07) 0.741a
+Weight (kg), mean (SD) 60.11 (8.20) 60.54 (12.53) 0.858a
+BMI (kg/m2
+), mean (SD) 22.01 (3.39) 22.71 (4.66) 0.451a
+Psychiatric characteristics
+Duration of illness (years), mean (SD) 10.83 (8.36) 10.73 (8.78) 0.958a
+Duration of current episode (days),
+mean (SD)
+41.58 (42.84) 35.05 (65.49) 0.599a
+Number of previous hospitalizations,
+mean (SD)
+1.98 (2.41) 2.20 (3.35) 0.731a
+BPRS total score, mean (SD) 73.55 (7.93) 70.35 (6.36) 0.050a
+PANSS-EC score, mean (SD) 29.00 (3.27) 28.23 (2.89) 0.265a
+Comorbidities
+Patient with any medical condition,
+n (%)
+4 (10.0) 6 (15.0) 0.499b
+Diabetes mellitus 1 (2.5) 2 (5.0) 1.000c
+Hypertension 3 (7.5) 3 (7.5) 1.000c
+Dyslipidemia 1 (2.5) 1 (2.5) 1.000c
+Anti-HIV positive 1 (2.5) 1 (2.5) 1.000c
+Active substance abuse, n (%) 19 (47.5) 13 (32.5) 0.171b
+Nicotine 16 (40.0) 10 (25.0) 0.152b
+Alcohol 7 (17.5) 4 (10.0) 0.330b
+Amphetamines 1 (2.5) 3 (7.5) 0.615c
+Cannabis 0 (0.0) 1 (2.5) 1.000c
+IM, intramuscular; BMI, body mass index; BPRS, Brief Psychiatric Rating Scale; PANSS-EC,
+Positive and Negative Syndrome Scale–Excited Component; HIV, human immunodeficiency virus.
+a Student's t-test. b Chi-squared test. c Fisher's exact test.
+Table 2
+Clinical changes in patients receiving IM olanzapine versus IM aripiprazole at baseline, 2 h,
+and 24 h.
+IM olanzapine IM aripiprazole
+pa (n = 40) (n = 40)
+mean (SD) mean (SD)
+Baseline
+PANSS-EC total 29.00 (3.27) 28.23 (2.89) 0.265
+Excitement 5.88 (0.72) 5.48 (0.99) 0.042
+Tension 5.70 (0.85) 5.43 (0.87) 0.158
+Hostility 5.70 (1.02) 5.70 (1.04) 1.000
+Uncooperativeness 6.08 (0.86) 5.80 (0.97) 0.182
+Poor impulse control 5.65 (1.05) 5.83 (0.98) 0.444
+ACES 1.90 (0.63) 2.00 (0.60) 0.470
+CGI-S 5.73 (0.68) 5.75 (0.71) 0.872
+Change from baseline to 2 h
+PANSS-EC total −15.35 (4.61) −12.05 (4.74) 0.002
+Excitement −3.10 (1.24) −2.45 (1.34) 0.027
+Tension −2.70 (1.23) −2.28 (0.96) 0.088
+Hostility −3.23 (1.10) −2.50 (1.41) 0.012
+Uncooperativeness −3.33 (1.10) −2.50 (1.32) 0.003
+Poor impulse control −3.03 (1.42) −2.73 (1.26) 0.321
+ACES 2.73 (1.13) 2.15 (1.05) 0.021
+CGI-S −3.68 (1.16) −3.10 (1.41) 0.050
+Response,b n (%) 35 (87.5) 27 (67.5) 0.032c
+Change from baseline to 24 h
+PANSS-EC total −16.00 (4.72) −14.68 (4.25) 0.191
+Excitement −3.20 (0.97) −2.90 (1.19) 0.220
+Tension −2.70 (1.22) −2.28 (0.96) 0.088
+Hostility −3.35 (1.12) −3.08 (1.31) 0.316
+Uncooperativeness −3.68 (1.29) −3.20 (1.34) 0.111
+Poor impulse control −3.08 (1.51) −3.23 (1.31) 0.636
+ACES 2.13 (0.85) 2.00 (0.82) 0.505
+CGI-S −3.70 (1.14) −3.68 (1.23) 0.925
+Response,b n (%) 37 (92.5) 35 (87.5) 0.456c
+IM, intramuscular; PANSS-EC, Positive and Negative Syndrome Scale–Excited Component;
+ACES, Agitation Calmness Evaluation Scale; CGI-S, Clinical Global Impression-Severity of
+Illness.
+a Student's t-test. b Response was defined as a 40% reduction or more in the PANSS-EC total score from
+the baseline.
+c Chi-squared test.
+4 M. Kittipeerachon, W. Chaichan / Schizophrenia Research xxx (2016) xxx–xxx
+Please cite this article as: Kittipeerachon, M., Chaichan, W., Intramuscular olanzapine versus intramuscular aripiprazole for the treatment of
+agitation in patients with schizophrenia: A pragma..., Schizophr. Res. (2016), http://dx.doi.org/10.1016/j.schres.2016.07.017
+including perphenazine, trifluoperazine, haloperidol, chlorpromazine,
+risperidone, olanzapine, and clozapine. The mean daily doses of all the
+concomitant antipsychotics in the olanzapine group (1.543 ± 1.126
+DDDs) and the aripiprazole group (1.210 ± 0.886 DDDs) were similar
+(p = 0.145).
+Almost all of the patients in the two treatment groups received
+scheduled oral benzodiazepines. A total of 35 patients (87.5%) in the
+olanzapine group and 37 patients (92.5%) in the aripiprazole group received trihexyphenidyl. There was no significant difference in the
+mean daily dose of benzodiazepines or trihexyphenidyl between the
+two groups. Other psychotropic medications, including fluoxetine, sertraline, and sodium valproate, were given to a small number of patients
+during the study period. Antihypertensive drugs were given to two
+patients with hypertension in the aripiprazole group. No other medication for medical comorbidity was given during the 24-hour study
+period.
+3.4. Safety and adverse events
+Within-group analysis demonstrated a statistically significant reduction from baseline to 2 h and 24 h in the mean systolic and mean diastolic blood pressure in the olanzapine group and the aripiprazole
+group (p b 0.01 for all within-group comparisons vs. baseline). The
+mean pulse rate showed a statistically significant reduction at the two
+time points in the aripiprazole group and at 2 h in the olanzapine
+group (Table 5).
+PCS vital sign events were defined by results outside defined limits
+at anytime post-baseline. The criteria for PCS changes in vital signs
+were categorized as high systolic blood pressure, low systolic blood
+pressure, high diastolic blood pressure, low diastolic blood pressure,
+high pulse rate, and low pulse rate and are listed in Table 5. The percentages of patients with PCS changes in vital signs were calculated as the
+number of patients who met criteria for PCS values at 2 h or 24 h post
+injection divided by the total number of patients with a measure not
+meeting the criteria for PCS values at baseline. A small number of patients in the olanzapine group and in the aripiprazole group met PCS
+criteria for high systolic blood pressure, high diastolic blood pressure,
+and high pulse rate, whereas a large percentage of patients in both treatment groups met criteria for low systolic blood pressure (60.5% and
+48.7%, respectively) and low diastolic blood pressure (45.0% and
+46.2%, respectively). Of all the patients meeting criteria for low systolic
+blood pressure, a few patients (3 of 23 patients in the olanzapine
+group and 1 of 19 patients in the aripiprazole group) exhibited a systolic
+blood pressure of b90 mm Hg, while almost all (22 or 23 patients in the
+olanzapine group and 19 of 19 patients in the aripiprazole group) experienced a reduction of N20 mm Hg in systolic blood pressure. Among patients who met the criteria for low diastolic blood pressure in both
+groups, all of them experienced a reduction of N15 mm Hg in diastolic
+blood pressure, while no patients experienced a diastolic blood pressure
+of b50 mm Hg. No patient reported any adverse events clinically relevant to changes in blood pressure or pulse rate.
+The incidence of treatment-emergent adverse events (TEAEs) during the 24-hour study period are presented in Table 6. A TEAE was defined as an adverse event not present prior to the injection of the
+investigational medication or an adverse event already present that increased in severity after the injection of the investigational medication.
+A total of 20 patients (50%) in the olanzapine group and 15 patients
+(37.5%) in the aripiprazole group experienced one or more TEAEs. No
+patients were dropped from the study. Commonly observed adverse
+events (with an incidence of 5% or greater) in both the olanzapine and
+Table 3
+Changes from baseline to 2 h and 24 h in the PANSS-EC total score and response rate for patients with different baseline agitation levels.
+Less severely agitated patientsa More severely agitated patientsb
+(n = 41) (n = 39)
+IM olanzapine
+(n = 17)
+IM aripiprazole
+(n = 24)
+IM olanzapine
+(n = 23)
+IM aripiprazole
+(n = 16)
+Baseline
+PANSS-EC total, range 23–28 22–28 29–35 29–35
+PANSS-EC total, mean (SD) 25.94 (1.64) 26.29 (1.40) 31.26 (2.12) 31.13 (1.93)
+Change from baseline to 2 h
+PANSS-EC total, mean (SD) −12.65 (3.82) −11.96 (3.11) −17.35 (4.14) −12.19 (6.60)
+Response, n (%)c 13 (76.5) 17 (70.8) 22 (95.7) 10 (62.5)
+Change from baseline to 24 h
+PANSS-EC total, mean (SD) −13.65 (3.90) −13.67 (3.12) −17.74 (4.59) −16.19 (5.29)
+Response, n (%)c 16 (94.1) 23 (95.8) 21 (91.3) 12 (75.0)
+IM, intramuscular; PANSS-EC, Positive and Negative Syndrome Scale–Excited Component. a Patients with a baseline PANSS-EC score of 28 or lower. b Patients with a baseline PANSS-EC score of 29 or higher. c Response was defined as a 40% reduction or more in the PANSS-EC total score from the baseline.
+Table 4
+Concomitant medications received during the 24-h study period.
+Concomitant medication, n (%) IM olanzapine IM aripiprazole pa
+(n = 40) (n = 40)
+Antipsychotics
+Long-acting injectable antipsychotics 9 (22.5) 5 (12.5)
+Fluphenazine decanoate 7 (17.5) 3 (7.5)
+Haloperidol decanoate 2 (5.0) 2 (5.0)
+Mean daily dose, DDDs (SD) 0.543 (1.143) 0.201 (0.673) 0.108
+Scheduled oral antipsychotics 39 (97.5) 40 (100.0)
+Perphenazine 16 (40.0) 19 (47.5)
+Trifluoperazine 4 (10.0) 9 (22.5)
+Haloperidol 5 (12.5) 3 (7.5)
+Risperidone 11 (27.5) 5 (12.5)
+Olanzapine 0 (0.0) 1 (2.5)
+Clozapine 2 (5.0) 2 (5.0)
+Risperidone and chlorpromazine 1 (2.5) 1 (2.5)
+Mean daily dose, DDDs (SD) 1.000 (0.526) 1.008 (0.530) 0.945
+Mean daily dose of all concomitant
+antipsychotics
+1.543 (1.126) 1.210 (0.886) 0.145
+Benzodiazepines
+Scheduled oral benzodiazepines 39 (97.5) 38 (95.0)
+Diazepam 39 (97.5) 37 (92.5)
+Alprazolam 0 (0.0) 1 (2.5)
+Mean daily dose, DDDs (SD) 1.150 (0.521) 1.150 (0.521) 1.000
+Other psychotropic medications
+Fluoxetine 0 (0.0) 2 (5.0)
+Sertraline 0 (0.0) 1 (2.5)
+Sodium valproate 0 (0.0) 2 (5.0)
+Anticholinergics
+Trihexyphenidyl 35 (87.5) 37 (92.5)
+Mean daily dose, mg (SD) 5.35 (4.03) 4.40 (2.65) 0.217
+Medications for medical comorbidity
+Losartan 0 (0.0) 1 (2.5)
+Hydrochlorothiazide and nifedipine 0 (0.0) 1 (2.5)
+IM, intramuscular; DDDs, WHO-defined daily doses. a Student's t-test.
+M. Kittipeerachon, W. Chaichan / Schizophrenia Research xxx (2016) xxx–xxx 5
+Please cite this article as: Kittipeerachon, M., Chaichan, W., Intramuscular olanzapine versus intramuscular aripiprazole for the treatment of
+agitation in patients with schizophrenia: A pragma..., Schizophr. Res. (2016), http://dx.doi.org/10.1016/j.schres.2016.07.017
+aripiprazole groups were somnolence, injection site pain, rigidity, and
+tremor and included headaches in the aripiprazole group.
+Somnolence was the most commonly observed adverse events in
+the olanzapine group and was four times as common in the olanzapine
+group (12 patients, 30%) as in the aripiprazole group (3 patients, 7.5%).
+Of a total of 15 patients with somnolence, 7 patients in the olanzapine
+group experienced moderate somnolence while the others (5 patients
+in the olanzapine group and 3 patients in the aripiprazole group) experienced mild somnolence. No patient was rated as being in a deep sleep
+or unarousable by the ACES. The most frequent adverse event in the
+aripiprazole group was injection site pain, which was reported over
+twice as frequently by patients in the aripiprazole group (8 patients,
+20%) as by those in the olanzapine group (3 patients, 7.5%). All injection
+site pain in both groups (11 patients) was considered mild and resolved
+without sequelae. One patient in the olanzapine group and two patients
+in the aripiprazole group experienced mild treatment-emergent headaches. One patient in the aripiprazole group experienced mild nausea.
+During the 24-hour study period, seven patients experienced mild
+treatment-emergent rigidity. Five patients experienced treatmentemergent tremors, all of which were mild, except for one patient in
+the olanzapine group, who experienced moderate tremors. The mean
+baseline total SAS scores in the olanzapine group (0.25 ± 0.742) and
+the aripiprazole group (0.15 ± 0.700) were very low, with a range of
+0 to 4. Mean changes from baseline to 2 h (−0.03 ± 0.480 in the
+olanzapine group and 0.08 ± 0.474 in the aripiprazole group) and
+24 h (−0.05 ± 0.677 and 0.08 ± 0.474, respectively) were minimal.
+Akathisia was not found during the 24-hour study period, as demonstrated by mean BARS scores of zero at baseline and at the two time
+points in both groups. In addition, no cases of dystonia were observed.
+No serious adverse events occurred during the study period.
+4. Discussion
+This study aimed to determine whether any differences in the
+effectiveness and tolerability of the two IM SGAs, olanzapine and
+aripiprazole, for the treatment of agitation in patients with schizophrenia in a pragmatic setting, where participants typically presented themselves to emergency services and routine practice was not disrupted. A
+total of 10 participants (12.5%) presented with medical comorbidity and
+32 participants (40.0%) presented with active substance abuse. Fourteen participants (17.5%) received long-acting antipsychotics within
+30 days prior to the study entry. As the study hospital's routine practice,
+the investigational medication was co-administered with scheduled
+oral antipsychotic medication, oral benzodiazepines, or other psychotropic medication. To the best of our knowledge, this study appears to
+be the first head-to-head study of rapid-acting IM SGAs.
+Due to its broad selection criteria and being conducted in a referral
+center, the present study enrolled patients with a mean baseline
+PANSS-EC score of 28.61. As reported in previous randomized doubleblind placebo-controlled trials of IM olanzapine or IM aripiprazole in agitated patients with schizophrenia (Andrezina et al., 2006; Breier et al.,
+2002; Tran-Johnson et al., 2007; Wright et al., 2001), the mean baseline
+PANSS-EC scores (18.3–19.5) were mild to moderate. Most published
+studies of IM SGAs in more severely agitated patient samples have
+been observational, where the mean baseline PANSS-EC scores were
+24.2–29.0 (Centorrino et al., 2007; Damsa et al., 2008; Escobar et al.,
+2008; Perrin et al., 2012; San et al., 2006). Compared with previous
+studies of this kind, the patients in the present study represented a
+moderately to severely agitated patient population, which allowed generalization to real-world clinical practice.
+As reported in previous observational studies (Castle et al., 2009;
+Centorrino et al., 2007; Perrin et al., 2012), the use of rapid-acting IM antipsychotics concomitant with oral psychotropic medication, including
+antipsychotics and benzodiazepines, in agitated patients with schizophrenia has been common practice. Almost all patients in the present
+study were prescribed scheduled oral antipsychotics and scheduled
+benzodiazepines since the first day of admission. This study had a higher
+frequency of concomitant oral antipsychotic and benzodiazepine use
+compared with previous observational studies (Castle et al., 2009;
+Centorrino et al., 2007; Perrin et al., 2012). Although the use of these
+concomitant medications may have enhanced the anti-agitation effect
+of the IM investigational medication, there were no differences in the
+mean DDDs of the concomitant antipsychotics and concomitant
+benzodiazepines administered between the IM olanzapine and IM
+aripiprazole groups, allowing the comparison of the efficacy outcomes
+between the two treatments.
+The results demonstrated that a single dose of IM olanzapine or IM
+aripiprazole effectively reduced agitation in patients with schizophrenia
+over 24 h. In comparison, treatment with IM olanzapine was shown to
+be more effective in the reduction of agitation and to have a greater response rate than IM aripiprazole at 2 h but not at 24 h. Due to the fact
+that medications most useful in treating agitation also require rapid
+onset of action (Buckley et al., 2011; Ng et al., 2010), the results focused
+Table 5
+Changes in vital sign values from baseline and number of patients with PCS changes in vital signs.
+Vital sign values and criteria for PCS vital
+signs
+IM olanzapine IM aripiprazole
+(n = 40) (n = 40)
+Systolic blood pressure (mm Hg)
+Baseline, mean (SD) 129.00 (22.87) 133.78 (22.69)
+Change at 2 h, mean (SD) −14.35 (20.88)⁎ −11.50 (22.98)⁎
+Change at 24 h, mean (SD) −21.65 (19.75)⁎ −18.28 (20.39)⁎
+Patients not meeting PCS value at baseline, n 38 39
+High systolic BP: ≥180 or increase N20
+mm Hg, n (%)a
+2 (5.3) 3 (7.7)
+Low systolic BP: b90 or decrease N20 mm
+Hg, n (%)a
+23 (60.5) 19 (48.7)
+Diastolic blood pressure (mm Hg)
+Baseline, mean (SD) 82.33 (14.60) 87.15 (15.79)
+Change at 2 h, mean (SD) −9.33 (16.43)⁎ −10.38 (15.68)⁎
+Change at 24 h, mean (SD) −13.68 (15.84)⁎ −14.98 (17.20)⁎
+Patients not meeting PCS value at baseline, n 40 39
+High diastolic BP: ≥120 or increase N15
+mm Hg, n (%)a
+4 (10.0) 3 (7.7)
+Low diastolic BP: b50 or decrease N15 mm
+Hg, n (%)a
+18 (45.0) 18 (46.2)
+Pulse rate (bpm)
+Baseline, mean (SD) 97.53 (16.55) 100.60 (15.15)
+Change at 2 h, mean (SD) −6.18 (15.87)⁎ −6.85 (11.81)⁎
+Change at 24 h, mean (SD) −3.78 (16.06) −9.83 (17.58)⁎
+Patients not meeting PCS value at baseline, n 37 37
+High pulse rate: N120 or increase N20
+bpm, n (%)a
+3 (8.1) 1 (2.7)
+Low pulse rate: b50 or decrease N15 bpm,
+n (%)a
+7 (18.9) 9 (24.3)
+IM, intramuscular; PCS, potentially clinically significant; BP, blood pressure; bpm, beats
+per minute.
+⁎ p b 0.05 for within-group comparison with the baseline, paired t-test. a The percentages of patients were calculated as the numbers of patients who met the
+criteria for PCS values at 2 h or 24 h post injection divided by the total number of patients
+with a measure not meeting the criteria for PCS values at baseline.
+Table 6
+TEAEs occurring during the 24-hour study period.
+Adverse event, n (%) IM olanzapine IM aripiprazole
+(n = 40) (n = 40)
+Patients experienced any adverse event(s) 20 (50.0) 15 (37.5)
+Somnolence 12 (30.0) 3 (7.5)
+Injection site pain 3 (7.5) 8 (20.0)
+Rigidity 3 (7.5) 4 (10.0)
+Tremor 2 (5.0) 3 (7.5)
+Headache 1 (2.5) 2 (5.0)
+Nausea 0 (0.0) 1 (2.5)
+6 M. Kittipeerachon, W. Chaichan / Schizophrenia Research xxx (2016) xxx–xxx
+Please cite this article as: Kittipeerachon, M., Chaichan, W., Intramuscular olanzapine versus intramuscular aripiprazole for the treatment of
+agitation in patients with schizophrenia: A pragma..., Schizophr. Res. (2016), http://dx.doi.org/10.1016/j.schres.2016.07.017
+on the anti-agitation effects of the two investigational medications at
+2 h after the injection. Nearly 90% of the patients receiving IM
+olanzapine achieved a response within 2 h after the injection, whereas
+68% of the patients receiving IM aripiprazole achieved a response within
+the same time. A previous review indicated that the number needed to
+treat for agitation associated with schizophrenia for IM olanzapine was
+3 and that for IM aripiprazole was 6 (Citrome, 2007). The results of the
+present head-to-head study is consistent with previous reports regarding the efficacy of the two treatments in controlling agitation associated
+with schizophrenia within the first 2 h.
+Findings of efficacy in subgroups of patients with different baseline
+agitation levels derived from post hoc analysis must be carefully
+interpreted. The response to IM olanzapine tended to be better than to
+IM aripiprazole in more severely agitated patients, whereas no such discrepancy was observed in less severely agitated patients. The difference
+in efficacy in the more agitated subgroup could explain the main finding
+of the study.
+The administration of IM olanzapine or IM aripiprazole followed by
+routine oral psychotropic medications resulted in similar changes in
+vital signs, with statistically significantly decrements of blood pressure
+and pulse rate. In addition, high incidences of PCS low blood pressure
+and low pulse rate were observed. However, a few of the patients who
+met the criteria of PCS low blood pressure showed values below the
+lower limits (b90 mm Hg for systolic blood pressure and b50 mm Hg
+for diastolic blood pressure) and no patient experienced adverse events
+clinically relevant to changes in vital signs. A number of explanations
+are possible for the high incidence of PCS low blood pressure in the present study. First, concomitant antipsychotics, especially perphenazine
+(Tardy et al., 2014) and risperidone (Khasawneh and Shankar, 2014),
+had the capacity to facilitate hypotensive effects. Second, some patients
+had conditions that predisposed them to hypotension, including conditions that impinge on the autonomic nervous system, such as alcohol
+abuse, diabetes mellitus, and treatment with antihypertensive medications (Gugger, 2011). Third, agitated patients generally have elevated
+blood pressure (Harvey, 1996). Some of the decrements of blood pressure during the treatments may have resulted from the calming therapeutic effects.
+As suggested by some studies, the incidence of TEAEs may be higher
+in patients treated with multiple concomitant psychotropic medications
+(Taylor, 2002; Taylor et al., 2009); TEAEs, including somnolence and extrapyramidal side effects, were commonly observed in the present
+study. The results also demonstrated that somnolence occurred more
+frequently with IM olanzapine than with IM aripiprazole. This finding
+confirms previous reports of pooled incidence in agitated patients
+with schizophrenia that indicated that somnolence was one of the
+most common adverse events (at least 5% and at least twice that for placebos) related to IM olanzapine (Eli Lilly and Company, 2015) while it
+was less common for IM aripiprazole (Otsuka Pharmaceutical, 2014).
+In the present study, almost all patients received oral benzodiazepines,
+which are known to have a sedative effect and the potential for respiratory depression (Schatzberg et al., 2007). Co-administration with benzodiazepine could contribute to the somnolence observed with the
+investigational medication, especially IM olanzapine. In a previous review of post-marketing safety data of IM olanzapine, benzodiazepine
+use was reported in a majority of the nonfatal serious cases and in half
+of the fatal cases (Marder et al., 2010). Therefore, the concomitant use
+of IM olanzapine and benzodiazepine could lead to an increased risk
+of somnolence and related adverse events compared with the concomitant use of IM aripiprazole and benzodiazepine.
+This study has some limitations. First, the sample size was relatively
+small, which may reduce the statistical power of detecting differences
+between the two treatments. Second, there are multiple comparisons,
+which could lead to uncontrolled type I errors. Third, the study was conducted in only one psychiatric hospital, where routine practice may differ from those in other settings. Moreover, due to concomitant oral
+medication use, care should be taken in the interpretation of causality
+and association between treatment and outcome. Finally, some safety
+data, including electrocardiograms and assessments of orthostatic hypotension, were lacking.
+In conclusion, the study findings suggest that in real-world clinical
+practice, initial doses of IM olanzapine and IM aripiprazole followed
+by routine oral psychotropic medication are similarly effective in the
+treatment of agitation associated with schizophrenia over the first
+24 h. However, in the early hours, IM olanzapine may produce more
+sedation and reductions in agitation than IM aripiprazole. The two treatments are well tolerated; however, considering the capacity of concomitant oral psychotropic medications to facilitate adverse events, IM
+aripiprazole seems to offer a better safety profile compared to IM
+olanzapine when used concomitantly with benzodiazepine. Regular
+monitoring of vital signs and assessments for oversedation after IM
+doses of olanzapine and aripiprazole are recommended. Due to a number of limitations, further studies are warranted to confirm this study's
+findings.
+Role of funding source
+The authors received no financial support for the study or publication of this article.
+Contributors
+M. Kittipeerachon designed the study and wrote the protocol. M. Kittipeerachon and
+W. Chaichan recruited patients and performed assessments. M. Kittipeerachon performed
+the data analysis. The two authors interpreted and discussed the findings. M.
+Kittipeerachon wrote the first draft of the manuscript. All authors contributed to and approved the final manuscript.
+Conflicts of interest
+All authors declare that they have no conflicts of interest.
+Acknowledgments
+The authors thank the patients and their families for participation in the study.
+References
+American Psychiatric Association, 2013. Diagnostic and Statistical Manual of Mental Disorders: DSM-5. fifth ed. American Psychiatric Association, Washington, D.C.
+Andrezina, R., Josiassen, R.C., Marcus, R.N., Oren, D.A., Manos, G., Stock, E., Carson, W.H.,
+Iwamoto, T., 2006. Intramuscular aripiprazole for the treatment of acute agitation
+in patients with schizophrenia or schizoaffective disorder: a double-blind, placebocontrolled comparison with intramuscular haloperidol. Psychopharmacology 188
+(3), 281–292.
+Barnes, T.R., 1989. A rating scale for drug-induced akathisia. Br. J. Psychiatry 154,
+672–676.
+Battaglia, J., Lindborg, S.R., Alaka, K., Meehan, K., Wright, P., 2003. Calming versus sedative
+effects of intramuscular olanzapine in agitated patients. Am. J. Emerg. Med. 21 (3),
+192–198.
+Battaglia, J., Robinson, D.G., Citrome, L., 2007. The treatment of acute agitation in schizophrenia. CNS Spectr. 12 (8 Suppl 11), 4–5.
+Boulton, D.W., Kollia, G., Mallikaarjun, S., Komoroski, B., Sharma, A., Kovalick, L.J., Reeves,
+R.A., 2008. Pharmacokinetics and tolerability of intramuscular, oral and intravenous
+aripiprazole in healthy subjects and in patients with schizophrenia. Clin.
+Pharmacokinet. 47 (7), 475–485.
+Breier, A., Meehan, K., Birkett, M., David, S., Ferchland, I., Sutton, V., Taylor, C.C., Palmer, R.,
+Dossenbach, M., Kiesler, G., Brook, S., Wright, P., 2002. A double-blind, placebo-controlled dose-response comparison of intramuscular olanzapine and haloperidol in
+the treatment of acute agitation in schizophrenia. Arch. Gen. Psychiatry 59 (5),
+441–448.
+Buckley, P., Citrome, L., Nichita, C., Vitacco, M., 2011. Psychopharmacology of aggression
+in schizophrenia. Schizophr. Bull. 37 (5), 930–936.
+Burris, K.D., Molski, T.F., Xu, C., Ryan, E., Tottori, K., Kikuchi, T., Yocca, F.D., Molinoff, P.B.,
+2002. Aripiprazole, a novel antipsychotic, is a high-affinity partial agonist at human
+dopamine D2 receptors. J. Pharmacol. Exp. Ther. 302 (1), 381–389.
+Bymaster, F.P., Calligaro, D.O., Falcone, J.F., Marsh, R.D., Moore, N.A., Tye, N.C., Seeman, P.,
+Wong, D.T., 1996. Radioreceptor binding profile of the atypical antipsychotic
+olanzapine. Neuropsychopharmacology 14 (2), 87–96.
+Castle, D.J., Udristoiu, T., Kim, C.Y., Sarosi, A., Pidrman, V., Omar, A.N., Rosales, J.I.,
+Melamed, Y., Isik, T., Karagianis, J., Treuer, T., 2009. Intramuscular olanzapine versus
+short-acting typical intramuscular antipsychotics: comparison of real-life effectiveness in the treatment of agitation. World J. Biol. Psychiatry 10 (1), 43–53.
+Centorrino, F., Meyers, A.L., Ahl, J., Cincotta, S.L., Zun, L., Gulliver, A.H., Kinon, B.J., Houston,
+J.P., 2007. An observational study of the effectiveness and safety of intramuscular
+olanzapine in the treatment of acute agitation in patients with bipolar mania or
+schizophrenia/schizoaffective disorder. Hum. Psychopharmacol. 22 (7), 455–462.
+M. Kittipeerachon, W. Chaichan / Schizophrenia Research xxx (2016) xxx–xxx 7
+Please cite this article as: Kittipeerachon, M., Chaichan, W., Intramuscular olanzapine versus intramuscular aripiprazole for the treatment of
+agitation in patients with schizophrenia: A pragma..., Schizophr. Res. (2016), http://dx.doi.org/10.1016/j.schres.2016.07.017
+Chaichan, W., 2008. Evaluation of the use of the Positive and Negative Syndrome Scaleexcited component as a criterion for administration of p.r.n. medication.
+J. Psychiatr. Pract. 14 (2), 105–113.
+Citrome, L., 2007. Comparison of intramuscular ziprasidone, olanzapine, or aripiprazole
+for agitation: a quantitative review of efficacy and safety. J. Clin. Psychiatry 68 (12),
+1876–1885.
+Citrome, L., 2013. Addressing the need for rapid treatment of agitation in schizophrenia
+and bipolar disorder: focus on inhaled loxapine as an alternative to injectable agents.
+Ther. Clin. Risk Manag. 9, 235–245.
+Damsa, C., Adam, E., Lazignac, C., De Gregorio, F., Mihai, A., Lejeune, J., Sarasin, F., Allen,
+M.H., 2008. Intramuscular olanzapine in patients with schizophrenia: an observational study in an emergency room. Bull. Soc. Sci. Med. Grand Duche Luxemb. 145 (2),
+209–216.
+Eli Lilly and Company, 2015. Zyprexa Full Prescribing Information, Revised 23 July 2015.
+Eli Lilly and Company, Indianapolis.
+Escobar, R., San, L., Perez, V., Olivares, J.M., Polavieja, P., Lopez-Carrero, C., Casillas, M.,
+Montoya, A., 2008. Effectiveness results of olanzapine in acute psychotic patients
+with agitation in the emergency room setting: results from NATURA study. Actas
+Esp. Psiquiatr. 36 (3), 151–157.
+Fagiolini, A., De Filippis, S., Azzarelli, O., Boidi, G., Padovan Lang, A., Rocchetti, G., Villari, V.,
+Bellomo, A., 2013. Intramuscular aripiprazole for the treatment of agitation in schizophrenia and bipolar disorder: from clinical research to clinical practice.
+J. Psychopathol. 19, 34–41.
+Gugger, J.J., 2011. Antipsychotic pharmacotherapy and orthostatic hypotension: identification and management. CNS Drugs 25 (8), 659–671.
+Guy, W., 1976. Clinical Global Impressions. ECDEU Assessment Manual for Psychopharmacology, revised. U.S. Department of Health, Education, and Welfare, Rockville,
+MD, In, pp. 218–222.
+Harvey, M.A., 1996. Managing agitation in critically ill patients. Am. J. Crit. Care 5 (1),
+7–16.
+Kay, S.R., Fiszbein, A., Opler, L.A., 1987. The positive and negative syndrome scale (PANSS)
+for schizophrenia. Schizophr. Bull. 13 (2), 261–276.
+Khasawneh, F.T., Shankar, G.S., 2014. Minimizing cardiovascular adverse effects of atypical antipsychotic drugs in patients with schizophrenia. Cardiol. Res. Pract. 2014,
+273060.
+Lindenmayer, J.P., Brown, E., Baker, R.W., Schuh, L.M., Shao, L., Tohen, M., Ahmed, S.,
+Stauffer, V.L., 2004. An excitement subscale of the positive and negative syndrome
+scale. Schizophr. Res. 68 (2–3), 331–337.
+Lingjaerde, O., Ahlfors, U.G., Bech, P., Dencker, S.J., Elgen, K., 1987. The UKU side effect rating scale. A new comprehensive rating scale for psychotropic drugs and a cross-sectional study of side effects in neuroleptic-treated patients. Acta Psychiatr. Scand.
+Suppl. 334, 1–100.
+Mallikaarjun, S., Salazar, D.E., Bramer, S.L., 2004. Pharmacokinetics, tolerability, and safety
+of aripiprazole following multiple oral dosing in normal healthy volunteers. J. Clin.
+Pharmacol. 44 (2), 179–187.
+Marco, C.A., Vaughan, J., 2005. Emergency management of agitation in schizophrenia. Am.
+J. Emerg. Med. 23 (6), 767–776.
+Marder, S.R., 2008. Treatment of agitation in patients with schizophrenia. J. Clin. Psychiatry 69 (6), e17.
+Marder, S.R., Sorsaburu, S., Dunayevich, E., Karagianis, J.L., Dawe, I.C., Falk, D.M., Dellva,
+M.A., Carlson, J.L., Cavazzoni, P.A., Baker, R.W., 2010. Case reports of postmarketing
+adverse event experiences with olanzapine intramuscular treatment in patients
+with agitation. J. Clin. Psychiatry 71 (4), 433–441.
+Meehan, K.M., Wang, H., David, S.R., Nisivoccia, J.R., Jones, B., Beasley Jr., C.M., Feldman,
+P.D., Mintzer, J.E., Beckett, L.M., Breier, A., 2002. Comparison of rapidly acting intramuscular olanzapine, lorazepam, and placebo: a double-blind, randomized study in
+acutely agitated patients with dementia. Neuropsychopharmacology 26 (4),
+494–504.
+Montoya, A., Valladares, A., Lizan, L., San, L., Escobar, R., Paz, S., 2011. Validation of the excited component of the Positive and Negative Syndrome Scale (PANSS-EC) in a naturalistic sample of 278 patients with acute psychosis and agitation in a psychiatric
+emergency room. Health Qual. Life Outcomes 9, 18.
+Ng, A.T., Zeller, S.L., Rhoades, R.W., 2010. Clinical challenges in the pharmacologic management of agitation. Prim. Psychiatry 17 (8), 46–52.
+Nilchaikovit, T., Uneanong, S., Kessawai, D., Thomyangkoon, P., 2000. The Thai version of
+the Positive and Negative Syndrome Scale (PANSS) for schizophrenia: criterion validity and interrater reliability. J. Med. Assoc. Thail. 83 (6), 646–651.
+Nordstrom, K., Allen, M.H., 2007. Managing the acutely agitated and psychotic patient.
+CNS Spectr. 12 (10 Suppl 17), 5–11.
+Otsuka Pharmaceutical, 2014. Abilify Full Prescribing Information, Revised December
+2014. Otsuka Pharmaceutical, Tokyo, Japan.
+Overall, J.E., Gorham, D.R., 1962. The brief psychiatric rating scale. Psychol. Rep. 10 (3),
+799–812.
+Perrin, E., Anand, E., Dyachkova, Y., Wagner, T., Frediani, S., Ballerini, A., 2012. A prospective, observational study of the safety and effectiveness of intramuscular psychotropic treatment in acutely agitated patients with schizophrenia and bipolar mania.
+Eur. Psychiatry 27 (4), 234–239.
+San, L., Arranz, B., Querejeta, I., Barrio, S., De la Gandara, J., Perez, V., 2006. A naturalistic
+multicenter study of intramuscular olanzapine in the treatment of acutely agitated
+manic or schizophrenic patients. Eur. Psychiatry 21 (8), 539–543.
+Sanford, M., Scott, L.J., 2008. Intramuscular aripiprazole: a review of its use in the management of agitation in schizophrenia and bipolar I disorder. CNS Drugs 22 (4), 335–352.
+Satterthwaite, T.D., Wolf, D.H., Rosenheck, R.A., Gur, R.E., Caroff, S.N., 2008. A meta-analysis of the risk of acute extrapyramidal symptoms with intramuscular antipsychotics
+for the treatment of agitation. J. Clin. Psychiatry 69 (12), 1869–1879.
+Schatzberg, A.F., Cole, J.O., DeBattista, C., 2007. Manual of Clinical Psychopharmacology.
+sixth ed. American Psychiatric Publishing, Washington, DC.
+Schleifer, J.J., 2011. Management of acute agitation in psychosis: an evidence-based approach in the USA. Adv. Psychiatr. Treat. 17 (2), 91–100.
+Shapiro, D.A., Renock, S., Arrington, E., Chiodo, L.A., Liu, L.X., Sibley, D.R., Roth, B.L.,
+Mailman, R., 2003. Aripiprazole, a novel atypical antipsychotic drug with a unique
+and robust pharmacology. Neuropsychopharmacology 28 (8), 1400–1411.
+Simpson, G.M., Angus, J.W., 1970. A rating scale for extrapyramidal side effects. Acta
+Psychiatr. Scand. Suppl. 212, 11–19.
+Tardy, M., Huhn, M., Engel, R.R., Leucht, S., 2014. Perphenazine versus low-potency firstgeneration antipsychotic drugs for schizophrenia. Cochrane Database Syst. Rev. 10,
+CD009369.
+Taylor, D., 2002. Antipsychotic prescribing—time to review practice. Psychiatrist 26 (11),
+401–402.
+Taylor, D., Paton, C., Kapur, S., 2009. The Maudsley Prescribing Guidelines. 10th ed. CRC
+Press, Boca Raton.
+Tran-Johnson, T.K., Sack, D.A., Marcus, R.N., Auby, P., McQuade, R.D., Oren, D.A., 2007. Efficacy and safety of intramuscular aripiprazole in patients with acute agitation: a randomized, double-blind, placebo-controlled trial. J. Clin. Psychiatry 68 (1), 111–119.
+U.S. Food and Drug Administration Psychopharmacological Drugs Advisory Committee,
+2001u. Briefing Document for Zyprexa IntraMuscular (olanzapine for injection). January 11, 2001 [cited January 30, 2015]. Available from http://www.fda.gov/ohrms/
+dockets/ac/01/briefing/3685b1_01_lilly.pdf.
+Wagstaff, A.J., Easton, J., Scott, L.J., 2005. Intramuscular olanzapine: a review of its use in
+the management of acute agitation. CNS Drugs 19 (2), 147–164.
+Wilson, M.P., Pepper, D., Currier, G.W., Holloman Jr., G.H., Feifel, D., 2012. The psychopharmacology of agitation: consensus statement of the american association for emergency psychiatry project Beta psychopharmacology workgroup. West J. Emerg. Med. 13
+(1), 26–34.
+Wilson, M.P., Minassian, A., Bahramzi, M., Campillo, A., Vilke, G.M., 2014. Despite expert
+recommendations, second-generation antipsychotics are not often prescribed in the
+emergency department. J. Emerg. Med. 46 (6), 808–813.
+World Health Organization Collaborating Centre for Drug Statistics Methodology, 2014a.
+Guidelines for ATC Classification and DDD Assignment 2015, Oslo.
+World Health Organization Collaborating Centre for Drug Statistics Methodology, 2015a.
+WHOCC-ATC/DDD Index 2015 [cited January 15, 2015]. Available from http://www.
+whocc.no/atc_ddd_index/.
+Wright, P., Birkett, M., David, S.R., Meehan, K., Ferchland, I., Alaka, K.J., Saunders, J.C.,
+Krueger, J., Bradley, P., San, L., Bernardo, M., Reinstein, M., Breier, A., 2001. Doubleblind, placebo-controlled comparison of intramuscular olanzapine and intramuscular
+haloperidol in the treatment of acute agitation in schizophrenia. Am. J. Psychiatry 158
+(7), 1149–1151.
+Wright, P., Lindborg, S.R., Birkett, M., Meehan, K., Jones, B., Alaka, K., Ferchland-Howe, I.,
+Pickard, A., Taylor, C.C., Roth, J., Battaglia, J., Bitter, I., Chouinard, G., Morris, P.L.,
+Breier, A., 2003. Intramuscular olanzapine and intramuscular haloperidol in acute
+schizophrenia: antipsychotic efficacy and extrapyramidal safety during the first
+24 hours of treatment. Can. J. Psychiatr. 48 (11), 716–721.
+Zeller, S.L., Citrome, L., 2016. Managing agitation associated with schizophrenia and bipolar disorder in the emergency setting. West J. Emerg. Med. 17 (2), 165–172.
+Zimbroff, D.L., 2008. Pharmacological control of acute agitation: focus on intramuscular
+preparations. CNS Drugs 22 (3), 199–212.
+8 M. Kittipeerachon, W. Chaichan / Schizophrenia Research xxx (2016) xxx–xxx
+Please cite this article as: Kittipeerachon, M., Chaichan, W., Intramuscular olanzapine versus intramuscular aripiprazole for the treatment of
+agitation in patients with schizophrenia: A pragma..., Schizophr. Res. (2016), http://dx.doi.org/10.1016/j.schres.2016.07.017

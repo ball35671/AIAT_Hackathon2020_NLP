@@ -1,0 +1,608 @@
+© 2007 Schattauer GmbH, Stuttgart
+408
+Self-management of oral anticoagulation in the elderly:
+Rationale, design, baselines and oral anticoagulation control after
+one year of follow-up
+A randomized controlled trial
+Andrea Siebenhofer
+1
+, Ivo Rakovac2
+, Caroline Kleespies3
+, Brigitte Piso4
+, Ulrike Didjurgeit3
+1Department of Internal Medicine, Medical University of Graz, Graz, Austria; 2
+Institute of Medical Technologies and Health Management,
+Joanneum Research Forschungsgesellschaft mbH, Graz, Austria; 3
+Institute for Evidence-based Medicine, Cologne, Germany;
+4Department
+of Internal Medicine, Medical University ofVienna,Vienna, Austria
+Summary
+Self-management is safe and reliable in patients with long-term
+oral anticoagulation (OAC).However,no study has yet assessed
+the safety and efficacy of OAC self-management in elderly patients with major thromboembolic and haemorrhagic complications as primary outcomes. In this multi-centre, open,randomised controlled trial,patients aged 60 years or more were randomised into the self-management group (SMG) (N=99) orroutine care group (RCG) (N=96).We describe the rationale, design, baseline characteristics and interim analyses of oral anticoagulation control quality within the first year of follow-up.The
+medians of the squared international normalised ratio (INR)
+value deviations after six and 12 months were significantly lower
+Keywords
+Oral anticoagulation, self-management, elderly patients, randomized controlled trial
+in the SMG with medians of 0.16 and 0.16 compared to the RCG
+with medians of 0.25 and 0.25.The percentage of time within target range and the percentage of INR measurements within target range were significantly higher in the SMG versus the RCG
+within the first six months (medians 71% vs. 58% and 69% vs.
+57%), and during the second six months of the study (75% vs.
+67% and 72% vs. 57%). The numbers of all thromboembolic
+events requiring hospitalisation, major bleeding events, and
+deaths were similar in both groups.These preliminary results
+suggest that self-management of oral anticoagulation is safe and
+feasible for elderly patients willing to participate inastructured
+training programme.
+Thromb Haemost 2007; 97: 408–416
+Blood Coagulation, Fibrinolysis and Cellular Haemostasis
+Correspondence to:
+Andrea Siebenhofer, MD
+Dept. of Internal Medicine
+Medical University of Graz
+Auenbruggerplatz 15
+A-8036 Graz, Austria
+Tel.: +43 316 385 2908, Fax: +43 316 385 4332
+E-mail: andrea.siebenhofer@meduni-graz.at
+Financial support:
+The study was supported by Roche Diagnostics.
+Received August 31, 2006
+Accepted after resubmission December 28, 2006
+Prepublished online February 8, 2007
+doi:10.1160/TH06–08–0482
+Introduction
+Oral anticoagulation (OAC) has been shown to be highly effective in preventing thromboembolic complications in patients for
+whom it is indicated (1, 2). Numerous studies have documented
+that elderly patients seem to benefit most from OAC therapy (1,
+3, 4). Atrial fibrillation (AF), the incidence of which increases
+with age and approaches 10% for individuals aged ≥80 years,
+carries the main risk for stroke (5); and among elderly patients
+without antithrombotic therapy, AF-related stroke is associated
+witha30-day mortality of 24%. In contrast, only 6% of patients
+on warfarin at the time of stroke and with an international normalised ratio (INR) of 2.0 or greater, died within 30 days (6).
+Despite its proven benefit, numerous studies have reported reluctance in prescribing OAC due to a variety of barriers, especially
+in the elderly (7–10).Risk of haemorrhage, which is in fact twice as
+great in those over 70 years of age as in younger patients, is one of
+the major determinants of refusal to prescribe OAC therapy (11,
+12).The risk of stroke risessteeply in patientswith atrialfibrillation
+when INR values are lower than 1.8 (13), and INR values greater
+than 4 to5are rapidly associated with increased bleeding rates(14,
+15). Due to relatively small therapeutic ranges, in reality often only
+a small percentage of the INR values have been found to be within the targetrange, which can be low as 29% ofINR measurements,
+asseen in routine care patients prior to participation in a randomised self-management programme study (16).
+Downloaded by: Glasgow University Library. Copyrighted material.
+Siebenhofer et al. Self-management of oral anticoagulation in the elderly
+409
+One way to improve OAC care is by introducing patients’
+self-management of OAC therapy. In this context it is important
+to differentiate between INR self-testing alone, and full selfmanagement. Self-management includes self-adaptation of the
+anticoagulation treatment based on self-monitoring results after
+the patients have participated in a structured instruction and
+treatment programme. A systematic review of randomised controlled trials has shown that the anticoagulation status of selfmanaged patientsis betterthan or at least equivalent to that of patients monitored by specialised anticoagulation clinics or general practitioners(17), and in a recently published meta-analysis,
+the thromboembolic event and death rates were significantly reduced (18) in patients with self-management. A study by Beyth
+et al. (19) involving elderly patientsshowed that excessive bleeding rates can be successfully reduced under self-monitoring. To
+date, there have been no randomised trials to evaluate the longterm effects of self-management of OAC in the elderly population.
+Our study aims to provide answers to this important medical
+question by examining elderly patients receiving long-term anticoagulation treatment and randomised into self-management
+versus routine-care groups, with thromboembolic and haemorrhagic complications as primary outcomes. In this publication
+we describe the rationale, design, baseline characteristics and interim analyses of OAC control after the first year of follow-up.
+The final paper with the analysis of the primary end-points will
+be published after conclusion ofthe study on February 28, 2007.
+Methods
+Participants
+Four departmentsspecializing in the treatment of patientsreceiving long-term OAC therapy initially joined this multi-centre
+study, which was approved by the ethics committees of all participating centres. On April 26, 2006, one centre was excluded
+after an external expert opinion (personal communication) drew
+attention to the large amount of data missing in the follow-up examinations. Of the 21 randomised patients in that centre, at least
+half did not come for the first follow-up visit, and increasing
+numbers failed to appear for subsequent visits. According to the
+external review, no bias can be expected because randomisation
+was performed within each participating centre, and the exclusion from analyses occurred before any calculations were made.
+Data on these 21 patientsfrom the excluded centre will therefore
+no longer be considered in this publication.
+All consecutive patients on long-term anticoagulation
+(n=458) presenting at the participating centres were screened
+and, if eligible and willing to participate, were included in the
+study. Inclusion criteria were indication forlong-term anticoagulation either with phenprocoumon or acenocoumarol and age
+≥60 years. Patients were also eligible for participation if longterm anticoagulation was recently indicated and they had not
+been on OAC treatment before. Exclusion criteria were previous
+participation in a self-management OAC programme, severe
+cognitive (assessed informally by study personnel) or terminal
+illness. The patient was informed by the physician of his/her individually defined INR therapeutic target range.
+The recruitment phase started in March 2002. Due to the
+slow recruitment rate, the recruitment phase was extended for
+one additional year and closed in February 2005. The study will
+end on February 28, 2007, two years after the randomisation of
+the last patient. The follow-up time will range from two to five
+years.
+Procedures
+Patients were block-randomised by centre according to a computer-based system to either the self-management group (SMG)
+or the routine-care group (RCG). Allocation was done by a central statistical office by fax and without awareness of subject
+data. The sequence of randomisation was concealed until the patient was assigned toagroup.
+All physician and nurse instructors involved in the patients'
+training programme participated inatwo-day training course as
+developed by Sawicki et al. (16), which was adapted and modified for the needs of elderly patients.The goals of the oral anticoagulation training and self-management programme were to
+help patients in assuming increased responsibility for disease
+management based on systematic INR value self-monitoring and
+adjustment of the anticoagulant dosage. In addition, instructors
+were trained in additional teaching skills for working with
+elderly patients.
+Patients assigned to the RCG participated inasingle 90-minute session including basic theoretical information on haemostasis, main characteristics of oral anticoagulants, potential risksfor
+thromboembolism and bleeding, and problems that might be encountered in special situations such as exercise, travel and diet
+changes. During the whole study period, they were advised with
+regard to changes in the anticoagulant dosage by their usual attending physicians, either in general practice or at a hospitalbased specialised anticoagulation clinic.
+In the SMG, patients participated in four consecutive weekly
+instruction sessions of 90 to 120 minutes each, in groups of three
+to six patients. During the first session, patients were informed
+about anticoagulation in general and received extensive training
+in INR self-monitoring using the whole blood PT/INR monitor
+CoaguChek
+® S (Roche Diagnostics GmbH, Mannheim, Germany), which has been previously validated (20). During the first
+week, patients were encouraged to measure INR values routinely
+and to record the results and the anticoagulant dosages in their
+diaries. The second session included instructions on preventing
+bleeding and thromboembolic complications and provided more
+detailed information on haemostasis. During the third session,
+patients were instructed about indications and models for reducing or increasing the anticoagulant dosages to achieve INR values within the target range. Several examples of adapting drug dosage were discussed, and the patients completed practical exercises. In the last session, patients were informed about problems
+that might develop with operations, illness, exercise, travel and
+additional medications, and key information from the training
+programmes was recapitulated. At the beginning of the second to
+the fourth sessions, the quality of INR self-monitoring was
+checked by the nurse instructor. After participation in the programme, the patients had to estimate their INR value with an absolute deviation of less than 0.4 from the reference value. If this
+was not the case, the training course had to be repeated. After parDownloaded by: Glasgow University Library. Copyrighted material.
+Siebenhofer et al. Self-management of oral anticoagulation in the elderly
+410
+ticipation in the structured programme, the patients were given
+their diaries and encouraged to control their INR values by selfmonitoring once a week, to adjust their anticoagulant dosage accordingly, and to contact the training centre in case of difficulties.
+Follow-up visits were scheduled upon screening and after
+randomisation for participation in the training courses, either
+once or four timesin the RCG or the SMG, respectively, and then
+every six months. At baseline and at each follow-up visit, there
+was a clinical examination, and patients were questioned about
+minor or major bleeding or thromboembolic events, any interim
+illnesses, changes in long-term medications, and hospitalisations. Anticoagulation status was assessed by patient records
+in the diaries expressed as INR values; a copy of the patient's
+diary was made at each visit.
+Table 1: Patients' baseline
+characteristics. Variable Self-management
+group (SMG)
+Routine-care
+group (RCG)
+P-value
+Patients, n 99 96
+Antihypertensive agents
+(incl. diuretics)
+81% (80) 82% (79) 0.790
+Cardiac therapy 44% (44) 45% (43) 0.961
+Lipid modifying agents 29% (29) 36% (35) 0.287
+Anti-ulcer agents 15% (15) 19% (18) 0.503
+Anti-diabetic agents 15% (15) 17% (16) 0.772
+Psychotropic drugs 14% (14) 14% (13) 0.904
+Anti-inflammatory and anti-analgetic agents 10% (10) 14% (13) 0.456
+Hospitalisation within previous 12 months 63% (62) 64% (61) 0.895
+Data mean ± SD or % (n).
+Age, years 69±6.1 69 ± 6.4 0.987
+Females 44% (44) 39% (37) 0.403
+Indication for oral anticoagulation treatment 0.092
+Atrial fibrillation 53% (52) 39% (37)
+Venous thromboembolism 16% (16) 20% (19)
+Mechanical heart prothesis 18% (18) 15% (14)
+Pulmonary embolism 06% (6) 16% (15)
+Other 07% (7) 11% (11)
+Intended INR target range 0.148
+2–3 81% (80) 82% (79)
+2.5–3.5 18% (18) 12% (12)
+Other 01% (1) 05% (5)
+Duration of oral anticoagulation treatment, years 05.5 ± 7.0 05.8 ± 7.1 0.988
+Oral anticoagulation medication 0.619
+Phenprocoumon 91% (88) 89% (85)
+Acenocoumarol 09% (9) 11% (11)
+Co-morbidities
+Cardiovascular disease other than atrial fibrillation or
+mechanic heart valve replacement
+78% (77) 84% (81) 0.240
+Hypertension 43% (43) 49% (47) 0.439
+Diabetes mellitus 23% (23) 25% (24) 0.773
+Pulmonary disease 13% (13) 12% (12) 0.895
+Disease of the gastrointestinal tract 12% (12) 11% (11) 0.886
+Cancer 07% (7) 08% (8) 0.741
+Previous complications
+Thromboembolic 45% (45) 49% (47) 0.624
+Severe haemorrhagic 04% (4) 06% (6) 0.484
+Other long-term medications
+Downloaded by: Glasgow University Library. Copyrighted material.
+Siebenhofer et al. Self-management of oral anticoagulation in the elderly
+411
+Figure 1: CONSORT flow chart.
+Downloaded by: Glasgow University Library. Copyrighted material.
+Siebenhofer et al. Self-management of oral anticoagulation in the elderly
+412
+Outcome measures
+The primary endpoint of the main trial after termination of the
+study, as defined by the protocol, on February 28, 2007, two
+years after the randomisation of the last patient, is the combined
+endpoint of all thromboembolic events requiring hospitalisation
+and all major bleeding complications. Associated complications
+are evaluated and checked by two independent physicians who
+are not involved in the trial and are unaware of patients’ study
+group. Complications include any thromboembolic complication requiring hospitalisation: arterial embolism (e.g. stroke,
+transient ischemic attack, myocardial infarction, peripheral arterial embolism), venous thromboembolism (e.g. deep venous
+thrombosis, pulmonary embolism) and valve thrombosis. Bleeding complications are classified as major or minor according to
+the criteria of Landefeld et al. (21, 22)
+Secondary endpoints are frequency and duration of hospitalisation, mortality, recurrence of stroke, numbers of INR values
+above 4.5 or lower than 1.7, treatment-related quality-of-life
+analysis according a structured questionnaire as described and
+validated by Sawicki (16), and cost-effectiveness evaluations.
+Tertiary outcomes are the median ofsquared INR value deviation [INR – ½(upper value of target INR range + lower value of
+target INR range)] (23), the percentage of individual patients'
+INR values within the target range and the percentage of time
+within target range as obtained by linear interpolation for each
+patient as obtained from the patients' diaries. When more than
+one INR measurement per patient per day was made, the median
+of the daily values was used as point estimate.
+The reason for using only patients' diary reports is that the
+laboratory tests differ among each other (24). In both the SMG
+(CoaguChek self measurement) and in the RCG (measurement
+at the attending physician's office or at a hospital-based specialised anticoagulation clinic with its own in-house device), the
+INR values were always measured with one and the same laboratory system, which presents the values according to the anticoagulant dosage adjustments made.
+For the interim analyses presented in this paper, one year
+after randomisation of the last patient, the primary outcome was
+the efficacy of oral anticoagulation control reported asthe median squared INR value deviation [INR – ½(upper value of target
+INR range + lower value of target INR range)] (23). Furthermore, we analysed the individual percentage of INR values
+within the target range and the individual percentage of time
+within target range. Due to the small numbers of thromboembolic events, major bleedings and deaths, no formal statistical
+analyses was performed, and only absolute numbers are given in
+this publication.
+Sample size and statistical analysis
+Based on previously published pilot studies (16, 25), the calculation of sample size required was based on the following assumptions.To detect a 50% reduction in thromboembolic events
+and major bleedings between the two treatment groups assuming
+a significance level of p= 0.05 and a power of 90%, a sample size
+of 88 patients per group was needed. With a calculated dropout
+rate of 10%, this calculation resulted inatotal of 200 patients.
+For continuous variables, differences were assessed by the
+Wilcoxon test, unpaired for between-group comparisons and
+paired for within-group comparisons. Categorical data were
+compared by Chi2
+-tests. For the time-to-event analyses, Kaplan
+Meier curves will be presented, and the log-rank test will be performed. Significance level wasset at p=0.05. Medians were used
+because of the skewed distributions of the data. For the interim
+analysis presented here,statistics were done using the R package
+forstatistical computing (26), an open-source implementation of
+the S-Plus software package.
+Results
+In all, 458 consecutive patients from the three evaluated centres
+were assessed for eligibility; 263 were excluded for the reasons
+described in the trial profile in Figure 1.
+Of the 195 patients who were randomised, 99 patients were
+randomised to the SMG and 96 patients to the RCG. Table 1
+shows the baseline characteristics for both groups. No statistically significant differences were observed in the distribution
+of the baseline variables age, gender and intended INR ranges.
+Clinical indications for OAC were atrial fibrillation, mechanical
+prosthetic heart valve, venousthromboembolism, pulmonary artery disease and others such as recurrent stroke, myocardial infarction, arterial embolism, ischemic and dilated cardiomyopathy, coronary artery bypass graft, peripheral arterial and venous bypass graft, polycythemia vera rubra and thrombophlebitis, and ventricular aneurysm. At baseline there were no significant differences between the groups in terms of co-morbidities,
+previous thromboembolic and haemorrhagic complications and
+other long-term medications. Ninety-one percent and 89% of patients were on phenprocoumon and 9% and 11% were on acenocoumarol in the SMG and RCG, respectively.
+At baseline, the groups differed significantly with regard to
+the therapeutic INR control obtained from the patients' diaries
+during the year previous to randomisation. The median of the
+squared INR value deviation was significantly higher in the
+SMG, accompanied by a significantly lower median percentage
+of time within the target range and a median percentage of INR
+measurements within the target range in this group. This fact
+goes together with a significantly higher percentage of patients
+in the SMG with INRvalues below the therapeutic range in terms
+oftime and measurements at baseline as compared to theRCG.
+Of 99 patients randomised to the SMG, 90 attended and successfully completed training. Of the patients who completed
+training, 96% completed the first year of follow-up in the SMG.
+Only two patients could not manage routine self-measurement
+and two other patients were reluctant to perform self-management after the course. Two patients had manual impairment; one
+patient hadahistory of stroke and another patient had Parkinson's syndrome; both patients were nonetheless included in the
+study, and measurements were performed by relatives. The dropout rate in the RCG was 6%, and eight control-group patients
+began with self-management six months after the study began
+(Fig. 1).
+The median frequency of INR measurements per patient in
+the SMG was 27 and 24 compared to eight and seven in the RCG
+after the first and second six-month periods, respectively. The
+medians of the squared INR value deviations after six and 12
+months were significantly lower in the SMG with medians of
+Downloaded by: Glasgow University Library. Copyrighted material.
+Siebenhofer et al. Self-management of oral anticoagulation in the elderly
+413
+Table 2: Quality of oral
+anticoagulation. Variable SMG (n=99) RCG (n=96) P-value
+Baseline (n=92)* (n=95)*
+Time within target range, % 075.4 (59.4, 85.0) 066.5 (47.1, 81.5) 0.029
+Time above target range, % 005.8 (1.0, 11.1) 009.1 (0.0, 28.1) 0.109
+Time below target range, % 012.6 (5.5, 26.6) 011.9 (0.0, 29.2) 0.391
+INR measurements within
+target range, %
+072 .4(53.5, 79.4) 057.1 (40.4, 72.4) < 0.001
+INR measurements above
+target range, %
+007.2 (0.6, 15.4) 014.3 (0.0, 28.6) 0.018
+INR measurements below
+target range, %
+018.8 (7.3, 30.6) 019.5 (0.0, 40.0) 0.853
+Patients with INR value < 1.7 048.8% (42) 040.0% (36) 0.238
+Patients with INR value > 4.5 008.1% (7) 007.8% (7) 0.930
+Number of INR measurements since 6 months
+follow-up visit
+024 (15.5, 29) 007 (5, 11.3) <0.001
+Days covered by anticoagulation diary 182 (167, 189) 176 (155, 188) 0.251
+Data median (interquartile range – 25 and 75 percentile) or % (n). * Reasons for missing data at baseline: In the SMG, three patients started with OAC treatment at randomisation, three patients lost their patient diaries, one patient withdrew informed consent due to distance to study centre before providing patient diary and has missing data for all follow-up examinations. In the RCG one patient died immediately after randomisation and before providing patient's
+diary and has missing data for all follow-up visits. ** Reasons for missing data at six months' follow-up are reported in the flow chart. *** Reasons for missing
+data at 12 months' follow-up are reported in the flow chart.
+Squared INR deviation 000.42 (0.25, 0.77) 000.25 (0.16, 0.49) 0.003
+Time within target range,% 046.0 (21.9, 63.2) 060.3 (38.7, 77.8) 0.001
+Time above target range, % 009.6 (0.0, 32.1) 008.5 (0.0, 27.2) 0.737
+Time below target range, % 027.2 (7.9, 60.8) 016.3 (6.1, 30.95) 0.017
+INR measurements within
+target range, %
+040.0 (24.7, 57.1) 050.0 (34.5, 71.0) 0.001
+INR measurements above
+target range, %
+013.3 (0.0, 30.0) 012.5 (0.0, 28.2) 0.523
+INR measurements below
+target range, %
+032.6 (18.2, 60.0) 023.1 (10.8, 41.4) 0.011
+Patients with INR value
+< 1.7 %
+071.7% (66) 061.1% (58) 0.122
+Patients with INR value > 4.5 030.4% (28) 018.9% (18) 0.068
+Number of INR measurements in preceding 12 months 011 (6, 16.5) 010 (7, 14) 0.380
+Days covered by anticoagulation diary 299 (168, 345) 309 (158, 355) 0.694
+6 month follow-up (n=90)** (n=93) **
+Squared INR deviation 000.16 (0.09, 0.25) 000.25 (0.13, 0.48) 0.035
+Time within target range, % 070.6 (60.9, 83.9) 057.5 (34.2, 80.3) < 0.001
+Time above target range, % 006.4 (1.0 11.6) 013.8 (0.0, 32.6) 0.004
+Time below target range, % 018.1 (9.1, 28.2) 011.1 (0.0, 32.9) 0.053
+INR measurements within
+target range, %
+068.7 (58.9, 80.5) 057.1 (37.5, 71.4) < 0.001
+INR measurements above
+target range, %
+008.2 (3.0, 13.2) 018.2 (0.0, 33.3) < 0.001
+INR measurements below
+target range, %
+021.2 (9.9, 30.6) 016.7 (0.0, 36.1) 0.527
+Patients with INR value < 1.7 057.8% (52) 044.1% (41) 0.064
+Patients with INR value > 4.5 011.1% (10) 017.2% (16) 0.238
+Number of INR measurements since randomisation 027 (21.0, 33.5) 008 (6.0, 11.0) <0.001
+Days covered by anticoagulation diary 172 (157, 190) 175 (158, 186) 0.982
+12 month follow-up (n=86)*** (n=90)***
+Squared INR deviation 000.16 (0.09, 0.25) 000.25 (0.09, 0.36) 0.011
+Downloaded by: Glasgow University Library. Copyrighted material.
+0.16 and 0.16 compared to the RCG with medians of 0.25 and
+0.25 (Table 2).
+During the firstsix months, the percentage of time within target range and the percentage of INR measurements within target
+range were significantly higher in the SMG versusthe RCG with
+medians 71% versus 58% and 69% versus 57%, respectively.
+During the second six months of the study, these differences remained statistically significant with medians of 75% versus 67%
+and 72% versus 57% for the percentage of time within target
+range and the percentage of INR measurements forself-management compared with routine management. After six months of
+treatment, a significantly higher proportion of patients was
+above the target range in the RCG group with respect to time and
+measurements. During the second six months, only the percentage of INR measurements above the target range was significantly higher in the RCG.
+In addition, we found a significant within-group improvement in the median of the squared INR value deviations
+(p<0.001), the percentage of time (p<0.001) and the numbers of
+INR readings (p<0.001) within the target range between prestudy and the first year of follow-up in the SMG. Overall, efficacy in OAC control remained unchanged in the RCG.
+Forty-nine patients in the RCG were treated in general practices and 47 patients at hospital-based specialised anticoagulation clinics. At baseline, OAC control did not differ significantly between the SMG and the general practice-treated RCG.
+During the first year of treatment, the median of the squared INR
+value deviation was significantly reduced in the SMG versus the
+general practice-treated RCG, with medians of 0.16 versus 0.27;
+p<0.001. The percentage of time within target range (median,
+74% vs. 58%; p<0.001) and the percentage of INR measurements (median, 70% vs. 50%; p<0.001) also improved significantly in the SMG versus the general practice-treatedRCG. Concentrating on the RCG treated in hospital-based specialised anticoagulation clinics, the OAC quality was significantly higher at
+baseline and remained stable over the first year of treatment. For
+the interim analysis after one year of treatment, there was no significant difference in terms of percentage of time within target
+range between the SMG and the hospital-based specialised anticoagulation clinic RCG (median, 74% vs. 71%, p=0.082). However, the median of the squared INR value deviation was significantly reduced in the SMG versus the hospital-based specialised
+anticoagulation clinic RCG with medians of 0.16 versus 0.24
+(p=0.028), and the percentage of INR measurements within target range improved significantly as well (median, 70% vs. 60%,
+p=0.005).
+The numbers of all thromboembolic events requiring hospitalisations, major bleeding events, and deaths through the end of
+the first study year did not differ between the groups and are reported for all randomised patients in Table 3.
+Discussion
+This randomised controlled trial will primarily attempt to determine whether thromboembolic events requiring hospitalisation
+and major bleeding complications can be reduced by self-management of oral anticoagulation in patients over 60 years of age.
+As long-term data from studies with elderly self-management
+patients (self-testing and self-dosing after participation in a
+structured treatment programme) are rare, we expect that the results in the final publication with the „analysis of morbidity and
+mortality end-points“ will have important implications for the
+treatment of elderly patients in the future. To date, only one randomised trial including patients with a mean age of 64 to 67 has
+shown a significant reduction in thromboembolic complications
+(27), and one other study indicated that excessive bleeding rates
+can be successfully reduced when elderly patients perform selftesting (19). However, though clear evidence of the superiority of
+self-management treatment for elderly patients is still lacking, it
+is known from a recently published meta-analysis combining all
+presently available randomised trials with predominantly
+younger patients and short follow-up timesthat thromboembolic
+complications and death rates can be significantly reduced in
+self-managed patients (18).
+Overall, 43% of eligible patients who were invited by doctors
+to participate at the study centres were randomised; this is comparable to a Spanish study (27) and a study performed on elderly
+patients in the United Kingdom (28) but is much higher than in
+the studies presented recently by Gadisseur et al. and Fitzmaurice et al. (29, 30) with about 25%.
+Of those patients who were randomised to self-management,
+91% completed training, and 96% of those who started self-management completed the first 12 months of follow-up. Such a low
+dropout rate was only found in the study by Khan et al. (28) and
+is very low compared to other randomised controlled trials including a high proportion of elderly patients assigned to selfmanagement with a range of 21% to 28% (19, 27, 29). Some
+other studies presented comparably low dropout rates (16, 30)
+but included much younger patients. The withdrawal rate in the
+RCG was 6%, and eight patients in the this group started with
+self-management six months after the study began (Fig. 1).
+After one year of intervention, patient self-management of
+oral anticoagulation was superior to routine care in terms of the
+median square INR deviation, which wasthe predefined primary
+outcome for this analysis. This parameter provides useful information on the evaluation of positive and negative differences between the INR target range and INR values, as it simultaneously
+incorporates very high and very low INR values. This result is
+supported by the significant improvement of the percentage of
+Siebenhofer et al. Self-management of oral anticoagulation in the elderly
+414
+Table 3: Absolute numbers of patients suffering at least one associated major complication, death, or hospitalisation between
+patients in the self-management group (SMG) versus the routine-care group (RCG) after a maximum of one year of followup.
+SMG
+(n=99)
+RCG
+(n=96)
+Combined endpoint* 09 09
+Major bleeding complications 03 02
+Thromboembolic complications 06 07
+Deaths 04 02
+Hospitalisations 49 45
+*Combined endpoint of all thromboembolic events and all major bleeding complications.
+Downloaded by: Glasgow University Library. Copyrighted material.
+8. Cohen N, Moznino-Sarafian D,Alon I, et al.Warfarin for stroke prevention still underused in atrial fibrillation: patterns of omission. Stroke 2000; 31:
+1217–1222.
+9. Gage BF, Boechler M, Doggette AL, et al. Adverse
+outcomes and predictors of underuse of antithrombotic
+therapy in medicare beneficiaries with chronic atrial fibrillation. Stroke 2000; 31: 822–827.
+10. Hylek EM, D'Antonio J, Evans-Molina C, et al.
+Translating the results of randomized trialsinto clinical
+practice: the challenge of warfarin candidacy among
+hospitalized elderly patients with atrial fibrillation.
+Stroke 2006; 37: 1075–1080.
+11. Palareti G, Leali N, Coccheri S, et al. Bleeding
+complications of oral anticoagulant treatment: an inception-cohort, prospective collaborative study (ISCOAT). Italian Study on Complications of OralAnticoagulant Therapy. Lancet 1996; 348: 423–428.
+12. Torn M, BollenWL, van der Meer FJ, et al. Risks of
+oral anticoagulant therapy with increasing age. Arch
+Intern Med 2005; 165: 1527–1532.
+13. Hylek EM, Skates SJ, Sheehan MA, et al. An analysis of the lowest effective intensity of prophylactic anticoagulation for patients with nonrheumatic atrialfibrillation. N Engl J Med 1996; 335: 540–546.
+14. Cannegieter SC, Rosendaal FR, Wintzen AR, et al.
+Optimal oral anticoagulant therapy in patients with
+mechanical heart valves. N Engl J Med 1995; 333:
+11–17.
+15. Hylek EM, Singer DE. Risk factors for intracranial
+hemorrhage in outpatients taking warfarin. Ann Intern
+Med 1994; 120: 897–902.
+16. Sawicki PT. A structured teaching and self-management program for patients receiving oral anticoagulation: a randomized controlled trial. Working Group
+for the Study of Patient Self-Management of OralAnticoagulation. J Am Med Assoc 1999; 281: 145–150.
+17. Siebenhofer A, Berghold A, Sawicki PT. Systematic review of studies of self-management of oral anticoagulation. Thromb Haemost 2004; 91: 225–232.
+18. Heneghan C, Onso-Coello P, Garcia-Alamino JM, et
+al. Self-monitoring of oral anticoagulation: a systematic
+review and meta-analysis. Lancet 2006; 367: 404–411.
+19. Beyth RJ, Quinn L, Landefeld CS. A multicomponent intervention to prevent major bleeding complications in older patients receiving warfarin. A randomized, controlled trial. Ann Intern Med 2000; 133:
+687–695.
+20. van den BesselarAM. A comparison of INRs determined with a whole blood prothrombin time device and
+References
+1. Ansell J, Hirsh J, Poller L, et al. The pharmacology
+and management of the vitamin K antagonists: the
+Seventh ACCP Conference on Antithrombotic and
+Thrombolytic Therapy. Chest 2004; 126: 204S-233S.
+2. Hirsh J. Oral anticoagulant drugs. N Engl J Med
+1991; 324: 1865–1875.
+3. Aguilar MI, Hart R. Oral anticoagulantsfor preventing stroke in patients with non-valvular atrial fibrillation
+and no previous history of stroke or transient ischemic
+attacks.Cochrane Database SystRev 2005;CD001927.
+4. Risk factors for stroke and efficacy of antithrombotic therapy in atrial fibrillation. Analysis of pooled
+data from five randomized controlled trials. Arch Intern Med 1994; 154: 1449–1457.
+5. Furberg CD, Psaty BM, Manolio TA, et al. Prevalence of atrial fibrillation in elderly subjects (the Cardiovascular Health Study). Am J Cardiol 1994; 74:
+236–241.
+6. Hylek EM, Go AS, Chang Y, et al. Effect of intensity of oral anticoagulation on stroke severity and mortality in atrial fibrillation. N Engl J Med 2003; 349:
+1019–1026.
+7. Bungard TJ, Ghali WA, Teo KK, et al. Why do patients with atrial fibrillation not receive warfarin? Arch
+Intern Med 2000; 160: 41–46.
+Siebenhofer et al. Self-management of oral anticoagulation in the elderly
+415
+time and readings within the therapeutic range for INR between
+the two groups after six and 12 months of treatment.
+Patients in the SMG had poorer anticoagulation control at
+baseline, but efficacy was markedly improved after the first year
+of treatment.A possible explanation could be that after completing the structured training programme, patients under self-management can better adjust the anticoagulant dosage whenever
+necessary than can the physician in the setting of routine care. In
+general, therapeutic INR control in the SMG was good and almost comparable to other randomised trials (18, 31).
+In the RCG, the accuracy of OAC control did not change over
+the observation time of one year even though the patients had
+also undergone a basic training course. The fact that the percentage of time and of INR values within the target range did not
+change over time might be because the number of INR measurements was essentially low and stable during the first year of follow-up (on the average, about one measurement per month).This
+may indicate that monthly monitoring, as currently foreseen for
+routine care in Germany and Austria, does not suffice for the
+prompt modifications of the daily dose that would be needed to
+optimize the INR levels. This is in contrast to the small study of
+Khan et al.(28), where elderly patientsin the education and clinical care group who participated inatwo-hour training session
+hadaclear improvement in time within the therapeutic range at
+the end of the study. This publication does not, however, clearly
+state how often INR was measured and whether the dosage was
+subsequently adapted. Another interesting randomised trial reported on a RCG that completed three training sessions (30). It
+showed that the efficacy of OAC improved from the beginning to
+the end of the study and did not differ between two other groups
+on weekly self-management or weekly self-testing only.
+Patientsin the RCG were advised by doctors either in general
+practice or at a hospital-based specialised anticoagulation clinic.
+The results of our analysis indicate that patients treated at
+specialised clinics have high OAC control. Our results also support those of previously published randomised trials that INR
+self-management is at least equivalent to management by a
+specialised anticoagulation clinic and seems to offer more accurate anticoagulation control than is obtained under routine care
+supervised by general practitioners (17, 27, 30).
+It is currently too early to assess the effect of self-management on complications caused by OAC treatment, and the
+numbers presented did not indicate any difference between treatment groups. However, with improved OAC control as an indirect parameter of a reduced risk of thromboembolic and bleeding
+complications (32), it can be expected that this benefit will be
+seen after termination of thistrial. In addition, other studies have
+convincingly shown that quality of life was significantly improved in patients who performed self-management compared to
+patients advised at specialised clinics and in general practices as
+well (16, 33, 34). Furthermore, self-management seems to be a
+cost-effective strategy for patients on long-term OAC therapy
+(35, 36). Analyses on quality of life and cost-effectiveness are
+planned after termination of the study.
+These preliminary results suggest that self-management of
+OAC is safe and feasible for elderly patients willing to participate in a structured training programme
+Acknowledgements
+We would like to thank Margit Seimel, Ute Sternenberg, Elisabeth Waclawiczek and Brigitte Krinninger, who together with the principal investigators were responsible for the training and practical and administrative follow-up of the patients, Peter Sawicki for protocol development and critical
+revision for intellectual content, and E. Lamont and D. Pann for their final
+editing of the manuscript.
+Abbreviations
+INR=international normalised ratio, OAC=oral anticoagulation, RCG
+= routine-care group, SMG=self-management group.
+Downloaded by: Glasgow University Library. Copyrighted material.
+two international reference preparations for thromboplastin. Thromb Haemost 2000; 84: 410–412.
+21. Landefeld CS, Beyth RJ. Anticoagulant-related
+bleeding: clinical epidemiology, prediction, and prevention. Am J Med 1993; 95: 315–328.
+22. Landefeld CS, Anderson PA, Goodnough LT, et al.
+The bleeding severity index: validation and comparison to other methods for classifying bleeding complications of medical therapy. J Clin Epidemiol 1989; 42:
+711–718.
+23. Rosendaal FR, Cannegieter SC, van der Meer FJ, et
+al. A method to determine the optimal intensity of oral
+anticoagulant therapy. Thromb Haemost 1993; 69:
+236–239.
+24. Horsti J, Uppa H, Vilpo JA. Poor agreement among
+prothrombin time international normalized ratio methods: comparison of seven commercial reagents. Clin
+Chem 2005; 51: 553–560.
+25. Sawicki PT, Glaser B, Kleespies C, et al. Self-management of oral anticoagulation: long-term results. J
+Intern Med 2003; 254: 515–516.
+26. R Development Core Team. R: A language and environment for statistical computing. Available at:
+http://www.r-project.org. Accessed December 12,
+2006.
+27. Menendez-Jandula B, Souto JC, Oliver A, et al.
+Comparing self-management of oral anticoagulant
+therapy with clinic management: a randomized trial.
+Ann Intern Med 2005; 142: 1–10.
+28. Khan TI, Kamali F, Kesteven P, et al. The value
+of education and self-monitoring in the management
+of warfarin therapy in older patients with unstable control of anticoagulation. Br J Haematol 2004; 126:
+557–564.
+29. Fitzmaurice DA, Murray ET, McCahon D, et al.
+Self management of oral anticoagulation: randomised
+trial. Br Med J 2005; 331: 1057.
+30. Gadisseur AP, Breukink-Engbers WG, van der
+Meer FJ, et al. Comparison of the quality of oral anticoagulant therapy through patient self-management and
+management by specialized anticoagulation clinics in
+the Netherlands: a randomized clinical trial. Arch Intern Med 2003; 163: 2639–2646.
+31. Watzke HH, Forberg E, Svolba G, et al. A prospective controlled trial comparing weekly self-testing and
+self-dosing with the standard management of patients
+on stable oral anticoagulation. Thromb Haemost 2000;
+83: 661–665.
+32. Samsa GP, Matchar DB. Relationship between test
+frequency and outcomes of anticoagulation: a literature
+review and commentary with implications for the design of randomized trials of patientself-management. J
+Thromb Thrombolysis 2000; 9: 283–292.
+33. Cromheecke ME, Levi M, Colly LP, et al. Oral anticoagulation self-management and management by a
+specialist anticoagulation clinic: a randomised crossover comparison. Lancet 2000; 356: 97–102.
+34. GadisseurAP, KapteinAA,Breukink-EngbersWG,
+et al. Patient self-management of oral anticoagulant
+care vs. management by specialized anticoagulation
+clinics: positive effects on quality of life. J Thromb
+Haemost 2004; 2: 584–591.
+35. Regier DA, Sunderji R, Lynd LD, et al. Cost-effectiveness of self-managed versus physician-managed
+oral anticoagulation therapy. CMAJ 2006; 174:
+1847–1852.
+36. Taborski U, Wittstamm FJ, BernardoA. Cost-effectiveness of self-managed anticoagulant therapy in Germany. Semin Thromb Hemost 1999; 25: 103–107.
+Siebenhofer et al. Self-management of oral anticoagulation in the elderly
+416
+Downloaded by: Glasgow University Library. Copyrighted material.

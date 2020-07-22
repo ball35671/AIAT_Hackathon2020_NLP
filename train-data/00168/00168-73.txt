@@ -1,0 +1,770 @@
+BRAIN
+A JOURNAL OF NEUROLOGY
+Increased risk of narcolepsy in children and adults
+after pandemic H1N1 vaccination in France
+Yves Dauvilliers,1,2 Isabelle Arnulf,2,3 Michel Lecendreux,2,4 Christelle Monaca Charley,5
+Patricia Franco,2,6 Xavier Drouot,7 Marie-Pia d’Ortho,8 Sandrine Launois,9 Se´verine Lignot,10
+Patrice Bourgin,11 Be´atrice Nogues,12 Marc Rey,13 Sophie Bayard,1,2 Sabine Scholz,1,2
+Sophie Lavault,2,3 Pascale Tubert-Bitter,14 Cristel Saussier15 and Antoine Pariente10
+on behalf of the Narcoflu-VF study group
+1 Sleep Disorder Centre, Neurology Department, Gui de Chauliac hospital, CHU Montpellier, INSERM, U1061, Montpellier, France
+2 National Reference Network for Orphan Diseases (Narcolepsy, Idiopathic Hypersomnia and Kleine Levin syndrome), France
+3 Sleep Disorder Unit, Hospital la Pitie´-Salpeˆtrie`re, AP-HP, Paris, France
+4 Paediatric Sleep Disorder Centre, CHU Robert-Debre´, AP-HP, Paris, France
+5 Sleep Unit, Clinical Neurophysiology Department, Universite´ Lille Nord de France; Lille University Hospital, Lille, France
+6 INSERM, U1028, Lyon, France; Paediatric Sleep Unit, Hoˆ pital Femme-Me`re-Enfant, Lyon, France
+7 Sleep Centre Physiology Department, Functional Explorations, Hoˆ pital Henri Mondor, Creteil, France
+8 Sleep Centre – Neurophysiology, Department of Physiology, Functional Explorations, Bichat Hospital, AP-HP, Universite´ Denis Diderot Paris 7Paris,
+France
+9 Sleep Laboratory and Physiology Department, Grenoble University Hospital, Inserm, U1042, Grenoble, France
+10 Inserm, CIC-P 0005, Pharmacoepidemiology Department, CHU de Bordeaux, France
+11 Sleep Disorder Centre, CHU Strasbourg, CNRS UPR 3212, Strasbourg, France
+12 Functional Explorations Laboratory, Rare Hypersomnia Competence Centre, Hoˆ pital Laennec, Nantes, France
+13 Clinical Neurophysiology Unit, La Timone Hospital, Marseille, France
+14 INSERM, U1018, Centre for Research in Epidemiology and Population Health (CESP), Biostatistics Team, Villejuif, France. Univ Paris Sud, UMRS
+1018, Villejuif, France
+15 Agence Nationale de Se´ curite´ des Me´dicaments et des Produits de Sante´, Saint-Denis, France
+Correspondence to: Yves Dauvilliers, MD, PhD.
+National Reference Network for Narcolepsy,
+Sleep-Disorders Center, Department of Neurology,
+Hopital Gui de Chauliac, INSERM U1061, UM1,
+Montpellier, France
+E-mail: ydauvilliers@yahoo.fr
+Correspondence may also be addressed to: Antoine Pariente, MD, PhD. CIC 0005, Pharmacology Department, CHU de Bordeaux, Hopital Pellegrin, Pl
+Amelie Raba Leon, 33000, Bordeaux, France. E-mail: antoine.pariente@u-bordeaux2.fr
+An increased incidence of narcolepsy in children was detected in Scandinavian countries where pandemic H1N1 influenza ASO3-
+adjuvanted vaccine was used. A campaign of vaccination against pandemic H1N1 influenza was implemented in France using
+both ASO3-adjuvanted and non-adjuvanted vaccines. As part of a study considering all-type narcolepsy, we investigated the
+association between H1N1 vaccination and narcolepsy with cataplexy in children and adults compared with matched controls;
+and compared the phenotype of narcolepsy with cataplexy according to exposure to the H1N1 vaccination. Patients with
+narcolepsy-cataplexy were included from 14 expert centres in France. Date of diagnosis constituted the index date.
+Validation of cases was performed by independent experts using the Brighton collaboration criteria. Up to four controls were
+individually matched to cases according to age, gender and geographic location. A structured telephone interview was
+doi:10.1093/brain/awt187 Brain 2013: 136; 2486–2496 | 2486
+Received January 3, 2013. Revised May 5, 2013. Accepted May 30, 2013
+ The Author (2013). Published by Oxford University Press on behalf of the Guarantors of Brain. All rights reserved.
+For Permissions, please email: journals.permissions@oup.com
+Downloaded from https://academic.oup.com/brain/article-abstract/136/8/2486/431857 by guest on 15 October 2019
+performed to collect information on medical history, past infections and vaccinations. Eighty-five cases with narcolepsy-cataplexy were included; 23 being further excluded regarding eligibility criteria. Of the 62 eligible cases, 59 (64% males, 57.6%
+children) could be matched with 135 control subjects. H1N1 vaccination was associated with narcolepsy-cataplexy with an odds
+ratio of 6.5 (2.1–19.9) in subjects aged 518 years, and 4.7 (1.6–13.9) in those aged 18 and over. Sensitivity analyses considering date of referral for diagnosis or the date of onset of symptoms as the index date gave similar results, as did analyses
+focusing only on exposure to ASO3-adjuvanted vaccine. Slight differences were found when comparing cases with narcolepsycataplexy exposed to H1N1 vaccination (n = 32; mostly AS03-adjuvanted vaccine, n = 28) to non-exposed cases (n = 30), including shorter delay of diagnosis and a higher number of sleep onset rapid eye movement periods for exposed cases. No difference
+was found regarding history of infections. In this sub-analysis, H1N1 vaccination was strongly associated with an increased risk
+of narcolepsy-cataplexy in both children and adults in France. Even if, as in every observational study, the possibility that some
+biases participated in the association cannot be completely ruled out, the associations appeared robust to sensitivity analyses,
+and a specific analysis focusing on ASO3-adjuvanted vaccine found similar increase.
+Keywords: narcolepsy; cataplexy; H1N1; vaccine; infection
+Abbreviations: MSLT = Multiple Sleep Latency Test
+Introduction
+Narcolepsy with cataplexy is a disabling orphan disorder caused by
+a loss of hypothalamic hypocretin/orexin-producing neurons with
+the main peak of disease onset at 16 years of age (Dauvilliers
+et al., 2001, 2007). An autoimmune basis for narcolepsy-cataplexy
+has long been suspected based on the tight association with HLADRB1*15:01-DQB1*06:02 haplotype, T cell receptor alpha and
+purinergic receptor P2RY11 polymorphisms (Mignot et al., 2001;
+Hallmayer et al., 2009; Hor et al., 2010; Kornum et al., 2011a),
+the presence of elevated Tribbles homolog 2 and anti-streptolysin
+O antibodies (Aran et al., 2009; Cvetkovic-Lopes et al., 2010), the
+low vitamin D levels (Carlander et al., 2011), and the positive
+effect of intravenous IgG to normalize CSF hypocretin-1 level in
+a single patient (Dauvilliers et al., 2009). However, the precise
+aetiology of narcolepsy-cataplexy remains unknown with both
+genetic and environmental factors playing a major role
+(Dauvilliers et al., 2007; Kornum et al., 2011b).
+In early 2010, an increased incidence of narcolepsy was detected in children in Finland and Sweden where pandemic H1N1
+influenza vaccine (Pandemrix containing adjuvant ASO3, squalene and alphatocopherol) was used (THL, 2010; MPA Sweden,
+2011; Nohynek et al., 2012; Partinen et al., 2012). We reported
+some cases with narcolepsy-cataplexy from France, Canada and
+the USA using the ASO3-adjuvanted H1N1 vaccine, some cases
+using non-adjuvanted vaccine and some cases who developed
+narcolepsy-cataplexy after H1N1 infection (Dauvilliers et al.,
+2010). Recent studies confirmed the increased childhood/adolescent incidence rate of narcolepsy in western Sweden, England and
+Ireland after the H1N1 Pandemrix vaccination campaign
+(National Narcolepsy Study Steering Committee, 2012; Miller
+et al., 2013; Szaka´ cs et al., 2013). The majority of these did not
+consider the adult population.
+A large increase of childhood cases with narcolepsy-cataplexy
+was reported after the winter of 2009–2010 in China, independent of vaccination (Han et al., 2011). In South Korea no increase
+was seen in the incidence rate of narcolepsy after the H1N1
+vaccination campaign using non-adjuvanted and MF59-
+adjuvanted H1N1 vaccines (Choe et al., 2012).
+Differences exist in the rates of pandemic H1N1 vaccination in
+the general population across the different countries and according
+to the age group (children versus adults), the presence of adjuvanted versus non-adjuvanted vaccine, and the adjuvant ASO3 or
+not, that preclude any definitive conclusion on the real risk of narcolepsy after H1N1 vaccine exposure. In 2010, the European Centre
+for Disease Controls (ECDC) funded a multinational case-control
+study in eight European countries coordinated by the Vaccine
+Adverse Event Surveillance and Communication (VAESCO) consortium (ECDC, 2012) to study the association between all-type narcolepsy and H1N1 vaccination. In this context, the French drug
+agency (Agence Nationale de Se´curite´ du Me´dicament et des
+produits de sante´, ANSM) co-funded a study in France, NarcofluVF, to contribute both to the VAESCO study and to pursue specific
+objectives. These specificities in design and objective consisted of a
+longer period of recruitment (up to April 2011), and in a sub-analysis focusing on the risk of narcolepsy-cataplexy.
+From October 2009 to February 2010, a campaign of vaccination against H1N1 influenza targeting all subjects was implemented in France, with swine flu vaccine administered to 5.7
+million individuals. Of these, 4.1 million were vaccinated with
+Pandemrix and 1.6 million with Panenza (non-adjuvanted vaccine). Panenza was indicated for the vaccination of children aged
+524 months (then extended to children 59 years), pregnant females and immunocompromised patients. The final population
+coverage was estimated at 8.8% at the end of the vaccination
+campaign. Panenza was used in 90% of the vaccinated aged
+59 years and Pandemrix in 89% of the vaccinated aged 59
+years (data obtained from ANSM).
+The aim of the sub-analysis of the Narcoflu-VF study presented
+here was (i) to investigate the association between pandemic
+H1N1 vaccination and narcolepsy-cataplexy in both children and
+adults compared with gender-, age- and geographic locationmatched controls in France; and (ii) to compare the phenotype
+of cases with narcolepsy-cataplexy according to exposure to
+H1N1 vaccination.
+H1N1 vaccination and narcolepsy Brain 2013: 136; 2486–2496 | 2487
+Downloaded from https://academic.oup.com/brain/article-abstract/136/8/2486/431857 by guest on 15 October 2019
+Materials and methods
+The Narcoflu-VF study is a multicentre case-control study performed in
+the institutions of 14 French expert orphan disease narcolepsy centres
+being easily identifiable by professionals and patients, which has
+allowed a specialized homogeneous care for both diagnosis and management of patients with narcolepsy in France. The information provided when the study was proposed to patients specified that the
+study aimed to investigate narcolepsy risk factors and potential associations with infections, medical drug use, and vaccinations. No specific emphasis was put on H1N1 vaccination, to limit the possibility of
+a participation bias related to this specific exposure. The protocol was
+approved by the research scientific committee of the ANSM and the
+Bordeaux hospital ethics committee. All subjects gave written informed
+consent to participate.
+Recruitment of cases with
+narcolepsy-cataplexy
+Patients with narcolepsy-cataplexy were referred to one of the participating sleep centres to confirm the diagnosis by polysomnography as
+well as the Multiple Sleep Latency Test (MSLT) between 1 October
+2009 and 30 April 2011. Diagnosis of narcolepsy-cataplexy was established using the revised International Classification of Sleep Disorders
+(ICSD, 2005). All patients presented excessive daytime sleepiness, typical cataplexy, at least two sleep-onset REM periods and a mean sleep
+latency 58 min during the MSLT. The date retained as the main index
+date for the analysis was the date of polysomnography-MSLT confirmed diagnosis. Participating centres identified retrospectively from
+lists of medical records completed by reference centres for orphan
+diseases as required by the French government and from hospital statistic databases all their patients with narcolepsy-cataplexy potentially
+matching the eligibility criteria. All potentially eligible cases were asked
+to participate.
+All cases agreeing to participate were validated using the Brighton
+collaboration criteria by an expert committee to fully confirm the diagnosis of typical narcolepsy-cataplexy (Poli et al., 2012). Two experts
+from the committee were assigned to assess each case, and a third one
+solicited in case of discrepancy. The investigator who included the case
+could not be an expert for the validation of the case to maintain
+blinding and objective assessment. Brighton case definition level 1
+included the presence of excessive daytime sleepiness and/or unambiguous cataplexy, and CSF hypocretin-1 deficiency; and level 2
+included the presence of excessive daytime sleepiness, unambiguous
+cataplexy, and abnormal MSLT including either mean sleep latency
+58 min (or 12 min for children) or at least two sleep-onset REM periods. Subjects classified with levels 3 and 4 (less degree of reliability of
+narcolepsy-cataplexy) were excluded from the study.
+Only confirmed cases of narcolepsy-cataplexy for whom the
+date of onset of symptoms—either excessive daytime sleepiness
+or cataplexy—was after 1 January 2005, and after the date of
+H1N1 vaccination for exposed cases, were included in the main
+analysis.
+Recruitment of control subjects
+Up to four control subjects were individually matched to each case
+according to sex, age (year of birth  2 years) and geographic location
+during the same recruitment period. Control subjects were recruited
+from: (i) patients from the hospitals to which the participating sleep
+centres belonged; and (ii) healthy volunteers from a national database
+(Narcobank).
+For hospital controls, the reason for healthcare requirement had to
+be unrelated to narcolepsy or pandemic H1N1 vaccination. The reason
+for this eligibility criterion was to obtain a population of hospital controls that would not exclusively represent patients with specific indication to H1N1 vaccination or contraindication to it. It was specified not
+to recruit controls from departments that specialized in the treatment
+of patients for which H1N1-vaccination was especially recommended
+(e.g. departments specialized in the management of AIDS, and immunocompromised patients). However, if a control subject admitted
+for surgery had a history of asthma, she/he was considered eligible.
+No patient was eliminated on the basis of the presence of a specific
+historical condition; the recruitment procedure was only thought to
+avoid constituting a population of controls in which vaccination rate
+would have been specifically affected by a recommendation targeting
+a condition that would have been over-represented in the recruitment
+department (e.g. recruitment of controls in a Chronic Obstructive
+Pulmonary Disease management department).
+Narcobank is a study financed by a national research programme
+from the French Health Ministry in 2007 with aims to study biomarkers and genetic risk factors of narcolepsy and other rare central
+hypersomnias. All subjects (patients and healthy controls matched for
+age and gender) were recruited between 2008 and 2010 from five
+sleep centres, all participating to the Narcoflu-VF study. The population of Narcobank was recruited without considering exposure to
+H1N1 vaccination. Some cases with narcolepsy-cataplexy may have
+participated in both Narcoflu-VF and Narcobank. The recruitment of
+control subjects from Narcobank mainly concerns these cases.
+Data collection
+All subjects were recruited by investigators before information on
+H1N1 vaccination status was collected. They were contacted for a
+standardized telephone interview to collect data on body mass
+index, smoking, medical history, history of viral or bacterial infections,
+and history of vaccinations. Date and type of all vaccines performed
+between January 2005 and index date were collected including seasonal flu, pandemic H1N1 vaccinations (Pandemrix or Panenza),
+and no-flu vaccinations. Excessive daytime sleepiness was assessed
+using the Epworth scale for adults (Johns, 1991), and the Paediatric
+Daytime Sleepiness Scale for children (Drake et al., 2003). Patients had
+to have their medical booklet and vaccination certificate (a further
+interview was scheduled if the patient did not have them). This
+ensured complete information for most patients concerning type of
+vaccine and date of vaccination. However, this could not be ascertained for some participants. For these, the type of vaccine was considered ‘undocumented’, and the date of vaccination was the reported
+month and year of vaccination, day being set at the first of the month.
+A procedure of exception was retained for the H1N1 vaccination campaign in France; purpose vaccination centres were opened, in limited
+number, to which patients were called-up by mail; being vaccinated
+implicated an individual voluntary step and prolonged wait. For these
+reasons, patient knowledge on this specific vaccination appear reliable
+at least for the fact of being vaccinated and the period of vaccination,
+even if vaccination type and exact date were considered only when
+they could be certified according to information from the medical
+booklet or the additional H1N1 vaccination certificate.
+Information on the characteristics of narcolepsy-cataplexy was collected from medical records. It included index date, date of referral for
+MSLT, symptoms severity and date of onset, polysomnography and
+2488 | Brain 2013: 136; 2486–2496 Y. Dauvilliers et al.
+Downloaded from https://academic.oup.com/brain/article-abstract/136/8/2486/431857 by guest on 15 October 2019
+MSLT results, HLA typing, and CSF hypocretin-1 concentration when
+available.
+Date of onset of symptoms was obtained from patients. As it can be
+difficult to assess, patients were asked to report the period of onset of
+their first symptoms (month and year of beginning and ending of this
+period). Cases reporting vaccination were thus classified as follows for
+the main and sensitivity analysis: (i) first symptoms after vaccination
+(i.e. left margin of the first symptoms onset period after vaccination
+date, at least in the following month if day unknown, most cases):
+cases considered exposed for all analyses; and (ii) first symptoms
+before vaccination or potentially concomitant (i.e. right margin of
+the first symptoms onset period before vaccination date, at least in
+the following month if day unknown, most cases or insufficient precision to exclude anteriority of first symptoms to vaccination): cases
+excluded from the analyses on date of diagnosis and date of referral
+for MSLT, and considered as non-exposed for analyses on date of first
+symptom onset.
+Statistical analysis
+Characteristics of cases and controls were compared in univariate analyses using Mc-Nemar Chi2 test for qualitative variables and Student ttest for paired series for quantitative variables (or non-parametric
+Wilcoxon test when Student t-test could not be used). The association
+between H1N1 vaccination and narcolepsy-cataplexy was estimated
+using conditional logistic regression models; it was expressed using
+odds ratios and their 95% confidence intervals (CI). Variables were
+included in the multivariate models if they were associated with narcolepsy-cataplexy with P50.25 after univariate analyses. They were
+considered in the final model if they were associated with narcolepsycataplexy with P50.2 or found responsible for confounding or H1N1
+vaccination effect modification. Association was estimated for the
+whole population, by age category (518 or 518 years at index
+date), and by time period of the date of diagnosis. Sensitivity analyses
+were performed that considered as index date (i) the date of referral
+for polysomnography-MSLT; and (ii) the date of first symptom onset.
+Characteristics of exposed and non-exposed cases contributing to any
+of these analyses were compared using Chi2 test or exact Fisher test
+for qualitative variables and Student t-test or non-parametric MannWhitney Wilcoxon test for quantitative variables.
+Additional analyses were performed: (i) an analysis including cases
+with narcolepsy-cataplexy that were excluded from the main analysis
+because their date of onset of symptoms was before the date of H1N1
+vaccination. In this additional analysis, these were considered as nonexposed; and (ii) an analysis considering only exposure to AS03-adjuvanted vaccine. All cases exposed to other H1N1 vaccines and their
+matched controls, as well as controls exposed to other or undocumented H1N1 vaccines were excluded from this analysis.
+We used SAS 9.3 for Windows (SAS Institute Inc). All reported
+P-values are two-tailed, with a significance level set at 0.05.
+Results
+Of the 177 cases with narcolepsy (all types considered) initially
+contacted to participate to the full Narcoflu-VF study, 127 responded and agreed to participate. Of these, 85 were confirmed
+cases with narcolepsy-cataplexy and were initially included, with
+23 patients later excluded from the main analysis based on index
+date ineligibility or onset of symptoms starting before H1N1 vaccination (Fig. 1). Among the 62 remaining eligible cases, 66.1%
+were males, median age was 15.3 years (range 5–51 years), and
+35 (56.5%) were 518 years of age. CSF hypocretin-1 was available in 24 patients, all with levels 5110 pg/ml. All cases were
+validated using the Brighton classification showing level 1 in
+37.1% and level 2 in 62.9%.
+Of the 62 eligible cases with narcolepsy-cataplexy, 59 could be
+matched to 135 control subjects, with regards to sex, year of birth
+and geographic area (Fig. 1 and Table 1). If body mass index was
+higher in cases, no significant difference was found between cases
+and controls for smoking (either personal or in relatives), age at
+puberty onset, medical history of diabetes, asthma, migraine, head
+trauma, cancer or familial history of autoimmune diseases.
+We studied the history of infections and vaccinations between 1
+January 2005 and the index date (Table 2). No between-group
+differences were found regarding the frequency of history of infectious episodes (Epstein-Barr virus streptococcal, upper respiratory or gastrointestinal tract infections or flu-like episodes),
+seasonal influenza or non-flu vaccinations. Conversely, pandemic
+H1N1 vaccination was found in 31 cases (27 Pandemrix and four
+Panenza) and 24 controls (17 Pandemrix, one Panenza, and
+six unknown) (52.5% versus 17.8%, P5104
+).
+H1N1 vaccination was associated with narcolepsy-cataplexy
+with an odds ratio of 5.5 (95% CI 2.5–12.0) when considering
+the whole population over the complete study period. When considering patients 518 years of age and their matched controls, the
+odds ratio was estimated at 6.5 (95% CI 2.1–19.9), and 4.7 (95%
+CI 1.6–13.9) in those aged 18 and over. For cases with a diagnosis
+date before July 2010 and matched controls, the odds ratio was
+estimated at 2.8 (95% CI 0.8–10.5); it was estimated at odds ratio
+7.6 (95% CI 2.8–20.8) for those with a later index date. In this
+analysis, after running multivariate models, H1N1 vaccination was
+the only study variable associated with narcolepsy-cataplexy with
+P 50.2 or found responsible for confounding or H1N1 vaccination
+effect modification (Table 3). Sensitivity analyses using different
+index dates found similar results (Table 3), as well as additional
+analyses considering cases with narcolepsy-cataplexy with date of
+first symptoms onset before the date of H1N1 vaccination as nonexposed, and considering only exposition to AS03-adjuvanted vaccine (Table 4).
+As some healthcare professionals were included in the volunteer
+controls (n = 36), with theoretically increased risk of being vaccinated, we differentiated the rate of vaccination between healthcare control subjects and other control subjects (35.5% versus
+8.7% of corresponding cases, P 5103
+). Excluding healthcare
+professional controls from the analysis did not change the estimates in children but led to the model not converging in adults.
+We further compared among the 62 cases with narcolepsy-cataplexy, those exposed to H1N1 vaccination (n = 32 including 28
+with Pandemrix) to those unexposed (Table 5). Median delay
+between vaccination and onset of excessive daytime sleepiness
+was 2.5 months [interquartile range (IQR) 1.2–4.5], with cataplexy
+onset 4.5 months (IQR: 1.6–8.1), and with diagnosis of narcolepsy-cataplexy 10.6 months (IQR: 8.5–13.4). The mean delay
+between narcolepsy-cataplexy onset (either excessive daytime
+sleepiness or cataplexy) and its diagnosis was shorter in exposed
+versus non-exposed cases, together with shorter delay between
+onset of excessive daytime sleepiness and cataplexy. However,
+H1N1 vaccination and narcolepsy Brain 2013: 136; 2486–2496 | 2489
+Downloaded from https://academic.oup.com/brain/article-abstract/136/8/2486/431857 by guest on 15 October 2019
+these differences did not remain significant when considering only
+cases with a similar period of onset of first symptoms (i.e. 51
+October 2009) (Table 5). No significant difference was found between exposed and non-exposed cases regarding gender, age at
+time of diagnosis, positive familial history of narcolepsy-cataplexy,
+and period of recruitment (before or after 1 July 2010). Severity of
+narcolepsy-cataplexy assessed clinically through Epworth scale or
+Paediatric Daytime Sleepiness Scale for excessive daytime sleepiness, frequency of cataplexy at baseline, presence of generalized
+cataplexy with fall, hypnagogic hallucination or sleep paralysis,
+Table 1 Comparison of socio-demographic and medical history of patients with narcolepsy-cataplexy and matched
+control subjects
+Cases n = 59 Controls n = 135 P*
+Male gender, n (%) 38 (64.4) 86 (63.7) –#
+Age at primary index date (i.e. date of
+referral for MSLT), in years
+Median (IQR) 15.1 (13.0–25.6) 19.4 (13.2–32.2) –
+518, n (%) 34 (57.6) 62 (45.9) –
+Period of recruitment, n (%)
+1 October 2009–30 June 2010 16 (27.1) 40 (29.6) –
+1st July 2010–30 April 2011 43 (72.9) 95 (70.4) –
+BMI (kg/m2
+), median (IQR) 23.1 (0.3–26.9) 21.3 (19.3–23.5) 50.0001
+Age at onset of puberty, median (IQR) 11 (11–12) 11.5 (10–12) 0.89
+Active smoker, n (%) 12 (20.3) 21 (15.6) 0.12
+Another active smoker at home, n (%) 17 (28.8) 41 (30.4) 0.64
+Diabetes, n (%) 0 (0) 1 (0.7) 0.60
+Asthma n (%) 7 (11.9) 14 (10.4) 0.94
+Migraine, n (%) 9 (15.3) 24 (17.8) 0.75
+Head trauma, n (%) 2 (3.4) 13 (9.6) 0.28
+Cancer, n (%) 0 (0) 1 (0.7) 0.62
+Immunodepression, n (%) 1 (1.7) 0 (0.0) NA
+Familial history of autoimmune disease, n (%) 7 (11.9) 17 (12.6) 0.4
+*P for paired statistical tests; #
+matching variables: P not provided (equal to 1 according to test for paired data).
+NA = non-assessable.
+BMI = body mass index.
+Figure 1 Selection of cases and control subjects for the case-control analysis included in the NarcoFlu-VF study.
+2490 | Brain 2013: 136; 2486–2496 Y. Dauvilliers et al.
+Downloaded from https://academic.oup.com/brain/article-abstract/136/8/2486/431857 by guest on 15 October 2019
+nocturnal agitation or body mass index did not differ between
+groups. Polysomnography recordings revealed similar total sleep
+time, REM sleep latency and percentage of patients with apnea/
+hypopnea index 415/h between groups. We reported a slightly
+higher number of sleep onset REM periods in exposed patients
+without any change for the mean sleep latency (Table 5). No
+between group differences were found for HLA DQB1*06:02 reported in 92% of vaccinated versus 85.2% in non-vaccinated
+cases. CSF hypocretin-1 levels were assessed more frequently in
+exposed (n = 19) compared to non-exposed (n = 5) cases; but all
+values were 5110 pg/ml.
+Discussion
+We report the first study showing an association between pandemic H1N1 vaccination and narcolepsy-cataplexy by an odds
+ratio up to 6-fold in children (518 years) and 5-fold in adults
+(518 years). Sensitivity analyses taking into account either date
+of referral for MSLT or date of onset of first symptoms did
+not change the results. Furthermore, we found almost no
+difference when comparing the characteristics of cases with narcolepsy-cataplexy exposed to H1N1 vaccination (mostly
+Pandemrix) with non-exposed cases, except for a shorter delay
+of diagnosis and higher number of sleep onset REM periods in
+exposed cases. No differences were found regarding the frequency
+of history of infections.
+After the 2009–2010 H1N1 flu pandemic and related vaccination campaigns, an increased risk of narcolepsy after vaccination
+was reported, particularly in Scandinavian children—especially in
+Finland and Sweden—characterized by a high coverage of
+Pandemrix vaccination (THL, 2010; MPA Sweden, 2011); the
+results from Finland, but also more recently those from western
+Sweden, England and Ireland, showed a particular increase of narcolepsy-cataplexy in children (National Narcolepsy Study Steering
+Committee, 2012; Nohynek et al., 2012; Partinen et al., 2012;
+Miller et al., 2013; Szaka´ cs et al., 2013). We previously reported
+the first cases with narcolepsy-cataplexy from France and Canada
+using the similar adjuvanted H1N1 vaccine (Dauvilliers et al.,
+2010). This study confirms the initial signs from France showing
+an association between narcolepsy-cataplexy and H1N1 vaccine,
+mostly represented by Pandemrix, and shows a similar increased
+risk in vaccinated children and adults; the increased risk for adults
+being previously unreported. Our findings also show that narcolepsy-cataplexy post-H1N1 exposure is almost similar to genuine
+narcolepsy-cataplexy.
+Monozygotic twin narcolepsy-cataplexy studies have suggested
+that environmental factors play a major role in narcolepsy-cataplexy pathophysiology (Dauvilliers et al., 2004). Recent data reported a large increase in onset of childhood cases with
+narcolepsy-cataplexy after the winter of 2009–2010 in China, together with a seasonality of disease onset (Han et al., 2011).
+These findings suggested a role of the influenza pandemic
+H1N1-infection independently of any vaccination, with data showing a decreased incidence the following year (Han et al., 2012).
+Table 2 Comparison of infectious episodes and vaccination history between patients with narcolepsy-cataplexy and
+matched control subjects
+Cases n = 59 Controls n = 135 P*
+Infections
+Infectious episodes, between 1 January 2005 and index date, n (%) 47 (79.7) 112 (83.0) 0.18
+Confirmed Epstein-Barr Virus infection between 1 January 2005 and index date, n (%) 2 (4.3) 2 (1.8) 0.37
+Confirmed streptococcal infection between 1 January 2005 and index date, n (%) 0 4 (3.6) 0.45
+Upper respiratory tract infectious episode between 1 January 2005 and index date, n (%) 39 (83.0) 99 (88.4) 0.20
+Gastrointestinal tract infectious episode between 1 January 2005 and index date, n (%) 12 (25.5) 50 (44.6) 0.07
+Flu-like episode during the last two flu seasons preceding index date, n (%) 13 (22.0) 24 (17.8) 0.20
+Vaccinations
+At least one seasonal influenza vaccination between 1 January 2005 and index date, n (%) 5 (8.5) 23 (17.0) 0.12
+H1N1 influenza vaccination, n (%) 31 (52.5) 24 (17.8) 5104
+Pandemrix 27 17
+Panenza 4 1
+Undocumented 0 6
+Non-flu vaccinations during the past 2 years, n (%) 15 (25.4) 45 (33.3) 0.37
+Non-flu vaccinations between 1 January 2005 and index date, n (%)
+Diphteria 38 (84.4) 80 (80.8) 0.68
+Tetanus 40 (88.9) 83 (83.8) 0.50
+Poliovirus 38 (84.4) 80 (80.8) 0.68
+Haemophilus influenza type B 7 (15.6) 9 (9.1) 0.39
+Pertussis 19 (42.2) 41 (41.4) 0.76
+Hepatitis B 6 (13.3) 25 (25.3) 0.79
+Human papilloma virus 3 (5.1) 7 (5.2) 0.42
+*P for paired for paired statistical tests.
+H1N1 vaccination and narcolepsy Brain 2013: 136; 2486–2496 | 2491
+Downloaded from https://academic.oup.com/brain/article-abstract/136/8/2486/431857 by guest on 15 October 2019
+Associations between streptococcus infections and recent onset
+cases of narcolepsy-cataplexy were also reported with large frequency of high levels of serum antibodies against streptolysin O
+(65%) within 1 year of onset compared with age-matched controls (26%) (Aran et al., 2009). We did not find such associations
+with flu infection symptoms, streptococcal, upper respiratory or
+gastrointestinal tract infections, but also not with non-H1N1 flu
+vaccines in our study.
+This study has several strengths. First, each case was validated
+independently by two experts blind to the vaccination status and
+who had not been involved in the case recruitment. This validation
+used the Brighton classification criteria (Poli et al., 2012), thus
+misclassification of cases is unlikely to have occurred. Second, to
+allow for consideration of cases who, after the exposure period,
+would have had a longer time to develop symptoms and be diagnosed with narcolepsy-cataplexy, we decided to consider a longer
+period of recruitment after the vaccination campaign than that
+retained in the VAESCO protocol (ECDC, 2012). Indeed, the
+delay between onset of first symptoms and diagnosis can be
+very long in narcolepsy, usually 8–10 years (Morrish et al.,
+2004; Dauvilliers et al., 2007). However, it is possible that only
+the abrupt onset and the most severely exposed cases were
+identified, as indicated by the larger proportion of subjects 518
+years of age in the vaccinated cases (65.6% versus 46.7%). In
+contrast, we could not detect major differences in disease severity
+between exposed and non-exposed cases with either clinical or
+polysomnography evaluations but we did detect a higher
+number of sleep onset REM periods in exposed cases, as reported
+in early-onset cases with narcolepsy-cataplexy in China (Han
+et al., 2012). To prevent the impact of professional/media attention on the rate of narcolepsy-cataplexy recognition, we analysed
+the results taking into account the recruitment period of date of
+diagnosis, date of referral for MSLT and date of onset of symptoms before and after 1 July 2010. Results did not vary significantly between analyses, but were not significant for the period
+before July 2010 when considering diagnosis date as the index
+date. Although this could indicate a potential media effect, it
+may also reflect the fact that time to diagnosis is, by essence,
+longer than time to first symptoms or to MSLT referral, for
+which the association remained significant for the same period.
+Another strength of this study was the recruitment of patients
+from expert narcolepsy sleep centres specifically created by the
+national government plan for orphan diseases, to which patients
+suspected of having narcolepsy are usually referred. In those centres, all eligible patients were identified from medical files and
+hospital statistic databases, and contacted to participate; thus limiting the possibility of a selection bias. After the initial diagnosis
+was made using ISCD criteria (2005), all cases were validated by
+an expert committee using the Brighton collaboration criteria (Poli
+et al., 2012). As narcolepsy-cataplexy and narcolepsy without
+cataplexy are two individualized diseases with different pathophysiology in 80% of cases (normal CSF hypocretin-1 levels
+and no association with HLA DQB1*06:02 in the latter condition)
+(ICSD, 2005; Andlauer et al., 2012), we decided to focus in this
+analysis on patients with typical cataplexy to constitute a more
+specific and homogeneous group. However, during the same recruitment period 22 patients with narcolepsy without cataplexy
+were diagnosed in France and included in the French participation
+of the VAESCO analysis, three of whom had been vaccinated
+against H1N1 (all with Pandemrix) before the first onset of
+symptoms.
+The study has several limitations. First, we had a limited number
+of cases even with regards the rarity of narcolepsy-cataplexy. This
+resulted in limiting the power for analyses adjustments and prohibited evaluating the effect of adjuvanted versus non-adjuvanted
+vaccines. We were unable to compare the population of exposed
+and non-exposed cases according to the different age groups.
+Considering only exposure to AS03-adjuvanted vaccine, we
+found a strong association with narcolepsy-cataplexy in both children and adults. Despite the fact that the apparent relative excess
+of vaccination with Panenza in cases compared with control subjects could indicate that the increased risk of narcolepsy-cataplexy
+also associated with this vaccine, we were unable to investigate
+this point. To date, no evidence supports this hypothesis; however
+the possibility that other H1N1 vaccines, adjuvanted or not, could
+be associated with an increased risk of narcolepsy-cataplexy
+cannot be ruled out. Second, our population was affected by a
+selection bias, with an over-representation of healthcare professionals characterized by a higher H1N1 vaccination rate. Even if
+Table 3 Estimation of the association between H1N1
+vaccination and the risk of narcolepsy-cataplexy
+Analysis setting Odds ratio
+(95% CI)
+Main analysis (index date: date of diagnosis)
+Whole population 5.5 (2.5–12.0)
+Cases aged 518 years and
+their controls
+6.5 (2.1–19.9)
+Cases aged 518 years and
+their controls
+4.7 (1.6–13.9)
+Index date before July 2010 2.8 (0.8–10.5)
+Index date from July 2010
+onwards
+7.6 (2.8–20.8)
+Sensitivity analysis (index date: date of referral for MSLT)
+Whole population 6.1 (2.4–15.0)*
+Cases aged 518 years and
+their controls
+6.1 (2.0–18.9)
+Cases aged 518 years and
+their controls
+6.1 (1.3–27.9)*
+Index date before July 2010 9.6 (1.6–59.0)
+Index date from July 2010
+onwards
+4.9 (1.7–14.4)*
+Sensitivity analysis (index date: date of onset of first symptoms)
+Whole population 24.6 (5.6–108.6)*
+Cases aged 518 years and
+their controls
+27.3 (3.6–209.1)
+Cases aged 518 years and
+their controls
+16.8 (1.9–149.10)*
+Index date before July 2010 40.5 (5.2–317.7)
+Index date from July 2010
+onwards
+9.9 (1.2–85.1)
+*Adjusted for smoking.
+Results of the main analysis considering date of diagnosis as the index date, and of
+the sensitivity analyses performed regarding date of referral for MSLT or date of
+first symptoms onset.
+2492 | Brain 2013: 136; 2486–2496 Y. Dauvilliers et al.
+Downloaded from https://academic.oup.com/brain/article-abstract/136/8/2486/431857 by guest on 15 October 2019
+this is unlikely to have modified the estimates in children, this
+could have lowered the estimation of the association in adults.
+Third, the reliability of the information on vaccination obtained
+from patients’ interview can be questioned, and was incomplete
+in some cases. The previously detailed procedure of exception retained for the French H1N1 vaccination campaign showed that
+subjects’ knowledge on this specific vaccination is reliable, at
+least for the fact of being vaccinated and the period of vaccination. However, this cannot be fully certified and the occurrence
+of misclassification for exposure cannot be eliminated. The consistency of the results obtained in including cases with date of
+onset before vaccination, considering them as non-exposed, or
+restricting the study to exposure to Pandemrix suggests that, if
+such misclassification occurred, they are unlikely to have been responsible for the associations found. Other potential recall biases
+may exist within this study, including the reliance on patient history for critical narcolepsy onset dates, and the non-responders
+bias as 28% of eligible patient refused to take part of the study.
+Table 4 Estimation of the association between H1N1 vaccination and the risk of narcolepsy-cataplexy
+Analysis including cases vaccinated after the date of onset of first symptoms (non-exposed) Odds ratio (95% CI)
+Index date: date of diagnosis (65 cases, 148 controls)
+Whole population 5.2 (2.3–11.6)**
+Cases aged 518 years and their controls 6.4 (1.9–21.3)**
+Cases aged 518 years and their controls 4.1 (1.4–12.2)**
+Index date before July 2010 5.8 (1.1 –29.9)*
+Index date from July 2010 onwards 5.2 (2.1–12.9)**
+Index date: date of referral for MSLT (64 cases, 142 controls)
+Whole population 3.7 (1.7–8.0)*
+Cases aged 518 years and their controls 3.6 (1.4–8.9)
+Cases aged 518 years and their controls 4.1 (1.1–15.7)*
+Index date before July 2010 4.8 (1.2–19.3)
+Index date from July 2010 onwards 2.9 (1.2–7.4)*
+Index date: date of onset of first symptoms (45 cases, 105 controls)#
+Whole population 24.6 (5.6–108.6)*
+Cases aged 518 years and their controls 29.2 (3.8–223.4)
+Cases aged 518 years and their controls 16.8 (1.9–149.1)*
+Index date before July 2010 40.5 (5.2–317.7)*
+Index date from July 2010 onwards 9.9 (1.2–85.1)*
+Analysis considering only exposure to AS03-adjuvanted vaccines (all exposed to other H1N1 vaccine
+and matched controls excluded)
+Odds ratio (95% CI)
+Index date: date of diagnosis (55 cases, 117 controls)
+Whole population 4.4 (2.0–9.7)**
+Cases aged 518 years and their controls 4.1 (1.4–12.2)**
+Cases aged 518 years and their controls 4.6 (1.5–14.1)
+Index date before July 2010 3.3 (0.9–12.2)
+Index date from July 2010 onwards 4.9 (1.9–12.9)**
+Index date: date of referral for MSLT (51 cases, 106 controls)
+Whole population 4.0 (1.7–9.1)*
+Cases aged 518 years and their controls 3.3 (1.2–8.8)*
+Cases aged 518 years and their controls 6.6 (1.7–26.1)*
+Index date before July 2010 5.6 (1.4–22.2)*
+Index date from July 2010 onwards 2.9 (1.0–8.4)*
+Index date: date of onset of first symptoms (41 cases, 89 controls)
+Whole population 20.6 (4.7–90.3)*
+Cases aged 518 years and their controls 21.5 (2.8–166.6)
+Cases aged 518 years and their controls 17.7 (2.1–149.5)*
+Index date before July 2010 36.1 (4.8–273.1)
+Index date from July 2010 onwards 6.1 (0.7–56.8)
+Results of the additional analyses (i) including and considering as non-exposed cases with date of onset of first symptoms prior to date of H1N1 vaccination; (ii) including
+and considering only in the exposed cases and controls those vaccinated with AS03-adjuvanted vaccine.
+*Adjusted for smoking.
+**Adjusted for smoking and family history of excessive daytime sleepiness.
+#
+The results from this analysis are similar to that of the corresponding one performed in the sensitivity analysis as the index date considered is the date of onset of first
+symptoms. Thus, in the sensitivity analysis, cases vaccinated after first onset of symptoms were already considered as non-exposed.
+H1N1 vaccination and narcolepsy Brain 2013: 136; 2486–2496 | 2493
+Downloaded from https://academic.oup.com/brain/article-abstract/136/8/2486/431857 by guest on 15 October 2019
+Although we developed specific procedures to lower the importance of these potential biases (e.g. no emphasis on H1N1 vaccination in information documents), as for all observational studies,
+the possibility that some biases participated in the reported association cannot be fully ruled out. However, even if it does not
+eliminate the possibility of such bias, the results are consistent
+with previously published studies and the consistency of the performed sensitivity analyses is reassuring.
+Our results indicate that H1N1 vaccination, mostly represented by
+Pandemrix in our study, could have contributed to narcolepsycataplexy in both children and adults. The mechanisms underlying
+such an association remain unclear but may involve either a specific
+immune response to H1N1 with potential molecular mimicry or a
+large non-specific stimulation of the immune system through the
+adjuvanted ASO3 vaccine with increasing brain inflammation/
+blood–brain permeability, allowing the autoimmune process to
+reach hypocretin neurons resulting in narcolepsy-cataplexy
+(Dauvilliers et al., 2010; Kornum et al., 2011b). We may also speculate that patients with narcolepsy-cataplexy after exposure to H1N1
+vaccine would have developed the disease later on, as suggested by
+a decreased narcolepsy incidence in 2011–2012 in Finland (unpublished data). H1N1 vaccination could have precipitated an ongoing
+disease process through the activation of pre-existing autoreactive T
+cell clones rather than causing narcolepsy-cataplexy. Taken together, the majority of the results from the H1N1 vaccine story
+reinforce the underlying autoimmune hypothesis of narcolepsy-cataplexy. A biobank was constituted for the present study and further
+analyses will be performed to elucidate the biological mechanism
+underlying this association.
+In conclusion, in this case-control study, we found a strong association between H1N1 vaccination, mostly represented by
+Pandemrix, and narcolepsy-cataplexy in both children and
+Table 5 Clinical, polysomnographical and biological characteristics of cases with narcolepsy-cataplexy according to H1N1
+vaccination
+Exposed cases n = 32 Non-exposed cases n = 30 P
+Clinical assessment
+Male gender, n (%) 22 (68.8) 19 (63.3) 0.65
+Age at date of diagnosis, years, median (IQR)* 14.8 (13.3–24.4) 18.3 (12.6–32.4) 0.60
+Age at date of diagnosis, n (%)
+518 21 (65.6) 14 (46.7) 0.31
+18–25 3 (9.4) 7 (23.3)
+26–40 6 (18.8) 5 (16.7)
+540 2 (6.3) 4 (13.3)
+Period of date index recruitment
+October 2009 to June 2010 6 (18.8) 11 (36.7) 0.11
+July 2010 to April 2011 26 (81.3) 19 (63.3)
+Delay between excessive daytime sleepiness and cataplexy onset, in
+months (median, IQR)
+0.0 (0.0–0.6) 1.0 (0.0–11.8) 0.03
+Delay of diagnosis, in months (median, IQR) 6.9 (3.5–9.4) 12.6 (4.8–18.5) 0.006
+Family history of narcolepsy-cataplexy, n (%) 1 (3.1) 2 (6.7) 0.61
+Pathological score on sleep scale, n (%)* 23 (82.1) 20 (71.4) 0.67
+Generalized cataplexy, n (%) 23 (71.9) 22 (73.3) 0.9
+Daily number of cataplexy attacks, median (IQR)* 1 (1–3) 1 (1–2) 0.12
+Hypnagogic hallucinations, n (%) 18 (56.3) 16 (53.3) 0.71
+Sleep paralysis, n (%) 12 (37.5) 9 (30.0) 0.47
+Nocturnal sleep disturbances, n (%) 13 (40.6) 16 (53.3) 0.32
+BMI 425, n (%) 11 (34.4) 12 (40.0) 0.43
+Weight gain at disease onset, n (%) 18 (56.3) 15 (50.0) 0.72
+Polysomnographic assessment
+Total sleep time, min, median, (IQR) 487 (452–513) 473 (447–510) 0.65
+Night REM sleep latency, min, median (IQR) 11 (2–122) 55 (4–100) 0.79
+Apnoea-hypopnoea index 415, n (%) 1 (3.1) 2 (6.7) 0.61
+MSLT
+Sleep onset REM period, n (IQR) 4 (3–5) 3 (3–4) 0.04
+Mean sleep latency, min, median (IQR) 3.4 (2.5;5.0) 3.6 (2.5;5.6) 0.67
+CSF hypocretin-1 measurements, n (%) 19 (59.4) 5 (16.7) 0.0004
+HLA DQB1 06:02, n (%) 23 (92.0) 23 (85.2) 1.00
+*Sleep scale: Epworth for adults (pathological score4 10), Paediatric Daytime Sleepiness Scale (430) for children.
+BMI = body mass index; IQR = interquartile range.
+2494 | Brain 2013: 136; 2486–2496 Y. Dauvilliers et al.
+Downloaded from https://academic.oup.com/brain/article-abstract/136/8/2486/431857 by guest on 15 October 2019
+adults. This association appeared robust to sensitivity analyses, and
+a specific analysis focusing on ASO3-adjuvanted vaccine found a
+similar increase. However, as in all observational studies, the possibility that some biases participated in this association cannot be
+completely ruled out.
+Acknowledgements
+The authors would like to thank Prs P. Philip and D. Le´ger, and
+Drs M.A. Quera-Salva, M. Tiberge, C. Petiau, S. Esnault, B. Lucas,
+N. Meslier, V. Cochen, C. Inocente and S. Leu-Semenescu for their
+contributions in including some patients and controls in this study.
+They also wish to thank Sophie Micon and Adeline Grolleau for
+their help in the study management, and Basma Ambrosino,
+Abdelilah Abouelfah, and Regis Lassalle, for their help in the statistical analysis conduct.
+Funding
+This was not an industry-supported study. This study was funded
+by grants from the Agence Nationale de Se´curite´ du Me´dicaments
+et des Produits de Sante´ (ANSM), from the European Centre for
+Disease Control (ECDC), and from the PHRC AOM07-138 from
+the French Health Ministry. The funders had no role in study
+design, data collection and analysis, decision to publish, or preparation of the manuscript Y. Dauvilliers has received funds for
+speaking and board engagements with UCB, Cephalon, Jazz,
+Novartis, and Bioprojet. P. Franco has received funds for speaking
+and board engagements with UCB pharma. MP d Ortho has
+received funds for speaking from Cephalon and board engagements with Bioprojet. C. Monaca Charley has received funds for
+speaking and/or board engagements with UCB, Novartis and
+Cephalon, M. Lecendreux has received funds for speaking and
+board engagements with UCB and Bioprojet.
+References
+Andlauer O, Moore H IV, Hong SC, Dauvilliers Y, Kanbayashi T,
+Nishino S, et al. Predictors of hypocretin (orexin) deficiency in narcolepsy without cataplexy. Sleep 2012; 35: 1247–55.
+Aran A, Lin L, Nevsimalova S, Plazzi G, Hong SC, Weiner K, et al.
+Elevated antistreptococcal antibodies in patients with recent narcolepsy
+onset. Sleep 2009; 32: 979–83.
+Carlander B, Puech-Cathala AM, Jaussent I, Scholz S, Bayard S,
+Cochen V, et al. Low vitamin D in narcolepsy with cataplexy. PLoS
+One 2011; 6: e20433.
+Choe YJ, Bae GR, Lee DH. No association was found between influenza
+A(H1N1)pdm09 vaccination and narcolepsy in South Korea: ecological
+study. Vaccine 2012; 30: 7439–42.
+Cvetkovic-Lopes V, Bayer L, Dorsaz S, Maret S, Pradervand S,
+Dauvilliers Y, et al. Elevated tribbles homolog 2-specific antibody
+levels in narcolepsy patients. J Clin Invest 2010; 120: 713–19.
+Dauvilliers Y, Montplaisir J, Molinari N, Carlander B, Ondze B, Besset A,
+et al. Age at onset of narcolepsy in two large populations of patients in
+France and Quebec. Neurology 2001; 57: 2029–33.
+Dauvilliers Y, Maret S, Bassetti C, Carlander B, Billiard M, Touchon J,
+et al. A monozygotic twin pair discordant for narcolepsy and CSF
+hypocretin-1. Neurology 2004; 62: 2137–8.
+Dauvilliers Y, Arnulf I, Mignot E. Narcolepsy with cataplexy. Lancet
+2007; 369: 499–511.
+Dauvilliers Y, Abril B, Mas E, Michel F, Tafti M. Normalization of hypocretin-1 in narcolepsy after intravenous immunoglobulin treatment.
+Neurology 2009; 73: 1333–4.
+Dauvilliers Y, Montplaisir J, Cochen V, Desautels A, Einen M, Lin L, et al.
+Post-H1N1 narcolepsy-cataplexy. Sleep 2010; 33: 1428–30.
+Drake C, Nickel C, Burduvali E, Roth T, Jefferson C, Pietro B. The pediatric daytime sleepiness scale (PDSS): sleep habits and school outcomes in middle-school children. Sleep 2003; 26: 455–8.
+European Centre for Disease Prevention and Control (ECDC)Narcolepsy
+in association with pandemic influenza vaccination—a multi-country
+European epidemiological investigation. Vaccine Adverse Event
+Surveillance & Communication (VAESCO) network report.
+Stockholm, 2012. Available from: http://www.ecdc.europa.eu/en/
+publications/Publications/Forms/ECDC_DispForm.aspx?ID=959
+(September 2012, date last accessed).
+Hallmayer J, Faraco J, Lin L, Hesselson S, Winkelmann J, Kawashima M,
+et al. Narcolepsy is strongly associated with the T-cell receptor alpha
+locus. Nat Genet 2009; 41: 708–11.
+Han F, Lin L, Warby SC, Faraco J, Li J, Dong SX, et al. Narcolepsy onset
+is seasonal and increased following the 2009 H1N1 pandemic in china.
+Ann Neurol 2011; 70: 410–17.
+Han F, Lin L, Li J, Dong X, Mignot E. Decreased incidence of childhood
+narcolepsy two years after the 2009 pH1N1. Ann Neurol 2012.
+in press.
+Hor H, Kutalik Z, Dauvilliers Y, Valsesia A, Lammers GJ, Donjacour CE,
+et al. Genome-wide association study identifies new HLA class II
+haplotypes strongly protective against narcolepsy. Nat Genet 2010;
+42: 786–9.
+Johns MW. A new method for measuring daytime sleepiness: the
+Epworth sleepiness scale. Sleep 1991; 14: 540–5.
+Kornum BR, Kawashima M, Faraco J, Lin L, Rico TJ, Hesselson S, et al.
+Common variants in P2RY11 are associated with narcolepsy. Nat
+Genet 2011a; 43: 66–71.
+Kornum BR, Faraco J, Mignot E. Narcolepsy with hypocretin/orexin deficiency, infections and autoimmunity of the brain. Curr Opin
+Neurobiol 2011b; 21: 897–903.
+Mignot E, Lin L, Rogers W, Honda Y, Qiu X, Lin X, et al. Complex HLADR and -DQ interactions confer risk of narcolepsy-cataplexy in three
+ethnic groups. Am J Hum Genet 2001; 68: 686–99.
+Miller E, Andrews N, Stellitano L, Stowe J, Winstone AM, Shneerson J,
+et al. Risk of narcolepsy in children and young people receiving AS03
+adjuvanted pandemic A/H1N1 2009 influenza vaccine: retrospective
+analysis. BMJ 2013; 346: f794.
+Morrish E, King MA, Smith IE, Shneerson JM. Factors associated with a
+delay in the diagnosis of narcolepsy. Sleep Med 2004; 5: 37–41.
+MPA SwedenOccurrence of narcolepsy with cataplexy among children
+and adolescents in relation to the H1N1 pandemic and Pandemrix
+vaccinations—results of a case inventory study by the MPA in
+Sweden during 2009-2010. (June 30, 2011).
+National Narcolepsy Study Steering CommitteeInvestigation of
+an Increase in the Incidence of Narcolepsy in Children and
+Adolescents in 2009 and 2010. 2012. Available from: http://
+healthupdate.gov.ie/wp-content/uploads/2012/04/Final_Report_of_
+National_Narcolepsy_Study_Steering_Committee-latest1.pdf.
+Nohynek H, Jokinen J, Partinen M, Vaarala O, Kirjavainen T, Sundman J,
+et al. AS03 adjuvanted AH1N1 vaccine associated with an abrupt increase in the incidence of childhood narcolepsy in Finland. PLoS One
+2012; 7: e33536.
+Partinen M, Saarenpa¨ a¨-Heikkila¨ O, Ilveskoski I, Hublin C, Linna M,
+Olse´n P, et al. Increased incidence and clinical picture of childhood
+narcolepsy following the 2009 H1N1 pandemic vaccination campaign
+in Finland. PLoS One 2012; 7: e33723.
+Poli F, Overeem S, Lammers GJ, Plazzi G, Lecendreux M, Bassetti CL,
+et al. Narcolepsy as a possible adverse event following immunization: case definition and guidelines for data collection, analysis and
+presentation. Vaccine 2012; 31: 994–1007.
+H1N1 vaccination and narcolepsy Brain 2013: 136; 2486–2496 | 2495
+Downloaded from https://academic.oup.com/brain/article-abstract/136/8/2486/431857 by guest on 15 October 2019
+Szaka´ cs A, Darin N, Hallbo¨ o¨ k T. Increased childhood incidence of narcolepsy in western Sweden after H1N1 influenza vaccination. Neurology
+2013; 80: 1315–21.
+The National Institute for Health and Welfare recommends discontinuation of Pandemrix vaccinations (THL). Finnish National Institute for
+Health and Welfare website. 2010. Available from: http://www.
+thlfi/en_US/web/en/pressrelease?id=22930 (23 February 2012, date
+last accessed).
+The International Classification of Sleep Disorders (ICSD). 2nd edn.
+Westchester, IL: American Academy of Sleep Medicine; 2005.
+2496 | Brain 2013: 136; 2486–2496 Y. Dauvilliers et al.
+Downloaded from https://academic.oup.com/brain/article-abstract/136/8/2486/431857 by guest on 15 October 2019

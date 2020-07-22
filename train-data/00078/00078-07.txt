@@ -1,0 +1,955 @@
+3184 Chin Med J 2010;123(22):3184-3192
+Original article
+Duloxetine versus placebo in the treatment of patients with
+diabetic neuropathic pain in China
+GAO Yan, NING Guang, JIA Wei-ping, ZHOU Zhi-guang, XU Zhang-rong, LIU Zhi-min, LIU Chao,
+MA Jian-hua, LI Qiang, CHENG Lu-lu, WEN Chong-yuan, ZHANG Shu-yu, ZHANG Qi,
+Durisala Desaiah and Vladimir Skljarevski
+Keywords: clinical trial; duloxetine; diabetic peripheral neuropathic pain; Chinese patients
+Background Duloxetine, a selective serotonin and noradrenaline reuptake inhibitor, has been shown to be effective in
+treatment of diabetic peripheral neuropathic pain and approved for the management of patients with diabetic peripheral
+neuropathic pain (DPNP) in the United States, European Union, and many other countries. This study assessed the
+efficacy and safety of duloxetine in Chinese patients with diabetic peripheral neuropathic pain.
+Methods This double-blind, randomized, placebo-controlled, flexible-dose study treated adult patients with diabetic
+peripheral neuropathic pain and baseline Brief Pain Inventory (BPI) 24-hour average pain severity ratings ≥4 with
+duloxetine 60 mg to 120 mg once daily or placebo for 12 weeks. Dose adjustments of duloxetine or matching placebo
+were based upon investigator’s judgment of clinical response. Change from baseline to endpoint in BPI average pain was
+the primary efficacy outcome. Secondary outcome measures included BPI-severity and -Interference, Patient Global
+Impression of Improvement, Clinical Global Impressions of Severity, EuroQol: 5 Dimensions, Athens Insomnia Scale, and
+safety measures.
+Results Of 215 patients randomized, 88.4% and 82.1% of patients in placebo and duloxetine groups, respectively,
+completed the study. Mean change from baseline to
+endpoint in BPI average pain was not statistically different
+between the treatment groups (P=0.124). Duloxetinetreated patients showed significantly greater pain
+reduction compared with those in placebo group at weeks
+1, 2, and 4 (P=0.004, P=0.009, and P=0.006, respectively),
+but not at weeks 8 (P=0.125) and 12 (P=0.107).
+Duloxetine-treated patients experienced statistically
+significant improvement in Patient Global Impression of
+Improvement, Clinical Global Impression of Severity, area
+under the curve for pain relief, BPI-severity pain right now,
+and BPI-interference walking ability. Patients treated with
+duloxetine 120 mg once daily showed significantly greater
+pain reduction on the Brief Pain Inventory average pain
+score relative to placebo. Duloxetine-treated patients
+reported nausea, somnolence, anorexia, and dysuria
+significantly more than placebo.
+DOI: 10.3760/cma.j.issn.0366-6999.2010.22.003
+Department of Endocrinology, Peking University First Hospital,
+Beijing 100034, China (Gao Y)
+Department of Endocrinology, Shanghai Ruijin Hospital, Shanghai
+Jiao Tong University School of Medicine, Shanghai 200025, China
+(Ning G)
+Department of Endocrinology, Shanghai Sixth People’s Hospital,
+Shanghai Jiao Tong University School of Medicine, Shanghai
+200233, China (Jia WP)
+Department of Endocrinology, Xiangya Second Hospital, Central
+South University, Changsha, Hunan 410011, China (Zhou ZG)
+Department of Endocrinology, 306 Hospital of People’s Liberation
+Army, Beijing 100101, China (Xu ZR)
+Department of Endocrinology, Chang Zheng Hospital, Second
+Military Medical University, Shanghai 200003, China (Liu ZM)
+Department of Endocrinology, First Affiliated Hospital of Nanjing
+Medical University, Nanjing, Jiangsu 210029, China (Liu C)
+Department of Endocrinology, Nanjing First Hospital, Nanjing
+Medical University, Nanjing, Jiangsu 210006, China (Ma JH)
+Department of Endocrinology, Second Affiliated Hospital of
+Harbin Medical University, Harbin, Heilongjiang 150086, China
+(Li Q)
+Department of Endocrinology, Union Hospital, Huazhong
+University of Science and Technology, Wuhan, Hubei 430022,
+China (Cheng LL)
+Department of Endocrinology, Renmin Hospital of Wuhan
+University, Wuhan, Hubei 430060 , China (Wen CY and Zhang SY)
+Lilly Research Laboratories, Eli Lilly and Company, Indianapolis,
+IN, USA 46285 (Zhang Q, Desaiah D and Skljarevski V)
+Correspondence to: Dr. Vladimir Skljarevski, Lilly Corporate
+Center, Eli Lilly and Company, Indianapolis, IN, USA 46285 (Tel:
+317 651 2173. Fax: 317 276 6026. Email: vladimir@lilly.com)
+Declaration of interest: Drs. Vladimir Skljarevski, Durisala
+Desaiah, ZHANG Shu-yu, and ZHANG Qi are employees and
+stockholders of Eli Lilly and Company. All other authors from
+China were the investigators and received funding from Eli Lilly
+and Company for conducting this study.
+Clinical Trial Registry Identifier: NCT00408993; www.clinicaltrials.
+gov.
+Conclusions Although the primary study endpoint was not
+achieved, the overall observed response pattern suggests
+the efficacy of duloxetine in the treatment of Chinese patients
+with diabetic peripheral neuropathic pain. The safety profile
+for duloxetine is similar to that reported in other global trials.
+Chin Med J 2010;123(22):3184-3192
+T
+
+he World Health Organization (WHO) estimates that
+180 million people have diabetes mellitus worldwide
+and 50% of these people develop diabetic peripheral
+neuropathy (DPN) (WHO 2008)1
+ and 10%–20% of them
+develop diabetic peripheral neuropathic pain (DPNP).2-4 In
+China, 2.4% of the population in the age group of 24–64
+years in 1995 had diabetes mellitus and the prevalence rates
+are rising (WHO 2008). DPNP is a major cause of decreased
+quality of life in patients with diabetes. 
+Chinese Medical Journal 2010;123(22):3184-3192 3185
+Figure 1. Study design showing all 3
+study periods. Patients were
+randomly assigned to take the study
+drug either in the morning or
+evening. ED: early discontinuation;
+QD: once daily; W: week.
+DPNP is a chronic, slowly-progressing complication of
+diabetes mellitus typically occurring after prolonged
+periods of suboptimal glycemic control.5,6 It is typically
+associated with impaired function of peripheral sensory
+nerves, although motor nerves can also be affected. The
+pain is often described as an “aching, burning, stabbing,
+or tingling” sensation, and it often affects sleep and
+mood.7,8 The pathophysiology of DPNP, although not
+fully understood, has been extensively reviewed.9
+In chronic pain states, the endogenous pain inhibitory
+mechanisms, both in the brain and the spinal cord, were
+shown to be dysfunctional.10,11 Impairment in these
+inhibitory mechanisms may be a part of the central
+sensitization of the pain-transmitting pathways
+contributing to the manifestation of chronic pain.12 These
+pain inhibitory mechanisms are modulated by serotonin
+and noradrenaline.10 Tricyclic antidepressants (TCAs) are
+widely used to treat chronic pain because these
+compounds are known to modulate, among others,
+serotonin and noradrenaline systems.13,14 The TCAs seem
+to benefit patients with painful diabetic neuropathy13 and
+other chronic pain conditions.14,15 However, TCAs as a
+class are burdened by many side effects likely related to
+their considerable affinity for a number of different
+neuronal receptors.16 Duloxetine, a selective serotonin
+and noradrenaline reuptake inhibitor, has been shown to
+be effective in treatment of DPNP17-19 and approved for
+management of patients with DPNP in the United States,
+European Union, and many other countries. Its safety and
+tolerability profile also appears to be more favorable than
+that of TCAs.20,21
+This study was designed to investigate the efficacy and
+safety of duloxetine 60 mg to 120 mg once daily
+compared with placebo since the clinical data on the
+efficacy and safety of duloxetine in Chinese patients with
+DPNP were not available.
+METHODS
+Study design
+This was a phase 3, multicenter, parallel, double-blind,
+randomized, placebo-controlled study with 3 study
+periods (Figure 1). Study Period I was approximately 3 to
+30 days, during which patients were screened for study
+eligibility. Study Period II comprised approximately 12
+weeks of double-blind, placebo-controlled treatment.
+Patients who met entry criteria were enrolled, stratified
+based on presence or absence of major depressive
+disorder (MDD), and randomly assigned 1:1 to either
+flexible dose duloxetine or placebo. Patients within the
+treatment groups were then randomly assigned 1:1 to take
+medication either in the morning or evening. All patients
+randomized to duloxetine were initially treated with 30
+mg once daily for 1 week and increased the dosage to 60
+mg once daily. The dosage was increased to 120 mg once
+daily any time after 2 weeks in those patients who did not
+respond to the duloxetine 60 mg treatment based on the
+investigator’s judgment of clinical response. The dosage
+was returned to 60 mg once daily in patients who did not
+tolerate the increased dosage. Study period III was a
+2-week, double-blind tapering period. Patients who
+completed the treatment period entered the drug-tapering
+period during which patients treated with 120 mg once
+daily duloxetine received 60 mg once daily for 1 week
+and 30 mg once daily for 1 week and those treated with
+60 mg once daily received 30 mg once daily for 2 weeks.
+This tapering period was conducted to reduce the
+frequency of discontinuation-emergent adverse events.
+This study was conducted in accordance with the ethical
+principles of the Declaration of Helsinki and its
+guidelines. The Ethical Review Boards at each
+investigative site provided written approval of the study
+protocol and the informed consent document. No
+protocol-related procedures were performed before
+patients signed the informed consent document.
+Patients
+Male or female outpatients ≥18 years of age who
+presented with pain due to diabetic peripheral neuropathy
+and had a rating of ≥4 on the Brief Pain Inventory (BPI)
+24-hour average pain item (hereafter referred to as BPI
+average pain) were included in this study.22 Patients had
+to have daily pain for ≥6 months before entry into the 
+3186 Chin Med J 2010;123(22):3184-3192
+study and the pain must have begun in the feet with
+relatively symmetrical onset. The disease diagnosis was
+confirmed by a score of ≥3 on the clinical portion of the
+Michigan Neuropathy Screening Instrument.23
+Patients with unstable glycemic control (ie. glycosylated
+hemoglobin >12%), and/or any medical or other
+condition that could compromise participation were
+excluded. Patients were also excluded from the study if
+they had mania, bipolar disorder, psychosis, or were at
+risk for suicide as judged by the investigator or had a
+rating of ≥2 on question 9 of the Beck Depression
+Inventory-II.24 Patients taking any monoamine oxidase
+inhibitors within 14 days before visit 2 were also
+excluded. Patients who had a history of hepatic
+dysfunction or other serious medical conditions were also
+excluded.
+Treatment
+Study medication was provided in capsules containing
+either 30 mg or 60 mg of duloxetine hydrochloride as
+enteric-coated pellets or matching placebo. Throughout
+the study, patients took 1 or 2 capsules in the morning or
+in the evening; however, the full daily dose of duloxetine
+was contained in either the morning or evening study
+drug dose. That is, for patients assigned to the duloxetine
+treatment group, only one of the daily doses, either the
+morning or the evening one, contained the active drug.
+Efficacy measures
+The primary efficacy outcome measure was the BPI
+average pain item, which is a patient self-reported rating
+of the pain severity over the previous 24 hours. Ratings
+range from 0 (no pain) to 10 (pain as bad as you can
+imagine).
+The secondary efficacy outcome measures assessed in
+this study were: BPI-severity (BPI-S) and
+BPI-interference (BPI-I),22 which are patient’s assessment
+of pain severity and its interference with function; the
+area under the curve (AUC) for the BPI average pain
+relief; BPI average pain 30% and 50% response rates
+defined as at least a 30% or a 50% pain reduction,
+respectively, from baseline to endpoint (defined as the
+last postbaseline measurement obtained during the acute
+phase of each patient) and sustained response rate defined
+as at least 30% pain reduction from baseline to endpoint
+with at least 30% reduction from baseline to any visit
+preceding the last visit, and at least 20% reduction from
+baseline at every visit in between; the Clinical Global
+Impressions of Severity (CGI-S) which is the clinician’s
+overall rating of the illness severity;25 the Patient Global
+Impression of Improvement (PGI-I) which is the patient’s
+perceived change in overall well-being;25 and the Athens
+Insomnia Scale (AIS) which is a patient-rated scale of
+sleep difficulty.26
+Patient self-reported health outcomes were assessed at
+baseline and at the last visit by the EuroQoL
+Questionnaire-5 dimensions (EQ-5D) instrument. The
+EQ-5D questionnaire consists of 5 items: mobility,
+self-care, usual activities, pain/discomfort, and
+anxiety/depression. For each item, the patient chooses 1
+of the 3 options that best describes his or her status. The 3
+options reflecting increasing degrees of difficulty are
+coded as 1, 2, or 3. Scores from the 5 items formed a
+5-digit code that describes the respondent’s health state.
+This 5-digit code is then converted to a weighted United
+Kingdom (UK) and United States (US)-based index
+(called EQ-5D index) using population values provided
+by the UK and US EuroQoL group. The EQ-5D index
+scores were used for the analysis.
+Safety measures
+During the study, adverse events were collected through
+the patient’s spontaneous report at every visit, regardless
+of whether events were perceived to be related to the
+study drug. These events were captured as actual
+verbatim terms and coded to Medical Dictionary for
+Regulatory Activities terms from the Medical Dictionary
+for Regulatory Activity (MedDRA version 11.0) by Lilly
+medical personnel. In addition, discontinuations caused
+by adverse events were recorded. Study site personnels
+were instructed to alert Lilly of any serious adverse
+events including deaths, prolonged hospitalization,
+life-threatening events, persistent disability, and
+congenital abnormality. For this protocol, suicidal risk
+was also considered a serious adverse event. Vital signs,
+including systolic and diastolic blood pressure, pulse rate,
+and weight were collected at all scheduled study visits.
+Standard laboratory tests, including chemistry and
+hematology panels, were performed at baseline and at the
+last visit during the acute treatment phase.
+Statistical analyses
+Sample size was determined using an 85% power to
+detect treatment group difference of 1.20 points in the
+baseline-to-endpoint mean change on the BPI average
+pain rating between duloxetine and placebo treatment
+groups. A total of 208 patients were to be enrolled, with
+104 patients in each treatment group, to achieve the
+treatment group differences estimated using a 2-sided t
+test with α=0.05, a standard deviation of 2.5, and
+discontinuation rate of 25%.
+All analyses were conducted on an intent-to-treat basis,
+meaning that data were analyzed for all patients who
+entered the acute treatment phase, even if the patient did
+not take the assigned treatment, did not receive the
+correct treatment, or did not comply with the protocol.
+Treatment effects were evaluated based on a 2-sided
+significance level of 0.05 and interaction effects at 0.10.
+No adjustments for multiple comparisons were made.
+When the change from baseline to endpoint was assessed,
+only patients with a baseline and ≥1 postbaseline
+measurement were included. Missing data were imputed
+using last-observation-carried-forward (LOCF) approach.
+Unless otherwise specified, Fisher’s exact test was used 
+Chinese Medical Journal 2010;123(22):3184-3192 3187
+to assess the treatment difference for categorical variables.
+When an analysis of variance (ANOVA) model was used
+to analyze a continuous efficacy variable, the model
+contained the terms of treatment and investigator. The
+significance of treatment-by-investigator interaction was
+evaluated in a separate model when necessary. Similar
+logic was applied to an analysis of covariance (ANCOVA)
+model, which refers to the ANOVA model with baseline
+values added as a covariate. In this study, the stratifying
+variable MDD status at baseline (Yes/No) was also added
+to the above ANCOVA model for all secondary efficacy
+analyses and health outcome analyses. Type III
+sum-of-squares for the least-squares (LS) means was used
+for the statistical comparison using ANOVA or ANCOVA
+when there was no interaction term involved. For the
+ANOVA or ANCOVA models where the interaction term
+was included, the Type II sum-of-squares for the LS
+means was employed.
+For efficacy, variables collected at multiple postbaseline
+visits, mixed-model repeated measure analysis (MMRM)
+was also conducted. The model included MDD status,
+investigator, treatment, visit, treatment-by-visit
+interaction as fixed effects and patients as random effects,
+as well as the covariate, baseline, and the
+baseline-by-interaction. Unstructured variance-covariance
+matrix was used to estimate within-group errors. The
+Kenward-Roger method was used to estimate
+denominator degrees of freedom.
+Subgroup, including demographics and baseline disease
+characteristics, change from baseline to endpoint in BPI
+average pain was analyzed using the previously described
+ANCOVA model, with additional terms of the subgroup
+and the subgroup-by-treatment interaction. The primary
+statistical testing was for the treatment-by-subgroup
+interaction.
+In addition to the described prespecified analyses, after
+the unblinding, a post-hoc analysis was performed to
+examine the efficacy in patients who remained on
+duloxetine 60 mg once daily for the entire study versus
+patients whose dose at any point was increased to 120 mg
+once daily as measured by change in BPI average pain
+rating. Statistical Analysis Software (SAS, version 9.1)
+was used to perform all statistical analyses in this study.
+RESULTS
+The study was conducted at 11 sites in China by 11
+investigators specialized in endocrinology. The first
+patient visit occurred on December 19, 2006 and the last
+patient visit was completed on February 5, 2008.
+
+Patient disposition, demographics, and disease
+characteristics
+Of the 215 patients enrolled, 92 (84.4%) patients
+receiving placebo and 87 (82.1%) patients receiving
+duloxetine completed the 12-week acute treatment phase
+of the study (Figure 2). The rates of discontinuation for
+any reason were not significantly different between the
+treatment groups (P=0.716).
+Figure 2. Patient disposition (CONSORT Chart). *
+Significantly
+different from placebo, P=0.008, Fisher’s exact test.
+The baseline demographics and disease characteristics of
+the patients entered into the study are shown in Table 1.
+There were no statistically significant differences at
+baseline in any of the demographics or disease
+characteristics of the patients in the treatment groups.
+Table 1. Baseline demographics and disease characteristics in
+patients treated with placebo or duloxetine (mean ± SD)
+Variables Placebo
+(n=109)
+Duloxetine 60–120 mg
+(n=106)
+Age (years) 59.9±9.5 58.6±10.4
+Origin (n (%))
+ East Asian 109 (100) 106 (100)
+Gender (n (%))
+ Female 59 (54.1) 55 (51.9)
+ Male 50 (45.9) 51 (48.1)
+Weight (kg) 63.3±11.5 64.1±10.6
+Duration of diabetes (years) 10.2±6.9 9.1±6.3
+Duration of DPNP (years) 3.3 ±3.4 3.1±3.1
+MNSI score 4.6±1.2 4.5±1.2
+BPI average pain 5.5±1.4 5.5±1.3
+CGI-S 4.4±0.9 4.3±0.8
+Fasting glucose (mmol/L) 8.2 ±3.1 8.5±3.0
+MDD (n (%)) 21 (19.3) 17 (16.0)
+BPI: Brief Pain Inventory; CGI-S: clinical global impression of severity; DPNP:
+diabetic peripheral neuropathic pain; MDD: major depressive disorder; MNSI:
+Michigan Neuropathy Screening Instrument; SD: standard deviation.
+Efficacy of duloxetine
+The LS mean changes (±standard error) from baseline to
+endpoint of BPI average pain, as assessed by LOCF, the
+primary efficacy endpoint, were –2.31±0.18 and
+–2.69±0.19, in placebo and duloxetine treatment groups,
+respectively; these did not meet the statistical significance
+(P=0.124). However, the results of the MMRM analysis
+of the BPI average pain ratings over time showed
+significant separation between placebo and duloxetine
+treatment at weeks 1, 2 and 4 (P=0.004, P=0.009, and
+P=0.006, respectively), but not at weeks 8 (P=0.125) and
+12 (P=0.107) (Figure 3). The AUC analysis showed
+significantly greater pain relief measured by BPI average
+pain (P=0.048) in duloxetine-treated patients (158.7±13.4) 
+3188 Chin Med J 2010;123(22):3184-3192
+Figure 3. Brief Pain Inventory 24-hour average pain as assessed
+by mixed-model-repeated-measures method. *
+P ≤0.01; NS: not
+significant versus placebo. LS: least-squares.
+as compared with placebo-treated patients (129.0±13.0).
+The secondary efficacy measures, as assessed by the
+LOCF approach, are shown in Table 2. The BPI-S item
+“pain right now” (P=0.012) and the BPI-I item “walking
+ability” (P=0.016) were significantly decreased
+(improvement) during the 12-week treatment with
+duloxetine compared with placebo-treated patients (Table
+2). Among the other secondary efficacy measures, CGI-S
+(P=0.036) and PGI-I (P=0.028) were significantly
+improved in duloxetine-treated patients as compared with
+placebo-treated patients at endpoint (Table 2).
+Patients treated with duloxetine had numerically higher
+30% and 50% response rates on BPI average pain
+compared with placebo-treated patients (Table 2).
+Similarly, a higher percentage of patients in the
+duloxetine group (62.5%) met the criteria for sustained
+response as compared with the placebo group (50.5%),
+but the difference was not significant (Table 2). All other
+secondary efficacy measures, including health outcomes
+measures, were numerically but not significantly
+improved in patients treated with duloxetine as compared
+with placebo (Table 2).
+The results of the MMRM analyses of the BPI-S items
+and BPI-I items are shown in Table 3. Results for BPI-S
+average pain have been described above. For the
+remaining BPI-S items, the duloxetine-treated patients
+experienced significantly greater improvement compared
+with placebo-treated patients via significant mean
+decreases on the BPI-S least pain, worst pain and pain
+right now ratings, BPI-I with mood, walking ability,
+general activity, sleep, and normal work.
+For the subgroup analyses, a significant treatment-bysubgroup interaction was observed on the analysis of
+mean change from baseline to endpoint of the BPI
+average pain for gender and duration of diabetic
+neuropathy (Table 4). Duloxetine-treated patients in the
+Table 2. Secondary efficacy measures in patients treated with
+placebo or duloxetine*
+Variables Placebo
+(n=109)
+Duloxetine
+(n=106)
+P
+values
+BPI-severity
+Worst pain –2.93±0.26 –3.48 ±0.27 0.070
+ Least pain –1.37±0.20 –1.69±0.20 0.151
+ Pain right now –1.99±0.25 –2.72±0.26 0.012
+BPI-interference
+ Average interference –1.88±0.20 –2.28 ±0.21 0.077
+ General activity –1.96±0.24 –2.50±0.25 0.053
+ Mood –1.85±0.23 –2.32±0.24 0.074
+ Walking ability –1.82 ±0.23 –2.45±0.24 0.016
+ Normal work –1.70±0.22 –2.01±0.23 0.210
+ Relations with other people –1.13±0.21 –1.45±0.22 0.182
+ Sleep –2.67±0.27 –2.85±0.28 0.538
+ Enjoyment of life –1.65±0.23 –1.94±0.24 0.283
+BPI average pain (n (%))†
+ 30% response rate 67 (61.50) 74 (71.20) 0.149
+ 50% response rate 55 (50.50) 57 (54.80) 0.584
+ Sustained response rate 55 (50.50) 65 (62.50) 0.097
+PGI-I (endpoint LS mean) 2.64 ±0.10 2.32±0.11 0.028
+CGI-S –0.99±0.11 –1.24±0.11 0.036
+AIS (total (items 1–8)) –3.31±0.45 –3.58±0.47 0.590
+AIS (total (items 1–5)) –1.97±0.29 –2.27±0.31 0.364
+EQ-5D (US) 0.10±0.02 0.12±0.02 0.207
+EQ-5D (UK) 0.14±0.02 0.17±0.02 0.285
+*
+Values are mean change from baseline to endpoint analyzed by
+last-observation-carried-forward approach. Sample sizes varied for each measure
+and included patients with a baseline and ≥1 non-missing postbaseline value. †
+Response rates are expressed as percentage of patients responding by 30% or
+50% reduction from baseline to endpoint. Sustained response defined as ≥30%
+reduction from baseline to endpoint and remains ≥20% reduction at every visit in
+between. AIS: Athens Insomnia Scale; BPI: Brief Pain Inventory; CGI-S: clinical
+global impressions of severity; EQ-5D, US: EuroQol-5 dimensions, United
+States Index; EQ-5D, UK: EuroQol-5 dimensions, United Kingdom Index; LS:
+least-squares; PGI-I: Patient’s Global Impressions of Improvement.
+Table 3. Brief Pain Inventory average pain items as assessed by
+mixed-model repeated measures method
+P values BPI items
+Week 1 Week 2 Week 4 Week 8 Week 12 Overall
+BPI-S
+ Average pain 0.004 0.009 0.006 0.125 0.107 0.006
+ Worst pain 0.005 0.002 0.005 0.018 0.103 0.002
+ Least pain 0.235 0.008 0.069 0.080 0.154 0.024
+ Pain right now 0.006 <0.001 0.006 <.001 0.009 <0.001
+BPI-I
+ Average interference 0.056 0.049 0.005 0.018 0.063 0.007
+ General activity 0.215 0.029 0.006 0.029 0.055 0.008
+ Mood 0.348 0.560 0.120 0.010 0.039 0.040
+ Walking ability 0.034 0.074 0.058 <0.001 0.018 0.002
+ Normal work 0.661 0.147 0.011 0.107 0.221 0.056
+ Relations with people 0.363 0.573 0.051 0.053 0.145 0.092
+ Sleep 0.040 0.055 0.007 0.542 0.558 0.053
+ Enjoyment of life 0.346 0.255 0.066 0.203 0.250 0.106
+At each week the significances between placebo and duloxetine are shown by
+actual P values. BPI: Brief Pain Inventory; BPI-I: Brief Pain Inventory of
+interference; BPI-S: Brief Pain Inventory of severity.
+male subgroup had significantly greater decreases in BPI
+average pain when compared with the placebo-treated
+patients, while the female subgroup did not show
+significant differences from the placebo-treated patients.
+Duloxetine-treated patients in the ≤2 years of duration of
+diabetic neuropathy subgroup had significantly greater
+decreases in BPI average pain when compared with the
+placebo-treated patients, while the >2 years of duration of 
+Chinese Medical Journal 2010;123(22):3184-3192 3189
+diabetic neuropathy subgroup did not show significant
+differences from the placebo-treated patients. All other
+subgroups analyzed did not show significant interactions
+(Table 4).
+Table 4. Subgroup analysis of Brief Pain Inventory average pain –
+mean change from baseline to endpoint (mean ± SD)
+Mean change from baseline to
+endpoint Subgroup Interaction
+P value* Strata
+Placebo Duloxetine P
+values
+Gender 0.001 Female –2.58 ±1.99 –2.25 ±1.60 0.107
+Male –2.04 ±1.81 –3.10 ±1.98 0.002
+Duration of DN 0.62 ≤2 years –2.13 ±2.00 –2.74 ±1.82 0.020
+>2 years –2.66 ±1.76 –2.53 ±1.90 0.608
+Duration of DPNP 0.995 ≤1 year –2.07 ±1.68 –2.40 ±1.71 0.885
+>1 year –2.42 ±2.00 –2.75 ±1.88 0.266
+MDD status 0.543 No –2.16 ±1.85 –2.66 ±1.77 0.099
+Yes –3.05 ±2.09 –2.69 ±2.24 0.811
+Age 0.968 <65 years –2.24 ±1.88 –2.58 ±1.76 0.139
+≥65 years –2.49 ±2.00 –2.89 ±2.06 0.322
+Baseline BPI 0.732 <5.0 years –1.92 ±1.47 –2.35 ±1.47 0.289
+≥5.0 years –2.46 ±2.03 –2.77 ±1.95 0.311
+*
+The significant interaction P values of subgroups are bolded for gender and
+duration of diabetic neuropathy. BPI: Brief Pain Inventory; DN: diabetic
+neuropathy; DPNP: diabetic peripheral neuropathic pain; MDD: major
+depressive disorder; SD: standard deviation.
+The mean change in BPI average pain did not exhibit a
+significant treatment-by-subgroup interaction (P=0.543)
+with respect to MDD status (Table 4). The difference
+between placebo and duloxetine treatment groups (in the
+MDD subgroup) was also not significant (P=0.811) due
+to high placebo response (–3.05) as compared with
+duloxetine (–2.69). The placebo response in patients
+without MDD was much less (–2.16).
+The post-hoc analysis of the mean change from baseline
+to endpoint for the BPI average pain comparing patients
+who remained on duloxetine 60 mg once daily for the
+entire study, patients whose dosage of duloxetine at any
+point was increased to 120 mg once daily, and patients
+randomized to placebo found that there was a significant
+difference between patients on placebo and those taking
+duloxetine 120 mg once daily (P=0.014). Conversely,
+there was no significant difference between placebo
+versus duloxetine 60 mg once daily (P=0.772) or
+duloxetine 60 mg versus duloxetine 120 mg (P=0.145).
+Safety and tolerability
+One sudden death occurred in the duloxetine group while
+on 120 mg once daily. The patient, a 56-year-old man
+with type 2 diabetes mellitus and a history of multiple
+diabetes complications was hospitalized due to acute
+myocardial infarction and multiple cerebral infarctions.
+During the hospitalization, the patient experienced
+respiratory failure and renal insufficiency but recovered.
+The investigator stated that these events were not related
+to the study drug or protocol procedure. Two days after
+discharge from the hospital, the patient was dead, but the
+cause of death was unknown. The investigator stated that
+the death was possibly related to the concurrent
+myocardial infarction, multiple cerebral infarction,
+respiratory failure, and renal insufficiency. However, no
+autopsy was performed.
+Overall, the rate of serious adverse events was not
+significantly different between the 2 treatment groups. A
+total of 4 patients, 2 from each treatment group,
+experienced 11 serious adverse events: 4 from the
+placebo-treated group and 7 from the duloxetine-treated
+group.
+Compared with placebo, patients treated with duloxetine
+reported a statistically significantly higher rate of the
+following treatment-emergent adverse events (TEAEs):
+nausea (P=0.001), somnolence (P=0.015), anorexia
+(P=0.010), and dysuria (P=0.009) (Table 5). Among
+duloxetine-treated patients, TEAEs reported at the rate of
+≥10% were: nausea, somnolence, dizziness, constipation,
+lethargy, and anorexia. Headache, dizziness, and
+therapeutic response unexpected were TEAEs reported at
+the rate ≥10% in placebo-treated patients. Significantly
+more duloxetine-treated patients (16.7%) discontinued the
+study due to any adverse event compared with
+placebo-treated patients (3.7%) in this study (P=0.008).
+Table 5. Treatment-emergent adverse events with 5% incidence in
+any treatment arm (n (%))
+Events Placebo
+(n=109)
+Duloxetine
+(n=106)
+1 Treatment-emergent adverse event 78 (71.6) 86 (81.1)
+Nausea 13 (11.9) 32 (30.2)‡
+Dizziness 12 (11.0) 16 (15.1)
+Somnolence 6 (5.5) 17 (16.0)*
+Therapeutic response unexpected 12 (11.0) 9 (8.5)
+Constipation 9 (8.3) 11 (10.4)
+Abdominal distension 7 (6.4) 9 (8.5)
+Diarrhea 6 (5.5) 10 (9.4)
+Fatigue 8 (7.3) 8 (7.5)
+Hypoglycemia 5 (4.6) 10 (9.4)
+Lethargy 4 (3.7) 11 (10.4)
+Palpitations 5 (4.6) 10 (9.4)
+Anorexia 2 (1.8) 11 (10.4)†
+Headache 6 (5.5) 6 (5.7)
+Hyperhydrosis 3 (2.8) 9 (8.5)
+Stomach discomfort 5 (4.6) 7 (6.6)
+Pruritus 8 (7.3) 3 (2.8)
+Vomiting 5 (4.6) 6 (5.7)
+Abdominal discomfort 6 (5.5) 4 (3.8)
+Dysuria 1 (0.9) 9 (8.5)†
+Dry mouth 3 (2.8) 6 (5.7)
+Asthenia 1 (0.9) 6 (5.7)
+Significances between placebo and duloxetine treatment groups were calculated
+using Fisher’s exact test. *
+≤0.05; †
+≤0.01; ‡≤.001
+Group mean laboratory values that were significantly
+higher in duloxetine-treated patients as compared with
+placebo-treated patients were: chloride (P=0.014);
+sodium (P=0.011); uric acid (P=0.017); leukocyte count
+(P=0.033); monocytes (P=0.050). Fasting glucose values
+were not statistically significantly different between the 2
+treatment groups. There were no statistically significant
+differences in vital signs or weight between the 2
+treatment groups. 
+3190 Chin Med J 2010;123(22):3184-3192
+DISCUSSION
+This double-blind, placebo-controlled trial assessed the
+efficacy of duloxetine 60 mg to 120 mg once daily over
+12 weeks of acute treatment in patients with DPNP in
+China. Mean change in BPI average pain from baseline to
+endpoint, the primary outcome measure per protocol, was
+not significantly different between duloxetine and
+placebo treatment groups as assessed by the LOCF
+approach. However, the BPI average pain was
+significantly reduced with duloxetine treatment at weeks
+1, 2, and 4 in an MMRM analysis. The separation
+between duloxetine and placebo at weeks 8 and 12 was
+not significant. It is important to note that the pain
+reduction on BPI average pain with duloxetine treatment
+(LS mean change –2.69 based on LOCF approach) is
+about the same as reported in other duloxetine DPNP
+studies with similar duration of treatment — for example,
+–2.66 in the HMAW study,17 –2.66 in the HMAVa study,19
+and –2.65 in the HMAVb study.27 In the current study, the
+baseline-to-endpoint change in the placebo group was
+substantially higher — LS mean change –2.31 — as
+compared to the response in previous studies — LS mean
+change –1.96 in the HMAW,17 –1.48 in the HMAVa,19
+–1.82 in the HMAVb.27
+In light of the observed placebo response and a number of
+BPI-S and BPI-I items showing statistically significant
+differences, along with the significant improvements
+observed in the area under the curve, CGI-S, and
+particularly PGI-I, the efficacy of duloxetine in the
+treatment of DPNP among Chinese patients may be
+suggested.
+Although the 30% and 50% pain response rates were not
+statistically significantly different between the 2
+treatment groups, the observed treatment group
+differences of 9.7% and 4.3%, respectively, in favor of
+duloxetine are noteworthy since a 30% pain reduction is
+considered to be clinically significant.28 In this study,
+54.8% of the patients receiving duloxetine 60 mg to 120
+mg once daily had at least a 50.0% pain reduction on the
+BPI average pain item and 71.2% of these patients had at
+least a 30% reduction.
+It is difficult, with certainty, to identify reason(s) for
+unexpected outcomes of any clinical study. Nevertheless,
+one can propose several possibilities: (1)The impact of
+ethnicity and cultural heritage on the complex mechanism
+of placebo response is not fully understood,29-32 but a
+higher placebo response in Asian studies compared with
+western studies has been reported in a number of trials
+using subjective outcome measures.33-37 (2)This study
+included patients (19.3% in placebo and 16.0% in
+duloxetine group) with MDD; these patients may have a
+high placebo response. It is noted that 50% of
+antidepressant trials involving MDD fail to demonstrate
+differences between study drug and placebo.38 Thus, the
+heightened placebo response to pain seen in the current
+study may be related to the MDD inclusion criterion. (3)
+Pain studies, because they rely solely on subjective
+outcomes measures, occasionally fail even with the use of
+an agent with proven efficacy.39,40 In this study, the
+amount of pain reduction observed during the acute
+treatment period is comparable to that seen in other
+placebo-controlled studies in patients with DPNP,17,19,27
+indicating the consistency of duloxetine’s therapeutic
+response. (4) Diabetic peripheral neuropathic pain tends
+to fluctuate on a day-to-day basis. It is possible that a
+number of study participants, especially patients taking
+placebo, had their office visits scheduled on days when
+pain was scored below their average across the past visit
+interval. That would also lead to a higher placebo
+response. Use of patient diaries, particularly electronic
+ones, would help overcome this methodological issue
+since the weekly mean of average pain score would be
+computed by averaging the daily score over the past
+weeks. However, this study did not employ electronic
+diaries and therefore cannot confirm this speculation. (5)
+As shown in Figure 3, there was a sharp decrease of BPI
+average pain ratings in the placebo arm between visit 5
+and visit 6. Upon further examination, it was found that 7
+placebo-treated patients and 6 duloxetine-treated patients
+had average pain ratings that dropped by ≥3 points during
+that period. From a clinical point of view, a change in
+pain severity of this magnitude is inconsistent with a
+chronic condition such as DPNP.
+An important characteristic of this study is the flexibility
+of the dosing regimen, which reflects common clinical
+practice in which higher dosages are given only to
+patients with a suboptimal response to lower dosages.
+The post-hoc analysis of the primary efficacy variable by
+maximum duloxetine dosage during the treatment phase
+(60 mg once daily or 120 mg once daily versus placebo)
+indicated a dose-dependent pattern of pain reduction
+demonstrating a statistically significant greater pain
+reduction in the duloxetine 120 mg once daily subgroup
+compared with placebo, while only a numerically greater
+reduction was observed in the duloxetine 60 mg once
+daily subgroup.
+Overall, the similar magnitude of pain reduction with
+duloxetine treatment compared to global studies, and the
+significant treatment difference compared with placebo in
+many secondary efficacy outcomes, especially PGI-I
+observed in this study, indicated that the patients taking
+duloxetine indeed benefited throughout the study.
+This study has some limitations. The treatment duration
+in this study was only 12 weeks and could not assess
+whether patients would benefit from a long-term
+treatment. Since placebo-controlled studies of long
+duration in painful conditions are considered unethical, it
+is worth noting that a recently published open-label,
+uncontrolled study in the western population showed that
+the effect of duloxetine in DPNP was maintained over a
+6-month period.41 Additionally, pain severity was 
+Chinese Medical Journal 2010;123(22):3184-3192 3191
+assessed using patients’ self-reporting scales and some
+level of bias cannot be excluded. However, with pain
+being a very personal and subjective experience the use
+of a validated instrument like BPI in combination with
+the clinicians’ rated CGI-S is a widely accepted practice.
+The safety profile of duloxetine in this study with 100%
+of patients of East Asian origin residing in China is
+consistent with the findings of previous studies conducted
+with patients of different origins.17-20,27 In general,
+duloxetine was safe and well-tolerated during the
+12-week acute treatment period. Significantly (P=0.008)
+more patients in the duloxetine group (n=15)
+discontinued the study because of adverse events
+compared with patients in the placebo group (n=4).
+Similar or slightly higher percentages of patients
+discontinued because of adverse events in other
+duloxetine chronic pain studies including studies of
+fibromyalgia,42-44 osteoarthritis knee pain,45 and chronic
+low back pain.46
+The overall percentage of patients who reported ≥1 TEAE
+in the duloxetine-treated group compared with the
+placebo group was not significant. The most frequently
+reported TEAEs in the duloxetine group were nausea,
+somnolence, anorexia, and dysuria, and all were
+significantly higher compared with placebo group. These
+findings are consistent with those reported by patients
+having other chronic pain conditions treated with
+duloxetine.19-21, 44-47
+In conclusion, although the primary endpoint of the study
+was not achieved, the overall pattern of observed
+responses suggests efficacy of duloxetine 60 mg and,
+particularly, 120 mg once daily in the treatment of
+Chinese patients with DPNP. The safety profile for
+duloxetine is similar to that reported in other global trials.
+Acknowledgements: This study was sponsored by Eli Lilly and
+Company, Indianapolis, Indiana, USA and Boehringer Ingelheim
+Pharmaceuticals, Germany. The authors wish to thank all the
+patients for their role in the conduct of this study. The authors also
+wish to thank Professor GUO Xiao-hui for her excellent
+coordination of this study in assistance to Professor GAO.
+REFERENCES
+1. Diabetes. World Health Organization. 2008. (Accessed May 2,
+2009 at http://www.who.int/mediacentre/factsheets/fs312/en/)
+2. Eastman RC. Neuropathy in diabetes. In: National Diabetes
+Data Group, eds. Diabetes in America, 2nd ed. Washington,
+DC: U.S. Department of Health and Human Services, National
+Institutes of Health, National Institute of Diabetes and
+Digestive and Kidney Diseases; 1995: 339-348. NIH
+publication 95-1468.
+3. Quattrini C, Tesfaye S. Understanding the impact of painful
+diabetic neuropathy. Diabetes Metab Res Rev 2003; 19 Suppl
+1: S2-S8.
+4. Argoff CE, Cole BE, Fishbain DA, Irving GA. Diabetic
+peripheral neuropathic pain: clinical and quality-of-life issues.
+Mayo Clin Proc 2006; 81 (4 Suppl): S3-S11.
+5. Fields HL, Martin JB. Pain: pathophysiology and management.
+In: Fauci AS, Braunwald E, Isselbacher KJ, Wilson JD, Martin
+JB, Kasper DL, et al, eds. Harrison’s Principles of Internal
+Medicine, 14th ed. New York, NY: McGraw-Hill; 1998:
+55-58.
+6. Dworkin RH. An overview of neuropathic pain: syndromes,
+symptoms, signs, and several mechanisms. Clin J Pain 2002;
+18: 343-349.
+7. Krause SJ, Backonja MM. Development of neuropathic pain
+questionnaire. Clin J Pain 2003; 19: 306-314.
+8. Galer BS, Gianas A, Jensen MP. Painful diabetic
+polyneuropathy: epidemiology, pain description, and quality
+of life. Diabetes Res Clin Pract 2000; 47: 123-128.
+9. Vinik AI, Mehrabyan A. Diabetic neuropathies. Med Clin
+North Am 2004; 88: 947-999.
+10. Basbaum AI, Fields HL. Endogenous pain control systems:
+brainstem spinal pathways and endorphin circuitry. Annu Rev
+Neurosci 1984; 7: 309-338.
+11. Clark FM, Proudfit HK. The projections of noradrenergic
+neurons in the A5 catecholamine cell group to the spinal cord
+in the rat: anatomical evidence that A5 neurons modulate
+nociception. Brain Res 1993; 616: 200-210.
+12. Coderre TJ, Katz J. Peripheral and central hyperexcitability:
+differential signs and symptoms in persistent pain. Behav
+Brain Sci 1997; 20: 404-419.
+13. Max MB, Kishore-Kumar R, Schafer SC, Meister B, Gracely
+RH, Smoller B, et al. Efficacy of desipramine in painful
+diabetic neuropathy: a placebo-controlled trial. Pain 1991; 45:
+3-9.
+14. Lynch ME. Antidepressants as analgesics: a review of
+randomized controlled trials. J Psychiatry Neurosci 2001; 26:
+30-36.
+15. Magni G. The use of antidepressants in the treatment of
+chronic pain. A review of the current evidence. Drugs 1991;
+42: 730-748.
+16. Barkin RL, Fawcett J. The management challenges of chronic
+pain: the role of antidepressants. Am J Ther 2000; 7: 31-47.
+17. Goldstein DJ, Lu Y, Detke MJ, Lee TC, Iyengar S. Duloxetine
+vs. placebo in patients with painful diabetic neuropathy. Pain
+2005; 116: 109-118.
+18. Raskin J, Wang F, Pritchett YL, Goldstein DJ. Duloxetine for
+patients with diabetic peripheral neuropathic pain: a 6-month
+open-label safety study. Pain Med 2006; 7: 373-385.
+19. Wernicke JF, Pritchett YL, D’Souza DN, Waninger A, Tran P,
+Iyengar S, et al. A randomized controlled trial of duloxetine in
+diabetic peripheral neuropathic pain. Neurology 2006; 67:
+1411-1420.
+20. Raskin J, Smith TR, Wong K, Pritchett YL, D’Souza DN,
+Iyengar S, et al. Duloxetine versus routine care in the
+long-term management of diabetic peripheral neuropathic pain.
+J Palliat Med 2006; 9: 29-40.
+21. Wernicke JF, Wang F, Pritchett YL, Smith T, Raskin J,
+D’Souza DN, et al. An open-label 52-week clinical extension
+comparing duloxetine with routine care in patients with
+diabetic peripheral neuropathic pain. Pain Med 2007; 8:
+503-513.
+22. Cleeland CS, Ryan KM. Pain assessment: global use of the 
+3192 Chin Med J 2010;123(22):3184-3192
+Brief Pain Inventory. Ann Acad Med Singapore 1994; 23:
+129-138.
+23. Feldman EL, Stevens MJ, Thomas PK, Brown MB, Canal N,
+Greene DA. A practical two-step quantitative clinical and
+electrophysiological assessment for the diagnosis and staging
+of diabetic neuropathy. Diabetes Care 1994; 17: 1281-1289.
+24. Beck AT, Kovacs M, Weissman A. Assessment of suicidal
+intention: the Scale for Suicidal Ideation. J Consult Clin
+Psychol 1979; 47: 343-352.
+25. Guy W. ECDEU assessment manual for psychopharmacology,
+Revised. Rockville, MD: US Department of Health, Education,
+and Welfare, National Institute of Mental Health; 1976:
+76-338.
+26. Soldatos CR, Dikeos DG, Paparrigopoulos TJ. Athens
+Insomnia Scale: validation of an instrument based on ICD-10
+criteria. J Psychosom Res 2000; 48: 555-560.
+27. Raskin J, Pritchett YL, Wang F, D’Souza DN, Waninger AL,
+Iyengar S, et al. A double-blind, randomized multicenter trial
+comparing duloxetine with placebo in the management of
+diabetic peripheral neuropathic pain. Pain Med 2005; 6:
+346-356.
+28. Farrar JT, Young JP Jr, LaMoreaux L, Werth JL, Poole RM.
+Clinical importance of changes in chronic pain intensity
+measured on an 11-point numerical pain rating scale. Pain
+2001; 94: 149-158.
+29. Weisenberg M, Kreindler ML, Schachat R, Werboff J. Pain:
+anxiety and attitudes in Black, white and Puerto Rican patients.
+Psychosom Med 1975; 37: 123-135.
+30. Flannery RB Jr, Sos J, McGovern P. Ethnicity as a factor in
+the expression of pain. Psychosomatics 1981; 22: 39-40, 45,
+49-50.
+31. Weisenberg M, Caspi Z. Cultural and educational influences
+on pain of childbirth. J Pain Symptom Manage 1989; 4: 13-19.
+32. Burroughs VJ, Maxey RW, Levy RA. Racial and ethnic
+differences in response to medicines: towards individualized
+pharmaceutical treatment. J Natl Med Assoc 2002; 94 (10
+Suppl): 1-26.
+33. Johnson M, Din A. Ethnocultural differences in the analgesic
+effects of placebo transcutaneous electrical nerve stimulation
+on cold-induced pain in healthy subjects: a preliminary study.
+Complement Ther Med 1997; 5: 74-79.
+34. Eletriptan Steering Committee in Japan. Efficacy and safety of
+eletriptan 20 mg, 40 mg and 80 mg in Japanese migraineurs.
+Cephalalgia 2002; 22: 416-423.
+35. Wang SJ, Fuh JL, Wu ZA. Intranasal sumatriptan study with
+high placebo response in Taiwanese patients with migraine. J
+Chin Med Assoc 2007; 70: 39-46.
+36. Guo YL, Zhu JC, Pan TM, Ding Q, Wang YX, Cheong NF, et
+al. Efficacy and safety of on-demand tadalafil for the
+treatment of erectile dysfunction in South-East Asian men. Int
+J Urol 2006; 13: 721-727.
+37. Chen KK, Jiann BP, Lin JS, Lee SS, Huang ST, Wang CJ, et al.
+Efficacy and safety of on-demand oral tadalafil in the
+treatment of men with erectile dysfunction in Taiwan: a
+randomized, double-blind, parallel, placebo-controlled clinical
+study. J Sex Med 2004; 1: 201-208.
+38. Khan A, Khan SR, Walens G, Kolts R, Giller EL. Frequency
+of positive studies among fixed and flexible dose
+antidepressant clinical trials: an analysis of the food and drug
+administration summary basis of approval reports.
+Neuropsychopharmacology 2003; 28: 552-557.
+39. Olson C, Neeper S. Why clinical trials fail. Surrey, UK:
+Brookwood Medical Publications; 1997.
+40. Katz N. Methodological issues in clinical trials of opioids for
+chronic pain. Neurology 2005; 65 Suppl 4: S32-S49.
+41. Skljarevski V, Desaiah D, Zhang Q, Chappell AS, Detke MJ,
+Gross JL, et al. Evaluating the maintenance of effect of
+duloxetine in patients with diabetic peripheral neuropathic
+pain. Drug Metab Res Rev 2009; 25: 623-631.
+42. Arnold LM, Lu Y, Crofford LJ, Wohlreich M, Detke MJ,
+Iyengar S, et al. A double-blind, multicenter trial comparing
+duloxetine with placebo in the treatment of fibromyalgia
+patients with or without major depressive disorder. Arthritis
+Rheum 2004; 50: 2974-2984.
+43. Arnold LM, Rosen A, Pritchett YL, D’Souza DN, Goldstein
+DJ, Iyengar S, et al. A randomized, double-blind,
+placebo-controlled trial of duloxetine in the treatment of
+women with fibromyalgia with or without major depressive
+disorder. Pain 2005; 119: 5-15.
+44. Russell IJ, Mease PJ, Smith TR, Kajdasz DK, Wohlreich MM,
+Detke MJ, et al. Efficacy and safety of duloxetine for
+treatment of fibromyalgia in patients with or without major
+depressive disorder: results from a 6-month, randomized,
+double-blind, placebo-controlled, fixed-dose trial. Pain 2008;
+136: 432-444.
+45. Chappell AS, Ossanna MJ, Liu-Seifert H, Iyengar S,
+Skljarevski V, Li LC, et al. Duloxetine, a centrally acting
+analgesic, in the treatment of patients with osteoarthritis knee
+pain: a 13-week, randomized, placebo-controlled trial. Pain
+2009; 146: 253-260.
+46. Skljarevski V, Desaiah D, Liu-Seifert H, Zhang Q, Chappell
+AS, Detke M, et al. Efficacy and safety of duloxetine in
+patients with chronic low back pain. Spine 2010; In press.
+47. Arnold LM, Pritchett YL, D’Souza DN, Kajdasz DK, Iyengar
+S, Wernicke JF. Duloxetine for the treatment of fibromyalgia
+in women: pooled results from two randomized,
+placebo-controlled clinical trials. J Womens Health (Larchmt)
+2007; 16: 1145-1156.
+(Received February 13, 2010)
+Edited by WANG Mou-yue and LIU Huan

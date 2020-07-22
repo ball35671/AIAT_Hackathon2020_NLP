@@ -1,0 +1,153 @@
+﻿Abstract
+Context.— Postherpetic neuralgia (PHN) is a syndrome of often intractable neuropathic pain following herpes zoster (shingles) that eludes effective treatment in many patients.
+
+Objective.— To determine the efficacy and safety of the anticonvulsant drug gabapentin in reducing PHN pain.
+
+Design.— Multicenter, randomized, double-blind, placebo-controlled, parallel design, 8-week trial conducted from August 1996 through July 1997.
+
+Setting.— Sixteen US outpatient clinical centers.
+
+Participants.— A total of 229 subjects were randomized.
+
+Intervention.— A 4-week titration period to a maximum dosage of 3600 mg/d of gabapentin or matching placebo. Treatment was maintained for another 4 weeks at the maximum tolerated dose. Concomitant tricyclic antidepressants and/or narcotics were continued if therapy was stabilized prior to study entry and remained constant throughout the study.
+
+Main Outcome Measures.— The primary efficacy measure was change in the average daily pain score based on an 11-point Likert scale (0, no pain; 10, worst possible pain) from baseline week to the final week of therapy. Secondary measures included average daily sleep scores, Short-Form McGill Pain Questionnaire (SF-MPQ), Subject Global Impression of Change and investigator-rated Clinical Global Impression of Change, Short Form-36 (SF-36) Quality of Life Questionnaire, and Profile of Mood States (POMS). Safety measures included the frequency and severity of adverse events.
+
+Results.— One hundred thirteen patients received gabapentin, and 89 (78.8%) completed the study; 116 received placebo, and 95 (81.9%) completed the study. By intent-to-treat analysis, subjects receiving gabapentin had a statistically significant reduction in average daily pain score from 6.3 to 4.2 points compared with a change from 6.5 to 6.0 points in subjects randomized to receive placebo (P<.001). Secondary measures of pain as well as changes in pain and sleep interference showed improvement with gabapentin (P<.001). Many measures within the SF-36 and POMS also significantly favored gabapentin (P≤.01). Somnolence, dizziness, ataxia, peripheral edema, and infection were all more frequent in the gabapentin group, but withdrawals were comparable in the 2 groups (15 [13.3%] in the gabapentin group vs 11 [9.5%] in the placebo group).
+
+Conclusions.— Gabapentin is effective in the treatment of pain and sleep interference associated with PHN. Mood and quality of life also improve with gabapentin therapy.
+
+HERPES ZOSTER (shingles) is accompanied in the majority of patients by intense pain that is variously described as "burning," "deeply aching," "tearing," "electric shocklike," and "lancinating." Abnormalities of sensation in affected dermatomes are common, including hyperpathia or allodynia. While herpes zoster–associated pain tends to resolve spontaneously with time,1 some patients suffer from chronic, debilitating neuropathic pain that persists beyond the resolution of visible cutaneous manifestations of the underlying viral (varicella zoster) eruption. Postherpetic neuralgia (PHN) is most commonly defined as pain in the area affected by herpes zoster at least 3 months after crusting of the herpes zoster rash. Once established, PHN may persist for many years.
+
+In the United States, more than a million new cases of herpes zoster arise each year.1 Approximately 10% to 15% of all people with herpes zoster develop PHN. The age distribution of its victims, however, includes a disproportionate number of the elderly; nearly half of older patients (≥60 years) with herpes zoster will have enduring neuropathic pain.1-3 Postherpetic neuralgia is usually refractory to simple analgesic therapies, and treatment most often is pharmacologic, including a wide variety of drugs and routes of delivery.4,5 The most commonly used agents are oral medications. Currently, the standard treatment for PHN is with various tricyclic antidepressants (TCAs) (amitriptyline, desipramine, and clomipramine) either as monotherapy6-12 or in combination with other medications, such as carbamazepine or opioids.13-15 Unfortunately, only about 50% of patients treated with TCAs for PHN in clinical trials experience pain relief in the absence of intolerable adverse effects.16
+
+Recent reviews and meta-analyses of 11 randomized, controlled clinical trials for PHN concluded that TCAs appeared to be the only agents that provided reliable pain relief.16,17 Tricyclic antidepressants, however, can also have significant adverse effects, such as arrhythmias, postural hypotension, sedation, dry mouth, constipation, confusion, and urinary retention. Their use is not appropriate in many patients with cardiovascular disease, which makes the use of these agents problematic in the 60 years and older age group, in which PHN is most prevalent. A single nonopioid agent that provides both substantial relief and a good safety profile is thus needed. Gabapentin (1-[aminomethyl]-cyclohexaneacetic acid; Neurontin, Parke-Davis, Division of Warner-Lambert Co, Morris Plains, NJ) is a structural analog of γ-aminobutyric acid (GABA) that has shown some promise as such an agent.
+
+Gabapentin is lipophilic and penetrates the blood-brain barrier. Its mechanism of action has not yet been fully elucidated, but appears not to involve binding to GABA receptors18 and is distinct from that of TCAs. Introduced in the United States in 1994 as an anticonvulsant, gabapentin is used clinically to benefit patients with epilepsy by reducing seizure frequency when added to conventional antiepileptic drug regimens.18-21 Preclinical studies have documented an analgesic effect of gabapentin in several rat models, including models of chronic neuropathic pain.22-25 Gabapentin has been reported anecdotally to relieve pain in patients with intractable neuropathic pain and reflex sympathetic dystrophy, allowing the reduction or termination of other analgesic medications and relieving symptoms associated with painful disease manifestations.26-29 It also reduced spontaneous pain and tactile allodynia in patients with peripheral or central pain.30 We report here the results of a large, multicenter, double-blind, placebo-controlled trial of gabapentin for the pain of PHN.
+
+Methods
+Study Design and Subjects
+Subjects from 16 clinical centers participated in this double-blind, randomized, placebo-controlled, parallel design, 8-week trial, which was conducted from August 26, 1996, through July 14, 1997. The protocol and informed consents were approved by the institutional review board of each participating center. The study period included a 1-week baseline period followed by a 4-week titration period, during which a maximum tolerated dose (up to 3600 mg/d) was established for each subject. This was followed by a 4-week stable dosing period. Subjects were seen for a minimum of 5 scheduled visits: an initial enrollment visit (screening), a randomization visit (week 0, at the end of an intervening baseline week), and 3 subsequent visits after 2, 4, and 8 weeks of study treatment.
+
+Inclusion criteria included the following: at least 18 years of age; pain present for more than 3 months after healing of a herpes zoster skin rash; a pain intensity score of at least 40 mm on the 100-mm Visual Analog Scale on the Short-Form McGill Pain Questionnaire (SF-MPQ) at screening and at randomization; average daily diary pain score of at least 4 (on a scale of 0-10) during the baseline week; and discontinuance of muscle relaxants, anticonvulsants, mexiletine, topical analgesics, and antiviral agents beginning at least 2 weeks prior to screening. Previously prescribed TCAs and/or narcotics could be continued if therapy was stabilized prior to study entry and remained constant throughout the study. At the screening visit, exclusion criteria included the following: prior treatment with gabapentin or demonstrated hypersensitivity to the drug or its ingredients; neurolytic or neurosurgical therapy for PHN; immunocompromised state; significant hepatic or renal insufficiency; significant hematological disease; severe pain other than that caused by PHN; use of experimental drugs or participation in a clinical study within 2 months of screening; a history of illicit drug or alcohol abuse within the last year; and any serious or unstable medical or psychological condition.
+
+Eligible subjects who gave informed written consent underwent physical and neurological examinations, and blood samples were taken for routine hematology and chemistry. Medical histories and demographics were obtained. Subjects completed the SF-MPQ and were instructed on the completion of daily diaries that would assess overall pain and sleep.
+
+At the second visit 1 week later (baseline, week 0), physical and neurological examinations were updated, subjects again completed the SF-MPQ, the Short Form-36 (SF-36) Quality of Life Questionnaire, and Profile of Mood States (POMS). Diaries were collected and reviewed. Subjects who continued to meet the inclusion and exclusion criteria and who had completed at least 4 diaries were randomized to receive gabapentin or placebo.
+
+At each subsequent visit (weeks 2, 4, and 8), subjects completed the SF-MPQ, diaries were collected, and adverse events assessed. At the final visit (week 8), subjects again underwent physical and neurological examinations and completed the SF-36 and POMS. Subjects completed Global Impression of Change and investigators completed Clinical Global Impression of Change Questionnaires. Blood samples were taken for routine hematology and chemistry, and plasma concentration of gabapentin was determined. In the case of early termination, week 8 assessments were completed at the last study visit.
+
+Randomization and Treatment
+Randomization was performed by producing a randomization schedule that assigned each subject number to gabapentin or matching placebo in a 1:1 manner. Gabapentin and placebo were provided as identically appearing capsules and were packaged in subject-specific bottles based on the randomization schedule. As subjects enrolled at each site, they were sequentially assigned a subject number.
+
+Study participants who at week 0 were randomly assigned to receive gabapentin began with an initial dose of 300 mg/d. The number of capsules (300 mg of gabapentin per capsule) taken daily increased over the next 4 weeks (titration period) in a step-up manner (900, 1800, 2400, and 3600 mg/d divided 3 times a day), to a maximum total dose of 3600 mg/d, regardless of whether efficacy was achieved at a lower dose, or until the subject developed intolerable adverse effects. In the latter event, dosage was decreased 1 level and continued at that level for the remainder of the study. If 1800 mg/d was not tolerated, a minimal dose of 1200 mg/d was permitted. The dose established during the titration period was maintained throughout the remainder of the study. Matching placebo capsules were similarly administered.
+
+Data Collection and Statistical Analysis
+Statistical analyses for efficacy were conducted on 2 populations. The intent-to-treat population included those subjects who, once randomized to treatment, had evidence of taking at least 1 dose of study medication and provided at least 1 follow-up efficacy assessment. The efficacy-evaluable population consisted of those subjects who, in addition to meeting the criteria required for the intent-to-treat population, met strict protocol-specified criteria regarding study medication compliance, use of concomitant medications, and number of daily diaries returned.
+
+The primary efficacy parameter—change in average daily pain score from the baseline week to the final study week—was evaluated from daily pain diaries and measured on an 11-point Likert scale having as end points 0 ("no pain") and 10 ("worst possible pain"). The minimum treatment group difference in change from baseline that was considered clinically meaningful was 1.5 points. Given the assumption that the SD for this parameter would be 3.4, a sample size of 80 evaluable patients in each treatment was required to provide 80% power to detect this difference with a 5% error rate for a 2-sided test.
+
+The change from baseline week to final study week in average daily pain score was determined by calculating, for each patient evaluated, the average daily pain score for the baseline week and the final study week. The change in average daily pain score was then calculated as the difference between the 2 time periods. A secondary parameter—the change from baseline in average daily sleep rating score—was determined in the same manner.
+
+Other secondary parameters were the SF-MPQ total score and the affective and sensory subscores. Each domain of the SF-36 and POMS was also evaluated. The change from baseline in each of the SF-MPQ, SF-36, and POMS assessments was determined. Additional secondary parameters were the present pain intensity (PPI) score from the SF-MPQ and the investigator-rated Clinical Global Impression of Change and Subjects' Global Impression of Change.
+
+Between-treatment comparisons for all the change from baseline parameters were accomplished by an analysis of covariance (ANCOVA) model, including fixed terms of treatment, center, treatment by center interaction, and baseline scoring as a covariate. A preliminary test of normality examining change in average daily pain score in the intent-to-treat population showed that the data for this population were not normally distributed. Therefore, data for the dependent variable were rank-transformed. The Cochran-Mantel-Haenszel test was used to assess PPI at the final visit and the investigator-rated Clinical Global Impression of Change and Subjects' Global Impression of Change. For the evaluation of PPI, the test took baseline values into account. All P values reported are 2-tailed and no adjustments were made for multiple comparisons.
+
+Results
+A summary profile of the trial is presented in Figure 1, following guidelines recommended by the Consolidated Standards of Reporting Trials statement.31 A total of 229 subjects were randomized during the baseline visit. Of these, 184 (80.3%) completed the study, 15.3% discontinued the study because of adverse events, and the remaining 4.4% discontinued because of other reasons. The 2 treatment groups were comparable with respect to the proportion of patients who discontinued because of adverse events (P=.20) and the proportion of patients who completed the study (P=.62). Of those subjects treated with gabapentin who achieved stable dosing, 83.3% received at least 2400 mg/d and 65.0% received 3600 mg/d.
+
+Results for both populations (intent-to-treat and efficacy evaluable) per treatment group were similar for all parameters analyzed. The results presented here are for the intent-to-treat population only, which is a more conservative approach in analyzing these data.
+
+Demographic and baseline clinical characteristics at randomization are presented in Table 1. There were no statistically significant differences in distribution of sex, age, or race between the gabapentin and placebo treatment groups. Similarly, there were no statistically significant differences between the treatment groups in time since last herpes zoster eruption, baseline average daily pain score, prior PHN medications, or concomitant medications.
+
+Primary Outcome
+The average daily pain score was significantly reduced at the end of the study in the gabapentin population (33.3% reduction) compared with the placebo population (7.7% reduction) (Table 2). At the end of week 8 (or the final week), the gabapentin population showed an average daily pain score of 4.2 (decrease of 2.1) vs the placebo population with an average daily pain score of 6.0 (decrease of 0.5) (P<.001). A comparison of change in average daily pain score over the course of the 8 weeks (Figure 2) shows this reduction was established at week 2, with a further reduction at week 4. At week 8, pain reduction was maintained at the week 4 level.
+
+Secondary Efficacy Parameters
+Subjects who received gabapentin reported significantly improved average daily sleep rating scores over their placebo counterparts (P<.001) (Table 2). Mean scores on the SF-MPQ were also markedly improved for total pain (P<.001), as well as for the 2 components of this measure, sensory pain (P<.001) and affective pain (P<.001) (Table 2). The SF-MPQ ratings of PPI likewise were statistically significantly improved among subjects treated with gabapentin (P<.01). This included a rating of "no pain" at the final week in 16.0% of subjects treated with gabapentin compared with 8.8% of subjects treated with placebo.
+
+The Subjects' Global Impression of Change Questionnaire indicated that gabapentin had provided valuable pain relief for many subjects. At the end of the study, 43.2% of subjects treated with gabapentin categorized their pain as much or moderately improved compared with 12.1% of the subjects treated with placebo (Figure 3). The majority of subjects receiving placebo (59.5%) reported no change in their level of pain in contrast to 22.9% of the subjects treated with gabapentin. The investigator-rated Clinical Global Impression of Change showed similar results (Figure 4).
+
+On the SF-36, measures relating to physical functioning, role-physical, bodily pain, vitality, and mental health all showed gabapentin to be superior to placebo (P≤.01; Table 3). Similarly, subjects treated with gabapentin showed significantly greater improvement than subjects treated with placebo in the POMS assessments of depression-dejection, anger-hostility, fatigue-inertia, and confusion-bewilderment, as well as in total mood disturbance (P≤.01; Table 3).
+
+Safety
+Measures of frequency, nature, and severity of adverse events were derived from a total of 229 subjects, of whom 113 had received gabapentin and 116 placebo. Minor adverse events that were deemed associated with the study medication were reported in a total of 62 subjects (54.9%) receiving gabapentin and 32 subjects (27.6%) receiving placebo. No serious adverse events that were determined by the investigator to be related to gabapentin were reported. One death occurred in the placebo group during the study and was considered unrelated to the study medication. Overall, the most frequently reported adverse effects among the gabapentin group, which occurred at higher incidences than those in the placebo group, were somnolence (27.4% vs 5.2%), dizziness (23.9% vs 5.2%), ataxia (7.1% vs 0.0%), peripheral edema (9.7% vs 3.4%), and infection (8.0% vs 2.6%). Subjects in the older age range did not experience more of the central nervous system–related adverse effects of dizziness, somnolence, and ataxia than subjects in the younger age range. The most frequently reported adverse event noted in the placebo group was pain: 10.3% compared with 4.4% of subjects in the gabapentin group.
+
+A total of 15 (13.3%) and 11 (9.5%) of subjects in the gabapentin and placebo treatment groups, respectively, withdrew from the study for adverse events described as related to the study medication. Dizziness led to withdrawal from the study of 6 subjects (5.3%) treated with gabapentin, while somnolence led to the withdrawal of 5 subjects (4.4%) treated with gabapentin. In the placebo group, 2 subjects (1.7%) withdrew from the study because of somnolence, and there were no withdrawals because of dizziness.
+
+Comment
+The results of our study clearly show that gabapentin reduces PHN pain compared with placebo. This was demonstrated on several measures of pain and as assessed by subjects as well as investigators. For the primary outcome variable, change in average daily pain score, the actual calculated power of the study in demonstrating the predicted level of efficacy of gabapentin approached 100%. In addition, several secondary outcome measures also showed gabapentin as superior to placebo. Sleep, several quality-of-life measures, and several mood state variables were significantly improved by gabapentin therapy. Significant improvement was evident during the titration phase (at the 2-week time period) and continued to accrue over the course of 8 weeks of treatment. Adverse effects of gabapentin were minor and well tolerated, consisting primarily of somnolence and dizziness. These 2 adverse effects accounted for most of the adverse event–related withdrawals. Despite doses of gabapentin up to 3600 mg/d in a population with an average age of 73 years, no serious drug-related adverse events were reported. In clinical practice, adverse effects such as these can be managed by a slower upward titration, dose reduction, and use of lower maximum doses than allowed in the clinical trial protocol. Serious adverse events, especially of a cardiovascular nature, were not evident. Overall, gabapentin reduced PHN pain with a very acceptable adverse effect profile.
+
+The mechanism of action of gabapentin remains uncertain. Spinal cord neuronal calcium channels play a potentially important role in chronic neuropathic pain and are modulated by gabapentin. Analgesia through GABAergic neurotransmission effects is much less certain. Despite the uncertainty regarding the mechanism of action of gabapentin, the drug has been shown effective in rat models of chronic neuropathic pain.22-25 Results of treatment of PHN can likely be predicted by testing in preclinical neuropathic pain models because PHN is not only common, but has consistent symptomatology, a clear cause, and consistent neuropathology.
+
+The current standard of treatment for PHN with oral medications are the TCAs. Nontricyclic antidepressants with better adverse effect and safety profiles, including the selective serotonin reuptake inhibitors, have not been proven equivalent to TCAs in terms of efficacy.16 In the elderly population afflicted with PHN, therapy with TCAs is frequently either contraindicated (usually for cardiovascular reasons) or poorly tolerated because of excessive sedation, cognitive impairment, dry mouth, constipation, sexual dysfunction, and orthostatic lightheadedness. Other approaches with good safety and evidence of efficacy, such as topical local anesthetics and topical aspirin-nonsteroidal anti-inflammatory agents, are either unproven in long-term use or not commercially available.2 Topical capsaicin produces a modest improvement in pain after long-term use, but has a high rate of burning sensations that are unacceptably severe.1 Opioids are frequently used to treat PHN in clinical practice, but do not yet have adequate support from placebo-controlled studies of long-term use. Many of the problematic adverse effects of TCAs also pertain to the use of opioids, such as sedation, cognitive impairment, and constipation. In addition, many patients and physicians are reluctant to use medications that carry the stigma of being addicting, despite the lack of evidence that this is a problem in the PHN population.
+
+From the safety and efficacy evidence in our study, a strong case can be made for considering gabapentin as a first-line oral medication for management of PHN pain. There are no studies directly comparing gabapentin with TCAs. From published systematic reviews of antidepressants and anticonvulsants for neuropathic pain by McQuay et al,32 comparisons of safety and efficacy can be made by calculating the number needed to treat (NNT) for both parameters. The NNT is the reciprocal of the difference in the percentage of patients improved or harmed by active therapy compared with control therapy, expressed for benefit as 1/[(% improved active)−(% improved placebo)]. For placebo-controlled TCA studies of PHN pain, the NNT for benefit ranged from 1.9 to 4.1; for minor adverse events, the NNT ranged from 1.7 to 8.8; and for adverse events leading to study withdrawal, the NNT ranged from 13 to 37. From the data in Figure 4 and the text, the gabapentin NNT for benefit is 3.2, the NNT for minor adverse events is 3.7, and the NNT for adverse events leading to study withdrawal is 25. From this perspective, gabapentin should be considered at least as effective as TCAs, at least as safe, and with fewer contraindications to use.
+
+Tricyclic antidepressants and opioids each have a different mechanism of action than gabapentin. Tricyclic antidepressants may relieve pain through serotonin and norepinephrine reuptake blockade, by blockade of α-adrenergic receptors, by sodium channel-blocking effects, and by relief of depression. Opioids relieve pain through activation of a family of specific receptors found in both the central and peripheral nervous systems. Because of its straightforward pharmacokinetics and relative lack of adverse drug interactions, multidrug regimens to control chronic neuropathic pain can include gabapentin if gabapentin monotherapy fails. In summary, based on the results of this 8-week study, gabapentin can be added to the list of first-line medications for treatment of chronic neuropathic pain syndromes such as PHN.
+
+References
+1.
+Watson CPN, Tyler KL, Bickers DR, Millikan LE, Smith S, Coleman E. A randomized vehicle-controlled trial of topical capsaicin in the treatment of postherpetic neuralgia.  Clin Ther.1993;15:510-526.Google Scholar
+2.
+Kost RG, Straus SE. Postherpetic neuralgia—pathogenesis, treatment, and prevention.  N Engl J Med.1996;335:32-42.Google Scholar
+3.
+Herne K, Cirelli R, Lee P, Tyring SK. Antiviral therapy of acute herpes zoster in older patients.  Drugs Aging.1996;8:97-112.Google Scholar
+4.
+Johnson RW. Aspects of postherpetic neuralgia: can we zap Z-aP?  Pain Rev.1996;3:117-135.Google Scholar
+5.
+Watson CPN. The treatment of postherpetic neuralgia.  Neurology.1995;45(suppl 8):S58-S60.Google Scholar
+6.
+Kishore-Kumar R, Max MB, Schafer SC.  et al.  Desipramine relieves postherpetic neuralgia.  Clin Pharmacol Ther.1990;47:305-312.Google Scholar
+7.
+Max MB, Schafer SC, Culnane BSN, Smoller B, Dubner R, Gracely RH. Amitriptyline, but not lorazepam, relieves postherpetic neuralgia.  Neurology.1988;38:1427-1432.Google Scholar
+8.
+Max MB. Treatment of post-herpetic neuralgia: antidepressants.  Ann Neurol.1994;35:S50-S53.Google Scholar
+9.
+Takeda Y, Kobayashi H, Suzuki K, Sei Y, Nishio K, Ishizaki H. Analgesic effects of clomipramine (Anafranil) on postherpetic neuralgia.  Skin Res.1988;30:33-36.Google Scholar
+10.
+Watson CPN, Evans RJ, Reed K, Merskey H, Goldsmith L, Warsh J. Amitriptyline versus placebo in postherpetic neuralgia.  Neurology.1982;32:671-673.Google Scholar
+11.
+Watson CPN, Evans RJ. A comparative trial of amitriptyline and zimelidine in post-herpetic neuralgia.  Pain.1985;23:387-394.Google Scholar
+12.
+Watson CP, Chipman M, Reed K, Evans RJ, Birkett N. Amitriptyline versus maprotiline in postherpetic neuralgia: a randomized, double-blind, crossover trial.  Pain.1992;48:29-36.Google Scholar
+13.
+Bowsher D. Postherpetic neuralgia and its treatment: a retrospective survey of 191 patients.  J Pain Symptom Manage.1996;12:290-299.Google Scholar
+14.
+Göbel H, Stadler T. Treatment of post-herpes zoster pain with tramadol: results of an open pilot study versus clomipramine with or without levomepromazine.  Drugs.1997;53(suppl 2):34-39.Google Scholar
+15.
+Gerson GR, Jones RB, Luscombe DK. Studies on the concomitant use of carbamazepine and clomipramine for the relief of post-herpetic neuralgia.  Postgrad Med J.1977;53(suppl 4):104-109.Google Scholar
+16.
+Kingery WS. A critical review of controlled clinical trials for peripheral neuropathic pain and complex regional pain syndromes.  Pain.1997;73:123-139.Google Scholar
+17.
+Volmink J, Lancaster T, Gray S, Silagy C. Treatments for postherpetic neuralgia—a systematic review of randomized controlled trials.  Fam Pract.1996;13:84-91.Google Scholar
+18.
+Goa KL, Sorkin EM. Gabapentin: a review of its pharmacological properties and clinical potential in epilepsy.  Drugs.1993;46:409-427.Google Scholar
+19.
+Bruni J, Saunders M, Anhut H, Sauermann W. Efficacy and safety of gabapentin (Neurontin): a multicenter, placebo-controlled, double-blind study.  Neurology.1991;41(suppl 1):330-331.Google Scholar
+20.
+UK Gabapentin Study Group.  Gabapentin in partial epilepsy.  Lancet.1990;335:1114-1117.Google Scholar
+21.
+US Gabapentin Study Group.  Gabapentin as add-on therapy in refractory partial epilepsy: a double-blind, placebo-controlled, parallel-group study.  Neurology.1993;43:2292-2298.Google Scholar
+22.
+Gillin S, Sorkin LS. Gabapentin reverses the allodynia produced by the administration of anti-GD2 ganglioside, an immunotherapeutic drug.  Anesth Analg.1998;86:111-116.Google Scholar
+23.
+Hwang JH, Yaksh TL. Effect of subarachnoid gabapentin on tactile-evoked allodynia in a surgically induced neuropathic pain model in the rat.  Reg Anesth.1997;22:249-256.Google Scholar
+24.
+Singh L, Field MJ, Ferris P.  et al.  The antiepileptic agent gabapentin (Neurontin) possesses anxiolytic-like and antinociceptive actions that are reversed by D-serine.  Psychopharmacology.1996;127:1-9.Google Scholar
+25.
+Xiao W-H, Bennett GJ. Gabapentin has an antinociceptive effect mediated via a spinal site of action in a rat model of painful peripheral neuropathy.  Pain.1996;2:267-273.Google Scholar
+26.
+Mellick GA, Mellicy LB, Mellick LB. Gabapentin in the management of reflex sympathetic dystrophy.  J Pain Symptom Manage.1995;10:265-266.Google Scholar
+27.
+Rosner H, Rubin L, Kestenbaum A. Gabapentin adjunctive therapy in neuropathic pain states.  Clin J Pain.1996;12:56-58.Google Scholar
+28.
+Stacey BR, Owen GT, Sinclair JD, Glick RM, Tipton KD. Gabapentin for neuropathic pain states: a case series report [Abstract].  Reg Anesth.1996;21:S65.Google Scholar
+29.
+Rosenberg JM, Harrell C, Ristic H, Werner R, de Rosayro AM. The effect of gabapentin on neuropathic pain.  Clin J Pain.1997;13:251-255.Google Scholar
+30.
+Attal N, Parker F, Brasseur L, Chauvin M, Bouhassira D. Efficacy of gabapentin on neuropathic pain: a pilot study. In: Program and abstracts of the 16th Annual Scientific Meeting of the American Pain Society; October 23-26, 1997; New Orleans, La. Abstract 653.
+31.
+Begg C, Cho M, Eastwood S.  et al.  Improving the quality of reporting of randomized controlled trials: the CONSORT statement.  JAMA.1996;276:637-639.Google Scholar
+32.
+McQuay H, Carroll D, Jadad AR, Wiffen P, Moore A. Anticonvulsant drugs for management of pain: a systematic review.  BMJ.1995;311:1047-1052.Google Scholar

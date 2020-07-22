@@ -1,0 +1,809 @@
+﻿NEUROPATHIC PAIN SECTION
+Original Research Articles
+Efficacy of Gabapentin Enacarbil vs Placebo in
+Patients with Postherpetic Neuralgia and a
+Pharmacokinetic Comparison with
+Oral Gabapentinpme_1139 1098..1108
+Miroslav M. Backonja, MD,* Daniel M. Canafax,
+PharmD, FCCP,† and Kenneth C. Cundy, PhD†
+*Department of Neurology, University of Wisconsin,
+Madison, Wisconsin and
+†
+XenoPort, Inc., Santa Clara, California, USA
+Reprint requests to: Daniel Canafax, PharmD, FCCP,
+XenoPort, Inc., 3410 Central Expressway, Santa Clara,
+CA 95051. Tel: 408-616-7200; Fax: 408-616-7211;
+E-mail: dan.canafax@xenoport.com.
+Financial Disclosures: Dr. Backonja has received
+honoraria, consulting fees, or grant/research support
+from Endo Pharmaceuticals, GlaxoSmithKline,
+Johnson & Johnson, NeurogesX, Inc., Novartis
+Pharmaceuticals, Pfizer Inc., Purdue Pharma LP,
+Wyeth, and XenoPort, Inc. Drs. Canafax and Cundy
+are employees of XenoPort, Inc.
+Received September 2010; revised March 2011.
+Abstract
+Background. The efficacy of gabapentin in some
+patients with postherpetic neuralgia (PHN) may be
+limited by suboptimal drug exposure from unpredictable and saturable absorption. Gabapentin enacarbil
+(GEn) was designed for absorption by high-capacity
+transporters expressed throughout the intestine and
+undergoes rapid postabsorption hydrolysis to gabapentin. GEn extended-release tablets provide sustained, dose-proportional gabapentin exposure. This
+study assessed the efficacy of GEn vs placebo and
+compared the pharmacokinetics of gabapentin after
+oral dosing of GEn or gabapentin in patients with
+PHN.
+Methods. In this double-blind, randomized study,
+115 patients with PHN completed a 7-day baseline
+period and 11-day gabapentin run-in period. Eligible
+patients were randomized and 101 received doubleblind GEn 1,200 mg (624 mg-equivalents gabapentin)
+(n = 47) or placebo (n = 54), twice daily for 14 days.
+We evaluated patient-reported pain, sleep, mood,
+global improvement, and adverse events, plus gabapentin pharmacokinetics.
+Results. The improvement in mean weekly pain
+scores from baseline to the end of treatment
+(primary endpoint) was significantly greater for
+GEn (-2.1) vs placebo (-1.2), P = 0.0321. Significant
+improvements from GEn vs placebo were also seen
+in sleep, mood, and patient global assessment
+(P < 0.05). With a 31% lower daily dose of gabapentin equivalents, GEn tablets provided a significant
+increase in average steady state gabapentin concentrations vs gabapentin capsules in the same
+patients (n = 42; P = 0.0050).
+Conclusions. GEn was effective in providing PHN
+pain relief, improved gabapentin exposure compared
+with gabapentin capsules, and was generally safe
+and well tolerated in patients with PHN.
+Key Words. Gabapentin Enacarbil; Neuropathic
+Pain; Gabapentin; Postherpetic Neuralgia;
+Pharmacokinetics
+Introduction
+At present, over 90% of the US adult population has been
+infected with varicella-zoster virus during their lifetime and
+20–30% will develop acute herpes zoster infection in the
+form of shingles later in life [1]. Of these, 10–15% will
+develop the distressing complication of postherpetic neuralgia (PHN) from this infection, which is characterized by
+persistent neuropathic pain occurring at the site of the
+original shingles pain and cutaneous lesions [1]. PHN
+symptoms may take on various forms including pain, paresthesia, dysesthesia, hyperalgesia, and allodynia, and
+may persist for many years, often disrupting sleep, altering
+mood, and adversely affecting the patient’s quality of life
+[2–4]. Drug treatment options for the care of patients with
+PHN include tricyclic antidepressants, anticonvulsants,
+opioids, and topical agents [5–6]. Despite the use of these
+Pain Medicine 2011; 12: 1098–1108
+Wiley Periodicals, Inc.
+1098
+therapies, many patients with PHN do not respond
+adequately and continue to endure chronic debilitating
+pain.
+In numerous clinical study reports, gabapentin has been
+shown to improve pain scores in patients with PHN
+[7–10]. However, in two randomized, double-blind,
+placebo-controlled studies, not all patients with PHN had
+adequate pain relief [7–8]. This may be in part the result
+of suboptimal gabapentin exposure in some patients
+[11,12].
+Studies in healthy volunteers and in patients with epilepsy
+have shown that bioavailability of gabapentin is highly
+variable and dose dependent, decreasing from about 60%
+to less than 30% over the dose range of 300 to 4,800 mg
+daily customarily used for treatment of pain [13,14]. This
+phenomenon is likely the result of the limited absorption
+pathway of gabapentin, which utilizes a low-capacity
+transporter localized in a narrow region of the upper small
+intestine [15]. The level of expression of this transporter
+may vary between individuals and, as a result, uptake of
+gabapentin may be saturated in some patients at clinically
+relevant doses. Transit time through the upper intestine
+also varies greatly from patient to patient [16], leading to
+unpredictable residence time of gabapentin in the absorption window, and hence wide variation in the overall extent
+of absorption [13]. These factors combine to produce
+unpredictable plasma levels after gabapentin dosing in
+some subjects [13], which may in turn affect therapeutic
+response. The relatively short elimination half-life of gabapentin from the blood (5 to 7 hours) [14] further exacerbates the problem, requiring dosing regimens of three to
+four times daily in some patients to maintain therapeutic
+blood levels [17].
+Gabapentin enacarbil (GEn, XP13512) is an actively
+transported prodrug of gabapentin designed to produce
+dose proportional gabapentin blood level exposure
+[18,19]. GEn is absorbed by high-capacity pathways,
+including active uptake by nutrient transporters (monocarboxylate transporter type 1 and the sodiumdependent multivitamin transporter) that are expressed
+throughout the gastrointestinal tract. Once absorbed
+from the intestinal lumen, GEn is rapidly hydrolyzed to
+gabapentin by high-capacity, nonspecific carboxylesterases, primarily in the enterocyte. GEn has a much
+wider window of absorption than gabapentin, the uptake
+pathways involved are not saturable at clinically useful
+doses, and gabapentin exposure provided by GEn is
+proportional to the GEn dose [20]. GEn has been successfully formulated as extended-release tablets, further
+prolonging the absorption of GEn and providing sustained systemic exposure to gabapentin.
+The primary objective of the present study was to
+assess the efficacy of GEn vs placebo in reducing pain
+associated with PHN. The secondary study objectives
+were to assess the following: 1) the effects of GEn for
+improvement in sleep, quality of life, and mood; 2) pharmacokinetics of GEn and oral gabapentin; 3) the relationship between gabapentin concentrations produced
+from GEn and treatment response; and 4) GEn safety
+and tolerability.
+Methods
+Patients
+After signing an informed consent form, PHN patients
+were assessed for eligibility. Eligible patients 18–89 years
+of age were those who had experienced pain at the site
+of their herpes zoster rash more than 3 months after
+healing and who had a self-reported average pain score
+of 4 and <10, on a scale of 0 to 10, in the week prior
+to screening, and an average pain score of 4 during
+the 7-day baseline period [21]. Eligible patients must
+have also completed at least six diary entries during the
+7-day baseline period. Anticonvulsant medication
+(including gabapentin), muscle relaxants, mexiletine, and
+topical analgesics were discontinued 1 week prior to
+baseline; previously prescribed tricyclic antidepressants
+and/or narcotic analgesics could have been continued if
+therapy had been stabilized at least 1 month prior to
+study entry and had remained constant throughout. To
+minimize the potential to confound treatment response
+assessment, patients were excluded if they had received
+neurolytic or neurosurgical treatment for PHN, a condition causing pain more severe than the pain associated
+with PHN, a history of an unexplainable type of pain,
+intolerance or hypersensitivity to gabapentin, moderate
+or severe depression, clinically significant or unstable
+medical conditions, a body mass index of >32 kg/m2
+,
+or an estimated creatinine clearance of <60 mL/min.
+Pregnant patients were excluded. The study was
+conducted in accordance with good clinical practice and
+the 1996 version of the Declaration of Helsinki [22]. Independent Review Board (IRB) approvals for 15 investigators were obtained from Copernicus Group IRB, 118
+MacKenan Drive Suite 400, Cary, NC 27511, while additional investigators were approved by either the University of Wisconsin Health Sciences IRB, B3088 VA
+Medical Center, 2500 Overlook Terrace, Madison WI
+53705 (1 investigator) or the University of California San
+Diego Human Research Protections Program, 9500
+Gilman Drive, Department 0052, La Jolla, CA 92093
+(1 investigator).
+Study Design
+This study (XenoPort, Inc. protocol XP009) had three
+sequential periods including baseline, open label gabapentin run-in period, and double-blind, randomized GEn vs
+placebo in patients with PHN, as shown in Figure 1. It was
+conducted between June 21, 2004 and March 15, 2005
+by investigators at the 17 US study sites listed in the
+Appendix. Following a 7-day baseline period, all patients
+received an open-label gabapentin for 11 days. The gabapentin dose was titrated over 4 days starting with 300 mg
+at bedtime to the target dose of 600 mg three times daily.
+Patients were maintained at this dose for 7 days. Patients
+who completed this period were then randomized to 2
+1099
+Gabapentin Enacarbil Treatment of Postherpetic Neuralgia
+weeks of double-blind treatment with either 1,200 mg
+GEn (2 ¥ 600 mg tablets) twice daily or matching placebo
+using a block randomization stratified by study site. GEn
+or placebo was taken every 12 hours with or without food,
+except on pharmacokinetic sampling days, when the
+doses were administered with food. Patients who experienced pain during the study, which in the opinion of the
+investigator required additional treatment, were given
+rescue treatment with acetaminophen up to 2 gm/day.
+Clinic visits for endpoint and safety assessments were
+conducted on study Days 0, 8, 19, 23, 27, 30, and 33
+(end of treatment).
+Efficacy Assessments
+Pain intensity rating scores were recorded daily at the
+time of the morning and evening doses of study drug
+beginning 1 week before screening and continuing until
+the end of the study. Patients’ self-reported scores were
+recorded in an electronic diary (LogPad; PHT Corp.,
+Charlestown, MA, USA) using an 11-point numerical pain
+scale (0 = no pain, 10 = worst pain imaginable) [21];
+negative changes from baseline indicated improvement.
+The primary efficacy assessment was the change in
+mean weekly pain score from baseline to the final week
+on double-blind treatment for GEn compared with
+placebo. To calculate each patient’s pain score, the
+morning and evening scores for each day were averaged
+together to derive the mean daily pain score, and the
+mean weekly pain score was the average of the mean
+daily pain scores for each week. For patients not completing 14 days of double-blind treatment, the mean of
+daily pain scores from the 7 days preceding discontinuation was used. Secondary efficacy endpoints for GEn
+compared with placebo included the change in mean
+weekly pain score from baseline to Week 1 of doubleblind treatment, change in mean weekly pain score from
+baseline to Week 2 double-blind treatment, and the proportion of patients showing either a 30% or 50%
+reduction in mean pain score between baseline and
+the end of treatment. A post hoc pharmacokinetic/
+pharmacodynamic assessment was performed using
+change in mean weekly pain score from baseline to the
+end of each treatment (GEn or gabapentin) for patients
+randomized to GEn in the double-blind study period who
+had pharmacokinetics assessed.
+Other Assessments
+Sleep interference scores were also recorded by patients
+in the electronic diary each morning, from the beginning
+of the baseline period until the end of the study. These
+scores assessed the extent to which pain interfered with
+sleep during the previous night on an 11-point scale
+(0 = pain did not interfere with sleep, 10 = pain completely interfered with sleep). To assess mood, patients
+completed the Profile of Mood States (POMS) assessment [23] at the end of the baseline period (Day 8) and
+the end of treatment. At the end of the study, both the
+patient and investigator used the 7-point Clinical Global
+Impression of Change (CGI-C) scale to rate the patient’s
+change from baseline (1 = very much improved, 7 = very
+much worse) and a responder was defined as any patient with a rating of “very much improved” or “much
+improved.”
+Pharmacokinetic Assessments
+The gabapentin pharmacokinetic parameters were determined from plasma and urine concentrations at steady
+state. Blood samples were collected prior to dosing and
+over the course of a single dosing interval for gabapentin
+treatment at 0.5, 1, 1.5, 2, 3, 4, 6, and 8 hours and after
+GEn or placebo treatment at 0.5, 1, 1.5, 2, 3, 4, 6, 8, 10,
+and 12 hours. Blood samples were processed immediately and the plasma separated for storage. Complete
+urine output was obtained over the same time periods.
+Plasma and urine samples were stored at -20°C and
+shipped frozen to MDS Pharma Services (Lincoln, NE,
+USA) for analysis. Gabapentin levels were determined by
+validated liquid chromatography–mass spectrometry/
+mass spectrometry (LC–MS/MS) methods. The
+LC–MS/MS method was validated for gabapentin in
+plasma over the range 80–10,000 ng/mL. The lower limit
+of quantitation was 80 ng/mL. The interbatch precision
+(% coefficient of variation [%CV]) and accuracy (% bias)
+for gabapentin in plasma were 9.5% and 5.1%,
+respectively. The LC–MS/MS method was validated for
+gabapentin in urine over the range 50–12,500 ng/mL.
+The limit of quantitation was 50 ng/mL. The interbatch
+%CV and accuracy for gabapentin in urine were 8.0%
+and 2.0%, respectively. Concentration data for gabapentin in plasma were analyzed by noncompartmental
+methods using WinNonlin (Pharsight Corporation, MounFigure 1 Diagrammatic presentation of patient flow
+through phases of the study.
+GEn = gabapentin enacarbil;
+PK = pharmacokinetic analysis.
+TID = three times a day;
+BID = twice a day.
+1100
+Backonja et al.
+tain View, CA, USA). The steady-state maximum concentration (Cmax,ss) and time to Cmax,ss (Tmax,ss) values were
+obtained by observation. The apparent elimination halflife was determined by linear regression of three or more
+log-transformed data points in the terminal phase. The
+area under the plasma concentration–time curve at
+steady state was obtained by the linear trapezoidal
+method using concentration data over the corresponding
+dosing interval.
+Safety and Tolerability Assessments
+Treatment-emergent adverse events (AEs) and serious
+adverse events (SAEs) were assessed at each patient
+visit and by spontaneous reports throughout the study
+with dates of onset and resolution, severity, and relation
+to the study drug recorded. Vital signs were measured
+and clinical laboratory tests were performed at screening
+and each patient visit. A 12-lead electrocardiography
+(ECG) was performed at screening, just prior to randomization, and at the last visit. Complete physical and neurological examinations were conducted at screening and
+at the last visit.
+Data Analysis
+The sample size required for the primary efficacy assessment GEn vs placebo was predicted using the results of
+two published gabapentin studies in the treatment of PHN
+[7,8]. A sample size of 120 evaluable patients (60 per
+treatment group) was considered likely to be sufficient to
+detect, with 80% power, a treatment difference of 1.03
+between GEn and placebo in the change from baseline in
+mean weekly pain score, using a two-sided t-test at a
+significance level of 0.05 and assuming a standard deviation (SD) of 2.0. A prospectively planned unblinded interim
+analysis by the Data and Safety Monitoring Board was
+conducted when approximately 50% of subjects were
+enrolled. The goals of this analysis were confirmation that
+the study was adequately powered and to review the safety
+data. The interim analysis revealed that the number of
+patients to be enrolled could be reduced to 100 (50/group)
+and still assure detecting with 80% power a treatment
+difference, if one existed, and it was safe to continue.
+Demographic and baseline data were summarized
+descriptively. All efficacy analyses were performed on the
+intent-to-treat population defined as all patients who
+received at least one dose, or portion of a dose, of the
+study drug and who reported at least one daily pain score
+after randomization. Changes from baseline in mean
+weekly pain score, weekly morning sleep interference
+score, and POMS domains were analyzed using analysis
+of covariance model with fixed effects for treatment, study
+site (pooled), and treatment-by-site interaction and baseline score as covariate. Responder categories (30%
+improvement and 50% improvement) were assessed
+using the Cochran–Mantel–Haenszel test, adjusted for
+study site (pooled).
+Results from the pharmacokinetic analyses were summarized descriptively and treatment differences were determined using paired t-tests. Safety and tolerability analyses
+were performed on the safety population, defined as all
+patients who were randomized and who received at least
+one dose, or portion of a dose, of study drug. Exploratory
+analyses were performed on the subset of patients randomized to receive GEn to compare the efficacy data within
+patients for the treatment periods on gabapentin and GEn.
+Mean weekly pain scores, response to treatment, and
+mean weekly morning sleep interference scores were analyzed using paired t-, Fisher, and McNemar tests.
+A post hoc exploratory analysis of the relationship
+between improvement in gabapentin plasma level exposure (average steady-state gabapentin plasma concentrations or Css,ave) after switching from gabapentin to GEn and
+resulting changes in efficacy was performed. GEn-treated
+patients were assigned to subgroups, based on the magnitude of improvement in gabapentin exposure. Group I
+was defined as patients who had a >30% increase in
+gabapentin Css,ave after switching to GEn. Group II was
+defined as those patients with minimal change in gabapentin exposure (i.e., within <20% of initial Css,ave) after
+switching to GEn. Change in mean weekly pain scores
+and mean weekly morning sleep interference scores for
+these two subgroups were analyzed using paired t-tests.
+P values not adjusted for multiple comparisons have been
+provided for all secondary endpoints as additional
+descriptive statistics.
+Results
+Patient Population
+A total of 221 adults aged 23–87.2 years with a history of
+herpes zoster infection and PHN were assessed for study
+eligibility. Of these, 105 patients were excluded for not
+meeting eligibility criteria. A total of 116 patients were
+enrolled and received gabapentin treatment, 115 patients
+completed this period, and 101 patients were randomized
+and received at least one dose of either GEn 1,200 mg
+(n = 47) or placebo twice daily (n = 54). The remaining
+patients discontinued from the study before randomization for the following reasons: AEs, not eligible, not adhering to the protocol, and patient request, as shown in
+Figure 2. Patient demographics and baseline characteristics are shown in Table 1 and were similar between the
+randomized treatment groups except the mean duration
+of PHN for the GEn group compared with placebo group
+was 3.7 vs 2.7 years, respectively, and the mean time
+since herpes zoster onset was 3.7 vs 2.9 years, respectively. Two patients in the placebo group and no subjects
+in the GEn group were on a tricyclic and two patients (one
+placebo, one GEn) were on venlafaxine.
+Efficacy Outcomes
+The pain score results are summarized in Table 2. From
+baseline to the end of the gabapentin period, the
+mean  SD pain scores decreased to -1.7 for N = 101
+1101
+Gabapentin Enacarbil Treatment of Postherpetic Neuralgia
+patients. After randomization, patients treated with
+GEn (n = 47) had a significantly greater decrease in
+mean  SD weekly pain scores from baseline to the final
+week on double-blind treatment compared with placebo (n = 54); -2.1  1.63 vs -1.2  1.69, P = 0.0321,
+respectively. In addition, the decrease in mean  SD
+weekly pain scores from baseline to the end of the first
+week on double-blind treatment were significantly greater
+for GEn vs placebo, -1.7  1.40 vs -1.0  1.49,
+P = 0.0299, respectively.
+A significantly greater proportion of patients receiving GEn
+had a 30% improvement in weekly pain score from
+baseline to the final week on double-blind treatment, compared with placebo (55.3% vs 27.8%, P = 0.0073). The
+treatment difference observed for the proportion of
+Figure 2 Consort flow chart.
+1102
+Backonja et al.
+patients with a 50% improvement was 9.2% in favor of
+GEn, but did not reach statistical significance (GEn 27.7%
+vs placebo 18.5%, P = 0.2582).
+Effect of Switching from gabapentin to GEn
+or placebo
+Patients randomized to receive either placebo or GEn had
+the same mean  SD change from baseline during the
+initial open-label treatment with gabapentin of GEn
+-1.7  1.47 vs placebo, -1.7  1.56, P = 0.9817.
+However, once patients were randomized to the study
+drug, a significant improvement in pain was seen in the
+GEn group, with an additional decrease in mean  SD
+weekly pain score from the gabapentin treatment period
+to the final week on double-blind treatment of -0.4  1.35
+compared with worsening pain scores in placebo patients
+of +0.4  1.46, P = 0.0112.
+Table 1 Patient baseline and demographic characteristics (Safety Patient Population)
+Patient Characteristics Placebo (N = 54) GEn (N = 47) P value†
+Age, years
+Mean (SD) 64.0 (12.69) 65.0 (12.32) 0.6418
+Range 23.0–87.2 33.7–82.1
+Sex, n (%)
+Male 27 (50.0) 22 (46.8) 0.7489
+Female 27 (50.0) 25 (53.2) —
+Race, n (%)
+Caucasian 50 (92.6) 46 (97.9) —
+Other 4 (7.4) 1 (2.1) —
+Time since herpes zoster symptom onset, years
+Mean (SD) 2.9 (4.17) 3.7 (4.04) 0.2614
+Range 0.3–18.8 0.3–15.7
+Duration of PHN, years
+Mean (SD) 2.7 (4.16) 3.7 (4.08) 0.1897
+Range 0.1–18.8 0.1–15.7
+PHN location, n (%)‡
+Torso 32 (59.3) 29 (61.7) —
+Head/neck 22 (40.7) 15 (31.9) —
+Other 4 (7.4) 6 (12.8) —
+† P value from Pearson’s chi-square test for categorical variables and 2-way ANOVA for continuous variables. ‡ Percentages do not equal 100 because some patients had PHN in more than 1 location and in other (not indicated) locations.
+ANOVA = analysis of variance; GEn = gabapentin enacarbil; PHN = postherpetic neuralgia; SD = standard deviation.
+Table 2 Analysis of pain score results for patients who were randomized to GEn or placebo (ITT
+population)
+Variable Placebo (n = 54) GEn (n = 47) P value1
+Baseline, mean (SD)2 6.1 (1.23) 6.2 (1.22) 0.74432
+Gabapentin treatment 4.5 (1.92) 4.5 (2.00) 0.9817
+Randomized Treatment — — —
+Change from baseline to the end of treatment, mean (SD) -1.2 (1.69) -2.1 (1.63) 0.0321
+30% improvement, n (%) 15 (27.8) 26 (55.3) 0.0073
+50% improvement, n (%) 10 (18.5) 13 (27.7) 0.2582
+1 P value for the baseline observations is for treatment effect from 2-way ANOVA with fixed effects for treatment, site (pooled), and
+treatment-by-site interaction. P value for post-baseline treatment effect is from 2-way ANCOVA fixed effects for treatment, site
+(pooled), and treatment-by-site interaction and with baseline score as a covariate for continuous responses, and from Cochran–
+Mantel–Haenszel test stratified by study center for categorical responses.
+2 The pain scale was from 0 to 10; higher scores indicate more severe pain. A negative change from baseline indicates a reduction
+in pain.
+ANCOVA = analysis of covariance; ANOVA = analysis of variance; GEn = gabapentin enacarbil; SD = standard deviation.
+1103
+Gabapentin Enacarbil Treatment of Postherpetic Neuralgia
+Sleep Interference
+Patients receiving GEn had significantly greater improvement in mean  SD weekly sleep interference scores from
+baseline through the end of treatment compared with
+placebo (GEn -2.2  1.76) vs placebo -0.9  1.75,
+P = 0.0010). A statistically significant difference between
+the treatment groups was also noted in the mean  SD
+change from end of gabapentin treatment to the final
+week of double-blind treatment, with the GEn group
+showing a further improvement of GEn -0.4  1.31 vs
+placebo +0.6  1.56, P = 0.0052.
+POMS
+GEn produced significantly greater improvement from
+baseline to the final week of double-blind treatment in four
+of the seven POMS domains vs placebo, as shown in
+Table 3. These included total mood disturbance,
+depression–dejection, anger–hostility, and vigor–activity.
+Patient CGI-C
+At end of treatment, the GEn group had significantly
+greater improvement compared with placebo in the
+patient global impression of change (P = 0.0003). “Very
+much” or “much improved” was reported by 42.6% of
+patients in the GEn group compared with 13.5% of
+patients in the placebo group.
+Short Form-McGill Pain Questionnaire (SF-MPQ)
+Results of the SF-MPQ showed statistically significant
+improvement in the GEn vs placebo group from baseline
+to the final week of treatment for total score and three of
+four components of this measure (GEn vs placebo,
+respectively): total score (-8.2 vs -3.6; P = 0.0209),
+sensory score (-7.2 vs -2.8; P = 0.0073), affective score
+(-1.0 vs -0.8; P = 0.6807), 0 to 100 visual analog pain
+scale score (-26.5 vs -11.0; P = 0.0121), and present
+pain intensity score (-0.8 vs -0.2; P = 0.0257).
+Pharmacokinetics
+The gabapentin pharmacokinetic parameters for n = 42
+(n = 38 for urine data) patients who received both gabapentin and GEn are compared in Table 4. As the molecular
+weights of GEn and gabapentin are 329.39 and 171.24,
+respectively, 600 mg GEn can potentially provide 312 mg
+of gabapentin upon hydrolysis. The GEn-treated patients
+received 2,400 mg daily, which provides 1,248 mgequivalents of gabapentin. This GEn dose represents 31%
+less gabapentin than the 1,800 mg daily dose of gabapentin capsules (1,800 mg-equivalents of gabapentin).
+The mean  SD gabapentin concentration vs time profiles
+at steady state for GEn vs gabapentin are shown in
+Table 3 Change from baseline to the end of treatment in POMS domains for patients who were
+randomized to GEn or placebo and data were available (ITT population)
+Variable Placebo (n = 50) GEn (n = 45) P value
+Total mood disturbance -2.6 (10.61) -9.6 (15.52) 0.0231
+Tension–anxiety -1.3 (2.61) -2.4 (3.51) 0.0981
+Depression–dejection -0.2 (2.34) -1.6 (2.96) 0.0265
+Anger–hostility -0.2 (2.52) -2.0 (3.19) 0.0145
+Vigor–activity -0.5 (3.56) 1.0 (3.54) 0.0257
+Fatigue–inertia -1.6 (2.66) -1.6 (4.60) 0.8972
+Confusion–bewilderment 0.3 (2.28) -0.9 (3.19) 0.1799
+All values are means (standard deviation). Negative values indicate improvement except in the vigor–activity domain, where positive
+values indicate improvement. Change from baseline domain scores were analyzed using an analysis of covariance (ANCOVA)
+model with fixed effects for treatment, site (pooled), and treatment-by-site interaction and baseline value as covariate.
+GEn = gabapentin enacarbil; POMS = Profile of Mood States.
+Table 4 Pharmacokinetic results for patients who
+received both gabapentin and GEn†
+Pharmacokinetic
+Parameters
+Treatment
+Gabapentin
+(n = 42)
+GEn
+(n = 42)
+Gabapentin equivalent
+dose
+1,800 mg 1,248 mg
+Css,ave, mg/mL 6.93 (2.25) 8.10 (2.91)
+F, % 43.3 (19.8)‡ 76.8 (26.4)‡
+AUC(0–24), mg·h/mL 166 (54.1) 194 (69.9)
+Css,max, mg/mL 9.07 (3.00) 11.00 (3.99)
+Tmax, hours 2.31 (1.13) 4.63 (2.45)
+T1/2, hours 7.23 (3.22) 7.37 (2.97)
+† All values are means (standard deviation). ‡ n = 38.
+AUC(0–24) = daily area under the concentration-vs-time curve at
+steady state; Css,ave = steady-state average plasma concentration; Css,max = steady-state maximum plasma concentration;
+F = bioavailability; GEn = gabapentin enacarbil; T1/2 = apparent
+elimination half-life; Tmax = time to maximum steady-state
+plasma concentration.
+1104
+Backonja et al.
+Figure 3. After dosing of 1,200 mg GEn tablets twice daily,
+average steady-state gabapentin concentrations in plasma
+were increased 17% compared with gabapentin capsules
+600 mg three times daily within the same patient
+(P = 0.0050; paired t-test). Notably, the duration of drug
+exposure following each dose was more sustained for GEn,
+with peak levels occurring an average of 4.63 hours after
+the dose compared with 2.31 hours after the dose for
+gabapentin capsules. Gabapentin is excreted unchanged
+in the urine; therefore, recovery of gabapentin in the urine
+was used to estimate bioavailability as shown in Table 4.
+Gabapentin bioavailability from GEn tablets was 77%
+greater than from gabapentin capsules (P < 0.0001; paired
+t-test). The interpatient variability in bioavailability for GEn
+(CV = 34%) was lower than gabapentin (CV = 46%).
+Pharmacokinetic Subgroup Post Hoc Analysis
+Of the patients randomized to GEn and for whom gabapentin pharmacokinetic data were available after both
+GEn and gabapentin treatments (n = 42), 15 patients
+(35.7%) had an increased Css,ave of >30% with GEn treatment compared with gabapentin treatment (Group I),
+whereas 13 patients (31.0%) had an increased gabapentin Css,ave of up to 20% (Group II), as shown in
+Figure 4. Group I had a significant decrease in
+mean  SD weekly pain scores (-0.9  1.2, P = 0.0126)
+comparing GEn treatment with gabapentin treatment, as
+well as significant improvements in mean  SD weekly
+sleep interference scores (-0.9  1.4, P = 0.0318) from
+the gabapentin period to the end of the GEn treatment
+period. Changes in mean  SD weekly pain scores of
+-0.2  1.1 and sleep interference scores -0.1  1.0
+were not significantly different for Group II. In Figure 4,
+11 patients in the GEn group had lower gabapentin
+levels compared with gabapentin because they were
+good gabapentin absorbers and received a 31%
+lower gabapentin-equivalent GEn dose (as did all the
+patients).
+Safety and Tolerability
+A total of 50/101 (49.5%) patients reported at least one
+treatment emergent AE during the randomized treatment
+period. The most common AEs in the GEn group were
+dizziness, nausea, and headache as shown in Table 5.
+These AEs were reported as generally mild or moderate in
+intensity. Severe AEs occurred in a total of five patients
+(GEn n = 1, placebo n = 4). One GEn-treated patient
+Figure 3 Comparison of mean  SD steady-state
+concentrations of gabapentin in plasma of 42
+patients with postherpetic neuralgia after repeated
+dosing of either gabapentin (600 mg three times
+daily) or gabapentin enacarbil (1,200 mg twice daily).
+GEn = gabapentin enacarbil.
+Figure 4 Percent change in
+gabapentin exposure (Css,ave) for
+each patient.
+1105
+Gabapentin Enacarbil Treatment of Postherpetic Neuralgia
+reported a severe AE of blurred vision considered possibly
+related to treatment. The four placebo-treated patients
+reported severe AEs of dyspepsia, fatigue, noncardiac
+chest pain, increased heart rate, hypoaesthesia, severe
+PHN, dyspnea, and pruritus, all possibly related to treatment with placebo. During the gabapentin period, four
+patients withdrew due to AEs of dizziness (n = 2), lethargy
+(n = 1), and tachycardia (n = 1). Four additional patients, all
+placebo treated, withdrew due to AEs of increased PHN
+pain (n = 2), dizziness (n = 1), and noncardiac chest pain
+(n = 1) during the randomized treatment period. No GEntreated patients withdrew due to AEs. There were no
+deaths during the study and no SAEs occurred during the
+treatment periods.
+Changes in vital signs and ECG measurements from
+baseline to the end of randomized treatment were clinically insignificant and similar between treatment groups.
+During the gabapentin treatment period, two patients had
+increased in clinical laboratory test results that were
+considered AEs: increased alanine aminotransferase
+levels (n = 2) from 51 to 75 U/L and from 55 to 73 U/L
+(normal 0–45 U/L), and elevated aspartate transaminase
+levels (n = 1) from 66 to 71 U/L (normal 0–41 U/L). During
+the double-blind treatment period, there were no clinically
+relevant changes in laboratory test results for either treatment group.
+Discussion
+As people age into and beyond the 6th decade of life,
+there is an ever increasing likelihood of reactivating
+varicella-zoster virus and subsequently developing PHN.
+Various drug therapies are available to treat PHN, though
+few have been used as long, and with the same safety and
+effectiveness, as gabapentin. Not all patients with PHN
+respond completely to gabapentin and the magnitude of
+beneficial effect is related to the plasma concentrations of
+gabapentin [11,12]. Gabapentin has a saturable absorption pathway in a narrow region of the gastrointestinal
+tract, which may lead to variable, unpredictable, and suboptimal plasma concentrations in some patients [13].
+In this study, GEn significantly reduced PHN pain levels in
+a clinically meaningful way as assessed by various standard measurement methods. In addition, GEn reduced
+pain interference with sleep and mood state assessment
+variables and resulted in a greater percentage of patient
+impression of change ratings as “much” or “very much”
+improved. These positive PHN pain efficacy results produced by treatment with GEn are encouraging and are
+likely related to the improved gabapentin blood levels produced by GEn.
+The pharmacokinetic results from this study in patients with PHN show that GEn tablets improved gabapentin bioavailability relative to gabapentin capsules
+and produced sustained drug exposure. These pharmacokinetic data are consistent with GEn results in healthy
+volunteers, where single doses have been studied
+ranging from 300 mg to 6,000 mg and multiple doses
+from 300 mg to 2,100 mg twice daily [20,24]. In the
+present study, comparisons within the same patient
+with PHN found that on average twice daily GEn
+administration provided greater exposure to gabapentin
+in the blood than did the Food and Drug Administrationapproved three times daily regimen of gabapentin
+capsules. This improved gabapentin exposure is remarkable considering the GEn dose administered potentially
+provides 31% less active drug than the gabapentin
+dose. It is also noteworthy that interpatient variability
+in bioavailability was greater for gabapentin than for
+GEn.
+One of the limitations of this study is the use of sequential gabapentin and GEn treatments; therefore, clinical
+outcome comparisons between these two drugs must
+be interpreted cautiously. As expected, from the end of
+the gabapentin treatment period to the end of the study,
+the pain scores decreased for patients randomized to
+GEn and increased for placebo-treated patients.
+Whether the GEn-treated patients would have continued
+to improve to a similar degree if they had continued on
+gabapentin is unknown. In addition, the treatment duration was 2 weeks, limiting our ability to assess the use of
+GEn in long-term management of PHN. It should be
+noted that the change from baseline in average daily
+pain score over a week for gabapentin vs placebo is
+known to significantly improve after 2 weeks of therapy
+[7,8].
+To provide some insight into this question, a post
+hoc analysis was conducted in the GEn-treated
+patients whose gabapentin exposure improved more
+Table 5 Treatment-emergent adverse events that
+occurred in 5% of patients in any treatment
+group (safety population)†
+Variable
+Gabapentin
+Period‡
+Double-blind Treatment
+Period (Safety Population)
+Adverse
+Event
+Gabapentin
+(n = 115)
+Placebo
+(n = 54)
+GEn
+(n = 47)
+All adverse
+events
+48 (41.7) 25 (46.3) 25 (53.2)
+Dizziness 16 (13.9) 3 (5.6) 10 (21.3)
+Nausea 2 (1.7) 5 (9.3) 4 (8.5)
+Headache 5 (4.3) 4 (7.4) 4 (8.5)
+Diarrhea 4 (3.5) 1 (1.9) 3 (6.4)
+Fatigue 2 (1.7) 4 (7.4) 2 (4.3)
+PHN 0 3 (5.6) 1 (2.1)
+Insomnia 1 (0.9) 4 (7.4) 0
+Depression 0 3 (5.6) 0
+† All values are n (%). ‡ Gabapentin treatment period was shorter (11 days) than the
+randomized treatment period (14 days).
+GEn = gabapentin enacarbil; PHN = postherpetic neuralgia.
+1106
+Backonja et al.
+than 30% when switched from gabapentin to GEn
+(Group I) and patients whose gabapentin exposure did
+not change more than 20% (Group II). Group II was
+intended to serve as a surrogate for continued dosing
+of gabapentin. At end of GEn treatment, patients in
+Group I exhibited significantly improved pain scores,
+while Group II patients did not improve. Owing to the
+small number of patients and the post hoc nature of
+this analysis, these results must be viewed as only
+informative and should be confirmed in a prospective
+study.
+Overall, GEn was generally safe and well tolerated during
+the study and the reported AEs were similar to those
+reported during other clinical studies of gabapentin [7,8]
+and GEn [20,25]. These findings are notable in a patient
+population with an average age of 65 years who is likely to
+be more sensitive to AEs. A limitation of these safety data
+is that the initial gabapentin treatment prior to randomization may have influenced the AEs reported during GEn
+treatment period.
+Conclusion
+This study in patients with PHN demonstrated that GEn
+was superior to placebo in reducing pain and improving
+sleep, mood, and global impression scores. GEn
+extended release tablets provided a greater and more
+sustained gabapentin systemic exposure than gabapentin
+capsules. In addition, GEn was generally safe and well
+tolerated.
+Acknowledgments
+Statistical support was provided by Mark Jaros, PhD,
+SCIREX Corporation (now Premier Research Group,
+Limited), Estes Park, CO, USA, and Carol Francisco, PhD,
+ICON Clinical Research, Inc., Redwood City, CA, USA
+(currently at Affymax, Inc., Palo Alto CA, USA).
+Financial Support
+This study was sponsored by XenoPort, Inc., 3410 Central
+Expressway, Santa Clara, CA 95051, USA
+Financial Disclosures
+Dr. Backonja has received honoraria, consulting fees, or
+grant/research support from Endo Pharmaceuticals,
+GlaxoSmithKline, Johnson & Johnson, NeurogesX, Inc.,
+Novartis Pharmaceuticals, Pfizer Inc., Purdue Pharma LP,
+Wyeth, and XenoPort, Inc. Drs. Canafax and Cundy are
+employees of XenoPort, Inc.
+References
+1 Gnann JW, Whitley RJ. Herpes zoster. N Engl J Med
+2002;347:340–6.
+2 Dworkin RH, Gnann JW Jr, Oaklander AL, et al. Diagnosis and assessment of pain associated with herpes
+zoster and postherpetic neuralgia. J Pain 2008;9(1
+suppl 1):S37–44.
+3 Dworkin RH, Portenoy RK. Proposed classification of
+herpes zoster pain. Lancet 1994;343:1648.
+4 Schmader KE. Epidemiology and impact on quality of
+life of postherpetic neuralgia and painful diabetic neuropathy. Clin J Pain 2002;18:350–4.
+5 Backonja M, Serra J. Pharmacologic management
+part 1: Better-studied neuropathic pain diseases. Pain
+Med 2004;5(suppl 1):S28–47.
+6 Johnson RW, Wasner G, Saddier P, Baron R. Post
+herpetic neuralgia: Epidemiology, pathophysiology
+and management. Expert Rev Neurother 2007;7:
+1581–95.
+7 Rowbotham M, Harden N, Stacey B, Bernstein P,
+Magnus-Miller L. Gabapentin for the treatment of postherpetic neuralgia: A randomized controlled trial.
+JAMA 1998;280:1837–42.
+8 Rice ASC, Maton S. Gabapentin in postherpetic neuralgia: A randomised, double blind, placebo controlled
+study. Pain 2001;94:215–24.
+9 Backonja M, Glanzman RL. Gabapentin dosing for
+neuropathic pain: Evidence from randomized,
+placebo-controlled clinical trials. Clin Ther 2003;25:
+81–104.
+10 Singh D, Kennedy DH. The use of gabapentin for the
+treatment of postherpetic neuralgia. Clin Ther 2003;
+25:852–89.
+11 Miller R, Ewy W, Corrigan BW, et al. How modeling and
+simulation have enhanced decision making in new
+drug development. J Pharmacokinet Pharmacodyn
+2005;32:185–97.
+12 Lockwood PA, Cook JA, Ewy WE, Mandema JW. The
+use of clinical trial simulation to support dose selection: Application to development of a new treatment
+for chronic neuropathic pain. Pharm Res 2003;20:
+1752–9.
+13 Gidal BE, Radulovic LL, Kruger S, et al. Inter- and
+intra-subject variability in gabapentin absorption
+and absolute bioavailability. Epilepsy Res 2000;40:
+123–7.
+14 Neurontin (gabapentin). [Prescribing Information]. New
+York, NY: Pfizer Inc.; 2009.
+15 Stewart BH, Kugler AR, Thompson PR, Bockbrader
+HN. A saturable transport mechanism in the intestinal
+1107
+Gabapentin Enacarbil Treatment of Postherpetic Neuralgia
+absorption of gabapentin is the underlying cause of
+the lack of proportionality between increasing dose
+and drug levels in plasma. Pharm Res 1993;10:276–
+81.
+16 Bratten JR, Jones MP. Small intestinal motility. Curr
+Opin Gastroenterol 2007;23:127–33.
+17 McLean MJ. Gabapentin. Epilepsia 1995;36(suppl
+2):S73–86.
+18 Cundy KC, Annamalai T, Bu L, et al. XP13512 [(+/-)-1-
+([(alpha-isobutanoyloxyethoxy)carbonyl] aminomethyl)-1-cyclohexane acetic acid], a novel gabapentin
+prodrug: II. Improved oral bioavailability, dose proportionality, and colonic absorption compared with gabapentin in rats and monkeys. J Pharmacol Exp Ther
+2004;311(1):324–33.
+19 Cundy KC, Branch R, Chernov-Rogan T, et al.
+XP13512 [(+/-)-1-([(alpha-isobutanoyloxyethoxy)
+carbonyl] aminomethyl)-1-cyclohexane acetic acid],
+a novel gabapentin prodrug: I. Design, synthesis, enzymatic conversion to gabapentin, and transport by
+intestinal solute transporters. J Pharmacol Exp Ther
+2004;311:315–23.
+20 Cundy KC, Sastry S, Luo W, et al. Clinical pharmacokinetics of XP13512, a novel transported prodrug
+of gabapentin. J Clin Pharmacol 2008;48:1378–
+88.
+21 Galer BS, Jensen MP. Development and preliminary
+validation of a pain measure specific to neuropathic
+pain: The Neuropathic Pain Scale. Neurology 1997;
+48:332–8.
+22 World Medical Association. Declaration of Helsinki:
+Ethical principles for medical research involving human
+patients. 1996 Revision.
+23 McNair DM, Lorr M. An analysis of mood in neurotics.
+J Abnorm Psychol 1964;69:620–7.
+24 Lal R, Sukbuntherng J, Luo W, et al. Pharmacokinetics and tolerability of single escalating doses
+of gabapentin enacarbil: A randomized-sequence,
+double-blind, placebo-controlled crossover study in
+healthy volunteers. Clin Ther 2009;31:1776–86.
+25 Kushida CA, Becker PM, Ellenbogen AL, Canafax DM,
+Barrett RW. Randomized, double-blind, placebocontrolled study of XP13512/GSK1838262 in patients
+with RLS. Neurology 2009;72:439–46.
+Appendix XP009 Study Investigators
+Miroslav Backonja, MD University of Wisconsin Hospital & Clinics, Madison, WI
+Michael Drass, MD Allegheny Pain Management PC, Altoona, PA
+Edwin Dunteman, MD A & A Pain Institute, St. Louis, MO
+Stephen Flitman, MD Xenoscience, 21st Neurology, Phoenix, AZ
+Roddie Gantt, MD Center for Pain Management, Huntsville, AL
+Paul Ginsberg, MD Sunrise Clinical Research, Hollywood, FL
+Jeffrey S. Gitt, DO HOPE Research Institute, LLC, Phoenix, AZ
+Stephen Gordon, MD Comprehensive NeuroScience, Inc., Atlanta, GA
+Andrew M. Klymiuk, MD KRK Medical Research, Richardson, TX
+Jack Klapper, MD Mile High Research Center, Denver, CO
+Ronica Kluge, MD Clinical Physiology Associates, Inc, Fort Myers, FL
+Stephen Tyring, MD, PhD Center for Clinical Studies, Houston, TX
+Mark Wallace, MD UCSD Center for Pain and Palliative Medicine, La Jolla, CA
+Lynn R. Webster, MD Lifetree Clinical Research, Salt Lake City, UT
+Lisa Cohen, DO Suncoast Clinical Research, New Port Richey, FL
+Yekaterina Khronusova, MD Advanced Biomedical Research of America, Las Vegas, NV
+Pavan Yerramsetty, MD Raleigh Neurology Associates, P.A., Raleigh, NC
+1108
+Backonja et al.

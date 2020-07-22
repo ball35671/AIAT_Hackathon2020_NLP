@@ -1,0 +1,1028 @@
+Articles
+www.thelancet.com Vol 377 February 26, 2011 751
+Lancet 2011; 377: 751–59
+Published Online
+February 16, 2011
+DOI:10.1016/S0140-
+6736(10)62228-3
+See Comment page 698
+*Contributed equally to the report
+Global Research and
+Development, Baxter
+BioScience, Biomedical
+Research Centre, Orth/Donau,
+Austria (P N Barrett PhD,
+O Kistner PhD); Global Research
+and Development, Baxter
+BioScience, Beltsville, MD, USA
+(G Berezuk MS); Global Research
+and Development, Baxter
+BioScience, Vienna, Austria
+(S Fritsch PhD, G Aichinger MD,
+H J Ehrlich MD); and DynPort
+Vaccine Company, Frederick,
+MD, USA (M K Hart PhD,
+W El-Amin MD)
+Correspondence to:
+Dr P Noel Barrett, Global
+Research and Development,
+Baxter BioScience, Biomedical
+Research Centre, Uferstraße 15,
+A-2304 Orth/Donau, Austria
+noel_barrett@baxter.com
+Effi cacy, safety, and immunogenicity of a Vero-cellculture-derived trivalent infl uenza vaccine: a multicentre,
+double-blind, randomised, placebo-controlled trial
+P Noel Barrett*, Gregory Berezuk*, Sandor Fritsch, Gerald Aichinger, Mary Kate Hart, Wael El-Amin, Otfried Kistner, Hartmut J Ehrlich
+Summary
+Background The use of cell-culture technologies for the manufacture of infl uenza vaccines might contribute to
+improved strain selection and robust vaccine supplies. We investigated the safety, immunogenicity, and protective
+effi cacy of a Vero-cell-culture-derived infl uenza vaccine, and assessed the correlation between vaccine effi cacy and
+haemagglutination inhibition antibody titre.
+Methods In a double-blind, placebo-controlled, phase 3 trial undertaken in 36 centres in the USA, healthy adults
+(aged 18–49 years) were randomly assigned in a 1:1 ratio to one injection of either placebo or Vero-cell-culturederived infl uenza vaccine during the 2008–09 season. Randomisation was done in blocks by use of the random
+number generator algorithm, and participants were allocated by use of a centralised telephone system. The primary
+objective was the effi cacy of the vaccine in preventing cell-culture-confi rmed infl uenza infection with viruses that
+were antigenically matched to one of the vaccine strains. Analysis was by intention to treat. The study is registered
+with ClinicalTrials.gov, number NCT00566345.
+Findings 7250 participants were randomly assigned to vaccine (n=3626) and placebo (n=3624). 7236 were analysed
+for the primary outcome (n=3619 and n=3617, respectively). Overall protective effi cacy for antigenically matched
+influenza infection was 78·5% (95% CI 60·8–88·2). The vaccine was well tolerated with no treatment-related
+serious adverse events. Adverse events were mainly mild and transient. An HI titre of at least 1:15 provided a
+reliable correlate of cell-culture-derived infl uenza vaccine-induced protection; no additional benefi t was noted with
+titres greater than 1:30.
+Interpretation The data indicate that existing correlates of protection afforded with egg-derived seasonal infl uenza
+vaccines also apply to this vaccine.
+Funding Federal (US Government) funds from the Office for Preparedness and Response, Biomedical Advanced
+Research and Development Authority, under contract to DynPort Vaccine Company.
+Introduction
+Changes in the prevalence of circulating virus strains
+mean that seasonal infl uenza vaccines have to be
+manufactured every year.1
+ Manufacture of conventional
+egg-derived vaccines must be initiated several months
+before the infl uenza season, frequently resulting in
+mismatches between the vaccine strains and strains
+circulating during the season.1
+ Additionally, egg-based
+production processes are susceptible to microbial
+contamination, and diffi culties in manufacture have led
+to substantial shortages of vaccines.2,3 The use of robust
+cell-culture technologies has the potential to greatly
+improve the strain selection process and allow swift
+responses to changes in the demand for vaccines.1,4,5 Also,
+the absence of egg-derived proteins in the vaccine is safer
+for individuals who are sensitive to these proteins.
+Several continuous cell-line technologies are being
+used in the development of infl uenza vaccines, but so far
+the only cell line that has universal regulatory acceptance
+is Vero cells.6,7 Pandemic infl uenza vaccines derived by
+use of this cell line are well tolerated and immunogenic,8–10 but the immunogenicity and clinical effi cacy of
+Vero-cell-derived seasonal infl uenza vaccines have not
+been investi gated. However, the immunogenicity and
+effi cacy of traditional, egg-derived inactivated, trivalent
+infl uenza vaccines have been investigated in several
+clinical trials.11,12 The induction of haemagglutininspecifi c antibodies in the assay for haemagglutination
+inhib ition (HI) is an established correlate of protection
+with egg-derived seasonal infl uenza vaccines.13,14 However,
+whether the correlates of immunity provided by eggderived vaccines are equally applicable to cell-culturederived infl uenza vaccines remains to be confi rmed.
+We investigated the safety, immunogenicity, and
+protective effi cacy of a novel inactivated Vero-cell-derived
+infl uenza vaccine. Culture-confi rmed infl uenza infection
+and antigenic typing were used for stringent assessment
+of this vaccine in preventing seasonal infl uenza infection
+in healthy adults, and to enable delineation of the rate of
+protection elicited by each of the components of the
+trivalent vaccine. Data for effi cacy and immunogenicity
+were analysed to investigate whether the HI titre can be
+used as a correlate of the protection provided by Vero-cellderived infl uenza vaccine against seasonal infl uenza.
+Articles
+752 www.thelancet.com Vol 377 February 26, 2011
+Methods
+Participants and study design
+A randomised, double-blind, placebo-controlled, phase 3
+trial was undertaken in healthy adults (aged 18–49 years)
+during the 2008–09 infl uenza season at 36 centres
+throughout the USA.
+The Sterling Institutional Review Board, Atlanta, GA,
+USA, approved the protocol and consent form for the
+study, which was done in compliance with the Good
+Clinical Practice guidelines and the Declaration of Helsinki.
+An independent data monitoring committee made up of
+four members monitored this study. Individuals who
+confi rmed they understood the nature of the study
+procedures and provided written consent for participation
+in the study were accepted as volunteers.
+The investigator obtained the medical history from each
+volunteer and did a physical examination, including tests
+for urinary β-human chorionic gonadotrophin in women
+of childbearing age, and blood was drawn for assessment
+of prevaccination HI titres. Individuals were excluded if
+they were in a risk category for complications of infl uenza
+illness (as defi ned by the Centers for Disease Control and
+Prevention [CDC], Atlanta, GA), had a history of surgical
+or functional asplenia, had been treated with any blood
+product or immune globulin in the previous 90 days, had
+a history of allergy to vaccine components, had received a
+live vaccine within 4 weeks or an inactivated vaccine within
+2 weeks of study entry, or had dermatological disorders or
+tattoos that would obscure the assessment of injection-site
+reactions. Individuals were not specifi cally excluded
+because of egg allergy. Participants who had already been
+immunised against infl uenza for the 2008–09 season were
+also excluded, but immunisation in previous seasons was
+not judged to be an exclusion criterion.
+Randomisation and masking
+Individuals were randomly assigned in a 1:1 ratio
+immediately before vaccination with 0·5 mL Vero-cellderived infl uenza vaccine (Baxter, Vienna, Austria) or
+placebo, administered into the deltoid muscle. Individuals
+were randomly assigned by use of a centralised telephone
+system. The allocation sequence was generated by Baxter,
+using an interactive voice response system with the
+random number generator algorithm of Wichmann and
+Hill,15 as modifi ed by Mcleod.16 Randomisation was done
+in blocks, with block sizes greater than two. At each study
+site, an investigator, subinvestigator, or study nurse who
+was masked to treatment allocation was designated to
+vaccinate participants, and was then prohibited from
+participation in data collection or the study. To ensure
+masking, the participants were enrolled by investigators
+who were not involved in the randomisation process.
+The Vero-cell-derived infl uenza vaccine, a trivalent,
+split vaccine, was formulated to contain 15 μg of
+haemagglutinin antigen from each of the three virus
+strains recommen ded by WHO for the 2008–09
+infl uenza season in the northern hemisphere—namely,
+A/Brisbane/59/2007 (A/H1N1), A/Uruguay/716/2007
+(A/Brisbane/10/2007-like) (A/H3N2), and B/Florida/
+4/2006 (B). The three virus strains were egg-derived
+wild-type strains provided by the National Institute for
+Biological Standards and Control (Potters Bar, UK). The
+placebo used in the clinical study was phosphate
+buff ered saline.
+Procedures
+The fi rst volunteer was vaccinated on Dec 1, 2008, and
+immunisation of all individuals was completed by
+Dec 15, 2008. Participants were given a diary for recording
+their temperatures during the fi rst 7 days after
+immunisation, and fevers or other adverse experiences
+during the fi rst 21 days after immunisation.
+Participants returned to the study site at 18–24 days
+after vaccination for a second blood draw for measurement
+of postvaccination HI titres, and review and collection of
+their diaries. At this visit, individuals were instructed to
+return to the clinic within 48 h after the onset of
+symptoms for an infl uenza-like illness should they have
+fever with cough, sore throat, muscle ache, headache,
+fatigue, nausea, or bloodshot eyes, or have any two of
+these symptoms without fever. At every visit for an
+infl uenza-like illness, until May 15, 2009, nasopharyngeal
+swabs were obtained for culturing and typing viruses.
+Participants returned for a fi nal study visit 166–194 days
+after vaccination to have a physical examination and fi nal
+assessment of adverse events. Nasopharyngeal swab
+specimens were sent to BioAnalytical Research, Lake
+Success, NY, USA, for culture by use of Rapid R-Mix
+(Diagnostic Hybrids, Athens, OH, USA) and traditional
+culture methods, and for virus typing with RT-PCR
+analyses. Infl uenza type A/H1N1 or A/H3N2 isolates
+were sent to the laboratory of the Infl uenza Division,
+National Center for Immunization and Respiratory
+Diseases, CDC, Atlanta, GA, USA, for analyses of HI by
+use of ferret antiserum to assess the antigenic relatedness
+of the isolate to the vaccine strains.
+Infl uenza type B isolates were sent to GENEWIZ,
+South Plainfi eld, NJ, USA, for genetic sequencing to
+assess whether the specimens were of the B/Victoria or
+B/Yamagata lineage. Specimens that were of the
+B/Yamagata lineage were judged to antigenically match
+the B strain in the vaccine. Infl uenza type A specimens
+that could not be amplifi ed to suffi cient titre to enable
+analysis of HI with ferret antiserum were also sent for
+genetic sequencing.
+Analyses of HI titres were done by Focus Diagnostics
+(Cypress, CA, USA). HI assays were done in triplicate
+with egg-derived antigen. Titres of less than 1:10 were
+expressed as 1:5 and judged to be negative.
+Statistical analysis
+The primary study objective was the effi cacy of Vero-cellderived infl uenza vaccine in prevention of cultureconfi rmed infection with infl uenza virus that was 
+Articles
+www.thelancet.com Vol 377 February 26, 2011 753
+antigenically matched to one of the vaccine strains.
+Secondary objectives were quantifi cation of the
+haemagglutinin-specifi c antibody response to each
+vaccine antigen, comparison of the safety of the vaccine
+with placebo, and the establishment of a correlation
+between the vaccine-induced HI titres and vaccine
+effi cacy against culture-confi rmed infl uenza infection.
+For sample size calculation, we assumed a 2·5%
+infl uenza infection rate for recipients of the placebo, an
+overall vaccine effi cacy of 70%, and a uniform distribution
+of infl uenza cases during follow-up. 10 000 simulations
+were done on the basis of these assumptions, with equal
+group sizes. For 3360 individuals who were immunised
+with the vaccine, the estimated power of the Cox
+regression was predicted to be about 91% to show vaccine
+effi cacy of at least 40% with 95% confi dence. If a dropout
+rate of about 6% was assumed, 7200 healthy adults had to
+be randomly assigned in a 1:1 ratio to vaccine or placebo.
+Vaccine effi cacy was defi ned as 1 minus the hazard ratio
+of the risk of infl uenza infections in individuals who were
+given infl uenza vaccine compared with the risk in the
+placebo group. Vaccine effi cacy was expressed in
+percentages. The hazard ratio was estimated within a Cox
+regression framework, starting at follow-up day 21 and
+accounting for treatment group as an explanatory variable.
+The proportional hazards assumption was verifi ed by
+addition of the interaction term between vaccine group
+and time to the model used for primary analysis.17,18 This
+interaction term was planned to be tested at the 10% level.
+The p value for the interaction term was 0·925 for all
+strains (and p=0·912 for strain A/H1N1). The two-sided
+95% CI for the hazard ratio was calculated; thus the null
+hypothesis (vaccine effi cacy <40%) against the alternative
+hypothesis (≥40%) was implicitly tested at a 2·5% onesided level of signifi cance. For strain B, since the
+Cox regression could not be applied because the estimated risk in the group assigned to vaccine was zero, the
+95% CI of vaccine effi cacy was computed by use of the
+method of Miettinen and Nurminen.19 The eff ect of demographic characteristics on the rate of individuals with
+Figure 1: Trial profi le
+*Four patients in the vaccine group and three in the placebo group were excluded from the intention-to-treat populations.
+7778 participants assessed for eligibility
+7250 randomly assigned
+3624 allocated to placebo
+3620 given placebo
+4 not given placebo
+3 screen failures
+1 withdrawal of informed
+consent
+3626 allocated to Vero-cell-culturederived influenza vaccine
+3623 given vaccine
+3 not given vaccine
+2 screen failures
+1 withdrawal of informed
+consent
+3623 analysed in safety population
+3619 analysed in intention-to-treat
+population*
+3473 analysed in immunogenicity
+population
+3316 analysed in per-protocol
+population
+3620 analysed in safety population
+3617 analysed in intention-to-treat
+population*
+3459 analysed in immunogenicity
+population
+3318 analysed in per-protocol
+population
+528 excluded
+236 did not meet inclusion criteria
+44 withdrawals by investigator
+29 withdrawals of informed consent
+8 withdrawals by participants
+6 lost to follow-up
+2 refused blood draw
+1 refused vaccination
+202 other reasons
+167 lost to follow-up
+ 38 discontinued
+ 1 withdrawal by investigator
+ 14 withdrawals by participants
+ 13 withdrawals of informed
+consent
+ 10 other
+157 lost to follow-up
+45 discontinued
+ 2 deaths
+ 1 refused blood draw
+ 1 withdrawal by investigator
+ 14 withdrawals by participants
+ 17 withdrawals of informed
+consent
+ 10 other
+Articles
+754 www.thelancet.com Vol 377 February 26, 2011
+culture-confi rmed infl uenza infections for matching
+A/H1N1 strain was analysed by a logistic regression model
+with sex as a class variable, and log HI titre at 21 days after
+vaccination and age as continuous covariates.
+For analysis of immunological endpoints, HI titres, and
+means and 95% CIs were calculated for the logtransformed data based on the t distribution. The results
+of the analysis were back transformed to the original scale
+by exponentiation into geometric mean titre and 95% CI.
+To assess the correlation between HI titre and
+protective immunity, a two-step analysis was done for
+the strains for which vaccine effi cacy was signifi cantly
+higher than zero at the 5% level of signifi cance. In the
+fi rst step, the binomial outcome of positive or negative
+for culture-confi rmed infl uenza infection was analysed
+by use of logistic regression. The model included the
+logarithm of HI titre at day 21 and age as continuous
+covariates, and sex as a class variable. In the second step,
+the sensitivity (defi ned as the proportion of participants
+having titres below the cutoff value on day 21 for those
+with culture-confi rmed infl uenza infection) and
+specifi city (defi ned as the proportion of individuals
+having titres greater or equal to the cutoff value on day 21
+for individuals without culture-confi rmed infl uenza
+infection), and the sum of the two corresponding to each
+cutoff value were computed. The cutoff titre was the
+lowest titre at which the sum of the specifi city and
+sensitivity was maximum. The HI titre at which the sum
+of the specifi city and sensitivity is maximum is judged to
+be the best cutoff value for a correlate of protection.20
+Adverse events were summarised by calculation of the
+frequency of specifi c queried symptoms, relative risk of
+occurrence of these symptoms, and their 95% CIs.
+This study is registered with ClinicalTrials.gov, number
+NCT00566345.
+Role of the funding source
+The funding source had no role in the design or execution
+of the experiment or in the review and analysis of
+experimental data. Baxter designed the study with input
+from DynPort Vaccine Company. Data analysis was done
+by Baxter. Laboratory analyses were done at Biomedical
+Advanced Research and Development Authority, NY,
+Genewiz, NJ, Focus, CA, and at the CDC, GA, USA. The
+corresponding author had full access to all the data in
+the study, and takes responsibility for the integrity of the
+Participants with culture-confi rmed infl uenza infection
+antigenically matched to vaccine strains
+Participants with infl uenza infection (culture-confi rmed or
+identifi ed with RT-PCR) irrespective of match to vaccine strains
+Vero-cell-culturederived infl uenza
+vaccine (n=3619)
+Placebo (n=3617) Effi cacy (95% CI) Vero-cell-culturederived infl uenza
+vaccine (n=3619)
+Placebo (n=3617) Effi cacy (95% CI)
+A/H1N1 11 (0·3%) 52 (1·4%) 79·0% (59·7 to 89·0) 14 (0·4%) 56 (1·5%) 75·2% (55·4 to 86·2)
+A/H3N2 2 (0·1%) 4 (0·1%) 50·0% (–173·0 to 90·8) 2 (0·1%) 4 (0·1%) 50·0% (–173·0 to 90·8)
+B 0 4 (0·1%) 100% (4·1 to 100·0) 8 (0·2%) 20 (0·6%) 60·1% (9·5 to 82·4)
+Total 13 (0·4%) 60 (1·7%) 78·5% (60·8 to 88·2) 23* (0·6%) 80 (2·2%) 71·5% (54·7 to 82·1)
+Data are number (%), unless otherwise indicated. A/H1N1=A/Brisbane/59/2007. A/H3N2=A/Uruguay/716/2007 (A/Brisbane/10/2007-like). B=B/Florida/4/2006. *One
+participant was infected with two strains.
+Table 1: Effi cacy of Vero-cell-culture-derived vaccine in culture-confi rmed infl uenza infection
+Day Vero-cell-culture-derived infl uenza vaccine (n=3473) Placebo (n=3459)
+GMT (95% CI) GMFI (95% CI) Seroprotection
+rate (95% CI)
+Seroconversion
+rate (95% CI)
+GMT (95% CI) GMFI (95% CI) Seroprotection
+rate (95% CI)
+Seroconversion
+rate (95% CI)
+A/H1N1 1 17·5
+(16·7 to 18·2)
+NA 29·5%
+(28·0 to 31·0)
+NA 16·7
+(16·0 to 17·4)
+NA 27·6%
+(26·1 to 29·1)
+NA
+A/H1N1 22 194·1
+(184·4 to 204·3)
+11·1
+(10·52 to 11·74)
+88·0%
+(86·8 to 89·0)
+70·4%
+(68·9 to 71·9)
+17·7
+(17·0 to 18·4)
+1·1
+(1·04 to 1·08)
+29·8%
+(28·3 to 31·4)
+1·2%
+(0·9 to 1·6)
+A/H3N2 1 22·2
+(21·2 to 23·3)
+NA 39·4%
+(37·8 to 41·0)
+NA 22·1
+(21·1 to 23·2)
+NA 38·5%
+(36·9 to 40·2)
+NA
+A/H3N2 22 299·7
+(285·2 to 314·9)
+13·5
+(12·85 to 14·20)
+93·3%
+(92·4 to 94·1)
+79·1%
+(77·7 to 80·4)
+22·4
+(21·3 to 23·5)
+1·0
+(1·00 to 1·02)
+38·8%
+(37·2 to 40·5)
+0·9%
+(0·6 to 1·3)
+B 1 39·8
+(38·0 to 41·7)
+NA 56·4%
+(54·7 to 58·0)
+NA 38·1
+(36·3 to 39·8)
+NA 55·0%
+(53·4 to 56·7)
+NA
+B 22 301·7
+(290·5 to 313·4)
+7·6
+(7·22 to 7·97)
+97·1%
+(96·5 to 97·7)
+65·7%
+(64·1 to 67·3)
+39·3
+(37·6 to 41·2)
+1·0
+(1·02 to 1·05)
+56·2%
+(54·5 to 57·8)
+1·3%
+(1·0 to 1·7)
+GMT=geometric mean titre. GMFI=geometric mean fold increase. A/H1N1=A/Brisbane/59/2007. A/H3N2=A/Uruguay/716/2007 (A/Brisbane/10/2007-like).
+B=B/Florida/4/2006. NA=not applicable.
+Table 2: Immunological response (reciprocal haemagglutination inhibition titre) to immunisation with Vero-cell-culture-derived infl uenza vaccine or placebo
+Articles
+www.thelancet.com Vol 377 February 26, 2011 755
+data and the accuracy of the data analysis; and had the
+fi nal responsibility for the decision to submit the report
+for publication.
+Results
+Figure 1 shows the trial profi le. 7243 of 7250 participants
+who were randomly assigned were vaccinated, and
+represented the safety population (ie, all vaccinated
+individuals; fi gure 1). 1823 (50%) of 3623 participants
+(median age 31 years, range 18–49) in the vaccine group
+and 1865 (52%) of 3620 (30 years, 18–49) in the placebo
+group were men. Calculation of vaccine effi cacy was done
+on the intention-to-treat (ITT) population (ie, all randomly
+assigned and immunised participants who stayed in the
+study for at least 21 days after vaccination). Seven people
+were excluded from the ITT population: two were
+withdrawn by the investigator for reasons unrelated to
+the study, two were non-compliant to the study
+procedures, one was lost to follow-up, one person
+voluntarily withdrew, and one died in a motorcycle
+accident. The immunogenicity population consisted of
+6932 individuals who were immunised and had antibody
+titres for HI assessed before and after immunisation for
+at least one of the vaccine strains. The per-protocol
+population consisted of 6634 participants who were
+vaccinated and completed the study without a major
+protocol deviation. All populations were evenly balanced
+according to sex and age.
+A total of 104 specimens taken from 103 diff erent
+individuals during the study were positive for infl uenza
+when virus was isolated in culture or identifi ed by use of
+RT-PCR (table 1). To meet the requirements of the
+primary endpoint, the specimen had to be isolated in cell
+culture and assessed to be antigenically matched to the
+corresponding vaccine strain. After subtraction of
+specimens that were identifi ed by use of RT-PCR, but not
+those isolated in cell culture, and those assessed to be
+antigenically mismatched to the corresponding vaccine
+strain, a total of 66 specimens remained. For four
+participants with H3N2 virus infection and for three with
+H1N1 virus infection, samples could not be sequenced
+and the antigenic identity could not be assessed. These
+samples were judged to match the strains used in the
+vaccine since all other specimens were antigenically
+matched. This decision was further supported with data
+from weekly CDC surveillance that was issued for the
+week after nasopharyngeal specimen collection was
+stopped,21 according to which all 877 A/H1N1 and
+162 A/H3N2 specimens were antigenically matched to
+the 2008–09 infl uenza vaccine strains. Therefore, 73 of
+104 infl uenza specimens met the criteria for the primary
+endpoint of being isolated in cell culture and antigenically
+matching the vaccine strains. The 2008–09 northern
+hemisphere infl uenza season was characterised
+predominantly as an A/H1N1 season,22 as supported with
+63 (86%) of the specimens identifi ed as A/H1N1, six (8%)
+as A/H3N2, and four (5%) as B.
+The proportion of culture-confi rmed infections
+reported in the group assigned to the infl uenza vaccine
+was substantially lower than in the placebo group
+(table 1). The protective effi cacy against culture-confi rmed
+infl uenza for the predominant circulating strain
+(A/H1N1) was 79%. The highest effi cacy (100%) was
+shown against the B strain and the lowest (50%) against
+A/H3N2 (table 1). Protective effi cacy for all infl uenza
+viruses, irrespective of the method of detection or
+antigenic match, was more than 70% (table 1). The null
+hypothesis (vaccine effi cacy <40%) was thus rejected
+when the primary endpoint of effi cacy to prevent infection
+with culture-isolated, antigenically matching strains was
+considered. It was also rejected when all 104 specimens,
+irrespective of the method of identifi cation or antigenic
+match, were included in the analysis. The low number of
+isolates obtained for the H3N2 and B strains resulted in
+wide confi dence intervals for vaccine effi cacy. For strain B,
+Sensitivity Specifi city Relative value
+(sensitivity+specifi city)
+1:10 23·8% 83·0% 106·8
+1:15 47·6% 72·7% 120·3
+1:20 47·6% 72·2% 119·8
+1:30 66·7% 59·8% 126·5
+1:40 66·7% 59·2% 125·9
+1:60 79·4% 47·6% 127·0
+1:80 79·4% 46·8% 126·2
+1:160 88·9% 36·1% 125·0
+Table 3: Sensitivity and specifi city of diff erent cutoff haemagglutination
+inhibition titres for matching A/Brisbane/59/2007 strains (n=63)
+Figure 2: Receiver operating characteristics’ curve for strain A/Brisbane/59/2007
+Cutoff s for reciprocal haemagglutination inhibition titres are indicated on the graph.
+0 0·2 0·4 0·6 0·8 1·0 0
+0·2
+0·4
+0·6
+0·8
+1·0
+Sensitivity
+1–specificity
+Youden index=0·203
+Youden index=0·259
+Youden index=0·270
+Youden index=0·262
+Estimated area
+C=0·66108
+(81, 128)
+(41, 64)
+(21, 33)
+(11, 17)
+Articles
+756 www.thelancet.com Vol 377 February 26, 2011
+vaccine effi cacy was signifi cant. However, for H3N2 strain,
+the low number of isolates and their distribution between
+the study groups resulted in a negative lower limit for the
+95% CI, which meant we could not draw a conclusion of
+a signifi cant risk reduction in infl uenza infections
+(table 1). In addition to absolute protection, a substantial
+reduction was noted in the duration and severity of
+symptoms in infected individuals in the vaccine group
+compared with the placebo group (data not shown)—
+ie, vaccine eff ects included both prevention and
+moderation of illness.
+With respect to vaccine immunogenicity, geometric
+mean titres increased substantially in the vaccine group
+from before to 21 days after immunisation (table 2). On
+the basis of the seroprotection and seroconversion rates
+(table 2), immunogenicity thresholds according to the
+Committee for Proprietary Medicinal Products and US
+Food and Drug Administration13,14 were met for all three
+vaccine strains. Although an age eff ect was noted with
+respect to immunogenicity, no eff ect of sex was noted
+(data not shown).
+Table 3 shows the calculated sensitivity and specifi city
+of possible HI titre cutoff values for strain A/H1N1 (not
+calculated for the other strains because of the small
+number of isolates). The cutoff titre occurred at a titre
+of 1:30. Little variability occurred in the sum of specifi city
+and sensitivity for the range of HI titres from 1:15 to 1:160,
+indicating that titres as low as 1:15 correlated with
+immunity induced by the Vero-cell-derived infl uenza
+vaccine. The area under the curve for receiver operating
+characteristics for strain A/H1N1 for each cutoff value
+shows that titres measured 21 days after immunisation
+provided good prediction of infection (fi gure 2).
+Furthermore, for the points between the cutoff reciprocal
+HI titres of 20 and 128, the distance from the equality
+line (0·5—ie, sensitivity equals specifi city) is nearly
+constant, suggesting that an HI titre that is as low as 1:20
+provides a clear separation between infected and noninfected individuals (fi gure 2).
+In a reduced logistic regression model in which the
+infl uenza vaccine group was removed to assess the
+possible eff ect of demographic factors on the risk of
+culture-confi rmed influenza infections with the matching
+A/H1N1 strain, the log HI titre at day 22 correlated
+signifi cantly with the risk of infl uenza infections
+(p<0·0001); age and sex did not aff ect the occurrence of
+infl uenza infections (p=0·46 and p=0·64, respectively).
+With respect to safety, the infl uenza vaccine was safe and
+well tolerated by the participants. Within 7 days of
+immunisation a total of 1261 (35%) of 3623 individuals in
+the infl uenza vaccine group and 807 (22%) of 3620 in the
+placebo group reported immunisation-related systemic
+reactions. The severity ratings for these reported events in
+the infl uenza and placebo groups were mild (936 [26%]
+vs 608 [17%], respectively), moderate (224 [6%] vs 150 [4%],
+respectively), severe (48 [1%] vs 16 [<1%], respectively), or
+not reported (51 [1%] vs 33 [<1%], respectively). The risk
+of all local reactions was higher in the vaccine group than
+in the placebo group (table 4). For systemic reactions,
+the relative risk was greater than 2 only for arthralgia,
+chills, myalgia, and pyrexia, which are among the most
+commonly occurring eff ects of cytokine-mediated response
+to foreign protein. A total of 59 serious adverse events were
+recorded during the study (31 in 29 participants in vaccine
+group and 28 in 27 in placebo group). The only serious
+adverse event judged to be possibly related to vaccination
+was an episode of hypertensive crisis in a 44-year-old white
+man 30 min after being given placebo. Two individuals
+died after being given the infl uenza vaccine. Both deaths
+(gastric haemorrhage at 131 days after immunisation; and
+death due to trauma caused by motor vehicle accident at
+22 days after immunisation) were judged to be not related
+to vaccination.
+Discussion
+A novel inactivated, trivalent, split Vero-cell-derived
+infl uenza vaccine is safe, well tolerated, and aff ords
+protection in healthy adults against seasonal infection
+with infl uenza virus. The effi cacy of protection against
+culture-confi rmed infl uenza infection caused by viruses
+antigenically related to A/H1N1, which were predominant
+in the 2008–09 infl uenza season in the USA,22 was 79%.
+Moreover, protective effi cacy was 78·5% for all
+antigenically matched infl uenza strains and 71·5% for all
+laboratory-confi rmed infections, irrespective of antigenic
+matching (table 1).
+Comparison of independent studies of seasonal
+infl uenza vaccines is diffi cult because of several
+confounding factors, including diff erences in vaccine
+strains, circulating viruses, study population, study
+design, and clinical endpoints;11,23,24 however, retrospective
+Vero-cell-derived
+infl uenza vaccine
+(n=3623)
+Placebo (n=3620) Relative risk (95% CI)
+Arthralgia 224 (6%) 110 (3%) 2·0 (1·6 to 2·5)
+Chills 225 (6%) 104 (3%) 2·2 (1·7 to 2·7)
+Cough 37 (1%) 26 (<1%) 1·4 (0·9 to 2·3)
+Fatigue 635 (18%) 430 (12%) 1·5 (1·3 to 1·7)
+Headache 646 (18%) 487 (13%) 1·3 (1·2 to 1·5)
+Hyperhidrosis 168 (5%) 102 (3%) 1·7 (1·3 to 2·1)
+Injection-site erythema 114 (3%) 27 (<1%) 4·2 (2·8 to 6·3)
+Injection-site induration 125 (3%) 14 (<1%) 8·9 (5·0 to 14·9)
+Injection-site pain 1571 (43%) 274 (8%) 5·7 (5·1 to 6·5)
+Injection-site swelling 100 (3%) 10 (<1%) 10·0 (5·1 to 18·0)
+Malaise 522 (14%) 278 (8%) 1·9 (1·6 to 2·2)
+Myalgia 652 (18%) 227 (6%) 2·9 (2·5 to 3·3)
+Oropharyngeal pain 55 (2%) 34 (<1%) 1·6 (1·1 to 2·5)
+Pyrexia 83 (2%) 37 (1%) 2·2 (1·5 to 3·3)
+Data are number (%), unless otherwise indicated.
+Table 4: Relative risk of treatment-emergent non-serious related adverse events with incidence greater
+than 1% in any treatment group
+Articles
+www.thelancet.com Vol 377 February 26, 2011 757
+comparison with trials of other seasonal infl uenza
+vaccines done in healthy adults shows similar safety,
+immunogenicity, and effi cacy profi les.12,25–34 In a metaanalysis of trials done in healthy adults from 1977
+to 2009,33 inactivated trivalent infl uenza vaccines were
+73% effi cacious (95% CI 54–84) when vaccine strains
+matched circulating virus strains. Live, attenuated
+vaccines were reported to be 62% effi cacious (45–73).
+These data suggest that the Vero-cell-derived infl uenza
+vaccine is at least as eff ective in preventing cultureconfi rmed infl uenza infection as inactivated and live
+attenuated egg-derived vaccines.
+In future, higher and broader protection might be
+achievable with cell-culture-derived infl uenza vaccines
+than at the moment. The current generation of vaccines
+contain viruses originally isolated in eggs, possibly
+eliminating some of the advantages associated with viruses
+isolated and grown exclusively in mammalian cells due to
+the potential loss of important protective epitopes during
+the egg-adaption process.35 The percentage of seroconverted
+and seroprotected individuals, as assessed with HI titres
+against all three strains in the trivalent vaccine, was above
+the threshold cited in both European and US guidelines
+(table 2).13,14 The results of a meta-analysis of the
+immunogenicity of trivalent inactivated split and subunit
+infl uenza vaccines in 26 European Union relicensing
+studies that were undertaken between 1992 and 2002 in
+adults aged 18–60 years showed that the median geometric
+mean fold increase with these vaccines was 10·7 for H1N1
+(range 2·0–82·7), 8·2 (2·4–24·3) for H3N2, and
+6·6 (1·8–21·3) for the B strain.30 Median seroprotection
+was 91·8% (73·5–100) for H1N1, 93·2% (56·7–100) for
+H3N2, and 96·4% (52·2–100) for B; and mean
+seroconversion was 67·0% (20·0–93·3) for H1N1, 65·3%
+(28·3–85·0) for H3N2, and 57·8% (16·2–87·1) for B.30
+Pairwise comparison of immunogenicity data for the Verocell-derived infl uenza vaccine (table 2) with the
+immunogenicity data reported in the meta-analysis 30 shows
+that the geometric mean fold increase and seroconversion
+with the infl uenza vaccine were greater than the median
+for all vaccine strains; and seroprotection was greater than
+the median for H3N2 and B strains. Moreover,
+seroconversion, seroprotection, geometric mean titre, and
+geometric mean fold increase with the infl uenza vaccine
+were all similar to those reported with a licensed cellculture-derived infl uenza vaccine derived from
+Madin–Darby canine kidney (MDCK) cells.25–28 Noteworthy
+is that HI assays in this study were done with egg-derived
+antigen as required by regulatory authorities. Use of
+antigen produced in mammalian cells can result in higher
+HI titres for human serum samples generated against cellculture-derived infl uenza vaccines.36
+Administration of the Vero-cell-derived infl uenza
+vaccine was well tolerated with no signifi cant diff erences
+in frequency of serious adverse events in the vaccine and
+placebo groups. The incidence of minor local and
+systemic adverse events (table 4) that could be related to
+immunisation was also similar to that reported in a metaanalysis of egg-derived inactivated infl uenza vaccines.33
+The only other effi cacy study of a cell-culture-derived
+infl uenza vaccine was done with an MDCK-derived
+vaccine, but its investigators did not attempt to establish
+a serological correlate of protection (panel).37 Hence,
+whether the immune correlates established with the eggderived vaccines could be extrapolated to allow the
+prediction of protection with cell-culture-derived vaccine
+against seasonal infl uenza was not clear. Analyses of data
+for effi cacy and immunogenicity showed that the
+correlate of protection established with egg-derived
+seasonal infl uenza vaccines (reciprocal HI titre ≥40) is
+also predictive of the protection provided by the infl uenza
+vaccine. Moreover, our results show that a reciprocal titre
+of at least 15 provides a reliable correlate of protection
+induced by cell-culture-derived vaccine, and that there is
+no additional protection at a reciprocal titre greater
+than 30 (table 3). Results of previous studies of live-virus
+challenge with egg-derived seasonal infl uenza vaccines
+showed that a reciprocal HI titre between 15 and 65 is
+acceptable as an immunological correlate of protection.14
+The results of our study lend support to the previous
+results, and further indicate a threshold for seroprotection
+that is less than a reciprocal titre of 65. Our data are also
+Panel: Research in context
+Systematic review
+We searched PubMed with the terms “infl uenza”, “vaccines”,
+and “adult clinical trials” for details about infl uenza clinical
+trials. This search provided the review33 from the Cochrane
+library that is a comprehensive review of all studies of
+infl uenza-vaccine effi cacy undertaken from 1977 to 2009.
+This meta-analysis of clinical trials of seasonal infl uenza
+vaccines in healthy adults, undertaken by the Cochrane
+Collaboration, was used to compare the safety and effi cacy of
+Vero-cell-derived infl uenza vaccine with egg-derived,
+inactivated, and live attenuated infl uenza vaccines. Another
+meta-analysis30 of 26 European Union relicensing studies was
+used to compare the immunogenicity of the Vero-cell-derived
+infl uenza vaccine with equivalent egg-derived vaccines.
+Further studies with respect to serological data from more
+recent studies were also identifi ed and included.25–29,31,32 The
+effi cacy of a cell-culture (Madin–Darby canine kidney)-derived
+infl uenza vaccine was reported in a study that was not
+designed to establish a serological marker of protection.37
+Interpretation
+This study is the fi rst published report of the clinical effi cacy
+of a Vero-cell-culture-derived infl uenza vaccine. Comparison
+with previously published meta-analyses shows that the
+Vero-cell-derived seasonal infl uenza vaccine is at least as
+immunogenic and effi cacious as traditional egg-derived
+vaccines. Our data also provide the fi rst evidence that
+correlates of protection established for egg-derived infl uenza
+vaccines are also appropriate for cell-culture-derived vaccines.
+Articles
+758 www.thelancet.com Vol 377 February 26, 2011
+in agreement with data from meta-analyses of infl uenza
+vaccine effi cacy and immunogenicity, suggesting that
+titres as low as 1:28 or 1:17 are correlates of protection.38,39
+Although the effi cacy of the vaccine compared with
+placebo was impressive, there were some limitations to
+the study. The absence of an egg-derived vaccine does not
+allow direct comparison with a vaccine manufactured by
+use of the standard technology. A signifi cant effi cacy could
+only be shown for the H1N1 strain because of the low
+number of H3N2 isolates and the substantial mismatch
+between the B strain in the vaccine and the isolated
+B strains. Additionally, the study was designed only to
+analyse effi cacy during one season. Data for HI from
+diff erent laboratories can diff er substantially,40 so the
+correlate of protection based on such data might need
+further confi rmation.
+The results of this study make a substantial contribution
+to the sum of knowledge in the specialty of infl uenza
+vaccines since it is the fi rst report showing the clinical
+effi cacy of a Vero-cell-derived infl uenza vaccine. The
+results provide important new information about the use
+of the HI titre as a correlate of immunity for cell-culturederived seasonal infl uenza vaccines.
+The timeliness of this study is also important: since
+completion of the trial protocol, healthy adults have been
+included as a recommended population for seasonal
+infl uenza vaccine in the USA.41 The demand for
+immunisation with seasonal infl uenza vaccines is thus
+increasing as health authorities become more aware of
+the benefi ts provided by expanding recommended target
+populations. The data presented here show that a novel,
+inactivated Vero-cell-derived infl uenza vaccine, which is
+safe, immunogenic, and effi cacious, will be a valuable
+addition to the currently licensed vaccines for the
+prevention of seasonal infl uenza.
+Contributors
+PNB and GB prepared the fi rst draft of the report. All authors
+contributed to the content of the report; design and conduct of the study;
+analysis and interpretation of the data; and preparation of the report. All
+authors were responsible for the concept, design, and supervision of the
+study, analysis and interpretation of data, drafting and revision of the
+report. GB, SF, GA, MKH, WEA, OK, and HJE were responsible for data
+acquisition. All authors were involved in obtaining funding for the study.
+SF was responsible for the statistical analysis.
+Investigators at 36 study sites
+USA Richard Beasley (Health Concepts, Rapid City, SD); Bruce Berwald
+(Radiant Research, St Louis, MO); James Borders (Central Kentucky
+Research Associates, Lexington, KY); Donald Brandon (California
+Research Foundation, San Diego, CA); Laurence Chu (Benchmark
+Research Austin, Austin, TX); Arsenio Columbie (Pharmax Research
+Clinic, Miami, FL); Matthew Davis (Rochester Clinical Research,
+Rochester, NY); Victor Elinoff (Regional Clinical Research, Endwell,
+NY); Robert Epstein (Benchmark Research, San Francisco, CA);
+John Ervin (Center for Pharmaceutical Research, Kansas City, MO);
+Brandon Essink (Meridian Clinical Research, Omaha, NE);
+Charles Fogarty (Spartanburg Medical Research, Spartanburg, SC);
+David Fried (Omega Medical Research, Warwick, RI); Frederic Garner
+(PI-COOR Clinical Research, Burke, VA); Jeff rey Geohas (Radiant
+Research, Chicago, IL); Larry Gilderman (University Clinical Research,
+Pembroke Pines, FL); Wayne Harper (Wake Research Associates,
+Raleigh, NC); Darrell Herrington (Benchmark Research, San Angelo,
+TX); Steven Hull (Vince and Associates Clinical Research, Overland
+Park, KS); Jeff Jacqmein (Jacksonville Centre for Clinical Research,
+Jacksonville, FL); Robert Jeanfreau (Benchmark Research, Metairie, LA);
+Casey Johnson (Johnson County Clin-Trials, Lenexa, KS); Judith Kirstein
+(Advanced Clinical Research, West Jordan, UT); John Gettigan (Quality
+of Life Medical and Research Centre, Tucson, AZ); Leslie Moldauer
+(Radiant Research, Denver, CO); Michael Noss (Radiant Research,
+Cincinnati, OH); Gilbert Podolsky (Jean Brown Research, Salt Lake City,
+UT); Ivan Rarick (Benchmark Research, Sacramento, CA); Jeff rey Rosen
+(Clinical Research of South Florida, Coral Gables, FL); John Rubino
+(Triangle Medical Research Associates, Raleigh, NC); Nathan Segall
+(Clinical Research Atlanta, Stockbridge, GA); William Seger
+(Benchmark Research, Fort Worth, TX); Stephan Sharp (Clinical
+Research Associates, Nashville, TN); Eric Sheldon (Miami Research
+Associates, South Miami, FL); Larkin Wadsworth (Sundance Clinical
+Research, St Louis, MO); Duane Wombolt (Clinical Research Associates
+of Tidewater, Norfolk, VA).
+Confl icts of interest
+PNB, GB, SF, GA, OK, and HJE are employed by Baxter and have stock
+and share options in the company. OK and PNB hold patents on
+infl uenza vaccines derived from Vero cell cultures. MKH and WEA are
+employed by DynPort Vaccine Company, and MKH has an equity
+investment in CSC, the parent company of DynPort Vaccine Company.
+MKH and WEA have received support for travel to meetings for study
+and other purposes from the Department of Health and Human
+Services.
+Acknowledgments
+This project has been funded in whole with federal (US Government)
+funds from the Offi ce for Preparedness and Response, Biomedical
+Advanced Research and Development Authority, under contract
+number HHS0100200600013C, to DynPort Vaccine Company. Pursuant
+to Section 507 of PL 104-208 and Section 508 of PL 105-78, 100% of the
+total of this project’s costs are fi nanced with federal (US Government)
+money. The content of this publication does not necessarily refl ect the
+views or policies of the US Department of Health and Human Services,
+nor does mention of trade names, commercial products, or
+organisations imply endorsement by the US Government. We thank
+the members of the Baxter research and development team
+(Roman Bobrovsky, Julie McClaren, Borislava Pavlova,
+Miranda Schneider, Julia Singer, Leopold Grillberger, Keith Howard,
+Wolfgang Mundt, Manfred Reiter, Helga Savidis-Dacho, ChristaTauer,
+and Walter Wodal) for their role in this study, and members of the
+DynPort Vaccine Company (Cheryl Main, Aparna Kolhekar, and
+Patti Postal) for their support of this study; acknowledge the support of
+Alexander Klimov, Xiyan Xu, and Nancy Cox at CDC, Atlanta, GA,
+USA, for the virus typing by use of the HI assay, and Franz X Heinz,
+Monika Redlberger-Fritz, and Therese Popow-Kraupp at the Institute of
+Virology, Medical University Vienna, Austria, for assessment of genetic
+lineage of the B strains; and thank Daniel Portsmouth for assistance in
+preparation of the report.
+References
+1 Russell CA, Jones TC, Barr IG, et al. Infl uenza vaccine strain
+selection and recent studies on the global migration of seasonal
+infl uenza viruses. Vaccine 2008; 26 (suppl 4): D31–D34.
+2 Fink S. Aches and pains. Learning lessons from the infl uenza
+vaccine shortage. IAVI Rep 2004; 9: 10–11.
+3 Tiered use of inactivated infl uenza vaccine in the event of a vaccine
+shortage. MMWR Morb Mortal Wkly Rep 2005; 54: 749–50.
+4 Couch RB. Seasonal inactivated infl uenza virus vaccines. Vaccine
+2008; 26 (suppl 4): D5–D9.
+5 Genzel Y, Reichl U. Continuous cell lines as a production system
+for infl uenza vaccines. Expert Rev Vaccines 2009; 8: 1681–92.
+6 Patriarcha PA. Use of cell lines for the propagation of infl uenza
+virus vaccines: an appraisal of technical, manufacturing, and
+regulatory considerations. Geneva: World Health Organization,
+2007. http://www.who.int/vaccine_research/diseases/infl uenza/
+WHO_Flu_Cell_Substrate_Version3.pdf (accessed Jan 18, 2011).
+7 Barrett PN, Mundt W, Kistner O, et al. Vero cell platform in vaccine
+production: moving towards cell culture-based viral vaccines.
+Expert Rev Vaccines 2009; 8: 607–18.
+Articles
+www.thelancet.com Vol 377 February 26, 2011 759
+8 Ehrlich HJ, Muller M, Oh HM, et al. A clinical trial of a whole-virus
+H5N1 vaccine derived from cell culture. N Engl J Med 2008;
+358: 2573–84.
+9 Ehrlich HJ, Muller M, Fritsch S, et al. A cell culture (Vero)-derived
+H5N1 whole-virus vaccine induces cross-reactive memory
+responses. J Infect Dis 2009; 200: 1113–18.
+10 Kistner O, Crowe BA, Wodal W, et al. A whole virus pandemic
+infl uenza H1N1 vaccine is highly immunogenic and protective
+in active immunization and passive protection mouse models.
+PLoS One 2010; 5: e9349.
+11 Belongia EA, Kieke BA, Donahue JG, et al. Eff ectiveness of
+inactivated infl uenza vaccines varied substantially with antigenic
+match from the 2004–2005 season to the 2006–2007 season.
+J Infect Dis 2009; 199: 159–67.
+12 Beran J, Vesikari T, Wertzova V, et al. Effi cacy of inactivated
+split-virus infl uenza vaccine against culture-confi rmed infl uenza in
+healthy adults: a prospective, randomized, placebo-controlled trial.
+J Infect Dis 2009; 200: 1861–69.
+13 Committee for Proprietary Medicinal Products. Note for guidance on
+harmonisation of requirements for infl uenza vaccines. London: The
+European Agency for the Evaluation of Medicinal Products, 1997.
+14 FDA/CBER. Guidance for industry: clinical data needed to support
+the licensure of seasonal inactivated infl uenza vaccines. Rockville:
+US Food and Drug Administration, 2010.
+15 Wichmann BA, Hill ID. Algorithm 183. An effi cient and portable
+pseudo-random number generator. Appl Stat 1982; 31: 188–90.
+16 Mcleod A. Remark AS R58. A remark on algorithm AS 183.
+An effi cient and portable pseudo-random number generator.
+Appl Stat 1985; 121: 811–22.
+17 Statistical methods for estimating vaccine effi cacy. Geneva: WHO
+Malvac Meeting, 2008.
+18 Cai T, Gilbert PB, Self SG. Joint inferences on vaccine effi cacy
+against infection and disease with application to the fi rst HIV
+vaccine effi cacy trial. J Biopharm Stat 2006; 16: 517–38.
+19 Miettinen O, Nurminen M. Comparative analysis of two rates.
+Stat Med 1985 April; 4: 213–26.
+20 Barford K. Estimation of optimal cutoff for ELISA assays using
+latent class methods and ROC analysis. Proceedings of the
+11th International Symposium on Veterinary Epidemiology and
+Economics, 2006. http://www.sciquest.org.nz/elibrary/
+download/64383/T4-4.3.3_-_Estimation_of_optimal_cutoff _for_
+ELISA_assays_using_latent_class_methods_and_ROC_analysis
+(accessed Jan 18, 2011).
+21 Centers for Disease Control and Prevention. 2008–2009 Infl uenza
+Season Week 20 ending May 23, 2009. 2010. http://www.cdc.gov/
+fl u/weekly/weeklyarchives2008-2009/weekly20.htm (accessed
+Jan 18, 2011).
+22 Update: infl uenza activity—United States, September 28,
+2008–April 4, 2009, and composition of the 2009–10 infl uenza
+vaccine. MMWR Morb Mortal Wkly Rep 2009; 58: 369–74.
+23 Beran J, Wertzova V, Honegr K, et al. Challenge of conducting a
+placebo-controlled randomized effi cacy study for infl uenza vaccine
+in a season with low attack rate and a mismatched vaccine B strain:
+a concrete example. BMC Infect Dis 2009; 9: 2.
+24 Ohmit SE, Victor JC, Rotthoff JR, et al. Prevention of antigenically
+drifted infl uenza by inactivated and live attenuated vaccines.
+N Engl J Med 2006; 355: 2513–22.
+25 Ambrozaitis A, Groth N, Bugarini R, et al. A novel mammalian
+cell-culture technique for consistent production of a well-tolerated
+and immunogenic trivalent subunit infl uenza vaccine. Vaccine
+2009; 27: 6022–29.
+26 Groth N, Montomoli E, Gentile C, et al. Safety, tolerability and
+immunogenicity of a mammalian cell-culture-derived infl uenza
+vaccine: a sequential Phase I and Phase II clinical trial. Vaccine
+2009; 27: 786–91.
+27 Reisinger KS, Block SL, Izu A, et al. Subunit infl uenza vaccines
+produced from cell culture or in embryonated chicken eggs:
+comparison of safety, reactogenicity, and immunogenicity.
+J Infect Dis 2009; 200: 849–57.
+28 Szymczakiewicz-Multanowska A, Groth N, Bugarini R, et al. Safety
+and immunogenicity of a novel infl uenza subunit vaccine produced
+in mammalian cell culture. J Infect Dis 2009; 200: 841–48.
+29 Talbot HK, Keitel W, Cate TR, et al. Immunogenicity, safety and
+consistency of new trivalent inactivated infl uenza vaccine. Vaccine
+2008; 26: 4057–61.
+30 Voordouw AC, Beyer WE, Smith DJ, et al. Evaluation of serological
+trials submitted for annual re-licensure of infl uenza vaccines to
+regulatory authorities between 1992 and 2002. Vaccine 2009;
+28: 392–97.
+31 Frey S, Poland G, Percell S, et al. Comparison of the safety,
+tolerability, and immunogenicity of a MF59-adjuvanted infl uenza
+vaccine and a non-adjuvanted infl uenza vaccine in non-elderly
+adults. Vaccine 2003; 21: 4234–37.
+32 Jackson LA, Gaglani MJ, Keyserling HL, et al. Safety, effi cacy, and
+immunogenicity of an inactivated infl uenza vaccine in healthy
+adults: a randomized, placebo-controlled trial over two infl uenza
+seasons. BMC Infect Dis 2010; 10: 71.
+33 Jeff erson T, Di PC, Rivetti A, et al. Vaccines for preventing
+infl uenza in healthy adults. Cochrane Database Syst Rev 2010;
+7: CD001269.
+34 Monto AS, Ohmit SE, Petrie JG, et al. Comparative effi cacy of
+inactivated and live attenuated infl uenza vaccines. N Engl J Med
+2009; 361: 1260–67.
+35 Katz JM, Webster RG. Effi cacy of inactivated infl uenza A virus
+(H3N2) vaccines grown in mammalian cells or embryonated eggs.
+J Infect Dis 1989; 160: 191–98.
+36 Palache AM, Brands R, van Scharrenburg GJ. Immunogenicity
+and reactogenicity of infl uenza subunit vaccines produced in
+MDCK cells or fertilized chicken eggs. J Infect Dis 1997;
+176 (suppl 1): S20–S23.
+37 Frey S, Vesikari T, Szymczakiewicz-Multanowska A, et al. Clinical
+effi cacy of cell culture-derived and egg-derived inactivated subunit
+infl uenza vaccines in healthy adults. Clin Infect Dis 2010;
+51: 997–1004.
+38 Coudeville L, Bailleux F, Riche B, et al. Relationship between
+haemagglutination-inhibiting antibody titres and clinical protection
+against infl uenza: development and application of a Bayesian
+random-eff ects model. BMC Med Res Methodol 2010; 10: 18.
+39 de Jong JC, Palache AM, Beyer WE, et al.
+Haemagglutination-inhibiting antibody to infl uenza virus.
+Dev Biol (Basel) 2003; 115: 63–73.
+40 Wood JM, Gaines-Das RE, Taylor J, et al. Comparison of infl uenza
+serological techniques by international collaborative study. Vaccine
+1994; 12: 167–74.
+41 Fiore AE, Uyeki TM, Broder K, et al. Prevention and control
+of infl uenza with vaccines: recommendations of the Advisory
+Committee on Immunization Practices (ACIP), 2010.
+MMWR Recomm Rep 2010; 59: 1–62.

@@ -1,0 +1,461 @@
+2013
+http://informahealthcare.com/jmf
+ISSN: 1476-7058 (print), 1476-4954 (electronic)
+J Matern Fetal Neonatal Med, 2013; 26(12): 1207–1211
+! 2013 Informa UK Ltd. DOI: 10.3109/14767058.2013.775419
+Selective uptake of influenza vaccine and pregnancy outcomes
+Jessica Cantu, Joseph Biggio, Victoria Jauk, Luisa Wetta, William Andrews, and Alan Tita
+Center for Women’s Reproductive Health, University of Alabama at Birmingham, Birmingham, AL, USA
+Abstract
+Objective: To describe the characteristics of pregnant women who accept the influenza vaccine
+and evaluate the relationship between vaccination and adverse pregnancy outcomes.
+Methods: Retrospective cohort study of women receiving prenatal care during the 2009–2011
+influenza seasons. Vaccination status was ascertained through our perinatal record system and
+clinic vaccination logs. Pregnancy outcomes included a primary composite of miscarriage, fetal
+demise, preterm birth (PTB) 537 weeks and neonatal demise. Stratification and logistic
+regression were used to adjust for potential confounders.
+Results: Of 3104 eligible pregnant women, 1094 (35%) received the influenza vaccine. Women
+vaccinated were more likely to be older, obese, primiparae, and have medical complications
+or a prior PTB. In univariable analyses, flu vaccination was associated with increased adverse
+composite outcome and PTB. After multivariable adjustments, vaccination was no longer
+associated with adverse outcomes in women with medical complications but remained
+associated with adverse outcomes among those without known co-morbidity.
+Conclusions: Vaccination was associated with an increased adverse composite outcome
+in pregnant women without identified co-morbidity but not those with co-morbidities.
+This association is likely due to selection bias, which should be considered in planning of
+observational studies of the impact of vaccination on pregnancy outcomes.
+Keywords
+Influenza, pregnancy, selection bias,
+vaccination
+History
+Received 16 October 2012
+Revised 22 December 2012
+Accepted 8 February 2013
+Published online 14 March 2013
+Introduction
+Women with influenza infection during pregnancy are more
+likely to have severe illness and are at an increased risk for
+adverse pregnancy outcomes [1]. Compared to the general
+population, pregnant women with seasonal or pandemic
+influenza are at least five times more likely to die or be
+hospitalized with severe complications [2–10]. Influenza
+infection in pregnancy has been variously associated with
+increased risks of miscarriage, stillbirth, neonatal death,
+preterm birth (PTB) and low birth weight (LBW) [2,6,7,
+11–15]. In one case series of pandemic influenza, ‘‘pregnancy
+interruption’’ (i.e. miscarriage, fetal death or premature
+delivery) was reported in up to a third of pregnant patients,
+and PTB was noted in 50% of patients with cardiopulmonary
+complications of influenza [9]. A clinical trial of 340 mothers
+who were randomized to either influenza vaccine or control
+in the third trimester demonstrated a significant reduction in
+influenza-like illness in women and infants as well as
+confirmed influenza in vaccinated infants [16]. Assuming
+these associations are true, vaccination by preventing
+influenza infection may not only be safe from a fetal
+perspective, it could potentially prevent adverse fetal
+outcomes.
+Despite universal recommendation in pregnancy, only a
+minority of eligible pregnant US women receive the vaccine
+annually [17,18]. Patient, provider, and health system barriers
+and safety concerns contribute to the low vaccine uptake
+[19–22]. This study was undertaken to identify the characteristics of women who accept the flu vaccine and to screen
+the hypothesis that vaccination during pregnancy prevents
+adverse fetal outcomes.
+Methods
+We conducted a retrospective cohort study of women
+receiving prenatal care and delivering in our healthcare
+system; consultations and referrals or transports were
+excluded. Our prenatal care system is comprised of two
+high-risk clinics (staffed by resident physicians) and six lowrisk neighborhood clinics (staffed by nurse practitioners).
+Women presenting for prenatal care are routinely offered the
+influenza vaccine during the influenza season (September to
+April) and their vaccination status recorded. During the H1N1
+pandemic, we incorporated a reminder system prompting the
+provider to address influenza illness and vaccination status.
+Thus, patients were encouraged to receive the influenza
+vaccine and those who initially refuse were re-offered the
+vaccine at return appointments. Women who reported
+Address for correspondence: Jessica Cantu, MD, Department of
+Obstetrics & Gynecology, Division of Maternal-Fetal Medicine,
+University of Alabama at Birmingham, 176F 10270C, 619 19th St S,
+Birmingham, AL 35249, USA. Tel: (205) 934-5611. Fax: (205) 975-
+4375. E-mail: jcantu@uabmc.edu
+receiving the vaccination elsewhere were included in the
+cohort if they provided the date of vaccination. Women
+with singleton pregnancies during the 2009–2010 pandemic
+and during the 2010–2011 influenza seasons were analyzed.
+We further restricted the study population to women who had a
+prenatal visit in the early flu season between 10/1 and 12/31
+each year, when the vast majority of vaccines were given in
+order to assure that vaccinated and unvaccinated groups had
+similar exposure periods and avoid potential bias. Vaccination
+status was ascertained through our perinatal record system and
+vaccination logs. We also collected information on demographic, medical and obstetric characteristics of these women.
+Pregnancy and neonatal outcomes included a primary composite outcome comprising miscarriage, stillbirth, PTB 537
+weeks and neonatal demise. Other outcomes included LBW
+(52500 g), preeclampsia, small for gestational age (SGA),
+NICU admission, length of maternal stay and antiviral
+(oseltamivir) therapy. Miscarriage was defined as delivery
+prior to 20 weeks, stillbirth as delivery of a non-viable fetus
+at or after 20 weeks, and SGA was defined by Brenner’s
+standard for fetal growth less than the tenth percentile [23]. The
+results for the primary outcome and selected perinatal
+outcomes were stratified by the presence or absence of any
+maternal medical complication (including diabetes, hypertension, asthma, or other conditions including hepatitis C, HIV,
+lupus, sickle cell disease, liver transplant or renal disease).
+We compared maternal characteristics and pregnancy
+outcomes by vaccination status. Since 99% of all circulating
+influenza viruses in the 2009–2010 season (when there were
+two vaccines) were 2009 pandemic H1N1, vaccination status
+for that year was based on receipt of the 2009 H1N1 vaccine
+[24]. Therefore, women who received the H1N1 with or
+without the seasonal flu vaccine were ‘‘vaccinated’’, while
+those who did not receive the H1N1 vaccine were considered
+unvaccinated (those who received only the seasonal flu
+vaccine in 2009 were excluded from primary analyses).
+Data were analyzed using SAS version 9.1 software (Cary,
+NC). Chi square and Student’s t tests were used as appropriate
+to compare the characteristics. Strategies including stratification and multivariable logistic regression were used to adjust
+for potential confounding characteristics, including maternal
+age, weight, ethnicity, parity, medical complications, tobacco
+use, prior history of PTB, and gestational age at vaccination
+or first visit in the vaccination window. p Value less than
+0.05 was considered to represent statistical significance.
+The study was approved by the Institutional Review Board of
+the University of Alabama at Birmingham.
+Results
+Out of 3694 women receiving prenatal care in our system
+between 10/1 and 12/31 in 2009 and 2010, a total of 3104
+pregnant women were included for the study. We excluded
+108 patients with a multiple gestation and 48 with a fetal
+abnormality suspected on ultrasound. Among the studied
+women, 1094 (35%) overall received the influenza vaccine;
+40% (666/1650) during the 2009/2010 pandemic season and
+29% (428/1454) during the 2010–2011 season. Among 666
+women in the 2009–2010 season who received a flu vaccine,
+131 (19.7%) received both H1N1 and seasonal vaccine, 420
+(63.1%) received H1N1 vaccine alone and only 115 (17.3%)
+received seasonal vaccine alone. In the 2010–2011 seasons,
+all 428 vaccinated women received the seasonal vaccine
+(which incorporated the 2009 H1N1 pandemic strain).
+Maternal characteristics for the vaccinated and unvaccinated women are presented in Table 1. Adjusted odds ratios
+derived from a logistic regression to determine the independent relationship between maternal characteristics and vaccine
+uptake are also presented in Table 1. Overall, Black and
+Hispanic women were less likely to receive the vaccination
+compared to Caucasian women. Women who received flu
+vaccination were significantly more likely to be nulliparous,
+Table 1. Patient characteristics by vaccination status.
+Vaccinated*
+(n ¼ 1094)
+Unvaccinated
+(n ¼ 2010) p Value Adjusted OR [CI]
+Age 25.6  5.9 25.1  5.8 0.03 1.0 [0.99, 1.0]
+Weight (kg)y 78.7  24.5 76.0  22.6 0.003 1.0 [0.99, 1.0]
+Weight 4200 pounds (%)y 276/1093 (25.3) 424/2006 (21.1) 0.009 –
+Race (%)
+Black 658 (60.2) 1263 (63.0) 0.72 [0.58, 0.89]
+Hispanic 203 (18.9) 455 (22.7) 50.001 0.71 [0.54, 0.94]
+White 233 (21.3) 288 (14.4)
+High school education (%) 434/703 (61.7) 812/1337 (60.7) 0.659 –
+Primiparae (%) 374/1031 (36.3) 568/1854 (30.6) 0.002 1.4 [1.1, 1.7]
+High-risk clinic visit (%) 571 (52.2) 730 (36.3) 50.001 1.6 [1.4, 1.9]
+Diabetes (%) 90 (8.2) 45 (2.2) 50.001 2.8 [1.8, 4.3]
+Asthma (%) 82 (7.5) 77 (3.8) 50.001 1.7 [1.2, 2.4]
+Chronic hypertension (%) 82 (7.5) 54 (2.7) 50.001 1.8 [1.2, 2.7]
+Hepatitis C (%) 11 (1.0) 12 (0.6) 0.205 –
+HIV (%) 10 (0.9) 11 (0.6) 0.234 –
+Systemic lupus (%) 9 (0.8) 4 (0.2) 0.017 7.1 [0.8, 66.1]
+Sickle cell (%) 14 (1.3) 2 (0.1) 50.001 10.1 [2.2, 47.2]
+Complicated med issues (%) 607 (55.5) 788 (39.2) 50.001 –
+Prior PTB (%) 172/967 (17.8) 203/1692 (12.0) 50.001 1.2 [0.9, 1.6]
+GA at exposure/non-vaccination 25.5  8.8 23.0  9.5 50.001 1.04 [1.03, 1.05]
+Smoker (%) 319/1027 (31.1) 529/1911 (27.7) 0.054 1.2 [0.97, 1.4]
+*HINI with or without the seasonal flu vaccine.
+yWeight at first visit.
+1208 J. Cantu et al. J Matern Fetal Neonatal Med, 2013; 26(12): 1207–1211
+slightly further in gestation, visit the high-risk complication
+clinic, or to have medical complications such as diabetes,
+asthma, chronic hypertension or sickle cell disease (Table 1).
+The frequency of the various pregnancy outcomes by the
+vaccine group are presented in Table 2. The unadjusted risk
+of the primary composite adverse outcome (miscarriage,
+stillbirth, PTB 537 weeks or neonatal demise) was higher
+in the vaccinated group. The higher risk of the composite
+outcome in those who were vaccinated was primarily driven
+by the increased rate of PTB. Among secondary outcomes,
+vaccination was associated with a modestly longer mean
+maternal hospital stay. There were no significant differences
+in LBW, preeclampsia, SGA or NICU admission.
+Odds ratios for the association between study outcomes
+including the primary composite and vaccination status after
+adjusting for maternal age, weight, race, parity, medical
+complications, tobacco use, prior PTB, preeclampsia, year
+shot was given and gestational age at vaccination (or nonvaccination) are presented in Table 2. After multivariable
+adjustments, vaccination status no longer remained associated
+with an increase in the rate of the composite outcome (RR
+1.2; [0.9, 1.6]). There was no significant association with
+the individual and other adverse pregnancy outcomes. We
+adjusted additionally for whether the patient visited our highrisk complications clinic at any time or received their prenatal
+care entirely in the low-risk community clinic, which could
+have contributed to the patient’s decision to receive the
+vaccine. The composite outcome in women who received
+the vaccine remained unchanged. Advancing gestational age
+(completed weeks) at vaccination revealed a protective
+association with the composite outcome: RR 0.95 (0.94,
+0.96). A similar result (not shown) was observed for PTB.
+To further evaluate whether vaccine uptake may have
+differed by the presence or absence of medical co-morbidity
+based on whether prenatal care was received in the highversus low-risk clinic, we conducted multivariable adjustments separately for those with and without medical
+complications (Table 3). Vaccination was not associated
+with any of the adverse outcomes in women with medical
+complications. However, in women without medical complications, vaccination was associated with a 40% increase in
+the primary composite outcome (RR 1.4; [1.0, 2.0]) driven
+by a similar but non-significant increase in PTB.
+Discussion
+Our study reveals that overall vaccination was not associated
+with an increased risk of adverse pregnancy outcomes after
+adjusting for confounding factors. Women with medical
+co-morbidities or other risk factors for adverse outcomes
+were more likely to accept the vaccination. Advancing
+gestational age at vaccination revealed a protective association with both the composite outcome and PTB. When
+stratified by the presence or absence of medical complications, low- risk women who received the influenza vaccine
+had an increase in the composite outcome as compared to
+those who did not receive the vaccination even after adjusting
+for confounding factors. While there are data to suggest
+that influenza is associated with adverse fetal outcomes and
+vaccination decreases the incidence of influenza infection
+in pregnancy, there are currently few published data
+evaluating whether these translate to improved fetal outcomes
+[16,25–27]. Recent large cohort studies have shown no
+increase in the risk of adverse pregnancy outcomes but have
+been inconsistent regarding a possible benefit of influenza
+vaccination for fetal outcomes including preterm birth or
+stillbirths [28–31].
+Table 2. Adverse pregnancy outcomes and vaccination status.
+Vaccinated
+(n ¼ 979)
+Unvaccinated
+(n ¼ 2010)
+Unadjusted RRz
+[95% CI]
+Adjusted RR*z
+[95% CI]
+Compositey (%) 133 (13.6) 214 (10.7) 1.2 [1.04, 1.4] 1.2 [0.9, 1.6]
+Miscarriage (%) 5 (0.5) 17 (0.9)
+PTB (%) 126/979 (12.9) 194/2008 (9.7) 1.2 [1.06, 1.4] 1.2 [0.9, 1.6]
+BW52500 g (%) 98 (10.0) 178 (8.9) 1.09 [0.9, 1.3] 1.0 [0.8, 1.5]
+Neonatal demise (%) 4 (0.4) 5 (0.3)
+Stillbirth (%) 8 (0.8) 15 (0.8)
+Preeclampsia (%) 80/974 (8.2) 127/1981 (6.4) 1.2 [0.99, 1.4] 1.1 [0.8, 1.6]
+SGA (%) 56/972 (5.8) 125/1969 (6.4) 0.93 [0.7, 1.2] 0.9 [0.6, 1.3]
+NICU (%) 117/979 (12.0) 221 (11.0) 1.06 [0.9, 1.2] 0.95 [0.7, 1.3]
+Maternal LOS** 3.4  2.5 3.2  1.8
+yPrimary composite outcome comprising miscarriage, stillbirth, PTB537 weeks and neonatal demise.
+zRisk Ratio (RR).
+*Adjusted for maternal age, weight, race/ethnicity, parity, medical complications, tobacco use, prior PTB,
+gestational age at exposure/non-vaccination, year shot given and preeclampsia (except for the outcome of
+preeclampsia).
+**Mean  SD.
+Table 3. Adjusted odds ratio of vaccination and adverse pregnancy
+outcomes in high-risk versus low-risk pregnancies.
+Medical
+complications**
+No medical
+complications**
+Composite (%) 0.9 [0.5, 1.5] 1.4 [1.0, 2.0]
+Preterm birth (%) 0.9 [0.5, 1.6] 1.4 [0.9, 1.9]
+BW52500 g (%) 0.7 [0.5, 1.5] 1.1 [0.8, 1.6]
+Preeclampsia (%) 1.5 [0.8, 3.0] 0.8 [0.5, 1.2]
+SGA (%) 0.60 [0.2, 1.8] 0.9 [0.6, 1.4]
+NICU (%) 1.0 [0.5, 1.7] 0.9 [0.7, 1.3]
+**Adjusted for maternal age, weight, race/ethnicity, parity, complication
+clinic visit, tobacco use, prior PTB, maternal weight, gestational age at
+exposure/non-vaccination, year shot was given and preeclampsia
+(except for the outcome of preeclampsia).
+DOI: 10.3109/14767058.2013.775419 Influenza vaccine and pregnancy 1209
+We do not believe that influenza vaccination causes
+adverse pregnancy outcomes in low-risk women; instead our
+findings likely represent the result of selection bias and
+residual confounding. A subgroup of women without obvious
+co-morbidities in our population may have other perceived
+unmeasured risk factors for adverse outcomes that makes
+more likely to accept the vaccination. Such a selection bias
+in vaccine uptake will explain, at least in part, the association
+between vaccination and adverse pregnancy outcomes; a bias
+that is not overcome by considerable adjustments for potential confounding. Our results, therefore, do not refute the
+hypothesis that vaccination may improve pregnancy outcomes
+considering the data suggesting increased risk of maternal
+and fetal adverse outcomes associated with influenza during
+pregnancy [1–10]. Inversely, in settings where healthier
+women are more likely to accept vaccination, the selection
+bias may be manifested by improved outcomes in the vaccine
+group. Similarly, if women at higher risk for adverse
+outcomes are more likely to accept the vaccine at earlier
+gestational ages, this would explain the observed protective
+association between vaccination at later gestational ages and
+pregnancy outcomes.
+At least one prior study in non-pregnant patients has shown
+variation in vaccine uptake by factors such as age, sex,
+chronic illness, socioeconomic factors and ethnicity. Similar
+to our observation, a recent study done in the UK specifically
+demonstrated an increased vaccine uptake in patients with
+underlying health conditions compared to the general population [32]. Adjustment for confounding is unlikely to correct
+problems of self-selection in vaccine uptake. Therefore, this
+type of bias is readily manifest in observational studies as
+opposed to randomized trials. A prior observational study by
+Munoz et al. compared pregnancy outcomes between a cohort
+of healthy women who received the influenza vaccine and a
+control group of healthy unvaccinated women. We computed
+estimates from the data provided in the manuscript which
+suggests a non-significant reduction in PTB among vaccinated women: RR 0.67; CI [0.3, 1.3] [25]. If a similar
+selection bias existed in this study it is conceivable that the
+true findings would suggest a protective effect of vaccination.
+Our study is obviously limited by its non-randomized
+retrospective design. Furthermore, the sample size may not be
+sufficient for some outcomes. Other limitations include a lack
+of specific data on potential confounders including prior
+vaccination history. In addition, we were not able to directly
+observe providers offering the vaccine each visit. However,
+staff and physicians were reminded to offer the vaccine during
+the flu season at each visit and automated prompts were built
+into the perinatal record to document the vaccination status.
+Overall, this study demonstrates the methodological limitations of studying the effects of influenza vaccination
+through an observational, and particularly, retrospective
+design. Selective vaccine uptake as demonstrated by our
+results may lead to refractory bias. A randomized controlled
+trial is ideal since it prevents or adjusts for the bias. Given
+current recommendations, this is not ethical in the US and
+many other settings. Therefore, the alternative strategy is to
+conduct an observational study in which a relatively low-risk
+group of pregnant women are offered the influenza vaccine
+and detailed information on vaccination status and an
+exhaustive list of potential confounders collected and used
+for the analysis. These analyses would include matching on
+some covariates and especially propensity scores analysis,
+which can be used in observational studies to simulate a
+randomized trial [33,34].
+Declaration of interest
+The authors report no declarations of interest.
+References
+1. CDC. Key facts about seasonal influenza. Available from: http://
+www.cdc.gov/flu/keyfacts.htm [last accessed 10 Feb 2009].
+2. Neuzil KM, Reed GW, Mitchel EF, et al. Impact of influenza
+on acute cardiopulmonary hospitalizations in pregnant women.
+Am J Epidemiol 1998;148:1094–102.
+3. Dodds L, McNeil SA, Fell DB, et al. Impact of influenza exposure
+on rates of hospital admissions and physician visits because of
+respiratory illness among pregnant women. Can Med Assoc J 2007;
+176:463–8.
+4. Fiore AE, Uyeki TM, Broder K, et al. Prevention and control
+of influenza with vaccines. Recommendations of the Advisory
+Committee on Immunization Practices (ACIP), 2010. MMWR
+Recomm Rep 2010;59:1–62.
+5. Jamieson DJ, Honein MA, Rasmussen SA, et al. H1N1 2009
+influenza virus infection during pregnancy in the USA. The Lancet
+2009;374:451–8.
+6. Rasmussen SA, Jamieson DJ, Bresee JS. Pandemic influenza and
+pregnant women. Emerg Infect Dis 2008;14:95–100.
+7. ANZIC Influenza Investigators and Australasian Maternity
+Outcomes Surveillance System. Critical illness due to 2009
+A/H1N1 influenza in pregnant and postpartum women: population
+based cohort study. Brit Med J 2010;340:c1279.
+8. Creanga AA, Johnson TF, Graitcer SB, et al. Severity of 2009
+pandemic influenza A (H1N1) virus infection in pregnant women.
+Obstet Gynecol 2010;115:717–26.
+9. Lim ML, Chong CY, Tee WS, et al. Influenza A/H1N1 (2009)
+infection in pregnancy – an Asian perspective. BJOG: Int J Obstet
+Gynaecol 2010;117:551–6.
+10. Jain S, Kamimoto L, Bramley AM, et al. 2009 Pandemic influenza
+A (H1N1) virus hospitalizations investigation team. Hospitalized
+patients with 2009 H1N1 influenza in the United States, April–June
+2009. New Eng J Med 2009;361:1935–44.
+11. Irving WL, James DK, Stephenson T, et al. Influenza virus
+infection in the second and third trimesters of pregnancy: a clinical
+and seroepidemiological study. Brit J Obstet Gynaecol 2000;107:
+1282–9.
+12. Acs N, Ba´nhidy F, Puho´ E, Czeizel AE. Maternal influenza during
+pregnancy and risk of congenital abnormalities in offspring. Birth
+defects research. Birth Defects Res A Clin Mol Teratol 2005;73:
+989–96.
+13. Moretti ME, Bar-Oz B, Fried S, Koren G. Maternal hyperthermia
+and the risk for neural tube defects in offspring: systematic review
+and meta-analysis. Epidemiology 2005;16:216–19.
+14. Acs N, Ba´nhidy F, Puho´ E, Czeizel AE. Pregnancy complications
+and delivery outcomes of pregnant women with influenza.
+J Maternal-Fetal Neonat Med 2006;19:135–40.
+15. Mendez-Figueroa H, Raker C, Anderson BL. Neonatal characteristics and outcomes of pregnancies complicated by influenza
+infection during the 2009 pandemic. Am J Obstetr Gynecol
+2011;204(6Suppl1):s58–63.
+16. Zaman K, Roy E, Arifeen SE, et al. Effectiveness of maternal
+influenza immunization in mothers and infants. New Eng J Med
+2008;359:1555–64.
+17. ACOG Committee on Obstetric Practice. ACOG committee
+opinion No. 468. Influenza vaccination during pregnancy. Obstet
+Gynecol 2010;116:1006–7.
+18. Centers for Disease Control and Prevention (CDC). Receipt of
+influenza vaccine during pregnancy among women with live
+births – Georgia and Rhode Island, 2004–2007. MMWR 2009;58:
+972–5.
+19. Fridman D, Steinberg E, Azhar E, et al. Predictors of H1N1
+vaccination in pregnancy. Am J Obstet Gynecol 2011;204:S124–7.
+1210 J. Cantu et al. J Matern Fetal Neonatal Med, 2013; 26(12): 1207–1211
+20. Goldfarb I, Panda B, Wylie B, Riley L. Uptake of influenza vaccine
+in pregnant women during the 2009 H1N1 influenza pandemic.
+AJOG 2011;204:112–15.
+21. Bish A, Yardley L, Nicoll A, Michie S. Factors associated with
+uptake of vaccination against pandemic influenza: a systematic
+review. Vaccine 2011;29:6472–84.
+22. Eppes C, Wu, A, Cameron KA, et al. Does obstetrician knowledge
+regarding influenza increase H1N1 vaccine acceptance among
+their pregnant patients? Vaccine 2012;30:5782–4.
+23. Brenner WE, Edelman DA, Hendricks CH. A standard of fetal
+growth for the United States of America. Am J Obstet Gynecol
+1976;126:555–64.
+24. Centers for Disease Control and Prevention (CDC). Update:
+influenza Activity – United States, 2009–10 Season. Morbidity
+and Mortality Weekly Report. 2010;59:901–8.
+25. Munoz FM, Greisinger AJ, Wehmanen OA, et al. Safety of
+influenza vaccination during pregnancy. Am JObstet Gynecol 2005;
+192:1098–106.
+26. Black SB, Shinefield HR, France EK, et al; Vaccine Safety Datalink
+Workgroup. Effectiveness of influenza vaccine during pregnancy
+in preventing hospitalizations and outpatient visits for respiratory
+illness in pregnant women and their infants. Am J Perinatol 2004;
+21:333–9.
+27. France EK, Smith-Ray R, McClure D, et al. Impact of maternal
+influenza vaccination during pregnancy on the incidence of acute
+respiratory illness visits among infants. Arch Pediatr Adoles Med
+2006;160:1277–83.
+28. Pasternak B, Svanstro¨m H, Mølgaard-Nielsen D, et al. Vaccination
+against pandemic A/H1N1 2009 influenza in pregnancy and risk of
+fetal death: cohort study in Denmark. BMJ 2012;344:e2794.
+29. Pasternak B, Svanstro¨m H, Mølgaard-Nielsen D, et al. Risk
+of adverse fetal outcomes following administration of a pandemic
+influenza A (H1N1) vaccine during pregnancy. JAMA 2012;308:
+165–74.
+30. Fell B, Sprague A, Liu N, et al. H1N1 influenza vaccination during
+pregnancy and fetal and neonatal outcomes. Am J Public Health
+2012;102:e33–40.
+31. Sheffield JS, Greer LG, Rogers VL, et al. Effect of influenza
+vaccination in the first trimester of pregnancy. Obstet Gynecol
+2012;120:532–7.
+32. Sammon CJ, McGrogan A, Snowball J, de Vries CS. Factors
+associated with uptake of seasonal and pandemic influenza vaccine
+among clinical risk groups in the UK: an analysis using the General
+Practice Research Database. Vaccine 2012;30:(14):2483–9.
+33. Rubin DB. The design versus the analysis of observational studies
+for causal effects: parallels with the design of randomized trials.
+Stat Med 2007;26:20–36.
+34. Trojano M, Pellegrini F, Paolicelli D, et al. Observational studies:
+propensity score analysis of non-randomized data. Int MS J 2009;
+16:90–7.
+DOI: 10.3109/14767058.2013.775419 Influenza vaccine and pregnancy 1211
+Copyright of Journal of Maternal-Fetal & Neonatal Medicine is the property of Taylor &
+Francis Ltd and its content may not be copied or emailed to multiple sites or posted to a
+listserv without the copyright holder's express written permission. However, users may print,
+download, or email articles for individual use.
+Copyright of Journal of Maternal-Fetal & Neonatal Medicine is the property of Taylor &
+Francis Ltd and its content may not be copied or emailed to multiple sites or posted to a
+listserv without the copyright holder's express written permission. However, users may print,
+download, or email articles for individual use.

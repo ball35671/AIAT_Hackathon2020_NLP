@@ -1,0 +1,438 @@
+﻿Abstract
+Objective
+To compare the efficacy of high-dose (3,600 mg/day) vs low-dose (1,200 mg/day) oral gabapentin enacarbil (GEn) on pain intensity in adults with postherpetic neuralgia (PHN) and a history of inadequate response to ≥1,800 mg/day gabapentin.
+
+Design
+Multicenter, randomized, double-blind, crossover study (NCT00617461).
+
+Setting
+Thirty-five outpatient centers in Germany and the United States.
+
+Subjects
+Subjects aged ≥18 years with a diagnosis of PHN.
+
+Methods
+During a 2-week baseline period, subjects received open-label treatment with 1,800 mg/day gabapentin. Subjects who had a mean 24-hour average pain intensity score ≥4 during the last 7 days of the baseline period were randomized to receive GEn (1,200 or 3,600 mg/day) for treatment period 1 (28 days), followed by GEn 2,400 mg/day (4 days), and the alternate GEn dose for treatment period 2 (28 days).
+
+Results
+There was a modest but significant improvement in pain intensity scores with GEn 3,600 mg vs 1,200 mg (adjusted mean [90% confidence interval] treatment difference, −0.29 [−0.48 to −0.10]; P = 0.013). The difference in efficacy between doses was observed primarily in subjects who received the higher dose during treatment period 2; certain aspects of the study design may have contributed to this outcome. Plasma steady-state gabapentin exposure during GEn treatment was as expected and consistent between treatment periods. No new safety signals or adverse event trends relating to GEn exposure were identified.
+
+Conclusions
+While the overall results demonstrated efficacy in a PHN population, the differences between treatment periods confound the interpretation. These findings could provide insight into future trial designs.
+
+Gabapentin Enacarbil, Inadequate Responders, PHN, Postherpetic Neuralgia
+Topic: steady stategabapentinoutpatientspainsafetypost-herpetic neuralgiaadverse eventgabapentin enacarbil
+Issue Section: Original Research Articles
+Introduction
+Postherpetic neuralgia (PHN) is a complication of herpes zoster (HZ) infection [1,2], characterized by persistent or recurrent burning, aching, itching, or stabbing pain at the site of the HZ rash that is present for at least 3 months after healing of the rash [3–5]. Allodynia and hyperalgesia of the affected dermatome are also reported commonly [5,6]. It is estimated that approximately one in three people will develop an HZ infection during their lifetime [7]. Among those with HZ, approximately 10–20% will continue to experience pain after the rash has healed or PHN [3,8–11], with the prevalence of PHN increasing with age (15- to 27-fold more prevalent in patients aged ≥50 years) [12,13]. Studies have shown that PHN has a significant impact on the well-being of those afflicted, as measured by increased rates of health care resource utilization [14,15], decreased health-related quality of life [16], and decreased general well-being (e.g., physical, psychological, functional, and social domains of daily activities) [17].
+
+Commonly prescribed medications include antiviral drugs indicated for the early treatment of HZ and a wide range of therapies primarily indicated for the treatment of pain [18,19]. Current treatments for PHN include anticonvulsants (e.g., gabapentin and pregabalin), lidocaine patch 5%, capsaicin, opioid analgesics, and tricyclic antidepressants [20–22]. Gabapentin is often prescribed as a first-line therapy for PHN, as it is approved for this use, has demonstrated efficacy [23], and is generally well tolerated [24]. Clinical trials have shown that gabapentin improves pain scores, but not all subjects with PHN had adequate pain relief [24–26]. Indeed, in some pivotal trials, less than half of subjects experienced at least a 50% improvement in pain scores compared with baseline [25,26]. It has been proposed that this inconsistent efficacy may be partly attributable to certain pharmacokinetic (PK) limitations of gabapentin, such as lack of dose proportionality [27] and a relatively short elimination half-life (5–7 hours) [24].
+
+Gabapentin enacarbil (GEn) is a novel transported prodrug of gabapentin. Unlike gabapentin, which uses transporters in a limited region of the small intestine that saturate at clinically relevant doses [27], GEn utilizes high-capacity transport mechanisms located throughout the intestinal tract [28]. Once absorbed, GEn releases the active moiety gabapentin. As GEn has been shown to increase the bioavailability of gabapentin, it is hypothesized that GEn could potentially result in improved efficacy over gabapentin in treating PHN. To test this hypothesis, the present study assessed the efficacy, tolerability, and PK of GEn in subjects with PHN who had demonstrated an inadequate response to gabapentin.
+
+Methods
+Study Design and Treatment
+This was a multicenter, prospective, randomized, double-blind, two-period, crossover study (NCT00617461) comparing the efficacy of high-dose GEn (3,600 mg/day) vs low-dose GEn (1,200 mg/day) in adults with PHN who have had inadequate response to gabapentin. This study was conducted in 35 outpatient centers (8 centers in Germany and 27 in the United States) from March 2008 to July 2009 and was routinely monitored for good clinical practice and protocol adherence.
+
+The study protocol and informed consent were approved by Institutional Review Boards/Ethics Committees at all participating sites, and the study was conducted in accordance with Good Clinical Practice Guidelines, the Declaration of Helsinki, and applicable regulatory requirements. Subjects provided written informed consent prior to initiation of study-related assessments or procedures.
+
+The study started with a 2-week baseline period during which subjects received open-label branded gabapentin (Neurontin®, Pfizer, New York, NY, USA) at a dose of 1,800 mg/day per the prescribing information [24]. Subjects who were receiving gabapentin (1,800 mg or higher) immediately prior to baseline did not require titration of the open-label gabapentin provided during baseline; subjects who had been treated previously with gabapentin (1,800 mg/day or higher) but who were not receiving it immediately prior to baseline were up-titrated according to the prescribing information [24]. During this baseline period, subjects completed a daily electronic diary (e-diary, PHT Corporation, Charlestown, MA, USA), recording their pain scores using an 11-point pain intensity rating scale (PI-NRS), where 0 indicates no pain and 10 is “pain as bad as you can imagine.” At the end of the baseline period, subjects who completed at least four daily pain diaries during the 7 days prior to randomization and who had a mean 24-hour average pain intensity score ≥4 were considered inadequate responders and randomized (1:1) to one of two 28-day GEn treatment sequences: high-dose (3,600 mg/day) then low-dose (1,200 mg/day; HL group) Gen, or low-dose (1,200 mg/day) then high-dose (3,600 mg/day; LH group) GEn. All randomized subjects received GEn 2,400 mg/day during a 4-day crossover period between the treatment periods. The computer-generated randomization schedule (block size 4) was stratified by center and provided by GlaxoSmithKline (Research Triangle Park, NC, USA). Treatment group allocation was assigned via an interactive voice response system (Pharmaceutical Product Development, Inc., Wilmington, NC, USA) at the time of randomization. Study participants and all site staff were blinded to the order of study treatment assignment, but the informed consent detailed the different timings of visits associated with the different study periods (i.e., baseline, treatment, and crossover periods). Treatment period 2 was followed by a 6-day down-titration (LH group: days 1 and 2, 1,200 mg twice daily; days 3 and 4, 600 mg twice daily; days 5 and 6, 600 mg once daily; HL group: days 1–3, 600 mg twice daily; days 4–6, 600 mg once daily), and a post-treatment period (up to 21 days).
+
+A third-party pharmacist (United BioSource Corporation, Kansas City, MO, USA) prepared Mediset dosing containers (a plastic, child-resistant medication organizer; Item Development, Stocksund, Sweden) with medication for 1 week of treatment with the correct combination of active (600 mg GEn) and placebo tablets to achieve the desired dose at each dosing point. As all subjects received GEn after baseline treatment with 1,800 mg/day gabapentin, subjects randomized to 1,200 mg/day GEn did not undergo titration and subjects randomized to 3,600 mg/day had a 2-day titration (1,200 mg twice daily) included in the week 1 Mediset container. For the baseline treatment period, gabapentin administration guidance was provided according to the approved label. The total daily dose of GEn was achieved by dosing twice daily (in the morning and at night). Subjects were instructed to take the tablets with food.
+
+Subjects
+Eligible participants were male or female outpatients aged 18 years or older with a diagnosis of PHN, defined as pain present for at least 3 months after healing of a HZ skin rash. The intent of the study was to evaluate GEn in subjects who were known to have some improvement in pain with gabapentin (inadequate responders). Therefore, subjects with a history of no response to gabapentin were excluded (nonresponders). Inadequate response and no response were based on investigator judgment. In the initial study design, subjects must have been inadequate responders to a stable dose of gabapentin (1,800 mg/day) for at least 4 weeks before entering the baseline period. Shortly after study initiation, the protocol was amended because physicians were either not leaving inadequate responders on gabapentin for 4 weeks before trying another treatment or they were treating subjects with doses in excess of 1,800 mg/day. The amendment allowed enrollment of subjects with a history of gabapentin use and inadequate response (i.e., subjects on a stable dose of gabapentin 1,800 mg/day for ≥2 weeks prior to baseline or subjects who had previously been treated with gabapentin ≥1,800 mg/day for ≥4 weeks since the diagnosis of PHN) but not if they had a history of no response to previous treatment with either gabapentin (≥1,800 mg/day) or pregabalin (150–300 mg/day) taken for at least 4 weeks since PHN diagnosis.
+
+Subjects with other types of chronic pain were excluded unless all of the following criteria were met: pain located in a different region of the body, pain intensity not greater than that of the PHN, and subjects could assess their PHN pain independently.
+
+Conditions or medications that might interfere with the assessment of pain were excluded (e.g., unstable depression, alcohol/substance abuse, acute pain medications, hypnotics, antidepressants). During the study, specified treatments with possible analgesic effects were prohibited. A washout of at least 14 days prior to baseline was required for anticonvulsants, opioids at doses >90 mg/day morphine equivalent, atypical antidepressants (e.g., serotonin-norepinephrine/norepinephrine-dopamine reuptake inhibitors, tetracyclic antidepressants, trazodone), aspirin at doses >325 mg/day and other salicylates, benzodiazepines or atypical benzodiazepines unless used at bedtime for sleep, dextromethorphan used for pain at doses >120 mg/day or dextromethorphan combined with quinidine, herbal medications for pain (including marijuana), mexiletine hydrochloride, and topical analgesics used for PHN or applied to the same area of the body as the PHN. A washout of at least 28 days prior to baseline was required for adenosine, topical capsaicin used for PHN or applied to the same area of the body as PHN, and intrathecal peptides. The following nondrug therapies or procedures required discontinuation prior to randomization and were prohibited throughout the duration of the trial: nerve blocks or acupuncture performed 4 weeks prior to randomization and special procedures (e.g., transcutaneous electrical nerve stimulation) were required to be discontinued 14 days prior to randomization.
+
+Concomitant medications permitted during the study included opioids at doses ≤90 mg/day, opioid and simple analgesic products, tramadol and tramadol/acetaminophen combination products, tricyclic antidepressants, topical analgesics if used at locations other than the site of target pain, and nonsteroidal anti-inflammatory drugs if they were used at a stable dose for at least 4 weeks prior to and throughout the study. Additionally, selective serotonin reuptake inhibitors for depression were allowed if they were taken as a stable regimen for at least 3 months prior to baseline.
+
+Acetaminophen up to 3,000 mg/day, as dictated by the needs of the subject, was provided as rescue analgesia except within 12 hours before a clinic visit.
+
+Subjects were excluded if they had a creatinine clearance <60 mL/min or renal dysfunction requiring hemodialysis; pre-existing liver, renal, cardiovascular disease, epilepsy, or seizure disorders; or any other medical condition or treatment that could interfere with the accurate assessment of the efficacy, safety, or absorption of GEn.
+
+Poor treatment compliance was defined as missing 3 consecutive days of dosing and could have resulted in subjects being withdrawn from the study.
+
+Outcomes
+Subjects rated the intensity of their pain using the e-diary twice daily (morning and evening). The primary end point was the change from baseline to the last week of each treatment period for the mean 24-hour average pain intensity score assessed each evening before bed time [29,30]. The mean score for the last week of treatment was the calculated mean of the daily scores (based on at least four assessments) for the 7 days prior to the last completed diary entry of the treatment period. For the primary end point, subjects were asked each evening before bedtime to rate their pain on average for the prior 24 hours. The average of this assessment alone makes up the 24-hour average pain intensity score.
+
+Secondary end points assessed using e-diary outputs included pain intensity for 24 hours; daytime, nighttime, and current pain; daytime and nighttime worst pain; sleep interference score; and quantity of rescue analgesic consumed.
+
+At the end of each treatment period, investigators and subjects rated the subjects' change from baseline on a 7-point Clinician and Patient Global Impression of Change Questionnaires (CGIC/PGIC) scale [31].
+
+Responder analyses were conducted by treatment and period based on: 1) the percentage of subjects with various percentage reductions from baseline in the 24-hour PI-NRS assessed for each week; and 2) the proportion of subjects considered “much improved” or “very much improved” on the CGIC and PGIC assessed at the end of each period.
+
+The Brief Pain Inventory (BPI) was administered at randomization and at the end of each treatment period to assess the impact of pain on physical functioning [32].
+
+Plasma gabapentin exposure during each treatment was estimated from blood samples collected throughout the steady-state dosing interval (two samples during baseline gabapentin treatment and four samples during each of the GEn treatments per subject). The data were used to simulate individual steady-state concentration–time profiles. A population PK analysis was performed using the nonlinear mixed-effects modeling program NONMEM, version VI [33] and assigning previously reported models as a Bayesian prior [23,34–36].
+
+Safety and tolerability end points included treatment-emergent adverse events (TEAEs) laboratory evaluations; vital signs; electrocardiograms; neurological examinations, including a detailed examination of sensory and motor systems; body weight; and pedal edema. Adverse events (AEs) were documented at each study visit.
+
+Analyses
+The sample size for this study was calculated as sufficient to detect a treatment difference between GEn 1,200 and 3,600 mg/day for the primary efficacy end point. Target sample size (revised in a protocol amendment) was 98 randomized subjects based on a within-subject standard deviation of 1.48, an alpha level of 0.10, and a 20% dropout rate that provided 80% power to detect a treatment difference of 0.6 points between the two doses.
+
+All efficacy analyses were performed on the intent-to-treat (ITT) population (all randomized subjects who had taken at least one dose of investigational product and provided at least one post-baseline efficacy measurement) using last observation carried forward for imputation of missing data. As the primary analysis consisted of a single test of hypothesis on the primary end point (i.e., that there is no difference between the two doses of GEn in the mean 24-hour average pain intensity score assessed for the last week of each treatment period), the type I error was controlled at an alpha level of 10% without requiring any adjustments for multiple comparisons. Secondary analyses were considered supportive to the primary analysis and were not adjusted for multiplicity; nominal P values are reported and should be interpreted cautiously.
+
+Owing to the large number of centers with low enrollment, centers that contributed fewer than eight subjects to the ITT population were grouped (within each country) for the analyses. This grouping was included as a covariate in the analysis of the primary, and most of the secondary, efficacy variables.
+
+Continuous efficacy variables were analyzed using a repeated-measures mixed model with treatment and period as fixed effects and with baseline body mass index (BMI), baseline score, and grouped center as covariates, and specified a repeated statement with unstructured covariance matrix to manage subjects as a source of random variability. Responder analyses defined a responder as a subject meeting or exceeding a predefined percentage reduction in 24-hour average pain intensity score compared with baseline. The proportion of responders on the CGIC and PGIC were compared using a generalized estimating equation procedure, with treatment and period as fixed effects in the model and with baseline BMI as a covariate. A Kolmogorov–Smirnov test was used to compare the cumulative distribution of the percentage reduction from baseline in mean 24-hour average PI-NRS score for GEn 3,600 mg vs 1,200 mg.
+
+Results
+Subject Disposition
+A total of 285 subjects were screened, 138 entered the baseline period, and 96 were randomized to either the HL treatment group (N = 44) or the LH treatment group (N = 52) (Figure 0001). In total, 91 subjects received GEn 1,200 mg/day, and 85 received GEn 3,600 mg/day. Overall, the number of subjects who withdrew during GEn 1,200 mg treatment (N = 12) was higher than during GEn 2,400 mg (4-day crossover period; N = 1) or GEn 3,600 mg treatments (N = 3). Two subjects who were randomized and did not take study medication were excluded from the safety population (N = 94). One subject, who withdrew after randomization, was treated with study medication but did not complete at least one post-baseline efficacy assessment and was not included in the ITT population (N = 93). The per-protocol (PP) population was 82% (N = 76) of the ITT population. The most common reason that subjects in the ITT population were excluded from the PP analysis was lack of compliance (noncompliant with diary completion, N = 11 [12%]; noncompliant with study-drug dosing, N = 9 [10%]; or used prohibited concomitant medications, N = 3 [3%]).
+
+Figure 1
+Summary of participant flow. GEn = gabapentin enacarbil; HL = high-dose (3,600 mg/day) to low-dose (1,200 mg/day) GEn; ITT = intent to treat; LH = low-dose (1,200 mg/day) to high-dose (3,600 mg/day) GEn. *This subject was not withdrawn from the study, but did not participate in the crossover period prior to GEn dosing in treatment period 2.
+Open in new tabDownload slide
+Summary of participant flow. GEn = gabapentin enacarbil; HL = high-dose (3,600 mg/day) to low-dose (1,200 mg/day) GEn; ITT = intent to treat; LH = low-dose (1,200 mg/day) to high-dose (3,600 mg/day) GEn. *This subject was not withdrawn from the study, but did not participate in the crossover period prior to GEn dosing in treatment period 2.
+
+Table 0001 lists the demographic and baseline characteristics of the safety population.
+
+Table 1
+Summary of demographic characteristics
+
+ 	Safety Population 
+N = 94 
+Mean (SD) age (years) 	63.1 (12.20) 
+Range 	26–87 
+Age group, N (%) 	 
+  ≤65 years 	54 (57) 
+  66–79 years 	34 (36) 
+  ≥80 years 	6 (6) 
+Sex 	 
+  Female, N (%) 	37 (39) 
+BMI, N (%) 	 
+  ≤30 kg/m2 	59 (63) 
+  >30 kg/m2 	35 (37) 
+Mean (SD) baseline pain score 	6.23 (1.476) 
+  Range 	4.0–10.0 
+Baseline 24-hour average pain score, N (%) 	 
+  4–<6.5 	52 (55) 
+  6.5–10 	42 (45) 
+Race, N (%) 	 
+  American Indian or Alaska Native and White 	1 (1) 
+  African American/African Heritage 	18 (19) 
+  White 	75 (80) 
+Mean (SD) creatinine clearance (mL/min) 	90.4 (27.47) 
+  Range 	47–190 
+One subject in both the safety and the intent-to-treat populations was American Indian or Alaska Native and White.
+
+BMI = body mass index; SD = standard deviation.
+
+Open in new tab
+Primary Efficacy Results
+In the ITT population, the baseline mean 24-hour pain intensity score was 6.14 for GEn 3,600 mg and 6.23 for GEn 1,200 mg, and adjusted mean (standard error) changes from baseline to end of treatment were −1.47 (0.173) and −1.18 (0.171), respectively. The adjusted mean (90% confidence interval) treatment difference for the GEn 3,600 mg vs 1,200 mg comparison was statistically significant (−0.29 [−0.48, −0.10]; P = 0.013).
+
+There was a similar decrease in treatment period 1 for both the HL and the LH treatment sequences (Figure 0002). However, the lines for each treatment sequence group begin to separate in the crossover period, with the LH group continuing to have a decreasing pain score, which progresses into treatment period 2, resulting in the two treatment groups having a difference of approximately 0.6 at the end of treatment period 2.
+
+Figure 2
+Mean change from baseline in 24-hour average pain intensity (intent-to-treat population, last observation carried forward imputation). CO = crossover; DT = down-titration; EOTP = end of treatment period; GEn = gabapentin enacarbil; HL = high-dose (3,600 mg/day) to low-dose (1,200 mg/day) GEn; LH = low-dose (1,200 mg/day) to high-dose (3,600 mg/day) GEn; PT = post-treatment; SD = standard deviation; TP = treatment period; W = Week. *Subjects at baseline had at least four daily pain diaries during the 7 days prior to randomization and had a mean 24-hour average pain intensity score of ≥4.
+Open in new tabDownload slide
+Mean change from baseline in 24-hour average pain intensity (intent-to-treat population, last observation carried forward imputation). CO = crossover; DT = down-titration; EOTP = end of treatment period; GEn = gabapentin enacarbil; HL = high-dose (3,600 mg/day) to low-dose (1,200 mg/day) GEn; LH = low-dose (1,200 mg/day) to high-dose (3,600 mg/day) GEn; PT = post-treatment; SD = standard deviation; TP = treatment period; W = Week. *Subjects at baseline had at least four daily pain diaries during the 7 days prior to randomization and had a mean 24-hour average pain intensity score of ≥4.
+
+Although treatment-by-period interactions were not significant (P = 0.460), the period effect was significant (P ≤ 0.001), indicating that results for each of the doses in treatment periods 1 and 2 were different. Specifically, response to GEn 3,600 mg was greater in treatment period 2. There was no observed treatment difference between the LH and HL treatment groups during treatment period 1, but groups differed by the end of treatment period 2 (Table 0002). Differences between the end-of-treatment mean changes in pain score for treatment periods 1 and 2 were approximately −0.81 for subjects in the LH group vs approximately −0.20 in the HL group (Table 0002). However, the overall treatment difference reflects the weighted average of the treatment differences in treatment periods 1 and 2.
+
+Table 2
+Change in 24-hour pain intensity by treatment sequence (intent-to-treat population, last observation carried forward imputation)
+
+ 	End of Treatment Period 1 	Crossover 	End of Treatment Period 2 
+LH group (n = 49) 
+N 	49 	39 	41 
+Baseline (SD) 	  6.38 (1.476) 	NA 	  6.25 (1.382) 
+Mean (SD) change from baseline 	−1.11 (1.477) 	−1.44 (1.625) 	−1.92 (2.000) 
+Percentage (SD) change from baseline 	−16.5 (21.9) 	NA 	−30.6 (30.6) 
+HL group (n = 44) 
+N 	43 	40 	41 
+Baseline (SD) 	  6.03 (1.473) 	NA 	  6.05 (1.480) 
+Mean (SD) change from baseline 	−1.09 (1.366) 	−0.84 (1.653) 	−1.29 (1.742) 
+Percentage (SD) change from baseline 	−18.5 (22.9) 	NA 	−21.5 (28.8) 
+HL = high- to low-dose treatment sequence; LH = low- to high-dose treatment sequence; NA = not available; SD = standard deviation.
+
+Open in new tab
+Sensitivity analyses for the primary end point consistently showed a treatment benefit in favor of GEn 3,600 mg relative to GEn 1,200 mg (data not shown). An analysis without the first 2 days of each treatment period (to lessen or eliminate any carryover effect that might result from the crossover period dose, especially for subjects who withdrew during the first week of treatment period 2) had no impact on the observed effect.
+
+None of the treatment-by-covariate interactions were significant, implying that the treatment effect was consistent across the levels of these covariates and that it was valid to assess the primary end point for all subjects combined regardless of these characteristics. BMI and grouped center were not significant, indicating that these terms were not linked to a change in efficacy. However, baseline pain severity was significant (P = 0.080), indicating that subjects with higher baseline pain scores had a greater response to treatment. It was noted that the baseline pain severity was slightly higher for the LH treatment group (6.38) than the HL group (6.03).
+
+Analyses by subgroup showed that more significant improvements were seen in the younger age group (≤65 years) than in the older age groups with both GEn 1,200 and 3,600 mg (Table 0003).
+
+Table 3
+Change from baseline in 24-hour pain intensity at end-of-treatment period within subgroups (intent-to-treat population, last observation carried forward imputation)
+
+ 	GEn 1,200 mg (n = 90)
+ 	GEn 3,600 mg (n = 85)
+ 
+N 	Mean (SD) 	N 	Mean (SD) 
+ITT 	90 	−1.19 (1.596) 	84 	−1.50 (1.745) 
+Age group, years 	≤65 	53 	−1.29 (1.536) 	49 	−1.71 (1.918) 
+>65 	37 	−1.05 (1.691) 	35 	−1.19 (1.443) 
+66–79 	31 	−1.01 (1.780) 	29 	−1.16 (1.451) 
+≥80 	  6 	−1.26 (1.232) 	  6 	−1.34 (1.532) 
+Sex 	Female 	33 	−1.13 (1.599) 	30 	−1.58 (2.136) 
+Male 	57 	−1.23 (1.608) 	54 	−1.45 (1.505) 
+BMI (kg/m2) 	≤30 	57 	−1.05 (1.477) 	56 	−1.44 (1.732) 
+>30 	33 	−1.44 (1.780) 	28 	−1.60 (1.799) 
+Baseline pain score 	4–<6.5 	50 	−0.94 (1.463) 	48 	−1.36 (1.551) 
+6.5–10 	40 	−1.50 (1.717) 	36 	−1.67 (1.984) 
+BMI = body mass index; GEn = gabapentin enacarbil; ITT = intent to treat; SD = standard deviation.
+
+Open in new tab
+Secondary Efficacy Results
+A summary of the secondary efficacy assessments is presented in Table 0004.
+
+Table 4
+Secondary efficacy assessments (intent-to-treat population)
+
+ 	Baseline 	Change from Baseline at End of Treatment (LOCF)
+ 
+GEn 1,200 mg Adjusted mean (SE) Change 	GEn 3,600 mg Adjusted Mean (SE) Change 	Adjusted Mean (90% CI) Treatment Difference 	P-value for Adjusted Mean Treatment Difference 
+Daytime average pain 	6.14 	−1.17 (0.172) 	−1.48 (0.174) 	−0.31 (−0.51 to −0.11) 	0.012 
+Daytime worst pain 	6.91 	−1.17 (0.178) 	−1.50 (0.181) 	−0.33 (−0.53 to −0.12) 	0.009 
+Current evening pain 	6.28 	−1.10 (0.180) 	−1.39 (0.183) 	−0.29 (−0.50 to −0.08) 	0.027 
+Nighttime average pain 	5.54 	−0.92 (0.188) 	−1.21 (0.190) 	−0.29 (−0.54 to −0.05) 	0.048 
+Nighttime worst pain 	6.17 	−0.97 (0.192) 	−1.33 (0.194) 	−0.36 (−0.61 to −0.12) 	0.015 
+Current morning pain 	6.16 	−1.11 (0.187) 	−1.46 (0.189) 	−0.35 (−0.59 to −0.11) 	0.018 
+Sleep interference 	4.80 	−0.97 (0.205) 	−1.23 (0.207) 	−0.27 (−0.52 to −0.02) 	0.079 
+Sleep time 	6.98 	0.31 (0.107) 	0.56 (0.108) 	0.25 (0.10 to 0.40) 	0.007 
+Nighttime awakenings due to pain 	1.39 	−0.29 (0.089) 	−0.39 (0.090) 	−0.10 (−0.22 to 0.02) 	0.165 
+Total nighttime awakenings 	2.09 	−0.13 (0.100) 	−0.29 (0.101) 	−0.16 (−0.30 to −0.02) 	0.056 
+Mean daily dose of rescue medication (mg) 	730.9 	−68.18 (73.404) 	−71.26 (74.746) 	−3.08 (−105.02 to 98.86) 	0.960 
+BPI severity of pain 	6.21/6.10 	−1.17 (0.223) 	−1.63 (0.225) 	−0.46 (−0.84 to −0.08) 	0.050 
+BPI interference of pain 	4.38/4.20 	−0.82 (0.244) 	−1.57 (0.247) 	−0.76 (−1.19 to −0.32) 	0.005 
+Not adjusted to control for multiplicity.
+
+A positive treatment difference in sleep time indicates benefit of GEn 3,600 mg relative to GEn 1,200 mg.
+
+Baseline values for GEn 1,200 mg/3,600 mg are provided separately.
+
+BPI = Brief Pain Inventory; CI = confidence interval; GEn = gabapentin enacarbil; LOCF = last observation carried forward; SE = standard error.
+
+Open in new tab
+When assessed by treatment group (HL vs LH), the secondary pain end points follow the same pattern as the primary end point (data not shown); therefore, an overall relative benefit of GEn 3,600 mg was based primarily on the treatment effect observed in the second period.
+
+There was a reduction from baseline to the end of treatment in the mean daily dose of rescue medication taken with both GEn doses (Table 0004); no difference between treatments was observed at the end of treatment. Only eight (9%) subjects in the safety population reported taking acetaminophen for reasons other than rescue medication. Subject-reported physical functioning on the BPI had results consistent with the primary efficacy results (Table 0004).
+
+Responder rates in treatment period 1 were similar between GEn 1,200 mg and 3,600 mg (Table 0005). However, a nominal improvement was consistently seen for GEn 3,600 mg over 1,200 mg in treatment period 2, with two subjects achieving 100% reduction from baseline 24-hour average pain intensity.
+
+Table 5
+Responder rates for 24-hour average pain intensity (intent-to-treat population, last observation carried forward imputation)
+
+Percentage Reduction from Baseline 	End of Treatment Period 1
+ 	End of Treatment Period 2
+ 
+GEn 1,200 mg 	GEn 3,600 mg 	GEn 1,200 mg 	GEn 3,600 mg 
+N (%) 	N (%) 	N (%) 	N (%) 
+Total N for each group 	49 	44 	41 	41 
+  ≥0 	38 (78) 	34 (79) 	30 (73) 	37 (90) 
+  ≥30% 	13 (27) 	13 (30) 	15 (37) 	19 (46) 
+  ≥50% 	  7 (14) 	  5 (12) 	  8 (20) 	11 (27) 
+  ≥70% 	  0 	  0 	  4 (10) 	  5 (12) 
+  =100 	  0 	  0 	  0 	  2 (5) 
+GEn = gabapentin enacarbil.
+
+Open in new tab
+There was a numerical improvement in the overall comparison of responder rates based on the PGIC and CGIC for subjects when they were treated with GEn 3,600 mg relative to 1,200 mg at the end of treatment (Table 0006). When the PGIC and CGIC responder data were examined by treatment period, subjects consistently reported greater improvement with GEn 3,600 mg than 1,200 mg at the end of both treatment periods.
+
+Table 6
+Global impression of change responders at end of treatment (intent-to-treat population, last observation carried forward imputation)
+
+ 	GEn 1,200 mg 	GEn 3,600 mg 
+PGIC 
+“Much improved” or “Very much improved”, n/N (%) 	17/63 (27) 	28/61 (46) 
+Adjusted odds ratio (90% CI) 	— 	1.8 (1.05–2.95); P = 0.071* 
+ 	Treatment Period 1 	Treatment Period 2 	Treatment Period 1 	Treatment Period 2 
+“Much improved” or “Very much improved”, n/N (%) 	6/35 (17) 	11/28 (39) 	11/27 (41) 	17/34 (50) 
+CGIC 
+“Much improved” or “Very much improved”, n/N (%) 	15/53 (28) 	18/48 (38) 
+Adjusted odds ratio (90% CI) 	— 	1.5 (0.92–2.51); P = 0.166* 
+ 	Treatment Period 1 	Treatment Period 2 	Treatment Period 1 	Treatment Period 2 
+“Much improved” or “Very much improved”, n/N (%) 	5/28 (18) 	10/25 (40) 	8/22 (36) 	10/26 (38) 
+*
+Not adjusted for multiplicity.
+
+CGIC = Clinician Global Impression of Change; CI = confidence interval; GEn = gabapentin enacarbil; PGIC = Patient Global Impression of Change.
+
+Open in new tab
+Pharmacokinetics
+Gabapentin plasma concentrations were adequately spread across the entire dosing intervals for all treatments (Figure 0003). Distributions of sampling time and concentration for each treatment were comparable between the two treatment periods. The vast majority of the concentrations were within the 95% prediction interval representing the prior PK model, confirming that the exposure achieved in this study was consistent with expectations.
+
+Figure 3
+Plasma concentration of gabapentin observed in this study (circles) and predicted by the prior pharmacokinetic model (black and gray lines represent median and 95% distribution intervals). GEn = gabapentin enacarbil.
+Open in new tabDownload slide
+Plasma concentration of gabapentin observed in this study (circles) and predicted by the prior pharmacokinetic model (black and gray lines represent median and 95% distribution intervals). GEn = gabapentin enacarbil.
+
+Systemic exposure parameters estimated from the sparse PK samples available (two to four samples per subject) show that the values for area under the concentration time curve, maximum concentration, and minimum concentration during baseline gabapentin treatment were between the corresponding values during the two GEn doses (Table 0007). The variability of these parameters, as well as the peak-to-trough concentration ratio, was comparable for all treatments.
+
+Table 7
+Summary of estimated gabapentin exposures at steady state (pharmacokinetic population)
+
+Parameters 	GEn Dose 	Median 	Coefficient of Variation (%) 	5th–95th% 
+AUC0–24,ss (μg*h/mL) 	1,200 mg 	99.1 	32 	70–177.9 
+3,600 mg 	291.9 	34 	204.6–534.2 
+Peak–trough ratio 	1,200 mg 	1.5 	40 	1.2–2.9 
+3,600 mg 	1.5 	40 	1.2–3 
+Cmin (μg/mL) 	1,200 mg 	3.0 	43 	1.7–6.1 
+3,600 mg 	8.9 	45 	4.5–18.5 
+Cmax (μg/mL) 	1,200 mg 	5.1 	34 	3.4–9 
+3,600 mg 	15.0 	35 	9.9–27 
+AUC0–24,ss = area under the concentration–time curve at steady state; Cmax = maximum concentration; Cmin = minimum concentration; GEn = gabapentin enacarbil.
+
+Open in new tab
+The correlation between gabapentin average concentration steady-state and pain score was weak and inconsistent between the two treatment sequences (Figure 0004); no clear correlation within each period was observed (data not shown).
+
+Figure 4
+Individual concentration–pain intensity correlation during gabapentin enacarbil treatments. AUC0–24,ss/24 = average area under the concentration–time curve at steady state.
+Open in new tabDownload slide
+Individual concentration–pain intensity correlation during gabapentin enacarbil treatments. AUC0–24,ss/24 = average area under the concentration–time curve at steady state.
+
+Safety
+No new safety concerns for GEn were identified. The TEAEs reported to start or worsen during the treatment phase and that occurred in ≥2% of subjects are summarized (Table 0008).
+
+Table 8
+Treatment-emergent adverse events occurring in ≥2% of subjects (safety population)
+
+ 	Baseline Gabapentin 	GEn 	Crossover GEn 	GEn 	Down-titration 	GEn subtotal 
+1,800 mg 	1,200 mg 	2,400 mg 	3,600 mg 
+N = 94 	N = 91 	N = 82 	N = 85 	N = 80 	N = 94 
+Any event, n (%) 	4 (4) 	27 (30) 	5 (6) 	21 (25) 	7 (9) 	42 (45) 
+Nasopharyngitis 	0 	  4 (4) 	0 	  1 (1) 	0 	  5 (5) 
+Dizziness 	0 	  0 	1 (1) 	  3 (4) 	0 	  4 (4) 
+Headache 	1 (1) 	  1 (1) 	0 	  3 (4) 	0 	  4 (4) 
+Nausea 	0 	  3 (3) 	0 	  0 	1 (1) 	  4 (4) 
+Fatigue 	0 	  0 	1 (1) 	  2 (2) 	0 	  3 (3) 
+Postherpetic neuralgia 	0 	  3 (3) 	0 	  0 	0 	  3 (3) 
+Somnolence 	0 	  1 (1) 	0 	  2 (2) 	0 	  3 (3) 
+Blood pressure increase 	0 	  1 (1) 	0 	  1 (1) 	0 	  2 (2) 
+Constipation 	0 	  2 (2) 	0 	  0 	0 	  2 (2) 
+Diabetes mellitus 	0 	  0 	1 (1) 	  1 (1) 	0 	  2 (2) 
+Dyspepsia 	0 	  0 	0 	  2 (2) 	0 	  2 (2) 
+Gout 	0 	  1 (1) 	0 	  1 (1) 	0 	  2 (2) 
+Irritability 	0 	  2 (2) 	0 	  0 	0 	  2 (2) 
+Myalgia 	0 	  0 	0 	  1 (1) 	1 (1) 	  2 (2) 
+Nephrolithiasis 	0 	  0 	0 	  2 (2) 	0 	  2 (2) 
+Edema peripheral 	1 (1) 	  1 (1) 	0 	  1 (1) 	0 	  2 (2) 
+Rash pruritic 	0 	  2 (2) 	0 	  0 	0 	  2 (2) 
+Sinusitis 	0 	  1 (1) 	0 	  1 (1) 	0 	  2 (2) 
+GEn = gabapentin enacarbil.
+
+Open in new tab
+Three subjects experienced TEAEs that led to their withdrawal from the study while receiving GEn 1,200 mg (abdominal pain and worsening depression in one subject each, and irritability, increased PHN, somnolence, and hyperhidrosis in the third subject). No deaths or pretreatment serious AEs (SAEs) occurred during this study. One subject experienced a nonfatal SAE of auditory hallucination defined as treatment emergent, with an onset 6 days into down-titration. Two post-treatment SAEs of depression and chest pain were reported 15 and 13 days, respectively, after the last dose of study medication. None of the SAEs were attributed to study medication.
+
+The most common central nervous system (CNS)-related TEAEs were dizziness, headache, PHN, and somnolence. Other CNS-related AEs occurred in one subject each; in general, there was a slightly higher occurrence with GEn 3,600 mg than GEn 1,200 mg. However, the incidence rates were very low with both doses. There was a slightly higher occurrence of both somnolence and dizziness during GEn 3,600 mg treatment, although all cases were classified as mild. The mean duration of somnolence was longer while on GEn 3,600 mg; however, this was based on few events.
+
+No differences were seen between GEn doses for hematology parameters, chemistry, urinalysis, or vital signs. Four subjects experienced a worsening from baseline of pedal edema; none had a 10 mm or greater increase, or required treatment with diuretics. Only one of the four subjects experienced worsening when treated with both GEn 1,200 and 3,600 mg, while one subject only had worsening when treated with GEn 1,200 mg and two only had worsening when treated with GEn 3,600 mg. The overall incidence of AEs and changes in safety parameters were small and similar between GEn 3,600 and 1,200 mg.
+
+Discussion
+In subjects with PHN and inadequate response to gabapentin 1,800 mg/day, treatment with GEn 3,600 mg demonstrated a significant benefit over GEn 1,200 mg on the primary end point (change from baseline in the mean 24-hour average pain intensity) and secondary end points using combined data from both treatment groups. On average, the magnitude of the effect observed for each dose on the primary end point, and most secondary end points, was dependent on the sequence (HL or LH). A post-hoc analysis supported this observation, with unexpected mean pain intensity score decreases of 1.11 (GEn 1,200 mg, LH) and 1.09 (GEn 3,600 mg, HL) over the gabapentin baseline determined to be nearly the same across both cohorts of the study in treatment period 1. The treatment groups separated in treatment period 2, with mean pain intensity score decreases from baseline of 1.92 (GEn 3,600 mg, LH) and 1.29 (GEn 1,200 mg, HL). Therefore, the overall significant treatment difference was driven by the effects observed in the LH group.
+
+Because the study compared two active treatment arms, it was powered to detect a 0.6 reduction in pain intensity (approximately half the pain intensity change used to power prior gabapentin and pregabalin PHN studies using a parallel placebo-controlled design [range 1–1.5]) [25,26,37]. In this study, the observed treatment difference of 0.29 was significant predominantly due to a smaller than expected standard deviation, so while this difference is statistically significant, clinical significance is questionable. Additionally, Farrar et al. suggest that a 2.0 reduction on a Likert scale is “clinically important,” correlating with PGIC data [30]. In this study, the overall comparison of the PGIC results across treatments (with data from both treatment periods combined) demonstrated efficacy with GEn 3,600 mg relative to GEn 1,200 mg. However, the greatest benefit of GEn 3,600 mg over GEn 1,200 mg indicated by the PGIC was in treatment period 1 in which the PI-NRS showed no difference between treatments. Therefore, in this design, the PGIC data do not aid the interpretation of pain intensity results. Thus, the −0.29 PI-NRS difference, the lack of concordance with the PGIC, and the lack of separation in treatment period 1 confound the overall significance of the results and limit interpretation of clinical meaningfulness. It is possible that this result indicates a clinical benefit of GEn 3,600 mg over 1,200 mg in subjects with an inadequate response to gabapentin 1,800 mg; however, further evaluation of this would be required in a head-to-head comparison with a longer treatment period to assess if the difference observed is sustained and clinically relevant.
+
+Choosing selection criteria to define a patient population of true “inadequate responders” was one of the challenges with this study design. The definition of history of “inadequate response” to gabapentin was subjective based on patient history and investigator judgment. This proved logistically difficult and required an amendment to the protocol. A design that required moderate-to-high pain levels while receiving GEn 3,600 mg/day (or possibly the highest tolerated dose) may have been a more robust definition of an inadequate responder.
+
+A crossover design is hypothetically optimal for direct comparisons requiring a smaller number of subjects than a parallel controlled study [38]. Using within-subject comparisons reduces intersubject variability, resulting in increased statistical power with fewer subjects. However, there are known challenges with the crossover design. There is the potential for carryover of effects, especially if the washout period is not of adequate duration. Drug, placebo, and nocebo effects can carry over. A specific placebo confound is the effect of “expectancy” on a crossover design trial [39], particularly in designs where an effective dose of drug is delivered in one part of the crossover. Expectancy effects have the potential to be more pronounced in crossover studies than in parallel controlled studies and in studies with subjective end points [40], such as pain reports. In several studies assessing treatments where the primary end point is predominantly subjective, the role of expectations and the impact on trial outcome has been evaluated [39,41–43]. There are many factors that can impact subject expectations. One factor is the knowledge that may be acquired during the consent process. Through the consenting process, as patients learn about the study treatment and based on prior experience, they may develop and respond in accordance with expectations about effects and side effects.
+
+Post-hoc analysis showed that mean pain intensity scores were similar across both treatment sequences of the study in treatment period 1 but then separated in treatment period 2. Summary data for both treatment sequences showed that subjects began reporting numerically different pain intensities during the crossover period. While there are some examples of a similar effect occurring in a placebo-controlled crossover study [41], we are not aware of results such as this with other active group crossover trials. During the consenting process, subjects were provided with details of the study design, including the timings and details of the treatment sequences, which may have had an impact on their expectation of treatment. The effects observed in the first treatment period may be associated with the knowledge that they were all receiving active treatment.
+
+To minimize carryover, a full washout period (ideally with placebo) is optimal. However, as both treatment periods involved active treatment, this study included a drug crossover period instead, allowing for an up- or down-titration using GEn 2,400 mg. Owing to the relatively short half-life of GEn (approximately 5–7 hours), the 4-day minimum duration of crossover included more than five half-lives of gabapentin, theoretically minimizing the risk of carryover; however, this does not consider the “effective half-life,” which may be considerably longer than the PK half-life. It is difficult to comment on the adequacy of the up-to-1-week crossover period for assessing any carryover in efficacy, especially with subjects in the HL treatment sequence who continued to demonstrate some improvement following treatment period 1, through the crossover, and into treatment period 2. It is also difficult to comment on the adequacy of the 4-week treatment periods as there was no placebo control. While the PK results demonstrate a correlation to dose consistent between treatment periods, the pain intensity data did not correlate. The lack of correlation between data for PK, pain intensity, and PGIC, and the “sequencing effect” observed suggest a carryover confound at play. These issues suggest that a placebo or a no-drug washout of longer duration (perhaps with a return to baseline pain level before proceeding) may be more desirable in a crossover trial of this sort.
+
+The 4-week “steady-state” period may have been too short to fully establish the treatment effects beyond outcomes associated with “expectation” (placebo). Subject knowledge of the timing of the crossover, visit procedural differences, and nonuniformity in the visit schedule may have contributed to a placebo response. These factors may in part explain the separation of effects that were observed during the crossover period and that continued into treatment period 2. One indicator of this is that the percentage of responders increased in treatment period 2 and the change from baseline in numerical magnitude of response indicated improvement for patients treated with either GEn 1,200 or 3,600 mg. As the subjects knew there was a 50% chance that their dose would be increased following the crossover, they may have been more likely to assess their pain as being less severe during the second treatment period.
+
+No new safety signals or AE trends related to GEn exposure were identified; in fact, AEs were fewer than expected. This could reflect a well-tolerated formulation, a subject's prior experience with gabapentin, and/or that the AEs could have “washed out” in the prescreen or gabapentin 1,800 mg baseline periods. Additionally, subjects who had not tolerated gabapentin previously may have been unlikely to enroll in the study. Subjects were provided information about gabapentin baseline treatment (a medication that all patients were currently receiving) and GEn. Perceived similarities between gabapentin and GEn may have contributed to the overall low incidence of AEs reported in this trial based on their prior knowledge and related expectations.
+
+In this exploratory study of subjects with PHN and a history of inadequate response to gabapentin, there was a modest but significant improvement in pain intensity scores associated with GEn 3,600 mg compared with 1,200 mg; secondary outcomes supported this difference. The treatment difference was primarily observed in subjects who had received the higher dose during the second treatment period. Aspects of the study design and execution may have contributed to this outcome. Given the differences in the results for the two treatment sequences and the inability to correlate the results with a clinically meaningful difference, these efficacy results should be interpreted cautiously. This study is perhaps most informative regarding best design/methodology for future crossover trials.
+
+Acknowledgments
+The authors would like to acknowledge and thank the PXN110527 Study Investigators for their valuable contributions to the study. The authors also thank Joanna Wright, PhD, and Catherine Kidd, PhD (Caudex Medical, Oxford, UK), funded by GlaxoSmithKline, for editorial assistance during the preparation of this manuscript.
+
+References
+Cluff RS Rowbotham MC. Pain caused by herpes zoster infection. Neurol Clin  1998;16:813–832.
+Google ScholarCrossrefPubMed 
+Dworkin RH Boon RJ Griffin DR Phung D. Postherpetic neuralgia: Impact of famciclovir, age, rash severity, and acute pain in herpes zoster patients. J Infect Dis  1998;178(suppl 1):S76–80.
+Google ScholarCrossrefPubMed 
+Bowsher D. The lifetime occurrence of herpes zoster and prevalence of post-herpetic neuralgia: A retrospective survey in an elderly population. Eur J Pain  1999;3:335–342.
+Google ScholarCrossrefPubMed 
+Desmond RA Weiss HL Arani RB et al.  Clinical applications for change-point analysis of herpes zoster pain. J Pain Symptom Manage  2002;23:510–516.
+Google ScholarCrossrefPubMed 
+Dworkin RH Portenoy RK. Pain and its persistence in herpes zoster. Pain  1996;67:241–251.
+Google ScholarCrossrefPubMed 
+Gershon AA. Epidemiology and management of postherpetic neuralgia. Semin Dermatol  1996;15(2 suppl 1):8–13.
+Google ScholarPubMed 
+Harpaz R Ortega-Sanchez IR Seward JF. Advisory Committee on Immunization Practices (ACIP) Centers for Disease Control and Prevention (CDC). Prevention of herpes zoster: Recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep  1997;57:1–30.
+ 
+Goh CL Khoo L. A retrospective study of the clinical presentation and outcome of herpes zoster in a tertiary dermatology outpatient referral clinic. Int J Dermatol  1997;36:667–672.
+Google ScholarCrossrefPubMed 
+Kost RG Straus SE. Postherpetic neuralgia—pathogenesis, treatment and prevention. N Engl J Med  1996;335:32–42.
+Google ScholarCrossrefPubMed 
+Lee JJ Gauci CA. Postherpetic neuralgia: Current concepts and management. Br J Hosp Med  1994;52:565–567, 570.
+Google ScholarPubMed 
+Schamder K. Postherpetic neuralgia in immunocompetent elderly people. Vaccine  1998;16:1768–1770.
+Google ScholarCrossrefPubMed 
+Choo PW Galil K Donahue JG et al.  Risk factors for postherpetic neuralgia. Arch Intern Med  1997;157:1217–1224.
+Google ScholarCrossrefPubMed 
+Stankus SJ Dlugopolski M Packer D. Management of herpes zoster (shingles) and postherpetic neuralgia. Am Fam Physician  2000;61:2437–2444, 2447–8.
+Google ScholarPubMed 
+Dworkin RH Malone DC Panarites CJ Armstrong EP Pham SV. Impact of postherpetic neuralgia and painful diabetic peripheral neuropathy on health care costs. J Pain  2010;11:360–368.
+Google ScholarCrossrefPubMed 
+White RR Lenhart G Singhal PK et al.  Incremental 1-year medical resource utilization and costs for patients with herpes zoster from a set of US health plans. Pharmacoeconomics  2009;27:781–792.
+Google ScholarCrossrefPubMed 
+Doth AH Hansson PT Jensen MP Taylor RS. The burden of neuropathic pain: A systematic review and meta-analysis of health utilities. Pain  2010;149:338–344.
+Google ScholarCrossrefPubMed 
+Johnson RW Bouhassira D Kassianos G et al.  The impact of herpes zoster and post-herpetic neuralgia on quality of life. BMC Med  2010;21:37.
+Google ScholarCrossref 
+Gnann JW Whitley RJ. Clinical practice. Herpes zoster. N Engl J Med  2002;347:340–346.
+Google ScholarCrossrefPubMed 
+Johnson RW. Consequences and management of pain in herpes zoster. J Infect Dis  2002;186(suppl 1):S83–90.
+Google ScholarCrossrefPubMed 
+Irving G Backonja M Rauck R et al.  NGX-4010, a capsaicin 8% dermal patch, administered alone or in combination with systemic neuropathic pain medications, reduces pain in patients with postherpetic neuralgia. Clin J Pain  2012;28:101–107.
+Google ScholarCrossrefPubMed 
+Dworkin RH Turk DC Peirce-Sandner S et al.  Placebo and treatment group responses in postherpetic neuralgia vs. painful diabetic peripheral neuropathy clinical trials in the REPORT database. Pain  2010;150:12–16.
+Google ScholarCrossrefPubMed 
+Backonja M Wallace MS Blonsky ER et al.  NGX-4010 C116 Study Group. NGX-4010, a high-concentration capsaicin patch, for the treatment of postherpetic neuralgia: A randomised, double-blind study. Lancet Neurol  2008;7(12):1106–1112.
+Google ScholarCrossrefPubMed 
+Backonja MM Canafax DM Cundy KC. Efficacy of gabapentin enacarbil vs placebo in patient with postherpetic neuralgia and a pharmacokinetic comparison with oral gabapentin. Pain Med  2011;12:1090–1108.
+Google ScholarCrossref 
+Neurontin® (gabapentin) Prescribing Information . New York (NY): Pfizer, Inc.; 2012. Available at: http://labeling.pfizer.com/ShowLabeling.aspx?id=630 (accessed March 2012).
+Google Scholar
+Rice ASC Maton S. Gabapentin in postherpetic neuralgia: A randomized, double-blind, placebo controlled trial. Pain  2001;94:215–224.
+Google ScholarCrossrefPubMed 
+Rowbotham M Harden N Stacey B Bernstein P Magnus-Miller L. Gabapentin for the treatment of postherpetic neuralgia. A randomized controlled trial. JAMA  1998;280:1837–1842.
+Google ScholarCrossrefPubMed 
+Stewart BH Kugler AR Thompson PR Bockbrader HN. A saturable transport mechanism in the intestinal absorption of gabapentin is the underlying cause of the lack of proportionality between increasing dose and drug levels in plasma. Pharm Res  1993;10:276–281.
+Google ScholarCrossrefPubMed 
+Cundy KC Annamaliai T Bu L et al.  XP13512 [((±)-1-([(α-Isobutanyuloxyethoxy)carbonyl]aminomethyl)-1-cyclohexane acetic acid], a novel gabapentin prodrug: II. Improved oral bioavailability, dose proportionality, and colonic absorption compared with gabapentin in rats and monkeys. J Pharmacol Exp Ther  2004;311:324–333.
+Google ScholarCrossrefPubMed 
+Dworkin RH Turk DC Farrar JT et al.  Core outcome measures for chronic pain clinical trials: IMMPACT recommendations. Pain  2005;113:9–19.
+Google ScholarCrossrefPubMed 
+Farrar JT Young JP Lamoreaux L Weth J Poole RM. Clinical importance of changes in chronic pain intensity measured on an 11-point numerical pain rating scale. Pain  2001;94:149–158.
+Google ScholarCrossrefPubMed 
+Guy W. ECDEU Assessment Manual for Psychopharmacology (DHEW Publication No ADM 76–338) . Washington, DC: US Government Printing Office; 1976.
+ 
+Cleeland CS Ryan KM. Pain assessment: Global use of the brief pain inventory. Ann Acad Med Singapore  1994;23:129–138.
+Google ScholarPubMed 
+Beal S Sheiner LB Boeckmann A Bauer RJ. NONMEM User's Guide (1989–2009) . Ellicott City, MD: Icon Development Solutions; 2009.
+ 
+Carlsson KC van de Schootbrugge M Eriksen HO et al.  A population pharmacokinetic model of gabapentin developed in nonparametric adaptive grid and nonlinear mixed effects modeling. Ther Drug Monit  2009;31:86–94.
+Google ScholarCrossrefPubMed 
+Lal R Sukbuntherng J Luo W et al.  Population pharmacokinetics and pharmacodynamics of gabapentin after administration of gabapentin enacarbil. J Clin Pharmacol  2013;53:29–40.
+Google ScholarCrossrefPubMed 
+Ouellet D Bockbrader HN Wesche DL Shapiro DY Garofalo E. Population pharmacokinetics of gabapentin in infants and children. Epilepsy Res  2001;47:229–241.
+Google ScholarCrossrefPubMed 
+Freynhagen R Strojek K Griesing T Whalen E Balkenohl M. Efficacy of pregabalin in neuropathic pain evaluated in a 12-week, randomised, double-blind, multicentre, placebo-controlled trial of flexible- and fixed-dose regimens. Pain  2005;115:254–263.
+Google ScholarCrossrefPubMed 
+Max M. Is mechanism-based pain treatment attainable? Clinical trial issues. J Pain  2000;1(suppl 1):2–9.
+Google ScholarCrossrefPubMed 
+Swartzman L Burkell J. Expectations and the placebo effect in clinical drug trials: Why we should not turn a blind eye to unblinding, and other cautionary notes. Clin Pharmacol Ther  1998;64:1–7.
+Google ScholarCrossrefPubMed 
+Hróbjartsson A Gøtzsche PC. Is the placebo powerless? An analysis of clinical trials comparing placebo with no treatment. N Engl J Med  2001;344:1594–1602.
+Google ScholarCrossrefPubMed 
+Clayden JR Bell JW Pollard P. Menopausal flushing: Double-blind trial of a non-hormonal medication. BMJ  1974;1:409–412.
+Google ScholarCrossrefPubMed 
+Colagiuri B. Participant expectancies in double-blind randomized placebo-controlled trials: Potential limitations to trial validity. Clin Trials  2010;7:246–255.
+Google ScholarCrossrefPubMed 
+Rutherford BR Rose SA Sneed JR Roose SP. Study design affects participant expectations a survey. J Clin Psychopharmacol  2009;29:179–181.
+Google ScholarCrossrefPubMed 
+Conflict of Interest Statement: This study was sponsored by GlaxoSmithKline. Drs Chen, Graff, and Schwartzbach, and Mr Bell, Ms Berges, Ms Harding, Ms Kavanagh, Ms Warren, and Ms McClung are all employees of and stakeholders in GlaxoSmithKline. Ms Hunter was an employee of GlaxoSmithKline at the time of this study. Dr Zhang was an investigator in the conduct of this study and received funding from GlaxoSmithKline. Dr Rainka was a subinvestigator of Dr Zhang in the conduct of this study. Drs Harden and Freeman were paid consultants for GlaxoSmithKline and provided input into the study design and/or interpretation of the data. Additionally, Dr Harden has research grants from Forest, Covidien, Depomed, DOD, and Mayday Fund, and has participated in advisory boards with Nevro, Astellas, Depomed, and Covidien.
+Funding Statement: This study was sponsored by GlaxoSmithKline.
+Authors' Contributions: RNH participated in the design and planning of the study, and in preparation of the manuscript. RF participated in the design and planning of the study and in critical review of the manuscript. MR and LZ participated in the conduct of the study and in critical review of the manuscript. CB, AB, CC, and CM participated in the design, setup, review of the clinical data and interpretation of the study, and in the preparation of this manuscript. OG participated in the review of the clinical data and interpretation of the study, and in the preparation of this manuscript. KH and SW participated in the setup of the study and data collection, and in the preparation of the manuscript. SH participated in the review of the clinical data and interpretation of the study, and in the preparation of the manuscript. CS participated in the setup of the study, data collection, review of the clinical data and interpretation of the study, and in the preparation of this manuscript. SK participated in the interpretation of the study data and results, and in the preparation of this manuscript.
+Previous publication: This work has not been published previously, in any form.

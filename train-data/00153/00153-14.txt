@@ -1,0 +1,1060 @@
+Copyright @ 200 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited. 9
+A Randomized Trial to Increase Physical
+Activity in Breast Cancer Survivors
+LAURA Q. ROGERS1
+, PATRICIA HOPKINS-PRICE1
+, SANDY VICARI2
+, RICHARD PAMENTER1
+,
+KERRY S. COURNEYA3
+, STEPHEN MARKWELL4
+, STEVEN VERHULST4
+, KAREN HOELZER5
+,
+CATHERINE NARITOKU1
+, LINDA JONES6
+, GARY DUNNINGTON7
+, VICTOR LANZOTTI8
+, JAMES WYNSTRA9
+,
+LISA SHAH10, BILLIE EDSON1
+, ASHLEIGH GRAFF1
+, and MICHELLE LOWY1
+1
+Department of Medicine, SIU School of Medicine, Springfield, IL; 2
+Department of Psychiatry, SIU School of Medicine,
+Springfield, IL; 3
+Faculty of Physical Education and Recreation, University of Alberta, Edmonton, Alberta, CANADA; 4
+Department of Statistics & Research Consulting, SIU School of Medicine, Springfield, IL; 5
+Department of Hematology &
+Oncology, Springfield Clinic, Springfield, IL; 6
+Department of Oncology, Pulmonary & Clinical Research, Memorial Medical
+Center, Springfield, IL; 7
+Department of Surgery, SIU School of Medicine, Springfield, IL; 8
+Central Illinois Hematology
+& Oncology, Springfield, IL; 9
+University Radiologists, Springfield, IL; and 10SIU School of Medicine, Springfield, IL
+ABSTRACT
+ROGERS, L. Q., P. HOPKINS-PRICE, S. VICARI, R. PAMENTER, K. S. COURNEYA, S. MARKWELL, S. VERHULST,
+K. HOELZER, C. NARITOKU, L. JONES, G. DUNNINGTON, V. LANZOTTI, J. WYNSTRA, L. SHAH, B. EDSON, A. GRAFF,
+and M. LOWY. A Randomized Trial to Increase Physical Activity in Breast Cancer Survivors. Med. Sci. Sports Exerc., Vol. 41, No. 4,
+pp. 935–946, 2009. Purpose: Interventions to increase physical activity among breast cancer survivors are needed to improve health and quality
+of life and possibly to reduce the risk of disease recurrence and early mortality. Therefore, we report the feasibility and preliminary outcomes of a
+pilot randomized trial designed to increase physical activity in sedentary breast cancer survivors receiving hormone therapy. Methods: Forty-one
+sedentary women on estrogen receptor modulators or aromatase inhibitors for stage I, II, or IIIA breast cancer were randomly assigned to
+receive a 12-wk multidisciplinary physical activity behavior change intervention or usual care. Results: Recruitment was 34%, intervention
+adherence was 99%, and complete follow-up data were obtained on 93%. Most participants (93%) were white with mean age of 53 T 9 yr.
+Differences favoring the intervention group were noted for accelerometer physical activity counts (mean difference = 72,103; 95% confidence
+interval (CI) = 25,383–119,000; effect size (d) = 1.02; P = 0.004), aerobic fitness (mean difference = 2.9; 95% CI = j0.1 to 5.8; d = 0.64;
+P = 0.058), back/leg muscle strength (mean difference = 12.3; 95% CI = 0.4–15.9; d = 0.81; P = 0.017), waist-to-hip ratio (mean difference =
+j0.05; 95% CI = j0.01 to j0.08; d = j0.77; P = 0.018), and social well-being (mean difference = 2.0; 95% CI = 0.3–3.8; d = 0.76;
+P = 0.03). However, the intervention group also reported a greater increase in joint stiffness (mean difference = 1.1; 95% CI = 0.1–2.2;
+d = 0.70; P = 0.04). Conclusions: A behavior change intervention for breast cancer survivors based on the social cognitive theory is feasible
+and results in potentially meaningful improvements in physical activity and selected health outcomes. Confirmation in a larger study is
+warranted. Key Words: BODY COMPOSITION, EXERCISE, INTERVENTION, ONCOLOGY, PREVENTION, SURVIVORSHIP
+Adopting a healthy lifestyle after a cancer diagnosis
+is important for improving health and quality of life
+(11). Receiving a diagnosis of cancer may motivate
+an individual to adopt healthier choices, providing an optimal time to initiate lifestyle behavior change interventions
+(11). Focusing such interventions on physical activity adherence in breast cancer survivors is warranted because
+physical activity may reduce breast cancer mortality, independent of diet and body mass index (BMI) (23,24).
+Moreover, physical activity interventions may not be generalizable across cancer types because physical activity barriers, correlates, and preferences may differ on the basis of
+cancer site and treatment status (9,10,37).
+Change in physical activity behavior as the primary study
+outcome identifies a study as ‘‘behavior change’’ rather than
+exercise dose or efficacy study. Among the currently available randomized trials of physical activity behavior change
+studies in cancer survivors, five focused on breast cancer,
+one on prostate cancer, and four on mixed cancer types
+(3,4,7,12,13,28,33,34,42,45). It is encouraging that seven of
+these studies demonstrated significant improvements in
+physical activity and two of the three without activity increases reported improvements in the exercise stage of
+change. Despite this initial success, as many as 79% of
+participants in physical activity behavior change interventions failed to meet public health recommendations (28,33)
+Address for correspondence: Laura Q. Rogers, M.D., M.P.H., SIU School
+of Medicine, Department of Medicine, P.O. Box 19636, Springfield, IL
+62794-9636; E-mail: lrogers@siumed.edu.
+Submitted for publication April 2008.
+Accepted for publication September 2008.
+0195-9131/09/4104-0935/0
+MEDICINE & SCIENCE IN SPORTS & EXERCISE
+Copyright  2009 by the American College of Sports Medicine
+DOI: 10.1249/MSS.0b013e31818e0e1b
+935
+APPLIED SCIENCES
+Copyright @ 200 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited. 9
+and only one study has demonstrated improvements in
+objective measures of physical activity (33).
+Behavior change programs can improve effectiveness by
+basing program elements and techniques on changing the
+underlying cognitive variables known to be associated with
+the behavior of interest (19). The social cognitive theory
+has proven useful in identifying such variables for physical
+activity behavior in breast cancer survivors (35,40,41). Although self-efficacy is the central construct of the social
+cognitive theory, other important constructs exist [e.g., expectations of outcomes, importance of the expected outcomes, environment (including social support), etc.] (19).
+Several prior behavior change studies have used the social
+cognitive theory but have often focused on self-efficacy
+rather than comprehensively considering multiple social
+cognitive theory constructs (7,12,13,34).
+Because physical activity behavior is the primary outcome of interest for behavior changes studies, there is a
+potential for public health and medical professionals to assume that if an intervention increases activity, it will also
+improve the health of its participants. Unfortunately, inconsistent results suggest that this assumption is not always
+correct. When previous physical activity behavior change
+studies in cancer survivors have included health outcomes
+such as quality of life, functioning, symptoms, and body
+composition (3,4,7,12,13,33,34,42,45), intervention effects
+have been inconsistent owing to the differences in study
+power, activity adherence rates, and exercise program goals.
+Including health-related outcomes in physical activity behavior change intervention studies validates the health benefits that are assumed to occur with increased activity.
+Importantly, several health outcomes particularly relevant for breast cancer survivors have not been reported in
+physical activity behavior change intervention trials. Specifically, sleep dysfunction may affect more than half of
+breast cancer survivors and may improve with regular
+exercise (27). Cognitive impairment, albeit a less prevalent
+complaint, may occur during chemotherapy for breast cancer with symptoms persisting after treatment completion
+(44). Hormonal therapy (i.e., aromatase inhibitors and
+estrogen receptor modulators) can cause vasomotor symptoms and joint pain, which may interfere with regular
+exercise participation (8,18,25). Although it is unknown
+whether regular exercise will improve these symptoms in
+breast cancer survivors, studies in postmenopausal women
+and individuals with osteoarthritis suggest that such symptoms may improve with regular physical activity (15,30).
+Physical activity behavior change interventions are especially germane for breast cancer survivors on hormonal
+therapy because exercise may counteract the potential deleterious effects of therapy on serum lipids and/or vascular
+thrombosis risk (25). Moreover, survivors with hormone
+receptor positive tumors may have the greatest potential for
+reducing cancer recurrence and mortality with exercise (24).
+Although several studies have focused on breast cancer
+survivors in general (3,28,33,34,42), no study has focused
+primarily on breast cancer survivors receiving hormonal
+therapy.
+Owing to the paucity of data supporting effective physical activity behavior change interventions in breast cancer
+survivors on hormonal therapy and the inconsistent or not
+previously reported impact of such interventions on healthrelated outcomes, we carried out a pilot randomized controlled trial. Our study aim was to determine the feasibility
+and preliminary effectiveness of a physical activity behavior
+change intervention for breast cancer survivors receiving
+hormonal therapy, which attempted to comprehensively address multiple social cognitive theory constructs. Program
+effectiveness in changing physical activity, fitness, muscle strength, body composition, perceived health, sick days
+missed from work, quality of life, fatigue, endocrine symptoms, cognitive function, sleep dysfunction, and joint pain
+were assessed.
+METHODS
+Setting and Participants
+Participants were recruited through newspaper advertising, public service announcements, physician referrals from
+local academic and private practice oncology offices, and
+placement of flyers in clinical waiting rooms and beauty
+salons. The study protocol was approved by the local institutional review board, and informed consent was obtained
+from all participants before implementing study procedures.
+Eligibility criteria included English-speaking female breast
+cancer survivors between the ages of 18 and 70 yr with a
+diagnosis of stage I, II, or IIIA. Participants were currently
+taking aromatase inhibitors or selective estrogen receptor
+modulators and were expected to remain on hormonal therapy for the duration of the study (i.e., at least 8 months).
+Medical clearance for participation provided by primary
+care physician or oncologist was required. If the patient had
+undergone a surgical procedure, enrollment was delayed
+until at least 8 wk after the procedure. Participants with the
+following criteria were ineligible: diagnosis of dementia
+or organic brain syndrome; medical, psychological, or
+social characteristic that would interfere with the ability to
+fully participate in program activities and assessments (e.g.,
+psychosis, schizophrenia, etc.); contraindication to participation in a regular physical activity program (e.g., unstable
+angina, debilitating arthritis pain); breast cancer recurrence
+or metastatic disease; inability to ambulate; planning to relocate out of the study area during the 8-month study
+period; and engaged in Q60 min of vigorous physical
+activity or Q150 min of moderate plus vigorous activity per
+wk during the past month (based on self-report).
+Design and Procedures
+The study piloted a two-armed, randomized controlled
+trial comparing an intervention to usual care group. Interested participants were provided an explanation of the study
+and screened by telephone for eligibility using a structured
+936 Official Journal of the American College of Sports Medicine http://www.acsm-msse.org
+APPLIED SCIENCES
+Copyright @ 200 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited. 9
+interview format. If participants were interested and eligible, an appointment was made with the study coordinator
+for completion of the consent and other related study forms
+(e.g., HIPAA authorization). After consent was obtained, the
+participant was given specific instructions related to scheduling and appropriate completion of each study measure:
+submaximal treadmill test, dynamometer testing, anthropometric measures, accelerometer, diet record, self-administered
+survey, and dual-energy x-ray absorptiometry. Measurements
+were obtained at baseline (preintervention) and after 3 months
+(immediately postintervention). A small monetary incentive
+was paid after completion of each set of study measures.
+Random Assignment
+Participants were randomized after completion of all baseline assessments. Randomization was computer generated
+and kept in sealed envelopes until randomization to prevent
+bias in group allocation by study personnel.
+Physical Activity Behavior Change Intervention
+The 12-wk physical activity behavior change intervention was entitled the BEAT Cancer program (i.e., Better
+Exercise Adherence after Treatment for Cancer) and was
+based on the social cognitive theory, other physical activity
+correlates, and program preferences determined from prior
+needs assessments among breast cancer survivors (e.g., faceto-face counseling from knowledgeable staff, home-based,
+private setting, walking, moderate intensity, self-efficacy,
+important exercise benefits, fatigue, time management, social
+networking, role modeling, exercise enjoyment, and importance of avoiding risk) (38,40). The goal of the intervention,
+based on current public health recommendations (22), was
+to gradually increase all participants to 150 min of moderate
+walking per wk. Intervention participation occurred in four
+cohorts or ‘‘waves’’ to facilitate the group format.
+The intervention consisted of group and individual sessions with Table 1 providing the number of each type of
+session per week during the 12-wk intervention. Participants attended six discussion group sessions with a clinical
+psychologist who encouraged social support, provided breast
+cancer survivor exercise role models, and covered the following topics: journaling, time management, stress management,
+dealing with exercise barriers, and behavior modification. The
+specific social cognitive theory constructs addressed by the
+group sessions included self-efficacy, emotional coping,
+reciprocal determinism, perceived barriers, outcome expectations, behavioral capability, goal setting, environment, observational learning, and self-control. Participants also attended
+12 individual supervised exercise and 3 individual ‘‘face-toface’’ update counseling sessions with an exercise specialist
+that tapered to a home-based program by the end of the intervention. The supervised and update sessions were based on
+exercise prescriptions derived from fitness testing described
+below and used a structured interview format based on a standardized encounter form. In addition to walking, flexibility
+exercises and exercise barriers were discussed. The specific
+social cognitive theory constructs addressed by the individual
+sessions included self-efficacy, outcome expectations, behavioral capability, perceived barriers, and goal setting with selfmonitoring. To further enhance self-monitoring, participants
+were encouraged to ‘‘convert’’ the minutes spent in physical
+activity recorded on their weekly exercise logs into ‘‘miles’’
+(i.e., 1 min = 2 miles), which were graphed on a map indicating travel across the country to the west coast (i.e., ‘‘Race
+across America’’). This activity was intended to provide participants with a feeling of accomplishment and a possible
+competitive opportunity. The exercise specialists were certified by the American College of Sports Medicine (or certification eligible) with training, supervision, and periodic
+monitoring for quality control performed by an exercise physiologist with experience in exercise programming for cancer
+survivors. Participants met with different exercise specialists
+during the intervention because assignment was made on the
+basis of scheduling logistics.
+Usual Care Group
+The usual care group was provided written materials
+related to physical activity obtained from the American
+Cancer Society (published pamphlets and Web site resources: www.cancer.org). These materials were considered
+‘‘usual care’’ because of their availability to the general
+public. No specific instructions were given to the usual care
+group concerning physical activity behavior change. Participants randomized to the usual care group were given the
+opportunity to receive the intervention at no charge once the
+postintervention assessments were complete.
+Assessment of Primary and Secondary End Points
+Feasibility framework. Feasibility was on the basis
+of the RE-AIM (Reach, Efficacy/effectiveness, Adoption,
+Implementation, and Maintenance) framework (14). Specifically, ‘‘Reach’’ was assessed by the percent recruitment
+(or accrual) rate and comparison of participant characteristics
+to public domain cancer registry data for the study
+TABLE 1. Number of each type of intervention session per week for the Better Exercise Adherence after Treatment for Cancer (BEAT Cancer) program.
+Week
+0 1 2 3 4 5 6 7 8 9 10 11 12
+Discussion group* 1† 11 1 1 1
+Supervised exercise‡ 332211
+Home-based exercise 2233555 5 5 5
+Update face-to-face counseling‡ 11 1
+* Lead by clinical psychologist: group sessions.
+† The first session is considered week 0 because of the introductory nature of the material presented.
+‡ Lead by exercise specialist: individual sessions.
+EXERCISE ADHERENCE AND BREAST CANCER Medicine & Science in Sports & Exercised 937
+APPLIED SCIENCES
+Copyright @ 200 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited. 9
+community. Program adherence rates, participant program
+evaluation, physical activity, health outcomes, and adverse
+events assessed ‘‘Efficacy/effectiveness.’’ The number of
+oncology clinical offices referring participants assessed
+‘‘Adoption,’’ whereas process evaluation and cost assessed
+‘‘Implementation.’’ Finally, ‘‘Maintenance’’ was assessed by
+attrition rates, barriers to participation (i.e., reasons for
+refusals and withdrawals), and likelihood that the intervention would be repeated.
+Process and program evaluation. Successful implementation of intervention activities as planned was monitored by the investigators, study coordinator, exercise
+physiologist, and psychologist. A 21-item program evaluation form with primarily open-ended and yes/no questions
+was administered to intervention participants during the
+postintervention assessment.
+Objective activity monitoring. All participants wore a
+GT1M accelerometer (ActiGraph, Pensacola, FL) for seven
+consecutive days; the accelerometer was removed when
+bathing or asleep. Four valid days were required for an
+adequate assessment with valid days determined according to
+published protocols by reconciling data printouts with a record
+of time in and out of bed completed by the participant (32).
+The accompanying computer software used a combination of
+the work energy theorem and Freedson equations to calculate
+total activity counts, total steps, and minutes of light,
+moderate, hard, and very hard activity (User’s Manual,
+www.theactigraph.com). Although all outcomes were explored, the primary study end point was total activity counts.
+Self-reported leisure time physical activity. The
+Godin Leisure-Time Exercise Questionnaire, a valid measure of self-reported physical activity behavior (20), was
+used to assess leisure time activity. Participants were asked
+to report the average weekly duration and frequency of
+light, moderate, and vigorous leisure time activity for the
+past month. Reported duration was multiplied by frequency
+to determine the minutes per week spent in each of the three
+intensity levels (light, moderate, or vigorous).
+Stage of motivational readiness for physical
+activity. Although the intervention was based on the social cognitive theory, stage of change [a component of the
+transtheoretical model (19)] was assessed to describe the
+characteristics of cancer patients willing to participate in
+exercise studies (i.e., the ‘‘Reach’’ potential) and ensure
+similarities between the study groups about readiness for
+change. All participants were asked to report their physical activity stage of readiness (i.e., stage of change) before
+learning about the study and postintervention using a previously validated scale (31). Responses were classified into
+one of five stages: precontemplation (do not exercise regularly and do not intend to do so in the next 6 months),
+contemplation (do not exercise regularly but intend to do
+so in the next 6 months), preparation (exercising some
+but not regularly), action (regular exerciser for less than
+6 months), and maintenance (regular exerciser for 6 months
+or more) (31).
+Fitness. A submaximal treadmill test using the Naughton
+protocol with the end point of 85% of predicted maximal heart
+rate was used to determine fitness on the basis of a published
+regression equation estimating total oxygen cost of walking
+at the treadmill grade and speed achieved (2). The Naughton
+protocol was chosen because of its lower starting speed and
+more gradual progression, which is preferred when testing
+older sedentary participants who may be fatigued and/or who
+suffer balance difficulties related to breast cancer treatment.
+Also, maximal oxygen consumption testing is uncomfortable
+for participants and may increase study drop-outs (15,39).
+Muscle strength. A back/leg extensor dynamometer (Takei Back-A Model No. TKK5002, Tokyo, Japan)
+and handgrip dynamometer (Lafeyette Model No. 78010,
+Lafayette, IN) were used to measure muscle strength. At each
+assessment period, the participant completed three trials with
+1-min rest between trials. The maximum reading (best of the
+three efforts) provided the absolute strength measure in
+kilograms.
+Body composition and anthropometrics. Body
+mass index was calculated [weight per height squared
+(kgImj2
+)] using scale and stadiometer. Waist and hip circumference was measured using a nonstretching tape measure with the participant standing with abdomen relaxed and
+arms at sides. The waist circumference was measured at the
+smallest circumference of the torso and end of exhalation
+with no clothing at the waist. Hip circumference was measured at the level of the maximum extension of the buttocks
+with only undergarments at the hip. At each testing, three
+measurements were obtained and the results averaged before
+calculation of the waist-to-hip ratio. To determine percent
+body fat and bone mineral density, dual-energy x-ray absorptiometry (DXA) was performed using a Lunar Prodigy with
+Version 5.60.003 software (Lunar GE, Madison, WI).
+Patient-rated health-related outcomes. The remaining health-related variables were determined by selfadministered survey. Perceived health was assessed by asking
+participants to rate their general health on a 5-point Likert
+scale from 1 = poor to 5 = excellent. The participants were
+asked to report the number of sick days missed from work in
+the past month using a single, fill-in-the-blank question. Using
+the sum of 5-point Likert scales, quality of life was measured with the 37-item Functional Assessment of Cancer
+Therapy—Breast (FACT-B) (5), which includes the subscales of physical well-being (PWB), social well-being
+(SWB), emotional well-being (EWB), functional well-being
+(FWB), and additional concerns (AC). PWB, SWB, EWB,
+and FWB are summed for the FACT—General (FACT-G)
+with total FACT-B score including FACT-G plus AC. The 13-
+item FACT—Fatigue (FACT-F) (46), the 19-item FACT—
+Endocrine Symptoms (FACT-ES) (17), and the 42-item
+FACT—Cognitive (FACT-Cog) (43) were used to assess
+fatigue, endocrine symptoms, and cognitive function, respectively. All FACT scales are self-report and have proven
+validity and reliability (5,17,43,46). Sleep dysfunction was
+assessed using the Pittsburgh Sleep Quality Index (PSQI)
+938 Official Journal of the American College of Sports Medicine http://www.acsm-msse.org
+APPLIED SCIENCES
+Copyright @ 200 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited. 9
+with scoring according to published protocol so that a higher
+score indicates greater sleep dysfunction (i.e., habitual sleep
+efficiency, sleep latency, sleep duration, subjective sleep
+quality, use of sleeping medication, daytime dysfunction, and
+global score) (6). Owing to limited survey space, the sleep
+disturbances subscale was not included requiring that the
+global score be on the basis of the sum of six rather than the
+usual seven domains. Because the intervention primarily
+encouraged a lower extremity weight bearing activity (i.e.,
+walking), joint pain, stiffness, and physical function were
+assessed using the 5-point Likert scale version (i.e., 1 = none
+to 5 = extreme) of the 24-item Western Ontario and McMaster
+Universities Osteoarthritis Index (WOMAC), a measure of
+lower extremity pain and function (36).
+Covariates, intervention adherence, and adverse
+events. With the exception of beta-blocker use and comorbidity score, the demographic characteristics, medical
+variables, and prior physician exercise counseling information provided in Table 2 were assessed by self-administered
+survey (multiple choice, yes/no, or fill-in-the-blank items).
+Owing to the potential influence on the results of the submaximal treadmill test, participants were asked to provide a
+list of all current medications that were reviewed by the
+research staff to identify beta-blocker use. The comorbidity
+score was calculated by summing responses to the Functional Comorbidity Index, which asks participants to report
+history of 18 different health conditions (1 = yes, 0 = no)
+(21). Diet intake was assessed with the 3-d diet record
+(i.e., 1 weekend and 2 weekdays) and was analyzed with Diet
+Analysis Plus software, version 7.0.1 (www.Thomsonedu.com;
+Florence, KY). Intervention participation and adverse events
+were monitored by the investigators, study coordinator, psychologist, and exercise specialists.
+Statistical Analysis
+Participants randomized to the intervention group were
+compared with the usual care group on demographic,
+medical, diet, physical activity, and other health-related outcomes at baseline using independent t-test, chi-square,
+or Kruskal-Wallis procedures depending on the nature
+and distribution of the variable. To achieve the stated study
+aim, the change for postintervention minus baseline for the
+intervention versus usual care group was assessed with independent t-test, chi-square, or Kruskal-Wallis procedures
+depending on variable and distribution characteristics. An
+intent-to-treat analysis was done, and a P value G 0.05 was
+set as the level of significance. All differences are provided with calculated effect sizes regardless of statistical
+significance owing to the pilot nature of the study and the
+TABLE 2. Baseline characteristics of participants overall and by group allocation.
+Variable Overall (n = 41) Usual Care (n = 20) Intervention (n = 21) P
+Age (yr) 53 T 9 (36–68) 54 T 8 (36–68) 52 T 15 (36–68) 0.36
+Race
+White 38 (93) 19 (95) 19 (90)
+Other 3 (7) 1 (5) 2 (10) 1.0
+Education (yr) 15 T 2 (12–19) 15 T 2 (12–19) 15 T 2 (12–19) 0.86
+Income (US$, 103
+)
+G10 2 (5) 1 (5) 1 (5)
+10–20 1 (2) 0 (0) 1 (5)
+20–35 6 (15) 0 (0) 6 (28)
+35–50 8 (19) 5 (25) 3 (14)
+Q50 24 (59) 14 (70) 10 (48) 0.07
+Cancer stage
+I 12 (29) 6 (30) 6 (29)
+II 21 (51) 10 (50) 11 (52)
+III 8 (20) 4 (20) 4 (19) 1.0
+Received surgery 41 (100) 20 (100) 21 (100) 1.0
+Months since surgery 34 T 34 (0.7–134) 34 T 30 (2.5–114) 35 T 38 (0.7–134) 0.91
+Received chemotherapy 34 (83) 17 (85) 17 (81) 1.0
+Months since chemotherapy 33 T 35 (1.5–129) 30 T 31 (1.5–113) 36 T 39 (3–129) 0.38
+Received radiation 34 (17) 16 (80) 18 (86) 0.70
+Months since radiation 33 T 36 (0–123) 30 T 31 (0–110) 35 T 41 (1–123) 0.67
+Hormonal therapy
+Estrogen receptor modulator 11 (27) 4 (20) 7 (33)
+Aromatase inhibitor 30 (73) 16 (80) 14 (67) 0.54
+Months on hormonal therapy 18 T 17 (0.22–56) 22 T 18 (1–56) 15 T 15 (0.25–48) 0.17
+Medication for osteoporosis (yes) 13 (32) 8 (40) 5 (24) 0.27
+Beta-blocker (yes) 4 (10) 1 (5) 3 (14) 0.61
+Postmenopausal (yes) 34 (83) 17 (85) 17 (81) 1.0
+Comorbidity score 2 T 1.5 (0–6) 2 T 1.6 (0–6) 2 T 1.4 (0–5) 0.49
+Oncologist advised exercise (yes) 16 (39) 6 (30) 10 (48) 0.25
+Any physician advised exercise (yes) 23 (56) 13 (65) 10 (48) 0.26
+Stage of change
+Precontemplation 2 (5) 0 (0) 2 (10)
+Contemplation 23 (56) 12 (60) 11 (52)
+Preparation 10 (24) 5 (25) 5 (24)
+Action 5 (12) 2 (10) 3 (14)
+Maintenance 1 (3) 1 (5) 0 (0) 0.52
+Values are presented as mean T SD (range) or n (%).
+EXERCISE ADHERENCE AND BREAST CANCER Medicine & Science in Sports & Exercised 939
+APPLIED SCIENCES
+Copyright @ 200 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited. 9
+usefulness of the effect sizes for designing future studies
+assessing physical activity behavior change interventions.
+About the missing data, 1 of the 38 participants completing follow-up measures refused to answer four of the
+endocrine symptom items and two of the cognitive function
+items on the follow-up survey. Because these were above
+our a priori thresholds for the minimum number of missing
+values allowing imputation (e.g., missing values were not
+imputed if 92 of the endocrine scale items or 91 of the
+cognitive subscale items were missing), the following three
+scores could not be calculated for this participant: endocrine
+symptoms, cognitive function interference with functioning,
+and the total cognitive function. There were no missing
+values related to non–survey measures with the exception of
+missing daily steps on one participant because of accelerometer malfunction. Also noteworthy, DXA results are
+available on 39 rather than 38 participants because one of
+the participants not completing the follow-up measures
+completed the follow-up DXA measurement.
+An a priori sample size of 20 participants per study
+group was based primarily on logistical and budgetary
+constraints. When the study power for this feasible sample
+size was assessed, information related to the expected betweengroup difference for physical activity counts was not available. However, power calculations based on daily kilocalorie
+expenditure (which is derived from both frequency and intensity of activity similar to activity counts) demonstrated
+that enrolling 20 intervention participants would provide 81%
+study power to detect an increase of 200 kcal expended per day
+using a paired t-test with a significance level of 0.05 in the
+intervention group. Because 100 min of walking per week is
+equivalent to 150 to 200 kcal expended daily, we felt that our
+sample size, although logistically restricted, was adequate for
+detecting meaningful differences.
+RESULTS
+Participants were recruited from April 2006 to April
+2007. Flow of participants through the study is provided in
+Figure 1. All of the community and academic oncology clinics
+involved in the study referred participants for possible
+enrollment. Of the 119 women responding to a physician
+referral, study flyer, public service announcement, or newspaper advertisement, 49 (41%) were consented. Because
+8 withdrew between consenting and randomization owing to
+time (n = 7) or to being physically unable (n = 1), 41 (34%)
+completed baseline testing and were randomized, achieving
+our a priori sample size estimate of 20 participants per study
+group. Attrition after randomization for the trial overall was
+7% (3/41) with 1 not completing follow-up in the intervention
+group owing to unrelated illness, 1 not completing follow-up
+in the usual care group owing to distance, and 1 providing
+incomplete follow-up data (i.e., DXA only) in the usual care
+group owing to unrelated illness.
+The only deviation from protocol was the enrollment of
+a participant who did not initiate hormonal therapy until
+several weeks into the intervention owing to miscommunication with study staff. Although not a protocol deviation,
+one participant in the intervention group completed all
+intervention activities and meetings but did not exercise at
+home during the final 6 wk of the study because of activity
+restrictions related to receiving elective cosmetic surgery.
+Although intent-to-treat analysis was the primary analyses,
+post hoc supplementary analysis was done excluding both
+of these participants for the following reasons: 1) initiating
+hormonal therapy during the trial may unduly influence
+changes in endocrine symptoms and joint pains and 2) lack
+of exercise adherence was not a volitional choice of the
+participant receiving cosmetic surgery. Because a similar pattern of change in the study outcomes was seen with exclusion of these two participants, only the intent-to-treat
+analyses are reported.
+Table 2 provides the baseline characteristics overall and
+by group assignment. Study participants were primarily
+white (93%) with a mean age of 53 T 9 yr. Half (51%) had
+stage II disease with 27% taking estrogen receptor modulators and 73% taking aromatase inhibitors. An oncologist
+had advised 39% of the participants to exercise, and most
+(80%) were in the contemplation or preparation exercise
+stage of change. As described in Table 2, the two study
+groups did not significantly differ in age, race, education,
+income, medical factors, prior physician counseling about
+exercise, and readiness for physical activity behavior change.
+Because only two participants dropped out of the study after
+randomization, comparison with those who did not drop out
+was not made.
+Process evaluation and adherence. All components of the intervention were successfully implemented
+with the exception of a group ‘‘competition’’ (or ‘‘Race
+across America’’ activity) involving conversion of activity
+minutes to miles for participants to track progress during the
+group sessions, which many participants did not find helpful.
+About adherence, the intervention participants completed
+100% (252/252) of the individual exercise sessions, 95%
+(60/63) of the individual update sessions, and 98% (123/126)
+of the group sessions for an overall 99% adherence to all
+possible intervention sessions (435/441). Of the 63 individual
+update sessions with the exercise specialists, 4 (6%) were
+administered by telephone rather than face-to-face owing to
+logistical reasons and participant preference.
+Of the 21 intervention participants, 19 (90%) completed a
+program evaluation with 89% feeling that the group sessions were helpful, 79% stating the number of sessions was
+appropriate, and 84% reporting that the behavioral modification plan was helpful. About the individual exercise sessions, 100% felt the exercise specialists were knowledgeable
+and helpful with 95% feeling that the sessions were tailored
+to their needs. When asked if their exercise behavior had
+changed during the program, 89% indicated ‘‘yes’’ with 11%
+being uncertain. When asked which part of the program was
+most helpful regarding their exercise change, the following
+were listed: interactions with exercise specialists (47%),
+940 Official Journal of the American College of Sports Medicine http://www.acsm-msse.org
+APPLIED SCIENCES
+Copyright @ 200 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited. 9
+experiencing the beneficial effects of exercise (16%),
+‘‘everything’’ (11%), keeping the exercise log (11%),
+developing a routine (11%), and beginning slowly (5%).
+Most (89%) would recommend the BEAT Cancer program to
+others with the program ranked as excellent by 21% and very
+good by 37%. Participants who rated the program as good
+(37%) or fair (5%) represented the full range of age, education, and income; however, these individuals recommended that the program be revised to include strength training,
+diet counseling (for a more ‘‘complete’’ program), and a
+variety of exercise options.
+Physical activity, fitness,andmuscle strength. Table 3
+provides the change in physical activity, fitness, muscle
+strength, and body composition from baseline to postintervention for the usual care versus intervention group.
+Significant improvements were noted in total physical
+activity counts for the intervention versus usual care group
+(+51,744 vs j20,359; mean difference = 72,103; 95% confidence interval (CI) = 25,383–119,000; effect size (d) =
+1.02; P = 0.004). Although not statistically significant,
+large effect size increases were noted in moderate and
+vigorous (i.e., hard + very hard) activity minutes. A small
+nonsignificant effect size increase in self-reported moderate + vigorous activity was noted (79.4 vs 62.8; mean
+difference = 16.6; 95% CI = j53.1 to 86.2; d = 0.16; P =
+0.63). Consistent with the physical activity improvements,
+a medium to a large effect size increase was noted for
+stage of change (+1.45 vs +0.5; mean difference = 0.95;
+95% CI = 0.75–1.83; d = 0.71; P = 0.034).
+Accelerometer data were classified into meeting or not
+meeting current public health recommendations (i.e., Q150
+minIwkj1 of moderate or vigorous activity). From baseline
+to follow-up, the proportion meeting recommendations in the
+usual care group increased from 28% to 33% (McNemar,
+FIGURE 1—Participant recruitment, allocation, and retention by study group.
+EXERCISE ADHERENCE AND BREAST CANCER Medicine & Science in Sports & Exercised 941
+APPLIED SCIENCES
+Copyright @ 200 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited. 9
+P = 0.65) with an increase from 35% to 60% in the
+intervention group (McNemar, P = 0.06).
+A nonsignificant but moderate-to-large effect size increase in fitness (4.9 vs 2.0 mLIkgj1
+Iminj1
+; mean
+difference = 2.9; 95% CI = j0.1 to 5.8; d = 0.64; P =
+0.058) was noted for the intervention versus usual care
+group. Although right handgrip did not significantly
+change, increases were noted in the intervention group for
+left handgrip (0.1 vs j1.9; mean difference = 2.0; 95% CI =
+0.3–3.9; d = 0.76; P = 0.03) and back/leg extensor strength
+(+8.2 vs j4.1 kg; mean difference = 12.3; 95% CI = 0.4–
+15.9; d = 0.81; P = 0.017).
+About body composition, no difference was noted for BMI
+or percent body fat. However, there was a significant decline in the waist-to-hip ratio for the intervention versus
+the usual care group postintervention (j0.03 vs 0.02; mean
+difference = j0.05; 95% CI = j0.08 to j0.01; d = j0.77;
+P = 0.02). Also, no difference was noted for femoral neck
+and lumbar (i.e., L2–L4) bone mineral density (i.e., j0.01
+change for each measure in both groups). Relevant to
+body composition, the intervention group demonstrated a
+nonsignificant decline in daily kilocalorie intake when
+compared to the usual care group (i.e., j302 vs j206;
+mean difference = j95; 95% CI = j449 to 259; d = j0.18;
+P = 0.59).
+Patient-rated outcomes. No significant difference in
+mean change was noted for perceived health (usual care = 0.17
+vs intervention = 0.15, P = 0.94) or sick days missed from
+work (usual care = j0.20 vs intervention = 0.20, P = 0.80).
+Also, no difference for the usual care versus intervention
+group was noted for fatigue (j4.2 vs j1.9, P = 0.53) or
+endocrine symptoms (j2.9 vs j0.9, P = 0.45).
+Table 4 provides the change in quality of life from baseline to postintervention for the usual care versus intervention group. Social well-being demonstrated significantly
+greater improvements in the intervention group versus usual
+care group (i.e., 0.8 vs j1.2, P = 0.03).
+Table 5 provides the changes in cognitive function, sleep
+dysfunction, and joint symptoms from baseline to postintervention for the usual care versus intervention group.
+The effect sizes were variable in size and direction depending on the component of cognitive function or sleep
+dysfunction measured with no significant differences note.
+For joint symptoms, no improvement was noted with the intervention but, unexpectedly, joint stiffness was greater
+among the intervention versus usual care group (i.e., 0.4 vs
+j0.72, P = 0.04).
+No adverse events related to the intervention or other
+study procedures occurred. The following nonserious, nonrelated events were recorded: wheezing requiring physician
+TABLE 3. Physical activity, fitness, muscle strength, and body composition at baseline and postintervention for usual care versus group receiving intervention.
+Usual Care Intervention
+Baseline* Postintervention* Baseline* Postintervention*
+Variable Mean SD Mean SD
+Change
+Score Mean SD Mean SD
+Change
+Score
+Between-Group
+Difference P d
+Activity counts† 231,276 74,624 210,917 64,078 j20,359 200,447 60,405 252,191 91,893 51,744 72,103 0.004 1.02
+Steps 6907 2657 8388 5361 1481 6184 1687 7301 2266 1117 j363 0.81 j0.09
+Moderate minutes 16.7 12.2 17.0 13.3 0.3 14.2 10.4 22.3 13.6 8.0 7.7 0.09 0.57
+QHard minutes 0.2 0.6 0.0 0.0 j0.2 0.2 0.7 1.8 4.3 1.6 1.8 0.09 0.54
+QModerate self-report
+minutes‡
+51.5 74.1 114.3 131.5 62.8 42.0 54.5 121.4 73.2 79.4 16.6 0.63 0.16
+Fitness 25.5 6.3 27.6 6.1 2.0 24.6 5.9 29.5 6.6 4.9 2.9 0.06 0.64
+Right handgrip 26.1 6.0 25.4 5.9 j0.7 28.6 4.5 29.2 5.2 0.6 1.3 0.13 0.51
+Left handgrip 25.1 5.8 23.1 6.4 j1.9 26.4 4.3 26.5 4.6 0.1 2.1 0.03 0.76
+Back/leg extensors 69.1 19.5 64.9 19.7 j4.1 72.1 28.9 80.3 27.0 8.2 12.3 0.02 0.81
+BMI 30.8 8.6 30.4 8.3 j0.4 30.9 8.6 30.6 7.6 j0.3 0.1 0.95 0.02
+Waist-to-hip ratio 0.80 0.07 0.82 0.07 0.02 0.85 0.09 0.82 0.06 j0.03 j0.05 0.02 j0.77
+% body fat 43.7 7.9 43.5 7.5 j0.2 44.2 6.7 44.3 7.4 0.1 0.3 0.66 0.14
+* Data on the basis of study participants completing both baseline and 3 month follow-up.
+† Accelerometer used for physical activity measures unless otherwise indicated; all physical activity results are daily values.
+‡ Godin leisure time physical activity questionnaire.
+d, effect size.
+TABLE 4. Quality of life at baseline and postintervention for usual care versus group receiving intervention.
+Usual Care Intervention
+Baseline* Postintervention* Baseline* Postintervention*
+Variable Mean SD Mean SD
+Change
+Score Mean SD Mean SD
+Change
+Score
+Between-Group
+Difference P d
+Physical well-being 22.7 6.0 25.4 2.3 2.6 21.0 5.3 23.3 4.5 2.3 j0.3 0.87 j0.05
+Social well-being 22.9 5.3 21.8 5.7 j1.2 21.8 4.8 22.6 4.1 0.8 2.0 0.03 0.76
+Emotional well-being 21.1 2.6 21.1 2.9 j0.1 19.1 3.2 20.0 3.1 0.9 0.9 0.27 0.36
+Functional well-being 22.4 4.6 23.8 3.2 1.4 21.1 4.0 21.4 4.8 0.4 j1.0 0.40 j0.28
+Additional concerns 26.4 5.6 26.7 6.4 0.3 26.0 6.3 27.0 5.5 1.0 0.7 0.68 0.13
+FACT-G 89.1 14.2 92.0 11.4 2.9 82.9 9.9 87.4 13.1 4.5 1.6 0.63 0.16
+FACT-B 115.5 16.2 118.7 14.4 3.1 108.9 13.9 114.4 16.2 5.4 2.3 0.57 0.18
+* Data based on study participants completing both the baseline and the 3-month follow-up.
+d, effect size; FACT, Functional Assessment of Cancer Therapy (FACT-G, general; FACT-B, breast).
+942 Official Journal of the American College of Sports Medicine http://www.acsm-msse.org
+APPLIED SCIENCES
+Copyright @ 200 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited. 9
+evaluation for asthma, cholinergic urticaria, herpes zoster,
+sinusitis, back pain related to falling, and elective cosmetic
+reconstructive surgery.
+DISCUSSION
+Our randomized controlled trial is unique in its focus on
+breast cancer survivors receiving hormonal therapy and
+comprehensive assessment of health-related outcomes. Our
+physical activity behavior change intervention (BEAT Cancer program) was feasible and well-accepted by the participants. The BEAT Cancer program significantly improved
+physical activity counts measured by accelerometer, muscle
+strength, and social well-being with large effect size increases in moderate activity, vigorous activity, and fitness
+that were not statistically significant owing to limited study
+power. Although no improvements in BMI and percent body
+fat were noted, a significant decrease in waist-to-hip ratio
+was noted in the intervention group. Unexpectedly, the intervention group reported a significant increase in joint
+stiffness. The intervention did not significantly change
+perceived health, sick days missed from work, fatigue,
+endocrine symptoms, cognitive function (based on selfreport), or perceived sleep dysfunction.
+Our intervention was highly feasible from the standpoint
+of efficacy and implementation. Most intervention sessions
+were successfully completed, most participants felt the
+intervention was worthwhile and helpful, and no related
+adverse events were reported. It is noteworthy that our
+‘‘competition’’ among the participants was the only intervention component not well received suggesting that this
+activity be dropped from the intervention. Because such an
+activity has proven helpful in other populations (e.g.,
+physicians in training [39]), this occurrence reinforces the
+importance of considering the specific preferences of the
+target population when designing interventions. It is also
+interesting that the individual sessions with the exercise
+specialists were felt to be the most helpful intervention
+component. This is consistent with prior reports that faceto-face counseling is the preferred physical activity delivery channel among breast cancer patients (38) but is
+contrary to our expectation that the group sessions would
+provide the most assistance in changing behavior by
+emphasizing issues such as behavioral modification.
+The high intervention completion rates suggest that our
+intervention has short-term ‘‘maintenance’’ potential within
+the RE-AIM framework with the fact that 89% would
+recommend the program to others suggesting long-term
+‘‘maintenance’’ of program dissemination, as well. Although
+these results are encouraging, the intervention required significant staff time to ensure that each session was scheduled
+and completed according to protocol. Furthermore, distance,
+lack of time, and the development of unrelated combordities
+were the most frequent reasons for refusing to participate in
+or complete the intervention and study follow-up. Although
+a multidisciplinary intensive intervention may be effective
+in changing behavior, its complexity carries the risk of
+refusal to participate owing to these identified barriers.
+Future studies to determine the most effective components
+of the intervention to simplify implementation, reduce cost,
+and enhance participation are warranted. Such studies should
+encourage oncologists to recommend the study to patients, a
+recruitment strategy we found effective because all oncology
+clinics referred participants for possible enrollment demonstrating broad ‘‘adoption’’ by local oncologists.
+Importantly, our study is among only a few behavior change
+studies in cancer survivors to use an objective measure
+of physical activity. Because significant improvements in
+TABLE 5. Cognitive function, sleep dysfunction, and joint symptoms at baseline and postintervention for usual care versus group receiving intervention.
+Usual Care Intervention
+Baseline* Postintervention* Baseline* Postintervention*
+Variable Mean SD Mean SD
+Change
+Score Mean SD Mean SD
+Change
+Score
+Between-Group
+Difference P d
+Mental acuity 11.9 3.6 12.6 3.0 0.7 12.0 3.6 11.6 3.9 j0.4 j1.1 0.29 j0.35
+Concentration 12.2 2.8 13.2 2.3 1.0 12.9 2.5 12.5 2.7 j0.4 j1.4 0.09 j0.57
+Memory 23.0 4.3 23.4 3.7 0.4 22.0 4.1 21.6 5.8 j0.4 j0.9 0.41 j0.27
+Verbal fluency 21.7 4.9 22.0 4.6 0.3 20.5 6.4 20.0 5.2 j0.5 j0.8 0.63 j0.16
+Interference in functioning 23.2 3.9 23.6 2.6 0.4 21.9 3.8 21.1 4.5 j0.8 j1.2 0.29 j0.35
+Other people notice deficits 14.2 1.9 14.1 1.7 j0.1 13.7 2.9 13.6 2.8 j0.1 j0.0 0.99 0.00
+Change from previous function 24.6 7.6 26.6 5.4 2.0 26.9 8.1 25.3 9.4 j1.6 j3.6 0.18 j0.44
+Impact on quality of life 25.1 6.8 26.9 4.6 1.8 26.6 5.0 26.1 5.5 j0.6 j2.4 0.22 j0.42
+Total FACT-Cog 130.9 26.2 135.5 19.5 4.7 128.6 27.6 124.5 30.8 j4.2 j8.8 0.22 j0.41
+Sleep quality† 1.17 0.62 1.22 0.81 0.06 1.30 0.73 1.30 0.86 0.00 j0.06 0.82 j0.08
+Sleep latency† 0.44 0.86 0.78 1.06 0.33 1.05 1.05 1.10 0.85 0.05 j0.28 0.37 j0.30
+Sleep duration† 1.11 0.83 1.06 0.64 j0.06 1.35 1.04 1.30 0.92 j0.05 0.01 0.98 0.01
+Sleep efficiency† 0.78 1.00 0.61 0.85 j0.17 0.90 1.17 1.05 1.36 0.15 0.32 0.35 0.32
+Sleep medications† 0.78 1.17 1.00 1.14 0.22 0.80 1.06 0.75 1.16 j0.05 j0.27 0.48 j0.23
+Daytime dysfunction† 0.94 0.64 0.83 0.51 j0.11 0.80 0.77 1.15 0.88 0.35 0.46 0.08 0.58
+Total PSQI score† 5.22 3.57 5.50 4.00 0.28 6.20 3.94 6.65 4.17 0.45 0.17 0.89 0.05
+Joint pain 2.11 2.76 2.28 2.76 0.17 2.08 2.13 3.03 2.98 0.95 0.78 0.40 0.28
+Joint stiffness 2.50 2.01 1.78 1.77 j0.72 2.08 1.56 2.48 2.09 0.40 1.12 0.04 0.70
+Physical function 6.76 9.44 6.03 8.16 j0.73 5.69 6.82 7.25 8.05 1.56 2.29 0.41 0.27
+WOMAC total 11.37 13.54 10.08 12.21 j1.29 9.84 9.00 12.75 11.85 2.91 4.20 0.29 0.36
+* Data based on study participants completing both the baseline and the 3-month follow-up.
+† Higher scores indicate greater sleep dysfunction. The total PSQI score is based on only six domains limiting comparison of absolute values to other reports.
+EXERCISE ADHERENCE AND BREAST CANCER Medicine & Science in Sports & Exercised 943
+APPLIED SCIENCES
+Copyright @ 200 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited. 9
+self-reported physical activity may occur without significant
+increases in objectively measured physical activity (34,42), it
+is unfortunate that only three of the studies have reported
+objectively measured physical activity (33,34,42). We also
+demonstrated a greater between-group difference for selfreport versus the accelerometer (i.e., 16.6 min of moderate +
+vigorous for self-report vs 9.2 min of moderate + vigorous
+for accelerometer), further supporting the importance of
+using an objective measure. However, the effect size was
+smaller for self-report physical activity in our study owing to
+the relatively large SD of the between-group difference (i.e.,
+16.6 T 105.7). The small percentage of individuals in
+the action or maintenance exercise stage of change at baseline
+despite the study participant criteria may be related to participants incorrectly considering occupational rather than leisure exercise when answering the stage of change items or
+initiating exercise between the screening interview and completion of baseline study measures. Fortunately, there was no
+difference between the study groups concerning stage of
+change, and the inadvertent inclusion of more active
+individuals at baseline would bias the results toward a null
+finding, further emphasizing the potential effectiveness of our
+intervention.
+It is notable that significant improvements in objective
+physical activity were found with our intervention because
+only one of the three prior behavior change studies assessing
+objective physical activity has demonstrated significant
+improvements in the intervention group (33). Furthermore,
+the large effect size increase in fitness is important because
+only two of the prior four behavior change studies assessing
+fitness have demonstrated improvements (3,34). Despite
+significant improvement in activity counts, the absolute
+between-group differences for moderate and vigorous activity were below the recommended 150 minIwkj1 of moderate
+activity with only 60% of the individuals receiving the
+intervention meeting current recommendations based on
+objective monitoring. This suggests that future interventions
+should focus on assisting participants in adequately assessing
+and achieving at least moderate intensity activity.
+Several reasons may explain the counterintuitive greater
+increase in daily step count in the usual care group, a result
+noted in a prior behavior change study as well (42). Because
+activity counts are based on intensity and frequency of movement, a shift into higher intensity activity by participants in
+the intervention group could contribute to an increase in activity counts without a comparable increase in daily steps. In
+addition, the usual care group may have increased their activity because of a readiness to change without increasing
+their intensity contributing to an increase in steps without a
+comparable increase in activity counts. Finally, some participants in the intervention group may have transitioned to
+exercise types not measured in a vertical plane (as with the step
+function) during the home-based portion of the program
+but exercise logs indicated that all were participating in walking with the exception of two who were using the elliptical
+machine.
+About study limitations, physical activity and social wellbeing improvements may have been due to study staff
+attention and not specifically related to intervention activities because study staff contact time was not similar for the
+intervention and usual care group. Therefore, definitive
+conclusions related to social well-being cannot be made
+without confirmation in future studies providing equal staff
+attention to both the usual care and intervention groups.
+Although study outcomes may have been influenced by
+different exercise specialists leading the encounters, the
+sessions were standardized by consistent training, periodic
+quality control monitoring, and use of structured interview
+format. Moreover, the fact that the intervention was
+effective despite using different individuals suggests a
+greater intervention translational potential. Also, exercise
+specialists performing the treadmill and muscle strength
+testing were not blinded to participant group allocation
+owing to staffing availability. Although the exercise
+specialists were carefully trained and monitored for objective, standardized administration of the protocol, measurement bias may have occurred if participants in the
+intervention group were provided additional encouragement, enhancing treadmill or dynamometer test performance. Although blinding of the testing personnel should
+not have influenced the primary outcome measure (i.e.,
+accelerometer measurement) or the remaining study measures, the inability to blind participants to group allocation
+is an inherent limitation of exercise studies, which may bias
+participant responses and behaviors because of their awareness of the study purpose and desire to please the study
+staff. Also, exercise logs were used as a part of the intervention materials but were not used concurrent with the
+accelerometer to identify activities that are not measured by
+the accelerometer (e.g., swimming, bicycling). Nevertheless,
+the two intervention participants logging activities other
+than walking reported use of an elliptical machine, an activity which can be detected by the accelerometer. Finally,
+our sample size precluded analyses of the potential moderating effects of demographic and medical factors (e.g., age).
+Although our recruitment rate of 34% is similar to rates
+reported for randomized clinical trials in cancer survivors
+(16), this percentage may reduce the generalizability (or
+‘‘Reach’’) of our study. For example, on the basis of public
+domain data from the state cancer registry, our mean age
+was slightly lower than the mean age of 61 yr for all breast
+cancer survivors in the state, suggesting that our program
+may be more attractive to the younger survivor. In contrast,
+it is encouraging that the percent minority representation is
+similar to that of the breast cancer survivor population in
+the study community. Also relevant to ‘‘Reach,’’ the low
+percentage of participants in the precontemplation stage of
+change suggests that different interventions will be required
+to attract survivors in this stage.
+Because body composition influences breast cancer risk
+before and after diagnosis, the improvements in waist-to-hip
+ratio may be clinically important (1). The lack of change in
+944 Official Journal of the American College of Sports Medicine http://www.acsm-msse.org
+APPLIED SCIENCES
+Copyright @ 200 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited. 9
+percent body fat or BMI may be caused by the short followup period and the intervention focus on physical activity
+rather than weight loss. Our findings are consistent with a
+recent review suggesting that physical activity interventions
+may alter body composition rather than body weight (26).
+The significant reductions in waist-to-hip ratio are especially
+important because abdominal obesity is associated with
+greater risk of breast cancer recurrence and mortality (1).
+Although conclusions about whether the intervention could
+possibly reduce cancer recurrence cannot be made, the waistto-hip ratio changes may serve as a biomarker suggesting
+that the increases in physical activity are sufficient for
+achieving important health benefits.
+Effects on quality of life and fatigue have been inconsistent in other randomized exercise behavior change studies with improvements noted in three of the seven studies
+assessing quality of life (3,42,45) and in two of three studies
+assessing fatigue (34,42). The lack of effect in our study
+may have been related to relative high quality of life and
+low fatigue scores at baseline causing a ceiling or floor
+effect (29). Because the greatest improvements in fatigue
+and quality of life can be expected immediately after treatment, the large variation in cancer stage and time since
+treatment may have prevented the study’s ability to detect
+differences. Future studies should consider focusing inclusion criteria or enrolling an adequate sample size to assess
+potential moderation of the intervention effect on the basis
+of time since treatment or cancer stage. Furthermore, a
+single dimension rather than a multidimensional fatigue assessment was used precluding the assessment of differential
+effects on fatigue dimensions that might occur. Nevertheless, the increase in social well-being suggests that future
+behavior change trials should assess whether intervention
+effects vary for the individual aspects of quality of life.
+As with fatigue, a floor effect may have contributed to the
+lack of improvement seen with endocrine symptoms,
+cognitive function, and sleep dysfunction. Also, our feasibility study was not powered to assess the potential
+moderating effect of chemotherapy on cognitive function,
+which may have been important because cognitive impairment is more often associated with chemotherapy. Nevertheless, our results suggest that future studies, which include
+these outcomes, should enroll larger sample sizes allowing
+adequate study power and stratification by treatment type.
+Such studies, when appropriate, should assess the individual
+construct domains because of the variability in intervention
+effect that may occur and should include all seven sleep
+domains to allow comparison of the absolute global score to
+other reports. Moreover, objective measures of cognitive
+function and sleep dysfunction may need to be included
+because our assessment was based on self-report alone.
+The increase in joint stiffness in the intervention group
+compared with the usual care group was surprising because
+exercise is a proven nonpharmacologic therapy for arthritis
+(30). Joint stiffness is not a major adverse event that is
+generally assessed or reported in physical activity intervention studies. Also, most individuals who are older (e.g., our
+study population had a mean age of 53 T 9 yr) consider mild
+joint symptoms as ‘‘normal’’ and may not report these
+unless specifically asked about them. Nevertheless, no previous exercise trial has monitored joint stiffness in breast
+cancer survivors receiving hormone therapy and possibly
+exercise may exacerbate joint stiffness that results from
+aromatase inhibitors. Although confirmation of this finding
+in larger studies is needed, future interventions should
+monitor this possible adverse event.
+Additional research is needed to confirm our intervention
+effectiveness (short and long term), evaluate dissemination
+potential, and determine the most cost-effective components.
+Future interventions, including a refinement of the BEAT
+Cancer program, should emphasize achieving adequate
+activity intensity with the provision of personal heart rate
+monitors and/or rigorous training in accurately rating perceived exertion. Efforts to decrease joint complaints by
+emphasizing adequate shoe support and the stretching/
+flexibility exercises prescribed before and after each exercise
+session are also warranted. Future studies assessing the
+effectiveness of physical activity behavior change interventions should include an objective physical activity assessment
+whenever feasible and confirm health benefits by measuring
+relevant health outcomes. Furthermore, identifying possible
+differential effectiveness of the group versus individual
+intervention components will advance current understanding
+of the most cost-effective modalities for enhancing physical
+activity behavior change and maintenance.
+This project was supported by the following grants: Southern
+Illinois University School of Medicine Excellence in Academic
+Medicine Award (No. E200634), Brooks Medical Research Fund,
+and Memorial Medical Center Foundation Regional Cancer Center.
+The authors did not have any relationships to disclose that would
+cause a conflict of interest. The results of the present study do not
+constitute endorsement by ACSM.
+REFERENCES
+1. Abrahamson PE, Gammon MD, Lund MJ, et al. General and
+abdominal obesity and survival among young women with breast
+cancer. Cancer Epidemiol Biomarkers Prev. 2006;15(10):1871–7.
+2. Balady G, Berra KA, Golding LA, et al. ACSM’s Guidelines for
+Exercise Testing and Prescription. 6th ed. Philadelphia (PA):
+Lippencott Williams & Wilkins; 2000. p. 303.
+3. Basen-Engquist K, Taylor CL, Rosenblum C, et al. Randomized pilot test of a lifestyle physical activity intervention for breast
+cancer survivors. Patient Educ Couns. 2006;64(1–3):225–34.
+4. Bennett JA, Lyons KS, Winters-Stone K, Nail LM, Scherer J.
+Motivational interviewing to increase physical activity in longterm cancer survivors: a randomized controlled trial. Nurs Res.
+2007;56(1):18–27.
+5. Brady MJ, Cella DF, Mo F, et al. Reliability and validity of the
+Functional Assessment of Cancer Therapy—Breast quality-of-life
+instrument. J Clin Oncol. 1997;15(3):974–86.
+6. Buysse DJ, Reynolds CF 3rd, Monk TH, Berman SR, Kupfer DJ.
+The Pittsburgh Sleep Quality Index: a new instrument for
+EXERCISE ADHERENCE AND BREAST CANCER Medicine & Science in Sports & Exercised 945
+APPLIED SCIENCES
+Copyright @ 200 by the American College of Sports Medicine. Unauthorized reproduction of this article is prohibited. 9
+psychiatric practice and research. Psychiatry Res. 1989;
+28(2):193–213.
+7. Carmack Taylor CL, Demoor C, Smith MA, et al. Active for Life
+After Cancer: a randomized trial examining a lifestyle physical
+activity program for prostate cancer patients. Psychooncology.
+2006;15(10):847–62.
+8. Cella D, Fallowfield LJ. Recognition and management of
+treatment-related side effects for breast cancer patients receiving
+adjuvant endocrine therapy. Breast Cancer Res Treat. 2008;
+107(2):167–80.
+9. Courneya KS, Blanchard CM, Laing DM. Exercise adherence in
+breast cancer survivors training for a dragon boat race competition: a
+preliminary investigation. Psychooncology. 2001;10(5):444–52.
+10. Courneya KS, Friedenreich CM. Utility of the theory of planned
+behavior for understanding exercise during breast cancer treatment. Psychooncology. 1999;8(2):112–22.
+11. Demark-Wahnefried W, Aziz NM, Rowland JH, Pinto BM. Riding
+the crest of the teachable moment: promoting long-term health
+after the diagnosis of cancer. J Clin Oncol. 2005;23(24):5814–30.
+12. Demark-Wahnefried W, Clipp EC, Lipkus IM, et al. Main
+outcomes of the FRESH START trial: a sequentially tailored,
+diet and exercise mailed print intervention among breast and
+prostate cancer survivors. J Clin Oncol. 2007;25(19):2709–18.
+13. Demark-Wahnefried W, Clipp EC, Morey MC, et al. Lifestyle
+intervention development study to improve physical function in
+older adults with cancer: outcomes from Project LEAD. J Clin
+Oncol. 2006;24(21):3465–73.
+14. Dzewaltowski DA, Glasgow RE, Klesges LM, Estabrooks PA,
+Brock E. RE-AIM: evidence-based standards and a Web resource
+to improve translation of research into practice. Ann Behav Med.
+2004;28(2):75–80.
+15. Elavsky S, McAuley E. Physical activity and mental health
+outcomes during menopause: a randomized controlled trial. Ann
+Behav Med. 2007;33(2):132–42.
+16. Ellis PM, Butow PN, Tattersall MH, Dunn SM, Houssami N.
+Randomized clinical trials in oncology: understanding and
+attitudes predict willingness to participate. J Clin Oncol. 2001;
+19(15):3554–61.
+17. Fallowfield LJ, Leaity SK, Howell A, Benson S, Cella D. Assessment of quality of life in women undergoing hormonal therapy for
+breast cancer: validation of an endocrine symptom subscale for the
+FACT-B. Breast Cancer Res Treat. 1999;55(2):189–99.
+18. Felson DT, Cummings SR. Aromatase inhibitors and the syndrome of arthralgias with estrogen deprivation. Arthritis Rheum.
+2005;52(9):2594–8.
+19. Glanz K, Lewis FM, Rimer BK. Health Behavior and Health
+Education, Theory, Research, and Practice. San Francisco (CA):
+John Wiley & Sons, Inc; 1997. p. 60–3, 153–78.
+20. Godin G, Shephard RJ. A simple method to assess exercise behavior in the community. Can J Appl Sport Sci. 1985;10(3):141–6.
+21. Groll DL, To T, Bombardier C, Wright JG. The development of a
+comorbidity index with physical function as the outcome. J Clin
+Epidemiol. 2005;58(6):595–602.
+22. Haskell WL, Lee IM, Pate RR, et al. Physical activity and public
+health: updated recommendation for adults from the American
+College of Sports Medicine and the American Heart Association.
+Circulation. 2007;116(9):1081–93.
+23. Holick CN, Newcomb PA, Trentham-Dietz A, et al. Physical
+activity and survival after diagnosis of invasive breast cancer.
+Cancer Epidemiol Biomarkers Prev. 2008;17(2):379–86.
+24. Holmes MD, Chen WY, Feskanich D, Kroenke CH, Colditz GA.
+Physical activity and survival after breast cancer diagnosis. JAMA.
+2005;293(20):2479–86.
+25. Howell A, Wardley AM. Overview of the impact of conventional
+systemic therapies on breast cancer. Endocr Relat Cancer.
+2005;12(suppl 1):S9–S16.
+26. Ingram C, Courneya KS, Kingston D. The effects of exercise
+on body weight and composition in breast cancer survivors: an
+integrative systematic review. Oncol Nurs Forum. 2006;33(5):
+937–47; quiz 948–50.
+27. Irwin ML, Ainsworth BE. Physical activity interventions following cancer diagnosis: methodologic challenges to delivery and
+assessment. Cancer Invest. 2004;22(1):30–50.
+28. Jones LW, Courneya KS, Fairey AS, Mackey JR. Effects of an
+oncologist’s recommendation to exercise on self-reported exercise behavior in newly diagnosed breast cancer survivors: a
+single-blind, randomized controlled trial. Ann Behav Med. 2004;
+28(2):105–13.
+29. Linden W, Satin JR. Avoidable pitfalls in behavioral medicine
+outcome research. Ann Behav Med. 2007;33(2):143–7.
+30. Mangani I, Cesari M, Kritchevsky SB, et al. Physical exercise and
+comorbidity. Results from the Fitness and Arthritis in Seniors
+Trial (FAST). Aging Clin Exp Res. 2006;18(5):374–80.
+31. Marcus BH, Selby VC, Niaura RS, Rossi JS. Self-efficacy and the
+stages of exercise behavior change. Res Q Exerc Sport. 1992;
+63(1):60–6.
+32. Masse LC, Fuemmeler BF, Anderson CB, et al. Accelerometer
+data reduction: a comparison of four reduction algorithms
+on select outcome variables. Med Sci Sports Exerc. 2005;37
+(11 suppl):S544–54.
+33. Matthews CE, Wilcox S, Hanby CL, et al. Evaluation of a 12-week
+home-based walking intervention for breast cancer survivors.
+Support Care Cancer. 2007;15(2):203–11.
+34. Pinto BM, Frierson GM, Rabin C, Trunzo JJ, Marcus BH. Homebased physical activity intervention for breast cancer patients. J Clin
+Oncol. 2005;23(15):3577–87.
+35. Pinto BM, Maruyama NC, Clark MM, Cruess DG, Park E,
+Roberts M. Motivation to modify lifestyle risk behaviors in
+women treated for breast cancer. Mayo Clin Proc. 2002;77(2):122–9.
+36. Rogers JC, Irrang JJ. Measures of adult lower extremity function.
+Arthritis Rheum. 2003;49:S67–84.
+37. Rogers LQ, Courneya KS, Robbins KT, et al. Physical activity
+correlates and barriers in head and neck cancer patients. Support
+Care Cancer. 2008;16(1):19–27.
+38. Rogers LQ, Courneya KS, Verhulst S, Markwell S, McAuley E.
+Factors associated with exercise counseling and program preferences among breast cancer survivors. J Phys Act Health.
+2008;5(5):688–705.
+39. Rogers LQ, Gutin B, Humphries MC, et al. A physician fitness
+program: enhancing the physician as an ‘‘exercise’’ role model
+for patients. Teach Learn Med. 2005;17(1):27–35.
+40. Rogers LQ, McAuley E, Courneya KS, Verhulst SJ. Correlates of
+physical activity self-efficacy among breast cancer survivors. Am
+J Health Behav. 2008;32(6):594–603.
+41. Rogers LQ, Shah P, Dunnington G, et al. Social cognitive theory
+and physical activity during breast cancer treatment. Oncol Nurs
+Forum. 2005;32(4):807–15.
+42. Vallance JK, Courneya KS, Plotnikoff RC, Yasui Y, Mackey JR.
+Effects of print materials and step pedometers on physical activity
+and quality of life in breast cancer survivors: a randomized controlled trial. J Clin Oncol. 2007;25(17):2352–9.
+43. Vardy J, Wong K, Yi QL, et al. Assessing cognitive function in
+cancer patients. Support Care Cancer. 2006;14(11):1111–8.
+44. Wefel JS, Lenzi R, Theriault RL, Davis RN, Meyers CA. The
+cognitive sequelae of standard-dose adjuvant chemotherapy in
+women with breast carcinoma: results of a prospective, randomized, longitudinal trial. Cancer. 2004;100(11):2292–9.
+45. Wilson RW, Taliaferro LA, Jacobsen PB. Pilot study of a selfadministered stress management and exercise intervention during
+chemotherapy for cancer. Support Care Cancer. 2006;14(9):928–35.
+46. Yellen SB, Cella DF, Webster K, Blendowski C, Kaplan E.
+Measuring fatigue and other anemia-related symptoms with the
+Functional Assessment of Cancer Therapy (FACT) measurement
+system. J Pain Symptom Manage. 1997;13(2):63–74.
+946 Official Journal of the American College of Sports Medicine http://www.acsm-msse.org
+APPLIED SCIENCES

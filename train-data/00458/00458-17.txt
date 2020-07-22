@@ -1,0 +1,919 @@
+﻿ORIGINAL ARTICLE
+The effect of weekly iron and vitamin A
+supplementation on hemoglobin levels and iron
+status in adolescent schoolgirls in western Kenya
+T Leenstra1,2, SK Kariuki1
+, JD Kurtis3
+, AJ Oloo1
+, PA Kager2 and FO ter Kuile1,2,4
+1
+Kenya Medical Research Institute, Centre for Vector Biology and Control Research, Kisumu, Kenya; 2
+Department of Infectious
+Diseases, Tropical Medicine and AIDS, Academic Medical Center, University of Amsterdam, The Netherlands; 3
+Center for International
+Health Research and Department of Pathology and Laboratory Medicine, Brown University School of Medicine, Providence, RI, USA and
+4
+Liverpool School of Tropical Medicine, Liverpool, UK
+Background/Objectives: Iron deficiency anemia is a major public health problem in developing countries and may affect school
+performance and physical work capacity in nonpregnant adolescents, and may increase the risk of anemia during subsequent
+teenage pregnancies. We assessed the effect of weekly iron (120 mg elemental iron) and vitamin A (25 000 IU) supplementation
+on hemoglobin, iron status and malaria and nonmalaria morbidity in adolescent schoolgirls.
+Subjects/Methods: A total of 279 schoolgirls aged 12–18 years from public primary schools in Kisumu, western Kenya. Doubleblind randomized placebo-controlled trial using a factorial design.
+Results: Five months of iron supplementation was associated with a 0.52 g dl1 (0.21, 0.82) greater increase in hemoglobin
+relative to iron placebo. The effect was only observed in girls with iron deficiency on enrollment (1.34 g dl1 (0.79, 1.88)), but
+not in iron-replete girls (0.20 g dl1 (0.59, 0.18)). Similar differences in treatment effect were seen between menstruating
+and nonmenstruating girls. The effect of iron was independent of vitamin A. The baseline prevalence of vitamin A deficiency was
+low (6.7%) and no sustained increase in hemoglobin was seen with weekly vitamin A (0.07 g dl1 (0.38, 0.25)). Incidence of
+malaria parasitemia was higher in the iron than iron-placebo groups (Rate ratio 1.33 (0.94, 1.88)).
+Conclusions: Weekly iron supplementation results in substantial increases in hemoglobin concentration in adolescent
+schoolgirls in western Kenya, which may outweigh possible risks caused by malaria, but only in iron-deficient or menstruating
+girls and not in iron-replete and nonmenstruating girls.
+European Journal of Clinical Nutrition (2009) 63, 173–182; doi:10.1038/sj.ejcn.1602919; published online 10 October 2007
+Keywords: iron; vitamin A; iron deficiency anemia; malaria; adolescents; schools
+Introduction
+Anemia, including iron deficiency anemia, remains one of
+the most widespread public health problems in developing
+countries, with preschool children and pregnant women
+most severely affected (WHO, 2001). During adolescence,
+requirements of iron and other micronutrients, including
+vitamin A, increase due to the rapid expansion of total blood
+volume and increase in lean body mass during the growth
+spurt, and following the onset of menstruation (Brabin and
+Brabin, 1992). In settings where additional risk factors of
+anemia (for example, malaria and hookworm) prevail and
+nutritional intake is inadequate, adolescents are at significant risk of developing anemia, with or without iron
+deficiency. The prevalence of anemia in adolescent girls in
+sub-Saharan Africa is estimated to be around 40% (DeMaeyer
+and Adiels-Tegman, 1985; ACC/SCN, 1997).
+Adverse consequences of anemia and iron deficiency range
+from severe morbidity to more subtle effects on physical
+work capacity and deficits in cognitive development and
+potentially school performance (Stoltzfus, 2001). Prepregnancy hemoglobin level and iron status are also important
+determinants of the risk of anemia-related morbidity and
+mortality during pregnancy (Brabin et al., 1998; Bothwell,
+Received 27 April 2006; revised 28 August 2007; accepted 29 August 2007;
+published online 10 October 2007
+Correspondence: Dr T Leenstra, Department of Infectious Diseases, Tropical
+Medicine and AIDS, Academic Medical Center, University of Amsterdam, The
+Netherlands.
+E-mail: T.Leenstra@hetnet.nl
+European Journal of Clinical Nutrition (2009) 63, 173–182
+& 2009 Macmillan Publishers Limited All rights reserved 0954-3007/09 $32.00
+www.nature.com/ejcn
+2000). Furthermore, iron deficiency may be associated with
+retarded growth, which in turn may be associated
+with obstructed labor due to cephalopelvic disproportion
+(Harrison, 1985).
+Vitamin A requirements also rise significantly during
+puberty reflecting the role of this nutrient in sexual
+maturation (Michaelsson et al., 1976). Vitamin A deficiency
+(VAD), even when subclinical, may cause anemia through
+the modulation of iron metabolism as reviewed by Semba
+and Bloem (2002). Randomized trials in anemic subjects
+have shown that vitamin A added to iron supplementation
+gave better hematological response than iron alone (Hodges
+et al., 1978; Mejia and Chew, 1988; Suharno et al., 1993).
+VAD is also recognized to play a role in growth, development
+and the functioning of the immune system (ACC/SCN,
+1997).
+There is a long-standing controversy about the safety of
+iron supplementation in malaria-endemic areas. Although
+iron deficiency causes a number of biochemical abnormalities and impaired cell-mediated immunity with increased
+susceptibility to infections (Fleming, 1987), concerns have
+also been raised that hyperferremia resulting from iron
+therapy may exacerbate infections, in particular malaria
+(Oppenheimer, 2001). The controversy has received renewed
+attention following the recent findings from a study in
+Zanzibar that reported in an increased rate of severe diseases
+and death in malaria-endemic Zanzibar (Sazawal et al., 2006).
+Because vitamin A supplementation raises serum iron this
+might also increase susceptibility to infection. On the other
+hand vitamin A supplementation in deficient individuals
+may boost the immune response and has been shown to
+provide protection against a number of infections (Villamor
+and Fawzi, 2000). High-dose vitamin A supplementation has
+been shown to reduce the number and severity of clinical
+malaria attacks in one trial (Shankar et al., 1999) but not in
+another (Binka et al., 1995).
+School-based interventions in adolescent girls offer an
+opportunity to combat iron deficiency, anemia and stunting
+before pregnancy (Brabin and Brabin, 1992). We conducted a
+randomized placebo-controlled trial to determine the effect
+of weekly supplementation with iron alone, vitamin A alone
+or a combination of the two, on hemoglobin concentration
+and iron status in adolescent schoolgirls in western Kenya.
+We also determined whether the addition of vitamin A has
+the potential to decrease or neutralize any adverse effects of
+iron supplementation on morbidity both from malaria and
+other infections.
+Methods
+Study area and population
+This study was conducted between April 1998 and November
+1998 in the city of Kisumu (population B320 000), located
+on the shores of Lake Victoria, in Nyanza Province, western
+Kenya.
+Malaria transmission in this urban area is largely uncharacterized, but is perennial with highest transmission during
+peak rainfall from April – July and October – December.
+Exposure to infective mosquitoes is likely to vary from the
+city center to the peri-urban areas (Robert et al., 2003). A
+study of pregnant women attending the hospital antenatal
+clinic reported an overall parasitemia prevalence in teenage
+pregnancies of 25% (van Eijk et al., 2001). Approximately
+26% of 15- to 19-year-old girls are estimated to be infected
+with human immunodeficiency virus-1 (Glynn et al., 2001).
+A study of vitamin A status conducted in a rural area 60 km
+north west of Kisumu found the prevalence of VAD (serum
+retinol p0.70 mmol l1
+) to be 55.2 and 17.5% in preschool
+and primary school girls, respectively, and none with signs
+of xerophthalmia (Friis et al., 1997). A study in pregnant
+women receiving folate supplementation suggested that
+folate deficiency is not a major cause of anemia among
+pregnant women in this area (Ouma et al., 2006).
+Study design and recruitment
+This was a double-blinded, randomized placebo-controlled trial
+with a 2 2 factorial design. After consent was obtained from
+the parents–teachers associations of 14 public primary schools
+within the Kisumu municipality, all girls 12–18 years were
+screened for the presence of anemia using a portable Hemocue
+system (HaemoCue AB, Angelholm, Sweden). For logistical
+reasons, only schools with 410 girls fulfiling the entry criteria
+were considered. Girls with mild-to-moderate anemia were
+enrolled 6–8 weeks after screening, when a questionnaire and
+physical examination were completed and a repeat finger-prick
+blood sample taken. Pregnancy tests were conducted for girls
+with a history of delayed menstruation. Any girls with severe
+anemia (hemoglobin (Hb) o 7.0gdl1
+), evidence of severe VAD
+(that is, signs of xerophthalmia), pregnancy or concomitant
+disease requiring hospitalization were excluded.
+Randomization and blinding
+Balanced block randomization scheme (N ¼ 12) was used.
+Active and placebo supplements were manufactured by
+Laboratory and Allied Limited (Nairobi, Kenya). The key
+was revealed only after completion of the study.
+Interventions
+Study participants were given one of the following supplementations: (1) iron and vitamin A, (2) iron and vitamin A
+placebo, (3) vitamin A and iron placebo or (4) iron placebo
+and vitamin A placebo (double placebo). Iron supplementation consisted of 120 mg elemental iron in the form of two
+200 mg ferrous-sulfate tablets given once weekly. Vitamin A
+was given as 25 000 IU (8.3 mg) retinol in the form of a
+gelatin capsule once weekly, a dose considered safe in first
+trimester pregnancy (WHO, 1998). Tablets and capsule were
+given at the same time with a glass of water.
+Weekly iron and vitamin A in adolescent schoolgirls
+T Leenstra et al
+174
+European Journal of Clinical Nutrition
+All schools were visited weekly by a study nurse for
+supervised administration of study supplements. If girls were
+absent, supplements were left with the teachers. Supervised
+treatment was not possible during a 3-week leave period
+between two school terms and a 2-week teachers’ strike.
+Instructions were given to the girls to take the study
+supplements at home.
+Follow-up
+The study was initially designed to include a 6-month
+intervention period, but shortened to 5 months following an
+early request from the teachers because the sixth month
+would have fallen in the school examination month. Girls
+were seen monthly after enrollment for a finger-prick blood
+sample (for hemoglobin concentration and malaria smear),
+questionnaire (including medical history, menstrual history,
+history of potential side effects and use of medication in the
+prior month) and basic physical examination (including
+clinical impression, skin rash and axillary temperature).
+At weekly treatment visits, girls were seen by the study
+nurse. Girls with symptomatic illness were referred to a
+dedicated study pediatrician. Each girl was given a health
+passport and girls suspecting illness could report directly
+to this clinic at no cost. The study pediatrician filled in a
+dedicated study form that was used for passive surveillance.
+Laboratory methods
+A Coulter Counter (Model M530, Coulter Electronics
+Limited, Luton, UK) was used to determine hemoglobin
+concentration. Daily control samples were run to determine
+the daily coefficient of variation, which never exceeded 7%.
+Blood cells and plasma were separated and stored at 20 1C,
+and subsequently at 80 1C until further processing.
+Ferritin and C-reactive protein (CRP) were measured on
+stored samples in a multiplexed bead-based assay as
+previously described (Coutinho et al., 2005). Retinol-binding
+protein (RBP) was measured on stored samples in a
+competitive binding assay using RBP (RDI, Concord, MA,
+USA) coupled to microspheres as target and biotinylated
+anti-RBP (courtesy of Dr Hix, PATH, Seattle, WA, USA) as the
+competitive detection Ab, essentially as described (Coutinho
+et al., 2005). RBP is known to occur as a 1:1 molar complex
+with retinol and can be used as a surrogate marker of serum
+retinol and equimolar cutoffs for RBP with similar sensitivity
+and specificity to predict VAD as serum retinol (Gamble et al.,
+2001). All laboratory markers for iron and vitamin A status
+could be assessed only for the baseline and 3 months time
+points, because more than 80% of stored samples taken at
+the 5-month time point were lost in transport.
+Thick blood smears were stained with Giemsa and
+examined for the presence of malaria parasites with a  100
+oil-emersion objective as previously described (Leenstra
+et al., 2003a).
+Anthropometric data
+Measurements of height and weight were performed at
+baseline according to standard World Health Organization
+procedures as described (Leenstra et al., 2005). Sexual
+maturation was assessed using a modified Tanner score
+based on the assessment of breast development only (Tanner,
+1962).
+Sample size
+We estimated that a sample size of 220 participants (55 per
+arm) would be sufficient to detect a 0.5 g dl1
+. difference in
+the mean change in hemoglobin between the treatment
+groups by the end of the intervention period, with 90%
+power and 95% confidence, anticipating 20% dropout and
+assuming a standard deviation of the mean Hb level of
+0.8 g dl1
+.
+Statistical methods
+All analyses were conducted in SAS (version 8.02, Statistical
+Application Software Institute, Cary, NC, USA). Analyses
+were done on an intention to treat basis. Ferritin, RBP,
+malaria and parasitemia were log normally distributed, and
+the data were Loge transformed (Ln(value þ 1)).
+Changes in mean Hb, ferritin and RBP were assessed using
+a repeated measures linear regression model to adjust for
+within-subject correlation of the endpoint over time
+(Fitzmaurice et al., 2004). Means were modeled as a
+polynomial function of time. Models were adjusted for the
+baseline value of the outcome. School was included as a
+covariate in all models. Because ferritin and RBP levels are
+influenced by inflammation, models including ferritin or
+RBP as an outcome were adjusted for concurrent CRP level,
+entered into models as a time-varying covariate.
+The difference in the prevalence of anemia between
+treatment groups was assessed using marginal log binomial
+regression (repeated measures logistic regression), and
+expressed as the prevalence ratio at the final follow-up visit,
+adjusted for the presence of anemia at baseline.
+Differences in geometric mean parasite density between
+treatment groups over the course of the study period were
+assessed with a linear mixed effects model for parasitemic
+subjects only. The incidence rates of malaria parasitemia
+(any species) and history of illness due to malaria or other
+causes in the month prior to survey were calculated based on
+time up to the episode, the end of the main intervention
+period or loss to follow-up. Observation time and events
+occurring within 28 days of a treated malaria episode were
+excluded from analysis of the incidence of parasitemia. Rate
+ratios for incidence of malaria and clinical outcomes were
+obtained from a Poisson regression model, controlling for
+confounding factors.
+Factors at baseline were introduced into initial models
+individually to assess possible confounding and/or effect
+modification. The interaction between the effects of iron and
+Weekly iron and vitamin A in adolescent schoolgirls
+T Leenstra et al
+175
+European Journal of Clinical Nutrition
+vitamin A was tested using the log likelihood ratio test.
+When the interaction term was not significant the main
+effect of iron while adjusting for the effect of vitamin A, and
+vice versa, was estimated by fitting above models without
+the interaction term. We assessed whether iron deficiency at
+baseline modified the effects of iron and vitamin A using the
+log likelihood ratio test. Menstruation is one of the most
+important risk factors for iron deficiency anemia (IDA) in
+older teenage girls in this study area (Leenstra et al., 2004),
+and because iron deficiency is difficult to determine in
+practice, we also examined whether the effect of treatment
+on Hb concentration depended on the presence of menarche
+at baseline.
+Results
+Study number and descriptive
+A total of 1615 girls aged 12–18 years were screened in 14
+schools during a 6-week period in April and May 1998.
+Overall, 350 (21.7%) girls were found to have mild/moderate
+anemia (7.0 g dl1 pHb o12.0 g dl1 (WHO, 2001)). Only 6
+(0.4%) girls had severe anemia (Hb o7.0 g dl1 (WHO,
+2001)). Of the 350 anemic girls at screening, 279 were
+enrolled (Figure 1). Loss to follow-up at the end of the study
+was 10.8% (30 of 279) and not different between the
+treatment groups (Figure 1). Baseline characteristics did not
+predict loss to follow-up (data not shown).
+Treatment groups were comparable at baseline (Table 1).
+The mean age was 13.8 (s.d. 1.3) years. The median maturity
+rating (Tanner breast development stage) was 3 (IQ range
+2–4) and 46.8% of the girls had passed menarche. Of the
+girls that were anemic at screening (using Hemocue Hb
+assessment), 30.5% were anemic at start of treatment 6–8
+weeks later (using coulter counter Hb assessment). Baseline
+mean Hb was 12.8 g dl1 (s.d. 1.7). Baseline geometric mean
+ferritin was 13.0 g dl1 (s.d. 7.7) and prevalence of iron
+deficiency (ID; ferritin o12.0 mg l1 (WHO, 2001)) was
+42.3%. Prevalence of VAD was 6.7%. VAD was defined as
+RBP o14.7 mg l1
+, which corresponds with the widely used
+retinol cut-off o0.70 mmol l1 (de Pee and Dary, 2002). A
+quarter of the girls had malaria parasitemia at baseline, a
+third of these had high parasite densities defined as 4500
+parasites per mm3
+. Only one girl presented with symptomatic malaria (presence of malaria parasites with concurrent
+axillary temperature X37.5 1C). Prevalence of stunting
+(height-for-age z-score two s.d.’s below the reference median)
+and underweight (weight-for-age z-score two s.d.’s below the
+reference median) were 4.4 and 4.3%, respectively.
+Hematological response
+The adjusted differences in mean Hb concentration between
+the treatment groups and double placebo after 5 months of
+supplementation were 0.46 g dl1 (0.00, 0.92) for iron and
+vitamin A combined, 0.44 g dl1 (0.01, 0.87) for iron alone
+and 0.14 g dl1 (0.59, 0.31) for vitamin A alone (Figure 2).
+There was no evidence for interaction between the effects
+of iron and vitamin A on Hb concentrations (P-value
+for the iron–vitamin A interaction ¼ 0.89). Subsequent
+models were therefore developed to estimate the main
+effects of iron and vitamin A, while controlling for the effect
+of the other intervention (Table 2). Iron supplementation
+was associated with a 0.52 g dl1 higher mean Hb by 5
+months and a 65% lower prevalence of anemia compared to
+placebo (Table 2). Vitamin A supplementation was not
+associated with a significant difference in mean Hb or
+prevalence of anemia, compared to vitamin A placebo by
+5 months (Table 2).
+Subgroup analysis indicated that the iron status at baseline
+significantly modified the effect of iron supplementation on
+Hb levels (P-value interaction terms o0.0001). Iron supplementation was only effective in individuals who were iron
+deficient at baseline (Table 3). Baseline iron status did not
+modify the effect of vitamin A on Hb (P-value interaction
+term ¼ 0.87).
+At baseline, menstruating girls had a 0.64g dl1 (0.21, 1.07)
+lower Hb compared to girls not yet menstruating (P ¼ 0.004).
+Iron had a clear effect in menstruating girls but not in
+nonmenstruating girls (Table 3; P-value interaction
+term ¼ 0.002). Menstruating girls receiving iron placebo
+(N ¼ 66) had a 1.03 g dl1 (1.53, 0.54) lower Hb level at
+5 months than nonmenstruating girls receiving iron placebo
+(N ¼ 75) (Po0.0001). The above effects were independent
+of differences in iron status at baseline (data not shown).
+Menstruation did not modify the effect of vitamin A on Hb
+(P-value interaction term ¼ 0.83).
+Because of the low prevalence of VAD at baseline there was
+insufficient power to assess whether the effects of iron or
+vitamin A supplementation were modified by baseline
+vitamin A status.
+Impact on ferritin concentrations
+There was no interaction between the effect of iron and
+vitamin A on ferritin concentrations (P-value interaction
+term ¼ 0.35). Three months of iron supplementation
+was associated with a 13.3 mg l1 higher ferritin concentration compared to iron placebo (Table 2). Vitamin A
+supplementation had no effect on ferritin concentrations
+(Table 2).
+Impact on RBP concentrations
+There was no interaction between the effect of iron and
+vitamin A on RBP concentrations (P-value interaction
+term ¼ 0.44). A total of 3 months of vitamin A supplementation had no significant effect on mean RBP concentration
+(Table 2). Similarly, iron supplementation had no effect on
+RBP concentrations at 3 months (Table 2).
+Weekly iron and vitamin A in adolescent schoolgirls
+T Leenstra et al
+176
+European Journal of Clinical Nutrition
+side effects = 1
+moved = 2
+withdrew consent = 0
+absent final survey = 3
+no reason given = 1
+side effects = 1
+moved = 2
+withdrew consent = 0
+absent final survey = 3
+no reason given = 1
+side effects = 0
+moved = 2
+withdrew consent = 1
+absent final survey = 5
+no reason given = 3
+side effects = 0
+moved = 1
+withdrew consent = 0
+absent final survey = 4
+no reason given = 0
+Double placebo
+N = 71
+Completed study
+N = 66
+Vitamin A &
+placebo iron
+N = 70
+Completed study
+N = 59
+Iron &
+placebo vitamin A
+N = 70
+Completed study
+N = 63
+Iron & vitamin A
+N = 68
+Completed study
+N = 61
+Screened
+14 schools
+1615 girls
+Anemic
+70 g/L < Hb < 120g/L
+N = 350
+Randomized
+10 schools
+N = 279
+Excluded
+N = 71
+18 refused
+23 exclusion criteria*
+30 from excl. schools
+T-6 to 8 weeks
+T0
+T5 months
+Figure 1 Trial Profile: subject distribution for a double-blind placebo-controlled trial on the effect of weekly iron and vitamin A on hemoglobin
+(Hb) concentration, and iron status in adolescent schoolgirls in Kisumu city, western Kenya. *Exclusion criteria; 3 developed severe anemia since
+screening, 3 pregnant or pregnancy could not be excluded, 2 concomitant disease (1 sickle cell disease, 1 juvenile arthritis and severe
+malnutrition), 3 moved away since screening, 11 were less than 12 years of age by date of birth, 1 was absent at enrollment for unknown
+reasons.
+Table 1 Baseline characteristics, by treatment group, of 279 adolescent schoolgirls enrolled in a trial of iron and vitamin A supplementation for
+hemoglobin, and iron status in western Kenya
+Covariates Intervention groups
+Iron and vitamin A Iron Vitamin A Placebo
+Age (years); mean (s.d.) 13.8 (1.3) 13.8 (1.3) 13.9 (1.2) 13.8 (1.3)
+Menstruating; no. (%) 33/68 (48.5) 31/70 (44.3) 35/70 (50.0) 31/71 (43.7)
+Hemoglobin (g dl1
+); mean (s.d.) 12.8 (1.9) 12.6 (2.0) 12.8 (1.4) 13.1 (1.5)
+Hemoglobin o12.0 g dl1
+; no. (%) 18/58 (31.0) 22/62 (35.5) 17/59 (28.8) 17/64 (26.6)
+Ferritin (mg l1
+); geometric mean (s.d.) 12.3 (7.2) 13.0 (7.9) 13.9 (7.8) 12.8 (7.8)
+Ferritin o12 mg l1
+; no. (%) 19/43 (44.2) 19/47 (40.4) 21/47 (44.7) 21/52 (40.4)
+CRP (mg l1
+); geometric mean (s.d.) 1.5 (1.0) 1.6 (1.0) 1.6 (1.1) 1.6 (1.0)
+CRP 48.2 mg l1
+; no. (%) 1/43 (2.3) 2/47 (4.3) 3/47 (6.4) 2/52 (3.9)
+RBP (mg l1
+); mean (s.d.) 32.9 (19.4) 34.6 (18.0) 34.8 (15.6) 34.4 (20.0)
+RBP o14.7 mg l1
+; no. (%) 5/52 (9.6) 3/53 (5.7) 5/56 (8.9) 2/62 (3.2)
+Malaria parasite density (mm3
+); geometric mean (s.d.)a 348 (282) 263 (216) 221 (152) 266 (148)
+Any malaria parasitemia; no. (%) 16/51 (31.4) 15/55 (27.3) 9/52 (17.3) 14/55 (25.5)
+Malaria parasitemia 4500 mm3
+; no. (%) 5/51 (9.8) 6/55 (10.9) 3/52 (5.8) 3/55 (5.5)
+Height (cm); mean (s.d.) 156.9 (7.8) 157.0 (9.1) 157.1 (7.8) 158.0 (7.8)
+Weight (kg); mean (s.d.) 43.8 (8.2) 44.8 (10.1) 45.3 (8.4) 44.4 (7.8)
+Abbreviations: s.d., standard deviation; CRP, C-reactive protein; RBP, retinol-binding protein.
+a
+Positive blood smears included only.
+Weekly iron and vitamin A in adolescent schoolgirls
+T Leenstra et al
+177
+European Journal of Clinical Nutrition
+Impact on the incidence of malaria, all-cause morbidity, side
+effects and menstrual abnormalities
+There was no evidence for interaction between the effects of
+iron and vitamin A on any of the malaria outcomes (data not
+shown); main effects incidence risk ratios are given in
+Table 4.
+The monthly follow-up visits indicated that girls in the
+iron-supplemented groups were slightly more likely to be
+parasitemic at active follow-up visits (P ¼ 0.10, Table 4)
+compared to girls who were randomized to receive placebo
+iron. However, geometric mean parasite densities were not
+higher in this group (P ¼ 0.99). Vitamin A supplementation
+did not affect the risk of malaria (Table 4). No differences
+between groups were seen in any other measures of
+morbidity at the monthly follow-up or clinic visits (Table 4).
+Passive surveillance indicated that 32 girls visited the study
+clinic during the follow-up period. The most common
+diagnosis was malaria (diagnosed eight times) followed by
+allergic conjunctivitis (seven times), tonsillitis (six times)
+and gastritis (five times). There was no difference between
+the groups. Anemia was diagnosed only twice; once in a girl
+with malaria and once in a girl with menorrhagia. None of
+the girls presented with severe disease.
+Girls receiving iron were more likely to report constipation
+or dark stools than girls receiving iron placebo (Rate ratio
+2.2 (1.1, 4.4) and 6.4 (1.0, 41.5), respectively). There was no
+difference between groups regarding the occurrence of
+potential side effects as nausea, vomiting or diarrhea (data
+not shown).
+Discussion
+This randomized controlled trial evaluated the effect of
+weekly iron and vitamin A supplementation on hemoglobin
+levels, iron status and morbidity in adolescent schoolgirls in
+urban Kisumu, western Kenya. Five months of weekly iron
+supplementation was associated with a 1.34 g dl1 increase in
+mean hemoglobin concentrations compared to iron placebo,
+but only in girls who were iron deficient at baseline. No
+effect was seen in iron-replete girls. These results are
+consistent with several recent weekly iron supplementation
+12
+12.2
+12.4
+12.6
+12.8
+13
+13.2
+13.4
+13.6
+13.8
+14
+4 8 13 16 21
+Time (weeks)
+ Iron & Vitamin A Iron Vitamin A Double placebo
+∗
+∗ ∗
+∗
+∗
+Figure 2 Repeated measures linear regression analysis of mean
+hemoglobin (Hb) concentration in adolescent schoolgirls in western
+Kenya, by treatment group over a 5-month supplementation period,
+using a polynomial function of time, adjusted for baseline Hb, and
+within-subject correlation. Error bars represent 95% CIs of the mean.
+Subjects were randomized to receive a weekly dose of iron (120 mg
+elemental iron) and vitamin A (25 000 IU), iron and vitamin A
+placebo, vitamin A and iron placebo or double placebo. *Significantly different from double placebo (Po0.05).
+Table 2 Main effects of iron and vitamin A supplementation on hemoglobin, anemia, and iron and vitamin A status in adolescent schoolgirls in western
+Kenya
+Irona (N ¼ 138) Vitamin Ab (N ¼ 138)
+Hemoglobin concentration (g dl1
+) 13.52 12.92
+Difference in means (95% CI)c 0.52 (0.21, 0.82), Po0.001 0.07 (0.38, 0.25), P ¼ 0.68
+Anemia (%) 9.4 27.7
+Prevalence ratio (95% CI)d 0.35 (0.23, 0.55), Po0.0001 1.04 (0.70, 1.55), P ¼ 0.84
+Serum ferritin concentration (mg l1
+) 37.4 22.4
+Difference in means (95% CI)e 13.3 (7.3, 20.3), Po0.0001 1.7 (5.4, 2.7), P ¼ 0.42
+Retinol-binding protein 22.7 26.9
+Difference in means (95% CI)e 2.0 (5.7, 2.4), P ¼ 0.35 2.3 (2.1, 7.4), P ¼ 0.33
+Abbreviation: CI, confidence interval.
+a
+Main effect of iron is compared to iron placebo and adjusted for concurrent vitamin A supplementation.
+b
+Main effect of vitamin A is compared to vitamin A placebo and adjusted for concurrent iron supplementation.
+c
+Difference in means at 5 months, obtained from repeated measures linear regression analysis by treatment group, using a polynomial function of time, adjusted for
+baseline value of the endpoint, within-subject correlation and confounding by school.
+d
+Prevalence ratio at 5 months, obtained from marginal log binomial regression analysis by treatment group, adjusted for baseline prevalence of anemia and
+confounding by school.
+e
+Difference in means at 3 months, obtained as above, adjusted for concurrent C-reactive protein.
+Weekly iron and vitamin A in adolescent schoolgirls
+T Leenstra et al
+178
+European Journal of Clinical Nutrition
+trials in adolescent girls (Ka¨telhut et al., 1996; Tee et al., 1999;
+Kianfar et al., 2000; Zavaleta et al., 2000; Ahmed et al., 2001).
+Weekly vitamin A supplementation was not associated
+with a sustained increase in Hb. It has long been recognized
+that vitamin A is essential for normal hematopoiesis and
+plays a role in the etiology of anemia (Semba and Bloem,
+2002). In a study of iron supplementation for anemic
+vitamin A-depleted individuals, hematological response to
+iron was only observed after vitamin A status was improved
+(Hodges et al., 1978). Recent randomized controlled trials
+that determined the effect of vitamin A in addition to iron
+supplementation for the treatment of anemia showed that
+the combined therapy resulted in significantly better
+hematological recovery than iron supplementation alone
+(Mejia and Chew, 1988; Suharno et al., 1993; Mwanri et al.,
+2000; Ahmed et al., 2001). However, others have failed to
+confirm these findings (Ka¨telhut et al., 1996; Kolsteren et al.,
+1999; Muslimatun et al., 2001; Soekarjo et al., 2004). In our
+study, there was also no evidence that the effect of iron was
+dependent on the concomitant administration of vitamin A.
+The difference between the above named studies is not
+explained by differences in dosage, as most gave daily doses
+between 5000 and 8000IU retinol (that is, 35 000–56 000 IU
+per week). Moreover, one of the studies showed a significantly
+Table 4 Effect of iron and vitamin A supplementation on incidence of malaria, and clinical outcomes in adolescent schoolgirls in western Kenya
+Iron Iron placebo Vitamin A Vitamin A placebo
+Any malaria parasitemia
+Incidence rate; per 1000 person months 175 131 168 136
+Rate ratio (95% CI)a,b 1.33 (0.94, 1.88), P ¼ 0.10 Reference 1.23 (0.88, 1.73), P ¼ 0.24 Reference
+High-density malaria parasitemia
+Incidence rate; per 1000 person months 43 31 42 32
+Rate ratio (95% CI)a,b 1.36 (0.70, 2.63), P ¼ 0.36 Reference 1.29 (0.68, 2.46), P ¼ 0.44 Reference
+Any morbidity
+Incidence rate; per 1000 person months 214 182 202 193
+Rate ratio (95% CI)a,c 1.17 (0.94, 1.47), P ¼ 0.17 Reference 1.05 (0.84, 1.32), P ¼ 0.67 Reference
+Clinical malariad
+Incidence rate; per 1000 person months 11 6 9 7
+Rate ratio (95% CI)a,c 1.87 (0.39, 8.90), P ¼ 0.36 Reference 1.24 (0.62, 2.47), P ¼ 0.77 Reference
+Nonmalarial illness
+Incidence rate; per 1000 person months 208 180 198 189
+Rate ratio (95% CI)a,c 1.15 (0.92, 1.45), P ¼ 0.22 Reference 1.05 (0.83, 1.31), P ¼ 0.70 Reference
+Abbreviation: CI, confidence interval.
+a
+Rate ratios obtained by Poisson regression, adjusted for confounding by school.
+b
+Adjusted for age and baseline parasitemia.
+c
+Monthly follow-up and passive surveillance combined.
+d
+Symptomatic malaria or malaria diagnosed by the study pediatrician.
+Table 3 Effect of iron supplementation on hemoglobin levels by 5 months, stratified by baseline iron status and menstrual status in adolescent
+schoolgirls in western Kenya
+Iron deficient at baselinea (N ¼ 80) Iron replete at baseline (N ¼ 109)
+Hemoglobin concentration (g l1
+)
+Difference in means (95% CI)b 1.34 (0.79, 1.88), Po0.0001 0.20 (0.59, 0.18), P ¼ 0.30
+Menstruating at baselinec (N ¼ 149) Not menstruating at baseline (N ¼ 130)
+Hemoglobin concentration (g l1
+)
+Difference in means (95% CI)b 1.07 (0.60, 1.55), Po0.0001 0.10 (0.28, 0.49), P ¼ 0.59
+Abbreviation: CI, confidence interval.
+a
+Iron–iron deficiency interaction P-value o0.0001. b
+Difference in means between iron and iron placebo, obtained from repeated measures linear regression analysis, using a polynomial function of time, adjusted for
+baseline hemoglobin, the effect of the vitamin A, within-subject correlation and confounding by school.
+c
+Iron–menstruation interaction term P ¼ 0.004.
+Weekly iron and vitamin A in adolescent schoolgirls
+T Leenstra et al
+179
+European Journal of Clinical Nutrition
+enhanced effect in adolescent girls even with a relatively low
+weekly dose of 8000 IU retinol for 12 weeks, which was lower
+than our weekly dose of 25 000 IU (Ahmed et al., 2001).
+Conversely, the differences between the above named
+studies might be explained by differences in baseline vitamin
+A status between study populations, in studies where
+combined supplementation was more efficacious than iron
+alone, there was a high (430%) prevalence of baseline VAD
+(retinol o0.70 mmol l1
+) (Suharno et al., 1993; Ahmed et al.,
+2001), whereas in studies where combined supplementation
+was not effective there was a low (o15%) prevalence of VAD
+(Ka¨telhut et al., 1996; Kolsteren et al., 1999; Soekarjo et al.,
+2004). Thus the lack of a sustained effect of vitamin A on
+hemoglobin levels and the lack of interaction between iron
+and vitamin A in our study likely reflects the low prevalence
+of VAD in this age group; only 6.7% of the girls were defined
+as VAD at enrollment.
+The lack of a hematological response following iron
+supplementation in nonmenstruating girls suggests that
+iron deficiency is not a main cause of anemia during
+premenarche in this setting. This is consistent with our
+previous observations in this same age group in neighboring
+Bondo district, which implicated malaria and schistosomiasis as potential causes of anemia in young adolescents (12–13
+years), but not in older menstruating girls (14–18 years)
+(Leenstra et al., 2004). In the older girls heavy menstruation
+was the only risk factor identified, presumably because
+resistance to parasitic infection improves with age and
+pubertal development (Kurtis et al., 2001; Leenstra et al.,
+2003b). Furthermore, insecticide-treated bed nets were
+found to reduce the prevalence of malaria-associated anemia
+in young schoolgirls aged 12–13 years, but not in the older
+girls (Leenstra et al., 2003a). These combined results suggest
+that the relative contribution of iron deficiency as a cause of
+anemia is likely to be greatest in menstruating girls and that
+they are the demographic group most likely to benefit from
+iron supplementation programs in schools. An additional
+explanation could be that iron absorption is upregulated in
+menstruating girls in anticipation of loss through menstruation and to facilitate growth.
+Despite the well-recognized public health burden of
+anemia and the beneficial effects of iron supplementation,
+the use of iron therapy remains controversial in many
+malaria-endemic countries because of the concerns that iron
+therapy exacerbates infections (INACG Consensus Statement, 1999; Oppenheimer, 2001). A meta-analysis by the
+International Nutritional Anemia Consultative Group concluded that the overall increased risk of malaria parasitemia
+is small and does not outweigh the hematological benefits of
+iron supplementation (INACG Consensus Statement, 1999).
+However, recent findings that iron supplementation is
+associated with increased mortality and hospital admission
+in young preschool children in an area with intense malaria
+transmission has refueled the debate about the role of
+universal iron supplementation in malarious areas (Sazawal
+et al., 2006). In the current study, iron supplementation was
+associated with increased incidence of malaria parasitemia
+(Rate ratio 1.33 (0.94–1.88)), independent of age or baseline
+iron status. Although this was not statistically significant, it
+is in line with the findings from the previous meta-analysis
+(INACG Consensus Statement, 1999). A larger increase in
+clinical malaria (fever and parasitemia) was observed in the
+iron-supplemented group (Rate ratio 1.87 (0.39–8.90)), but
+the CIs were wide and a more substantial increase cannot be
+excluded. There was no evidence that weekly iron supplementation increased the risk of all-cause morbidity.
+Although, our study is too small to provide conclusive
+evidence on the risk of malaria associated with iron
+supplementation, the high degree of acquired immunity to
+malaria in older (menstruating) teenage girls (Kurtis et al.,
+2001; Leenstra et al., 2003b) would suggest that the public
+health effects of any increased risk of malaria are likely to be
+much smaller than in young preschool children. For
+example the absolute risk of clinical malaria in the teenage
+girls in this study was very low and all clinical episodes were
+mild, whereas in this same population, malaria is one of the
+main causes of death in infants (Phillips-Howard et al.,
+2003).
+We conclude that school-based weekly iron supplementation in girls aged 12–18 is well tolerated and results in
+substantial increases in hemoglobin concentrations that
+outweigh the possible inherent risks caused by malaria but
+only in iron-deficient and menstruating girls, and not in
+iron-replete or nonmenstruating girls. This would argue in
+favor of targeted rather than universal iron supplementation
+in adolescent schoolgirls in malarious areas. However,
+screening for iron deficiency, or targeting iron supplementation to schoolgirls that admit to being post-menarche is
+unlikely to be feasible, cost effective or culturally acceptable.
+Alternatively, targeting the highest risk age group and the
+use of integrated approaches that combine universal iron
+supplementation with malaria prevention measures, for
+example, through use of insecticide-treated nets, could be
+considered. VAD was rare and weekly vitamin A supplementation, alone, or combined with iron, did not result in a
+sustained increase in hemoglobin. Further research is
+required to determine the long-term effects of iron alone,
+or combined with malaria prevention in schoolgirls of
+reproductive age for the prevention of anemia-related
+adverse outcomes in adolescent pregnancies.
+Acknowledgements
+We are grateful to all the schoolgirls, parents and teachers
+who participated in the study. We are indebted to Jenifer
+Matara and other staff from KEMRI for all their hard work
+and dedication to this project. We thank Laboratory and
+Allied Limited, Nairobi, Kenya for donating the study
+supplements. We thank Dr Margaret Oloo for her advice
+and contributions as the study pediatrician. We thank
+Meghna Desai and Lisa Mirel (Centers for Disease Control)
+Weekly iron and vitamin A in adolescent schoolgirls
+T Leenstra et al
+180
+European Journal of Clinical Nutrition
+for their statistical support. We thank Julie Solomon for her
+assistance in developing and running the multiplex bead
+assays. We thank the director of the Kenya Medical Research
+Institute (KEMRI) for his permission to publish this work.
+This study was funded by The Netherlands Foundation for
+the Advancement of Tropical Research (WOTRO).
+References
+ACC/SCN (1997). Third Report on the World Nutrition Situation. ACC/
+SCN: Geneva.
+Ahmed F, Khan MR, Jackson AA (2001). Concomitant supplemental
+vitamin A enhances the response to weekly supplemental iron and
+folic acid in anemic teenagers in urban Bangladesh. Am J Clin Nutr
+74, 108–115.
+Binka FN, Ross DA, Morris SS, Kirkwood BR, Arthur P, Dollimore N
+et al. (1995). Vitamin A supplementation and childhood malaria
+in northern Ghana. Am J Clin Nutr 61, 853–859.
+Bothwell TH (2000). Iron requirements in pregnancy and strategies
+to meet them. Am J Clin Nutr 72, 257S–264S.
+Brabin L, Brabin BJ (1992). The cost of successful adolescent growth
+and development in girls in relation to iron and vitamin A status.
+Am J Clin Nutr 55, 955–958.
+Brabin L, Verhoeff FH, Kazembe P, Brabin BJ, Chimsuku L, Broadhead
+R (1998). Improving antenatal care for pregnant adolescents in
+southern Malawi. Acta Obstet Gynecol Scand 77, 402–409.
+Coutinho HM, McGarvey ST, Acosta LP, Manalo DL, Langdon GC,
+Leenstra T et al. (2005). Nutritional status and serum cytokine
+profiles in children, adolescents, and young adults with Schistosoma japonicum-associated hepatic fibrosis, in Leyte, Philippines.
+J Infect Dis 192, 528–536.
+de Pee S, Dary O (2002). Biochemical indicators of vitamin A
+deficiency: serum retinol and serum retinol binding protein. J Nutr
+132, 2895S–2901S.
+DeMaeyer E, Adiels-Tegman M (1985). The prevalence of anaemia in
+the world. World Health Stat Q 38, 302–316.
+Fitzmaurice GM, Laird NM, Ware JH (2004). Applied Longitudinal
+Analysis. John Wiley: Hoboken.
+Fleming AF (1987). Anaemia as a world health problem. In:
+Weatherall DJ, Ledingham JGG, Warrell DA (eds). Oxford Textbook
+of Medicine. Oxford University Press: Oxford. pp 1972–1979.
+Friis H, Mwaniki D, Omondi B, Muniu E, Magnussen P, Geissler W
+et al. (1997). Serum retinol concentrations and Schistosoma
+mansoni, intestinal helminths, and malarial parasitemia: a crosssectional study in Kenyan preschool and primary school children.
+Am J Clin Nutr 66, 665–671.
+Gamble MV, Ramakrishnan R, Palafox NA, Briand K, Berglund L,
+Blaner WS (2001). Retinol binding protein as a surrogate measure
+for serum retinol: studies in vitamin A-deficient children from the
+Republic of the Marshall Islands. Am J Clin Nutr 73, 594–601.
+Glynn JR, Carael M, Auvert B, Kahindo M, Chege J, Musonda R et al.
+(2001). Why do young women have a much higher prevalence of
+HIV than young men? A study in Kisumu, Kenya and Ndola,
+Zambia. Aids 15, S51–S60.
+Harrison KA (1985). Child-bearing, health and social priorities: a
+survey of 22 774 consecutive hospital births in Zaria, Northern
+Nigeria. Br J Obstet Gynaecol 92, 1–119.
+Hodges RE, Sauberlich HE, Canham JE, Wallace DL, Rucker RB, Mejia
+LA et al. (1978). Hematopoietic studies in vitamin A deficiency. Am
+J Clin Nutr 31, 876–885.
+INACG Consensus Statement (1999). Safety of Iron Supplementation
+Programs in Malaria-Endemic Regions. International Life Sciences
+Institute: Washington DC.
+Ka¨telhut A, Schultink W, Angeles I, Gross R, Pietrzik K (1996). The
+effect of weekly iron supplementation with folic acid, vitamin A,
+vitamin C on iron status of Indonesian adolescents. Asia Pac J Clin
+Nutr 5, 181–185.
+Kianfar H, Kimiagar M, Ghaffarpour M (2000). Effect of daily and
+intermittent iron supplementation on iron status of high school
+girls. Int J Vitam Nutr Res 70, 172–177.
+Kolsteren P, Rahman SR, Hilderbrand K, Diniz A (1999). Treatment
+for iron deficiency anaemia with a combined supplementation of
+iron, vitamin A and zinc in women of Dinajpur, Bangladesh. Eur J
+Clin Nutr 53, 102–106.
+Kurtis JD, Mtalib R, Onyango FK, Duffy PE (2001). Human resistance
+to Plasmodium falciparum increases during puberty and is predicted
+by dehydroepiandrosterone sulfate levels. Infect Immun 69,
+123–128.
+Leenstra T, Kariuki SK, Kurtis JD, Oloo AJ, Kager PA, ter Kuile FO
+(2004). Prevalence and severity of anemia and iron deficiency:
+cross-sectional studies in adolescent schoolgirls in western Kenya.
+Eur J Clin Nutr 58, 681–691.
+Leenstra T, Petersen IT, Kariuki SK, Oloo AJ, Kager PA, ter Kuile FO
+(2005). Prevalence and severity of malnutrition and age at
+menarche; cross-sectional studies in adolescent schoolgirls in
+western Kenya. Eur J Clin Nutr 59, 41–48.
+Leenstra T, Phillips-Howard PA, Kariuki SK, Hawley WA, Alaii JA,
+Rosen DH et al. (2003a). Permethrin-treated bed nets in the
+prevention of malaria and anemia in adolescent schoolgirls in
+western Kenya. Am J Trop Med Hyg 68, 86–93.
+Leenstra T, ter Kuile FO, Kariuki SK, Nixon CP, Oloo AJ, Kager PA et al.
+(2003b). Dehydroepiandrosterone sulfate levels associated with
+decreased malaria parasite density and increased hemoglobin
+concentration in pubertal girls from western Kenya. J Infect Dis
+188, 297–304.
+Mejia LA, Chew F (1988). Hematological effect of supplementing
+anemic children with vitamin A alone and in combination with
+iron. Am J Clin Nutr 48, 595–600.
+Michaelsson G, Vahlquist A, Juhlin L, Mellbin T, Bratt L (1976). Zinc
+and vitamin A: serum concentrations of zinc and retinol-binding
+protein (RBP) in healthy adolescents. Scand J Clin Lab Invest 36,
+827–832.
+Muslimatun S, Schmidt MK, Schultink W, West CE, Hautvast JA,
+Gross R et al. (2001). Weekly supplementation with iron and
+vitamin A during pregnancy increases hemoglobin concentration
+but decreases serum ferritin concentration in Indonesian pregnant
+women. J Nutr 131, 85–90.
+Mwanri L, Worsley A, Ryan P, Masika J (2000). Supplemental vitamin
+A improves anemia and growth in anemic school children in
+Tanzania. J Nutr 130, 2691–2696.
+Oppenheimer SJ (2001). Iron and its relation to immunity
+and infectious disease. J Nutr 131, 616S–633S; discussion
+633S–635S.
+Ouma P, Parise ME, Hamel MJ, Ter Kuile FO, Otieno K, Ayisi JG et al.
+(2006). A randomized controlled trial of folate supplementation
+when treating malaria in pregnancy with sulfadoxine-pyrimethamine. PLoS Clin Trials 1, e28.
+Phillips-Howard PA, Nahlen BL, Kolczak MS, Hightower AW, ter Kuile
+FO, Alaii JA et al. (2003). Efficacy of permethrin-treated bed nets in
+the prevention of mortality in young children in an area of high
+perennial malaria transmission in western Kenya. Am J Trop Med
+Hyg 68, 23–29.
+Robert V, Macintyre K, Keating J, Trape JF, Duchemin JB, Warren M
+et al. (2003). Malaria transmission in urban sub-Saharan Africa.
+Am J Trop Med Hyg 68, 169–176.
+Sazawal S, Black RE, Ramsan M, Chwaya HM, Stoltzfus RJ, Dutta A
+et al. (2006). Effects of routine prophylactic supplementation with
+iron and folic acid on admission to hospital and mortality in
+preschool children in a high malaria transmission setting:
+community-based, randomised, placebo-controlled trial. Lancet
+367, 133–143.
+Semba RD, Bloem MW (2002). The anemia of vitamin A
+deficiency: epidemiology and pathogenesis. Eur J Clin Nutr 56,
+271–281.
+Weekly iron and vitamin A in adolescent schoolgirls
+T Leenstra et al
+181
+European Journal of Clinical Nutrition
+Shankar AH, Genton B, Semba RD, Baisor M, Paino J, Tamja S et al.
+(1999). Effect of vitamin A supplementation on morbidity due to
+Plasmodium falciparum in young children in Papua New Guinea: a
+randomised trial. Lancet 354, 203–209.
+Soekarjo DD, Pee Sd S, Kusin JA, Schreurs WH, Schultink W, Muhilal
+et al. (2004). Effectiveness of weekly vitamin A (10 000 IU) and iron
+(60 mg) supplementation for adolescent boys and girls through
+schools in rural and urban East Java, Indonesia. Eur J Clin Nutr 58,
+927–937.
+Stoltzfus RJ (2001). Iron-deficiency anemia: reexamining the nature
+and magnitude of the public health problem. Summary: implications for research and programs. J Nutr 131, 697S–700S; discussion
+700S–701S.
+Suharno D, West CE, Muhilal, Karyadi D, Hautvast JG (1993).
+Supplementation with vitamin A and iron for nutritional anaemia
+in pregnant women in West Java, Indonesia. Lancet 342,
+1325–1328.
+Tanner J (1962). Growth at Adolescence. Blackwell Scientific Publications: Oxford.
+Tee ES, Kandiah M, Awin N, Chong SM, Satgunasingam N,
+Kamarudin L et al. (1999). School-administered weekly iron-folate
+supplements improve hemoglobin and ferritin concentrations in
+Malaysian adolescent girls. Am J Clin Nutr 69, 1249–1256.
+van Eijk AM, Ayisi JG, ter Kuile FO, Misore A, Otieno JA, Kolczak MS
+et al. (2001). Human immunodeficiency virus seropositivity and
+malaria as risk factors for third-trimester anemia in asymptomatic
+pregnant women in western Kenya. Am J Trop Med Hyg 65, 623–630.
+Villamor E, Fawzi WW (2000). Vitamin A supplementation: implications for morbidity and mortality in children. J Infect Dis 182
+(Suppl 1), S122–S133.
+WHO (1998). Safe Vitamin A Dosage During Pregnancy and Lactation:
+Recommendations and Report of a Consultation. NUT/98.4. World
+Health Organization/Nutrition Programme: Geneva.
+WHO (2001). Iron Deficiency Anaemia: Assessment, Prevention and
+Control. World Health Organization: Geneva.
+Zavaleta N, Respicio G, Garcia T (2000). Efficacy and acceptability of
+two iron supplementation schedules in adolescent school girls in
+Lima, Peru. J Nutr 130, 462S–464S.
+Weekly iron and vitamin A in adolescent schoolgirls
+T Leenstra et al
+182
+European Journal of Clinical Nutrition

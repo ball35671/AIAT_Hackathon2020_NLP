@@ -1,0 +1,735 @@
+Impact of a Pharmacist-Led Warfarin Self-Management
+Program on Quality of Life and Anticoagulation Control:
+A Randomized Trial
+Lucie Verret, B.Pharm., M.Sc., Justine Couturier, B.Pharm., M.Sc., Andre´anne Rozon, B.Pharm., M.Sc.,
+Sarah Saudrais-Janecek, B.Pharm., M.Sc., Ame´lie St-Onge, B.Pharm., M.Sc., Angela Nguyen, B.Pharm.,
+M.Sc., Arse`ne Basmadjian, M.D., Simon Tremblay, B.Pharm., M.Sc., Denis Brouillette, B.Pharm., D.P.H.,
+and Simon de Denus, B.Pharm., M.Sc., Ph.D.
+Study Objective. To evaluate the impact of a pharmacist-led warfarin patient
+self-management program on quality of life and anticoagulation control
+compared with management in a physician-led specialized anticoagulation
+clinic.
+Design. Prospective, randomized, controlled, open-label trial.
+Setting. Tertiary care academic medical center.
+Patients. A total of 114 patients aged 18–75 years who were followed at a specialized anticoagulation clinic, had received warfarin for at least 6 months,
+and were expected to continue warfarin for a minimum of 4 months.
+Intervention. All patients attended an educational session on anticoagulation
+provided by a pharmacist. Patients randomized to the self-management
+group (58 patients) also received practical training to use the CoaguChek
+XS device and a self-management dosing algorithm. Patients in the control
+group (56 patients) continued to undergo standard management at the
+anticoagulation clinic.
+Measurements and Main Results. Patients completed a validated quality-oflife questionnaire and the validated Oral Anticoagulation Knowledge test
+at the beginning and end of the study. The quality of anticoagulation control was evaluated by using the time spent in therapeutic range. After 4
+months of follow-up, a significant improvement in the self-management
+group was observed compared with the control group in four of the five
+quality-of-life topics (p<0.05). Improvements in knowledge were observed
+in both groups after the training session and persisted after 4 months
+(p<0.05 for all). The time spent in the therapeutic range (80.0% in the
+self-management group vs 75% in the control group, p=0.79) and in the
+extended therapeutic range ([target international normalized ratio ± 0.3]
+93.2% in the self-management group vs 91.1% in the control group,
+p=0.30) were similar between groups.
+Conclusion. A self-management warfarin program led by pharmacists
+resulted in significant improvement in the quality of life of patients receiving warfarin therapy as well as a reduction in the time required for anticoagulation monitoring, while maintaining a level of anticoagulation control
+similar to a high-quality specialized anticoagulation clinic.
+O RIGINAL R ESEARCH A RTICLES
+Key Words: warfarin, anticoagulation, quality of life, pharmacist,
+self-management.
+(Pharmacotherapy 2012;32(10):871–879)
+Warfarin remains the most prescribed oral
+anticoagulant in North America.1 Unfortunately,
+warfarin requires frequent monitoring of the
+international normalized ratio (INR) to maximize its efficacy and safety.2 Although anticoagulants that do not require INR monitoring have
+been proposed as alternatives to warfarin, their
+efficacy and cost-effectiveness remain to be demonstrated in the context of optimal warfarin use
+and for many indications.3
+With the emergence of portable monitoring
+devices, patients have the opportunity to perform INR self-testing and warfarin self-management. With the self-testing approach, patients
+measure their INR and report the results to their
+health care provider who adjusts the warfarin
+dose accordingly. With the self-management
+approach, patients measure their own INR and
+also perform their own dose adjustments. These
+novel approaches have yet to be widely adopted
+in North America.4, 5
+Many studies have reported improvements in
+the quality of oral anticoagulation with self–testing and self-management approaches, with possible improvements in clinical outcomes.6, 7
+European data suggest that both approaches
+result in improvements in quality of life,8–13
+although data specific to self-management are
+not available in North America.
+Finally, although extensive data have
+demonstrated that pharmacists in anticoagulation clinics lead to improvements in the quality
+of anticoagulation therapy and monitoring,14, 15
+to our knowledge, no study has tested the
+impact of a pharmacist-led self-management
+program.
+Thus, the objective of this study was to
+evaluate the impact of a pharmacist-led patient
+self-management program on quality of life and
+anticoagulation control in patients requiring
+chronic warfarin therapy compared with
+standard treatment in a physician-managed
+specialized anticoagulation clinic.
+Methods
+Study Design
+In this prospective, randomized, controlled,
+open-label trial, patients were randomized in a
+1:1 ratio to the self-management group, which
+used the CoaguChek XS (Roche Diagnostics
+Canada, Laval, Canada) device to monitor their
+INRs, or the control group, which consisted of
+standard management at the specialized anticoagulation clinic of the Montreal Heart Institute
+(Montreal, Canada). The validity of the CoaguChek XS compared with traditional laboratory
+testing has been reported previously.16, 17 Institutional review board approval was obtained for
+the research protocol. The randomization list
+was generated by using permuted random blocks
+of sizes four and six. This list was generated
+using the PLAN procedure in SAS, version 9.1
+(SAS Institute Inc., Cary, NC), by the Montreal
+Heart Institute Coordinating Center biostatistics
+department. All patients provided informed consent to participate in the study. The trial was
+registered at ClinicalTrials.gov (ClinicalTrials.
+gov registry number NCT01033279).
+Patient Population
+Patients were eligible for the study if they
+were followed at the Montreal Heart Institute
+anticoagulation clinic, were receiving warfarin
+for at least 6 months, and were expected to continue warfarin for a minimum of 4 months.
+Patients were required to be aged 18–75 years,
+and their last two INRs had to be 1.5–4.0 for a
+target INR of 2.0–3.0, or 2.0–4.0 for a target
+From the Departments of Pharmacy (Ms. Verret, Ms.
+Couturier, Ms. Rozon, Ms. Saudrais-Janecek, Ms. St-Onge,
+Ms. Nguyen, Mr. Tremblay, Mr. Brouillette and Dr. de
+Denus) and Medicine (Dr. Basmadjian), Montreal Heart
+Institute–Universite´ de Montre´al, and the Faculties of Pharmacy (Dr. de Denus) and Medicine (Dr. Basmadjian), Universite´ de Montre´al, Montreal, Quebec, Canada.
+Dr. de Denus was supported by the Fonds de la Recherche en Sante´ du Que´bec and the Universite´ de Montre´al
+Beaulieu-Saucier Chair in Pharmacogenomics.
+Presented as an abstract at the Anticoagulation Forum’s
+11th National Conference on Anticoagulant Therapy, Boston, Massachusetts, May 5–7, 2011.
+For reprints, visit https://caesar.sheridan.com/reprints/
+redir.php?pub=10089&acro=PHAR. For questions or comments, contact Lucie Verret, B.Pharm., M.Sc., Pharmacy
+Department, or Simon de Denus, B.Pharm., M.Sc., Ph.D.,
+Research Center, Montreal Heart Institute, 5000 Belanger
+Street, Montreal, Quebec H1T 1C8, Canada; e-mail:
+lucie.verret@icm-mhi.org or simon.dedenus@icm-mhi.org.
+872 PHARMACOTHERAPY Volume 32, Number 10, 2012
+INR of 2.5–3.5. Patients were excluded if they
+had a hypercoagulable condition, including
+active cancer; had an active or recent major
+bleeding event in the last 3 months; experienced
+a recent cardiovascular event or surgery; or had
+a cognitive or physical impairment limiting their
+comprehension or motor skills.
+Study Protocol
+On day 1, all patients attended a 3-hour educational lecture on anticoagulation provided by
+a pharmacist (Figure 1). During this didactic
+session, the patients received information on
+anticoagulation treatment and monitoring, as
+well as anticoagulation self-management. Patients completed a validated quality-of-life questionnaire9, 10 at the beginning of the session, as
+well as the validated Oral Anticoagulation
+Knowledge (OAK) test18 to test their knowledge
+about anticoagulation. Patients were then randomized to continue their management at the
+anticoagulation clinic (control group) or to
+switch to self-management (self-management
+group). Patients randomized to the control
+group received no further training. Patients randomized to the self-management group immediately received practical training to use the
+CoaguChek XS device and the self-management
+algorithm developed by the investigators
+(Appendix S1). This included instructions on
+the frequency of INR monitoring, specific recommendations on what to do in the case of high
+or low INR, how and when to communicate
+with the pharmacists in the self-management
+program, how to use the device, and the
+patient’s responsibility in the program. The session was concluded with clinical scenarios, during which patients had to apply their
+knowledge. They returned 1 week later to validate their use of the device and the algorithm.
+Patients who had difficulty using the device or
+algorithm at the second visit were invited to an
+additional visit. After this third visit, if the
+difficulties persisted, the patient would not have
+been allowed to undergo self-management.
+On a weekly basis, patients in the self-management group monitored their INR and
+adjusted their dose of warfarin according to the
+algorithm. Through a voicemail message,
+patients were required to communicate their
+INR result and any adjustment performed. The
+patient was contacted if no telephone call was
+received on the expected day, or if an error in
+management occurred. If an INR fell outside the
+algorithm limits (  1.5 or  4.5 for a target
+INR of 2.0–3.0, or  2.2 or  5.0 for a target
+INR of 2.5–3.5), the dose was adjusted by the
+pharmacist. Each week patients also had to complete a pre-INR questionnaire to identify new
+factors that could affect their INR such as the
+addition of prescription or nonprescription
+drugs, natural health products, new health
+issues, missed doses, and changes in diet. In the
+presence of such factors, patients were required
+to inform the pharmacist of this information
+before making any dose adjustment. Patients in
+the self-management group recorded their INR,
+daily doses of warfarin, and adverse events. All
+patients were seen again after 4 months to
+complete the OAK test and the quality-of-life
+questionnaire. The INR results and dose adjustments from patients in the control group were
+collected directly from the anticoagulation clinic
+database.
+Study End Points
+The primary end point of the study was anticoagulation-related quality of life, measured with
+a previously developed and validated questionnaire, which includes 32 statements covering
+five sociopsychological topics: general treatment
+satisfaction, self-efficacy, daily hassles, psychological distress, and strained social network.9, 10
+Briefly, general treatment satisfaction measures
+Figure 1. Schematic of the study design illustrating the
+different aspects of the study after patient inclusion. The
+didactic session included information on general
+knowledge of oral anticoagulation. The practical session
+included training specific to the use of the CoaguChek XS
+device and use of the self-management algorithm. During
+the validation visit, the understanding of the technique of
+the device was validated, and a simulation exercise was
+performed to validate the understanding of the algorithm.
+OAK = Oral Anticoagulation Knowledge Test; QOL =
+Quality-of-Life questionnaire.
+PHARMACIST-LED WARFARIN SELF-MANAGEMENT PROGRAM Verret et al 873
+whether a patient feels more content with
+greater self-management of oral anticoagulation
+therapy. The self-efficacy portion of the
+questionnaire reflects patient self-confidence in
+dealing with challenging environmental demands
+by taking adaptive action. The daily hassles portion of the questionnaire is related to how the
+cost and benefit of the intervention affect the
+patient’s daily life. General psychological distress
+provides information regarding the general
+psychological burden associated with a patient’s
+oral anticoagulation. Finally, the strained social
+network focuses on the quality of the social
+support. Each domain is evaluated using a
+graded scale ranging from a score of 1 (total
+disagreement) to 6 (total agreement). Higher
+scores for self-efficacy and general treatment
+satisfaction, and lower scores for daily hassles,
+psychological distress, and strained social network are indicative of better quality of life.
+Many secondary end points were evaluated.
+Knowledge regarding oral anticoagulation was
+compared between groups at baseline, after the
+didactic session, and at the end of the study
+using the OAK test.18 The quality of anticoagulation control was evaluated using the time spent
+in therapeutic range, and the time spent within
+the extended therapeutic range (target INR ±
+0.3) and outside the critical INR value (INR <
+1.5 or > 5), all calculated with the Rosendaal
+method.19 We recorded the average time
+required for patients to monitor their INR. For
+the self-management group, this consisted of the
+time spent measuring the INR with the device
+and performing dose adjustments. In the control
+group, it consisted of the average time required
+to travel to and from the anticoagulation clinic
+and the time spent at the clinic, estimated by
+patient self-report at the beginning of the study.
+We also recorded all adverse events. The severity of bleeding and thromboembolic events was
+classified as previously described.20 Briefly, these
+complications were considered minor if they
+were not associated with costs or medical consequences (e.g., epistaxis), serious if they required
+treatment or medical evaluation (e.g., gastrointestinal bleeding), life-threatening (e.g., requiring surgical intervention), or fatal.20
+Statistical Analysis
+The sample size was based on previously published data.9 To attain 80% power and an a of
+0.05 compared with a control group, we calculated that eight patients in the self-management
+group were required to observe an improvement
+for the self-efficacy topic, 16 patients for daily
+hassles, 22 for strained social network, 94 for
+treatment satisfaction, and 184 for psychological
+distress. For feasibility reasons, we chose a study
+sample size powered to demonstrate differences
+in the first four aforementioned topics of quality
+of life. In order to compensate for a possible loss
+to follow-up, the number was increased to 120
+patients. Enrollment was stopped after inclusion
+of 114 patients due to limited resources and
+because it was expected that more than the
+required 94 patients would complete the study.
+Continuous values are presented as
+mean ± SD when appropriate. Categoric variables are presented as numbers and percentages.
+A t test for independent samples was used to
+compare the mean values between groups.
+Changes from baseline within one group were
+calculated using a paired t test. For categoric
+variables, a v2 method was used. To compare
+the time spent in the therapeutic INR range or
+outside the critical INR range, the method
+previously proposed by Rosendaal was used.19
+Results
+Between November 2009 and January 2010,
+207 patients were screened for participation in
+the study. Of those, 93 were excluded; reasons
+for exclusion are presented in Figure 2. Hence,
+114 patients were randomized: 58 to the selfmanagement group and 56 to the control group.
+The last date of 4-month follow-up occurred on
+May 17, 2010. Baseline characteristics of the
+Figure 2. Schematic of the patient selection process. INR =
+international normalized ratio.
+874 PHARMACOTHERAPY Volume 32, Number 10, 2012
+study population are presented in Table 1.
+Although there was no statistically significant
+difference between the groups at baseline, there
+was a trend for a higher proportion of patients
+in the self-management group to have a target
+INR of 2.5–3.5 (p=0.06). Patients consisted
+mainly of men (68%), with a mean ± SD age of
+57.7 ± 10.4 years. The majority of patients
+received warfarin for atrial fibrillation or a prosthetic heart valve. Patients had been treated with
+warfarin for 7.5 ± 6.3 years before enrollment. A
+total of 34.2% of the patients had a high-school
+diploma or less as the highest degree earned. No
+patients were lost to follow-up. In the self-management group, warfarin was discontinued after
+3.3 months in one patient after a successful
+cardioversion.
+Quality of Life
+Data on quality of life at baseline and followup were incomplete or missing for two patients
+in the self-management group and three patients
+in the control group. Both groups were comparable with regard to quality of life topics at baseline (Table 2). After 4 months, treatment
+satisfaction significantly improved in the selfmanagement group compared with the control
+group (p<0.001). Daily hassles, psychological
+distress, and a strained social network all significantly decreased in the self-management group
+compared to the control group (p=0.024,
+p=0.029, and p<0.001, respectively). Self-efficacy
+increased in both groups (p<0.05), but the difference between the groups was not significant.
+Anticoagulation Control
+The number of INRs measured/patient in the
+self-management group was greater than in the
+control group (17.4 ± 1.3 vs 4.0 ± 1.5, p<0.001
+[Table 3]). Intervention by a pharmacist was
+required for 5.95% of the INRs performed in the
+self-management group because values fell outside the management algorithm. In the self-management group, after a dose adjustment using
+the algorithm was made after a nontherapeutic
+INR, the mean proportion of the next INRs/
+patient that were in the therapeutic range was
+73.9 ± 24.5%, whereas 14.6 ± 20% were supratherapeutic and 11.5 ± 16.1% were subtherapeutic. In the control group, these values were
+67.4 ± 34.8%, 14.0 ± 24.9%, and 18.6 ± 27.7%,
+respectively. The mean proportion of therapeutic
+INRs/patient after a dose adjustment was not significantly different between groups (p=0.44),
+nor was the total proportion of therapeutic INRs
+after a nontherapeutic INR in each group: 157
+(64.1%) of 245 patients in the self-management
+group versus 43 (54.4%) of 79 patients in the
+control group (p=0.12). As a post hoc analysis,
+we evaluated the number of errors that occurred
+when patients chose a dose for the upcoming
+week that led to an intervention by the pharmacist. We found four such errors, including two
+when the patient was in the therapeutic range
+and thus did not require a dose adjustment.
+Similar anticoagulation control was observed
+in both groups with regard to the mean time
+spent within therapeutic INR range (p=0.79), in
+the extended therapeutic INR range (p=0.30),
+and outside the critical INR values (p=0.46)
+(Table 3). Less time was dedicated to monitoring each INR in the self-management group
+compared with the control group (5.3 ± 2.6 vs
+158.0 ± 67.8 min, p<0.001). Also, less total time
+was dedicated to anticoagulation monitoring
+Table 1. Baseline Characteristics of the Study Patients
+Characteristic
+Self-Management
+Group (n=58)
+Control Group
+(n=56)
+Age (yrs) 58.4 ± 10.1 57.0 ± 10.9
+Male 39 (67.2) 39 (69.6)
+Highest academic
+degree completed
+College or university 40 (69.0) 35 (62.5)
+High school 16 (27.6) 21 (37.5)
+Grade school 2 (3.4) 0 (0)
+Treatment
+duration (yrs)
+8.0 ± 6.6 7.0 ± 6.1
+Time spent on
+anticoagulation
+(min/test)
+150.9 ± 69.4 157.0 ± 68.2
+Warfarin dose
+(mg/wk)
+43.2 ± 17.0 39.7 ± 13.6
+Target INR
+2.0–3.0 28 (48.3) 37 (66.1)
+2.5–3.5 30 (51.7) 19 (33.9)
+Indication for
+anticoagulation
+Atrial fibrillation
+or flutter
+25 (43.1) 33 (58.9)
+Prosthetic heart
+valvea
+30 (51.7) 18 (32.1)
+Other 3 (5.2) 5 (8.9)
+Treatment with
+antiplatelets agents
+Aspirin 10 (17.2) 16 (28.6)
+Clopidogrel 0 (0) 1 (1.8)
+Data are mean ± SD or no. (%) of patients.
+INR= international normalized ratio. a
+Six patients in the self-management group and nine in the control
+group who had a prosthetic heart valve as their primary indication
+also presented with atrial fibrillation.
+PHARMACIST-LED WARFARIN SELF-MANAGEMENT PROGRAM Verret et al 875
+during the 4-month follow-up period
+(99.6 ± 46.1 vs 614.9 ± 308.8 min, p<0.0001).
+Knowledge Related to Oral Anticoagulation
+Therapy
+Twenty-three training sessions consisting of
+1–9 patients each were held. Five patients
+required an additional training session because
+of difficulties using the device. No patient
+required a third session. Hence, all patients
+demonstrated proficiency in the use of the
+device and self-management algorithm in
+the self-management group. At the beginning of
+the study, both groups had a similar level of
+knowledge regarding anticoagulation use
+(Table 4). Compared with this baseline knowledge, significant improvement in knowledge was
+observed within each group after the training
+session (p<0.001 for both groups), which persisted after the 4-month follow-up period
+(p<0.05 for both groups). No significant
+difference was noted between groups in the
+knowledge acquired after the training session
+(p=0.60) and after the 4-month follow-up period
+(p=0.98).
+Adverse Events
+The proportion of individuals presenting with
+an adverse event was similar between the groups
+(Table 5). The majority of events consisted of
+minor bleeding episodes, mainly epistaxis. Three
+major bleeding events occurred during the
+study, with two in the self-management group
+and one in the control group. The first one
+occurred in the self-management group in a
+patient who presented with an ocular hematoma
+after taking the wrong dose of warfarin. The
+INR increased to 5.4. The ocular hematoma
+resolved in 3 days without any intervention or
+hospitalization. The second major bleeding event
+in the self-management group was gastrointestinal bleeding caused by an acute exacerbation of
+chronic ulcerative colitis that required hospitalization. The major bleeding event that occurred
+in the control group was a case of hematuria
+after urologic surgery. No thromboembolic
+Table 2. Quality-of-Life Assessments in Self-Management and Control Groupsa
+Quality-of-Life
+Domain
+Baseline Score End-of-Study Score Change from Baseline to End of Study
+SelfManagement
+Group
+Control
+Group
+SelfManagement
+Group
+Control
+Group
+Self-Management
+Group
+Control
+Group
+Self-Management
+Group vs Control
+Group
+General treatment
+satisfaction
+4.1 ± 1.1 4.2 ± 1.2 5.3 ± 0.7 4.4 ± 1.2 +1.3 ± 1.2
+(p<0.001)
++0.2 ± 1.1
+(p=0.130)
+p<0.001
+Self-efficacy 5.0 ± 1.0 4.8 ± 1.1 5.4 ± 0.7 5.0 ± 1.0 +0.4 ± 1.2
+(p=0.014)
++0.3 ± 1.1
+(p=0.0047)
+p=0.647
+Daily hassles 2.4 ± 0.7 2.4 ± 0.7 1.9 ± 0.6 2.2 ± 0.8 0.5 ± 0.6
+(p<0.001)
+0.2 ± 0.8
+(p=0.162)
+p<0.024
+Psychological
+distress
+2.5 ± 1.0 2.5 ± 1.1 1.9 ± 0.7 2.2 ± 1.0 0.6 ± 1.0
+(p<0.001)
+0.2 ± 0.8
+(p=0.033)
+p<0.029
+Strained social
+network
+2.0 ± 0.9 1.8 ± 0.8 1.4 ± 0.4 1.9 ± 0.8 0.6 ± 0.9
+(p<0.001)
++0.1 ± 0.7
+(p=0.566)
+p<0.001
+Data are mean ± SD.
+Scores range from 1 (total disagreement) to 6 (total agreement); higher scores for general treatment satisfaction and self-efficacy, and lower
+scores for daily hassles, psychological distress, and strained social network were indicative of better quality of life.
+a
+Data were incomplete or missing for two patients in the self-management group and three patients in the control group.
+Table 3. Anticoagulation Control
+Variable
+Self-Management
+Group
+Control
+Group p Value
+No. of INR tests/patient 17.4 ± 1.3 4.0 ± 1.5 <0.001
+Percentage of time within target rangea 80.0 ± 13.5% 75.5 ± 24.7% 0.79
+Percentage of time within extended target range (target INR ± 0.3)a 93.2 ± 7.9% 91.1 ± 13.3% 0.30
+Percentage of time outside critical INR value (INR < 1.5 or > 5)a 0.6 ± 1.8% 1.0 ± 3.8% 0.46
+Time spent monitoring each INR (min) 5.3 ± 2.6 158.0 ± 67.8 <0.001
+Total time spent for anticoagulation monitoring during 4-mo follow-up (min) 99.6 ± 46.1 614.9 ± 308.8 <0.0001
+Data are mean ± SD.
+INR = international normalized ratio. a
+Measured by using the Rosendaal method.19
+876 PHARMACOTHERAPY Volume 32, Number 10, 2012
+events or deaths were recorded. None of the 15
+hospitalizations in the two groups were related
+to thromboembolic or hemorrhagic events or
+study interventions.
+Discussion
+These results indicate that a self-management
+program led by pharmacists improves patients’
+quality of life and reduces the time required for
+anticoagulation monitoring, while maintaining
+control of anticoagulation similar to a specialized clinic.
+Our results demonstrate a significant improvement in four of the five quality-of-life topics in
+the self-management group compared with
+management at the specialized anticoagulation
+clinic. These results support those of previous
+European studies,8–10 with two of the studies
+reporting improvements in all five topics in
+patients self-managing their anticoagulation9, 10
+and the third study reporting improvement in
+four of the five topics.8 More modest results
+were reported in another study.12 To our knowledge, our study is the first quality-of-life study
+of anticoagulation self-management conducted
+in North America.
+Of importance, the improvements in quality
+of life and time required for INR monitoring
+were observed with comparable control of anticoagulation. The level of anticoagulation control
+observed in both groups may help explain why,
+contrary to previous studies,6, 7 we did not
+observe improvements in the time in the target
+INR range in the self-management group compared with the control group.6, 21 The use of
+the Coaguchek XS device, along with the algorithm developed for the study, proved to be easy
+for the patients to comprehend and performed
+well. Only five patients (8.6%) required an
+Table 4. Oral Anticoagulation Knowledge Test Scores
+Baseline Score Change from Baseline to End of Didactic Session Change from Baseline to End of Study
+Self-Management
+additional visit to improve their skills using the
+Group Control Group
+Self-Management
+Group Control Group
+Self-Management Group
+vs
+Control Group
+Self-Management
+Group Control Group
+Self-Management Group
+vs
+Control Group
+75.9
+± 14.0% 70.8
+± 14.9%
++8.2
+± 10.4%
++9.4
+± 12.5% p
+=0.60
++5.8
+± 12.5%
++5.8
+± 13.3% p
+=0.98
+(p
+<0.001) (p
+<0.001) (p
+=0.002) (p
+=0.002)
+Data are mean ± SD.
+Table 5. Adverse Events
+Event
+SelfManagement
+Group
+(n=58)
+Control
+Group
+(n=56) p Value
+All bleeding events 26 (44.8) 23 (41.1) 0.75
+Bleeding
+Minor 24 (41.4) 22 (39.3) 0.88
+Major 2 (3.4) 1 (1.8) 0.59
+Life-threatening 0 (0) 0 (0) —
+Thromboembolic events 0 (0) 0 (0) —
+Hospitalization 9 (15.5) 6 (10.7) 0.47
+Mortality 0 (0) 0 (0) —
+Data are no. (%) of patients.
+PHARMACIST-LED WARFARIN SELF-MANAGEMENT PROGRAM Verret et al 877
+device, despite the fact that a third of our
+patients had a high school education or less.
+This is in agreement with The Home INR Study
+(THINRS) substudy, which evaluated patients’
+self-testing competency and concluded that a
+majority of them were able to achieve successful
+testing within 2–4 weeks.22 A potential drawback of INR self-management is the higher number of tests required. However, the amount of
+time required by patients to monitor their
+warfarin therapy was lower in the self-management group than in the control group. This
+decrease in the time patients dedicate to their
+warfarin monitoring and the fewer anticoagulation clinic visits may have contributed to the
+improvements in quality of life observed. Recent
+data from a pilot study investigating the implementation of a new Internet-based tool for the
+management of anticoagulants indicated that
+these were two of the three most valued features
+of such systems by patients.23
+An important longstanding issue regarding
+anticoagulation self-management is if patients
+actually benefit from self-management or if the
+improvements in anticoagulation control
+observed in previous studies were the result of
+the additional training that patients received.8, 9
+In these studies, the additional training was generally provided only to the self-management
+group. In our study, both groups attended a
+didactic session on anticoagulation, although the
+practical training for the use of the device was
+limited to the self-management group. Our
+results show that the improvement in knowledge
+evolved in a similar fashion in both the selfmanagement and control groups. This indicates
+that self-management does not have a significant
+impact on knowledge retention.
+Our study has limitations. First, the small
+number of patients precluded any evaluation of
+the impact of the self-management program on
+clinical events. Nevertheless, because the time
+spent within critical INR values was extremely
+low in the self-management group, one would
+expect a low risk of major events.24 Furthermore, the level of anticoagulation control we
+observed was equal to or better than that in selfmanagement studies that demonstrated reductions in such events.7 The small sample size of
+our study may also have contributed to the fact
+that both groups were not completely identical
+at baseline. Another potential limitation of the
+study is related to the study population. The
+patients included in our study were receiving
+warfarin therapy for a mean of approximately
+7 years. Therefore, our results cannot be extrapolated to individuals who have recently started
+warfarin. In addition, 80 (38.7%) of the 207
+patients screened were not eligible, which limits
+the application of our findings to the population
+studied. Finally, the short duration of the study
+should be noted.
+Conclusion
+Our study indicates that patients treated with
+warfarin on a long-term basis can be trained by
+pharmacists to manage their warfarin dosing
+requirements. This self-management leads to
+improvements in quality of life and reduces the
+time dedicated to INR monitoring while maintaining a quality of the anticoagulation comparable to that provided by a specialized
+anticoagulation clinic.
+Acknowledgments
+The Coaguchek XS devices and CoaguChek XS PT
+test strips were provided by Roche Diagnostics Canada. We thank Marie-Claude Guertin, Sylvie Levesque, and Mohammad-Ali Sepas-Khah for their
+statistical review of the data. We also want to thank
+Djamal Berbiche, who performed the analyses related
+to anticoagulation control based on the methods provided by Dr. Frits Rosendaal. The authors would like
+to acknowledge the work of Julie Martin and France
+Lamadeleine for their support during the study. Lucie
+Verret had full access to all of the data in the study
+and takes responsibility for the integrity of the data
+and the accuracy of the data analysis.
+References
+1. Bartholow M. Top 200 prescription drugs of 2010. Pharmacy
+Times web site. http://www.pharmacytimes.com/publications/
+issue/2012/July2012/Top-200-Drugs-of-2011. Accessed July 26,
+2012.
+2. Ansell J, Hirsh J, Hylek E, Jacobson A, Crowther M, Palareti
+G. Pharmacology and management of the vitamin K antagonists: American College of Chest Physicians Evidence-Based
+Clinical Practice Guidelines (8th Edition). Chest
+2008;133:160S–98S.
+3. Wallentin L, Yusuf S, Ezekowitz MD, et al. Efficacy and safety
+of dabigatran compared with warfarin at different levels of
+international normalised ratio control for stroke prevention in
+atrial fibrillation: an analysis of the RE-LY trial. Lancet
+2010;376:975–83.
+4. Nieuwlaat R, Barker L, Kim YK, et al. Underuse of evidencebased warfarin dosing methods for atrial fibrillation patients.
+Thromb Res 2010;125:e128–31.
+5. Oertel LB, Libby EN. Is patient self-testing a good thing? J
+Thromb Thrombolysis 2011;29:214–8.
+6. Heneghan C, Alonso-Coello P, Garcia-Alamino JM, Perera R,
+Meats E, Glasziou P. Self-monitoring of oral anticoagulation:
+a systematic review and meta-analysis. Lancet 2006;367:
+404–11.
+7. Menendez-Jandula B, Souto JC, Oliver A, et al. Comparing
+self-management of oral anticoagulant therapy with clinic
+878 PHARMACOTHERAPY Volume 32, Number 10, 2012
+management: a randomized trial. Ann Intern Med 2005;142:
+1–10.
+8. Sawicki PT. A structured teaching and self-management program for patients receiving oral anticoagulation: a randomized
+controlled trial. Working Group for the Study of Patient
+Self-Management of Oral Anticoagulation. JAMA 1999;281:
+145–50.
+9. Cromheecke ME, Levi M, Colly LP, et al. Oral anticoagulation
+self-management and management by a specialist anticoagulation clinic: a randomised cross-over comparison. Lancet
+2000;356:97–102.
+10. Gadisseur AP, Kaptein AA, Breukink-Engbers WG, van der
+Meer FJ, Rosendaal FR. Patient self-management of oral anticoagulant care vs. management by specialized anticoagulation
+clinics: positive effects on quality of life. J Thromb Haemost
+2004;2:584–91.
+11. Soliman Hamad MA, van Eekelen E, van Agt T, van Straten
+AH. Self-management program improves anticoagulation control and quality of life: a prospective randomized study. Eur J
+Cardiothorac Surg 2009;35:265–9.
+12. McCahon D, Murray ET, Murray K, Holder RL, Fitzmaurice
+DA. Does self-management of oral anticoagulation therapy
+improve quality of life and anxiety? Fam Pract 2011;28:134–40.
+13. Matchar DB, Jacobson A, Dolor R, et al. Effect of home testing of international normalized ratio on clinical events. N Engl
+J Med 2010;363:1608–20.
+14. Bungard TJ, Gardner L, Archer SL, et al. Evaluation of a
+pharmacist-managed anticoagulation clinic: improving patient
+care. Open Med 2009;3:e16–21.
+15. Garwood CL, Dumo P, Baringhaus SN, Laban KM. Quality of
+anticoagulation care in patients discharged from a pharmacistmanaged anticoagulation clinic after stabilization of warfarin
+therapy. Pharmacotherapy 2008;28:20–6.
+16. Plesch W, van den Besselaar AM. Validation of the international normalized ratio (INR) in a new point-of-care system
+designed for home monitoring of oral anticoagulation therapy.
+Int J Lab Hematol 2009;31:20–5.
+17. Torreiro EG, Fernandez EG, Rodriguez RM, Lopez CV,
+Nunez JB. Comparative study of accuracy and clinical agreement of the CoaguChek XS portable device versus standard
+laboratory practice in unexperienced patients. Thromb
+Haemost 2009;101:969–74.
+18. Zeolla MM, Brodeur MR, Dominelli A, Haines ST, Allie ND.
+Development and validation of an instrument to determine
+patient knowledge: the oral anticoagulation knowledge test.
+Ann Pharmacother 2006;40:633–8.
+19. Rosendaal FR, Cannegieter SC, van der Meer FJ, Briet E. A
+method to determine the optimal intensity of oral anticoagulant therapy. Thromb Haemost 1993;69:236–9.
+20. Fihn SD, McDonell M, Martin D, et al. Risk factors for
+complications of chronic anticoagulation. A multicenter study.
+Warfarin Optimized Outpatient Follow-up Study Group. Ann
+Intern Med 1993;118:511–20.
+21. Garcia-Alamino JM, Ward AM, Alonso-Coello P, et al. Selfmonitoring and self-management of oral anticoagulation.
+Cochrane Database of Systematic Reviews 2010, Issue 4. Art.
+No.: CD003839. DOI: 10.1002/14651858.CD003839.pub2.
+22. Dolor RJ, Ruybalid RL, Uyeda L, et al. An evaluation of
+patient self-testing competency of prothrombin time for
+managing anticoagulation: pre-randomization results of VA
+Cooperative Study #481–The Home INR Study (THINRS). J
+Thromb Thrombolysis 2010;30:263–75.
+23. Ferrando F, Mira Y, Contreras MT, Aguado C, Aznar JA.
+Implementation of SintromacWeb(R), a new internet-based
+tool for oral anticoagulation therapy telecontrol: study on
+system consistency and patient satisfaction. Thromb Haemost
+2010;103:1091–101.
+24. Singer DE, Chang Y, Fang MC, et al. Should patient characteristics influence target anticoagulation intensity for stroke
+prevention in nonvalvular atrial fibrillation? The ATRIA study.
+Circ Cardiovasc Qual Outcomes 2009;2:297–304.
+Supporting Information
+The following supporting information is available in the online
+version of this article:
+Appendix S1. Decision Algorithms for International Normalized
+Ratios of 2–3 and 2.5–3.5, and Weekly Coumadin Dose Adjustment Table
+Please note: Wiley Periodicals Inc. is not responsible for the content or functionality of any supporting materials supplied by the
+authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+PHARMACIST-LED WARFARIN SELF-MANAGEMENT PROGRAM Verret et al 879

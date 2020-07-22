@@ -1,0 +1,747 @@
+Resources for Health: A Primary-Care-Based Diet and Physical Activity
+Intervention Targeting Urban Latinos With Multiple Chronic Conditions
+Elizabeth G. Eakin
+Queensland Cancer Fund and Queensland University of
+Technology
+Sheana S. Bull
+University of Colorado Health Sciences Center, Denver
+Kimberley M. Riley
+Center for Research Strategies
+Marina M. Reeves
+Queensland Cancer Fund
+Patty McLaughlin and Silvia Gutierrez
+Clinica Campesina Family Health Services
+Objective: The Resources for Health trial evaluates a social-ecologically based lifestyle (physical activity
+and diet) intervention targeting low-income, largely Spanish-speaking patients with multiple chronic
+conditions. Design: A randomized controlled trial was conducted with 200 patients recruited from an
+urban community health center and assigned to intervention and usual care conditions. Intervention
+involved 2 face-to-face, self-management support and community linkage sessions with a health
+educator, 3 follow-up phone calls, and 3 tailored newsletters. Main Outcome Measures: Primary
+outcomes measured at 6-months were changes in dietary behavior and physical activity. Changes in
+multilevel support for healthy living were evaluated as a secondary outcome. Results: After adjustment
+for age, sex, language, and number of chronic conditions, significant intervention effects were observed
+for dietary behavior and multilevel support for healthy lifestyles but not for physical activity. Conclusion: The Resources for Health intervention provides an effective and practical model for improving
+health behavior among low-income, Spanish-speaking patients with multiple chronic conditions.
+Keywords: RCT, self-management, health disparities, comorbidity, RE-AIM
+There is widespread agreement that patient involvement in
+disease management (referred to as self-management or collaborative management) is required for control of chronic disease and
+for prevention of disease complications (Von Korff, Glasgow, &
+Sharpe, 2002; Wagner & Groves, 2002). For the majority of
+chronic conditions, this involves addressing multiple behavioral
+risk factors (i.e., physical activity, diet, smoking and alcohol), as
+well as monitoring and managing the signs of symptoms of disease, taking medications appropriately, maintaining regular contact with health care providers, and managing emotional and social
+sequelae (Clark, Becker, Lorig, Rakowski, & Anderson, 1991;
+Lorig et al., 1999; Wagner, 2001).
+The past two decades have witnessed a wealth of research
+demonstrating the efficacy of chronic disease self-management
+interventions (Barlow, Wright, Sheasby, Turner, & Hainsworth,
+2002; Goldstein, Whitlock, & DePue, 2004; Norris et al., 2002;
+Von Korff, Gruman, Schaefer, & Curry, 1997). These interventions have most often focused on key lifestyle behaviors, and on
+medication adherence, and have targeted patients with a range of
+chronic conditions, with an emphasis on asthma, arthritis, and
+diabetes (Barlow, Wright, Sheasby, Turner, & Hainsworth, 2002).
+Despite the growing evidence base, some key gaps remain. The
+better part of this literature has focused on White, middle class
+samples, thus telling us little about how best to deliver chronic
+disease self-management interventions to low-income, ethnic minority and underserved patients, who bear the largest burden of
+disease and often have more than one chronic condition and
+multiple self-management behaviors that need to be addressed
+(Agency for Healthcare Research and Quality, 2003; Eakin, Bull,
+Elizabeth G. Eakin, Viertel Centre for Research in Cancer Control,
+Queensland Cancer Fund, Brisbane, Queensland, Australia, and Centre for
+Health Research–Public Health, Queensland University of Technology,
+Brisbane, Queensland, Australia; Sheana S. Bull, Colorado Health Outcomes Program, University of Colorado Health Sciences Center, Denver;
+Kimberley M. Riley, Center for Research Strategies, Denver, Colorado;
+Marina M. Reeves, Viertel Centre for Research in Cancer Control, Queensland Cancer Fund; Patty McLaughlin and Silvia Gutierrez, Clinica
+Campesina Family Health Services, Denver, Colorado.
+Marina M. Reeves is now at Cancer Prevention Research Centre, School
+of Population Health, University of Queensland, Australia.
+This work was funded by Robert Wood Johnson Foundation Grant
+041862 for its national program on Improving Chronic Illness Care (www
+.improvingchroniccare.org). We are grateful to the staff and patients of the
+Clinica Campesina Family Health Services for their support of and participation in this study. We also acknowledge the work of Kate Troy in
+assisting with data management and Russ Glasgow for his insightful
+comments on a draft of this article.
+Correspondence concerning this article should be addressed to Elizabeth
+G. Eakin, who is now at Cancer Prevention Research Centre, School of
+Population Health, University of Queensland, Level 3, Public Health
+Building, Herston Road, Herston, Queensland 4006, Australia. E-mail:
+e.eakin@sph.uq.edu.au
+Health Psychology Copyright 2007 by the American Psychological Association
+2007, Vol. 26, No. 4, 392– 400 0278-6133/07/$12.00 DOI: 10.1037/0278-6133.26.4.392
+392
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Glasgow, & Mason, 2002; Institute of Medicine Committee on
+Quality of Health Care in America, 2001). Members of these
+special populations often do not or cannot access traditional health
+care settings where self-management supports are more likely to
+be offered (Brown, Long, Gould, Weitz, & Milliken, 2000;
+Levkoff & Sanchez, 2003; Sorensen et al., 2003).
+Self-management interventions have largely been guided by
+intervention models that emphasize the individual, often ignoring
+the socialenvironmental context in which patients live (Glasgow
+& Eakin, 2000; Orleans, 2000; Sorensen et al., 2003). In addition,
+the evaluation of self-management interventions has tended to
+occur in the context of efficacy trials with an emphasis on issues
+of internal validity. The conduct of practical behavioral trials that
+address the generalizability of findings, the reach and representativeness of study participants, the feasibility of implementation in
+the real-world context of primary care, and the institutionalization
+of interventions at the systems level, lags far behind (Glasgow,
+Bull, Gillette, Klesges, & Dzewaltowski, 2002; Glasgow, Davidson, Dobkin, Ockene, & Spring, 2006; Glasgow, Klesges, Dzewaltowski, Bull, & Estabrooks, 2004).
+The Resources for Health study evaluates a physical activity and
+diet intervention targeting low-income, largely Spanish-speaking
+patients with multiple chronic conditions. It adds to the literature
+on self-management interventions by: (a) targeting an underserved,
+minority subgroup; (b) extending the largely individually focused
+interventions in this area to include an emphasis on participants’
+social environment consistent with the socialecological model;
+(c) addressing multiple risk behaviors in patients with multiple
+comorbid conditions; and (d) using the RE-AIM framework
+(reach, efficacy, adoption, implementation, maintenance) (Glasgow, Vogt, & Boles, 1999) to guide an approach to evaluation of
+outcomes that balances both internal and external validity in the
+context of a practical behavioral trial.
+Method
+Study Design
+This was a randomized controlled trial of a lifestyle intervention
+evaluating short-term (6 weeks) and medium-term (6 months)
+outcomes on the primary behavioral targets of physical activity,
+dietary behavior, and the secondary outcome of multilevel support
+for healthy lifestyles. Participants were randomly assigned to intervention or usual care conditions, with stratification on gender
+and primary language.
+Institutional Review Board (IRB) approval was initially received from the AMC Cancer Research Center IRB in January
+2001 and renewed by the Colorado Multiple IRB (COMIRB #
+02-789) in December 2002.
+Setting and Participants
+The study was conducted at Clinica Campesina Family Health
+Services, a community health center that provides primary health
+care services to low-income and medically underserved individuals in the Denver Metro area. The study took place at the urban
+North Denver clinic, the one with the largest percentage of
+Spanish-speaking clientele. Although the acculturation of the sample was not formally assessed, the sample is primarily Spanish
+speaking, and the population served by Clinica Campesina have
+generally spent fewer than 5 years living in the United States.
+While there are other measures of acculturation that are more
+precise (Cuellar, Arnold, & Maldonado, 1995), researchers have
+commonly used both English language and number of years of
+U.S. residency as a proxy for acculturation (Bethel & Schenker,
+2005; Grunbaum, Kann, & Kinchen, 2004; Minnis & Padian,
+2001).
+Study participants were adults with greater than one or more
+chronic conditions for which a lifestyle intervention focused on
+physical activity and diet would be appropriate (i.e., hypertension,
+chronic pain, hypercholesterolemia, depression, type 2 diabetes,
+osteoarthritis, obesity, chronic lung disease, heart disease, osteoporosis, hepatitis, history of cancer, previous stroke, multiple
+sclerosis). Inclusion criteria were diagnosis of one or more chronic
+conditions as above, age 30 years and over, having a telephone,
+and not planning to move from the area during the study’s time
+frame.
+Recruitment
+Study recruitment began in February 2002 and concluded in
+August 2003. Names and contact information for all patients
+meeting age and chronic condition eligibility criteria were obtained from the clinic medical records database (n  605). Letters
+were sent from clinic providers to patients describing the study and
+recommending their participation. Included with the letter was a
+stamped, self-addressed postcard for patients to return to the clinic
+if they wanted to decline being contacted about the study. Patients
+for whom postcards had not been returned were followed up with
+a phone call.
+Recruitment calls were made by a bilingual research assistant,
+with study consent and baseline data collected over the phone.
+Randomization occurred following collection of baseline data and
+was determined on the basis of a computer-generated randomization scheme and the opening of sequentially numbered envelopes.
+Intervention
+The conceptual framework underpinning the intervention was
+based on a behavioralecological approach to chronic disease
+self-management that emphasizes assessment, feedback, goal setting, and problem solving (Glasgow & Eakin, 2000), as well as on
+socialecological theory with a focus on identification of multilevel/community supports for health behavior change (Green,
+Richard, & Potvin, 1996; Stokols, 1992).
+The intervention was culturally adapted and translated into
+Spanish for an urban, low-income, largely Latino patient population (Riley, Glasgow, & Eakin, 2001). The adaptation included the
+translation and validation of measures and intervention materials.
+The intervention was conducted by an experienced, bilingual,
+health educator, and involved two face-to-face visits (6090 min)
+3 months apart, three follow-up phone calls, and three newsletters
+tailored to the behavioral goals of each participant. The face-toface visits took place either at the clinic or in the participant’s
+home, based on participant preference. Because of the very low
+literacy levels of study participants, and the fact that some were not
+able to read and write in either Spanish or English, the use of visual
+aids was emphasized throughout the intervention.
+RESOURCES FOR HEALTH 393
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+The intervention protocol followed the 5 As approach advocated
+in multiple behavioral risk factor interventions (Ask, Assess, Advise, Agree, Arrange; Glasgow et al., 2002; Glasgow, Toobert, &
+Hampson, 1996; Goldstein et al., 2004). Participants received
+education on national physical activity (U.S. Department of Health
+and Human Services, 1996) and dietary recommendations (U.S.
+Department of Health and Human Services and U.S. Department
+of Agriculture, 2005) along with feedback from their baseline
+assessment. Participants then chose a self-management goal related to physical activity or healthy eating, and— key to the emphasis on external resources—identified one or two types of
+socialenvironmental resources they could use to help them reach
+their goal (e.g., family and friends, health care team, neighborhood
+resources). At the conclusion of the session, participants received
+a one-page goal sheet summarizing their personal action plan.
+At 2 and 6 weeks after the initial visit, the health educator made
+a brief follow-up phone call to reinforce progress toward goal
+attainment and to problem-solve barriers. During the second faceto-face visit, participants were encouraged to consider setting a
+goal for the second target behavior. A third follow-up phone call,
+the last point of contact, occurred 2 weeks after this visit to address
+the goals and barriers again, and to discuss strategies for maintenance of behavior change, with an emphasis on use of multilevel
+support resources. To reinforce behavior change goals, three tailored newsletters were mailed to participants over the course of the
+6-month intervention. The low-literacyfocused newsletters reminded participants of their physical activity or diet goals, addressed participant-reported barriers and suggested examples of
+multilevel support resources that could be used. Patients in the
+usual care condition were mailed a local area community resources
+guide and three newsletters on basic financial management (i.e.,
+careers and employment, budgeting skills, and establishing credit).
+Measures
+The RE-AIM (Dzewaltowski, Glasgow, Klesges, & Estabrooks,
+2004; Goldstein et al., 1999) framework was used to guide evaluation of study outcomes.
+Reach. Reach was calculated as the percentage and representativeness of eligible patients who took part in the study. Patient
+characteristics were assessed using a short set of self-reported
+demographic items, including gender, age, education, income,
+race, primary language, marital status, smoking status, and number
+and type of chronic conditions.
+Efficacy. Efficacy was evaluated by improvement from baseline on two primary outcome measures (physical activity and
+dietary behavior) and one secondary outcome measure (multilevel
+support for healthy lifestyles) at 6 weeks and 6 months. Data were
+collected by a bilingual research assistant over the telephone.
+Physical activity was measured using the Behavioral Risk Factor Surveillance Survey Physical Activity items (Centers for Disease Control and Prevention, 2000). This set of 15 items assesses
+total minutes of vigorous and moderate activity and walking in the
+past week and has been shown to correlate highly with other
+measures of physical activity (Brownson et al., 2004; Brownson,
+Jones, Pratt, Blanton, & Heath, 2000). Two physical activity
+outcome variables were calculated: (a) total minutes of walking
+per week (as walking is the preferred activity of most middle-aged
+and older adults; Simpson et al., 2003), and (b) consistent with
+U.S. physical activity guidelines, a dichotomous variable indicating whether participants met the guidelines (i.e., 30 min/day of
+moderate physical activity on at least 5 days/week or 20 min/day
+of vigorous activity on at least 3 days/week), although statistical
+power was not based on this dichotomous variable. A Spanish
+language version of the Behavioral Risk Factor Surveillance Survey Physical Activity items was obtained from the Centers for
+Disease Control and Prevention and was evaluated for face validity
+and clarity during formative work for this trial.
+Dietary behavior was measured using the Kristal Fat and Fiber
+Behavior Questionnaire (FFB). The FFB is a 20-item scale measuring behaviors related to low-fat and high-fiber eating patterns.
+Previous research has found this scale to be reliable and sensitive
+to change and to correlate well with other “gold standard” measures such as food records and food frequency questionnaires
+(Glasgow, Perry, Toobert, & Hollis, 1996; Kristal, Shattuck, &
+Henry, 1990; Shannon, Kristal, Curry, & Beresford, 1997). A
+Spanish-language version of the FFB was adapted for use in the
+current study (Kristal, Shattuck, & Patterson, 1999). A total FFB
+score was calculated, with scores ranging from 1.00 to 4.00, lower
+scores indicating better fat and fiber-related dietary behavior.
+Multilevel support for healthy lifestyles was measured using the
+Chronic Illness Resource Survey (CIRS). The CIRS is a 22-item
+scale that assesses support for healthy lifestyle behaviors and
+chronic illness self-management from multiple sources including
+family and friends, health care providers, neighborhood and community, media and health policies (Glasgow, Strycker, Toobert, &
+Eakin, 2000; Glasgow, Toobert, Barrera, & Strycker, 2005). CIRS
+subscale and total scores were calculated and ranged from 1.00 to
+5.00, with higher scores indicating more support. The English
+version of the CIRS had been previously validated (Glasgow et al.,
+2000), and a Spanish version was validated during formative work
+for this trial (Eakin et al., in press).
+Adoption, implementation, and maintenance. Adoption was
+measured by the number of clinics and providers approached who
+agreed to participate in the trial. Implementation was measured by
+tracking the delivery of the intervention protocol, including the
+number of intervention sessions delivered, and the percentage of
+patients setting goals on physical activity and dietary behavior
+change. As this was a 6-month trial, longer-term maintenance of
+outcomes was not assessed.
+Statistical Analyses
+General descriptive and bivariate statistical analyses were carried out using SPSS for Windows (Version 12.0.1, 2003, SPSS,
+Chicago, IL) statistical software package. Continuous variables
+were tested for normal distribution. Analyses were carried out on
+an intention-to-treat basis. Significance was set at p  .05 (twotailed). Based on the sample size of 200, this study had 81% power
+( p  .05) to detect an effect size of 0.20 on the two primary
+behavioral targets (physical activity and dietary behavior) at 6
+months.
+We used independent sample t tests and Pearson’s chi-square
+tests were used to assess differences between participants and
+nonparticipants, the treatment group and usual care group, and
+dropouts and completers. To examine changes between the treatment and usual care group over time, and to maximize the amount
+of data that were used in the analysis, repeated measures analysis
+394 EAKIN ET AL.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+of variance regression models, using a generalized estimating
+equations approach, were carried out using the SUDAAN statistical package (Version 8.0.2, Cary, NC). Regression models were
+adjusted for sex, age, language, and number of chronic conditions.
+Subgroup analyses were also conducted to assess outcome measures for the intervention group, based on dose of intervention and
+behavioral goals set, compared with the usual care group. The
+alpha level was not adjusted for these secondary analyses.
+Results
+Reach
+Figure 1 shows the flow of participants through the study.
+Names of 605 potentially eligible patients were identified from
+clinic medical records. Of these, 345 were reached by phone for
+determination of eligibility and recruitment, 258 were study eligible, and 200 agreed to participate (33% of the initial pool, 58% of
+605 Names of Potentially-Eligible Patients
+Not able to contact
+n = 260
+Contacted
+n = 345
+Refused by postcard
+letters returned
+n = 56
+No phone contact
+n = 204
+Not Eligible
+n = 87
+• Moved/not reachable, n = 34
+• No longer clinic patient, n =
+25
+• Mental incapacity, n = 9
+• No chronic condition, n = 7
+• Language skills lacking, n =
+5
+• Age < 30 yrs, n = 4
+• Death, n = 3
+Eligible
+n = 258
+Declined
+n = 58*
+* Reasons for declining:
+• Not interested, n = 33
+• Too busy, n = 17
+• Too ill, n = 4
+• Never completed baseline, n
+= 4
+Participated
+n = 200
+Randomized Assignment
+Treatment
+n = 101
+Received dose
+of intervention:
+Full, n = 48
+Moderate, n = 30
+Low, n = 9
+None, n = 14
+Usual Care
+n = 99
+Follow-up
+Measurements
+6 weeks, n = 72
+6 months, n = 84
+Follow-up
+Measurements
+6 weeks, n = 65
+6 months, n = 78
+Figure 1. Flow of participants through the study.
+RESOURCES FOR HEALTH 395
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+those reached by phone, and 78% of those reached and eligible).
+Compared with nonparticipants, participants were more likely to
+be female (data not shown). Complete data were available for 69%
+of participants at 6 weeks and 81% at 6 months, and retention rates
+did not differ significantly between intervention and usual care
+groups. Women and Spanish speakers were more likely to complete study assessments compared with men and English speakers
+(data not shown).
+Baseline characteristics of participants randomized to the treatment group and those in usual care are shown in Table 1. Groups
+differed significantly with respect to primary language and ethnicity, and although not statistically significant, there appeared to be
+differences with respect to number of chronic conditions ( p
+.08). The stratified, random assignment scheme did not result in
+equal proportions of Spanish speakers in each study condition as
+block randomization was not used and recruitment was stopped
+earlier than anticipated because of limited resources.
+Efficacy
+Changes in dietary behavior, physical activity, and multilevel
+support for healthy lifestyles between the groups over the three
+time points are shown in Table 2. Scores were adjusted for sex,
+age, language, and number of chronic conditions. A statistically
+significant difference between the groups over time was evident
+for dietary behavior, Wald F(2)  4.64, p  .011. The treatment
+group showed a significantly greater improvement in dietary behavior compared to the usual care group at both 6 weeks (intervention effect  0.16  0.08, p  .031) and 6 months (intervention effect  0.18  0.06, p  .003). There were no
+significant differences between groups over time for physical
+activity when assessed as change in minutes walked per week,
+Wald F(2)  2.04, p  .132, or as the percentage of those meeting
+national physical activity guidelines, Wald F(2)  1.37, p  .505.
+A statistically significant difference between the treatment and
+usual care groups over time was observed for multilevel support
+for healthy lifestyles (CIRS total score), Wald F(2)  8.23, p
+.001. The treatment group reported significantly greater support at
+both 6 weeks (intervention effect  0.32  0.08, p  .001) and 6
+months (intervention effect  0.23  0.08, p  .003). Analysis of
+changes for the individual CIRS subscales revealed significant
+differences over time between the treatment and usual care groups
+for the personal, Wald F(2)  9.67, p  .001, and family and
+Table 1
+Baseline Demographic and Health-Related Characteristics of Sample
+Characteristic
+Treatment Usual care
+(n  101) (n  99)
+Age (years; M  SD) 50  13 49  13
+Sex
+Female 80 (79.2) 77 (77.8)
+Male 21 (20.8) 22 (22.2)
+Language*
+Spanish 77 (76.2) 56 (56.6)
+English 24 (23.8) 43 (43.4)
+Ethnicity**
+Hispanic/Latino 81 (80.2) 69 (71.1)
+Anglo 8 (7.9) 22 (22.7)
+Other 12 (11.9) 6 (6.2)
+Smoker 20 (20.2) 24 (24.2)
+Married 67 (66.3) 53 (54.1)
+Live alone 6 (5.9) 11 (11.2)
+Yearly household income
+Less than $10,000 32 (34.4) 36 (37.5)
+$10,000–$30,000 51 (54.8) 44 (45.8)
+Greater than $30,000 10 (10.8) 16 (16.7)
+Education
+Elementary/some high school 67 (66.3) 69 (70.4)
+High school graduate 17 (16.8) 13 (13.3)
+Some college/college graduate 17 (16.8) 16 (16.3)
+No. of chronic conditions
+One 8 (7.9) 17 (17.2)
+Two 25 (24.8) 28 (28.3)
+Three or greater 68 (67.3) 54 (54.5)
+Physical activity level
+Total minutes walking per week (median and range) 60 (0–840) 70 (0–840)
+% meeting guidelines 19 (18.8) 17 (17.2)
+Dietary behavior scorea 2.46  0.47 2.50  0.42
+Multilevel support for healthy lifestylesb 2.67  0.52 2.60  0.49
+Note. Data are n (%) or mean  standard deviation. a Fat and Fiber Behavior Questionnaire: Lower scores indicate better dietary behavior (range  1.00 –
+4.00). b Chronic Illness Resources Survey (total score): Higher scores indicate greater support for healthy
+lifestyles (range  1.00 –5.00). * p  .004. ** p  .009.
+396 EAKIN ET AL.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+friends, Wald F(2)  5.11, p  .007, subscales (data not shown).
+When the dietary behavior data were reanalyzed including adjustment for changes in total CIRS score, the intervention effect
+previously seen had disappeared, Wald F(2)  1.72, p  .182,
+indicating that the CIRS mediated the observed change in dietary
+behavior.
+Adoption
+All three of the community health center clinics of the Clinica
+Campesina Family Health Services were approached for participation, and all agreed to participate, although because of limited
+research resources, patients were recruited only from the largest of
+the three clinics. In that clinic, all of the 12 providers agreed to
+participate.
+Implementation
+Forty-eight (47.5%) of the 101 intervention condition participants received both intervention visits, 39 (38.6%) received only
+one, and 14 (13.9%) were unable to be contacted for intervention
+visits or phone calls. Forty-six (45.5%) received the intended three
+follow-up phone calls, 29 (28.7%) received two calls, 9 (8.9%)
+received one call, and a further 3 (3.0%) were never reached for
+follow-up calls. During the intervention, 41 (40.6%) participants
+set goals for physical activity only, 13 (12.9%) set diet goals only,
+33 (32.7%) set both physical activity and diet goals, and 14
+(13.9%) did not set any goals (because they were never reached for
+intervention). Subgroup analyses to determine the effect of the
+number of intervention contacts and the selection of behavioral
+goals did not alter the results observed (data not shown).
+Discussion
+The Resources for Health trial, with its focus on improving
+physical activity and dietary behavior in low-income and predominantly Spanish-speaking patients with multiple comorbid chronic
+conditions, addresses a significant gap in the literature (Goldstein
+et al., 2004). Taking the broader public health perspective of the
+RE-AIM framework (Glasgow et al., 2004) allows the study results to be interpreted not only in terms of their immediate impact,
+but also in terms of their potential for generalization.
+Reach. Given the challenges of recruiting and retaining a
+highly migratory, low-income, low literacy population, the ability
+to (a) enroll 78% of those contacted and eligible and (b) retain 81%
+at 6 months supports the feasibility of this approach. The overrepresentation of women and Spanish speakers suggests that recruitment efforts reached those most in need but also that it will take
+more effort to engage Latino men in health behavior interventions.
+Efficacy. Significant improvements occurred in one of two
+primary outcome measures, namely dietary behavior, and in the
+secondary outcome of multilevel support for healthy lifestyles. The
+lack of change in physical activity was disappointing, but more
+than likely reflects the difficulty in measuring physical activity via
+a brief self-report instrument (Sallis & Saelens, 2000) and the
+potentially limited sensitivity of the Behavioral Risk Factor Surveillance Survey Physical Activity population surveillance measure to detect change in the context of an intervention trial.
+Adoption. The trial was clearly and strongly supported by the
+community health care clinic in which it was conducted, as indicated by the 100% provider participation.
+Implementation. This trial was challenging to implement, with
+numerous missed and rescheduled appointments; however, overall
+77% received at least three of the five intended intervention
+contacts, again supporting the feasibility of the approach.
+Maintenance. The medium-term (6-month) outcomes preclude evaluation of longer term maintenance of behavior change.
+However, with regard to maintenance at the clinic/systems level,
+the clinic intends to retain the study interventionist on staff as a
+chronic disease health educator.
+A strength of the study was the use of the socialecological
+model to guide the intervention and broaden the focus to take into
+account the multiple levels of influence on health behavior change
+(Green, 2001; Stokols, 1996). This was not only implicit as an
+underlying theory, but operationalized via the use of the CIRS to
+provide feedback to participants and to assist with goal setting
+around use of multilevel resources. The CIRS was also used as an
+outcome measure, and one on which significant between-groups
+change was observed. In addition, the CIRS also mediated the
+Table 2
+Adjusted Mean Outcome Measures ( Standard Errors) for Intervention and Usual Care
+Groups at Baseline, 6 Weeks, and 6 Months Postintervention
+Variable Baseline 6 weeks 6 months
+Dietary behaviora
+Intervention 2.47  0.05 2.25  0.06* 2.24  0.05*
+Usual care 2.48  0.04 2.42  0.05 2.43  0.05
+Multilevel support for healthy lifestylesb
+Intervention 2.67  0.05 2.98  0.06* 2.98  0.06*
+Usual care 2.61  0.05 2.59  0.06 2.69  0.05
+Change minutes of walking/week
+Intervention 11  20 16  20
+Usual care 47  23 11  23
+Note. Data were adjusted for age, sex, language, and number of chronic conditions. a Lower scores indicate better dietary behavior (range  1.00 – 4.00). b Higher scores indicate better support
+(range  1.00 –5.00). * p  .05.
+RESOURCES FOR HEALTH 397
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+effect of the intervention on dietary outcomes—an effect demonstrated in a previous trial (Glasgow et al., 2005)— highlighting the
+importance of taking into account multiple levels of support in the
+delivery of health behavior change interventions.
+Study limitations include the use of uncorroborated, selfreported, albeit validated, outcome measures; the use of a single
+interventionist; recruitment of Latino patients (primarily of Mexican descent) from a single clinic, which may limit the generalizability of findings; and the lack of longer term follow-up. The
+sample size was also too small to allow for analyses of patients
+nested within providers. However, providers were not involved in
+the delivery of the intervention, and our previous work has shown
+the intraclass correlations for the measures used in this study to be
+extremely small (Glasgow et al., 1997).
+Although there is a growing literature on health behavior interventions targeting Latinos, studies of interventions directly comparable to the chronic disease self-management approach of Resources for Health are few. Existing studies have often targeted
+Latinas as the keepers of family health (Amaro & de la Torre,
+2002) and have used a variety of intervention modalities, including
+lay health advisors (or promotoras) to deliver intervention (Kim,
+Koniak-Griffin, Flaskerud, & Guarnero, 2004; Navarro, Rock,
+McNicholas, Senn, & Moreno, 2000; Swider, 2002) using print
+and mass media (Nestle & Cowell, 1990; Wechsler & Wernick,
+1992), as well as multiple modality approaches (Elder et al., 1998).
+The most comparable study involved multiple health centers and
+targeted multiethnic adults (a small percentage of whom were
+Latino) around diet and physical activity (Emmons et al., 2005).
+Like Resources for Health, it involved a session with a health
+educator, follow-up phone calls, and tailored mailings; unlike
+Resources for Health, it also involved clinicians providing a tailored health behavior change prescription. Similar to the present
+findings, Emmons and colleagues (2005) found significant
+changes in dietary behaviors, but not in physical activity, perhaps
+suggesting that physical activity may be a more difficult behavior
+to change in lower income, multiethnic subgroups.
+A recent study based in the primary health care setting evaluated
+a physical activity and dietary intervention that targeted primarily
+Latinas 50 years of age and over recruited from community health
+clinics and that delivered across three conditions: provider counseling; provider counseling and health education; and provider
+counseling, health education, and community health worker support (Staten et al., 2004). At the 12-month follow-up, although
+there were no significant between-groups differences, all three
+groups showed an increase in physical activity, whereas women
+receiving the comprehensive intervention were more likely to
+make dietary changes. In an intervention to improve fat and fiber
+targeting Latinas recruited via random digit dialing, Elder et al.
+(2005) evaluated three conditions: lay health advisors plus tailored
+materials, tailored materials only, or off-the-shelf print materials.
+At 12-weeks postintervention, although there were no significant
+differences between conditions, the lay health advisor condition
+achieved significant improvements across a number of dietary
+outcomes. In general these studies provide modest support for the
+efficacy of health behavior interventions among Latinos but indicate that more needs to be done to elucidate the most effective
+intervention modalities and to facilitate change across both diet
+and physical activity behaviors.
+The Resources for Health intervention was adapted for the
+largely Latino sample from previous chronic disease selfmanagement interventions conducted by Glasgow and colleagues
+that targeted primarily Caucasian samples (Riley, Glasgow, &
+Eakin, 2001; Glasgow & Eakin, 2000). The Resources for Health
+sample showed both poorer levels of health behaviors at baseline
+and similar to or greater intervention effects for both fat- and
+fiber-related dietary behavior (Glasgow et al., 1997; Glasgow &
+Toobert, 2000; Kristal, Curry, Shattuck, Feng, & Li, 2000) and
+multilevel support for healthy lifestyles (Glasgow et al., 2005).
+This suggests that there is merit in adapting and evaluating existing
+evidence-based primary-care-based health behavior interventions
+with Latino and other high-risk subgroups (Goldstein et al., 2004;
+O’Malley, Gonzalez, Sheppard, Huerta, & Mandelblatt, 2003).
+Results of the Resources for Health trial suggest that a practical
+and behaviorally focused, socialecological model driven intervention to enhance chronic disease self-management can be successfully delivered in a community health care context to lowincome, Spanish-speaking patients. Future research needs to
+address generalization to other disadvantaged groups, longer term
+maintenance of outcomes, and evaluate cost-effectiveness and
+changes across multiple behavioral risk factors.
+References
+Agency for Healthcare Research and Quality. (2003). National healthcare
+disparities report. Rockville, MD: U.S. Department of Health and Human Services.
+Amaro, H., & de la Torre, A. (2002). Public health needs and scientific
+opportunities in research on Latinas. American Journal of Public Health,
+92, 525–529.
+Barlow, J., Wright, C., Sheasby, J., Turner, A., & Hainsworth, J. (2002).
+Self-management approaches for people with chronic conditions: A
+review. Patient Education and Counseling, 48, 177–187.
+Bethel, J., & Schenker, M. (2005). Acculturation and smoking patterns
+among Hispanics: A review. American Journal of Preventive Medicine,
+29, 143–148.
+Brown, B. A., Long, H. L., Gould, H., Weitz, T. A., & Milliken, N. (2000).
+A conceptual model for the recruitment of diverse women into research
+studies. Journal of Women’s Health, 9, 625– 632.
+Brownson, R. C., Chang, J. J., Eyler, A. A., Ainsworth, B. E., Kirtland,
+K. A., Saelens, B. E., et al. (2004). Measuring the environment for
+friendliness toward physical activity: A comparison of the reliability of
+3 questionnaires. American Journal of Public Health, 94, 473– 483.
+Brownson, R. C., Jones, D. A., Pratt, M., Blanton, C., & Heath, G. W.
+(2000). Measuring physical activity with the Behavioral Risk Factor
+Surveillance System. Medicine and Science in Sports and Exercise, 32,
+1913–1918.
+Centers for Disease Control and Prevention. (2000). Behavioral Risk
+Factor Surveillance System Survey Questionnaire. Atlanta, GA: Author.
+Clark, N. M., Becker, M. H., Lorig, K., Rakowski, W., & Anderson, L.
+(1991). Self-management of chronic disease in older adults. Journal of
+Aging and Health, 3, 3–27.
+Cuellar, I., Arnold, B., & Maldonado, R. (1995). The Acculturation Rating
+Scale for Mexican Americans-II: A revision of the original ARSMA
+scale. Hispanic Journal of Behavioral Sciences, 17, 275–304.
+Dzewaltowski, D. A., Glasgow, R. E., Klesges, L. M., & Estabrooks, P.
+(2004). RE-AIM: Evidence-based standards and a web resource to
+improve translation of research into practice. Annals of Behavioral
+Medicine, 28, 75– 80.
+Eakin, E. G., Bull, S. S., Glasgow, R. E., & Mason, M. (2002). Reaching
+those most in need: A review of diabetes self-management interventions
+398 EAKIN ET AL.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+in disadvantaged populations. Diabetes/Metabolism Research and Reviews, 18, 26 –35.
+Eakin, E. G., Reeves, M. M., Bull, S. S., Riley, K. M., Floyd, S., &
+Glasgow, R. E. (in press). Validation of the Spanish-language version of
+the Chronic Illness Resources Survey. International Journal of Behavioral Medicine.
+Elder, J. P., Ayala, G. X., Campbell, N. R., Slymen, D., Lopez-Madurga,
+E. T., Engelberg, M., & Baquero, B. (2005). Interpersonal and print
+nutrition communication for a Spanish-dominant Latino population:
+Secretos de la buena vida. Health Psychology, 24, 49 –57.
+Elder, J. P., Campbell, N. C., Candelaria, J. I., Talavara, G. A., Meyer,
+J. A., & Moreno, C. (1998). Project Salsa: Development and institutionalization of a nutrition health promotion project in a Latino community.
+American Journal of Health Promotion, 12, 391– 401.
+Emmons, K., Stoddard, A., Fletcher, R., Gutheil, C., Gonzalez Suarez, E.,
+Lobb, R., et al. (2005). Cancer prevention among working class, multiethnic adults: Results of the Healthy Directions-Health Centers Study.
+American Journal of Public Health, 95, 1200 –1205.
+Glasgow, R. E., Bull, S. S., Gillette, C., Klesges, L. M., & Dzewaltowski,
+D. A. (2002). Behavior change intervention research in healthcare settings: A review of recent reports with emphasis on external validity.
+American Journal of Preventive Medicine, 23, 62– 69.
+Glasgow, R. E., Davidson, K. W., Dobkin, P. L., Ockene, J., & Spring, B.
+(2006). Practical behavioral trials to advance evidence-based behavioral
+medicine. Annals of Behavioral Medicine, 31, 5–13.
+Glasgow, R. E., & Eakin, E. G. (2000). Medical office-based interventions.
+In F. J. Snoek & T. C. Skinner (Eds.), Psychology in diabetes care (pp.
+141–168). Chichester, England: Wiley.
+Glasgow, R. E., Klesges, L., Dzewaltowski, D., Bull, S., & Estabrooks, P.
+(2004). The future of health behavior change research: What is needed
+to improve translation of research into health promotion practice? Annals of Behavioral Medicine, 27, 3–12.
+Glasgow, R. E., La Chance, P., Toobert, D. J., Brown, J., Hampson, S. E.,
+& Riddle, M. C. (1997). Long term effects and costs of brief behavioural
+dietary intervention for patients with diabetes delivered from the medical
+office. Patient Education and Counseling, 32, 175–184.
+Glasgow, R. E., Perry, J. D., Toobert, D. J., & Hollis, J. F. (1996). Brief
+assessments of dietary behavior in field settings. Addictive Behaviors,
+21, 239 –247.
+Glasgow, R. E., Strycker, M. A., Toobert, D. J., & Eakin, E. G. (2000). A
+social-ecological approach to assessing support for disease selfmanagement: The chronic illness resource survey. Journal of Behavioral
+Medicine, 23, 943–950.
+Glasgow, R. E., & Toobert, D. J. (2000). Brief, computer-assisted diabetes
+dietary self-management counseling. Medical Care, 38, 1062–1073.
+Glasgow, R. E., Toobert, D. J., Barrera, M., & Strycker, L. A. (2005). The
+Chronic Illness Resources Survey: Cross-validation and sensitivity to
+intervention. Health Education Research, 20, 402– 409.
+Glasgow, R. E., Toobert, D. J., & Hampson, S. E. (1996). Effects of a brief
+office-based intervention to facilitate diabetes dietary self-management.
+Diabetes Care, 19, 835– 842.
+Glasgow, R. E., Vogt, T. M., & Boles, S. M. (1999). Evaluating the public
+health impact of health promotion interventions: The RE-AIM framework. American Journal of Public Health, 89, 1322–1327.
+Goldstein, M. G., Pinto, B. M., Marcus, B. H., Lynn, H., Jette, A. M.,
+McDermott, S., et al. (1999). Physician-based physical activity counseling for middle-aged and older adults: A randomized trial. Annals of
+Behavioral Medicine, 21, 40 – 47.
+Goldstein, M. G., Whitlock, E. P., & DePue, J. (2004). Multiple behavioral
+risk factor interventions in primary care: Summary of research evidence.
+American Journal of Preventive Medicine, 27(Suppl. 2), 61–79.
+Green, L. W. (2001). From research to “best practices” in other settings and
+populations. American Journal of Health Behavior, 25, 165–178.
+Green, L. W., Richard, L., & Potvin, L. (1996). Ecological foundations of
+health promotion. American Journal of Health Promotion, 10, 270 –281.
+Grunbaum, J., Kann, L., & Kinchen, S. (2004). Youth risk behavior
+surveillance—United States, 2003. Morbidity and Mortality Weekly Report Surveillance Summaries, 53, 1–96.
+Institute of Medicine Committee on Quality of Health Care in America.
+(2001). Improving the 21st-century health care system. In Crossing the
+quality chasm: A new health system for the 21st century (pp. 23–38).
+Washington, DC: National Academy Press.
+Kim, S., Koniak-Griffin, D., Flaskerud, J. H., & Guarnero, P. A. (2004).
+The impact of lay health advisors on cardiovascular health promotion:
+Using a community-based participatory approach. Journal of Cardiovascular Nursing, 19, 192–199.
+Kristal, A. R., Curry, S. J., Shattuck, A. L., Feng, Z., & Li, S. (2000). A
+randomized trial of a tailored self-help dietary intervention: The Puget
+Sound Eating Patterns Study. Preventive Medicine, 31, 380 –389.
+Kristal, A. R., Shattuck, A. L., & Henry, H. J. (1990). Patterns of dietary
+behavior associated with selecting diets low in fat: Reliability and
+validity of a behavioral approach to dietary assessment. Journal of the
+American Dietetic Association, 90, 214 –220.
+Kristal, A. R., Shattuck, A. L., & Patterson, R. E. (1999). Differences in
+fat-related dietary patterns between Black, Hispanic and White women:
+Results from the Women’s Health Trial Feasibility Study in Minority
+Populations. Public Health Nutrition, 2, 253–262.
+Levkoff, S., & Sanchez, H. (2003). Lessons learned about minority recruitment and retention from the Centers on Minority Aging and Health
+Promotion. Gerontologist, 43, 18 –26.
+Lorig, K. R., Sobel, D. S., Stewart, A. L., Brown, B. W., Bandura, A.,
+Ritter, P., et al. (1999). Evidence suggesting that a chronic disease
+self-management program can improve health status while reducing
+hospitalization: A randomized trial. Medical Care, 37, 5–14.
+Minnis, A., & Padian, N. (2001). Reproductive health differences among
+Latin American- and US-born young women. Journal of Urban Health,
+78, 627– 637.
+Navarro, A., Rock, C., McNicholas, L., Senn, K., & Moreno, C. (2000).
+Community-based education in nutrition and cancer: The Por La Vida
+Cuidandome curriculum. Journal of Cancer Education, 15, 168 –172.
+Nestle, M., & Cowell, C. (1990). Health promotion of low-income minority groups: The challenge for nutrition education. Health Education
+Research, 5, 527–533.
+Norris, S. L., Nichols, P., Caspersen, C. J., Glasgow, R. E., Engelgau, M.,
+Jack, Jr., L., et al. (2002). Increasing diabetes self-management education in community settings: A systematic review. American Journal of
+Preventive Medicine, 22(Suppl. 4), 39 – 66.
+O’Malley, A. S., Gonzalez, R. M., Sheppard, V. B., Huerta, E., & Mandelblatt, J. (2003). Primary care cancer control interventions including
+Latinos: A review. American Journal of Preventive Medicine, 25, 264 –
+271.
+Orleans, C. T. (2000). Promoting the maintenance of health behavior
+change: Recommendations for the next generation of research and
+practice. Health Psychology, 19(Suppl. 1), 76 – 83.
+Riley, K. M., Glasgow, R. E., & Eakin, E. G. (2001). Resources for health:
+A social-ecological intervention for supporting self-management of
+chronic conditions. Journal of Health Psychology, 6, 693–705.
+Sallis, J. F., & Saelens, B. E. (2000, June). Assessment of physical activity
+by self-report: Status, limitations, and future directions. Research Quarterly for Exercise and Sport, 71(Suppl. 2), S1–14.
+Shannon, J., Kristal, A. R., Curry, S. J., & Beresford, S. A. (1997).
+Application of a behavioral approach to measuring dietary change: The
+fat- and fiber-related diet behavior questionnaire. Cancer Epidemiology,
+Biomarkers & Prevention, 6(5), 355–361.
+Simpson, M. E., Serdula, M., Galuska, D. A., Gillespie, C., Donehoo, R. S.,
+Macera, C., et al. (2003). Walking trends among US adults: The BehavRESOURCES FOR HEALTH 399
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+ioral Risk Factor Surveillance System, 1987–2000. American Journal of
+Preventive Medicine, 25, 95–100.
+Sorensen, G., Emmons, K. M., Hunt, M. K., Barbeau, E., Goldman, R.,
+Peterson, K., et al. (2003). Model for incorporating social context in
+health behavior interventions: Applications for cancer prevention for
+working-class, multiethnic populations. Preventive Medicine, 37, 188 –
+197.
+Staten, L., Gregory-Mercado, K., Ranger-Moore, J., Will, J., Giuliano, A.,
+Ford, E., et al. (2004). Provider counseling, health education, and community health workers: The Arizona WISEWOMAN Project. Journal of
+Women’s Health, 13, 547–556.
+Stokols, D. (1992). Establishing and maintaining healthy environments:
+Toward a social ecology of health promotion. American Psychologist,
+47, 6 –22.
+Stokols, D. (1996). Translating social ecological theory into guidelines for
+community health promotion. American Journal of Health Promotion,
+10, 282–298.
+Swider, S. M. (2002). Outcome effectiveness of community health
+workers: An integrative literature review. Public Health Nursing, 19,
+11–20.
+U.S. Department of Health and Human Services. (1996). Physical activity
+and Health: A report of the Surgeon General. Atlanta, GA: Author.
+U.S. Department of Health and Human Services and U.S. Department of
+Agriculture. (2005). Dietary guidelines for Americans. Washington, DC:
+U.S. Government Printing Office.
+Von Korff, M., Glasgow, R. E., & Sharpe, M. (2002). Organising care for
+chronic illness. British Medical Journal, 325, 92–94.
+Von Korff, M., Gruman, J., Schaefer, J., & Curry, S. (1997). Collaborative
+management of chronic illness. Annals of Internal Medicine, 127, 1097–1102.
+Wagner, E. H. (2001). Meeting the needs of chronically ill people. British
+Medical Journal, 323, 945–946.
+Wagner, E. H., & Groves, T. (2002). Care for chronic diseases. British
+Medical Journal, 325, 913–914.
+Wechsler, H., & Wernick, S. M. (1992). A social marketing campaign to
+promote low-fat mild consumption in an inner-city Latino community.
+Public Health Reports, 107, 202–207.
+400 EAKIN ET AL.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.

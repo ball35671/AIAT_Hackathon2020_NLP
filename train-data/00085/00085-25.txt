@@ -1,0 +1,1040 @@
+﻿ORIGINAL ARTICLE
+A Randomized, Controlled Trial of Gabapentin
+Enacarbil in Subjects with Neuropathic Pain
+Associated with Diabetic Peripheral Neuropathy
+Richard Rauck, MD*; Clare W. Makumi, PharmD†
+; Sherwyn Schwartz, MD‡
+;
+Ole Graff, MD†
+; Guy Meno-Tetang, PhD†
+; Christopher F. Bell, MS†
+;
+Sarah T. Kavanagh, MPH†
+; Carrie L. McClung, MS†
+*Carolinas Pain Institute, Winston Salem, North Carolina, U.S.A.; †
+GlaxoSmithKline, Research
+Triangle Park, NC and London, U.K.; ‡
+Diabetes and Glandular Disease Research Associates, San
+Antonio, Texas, U.S.A.
+& Abstract
+Background: Gabapentin enacarbil (GEn), a transported
+prodrug of gabapentin, provides sustained, dose-proportional gabapentin exposure. The purpose of this study was to
+investigate the dose response of GEn to select the optimal
+dose(s) for clinical use in subsequent diabetic peripheral
+neuropathy (DPN) trials.
+Methods: This was a multicenter, randomized, doubleblind, double-dummy, parallel group, placebo-controlled
+trial with a study duration of approximately 20 weeks
+(Clinicaltrials.gov database, Identifier # NCT00643760). Pregabalin (PGB) (Lyrica®; Pfizer Inc.) was used as an active
+control to provide assay sensitivity of the trial. A total of 421
+adult subjects with DPN were randomized in a ratio of
+2:1:1:1:2 to receive oral GEn 3,600 mg/day, GEn 2,400 mg/
+day, GEn 1,200 mg/day, PGB 300 mg/day, or matching placebo, respectively. The primary efficacy endpoint was change
+from baseline to end of maintenance treatment with respect
+to the mean 24-hour average pain intensity score based on an
+11-point Pain Intensity Numerical Rating Scale (PI-NRS).
+Safety and tolerability assessments included treatment-emergent adverse events (TEAEs), laboratory evaluations, vital
+signs, electrocardiograms (ECG), neurological examination,
+and pedal edema.
+Results: The adjusted mean difference vs. placebo at the end
+of maintenance treatment with respect to the mean 24-hour
+average PI-NRS pain intensity score for GEn 1,200 mg (0.35;
+[95% CI: 1.02, 0.31]; P = 0.295), GEn 2,400 mg (0.02; [95%
+CI: 0.71, 0.66]; P = 0.946), and GEn 3,600 mg (0.55; [95%
+CI: 1.10, 0.01]; P = 0.105) was not statistically significant.
+The active control, PGB (300 mg/day), did not differentiate
+from placebo.
+Conclusion: Overall, none of the GEn treatment groups
+differentiated from placebo. Analyses of the secondary
+endpoints showed comparable results across treatment
+groups. However, the majority of the endpoints, including
+all of the pain endpoints, showed the largest numerical
+treatment difference was between GEn 3,600 mg and
+Address correspondence and reprint request to: Carrie L. McClung, MS,
+Neurosciences Medicines Development Centre, GlaxoSmithKline, 5 Moore
+Drive Research Triangle Park, NC 27709-3398, U.S.A. E-mail: carrie.l.
+mcclung@gsk.com.
+Disclosures: This study was sponsored and conducted by GlaxoSmithKline. All named authors also reviewed and approved this article. Drs Graff,
+Makumi and Meno-Tetang, Ms. McClung, Ms. Kavanagh and Mr. Bell are
+employees of, and stakeholders in, GlaxoSmithKline. Drs. Rauck and
+Schwartz were Investigators in the conduct of this study and received
+funding from GlaxoSmithKline. Dr. Rauck was a paid consultant for GSK
+and also involved in the interpretation of the data.Declarations of Interest:
+Drs Graff, Makumi and Meno-Tetang, Ms. McClung, Ms. Kavanagh, Mr.
+Bell are employees of GlaxoSmithKline and have no other conflicts of
+interest to declare. Dr. Rauck and Dr. Schwartz have no other conflicts of
+interest to declare.
+Submitted: June 28, 2012; Revision accepted: October 03, 2012
+DOI. 10.1111/papr.12014
+© 2012 The Authors
+Pain Practice © 2012 World Institute of Pain, 1530-7085/12/$15.00
+Pain Practice, Volume 13, Issue 6, 2013 485–496
+placebo. The active control, PGB (300 mg/day), did not
+differentiate from placebo. &
+Key Words: gabapentin enacarbil, diabetic peripheral
+neuropathy, neuropathic pain, PXN110448
+INTRODUCTION
+Diabetes mellitus, particularly type 2 diabetes, is a
+common condition in the developed world and its
+prevalence is increasing rapidly. Diabetic peripheral
+neuropathy (DPN) is a common complication of
+diabetes mellitus and can occur in 34–90% of the
+diabetic population, depending on the diagnostic criteria
+used1–6
+. While not all DPN is painful, pain can develop
+as a symptom of DPN. It is estimated that between 16%
+and 26% of diabetic subjects experience chronic neuropathic pain associated with DPN7
+.
+Neuropathic pain associated with DPN is caused by
+lesions or dysfunction of the peripheral and/or central
+nervous system and does not require receptor stimulation. Painful sensations are most commonly relayed via
+small primary afferents, the A-d fibers, and unmyelinated C fibers to the dorsal horn of the spinal cord
+where a synaptic junction in the outer part of the
+dorsal horn subsequently relays sensations to the
+spino-parabrachial-amygdaloid pathway and spinothalamic tract7
+. Neuropathic pain is a paradox, in that
+there is development of pain in the area where the
+subject experiences sensory deficit due to nerve injury.
+Neuropathic pain results from plastic changes in the
+nervous system of some, although not all, subjects that
+leads to increased excitability of the remaining and
+surrounding neurons and results in the experience of
+pain.
+Since 1999, the United States (US) Food and Drug
+Administration (FDA) has approved two medications
+for the management of neuropathic pain associated with
+DPN: pregabalin (Lyrica®; Pfizer Inc., New York, NY,
+USA) and duloxetine (Cymbalta®; Eli Lilly & Co.,
+Indianapolis, IN, USA). Other nonapproved pharmacotherapies commonly used for treatment include
+gabapentin, tricyclic antidepressants, and opioids. In
+clinical trials, pregabalin and duloxetine have both been
+shown to improve pain scores in DPN subjects.
+However, less than half of subjects in the clinical trials
+with pregabalin and duloxetine experienced at least
+50% reduction in pain score from baseline8,9. Both the
+degree and variability of effectiveness of the currently
+approved medicines suggests that there are patients with
+neuropathic pain associated with DPN who might
+benefit from a new treatment option.
+Gabapentin enacarbil (GEn [XP13512/GSK18382
+62]) is a prodrug of gabapentin designed to overcome
+the pharmacokinetic limitations of gabapentin. Unlike
+orally administered gabapentin, which is absorbed by
+low capacity transporters expressed in a limited region
+of the upper intestine, GEn is designed to be absorbed by
+high-capacity transport mechanisms located throughout
+the intestinal tract, including the colon10. GEn is well
+absorbed and provides rapid and extended delivery of
+gabapentin into the systemic circulation, offering predictable absorption, dose-proportional gabapentin
+exposure, and the opportunity to optimize gabapentin
+exposure to patients. Additionally, GEn has been
+formulated as an extended release (ER) formulation,
+thereby providing less frequent dosing compared with
+gabapentin.
+The current study, PXN110448, explored the efficacy
+of GEn in the treatment for neuropathic pain associated
+with DPN. Study medication included different doses of
+GEn, pregabalin (PGB), and placebo.
+METHODS
+This study (PXN110448, Clinicaltrials.gov Identifier
+# NCT00643760) was conducted at 85 centres in the US,
+from March 2008–February 2009, in accordance with
+“good clinical practice” (GCP) and all applicable subject
+privacy requirements, the guiding principles of 21 Code
+of Federal Regulations parts 312, 50, and 56, and of the
+Declaration of Helsinki. The study protocol, the
+informed consent, and other information that required
+preapproval were reviewed and approved by applicable
+institutional review boards or ethics committees. Written
+informed consent was obtained from each subject prior
+to the performance of any study-specific procedures.
+Study Population
+Men and women at least 18 years of age who were
+diagnosed with diabetes mellitus (type 1 or 2) and had
+pain attributed to DPN, defined as painful distal
+symmetric sensorimotor polyneuropathy, for at least
+6 months and no greater than 5 years were considered
+for inclusion. Subjects must have had pain attributed to
+their DPN of at least moderate intensity, defined as an
+average pain intensity score of  4 on an 11-point pain
+intensity numerical rating scale (PI-NRS) where 0 = no
+pain and 10 = worst possible pain. During the 7 days
+486  RAUCK ET AL.
+preceding randomization, subjects recorded pain scores
+at least 4 of 7 days in a daily pain diary.
+Enrolled subjects were required to have stable glycemic control 3 months prior to randomization and
+glycosylated hemoglobin (HbA1c) levels < 8% at the
+time of randomization (levels were permitted to range
+between 8–11% if attempts to control diabetes had
+failed). Women of childbearing potential were required
+to have a negative pregnancy test and were willing to use
+an effective method of contraception throughout the
+study. Acetaminophen, up to 3 g/day, was allowed as
+rescue medication for pain throughout the trial but was
+not allowed within 24 hours of any site visit for
+assessments.
+Key exclusion criteria included the following:
+ Subjects with chronic pain due to neuropathy or
+lower extremity pain not related to DPN. However, subjects with chronic pain conditions not
+associated with DPN were not excluded if the pain
+was located at a different region of the body, the
+pain intensity was not greater than the pain
+intensity of the DPN pain, and the subject was
+able to assess DPN pain independently of other
+pain conditions.
+ Subjects with conditions (eg unstable depression,
+alcohol, substance abuse) or medications (eg acute
+pain medications, hypnotics, antidepressants) that
+could possibly have interfered with the assessment
+of pain improvement following the use of Gen.
+ Subjects with pre-existing liver, renal, cardiovascular, disease, epilepsy or seizure disorders, or any
+other medical condition or treatment that could
+have interfered with the accurate assessment of
+the efficacy, safety, or absorption of Gen.
+ Subjects who were currently participating in other
+clinical trials or who had been recently exposed
+to, or had an allergic reaction to, GEn or its
+components or acetaminophen or compounds
+closely related to acetaminophen.
+Study Design
+This was a multicenter, randomized, double-blind,
+double-dummy, parallel group, placebo-controlled,
+and active-controlled study to investigate the dose
+response of GEn in subjects with neuropathic pain
+associated with DPN.
+The duration of the study was approximately
+20 weeks, divided into six phases: screening (up to
+4 weeks); baseline (including randomization, 1 week);
+up-titration (1 week); maintenance phase (dose maintained at fixed level, 12 weeks); down-titration
+(1 week); and follow-up phase (1 week after last investigational product dose; 16 days for females of child
+bearing potential).
+Subjects were randomized to receive GEn 3,600 mg/
+day, GEn 2,400 mg/day, GEn 1,200 mg/day, PGB
+300 mg/day, or matching placebo in a 2:1:1:1:2 randomization ratio according to a computer-generated
+schedule. Gabapentin enacarbil was provided as 600 mg
+tablets with identical-in-appearance placebo tablets to
+ensure blinding of subjects and investigators; PGB was
+provided as 50 mg and 100 mg with identical-inappearance placebo capsules and was administered in
+accordance with the recommended dose for the management of neuropathic pain associated with DPN
+specified in the FDA approved package label8
+. To
+maintain blinding during the maintenance phase, all
+subjects were instructed to take the study medication as
+indicated in Table 1 in the morning, afternoon, and
+evening. All GEn and matching placebo tablets were
+provided in Medisets that were filled by an unblinded,
+third-party pharmacist; all PGB and matching placebo
+capsules were provided in blister cards.
+Table 1. Treatment Cohorts
+Cohort
+Randomization
+Ratio
+(n = Planned
+Number of
+Randomized
+Subjects)
+Maintenance Treatment
+Total Daily Regimen
+Placebo (PBO) 2
+(n = 112)
+GEn PBO X 6
+(3 tablets twice daily);
+PGB PBO X 3
+(1 capsule 3 times daily)
+GEn 1,200 mg/day 1
+(n = 56)
+GEn 600 mg X 2
+(1 tablet twice daily);
+GEn PBO X 4
+(2 tablets twice daily);
+PGB PBO X 3
+(1 capsule 3 times daily)
+GEn 2,400 mg/day 1
+(n = 56)
+GEn 600 mg X 4
+(2 tablets twice daily);
+GEn PBO X 2
+(1 tablet twice daily);
+PGB PBO X 3
+(1 capsule 3 times daily)
+GEn 3,600 mg/day 2
+(n = 112)
+GEn 600 mg X 6
+(3 tablet twice daily);
+PGB PBO X 3
+(1 capsule 3 times daily)
+PGB 300 mg/day 1
+(n = 56)
+PGB 100 mg X 3
+(1 capsule 3 times daily);
+GEn PBO X 6
+(3 tablets twice daily)
+Gabapentin Enacarbil in DPN  487
+Study Assessments
+The primary objective of the study was to investigate the
+dose response of GEn using improvement in pain
+intensity scores to select the optimal dose(s) for clinical
+use in subsequent DPN trials.
+Additional (secondary) objectives included characterizing the effect of GEn on improvement in pain
+parameters, physical and emotional function, and global
+improvement; investigating the safety of GEn; and
+estimating the systemic exposure of gabapentin associated with GEn doses of 1,200 mg/day, 2,400 mg/day,
+and 3,600 mg/day.
+The primary efficacy assessment instrument was the
+11-point PI-NRS as completed by subjects in their daily
+pain diary. Subjects described their pain during the
+previous 24 hours by choosing the appropriate number
+from 0 (“no pain”) to 10 (“pain as bad as you can
+imagine”). The primary analysis compared the change
+from baseline to end of maintenance treatment
+(EOMT) with respect to the mean 24-hour average
+pain intensity score. The baseline score was the
+calculated mean of the daily 24-hour average pain
+scores for each subject during the last 7 days prior to
+randomization. The EOMT score was the calculated
+mean of the daily 24-hour average pain scores for each
+subject during the last seven days of the maintenance
+phase.
+The secondary efficacy endpoints included the change
+from baseline in the mean: 24-hour average pain
+intensity score, daytime average pain intensity score,
+nighttime average pain intensity score, current pain
+intensity score, daytime worst pain intensity score,
+nighttime worst pain intensity score, sleep interference
+score, and rescue analgesia consumption (mg), each of
+which was analyzed at each week of treatment and posttreatment.
+Other efficacy endpoints included: the Neuropathic
+Pain Scale (NPS); Short-Form McGill Pain Questionnaire (SF-MPQ); pre- and post-50-foot (15 meter) walk
+pain scores; proportion of subjects who were “much
+improved” or “very much improved” on the Patient
+Global Impression of Change (PGIC) and Clinician
+Global Impression of Change (CGIC) questionnaires;
+proportion of subjects achieving various levels of
+reduction in the 24-hour average pain intensity score;
+time to onset of sustained improvement in the 24-hour
+average pain intensity score; Profile of Mood State
+(POMS); and Short-Form-36 (SF-36) health-related
+quality of life questionnaire.
+The safety assessments included treatment-emergent
+adverse events (TEAEs), possible suicidality-related
+adverse events (PSRAEs), laboratory evaluations (blood
+chemistry, hematology, immunology, urinalysis, pregnancy), vital signs (blood pressure, heart rate), electrocardiograms (ECG), and a neurological exam, including
+a detailed examination of sensory and motor systems,
+body weight, and pedal edema. The investigator was
+responsible for the detection and documentation of
+events meeting the criteria and definition of an AE or a
+serious adverse event (SAE) as defined in the study
+protocol; adverse events were collected at each study
+visit.
+The objective of the population PK analysis was to
+derive the daily area under the gabapentin plasma
+concentration curve (AUC0-24) in each subject with
+neuropathic pain associated with DPN. A Bayesian
+approach was applied to estimate individual PK parameters assuming the population PK model previously
+estimated with data from healthy subjects and subjects
+with RLS as priors. A population PK/PD model,
+describing the relationship between gabapentin systemic
+exposure and pain intensity scores, was then developed.
+In addition, the potential effects of covariates (age, body
+weight, height, body mass index, sex, concomitant
+medications, and baseline pain score) on the defined
+exposure–response relationship were investigated.
+Statistical Methods
+The study was originally designed to assess dose
+response from an anticipated Emax distribution. Consequently, there was an unequal randomization to the
+different treatment arms. However, the primary statistical analysis (per-protocol amendment 3) was designed
+to test each potential dose (GEn 3,600 mg/day, GEn
+2,400 mg/day, or GEn 1,200 mg/day) against placebo.
+A planned sample size of 336 subjects, randomized in a
+2:1:1:2 ratio (GEn 3,600 mg/day:GEn 2,400 mg/day:
+GEn 1,200 mg/day:Placebo) (112:56:56:112), provided
+power ranging between 71 and 96% to detect a
+treatment effect of 1.2 points in mean pain intensity
+score as compared to placebo, assuming a standard
+deviation of 2.45. Additionally, 56 subjects were to be
+randomized to PGB (300 mg/day) as an active control
+to provide a descriptive assessment of the assay sensitivity of the study. To protect the experiment-wise alpha
+level of 0.05, a combination of sequential methods and
+a Hochberg procedure was used for the primary
+endpoint.
+488  RAUCK ET AL.
+Based on a simulation of the Hochberg method for
+adjusting for multiple comparisons, if both GEn
+3,600 mg/day and GEn 2,400 mg/day were effective,
+there would be approximately 96% power to detect a
+difference for at least one of the comparisons, GEn
+3,600 mg/day vs. placebo and GEn 2,400 mg/day vs.
+placebo. If only GEn 3,600 mg/day was effective, there
+would be 88% power to detect a difference between
+GEn 3,600 mg/day and placebo at an alpha level of
+0.025. If only GEn 2,400 mg/day was effective, there
+would be 71% power to detect a difference between
+GEn 2,400 mg/day and placebo at an alpha level of
+0.025.
+The GEn 1,200 mg/day dose was to be compared
+with placebo only if both of the higher doses were
+statistically significant at an alpha level of 0.05. Formal
+statistical testing of PGB to placebo was not conducted.
+The Safety Population, used to assess safety endpoints, was composed of all subjects who took at least
+one dose of investigational product. The Intent-to-Treat
+(ITT) Population, used to assess all efficacy endpoints,
+comprised all randomized subjects who took at least one
+dose of investigational product and provided at least one
+postbaseline efficacy measurement. The Per-Protocol
+(PP) Population was defined as all subjects in the ITT
+Population who had no major protocol deviations. The
+PK Population was defined as all randomized subjects
+who took at least one dose of investigational product
+and provided at least one PK sample.
+The primary efficacy analysis used the last observation carried forward (LOCF) approach for imputation
+of data for subjects who did not complete the study.
+Sensitivity analyses using baseline observation carried
+forward (BOCF), BOCF/LOCF Hybrid and observed
+cases (OC) data for noncompleters, were also performed. Finally, a mixed-model repeated measures
+(MMRM) analysis was performed as an additional
+sensitivity analysis for the primary efficacy variable
+using the OC data for the ITT population.
+For endpoints assessed as a change from baseline,
+including the primary efficacy endpoint, each dose of
+GEn was compared with placebo using an Analysis of
+Covariance (ANCOVA) model, with body mass index
+(BMI), baseline score for the endpoint being analyzed,
+grouped centre, and randomized treatment as terms in
+the model. The proportion endpoints (eg proportion of
+subjects who are “much improved” or “very much
+improved” per the PGIC and CGIC) were analyzed
+using logistic regression with grouped centre and randomized treatment as terms in the model (PGIC), or
+with randomized treatment as the only term in the
+model (CGIC).
+RESULTS
+Subject Disposition and Baseline Characteristics
+There were 421 subjects randomized in a 2:1:1:1:2 ratio
+(GEn 3,600 mg/day:GEn 2,400 mg/day:GEn 1,200 mg/
+day:PGB 300 mg/day:Placebo) in the study (n = 117
+GEn 3,600 mg/day, n = 56 GEn 2,400 mg/day, n= 62
+GEn 1,200 mg/day, n = 66 PGB 300 mg/day, n = 120
+placebo). One subject in the GEn 3,600 mg group, who
+was randomized in error, did not take study medication
+and therefore was excluded from the Safety population.
+Of the 420 subjects in the Safety population, all were
+included in the ITT population.
+The majority of subjects enrolled in the study were
+white (80%) and male (59%). Mean age ranged from
+57.5–60.8 years across treatment groups. Across treatment groups, the majority of subjects (61% [GEn
+2,400 mg/day], 66% [GEn 3,600 mg/day], 74% [GEn
+1,200 and PGB], and 78% [PBO]) were obese as defined
+by a BMI > 30 kg/m2
+.
+Demographics and baseline characteristics were similar among treatment groups (Table 2).
+Efficacy—Pain Measures
+The primary efficacy endpoint was the change from
+baseline to EOMT for the mean 24-hour average
+pain intensity score based on an 11-point PI-NRS.
+A decreased mean 24-hour average pain intensity score
+at EOMT, as compared to baseline, was noted in all
+treatment groups (Table 3, Figure 1).
+For the primary analysis (using LOCF data), there
+were no statistically significant differences when
+comparing each active daily dose of GEn (1,200 mg,
+2,400 mg, and 3,600 mg) vs. placebo, P = 0.295,
+0.946, and 0.105, respectively, at EOMT. The unadjusted P-values (ie not adjusted for multiple comparisons of active treatment vs. placebo) were 0.295, 0.946,
+and 0.052, respectively.
+Consistent with the primary LOCF analysis, the
+supportive analyses of the ITT population using BOCF,
+BOCF/LOCF hybrid, OC, the MMRM analysis of the
+ITT population using OC data, and the PP population
+analyses all resulted in a decreased 24-hour pain
+intensity score at EOMT, as compared with placebo
+(Table 4). When considering the BOCF and MMRM
+Gabapentin Enacarbil in DPN  489
+analysis, the magnitude of the improvement was greater
+in the GEn 3,600 mg/day treatment group than in the
+placebo treatment group, with the confidence intervals
+(not multiplicity-adjusted) indicating a benefit for GEn
+3,600 mg/day over placebo.
+Per the predefined testing strategy, GEn 1,200 mg vs.
+placebo was only to be tested if both GEn 2,400 mg and
+GEn 3,600 mg were significantly better than placebo at
+an alpha (a) level of 0.05. Thus, the results for the
+1,200 mg group are included in Table 4 for reference
+and should only be considered descriptive. The active
+control, PGB (300 mg/day), did not differentiate from
+placebo. Neither the method of imputation, statistical
+analysis technique, nor the population had a significant
+impact on the primary efficacy measure.
+The secondary efficacy analyses were performed on
+the ITT population, and as shown in Tables 5 and 6,
+overall, the analyses of the secondary endpoints showed
+comparable results across treatment groups. Additionally, the time to sustained improvement was defined as
+the time to the first of two or more consecutive days of at
+least 2-points reduction in the 24-hour average pain
+intensity score relative to baseline. Fifty percent of
+subjects in the GEn 3,600 mg treatment group achieved
+sustained improvement within 15 days of first dose of
+investigational product as compared to PBO (24 days),
+Table 3. Change from Baseline in 24-Hour Average Pain
+Intensity Score at End of Maintenance Treatment (ITT
+Population, LOCF Imputation)
+Time Period Parameter
+PBO
+N = 120
+GEn
+1,200 mg
+N = 62
+GEn
+2,400 mg
+N = 56
+GEn
+3,600 mg
+N = 116
+PGB
+300 mg
+N = 66
+Baseline Mean 6.49 6.64 6.26 6.48 6.51
+Change
+from
+Baseline
+to
+EOMT1
+Mean 2.09 2.55 1.90 2.54 1.66
+SD 2.069 2.535 2.049 2.423 1.833
+Median 1.59 1.71 1.61 2.15 1.54
+Min 7.5 8.4 6.1 8.0 7.1
+Max 1.8 1.0 4.3 4.3 2.2
+End of maintenance treatment.
+Figure 1. Adjusted mean (95% CI) change from baseline in 24-
+hour average pain intensity by week and at the EOMT (ITT, LOCF).
+Table 2. Demographics and Baseline Characteristics (Safety Population)
+Number (%) of Subjects
+PBO
+N = 120
+GEn 1,200 mg
+N = 62
+GEn
+2,400 mg
+N = 56
+GEn 3,600 mg
+N = 116
+PGB 300 mg
+N = 66
+Total
+N = 420
+Age
+Mean (SD)
+Range
+60.1(10.63)
+29–85
+57.5 (10.32)
+32–77
+60.8 (8.97)
+33–78
+57.5 (9.87)
+35–79
+57.7(10.59)
+35–79
+58.7 (10.20)
+29–85
+Age group
+ 65 years 82 (68%) 44 (71%) 39 (70%) 90 (78%) 50 (76%) 305 (73%)
+> 65 years 38 (32%) 18 (29%) 17 (30%) 26 (22%) 16 (24%) 115 (27%)
+Sex
+Female 47 (39%) 28 (45%) 19 (34%) 45 (39%) 32 (48%) 171 (41%)
+Male 73 (61%) 34 (55%) 37 (66%) 71 (61%) 34 (52%) 249 (59%)
+Race
+White* 98 (82%) 46 (74%) 47 (85%) 90 (79%) 52 (81%) 333 (80%)
+BMI
+ 30 27 (23%) 16 (26%) 22 (39%) 39 (34%) 17 (26%) 121 (29%)
+> 30 93 (78%) 46 (74%) 34 (61%) 77 (66%) 49 (74%) 299 (71%)
+Baseline 24-hour pain score
+Mean
+(SD)
+Range
+6.49
+(1.26)
+4.0–10.0
+6.64
+(1.47)
+4.0–9.4
+6.26
+(1.22)
+4.0–9.6
+6.48
+(1.43)
+4.0–10.0
+6.51
+(1.27)
+4.0–9.3
+N/A
+Baseline 24-hour pain score
+4 to < 6.5 61 (51%) 25 (40%) 32 (57%) 63 (54%) 33 (50%) 214 (51%)
+6.5 to 10 59 (49%) 37 (60%) 24 (43%) 53 (46%) 33 (50%) 206 (49%)
+Creatinine Clearance, est. (mL/min)
+Mean
+(SD)
+Range
+111.3
+(38.09)
+45–296
+115.3
+(40.49)
+31–262
+107.1
+(39.35)
+43–222
+119.6
+(41.94)
+45–249
+121.5
+(47.57)
+47–299
+N/A
+*Other races were primarily African American/African Heritage.
+N/A, not applicable
+490  RAUCK ET AL.
+GEn 1,200 mg (25 days), GEn 2,400 mg (22 days), and
+PGB 300 mg (29 days) treatment groups.
+Safety and Tolerability
+The majority of subjects across all treatment groups
+reported at least one TEAE. Overall, the rate of AEs (any
+event) reported across the GEn groups and the PGB
+group was comparable. The most commonly reported
+TEAEs that occurred at a rate  5% in any active
+treatment group included dizziness, somnolence, nausea, and peripheral edema (Table 7).
+The majority of subjects in each treatment group
+completed the study. A slightly higher percentage of
+subjects in the GEn daily doses of 2,400 mg and
+3,600 mg withdrew from the study, as compared with
+the other treatment groups (Figure 2). This difference
+was driven by a higher rate of AE withdrawals in
+the higher dose GEn treatment groups (21% in the
+GEn 2,400 mg treatment group and 18% in the
+GEn 3,600 mg treatment group). The GEn 3,600 mg
+treatment group had the smallest proportion of subjects
+withdraw from the study due to protocol deviations.
+For all other categories of withdrawal, the treatment
+groups were comparable in the percentage of subjects
+withdrawn.
+No AE led to the withdrawal of > 5% of subjects in
+any treatment group. Additionally, there was no consistent pattern of AEs related to dose or treatment across
+treatment groups. There was one report of suicidal
+ideation in the study; it occurred in the GEn 3,600 mg
+group. It was reported as moderate in severity, not
+serious, and was considered to be related to the
+investigational product by the investigator. The subject
+had no history of psychiatric conditions including
+suicidal ideation, behavior, or self-harm. Reported
+stressors included job loss and domestic stress. The
+event occurred 51 days after starting GEn and lasted
+1 day. GEn treatment was discontinued, and the likelihood of reoccurrence was reported as unlikely.
+During the study, 22 subjects reported 29 nonfatal
+SAEs and no clear differences were noted between
+treatment groups. No deaths occurred during this study.
+There were no clinically significant mean changes in
+blood pressure or HR in the GEn, PGB, or placebo
+treatment groups. At the end of maintenance treatment,
+subjects in the PGB treatment group experienced the
+most weight gain. Of the GEn groups, weight gain
+increased by dose with subjects in the GEn 3,600 mg/
+day group experiencing the most weight gain and
+subjects in the GEn 1,200 mg/day group experienced
+the least gain. Subjects in the placebo group showed the
+least change in weight across all treatment groups. The
+proportion of subjects who had weight gain of at least
+7% at any visit postrandomization was greatest in the
+PGB group (15%), followed by the GEn 3,600 mg
+group (11%) compared with the GEn 2,400 mg (7%),
+GEn 1,200 mg (5%) and PBO (3%). There were no
+systematic changes noted in laboratory parameters or
+ECG findings across the treatment groups.
+Pharmacokinetics/Pharmacodynamics
+Gabapentin plasma concentration data in DPN subjects
+were collected in accordance with the protocol. Only
+four subjects were excluded from the PK analysis. The
+distribution of sampling times during the treatment was
+homogeneous between doses, which allowed capture of
+Table 4. Treatment Difference vs. Placebo for Change
+from Baseline in Mean 24-Hour Average Pain Intensity
+Score at End of Maintenance Treatment (LOCF, BOCF,
+BOCF/LOCF Hybrid, OC, MMRM, PP Population)
+Population
+(Imputation
+Method)
+GEn
+1,200 mg
+N = 62
+GEn
+2,400 mg
+N = 56
+GEn
+3,600 mg
+N = 116
+PGB
+300 mg
+N = 66
+ITT (LOCF)
+n 62 56 116 66
+Adj. mean diff vs.
+Placebo
+0.35 0.02 0.55 0.43
+95% CI (1.02, 0.31) (0.71, 0.66) (1.10, 0.01) (0.22, 1.08)
+Adj. P-value* 0.295 0.946 0.105 NA
+ITT (BOCF)
+n 62 56 116 66
+Adj. mean diff vs.
+Placebo
+0.29 0.02 0.58 0.41
+95% CI (0.96, 0.37) (0.67, 0.70) (1.13, 0.02) (0.24, 1.07)
+ITT (BOCF/LOCF hybrid)
+n 62 56 116 66
+Adj. mean diff vs.
+Placebo
+0.36 0.03 0.56 0.43
+95% CI (1.03, 0.30) (0.71, 0.66) (1.12, 0.01) (0.22, 1.08)
+ITT (OC)
+n 59 53 115 65
+Adj. mean diff vs.
+Placebo
+0.37 0.01 0.56 0.43
+95% CI (1.05, 0.31) (0.71, 0.70) (1.12, 0.01) (0.23, 1.09)
+Per-protocol (LOCF)
+n 49 42 93 53
+Adj. mean diff vs.
+Placebo
+0.39 0.07 0.69 0.42
+95% CI (1.15, 0.37) (0.88, 0.73) (1.32, 0.06) (0.33, 1.16)
+MMRM (OC)
+n 59 53 115 65
+Adj. mean diff vs.
+Placebo
+0.37 0.03 0.50 0.45
+95% CI (0.92, 0.19) (0.60, 0.55) (0.97, 0.04) (0.1. 0.99)
+A negative treatment difference indicates benefit, relative to placebo.
+*Adjusted P-values are valid for inference of the LOCF analysis. Adjustments to P-values
+were made based on multiple treatment arms.
+Gabapentin Enacarbil in DPN  491
+Table 5. Secondary Outcome Measures
+GEn 1,200 mg vs. placebo GEn 2,400 mg vs. placebo GEn 3,600 mg vs. placebo PGB 300 mg vs. placebo
+Adj Mean Diff 95% CI Adj Mean Diff 95% CI Adj Mean Diff 95% CI Adj Mean Diff 95% CI
+Treatment difference in change from baseline pain intensity and sleep endpoints at EOMT (LOCF)
+Daytime avg pain* 0.28 (0.94, 0.38) 0.00 (0.68, 0.68) 0.47 (1.02, 0.08) 0.57 (0.08, 1.21)
+Daytime worst pain* 0.01 (0.72, 0.70) 0.08 (0.65, 0.82) 0.54 (1.13, 0.05) 0.71 (0.02, 1.41)
+Nighttime avg pain* 0.16 (0.84, 0.52) 0.05 (0.76, 0.66) 0.72 (1.29, 0.15) 0.16 (0.51, 0.83)
+Nighttime worst pain* 0.02 (0.70, 0.74) 0.00 (0.74, 0.75) 0.75 (1.35,0.14) 0.39 (0.31, 1.10)
+Current morning pain* 0.19 (0.83, 0.46) 0.05 (0.72, 0.62) 0.50 (1.04, 0.04) 0.40 (0.24, 1.03)
+Current evening pain* 0.05 (0.71, 0.60) 0.08 (0.60, 0.76) 0.47 (1.02, 0.08) 0.54 (0.11, 1.18)
+Sleep interference* 0.19 (0.91, 0.53) 0.10 (0.85, 0.64) 0.66 (1.26,0.06) 0.11 (0.60, 0.82)
+Sleep time, hours* 0.02 (0.34, 0.29) 0.15 (0.47, 0.18) 0.00 (0.26, 0.26) 0.09 (0.22, 0.40)
+Nighttime awakenings due to pain* 0.04 (0.34, 0.25) 0.07 (0.24, 0.38) 0.10 (0.34, 0.15) 0.12 (0.41, 0.18)
+Total nighttime awakenings* 0.25 (0.59, 0.08) 0.21 (0.56, 0.13) 0.25 (0.53, 0.03) 0.47 (0.80,0.14)
+% of days using sleep medications* 5.93 (4.06,15.92) 2.53 (12.90,7.80) 5.65 (14.00,2.72) 1.55 (8.29,11.39)
+After 50ft Walk† 0.06 (0.20,0.32) 0.02 (0.26,0.31) 0.13 (0.35,0.08) 0.21 (0.05,0.47)
+BPI Severity† 0.3 (0.96,0.44) 0.3 (1.06,0.47) 0.7 (1.29,0.12) 0.4 (0.28,1.08)
+BPI Interference† 0.0 (0.76,0.69) 0.2 (0.95,0.63) 0.6 (1.16,0.04) 0.1 (0.59,0.82)
+Treatment difference in change from baseline in efficacy and health outcomes at EOMT† (LOCF)
+SF-36 Physical Component Score 0.3 (1.92, 2.62) 0.6 (1.88, 3.06) 1.4 (0.46, 3.31) 0.6 (1.60, 2.83)
+SF-36 Mental Component Score 2.1 (5.09, 0.90) 1.0 (4.24, 2.30) 0.8 (3.34, 1.64) 1.8 (4.68, 1.17)
+POMS-B Tension-Anxiety 0.4 (0.59, 1.38) 0.2 (0.84, 1.32) 0.0 (0.80, 0.85) 0.6 (0.34, 1.59)
+POMS –B Depression-Rejection 0.4 (0.66, 1.41) 0.1 (1.21, 1.05) 0.2 (0.63, 1.09) 0.9 (0.12, 1.90)
+POMS-B Anger-Hostility 0.3 (1.41, 0.78) 0.0 1.21, 1.18) 0.2 (0.66, 1.15) 0.2 (0.88, 1.25)
+POBS-B Vigor-Activity 0.6 (1.73, 0.46) 0.5 (1.65, 0.73) 0.1 (0.81, 1.00) 0.9 (1.98, 0.16)
+POMS-B Fatigue-Inertia 0.4 (0.88, 1.64) 0.3 (1.67, 1.09) 0.3 (1.31, 0.79) 0.8 (0.46, 2.00)
+POMS-B Confusion-Bewilderment 0.4 (0.27, 1.14) 0.1 (0.63, 0.91) 0.3 (0.31, 0.86) 0.0 (0.69, 0.70)
+Treatment difference in change from baseline at EOMT† (LOCF)
+NPS 10 0.49 (5.96,6.93) 3.33 (10.3,3.69) 6.57 (12.0,1.18) 2.76 (3.55,9.07)
+NPS 8 0.90 (5.50,7.29) 3.11 (10.1,3.85) 6.41 (11.8,1.05) 2.54 (3.72,8.80)
+NPS NA 0.49 (6.24,7.22) 3.49 (10.8,3.84) 6.98 (12.6,1.34) 3.74 (2.85,10.33)
+NPS 4 0.36 (7.49,6.78) 4.61 (12.4,3.16) 7.30 (13.3,1.32) 4.48 (2.51,11.47)
+SF-MPQ Total 0.70 (3.64,2.24) 0.90 (4.10,2.29) 1.71 (4.14,0.73) 1.84 (1.00,4.69)
+SF-MPQ Sensory 0.58 (2.88,1.71) 1.06 (3.56,1.43) 1.25 (3.15,0.65) 1.52 (0.70,3.74)
+SF-MPQ Affective 0.02 (0.86,0.82) 0.19 (0.73,1.10) 0.44 (1.14,0.26) 0.37 (0.44,1.18)
+Daily Dose of Rescue Meds (mg) * 90.36 (158, 338.6) 159.48 (97.4, 416.4) 33.46 (175, 242.2) 15.92 (228, 259.6)
+Proportion of PGI/CGI responders at EOMT† (LOCF)
+Odds Ratio 95% CI Odds Ratio 95% CI Odds Ratio 95% CI Odds Ratio 95% CI
+PGIC 0.8 (0.40, 1.65) 1.9 (0.88, 3.97) 1.5 (0.86, 2.75) 0.9 (0.46, 1.83)
+CGIC 0.9 (0.47, 1.88) 1.8 (0.88, 3.89) 1.9 (1.08, 3.47) 0.7 (0.34, 1.40)
+EOMT, end of maintenance treatment; LOCF, last observation carried forward.
+*The EOMT value reflects the seven postbaseline days prior to or on the date of last study medication or the week 13/withdrawal visit, whichever comes first, with imputation.
+†The EOMT value reflects the week 13 assessment; for participants without a week 13 visit, this value reflects the assessment collected at the withdrawal visit, as long as it occurred within one day of last dose of study medication;
+otherwise this is the last postbaseline assessment collected on or before the date of last dose of study medication and may include data collected during the up-titration period.
+492
+ RAUCK ET AL.
+the PK profile of gabapentin during the dosing interval at
+steady state.
+An exposure–pain reduction response was established
+for gabapentin following administration of GEn. The
+pharmacodynamic effects of GEn were modelled as a
+linear function of daily gabapentin exposure (AUC0-24).
+After placebo correction, the net drug effect was small,
+as shown in Figure 3. For the highest gabapentin
+AUC0-24ss (312–758 µg*h/mL) obtained in the study,
+the median net effect was a 0.9-point reduction in pain
+score on a [0–10] scale. The net drug response ranged
+0.4 to 3; four subjects had a net drug effect > 3.
+However, these subjects were considered outliers.
+DISCUSSION
+In this randomized clinical study of patients with
+neuropathic pain associated with DPN, all treatment
+groups experienced a reduction in pain intensity scores
+(baseline to EOMT) as measured on the 11-point
+PI-NRS with scores ranging from 1.66 with PGB to
+2.54 with GEn 3,600 mg. However, comparisons
+Table 6. Responder Rates for 24-Hour Average Pain Intensity at EOMT (LOCF), n (%)
+Percentage Reduction from Baseline
+Placebo
+(N = 120)
+GEn 1,200 mg
+(N = 62)
+GEn 2,400 mg
+(N = 56)
+GEn 3,600 mg
+(N = 116)
+PGB 300 mg
+(N = 66)
+ 0 103 (86%) 55 (89%) 50 (89%) 101 (87%) 55 (83%)
+ 10% 86 (72%) 43 (69%) 42 (75%) 91 (78%) 42 (64%)
+ 20% 73 (61%) 36 (58%) 34 (61%) 78 (67%) 36 (55%)
+ 30% 57 (48%) 31 (50%) 25 (45%) 66 (57%) 28 (42%)
+ 40% 46 (38%) 28 (45%) 19 (34%) 55 (47%) 20 (30%)
+ 50% 35 (29%) 26 (42%) 15 (27%) 46 (40%) 14 (21%)
+ 60% 26 (22%) 21 (34%) 11 (20%) 41 (35%) 9 (14%)
+ 70% 15 (13%) 17 (27%) 6 (11%) 25 (22%) 5 (8%)
+ 80% 11 (9%) 11 (18%) 5 (9%) 17 (15%) 4 (6%)
+ 90% 4 (3%) 5 (8%) 2 (4%) 8 (7%) 3 (5%)
+100% 3 (3%) 4 (6%) 1 (2%) 5 (4%) 3 (5%)
+Table 7. Most Common (at Least 5%) Treatment-Emergent Adverse Events (Safety Population)
+Preferred Term
+Number (%) of Subjects
+Placebo
+N = 120
+GEn 1,200 mg
+N = 62
+GEn 2,400 mg
+N = 56
+GEn 3,600 mg
+N = 116
+PGB 300 mg
+N = 66
+Any event 79 (66) 45 (73) 38 (68) 86 (74) 47 (71)
+Dizziness 7 (6) 9 (15) 8 (14) 16 (14) 9 (14)
+Somnolence 5 (4) 2 (3) 7 (13) 14 (12) 9 (14)
+Nausea 9 (8) 7 (11) 4 (7) 7 (6) 3 (5)
+Peripheral edema 5 (4) 2 (3) 0 11 (9) 11 (17)
+Headache 9 (8) 3 (5) 4 (7) 4 (3) 6 (9)
+Muscle spasms 4 (3) 6 (10) 0 11 (9) 3 (5)
+Diarrhea 6 (5) 3 (5) 2 (4) 6 (5) 5 (8)
+Urinary tract infection 5 (4) 3 (5) 4 (7) 6 (5) 4 (6)
+Constipation 4 (3) 3 (5) 4 (7) 4 (3) 6 (9)
+Fatigue 3 (3) 3 (5) 3 (5) 5 (4) 4 (6)
+Arthralgia 5 (4) 1 (2) 2 (4) 5 (4) 3 (5)
+Nasopharyngitis 5 (4) 1 (2) 2 (4) 4 (3) 3 (5)
+Pain in extremity 2 (2) 1 (2) 4 (7) 6 (5) 2 (3)
+Vision blurred 5 (4) 0 3 (5) 2 (2) 3 (5)
+Weight increased 1 (< 1) 0 2 (4) 5 (4) 5 (8)
+Back pain 3 (3) 1 (2) 1 (2) 3 (3) 3 (5)
+Increased appetite 4 (3) 0 3 (5) 1 (< 1) 3 (5)
+Dry mouth 4 (3) 0 4 (7) 1 (< 1) 1 (2)
+Disturbance in attention 2 (2) 2 (3) 0 2 (2) 3 (5)
+Vomiting 3 (3) 3 (5) 1 (2) 2 (2) 0
+Bronchitis 1 (< 1) 3 (5) 1 (2) 0 1 (2)
+Excoriation 0 1 (2) 1 (2) 1 (< 1) 3 (5)
+Hypoesthesia 1 (< 1) 1 (2) 1 (2) 0 3 (5)
+Paresthesia 0 2 (3) 1 (2) 0 3 (5)
+Fall 0 3 (5) 1 (2) 1 (< 1) 0
+All AEs occurred more frequently than placebo in at least one active treatment arm.
+Gabapentin Enacarbil in DPN  493
+between GEn and placebo failed to reach statistical
+significance with adjusted mean differences ranging
+from 0.02 (GEn 2,400 mg; P = 0.946) to 0.55
+(GEn 3,600 mg; P = 0.105). The results were consistent
+across multiple methods of adjusting for missing values
+(ie LOCF, BOCF, BOCF/LOCF hybrid, OC [ITT, Perprotocol and MMRM]). When compared to placebo,
+the active-control arm of the study, PGB 300 mg, also
+failed to reach statistical significance with the adjusted
+mean difference actually favouring the placebo treatment group.
+Gabapentin, which is approved for the treatment of
+postherpetic neuralgia (PHN), has been prescribed
+extensively over the past 15+ years for the treatment of
+neuropathic pain and has been investigated in numerous
+neuropathic and nonneuropathic pain conditions11.
+While gabapentin has demonstrated efficacy in reduction in perioperative pain and opioid use, several reviews
+of pharmacological management in neuropathic pain
+have concluded that gabapentin should be considered a
+first-line drug in neuropathic pain conditions12,13. In a
+well-designed prospective, randomized, double-blind,
+placebo-controlled study, Backonja et al. examined the
+Figure 2. Summary of subject disposition and reasons for premature withdrawal (randomized population).
+Figure 3. Drug effect (corrected for placebo) estimated as a
+function of gabapentin systemic exposure (PK population).
+494  RAUCK ET AL.
+efficacy of gabapentin in neuropathic pain associated
+with diabetic peripheral neuropathy (DPN). Gabapentin
+demonstrated significant efficacy in this study of 165
+patients with DPN; pain in the gabapentin group
+decreased from 6.4 to 3.9 (Likert scale: 0–10) vs.
+placebo, 6.5 to 5.1 (P < 0.001), and all secondary
+endpoints statistically favored gabapentin over
+placebo14.
+A study of DPN patients (n = 40), by Gorson et al.,
+failed to show efficacy in a placebo-controlled, doubleblind, crossover design. A secondary endpoint, the
+McGill pain questionnaire, demonstrated statistically
+significant benefit of gabapentin vs. placebo (P = 0.03).
+The dose of gabapentin did not exceed the daily dose of
+900 mg15.
+Numerous drugs studied in neuropathic pain have
+reported negative outcomes. It has often been difficult to
+interpret these results when juxtaposed with other
+positive trials or clinical practice12,13. Are there differences in neuropathic disease states that might explain
+the conflicting reports? Dworkin et al. recently compared clinical trial results in the two most commonly
+studied neuropathic disease states: DPN and PHN. The
+authors found that the placebo group improvements
+were greater in painful DPN trials when compared with
+PHN trials. When compared with results in groups
+receiving active medication, the placebo benefits could
+not be attributed to greater overall improvement in
+subjects with DPN12.
+Pregabalin and duloxetine have both received regulatory approval for the treatment of DPN. As stated
+above, gabapentin had mixed efficacy trials in two
+well-designed RCTs. However, gabapentin is listed as
+first-line treatment for DPN in several guideline publications. Many clinicians, following these guidelines,
+have reported and discussed the benefits of gabapentin
+in their patients with DPN.
+Given the backdrop described above, one should be
+well acquainted with the nuances of clinical trials and
+drug development. These nuances appear enhanced in
+the particular population of patients with DPN. The
+current trial of gabapentin enacarbil (GEn) clearly failed
+to meet its primary efficacy endpoint or any of its
+secondary endpoints. An active comparator, pregabalin
+(approved for the indication of DPN), performed as
+poorly or worse compared to the study drug. How does
+one interpret these results? Does this represent a failed
+trial or a failed drug (negative trial)?
+In the current study of GEn, subjects receiving
+placebo reported possibly significant pain relief (> 2
+point reduction on a 0–10 point Likert scale) at the end
+of the maintenance phase (13 weeks of double-blind
+conditions). While this level of placebo response has
+occurred in other chronic pain trials, it presents an
+enormous burden for an active drug to overcome. There
+may be several reasons to explain this degree of placebo
+response.
+First, the natural history of painful diabetic peripheral neuropathy waxes and wanes. Some patients
+develop spontaneous improvements in their pain, more
+commonly early in the disease process. If more of these
+patients happen to be receiving placebo, they will
+accurately report significant improvements in their pain,
+despite the lack of a pharmacologically active compound being received. Results would expect to skew in
+favor of the placebo group.
+Second, there are differences between PHN and DPN
+regarding underlying pathophysiologic mechanisms.
+DPN is a disease of the peripheral nervous system while
+PHN patients often have lesions in the dorsal horn of the
+spinal cord. It has been hypothesized that intact
+descending inhibitory pathways in the spinal cord dorsal
+horn are required for the placebo response16. This could
+explain the differences in placebo responses seen
+between these two study groups and further explain
+the placebo response seen in the current trial.
+Third, the current study randomized subjects into one
+of five treatment groups. Randomization occurred such
+that subjects had only a two in seven chance of receiving
+placebo. As this information was provided in the
+informed consent form, subjects knew that the chances
+of receiving an active compound were greater than 70%.
+A familiar maxim states, “Results follow expectations.”
+Unknowingly, subjects receiving placebo could overstate the analgesic efficacy they perceived during the
+trial.
+The current study was designed with a placebo group,
+three fixed doses of GEn, and the active comparator,
+pregabalin (PGB) for various reasons. The US FDA
+routinely wants to know the minimum effective dose of
+a drug. Phase II clinical trials are commonly designed to
+study doses and are often referred to as dose ranging
+studies. Earlier work had suggested that 1,200 mg/day
+of GEn would be inferior to the higher doses. Maximally
+tolerated dose is another concept often explored in
+Phase II studies. The 3,600 mg daily dose of GEn was
+thus included in the current trial as the highest dose. To
+adequately explore the dose response of GEn in subjects
+with DPN, it was necessary to include several groups in
+the study design.
+Gabapentin Enacarbil in DPN  495
+The active comparator, PGB, was included in the
+current trial to provide a descriptive assessment of the
+assay sensitivity of the study. However, this added an
+additional treatment group who received a pharmacologically active drug and possibly increased the placebo
+response stated above. In retrospect, the decision to
+include pregabalin may have emphatically demonstrated
+the failed aspect of this trial. Pregabalin has performed
+very well in DPN and has an FDA approved indication
+in DPN. The fact that pregabalin performed worse than
+placebo in the current trial further supports the idea of
+flaws in either the trial design or the specific population
+included in the trial.
+In conclusion, one will never unequivocally know
+whether the current results represent a failed trial or a
+failed drug. Previous studies of gabapentin in DPN and
+the overwhelming clinical impression of analgesic efficacy of this compound in treating patients with DPN
+support the notion that these results support a failed
+trial. Previous pharmacologic information of GEn supports that gabapentin would have been in the plasma in
+similar and higher concentrations to studies with the
+parent compound. Future research will undoubtedly
+help answer these lingering questions.
+ACKNOWLEDGEMENTS
+This study was supported by GlaxoSmithKline (GSK)
+Research & Development. The authors would like to
+acknowledge and thank the PXN110448 Investigators
+for their valuable contributions to the study.
+REFERENCES
+1. Franklin GM, Kahn LB, Baxter J, Marshall JA,
+Hamman RF. Sensory neuropathy in non-insulin-dependent
+diabetes mellitus The San Luis Valley Diabetes Study. Am J
+Epidemiology. 1990;131:633–643.
+2. Maser RE, Steenkiste AR, Dorman JS, et al. Epidemiological correlates of diabetic neuropathy. Report from
+Pittsburgh Epidemiology of Diabetes Complications Study.
+Diabetes 1989;38:1456–1461.
+3. Tesfaye S, Stevens LK, Stephenson JM, et al. Prevalence of diabetic peripheral neuropathy and its relation to
+glycaemic control and potential risk factors: the EURODIAB
+IDDM Complications study. Diabetologia 1996;39:1377–
+1384.
+4. Walters DP, Gatling W, Mullee MA, Hill RD. The
+prevalence of diabetic distal sensory neuropathy in an English
+community. Diabetic Med. 1992;9:349–353.
+5. Young MJ, Boulton AJ, Macleod AF, Williams
+DR, Sonksen PH. A multicentre study of the prevalence
+of diabetic peripheral neuropathy in the United Kingdom
+hospital clinic population. Diabetologia 1993;36:
+150–154.
+6. Vinik AI. Diagnosis and management of diabetic
+neuropathy. Clin Geriatr Med 1999;15:293–320.
+7. Jensen TS, Backonja MM, Hernandez Jimenez S,
+Tesfaye S, Valensi P, Ziegler D. New perspectives on the
+management of diabetic peripheral neuropathic pain. Diabetes
+Vasc Dis Res 2006;3:108–119.
+8. Pfizer Inc. Lyrica. (pregabalin) [package insert]. New
+York, NY: Pfizer Inc.; 2011.
+9. Eli Lilly and Company. Cymbalta. (duloxetine hydrochloride) [package insert]. Indianapolis, IN: Eli Lilly and
+Company; 2011.
+10. Cundy KC, Sastry S, Luo W, Zou J, Moors TL,
+Canafax DM. Clinical pharmacokinetics of XP13512, a novel
+transported prodrug of Gabapentin. J Clin Pharmacol
+2008;48:1378–1388.
+11. Wiffen PJ, McQuay HJ, Edwards J, Moore RA.
+Gabapentin for acute and chronic pain. Cochrane Database.
+2005;3:CD005452.
+12. Dworkin RH, O’Connor AB, Backonja M, et al.
+Pharmacologic management of neuropathic pain: Evidencebased recommendations. Pain 2007;132:237–251.
+13. Dworkin RH, O’Connor AB, Audette J, et al.
+Recommendations for the pharmacological management of
+neuropathic pain: an overview and literature update. Mayo
+Clin Proc 2010;85(Suppl. 3):S3–S14.
+14. Backonja M, Beydoun A, Edwards KR, et al. Gabapentin for the symptomatic treatment of painful neuropathy in
+patients with diabetes mellitus: a randomized controlled trial.
+JAMA. 1998;280:1831–1836.
+15. Gorson KC, Schott C, Herman R, Ropper AH, Rand
+WM. Gabapentin in the treatment of painful diabetic neuropathy: A placebo controlled, double blind, crossover trial.
+J Neurol Neurosurg Psychiatry 1999;66:251–252.
+16. Dworkin RH, Turk DC, Peirce-Sandner S, et al.
+Placebo and treatment group responses in postherpetic
+neuralgia vs Painful diabetic peripheral neuropathy clinical
+in the REPORT database. Pain 2010;150:12–16.
+496  RAUCK ET AL.

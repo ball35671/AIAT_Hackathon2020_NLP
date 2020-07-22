@@ -1,0 +1,343 @@
+﻿A272 VALUE IN HEALTH 17 (2014) A1-A295
+HCV treatment is associated with significant health care resource utilization. A high
+proportion of patients experienced AE for which management was associated with
+substantial additional costs, especially the anemia treatment. Thus, the cost of AE
+should be considered in future treatment options.
+PIN42
+Direct Cost Of Hepatitis C From The Perspective Of The Health Care
+System For The Federal Government Employees In Mexico
+Morales S.
+1, García X.
+2, Hernandez M.E.
+3, Jauregui M.
+2, Jimenez L.
+4, Reyes-Lopez A.
+5
+1ISSSTE, MEXICO, Mexico, 2ISSSTE, mexico, Mexico, 3ISSSTE, Mexico, Mexico, 4MSD, México,
+Mexico, 5Mexican Children Hospital, Mexico City, Mexico
+Objectives: Estimate the direct cost of hepatitis C in Mexico, from the perspective
+of the health care system for the government employees, and simulate the economic
+impact of new antivirals. Methods: We reviewed one hundred clinical records of
+patients diagnosed with chronic hepatitis C, to know the pattern of resources use at
+two hospitals of the health care system for the government employees, taking into
+account the disease stages based on the Child-Pugh. The inclusion criterion was
+patients with chronic HVC unresponsive to treatment or without the double viral
+therapy. Unit prices and costs of medical inputs were obtained from official sources.
+Demographic and clinical variables were also recorded in order to do comparisons. Statistical analysis of data was made with the SPSS. Simulation of economic
+impact of treatment with antivirals was done based on natural history of disease
+over a ten years horizon. Results: Annual mean costs of disease progression and
+complications were higher for Child-Pugh C (US$8,739) than B (US$6,319) and A
+(US$2,430). The estimated cost of one patient in Child-Pugh A stage not responding
+to peginterferon and ribavirin resulted in US$62,506 taking into account that this
+patient progress until Child-Pugh C. If the not responding patient could be treated
+with peginterferon, ribavirin and boceprevir the cost would be US$43,633, while a
+naive patient would cost US$34,302. Conclusions: Hepatitis C imposes a high
+economic burden to the health care system for the government employees. The
+access of this population of patients to new antivirals would result in savings for
+the institution as well as increasing health benefits for patients.
+PIN43
+A Cost-Effectiveness Analysis Of Pre-Exposure Prophylaxis (PREP) For
+The Prevention Of Hiv In The Los Angeles County Msm Population
+Drabo E.
+1, Hay J.W.
+1, Vardavas R.
+2, Wagner Z.
+1, Sood N.
+1
+1University of Southern California, Los Angeles, CA, USA, 2Rand Corporation, Santa Monica, CA,
+USA
+Objectives: To assess the potential trade-offs between aggressive screening (“testing”) of the human immunodeficiency virus (HIV), early initiation of treatment
+(“test-and-treat”) with antiretroviral therapy (ART), and pre-exposure prophylaxis (PrEP) among men who have sex with men (MSM) in Los Angeles County
+(LAC). Methods: A compartmental mathematical model is developed to simulate
+HIV incidence among 15-65 year old MSMs of LAC over a twenty-year period, and
+estimate the cost and effectiveness of various HIV interventions using a societal
+perspective and a lifetime horizon. Annual LAC MSM population data (2000-2010)
+are estimated from the LAC HIV Surveillance Reports and the RAND California
+Population and Demographics database. The model input parameter values are
+derived from the published clinical literature and the Federal Supply and IMS Fee
+Schedules. For each intervention, we estimate the number of new HIV infections
+averted, the discounted costs and quality-adjusted life years (QALYs), and the incremental cost per infection averted and cost-effectiveness ratios. Bootstrapping and
+probabilistic sensitivity analyses are conducted to assess the robustness of the
+estimates. Results: Our preliminary results show that relative to the status quo
+policy, and at the current US willingness to pay threshold of $100,000/QALY saved,
+both the PrEP, “testing” and “test-and-treat” strategies are cost-effective ($86,194;
+$44,746 and $94,520 per QALY saved, respectively). These results are imputable to
+the preventive and survival benefits of PrEP, knowledge of infection status, and early
+treatment. The relative effectiveness of PrEP is sensitive to PrEP and ART adherence
+and coverage rates. All cost-effectiveness profiles improve with ART price reductions
+following patent expiration. Conclusions: PrEP, “testing” and “test-and-treat”
+offer cost-effective alternatives to the status-quo policy. The success of the PrEP
+and “test-and-treat” strategies remains particularly contingent on the uptake rate
+and adherence to treatment. The lack of evidence on adherence behaviors towards
+PrEP thus warrants further studies that mimic real-world adherence patterns.
+PIN44
+Cost-Effectiveness Of Small Intestinal Submucosa Extracellular
+Matrix On Wound Closure In Patients With Difficult-To-Heal Wound
+Of Mixed Arterial/Venous And Venous Etiology
+Gilligan A.M., Waycaster C.
+Smith & Nephew Biotherapeutics, Fort Worth, TX, USA
+Objectives: Determine the cost-effectiveness of small intestinal submucosa extracellular matrix (SISEM) relative to standard of care (SC) on wound closure for the
+treatment of mixed arterial/venous (A/V) or venous (VLUs) leg ulcers. Methods:
+A 2-stage Markov model was used to predict the expected costs and outcomes of
+wound closure for SISEM and SC. Outcome data used in the analysis were taken
+from an 8-week randomized clinical trial that directly compared SISEM and SC.
+Patients were followed for 6 months to assess wound closure. Forty-eight patients
+completed the study; 25 for SISEM and 23 for SC. SC was defined as a standard moist
+wound dressing. Transition probabilities for the Markov states were estimated from
+the clinical trial. The economic outcome of interest was direct cost per ulcer-free
+week. Resource utilization was based on the treatment regimen used in the clinical trial. Costs were derived from standard cost references. The payer’s perspective
+was taken. Results: SISEM-treated wounds healed, on average, after 5.4 weeks of
+treatment, compared to 8.3 weeks for SC wounds (p=0.02). Furthermore, complete
+wound closure was significantly higher for patients treated with SISEM (p<0.05),
+with 20 wounds closed in the SISEM group (80%) and 15 wounds closed in the SC
+PIN39
+Recent Trends In Costs, Length Of Stay, And Mortality Associated
+With Infant Pertussis Hospitalizations In The United States
+Davis K.L., Kurosky S.
+RTI Health Solutions, Research Triangle Park, NC, USA
+Objectives: Pertussis incidence has resurged in the US after a nadir in the 1970s
+and is now one of the most prevalent vaccine-preventable infections. Infants are
+at greatest risk for severe pertussis-related morbidity and mortality (~50% of infant
+cases require hospitalization) and account for the majority of cases. We sought to
+quantify the cost and mortality burden of infant pertussis cases severe enough
+to prompt hospitalization. Methods: Data on pertussis-related hospitalizations
+(ICD-9-CM discharge codes 033.0, 033.8, 033.9, 484.3) from the 2000-2010 Nationwide
+Inpatient Sample (NIS) were retrospectively analyzed. Charges were converted to
+costs using a 0.5 cost-to-charge ratio. Weighted, nationally representative estimates
+of costs per admission (in 2013 US dollars), length of stay (LOS), and case fatality
+rates (CFRs) were descriptively assessed for each year. Results: Total numbers
+of infant pertussis hospitalizations in the US followed a cyclic pattern, starting at
+2,282 in 2000 and peaking at 5,343 in 2005, then declining to 1,614 in 2007 before
+another peak of 3,220 in 2010. Mean [SD] LOS for these hospitalizations fluctuated
+minimally year-to-year, but an overall (albeit modest) increase was observed: from
+3.3 [7.3] days in 2000 to 3.9 [9.5] days in 2010. Mean [SD] cost per admission increased
+at a greater rate than LOS, from $12,377 [$23,985] in 2000 to $16,339 [$37,224] in 2010.
+Both LOS and costs were more than double those observed for non-pertussis hospitalizations. CFRs were relatively stable during the period, fluctuating between ~1.5%
+and 3%, although a peak of 4.4% occurred in 2005 coinciding with the incidence
+peak. Conclusions: Infant pertussis hospitalizations typically exceed 3 days and
+are associated with high costs compared with hospitalizations for other causes.
+Observed CFRs were consistent with the ~2% fatality rate previously derived from
+CDC surveillance. These data may help inform economic and cost-effectiveness
+evaluations of future pertussis vaccination programs.
+PIN40
+Cost Of Erythropoietin Use In The Early Access Program Of
+Telaprevir For The Treatment Of Metavir F3-F4 Patients With
+Genotype 1 Hcv In Brazil
+Morais A.D.
+1, Magno L.A.
+1, Nogueira C.V.
+2
+1Janssen Cilag Farmaceutica, São Paulo, Brazil, 2UFRJ, Brazil
+Objectives: To estimate the direct medical costs associated with the use of erythropoietin (EPO) in the treatment of anemia in patients with advanced fibrosis and
+cirrhosis (METAVIR F3-F4) receiving telaprevir in association with peg-interferon and
+ribavirin (TVR+PR) in the early access program in Brazil. Methods: Anemia events
+and EPO use during TVR therapy were gathered from published results of 97 patients
+in the early access program (EAP) of TVR in Brazil. Anemia treatment was assumed
+to be one vial of erythropoietin (EPO) 40.000U per week. Medication unit costs were
+gathered from a public (SUS) and private payer perspective in Brazil. Sensitivity
+analysis was carried out for anemia treatment duration and patients with EPO
+use. A sub-analysis was performed to estimate the cost of anemia treatment with
+boceprevir (BOC+PR) based on data from the phase 3 clinical trials. Results: The
+cost of EPO during TVR+PR treatment in the EAP /anemic patient was R$ 10.190,04
+from a private payer perspective compared to R$ 3.545,06 from a SUS perspective.
+The average cost of EPO was R$ 4.727,34 /patient from a private payer perspective and R$ 1.644,87 /patient from the SUS perspective. Considering the sensitivity
+analysis, the total cost of EPO treatment ranged between R$ 382.126,50-R$ 601.212,36
+from a private payer perspective compared to R$ 132.960,00-R$ 209.190,40 from a
+SUS perspective for all patients. Considering EPO use for BOC+PRr, the average anemia treatment cost was R$ 7.851,34 /patient from a private payer perspective and
+R$ 2.731,86 /patient from a SUS perspective. Conclusions: In a real life setting,
+TVR+PR was associated with EPO use although few patients discontinued treatment.
+Compared to EPO use in clinical trials, TVR+PR was associated with less EPO costs
+than BOC+PR in a real life setting such as the Brazilian EAP.
+PIN41
+Costs Of Adverse Events Associated With Treatment Of Hepatitis
+C Virus Infection: An Analysis Using The Quebec Provincial Drug
+Reimbursement Program Database
+Lachaine J.
+1, Vachon M.L.
+2, Lambert-Obry V.
+1, Beauchemin C.
+1
+1University of Montreal, Montreal, QC, Canada, 2CHUQ, Laval University, Quebec, QC, Canada
+Objectives: The objective was to estimate, in a real-life setting, the health care
+resource utilization, more specifically resource utilization for management of the
+most common adverse events (AE) associated with current treatment of hepatitis
+C virus (HCV) infection. Methods: A retrospective study of the Quebec provincial drug reimbursement program (RAMQ) was conducted using a random sample
+of patients who filed at least one script at the pharmacy for an HCV medication
+(pegylated interferon and ribavirin (peg-Riba) +/- boceprevir or telaprevir) from
+2007 to 2013. Data on medical (excluding nurse visits) and pharmaceutical services
+were extracted from the RAMQ database. We report health care resources used
+during HCV treatment including outpatient physician’s visits and procedures, emergency visits, hospitalization days and costs associated with adverse events, which
+included medical services and medications. Results: A total of 962 patients who
+used at least one HCV medication were included in the study (mean age: 47.9 years
+(SD=10.7), 61.5% males). The proportion of patients who used Peg-Riba only, PegRiba + boceprevir and Peg-Riba + telaprevir was 90.5%, 8.2% and 3.4% and treatment
+duration was 31.5 weeks, 30.4 weeks and 21.6 weeks respectively. During HCV treatment, the average number of health care resources used per patient was 13.2 physician’s visits and procedures, 0.8 hospitalization day and 0.8 emergency visit. While
+receiving HCV treatment, 20.8% of patients required erythropoietin, 33.3% received
+rash treatments and 48.8% were treated for depression. Estimated costs associated
+with management of these three AE were CDN$11,199, CDN$85 and CDN$282 per
+patient respectively, for a total of CDN$2,399,258 for this cohort. Conclusions:
+VALUE IN HEALTH 17 (2014) A1-A295 A273
+from remission, progression to long-term adverse outcomes (cirrhosis, decompensated cirrhosis, hepatocellular carcinoma, end-stage liver disease) and commonly
+observed side effects (anemia, neutropenia and rash) along with a gradient of their
+severity. Model inputs were determined from a review of the published literature
+and phase II or III clinical trials. Clinical trials estimates were converted to risk ratios
+to facilitate comparison. Costs were inflated to 2013 US dollars. Costs and quality
+adjusted life years were discounted at standard rate of 5%. Sensitivity analyses
+were performed to assess model sensitivity and address uncertainty. Results:
+Relative to treatment with PR only, response-guided triple therapy with BOC+PR
+was the most cost effective therapy (ICER $28,723/QALY) followed by responseguided triple therapy with TVR+PR (ICER $64,569/QALY). PR treatments with SIM or
+SOF were dominated by BOC+PR. The model was sensitive to variations in costs of
+initial drug therapy and likelihood of attaining SVR. Conclusions: Addition of
+protease inhibitors to PR therapy improves health outcomes. Response-guided regimen BOC+PR was found to be cost-effective for treating newly diagnosed genotype
+1 HCV patients. Shortening of PR therapy guided by a rapid virologic response may
+help reduce overall costs. Robust sensitivity analyses can help in overcoming the
+challenge of sparse data availability.
+PIN48
+Cost-Effectiveness Of Ertapenem Versus Piperacillin/Tazobactamin
+In Treating Community Acquired Intra-Abdominal Infections In
+Colombia
+Xie Y.
+1, Lemos E.
+2, Restrepo M.
+2, Ruiz J.
+2, Lozano F.
+2
+1Merck & Co., Whitehouse Station, NJ, USA, 2MSD Colombia, Bogota, Colombia
+Objectives: To compare Ertapenem with piperacillin/tazobactam (pip/tazo) for the
+treatment of moderate to severe community acquired intra-abdominal infections
+(c-IAI) in Colombia health care setting, with respect to cost and outcomes taking
+into account development of anti-microbial resistance (AMR). Methods: A previously published decision tree model was adapted to estimate cost-effectiveness
+of Ertapenem vs. pip/tazo. Clinical efficacy, adverse events and medical resource
+use were derived from literature. AMR to Ertapenem and pip/tazo was calculated
+as weighted average based on the % distribution of different pathogens in c-IAI in
+Colombia and the sensitivity of Erta vs. pip/tazo for each pathogen from Colombia
+SMART data. The resistance-adjusted effectiveness is then computed based on efficacy from clinical trial and local AMR data, Model outcomes included resistance,
+clinical success, deaths, life years, direct costs, and costs per successfully treated
+patient. Results: The overall resistance of Ertapenem vs. pip/tazo for c-IAI is 21.4%
+vs. 43.4%. The resistance-adjusted effectiveness are 70.3% vs. 46% for Ertapenem vs.
+pip/tazo. Daily drug costs are 133,550 (Ertapenem) vs. 34,989 (pip/tazo) Colombian
+Pesos. Total costs (including drug costs, hospitalization, cost of 2nd-line treatment
+& cost of AEs) are 7,162,081 (Ertapenem) vs. 7,230,902 (pip/tazo) Pesos. During the
+first hospitalization period, Ertapenem is associated with a 24.3% higher treatment
+success rate, and a 68,821 Pesos in cost saving when compared with Pip/tazo. The
+Incremental cost per successfully treated patient (ICER) is -283,405 Colombian Pesos
+($145.39 USD) for Ertapenem vs. Pip/tazo. Conclusions: Accounting for local antimicrobial resistance, Ertapenem is more effective and cost-saving vs. pip/tazo for
+the treatment of moderate to severe community acquired intra-abdominal infections in Colombia.
+PIN49
+Cost-Effectiveness Analysis Of Joint Vaccination With 13-Valent
+Pneumococcal Conjugate Vaccine (Pcv13) And Influenza Vaccine In
+Taiwan During Seasonal Influenza
+Wu D.B.C., Chong H.Y., Lee K.K.C.
+Monash University Malaysia, Kuala Lumpur, Malaysia
+Objectives: Pneumococcal diseases and influenza have caused substantial clinical and economic burden in Taiwan especially in high-risk groups such as infants
+and elderly. It has been shown that influenza can increase the risk of pneumococcal diseases compared to those uninfected during a seasonal influenza. The costeffectiveness of PCV13 has been previously established. Influenza vaccine (INFv) is
+generally considered as an effective prevention of influenza and is therefore useful
+in alleviating the burden of influenza in reducing morbidities and mortalities. This
+study aims to evaluate the potential cost-effectiveness of joint 13-valent pneumococcal conjugate vaccine (PCV13) and INFv vs influenza vaccine alone for infants and
+elderly. Methods: An age-stratified decision tree model was developed to simulate
+clinical and economic impacts of joint vaccination with PCV13 and INFv in newborns
+and elderly compared to influenza vaccine alone during a seasonal influenza over a
+1-year time horizon. Direct medical costs, epidemiological, demographic parameters
+are Taiwan-specific. Effectiveness of vaccines is based on previous trials adjusted for
+local age-specific stereotype distributions. Herd effect estimates were extrapolated
+from the US post-PCV surveillance data. The study was performed from a payer
+perspective. Current market prices of vaccines were used. One-way and multivariate probabilistic sensitivity analyses were performed to identify influential factors
+to outcomes. Results: Compared to influenza vaccination alone, over 1-year time
+horizon, joint vaccination of PCV13 and INFv is predicted to prevent 386 cases of
+invasive pulmonary diseases, 4,232 cases of all-cause pneumonia, 32,652 cases of
+acute otitis media and 202 deaths (equivalent to 3,131 life years). The universal
+vaccination is expected to save NT$352,593,433 (US$11,753,114) in direct medical
+cost equivalent to NT$947,629 (US$31,587) per life year gained. The results are sensitive to vaccine prices and incidence of influenza. Conclusions: Using WHOrecommended cost-effectiveness threshold, universal vaccination program with
+PCV13 and INFv appears to be a cost-effective policy in Taiwan.
+PIN50
+Cost-Effectiveness Of Various Clostridium Difficile Infection (CDI)
+Treatments In Patients With Recurrent Infections
+Massachi S., Hay J.W.
+University of Southern California, Los Angeles, CA, USA
+group (65%). After 6 months, patients treated with SISEM had substantially higher
+ulcer-free weeks compared to SC (20.0 versus 16.8, respectively). Expected direct
+costs per patient were $2,360 for SISEM and $1,326 for SC. The incremental costeffectiveness ratio (ICER) for SISEM was $349 (approximately $50/day), indicating
+that for each $349 paid for SISEM therapy patients gained one additional ulcer-free
+week. Conclusions: SISEM yielded better outcomes at a slightly higher cost in
+patients with mixed A/V and VLUs. SISEM is an effective treatment for wound healing and should be considered for use in the management of mixed A/V and VLUs.
+PIN45
+Quadrivalent Hpv Vaccine In Argentina: Cost-Effectiveness Analysis
+Caporale J.
+1, Alcaraz A.
+1, Rey-Ares L.
+2, Pichon-Riviere A.
+1, Bardach A.
+1, Augustovski F.
+1,
+Klein K.
+1, Tatti S.
+3
+1Institute for Clinical Effectiveness and Health Policy (IECS), Buenos Aires, Argentina, 2Institute
+for Clinical Effectiveness and Health Policy (IECS), CABA, Argentina, 3Hospital de Clínicas, Buenos
+Aires, Argentina
+Objectives: To assess the cost-effectiveness of the introduction of the quadrivalent HPV vaccine in Argentina. Methods: Using a transmission dynamic model
+developed and published by Elbasha in 2008 we evaluated the routine vaccination
+of 11-year-old girls over a time horizon of 100 years from the perspective of the
+health care system Results: The model showed that the introduction of the vaccine will gradually reduce the incidence of cervical cancer, CIN 1/2/3, and genital
+warts related to HPV 6/11/16/18. When compared with non-vaccination, a women
+who completed the three dose scheme will experience a reduction of cervical cancer
+incidence and death, CIN2/3, CIN1 and genital warts of 58,6%, 59,2%, 56,7%, 56,3%
+and 67,3% respectively. Considering a 5% discount rate and a 43,8% of complete
+scheme coverage without heard immunity, the incremental cost-effectiveness ratio
+(ICER) was 795 USD per quality-adjusted life-year (QALY) gained. The additional
+protection against HPV types 6/11 has a great influence in the cost-effectiveness,
+the ICER was almost doubled when not contemplated the protection against HPV
+6/11. The most influential parameters on the scenario analysis were the discount
+rate, the cost of the vaccine and the cost of treatment. However, the vaccine was
+very cost-effective (less than one gross domestic product=7844 USD) in all the tested
+scenarios. Conclusions: The implementation of routine HPV vaccination with
+the quadrivalent vaccine in 11-year-old girls in Argentina could provide significant
+benefits to public health by reducing cervical cancer incidence and death rates
+and the incidence of CIN 1/2/3 and genital warts, making it a highly cost-effective
+intervention
+PIN46
+Assessment Of Real-Life Predictive Power Of A New CostEffectiveness Model In Hiv: Antiretroviral Analysis By Monte Carlo
+Individual Simulation (ARAMIS-DTG)
+Despiégel N.
+1, Anger D.
+1, Martin M.
+2, Monga N.
+3, Cui Q.
+3, Gilchrist K.
+4, Refoios Camejo R.
+5
+1OptumInsight, Nanterre, France, 2OptumInsight, Uxbridge, Middlesex, UK, 3GlaxoSmithKline,
+Mississauga, ON, Canada, 4GlaxoSmithKline, King of Prussia, PA, USA, 5GlaxoSmithKline,
+Brentford, UK
+Objectives: The validation of complex economic models against observational
+cohorts tests the accuracy of structural assumptions in models and the relationship between variables and the validity of model outcomes. However, these exercises are seldom conducted and published. The study objectives were to assess
+how well a newly developed economic model for HIV (ARAMIS-DTG) predicts CD4+
+cell-count changes and AIDS-related outcomes and to explore drivers of eventual
+discrepancies between simulated and observed outcomes. Methods: Clinical outcomes from ARAMIS-DTG were compared to an observational cohort of patients
+initiating antiretroviral treatment in the British Columbia Centre for Excellence
+(BC-CfE) between 2008 and 2011. Baseline population characteristics and treatment efficacy were modified to reflect the observational cohort in the model, and
+mean changes in CD4+ cell-count and incidence rates of AIDS-related events were
+simulated in ARAMIS-DTG. The impact of relevant ARAMIS parameters on these
+outcomes, such as mortality or virological suppression, was assessed in sensitivity
+analyses. Results: In the base case analysis, the average CD4+ cell-count over five
+years increased from 295 to 682 cells/µL in ARAMIS-DTG and from 303 to 532 cells/
+µL in the BC-CfE cohort, reflecting a potential overestimation of adherence in the
+clinical trial setting. However, despite a higher CD4+ cell-count, the incidence of
+AIDS-related events was also higher in ARAMIS: 3.81 vs. 2.84 per 100,000 personyears, suggesting the higher incidence of AIDS-related events in ARAMIS-DTG was
+mostly attributable to the pre-2005 rates used to inform the model. Sensitivity analyses produced similar results without adjusting ARAMIS-DTG to the BC-CfE cohort
+characteristics. Conclusions: Although results highlight the need for calibrating
+economic models and accounting for factors such as adherence to achieve better
+alignment with real life data, in the particular case of ARAMIS-DTG the differences
+between simulated and observed outcomes did not significantly affect its overall
+cost-effectiveness outcomes.
+PIN47
+Cost-Effectiveness Of Pharmacotherapies For Treatment Naïve
+Hepatitis C Genotype 1 Patients: A Payer’s Perspective
+Jalundhwala YJ, Manzoor B.S., Patel H., Cheng W.H., Patel P., Touchette D.R.
+University of Illinois at Chicago, Chicago, IL, USA
+Objectives: Our objective was to evaluate the cost-effectiveness of currently
+recommended pharmacotherapies [response-guided triple therapies with
+pegylated-interferon plus ribavarin (PR) plus boceprevir (BOC) or telaprevir (TVR) or
+simeprevir (SIM) or sofosbuvir (SOF)] for the treatment of newly diagnosed patients
+with genotype 1 chronic hepatitis C virus (HCV) infection, from payer’s perspective. Methods: A Markov cohort model was developed to simulate the disease
+progression of treatment naïve HCV patients initiating therapy. The model included
+the following outcomes: sustained virologic response (SVR) i.e. absence of detectable RNA of virus in blood serum at 12/24 weeks after ending treatment, relapse 

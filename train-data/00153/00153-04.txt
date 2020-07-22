@@ -1,0 +1,264 @@
+Abstract
+Objective
+The objective of this study was to determine whether the use of recombinant human TSH (rhTSH) to stimulate radioiodine uptake after thyroidectomy is as efficacious as a period of withholding thyroid hormones, while at the same time avoiding hypothyroidism, reducing sick leave time and shortening the hospital stay.
+
+Design
+Our aim was to compare the standard procedure of differentiated thyroid cancer treatment, which consists of thyroidectomy followed by 4 weeks of hypothyroidism and a conclusive ablative activity of 131iodine, with a new shortened treatment in which l-thyroxine (T4) medication is initiated a day after thyroidectomy, followed by application of rhTSH stimulation and subsequent ablation a few days after surgery. We presumed our treatment to represent the most sophisticated strategy for the reduction in sick leave days overall without any reduction in safety or the efficacy of ablative therapy.
+
+Methods
+Patients (n=25) were randomized either for surgery and rhTSH stimulation or surgery and l-T4 abstinence before the first application of radioiodine. Ablation success was determined by neck ultrasound and serum thyroglobulin during follow-up. RhTSH receivers were monitored for an average of 635 days (s.d.±289) and patients in l-T4 abstinence for an average of 624 days (s.d.±205). Both groups were statistically compared for significant differences in treatment efficacy, safety and overall time of sick leave.
+
+Results and conclusions
+Our shortened treatment proved to be equally efficacious and safe in comparison with the conventional therapy regimen. At the same time, it showed economic advantages through the reduction in average sick leave time from ∼29 days (l-T4 abstinence) down to ∼6 days (rhTSH stimulation) as well as sustaining the patient's quality of life by the complete avoidance of hypothyroidism.
+
+Introduction
+The current standard treatment for differentiated thyroid cancer (DTC) of follicular or papillary histology consists of surgery – which entails the complete removal of the thyroid gland and, in our centre, a central cervical lymphadenectomy – followed by radioablative therapy (RAT) to destroy any possibly remaining thyroid tissue or existing concurrent micro-metastatic satellites (1, 2, 3). In order to have a sufficient 131iodine uptake into any remnant thyroid tissue, an elevated TSH level of >30 mU/l is mandatory. Before genetically engineered recombinant human TSH (rhTSH) was available, the only way to generate an elevated endogenous TSH was by thyroid hormone abstinence for a period of about 4 weeks after surgery. During this time, patients had to endure the debility and fatigue of a slowly developing hypothyroidism as well as socio-economic side effects (4, 5, 6, 7). Since rhTSH has been introduced for clinical applications (8, 9) it has proven its value for thyroid cancer therapy in a number of studies (10, 11). In the clinical setting, rhTSH has been applied for two different purposes: primarily as a diagnostic tool on patients' routine follow-up examinations (9, 12) and secondly in RAT settings (13, 14, 15, 16). That high serum levels of TSH can be achieved regularly by the application of rhTSH – even if l-thyroxine (T4) medication is maintained – and that stimulation with rhTSH is safe and effective has been repeatedly reported (8, 9, 12, 13, 14, 15, 16, 17).
+
+If l-T4 medication is maintained, and thus hypothyroidism is avoided, the patients' quality of life can be sustained and the number of sick leave days can be reduced, as well as avoiding potential morbidity associated with hypothyroidism (6, 9, 18). Various studies have related the reduction in sick leave days to the cost of rhTSH applications. While one study reported a somewhat unfavourable cost–benefit analysis (19), several others concluded that the use of rhTSH represents good value for money with benefits to patients and society (10). Recently, Borget et al. reported a reduction in sick leave time by 8.1 days and calculated the savings as high as €1083 per follow-up control in active patients  (11).
+
+While the costs per course of rhTSH application and RAT are more or less constant, it is comprehensible that the two decisive parameters for overall expenses are sick leave time and the costs in terms of loss of productivity per day. The cost/benefit ratio is enhanced by the reduction in the costs of loss of productivity and the shortened overall sick leave time. While the costs in loss of productivity are difficult to estimate and thus quite naturally lead to controversy, it is undisputed that savings due to the reduction in sick leave time at some point will offset the expenses for rhTSH. Up until the present day, there has been little focus on the initial phase of DTC treatment (the time period from surgery to the day of the first RAT) with regard to a possible reduction in hospitalization time and sick leave time.
+
+At our clinic, it was common procedure for patients diagnosed with DTC to receive the first RAT as soon as possible after complete thyroidectomy. This meant that the patients remained l-T4 abstinent from the first post-operative day onward until the endogenous TSH levels were high enough to receive the first course of RAT. This happened regularly within 4–5 weeks after surgery, although in some cases – mostly in elderly patients with slow pituitary response – the time point of RAT had to be further delayed by a few weeks.
+
+In this study, we wanted to test our shortened Medizinische Hochschule Hannover (MHH) treatment, which combines surgery as well as the primary course of RAT within the first hospitalization period, thus emphasizing that a large proportion of reducible sick leave time lies within this first period. We estimated that for rhTSH receivers the overall sick leave time for surgery and RAT together may be reduced by around 75% when compared with patients preconditioned by l-T4 abstinence – without any reduction in safety or efficacy.
+
+Subjects and methods
+Study patients
+Between January 2006 and June 2006, we recruited n=25 subjects from a cohort of patients with a diagnosis of DTC or from patients that were thyroidectomized due to multinodular struma and who had a coincidental histology of DTC (Table 1). All of them were thyroidectomized and received a K1a/b central lymphadenectomy. The patients gave written informed consent to participate in the study, which was approved by the institutional review board and ethics committee. Thirteen patients were randomized to stimulation by rhTSH (female n=10; male n=3; mean age=45.2 years; s.d.±16.5 years.) and twelve for preconditioning by l-T4 abstinence (female n=8; male=4; mean age=54.8 years; s.d.±12.8 years). RhTSH participants received their first RAT on first hospitalization, while patients in l-T4 abstinence group were discharged from the surgery ward and, while in a state of distinctive hypothyroidism, were re-hospitalized for the first RAT within 4–6 weeks after thyroidectomy (Fig. 1).
+
+Table 1
+Clinical data of all patients.
+
+Patient	Gender	Age	Tumour histology	Tumour size	UICC classification 2002	Sick leaveafrom discharge after surgery until completion of first RAT	Sick leavearelated to symptoms of hypothyroidism
+Group	N	(M/F)	(Years)	(PTC/FTC)	(mm)	pT	pN	pM	Staging	(Days)	(Yes/No)
+rhTSH	1	F	25	PTC	20	3	1a	×	3	–	–
+2	M	65	PTC	20	1b	1a	×	1	–	–
+3	F	60	PTC	1	1a	0	×	1	23	No
+4	M	62	PTC	4	1a	0	×	1	–	–
+5	M	36	PTC	15	1b	0	×	1	0	–
+6	F	55	PTC	35	3b	1a	×	3	4	No
+7	F	66	PTC	7.5	3	1a	×	3	–	–
+8	F	23	PTC	14	1	0	×	1	0	–
+9	F	37	PTC	20	1	1a	×	1	0	–
+10	F	48	PTC	32	2m	1b	×	4a	–	–
+11	F	51	PTC	u	1b	0	×	1	14	No
+12	F	17	PTC	20	2m	1a	×	3	0	–
+13	F	43	PTC	8	1a	0	×	1	–	–
+Mean			45		16.4				1.7	5.9	
+Median			48		17.5				1.0	0.0	
+s.d.			17		10.4				1.1	7.1	
+l-T4 abstinence	1	F	68	PTC	1.5	1b	0	×	1	–	–
+2	F	37	PTC	12	1b	1a	×	3	–	–
+3	M	63	PTC	2.5	1a	0	×	1	–	–
+4	F	58	PTC	13	1b	0	×	1	–	–
+5	M	61	PTC	2	1a	1a	×	3	4	Yes
+6	M	66	PTC	5	1m	1b	×	4a	–	–
+7	F	53	PTC	30	3a	1a	×	3	32	Yes
+8	F	41	PTC	7	1m	1a	×	1	60	Yes
+9	F	30	PTC	8	1a	0	×	1	18	Yes
+10	F	56	PTC	8	1a	0	×	1	46	Yes
+11	M	54	PTC	6	3	0	×	3	13	Yes
+12	F	70	FTC	12	1b	0	×	1	–	–
+Mean			55		8.9				1.7	28.8	
+Median			57		7.5				1.0	25.0	
+s.d.			13		7.7				1.1	20.8	
+aHousewives, pensionaries and unemployed had no official documented sick leave time.
+
+Figure 1
+Figure 1
+Download Figure
+Download figure as PowerPoint slide
+Strategies of therapy. (a) MHH protocol: surgery and radioablation therapy in combination (rhTSH receivers). (b) Conventional protocol: surgery and radioablation therapy in two steps (l-T4 abstinence). Patients randomized for MHH treatment protocol received rhTSH at 0.9 mg rhTSH on post-operative days 4 and 5 and 131iodine on day 6. Thus, surgery and first-line RAT were completed during one hospitalization within about 10 days. Patients randomized for the conventional treatment of surgery and l-T4 abstinence who underwent surgery were discharged from hospital a few days later and then – after a period of 4–6 weeks – were re-hospitalized for their first course of RAT, while in a state of distinctive hypothyroidism.
+
+Citation: European Journal of Endocrinology 161, 5; 10.1530/EJE-08-0641
+
+Recombinant human TSH
+rhTSH (Thyrogen, Genzyme, Cambridge, MA, USA) with a biological potency of 10 U/mg of protein was used according to the manufacturer's instructions. Each vial containing 0.9 mg of rhTSH-alfa was dissolved in 1.2 ml of water for injection and administered by the i.m. route to the gluteal region 48 and 24 h before RAT.
+
+Radioablative therapy
+After iodine uptake was confirmed by neck scan with 100 MBq 131I, the ablative activity of 3700 MBq 131I was administered orally.
+
+Laboratory measurements
+Serum levels of T4, 3,5,3′-triiodothyronine, TSH, thyroglobuline (Tg), urinary iodine excretion and urinary creatinine were measured on examination days.
+
+Scintigraphy
+Whole body scans and scans of the neck region were conducted before RAT, at the time of RAT as well as 3 and 12 months after surgery. Additional scans were then performed on an annual basis and depending on the results of ultrasound (US) examinations and Tg readings (Table 2). Scans at follow-up were performed after l-T4 withdrawal using 100–600 MBq of 131iodine.
+
+Table 2
+Follow-up data of neck ultrasound (US), thyroglobulin reading (TG) and neck scan (Sc).
+
+RAT*	Follow-up I	Follow-up II	Follow-up III	Follow-up IV	Follow-up V
+Patient‡		US*	TG*	Sc*		US	TG	Sc		US	TG	Sc		US	TG	Sc		US	TG	Sc		US	TG	Sc
+(ml)	(μg/l)	(%)	Day	(ml)	(μg/l)	(%)	Day	(ml)	(μg/l)	(%)	Day	(ml)	(μg/l)	(%)	Day	(ml)	(μg/l)	(%)	Day	(ml)	(μg/l)	(%)
+rhTSH	1	Neg	0.8	1.1	116	Neg	0	3.5	350	Neg	0	0.7	792	Neg	0	1.0	1134	Neg	0	1.5	F	F	F	F
+2	Neg	1.5	2.7	100	Neg	0	1.6	399	Neg	0	0.8	539	Neg	0	–	947	Neg	0	–	1129	Neg	0	0.4
+3	TB, 2.7	23.5	4.3	102	Neg	0	0.5	365	Neg	0	1.0	F	F	F	F	F	F	F	F	F	F	F	F
+4	Neg	0.9	2.5	113	Neg	0	0.3	375	Neg	0	1.2	F	F	F	F	F	F	F	F	F	F	F	F
+5	TB, 0.1	0	0.3	116	Neg	0	0.2	364	Neg	0	0	F	F	F	F	F	F	F	F	F	F	F	F
+6	Neg	2.9	1.2	119	Neg	0	1.1	366	Neg	0	1.8	840	Neg	0	–	1095	Neg	0	0.7	F	F	F	F
+7	TB, 0.05	0	2.3	96†	Neg†	0†	0.4†	289	Neg	0	0.7	465	Neg	0.4	2.0	836§	LN, 29.0§	1.3§	1.5§	1081	Neg	0	–
+8	TB, 0.1	58.6	0.5	92	Neg	0	0	Discontinued follow-up due to unknown address
+9	Neg	0	1.2	123	Neg	0	1.2	366	Neg	0	1.3	564	Neg	0	–	1089	Neg	0	1.0	F	F	F	F
+10	Neg	0	0.0	128†	Neg†	0†	0.5†	231	Neg	0	1.3	518	Neg	0	0.4	737	Neg	0	–	F	F	F	F
+11	Neg	3.1	2.9	131	Neg	0	0.8	369	Neg	0	0.8	580	Neg	0	–	F	F	F	F	F	F	F	F
+12	Neg	1	0.4	125†	TB, 0.05†	1.45†	1.7†	156	Neg	0	1.4	258	Neg	0.5	1.0	612	Neg	0	0	995	Neg	0	0.2
+13	TB, 0.1	23.6	2.7	102	Neg	0	0.8	396	Neg	0	2.0	608	Neg	0	–	875	Neg	0	–	F	F	F	F
+l-T4 abstinence	1	Neg	10.5	2.0	109	Neg	1.1	1.7	214	Neg	2.2	1.2	336	Neg	0.6	1.0	585	Neg	0	1.5	857	Neg	0	–
+2	TB, 4.3	4.8	11.5	97	Neg	0	1.8	376	Neg	0	1.3	746	Neg	0	–	972	Neg	0	–	F	F	F	F
+3	Neg	0.3	2.3	127	Neg	0	0.3	357	Neg	0	2.6	F	F	F	F	F	F	F	F	F	F	F	F
+4	Neg	6.4	1.9	92	Neg	0	1.2	405	Neg	0	0	802	Neg	0	–	F	F	F	F	F	F	F	F
+5	TB, 1.6	12.3	9.1	112†	LN, 0.7†	0†	3.3†	232	Neg	0	0.8	475	Neg	0	1.8	F	F	F	F	F	F	F	F
+6	Neg	4.4	9.1	113	Neg	0	2.1	250	Neg	0	–	404	Neg	0	0.8	643	Neg	0	1.2	F	F	F	F
+7	TB, 1.9	1.9	4.1	113†	TB, 0.3†	0†	0.7†	351‡	TB, 0.05‡	0‡	1.3‡	533	Neg	0	0.8	750	Neg	0	0.8	946	Neg	0	–
+8	Neg	0	1.7	127	Neg	0	1.0	263	Neg	0	0.8	634	Neg	0	1.0	839	Neg	0	1.0	–	Neg	–	–
+9	Neg	3.7	1.9	97	Neg	2.9	0.8	302	TB, 0.04	0.6	0	635	Neg	1.6	0	839	Neg	0	–	F	F	F	F
+10	TB, 0.3	3.8	2.2	124†	TB, 0.3†	0†	1.9†	263	Neg	0	1.8	634	Neg	0.4	1.5	718	Neg	0	–	F	F	F	F
+11	TB, 0.3	23.7	6.0	117†	Neg†	0†	1.2†	231	Neg	0	1.4	544	Neg	0	1.4	728	Neg	0	–	F	F	F	F
+12	Neg	1.5	2.1	118	Neg	0	0.8	363	Neg	0	1.8	F	F	F	F	F	F	F	F	F	F	F	F
+TB, thyroid bed; LN, lymph node; F, follow-up in progress.
+
+*First RAT.
+
+†First additional RAT.
+
+‡Second additional RAT.
+
+§Re-operation.
+
+Ablation in terms of radioactivity reception was considered to be successful if <2.0% of the applied activity was taken up in the thyroid bed and no extra-thyroidal uptake was noted. If a local DTC recurrence was suspected, e.g. due to elevated Tg levels or due to US examination, a patient would receive an ablative activity of 3700 MBq 131iodine even if the diagnostic scintigraphy beforehand was negative for tumour recurrence. Thus, diagnostic scans in these cases were performed using higher activities than the standard 100–600 MBq.
+
+Ultrasound
+US of the neck region was carried out at the time of RAT, at 3- and 12-month intervals after surgery and subsequently at each follow-up examination. If the US revealed suspiciously enlarged lymph nodes or a suspicious paratracheal mass, an additional follow-up scintigraphy was planned and carried out shortly thereafter.
+
+Statistical analysis
+Statistical analysis was performed using Analyse-it for Microsoft Excel (version 2.00; Analyse-it Software, Ltd, Leeds, UK,  http://www.analyse-it.com/; 2007). Distribution for normality was tested on descriptive statistics. A non-parametric U test (Mann–Whitney U test) was performed to check the significance of underlying hypothesis.
+
+Results
+A cohort of n=25 patients with DTC was surgically treated by total thyroidectomy and central cervical lymphadenectomy. Thirteen patients were randomized to stimulation by rhTSH and twelve for preconditioning by l-T4 abstinence. The age distribution in both groups was normal and there was no significant difference between rhTSH receivers and l-T4 abstinence.
+
+In those receiving rhTSH, n=7 (54%) patients were in employment, n=3 (23%) were housewives and n=3 (23%) were pensioners. In the group of patients undergoing l-T4 abstinence (hypothyroidism), n=6 (46%) patients were employees, n=4 (31%) were housewives and n=2 (23%) patients were pensioners.
+
+The mean tumour size for rhTSH receivers was 16.4 mm (s.d.±10.4 mm), with one measurement for tumour size missing. The mean tumour size in patients preconditioned by l-T4 abstinence was 8.9 mm (s.d.±7.7 mm). All rhTSH receivers' (n=13) patients had a histology of papillary differentiated carcinoma. In patients after l-T4 abstinence, n=11 patients had a histology of papillary differentiated carcinoma and one patient was diagnosed with a complete follicular-differentiated carcinoma. There was no significant difference in tumour sizes when comparing both groups (two-tailed P=0.1135; Mann–Whitney U test; Table 1).
+
+The time interval from surgery to first ablation at mean was 7.3 days for rhTSH receivers (s.d.±2.02; median=7) and 32.4 days for patients in l-T4 abstinence (s.d.±4.56; median=31). This difference was shown as being highly significant (two-tailed P<0.0001, Mann–Whitney U test). The time interval from surgery to discharge from hospital after the first RAT was 10.1 days on average (s.d.±2.36; median=9) for rhTSH receivers and 36.2 days (s.d.±4.73; median=35) for patients in l-T4 abstinence. This difference was also significant (two-tailed P<0.0001, Mann–Whitney U test; results not shown).
+
+The overall sick leave time from the day of discharge from the Department of Surgery until completion of the first RAT and discharge from hospital was 5.9 days (s.d.±9.1; median=0) for rhTSH receivers and 28.8 days (s.d.±21.3; median=25) for patients in the l-T4 abstinence group. This difference in sick leave time between both groups was highly significant (two-tailed P=0.0350; Mann–Whitney U test; Table 1). Three patients in the rhTSH group reported sick leave time after discharge from hospital. Patient no. 3 reported 23 days of sick leave time due to a necessary hospitalization for other reasons than the DTC-related therapy. Patient no. 11 did report 14 days of sick leave time, which was related to symptoms of hypocalcaemia after simultaneous parathyroidectomy/autotransplantation and adjustment of calcium-substitutive therapy, and patient no. 6 did report 4 days of sick leave time, which was related to a transient alteration of her voice and her job affiliation as a teacher. In contrast, all sick leave time from l-T4 abstinent patients was related to symptoms of hypothyroidism and no patient of this group reported any sick leave days after first RAT.
+
+In order to eliminate any influence of possible differences in iodine body saturation in both groups, which could have altered the degree of RAT efficacy and thus altered the comparability of primary RAT for both groups, we measured the absolute urinary iodine and urinary iodine excretion per milligram of creatinine at the time of the first RAT. We found the absolute urinary iodine comparable for rhTSH receivers at a mean of 92.3 μg/l (s.d.±74.16) and 97.0 μg/l (s.d.±53.8) for patients in l-T4 abstinence. The difference was not significant (two-tailed P=0.4696; Mann–Whitney U test).
+
+The treatment efficacy of the two competing therapeutic strategies rhTSH substitution versus l-T4 abstinence was verified and compared by US, measurements of Tg levels and uptake of radioiodine in the neck region during follow-up (Table 2). The course of Tg decrease over time when graphically plotted was visually the same for rhTSH receivers and patients in l-T4 abstinence (results not shown). Tg levels directly before the initial RAT and on the last follow-up control day were compared: the mean value of Tg in rhTSH receivers was 8.02 ng/ml (s.d.±16.47; median=2.20) directly before the first RAT and 0.10 g/l (s.d.±0.27; median=0.00) on the last follow-up control day. The mean value of Tg in l-T4 abstinence was 8.29 g/l (s.d.±11.18; median=4.1) directly before first RAT and 0.28 g/l (s.d.±0.65; median=0.00) on the last follow-up control day. There was no statistically significant difference in Tg levels directly before the first RAT (two-tailed P=0.2471; Mann–Whitney U test) and on the last follow-up control (two-tailed P=1.000; Mann–Whitney U test). The most recent Tg values were acquired at a mean post-operative time of 635 days (s.d.±289; median=617 days) for rhTSH receivers and for patients in l-T4 abstinence at 624 days (s.d.±205; median=665 days; two-tailed P=0.8938; Mann–Whitney U test).
+
+Follow-up scintigraphies after surgery and first RAT were routinely carried out using body mass index-adjusted activities of 131iodine at 400–600 MBq. If tumour recurrence was suspected – due to sonographic imaging or elevated Tg values – an additional diagnostic scintigraphy was conducted. If the diagnostic scan revealed a suspicious radioactivity reception in the neck region and if tumour recurrence was suspected, then the diagnostic scans were followed up by an additional ablative activity of 3700 MBq 131iodine. Additional RAT due to suspected tumour recurrence was conducted for three patients in rhTSH receivers and for four patients in l-T4 abstinence (Table 2). US by itself did not lead to additional RAT, whereas for two patients in rhTSH receivers and one patient in l-T4 abstinence a positive diagnostic scan lead to suspicion for tumour recurrence and thus were followed up by an additional ablative activity of 3700 MBq 131iodine, despite a negative US examination (Table 2). One patient from the group of rhTSH receivers had to be re-operated 2 1/2 years after initial therapy due to a supra-clavicular lymph node metastasis. Overall, follow-up scans showed visually comparable results over a period of time at uptake percentages usually below 2% of administered activity in the neck region (results not shown).
+
+Discussion
+Since its introduction for clinical applications, rhTSH has proven its value in the management of thyroid cancer, both in clinical studies and from a pharma-economic perspective. In clinical settings, rhTSH has been used for two main indications: first, for diagnostic purposes in routine follow-up, and secondly, in the ablation of remnant thyroid tissue after (near) total thyroidectomy.
+
+We used rhTSH as a tool to substitute endogenous TSH at high-serum levels and was able to combine surgery and RAT in quick succession during the first hospitalization. This significantly shortened the overall treatment time of first-line therapy (thyroidectomy and RAT) down to 10 days, which equals a time reduction in first-line therapy of about 75% when compared with the conventional approach of preconditioning by l-T4 abstinence after thyroidectomy. Additionally and despite the relatively small number of patients, we also found a significant reduction in sick leave time from ∼29 days down to ∼6 days if the patients were preconditioned by rhTSH rather than by withdrawal of l-T4 medication. At the same time, we found our MHH procedure to be safe and equally effective when compared with the standard procedure of l-T4 abstinence. Furthermore, hypothyroidism was avoided completely in patients preconditioned by rhTSH. In addition, those patients made only one trip to the hospital and received their complete therapy in one package. Thus, patients preconditioned by rhTSH were able to deal with the diagnosis of cancer quicker and their perception of ‘illness’ might not have been so negative.
+
+Although we have presented preliminary results of a still ongoing study, it seems comprehensible why at our institution today we strongly favour the utilization of rhTSH to combine surgery and first RAT within the first hospitalization. An additional study with more patients and a focus on the pharma-economic impact of this shortened protocol are in progress.
+
+Declaration of interest
+All authors declare that there is no conflict of interest that could be perceived as prejudicing the impartiality of the research reported.
+
+Funding
+This research did not receive any specific grant from any funding agency in the public, commercial, or non-profit sector.
+
+Acknowledgements
+Oliviera Dragicevic.
+
+References
+1↑
+MazzaferriEL. An overview of the management of papillary and follicular thyroid carcinoma. Thyroid19999421–427.
+
+Search Google Scholar
+Export Citation
+2↑
+SchlumbergerMJ. Papillary and follicular thyroid carcinoma. New England Journal of Medicine1998338297–306.
+
+Search Google Scholar
+Export Citation
+3↑
+DegrootLJKaplanELMcCormickMStrausFH. Natural history, treatment, and course of papillary thyroid carcinoma. Journal of Clinical Endocrinology and Metabolism199071414–424.
+
+Search Google Scholar
+Export Citation
+4↑
+SweeneyDCJohnstonGS. Radioiodine therapy for thyroid cancer. Endocrinology and Metabolism Clinics of North America199524803–839.
+
+Search Google Scholar
+Export Citation
+5↑
+DowKHFerrellBRAnelloC. Quality-of-life changes in patients with thyroid cancer after withdrawal of thyroid hormone therapy. Thyroid19977613–619.
+
+Search Google Scholar
+Export Citation
+6↑
+LusterMFelbingerRDietleinMReinersC. Thyroid hormone withdrawal in patients with differentiated thyroid carcinoma: a one hundred thirty-patient pilot survey on consequences of hypothyroidism and a pharmacoeconomic comparison to recombinant thyrotropin administration. Thyroid2005151147–1155.
+
+Search Google Scholar
+Export Citation
+7↑
+DavidsTWitterickIJEskiSWalfishPGFreemanJL. Three-week thyroxine withdrawal: a thyroid-specific quality of life study. Laryngoscope2006116250–253.
+
+Search Google Scholar
+Export Citation
+8↑
+MeierCABravermanLEEbnerSAVeronikisIDanielsGHRossDSDeraskaDJDaviesTFValentineMDegrootLJCurranPMcEllinKReynoldsJRobbinsJWeintraubBD. Diagnostic use of recombinant human thyrotropin in patients with thyroid carcinoma (phase I/II study). Journal of Clinical Endocrinology and Metabolism199478188–196.
+
+Search Google Scholar
+Export Citation
+9↑
+LadensonPWBravermanLEMazzaferriELBrucker-DavisFCooperDSGarberJRWondisfordFEDaviesTFDegrootLJDanielsGHRossDSWeintraubBD. Comparison of administration of recombinant human thyrotropin with withdrawal of thyroid hormone for radioactive iodine scanning in patients with thyroid carcinoma. New England Journal of Medicine1997337888–896.
+
+Search Google Scholar
+Export Citation
+10↑
+MernaghPCampbellSDietleinMLusterMMazzaferriEWestonAR. Cost-effectiveness of using recombinant human TSH prior to radioiodine ablation for thyroid cancer, compared with treating patients in a hypothyroid state: the German perspective. European Journal of Endocrinology2006155405–414.
+
+Search Google Scholar
+Export Citation
+11↑
+BorgetICoroneCNocaudieMAllynMIacobelliSSchlumbergerMDe PouvourvilleG. Sick leave for follow-up control in thyroid cancer patients: comparison between stimulation with thyrogen and thyroid hormone withdrawal. European Journal of Endocrinology2007156531–538.
+
+Search Google Scholar
+Export Citation
+12↑
+HaugenBRPaciniFReinersCSchlumbergerMLadensonPWShermanSICooperDSGrahamKEBravermanLESkarulisMCDaviesTFDegrootLJMazzaferriELDanielsGHRossDSLusterMSamuelsMHBeckerDVMaxonHRIIICavalieriRRSpencerCAMcellinKWeintraubBDRidgwayEC. A comparison of recombinant human thyrotropin and thyroid hormone withdrawal for the detection of thyroid remnant or cancer. Journal of Clinical Endocrinology and Metabolism1999843877–3885.
+
+Search Google Scholar
+Export Citation
+13↑
+KohlfuerstSIgercILindP. Recombinant human thyrotropin is helpful in the follow-up and 131I therapy of patients with thyroid cancer: a report of the results and benefits using recombinant human thyrotropin in clinical routine. Thyroid200515371–376.
+
+Search Google Scholar
+Export Citation
+14↑
+PitoiaFTamerEESchereDBPasserieuMBrunoODNiepomniszczeH. Usefulness of recombinant human TSH aided radioiodine doses administered in patients with differentiated thyroid carcinoma. Medicina200666125–130.
+
+Search Google Scholar
+Export Citation
+15↑
+PaciniFLadensonPWSchlumbergerMDriedgerALusterMKloosRTShermanSHaugenBCoroneCMolinaroEEliseiRCeccarelliCPincheraAWahlRLLeboulleuxSRicardMYooJBusaidyNLDelpassandEHanscheidHFelbingerRLassmannMReinersC. Radioiodine ablation of thyroid remnants after preparation with recombinant human thyrotropin in differentiated thyroid carcinoma: results of an international, randomized, controlled study. Journal of Clinical Endocrinology and Metabolism200691926–932.
+
+Search Google Scholar
+Export Citation
+16↑
+JarzabBHandkiewicz-JunakDRoskoszJPuchZWygodaZKukulskaAJurecka-LubienieckaBHasse-LazarKTurskaMZajuszA. Recombinant human TSH-aided radioiodine treatment of advanced differentiated thyroid carcinoma: a single-centre study of 54 patients. European Journal of Nuclear Medicine and Molecular Imaging2003301077–1086.
+
+Search Google Scholar
+Export Citation
+17↑
+LippiFCapezzoneMAngeliniFTaddeiDMolinaroEPincheraAPaciniF. Radioiodine treatment of metastatic differentiated thyroid cancer in patients on l-thyroxine, using recombinant human TSH. European Journal of Endocrinology20011445–11.
+
+Search Google Scholar
+Export Citation
+18↑
+SchroederPRHaugenBRPaciniFReinersCSchlumbergerMShermanSICooperDSSchuffKGBravermanLESkarulisMCDaviesTFMazzaferriELDanielsGHRossDSLusterMSamuelsMHWeintraubBDRidgwayECLadensonPW. A comparison of short-term changes in health-related quality of life in thyroid carcinoma patients undergoing diagnostic evaluation with recombinant human thyrotropin compared with thyroid hormone withdrawal. Journal of Clinical Endocrinology and Metabolism200691878–884.
+
+Search Google Scholar
+Export Citation
+19↑
+BlameySBarracloughBDelbridgeLMernaghPStandfieldLWestonA. Using recombinant human thyroid-stimulating hormone for the diagnosis of recurrent thyroid cancer. ANZ Journal of Surgery20057510–20.
+
+Search Google Scholar
+Export Citation

@@ -1,0 +1,423 @@
+﻿Vaccine 21 (2003) 4507–4513
+A prospective, Internet-based study of the effectiveness and safety of
+influenza vaccination in the 2001–2002 influenza season
+Naoki Kawai a,∗, Hideyuki Ikematsu b, Norio Iwaki a, Ietaka Satoh a, Takashi Kawashima a,
+Taizo Tsuchimoto a, Seizaburo Kashiwagi c
+a Japan Physicians Association, Tokyo Medical Association Building 3F, 2-5 Kanda-Surugadai, Chiyoda-ku 101-0062, Tokyo, Japan b Department of Clinical Research, Hara-doi Hospital, 6-40-80 Aoba, Higashi-ku, Fukuoka 813-8588, Japan c National Kyushu Medical Center, 1-8-1 Jigyohara, Chuo-ku, Fukuoka 810-8563, Japan
+Received 25 October 2002; received in revised form 7 May 2003; accepted 26 June 2003
+Abstract
+The effectiveness of the influenza vaccine used in the 2001–2002 influenza season in Japan was investigated in a large-scale, geographically widely distributed, Internet-based study. Data were collected from 8841 of 9902 subjects registered by 38 clinics prior to the start
+of influenza season. Subjects were categorized into three groups by vaccination regimen: unvaccinated, vaccinated once, and vaccinated
+twice. Efficacy was also analyzed for three age groups: 0–15, 16–64, and 65–104 years. Influenza-like illness (ILI) was diagnosed according
+to Ministry of Health (MWH, Labor and Welfare in Japan) criteria. Laboratory-confirmed influenza cases were analyzed separately. The
+respective vaccine efficacy in the 0–15 years group for the one- and two-dose regimens was 67.6 and 84.5% for ILI and 54.0 and 79.8% for
+laboratory-confirmed influenza. Influenza vaccination was also shown to be effective in subjects 16–64 years. Vaccine effectiveness was
+not able to be determined for the over 65 years group, probably due to an insufficient number of infected patients. These results suggest that
+influenza vaccination is effective for children and adults and that a two-dose regimen is superior to a single dose in children 0–15 years.
+© 2003 Elsevier Ltd. All rights reserved.
+Keywords: Influenza vaccine; Prospective study; Internet
+1. Introduction
+It has been reported that the policy of vaccinating
+schoolchildren against influenza in effect before 1993
+possibly provided protection and reduced mortality from
+influenza among the elderly in Japan [1]. The relation between current increases in influenza related mortality and
+the lack of a Japanese regulation mandating influenza vaccination of schoolchildren is now under discussion. Partially
+funded by the Japanese government, a single dose vaccination was recommended for residents over 65 years starting
+in 2001. However, no prospective megastudy of the efficacy
+and safety of vaccination against influenza that includes all
+ages has been done in Japan. In addition, differences in the
+effectiveness of the one- and two-dose regimens have as yet
+not been fully quantified on a prospective basis.
+Commercialized rapid diagnosis kits have made it possible to easily diagnose influenza in outpatient clinics. The
+Internet has made it easy to collect data from any region of
+∗ Corresponding author. Tel.: +81-58-245-0564; fax: +81-58-246-9057.
+E-mail address: nkawai@city.gifu.med.or.jp (N. Kawai).
+the world and to analyze data quickly. To our knowledge, no
+prospective, Internet-based study of influenza has as yet been
+done. This large-scale, prospective, Internet-based study of
+influenza in 2001–2002 influenza season in Japan was to
+determine the effectiveness and safety of influenza vaccination and includes a comparison the one- and two-dose
+regimens.
+2. Methods
+2.1. Study procedures
+Family doctors, pediatricians and physicians at 38 clinics
+belonging to the Influenza Study Group of the Japan Physicians Association (the members of the group are listed in
+Appendix A) participated in the study.
+The main computer system, based on a Pentium workstation running a Structured Query Language (SQL) database
+and a World Wide Web server, was placed in a secure room
+at the Gifu City Medical Association [2]. Doctors with an
+ID and a password were allowed access to this computer
+0264-410X/$ – see front matter © 2003 Elsevier Ltd. All rights reserved.
+doi:10.1016/S0264-410X(03)00508-5
+4508 N. Kawai et al. / Vaccine 21 (2003) 4507–4513
+Fig. 1. Outline of our prospective, Internet study. Doctors authorized by both common and individual ID and personal passwords enrolled subjects using
+an Internet web page (the right side of the figure).
+system via the Internet to input data into the SQL database,
+using the web-based reporting system (Fig. 1).
+First, a common ID and password for entering the registration site was sent by Internet to doctors who applied to participate in this study. In the registration site, the database server
+allotted an individual ID automatically to those doctors who
+consented to the protocol and registered their names, clinic
+names, addresses, telephone numbers and mail addresses.
+Each participating doctor also registered a personal password.
+From 1 October to 31 December 2001, the doctors enrolled unvaccinated and vaccinated subjects who consented
+to be registered in this study. All consenting vaccinated
+subjects at each participating clinic were enrolled in the
+database. Also enrolled were unvaccinated control subjects
+from the same clinic, age and sex matched as closely as possible to the vaccinated subjects, selected at the same clinics. The enrollment data were the enrollee’s number, initial,
+birthday, gender, school or occupation, vaccination history
+in the last year (2000–2001 season), vaccination regimen,
+and the date of vaccination (Fig. 1).
+After the influenza season and before the closing date of
+31 May, the participating doctors added the following information to the enrollment data: adverse reactions to vaccination, the observed clinical symptoms of influenza (e.g.
+highest body temperature, duration of fever, duration of bed
+rest), complications, therapy, and the results of rapid diagnosis, culture, and serum titer of paired sera. The clinical
+symptoms of each subject were ascertained by any of the
+following: self-report questionnaire, phone calls, or by mail.
+Most data were collected by self-report questionnaire.
+2.2. Vaccination regimen and influenza diagnosis
+Vaccination was done once or twice as requested by the
+subject. The dosage per inoculation was 0.5 ml for subjects aged over 14 years, 0.3 ml for 6–13 years, 0.2 ml
+for 1–6 years and 0.1 ml for subjects under 1 year. The
+vaccine contained 30 g of antigen from the component
+strains A/New Caledonia/20/99, A/Panama/2007/99 and
+B/Johannesburg/5/99. The interval between the two vaccinations ranged for 1–4 weeks, by patient choice.
+Influenza-like illness (ILI) was defined as all cases fitting
+the symptomatic criteria (presence of all of the following
+four symptoms; sudden onset, fever over 38 ◦C, sore throat
+as a clinical symptom of upper respiratory tract infection,
+and general fatigue) set by the Ministry of Health, Labor
+and Welfare in Japan. In this study, influenza was defined
+as ILI cases with positive results by rapid diagnosis kits,
+influenza virus isolation, or serum antibody titer elevation.
+Commercialized rapid diagnosis kits based on enzyme immunoassay [3] or immunochromatography [4] were used
+with specimens from throat swabs, nasal swabs, or nasal
+aspirates. Virus isolation was done with standard methods.
+Serological diagnosis was done by a more than four-fold
+elevation of serum titer by hemagglutination inhibition test.
+2.3. Statistical analysis
+χ2-test was used for comparison, with a P-value below
+0.05 considered statistically significant. The patients were
+stratified into ten year age cohorts and Mantel–Haenszel
+test was done to adjust for age in tests of between group
+N. Kawai et al. / Vaccine 21 (2003) 4507–4513 4509
+differences in vaccine efficacy. Multiple regression analysis
+was done to determine factors affecting ILI and influenza
+prevalence. Age, sex, number of vaccinations, and vaccination in the previous season were included the analysis.
+3. Results
+3.1. Vaccination status
+Complete follow-up data were obtained from 8841of the
+9902 enrolled subjects. Base-line characteristics of the 8841
+subjects are listed in Table 1. The number of unvaccinated,
+one- and two-dose vaccinated subjects was 2188 (1190 female, 998 male), 4359 (2801 female, 1558 male), and 2294
+(1391 female, 903 male), respectively. The mean ages of the
+three groups were 53.2, 64.0, and 33.4 years old.
+The subjects were divided into three age groups: 0–15,
+16–64, and 65–104 years. The respective frequencies of subjects taking one- and two-dose vaccinations among vaccines
+were 20.1 and 79.9% in subjects 0–15 years, 51.4 and 48.6%
+in subjects 16–64 years, and 89.2 and 10.8% in subjects
+65–104 years.
+3.2. Adverse reactions
+Adverse reactions to the influenza vaccine were noted by
+96 of the 6626 vaccinated subjects (1.45%) with complete
+data. They included skin redness or exanthema (44 cases),
+swelling (27 cases), itching (11cases) and pain (7 cases) as
+local reactions, and fever (7 cases) and fatigue (6 cases) as
+general reactions.
+3.3. Diagnosis of ILI and influenza
+Of the 8841 subjects, ILI was diagnosed symptomatically
+in 127 patients (1.44%). Of these, 75 had one or more laboratory tests for influenza. By the rapid diagnosis kit, 64 patients were positive. Influenza viruses were isolated in three
+of six tested cases; two A/H3N2 and one A/H1N1. All three
+positive cases were also positive by rapid diagnosis kit. Elevation of serum HI titer was found in five of the six cases
+for whom paired sera were tested: four with elevation for
+A/H3N2 and one for A/H1N1. Of these five serologically
+positive cases, one was negative by the rapid diagnosis kit.
+Overall, confirmed influenza cases were 65 of the 75 ILI
+patients who had laboratory tests.
+3.4. Vaccination efficacy
+Efficacy by vaccination status is summarized in Table 2.
+The frequency of ILI observed in patients (infection rate)
+of all ages was significantly lower in the one- and two-dose
+vaccinated groups than in the control group (P < 0.001
+by Mantel–Haenszel test). No significant differences were
+found between vaccinated once and twice vaccinated patients. The calculated values of efficacy to ILI in the oneand two-dose vaccinated groups were 73.0 and 60.4%, respectively.
+In the 0–15 years group, the infection rate was significantly lower in the two-dose vaccinated group than in the
+unvaccinated group (2.10% versus 13.53%, P < 0.001 by
+χ2-test). The infection rate was also significantly lower in the
+one-dose vaccinated group than in the unvaccinated group
+(4.38% versus 13.53%, P < 0.001 by χ2-test). The infection rate was significantly lower in the two-dose vaccinated
+groups than in the one-dose vaccinated groups (2.10% versus 4.38%, P < 0.05 by χ2-test). The calculated values of
+efficacy to ILI in the one- and two-dose vaccinated groups
+were 67.6 and 84.5%, respectively.
+The subjects 0–15 years were divided into five subgroups:
+0–3, 4–6, 7–9, 10–12, and 13–15 years. The infection rate
+was significantly lower in two-dose vaccinated subjects than
+in unvaccinated subjects in all subgroups. The infection rate
+was also lower in one-dose vaccinated subjects than in unvaccinated subjects in the 7–9 and 13–15 years age groups
+(Fig. 2).
+In the 16–64 years age group, the infection rate was significantly lower in two-dose vaccinated (0.33%) than in unvaccinated subjects (1.83%) (P < 0.01 by χ2-test). The efficacy by one- and two-dose vaccination to ILI was 54.9 and
+82.1%, respectively. In subjects 65–104 years of age, no significant differences in infection rates were found among the
+unvaccinated, one- and two-dose vaccinated groups.
+The infection rates by laboratory-confirmed influenza
+were significantly lower for all ages in the one- (0.37%)
+and two-dose vaccinated (0.70%) groups than in the unvaccinated group (1.51%) (P < 0.001 by Mantel–Haenszel
+test). The efficacy of one- and two-dose vaccination to
+laboratory-confirmed influenza was 75.7 and 53.8%, respectively.
+The infection rates of laboratory-confirmed influenza
+were significantly lower in the two-dose vaccinated groups
+than in the unvaccinated group in the 0–15 and 16–64 years
+age groups. The efficacy of one- and two-dose vaccination to laboratory-confirmed influenza in the 0–15 years
+age group was 54.0 and 79.8%, respectively. In the 0–15
+years age group, the infection rate of laboratory-confirmed
+influenza was significantly lower in the one-dose vaccinated group than in the unvaccinated group (P < 0.05
+by χ2-test). In the 16–64 years age group, the infection
+rate of laboratory-confirmed influenza was not significantly
+lower in the one-dose vaccinated group than in the unvaccinated group. The efficacy of one- and two-dose vaccination
+to laboratory-confirmed influenza in the 16–64 years age
+group was 69.6 and 78.5%, respectively.
+3.5. Influence of vaccination in the previous season
+To assess the influence of vaccination in the previous
+season, the frequency of ILI and laboratory-confirmed influenza were surveyed in 2188 unvaccinated patient in the
+4510 N. Kawai et al. / Vaccine 21 (2003) 4507–4513 Table 1 Base-line characteristics of 8841 subjects Vaccination age group (years) Total 0–15 16–64 65–104 All ages None Once Twice None Once Twice None Once Twice None Once Twice No. of subjects 303 251 999 982 968 915 903 3140 380 2188 4359 2294 8841 Mean age ± S.D. (years) 6.6 ± 4.4 8.8 ± 4.4 7.5 ± 4.4 48.1 ± 13.3 44.0 ± 14.0 44.0 ± 14.7 74.3 ± 6.4 74.5 ± 6.7 76.1 ± 7.2 53.2 ± 24.4 64.0 ± 20.5 33.4 ± 27.2 SexFemale 141 123 511 511 666 610 538 2012 270 1190 2801 1391 5382 Male 162 128 488 471 302 305 365 1128 110 998 1558 903 3459 Health condition Healthy 193 196 770 249 503 566 48 333 51 490 1032 1387 2909 Outpatient 97 51 222 678 443 313 769 2581 278 1544 3075 813 5432 Resident in long-term care unit 0 1 2 0 2 30 4 172 49 4 175 81 260 Unknown 13 3 5 55 20 6 82 54 2 150 77 13 240 Vaccination in the previous season
+None 290 126 438 924 415 357 828 1718 79 2042 2259 874 5175
+Once 6 50 36 32 419 38 41 1158 26 79 1627 100 1806
+Twice 2 67 499 11 101 509 4 210 268 17 378 1276 1671
+Unknown 5 8 26 15 33 11 30 54 7 50 95 44 189
+N. Kawai et al. / Vaccine 21 (2003) 4507–4513 4511
+Table 2
+Efficacy of vaccination for ILI and for influenza by regimen
+Age group
+(years)
+vaccination
+status
+No. of
+enrollees
+No. of
+observed
+ILI
+Frequency
+of ILI (%)
+Vaccine
+efficacy
+95% CI No. of
+observed
+influenza
+Frequency of
+influenza (%)
+Vaccine
+efficacy
+95% CI
+0–15 Unvaccinated 303 41 13.53 21 6.93
+Once 251 11 4.38∗∗∗ 67.6 51.9–83.3 8 3.19∗ 54.0 27.8–77.0
+Twice 999 21 2.10∗∗∗,† 84.5 78.4–90.6 14 1.40∗∗∗ 79.8 70.3–89.3
+16–64 Unvaccinated 982 18 1.83 10 1.02
+Once 968 8 0.83 54.9 30.8–78.5 3 0.31 69.6 34.8–93.3
+Twice 915 3 0.33∗∗ 82.1 56.6–96.2 2 0.22∗ 78.5 40.0–97.2
+65–104 Unvaccinated 903 6 0.66 2 0.22
+Once 3140 16 0.51 23.3 0.1–47.2 5 0.16 28.1 3.7–71.0
+Twice 380 3 0.79 −18.8 n.a. 0 0.00 100 n.a.
+All age Unvaccinated 2188 65 2.97 33 1.51
+Once 4359 35 0.80∗∗∗ 73.0 65.3–80.6 16 0.37∗∗∗ 75.7 65.3–86.0
+Twice 2294 27 1.18∗∗∗ 60.4 48.8–72.0 16 0.70∗∗ 53.8 37.2–70.3
+∗ P < 0.05, P-value between unvaccinated and vaccinated once or twice. ∗∗ P < 0.01, P-value between unvaccinated and vaccinated once or twice. ∗∗∗ P < 0.001, P-value between unvaccinated and vaccinated once or twice.
+† P < 0.05, P-value between vaccinated once and twice.
+2001–2002 season (Table 3). The frequency of ILI was
+2.08% in the patients vaccinated in the previous season and
+2.99% in previously unvaccinated patients. There was no significant difference between the two groups. The frequency
+of laboratory-confirmed influenza was 1.57% in the patients
+unvaccinated in the previous season, but no laboratoryconfirmed influenza was found in the vaccinated group. There
+was no significant difference between the two groups
+(Table 3).
+3.6. Factors influencing ILI
+To assess the influence on ILI of age, sex, number of vaccinations, and vaccination in the previous season, multiple
+regression analysis was done including these factors. Patient
+Fig. 2. Observed ILI patient frequency of five subgroups under 16 years, by vaccination status.
+age and the number of vaccinations were extracted as independent factors affecting the prevalence of ILI (P < 0.001).
+No significant relationship to ILI was shown for sex or immunization in the previous season.
+4. Discussion
+One of most important characteristics of this study is
+that it was a prospective, Internet-based study in which a
+large number of subjects were enrolled from widely distributed clinics in Japan. To our knowledge, this is the first
+trial of an Internet-based prospective study of influenza
+vaccination. When using the Internet, security is of utmost
+importance. In the system used in this study, we permitted
+4512 N. Kawai et al. / Vaccine 21 (2003) 4507–4513
+Table 3
+The influence of vaccination in the previous influenza season
+Age group
+(years)
+Vaccination in the
+previous season
+Number of
+enrollees
+Number of
+observed ILI
+Frequency
+of ILI (%)
+Number of
+observed influenza
+Frequency of
+influenza (%)
+0–15 Unvaccinated 290 39 13.45 20 6.90
+Vaccinated 8 1 12.50 0 0.00
+Unknown 5 1 1
+16–64 Unvaccinated 924 17 1.84 10 1.08
+Vaccinated 43 0 0.00 0 0.00
+Unknown 15 1 0
+65–104 Unvaccinated 828 5 0.60 2 0.24
+Vaccinated 45 1 2.22 0 0.00
+Unknown 30 0 0
+All ages Unvaccinated 2042 61 2.99 32 1.57
+Vaccinated 96 2 2.08 0 0.00
+Unknown 50 2 1
+only previously registered doctors to access their own data
+in the main computer via the Internet, while checking both
+the common and individual ID and passwords. The main
+computer system was placed and managed carefully in a
+secure room. The Internet is useful for megastudies because the data input system is easily operated. Considering
+the merits of the Internet, prospective studies using this
+modality may become common in the future.
+Vaccination status was shown to differ in the three age
+groups. Two-dose vaccination was predominant in the 0–15
+years age group. In contrast, one-dose vaccination was predominant in the 65–104 years age group. These results indicate the present preference of Japanese physicians and patients to influenza vaccination: two-doses for children and
+one-dose for the elderly. Government financial support for
+only a single injection for the elderly may have influenced
+this tendency.
+The effectiveness and safety of influenza vaccine has been
+reported in different settings [5–19]. The frequency of adverse reactions to influenza vaccine was low in this study
+compared to other studies. Minor adverse reactions were reported by only 96 of 6626 vaccinated subjects (1.45%), and
+no severe adverse reactions were reported. Self-report based
+data collection might have resulted in underestimation of
+adverse reactions. However, these results indicate the safety
+of influenza vaccination of the general population.
+Previous studies of the clinical effectiveness of influenza
+vaccination had conflicting results [5–8], possibly because
+of differences in the match between the virus strains in the
+tested vaccines and the circulating strains. In 2001–2002 influenza season, epidemic strains were compatible to vaccine
+strains. Incorrect diagnosis of influenza may also have affected the results. Commercially available rapid diagnosis
+kits allowed us much more precise diagnosis of influenza
+than was previously possible [3,4]. Of the 127 ILI patients,
+75 had one or more laboratory tests for influenza and 65
+had influenza confirmed. These results indicate that the diagnostic criteria for ILI in this study were reliable as most
+patients initially diagnosed with ILI actually had influenza.
+Prospective studies have been done on subjects at
+high-risk: children, the elderly, and healthy working adults
+[8–16]. However, the efficacy and safety of vaccination
+has not previously been fully examined by a prospective,
+multi-center study that involved thousands of subjects of
+all ages. Such a study has been suggested to provide information on the benefits, risks, and economic effects of
+immunization [20]. In analysis of the three age groups,
+vaccination resulted in a reduction in the number of ILI
+patients in the 0–15 and 16–64 years age groups. In the
+0–15 years subjects, the infection rate by ILI was smaller
+in both the one- and two-dose vaccinated groups than in the
+unvaccinated group. And the infection rate of the two-dose
+vaccinated group was lower than that of unvaccinated group
+in the 16–64 years age groups. These results indicate that influenza vaccination is effective for both children and adults.
+Although one-dose vaccination was effective in children,
+two-dose vaccination may give better protection.
+The efficacy of vaccination has been reported in the
+elderly in nursing homes [16], and the effectiveness of
+one-dose vaccination compared with two-dose vaccination
+was reported in elderly people receiving annual influenza
+vaccination [21]. In the present study, we were not able
+to confirm the efficacy of influenza vaccine in the 65–104
+years age group, possibly because the number of ILI patients
+was too small. The National Institute of Infectious Diseases
+(IDSC) in Japan reported on its homepage that the number of ILI patients was relatively small in the 2001–2002
+influenza season compared with the last 10 years. ILI was
+found in only 25 of the 4423 enrolled 65–104 years age
+group subjects in this study. Further study is necessary to
+evaluate the efficacy of influenza vacciation for the elderly.
+To our knowledge, the effect of vaccination in the previous
+season has not been fully evaluated. In this study, the influence of vaccination in the previous season was investigated
+in 2188 unvaccinated enrollees. Although the frequency of
+ILI and laboratory-confirmed influenza was lower in the previously vaccinated enrollees than in enrollees unvaccinated
+in the previous season, no significant difference was found
+N. Kawai et al. / Vaccine 21 (2003) 4507–4513 4513
+between the two groups. In the multiple regression analysis, vaccination in the previous season was not a significant
+factor affecting ILI, nor was laboratory-confirmed influenza.
+These results suggested that vaccination in the previous season did not provide significant protection in the 2001–2002
+influenza season. Continued investigation, especially in 1
+year with a relatively large-scale epidemic, should provide
+important further information concerning the protective effect of previous influenza vaccination.
+In conclusion, influenza vaccination was shown to be safe
+and effective in this prospective, large-scale, Internet-based
+study. Although one vaccination was shown to have protective efficacy, two vaccinations should be recommended
+for children and adults to achieve the greatest possible
+protection.
+Acknowledgements
+We thank Yoshio Goto, M.D. (Japan Physicians Association) and Yoshizou Sakuma, M.D. (Gifu City Medical
+Association) for their support in this study.
+Appendix A
+The followings are members of the Influenza Study Group
+of the Japan Physicians Association: T. Takahashi, T. Shigematsu, K. Kondoh, H. Kouzu, M. Inoue, K. Dohniwa, H.
+Tomori, T. Harada, R. Sakai, M. Shimada, N. Hirotsu, M.
+Kamei, N. Mise, O. Tanaka, Y. Shimoma, T. Maeda, S.
+Hoshijima, K. Hasegawa, Y. Tamai, M. Toyama, T. Andoh, J. Yamamoto, T. Okayama, K. Tamaki, T. Takami, H.
+Ishikawa, K. Andoh, K. Kawai, N. Matsuura, N. Saitoh, O.
+Noguchi, O. Kunishima.
+References
+[1] Reichert TA, Sugaya N, Fedson DS, et al. The Japanese experience
+with vaccinating schoolchildren against Influenza. N Engl J Med
+2001;344:889–96.
+[2] Sparacia G, Bartolotta TV, Brancatelli G, Caramella D, Vimercati
+F. Design and implementation of a World Wide Web teaching files
+database on diagnostic radiology. Radiol Med 1999;97:76–80.
+[3] Shimizu H, Watanabe S, Kawakami C, et al. Sensitivity and
+specificity of rapid diagnosis kit detecting separately influenza A and
+B viruses. Kansenshogaku Zasshi 2000;74:1038–43 (in Japanese).
+[4] Kawakami C, Shimizu H, Watanabe S, et al. Evaluation of
+immunochromatography method for rapid detection of influenza A
+and B viruses. Kansenshogaku Zasshi 2001;75:792–9 (in Japanese).
+[5] Hoskins TW, Davies JR, Smith AJ, Miller CL, Allchin A. Assessment
+of inactivated influenza-A vaccine after three outbreaks of influenza
+A at Christ’s Hospital. Lancet 1979;1(8106):33–5.
+[6] Smith JW, Pollard R. Vaccination against influenza: a 5-year study
+in the post office. J Hyg 1979;83:157–70.
+[7] Weingarten S, Staniloff H, Ault M, Miles P, Bamberger M, Meyer
+RD. Do hospital employees benefit from the influenza vaccine? A
+placebo-controlled clinical trial. J Gen Intern Med 1988;3:32–7.
+[8] Nicole KL, Lind A, Margolis KL, et al. The effectiveness of
+vaccination against influenza in healthy, working adults. N Engl J
+Med 1995;333:889–93.
+[9] Gross PA, Ennis FA, Noble GR, Gaerlan PF, Davis WJ, Denning CE.
+Influenza vaccine in unprimed children: improved immunogenicity
+with few reactions following one dose of split-product vaccine. J
+Pediatr 1980;97:56–60.
+[10] Vu T, Farish S, Jenkins M, Kelly H. A meta-analysis of effectiveness
+of influenza vaccine in persons aged 65 years and over living in the
+community. Vaccine 2002;20:1831–6.
+[11] Hurwitz ES, Haber M, Chang A, et al. Effectiveness of influenza
+vaccination of day care children in reducing influenza-related
+morbidity among household contacts. JAMA 2000;284:1677–82.
+[12] Nichol KL, Margolis KL, Wuorenma J, Von Sternberg T. The efficacy
+and cost effectiveness of vaccination against influenza among elderly
+persons living in the community. N Engl J Med 1994;331:778–84.
+[13] Ohmit SE, Monto AS. Influenza vaccine effectiveness in preventing
+hospitalization among the elderly during influenza type A and type
+B seasons. Int J Epidemiol 1995;24:1240–8.
+[14] Belshe RB, Mendelman PM, Treanos J, et al. The efficacy of live
+attenuated, cold-adapted, trivalent, intranasal influenzavirus vaccine
+in children. N Engl J Med 1998;338:1405–12.
+[15] Izurieta HS, Thompson WW, Kramarz P, et al. Influenza and the
+rates of hospitalization for respiratory disease among infants and
+young children. N Engl J Med 2000;342:232–9.
+[16] Deguchi Y, Takasugi Y, Tatara K. Efficacy of influenza vaccine in the
+elderly in welfare nursing homes: reduction in risks of mortality and
+morbidity during an influenza A (H3N2) epidemic. J Med Microbiol
+2000;49:553–6.
+[17] Neuzil KM, Mellen BG, Wright PF, Mitchel EF, Griffin MR. The
+effect of influenza on hospitalizations, outpatient visits, and courses
+of antibiotics in children. N Engl J Med 2000;342:225–31.
+[18] Lasky T, Terracciano GJ, Magder L, et al. The Guillain–Barre
+syndrome and the 1992–1993 and 1993–1994 influenza vaccines. N
+Engl J Med 1998;339:1797–802.
+[19] American Lung Association Asthma Clinical Research Centers. The
+safety of inactivated influenza vaccine in adults and children with
+asthma. N Engl J Med 2001;345:1529–36.
+[20] McIntosh K, Lieu T. Is it time to give influenza vaccine to healthy
+Infants? N Engl J Med 2000;342:275–6.
+[21] Ikematsu H, Nabeshima A, Yamaji K, et al. Antibody response to
+a single injection of influenza vaccine among geriatric inpatients
+vaccinated annually. Kannsennshogaku Zasshi 1998;72:905–11 (in
+Japanese).

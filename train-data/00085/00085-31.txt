@@ -1,0 +1,716 @@
+﻿Gastroretentive Gabapentin (G-GR) Formulation Reduces
+Intensity of Pain Associated With Postherpetic
+Neuralgia (PHN)
+Christine N. Sang, MD, MPH,* Rekha Sathyanarayana, BS,w and Michael Sweeney, MD,w
+for the DM-1796 Study Investigators
+Objective: To evaluate the safety and efficacy of a once-daily gastroretentive formulation of gabapentin (G-GR; 1800 mg).
+Methods: This was an 11-week, double-blind, randomized, placebocontrolled Phase 3 clinical trial in patients with postherpetic neuralgia. Patients underwent a 2-week dose titration, 8 weeks of stable
+dosing, and 1 week of dose tapering. The primary endpoint was the
+change in average daily pain intensity score from Baseline to Week 10
+using Baseline Observation Carried Forward (BOCF) imputation.
+Results: Four-hundred and fifty-two patients (mean age 65.6 y,
+BMI 29 Kg/m2
+) were randomized. Baseline average daily pain intensity score during the week prior to randomization was 6.6 and
+6.5 for the G-GR and placebo treatment groups, respectively.
+Three hundred and seventy-seven patients completed the study
+(84% G-GR, 83% placebo). G-GR significantly reduced BOCF
+change in average daily pain intensity compared with placebo (2.1
+vs. 1.6; G-GR vs. placebo, P= 0.013). Compared with placebo,
+more G-GR-treated patients reported “much” or “very much” improvement (patient global impression of change, 43% vs. 34%;
+P< 0.0434), and G-GR reduced sleep interference (2.3 vs. 1.59;
+P< 0.0001), although neither endpoint was considered statistically
+significant based on a stringent hierarchical statistical paradigm.
+Other secondary endpoints showed similar trends. The most common
+adverse events were dizziness (G-GR, 11.3% vs. placebo, 1.7 %) and
+somnolence (G-GR, 5.4% vs. placebo, 3.0%).
+Conclusion: Once-daily G-GR 1800 mg was effective and well tolerated for the relief of pain in patients with postherpetic neuralgia.
+Key Words: postherpetic neuralgia, gabapentin, extended release,
+pain
+(Clin J Pain 2013;29:281–288)
+Alarge body of evidence supports the use of gabapentin
+in a variety of neuropathic pain syndromes, including
+postherpetic neuralgia (PHN) for which it is specifically
+indicated.1 In vitro, gabapentin reduces the calciumdependent release of several neurotransmitters by modulation, in part, of calcium-channel function.2,3 Gabapentin
+specifically binds to CaVa2-d, resulting in a slow redistribution of calcium channels away from the functional
+membrane sites and toward the cytosol; this action is
+thought to result in a rapid action at synapses.4
+PHN is defined as the persistence of pain for 3 months
+or more after resolution of acute herpes zoster,5 with age
+consistently associated with both increased prevalence and
+worsening severity.6 PHN is often refractory to clinically
+available analgesics; moreover, gabapentin is associated
+with dose-limiting side effects that may limit its utility.4–7
+The pharmacokinetic properties of gabapentin are well
+established; its short half life (5 to 7 h)7 may potentially
+reduce both convenience and plasma trough levels when
+administered at least 3 times daily. In addition, gabapentin
+is absorbed in the upper gastrointestinal tract, mainly
+through a saturable L-amino acid transport system that
+results in nonlinear absorption.7,8 These properties may be
+overcome by formulation adjustments: G-GR is an extended-release formulation of gabapentin that uses a gastric
+retentive technology9 designed to provide continuous delivery to the optimal site of absorption in the upper intestines over approximately 8 to 10 hours.10 Drug exposure
+after administration of a G-GR dose of 1800 mg once
+daily (qd) results in comparable systemic exposure to a
+600 mg three times daily (tid) dose of the immediate-release
+formulation.10
+When administered as an asymmetrically administered
+divided dose (600 mg qAM, 1200 mg qPM) over 4 weeks,
+G-GR resulted in a statistically significant improvement in
+average daily pain score compared with placebo.11 In a
+large phase 3 clinical trial, a similar trend was observed
+over a 10-week treatment period for once-daily dosing,
+although it did not reach significance for the primary
+outcome.12
+We evaluated the efficacy and safety of once-daily
+G-GR in a large, randomized placebo-controlled multicenter phase 3 clinical trial in PHN.
+METHODS
+Study Design
+Patients from 89 investigative sites (57 in the United
+States, 24 in Russia, and 8 in Argentina) participated in this
+randomized, double-blind, parallel design, placebo-controlled, multicenter clinical trial, conducted from March
+2008 to August 2009. The study period included a 1-week
+baseline period, followed by randomization and a 2-week
+Received for publication December 23, 2011; accepted April 2, 2012.
+From the *Translational Pain Research, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA; and wDepomed Inc.,
+Menlo Park, CA.
+The investigators and centers that participated in the DM-1796 study
+are listed in the appendix.
+Supported by Depomed Inc., Menlo Park, CA. C.N.S. has been a
+scientific consultant with Abbott. R.S. and M.S. are employees of
+and own stock in Depomed Inc.
+Reprints: Christine N. Sang, MD, MPH, Translational Pain Research,
+Brigham and Women’s Hospital, Harvard Medical School, 75
+Francis Street, PBB AB 275, Boston, MA 02115 (e-mail csang@
+partners.org).
+Copyright r 2012 by Lippincott Williams & Wilkins
+ORIGINAL ARTICLE
+Clin J Pain  Volume 29, Number 4, April 2013 www.clinicalpain.com | 281
+titration to a once-daily dose of 1800 mg G-GR or matched
+placebo, followed by an 8-week maintenance-dose period,
+followed by a 1-week dose-tapering period.
+The study protocol was approved by appropriate institutional review boards/ethics committees for each center
+and was conducted in accordance with International Conference on Harmonization Good Clinical Practices guidelines. Written informed consent was obtained from each
+patient before screening.
+Patient Selection
+The study included men and women, aged 18 years or
+above, with persistent pain for at least 6 months but not
+more than 5 years after the healing of a herpes zoster rash,
+with a pain intensity score of at least 4 on the 11-point
+Numerical Rating Scale (NRS) at screening. Patients were
+excluded if they had previously not responded to treatment
+with gabapentin at doses of Z1200 mg/d or pregabalin at
+doses of Z300 mg/d as determined by the investigator, or if
+they had experienced dose-limiting adverse effects with
+gabapentin. Although this exclusion criterion may have
+enriched the study population, its intent was for the
+protection of patients. Other exclusion criteria included
+neurolytic/neurosurgical treatment for PHN, severe pain
+intensity from causes other than PHN, use of injected anesthetics or steroids within 30 days of baseline, immunocompromised state, gastric reduction surgery, history
+of substance abuse within the past year, or any skin condition that could alter sensation in the area affected by
+PHN. Moreover, patients with a creatinine clearance
+<50 mL/min were excluded from the study to avoid dosing
+adjustments.13
+Before baseline assessments, patients were washed out
+of current analgesic medications including opioids, serotonin-norepinephrine reuptake inhibitors, and gabapentin
+or pregabalin. Patients were allowed to continue tricyclic
+antidepressants, selective serotonin reuptake inhibitors,
+acetaminophen, nonsteroidal anti-inflammatory drugs (including COX-2 inhibitors), and aspirin, to ensure that enrolled patients who were randomized to placebo were not
+left without analgesic treatment.
+Throughout the baseline and treatment periods, an
+electronic diary (DiaryPRO; Invivo Data Inc., Pittsburgh,
+PA) was completed by the patient each morning to record
+the average daily pain score and the degree to which pain
+interfered with sleep. At the end of the baseline period
+patients who continued to meet the eligibility requirements
+of an average daily pain score of Z4 on the 11-point NRS
+of 0 to 10 were randomized to treatment with once-daily
+G-GR of 1800 mg or matched placebo.
+Treatments
+Starting doses during the 2-week titration period were
+300 mg/d, increased to a ceiling daily dose of 1800 mg/d
+over 2 weeks, on the basis of a predetermined dosing
+schedule. Patients continued stable doses of 1800 mg/d for
+an additional 8 weeks, followed by 1 week of dose tapering.
+Treatment allocation was achieved using a parallel 1:1
+electronic randomization scheme that was stratified by site.
+Endpoints
+Primary endpoint was change from baseline in the
+average daily pain score measured on the 11-point NRS.
+The DiaryPRO electronic diary was used throughout the
+study by each patient to record average daily pain intensity
+and the degree to which pain caused sleep interference each
+morning throughout the study. At study week 10, investigator-rated clinician global impression of change (CGIC)
+and patient-rated patient global impression of change
+(PGIC) were completed. Other post hoc subanalyses included efficacy post hoc analyses by age, duration of PHN,
+distribution of PHN, baseline average daily pain score,
+history of gabapentin/pregabalin use, and pain descriptor.
+Statistical Methods
+The primary endpoint was change in the baseline observation carried forward (BOCF) average daily pain score
+from the baseline week to week 10 of the efficacy treatment
+period. We used the BOCF imputation method to calculate
+efficacy endpoints on the basis of the assumptions that
+missing data result from early termination primarily
+because of adverse effects of the study drug, and the possibility that symptoms may improve over the duration of
+the study. Secondary endpoints included last observation
+carried forward (LOCF) change in average daily pain score,
+change in the average daily pain score by study week difference in CGIC and PGIC evaluations at endpoint and
+post hoc analyses by country, and change in the sleep interference score. A sample size of 450 patients (225 per
+treatment arm) was projected to have 90% power to detect
+a difference of 0.4 in the average daily pain score from
+baseline to the end of the study at an a level of 0.05.
+Efficacy and safety analyses were performed on the
+intent-to-treat (ITT) population, which includes all randomized patients with valid baseline measurements and who
+received study medication. Analysis of the primary efficacy
+outcome was performed using an analysis of covariance
+(ANCOVA) parallel lines model that included treatment
+and center effects, with the baseline average daily pain score
+as a continuous covariate. Calculations included the least
+squares (LS) estimate of the mean change of the average
+daily pain score within each treatment and its 95% confidence interval. Subgroup analyses were performed to
+evaluate the effects of age, duration of PHN, distribution of
+PHN, baseline average daily pain score, history of gabapentin/pregabalin use, and pain descriptor.
+An analysis of variance model including treatment and
+center or a parallel lines ANCOVA model including treatment, center, and baseline measurement as the covariate
+was used for the analysis of continuous secondary efficacy
+measurements. Patients from all study sites were pooled for
+the analysis of the categorical outcome data (PGIC and
+CGIC). A 2-sample Z test on 2 proportions (much or very
+much improved versus other categories) between G-GR
+treatment and placebo treatment was performed to assess
+significance.
+Because gabapentin was a known drug, a closed sequential hierarchical statistical paradigm was developed to
+assess the significance of secondary efficacy parameters, on
+the basis of 3 additional null hypotheses; no treatment
+group difference in: (1) the proportion of patients who were
+categorized as “very much improved” or “much improved”
+in the PGIC score in the ITT population; (2) the proportion
+of patients who were categorized as “very much improved”
+or “much improved” in the CGIC score in the ITT population; and (3) the mean change from baseline in the
+average daily sleep interference scores at the final week of
+the efficacy treatment period, utilizing BOCF in the ITT
+population. The hierarchical statistical paradigm was dependent on a statistically significant primary outcome,
+Sang et al Clin J Pain  Volume 29, Number 4, April 2013
+282 | www.clinicalpain.com r 2012 Lippincott Williams & Wilkins
+performed at a= 0.05; the analyses on PGIC and CGIC
+were then performed simultaneously at the a = 0.05/
+2 = 0.025 two-sided significance level; if either test was
+statistically significant, the analysis on average daily sleep
+interference scores was performed at the a = 0.05 two-sided
+significance level.
+Safety endpoints included patient-reported adverse
+events (AEs), baseline and end of study vital signs, and
+routine hematology and blood chemistry panels. All
+randomized patients who took at least 1 dose of study
+medication were included in the safety analysis and summaries. Fisher exact test was used to compare the incidence
+of the most frequent AEs (> 1%) between G-GR treatment
+and placebo treatment.
+RESULTS
+A total of 512 patients were screened and 452 were
+randomized (United States, 259; Russia, 161; Argentina,
+32). The Consort flow diagram is shown in Figure 1. Of the
+452 randomized patients, 377 (84% G-GR, 83% placebo)
+completed the clinical trial. Seventy-two (15.9%) patients
+discontinued the study treatment prematurely. Of those
+treated with G-GR, 16.3% discontinued prematurely due to
+(1) an AE (52.8%), (2) lack of efficacy (19.4%), and (3)
+withdrawal of consent (11.1%). Conversely, of those
+treated with placebo, 16.9% discontinued prematurely,
+most commonly due to (1) lack of efficacy (30.8%), (2)
+withdrawal of consent (23.1%), and (3) an AE (20.5%).
+Demographic and baseline characteristics at randomization are presented in Table 1. There were no statistically
+significant differences in age, sex, or race between the G-GR
+and placebo cohorts. Four hundred two (88.9%) were
+Caucasian and 283 (62.6%) were women. The mean age±
+SD was 65.6± 12.2 (range, 21 to 89) years. The baseline
+average daily pain score was 6.6± 1.4 for the G-GR group
+and 6.5± 1.4 for the placebo group, the most prominent site
+of pain being the torso in both groups (data not shown). The
+mean duration of pain was 19.3± 12.5 and 21.1± 15.4
+months, respectively, for the G-GR and placebo groups, with
+approximately one third of patients in each group having
+experienced persistent pain for between 6 and 12 months.
+There were no statistically significant differences between the
+G-GR and placebo groups for prior use and/or response to
+gabapentin/pregabalin before study entry.
+Efficacy Endpoints
+The primary analysis (LS mean change in the BOCF
+average daily pain score from baseline to the final week of the
+efficacy treatment period) showed a significant reduction for
+G-GR (2.12) compared with placebo (1.63) (P= 0.013;
+95% confidence interval: 0.88, 0.11) (Fig. 2). This difference from placebo was statistically significant after 1 week
+and continued to be superior at each time point for the
+10-week duration of the study in both the BOCF and LOCF
+analyses.
+Secondary Endpoints
+The LS mean (± SEM) difference (7.14± 3.11) in
+percentage change from baseline to endpoint in the BOCF
+average daily pain score for the ITT population between
+G-GR (32.44 ± 2.63) and placebo (25.30± 2.60) was
+statistically significant (P = 0.022). The LS mean ( ± SEM)
+difference (9.02 ± 3.27) in percentage change from
+Subjects randomized
+(n = 452)
+Received G-GR 1800 mg
+(n = 221)a
+Completed efficacy period
+(n = 186)
+Received placebo
+(n = 231)b
+Discontinued treatment (n = 35)
+ Adverse event (n = 19)
+ Lack of efficacy (n = 7)
+ Lost to follow-up (n = 0)
+ Withdrawal of consent (n = 3)
+ Protocol violation (n = 2)
+ Other (n = 4)
+Discontinued treatment (n = 37)
+ Adverse event (n = 8)
+ Lack of efficacy (n = 12)
+ Lost to follow-up (n = 1)
+ Death (n = 1)
+ Withdrawal of consent (n = 7)
+ Protocol violation (n = 2)
+ Other (n = 6)
+Completed study
+(n = 185)
+1 subject withdrew
+consent
+Intent-to-treat
+population (n = 220)
+Completed efficacy period
+(n = 194)
+Completed study
+(n = 192)
+2 subjects withdrew
+consent
+Intent-to-treat
+population (n = 230)
+FIGURE 1. Consort flow diagram. a
+One patient entered the study twice at 2 different sites with 2 different study numbers and
+was randomized into the G-GR group both times; therefore, she was included in the ITT population for this group, but excluded
+from the ITT population for the second randomization. bA second subject had no baseline data recorded; she was excluded from the
+final ITT population of 450 but was included in the final safety population of 452. G-GR indicates gastroretentive gabapentin; ITT, intentto-treat.
+Clin J Pain  Volume 29, Number 4, April 2013 Gastroretentive Gabapentin (G-GR) Formulation for PHN
+r 2012 Lippincott Williams & Wilkins www.clinicalpain.com | 283
+baseline to endpoint in LOCF average daily pain score between G-GR (37.52± 2.77) and placebo (28.49± 2.74)
+was also statistically significant (P= 0.006).
+The proportion of those patients with at least a 50%
+reduction in the average daily pain score from baseline to
+BOCF endpoint was 29.5% for the G-GR group and
+22.6% for the placebo group; the proportion of responders
+on the basis of LOCF endpoint was 36.8% for the G-GR
+group and 25.7% for the placebo group. Neither responder
+analysis resulted in a statistically significant difference.
+Trends were consistent with that of the primary endpoint. The proportion of patients categorized as much or
+very much improved on the PGIC was higher for G-GR
+(42.7%) than for placebo (33.5%) with a difference of 9%
+(P = 0.043; Fig. 3). The proportion of patients categorized
+as much or very much improved on the CGIC was also
+higher for G-GR (44.1%) than for placebo (33.9%) with a
+difference of 10% (P = 0.027). The analyses on PGIC and
+CGIC were conducted simultaneously at the 2-sided significance level (a= 0.025) and were not considered statistically significant.
+Using a BOCF imputation method, trends toward
+differential analgesic effects compared with the overall
+population (mean change, 0.49) were noted for patients
+aged between 65 and 75 years (D = 0.67; n= 168;
+P = 0.059), duration of PHN between 6 and 12 months
+(D = 0.91; n= 162; P = 0.018), baseline pain intensity of
+<8/10 (D= 0.53; n = 373; P = 0.011), PHN with allodynia (D= 0.66; n = 243; P = 0.016), and shooting and
+burning pain (D = 0.92; n = 228; P = 0.003).
+Although mean differences in average daily pain intensity within the US and Russian centers favored G-GR,
+consistent with the overall result (United States,
+0.78 ± 0.28; Russia, 0.43± 0.27), those in the Argentine centers were + 0.64± 0.88.
+Of the 259 patients recruited in the United States,
+BOCF change in average daily pain compared with placebo
+was 0.74 for those patients in the gabapentin-naive subgroup (n= 117; P = 0.12), and 0.87 for those with prior
+exposure to gabapentin or pregabalin (n = 140; P = 0.03).
+Data on the previous exposure status for 2/259 patients
+were not known.
+Sleep interference was reduced with G-GR compared
+with placebo. From a baseline of 5.3 and 5.2, respectively,
+the LS mean change in the average daily sleep interference
+score from baseline to endpoint using either BOCF or
+TABLE 1. Baseline Characteristics
+Gastroretentive Gabapentin 1800 mg (n = 221) Placebo (n = 231) P
+Age (y), mean (SD) 65.3 (13.3) 65.9 (11.1) 0.609
+Sex, n (%) 0.560
+Female 135 (61.1) 148 (64.1)
+Male 86 (38.9) 83 (35.9)
+Race, n (%) 0.619
+Caucasian 197 (89.1) 205 (88.7)
+Black 10 (4.5) 6 (2.6)
+Asian 1 (0.5) 2 (0.9)
+Other 13 (5.9) 18 (7.8)
+Weight (kg), mean (SD) 81.9 (20.2) 79.7 (17.7) 0.210
+Body mass index (kg/m2
+), mean (SD) 29.3 (5.8) 28.7 (6.0) 0.277
+Time from herpes zoster skin rash resolution to study entry (mo), n (%) 0.167
+< 6 7 (3.2) 9 (3.9)
+6-12 74 (33.6) 82 (35.7)
+> 12 139 (63.2) 139 (60.4)
+Mean # of months (SD) 19.3 (12.5) 21.1 (15.4)
+Prior gabapentin or pregabalin use, n (%) 0.694
+Responder 96 (43.6) 91 (39.6)
+Naive 123 (55.9) 138 (60.0)
+Nonresponder 1 (0.5) 1 (0.4)
+Screening neuropathic pain score, n (%) 0.481
+n 221 231
+< 8 161 (72.9) 171 (74.0)
+Z8 60 (27.1) 60 (26.0)
+Mean (SD) 6.6 (1.6) 6.5 (1.5)
+Baseline average daily pain score, n (%) 0.806
+n 220 231
+< 8 182 (82.7) 192 (83.1)
+Z8 38 (17.3) 39 (16.9)
+Mean (SD) 6.6 (1.4) 6.5 (1.4)
+Baseline SF-MPQ VAS score (mm), n (%) 0.678
+n 218 230
+< 40 9 (4.1) 10 (4.3)
+40-69 122 (56.0) 131 (57.0)
+Z70 87 (39.9) 89 (38.7)
+Mean (SD) 74.6 (85.8) 78.3 (102.3)
+The P-values for the comparison between treatment groups is based on the 2-sample t test for continuous data and a 2-sided Fisher exact test for categorical
+data.
+SF-MPQ indicates Short-Form McGill Pain Questionnaire; VAS, visual analog scale.
+Sang et al Clin J Pain  Volume 29, Number 4, April 2013
+284 | www.clinicalpain.com r 2012 Lippincott Williams & Wilkins
+LOCF imputation methods was higher in the G-GR group
+than in the placebo group (BOCF, 2.3 vs. 1.6,
+P = 0.0001; LOCF, 2.7 vs. 1.8, P = 0.0001), and the
+improvement persisted throughout the 10-week duration of
+the study. Again, because of the sequential hierarchical
+paradigm, these comparisons were not considered statistically significant.
+Safety
+We assessed the nature, frequency, and severity of AEs
+in the safety population of 452 patients (G-GR, n= 221;
+placebo, n = 231) (Table 2). AEs were reported by 118
+patients (53.4%) and 92 patients (39.8%) in the G-GR and
+placebo groups, respectively. Nineteen patients (8.6%) in
+the G-GR arm and 10 patients (4.3%) in the placebo arm
+withdrew from the study because of AEs. The only AE
+leading to the discontinuation of Z2% of patients was
+dizziness in the G-GR group (2.3%). Ten serious AEs were
+reported (4 in the G-GR group and 6 in the placebo group),
+none attributable to the study drug.
+The frequency of AEs commonly associated with gabapentin was as follows: dizziness (G-GR, 11.3%; placebo,
+1.7%), somnolence (G-GR, 5.4%; placebo, 3.0%), and
+peripheral edema (G-GR, 3.2%; placebo, 0.4%) with the
+differences in dizziness and peripheral edema being statistically significant. A similar pattern of AEs was seen in
+patients less than 65 years and greater than 65 years of age
+with 61.7% of younger patients (dizziness, 12.3%) and
+47.1% of older patients (dizziness, 10.7%) experiencing
+AEs. The incidence of any AE was 54% among patients
+with prior exposure to, and 66% among those naive to
+gabapentin or pregabalin; the incidence of AEs was 40%
+and 46% in the corresponding placebo groups. The incidence of dizziness and somnolence was 14.1% and 8.5%
+(placebo, 0% and 2.9%) in the prior treatment group, and
+7.1% and 5.4% (placebo, 0% and 3.2%) in the naive group.
+The rates of AEs in G-GR patients with creatinine
+clearance Z80 mL/min (53%) did not differ significantly
+from those with creatinine clearance <80 mL/min (56%).
+DISCUSSION
+Our data show that G-GR reduces pain intensity
+compared with placebo in PHN, whether missing data were
+imputed by carrying the baseline or last observations forward. The observed reduction in average daily pain from
+baseline in the G-GR treatment arm (BOCF, 2.1; LOCF,
+2.3) is similar to those obtained by Rowbotham et al14
+(LOCF, 2.1) and Rice and Maton15 (LOCF, 2.3) in
+studies of immediate-release gabapentin. Similar reductions
+in pain intensity are seen in studies of pregabalin.16,17
+In a large 10-week study in PHN that failed to show
+analgesic efficacy of 2 dose regimens of G-GR 1800 mg
+daily in PHN,12 a high placebo response was noted, particularly in the subgroup with PHN of between 3 and 6
+months; this may have been partly the result of spontaneous remission, as the response to placebo compared
+with G-GR was differentially greater in the subgroup
+Placebo Gabapentin GR
+0
+-0.5
+-1
+-1.5
+-2
+-2.5
+1
+*
+*
+*
+* * * * * *
+2 3 4 5 6 7 8 9 10
+Weeks
+LS mean change from baseline
+*
+FIGURE 2. Mean change in average daily pain score (ADP) by
+week. BOCF change in ADP at week 10 was statistically significant
+(2.1 vs. 1.6, G-GR vs. placebo; P = 0.013). BOCF indicates
+baseline observation carried forward; G-GR, gastroretentive
+gabapentin. *P < 0.05.
+Gabapentin GR 1800 mg QD
+P =0.0434
+% of Patients
+50
+40
+30
+20
+10
+0
+Placebo
+Worse
+No change “Very Much” and “Much” Improved
+“Minimal” Improvement
+FIGURE 3. Patient global impression of change (PGIC). On the
+basis of the hierarchical requirements, the analyses on PGIC and
+CGIC were conducted simultaneously at the a = 0.05/2 = 0.025
+two-sided significance level and were not considered statistically
+significant. CGIC indicates clinician global impression of change.
+TABLE 2. Adverse Events
+Gabapentin
+GR (1800 mg)
+(n= 221)
+Placebo
+(n = 231)
+Any adverse event, n (%) 118 (53.4) 92 (39.8)
+Z1 related adverse event, n (%) 69 (31.2) 40 (17.3)
+Z1 serious adverse event, n (%) 4 (1.8) 6 (2.6)
+Z1 adverse event causing study
+discontinuation, n (%)
+19 (8.6) 10 (4.3)
+Most common adverse events, n (%)
+Dizziness 25 (11.3) 4 (1.7)
+Somnolence 12 (5.4) 7 (3.0)
+Headache 10 (4.5) 9 (3.9)
+Nausea 10 (4.5) 7 (3.0)
+Peripheral edema 7 (3.2) 1 (0.4)
+Nasopharyngitis 5 (2.3) 6 (2.6)
+GR indicates gastroretentive.
+Clin J Pain  Volume 29, Number 4, April 2013 Gastroretentive Gabapentin (G-GR) Formulation for PHN
+r 2012 Lippincott Williams & Wilkins www.clinicalpain.com | 285
+with <6 months’ duration of PHN. In the current study,
+patients with spontaneous resolution within 6 months were
+excluded to ensure that only patients with stable disease
+were recruited.
+Patients were recruited from 3 different continents and
+3 different health care systems (United States, Russia, and
+Argentina). The baseline average daily pain rating across
+both treatment groups was similar in the 3 countries (6.5,
+6.7, and 7.0, respectively), but the reduction in average
+daily pain during the study on active therapy was much
+more pronounced in the US patients (2.5) compared with
+the those in Russia and Argentina (1.6 and 1.7,
+respectively). There were even greater differences in the
+placebo response (1.7, 1.2, and 2.3, respectively) in
+the 3 countries, with patients in Argentina exhibiting the
+largest placebo response, possibly reflecting cultural differences in patient expectations and health care. The small size
+of the subgroup recruited from Argentina contributes to the
+difficulty in interpreting these data.
+More than half of patients with PHN have sleep disturbance18 although the diurnal component of the pain can
+still be significant.19 G-GR taken as a single 1800-mg dose
+with the evening meal results in peak plasma levels at approximately 5 hours after dosing,10 which may, in part,
+account for the trend of improvement in sleep interference.
+At 10 hours after dosing, plasma levels remain within 25%
+of the peak plasma levels due to the continued delivery of
+gabapentin from the gastric retentive formulation20 that
+likely contributes to the continued efficacy throughout the
+day.
+The primary outcome was based on an ANCOVA
+analysis using the BOCF imputation strategy to analyze the
+data from those patients who terminated early, independent
+of the reason for dropping out. In fact, this strategy was based
+on the AE profile of gabapentin immediate release observed in
+the Rice and Maton15 and Rowbotham et al14 clinical trials,
+in which the rates of dizziness were 31% and 24%, respectively, and the rates of daytime somnolence were 17%
+and 27%, respectively. In contrast, we observed a relatively
+low rate of withdrawal in the G-GR arm due to AEs (8.6%,
+approximately 4% greater than that in placebo), with rates of
+dizziness and somnolence of 11% and 5%, respectively. In
+retrospect, a multiple imputation strategy may have been
+preferable. Interestingly, patients belonging to the subgroup
+of age 65 years and above reported fewer (47%) AEs compared with those in the less than 65-year subgroup (62%),
+including dizziness (65 years and above, 10.7%; less than 65
+years, 12.3%), possibly explained, in part, by the exclusion of
+patients for whom the first line analgesic, gabapentin, was
+already known to result in intolerable side effects.
+In summary, compared with placebo, G-GR 1800 mg
+once daily provided clinically and statistically significant
+reduction in pain intensity and reduction in sleep interference in patients with PHN. G-GR was well tolerated with a
+lower incidence of common AEs than previously reported
+in gabapentin studies, even in the gabapentin-naive subgroup. Trends toward differential analgesic effects were
+noted in the subgroups with PHN of <12 months’ duration, gabapentin prior usage, baseline pain score <8/10,
+allodynia, and shooting/burning pain.
+ACKNOWLEDGMENTS
+The site investigators are gratefully acknowledged and
+a list of these investigators is provided in Appendix. The
+authors thank Fred Carter, PhD, (formerly of Abbott) and
+Jim Pratt, PhD, (formerly of ClinOps) for statistical support, Ed Parr, PhD, (Envision Scientific Solutions, Southport,
+CT) for technical assistance, Dr Amit Shelat, MD, (Long
+Island Jewish Medical Center, New Hyde Park, NY) for data
+auditing, and Kathryn Strong, Michael Hare, Regula Egli,
+and Wolfram Nothaft, MD, (all from Abbott Park, IL) for
+their reviews of the manuscript. C.N.S., together with the
+study team at Depomed, who designed the study and established the data analysis plan, contributed to the interpretation
+of the data, performed data analyses, and prepared the
+manuscript.
+REFERENCES
+1. Dubinsky RM, Kabbani H, El-Chami Z, et al. Quality
+Standards Subcommittee of the American Academy of
+Neurology. Practice parameter: treatment of postherpetic
+neuralgia: an evidence-based report of the Quality Standards
+Subcommittee of the American Academy of Neurology.
+Neurology. 2004;63:959–965.
+2. Luo ZD, Chaplan SR, Higuera ES, et al. Upregulation of
+dorsal root ganglion (alpha)2(delta) calcium channel subunit
+and its correlation with allodynia in spinal nerve-injured rats.
+J. Neurosci. 2001;21:1868–1875.
+3. Luo ZD, Calcutt NA, Higuera ES, et al. Injury type-specific
+calcium channel alpha(2)delta-1 subunit up-regulation in rat
+neuropathic pain models correlates with antiallodynic effects of
+gabapentin. J Pharmacol Exp Ther. 2002;303:1199–1205.
+4. Taylor CP. Mechanisms of analgesia by gabapentin and
+pregabalin—calcium channel alpha2-delta [Cavalpha2-delta]
+ligands. Pain. 2009;142:13–16.
+5. Sampathkumar P, Drage LA, Martin DP. Herpes zoster
+(Shingles) and postherpetic neuralgia. Mayo Clin Proc. 2009;
+84:274–280.
+6. Johnson RW, Wasner G, Saddier P, et al. Postherpetic
+neuralgia: epidemiology, pathophysiology and management.
+Expert Rev Neurother. 2007;7:1581–1595.
+7. Goa KL, Sorkin EM. Gabapentin. A review of its pharmacological properties and clinical potential in epilepsy. Drugs.
+1993;46:409–427.
+8. Stewart BH, Kugler AR, Thompson PR, et al. A saturable
+transport mechanism in the intestinal absorption of gabapentin
+is the underlying cause of the lack of proportionality between
+increasing dose and drug levels. Plasma Pharm Res. 1993;
+10:276–281.
+9. Gabapentin extended-release. Drugs R D. 2007;8:317–320.
+10. Gordi T, Hou E, Kasichayanula S, et al. Pharmacokinetics of
+gabapentin after a single day and at steady state following the
+administration of gastric-retentive- extended-release and immediate-release tablets: a randomized, open-label, multipledose, three-way crossover, exploratory study in healthy
+subjects. Clin Ther. 2008;30:909–916.
+11. Irving G, Jensen M, Cramer M, et al. Efficacy and tolerability
+of gastric-retentive gabapentin for the treatment of postherpetic neuralgia: results of a double-blind, randomized, placebocontrolled clinical trial. Clin J Pain. 2009;25:185–192.
+12. Wallace M, Irving G, Cowles V. Gabapentin extended-release
+tablets for the treatment of patients with postherpetic neuralgia
+a randomized, double-blind, placebo-controlled, multicentre
+study. Clin Drug Invest. 2010;30:765–776.
+13. Neurontin Prescribing Information. Available at: http://
+www.pfizer.com/files/products/uspi_neurontin.pdf. Accessed
+November 2010.
+14. Rowbotham M, Harden N, Stacey B, et al. Gabapentin for the
+treatment of postherpetic neuralgia: a randomized controlled
+trial. JAMA. 1998;280:1837–1842.
+15. Rice AS, Maton S, Postherpetic Neuralgia Study Group.
+Gabapentin in postherpetic neuralgia: a randomised, double
+blind, placebo controlled study. Pain. 2001;94:215–224.
+Sang et al Clin J Pain  Volume 29, Number 4, April 2013
+286 | www.clinicalpain.com r 2012 Lippincott Williams & Wilkins
+16. Sabatowski R, Ga´lvez R, Cherry DA, et al. 1008-045 Study
+Group: pregabalin reduces pain and improves sleep and mood
+disturbances in subjects with post-herpetic neuralgia: results of
+a randomised, placebo-controlled clinical trial. Pain. 2004;
+109:26–35.
+17. Dworkin RH, Corbin AE, Young JP Jr, et al. Pregabalin for
+the treatment of postherpetic neuralgia: a randomized,
+placebo-controlled trial. Neurology. 2003;60:1274–1283.
+18. Odrcich M, Bailey JM, Cahill CM, et al. Chronobiological
+characteristics of painful diabetic neuropathy and postherpetic
+neuralgia: diurnal pain variation and effects of analgesic
+therapy. Pain. 2006;120:207–212.
+19. Schmader KE. Epidemiology and impact on quality of life of
+postherpetic neuralgia and painful diabetic neuropathy. Clin J
+Pain. 2002;18:350–354.
+20. Chen C, Cowles V, Hou E. Pharmacokinetics of gabapentin
+in a novel gastric-retentive extended-release formulation:
+comparison with an immediate-release formulation and effect
+of dose escalation and food. J Clin Pharmacol. 2011;51:
+346–358.
+APPENDIX. List of Study Investigators
+Brewer Randall Shreveport LA
+Erman Milton San Diego CA
+Fried David Warwick RI
+Harris Hoadley Fargo ND
+McCarthy James West Yarmouth MA
+Patterson William Birmingham AL
+Reed Larry Florissant MO
+Tark Marvin Marietta GA
+Thiagarajah Chitta Lancaster CA
+Baker Biron Bismarck ND
+Albrecht Warren New Braunfels TX
+Hudson John Austin TX
+Curtis Craig Orlando FL
+Rhudy Jackson Salt Lake City UT
+Barnhart Benny Wichita Falls TX
+Cohen Lisa New Port Richey FL
+Watkins Larry Little Rock AR
+Guthrie Roger Pismo Beach CA
+Koehler Lawrence Kettering OH
+Kovach Jan Albuquerque NM
+Mee-Lee Denis Honolulu HI
+Nett, Jr. Robert San Antonio TX
+Urbach Daniel Portland OR
+Rauba Alan Jefferson City MO
+Riffer Ernie Phoenix AZ
+Rosenberg Jason Murrells Inlet SC
+Waldman Stephen La Habra CA
+Williams David Daytona Beach FL
+Eastburn Lawrence Spokane WA
+Mollen Martin Phoenix AZ
+Marsh Eugene Tuscaloosa AL
+Challa Venkata High Point NC
+Headapohl Dana Missoula MT
+Biunno Michael New Orleans LA
+Mate Laszlo West Palm Beach FL
+Rokeach Michael San Francisco CA
+Tunkle Ashley Naples FL
+Kolar Oldrich Indianapolis IN
+Howland William Austin TX
+Hospodar Mark Pittsburgh PA
+Lynn Lon Tampa FL
+Upender Raghu Tullahoma TN
+Cardenas Jose North Platte NE
+Chakraburtty Amal Oklahoma City OK
+Weintraub James Ann Arbor MI
+Forchetti Concetta Elk Grove Village IL
+Scribner Anita Longview TX
+Bird David Colorado Springs CO
+Elewski Boni Birmingham AL
+Malhotra Shisuka Canton OH
+Vaela Ravi Chaska MN
+Varga Clayton Pasadena CA
+Koontz Daniel Pelzer SC
+Levin Oleg Moscow
+(Continued)
+APPENDIX
+Clin J Pain  Volume 29, Number 4, April 2013 Gastroretentive Gabapentin (G-GR) Formulation for PHN
+r 2012 Lippincott Williams & Wilkins www.clinicalpain.com | 287
+APPENDIX. (continued)
+Dzyuba Lyubov Moscow
+Odinak Miroslav St. Petersburg
+Skoromets Alexander St. Petersburg
+Zaslavsky Leonid St. Petersburg
+Ballyuzek Marina St. Petersburg
+Perfilyev Semen St. Petersburg
+Fedyanin Alexander Barnaul
+Grebenyuk Anastasia Barnaul
+Toporkova Marina Ekaterinburg
+Volkova Larisa Ekaterinburg
+Prokopenko Semen Krasnoyarsk
+Spirin Nikolay Yaroslavl
+Magzhanov Rim Ufa
+Alifirova Valentina Tomsk
+Bogdanov Enver Kazan
+Gustov Alexander Nizhny Novgorod
+Balyazin Victor Rostov-on-Don
+Oleynikov Valentin Penza
+Popov Dmitry Tchelyabinsk
+Pilipenko Pavel Novosibirsk
+Shutov Alexander Perm
+Agafina Alina Sestroretsk, Saint-Petersburg
+Shulzhenko Andrey Moscow
+Mingrone Horacio Buenos Aires
+Andersson Alejandro Buenos Aires
+Polittei Deri Juan Norma Hydee Buenos Aires
+Casal Enrique Buenos Aires
+Sandoval Gustavo Buenos Aires
+Rey Roberto Buenos Aires
+Hun˜is Adrian Buenos Aires
+Baccaro Claudia Buenos Aires
+Sang et al Clin J Pain  Volume 29, Number 4, April 2013
+288 | www.clinicalpain.com r 2012 Lippincott Williams & Wilkins

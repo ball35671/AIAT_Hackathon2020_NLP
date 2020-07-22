@@ -1,0 +1,723 @@
+PERINATAL EPIDEMIOLOGY
+Influenza H1N1 vaccination and adverse pregnancy outcome
+Jonas F. Ludvigsson • Daniela Zugna • Sven Cnattingius • Lorenzo Richiardi •
+Anders Ekbom • A˚ ke O¨ rtqvist • Ingemar Persson • Olof Stephansson
+Received: 28 November 2012 / Accepted: 6 May 2013 / Published online: 29 May 2013
+ Springer Science+Business Media Dordrecht 2013
+Abstract Although vaccines against influenza can reduce
+maternal morbidity and mortality, large-scale data on
+adverse effects in the offspring are scarce. Historical cohort
+study in Stockholm County, Sweden. We linked H1N1
+vaccination data (Pandemrix, a mono-valent AS03 adjuvanted H1N1 vaccine) with pregnancy and birth data from
+21,087 women with singleton offspring conceived between
+February 2009 and January 2010 (vaccinated during
+pregnancy: n = 13,297 vs. unvaccinated: n = 7,790). Data
+were analysed by conceptualizing the observational cohort
+as a series of nested cohorts defined at each week of gestation. Logistic regression estimated odds ratios (ORs) for
+low birth weight (LBW,\2,500 g), preterm birth (\37
+completed weeks), small-for-gestational age (SGA, \10th
+percentile of the gestational age-specific birth weight
+within the cohort), low 5-min Apgar score (\7), and caesarean section. Data were adjusted for potential confounders, including maternal age, body mass index,
+smoking, parity, civil status and comorbidities. Compared
+with infants of non-vaccinated women, infants of vaccinated women had similar adjusted ORs (95 % CI) for LBW
+(0.91; 0.79–1.04), preterm birth (0.99; 0.89–1.10), SGA
+(0.97; 0.90–1.05), low Apgar score (1.05, 0.84–1.31), and a
+marginal risk reduction for caesarean section (0.94,
+0.89–0.99). H1N1 vaccination during pregnancy, using an
+AS03-adjuvanted vaccine, does not appear to adversely
+influence offspring risks of LBW, preterm birth, SGA, or
+low Apgar score. Our results suggest that this vaccine is
+safe for the offspring when used in different stages of
+pregnancy.
+Disclaimer This manuscript represents the views of the authors, not
+necessarily those of the Swedish drug regulatory agency (Medical
+Products Agency) where one of the authors is employed (IP).
+Electronic supplementary material The online version of this
+article (doi:10.1007/s10654-013-9813-z) contains supplementary
+material, which is available to authorized users.
+J. F. Ludvigsson  D. Zugna  S. Cnattingius  A. Ekbom
+O. Stephansson
+Clinical Epidemiology Unit, Department of Medicine,
+Karolinska Institutet, Stockholm, Sweden
+J. F. Ludvigsson (&)
+Department of Pediatrics, O¨ rebro University Hospital, O¨ rebro,
+Sweden
+e-mail: jonasludvigsson@yahoo.com
+D. Zugna  L. Richiardi
+Cancer Epidemiology Unit, Department of Medical Sciences,
+University of Turin and CPO-Piemonte, Turin, Italy
+A˚ . O¨ rtqvist
+Unit of Infectious Diseases, Department of Medicine, Karolinska
+Institutet, Stockholm, Sweden
+A˚ . O¨ rtqvist
+Department of Communicable Diseases Control and Prevention,
+Stockholm County Council, Stockholm, Sweden
+I. Persson
+Medical Product Agency, Uppsala, Sweden
+O. Stephansson
+Department of Women’s and Children’s Health, Karolinska
+Institutet and Hospital, Stockholm, Sweden
+123
+Eur J Epidemiol (2013) 28:579–588
+DOI 10.1007/s10654-013-9813-z
+Keywords Child  H1N1  Immunization  Influenza
+Small-for-gestational-age  Pregnancy  Preterm birth
+Vaccination
+Abbreviations
+CI Confidence interval
+LBW Low birth weight
+OR Odds ratio
+SGA Small for gestational age
+Introduction
+Influenza is associated with considerable mortality and
+morbidity [1, 2], and regularly causes pandemics, due to its
+ability to undergo antigenic shifts. In 2009 a new subtype
+of influenza A, H1N1, was discovered [3, 4]. The H1N1
+influenza virus is part of the Orthomyxoviridae family [5,
+6], and was formally declared to cause a pandemic in mid2009 by the WHO [7]. The European Medicine Agency
+(EMA) authorized three pandemic vaccines through an
+accelerated procedure [8]. Due to the large demand for
+H1N1 vaccines and consequent relative lack of available
+antigens for vaccine production, the WHO recommended
+the use of adjuvant-based H1N1 vaccines. In Sweden, one
+single vaccine, Pandemrix (containing AS03 as adjuvant),
+was offered to all residents free of charge.
+Pregnant women are especially prone to develop severe
+influenza [9, 10], and this was confirmed in the early phase
+of the H1N1 pandemic [11–14]. Given this knowledge,
+pregnant women were, in the Swedish national H1N1 vaccination campaign taking place in 2009–2010, recommended vaccination at any stage of the pregnancy [15].
+Although H1N1 vaccination in pregnancy has obvious
+advantages, it also involves several hypothetical risks for
+the fetus [16]. Such adverse outcomes may be triggered
+through reactions to viral or non-viral components of the
+vaccine, or by antibodies produced in response to the vaccine. A number of papers have been published on adverse
+pregnancy outcomes in women vaccinated against H1N1
+during pregnancy [17–32], and most of these studies found
+no association between vaccination against H1N1 during
+pregnancy and risks of adverse pregnancy outcomes. Some
+studies even report lower risks among vaccinated than
+among non-vaccinated women, [19, 20, 23, 24, 30, 31]
+findings that have been explained by selection bias.
+Of relevance for the theoretical safety concern for the
+Pandemrix vaccine is also the finding in several countries,
+e.g. Sweden [33], Finland [34] and Ireland [35], of an
+increased risk of narcolepsy in children/adolescents,
+assumed to be caused by immunological mechanisms.
+The main objective of this population-base cohort study
+was to examine the risks of adverse pregnancy outcomes in
+pregnant women undergoing H1N1 vaccination, by conceptualizing the observational cohort as a series of nested
+cohorts defined at each week of gestation [36].
+Methods
+We linked H1N1 vaccination data (Pandemrix [15]) with
+pregnancy and birth data from women recorded as pregnant
+2009–2010 in the Stockholm County region; and calculated
+odds ratios (ORs) of low birth weight (LBW), preterm birth,
+small-for-gestational-age (SGA) birth, low 5-min Apgar
+score and caesarean section in offspring to mothers who were
+vaccinated during pregnancy compared with non-vaccinated.
+Databases, registers and co-variates
+Already before the H1N1 vaccination campaign, the Stockholm County had established a web-based vaccination register
+called ‘‘Vaccinera’’ [37]. Each H1N1 vaccination (including
+the patient’s personalidentity number [PIN] [38], batch number
+of the vaccination, medical contraindications against vaccinations and prevalent chronic conditions meriting H1N1 vaccination) had to be registered in Vaccinera before the local health
+care suppliers were reimbursed for their vaccination costs.
+‘‘Obstetrix’’ (Siemens incorp.) is the electronic standardized antenatal, obstetric and neonatal record in use in
+Stockholm County which has been mandatory since January 1st, 2008. Obstetrix prospectively collects information from first antenatal visit (commonly at 8–12
+gestational weeks) until the mother and infant are discharged from the delivery hospital. Also, Obstetrix
+includes a PIN used as the unique identifier, allowing for
+linkage with other databases and registers. The PINs were
+used to link the Obstetrix and Vaccinera databases. To
+protect the integrity of individual patients in the research
+project, PINs were replaced by unique serial numbers.
+Participants
+The study consists of a cohort of all liveborn singleton infants
+in Stockholm County to Swedish mothers who conceived their
+pregnancy between February 2009 and January 2010
+(n = 21,087). Figure 1 describes the inclusion and exclusion
+criteria of the study cohort. Estimated date of conception was
+calculated from date of birth minus gestational age. Characteristics of study participants are presented in Table 1.
+Exposure
+The exposure was H1N1 vaccination (one dose of Pandemrix) at any time during the pregnancy before the 36th
+week as recorded in the vaccination database ‘‘Vaccinera’’.
+580 J. F. Ludvigsson et al.
+123
+H1N1 vaccinations took place between October 2009 and
+April 2010, and 90 % of the doses were given before the
+end of 2009. In total, 13,297 women were vaccinated
+against H1N1 during pregnancy before the 36th week.
+Figure 2 shows the gestational age at the time to exposure
+to H1N1 influenza vaccine according to date of
+vaccination.
+Reference individuals consisted of women abstaining
+from vaccination during pregnancy or vaccinated against
+H1N1 after the 36th week (n = 7,790).
+Co-variates
+At the mother’s first antenatal visit, the woman spends
+around 1 h with the midwife for an interview and an
+examination. The interview is to a large extent focused on
+health-related issues. Women are asked about current
+smoking habits, and are categorized into non-smokers (i.e.
+non-daily smokers), moderate and heavy smokers (1–9
+and C10 cigarettes per day, respectively). Body mass index
+was defined as measured weight in kilograms divided by
+self-reported height in m2
+). Parity was defined as number
+of previous childbirths. Information about maternal age
+was collected at delivery. We used the ‘Stockholm Mosaic’
+system [39] of living conditions and economic situation as
+a proxy for socioeconomic status. The Mosaic system is
+based on eleven mutually exclusive categories (e.g. living
+in poor urban apartment, multicultural suburb, affluent
+inner city, countryside etc.), and was originally devised to
+create a cartographic background for urban planners and
+citizens. The Mosaic system involves 120 smaller urban
+agglomerations
+Decisions to vaccinate may be influenced by co-morbidity, which also may affect pregnancy outcomes. We
+considered prevalent co-morbidity before the time when
+the general vaccination scheme started. We defined comorbidity as having any of the following conditions
+recorded in the Obstetrix database at first antenatal visit:
+cardiovascular disease including venous thromboembolism, psychiatric disease, jaundice, endocrinologic disorder, pulmonary disease/asthma, renal disease,
+inflammatory bowel disease (IBD), diabetes mellitus, systemic lupus erythematosus (SLE), epilepsy, and chronic
+hypertension.
+Outcome measure
+Our five outcomes were low birth weight
+(LBW, \2,500 g), preterm birth (B36 completed weeks),
+small-for-gestational age birth (SGA, defined as less than
+the 10th percentile of the gestational age-specific birth
+weight within the cohort), low 5-min Apgar score (\7) and
+caesarean section. Gestational age and the start of pregnancy was defined according to early second trimester
+ultrasound, or if not available, according to date of last
+menstruation period. Routine early second trimester ultrasonic scans were offered to all women free of charge, and
+more than 95 % of the pregnant women accept this offer
+[40].
+Statistics
+As previously described by Hernan et al. [36] in other
+contexts, we conceptualized the observational cohort as a
+sequence of nested cohorts defined at each week of pregnancy between October 13, 2009 (first date of vaccination)
+and January 1st, 2010, by restricting the study population
+to women who (1) had no events in that specific week; and
+(2) had at the beginning of each week, not yet been vaccinated. In each nested cohort, mothers were considered
+exposed if they were vaccinated in that gestational week
+and were followed up until the end of pregnancy, Women
+who were vaccinated at a later stage of the pregnancy,
+contributed as unexposed in each nested cohort defined at
+the gestational weeks before vaccination and as exposed in
+the nested cohort defined at the gestational week when the
+vaccination occurred. Hence, we pooled all cohort studies
+Fig. 1 Flow chart of study participants
+H1N1 vaccination and pregnancy outcome 581
+123
+Table 1 Characteristics of
+study participants according to
+vaccination status
+Vaccination status
+Unvaccinated (%) Vaccinated (%) p value
+7,790 (36.9) 13,297 (63.1)
+First trimester – 4,477 (33.7)
+Second trimester – 5,319 (40.0)
+Third trimester – 3,501 (26.3)
+Age group (years) \0.001
+B24 416 (5.7) 284 (2.2)
+25–34 3,833 (53.0) 5,587 (44.4)
+C35 2,988 (41.3) 6,725 (53.4)
+Missing 553 701
+Living area \0.001
+Affluent inner city 858 (11.7) 1,969 (15.7)
+Inner city 656 (9.0) 1,505 (12.0)
+Mixed, near city 1,081 (14.8) 1,902 (15.2)
+Young, near suburb 203 (2.8) 318 (2.5)
+Older, near suburb 891 (12.2) 993 (7.9)
+Poor, suburb, apartment 397 (5.4) 525 (4.2)
+Multicultural suburb 1,129 (15.4) 903 (7.2)
+Affluent, near suburb 1,153 (15.8) 2,735 (21.9)
+Own house, suburb 345 (4.7) 725 (5.8)
+Small house, suburb 262 (3.6) 434 (3.5)
+Countryside 339 (4.6) 505 (4.0)
+Missing 476 783
+Smoking in early pregnancy (recorded at first visit) \0.001
+No 7,254 (93.1) 12,786 (96.2)
+1–9 cig/day 430 (5.5) 396 (3.0)
+C10 cig/day 106 (1.4) 115 (0.9)
+Missing 0 0
+Parity
+0 2,488 (31.9) 3,821 (28.7)
+1 2,490 (32.0) 4,463 (33.6)
+2 1,451 (18.6) 2,747 (20.7)
+C3 1,359 (17.4) 2,264 (17.0)
+Missing 2 2
+Month at pregnancy onset \0.001
+February 727 (9.3) 933 (7.0)
+March 451 (5.8) 1,335 (10.0)
+April 497 (6.4) 1,503 (11.3)
+May 502 (6.4) 1,632 (12.3)
+June 507 (6.5) 1,647 (12.4)
+July 581 (7.5) 1,697 (12.8)
+August 662 (8.5) 1,511 (11.4)
+September 901 (11.6) 1,300 (9.8)
+October 1,054 (13.5) 1,054 (7.9)
+November 976 (12.5) 582 (4.4)
+December 932 (12.0) 103 (0.8)
+582 J. F. Ludvigsson et al.
+123
+in a single analysis and we evaluated the potential heterogeneity of the effect estimates of each gestational week
+by including an interaction term between the vaccination
+status and week of gestation. We estimated ORs of adverse
+pregnancy outcome in vaccinated versus unvaccinated
+women by fitting a logistic regression adjusted for a
+number of potential measured confounders, including
+maternal age, maternal body mass index at the beginning
+of the pregnancy, smoking status, parity, socioeconomic
+status, specific comorbidities measured at the first visit
+during the pregnancy, and month at recruitment into the
+specific cohort study. Since most women participated in
+multiple cohorts, we estimated robust variance using
+clustered sandwich estimators to allow for intra-group
+correlation.
+Furthermore, we stratified the pooled analyses by trimester of pregnancy, because vaccination in the first trimester was more likely to be administered to women with
+comorbidities and exposures may have differential effects
+depending on the timing of pregnancy.
+To further check the robustness of our results to misclassification introduced by women who were not vaccinated at the beginning of follow-up but were vaccinated
+later in pregnancy (on average, 30 % of the unvaccinated
+women in each nested trial), we performed a sensitivity
+analysis in which we excluded these women. This approach
+is less prone to exposure misclassification but more
+strongly affected by confounding by indication. When the
+study was restricted to pregnancies ending at term (which
+is necessary to avoid reverse causation if women vaccinated in late pregnancy are excluded), results from this
+sensitivity analysis were very similar to those obtained in
+the main analysis. We thus report only results from the
+main analysis in the paper.
+We defined statistical significance as 95 % CI for risk
+estimates not including 1.0. Statistics were calculated using
+STATA 11.1.
+Ethics
+The study was approved by the Research Ethics Committee
+of Karolinska Institutet, which deemed that no individual
+informed consent was required.
+Results
+Of 21,087 liveborn infants in Stockholm County conceived
+between February 2009 and January 2010, some 63.1 %
+had been exposed to H1N1 vaccination (Table 1). Some
+75 % of the women had been vaccinated between October
+and November 2009; women vaccinated in December were
+generally in the beginning of their pregnancy (Fig. 2).
+There was evidence of socio-demographic differences
+between vaccinated and unvaccinated women. Specifically,
+compared to unvaccinated women, vaccinated women were
+older, more often lived in the inner city (including affluent
+inner city), or in an ‘‘affluent suburb’’ and were less frequently smokers. There were no major differences in
+prevalence of pre-existing specific co-morbidities between
+vaccinated and unvaccinated women (supplementary
+Table 1, Appendix).
+Main analyses
+Proportions of LBW infants were 2.5 % among vaccinated
+women and 3.9 % among unvaccinated women (Table 2).
+Proportions of preterm births were 4.8 % in the vaccinated
+Table 1 continued
+Categorical variables were
+tested using the Chi square test,
+while continuous variables were
+tested with the Kruskal–Wallis
+test
+Vaccination status
+Unvaccinated (%) Vaccinated (%) p value
+BMI in early pregnancy \0.001
+\18.5 235 (3.2) 307 (2.4)
+18.5–24 4,811 (65.0) 8,928 (70.0)
+25–29 1,651 (22.3) 2,516 (19.7)
+30–34 505 (6.8) 722 (5.7)
+C35 201 (2.7) 274 (2.1)
+Missing 387 550
+Comorbidities (recorded at first visit) 0.84
+No 7,699 (98.9) 13,139 (98.8)
+Yes 89 (1.1) 156 (1.2)
+Missing 2 2
+Median (IQR) Median (IQR)
+Maternal age, years 33 (29–37) 35 (32–38) \0.001
+Conception date, year and month 2009.4 (2009.7–2009.8) 2009.5 (2009.3–2009.7) \0.001
+H1N1 vaccination and pregnancy outcome 583
+123
+group and 5.8 % in the unvaccinated group, while corresponding proportions of SGA infants were 8.5 and 9.8 %,
+respectively. Proportions of low Apgar score were 1.0 % in
+the vaccinated group and 1.2 % in the unvaccinated group,
+and finally proportions of caesarean section were 19.8 and
+20.8 %, respectively.
+Crude and adjusted ORs are reported in Table 3. Compared with infants of non-vaccinated women, infants of
+vaccinated women had similar adjusted ORs for LBW
+(0.91; 0.79–1.04), preterm birth (0.99; 0.89–1.10), SGA
+(0.97; 0.90–1.05), low Apgar score (1.05, 0.84–1.31), and a
+marginal risk reduction for caesarean section (0.94,
+0.89–0.99).
+There was no evidence of time-related heterogeneities of
+the effects of vaccination on pregnancy reproductive outcomes (p = 0.16 for LBW, p = 0.46 for preterm birth,
+p = 0.80 for SGA, p = 0.70 for Apgar score, p = 0.46 for
+caesarean section). Results stratified by trimester of vaccination are reported in Table 3.
+Discussion
+In this population-based cohort study of pregnant women
+with a vaccination rate of 63 %, we found no increased
+risks of LBW, preterm birth, SGA, low Apgar score but a
+marginally decreased risk for caesarean section in births
+after H1N1 vaccination. This is reassuring because pregnant women are at risk for severe influenza and complications [11, 32]. Our results support that this particular
+H1N1 vaccine (Pandemrix), given during different stages
+of the pregnancy, was safe for the offspring, alleviating
+concerns based on theoretical grounds or from pharmacovigilance reporting.
+Fig. 2 Gestational age (weeks)
+at the time to exposure to H1N1
+influenza vaccine versus
+vaccination date in Sweden
+Table 2 Adverse pregnancy outcome by vaccination status
+Unvaccinated (%) Vaccinated (%)
+7,790 (36.9) 13,297 (63.1)
+Birth weight (g)
+\2,500 301 (3.9) 337 (2.5)
+C2,500 7,473 (96.1) 12,943 (97.5)
+Missing 16 17
+Gestational duration
+(completed weeks)
+\37 456 (5.8) 635 (4.8)
+C37 7,334 (94.2) 12,662 (95.2)
+Missing 0 0
+Small for gestational age
+No 761 (9.8) 1,131 (8.5)
+Yes 7,013 (90.2) 12,149 (91.5)
+Missing 16 17
+Apgar score at 5 min
+\7 96 (1.2) 127 (1.0)
+C7 7,660 (98.8) 13,134 (99.0)
+Missing 34 36
+Caesarean section
+No 6,171 (79.2) 10,661 (80.2)
+Yes 1,619 (20.8) 2,636 (19.8)
+Missing 0 0
+584 J. F. Ludvigsson et al.
+123
+Until now research on adverse pregnancy outcomes in
+women vaccinated against H1N1 during pregnancy has
+been limited [17–32]. Of the eight larger studies (vaccinated women: n = 1,957–25,976), [19–21, 23, 24, 30–32]
+four report statistically significantly decreased risks of
+LBW [19, 20, 23, 30], while a Danish study (including
+6,989 vaccinated subjects), using propensity score-matched
+analyses of women vaccinated in the second or third trimester, found a non-significant positive association with
+LBW (OR = 1.14; 0.94–1.38) [21], and a Norwegian study
+reported a neutral relationship with LBW [32]. Vaccination
+against H1N1 during pregnancy has in several previous
+studies been associated with reduced risks of preterm birth
+[19, 20, 23, 24, 31] and SGA births [20, 23]. The inverse
+relationship between H1N1 vaccination and adverse pregnancy outcome has generally been explained by residual
+confounding, and that healthier individuals to a larger
+extent receive influenza vaccinations [41].
+First among the strengths of the present study is our
+access to detailed data on vaccination through the regional
+Vaccinera Register, and during the study period 63 % of
+pregnant women underwent vaccination. The vaccination
+rate is high and likely representative. It should be compared with the vaccination rate of 12 % (of 155,526
+women, 18,612 were vaccinated) as reported in an earlier
+nationwide Swedish study based on records from the
+Medical Birth Register [19]. Thus, it is obvious that the
+vaccination coverage in the Swedish Medical Birth Register is incomplete with a risk of false-negative controls,
+driving any risk estimate towards the null. A second
+strength of the present study is the extensive data on
+comorbidity (and the vaccination rate in these groups), as
+well as our data on other potential confounders such as
+smoking and BMI.
+By analysing an observational study like a sequence of
+nested cohort studies defined at each week of pregnancy,
+we could use vaccination status as a time-dependent variable avoiding issues of reverse causality (i.e. duration of
+pregnancy affecting the likelihood of vaccination) as well
+as evaluate the potential heterogeneity of the effect estimates of each gestational week. From a clinical perspective, this approach allowed us to evaluate the effect of
+vaccination on the reproductive outcomes for each gestational week. Further, it reduced the possibility for confounding by indication. It should be noticed that in each
+nested cohort unexposed women at enrolment could still be
+vaccinated at a later stage of the pregnancy, thus possibly
+introducing misclassification of the vaccination status and
+underestimation of the effect of the vaccine. As mentioned
+in the methods, when we carried out a specific sensitivity
+analysis aiming to decrease exposure misclassification (at
+the expense of the likelihood of confounding by indication), results were not altered substantially, suggesting that
+misclassification did not play a major role in our findings.
+Since almost 100 % of all pregnant women attend the
+free of charge maternal antenatal health care, Sweden has a
+virtually complete coverage of pregnancies, selection bias
+is unlikely. Furthermore, the vaccination program in
+Sweden was free of charge. Spontaneous reporting can
+serve as a tool for generating signals of adverse pregnancy
+outcomes. However, such pharmacovigilance reporting is
+likely to be incomplete and further more intense for
+exposed individuals and at the time of vaccination due to
+an enhanced awareness of adverse outcomes in pregnant
+women. Spontaneous reports could therefore be biased or
+miss long-term consequences of vaccination. In a U.S.
+study, almost half of all adverse events were reported less
+than a week after vaccination [17]. Furthermore, it seems
+Table 3 Crude prevalence ORs
+and 95 % CIs for adverse
+pregnancy outcome in women
+undergoing H1N1 immunization
+during pregnancy
+For additional information on
+outcome measure definitions
+and adjustment, see text
+Unvaccinated women constitute
+the reference and by definition
+have prevalence ORs of 1.00 for
+all outcomes
+Overall First trimester Second/third trimester
+Low birth weight, \2,500 g
+Crude 0.86; 0.74–1.00 0.98; 0.79–1.22 0.81; 0.67–0.97
+Adjusted 0.91; 0.79–1.04 1.02; 0.81–1.28 0.83; 0.71–0.99
+Preterm birth,\37 weeks
+Crude 0.97; 0.86–1.08 1.01; 0.85–1.20 0.95; 0.82–1.09
+Adjusted 0.99; 0.89–1.10 1.06; 0.89–1.26 0.94; 0.83–1.06
+Small for gestational age
+Crude 0.90; 0.83–0.98 0.97; 0.86–1.10 0.87; 0.78–0.97
+Adjusted 0.97; 0.90–1.05 1.02; 0.90–1.15 0.96; 0.87–1.06
+Low Apgar score at 5 min\7
+Crude 1.03; 0.81–1.31 1.31; 0.95–1.81 0.90; 0.66–1.23
+Adjusted 1.05; 0.84–1.31 1.35; 0.98–1.86 0.92; 0.70–1.20
+Caesarean section
+Crude 0.98; 0.92–1.04 0.99; 0.91–1.08 0.97; 0.89–1.04
+Adjusted 0.94; 0.89-0.99 0.95; 0.87–1.04 0.93; 0.87–1.00
+H1N1 vaccination and pregnancy outcome 585
+123
+that individuals vaccinated in the beginning of a vaccine
+campaign are more prone to self-report adverse outcomes
+potentially due to publicity surrounding the campaign (‘‘the
+Weber effect’’) [42]. In contrast, our study was based on
+adverse events routinely recorded by personnel in the
+health care system, independently of vaccination activities.
+Another main strength of our study was the large number
+of vaccinated women (n = 13,297), of whom more than 600
+had a preterm birth. The statistical power and our access to
+pregnancy dating and dates of vaccination allowed us to
+stratify by trimesters. Some earlier studies have suffered
+from small numbers of women vaccinated in the first trimester or lack of data on trimester altogether [18, 20]. Our
+data on first trimester-vaccinations are important since some
+authors have suggested that high-risk pregnant women were
+likely to be vaccinated early in pregnancy [21]. In contrast
+with Ka¨lle´n et al. [19], we found strikingly similar risk
+estimates in the first versus the second/third trimester, suggesting that timing of H1N1 vaccination has little effect on
+pregnancy outcome. Pasternak et al. [21] reported slightly
+higher prevalence OR for preterm birth, and lower prevalence ORs or LBW and SGA in women vaccinated in the first
+trimester. However their first-trimester data were only based
+on 345 women undergoing vaccination, in contrast our study,
+included 4,477 exposed women.
+Earlier data have shown that vaccination against seasonal influenza is associated with a lower mortality [33].
+We cannot rule out that vaccinated women live a healthier
+life and that life style factors confer some benefits to their
+offspring. Neither can we rule out that women with significant co-morbidity were more prone to undergo vaccination as shown by our research group earlier [33].
+However, we adjusted for socioeconomic status using the
+Stockholm Mosaic system [39], with no effect on the risk
+estimates. In crude analyses, maternal vaccination protected against both LBW and SGA, but with adjustment for
+potential confounders, the risk estimates approached unity
+and were statistically non-significant. Although the rates of
+LBW and preterm birth in our control population are
+consistent with national data [43], we cannot however rule
+out the existence of additional unmeasured confounding
+influencing our results. We did not examine the risk of fetal
+death after H1N1 vaccination. Earlier research has shown
+that H1N1 vaccination during pregnancy is unlikely to
+trigger fetal death [22, 30, 32].
+Although we did not have access to individual-based
+vaccination data against non-H1N1 seasonal influenza,
+such vaccinations are uncommon in Sweden and highly
+unlikely to influence our risk estimates more than marginally. During the influenza season 2009–2010 only 14
+pregnant women in Stockholm County received such vaccination (personal communication, A˚ ke O¨rtqvist, Nov 18,
+2012).
+In conclusion, our study supports data from earlier
+reports that H1N1 vaccination during pregnancy does not
+adversely influence risks for LBW, preterm birth, SGA,
+low Apgar score and caesarean section. Our results suggest
+that this particular H1N1 vaccine administered during
+different stages of pregnancy is safe for the fetus.
+Acknowledgments This project was supported by grants from the
+Swedish Research Council (Medicine), and the Swedish Council for
+Working Life and Social Research (FAS).
+Ethical approval This project (2009/1952-31/4) was approved by
+the Research Ethics Committee of the Karolinska Institute, Sweden
+on January 13, 2010.
+Conflict of interest JFL was funded by the Swedish Research
+Council (Medicine), OS was funded by the Swedish Society of
+Medicine. LR was partially supported by grants from the Compagnia
+san Paolo/Firms and the Italian Association for Cancer Research.
+References
+1. Thompson WW, Shay DK, Weintraub E, Brammer L, Bridges
+CB, Cox NJ, Fukuda K. Influenza-associated hospitalizations in
+the United States. JAMA. 2004;292(11):1333–40.
+2. Thompson WW, Shay DK, Weintraub E, Brammer L, Cox N,
+Anderson LJ, Fukuda K. Mortality associated with influenza and
+respiratory syncytial virus in the United States. JAMA. 2003;
+289(2):179–86.
+3. Dawood FS, Jain S, Finelli L, Shaw MW, Lindstrom S, Garten
+RJ, Gubareva LV, Xu X, Bridges CB, Uyeki TM. Emergence of a
+novel swine-origin influenza A (H1N1) virus in humans. N Engl J
+Med. 2009;360(25):2605–15.
+4. Garten RJ, Davis CT, Russell CA, Shu B, Lindstrom S, Balish A,
+Sessions WM, Xu X, Skepner E, Deyde V, Okomo-Adhiambo M,
+Gubareva L, Barnes J, Smith CB, Emery SL, Hillman MJ, Rivailler P, Smagala J, de Graaf M, Burke DF, Fouchier RA, Pappas
+C, Alpuche-Aranda CM, Lopez-Gatell H, Olivera H, Lopez I,
+Myers CA, Faix D, Blair PJ, Yu C, Keene KM, Dotson PD Jr,
+Boxrud D, Sambol AR, Abid SH, St George K, Bannerman T,
+Moore AL, Stringer DJ, Blevins P, Demmler-Harrison GJ,
+Ginsberg M, Kriner P, Waterman S, Smole S, Guevara HF,
+Belongia EA, Clark PA, Beatrice ST, Donis R, Katz J, Finelli L,
+Bridges CB, Shaw M, Jernigan DB, Uyeki TM, Smith DJ, Klimov AI, Cox NJ. Antigenic and genetic characteristics of swineorigin 2009 A(H1N1) influenza viruses circulating in humans.
+Science. 2009;325(5937):197–201.
+5. Fraser C, Donnelly CA, Cauchemez S, Hanage WP, Van Kerkhove MD, Hollingsworth TD, Griffin J, Baggaley RF, Jenkins
+HE, Lyons EJ, Jombart T, Hinsley WR, Grassly NC, Balloux F,
+Ghani AC, Ferguson NM, Rambaut A, Pybus OG, Lopez-Gatell
+H, Alpuche-Aranda CM, Chapela IB, Zavala EP, Guevara DM,
+Checchi F, Garcia E, Hugonnet S, Roth C. Pandemic potential of
+a strain of influenza A (H1N1): early findings. Science. 2009;324
+(5934):1557–61.
+6. Jain S, Kamimoto L, Bramley AM, Schmitz AM, Benoit SR,
+Louie J, Sugerman DE, Druckenmiller JK, Ritger KA, Chugh R,
+Jasuja S, Deutscher M, Chen S, Walker JD, Duchin JS, Lett S,
+Soliva S, Wells EV, Swerdlow D, Uyeki TM, Fiore AE, Olsen SJ,
+Fry AM, Bridges CB, Finelli L. Hospitalized patients with 2009
+H1N1 influenza in the United States, April-June 2009. N Engl J
+Med. 2009;361(20):1935–44.
+586 J. F. Ludvigsson et al.
+123
+7. WHO. New influenza A (H1N1) virus: WHO guidance on public
+health measures, 11 June 2009. Wkly Epidemiol Rec. 2009;
+84(26):261–4.
+8. Johansen K, Nicoll A, Ciancio BC, Kramarz P. Pandemic influenza A(H1N1) 2009 vaccines in the European Union. Euro
+Surveill. 2009;14(41):19361.
+9. Cox S, Posner SF, McPheeters M, Jamieson DJ, Kourtis AP,
+Meikle S. Hospitalizations with respiratory illness among pregnant women during influenza season. Obstet Gynecol. 2006;
+107(6):1315–22.
+10. Rasmussen SA, Jamieson DJ, Bresee JS. Pandemic influenza and
+pregnant women. Emerg Infect Dis. 2008;14(1):95–100.
+11. Jamieson DJ, Honein MA, Rasmussen SA, Williams JL,
+Swerdlow DL, Biggerstaff MS, Lindstrom S, Louie JK, Christ
+CM, Bohm SR, Fonseca VP, Ritger KA, Kuhles DJ, Eggers P,
+Bruce H, Davidson HA, Lutterloh E, Harris ML, Burke C, Cocoros N, Finelli L, MacFarlane KF, Shu B, Olsen SJ. H1N1 2009
+influenza virus infection during pregnancy in the USA. Lancet.
+2009;374(9688):451–8.
+12. Louie JK, Acosta M, Jamieson DJ, Honein MA. Severe 2009
+H1N1 influenza in pregnant and postpartum women in California.
+N Engl J Med. 2010;362(1):27–35.
+13. Creanga AA, Johnson TF, Graitcer SB, Hartman LK, Al-Samarrai T, Schwarz AG, Chu SY, Sackoff JE, Jamieson DJ, Fine
+AD, Shapiro-Mendoza CK, Jones LE, Uyeki TM, Balter S, Bish
+CL, Finelli L, Honein MA. Severity of 2009 pandemic influenza
+A (H1N1) virus infection in pregnant women. Obstet Gynecol.
+2010;115(4):717–26.
+14. Siston AM, Rasmussen SA, Honein MA, Fry AM, Seib K, Callaghan WM, Louie J, Doyle TJ, Crockett M, Lynfield R, Moore
+Z, Wiedeman C, Anand M, Tabony L, Nielsen CF, Waller K,
+Page S, Thompson JM, Avery C, Springs CB, Jones T, Williams
+JL, Newsome K, Finelli L, Jamieson DJ. Pandemic 2009 influenza A(H1N1) virus illness among pregnant women in the United
+States. JAMA. 2010;303(15):1517–25.
+15. La¨kemedelsverkets nytta/riskva¨rdering av vaccination av gravida
+med Pandemrix [Benefits and risks of vaccinations with Pandemrix during pregnancy. Recommendations by the Swedish
+Medical Products Agency]. Uppsala: Swedish Medical Products
+Agency, 2009.
+16. Brent RL. Risks and benefits of immunizing pregnant women: the
+risk of doing nothing. Reprod Toxicol. 2006;21(4):383–9.
+17. Moro PL, Broder K, Zheteyeva Y, Revzina N, Tepper N, Kissin
+D, Barash F, Arana J, Brantley MD, Ding H, Singleton JA,
+Walton K, Haber P, Lewis P, Yue X, Destefano F, Vellozzi C.
+Adverse events following administration to pregnant women of
+influenza A (H1N1) 2009 monovalent vaccine reported to the
+vaccine adverse event reporting system. Am J Obstet Gynecol.
+2011;205(5):473e1–9.
+18. Huang WT, Chen WC, Teng HJ, Huang WI, Huang YW, Hsu
+CW, Chuang JH. Adverse events following pandemic A (H1N1)
+2009 monovalent vaccines in pregnant women—Taiwan,
+November 2009-August 2010. PLoS ONE. 2011;6(8):e23049.
+19. Kallen B, Olausson P. Vaccination against H1N1 influenza with
+Pandemrix((R)) during pregnancy and delivery outcome: a
+Swedish register study. BJOG. 2012;119(13):1583–90.
+20. Fell DB, Sprague AE, Liu N, Yasseen AS 3rd, Wen SW, Smith
+G, Walker MC. H1N1 influenza vaccination during pregnancy
+and fetal and neonatal outcomes. Am J Public Health. 2012;
+102(6):e33–40.
+21. Pasternak B, Svanstrom H, Molgaard-Nielsen D, Krause TG,
+Emborg HD, Melbye M, Hviid A. Risk of adverse fetal outcomes
+following administration of a pandemic influenza A(H1N1)
+vaccine during pregnancy. JAMA. 2012;308(2):165–74.
+22. Pasternak B, Svanstrom H, Molgaard-Nielsen D, Krause TG,
+Emborg HD, Melbye M, Hviid A. Vaccination against pandemic
+A/H1N1 2009 influenza in pregnancy and risk of fetal death:
+cohort study in Denmark. BMJ. 2012;344:e2794.
+23. Dodds L, Macdonald N, Scott J, Spencer A, Allen VM, McNeil S.
+The association between influenza vaccine in pregnancy and
+adverse neonatal outcomes. J Obstet Gynaecol Can. 2012;34(8):
+714–20.
+24. Heikkinen T, Young J, van Beek E, Franke H, Verstraeten T,
+Weil JG, Della Cioppa G. Safety of MF59-adjuvanted A/H1N1
+influenza vaccine in pregnancy: a comparative cohort study. Am J
+Obstet Gynecol. 2012;207(3):177e1–8.
+25. Lin TH, Lin SY, Lin CH, Lin RI, Lin HC, Chiu TH, Cheng PJ,
+Lee CN. AdimFlu-S((R)) influenza A (H1N1) vaccine during
+pregnancy: the Taiwanese Pharmacovigilance Survey. Vaccine.
+2012;30(16):2671–5.
+26. Tavares F, Nazareth I, Monegal JS, Kolte I, Verstraeten T,
+Bauchau V. Pregnancy and safety outcomes in women vaccinated
+with an AS03-adjuvanted split virion H1N1 (2009) pandemic
+influenza vaccine during pregnancy: a prospective cohort study.
+Vaccine. 2011;29(37):6358–65.
+27. Omon E, Damase-Michel C, Hurault-Delarue C, Lacroix I,
+Montastruc JL, Oustric S, Escourrou B. Non-adjuvanted 2009
+influenza A (H1N1)v vaccine in pregnant women: the results of a
+French prospective descriptive study. Vaccine. 2011;29(52):
+9649–54.
+28. Mackenzie IS, MacDonald TM, Shakir S, Dryburgh M, Mantay
+BJ, McDonnell P, Layton D. Influenza H1N1 (swine flu) vaccination: a safety surveillance feasibility study using self-reporting
+of serious adverse events and pregnancy outcomes. Br J Clin
+Pharmacol. 2012;73(5):801–11.
+29. Oppermann M, Fritzsche J, Weber-Schoendorfer C, Keller-Stanislawski B, Allignol A, Meister R, Schaefer C. A(H1N1)v2009: a
+controlled observational prospective cohort study on vaccine safety
+in pregnancy. Vaccine. 2012;30(30):4445–52.
+30. Rubinstein F, Micone P, Bonotti A, Wainer V, Schwarcz A, Augustovski F, Pichon Riviere A, Karolinski A. Influenza A/H1N1
+MF59 adjuvanted vaccine in pregnant women and adverse perinatal
+outcomes: multicentre study. BMJ. 2013;346:f393.
+31. Richards JL, Hansen C, Bredfeldt C, Bednarczyk RA, Steinhoff
+MC, Adjaye-Gbewonyo D, Ault K, Gallagher M, Orenstein W,
+Davis RL, Omer SB. Neonatal outcomes after antenatal influenza
+immunization during the 2009 H1N1 influenza pandemic: impact
+on preterm birth, birth weight, and small for gestational age birth.
+Clin Infect Dis. 2013;56(9):1216–22.
+32. Haberg SE, Trogstad L, Gunnes N, Wilcox AJ, Gjessing HK,
+Samuelsen SO, Skrondal A, Cappelen I, Engeland A, Aavitsland
+P, Madsen S, Buajordet I, Furu K, Nafstad P, Vollset SE, Feiring
+B, Nokleby H, Magnus P, Stoltenberg C. Risk of fetal death after
+pandemic influenza virus infection or vaccination. N Engl J Med.
+2013;368(4):333–40.
+33. Bardage C, Persson I, Ortqvist A, Bergman U, Ludvigsson JF,
+Granath F. Neurological and autoimmune disorders after vaccination against pandemic influenza A (H1N1) with a monovalent
+adjuvanted vaccine: population based cohort study in Stockholm,
+Sweden. BMJ. 2011;343:d5956.
+34. Nohynek H, Jokinen J, Partinen M, Vaarala O, Kirjavainen T,
+Sundman J, Himanen SL, Hublin C, Julkunen I, Olsen P, Saarenpaa-Heikkila O, Kilpi T. AS03 adjuvanted AH1N1 vaccine
+associated with an abrupt increase in the incidence of childhood
+narcolepsy in Finland. PLoS ONE. 2012;7(3):e33536.
+35. O’Flanagan D, Bonner C, Crowe C, Lynch B, Sweeney B, Gilvarry J, Johnsson H, Cotter S, Barret A-S. Investigation of an
+increase in the incidence of narcolepsy in children and adolescents in 2009 and 2010. Final report of national narcolepsy study
+steering committee, 2012.
+36. Hernan MA, Alonso A, Logan R, Grodstein F, Michels KB,
+Willett WC, Manson JE, Robins JM. Observational studies
+H1N1 vaccination and pregnancy outcome 587
+123
+analyzed like randomized experiments: an application to postmenopausal hormone therapy and coronary heart disease. Epidemiology. 2008;19(6):766–79.
+37. Ortqvist A, Berggren I, Insulander M, de Jong B, Svenungsson B.
+Effectiveness of an adjuvanted monovalent vaccine against the
+2009 pandemic strain of influenza A(H1N1)v, in Stockholm
+County, Sweden. Clin Infect Dis. 2011;52(10):1203–11.
+38. Ludvigsson JF, Otterblad-Olausson P, Pettersson BU, Ekbom A.
+The Swedish personal identity number: possibilities and pitfalls
+in healthcare and medical research. Eur J Epidemiol. 2009;
+24(11):659–67.
+39. Szego¨ J. Bebyggelsens mosaik [The mosaic of the settlement].
+Stockholm, 2009.
+40. Hogberg U, Larsson N. Early dating by ultrasound and perinatal
+outcome. A cohort study. Acta Obstet Gynecol Scand. 1997;76
+(10):907–12.
+41. Ortqvist A, Granath F, Askling J, Hedlund J. Influenza vaccination and mortality: prospective cohort study of the elderly in a
+large geographical area. Eur Respir J. 2007;30(3):414–22.
+42. Hartnell NR, Wilson JP. Replication of the Weber effect using
+postmarketing adverse event reports voluntarily submitted to the
+United States Food and Drug Administration. Pharmacotherapy.
+2004;24(6):743–9.
+43. Statistikdatabasen [Statistics Database]. Stockholm: National
+Board of Health and Welfare, 2012.
+588 J. F. Ludvigsson et al.
+123

@@ -1,0 +1,245 @@
+Is there a relationship between in¯uenza vaccinations and risk of melanoma?
+A population-based case-control study
+G. Mastrangelo1
+, C.R. Rossi2
+, A. Pfahlberg3
+, V. Marzia1
+, A. Barba4
+, M. Baldo5
+,
+E. Fadda1
+, G. Milan1 & K.F. KoÈlmel6
+1
+Istituto di Medicina del Lavoro, UniversitaÁ di Padova; 2
+Istituto di Clinica Chirurgica, University of Padova; 3
+Department for
+Medical Informatics, Biometry and Epidemiology, University of Erlangen-Nuremberg, Germany; 4
+Istituto di Clinica Dermatologica, UniversitaÁ di Verona; 5
+Istituto di Chirurgia Plastica, UniversitaÁ di Padova, Italy; 6
+Abt Dermatologie und Venereologie, Georg-August-UniversitaÈt, GoÈttingen, Germany
+Accepted in revised form 11 December 2000
+Abstract. The aim of the present case-control study
+was to ascertain whether, in adults, yearly repeated
+anti-in¯uenza vaccinations (AIV) enhance protection
+against cutaneous melanoma (CM), as do repeated
+febrile infections. Ninety-nine new cases of histologically con®rmed CM and 104 healthy controls (matched to cases for sex, age, and skin colour) selected
+from the general population were examined in order
+to ascertain their skin type, the number of nevi on
+both arms, and the intensity of freckles on the face
+and the arms; in these subjects, a structured questionnaire was used to obtain information on age, sex,
+education, social class, exposure and susceptibility to
+sunlight, history of febrile infectious diseases, and
+vaccinations. The odds ratio (OR) and the 95%
+con®dence interval (CI) were estimated by commonly
+used methods and by ®tting models of logistic
+regression. The risk of CM was reduced in subjects
+with a history of febrile (temperature above 38.5 °C)
+infections in the 5 years prior to CM surgery (cases)
+or interview (controls), but was increased in those
+with voluntary exposure to sunlight in tropical
+countries. By holding the above factors constant at
+logistic regression analysis, it was found that a history of repeated AIV (3±5 times in the last 5 years)
+halved the risk (OR: 0.43; CI: 0.19±1.00; p < 0.05).
+With the variable `nevi on arms' included, the protective in¯uence of repeated AIVs was observed in a
+similar magnitude. The inverse relationship found
+between melanoma and in¯uenza vaccinations is
+unlikely to have depended on a bias, even if based on
+replies in a questionnaire, because neither the interviewers nor the interviewers were informed in
+advance of the working hypothesis.
+Key words: Anti-in¯uenza vaccine, Case-control studies, Infectious diseases, Melanoma epidemiology, Risk
+factors, Sunlight adverse eects
+Abbreviations: AIV  anti-in¯uenza vaccine; ASV  anti-smallpox vaccine; BCG  Bacille Calmette Guerain;
+CI  95% con®dence interval; CM  cutaneous melanoma; EORTC  European organisation for research
+and treatment of cancer; OR  odds ratio
+Introduction
+An increased risk of CM has been reported after
+immunosuppressive therapy [1±4], and after exposure
+entailing a lower cutaneous immunosurveillance,
+through solar or arti®cial UV-A radiation [5, 6], and
+photochemotherapy with psoralen [7±9]. On the
+other hand, in numerous case-reports collected in a
+recent review [10], a spontaneous regression of CM
+was found to occur during concomitant infectious
+disease. Moreover, in two hospital-based case-control studies, febrile infections in the previous ®ve
+years were found to reduce the risk of CM [11, 12].
+An increase in body temperature may therefore have
+marked eects on the immune defence of the host
+[13].
+These ®ndings might lead to a reduction in the use
+of antibiotics, anti-in¯ammatory drugs and vaccines.
+It is known that in¯uenza, among other common
+infections, has a protective eect against CM [11, 12]
+and dierent types of cancer [14]; so the administration of AIV might increase the risk of CM. However,
+the vaccine itself acts as a speci®c (and probably also
+aspeci®c) immune stimulator, possibly providing
+protection against melanoma. Data collected in a
+population-based case-control study are here analysed in order to investigate whether, holding constant the protective (febrile infections in the last ®ve
+years) and the risk (skin factors and sun exposure)
+factors for CM, the anti-in¯uenza vaccine, among
+others, has a role in the aetiology of this immunosensitive type of cancer.
+European Journal of Epidemiology 16: 777±782, 2000.
+Ó 2001 Kluwer Academic Publishers. Printed in the Netherlands.
+Subjects and methods
+The cases were subjects with a ®rst, histopathologically veri®ed, diagnosis of CM made between 1 January 1994 and 31 December 1995, and consecutively
+observed at the clinical centres where the researchers
+worked. The controls, who were healthy subjects selected from the general population, were matched to
+the cases by the method of frequency matching for
+the confounding variables age, sex, and skin colour.
+All cases and control subjects, residents in the Province of Verona or in the Local Health Authority no.
+16 of Padova, were interviewed between 1 January
+1994 and 1 April 1997. The search for a suitable case
+or control was abandoned after three barren contacts.
+Criteria for inclusion were: age above 18 years at
+interview (cases and controls); histologic diagnosis of
+melanoma, and a time interval between surgical removal of the tumour and interview of less than
+1 year; alive at interview status. Criteria for exclusion
+were: history of AIDS (cases and controls); history of
+cancer (controls only).
+A structured questionnaire, administered by trained
+interviewers, contained questions on: age; sex; degree
+of education; social, marital, and professional status;
+sun exposure; skin type; past infectious illnesses; and
+vaccine inoculations. In relation to the aetiology and
+fever, past infectious illnesses were divided into:
+Group I, severe cases (fever not elevated; under
+38.5 °C; above 38.5 °C); and Group II, less severe
+conditions that occurred in the 5 years before surgery
+(cases) or interview (controls), with fever lower or
+higher than 38.5 °C. The questionnaire was designed
+to obtain information on the following vaccinations:
+AIV; BCG; ASV. After the interview, the interviewer
+examined the skin of cases and controls in order to
+ascertain: skin type; number of nevi on the skin of both
+arms measuring more than 2 mm; intensity of freckles
+on face and, separately, on arms according to an
+analogic scale ranging from 0 (absence) to 100 (max
+intensity). Finally, the microscopic and macroscopic
+features of the tumour, traced in clinical records, were
+transcribed to the patients' questionnaires.
+Risk estimates quantifying the in¯uence of exposure factors on the occurrence of melanoma were
+calculated as the OR, accompanied by their asymptotic 95% CI, from contingency tables and by using
+logistic regression modelling [15]. In the latter case,
+we used a dependent variable which was 1 for cases
+and 0 for controls, and several explanatory categorical variables; for a variable with several levels, the
+reference group was always the ®rst level. All reported p-values were two-sided and the conventional
+level of 5% was employed for assessing statistical
+signi®cance. The statistical analysis was performed
+using a BMDP package [16].
+Results
+Eight subjects (4 cases and 4 controls) were excluded
+from the study because they refused to collaborate
+and/or did not meet the eligibility criteria. Among the
+remaining 203 subjects available for the statistical
+analysis, 99 (45 men, 54 women) were cases and 104
+(46 men, 58 women) controls.
+Only immunisation against in¯uenza provides
+protection against melanoma. Table 1 shows that the
+frequencies of melanoma have a signi®cant linear
+downward trend (v2
+trend  3:888; p < 0.0486) in relation to the number of AIV received during the
+5 years prior to the diagnosis (cases) or interview
+(controls). In the sub-sample of subjects who received
+three or more inoculations of AIV in the last 5 years,
+the decrease in the risk of CM was signi®cant
+(p < 0.05) and clinically relevant (OR: 0.40; CI:
+0.18±0.87). With all other vaccinations, the ®ndings
+were not statistically signi®cant (data not shown).
+Table 2 shows the distribution of cases and controls (with OR and CI) according to two criteria of
+classi®cation: number of Group II illnesses occurring
+in the last 5 years with a body temperature above
+38.5 °C (column variable, with three levels: no; 1; 2 or
+more episodes); and frequency of AIV in the previous
+5 years (row variable, with two levels: 0±2 times; 3±5
+times). Table 2 also shows the combined distribution
+of the two variables in the cells at each row and
+column interception. On focusing on the various cells
+of row and column interceptions, and using the group
+with the lowest levels for both factors as a reference,
+the OR was 0.09 in subjects with the highest number
+of AIV and febrile infections; this value is close to
+0.08, the product of 0.20 ´ 0.40 (column and row
+ORs, respectively). This was the case for all the other
+Table 1. Number of cases and controls (and column percent) in relation to the
+number of anti-in¯uenza vaccinations received in the 5 years before surgery
+(cases) or interview (controls). Result of the v2 test for linear trend (v2
+trend)
+Anti-in¯uenza vaccinations in the past 5 years
+0 12345
+Cases 81 (51.3) 5 (62.5) 3 (75.0) 2 (33.3) 1 (16.7) 7 (33.3)
+Referents 77 (48.7) 3 (37.5) 1 (25.0) 4 (66.7) 5 (83.3) 14 (66.7)
+v2
+trend  3:888; degree of freedom = 1; p < 0.0486.
+778
+References
+1.
+Bouwes-Bavinck JN, Hardie DR, Green A, et al. The risk of skin cancer in renal transplant recipients in Queensland, Australia. A follow-up study. Transplantation 1996; 61: 715–721.
+Google Scholar
+2.
+Euvrard S, Kanitakis J, Pouteil-Noble C, Claudy A, Touraine JL. Skin cancers in organ transplant recipients. Ann-Transplant 1997; 2: 28–32.
+Google Scholar
+3.
+Veness MJ, Quinn DI, Ong CS, et al. Aggressive cutaneous malignancies following cardiothoracic transplantation: The Australian experience. Cancer 1999; 85: 1758–1764.
+Google Scholar
+4.
+Morison WL, Baughman RD, Day RM, et al. Consensus workshop on the toxic effects of long-term PUVA therapy. Arch-Dermatol 1998; 134: 595–598.
+Google Scholar
+5.
+Autier P, Dore JF, Lejeune F, et al. Cutaneous malignant melanoma and exposure to sunlamps or sunbeds: An EORTC multicenter case-control study in Belgium, France and Germany. EORTC Melanoma Cooperative Group. Int J Cancer 1994; 58: 809–813.
+Google Scholar
+6.
+Elwood JM, Jopson J. Melanoma and sun exposure: An overview of published studies. Int J Cancer 1997; 73: 198–203.
+Google Scholar
+7.
+Gilchrest BA, Eller MS, Geller AC, Yaar M. The pathogenesis of melanoma induced by ultraviolet radiation. N Engl J Med 1999; 340: 1341–1348.
+Google Scholar
+8.
+Harwood CA, Spink PJ, Surentheran T, et al. Detection of human papilloma virus DNA in PUVA-associated non-melanoma skin cancers. J Invest Dermatol 1998; 111: 123–127.
+Google Scholar
+9.
+Stern RS, Nichols KT, Vakeva LH. Malignant melanoma in patients treated for psoriasis with methoxsalen (psoralen) and ultraviolet A radiation (PUVA). The PUVA follow-up study. N Engl J Med 1997; 336: 1041–1045.
+Google Scholar
+10.
+Maurer S, Kolmel KF. Spontaneous regression of malignant melanoma. Monograph 19, Cancer research Institute, New York, 1997.
+Google Scholar
+11.
+Kolmel KF, Gefeller O, Haferkamp B. Febrile infections and malignant melanoma: Results of a case-control study. Melanoma Res 1992; 2: 207–211.
+Google Scholar
+12.
+Kölmel KF, Pfalhberg A, Mastrangelo G, et al. Infections and melanoma risk: Results of a multicentre EORTC case-control study. Melanoma Res 1999; 9: 511–519.
+Google Scholar
+13.
+Mackowiak PA, Bartlett JG, Borden EC, et al. Concepts of fever: Recent advances and lingering dogma. Clin-Infect-Dis 1997; 25: 119–138.
+Google Scholar
+14.
+Abel U, Becker N, Angerer R, et al. Common infections in the history of cancer patients and controls. J Cancer Res Clin Oncol 1991; 117: 339–344.
+Google Scholar
+15.
+Breslow NE, Day NE. Statistical methods in cancer research. Vol. I of the analysis of case-control studies. Lyon: IARC Sci Pub, 1980.
+Google Scholar
+16.
+Dixon WJ (ed). BMDP Statistical Software Manual, Berkeley, University of California Press, 1992.
+Google Scholar
+17.
+Elwood JM, Gallagher RP. Body site distribution of cutaneous malignant melanoma in relationship to patterns of sun exposure. Int J Cancer 1998; 78: 276–280.
+Google Scholar
+18.
+Ambrosch F, Wiedermann G, Krepler P. BCG vaccination and leukemia in Austria. Epidemiological and clinical studies. In: Crispen R, (ed) Cancer: Etiology and prevention. Chicago Symposium, 1982 Oct 4–6, Amsterdam: Elsevier Science Publishing, 1983: 387–398.
+Google Scholar
+19.
+Katz L, Steinitz R. BCG vaccination of newborns and incidence of childhood leukemia in Israel. In: Crispen R, (ed) Cancer: Etiology and prevention. Chicago Symposium, 1982 Oct 4–6, Amsterdam: Elsevier Science Publishing, 1983: 383–386.
+Google Scholar
+20.
+Lamm DL, Van der Maijden APM, Steg A, et al. BCG immunotherapy of superficial bladder cancer: Treatment, results, risks, and complications. 15th International Cancer Congress, 1990 Aug 16–22, Hamburg. J Cancer Res Clin Oncol 1990; 116 Vol. Abstracts.
+Google Scholar
+21.
+Kurth KH. Diagnosis and treatment of superficial transitional cell carcinoma of the bladder: Facts and perspectives. Eur-Urol 1997; 31 (suppl. 1): 10–19.
+Google Scholar
+22.
+Gruffermann S, Wang HH, Delong ER, Kimm SYS, Delzell ES, Faletta JM. Environmental factors in the etiology of rhabdomyosarcoma in childhood. J Natl Cancer Inst 1982; 68: 107–113.
+Google Scholar
+23.
+Mastrangelo G, Marzia V, Marcer G. Reduced lung cancer mortality in dairy farmers: Is endotoxin exposure the key factor? Am J Ind Med 1996; 30: 601–609.
+Google Scholar
+24.
+Yamakido M, Ishioka S, Hiyama K, Maeda A. Former poison gas workers and cancer: Incidence and inhibition of tumor formation by treatment with biological response modifier N-CWS. Environ-Health-Perspect 1996; 104 (Suppl. 3): 485–488.
+Google Scholar

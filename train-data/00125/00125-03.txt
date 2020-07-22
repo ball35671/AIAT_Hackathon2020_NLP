@@ -1,0 +1,781 @@
+﻿http://jop.sagepub.com/
+Journal of Psychopharmacology
+http://jop.sagepub.com/content/28/7/633
+The online version of this article can be found at:
+DOI: 10.1177/0269881114527357
+J Psychopharmacol 2014 28: 633 originally published online 19 March 2014
+Marise WJ Machielsen, Dick J Veltman, Wim van den Brink and Lieuwe de Haan
+cannabis use disorder: An fMRI study
+The effect of clozapine and risperidone on attentional bias in patients with schizophrenia and a
+Published by:
+http://www.sagepublications.com
+On behalf of:
+British Association for Psychopharmacology
+Additional services and information for Journal of Psychopharmacology can be found at:
+Email Alerts: http://jop.sagepub.com/cgi/alerts
+Subscriptions: http://jop.sagepub.com/subscriptions
+Reprints: http://www.sagepub.com/journalsReprints.nav
+Permissions: http://www.sagepub.com/journalsPermissions.nav
+What is This?
+OnlineFirst Version of Record - Mar 19, 2014
+>> Version of Record - Jun 17, 2014
+Downloaded from jop.sagepub.com at MARQUETTE UNIV on August 17, 2014
+Journal of Psychopharmacology
+2014, Vol. 28(7) 633–642
+© The Author(s) 2014
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/0269881114527357
+jop.sagepub.com
+Introduction
+Cannabis use disorders (CUDs) are highly comorbid in patients
+with schizophrenia (Machielsen et al., 2010; Regier et al., 1990)
+and are associated with poor outcome (Dixon, 1999; Linszen
+et al., 1994; Regier et al., 1990). It has been suggested that conventional antipsychotics may not reduce or may even increase
+substance abuse in patients with schizophrenia, whereas the atypical antipsychotic clozapine may reduce substance abuse in these
+patients. The evidence for clozapine’s superiority, however, is
+scarce (Green et al., 2008; Machielsen and de Haan, 2009). In the
+current study, we compare the effects of two different antipsychotics on two of the most important mechanisms responsible for
+the development and persistence of substance abuse in patients
+with schizophrenia and a comorbid CUD: attentional bias and the
+related problem of craving (Field and Cox, 2008).
+Attentional bias can be defined as the tendency to automatically and involuntarily allocate and maintain attention to conditioned drug cues (Field and Cox, 2008). Attentional bias is a
+largely unconscious process which is thought to result from
+acquired motivational and attention-grabbing properties of drug
+cues due to sensitisation of dopamine systems in the brain
+(Robinson and Berridge, 1993) and is associated with a phasic
+increase of extracellular dopamine that shifts attention towards
+motivationally significant stimuli (Franken, 2003). Associations
+of attentional bias with the experience of craving (the subjective
+urge to administer a drug), relapse rates and treatment outcome
+have been reported (Carpenter et al., 2006; Cox et al., 2006;
+Franken et al., 2003; Marissen et al., 2006; Waters et al., 2003).
+Since reduction in attentional bias could help patients to reduce
+or refrain from substance use, and because reduced substance
+abuse may improve outcome in patients with schizophrenia,
+attentional bias is thought to be an important treatment target.
+Because dopamine is involved in attentional bias, effects of
+dopamine antagonists can be expected. Studies among smokers
+and heroin users showed that low doses of the dopamine D2
+antagonist haloperidol suppressed attentional bias for substancerelated words and its related activation of the anterior cingulate
+cortex and dorsolateral prefrontal cortex (Franken et al., 2004;
+Luijten et al., 2012). However, no reduction in attentional bias
+was found after amisulpride administration (another dopamine
+D2 antagonist) in stimulant users (Ersche et al., 2010). A possible
+explanation for these inconsistent findings could be that the
+effect of dopamine D2 antagonists on attentional bias follows an
+The effect of clozapine and risperidone on
+attentional bias in patients with schizophrenia
+and a cannabis use disorder: An fMRI study
+Marise WJ Machielsen1, Dick J Veltman2,
+Wim van den Brink1 and Lieuwe de Haan1
+Abstract
+Cannabis use disorders (CUDs) are highly comorbid in patients with schizophrenia and are associated with poor outcome. Clozapine has been put
+forward as the first choice antipsychotic in this comorbid group. However, little is known about the mechanisms underlying the assumed superiority
+of clozapine. We compared the effects of clozapine and risperidone on attentional bias, subjective craving and associated regional brain activity in
+patients with schizophrenia and CUD. Overall, 36 patients with schizophrenia and 19 healthy controls were included. Patients were randomised to
+antipsychotic treatment with clozapine or risperidone. At baseline and after 4 weeks of medication use, regional brain responses were measured during
+a classical Stroop and a cannabis word Stroop using functional magnetic resonance imaging. Clozapine-treated CUD patients showed a larger reduction
+in craving and in activation of the insula during the cannabis word Stroop, while risperidone-treated patients showed a larger decrease in activation
+of the right anterior cingulate cortex during the classical Stroop. A significant association was found between decreases in subjective craving and
+decreases in insula activation during the cannabis word Stroop. These findings strongly suggest that clozapine may be a better treatment choice in
+patients with schizophrenia and CUD than risperidone.
+Keywords
+Cannabis, addictive behaviour, antipsychotic agents, schizophrenia, functional magnetic resonance imaging, clozapine, risperidone
+1Department of Psychiatry, Academic Medical Centre, Amsterdam, The
+Netherlands
+2Department of Psychiatry, VU University Medical Center, Amsterdam,
+The Netherlands
+Corresponding author:
+Marise WJ Machielsen, Academic Psychiatric Centre, Meibergdreef 5,
+Amsterdam, 1105 AZ, The Netherlands.
+Email: m.w.machielsen@amc.nl
+527357JOP0010.1177/0269881114527357Journal of PsychopharmacologyMachielsen et al.
+research-article2014
+Original Paper
+Downloaded from jop.sagepub.com at MARQUETTE UNIV on August 17, 2014
+634 Journal of Psychopharmacology 28(7)
+inverted U-shaped curve, and therefore differences between
+antipsychotics can be expected due to their differential affinity to
+dopamine D2 receptor (Kuroki et al., 2008; Seeman, 2002).
+Clozapine and risperidone show the largest difference in terms of
+dopamine D2 occupancy rate, dissociation rate and in D1/D2
+receptor occupancy ratio (Kuroki et al., 2008; Seeman, 2002;
+Tauscher et al., 2004). Clozapine’s low D2 occupancy rate, higher
+dissociation rate and higher D1/D2 receptor occupancy ratio
+together with its complex pharmacological profile (Green et al.,
+2008) could therefore result in a larger decrease in substancerelated attentional bias in patients treated with clozapine compared with patients treated with risperidone.
+Attentional bias for substance-related stimuli is mostly measured using an addiction Stroop task (Cox et al., 2006) which is
+derived from the classical Stroop task (Stroop, 1935). Participants
+are asked to name the colour of words that are shown to them and
+ignore the semantic content of the word itself. Attentional bias is
+the degree to which participants are slower at naming the colour
+of incongruent versus congruent words and of drug-related words
+versus neutral words. Studies using addiction Stroop tasks or
+other designs to measure attentional bias in patients with substance abuse have found increased activation of the anterior cingulate cortex, ventral striatum, inferior frontal gyrus, dorsolateral
+prefrontal cortex, superior parietal cortex, insula, amygdala and
+superior temporal cortex during the drug condition (Ersche et al.,
+2010; Goldstein et al., 2007, 2009a; Hester and Garavan, 2009;
+Janes et al., 2010; Luijten et al., 2011b, 2012; Nestor et al., 2011;
+Vollstadt-Klein et al., 2012).
+The current study measured attentional bias-related brain activation during functional magnetic resonance imaging (fMRI)
+scanning using a classical and a cannabis word Stroop task in
+healthy controls and in schizophrenia patients before and after
+treatment with either risperidone or clozapine in a priori-defined
+regions of interest (ROIs). Patients were expected to have
+decreased regional brain activation during the classical Stroop
+compared with healthy controls due to the presence of general cognitive impairments in patients with schizophrenia (Wobrock et al.,
+2013). We further hypothesised that patients with a comorbid CUD
+have increased regional brain activation during the cannabis Stroop
+compared with healthy controls and patients without a CUD, and
+that this increased brain activation would be associated with subjective craving. Finally, and most importantly, we hypothesised
+that clozapine treatment compared with risperidone treatment
+would not result in differences in brain activation during the classical Stroop task, but would be associated with a larger reduction
+of regional brain activation during cannabis-related words after 4
+weeks of treatment in patients with a CUD. Moreover, we expected
+that this larger reduction in regional brain activation would be
+associated with a larger reduction in subjective craving.
+Methods
+The medical ethics committee of the Academic Medical Center
+of the University of Amsterdam approved the study and all participants signed informed consent prior to participation.
+Participants
+A total of 46 patients with schizophrenia were recruited from
+inpatient and outpatient treatment settings of the Early Onset
+Psychosis Department of the Academic Medical centre between
+April 2009 and June 2012. Of these, 35 had a diagnosis of CUD
+(cannabis abuse or dependence) and 11 did not use cannabis and
+had a negative history for substance use disorders except for
+smoking (NCUD).
+Inclusion criteria were male gender, age 18–30, DSM-IV
+diagnosis of schizophrenia, schizophreniform or schizoaffective
+disorder (for brevity this will be referred to as schizophrenia).
+Exclusion criteria were previous unsuccessful treatment with or
+contraindication for the use of risperidone or clozapine, using
+depot antipsychotic medication 3 months prior to inclusion, treatment with psychotropic medication other than biperiden or benzodiazepines, and the presence of non-removable metal objects
+as a contraindication for fMRI scanning.
+In addition, 21 healthy controls (HCs) were recruited through
+advertisements on schools and sport facilities. All HCs had a
+negative history of neurologic or psychiatric diseases, including
+lifetime substance use disorders. Participants in the control group
+had used cannabis for a maximum of 50 times lifetime, the last
+time at least 1 year prior to inclusion.
+Study design
+Patients were randomly allocated to receive either clozapine or
+risperidone. Patients started with a standard dose titration scheme
+directed at a dose of 3.5 mg risperidone or 350 mg clozapine. In
+patients who already used antipsychotic medication, that medication was tapered in the week before the first assessment.
+Concomitant psychotropic medication was restricted to benzodiazepines and biperiden. In case of lack of antipsychotic efficacy
+or dose-related side effects, the dose was adjusted as clinically
+applicable. During the study, all patients received supportive
+treatment as usual.
+Assessments (fMRI and questionnaires) took place twice: at
+baseline before the first dose of the study medication and at the
+end of 4 weeks of treatment. HCs were assessed only once.
+All participants were asked to refrain from alcohol and drugs
+24 h before testing, and patients did not smoke cigarettes at least
+2 h before testing. In order to minimise (sub)acute pharmacological effects of cannabis, patients were instructed to refrain from
+cannabis at least 3 days before testing. Urine samples were taken
+3 days prior to the scan and the day of the scan. Using metabolite
+quantifications, abstinence from cannabis could be confirmed for
+all patients. In addition, urine screens for amphetamines, benzodiazepines, opioids and cocaine were performed prior to all
+assessments. During the second assessment blood samples were
+taken to test compliance to the study medication.
+Questionnaires
+The Composite International Diagnostic Interview (CIDI)
+(Robins et al., 1988) was used to assess current and lifetime substance use disorder. Craving during the past 7 days and current
+craving were assessed with the cannabis version of the Obsessive
+Compulsive Drug Use Scale (OCDUS) (Dekker et al., 2012) and
+the short version of the Marijuana Craving Questionnaire (MCQ)
+(Heishman et al., 2009), respectively. The Positive and Negative
+Symptoms Scale (PANSS) was used to measure symptom severity (Kay et al., 1987). The subjective wellbeing under neuroleptics scale (SWN) was used to compare the change in subjective
+wellbeing between medication groups (De Haan et al., 2002;
+Naber, 1995).
+Downloaded from jop.sagepub.com at MARQUETTE UNIV on August 17, 2014
+Machielsen et al. 635
+Stroop task
+A classical and a cannabis Stroop task were used to measure
+divided attention performance and attentional bias to drug-related
+stimuli, respectively. We used counting Stroop tasks (Bush et al.,
+1998) because they are better suited for use in an fMRI environment (Bush et al., 2006). During these fMRI tasks, participants
+viewed words which were congruent (e.g. ‘three’ was presented
+three times), incongruent (e.g. ‘two’ was presented three times),
+cannabis-related words (related to the smoking of cannabis) or
+neutral words (related to transportation) (see online supplementary information S1). Cannabis and neutral words were matched
+for word length, number of syllables and word frequency.
+Participants indicated the number of times a word was displayed
+as fast as possible using response boxes. Each word was presented for 3 s preceded by a fixation-cross for 1 s. A block design
+was used to generate adequate power to study differences
+between medication groups. Words were presented in a block
+design consisting of 10 words of each category. Categories were
+randomised in each block. In total four blocks were presented,
+therefore each word category was shown four times. The number
+of times a word was displayed (1–4) was random with a restriction of no more than two times the same number consecutively.
+Between blocks, a low-level baseline (fixation-cross) was presented for 12 s. Total task duration was 11 min (Figure 1). Words
+were projected on a screen which could be viewed through a mirror attached to the MRI head coil. Reaction times and task accuracy were measured and compared between incongruent/
+congruent words and between cannabis-related/neutral words in
+which larger differences indicated a larger attentional bias.
+Imaging parameters and data pre-processing
+A 3T MRI scanner (Intera, Philips Healthcare, Best, The
+Netherlands) with a phased array SENSE RF eight-channel
+receiver head coil was used for image acquisition. In the first
+scanning session, a T1 structural image was acquired (TR 9.6 s,
+TE 4.6 ms, voxel size 1×1×1.2 mm3, 182 slices, flip angle 8°).
+During the Stroop task, blood oxygen level dependent signal was
+measured with a T2* gradient-echo echo-planar imaging (EPI)
+sequence (TR 2.3 s, TE 28 ms, voxel size 2.3×2.3×3 mm3, 35
+slices, flip angle 80°). Data pre-processing and analysis was conducted with SPM8 (Statistical Parametric Mapping; Wellcome
+Trust Centre for Neuroimaging, London, UK). Images were manually reoriented to MNI space, slice-time corrected, realigned
+and unwarped, coregistered with the structural MRI scan, segmented and normalised to MNI space and spatially smoothed
+with an 8 mm full-with-half-maximum Gaussian kernel.
+Statistical analysis
+Demographics were compared between groups with standard
+univariate analysis of variance (ANOVA) for continuous variables and chi-squared tests for dichotomous variables using SPSS
+17.0 (SPSS, Chicago, Illinois). Differences between first and second measurements of the OCDUS and MCQ were compared
+between medication groups using repeated-measures ANOVAs.
+Repeated-measures ANOVAs and t-tests were also used to
+analyse reaction times and accuracy, with group (patients/controls) and treatment condition (clozapine/risperidone) as a
+between-subject factor and word type (congruent/incongruent
+and cannabis/neutral) as a within-subject factors. All analyses
+were performed using two-tailed significance testing at p<.05.
+FMRI data were analysed in the context of the general linear
+model, in which onsets of words were convolved with a canonical haemodynamic response function. Next, contrast images containing parameter estimates, for congruent versus incongruent
+words and cannabis versus neutral words, were computed for
+each subject and entered into second-level between-group
+comparisons.
+Given their role in attentional bias in previous studies, we a
+priori selected the following ROIs: anterior cingulate cortex
+(ACC), inferior frontal gyrus (IFG), dorsolateral prefrontal cortex (DLPFC), superior parietal lobe (SPL), superior temporal
+gyrus (STY), amygdala, insula and ventral striatum (VS)
+(Goldstein et al., 2009b; Hester and Garavan, 2009; Luijten et al.,
+2011b, 2012). ROIs were defined using the WFU PickAtlas Tool
+v2.4 that incorporates the automatic anatomical labelling (AAL)
+atlas (Tzourio-Mazoyer et al., 2002). As the VS is not included in
+the AAL atlas, a 10 mm sphere with MNI coordinates 10 8 -4 was
+created as a ROI (Nielsen et al., 2012).
+Analyses were performed for each ROI separately. Within
+specific ROIs, small volume corrections around the peak activation were performed with a Family Wise Error correction p<.05
+at voxel level, across the search volume of 10 mm spheres (for
+insula and amygdala) and 20 mm spheres (for ACC, IFG, DLPFC,
+Figure 1. Schematic presentation of task design Stroop task. Within each block, the four word categories are presented in a random order.
+Downloaded from jop.sagepub.com at MARQUETTE UNIV on August 17, 2014
+636 Journal of Psychopharmacology 28(7)
+SPL and STY) (Friston et al., 1996; Worsley et al., 1996). To set
+an optimal threshold for correction we calculated the correlation
+between the dependent variables (activation in the peak voxels of
+the seven ROIs for incongruent vs. congruent trials). To account
+for the number of ROIs we used a Bonferroni correction adjusted
+for correlations between our ROIs (http://www.quantiativeskills.
+com/sisa/calculations/bonfer.htm) (Li et al., 2014). A mean correlation coefficient was found between ROIs of r=.19, leading to
+an equivalent corrected alpha of .011.
+Differences between CUD patients, NCUD patients and HCs
+were assessed using one-way ANOVAs; differences between clozapine and risperidone were compared over sessions using twoway (Group × Time) ANOVAs.
+To assess the relationship between subjective craving and
+regional brain activation, linear regression analyses between
+craving scores and brain response to during cannabis words versus neutral words were performed in CUD patients.
+Results
+Demographics
+A total of 67 participants (46 patients and 21 HCs) signed
+informed consent. Of these, two patients withdrew their informed
+consents, four patients were too anxious to be scanned and follow-up data could not be obtained from one patient. Due to scanner errors and software problems, data of two HCs and two
+patients were of poor quality and had to be excluded from analysis. Therefore, in the analysis we included a total of 36 patients
+(28 CUD and 8 NCUD) and 19 HCs. Twenty patients were randomised to risperidone (16 CUD) and 16 to clozapine (12 CUD).
+For demographics see Table 1. There were significantly more
+smokers and patients with other substance use disorders in the CUD
+group compared with the NCUD group and HCs. Of the patients
+that were included in the study, 12 had not used antipsychotics
+before, two used risperidone, 10 olanzapine, three quetiapine, six
+haloperidol, two penfluridol and one used pimozide. No significant
+differences were found in previous treatment with antipsychotics
+between patients randomised to clozapine or risperidone.
+Treatment compliance and study completion
+Mean dosage of study medication on the day of the second
+assessment was 3.80 mg (SD 0.92) for risperidone and 302.6 mg
+(SD 75.9) for clozapine. Two risperidone-treated patients stopped
+taking medication 2 days prior to the second assessment. For all
+other patients compliance and treatment completion could be
+confirmed. Seven patients (four risperidone, three clozapine)
+were scanned earlier than originally planned (after 2–3 weeks
+instead of 4 weeks of treatment with study medication) because
+their clinicians decided to stop study medication due to side
+effects or lack of effect. In case of side effects, dose titration
+schemes were adjusted so that those patients were scanned later.
+As a consequence, mean treatment duration with study medication was 28.3 days. No significant difference in duration was
+found between risperidone (mean 27.1 days) and clozapine
+(mean 29.4 days t=-1.17, df=37, p=0.25). Oxazepam was used by
+15 patients (eight risperidone, seven clozapine) and biperiden
+was used by only one risperidone-treated patient during the study.
+A total of 18 of 28 patients continued their cannabis use during
+the study (10 risperidone, eight clozapine).
+Changes in cannabis craving, symptoms and
+subjective wellbeing during treatment
+Compared with patients treated with risperidone (n=16, MT1=23.9
+SDT1=9.0; MT2=23.5, SDT2=7.0), patients treated with clozapine
+(n=12, MT1=20.3, SDT1=9.2; MT2=16.5, SDT2=5.5) showed a significantly larger decrease in subjective craving as measured with
+the MCQ [F(1,26)=4.71, p=.04, partial eta squared=.15]. A trend
+for a difference in the same direction was observed for clozapine
+(n=12, MT1=30.8, SDT1=17.3, MT2=20.6, SDT2=8.8) and risperidone (n=16, MT1=38.9, SDT1=15.3, MT2=34.8, SDT2=17.1) in craving as measured with the OCDUS [F(1,26)=3.88, p=.06, partial eta
+squared=.13]. No significant differences were found in baseline and
+follow-up PANSS positive, negative and general scores between
+patients treated with risperidone and patients treated with clozapine (Table 2). For subjective wellbeing as measured with the SWN,
+also no significant differences were found between patients treated
+with risperidone and patients treated with clozapine (Table 2).
+However, clozapine-treated subjects had a non-significant larger
+decrease in PANSS total scores and an increase in subjective wellbeing compared with risperidone-treated subjects.
+Behavioural performance Stroop task
+Behavioural data were not complete for five patients; therefore
+31 patients (24 CUD patients) were included in the analysis. As
+expected, all participants showed longer reaction times and lower
+accuracy rates during the incongruent versus congruent trials
+(Table 3). However, no significant differences in behavioural
+performance were found between cannabis and neutral trials in
+CUD patients or in any of the other groups. Overall, HCs had
+significantly shorter reaction times compared with both patient
+groups [F(2,47)=7.36, p=.002] and were more accurate
+[F(2,47)=3.19, p=.05]. No differences in behavioural performance were found between CUD and NCUD patients.
+Between sessions, no group differences were found in overall
+reaction times and accuracy. However, patients treated with clozapine had significantly shorter reaction times during the second
+session (t=-2.40, df=29, p=.023) than the patients treated with
+risperidone, but no differences in accuracy were found between
+medication groups (Table 4).
+fMRI analysis
+Main effects
+Classical Stroop effect. CUD patients (n=28) showed a
+trend-wise greater activation during incongruent trials versus
+congruent trials compared with HCs (n=19) during the first fMRI
+session in the left DLPFC (peak voxel: x,y,z=-36,28,34, T=3.30,
+pFWE=.061) and right IFG (peak voxel: x,y,z=30,50,-6, T=3.27,
+pFWE=.064). No significant differences were found between
+CUD patients and NCUD patients.
+Cannabis Stroop effect. During cannabis trials versus
+neutral trials, CUD patients (n=28) showed trend-wise larger
+Downloaded from jop.sagepub.com at MARQUETTE UNIV on August 17, 2014
+Machielsen et al. 637
+Table 1. Sociodemographic- and clinical characteristics of patients and healthy controls.
+Characteristics CUD
+risperidone
+(n=16)
+CUD
+clozapine
+(n=12)
+NCUD using
+risperidone
+(n=4)
+NCUD using
+clozapine
+(n=4)
+HC
+(n=19)
+Mean SD Mean SD Mean SD Mean SD Mean SD
+Sociodemographics
+Agea 22.4 3.39 22.3 2.80 23.3 3.30 22.0 2.83 23.3 3.25
+N % N % N % N % N %
+Education: highest achieved levela,b
+1 9 56.3 7 58.3 3 75.0 3 75.0 12 63.2
+2 3 18.8 4 33.3 1 25.0 0 3 15.8
+3 4 25.0 1 8.3 0 1 25.0 4 21.1
+Diagnosisa
+Schizophrenia, paranoid 7 43.8 6 50.0 2 50.0 3 75.0
+Schizophrenia, undifferentiated 5 31.3 3 25.0 1 25.0 1 25.0
+Schizophrenia, disorganised 0 1 8.3 0 0
+Schizoaffective disorder 3 18.8 1 8.3 1 25.0 0
+Schizophreniform disorder 1 6.3 1 8.3 0 0
+Smoking 13 81.3 12 100.0 3 75.0 1 25.0 3 15.8
+Alcohol use disorder 6 37.5 1 8.3 0 0 0
+Cocaine use disorder 1 6.3 2 16.7 0 0 0
+XTC use disorder 1 6.3 2 16.7 0 0 0
+CUD: Cannabis use disorder; NCUD: non-cannabis use disorder; HC, healthy control.
+aNo significant differences between groups.
+b1, Lower secondary professional education/intermediate vocational education; 2, higher general secondary education/higher vocational education; 3, pre-university education/university.
+activation compared with HCs in the right VS (peak voxel:
+x,y,z=10,4,-6, T=3.05, pFWE=.025) and compared with NCUD
+patients in the left amygdala (peak voxel: x,y,z=-18,-10,-20,
+T=2.79, pFWE=.046) and right amygdala (peak voxel: x,y,z=22,-
+18,-16, T=2.78, pFWE=.047).
+Differences between medication groups
+Classical Stroop effect. CUD patients showed larger activations during the first measurement compared with the second
+measurement in most ROIs (see online supplementary information S2).
+Compared with clozapine-treated CUD patients (n=12),
+patients treated with risperidone (n=16) showed a trend-wise larger
+decrease in activation in the right ACC (peak voxel: x,y,z=12,28,18,
+T=3.70, pFWE=.022) between first and second scan in response to
+incongruent trials vs. congruent trials (Figure 2).
+Cannabis Stroop effect. CUD patients (n=28) showed a
+larger activation during the first measurement compared with
+the second measurement in the left amygdala (peak voxel:
+x,y,z=-16,-10,-20, T=3.71, pFWE=.005) and a trend-wise larger
+activation in the left IFG (peak voxel: x,y,z=-34,28,-14, T=3.59,
+pFWE=.028). Trend-wise smaller activations during the first
+measurement compared with the second measurement were
+found in the right DLPFC (peak voxel: x,y,z=22,44,22, T=3.42,
+pFWE=.043).
+Compared with risperidone-treated CUD patients (n=16), clozapine-treated patients (n=12) showed a larger decrease in activation in the left insula (peak voxel: x,y,z=-40,12,-10, T=3.48,
+pFWE=.037) and a trend-wise larger decrease in the right insula
+(peak voxel: x,y,z=36,24,-6, T=3.14, pFWE=.078) between first
+and second scan in response to cannabis trials versus neutral trials
+(Figure 3).
+Association between regional brain
+activation and subjective craving
+No significant correlations were found between MCQ scores and
+neural response to cannabis words versus neutral words during
+both measurements. A trend-wise positive association between
+reduction in current craving (MCQ scores) and reduction in brain
+activation during cannabis trials versus neutral trials was found
+in the right insula (peak voxel: x,y,z=34,8,10, T=3.19,
+pFWE=.026) (Figure 4). Post-hoc analysis showed that this effect
+was driven by the clozapine group.
+Discussion
+To the best of our knowledge this is the first randomised controlled trial examining differences in effect between clozapine
+and risperidone on regional brain responses during an attentional
+bias task in patients with schizophrenia (with and without a
+comorbid CUD).
+Medication effects
+In line with our expectations, clozapine-treated patients
+showed a larger decrease in activation of the bilateral insula
+Downloaded from jop.sagepub.com at MARQUETTE UNIV on August 17, 2014
+638 Journal of Psychopharmacology 28(7)
+during the cannabis word Stroop task and a larger decrease in
+subjective craving than risperidone-treated patients, and these
+changes were positively correlated (especially in the clozapine-treated group). Similarly, Luijten et al. (2011a) found a
+correlation between subjective craving and attentional biasrelated activation of the insula, further implicating this region
+in attentional bias. The superior effect of clozapine on subjective craving and brain activation during the cannabis Stroop
+may be explained by clozapine’s lower affinity to the dopamine D2 receptors. Possibly, a relatively mild reduction of
+dopaminergic neurotransmission (clozapine) weakens formerly learned associations, without inducing dysphoria,
+whereas a stronger attenuation (blockage) of dopaminergic
+neurotransmission (risperidone) may induce dysphoria, which
+could increase attentional bias associated relief craving
+(Verheul et al., 1999; Voruganti and Awad, 2006) in response to
+cannabis-related words. Also, clozapine’s complex pharmacological profile may normalise the activity of the dopaminergic
+mesocorticolimbic system (Green et al., 2008). Possibly other,
+more social, factors could also explain clozapine’s superiority
+in the treatment of complex patient populations, including the
+fact that treatment with clozapine involves a more regular
+monitoring by, and thus more interactions with, clinicians than
+treatment with risperidone.
+Table 3. Behavioural data on accuracy and reaction times during the first assessment for patients with and without cannabis use disorder and
+healthy controls.
+Condition Patients with cannabis use
+disorder n=24
+Patients without cannabis
+use disorder n=7
+Healthy controls n=19
+Accuracy
+% (SD)
+congruent 97.29 (3.45) 95.71 (5.14) 98.55 (1.73)
+incongruent 92.19 (6.77) 92.50 (4.56) 96.45 (2.25)
+cannabis 96.25 (4.72) 95.71 (3.74) 98.27 (1.86)
+neutral 96.35 (5.11) 97.14 (3.36) 97.83 (3.48)
+congruent 926.41 (249.56) 894.83 (109.31) 721.36 (82.49)
+Reaction times (ms)
+Mean (SD)
+incongruent 1062.88 (258.68) 1096.70 (152.71) 843.82 (119.34)
+cannabis 1026.46 (304.13) 1001.10 (121.13) 770.09 (122.25)
+neutral 1010.19 (300.13) 981.20 (92.47) 771.15 (124.35)
+Table 4. Behavioural data on accuracy and reaction times for patients with schizophrenia using clozapine or risperidone.
+Condition Clozapine n=15 Risperidone n=16
+1st assessment 2nd assessment 1st assessment 2nd assessment
+Accuracy
+% (SD)
+congruent 97.00 (3.80) 98.00 (3.43) 96.88 (4.03) 95.18 (7.00)
+incongruent 93.67 (4.52) 96.45 (2.95) 90.94 (7.47) 90.88 (12.76)
+cannabis 96.00 (4.61) 98.67 (1.86) 96.25 (4.47) 94.59 (10.49)
+neutral 96.67 (4.30) 98.67 (2.08) 96.41 (5.24) 94.03 (12.00)
+congruent 910.07 (190.22) 774.35 (111.72) 927.91 (258.26) 974.96 (405.23)
+Reaction times (ms)
+Mean (SD)
+incongruent 1049.45 (193.98) 879.59 (121.66) 1090.26 (276.35) 1107.27 (409.44)
+cannabis 1001.85 (196.46) 849.34 (128.69) 1038.44 (333.48) 1031.37 (439.05)
+neutral 971.96 (214.88) 836.76 (147.67) 1033.35 (311.28) 1022.26 (405.94)
+Table 2. Severity of psychopathology and subjective wellbeing of patients with schizophrenia treated with clozapine or risperidone.
+Characteristics Clozapine (n=16) Risperidone (n=20)
+1st assessment 2nd assessment 1st assessment 2nd assessment
+Mean (SD) Mean (SD) Mean (SD) Mean (SD)
+PANSS
+Positive subscale
+16.3 (5.8) 11.5 (4.0) 15.5 (5.2) 12.4 (5.5)
+PANSS
+Negative subscale
+14.6 (6.4) 11.4 (4.1) 17.7 (5.3) 15.4 (5.7)
+PANSS
+General subscale
+29.6 (8.0) 22.8 (6.4) 30.3 (6.1) 25.5 (8.4)
+SWN 78.2 (15.3) 87.1 (12.3) 78.7 (15.3) 81.1 (14.7)
+Downloaded from jop.sagepub.com at MARQUETTE UNIV on August 17, 2014
+Machielsen et al. 639
+We expected that affinity to the dopamine D2 receptor would
+be less crucial for the classical Stroop, because the classical
+Stroop task is primarily a test of executive functioning which is
+not necessarily a dopamine D2-related process (Roesch-Ely et al.,
+2005). Moreover, the prefrontal cortex, which is involved in
+executive functioning, contains mostly D1 receptors instead of D2
+receptors. However, while we found decreased activation of most
+ROIs for both patient groups during antipsychotic treatment,
+these decreases were larger in the risperidone than in the clozapine group in the anterior cingulate cortex, which is thought to be
+one of the main regions involved in response selection and error
+monitoring. Interestingly, risperidone-treated patients also
+responded significantly more slowly and were slightly less accurate during the second session. Effects of sedation are more likely
+to be expected in patients using clozapine. A more likely explanation for the slower reaction times of the risperidone-treated
+patients could be risperidone’s strong affinity to the dopamine D2
+receptor. It has previously been found that high doses of dopamine antagonists negatively affect reaction times in cognitively
+demanding tasks (Knowles et al., 2010).
+Sedation due to risperidone could be related to the slower
+response and the decreased anterior cingulate activation during
+the classical Stroop task in this patient group. While sedation
+effects of clozapine could also be expected, faster responses during the second session in clozapine-treated patients compared
+with risperidone-treated patients makes this unlikely.
+Differences between patients and healthy
+controls
+Contrary to our expectations, trends for stronger brain activations
+in frontal regions were found in patients compared with HCs during the classical Stroop task. Moreover, behavioural data showed
+that HCs had significantly shorter reaction times compared with
+patients and were more accurate. Together, it can be concluded
+that our patient group seems to activate their frontal regions less
+efficiently. However, in a meta-analysis, lower activation of frontal regions was found in patients with schizophrenia during cognitively demanding tasks such as the Stroop (Minzenberg et al.,
+2009). A possible explanation for this discrepancy could be the
+differences in task designs between studies. While other studies
+used the colour word Stroop task (Minzenberg et al., 2009) we
+used a counting Stroop task which reduces cognitive complexity
+when used in an fMRI environment (Bush et al., 1998). It has
+been hypothesised that patients with schizophrenia may show
+larger activation of frontal regions compared with HCs when a
+task is cognitively less demanding, while smaller activations in
+Figure 2. Differences between medication groups (n=28) for
+incongruent vs. congruent words. The risperidone group showed a
+larger decrease in activation in the right ACC.
+Figure 3. Differences between medication groups (n=28) for cannabis
+words versus neutral words. The clozapine group showed a larger
+decrease in activation in the left insula and a trend-wise larger
+decrease in the right insula.
+Figure 4. Correlation between difference in MCQ scores and difference
+in insula activation for cannabis versus neutral words (R² linear=.281).
+Downloaded from jop.sagepub.com at MARQUETTE UNIV on August 17, 2014
+640 Journal of Psychopharmacology 28(7)
+patients are found when a task is more difficult to perform
+(Bassett et al., 2009; Perlstein et al., 2001).
+In line with our hypothesis we found increased brain activation during the cannabis word Stroop task in CUD patients compared with HCs and NCUD patients, although no significant
+differences in behavioural performance were found. While we
+were expecting a behaviour effect of attentional bias as well, it
+has previously been suggested that imaging data are more sensitive in detecting differences between groups (Wilkinson and
+Halligan, 2004). Differences in brain activation between patients
+and controls were found in the VS and amygdala, which are
+dopamine-innervated regions that have previously been described
+to be involved in attentional bias for drug-related stimuli (Janes
+et al., 2010; Vollstadt-Klein et al., 2012). Similar to some other
+studies, we also found a significant association between attentional bias-related brain activation and subjective craving (Field
+et al., 2009; Franken, 2003; Luijten et al., 2011b), a finding that
+was, however, not replicated in another recent study (Luijten
+et al., 2012), implying that the evidence for a correlation between
+attentional bias for drug-related stimuli and subjective craving is
+mixed.
+Strengths and limitations
+Some potential limitations must be taken into account. First, we
+were able to include only a limited number of non-cannabisusing schizophrenia patients. We intended to include more noncannabis-using patients to evaluate the possibility that imaging
+findings in the comorbid patients were a consequence of disease
+and/or medication effects not necessarily related to the presence
+of CUD. Because time and financial constraints precluded inclusion of more patients without a CUD, the analyses involving
+patients without CUDs are underpowered, possibly inducing type
+II errors. Although we included a small sample of NCUD patients,
+we still found a significant difference in regional brain activation
+during the cannabis Stroop between CUD and NCUD patients.
+Second, due to feasibility and ethical considerations this was an
+open label study over a relatively short period of time in which
+dosage of medication could be adjusted in case of side effects or
+lack of efficacy. In seven of the 36 patients (19%) clinicians
+decided to stop the study medication due to side effects or lack of
+effect before 4 weeks of treatment. This is a substantial but not
+uncommon attrition rate in unstable patients with schizophrenia
+and comorbid substance use disorder. However, the presence of a
+significant difference between the medications on attentional
+bias and craving even after a short treatment period with relatively low doses of study medication underlines the important
+differential effects of clozapine and risperidone on these outcomes. Furthermore, the open label design of the study may have
+affected the results. However, this is not a very likely explanation
+for the differences in brain activation, since attentional bias is a
+largely unconscious process. Third, because patients did not use
+any substance of abuse or cigarettes before scanning, effects of
+withdrawal cannot be ruled out. However, randomisation prevents systematic differences between medication groups.
+Furthermore, almost all patients using cannabis also smoked
+cigarettes, and antipsychotic medication may affect smoking
+behaviour (De Haan et al., 2006). However, because smoking
+behaviour was similar in both medication groups it is unlikely
+that possible craving for cigarettes differentially influenced the
+results. Future research should address the issue whether clozapine may decrease craving for nicotine as well as for cannabis.
+Another limitation is that treatment groups differed in the
+prevalence of comorbid alcohol abuse/dependence (risperidone
+6/20 [30%], clozapine1/16 [6%]). To explore the possible confounding effects of a comorbid alcohol use disorder we compared
+attentional bias of patients with a comorbid alcohol use disorder
+(n=7) to the patients without a comorbid alcohol use disorder
+(n=26) at baseline using a lenient significance level (p<0.10). In
+this comparison, no significant differences were found. However,
+because the subgroup with comorbid alcohol use disorder was
+small, the possibility of a type II error cannot be completely ruled
+out. Furthermore, the frequency of patients with a comorbid substance use disorder (alcohol, cocaine, ecstasy) was very similar
+for both treatment groups (7 out of 16 risperidone [44%], 5 out of
+12 clozapine [42%]). Although there are some drug-specific differences, overall the effects of the alcohol and other drugs on the
+brain reward system appear to be very similar (Kuhn and Gallinat,
+2011; Volkow et al., 2007). We therefore believe that the group
+difference in the presence of comorbid alcohol abuse/dependence
+is very limited, and that it does not affect our main conclusions.
+Conclusion
+This study found strong indications for differential effects of clozapine and risperidone on brain activation during a cannabis
+word attentional bias task and subjective craving, with a larger
+reduction in insula activation during the cannabis Stroop and an
+associated larger reduction in craving in the clozapine versus the
+risperidone-treated group. These findings strongly suggest that
+clozapine or other atypical antipsychotics with a relatively low
+D2 occupancy rate, a relatively high dissociation rate and a relatively high D1/D2 receptor occupancy ratio may be a better treatment choice in patients with schizophrenia and a comorbid CUD
+than other atypical and classical antipsychotics with a relatively
+high D2 occupancy rate, a relatively low dissociation rate and/or
+a relatively low D1/D2 receptor occupancy ratio.
+Acknowledgements
+We are grateful for the generosity of time and effort by the patients and
+HCs who participated in this study. We would like to thank Laura
+Koenders for her help during the inclusion period of this study.
+Conflict of interest
+The authors declare that there are no conflict of interest.
+Funding
+This work was supported by the Dutch Health research council
+(ZON-MW, grant number 3160007).
+Notes
+Trial registration in ‘Nederlands trial register’ (http://www.trialregister.
+nl), nr NTR1761
+References
+Bassett D, Bullmore ET, Meyer-Lindenberg A, et al. (2009) Cognitive
+fitness of cost-efficient brain functional networks. Proc Natl Acad
+Sci U S A 106: 11747–11752.
+Downloaded from jop.sagepub.com at MARQUETTE UNIV on August 17, 2014
+Machielsen et al. 641
+Bush G, Whalen PJ, Shin LM, et al. (2006) The counting Stroop: A cognitive interference task. Nat Protoc 1: 230–233.
+Bush G, Whalen PJ, Rosen BR, et al. (1998) The counting Stroop:
+An interference task specialized for functional neuroimaging –
+validation study with functional MRI. Hum Brain Mapp 6: 270–282.
+Carpenter KM, Schreiber E, Church S, et al. (2006) Drug Stroop performance: Relationships with primary substance of use and treatment
+outcome in a drug-dependent outpatient sample. Addict Behav 31:
+174–181.
+Cox WM, Fadardi JS and Pothos EM (2006) The addiction-Stroop test:
+Theoretical considerations and procedural recommendations. Psychol Bull 132: 443–476.
+De Haan L, Weisfelt M, Dingemans P, et al. (2002) Psychometric properties of the subjective well-being under neuroleptics scale and the
+subjective deficit syndrome scale. Psychopharmacology (Berl) 162:
+24–28.
+de Haan L, Booij J, Lavalaye J, et al. (2006) Occupancy of dopamine
+D2 receptors by antipsychotic drugs is related to nicotine addiction
+in young patients with schizophrenia. Psychopharmacology (Berl)
+183: 500–505.
+Dekker N, Koeter M, Van Den Brink W, et al. (2012) Craving for cannabis in patients with psychotic disorder, their non-affected siblings
+and healthy controls: Psychometric analysis of the obsessive compulsive drug use scale. Int J Methods Psychiatr Res 21: 286–300.
+Dixon L (1999) Dual diagnosis of substance abuse in schizophrenia:
+Prevalence and impact on outcomes. Schizophr Res 35(Suppl):
+S93–S100.
+Ersche KD, Bullmore ET, Craig KJ, et al. (2010) Influence of compulsivity of drug abuse on dopaminergic modulation of attentional bias in
+stimulant dependence. Arch Gen Psychiatry 67: 632.
+Field M and Cox WM (2008) Attentional bias in addictive behaviors: A
+review of its development, causes, and consequences. Drug Alcohol
+Depend 97: 1–20.
+Field M, Munafo MR and Franken IH (2009) A meta-analytic investigation of the relationship between attentional bias and subjective craving in substance abuse. Psychol Bull 135: 589–607.
+Franken IH (2003) Drug craving and addiction: integrating psychological
+and neuropsychopharmacological approaches. Prog Neuropsychopharmacol Biol Psychiatry 27: 563–579.
+Franken IH, Hendriks VM, Stam CJ, et al. (2004) A role for dopamine in
+the processing of drug cues in heroin dependent patients. Eur Neuropsychopharmacol 14: 503–508.
+Franken IH, Stam CJ, Hendriks VM, et al. (2003) Neurophysiological
+evidence for abnormal cognitive processing of drug cues in heroin
+dependence. Psychopharmacology (Berl) 170: 205–212.
+Friston KJ, Holmes A, Poline JB, et al. (1996) Detecting activations
+in PET and fMRI: Levels of inference and power. Neuroimage 4:
+223–235.
+Goldstein RZ, Alia-Klein N, Tomasi D, et al. (2009a) Anterior cingulate cortex hypoactivations to an emotionally salient task in cocaine
+addiction. Proc Natl Acad Sci U S A 106: 9453–9458.
+Goldstein RZ, Tomasi D, Alia-Klein N, et al. (2009b) Dopaminergic
+response to drug words in cocaine addiction. J Neurosci 29: 6001–
+6006.
+Goldstein RZ, Tomasi D, Rajaram S, et al. (2007) Role of the anterior
+cingulate and medial orbitofrontal cortex in processing drug cues in
+cocaine addiction. Neuroscience 144: 1153–1159.
+Green AI, Noordsy DL, Brunette MF, et al. (2008) Substance abuse and
+schizophrenia: Pharmacotherapeutic intervention. J Subst Abuse
+Treat 34: 61–71.
+Heishman SJ, Evans RJ, Singleton EG, et al. (2009) Reliability and validity of a short form of the Marijuana Craving Questionnaire. Drug
+Alcohol Depend 102: 35–40.
+Hester R and Garavan H (2009) Neural mechanisms underlying drugrelated cue distraction in active cocaine users. Pharmacol Biochem
+Behav 93: 270–277.
+Janes AC, Pizzagalli DA, Richardt S, et al. (2010) Neural substrates of
+attentional bias for smoking-related cues: An FMRI study. Neuropsychopharmacology 35: 2339–2345.
+Kay SR, Fiszbein A and Opler LA (1987) The positive and negative
+syndrome scale (PANSS) for schizophrenia. Schizophr Bull 13:
+261–276.
+Knowles EE, David AS and Reichenberg A (2010) Processing speed deficits in schizophrenia: Reexamining the evidence. Am J Psychiatry
+167: 828–835.
+Kuhn S and Gallinat J (2011) Common biology of craving across legal
+and illegal drugs – a quantitative meta-analysis of cue-reactivity
+brain response. Eur J Neurosci 33: 1318–1326.
+Kuroki T, Nagao N and Nakahara T (2008) Neuropharmacology of
+second-generation antipsychotic drugs: A validity of the serotonindopamine hypothesis. Prog Brain Res 172: 199–212.
+Li W, van Tol M, Li M, et al. (2014) Regional specificity of sex effects on
+subcortical volumes across the lifespan in healthy aging. Hum Brain
+Mapp 35: 238–247.
+Linszen DH, Dingemans PM and Lenior M E (1994) Cannabis abuse and
+the course of recent-onset schizophrenic disorders. Arch Gen Psychiatry 51: 273–279.
+Luijten M, Van Meel CS and Franken IHA (2011a) Diminished error
+processing in smokers during smoking cue exposure. Pharmacol
+Biochem Behav 97: 514–520.
+Luijten M, Veltman DJ, Hester R, et al. (2012) Brain activation associated with attentional bias in smokers is modulated by a dopamine
+antagonist. Neuropsychopharmacology 37: 2772–2779.
+Luijten M, Veltman DJ, van den Brink W, et al. (2011b) Neurobiological substrate of smoking-related attentional bias. Neuroimage 54:
+2374–2381.
+Machielsen M, van der Sluis S and de Haan L (2010) Cannabis use in
+patients with a first psychotic episode and subjects at ultra high risk
+of psychosis: impact on psychotic- and pre-psychotic symptoms.
+Aust N Z J Psychiatry 44: 721–728.
+Machielsen MW and de Haan L (2009) Differences in efficacy on substance abuse between risperidone and clozapine supports the importance of differential modulation of dopaminergic neurotransmission.
+Psychopharmacol Bull 42: 40–52.
+Marissen MA, Franken IH, Waters AJ, et al. (2006) Attentional bias predicts heroin relapse following treatment. Addiction 101: 1306–1312.
+Minzenberg MJ, Laird AR, Thelen S, et al. (2009) Meta-analysis of 41
+functional neuroimaging studies of executive function in schizophrenia. Arch Gen Psychiatry 66: 811–822.
+Naber D (1995) A self-rating to measure subjective effects of neuroleptic drugs, relationships to objective psychopathology, quality of life,
+compliance and other clinical variables. Int Clin Psychopharmacol
+10(Suppl3): 133–138.
+Nestor L, McCabe E, Jones J, et al. (2011) Differences in “bottomup” and “top-down” neural activity in current and former cigarette
+smokers: Evidence for neural substrates which may promote nicotine abstinence through increased cognitive control. Neuroimage
+56: 2258–2275.
+Nielsen MO, Rostrup E, Wulff S, et al. (2012) Improvement of brain
+reward abnormalities by antipsychotic monotherapy in schizophrenia. Arch Gen Psychiatry 69: 1195–1204.
+Perlstein WM, Carter CS, Noll DC, et al. (2001) Relation of prefrontal
+cortex dysfunction to working memory and symptoms in schizophrenia. Am J Psychiatry 158: 1105–1113.
+Regier DA, Farmer ME, Rae DS, et al. (1990) Comorbidity of mental disorders with alcohol and other drug abuse. Results from
+the Epidemiologic Catchment Area (ECA) Study. JAMA 264:
+2511–2518.
+Robins LN, Wing J, Wittchen HU, et al. (1988) The Composite International Diagnostic Interview. An epidemiologic instrument suitable
+for use in conjunction with different diagnostic systems and in different cultures. Arch Gen Psychiatry 45: 1069–1077.
+Downloaded from jop.sagepub.com at MARQUETTE UNIV on August 17, 2014
+642 Journal of Psychopharmacology 28(7)
+Robinson TE and Berridge KC (1993) The neural basis of drug craving:
+An incentive-sensitization theory of addiction. Brain Res Brain Res
+Rev 18: 247–291.
+Roesch-Ely D, Scheffel H, Weiland S, et al. (2005) Differential dopaminergic modulation of executive control in healthy subjects. Psychopharmacology (Berl) 178: 420–430.
+Seeman P (2002) Atypical antipsychotics: Mechanism of action. Can J
+Psychiatry 47: 27–38.
+Stroop JR (1935) Studies of interference in serial verbal reactions. J Exp
+Psychol 18: 643–6620.
+Tauscher J, Hussain T, Agid O, et al. (2004) Equivalent occupancy of
+dopamine D1 and D2 receptors with clozapine: Differentiation from
+other atypical antipsychotics. Am J Psychiatry 161: 1620–1625.
+Tzourio-Mazoyer N, Landeau B, Papathanassiou D, et al. (2002) Automated anatomical labeling of activations in SPM using a macroscopic anatomical parcellation of the MNI MRI single-subject brain.
+Neuroimage 15: 273–289.
+Verheul R, van den Brink W and Geerlings P (1999) A three-pathway
+psychobiological model of craving for alcohol. Alcohol Alcohol 34:
+197–222.
+Volkow ND, Fowler JS, Wang GJ, et al. (2007) Dopamine in drug abuse
+and addiction: Results of imaging studies and treatment implications.
+Arch Neurol 64: 1575–1579.
+Vollstadt-Klein S, Loeber S, Richter A, et al. (2012) Validating incentive
+salience with functional magnetic resonance imaging: Association
+between mesolimbic cue reactivity and attentional bias in alcoholdependent patients. Addict Biol 17: 807–816.
+Voruganti LN and Awad AG (2006) Subjective and behavioural consequences of striatal dopamine depletion in schizophrenia – findings
+from an in vivo SPECT study. Schizophr Res 88: 179–186.
+Waters AJ, Shiffman S, Bradley BP, et al. (2003) Attentional shifts to
+smoking cues in smokers. Addiction 98: 1409–1417.
+Wilkinson D and Halligan P (2004) The relevance of behavioural measures
+for functional-imaging studies of cognition. Nat Rev Neurosci 5: 67–73.
+Wobrock T, Falkai P, Schneider-Axmann T, et al. (2013) Comorbid substance abuse in first-episode schizophrenia: Effects on cognition and
+psychopathology in the EUFEST study. Schizophr Res 147: 132–139.
+Worsley KJ, Marrett S, Neelin P, et al. (1996) A unified statistical
+approach for determining significant signals in images of cerebral
+activation. Hum Brain Mapp 4: 58–73.
+Downloaded from jop.sagepub.com at MARQUETTE UNIV on August 17, 2014

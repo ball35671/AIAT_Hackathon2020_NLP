@@ -1,0 +1,629 @@
+Downloaded from https://cdn.journals.lww.com/greenjournal by BhDMf5ePHKYe9/KEmlfMUgBu+fvVzRmbvQAWQpQ/Ns8AyW5+sYuHl4w5i7rFJM6nnlvk/LX3OkQRTKFKmfXKQM2gq5k6450IDaaNZ3cUGHH4gQbBR43iddOKFI3ODF3N on 10/15/2019
+10/15/2019 on BhDMf5ePHKYe9/KEmlfMUgBu+fvVzRmbvQAWQpQ/Ns8AyW5+sYuHl4w5i7rFJM6nnlvk/LX3OkQRTKFKmfXKQM2gq5k6450IDaaNZ3cUGHH4gQbBR43iddOKFI3ODF3N by https://cdn.journals.lww.com/greenjournal from Downloaded
+Trivalent Inactivated Influenza Vaccine and
+Spontaneous Abortion
+Stephanie A. Irving, MHS, Burney A. Kieke, MS, James G. Donahue, DVM, PhD,
+Maria A. Mascola, MD, MPH, James Baggs, PhD, Frank DeStefano, MD, MPH, T. Craig Cheetham, PharmD,
+Lisa A. Jackson, MD, MPH, Allison L. Naleway, PhD, Jason M. Glanz, PhD, James D. Nordin, MD, MPH,
+and Edward A. Belongia, MD, for the Vaccine Safety Datalink
+OBJECTIVE: To estimate the association between spontaneous abortion and influenza vaccine receipt with
+a case-control study utilizing data from six health care
+organizations in the Vaccine Safety Datalink.
+METHODS: Women aged 18–44 years with spontaneous
+abortion during the autumn of 2005 or 2006 were identified using International Classification of Diseases, 9th
+Revision, Clinical Modification codes. Cases of spontaneous abortion at 5–16 weeks of gestation were confirmed
+by medical record review; date of fetal demise was based
+on ultrasound information when available. Control group
+individuals with a live birth were individually matched to
+case group individuals by health care organization and
+date of last menstrual period (LMP). The primary exposure of interest was influenza vaccination during the
+28 days preceding the date of spontaneous abortion of
+the matched pair. Conditional logistic regression models
+adjusted for maternal age, health care utilization, maternal diabetes, and parity.
+RESULTS: Our final analysis included 243 women with
+spontaneous abortion and 243 matched control group
+women; 82% of women with spontaneous abortion had
+ultrasound confirmation of fetal demise. Using clinical
+diagnosis and ultrasound data, the mean gestational age at
+fetal demise was 7.8 weeks. Mean ages at LMP of case
+group women and control group women were 31.7 and
+29.3 years, respectively (P,.001). Sixteen women with
+spontaneous abortion (7%) and 15 (6%) matched control
+group women received influenza vaccine within the 28-day
+exposure window. There was no association between spontaneous abortion and influenza vaccination in the 28-day
+exposure window (adjusted matched odds ratio 1.23, 95%
+confidence interval 0.53–2.89; P5.63).
+CONCLUSION: There was no statistically significant
+increase in the risk of pregnancy loss in the 4 weeks
+after seasonal inactivated influenza vaccination.
+(Obstet Gynecol 2013;121:159–65)
+DOI: http://10.1097/AOG.0b013e318279f56f
+LEVEL OF EVIDENCE: II
+Pregnant women have been considered a high-risk
+group for influenza complications since the 1918
+and 1957 pandemics.1,2 In 1997, the Centers for Disease
+Control and Prevention Advisory Committee on Immunization Practices expanded U.S. recommendations for
+From the Epidemiology Research Center, Marshfield Clinic Research Foundation,
+and Obstetrics and Gynecology, Marshfield Clinic, Marshfield, Wisconsin; the
+Immunization Safety Office, Centers for Disease Control and Prevention,
+Atlanta, Georgia; Kaiser Permanente of Southern California, Downey,
+California; the Group Health Research Institute, Seattle, Washington; Kaiser
+Permanente Northwest, Portland, Oregon; Kaiser Permanente Colorado, Denver,
+Colorado; and HealthPartners Research Foundation, Minneapolis, Minnesota.
+Funded through a subcontract with America’s Health Insurance Plans (AHIP)
+under contract 200-2002-00732, from the Centers for Disease Control and
+Prevention (CDC).
+The authors thank Eric Weintraub, MPH, Centers for Disease Control and
+Prevention, for his scientific support and review of the manuscript; Allen Wilcox,
+MD, PhD, for consultation on analytic methods; and the following individuals
+for their invaluable assistance with data collection: Patti Benson, MPH, and
+Anne Zavitkovsky, Group Health Research Institute; Leslie Kuckler, MPH,
+HealthPartners Minneapolis; Kate Burniece and Jo Ann Shoup, Kaiser Permanente Colorado; Nick Berger, Vidhu Choudhary, and Deanna Cole, Marshfield
+Clinic Research Foundation; Eresha Bluth and Jill Mesa, Kaiser Permanente
+Northwest; Zendi Solano and Lina Somsouk Sy, MPH, Kaiser Permanente of
+Southern California.
+The findings and conclusions in this report are those of the authors and do not
+necessarily represent the official position of the funding agency.
+Corresponding author: Edward Belongia, MD, Epidemiology Research Center,
+Marshfield Clinic Research Foundation, 1000 North Oak Avenue, ML2,
+Marshfield, WI 54449; e-mail: belongia.edward@marshfieldclinic.org.
+Financial Disclosure
+Stephanie A. Irving, Burney A. Kieke, James G. Donahue, and Edward A.
+Belongia have received unrelated research support from Medimmune, LLC. T.
+Craig Cheetham has received unrelated research support from Merck. Lisa A.
+Jackson has received unrelated research support from Sanofi Pasteur, Novartis,
+Glaxo Smith Kline, and Pfizer, as well as travel expenses from Pfizer. The other
+authors did not report any potential conflicts of interest.
+© 2012 by The American College of Obstetricians and Gynecologists. Published
+by Lippincott Williams & Wilkins.
+ISSN: 0029-7844/13
+VOL. 121, NO. 1, JANUARY 2013 OBSTETRICS & GYNECOLOGY 159
+pregnant women from only those with an underlying
+high-risk medical condition to include healthy pregnant women in the second or third trimester of pregnancy.3,4 In 2004, the recommendation was further
+expanded to include pregnant women in any trimester.5 Current European guidelines also recommend
+the seasonal vaccination of all pregnant women,
+regardless of trimester.6,7
+Evidence supporting the safety of influenza vaccination in early pregnancy is sparse. Assessment of
+spontaneous abortion is difficult because the outcome
+is common and not always documented in medical
+records. Only three studies have assessed the effects of
+first trimester seasonal influenza vaccination on pregnancy outcomes, and these studies followed-up a combined total of 65 women who received first trimester
+vaccination.8–10 A fourth study included 650 women
+who were immunized with seasonal influenza vaccine
+in the first trimester, but losses occurring before 20
+weeks of gestation were excluded from the analysis.11,12
+Several studies have assessed pregnancy outcomes after
+seasonal influenza vaccination in the second or third
+trimester, and no increased risk of adverse events has
+been detected.11,13–16 The safety of several pandemic
+influenza A (H1N1) vaccines administered during
+pregnancy recently has been evaluated, but these studies also were limited in their ability to examine first
+trimester administration or spontaneous abortion.17,18
+We conducted a case-control study to estimate the relationship between influenza immunization and confirmed spontaneous pregnancy loss occurring at or
+before 16 weeks of gestational age.
+MATERIALS AND METHODS
+Participants in this case-control study were enrolled in
+one of six Vaccine Safety Datalink health care
+organizations: Group Health Cooperative, Seattle,
+Washington; HealthPartners, Minneapolis, Minnesota; Kaiser Permanente Colorado, Denver, Colorado;
+Marshfield Clinic, Marshfield, Wisconsin; Kaiser
+Permanente Northwest, Portland, Oregon; and Southern California Kaiser Permanente, Pasadena, California.19 The study was approved by the Institutional
+Review Boards of each organization.
+Ambulatory, urgent care, emergency department,
+and inpatient records were searched for relevant
+International Classification of Diseases, 9th Revision,
+Clinical Modification diagnosis codes (634 [spontaneous abortion], 637 [unspecified abortion]) to identify
+potential cases of spontaneous abortion. Codes
+assigned from October 25, 2005 to February 4,
+2006, and from October 22, 2006 to February 3,
+2007, were included to maximize the potential for
+influenza vaccine exposure in early pregnancy. These
+dates maximized inclusion of women who conceived
+in the autumn, when influenza vaccine is commonly
+administered in the United States (Fig. 1).
+All potential cases of spontaneous abortion identified through electronic diagnosis codes were manually reviewed by trained abstractors. Confirmation of
+spontaneous abortion required medical record documentation of intrauterine pregnancy and evidence of
+natural or spontaneous fetal demise; cases of therapeutic abortion were excluded. Women were eligible
+for the study if they were aged 18–44 years at the time
+of pregnancy loss, had documentation of last menstrual period (LMP) in the medical record, and had
+continuous enrollment in the health care organization
+for the 12 months preceding the spontaneous abortion
+diagnosis. The latter was applied to ensure that previous influenza vaccinations and chronic medical conditions would be captured in the medical record. The
+requirement for LMP documentation was included to
+allow individual matching of case group and control
+group participants by LMP (and thus approximate date
+of conception). Pregnancy losses through 16 weeks of
+gestation were included to capture potential events
+occurring after exposure to influenza vaccine during
+the first trimester.
+Control patients were eligible for inclusion in the
+study if they were aged 18–44 years at the time of
+delivery, had continuous enrollment in the health care
+organization for the 12 months preceding delivery,
+and had documentation of LMP in the medical
+record. Potential control group participants were randomly identified using International Classification of
+Diseases, 9th Revision, Clinical Modification codes
+specifying delivery assigned to encounters occurring
+August September October November December January February
+Documented last menstrual periods of cases and controls
+Dates of spontaneous abortion identified by ICD-9 code
+Documented dates of spontaneous abortion
+Documented dates of influenza vaccination
+July
+Fig. 1. Timeline illustrating date ranges
+for last menstrual periods, influenza
+vaccination, and spontaneous abortion.
+Irving. Influenza Vaccine and Spontaneous
+Abortion. Obstet Gynecol 2013.
+160 Irving et al Influenza Vaccine and Spontaneous Abortion OBSTETRICS & GYNECOLOGY
+from May 7, 2006 to September 2, 2006, and from
+May 6, 2007 to September 1, 2007. These periods
+allowed for conception within a similar timeframe as
+case group individuals and facilitated matching on
+LMP. Medical records were then abstracted for all
+potential control group participants, and only those
+with confirmation of intrauterine pregnancy and
+delivery beyond 20 weeks of gestation were eligible
+for inclusion in the analysis.
+Control group participants were initially frequency-matched to case group participants based on
+LMP strata (2-week intervals) and health care organization. Within each LMP interval, the case group and
+control group participants were individually matched
+based on closest LMP. Matching on LMP and
+organization was performed to ensure that case group
+and control group participants had similar opportunity for influenza vaccine exposure in early
+pregnancy.
+The exposures of interest were the 2005–2006
+and 2006–2007 seasonal trivalent inactivated influenza vaccines, with receipt documented in the medical
+record. The primary exposure window for case group
+and control group participants within each matched
+pair was the 28-day period preceding the date of spontaneous abortion within the matched pair. The 28-day
+window was chosen based on the known immunologic effects of influenza vaccine that occur within
+2–4 weeks after vaccination.20
+Case group participants were defined by the
+natural or spontaneous loss of an embryo or fetus.
+Date of spontaneous abortion was determined using
+ultrasound data when available. For those case group
+participants in whom ultrasound dating was unavailable, date of loss was based on clinical diagnosis.
+Ultrasound dating provides a more precise determination of date of pregnancy loss than clinical diagnosis, which is dependent on presentation of symptoms
+of loss, changes in blood test results over time, and
+health-seeking behavior of the mother. All cases of
+spontaneous abortion with an ultrasound scan displaying a gestational sac were adjudicated by an
+obstetrician (M.A.M.) who was blinded to the patient’s
+vaccination status to determine exact gestational age.
+For this group, date of spontaneous abortion was calculated as date of LMP plus gestational age (in days) at
+demise. Date of spontaneous abortion within each
+matched case-control pair was used as the reference
+date for analysis. Cases of spontaneous abortion
+occurring before 5 weeks of gestation were excluded
+from the final analyses because of increased difficulty
+in ascertaining accurate date of fetal demise and gestational age.
+We performed conditional logistic regression to
+estimate the association between spontaneous abortion and receipt of influenza vaccine in the 28-day
+exposure window, adjusting for the following potential confounders: maternal age; parity; maternal
+diabetes; and previous health care utilization. Age
+was included in the model as an unrestricted quadratic
+spline.21 Dichotomous variables were created for parity (none compared with one or more live births) and
+maternal diabetes (history of type 1 or 2 diabetes compared with no history). Health care utilization was
+defined as the number of days with an outpatient or
+inpatient encounter in the year before the LMP, and
+was included in the model as an unrestricted quadratic
+spline. Smoking status during pregnancy was examined in a preliminary model and determined not to be
+a confounder with vaccine exposure in our study population. Additionally, because smoking status was
+unavailable for at least one member of 31 (13%)
+matched pairs, we excluded smoking status from the
+final model to maximize sample size and power.
+Febrile illness in the first trimester, asthma, and hypertension also were evaluated as potential confounders
+but were not included in final adjusted models after
+also being ruled out as confounders.
+Our primary analysis included a three-level categorical variable for influenza vaccine exposure relative
+to the reference date of the matched pair (ie, the date
+of spontaneous abortion within the matched pair): 1)
+exposure 1–28 days before the reference date, 2) sameseason exposure more than 28 days before the reference date, and 3) unexposed as of the reference date.
+The unexposed category served as the referent group
+for both categories 1 and 2.
+A secondary analysis was performed examining
+the association between spontaneous abortion and
+influenza vaccine receipt relative to pregnancy status
+(preconception and postconception). This analysis
+also included a three-level categorical variable for
+influenza vaccine exposure: 1) exposure after conception and before reference date, 2) same-season exposure before conception, and 3) unexposed as of the
+reference date. The unexposed category served as the
+referent group for both categories 1 and 2. For this
+analysis, date of conception was estimated as LMP
+plus 14 days, and vaccine receipt before conception
+included influenza vaccine administered on or before
+the estimated date of conception. Conditional logistic
+regression models for this analysis adjusted for
+maternal age, parity, maternal diabetes, and health
+care utilization.
+When planning the study, we estimated that
+inclusion of 233 case group and 233 control group
+VOL. 121, NO. 1, JANUARY 2013 Irving et al Influenza Vaccine and Spontaneous Abortion 161
+individuals in the analysis would provide 80% power
+to detect an odds ratio (OR) of 2.0 or more, assuming
+12.8% vaccine exposure among control group participants overall and a50.05. It was difficult to estimate
+vaccination rates within the exposure window; therefore, seasonal estimates of influenza vaccine uptake
+among pregnant women were used. The proportion
+of control group participants receiving influenza vaccine was estimated based on data from the Centers for
+Disease Control and Prevention.22
+Univariate P values represent findings from
+paired t tests and Wilcoxon rank-sum tests for continuous variables or McNemar tests for dichotomous
+variables. All reported P values were based on twosided tests for significance, and P,.05 was considered
+statistically significant; SAS 9.2 was used for analyses.
+A temporal scan statistic was used to objectively evaluate whether vaccinations were clustered within any
+segment of the 8-week preconception period among
+women with spontaneous abortion.23,24
+RESULTS
+Three hundred eighty-six potential cases of spontaneous abortion were identified electronically; 255 cases
+were confirmed by medical record review and
+matched to control group participants. After excluding six pairs with unknown vaccination status, one
+pair with an invalid LMP, and five pairs with fetal
+demise at less than 5 weeks of gestation, 243 pairs
+were included in the final analysis. The number of
+cases identified at each health care organization
+ranged from 21 to 62. Two hundred (82%) case group
+participants had one or more ultrasound examinations; 153 of 200 ultrasound reports provided additional information to confirm the date of fetal demise.
+Case group and control group participants were
+similar in terms of health care utilization, previous
+spontaneous abortion, history of asthma, hypertension,
+and parity (Table 1). Women with spontaneous abortion were older than control group participants (mean
+age at LMP 31.7 years compared with 29.3 years;
+P,.001) and more likely to have insulin-dependent
+diabetes mellitus or noninsulin-dependent diabetes
+mellitus diagnosed (10 case group participants compared with one control group participant; P5.01).
+The mean pair-wise difference in LMP between case
+group participants and matched control group participants was 20.41 days (median 0 days, range 212 to
+14 days). The mean gestational age at fetal demise was
+7.8 weeks (range 5.0–16.6 weeks, median 7.1 weeks)
+based on ultrasound dating (if available) or date of
+clinical diagnosis (Fig. 2).
+Sixteen percent of case group participants and
+13% of control group participants received the sameseason influenza vaccine before the pair-specific
+reference date (Table 2); all vaccinations in our
+Table 1. Demographic and Medical Characteristics
+of Case and Control Group Participants
+Case Group
+Participants
+(n5243)
+Control Group
+Participants
+(n5243) P*
+Age at LMP (y) 31.766.0 29.365.4 ,.001
+No. of physician
+visits in the 12 mo
+before LMP
+3 (1–5) 2 (1–6) .30
+Parity
+0 84 (35) 88 (36) .86
+1 or more 156 (64) 154 (64)
+Unknown 3 (1) 1 (0)
+Previous
+spontaneous
+abortion
+Yes 80 (33) 66 (27) .15
+No 153 (63) 176 (72)
+Unknown 10 (4) 1 (0)
+Multiple gestations 4 (2) 2 (1) .38
+Febrile illness in first
+trimester
+5 (2) 4 (2) 1.00
+Smoked during
+pregnancy
+Yes 24 (10) 25 (10) 1.00
+No 195 (80) 212 (87)
+Unknown 24 (10) 6 (2)
+Diabetes 10 (4) 1 (0) .01
+Asthma 24 (10) 26 (11) .88
+Hypertension 10 (4) 9 (4) .81
+LMP, last menstrual period.
+Data are mean6standard deviation, median (interquartile range),
+or n (%) unless otherwise specified.
+* P calculated using paired t test, Wilcoxon signed rank test, and
+McNemar test.
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+5 6 7 8 9 10 11 12 13 14 15 16
+Cases (n)
+Gestational age (weeks)
+Fig. 2. Histogram of gestational age at spontaneous abortion.
+Irving. Influenza Vaccine and Spontaneous Abortion. Obstet Gynecol 2013.
+162 Irving et al Influenza Vaccine and Spontaneous Abortion OBSTETRICS & GYNECOLOGY
+analysis occurred before conception or in the first trimester. In unadjusted matched analyses, case group
+participants and matched control group participants
+did not differ in exposure during the 28-day exposure
+window (unadjusted matched OR 1.10, 95% confidence interval [CI] 0.53–2.29) or in overall exposure
+to same-season influenza vaccine (vaccination at any
+time before pair-specific reference date) (unadjusted
+matched OR 1.29, 95% CI 0.76–2.20).
+In the adjusted conditional logistic regression
+model, the matched OR for vaccine receipt in the
+primary 28-day exposure window was 1.23 (95% CI
+0.53–2.89; P5.63). The OR for exposure more than
+28 days before the reference date also was not statistically significantly increased (Table 3). This analysis
+was repeated using the subset of pairs in which the
+date of fetal demise was confirmed by ultrasonography (153 of 243 pairs; 63%). The adjusted matched
+OR for vaccination in the 28-day exposure window
+for this subset was 1.29 (95% CI 0.41–4.02).
+Secondary post hoc analyses were performed to
+examine the association between spontaneous abortion and the timing of influenza vaccination relative to
+estimated date of conception. Twenty-two case group
+participants and 11 control group participants
+received the influenza vaccine before conception.
+There were 24 discordant pairs for this analysis,
+including 17 pairs in which the case group participant
+was vaccinated before conception and the matched
+control group participant was not (unadjusted
+matched OR 2.55, 95% CI 1.06–6.11) (Table 3).
+In a logistic regression model that adjusted for
+age, health care utilization, maternal diabetes, and
+parity, the association between vaccine receipt before
+conception and spontaneous abortion was not significant (matched OR 2.34, 95% CI 0.86–6.33; P5.10).
+Among all case group participants, vaccination dates
+tended to cluster in the week before conception; seven
+women with spontaneous abortion received the influenza vaccine in this period compared with two control
+group participants (Fig. 3).
+We used a scan statistic to formally evaluate the
+distribution of vaccination in the preconception
+period. This analysis included 39 vaccinated women
+with spontaneous abortion (exposed case group participants). The null hypothesis was that the interval
+from vaccine receipt to date of conception was
+randomly distributed, ie, not clustered anywhere
+within the range of observed intervals. The observed
+range was vaccination 56 days before conception to
+55 days after conception. The scan statistic identified
+the cluster least likely due to chance as a 3-day
+window from 2 to 4 days before conception when 6
+of the 39 (15.4%) vaccinations occurred (P5.12).
+DISCUSSION
+The analysis reported here adds evidence to support
+the safety of influenza vaccination when administered
+during the first trimester. We found no statistically
+Table 2. Seasonal Influenza Vaccination Status of
+Case and Control Group Participants
+Case Group
+Participants
+(n5243)
+Control Group
+Participants
+(n5243) P*
+Vaccinated before
+reference date†
+38 (16) 31 (13) .42
+Vaccinated
+1–28 d before
+reference date
+16 (7) 15 (6) 1.00
+Vaccinated before
+conception‡
+22 (9) 11 (5) .04
+Data are n (% of case and control group participants) unless
+otherwise specified.
+* P calculated using McNemar test. † Reference date is the date of pregnancy loss within the case–
+control matched pair; all same-season vaccinations before this
+date were included. ‡ Conception defined as last menstrual period plus 14 days; all
+same-season vaccinations before this date were included.
+Table 3. Odds of Influenza Vaccination in Cases of Early Pregnancy Loss in Varying Exposure Windows as
+Compared With Control Group Participants
+No. of
+Discordant Pairs
+Crude
+Odds Ratio
+Adjusted
+Odds Ratio*
+95% Confidence
+Interval P
+Primary analysis
+Exposed 1–28 d before reference date 27 1.10 1.23 0.53–2.89 .63
+Exposed more than 28 d before reference date 28 1.51 1.24 0.54–2.86 .61
+Secondary analysis
+Exposed while pregnant† 31 0.80 0.80 0.36–1.78 .58
+Exposed before pregnant‡ 24 2.55 2.34 0.86–6.33 .10
+* Adjusted for maternal age (spline), maternal diabetes, parity, and health care utilization (spline). † Exposed after date of conception, defined as last menstrual period plus 14 days.
+‡ Exposed to same-season influenza vaccine before conception, including date of conception (last menstrual period plus 14 days).
+VOL. 121, NO. 1, JANUARY 2013 Irving et al Influenza Vaccine and Spontaneous Abortion 163
+significant association between pregnancy loss occurring between 5 and 16 weeks of gestation and
+influenza vaccination in a 28-day exposure window,
+predefined based on the period of maximum immune
+response to the vaccine.
+The risk of spontaneous abortion after receiving
+a seasonal influenza vaccine has not been thoroughly
+examined in existing literature. Previous studies did not
+detect an increased risk of spontaneous abortion, but
+were limited in size or timing of vaccine administration,
+or excluded spontaneous abortion as an outcome
+measure.8–12 Pasternak et al25 recently evaluated fetal
+loss after receipt of pandemic influenza vaccine in a large
+register-based cohort study. Although this study examined a novel, adjuvanted vaccine, it also found no association between vaccination and spontaneous abortion.
+The availability and use of seasonal influenza
+vaccine vary greatly by season and month, and time is
+a potential source of confounding in any observational study of influenza vaccine safety in pregnancy.
+In this analysis, pregnant women were tightly
+matched based on date of LMP as reported in the
+medical record. The median pair-wise difference in
+date of LMP was less than 0.5 days. This limited the
+potential for differential access to influenza vaccination based on calendar time. Other strengths of the
+study include the use of geographically diverse
+populations via six health care organizations across
+the United States, medical confirmation of pregnancy
+for all study participants, medical confirmation of
+spontaneous abortion, and examination and inclusion
+of potential confounders in the analysis.
+We performed a post hoc analysis using an
+exposure window defined by estimated date of
+conception (LMP plus 14 days). Although the point
+estimate was increased, there was no statistically
+significant association between spontaneous abortion
+and influenza vaccine receipt before conception when
+all 243 pairs were included in the analysis. Temporal
+clustering was greatest in the window 2–4 days before
+estimated date of conception, but this also was not
+statistically significant. An increased risk after preconception vaccination could be biologically plausible,
+because humoral and cell-mediated immune response
+occurs 7–14 days after vaccination; however, the
+actual mechanism by which the immune response
+would result in fetal demise is unknown.26–28 This
+study was not designed to examine vaccine exposure
+before conception, and further research could address
+this question in greater detail.
+There are several limitations of this study that
+should be considered. It is important to note that this
+study was powered to exclude only a minimum of
+twofold increase in risk. A smaller increase may not
+have been identified. We examined only the association between influenza vaccination and spontaneous
+abortion; therefore, no conclusions can be drawn
+regarding other adverse pregnancy outcomes. Because
+we examined exposure within an exposure window,
+precisely defining the window was critically important.
+This required accurate determination of the date of
+spontaneous abortion, which was used to define the
+28-day exposure window. Although spontaneous abortion was confirmed by medical record review, determining the exact date of loss can be difficult, because
+clinical presentation and diagnosis do not always align
+with timing of fetal demise. Ultrasound reports allowed
+calculation of gestational age at demise to the day, but
+these were unavailable for 18% of case group participants and did not provide useful information for
+another 19% (eg, report of empty uterus on date of
+clinical diagnosis). However, as noted, results from the
+primary analysis were similar when restricted to
+women with ultrasound confirmation.
+Misclassification of vaccine exposure is possible if
+women received influenza vaccines outside the health
+plans. We could not assess this, but it is likely that
+most insured pregnant women receive influenza
+vaccines from health care providers rather than retail
+outlets or public health clinics. Any vaccines administered outside the health plan would be captured in
+this study if they were reported to the provider and
+captured in the medical record. Given the universal
+recommendation for vaccination, providers either
+should have administered the vaccine or should have
+asked about previous same-season receipt, which then
+would have been documented in the medical record.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Women vaccinated (n)
+87654321
+Weeks before conception (n)
+Last menstrual period
+Conception
+Cases
+Controls
+Fig. 3. Receipt of influenza vaccine in case and control
+patients before conception. Date of conception was estimated as date of last menstrual period plus 14 days.
+Irving. Influenza Vaccine and Spontaneous Abortion. Obstet Gynecol 2013.
+164 Irving et al Influenza Vaccine and Spontaneous Abortion OBSTETRICS & GYNECOLOGY
+Other limitations include the inability to assess
+differences by vaccine manufacturer, race or ethnicity,
+and the insufficient power to assess risk in women
+with chronic medical conditions. As is the case with all
+observational studies, unmeasured confounding may
+have occurred; we were unable to examine body mass
+index and potential exposures such as prescription or
+recreational drug use or alcohol intake, for example.
+Finally, this study examined spontaneous abortion
+identified in the medical setting. Our results may not
+be representative of loss never brought to medical
+attention, if those pregnancies differ systematically.
+We found no statistically significant increase in
+the risk of pregnancy loss in the 4 weeks after seasonal
+inactivated influenza vaccination. However, our sample size was not large enough to rule out any increase
+in risk. Although the results of this study support the
+current Advisory Committee on Immunization Practices recommendations for influenza vaccination during all trimesters of pregnancy, further research on the
+safety of influenza vaccine in pregnant women and
+other high-risk groups should remain a priority,
+including further assessment of pregnancy outcomes.
+REFERENCES
+1. Harris JW. Influenza occurring in pregnant women: a statistical
+study of thirteen hundred and fifty cases. JAMA 1919;72:
+978–80.
+2. Freeman DW, Barno A. Deaths from Asian influenza associated
+with pregnancy. Am J Obstet Gynecol 1959;78:1172–5.
+3. Recommendations for prevention and control of influenza. Ann
+Intern Med 1986;105:399–404.
+4. Prevention and control of influenza: recommendations of
+the Advisory Committee on Immunization Practices (ACIP).
+MMWR Recomm Rep 1997;46:1–25.
+5. Harper S, Fukuda K, Uyeki T, Cox N, Bridges C. Prevention
+and control of influenza. MMWR Recomm Rep 2004;53:1–40.
+6. Seasonal Flu Programme, Immunisation Branch. Seasonal Flu
+Plan 2012/13. London (UK): Department of Health; 2012.
+7. National Immunisation Advisory Committee. Immunisation
+guidelines for Ireland. Dublin (Ireland): Royal College of Physicians of Ireland; 2011.
+8. Deinard AS, Ogburn P. A/NJ/8/76 influenza vaccination program: effects on maternal health and pregnancy outcome. Am
+J Obstet Gynecol 1981;140:240–5.
+9. Hulfka JF. Effectiveness of polyvalent influenza vaccine in pregnancy. Report of a controlled study during an outbreak of Asian
+influenza. Obstet Gynecol 1964;23:830–7.
+10. Murray DL, Imagawa DT, Okada DM, St Geme JW. Antibody
+response to monovalent A/New Jersey/8/76 influenza vaccine
+in pregnant women. J Clin Microbiol 1979;10:184–7.
+11. Heinonen OP, Shapiro S, Monson RR, Hartz SC, Rosenberg L,
+Slone D. Immunization during pregnancy against poliomyelitis
+and influenza in relation to childhood malignancy. Int J Epidemiol
+1973;2:229–35.
+12. Heinonen OP, Slone D, Shapiro S. Immunizing agents. In:
+Kaufman DW, editor. Birth defects and drugs in pregnancy.
+Boston (MA): Littleton Publishing Sciences Group; 1977.
+13. Zaman K, Roy E, Arifeen SE, Rahman M, Raqib R, Wilson E,
+et al. Effectiveness of maternal influenza immunization in mothers and infants. N Engl J Med 2008;359:1555–64.
+14. France EK, Smith-Ray R, McClure D, Hambidge S, Xu S,
+Yamasaki K, et al. Impact of maternal influenza vaccination
+during pregnancy on the incidence of acute respiratory illness
+visits among infants. Arch Pediatr Adolesc Med 2006;160:
+1277–83.
+15. Munoz FM, Greisinger AJ, Wehmanen OA, Mouzoon ME,
+Hoyle JC, Smith FA, et al. Safety of influenza vaccination during pregnancy. Am J Obstet Gynecol 2005;192:1098–106.
+16. Sumaya CV, Gibbs RS. Immunization of pregnant women with
+influenza A/New Jersey/76 virus vaccine: reactogenicity and
+immunogenicity in mother and infant. J Infect Dis 1979;140:
+141–6.
+17. Pasternak B, Svanström H, Mølgaard-Nielsen D, Krause TG,
+Emborg HD, Melbye M, et al. Risk of adverse fetal outcomes
+following administration of a pandemic influenza a(h1n1) vaccine during pregnancy. JAMA 2012;308:165–74.
+18. Tavares F, Nazareth I, Monegal JS, Kolte I, Verstraeten T,
+Bauchau V. Pregnancy and safety outcomes in women vaccinated with an AS03-adjuvanted split virion H1N1(2009) pandemic influenza vaccine during pregnancy: a prospective
+cohort study. Vaccine 2011;29:6358–65.
+19. Baggs J, Gee J, Lewis E, Fowler G, Benson P, Lieu T, et al. The
+vaccine safety Datalink: a model for monitoring immunization
+safety. Pediatrics 2011;127(suppl 1):S45–53.
+20. Ohfuji S, Fukushima W, Deguchi M, et al. Immunogenicity of
+a monovalent 2009 influenza a (H1N1) vaccine among pregnant women: lowered antibody response by prior seasonal vaccination. J Infect Dis 2011;203:1301–8.
+21. Greenland S. Dose-response and trend analysis in epidemiology: alternatives to categorical analysis. Epidemiology 1995;6:
+356–65.
+22. Prevention and control of influenza: recommendations of the
+Advisory Committee on Immunization Practices (ACIP), 2008.
+MMWR Recomm Rep 2008;57:1–60.
+23. Kulldorf M; Information Management Services I. SaTScan v9.1.
+1: software for the spatial and space-time scan statistics. Available
+from: http://www.satscan.org/. Retrieved November 28, 2012.
+24. Kulldorff M. A spatial scan statistic. Commun Stat Theory
+Methods 1997;26:1481–96.
+25. Pasternak B, Svanström H, Mølgaard-Nielsen D, Krause TG,
+Emborg HD, Melbye M, et al. Vaccination against pandemic
+A/H1N1 2009 influenza in pregnancy and risk of fetal death:
+cohort study in Denmark. BMJ 2012;344:e2794.
+26. Cox RJ, Brokstad KA, Zuckerman MA, Wood JM,
+Haaheim LR, Oxford JS. An early humoral immune response
+in peripheral blood following parenteral inactivated influenza
+vaccination. Vaccine 1994;12:993–9.
+27. Halliley JL, Kyu S, Kobie JJ, Walsh EE, Falsey AR, Randall TD,
+et al. Peak frequencies of circulating human influenza-specific
+antibody secreting cells correlate with serum antibody response
+after immunization. Vaccine 2010;28:3582–7.
+28. Subbramanian RA, Basha S, Shata MT, Brady RC, Bernstein DI.
+Pandemic and seasonal H1N1 influenza hemagglutinin-specific
+T cell responses elicited by seasonal influenza vaccination.
+Vaccine 2010;28:8258–67.
+VOL. 121, NO. 1, JANUARY 2013 Irving et al Influenza Vaccine and Spontaneous Abortion 165

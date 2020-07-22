@@ -1,0 +1,818 @@
+﻿Effectiveness of Pandemic H1N1 Vaccine Against
+Influenza-Related Hospitalization in Children
+WHAT’S KNOWN ON THIS SUBJECT: In Canada, children 6
+months to 9 years old were recommended to receive 2 half-adult
+(0.25 mL) doses of AS03-adjuvanted pandemic influenza A/H1N1
+vaccine. A single dose was highly immunogenic and protective
+against infection in children, but protection against
+hospitalization is unknown.
+WHAT THIS STUDY ADDS: Results indicate that a single half-adult
+dose of AS03-adjuvanted pandemic influenza A/H1N1 vaccine is
+highly protective against hospitalization in children aged 6
+months to 9 years. Protection was substantial 10 days after a
+single dose (additional marginal increase at 14 days).
+abstract +
+OBJECTIVE: Young children are generally considered immunologically
+naive with respect to influenza exposure opportunities; thus, a 2-dose
+schedule is recommended when a child is first immunized with conventional influenza vaccine lacking adjuvant.We estimatedthe effectiveness of
+a single pediatric dose of AS03-adjuvanted vaccine against hospitalization
+for confirmed pandemic influenza A/H1N1 (pH1N1) infection in children
+aged 6 months to 9 years during the fall 2009 vaccination campaign.
+METHODS: In a matched case-control design, case subjects were children
+hospitalized for pH1N1 infection in the Fall of 2009, in Quebec, Canada.
+Controls were nonhospitalized children, matched by age and region of
+residence. Vaccination status in case subjects and controls was ascertained in relation to the case subject’s date of illness onset. Vaccine effectiveness was estimated through conditional logistic regression.
+RESULTS: The overall effectiveness of a single pediatric dose of vaccine administered 14 days before illness onset was 85% (95% confidence interval [CI]: 61% to 94%), varying according to age category but
+with wide and overlapping CIs: 92% (95% CI: 51% to 99%) in 6 –23
+month-old children, 89% (95% CI: 34% to 98%) in 2– 4 year-olds, and
+79% (95% CI: 31% to 96%) in 5–9 year-olds. Overall vaccine effectiveness for immunization 10 days before illness onset was slightly
+lower at 80% (95% CI: 60% to 90%), with similar variation according to
+age.
+CONCLUSION: In children aged 6 months to 9 years, a single pediatric
+dose of the AS03-adjuvanted pH1N1 vaccine was highly protective
+against hospitalization beginning at 10 and 14 days after vaccination.
+Pediatrics 2011;128:e1084–e1091
+AUTHORS: Rodica Gilca, MD, PhD,a,b,c Geneviève
+Deceuninck, MD, MSc,b Gaston De Serres, MD, PhD,a,b,c
+Nicole Boulianne, MSc,a,b Chantal Sauvageau, MD, MSc,
+FRCPC,a,b,c Caroline Quach, MD, MSc, FRCPC,d François D.
+Boucher, MD, FRCPC,e,f and Danuta M. Skowronski, MD,
+MHScg,h
+aInstitut National de Santé Publique du Québec, Quebec City,
+Quebec, Canada; bPublic Health Research Unit, Quebec University
+Hospital Centre, Quebec City, Quebec, Canada; c
+Department of
+Social and Preventive Medicine, Faculty of Medicine, Laval
+University, Quebec City, Quebec, Canada; dInfectious Diseases
+Division, Department of Pediatrics, The Montreal Children’s
+Hospital, McGill University, Montreal, Quebec, Canada;
+e
+Department of Paediatrics, Quebec University Hospital Centre,
+Quebec City, Quebec, Canada; f
+Department of Pediatrics, Faculty
+of Medicine, Laval University, Quebec City, Quebec, Canada;
+gEpidemiology Services, British Columbia BC Centre for Disease
+Control, Vancouver, British Columbia, Canada; and hSchool of
+Population and Public Health, University of British Columbia,
+Vancouver, British Columbia, Canada
+KEY WORDS
+pandemic influenza, influenza vaccine, effectiveness, children,
+hospitalization
+ABBREVIATIONS
+pH1N1—pandemic influenza A/H1N1
+CDC—Centers for Disease Control and Prevention
+RT-PCR—reverse-transcription polymerase chain reaction
+ILI—influenza-like illness
+VE—vaccine effectiveness
+CI—confidence interval
+TIV—trivalent inactivated influenza vaccine
+Drs Gilca, Deceuninck, De Serres, Skowronski, and Sauvageau
+and Ms Boulianne made substantial contributions to conception
+and design; Drs Gilca and De Serres and Ms Boulianne
+performed acquisition of the data; Drs Deceuninck and Gilca
+conducted data analysis; all authors performed interpretation of
+the data; and Dr Gilca drafted the article. All authors revised the
+manuscript critically for important intellectual content and
+approved the final version of the manuscript.
+www.pediatrics.org/cgi/doi/10.1542/peds.2010-3492
+doi:10.1542/peds.2010-3492
+Accepted for publication Jul 12, 2011
+Address correspondence to Rodica Gilca, MD, PhD, Institut
+National de Santé Publique du Québec, 2400 d’Estimauville,
+Quebec, Quebec, Canada G1E 7G9. E-mail: rodica.gilca@ssss.
+gouv.qc.ca
+PEDIATRICS (ISSN Numbers: Print, 0031-4005; Online, 1098-4275).
+Copyright © 2011 by the American Academy of Pediatrics
+FINANCIAL DISCLOSURE: Dr Gilca has received research
+funding from the Quebec Ministry of Health for this study and
+research funding from Pfizer for unrelated study; Dr De Serres
+has received research grants from Sanofi Pasteur and
+(Continued on last page)
+e1084 GILCA et al Downloaded from pediatrics.aappublications.org at UNIV OF PITTSBURGH, HSLS on June 2, 2015
+As with previous influenza pandemics,
+the 2009 –2010 pandemic of influenza
+A/H1N1 (pH1N1) showed a more youthful epidemiologic profile compared
+with seasonal strains. Children experienced higher attack rates than adults;
+those younger than 10 years, especially the very young, were more frequently admitted to hospital.
+In the province of Quebec (population
+7.8 million), the second wave of the
+2009 pandemic began the week of October 4 (Centers for Disease Control
+and Prevention [CDC] week 40),
+peaked the week of November 12
+(week 45), and was essentially ended
+by December 19 (week 50) (Fig 1). Vaccination of children aged 6 months to 4
+years started November 2 (week 44)
+along with that of patients aged 6
+months to 64 years with chronic medical conditions, and the families of infants younger than 6 months or with
+immunodeficiency. Children 5 to 19
+years old without chronic medical conditions were vaccinated beginning November 12 (week 45); vaccination then
+proceeded to all persons aged 65
+years and older and to the rest of the
+population. By the end of CDC weeks 44,
+46, and 50, the vaccine coverage in
+children younger than 10 years increased from 27% to 60% and 77%,
+respectively.
+In contrast to the United States, where
+adjuvanted vaccine was not available
+during the pandemic, in Canada, a
+monovalent AS03-adjuvanted pH1N1
+vaccine was selected as the primary
+formulation and constituted 95% of
+all pandemic vaccine doses administered.1 Arepanrix (GlaxoSmithKline,
+Sainte-Foy, Quebec, Canada) is an inactivated, split-virion vaccine consisting
+of a pH1N1 immunizing antigen (as a
+suspension) and an AS03 adjuvant (as
+an oil in water emulsion comprising
+DL--tocopherol, squalene, and polysorbate 80).2 Pediatric trials with the
+AS03-adjuvanted vaccine produced in
+Quebec (n  60)3 and in Dresden, Germany (n  101)4 demonstrated substantial vaccine-induced antibody response 21 days after single-dose
+immunization (0.25 mL containing 1.9
+g of hemagglutinin) and half the
+adult dose of adjuvant, with seroprotection and seroconversion rates
+each exceeding 90% among immunized participants younger than 10
+years.
+On the basis of these immunogenicity
+findings, and balancing also the higher
+rate of adverse reactions observed after the second dose of vaccine as well
+as the limited availability of even a single dose for all target groups in the
+initial stages of the immunization campaign, a single pediatric dose of the
+adjuvanted pH1N1 vaccine was recommended for children aged 6 months to
+9 years in Quebec.5 To evaluate this policy recommendation, provincial authorities mandated an epidemiologic
+investigation of the effectiveness of a
+single dose of adjuvanted pH1N1 vaccine in preventing hospitalization in
+children.
+METHODS
+Participants
+Laboratory-confirmed pH1N1 hospitalization (24 hours’ duration) was a
+notifiable condition during the pandemic in Quebec. All hospitalized patients with suspected pH1N1 infection
+were tested for influenza by reversetranscription polymerase chain reaction (RT-PCR), and results were recorded in the provincial registry. In
+this case-control study, Quebec residents aged 6 months to 9 years hospitalized with laboratory-confirmed
+pH1N1 infection between November 12
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+40 (Oct 4-10)
+41 (Oct 11-17)
+42 (Oct 18-24)
+43 (Oct 25-31)
+44 (Nov 1-7)
+45 (Nov 8-14)
+46 (Nov 15-21)
+47 (Nov 22-28)
+48 (Nov 29-Dec 5)
+49 (Dec 6 - 12)
+50 (Dec 13-19)
+CDC weeks
+No. of hospitalized pH1N1 cases included
+in the study
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+Percentage of positive pH1N1 tests in Quebe
+and cumulative percentage of vaccinated children
+Study cases disease onset
+Percentage of positive pH1N1 tests in Quebec
+Cumulative vaccination coverage in children under
+10 y in Quebec
+FIGURE 1
+pH1N1 vaccination coverage in children younger than 10 years in Quebec, positive pH1N1 tests, and number of study cases (children hospitalized for pH1N1)
+according to CDC week.
+ARTICLES
+PEDIATRICS Volume 128, Number 5, November 2011 e1085 Downloaded from pediatrics.aappublications.org at UNIV OF PITTSBURGH, HSLS on June 2, 2015
+(week 45, 10 days after the start of vaccination in children) and December 19
+(week 50, end of the second wave in
+Quebec) were eligible as case subjects. Those living in the 2 northernmost regions were excluded for practical considerations. Identified case
+subjects had been hospitalized in 42
+facilities (33% in 4 pediatric hospitals).
+Controls were selected from the provincial health insurance registry,
+which includes all citizens and immigrants residing in Quebec. Controls
+were matched to their case subject by
+date of birth (3 months for children
+6 –23 months and 6 months for older
+children) and by 1 of the 16 administrative areas of residence. For each case,
+15 potential controls were selected at
+random from the health insurance
+registry. Children who had a
+laboratory-confirmed pH1N1 infection
+before the start of the vaccination
+campaign, or before the date of vaccination of their matched case, were excluded as potential controls.
+Trained interviewers administered a
+standardized telephone questionnaire
+to parents of case subjects and controls, after receiving their verbal consent, between March 25 and June 3,
+2010. Up to 5 attempts were made to
+reach potential study participants, at
+different times of the day and week,
+including weekends, until 3 matched
+controls for each case were reached.
+Data collected included demographic
+characteristics, pH1N1 and seasonal
+2008 –2009 influenza vaccination status,
+any influenza-like illness (ILI) whether
+medically attended or not and defined as
+fever and cough or sore throat during
+the first and the second pandemic wave
+(for case subjects defined as ILI before
+onset of the pH1N1 infection for which
+they were admitted), presence of
+chronic underlying medical conditions
+as defined by the National Advisory Committee on Immunization,6 and other covariates as listed in Table 1. The type of
+pandemic vaccine and date of vaccination were validated through linkage to
+the provincial electronic pandemic
+vaccination registry. The absence of
+confirmed pH1N1 infection in controls
+was verified using the provincial registry of all confirmed pH1N1 case subjects. Among the 4680 potential controls provided by the health insurance
+board, 31 (0.66%) had laboratoryconfirmed pH1N1 infection.
+This study was conducted as a legally
+mandated emergency public health investigation and research ethics board
+approval was therefore not required.
+Vaccination Status
+Vaccination status was defined for each
+hospitalized case subject and corresponding 3 matched controls in relation
+to the date of illness onset of the case
+(reference date). For the primary analysis, a child was considered immunized if
+the pH1N1 vaccine had been given 14
+TABLE 1 Characteristics of Children Hospitalized for Influenza pH1N1 (Cases) and Age- and RegionMatched Control Subjects
+Cases
+(N  221), %
+Controls
+(N  663), %
+Pa
+Age
+Mean (median), mo 40.6 (33.2) 39.3 (31.6)
+6–23 mo 33.9 33.9 NA
+2–4 y 39.8 39.8
+5–9 y 26.2 26.2
+Male gender 56.6 52.3 .27
+Symptoms onset
+CDC week 43 0.5 NA NA
+CDC week 44 6.8
+CDC week 45 52.5
+CDC week 46 32.6
+CDC week 47 6.3
+CDC week 48 1.4
+Preexisting underlying conditions 24.0 5.0 .001
+ILIb
+During wave 1 5.9 2.3 .01
+During wave 2 4.1 11.6 .002
+Seasonal 2008–2009 influenza vaccine
+Received seasonal 2008–2009 influenza vaccine 37.6 22.3 .001
+Not applicable (6 mo in January 2009) 17.2 16.7
+By underlying conditions
+Among children with underlying conditions
+(53 cases, 33 controls)
+54.7 36.4 .9985
+Among children without underlying conditions
+(168 cases, 630 controls)
+32.1 21.6 .003
+Child care 61.5 64.7 .20
+No. of family members
+3 28.1 39.2
+4 50.2 43.6 .05
+5 21.7 17.0
+No. of siblings 5 y in family
+0 7.2 7.8
+1 38.9 51.7 .001
+2 53.8 40.3
+Smoking in the house 11.8 11.8 .9999
+Mother education
+High school 29.0 26.5
+Nonuniversity certificate/diploma 33.5 34.4 .47
+University 34.4 37.6
+NA indicates not available.
+a P values were computed by conditional logistic regression, which takes into account the matching between cases and
+controls.
+b Defined as fever and cough or sore throat as reported by participants, not necessarily medically attended.
+e1086 GILCA et al Downloaded from pediatrics.aappublications.org at UNIV OF PITTSBURGH, HSLS on June 2, 2015
+days before the reference date; for the
+secondary analysis, the interval was set
+at 10 days. Children were classified as
+unvaccinated if they had received no
+pH1N1 vaccination before the reference
+date. Category indicator variables were
+created inclusive of children who receivedthe vaccine 0to 13 days (0 –9 days
+inthe secondary analysis) beforethe reference date.
+Statistical Analysis
+Analyses were based on conditional logistic regression. Vaccine effectiveness (VE) was defined as 1-odds ratio
+for hospitalization with laboratoryconfirmed pH1N1 illness among vaccinated compared with unvaccinated
+subjects. A model containing factors
+that were associated with hospitalization risk with a P  .05 in univariate
+conditional logistic regression and potential confounders that modified the
+point estimate for VE by at least 5%
+was developed by excluding variables
+in a stepwise process. Analysis was
+performed for all age groups and
+stratified for children aged 6 to 23
+months, 2 to 4 years, and 5 to 9 years.
+Analyses were performed with SAS 9.1
+(SAS Institute, Inc, Cary, NC). A P value
+of .05 was considered significant.
+RESULTS
+Participation
+Between November 12 and December
+19, 2009, a total of 284 pH1N1 hospitalized case subjects 6 months to 9 years
+old were identified. Telephone numbers were available for 278 (99%) but
+244 (88%) of them were reached. Of
+these, 23 were excluded: 8 were living
+in the 2 northernmost regions; 4 were
+youngerthan 6 months atthe start ofthe
+vaccination campaign; 1 received 2 vaccine doses; 1 refused participation; 1
+was not able to speak English or French;
+4 were hospitalized for other reasons
+with coincident pH1N1 detection; and 4
+had symptom onset 14 days before
+hospitalization. The final sample included 221 hospitalized case subjects.
+Telephone numbers were available for
+78% (n  798) of the potential controls, but 34 telephone numbers were
+incorrect and 61 never responded.
+Among the 704 (88%) potential controls reached, 41 were excluded: 26
+(4%) refused to participate; 1 had been
+hospitalized for pH1N1; 1 had a confirmed pH1N1 infection before the date
+of vaccination of the matched case
+subject, 1 had received 2 doses of vaccine; 12 were excluded because of exclusion of the matched case subject.
+The final sample included 663 age- and
+region-matched controls.
+Baseline Characteristics and
+Covariates
+The characteristics of the hospitalized
+case subjects and their community
+controls are shown in Table 1 (Supplemental Table 4 for data according to
+age group). For nearly 60% of the case
+subjects, symptom onset occurred before CDC week 46; that is, 2 weeks
+after the start of the vaccination campaign (52% in CDC week 45 alone).
+pH1N1 Vaccination Status
+When no reference was made to the
+date of onset of illness, 62% of case
+subjects and 82% of controls had received the pandemic vaccine. In accordance with the prioritization schedule,
+for both case subjects and controls,
+vaccination was received earlier in
+children with underlying conditions
+rather than without underlying conditions and in younger (aged 6 –23
+months and 2– 4 years) rather than
+older children (aged 5–9 years) (Supplemental Fig 3). The vaccine was received before the reference date, by
+59.3% of case subjects and 56.0% of
+controls. Vaccination within 10 days of
+the reference date was more frequent
+for case subjects than controls (51.1%
+and 34.4%), whereas the reverse was
+seen for intervals of 10 days (8.1%
+and 21.6%) or 14 days (4.1% and
+9.5%) (Table 2). A protective effect of
+TABLE 2 Proportion of Vaccinated Cases and Controls
+pH1N1 Vaccine Cases
+(N  221), %
+Controls
+(N  663), %
+Received pH1N1 vaccine before reference date, totala 59.3 56.0
+Interval between vaccination and reference datea
+0–9 d 51.1 34.4
+10 d 8.1 21.6
+14 d 4.1 9.5
+Among children with underlying conditions (53
+cases, 33 controls) any time
+66.0 72.7
+10 d 11.3 15.2
+14 d 7.5 8.8
+Among children without underlying conditions (168
+cases, 630 controls) any time
+57.1 55.2
+10 d 7.1 21.9
+14 d 3.0 9.5
+According to age
+6–23 mo
+10 d 8.0 31.1
+14 d 4.0 13.3
+2–4 y
+10 d 5.7 19.7
+14 d 3.4 7.6
+5–9 y
+10 d 12.1 12.1
+14 d 5.2 7.5
+a The vaccination status for matched controls was determined depending on the date of reference (corresponding to
+disease onset of their case).
+ARTICLES
+PEDIATRICS Volume 128, Number 5, November 2011 e1087 Downloaded from pediatrics.aappublications.org at UNIV OF PITTSBURGH, HSLS on June 2, 2015
+vaccination was observed starting at
+day 9 after vaccination (Fig 2).
+pH1N1 VE Estimation
+Because 60% of the cases occurred
+2 weeks after the beginning of the
+immunization campaign targeting children, a large number of the 221 sets
+were concordant (almost exclusively
+because children were all unvaccinated: among the 175 concordant sets,
+99% were unvaccinated, 1% were vaccinated). In conditional analysis, only
+case-control sets discordant for the
+exposure of interest (vaccination) contribute to computations.7 For vaccination 14 days before the date of reference, 46 of the 221 sets were
+discordant; for an interval 10 days,
+91 sets were discordant (Supplemental Table 5).
+Unadjusted overall pH1N1 VE in preventing hospitalization when given at
+least 14 days before illness onset was
+77% (95% confidence interval [CI]: 40%
+to 91%) (Table 3). Adjusting for underlying medical conditions, seasonal
+2008 –2009 trivalent inactivated influenza vaccine (TIV) receipt, and presence of 2 siblings aged 5 years and
+younger in the family increased the VE
+to 85% (95% CI: 61% to 94%). Point estimates for VE according to age strata
+were similar, with widely overlapping
+CIs (Table 3).
+Fully adjusted pH1N1 VE in preventing
+hospitalization when given at least 10
+days before illness onset was 81%
+(95% CI: 60% to 91%).
+In different sensitivity analyses (restricted to children who did not report
+ILI; to children without underlying medical conditions; excluding children who
+received the vaccine within 14 [or 10]
+days of illness onset in the case, or
+considering them as unvaccinated)
+(Supplemental Table 6), overall VE
+estimates remained essentially the
+same.
+There was an association between previous 2008 –2009 TIV receipt and pH1N1
+risk. The odds ratio for 2008 –2009 TIV
+effect on risk of confirmed pH1N1 hospitalization in the fully adjusted model
+was 2.18 (95% CI: 1.45 to 3.27). When
+restricted to participants who did not
+receive pH1N1 vaccine and adjusted
+for the presence of at least 1 underlying medical condition and presence of
+2 siblings aged 5 years or younger in
+the family, the odds ratio was 3.88
+(95% CI: 1.57 to 9.60). This pattern was
+maintained when restricted to children without an underlying medical
+condition (72 case subjects/283 controls): odds ratio  6.0 (95% CI: 2.00 to
+18.2).
+DISCUSSION
+To our knowledge, this is the first study
+to estimate the effectiveness of a sin-
+-100%
+-50%
+0%
+50%
+100%
+0-1
+2
+3
+4
+5 6 7 8 9 10 11 12 13 ≥14
+Interval, d
+Vaccine effectiveness
+FIGURE 2
+Exploratory analysis of pH1N1 VE (adjusted for presence of at least 1 underlying medical condition, seasonal 2008 –2009 influenza vaccine receipt, and
+presence of 2 siblings aged 5 years in the family) per interval (in days) between vaccination and onset of disease. The vaccination status for matched
+controls was determined depending on the date of reference (corresponding to disease onset of their case) for each day before the date of reference.
+TABLE 3 Univariate and Multivariate Conditional Logistic Regression Analysis of pH1N1 VE Against
+Hospitalization
+VE, % (95% CI)
+10 d After
+Vaccination
+14 d After
+Vaccination
+Univariate analysis 74 (50 to 87) 77 (40 to 91)
+Multivariate analysis
+Adjusted for underlying conditions 79 (58 to 89) 83 (55 to 93)
+Adjusted for underlying conditions and seasonal 2008–2009
+influenza vaccine
+80 (59 to 90) 84 (58 to 94)
+Adjusted for underlying conditions, seasonal 2008–2009
+influenza vaccine and 2 siblings  y in the family
+81 (60 to 91) 85 (61 to 94)
+According to age strata
+6–23 mo
+Univariate analysis 90 (65 to 97) 94 (57 to 99)
+Multivariate analysis (fully adjusted model) 87 (52 to 96) 92 (51 to 99)
+2–4 y
+Univariate analysis 82 (37 to 95) 79 (14 to 96)
+Multivariate analysis (fully adjusted model) 88 (55 to 97) 89 (34 to 98)
+5–9 y
+Univariate analysis 33 (284 to 53) 12 (248 to 78)
+Multivariate analysis (fully adjusted model) 65 (67 to 93) 79 (31 to 97)
+e1088 GILCA et al Downloaded from pediatrics.aappublications.org at UNIV OF PITTSBURGH, HSLS on June 2, 2015
+gle pediatric dose of adjuvanted pH1N1
+vaccine in protecting children aged 6
+months to 9 years from confirmed
+pH1N1 hospitalization. As early as 10
+days after immunization, we observed
+that a single dose conferred an effectiveness of 81%, increasing to 85% 14
+days after vaccination. These estimates of excellent vaccine protection
+with a single dose of adjuvanted vaccine in children are consistent with immunogenicity findings showing seroprotection and seroconversion rates
+exceeding 90% in children belonging to
+the same age span.4,8 Others have also
+consistently demonstrated that the adjuvanted vaccine, although more reactogenic, was more immunogenic than
+nonadjuvanted pH1N1 vaccine in children and adults.9,10 Our VE estimates
+are slightly lower than the 95.7% and
+100% VE against medically attended,
+laboratory-confirmed pH1N1 estimated for a single pediatric dose of the
+AS03-adjuvanted pH1N1 vaccine at 10
+and 14 days, respectively, after immunization from a small casecontrol study (n  28) in Canada of
+28 laboratory-confirmed pediatric
+cases of pH1N1 (5 hospitalized),11
+and 100% VE of an AS03-adjuvanted
+pH1N1 vaccine against medically attended, laboratory-confirmed pH1N1
+at 14 days after immunization in children younger than 15 years (n
+2182) found in the United Kingdom.12
+Our results slightly exceed the 77%
+VE measured against laboratoryconfirmed pH1N1 beginning at 14
+days in children younger than 10
+years (n  502) with underlying
+conditions who received AS03-
+adjuvanted pH1N1 vaccine found in a
+case-control study in the United Kingdom.13 All these studies used a testnegative case-control design. In
+other studies not restricted to children, vaccine protection conferred
+by adjuvanted vaccine was also very
+high: published estimates of VE for
+the AS03-adjuvanted pH1N1 vaccine
+in adults or all age patients range
+from 72% to 97%,13,14 and is lower in
+those with underlying conditions
+(62%).13
+We also observed an increased risk of
+pH1N1 associated with previous 2008 –
+2009 TIV receipt that was more evident
+when we restricted the analysis to participants who did not receive the
+pH1N1 vaccine and to those without
+chronic conditions. This finding is similar to what was reported in Canada
+during the first wave.15,16 A study conducted by the national influenza sentinel network during the second wave in
+ambulatory patients did not see this
+effect in overall analysis, although it
+was observed in the pediatric population.17 A case-control study in England
+during the second wave also found an
+increased risk of medically attended
+pH1N1 illness in patients with underlying conditions who received the 2009 –
+2010 TIV.13 A randomized placebocontrolled trial (using a vaccine
+different from that primarily used in
+Canada) in school-aged children in
+Hong Kong during their first wave also
+showed a doubling of the risk of pH1N1
+infection in vaccinated children compared with unvaccinated children.18,19
+Decreased immunogenicity after an
+alum-adjuvanted H5N1 vaccine and after a split-virus nonadjuvanted pH1N1
+vaccine has been reported in children
+who previously received TIV.20,21 The immunologic mechanism underlying this
+unexpected finding is unknown; an extensive discussion of hypotheses may
+be found elsewhere.15,19 Although the
+confirmation of this phenomenon may
+not have short-term public health implications, it could profoundly affect
+our understanding of the immunopathology of influenza and is thus worthy
+of additional investigation. Similarly,
+the unexpected but provocative finding
+of increased pH1N1 risk in the early
+period after immunization observed in
+this study also warrants additional
+evaluation.
+This study has several limitations. Although the participation rate among
+reached case subjects and potential
+controls was high, we cannot rule out
+intrinsic differences from those we
+were unable to reach. It is also possible that the source population of
+hospitalized case subjects differed
+on important but unrecognized characteristics and as such we cannot rule
+out residual confounding. More case
+subjects (especially among younger
+children) reported having had an ILI
+during the first wave but more controls had an ILI during the second
+wave. In the analysis restricted to children without ILI, the VE was unchanged
+suggesting this was unlikely to have
+been a major influence on our findings.
+The statistical power of the study, especially in children aged 5 to 9 years,
+was limited because most cases occurred before the vaccination was offered to this group. Small sample size
+may have also introduced instability and
+spurious findings in exploratory subanalyses. As such, exploratory subanalyses cannot be considered conclusive but
+merit additional evaluation.
+This study also had several strengths.
+It included all pH1N1-hospitalized children from a substantial population,
+and all cases were laboratory confirmed by using RT-PCR. Matching according to age and area of residence
+as well as adjustment for young siblings in the family, indicative of increased influenza exposure opportunities, helped to limit confounding. We
+also adjusted for the presence of at
+least 1 chronic condition; however,
+some conditions may be greater drivers than others for vaccination or hospitalization. Small sample size by
+strata precluded control for specific
+conditions or analysis restricted to
+children with chronic medical conditions. However, in the analysis reARTICLES
+PEDIATRICS Volume 128, Number 5, November 2011 e1089 Downloaded from pediatrics.aappublications.org at UNIV OF PITTSBURGH, HSLS on June 2, 2015
+stricted to children without chronic
+medical conditions, the VE was similar
+to the overall VE, which is reassuring.
+Finally, vaccination status and dates of
+vaccination were confirmed by the
+provincial registry.
+In the context of vaccination given during the course of an epidemic, rapid
+onset of protection with a single dose
+of vaccine is desirable. For children
+never immunized against influenza, 2
+doses of vaccine, seasonal or pandemic, are generally recommended.
+However, the rapid unfolding of the fall
+pH1N1 wave would not have permitted
+a second dose to exert its effect in
+time, suggesting that this recommendation may not always be practical and
+the incremental benefit of a second
+dose may be doubtful when immunization coincides with an epidemic. The
+estimated VE of a single dose of adjuvanted vaccine in our study approximates the efficacy of 2 doses of seasonal
+influenza vaccine measured through
+randomized clinical trials during seasons with good match to circulating influenza strains. Rather than, or in addition to, a direct effect of adjuvant, our
+results may also reflect well-matched
+pH1N1 antigen to circulating virus during the pandemic wave in Quebec (99.6%
+characterized as matched to the vaccine
+component). However, our VE exceeds
+that estimated through case-control and
+cohort designs for seasonal influenza in
+children.22,23 Immunogenicity data in children 6 months to 9 years old administered a single dose of nonadjuvanted
+pH1N1 vaccine also showed seroprotection rates exceeding 90%,22 but
+the clinical implications of that have
+yet to be confirmed through effectiveness studies.
+CONCLUSIONS
+Our results indicate that a single pediatric dose of the AS03-adjuvanted
+pH1N1 vaccine given to children aged
+6 months to 9 years is highly protective against hospitalization, beginning as early as 10 days after immunization. These findings suggest that
+the decision to administer 2 doses of
+influenza vaccine to children is context dependent: during a pandemic
+this should take into account the
+stage of the evolving epidemic, available immunogenicity data, and practical considerations around vaccine
+supply in relation to need across atrisk groups.
+ACKNOWLEDGMENT
+This research was funded by the Quebec Ministry of Health.
+REFERENCES
+1. Health Canada. Summary Basis of Decision
+(SBD) for AREPANRIX H1N1. Available at:
+www.hc-sc.gc.ca/dhp-mps/alt_formats/
+pdf/prodpharma/sbd-smd/phase1-
+decision/drug-med/sbd_smd_2010_
+arepanrix_h1n1_132070-eng.pdf. Accessed
+April 20, 2011
+2. Health Canada. Product information leaflet
+Arepanrix H1N1 AS03-Adjuvanted H1N1 Pandemic Influenza Vaccine—Version 4 approved 20 April 2010. Available at: www.hcsc.gc.ca/dhp-mps/prodpharma/legislation/
+interimorders-arretesurgence/prodinfo_
+vaccin-eng.php. Accessed April 20, 2011
+3. GlaxoSmithKline Inc. A study to evaluate the
+safety and immunogenicity of A/California/
+7/2009 (H1N1)v-like vaccines GSK2340274A
+and GSK2340273A in children 6 months to
+less than 9 years of age. Available at: http://
+download.gsk-clinicalstudyregister.com/
+files/3d226ebd-7b95-4336-bb27-12dc16b231b9.
+Accessed April 20, 2011
+4. GlaxoSmithKline Inc. Safety and immunogenicity study of GSK Biologicals’ pandemic influenza candidate vaccine (GSK2340272A)
+in children aged 6 to 35 months. Available
+at: http://gsk.sylogent.com/files/27868.pdf.
+Accessed April 20, 2011
+5. Sauvageau C, Gilca V. Avis complémentaire
+concernant la vaccination contre le virus
+pandémique influenza A (H1N1) 2009 pour
+les enfants de 6 mois a` 9 ans. Québec,
+Canada: Institut national de santé publique
+du Québec; 2009. Available at: http://www.
+inspq.qc.ca/pdf/publications/1025_
+AvisVaccH1N1Enfants6-9Ans.pdf. Accessed
+April 20, 2011
+6. NACI. Statement on seasonal trivalent inactivated influenza vaccine (TIV) for 2009-
+2010. CCDR RMTC. 2009;35(ACS-6):1– 41
+7. Rothman KJ, Greenland S, Lash TL. Modern
+Epidemiology. 3rd ed. Philadelphia, PA:
+Wolters Kluwer Health; 2008
+8. Carmona A, Omenaca F, Tejedor JC, et al.
+Immunogenicity and safety of AS03-
+adjuvanted 2009 influenza A H1N1 vaccine in
+children 6 –35 months. Vaccine. 2010;
+28(36):5837–5844
+9. Waddington CS, Walker WT, Oeser C, et al.
+Safety and immunogenicity of AS03B adjuvanted split virion versus nonadjuvanted whole virion H1N1 influenza
+vaccine in UK children aged 6 months-12
+years: open label, randomised, parallel
+group, multicentre study. BMJ. 2010;340:
+c2649
+10. Nicholson KG, Abrams KR, Batham S, et al.
+Immunogenicity and safety of a 2-dose
+schedule of whole-virion and AS03Aadjuvanted 2009 influenza A (H1N1)
+vaccines: a randomised, multicentre, agestratified, head-to-head trial. Lancet Infect
+Dis. 2011;11(2):91–101
+11. Van Buynder PG, Dhaliwal JK, Van Buynder
+JL, et al. Protective effect of single-dose adjuvanted pandemic influenza vaccine in children. Influenza Other Respi Viruses. 2010;
+4(4):171–178
+12. Hardelid P, Fleming DM, McMenamin J, et al.
+Effectiveness of pandemic and seasonal influenza vaccine in preventing pandemic influenza A(H1N1)2009 infection in England
+and Scotland 2009-2010. Euro Surveill. 2011;
+16(2):pii19763. Available at: www.
+eurosurveillance.org/ViewArticle.
+aspx?ArticleId19763. Accessed April 20,
+2011
+13. Andrews N, Waight P, Yung CF, Miller E. Agespecific effectiveness of an oil-in-water adjuvanted pandemic (H1N1) 2009 vaccine
+against confirmed infection in high risk
+groups in England. J Infect Dis. 2011;203(1):
+32–39
+14. Ortqvist A, Berggren I, Insulander M, Svenungsson B. Effectiveness of an adjuvanted
+monovalent vaccine against the 2009 pandemic strain of influenza A(H1N1)v, in Stockholm County, Sweden. Clin Infect Dis. 2011;
+52(10):1203–1211
+15. Skowronski DM, De Serres G, Crowcroft NS,
+et al. Association between the 2008-09 seasonal influenza vaccine and pandemic H1N1
+illness during spring-summer 2009: four
+observational studies from Canada. PLoS
+Med. 2010;7(4):e1000258
+e1090 GILCA et al Downloaded from pediatrics.aappublications.org at UNIV OF PITTSBURGH, HSLS on June 2, 2015
+16. Janjua NZ, Skowronski DM, Hottes TS, et al.
+Seasonal influenza vaccine and increased risk
+of pandemic A/H1N1-related illness: first detection of the association in British Columbia,
+Canada. Clin Infect Dis. 2010;51(9):1017–1027
+17. Janjua NZ, Skowronski D, De Serres G, et al.
+Analysis of the Association Between 2008-09
+Trivalent Influenza Vaccine (TIV) and Pandemic A/H1N1 Risk During the Fall 2009 [abstract]. Presented at the Options for the
+Control of Influenza VII (Abstract #4405),
+Hong Kong SAR, China; 2010
+18. Cowling BJ, Ng S, Ma E, Cheng C, Wai W, Fang
+V. Protective efficacy of seasonal influenza
+vaccination against seasonal and pandemic
+influenza virus during the 2009 in Hong
+Kong. Clin Infect Dis. 2010;51(12):1370 –1379
+19. Skowronski DM, Janjua NZ, Hottes TS, De
+Serres G. Mechanism for seasonal vaccine
+effect on pandemic H1N1 risk remains uncertain. Clin Infect Dis. 2011;52(6):831– 832
+20. Nolan T, Richmond PC, Formica NT, et al.
+Safety and immunogenicity of a prototype
+adjuvanted inactivated split-virus influenza
+A (H5N1) vaccine in infants and children.
+Vaccine. 2008;26(50):6383– 6391
+21. Nolan T, McVernon J, Skeljo M, et al. Immunogenicity of a monovalent 2009 influenza
+A(H1N1) vaccine in infants and children: a
+randomized trial. JAMA. 2010;303(1):37– 46
+22. Jefferson T, Rivetti A, Harnden A, Di Pietrantonj C, Demicheli V. Vaccines for preventing
+influenza in healthy children. Cochrane Database Syst Rev. 2008;(2):CD004879
+23. Kelly H, Jacoby P, Dixon GA, et al. Vaccine
+effectiveness against laboratory-confirmed
+influenza in healthy young children: a casecontrol study. Pediatr Infect Dis J. 2011;
+30(2):107–111
+(Continued from first page)
+GlaxoSmithKline for unrelated studies; Ms Boulianne has received research funding from GlaxoSmithKline and Sanofi Pasteur for unrelated studies; Dr
+Sauvageau has received research grants, honoraria, and travel reimbursements from Wyeth for unrelated studies and honoraria and travel reimbursements
+from GlaxoSmithKline and Merck for conferences and unrelated studies; Dr Quach has received research grants from Merck for unrelated studies; Dr Boucher
+has received research funding from Novartis for an unrelated study; and Dr Skowronski was principal investigator on a clinical trial for which influenza vaccine
+was provided free by Sanofi Pasteur.
+ARTICLES
+PEDIATRICS Volume 128, Number 5, November 2011 e1091 Downloaded from pediatrics.aappublications.org at UNIV OF PITTSBURGH, HSLS on June 2, 2015
+DOI: 10.1542/peds.2010-3492
+Pediatrics 2011;128;e1084; originally published online October 10, 2011;
+Sauvageau, Caroline Quach, François D. Boucher and Danuta M. Skowronski
+Rodica Gilca, Geneviève Deceuninck, Gaston De Serres, Nicole Boulianne, Chantal
+Hospitalization in Children
+Effectiveness of Pandemic H1N1 Vaccine Against Influenza-Related
+ Services
+Updated Information &
+html
+http://pediatrics.aappublications.org/content/128/5/e1084.full.
+including high resolution figures, can be found at:
+Supplementary Material
+/peds.2010-3492.DC1.html
+http://pediatrics.aappublications.org/content/suppl/2011/10/04
+Supplementary material can be found at:
+References
+html#ref-list-1
+http://pediatrics.aappublications.org/content/128/5/e1084.full.
+at:
+This article cites 14 articles, 6 of which can be accessed free
+Citations
+html#related-urls
+http://pediatrics.aappublications.org/content/128/5/e1084.full.
+This article has been cited by 3 HighWire-hosted articles:
+Subspecialty Collections
+diseases_sub
+http://pediatrics.aappublications.org/cgi/collection/infectious_
+Infectious Diseases
+the following collection(s):
+This article, along with others on similar topics, appears in
+Permissions & Licensing
+ml
+http://pediatrics.aappublications.org/site/misc/Permissions.xht
+tables) or in its entirety can be found online at:
+Information about reproducing this article in parts (figures,
+ Reprints
+http://pediatrics.aappublications.org/site/misc/reprints.xhtml
+Information about ordering reprints can be found online:
+rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275.
+Grove Village, Illinois, 60007. Copyright © 2011 by the American Academy of Pediatrics. All
+and trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published,
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly
+Downloaded from pediatrics.aappublications.org at UNIV OF PITTSBURGH, HSLS on June 2, 2015
+DOI: 10.1542/peds.2010-3492
+Pediatrics 2011;128;e1084; originally published online October 10, 2011;
+Sauvageau, Caroline Quach, François D. Boucher and Danuta M. Skowronski
+Rodica Gilca, Geneviève Deceuninck, Gaston De Serres, Nicole Boulianne, Chantal
+Hospitalization in Children
+Effectiveness of Pandemic H1N1 Vaccine Against Influenza-Related
+http://pediatrics.aappublications.org/content/128/5/e1084.full.html
+located on the World Wide Web at:
+The online version of this article, along with updated information and services, is
+of Pediatrics. All rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275.
+Boulevard, Elk Grove Village, Illinois, 60007. Copyright © 2011 by the American Academy
+published, and trademarked by the American Academy of Pediatrics, 141 Northwest Point
+publication, it has been published continuously since 1948. PEDIATRICS is owned,
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly
+Downloaded from pediatrics.aappublications.org at UNIV OF PITTSBURGH, HSLS on June 2, 2015

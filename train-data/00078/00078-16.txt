@@ -1,0 +1,643 @@
+Duloxetine in patients with central neuropathic pain caused by spinal cord injury
+or stroke: A randomized, double-blind, placebo-controlled trial
+J.H. Vranken a,⇑
+, M.W. Hollmann b
+, M.H. van der Vegt d
+, M.R. Kruis b
+, M. Heesen e
+, K. Vos a
+, A.J. Pijl f
+,
+M.G.W. Dijkgraaf c
+aDepartment of Anesthesiology, Medical Center Alkmaar, Alkmaar, The Netherlands
+bDepartment of Anesthesiology, Academic Medical Center, University of Amsterdam, Amsterdam, The Netherlands
+c Clinical Research Unit, Academic Medical Center, University of Amsterdam, Amsterdam, The Netherlands
+dDepartment of Anesthesiology, Red Cross Hospital, Beverwijk, The Netherlands
+eDepartment of Anesthesiology, Bamberg Hospital, Bamberg, Germany
+f
+Department of Anesthesiology, Slotervaartziekenhuis, Amsterdam, The Netherlands
+article info
+Article history:
+Received 29 November 2009
+Received in revised form 3 September 2010
+Accepted 8 September 2010
+Keywords:
+Central neuropathic pain
+Quality of life
+Duloxetine
+abstract
+The mechanisms underlying central neuropathic pain are poorly understood. Pain inhibitory mechanisms
+including sertononergic and norepinephrine systems may be dysfunctional. In this randomized, doubleblinded, placebo-controlled trial we evaluated the effects of duloxetine on pain relief (spontaneous pain
+and evoked pain), tolerability, health status, and quality of life in patients with central pain related to
+cerebrovascular lesions or spinal cord lesions. At baseline and eight weeks following start of treatment
+subjects were evaluated with standard measures of efficacy: pain intensity (primary efficacy variable),
+quantitative sensory testing, health status and quality of life (secondary efficacy variables). Forty-eight
+patients received escalating doses of either duloxetine (60 and 120 mg/day) or matching placebo capsules. In both groups, patients started with 1 capsule per day. If pain relief was insufficient, patients were
+titrated to a higher dose. A trend towards a decrease in mean pain score after eight weeks was observed
+for duloxetine treatment (p = 0.056). Duloxetine alleviated dynamic (p = 0.035) and cold allodynia
+(p < 0.001) significantly better than placebo. Tactile pain and pressure pain thresholds did not improve
+significantly. The duloxetine group showed a significant improvement for the bodily pain domain of
+the SF36 (p = 0.035). No significant differences were observed in the other domains of the SF36, the Pain
+Disability Index, and the EQ-5D. While this trial showed no significant effect on pain intensity, duloxetine
+revealed a biologic effect. It would be worthwhile to suspend our judgement and to perform more studies
+to evaluate the role of duloxetine in modulation of the symptoms of central neuropathic pain.
+ 2010 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+1. Introduction
+Central neuropathic pain (pain associated with lesions of the central nervous system) has been estimated to occur in up to 8% of patients after stroke and in about 40% of patients with spinal cord
+injury [30,33]. The mechanisms underlying central neuropathic pain
+are poorly understood. Aberrant neural activity in deafferentated
+circuits, a post lesion imbalance between facilitating and inhibitory
+neural pathways, and alterations in the processing of incoming
+noxious and non-noxious stimuli are proposed as pathophysiologic
+features of central neuropathic pain [24,28,40]. Neuronal hyperexcitability and disinhibition give rise to spontaneous pain, accompanied by hyperalgesia and (mechanical and thermal) allodynia which
+may be particularly severe and distressing [21].
+Despite the availability of multiple pharmacologic approaches
+(evidence-based treatments with tricyclic antidepressants, gabapentin and pregabalin, opioids, and lidocaine intravenously), treatment for this kind of pain remains a major clinical challenge. In
+view of this, pain reduction rather than pain relief has to be the
+goal of any treatment [24,26,32].
+Recently, duloxetine was shown to be effective in randomized
+clinical trials of diabetic peripheral neuropathic pain and chronic
+pain conditions, such as fibromyalgia [17,31,38]. Given the absence of other effective pharmacological treatments for central
+pain, any medication providing some benefit in terms of symptom amelioration and quality of life improvement in patients
+with neuropathic pain has to be evaluated. Therefore, we tested,
+in a randomized, double-blind, placebo-controlled trial, the effects of duloxetine on pain relief (spontaneous pain and evoked
+0304-3959/$36.00  2010 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+doi:10.1016/j.pain.2010.09.005
+⇑ Corresponding author. Address: Department of Anesthesiology, Medical Center
+Alkmaar,Wilhelminalaan 12, 1815 JDAlkmaar, The Netherlands. Tel.: +31 72 548 44 44.
+E-mail address: j.h.vranken@mca.nl (J.H. Vranken).
+PAIN
+152 (2011) 267–273
+www.elsevier.com/locate/pain
+pain, e.g. allodynia and hyperalgesia evoked by mechanical or
+thermal stimuli), health status, and quality of life in patients with
+central neuropathic pain.
+2. Methods
+2.1. Patients
+The study was approved by the medical ethical committee of
+the Academic Medical Center (AMC). Eligible patients visiting our
+outpatient hospital clinic (between January 2008 and March,
+2008 inclusive) were recruited.
+Prerequisites for entering the study included age 18 years or
+older; written informed consent; suffering from severe neuropathic pain, visual analog scale score six and higher caused by lesion or dysfunction in the central nervous system. The pain had
+to persist for at least six months, and had started after sustaining
+the lesion or dysfunction in the central nervous system. Additionally, the disease process or lesion affecting the central somatosensory system had to be concordant with the distribution of pain.
+Neuropathic pain was described by at least one of the following:
+burning pain, paroxysmal episodes of shooting pain, or pain on
+light touch. Additionally, patients had to score above three on
+the douleur neuropathique 4 Questions (DN4) [5]. Patients were
+not eligible or not recruited, if they: were pregnant; had a history
+of intolerance, hypersensitivity, or known allergy to duloxetine;
+had a known history of significant hepatic, renal, or psychiatric disorder; using antidepressants for treatment of depression. Patients
+taking concomitant analgesic medication were allowed to enter
+the study if neuropathic pain treatment was on a stable regimen
+at least six weeks before start of the study. Analgesic treatment
+with antidepressants, however, was to be discontinued at least
+30 days before receiving study medication. No new analgesic therapies were to be initiated at any time during the trial.
+2.2. Study design, randomization, and treatment
+The study consisted of an eight-week double-blind treatment in
+which a blinded adaptation in response to patients’ needs was
+applied.
+The randomization procedure consisted of three steps and was
+conducted at the AMC Department of Clinical Epidemiology, Biostatistics and Bioinformatics (CEBB).
+First and prior to the randomization of patients, study codes 1
+to N (the sample size) were assigned to the placebo or duloxetine
+arm by simple, computerized random sampling (clorandm.exe)
+and listed accordingly (step 1).
+Second, consecutive patients who met all inclusion criteria were
+randomly assigned to treatment with a flexible-dose placebo (1 to
+2 capsules a day) or flexible-dose duloxetine (1 to 2 capsules of
+60 mg/day) by a method of minimization while taking three prognostic factors, each with two categories, into account: diagnosis,
+sex, age (step 2). These prognostic factors were weighed by 4, 2,
+and 1, respectively, to reflect their relative importance to balance
+for. Hence, diagnosis was considered the most important prognostic factor with age the least important one among these three. The
+two diagnostic categories were central pain related to cerebrovascular lesions or spinal cord lesions; age was dichotomized by the
+presumed median age of the base population of 53 years of age.
+The randomization procedure by minimization was performed
+using MINIM software written by Evans, Day, and Royston [2].
+Once randomized, the patient was assigned a study code number manually selected at random (step 3) from the corresponding
+list of study code numbers for the placebo or the duloxetine arm,
+available from step 1.
+The association between type of treatment and study code was
+only known at CEBB and at the hospital pharmacy department.
+Both departments were not involved in patient care.
+The lists of study codes from step 1 were used by the hospital
+pharmacist to prepare identical, correspondingly coded medication
+bottles containing identical capsules of duloxetine or placebo.
+Patients received escalating doses of either duloxetine (60 and
+120 mg/day,) or matching placebo capsules (daily orally intake of
+1 or 2 capsules) titrated at a one-week interval based on response
+and tolerability. At baseline each coded medication bottle was supplied by the hospital pharmacist to the blinded treating physician.
+In both groups, patients started with one capsule per day (containing either 60 mg of duloxetine or placebo). If the response (i.e. pain
+relief) was insufficient (defined as a pain reduction of less than 1.8
+on a visual analog scale), patients were given two capsules (i.e. two
+capsules of either 60 mg of duloxetine or placebo). All patients received, respectively, active medication or matching placebo capsules and followed the same oral dosing schedule (once daily in
+the evening). A single downward dose titration after a one-weekinterval was allowed, after which the patient remained on the final
+dosage during the remainder of the study period.
+Outpatient clinic visits occurred at baseline, at the start of the
+randomized trial, and at the end of week eight. At weeks two, four,
+and six, out-of-hospital consultations took place by telephone. Patients, pain specialists, and all other health care personnel involved
+in the conduct of the study were blinded to individual treatment
+assignments for the duration of the study.
+2.3. Assessments
+Before start of treatment, patient history and a physical examination provided information about the pain localization, pain characteristics, opioid use, and the need for adjuvant analgesics. The
+patients’ existing medical therapy (including analgesics) was continued during the study period. The primary efficacy parameter
+was pain intensity score recorded by the patients (at baseline,
+end of each week, and eight weeks following treatment), on a visual analog scale (VAS), using a pain diary.
+The mean pain score (in both groups) at the end was based on
+the average of nine (VAS) pain scores measured regularly during
+the last 72 h of treatment. Health status and quality of life (QOL)
+questionnaires (secondary outcomes) were completed before start
+of treatment and eight weeks following the start of treatment.
+Health status and QOL measurements included the Pain Disability
+Index (PDI), the EQ-5D, and the Medical Outcomes Short-form
+Health Survey questionnaire 36 (SF36) [8,13,27]. In addition, the
+Patients Global Impression of Change (PGIC) was gathered at the
+end of follow-up.
+The PDI asks subjects to rate the degree to which chronic pain
+interferes with activities in each of seven domains: family/home
+responsibilities, recreation, social activity, occupation, sexual
+behavior, self-care, and life-supporting activities. The total range
+is 0–70 points with higher scores indicating more perceived
+disability.
+The EQ-5D consists of two sections. The first section (EQ-5D
+health status profile) contains a description of the health state in
+five dimensions: ‘mobility’, ‘self-care’, ‘usual activities’, ‘pain/
+complaints’, and ‘anxiety/depression’. Patients indicate for each
+dimension whether they experience no, some, or serious health
+problems. An individual health status profile results, e.g.: no problems with mobility and with self-care, some problems with usual
+activities and with anxiety/depression, and serious problems with
+pain/discomfort. Each health status profile is converted into a single utility score using a previously determined scoring algorithm
+based on a time trade-off elicitation technique during interviews
+with non-institutionalized adults from the general UK population
+268 J.H. Vranken et al. / PAIN
+152 (2011) 267–273
+[23]. The utility score ranges from as low as minus 0.594 indicating
+serious problems on all dimensions to unity indicating no problems at all. By convention, death takes the value of zero. The second section (EQ-5D VAS) indicates the perception by the patient
+of his overall health on a 100 mm VAS (zero denoting worst imaginable health state, and 100 best imaginable health state).
+The SF36 questionnaire compromises 36 items, which fall into
+eight domains including physical functioning (Physical), role-physical functioning (Role), bodily pain (Pain), general health perception (Health), energy/vitality (Vitality), social functioning (Social),
+role-emotional functioning (Emotional), and mental health (Mental). Responses are summed and then transformed into a scale from
+zero (for poor health) to 100 (good health) for each domain.
+The Patient Global Impression of Change measures the global
+change from baseline according to patient on a 7 point, Likert
+scale: very much improved, much improved, minimally improved,
+no change, minimally worsened, much worse, very much worse.
+Quantitative sensory testing (secondary outcome) was carried
+out in the skin area with maximal pain or dysesthesia, before start
+of treatment and eight weeks following the start of treatment.
+Tactile pain threshold (static allodynia) was evaluated by calibrated von Frey’s filaments (nominal force: 26–1,10,000 mg,
+Somedic Sales AB, Hörby, Sweden). The filament was applied vertically to the test site and slow pressure was applied until the filament began to bend. The time needed to bend the filament was
+standardized to approximately 1–2 s and the stimulus was maintained for 1–2 s and then removed [25]. Von Frey hair applications
+were separated by at least 30 s to reduce the likelihood of anticipatory responses. The von Frey filaments were applied in ascending
+order of stiffness. If a VAS-score of 6 or more was reported for a given intensity, no stronger stimuli were applied. The intensity of
+brush-induced (dynamic) tactile allodynia was assessed by stroking (three times) the most painfully sensitive area of the skin
+gently with a brush (SENSELab™ Brush 05, Somedic Sales AB,
+Hörby, Sweden). Allodynia was considered to be present if stroking
+the skin evoked a clear sensation of pain. The intensity of allodynia
+within the area of maximal pain was marked on a VAS (as the highest score of three consecutive VAS-scores). Cold allodynia was assessed by placing an acetone drop on the area of greatest pain.
+Subsequently, patients scored pain evoked by this acetone drop
+on a VAS. The intensity of mechanical static (punctuate) hyperalgesia to von Frey hair stimulation was assessed with von Frey hair
+No. 16 (nominal force: 24,000 mg). Pinprick-evoked pain was
+scored in a similar fashion as brush-evoked pain (as the highest
+score of three consecutive VAS-scores). Pressure pain threshold
+was determined using a hand-held electronic pressure algometer
+(Somedic AB, Hörby, Sweden). A circular probe with an area of
+1 cm2 with a pressure application of 30 kPa/s was used. Patients
+were asked to indicate when they could no longer stand the pain.
+The algometer recorded the pressure (kPa) at that point.
+The safety of duloxetine was assessed based on the occurrence,
+nature, and severity of adverse events.
+2.4. Sample size, calculation, and statistical analysis
+The sample size calculation was based on data from two recent
+trials by our group in patients suffering from central neuropathic
+pain [36,37]. Based on these trials, the average score on a visual
+analog scale for pain was expected to be 7.3 for patients treated
+with placebo. With a sample size of 24 in each group the study will
+have 90% power to detect a clinically relevant 25% decrease in
+mean VAS-score for pain from 7.3 (placebo group) to 5.4 (duloxetine), assuming that the common standard deviation is 2.0 and
+using a two-group t-test with a 0.05 two-sided significance level.
+Data were analyzed on an intention-to-treat basis (ITT) including
+the patients who received at least one dose of randomized study
+medication. Normally distributed data are expressed as mean values (±SD). Non-normally distributed data are expressed as medians
+with the interquartile range (IQR). Group differences after eight
+weeks following the start of treatment were assessed using a
+two-group t-test. In case of significant baseline differences between groups or in case of non-significant baseline differences
+pointing in the same direction as significant differences at eight
+weeks, correction for baseline scores was performed by analysis
+of covariance or by two-group t-tests or non-parametric Mann–
+Whitney U-tests of change scores from baseline, depending on data
+distributions. Differences in PGIC were tested for significance by
+applying the non-parametric Jonckheere-Terpstra test for ordered
+alternatives. The numbers needed to treat (NNT) per patient with
+a reduction of pain by at least 30% or 50%, respectively, are reported along with their confidence intervals [1,3]. The frequency
+of reported adverse events was analyzed by Chi-square test or
+Fisher’s exact test where appropriate. For all tests, a significance level of p < 0.05 was used. Statistical analyses were performed without prior knowledge of which group represented the placebo
+group. The group code was unveiled just before the test results
+were interpreted.
+3. Results
+3.1. Patients
+Patient disposition is summarized in Fig. 1. Of a total of 85
+screened patients, 48 patients were randomized and received
+study medication. Thirty-five screened patients were excluded
+for failing to meet the eligibility criteria. Two patients withdrew
+after randomization, before taking any study medication and were
+not included in the ITT population. They were replaced by the first
+consecutively screened patients with identical prognostic characteristics to prevent disturbing the randomization procedure by
+the method of minimization (see Section 2).
+Patient characteristics, cause of central pain, analgesic treatment of the ITT population, and results from quantitative sensory
+testing are shown in Table 1. The two groups (n = 24 per group)
+were similar with respect to baseline demographic and disease
+characteristics (diagnosis, baseline pain intensity, quantitative sensory testing, and analgesic treatment). Among the duloxetine-treated group, 15 patients were taking 120 mg per day, and 8 patients
+were taking 60 mg per day. In the placebo group, 19 patients were
+taking two capsules per day and 2 patients were taking one capsule
+per day. At the end of the study, the mean duloxetine dosage (±SD)
+was of 99.1 mg (±29.2 mg).
+3.2. Pain intensity scores
+Weekly mean pain scores for both groups are displayed in Fig. 2.
+Mean pain intensity VAS-scores (±SD) before and after eight weeks
+of treatment (end of trial) changed from 7.2 (±0.8) to 6.1 (±1.7) in
+the placebo group (i.e. 15% pain reduction), and from 7.1 (±0.8) to
+5.0 (±2.0) in the duloxetine group (more than 2 points on the VAS;
+29.6% pain reduction). A trend towards a statistically significant
+decrease in mean pain score at endpoint was observed for duloxetine treatment compared with placebo treatment (p = 0.05). A
+covariance analysis of the same data to account for the small,
+non-significant difference between the groups at the baseline
+assessment (7.2 against 7.1) pointing in the same direction as this
+trend resulted in a corrected p-value of 0.056. No difference in response to duloxetine was observed between patients with spinal
+cord injury (n = 18) and patients with stroke (n = 6) (p = 0.61, data
+not shown). The NNT per patient with a reduction of pain by 30% or
+50% was 3.4 (95% CI: NNT (benefit) 2 to NNT (benefit) 46.8) and 24
+J.H. Vranken et al. / PAIN
+152 (2011) 267–273 269
+(95% CI: NNT (harm) 5.5 to infinity to NNT (benefit) 3.8),
+respectively.
+3.3. Health status and quality of life assessment
+The PDI, the EQ-5D health utility, and EQ-5D VAS-scores are
+shown in Table 2. Follow-up observation showed no significant difference in the outcome scores between the two groups. However, a
+trend towards a statistically significant decrease in PDI at endpoint
+was observed for duloxetine treatment compared with placebo
+treatment (p = 0.063, after correction for baseline differences).
+The SF36 domain scores at baseline and eight weeks following
+the start of treatment are presented in Table 3. Each of the eight
+domains of the SF36 was analyzed separately. Duloxetine treatment led to a significant improvement in the bodily pain domain
+(p = 0.035, after correction for baseline differences). No significant
+alterations were reported in the other domains of the SF36.
+3.4. Global impression of change
+Four patients in the placebo group considered their situation
+minimally improved, sixteen judged their situation unchanged,
+and another four experienced a minimally worsening of the situation at the end of follow-up. In the duloxetine group one patient
+experienced very much improvement, four much improvement,
+six minimally improvement, ten experienced no change, one experienced minimally worsening and another one much worsening of
+their situation compared to baseline. More often than the placebo
+group, the duloxetine group had the impression that change had
+occurred for the better (p = 0.014).
+3.5. Quantitative sensory testing
+Results from quantitative sensory testing are displayed in Table
+4. Baseline measurements did not differ between both groups.
+Maximum evoked pain score by brush (dynamic tactile allodynia)
+(p = 0.019) and pain evoked by an acetone drop (cold allodynia)
+(p < 0.001) were reduced significantly by duloxetine compared
+with placebo. In contrast, there were no significant differences
+among both groups for tactile pain threshold (static allodynia, calibrated von Frey’s filaments) and for pressure pain threshold
+(determined with an algometer) at the end of the trial. Additionally, pain scores in response to mechanical pinprick stimuli
+(mechanical static hyperalgesia) were not significantly modified
+by the treatment with duloxetine.
+3.6. Safety
+Duloxetine was generally well tolerated with few reported side
+effects. The most frequently reported adverse events were central
+nervous system-related (dizziness, decreased intellectual performance, and somnolence) and nausea. The incidence of these
+Table 2
+Pain Disability Index scores, EQ-5D health utility scores, and EQ-5D VAS-scores by
+treatment group, at baseline and 8 weeks following start of treatment.
+Groups health
+status score
+Placebo Duloxetine p-Value
+Baseline After eight
+weeks
+Baseline After 8
+weeks
+Pain disability
+Index
+38 ± 14.3 36 ± 13.3 33 ± 11.2 28 ± 12.2 0.06a
+EQ-5D utility 0.24 (0.30) 0.37 (0.34) 036 (0.33) 0.40 (0.31) 1.00a
+EQ-5D VAS 56 ± 18 53 ± 17 63 ± 18 59 ± 21 0.70a
+Outcomes of the PDI, EQ-5D health utility, and EQ-5D VAS. Data are presented as
+mean (±SD).
+Higher PDI scores indicate more perceived disability. Higher EQ-5D health utility
+scores and EQ-5D VAS-scores indicate improved health status.
+a All p-values are based on analysis of covariance to correct for a baseline difference pointing in the same direction as the difference at 8 weeks after start of
+treatment.
+Table 3
+Baseline and end of trial outcomes data for the different domains of the SF36 health
+survey.
+Domains of
+the SF36
+Placebo Duloxetine p-Value
+Baseline After eight
+weeks
+Baseline After eight
+weeks
+Physical 38 ± 28 38 ± 25 39 ± 25 41 ± 27 0.37b
+Rolea 25 (0–69) 0 (0–25) 13 (0–75) 25 (0–50) 0.31
+Pain 31 ± 12 35 ± 14 33 ± 13 45 ± 17 0.035b
+Health 45 ± 20 45 ± 23 47 ± 25 44 ± 23 0.86
+Vitality 49 ± 20 50 ± 22 51 ± 19 49 ± 22 0.92
+Social 58 ± 28 61 ± 28 67 ± 24 69 ± 26 0.74b
+Emotionala 67 (0–100) 100 (33–100) 100 (67–100) 100 (17–100) 0.23c
+Mental 72 ± 19 73 ± 19 68 ± 17 73 ± 19 0.93
+The SF36 questionnaire compromises 36 items, which fall into eight domains
+including physical functioning (Physical), role-physical functioning (Role), bodily
+pain (Pain), general health perception (Health), energy/vitality (Vitality), social
+functioning (Social), role-emotional functioning (Emotional), and mental health
+(Mental). Responses are summed and then transformed onto a scale from zero (for
+poor health) to 100 (good health) for each domain.
+Depending on distributional properties, p-values are based on t-tests or Mann–
+Whitney U-tests for group differences at 8 weeks, unless otherwise stated. a Data are presented as means ± SD except for Role and Emotional, in which case
+data are presented as median (IQR).
+b Based on analysis of covariance to correct for a baseline difference pointing in
+the same direction as the difference at 8 weeks after start of treatment. c Based on Mann–Whitney U-test for change scores from baseline.
+Fig. 2. Mean pain score (error bars indicate the standard deviation) rated on a VAS scale at baseline, and per two weeks during treatment with placebo or duloxetine for
+patients with central neuropathic pain.
+270 J.H. Vranken et al. / PAIN
+152 (2011) 267–273
+adverse events (mild or moderate in intensity) did not differ significantly between treatment groups (Table 5). Somnolence, however,
+was reported significantly more frequently in the duloxetine-treated patients (p = 0.003).
+4. Discussion
+In this double-blinded, placebo-controlled study, a flexible-dose
+regimen (60–120 mg, once daily) of duloxetine failed to show a
+statistically significant improvement compared with placebo in
+mean pain intensity change from baseline through eight weeks of
+treatment. Additionally, duloxetine was not efficacious in reducing
+disability or improving quality of life in patients with central neuropathic pain caused by brain or spinal cord injuries. There was,
+however, a significant improvement in the bodily pain subscale
+of the SF36 (secondary pain-related outcome measures) following
+eight weeks of duloxetine administration. Furthermore, duloxetine
+reduced significantly evoked pain produced by either brush (dynamic allodynia) or cold stimulus (cold allodynia).
+The abnormal pain perception (spontaneous continuous pain
+and abnormally evoked pain) in central neuropathic pain syndromes results from multiple mechanisms including neuronal
+overexcitation of the NMDA receptor complex, involvement of
+ion channels and alterations in the processing of incoming noxious
+and non-noxious stimuli. Additionally, pain inhibitory mechanisms
+including both serotonergic and norepinephrine systems may be
+dysfunctionally contributing to the central sensitization and
+hyperexcitability of the spinal and supraspinal transmitting pathways [24,28,39,40]. Thus, drugs targeting this imbalance in inhibitory mechanisms may reduce central pain symptoms.
+Duloxetine has been shown to be efficacious in the prevention
+and/or reversal of pain in several preclinical models of neuropathic
+pain (attenuation of thermal hyperalgesia and mechanical
+allodynia) in rodents [4,20]. Additionally, clinical studies have provided convincing evidence that duloxetine alleviates painful symptoms in fibromyalgia and painful diabetic neuropathy [17,31,38].
+The efficacy of duloxetine in the treatment of central neuropathic
+pain, however, has not yet been evaluated.
+In our study, duloxetine produced greater reduction in pain
+score than placebo but the treatment difference did not reach statistical significance (p = 0.056, after correction for small, non-significant baseline differences). Damage of the aforementioned
+descending inhibitory pathways at spinal and supraspinal level,
+produced by a lesion in the brain or the spinal cord may prevent
+antinociceptive actions of duloxetine in response to noxious stimuli [6]. Secondary outcome measurements including the EQ-5D
+(measurement of health), the PDI (assessment of disability) and seven from the eight domains of the SF36 (quality of life) did not differ between both groups at the end of the trial. The results from
+these secondary outcome parameters are not surprising because
+patient’s distress also results from other factors (than pain) which
+add to suffering, including altered emotional well being, irreversible disabilities due to brain or spinal cord injury, changes in body
+perception, changes in professional and social function, increased
+dependency, and distress from retrospection [7,19]. Enhancement
+of monaminergic function by duloxetine may have various consequences for nociceptive signalling with pain transmission pathways. Because specific signs and symptoms of neuropathic pain
+may respond differently to treatment, symptom-based analysis
+using quantitative sensory testing (including static, dynamic and
+cold allodynia, mechanical hyperalgesia and pain pressure threshold determination) was performed [18,22].
+The discrepancy in duloxetine responsiveness between the
+different forms of evoked pain supports previous evidence suggesting that the underlying pathophysiological mechanisms of these
+signs/symptoms differ [10,15,35]. Patients suffering from central
+neuropathic pain almost always experience thermal sensory
+deficits within the painful area. In physiological circumstances,
+application of cold is normal, effective for reducing pain sensation
+(cold inhibition of pain). Cold allodynia seems to be the result of a
+hyperexcitability of nociceptive pathways induced by central sensitization and/or disinhibition. Loss of thermosensory integration
+results in loss of the mechanism for cold inhibition of pain (thermosensitive disinhibition hypothesis) [9,29]. Dynamic mechanical
+allodynia is elicited by activation of mechanoreceptors that normally convey non-noxious tactile sensations. Hence, this pathological sensation can only result from profound abnormalities in the
+somatosensory processing in the central nervous system [15].
+These findings are clinically relevant because dynamic mechanical allodynia and cold allodynia are the most prevalent types of
+evoked pain in neuropathic pain patients [12]. Additionally,
+dynamic brush- evoked allodynia is clinically related to pain produced by wearing clothing on the affected area or inadvertent
+touch and can be of disabling severity. In the present study the
+severity of allodynia was reduced without a significant change in
+overall pain. In this view, quantitative sensory testing distinguished specific subtypes of pain responsive to duloxetine. This
+mechanism-based classification of pain instead of regarding central neuropathic pain (related to cerebrovascular lesions or spinal
+cord lesions) as a single entity may lead to more effective
+Table 4
+Quantitative sensory testing outcome data by treatment group, at baseline and eight weeks following start of treatment (end of trial).
+Placebo Duloxetine P-Value
+Baseline After eight weeks Baseline After eight weeks
+Tactile pain threshold (von Frey, in mg) 86.7 ± 42.3 78.7 ± 43.1 76.1 ± 45.7 86.7 ± 41.7 0.521a
+Brush-evoked pain (VAS) 5.5 (0–8.0) 6.0 (0–8.8) 6.5 (0.8–9.0) 3 (0–4.8) 0.019b
+Pin-prick test (von Frey, VAS) 4.7 ± 3.3 4.7 ± 3.7 4.6 ± 3.3 3.8 ± 3.4 0.358a
+Acetone drop (VAS) 7.5 (0–9) 6.5 (0–9) 6.5 (4–8) 3.0 (0–4.8) <0.001c
+Pressure pain threshold (kPa) 368 (218–848) 487 (140–1000) 352 (217–522) 412 (273–563) 0.435b
+Data are presented as mean (±SD) or, if appropriate, as median (IQR).
+a Based on two-sided Student’s t-test. b Based on Mann–Whitney U-test. c Based on two-sided Student’s t-test for difference scores from baseline.
+Table 5
+Frequency of reported adverse events.
+Adverse event Placebo Duloxetine p-Value a
+Patients may experience >1 adverse event
+Nausea–vomiting 2 5 0.416
+Somnolence 2 12 0.003
+Dizziness 2 4 0.667
+Confusion 0 3 0.234
+Constipation 2 0 0.489
+Headache 2 3 1.00
+Dry mouth 0 1 1.00
+Miction 0 2 0.489
+a Frequency of adverse events was analyzed by Fisher’s exact test.
+J.H. Vranken et al. / PAIN
+152 (2011) 267–273 271
+treatment targeting the underlying pain mechanism in the individual patient [32]. Alternatively, questionnaires, such as the Neuropathic Pain Scale and the Neuropathic Pain Symptom Inventory
+assessing spontaneous ongoing or paroxysmal pain, evoked pain
+(i.e. mechanical and thermal allodynia/hyperalgesia) and dysesthesia/paresthesia. These questionnaires, however, are not yet validated in the Dutch language.
+Duloxetine-treated patients experienced a decrease in pain
+intensity of more than 2 points on the VAS or approximately 30%
+which is considered to be a patient-determined, clinically important response regardless of disease type, age, sex, baseline pain,
+or treatment group [14]. Additionally, duloxetine-treated patients
+scored significantly better than placebo-treated patients for the
+bodily pain domain of the SF36. More often than the placebo group,
+the duloxetine group had the impression that change had occurred
+for the better (PGIC).
+The inconclusive outcome of this trial (despite a sample size
+large enough to detect significant changes in the primary outcome
+measure) may be attributable to the higher placebo response (pain
+intensity decreased with 15%) in this study which is inconsistent
+with values shown in two other studies on central neuropathic
+pain evaluating pregabalin (pain reduction in the placebo-treated
+group of 7% and 1%, respectively) [34,37]. A high placebo response
+in clinical trials is associated with a reduced likelihood of demonstrating statistical superiority of treatment compared to placebo
+[11]. In our study, several strategies have been used to reduce
+the placebo effect. A flexible dose of duloxetine was evaluated in
+patients with central neuropathic pain. Trials with flexible-dose
+design may, twice as likely, demonstrate significant differences between treatment medication and placebo than fixed-dose trials
+[11]. Additionally, this study design aimed to reflect the real-life
+management of neuropathic pain in which physicians tailor the
+dosage of prescribed drugs based on individual patients’ responses
+(i.e. adequate pain relief). In clinical practice, flexible dosing of a
+drug optimizes the balance of efficacy and tolerability [16].
+Although, well established and validated primary and secondary
+outcome measurements were used to evaluate the outcome of this
+study, valid biological markers would complement these more
+subjective patient measures [11]. Hence, quantitative assessment
+of evoked pain may be used as a relatively objective measure to
+evaluate the effectiveness of neuropathic pain treatment.
+4.1. Limitations of this study need to be considered when interpreting
+these results
+One might argue that patients in this trial did not receive the
+drug for a sufficient length of time. Although, most studies, using
+antidepressants for other neuropathic pain syndromes, have demonstrated pain improvements within 1–3 weeks, it is important to
+emphasise that longer duration of treatment may be necessary to
+confirm long-term treatment effectiveness (clinical practise) and
+to demonstrate widespread beneficial effects of pain relief on the
+various components of quality of life. Because our patients experienced severe pain, concomitant analgesic medication was continued during the trial. Neuropathic pain treatment, however, was
+on a stable regimen and no new analgesic therapy was allowed
+to be initiated during the trial. Additionally, the proportion of patients taking additional pain medication was well balanced across
+treatment groups and analysis demonstrated a similar treatment
+effect of duloxetine regardless of whether patients used any concomitant analgesics.
+Fourteen patients fulfilling the inclusion criteria in the present
+study previously participated in a randomized controlled trial on
+the effect of pregabalin on central neuropathic pain. Eight patients
+were randomized to the duloxetine group, the remaining six
+patients to the placebo group. In addition, 13 patients in the
+present study received (combination therapy including) pregabalin
+as concomitant analgesic treatment; seven patients were randomized to the duloxetine group and six patients to the placebo group.
+Hence, considering the apparently equal distributions of patients
+over the two study arms, confounding by participation in a previous pregabalin trial or by concomitant pregabalin treatment in the
+present trial seems unlikely.
+Treatment with duloxetine was well tolerated. The overall incidence of side effects did not differ between the placebo group and
+the duloxetine group. The most frequently occurring adverse
+events, somnolence (significantly increased compared with placebo-treated patients) and decreased intellectual performance,
+were mild in intensity.
+In summary, this was the first study of duloxetine in patients
+with central neuropathic pain. The study protocol was designed
+to provide a regimen of treatment that is consistent with typical
+product utilization (every day clinical practice) and allows the
+individual to receive a dose that provides optimal efficacy and tolerability. While this trial showed no significant effect on pain
+intensity, duloxetine revealed a biologic effect demonstrated by a
+statistically significant reduction in the severity of dynamic and
+cold allodynia, a significant improvement in the bodily pain domain and trends toward (p = 0.056) an analgesic effect and an
+improvement in disability (PDI, p = 0.063). It would be worthwhile
+to suspend our judgement and to perform more studies to evaluate
+the clinical relevance of the role of duloxetine in modulation of the
+symptoms of central neuropathic pain.
+Conflict of interest
+There are no conflicts of interest.
+Acknowledgments
+An important part of this study was performed at the Department of Anesthesiology, Academic Medical Center, Amsterdam.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at doi:10.1016/j.pain.2010.09.005.
+References
+[1] Altman DG. Confidence intervals for the number needed to treat. BMJ
+1998;317:1309–12.
+[2] Altman DG, Bland JM. Treatment allocation by minimization. BMJ 2005;330:843.
+[3] Bender R. Calculating confidence intervals for the number needed to treat.
+Control Clin Trials 2001;22:102–10.
+[4] Bomholta SF, Mikkelsen JD, Blackburn-Munro G. Antinociceptive effects of the
+antidepressants amitriptyline, duloxetine, mirtazapine and citalopram in
+animal models of acute, persistent and neuropathic pain. Neuropharmacology 2005;48:252–63.
+[5] Bouhassira D, Attal N, Alchaar H, Boureau F, Brochet B, Bruxelle J, Cunin G,
+Fermanian J, Ginies P, Grun-Overdyking A, Jafari-Schluep H, Lantéri-Minet M,
+Laurent B, Mick G, Serrie A, Valade D, Vicaut E. Comparison of pain syndromes
+associated with nervous or somatic lesions and development of a new
+neuropathic pain diagnostic questionnaire (DN4). Pain 2005;114:29–36.
+[6] Cardenas DD, Warms CA, Turner JA, Marshall H, Brooke MM, Loeser JD. Efficacy
+of amitriptyline for relief of pain in spinal cord injury: results of a randomized
+controlled trial. Pain 2002;96:365–73.
+[7] Cassel EJ. The nature of suffering. N Eng J Med 1982;306:639–45.
+[8] Chibnall JT, Tait RC. The Pain Disability Index: factor structure and normative
+data. Arch Phys Med Rehabil 1994;75:1082–6.
+[9] Craig AD, Bushnell MC. The thermal grill illusion: unmasking the burn of cold
+pain. Science 1994;265:252–5.
+[10] Ducreux D, Attal N, Parker F, Bouhassira D. Mechanisms of central neuropathic
+pain: a combined psychosocial and fMRI study in syringomyelia. Brain
+2006;129:963–76.
+[11] Dworkin RH, Katz J, Gitlin MJ. Placebo response in clinical trials of depression
+and its implications for research on chronic neuropathic pain. Neurology
+2005;65:S7–S19.
+272 J.H. Vranken et al. / PAIN
+152 (2011) 267–273
+[12] Eisenberg E, McNicol ED, Carr DB. Efficacy of mu-opioid agonists in the
+treatment of evoked neuropathic pain: systematic review of randomized
+controlled trials. Eur J Pain 2006;100:667–76.
+[13] EuroQol group. EuroQol – a new facility for the measurement of health-related
+quality of life. Health Policy 1990;16:199–209.
+[14] Farrar JT, Young Jr JP, LaMoreaux L, Werth JL, Poole M. Clinical importance of
+changes in chronic pain intensity measured on an 11-point numerical pain
+rating scale. Pain 2001;94:149–58.
+[15] Finnerup NB, Johannesen IL, Fuglsang-Fredrriksen A, Bach FW, Jensen TS.
+Sensory function in spinal cord injury patients with and without pain. Brain
+2003;126:57–70.
+[16] Freynhagen R, Strojek K, Griesing T, Whalen E, Balkenohl M. Efficacy of
+pregabalin in neuropathic pain evaluated in a 12-week, randomized, doubleblind, multicentre, placebo-controlled trial of flexible- and fixed-dose
+regimens. Pain 2005;115:254–63.
+[17] Goldstein DJ, Lub Y, Detkeb MJ, Leeb TC, Iyengar S. Duloxetine vs. placebo in
+patients with painful diabetic neuropathy. Pain 2005;116:109–18.
+[18] Gottrup H, Hansen PO, Arendt-Nielsen L, Jensen TS. Differential effects of
+systematically administered ketamine and lidocaïne on dynamic and static
+hyperalgesie induced by intradermal capsicin in humans. Br J Anaesth
+2000;84:155162.
+[19] Haythornthwaite JA, Benrud-Larson LM. Psychological aspects of neuropathic
+pain. Clin J Pain 2000;16:S101–5.
+[20] Iyengar S, Webster AA, Hemrick-Luecke SK, Xu JY, Simmons RM. Efficacy of
+duloxetine, a potent and balanced serotonin–norepinephrine reuptake
+inhibitor in persistent pain models in rats. J Pharmacol Exp Ther
+2004;311:576–84.
+[21] Jones CK, Eastwoud BJ, Need AB, Shannon HE. Analgesic effects of serotonergic
+noradrenergic or dual uptake inhibitors in the carrageenan test in rats:
+evidence for synergism between serotonergic and noradrenergic reuptake
+inhibition. Neuropharmacology 2006;51:1172–80.
+[22] Keizer D, Fael D, Wierda JMKH, van Wijhe M. Quantitative sensory testing
+with von Frey monofilaments in patients with allodynia. Clin J Pain
+2008;24:463–6.
+[23] Kind P, Dolan P, Gudex C, Williams A. Variations in population health status:
+results from a United Kingdom national questionnaire survey. BMJ
+1998;316:736–41.
+[24] Klit H, Finnerup NB, Jensen TS. Central post-stroke pain: clinical
+characteristics, pathophysiology, and management. Lancet Neurol
+2009;8:857–68.
+[25] Komiyama O, De Laat A. Tactile and pain thresholds in the intra- and extra-oral
+regions of symptom-free subjects. Pain 2005;115:308–15.
+[26] Kumar B, Kalita J, Kumar G, Misra UK. Central poststroke pain: a review of
+pathophysiology and treatment. Anesth Analg 2009;108:1645–57.
+[27] McHorney CA, Ware JE, Rachel LU JF, Sherbourne CD. The MOS 36-item ShortForm Health survey (SF-36): III. Tests of data quality, scaling assumptions and
+reliability across diverse patients groups. Med Care 1992;32:40–66.
+[28] Millan MJ. The induction of pain: an integrative review. Prog Neurobiol
+1999;57:1–164.
+[29] Morin C, Bushnell MC, Luskin MB, Craig AD. Disruption of thermal perception
+in a multiple sclerosis patient with central pain. Clin J Pain 2002;18:191–5.
+[30] Nicholson BD. Evaluation and treatment of central pain syndromes. Neurology
+2004;62:S30–6.
+[31] Russell IJ, Mease PJ, Smith TR, Kajdasz DK, Wohlreich MM, Detke MJ, Walker
+DJ, Chappell AS, Arnold LM. Efficacy and safety of duloxetine for treatment of
+fibromyalgia in patients with or without major depressive disorder: results
+from a 6-month, randomized, double-blind, placebo-controlled, fixed-dose
+trial. Pain 2008;136:432–44.
+[32] Siddall PJ. Management of neuropathic pain following spinal cord injury: now
+and in the future. Spinal cord 2009;47:352–9.
+[33] Siddall PJ, McClelland JM, Rutkowski SB, Cousins MJ. A longitudinal study of
+the prevalence and characteristics of pain in the first 5 years following spinal
+cord injury. Pain 2003;103:249–57.
+[34] Siddall PJ, Cousins MJ, Otte A, Griesing T, Chambers R, Murphy TK. Pregabalin
+in central neuropathic pain associated with spinal cord injury: a placebocontrolled trial. Neurology 2006;67:1792–800.
+[35] Treede RD, Magerl W. Multiple mechanisms of secondary hyperalgesie. In:
+Sandkuhler J, Bromm B, Gebhart GF, editors. Nervous system plasticity and
+chronic pain, progress in Brain research, vol. 129. Amsterdam: Elsevier; 2000.
+p. 331–41.
+[36] Vranken JH, Dijkgraaf MGW, Kruis MR, van Dasselaar NT, van der Vegt MH.
+Iontophoretic administration of S(C)-ketamine in patients with intractable
+central pain: a placebo-controlled trial. Pain 2005;117:231–5.
+[37] Vranken JH, Dijkgraaf MGW, Kruis MR, van der Vegt MH, Hollmann MW,
+Heesen M. Pregabalin in patients with central neuropathic pain: a randomized,
+double-blind, placebo-controlled trial of a flexible-dose regimen. Pain
+2008;136:150–7.
+[38] Wernicke RJF, Pritchett YL, D’Souza DN, Waninger A, Tran P, Iyengar S. A
+randomized controlled trial of duloxetine in diabetic peripheral neuropathic
+pain. Neurology 2006;67:1411–20.
+[39] Yaksh TL. Calcium channels as therapeutic targets in neuropathic pain. J Pain
+2006;7:S13–30.
+[40] Yezierski RP. Spinal cord injury pain: spinal and supraspinale mechanisms.
+Rehabil Res Dev 2009;46:95–107.
+J.H. Vranken et al. / PAIN
+152 (2011) 267–273 273

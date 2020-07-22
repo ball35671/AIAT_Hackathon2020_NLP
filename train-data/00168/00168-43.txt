@@ -1,0 +1,927 @@
+Pulmonary Perspective
+An Appraisal of the Evidence Underlying Performance
+Measures for Community-acquired Pneumonia
+Kevin C. Wilson1 and Holger J. Schu¨nemann2
+1
+Department of Medicine, Boston University School of Medicine, Boston, Massachusetts; and 2
+Department of Clinical Epidemiology and Biostatistics
+and Medicine, McMaster University, Hamilton, Ontario, Canada
+Numerous organizations use performance measures to monitor the
+quality of care provided for a variety of clinical conditions. An
+appraisal of the evidence underlying such performance measures
+has never been reported. Our objective was to estimate the effects of
+interventions recommended by performance measures and to determine the quality of evidence from which those estimates derive,
+using the Joint Commission and the Centers for Medicare and
+Medicaid Services’ performance measures for community-acquired
+pneumonia (CAP) as examples. We performed systematic reviews of
+the literature to identify evidence related to the performance
+measures for CAP. Metaanalyses were then performed to estimate
+the absolute and relative effects of the interventions recommended
+by the performance measures. The Grading Recommendations,
+Assessment, Development, and Evaluation system was used to
+determine the quality of evidence. The estimated effects favored
+the interventions recommended by five of the six performance
+measures. These included pneumococcal vaccination (incidence of
+pneumococcal pneumonia: relative risk [RR], 0.43; 95% confidence
+interval [CI], 0.24–0.75), blood cultures, antibiotic administration
+within 6 hours, use of a guideline-compliant antibiotic regimen, and
+influenza vaccination (incidence of symptomatic influenza: RR, 0.30;
+95% CI, 0.22–0.40). However, among these performance measures,
+only influenza vaccination was supported by high-quality evidence.
+One-step smoking cessation counseling was contradicted by moderate-quality evidence (smoking quit rate: RR, 1.05; 95% CI, 0.90–
+1.22). The evidence supporting performance measures is frequently
+not of high quality and occasionally contradictory.
+Keywords: pneumococcal vaccines; blood specimen collection; smoking
+cessation; antiinfective agents; influenza vaccines
+Performance measures have been developed by many organizations to monitor the quality of care rendered for a variety of
+clinical conditions (1). The goal of performance measures is to
+provide an incentive for clinicians and healthcare organizations
+to improve the quality of care that they deliver (2).
+A performance measure can be considered a recommendation to use an intervention in a specific patient population.
+The decision to recommend an intervention is influenced by
+several factors, including the balance of desirable and undesirable consequences, the quality of evidence, patient values and
+preferences related to the intervention and outcomes, and
+resource use (3, 4). When consideration of these factors indicates that implementation of the recommendation will lead to
+greater benefit than downsides, a strong recommendation is
+warranted. This requires a reasonable degree of certainty about
+the desirable and undesirable effects of the intervention.
+Performance measures should primarily be based on strong
+recommendations rather than weak recommendations. Performance measures related to weak recommendations (i.e., alternative actions are reasonable if the decision-making process
+accounts for the reasons of the alternative action) require substantially more debate during development and implementation
+because either there is less certainty about the balance of desirable and undesirable effects of an intervention or patient
+values and preferences exert greater influence on decisions.
+Certainty about the balance of desirable and undesirable
+consequences of an intervention is directly influenced by the
+quality of evidence. The greatest certainty exists when the
+estimated effects are derived from high-quality evidence, whereas
+less certainty exists when the estimated effects are derived from
+lower-quality evidence. Thus, performance measures should be
+supported by the highest possible level of clinical evidence or by
+transparent descriptions of the other factors that led to the
+selection of the performance measures, such as patient values,
+preferences, and resource considerations (2). Although these
+latter three factors may not be routinely or adequately considered during the development of some performance measures, it
+is reasonable to assume that those who develop performance
+measures routinely evaluate the quality of evidence and the
+balance of the benefits and harms.
+Performance measures and the evidence supporting them
+have not been well studied. The purpose of our study was to
+estimate the effects of the interventions recommended by
+performance measures and to determine the quality of evidence
+from which those estimates were derived. We chose the Joint
+Commission and the Centers for Medicare and Medicaid
+Services’ performance measures (i.e., National Hospital Quality
+Measures) for community-acquired pneumonia (CAP) as an
+illustrative set of performance measures.
+METHODS
+Performance Measures
+We identified updated versions of the major performance measures for
+patients admitted with CAP from version 3.1 of the Specification
+Manual for National Hospital Quality Measures (1). They included
+recommendations for pneumococcal vaccination, blood cultures, onestep smoking cessation counseling, antibiotics within 6 hours, use of
+guideline-compliant antibiotics, and influenza vaccination. Each is
+described in detail in the RESULTS section.
+Data Sources and Searches
+Systematic reviews were performed for each performance measure
+using a two-step approach. The first step consisted of one of the
+investigators searching Medline (via PubMed), the Cochrane Central
+Register of Controlled Trials, the Cochrane Database of Systematic
+(Received in original form September 10, 2010; accepted in final form January 14, 2011)
+Correspondence and requests for reprints should be addressed to Kevin C. Wilson,
+M.D., 95 Sawyer Road, Waltham, MA 02453. E-mail: kwilson@uptodate.com
+This article has an online supplement, which is accessible from this issue’s table of
+contents at www.atsjournals.org
+Am J Respir Crit Care Med Vol 183. pp 1454–1462, 2011
+Originally Published in Press as DOI: 10.1164/rccm.201009-1451PP on January 14, 2011
+Internet address: www.atsjournals.org
+Reviews, and Google Scholar for randomized trials (see Table E1 in the
+online supplement). If no eligible randomized trials were identified,
+a second step was used that was virtually identical to the first, except
+observational studies (i.e., cohort studies and case-control studies)
+were sought (Table E2). In addition to the electronic database
+searches, the bibliographies of published metaanalyses, selected
+studies, and the Specification Manual for National Hospital Quality
+Measures were reviewed for potentially eligible studies (1). The
+electronic database searches included all dates from the beginning of
+the database through April 15, 2010.
+Study Selection
+For the performance measures recommending pneumococcal vaccination, smoking cessation counseling, and influenza vaccination, studies
+were selected if they compared the intervention to either placebo or no
+intervention and measured patient-important outcomes. For the performance measures recommending blood cultures, antibiotics within
+6 hours, and guideline-compliant antibiotics, the same selection criteria
+were used but the patients had to be hospitalized with CAP.
+Data Extraction and Quality Assessment
+For each selected study, one of the investigators extracted data from
+the published article regarding the study design, participant characteristics, outcome measures, and frequency of events. Occasionally, the
+event data could not be extracted because either the study could not be
+located or the study did not report event data. When this occurred, an
+attempt was made to extract event data from published metaanalyses
+that had included the study. When this secondary approach also failed
+to identify event data, we could not calculate our own estimated effects
+and we instead relied on the effects reported by the original studies to
+inform our judgments.
+Data Synthesis and Analysis
+For each performance measure whose systematic review identified
+multiple relevant studies, one investigator performed metaanalyses
+to estimate the absolute and relative effects of the recommended
+intervention. Metaanalyses were conducted with Review Manager
+(RevMan) 5.0, using a random effects model with relative risk as the
+measure of effect (5).
+Once the estimated effects of the recommended intervention were
+calculated, the two investigators appraised the quality of evidence
+using the Grading, Assessment, Development, and Evaluation
+(GRADE) approach. Randomized trials began with the assumption
+of high-quality evidence, whereas well-done observational studies
+began with an assumption of low-quality evidence. The quality of
+evidence was downgraded or upgraded according to criteria shown
+in Table E3 (3, 6). Discussion and consensus were used to arrive at
+a final quality assessment. Evidence tables were constructed using
+GRADEpro (7).
+RESULTS
+Pneumococcal Vaccination
+The pneumococcal vaccination performance measure determines the proportion of patients, aged 65 years or older,
+hospitalized with CAP who were screened for pneumococcal
+vaccine status and then vaccinated before discharge, if indicated
+(1). Our systematic review identified 15 randomized trials that
+met our inclusion criteria (i.e., compared pneumococcal vaccination to either placebo or no vaccination and measured
+patient-important outcomes) (Figure E1).
+Metaanalyses of the randomized trials found that pneumococcal vaccination decreased the incidence of pneumococcal
+pneumonia (relative risk [RR], 0.43; 95% confidence interval
+[CI], 0.24–0.75), the incidence of invasive pneumococcal disease
+(RR, 0.45; 95% CI, 0.21–0.98), and mortality due to pneumonia
+(RR, 0.71; 95% CI, 0.46–1.09), although the third outcome was
+not statistically significant (Table 1). The absolute effects were
+small (0.1–0.6%) for all of the outcomes due to low baseline
+risks. Prior metaanalyses have similarly found either small or no
+absolute benefits from pneumococcal vaccination (8–14).
+The quality of evidence supporting the performance measure
+(a recommendation for pneumococcal vaccination) was very
+low for all of the outcomes. There were multiple randomized
+trials, but their results were inconsistent (most of trials detected
+a relative benefit, but several found no effect or harm) and their
+populations were indirectly related to the performance measure’s target population. Sources of indirectness included the
+clinical context (most of the trials did not include patients who
+were recovering from an infection, but the performance measure targets adults who are recovering from CAP), age (most of
+the trials included adults of all ages, but the performance
+measure targets only adults who are > 65 years old), and
+comorbidity (most of the evidence is from patients without
+significant comorbidities, but the performance measure is also
+intended for patients with comorbidities) (Table 1). This indirectness may be important because there are data that suggest
+that pneumococcal vaccination may be less effective among the
+elderly, patients who were recently infected, and patients with
+comorbidities (8–10, 12, 15, 16).
+Blood Cultures
+This performance measure determines the proportion of adult
+ICU patients transferred or admitted to the ICU within 24
+hours of hospital arrival with CAP who had blood cultures performed within the 24 hours before or after hospital arrival (1).
+Our systematic review identified two retrospective cohort studies
+that met our inclusion criteria (i.e., enrolled patients hospitalized with CAP, compared those who had blood cultures performed to those who had not, and measured patient-important
+outcomes) (Figure E1) (17, 18). Metaanalyses were not performed because the studies did not report event data.
+Blood cultures were associated with an increased likelihood
+of being clinically stable at 48 hours in the only study that
+looked at this outcome (adjusted odds ratio [OR], 1.62; 95% CI,
+1.33–2.33) (17). The studies also found a reduction in the
+relative risk of mortality among patients who had blood cultures
+performed (adjusted OR, 0.86; 95% CI, 0.36–2.07 [17]; and
+adjusted OR, 0.90; 95% CI, 0.81–1.00 [18]), although both failed
+to achieve statistical significance.
+The quality of the evidence supporting the performance
+measure (a recommendation for blood cultures) was very low
+for both outcomes. For clinical stability at 48 hours, there was
+an observational study, but its population was indirectly related
+to the performance measure’s target population (the study
+included many non-ICU patients, but the target population is
+ICU patients). For mortality, there were two observational
+studies, but their estimates were imprecise, there was a risk of
+bias (confounding by indication), and the populations were
+indirectly related to the performance measure’s target population (one study included only elderly patients and both studies
+included non-ICU patients).
+Smoking Cessation
+The smoking cessation performance measure determines the
+proportion of adult patients with CAP and a history of smoking
+cigarettes any time during the prior year who were given
+smoking cessation advice or counseling during their hospitalization (1). Our systematic review identified 10 randomized trials
+that met our inclusion criteria (i.e., they compared inpatient
+smoking cessation advice to no smoking cessation intervention
+and measured patient-important outcomes) (Figure E1).
+A metaanalysis of these trials found that inpatient smoking
+cessation advice without outpatient follow-up did not improve
+Pulmonary Perspective 1455
+the smoking quit rate (RR, 1.05; 95% CI, 0.90–1.22), contradicting the performance measure (a recommendation for inpatient smoking cessation advice). The quality of evidence was
+moderate because there were multiple randomized trials, but
+their estimates of effect were imprecise (Table 2). Our results
+are similar to a prior metaanalysis that included many of the
+same studies (19).
+Antibiotics within 6 Hours
+The antibiotic timing performance measure determines the
+proportion of adult patients with CAP who received their first
+dose of antibiotics within 6 hours of hospital arrival (1). A
+threshold of 4 hours was used in previous versions of the
+performance measure, but the threshold was changed to 6 hours
+amid reports of increased misdiagnosis and inappropriate antibiotic use after implementation of the 4-hour threshold (20–27).
+We reviewed the evidence underlying the prior performance
+measure (antibiotics within 4 hours) in response to our reviewers and found that the estimated effects were inconsistent.
+Two observational studies found that the initiation of antibiotics
+within 4 hours was associated with reduced mortality (28, 29),
+one observational study reported a possible benefit (i.e., mortality decreased, but the 4-hour threshold was only one of
+a bundle of interventions and the study did not analyze each
+TABLE 1. EVIDENCE TABLE FOR THE PNEUMOCOCCAL VACCINATION PERFORMANCE MEASURE
+Quality Assessment
+No. of
+Studies Design Limitations Inconsistency Indirectness Imprecision
+Other
+Considerations
+Mortality due to pneumonia 10 Randomized trials No serious limitations Serious* Very serious† No serious imprecision‡ None
+Pneumococcal pneumonia 14 Randomized trials No serious limitations Seriousx Very serious† No serious imprecision None
+Invasive pneumococcal disease 12 Randomized trials No serious limitations Seriousk Very serious† No serious imprecision None
+Summary of findings
+No. of Patients Effect
+Pneumococcal Vaccination Control Relative (95% CI) Absolute Quality Importance
+Mortality due to pneumonia 185/22,946 (0.8%) 288/21,324 (1.4%) RR 0.71 (0.46–1.09) 4 fewer per 1,000 (from
+7 fewer to 1 more)
+44OO Very low Critical
+Pneumococcal pneumonia 136/36,492 (0.4%) 338/36,420 (0.9%) RR 0.43 (0.24–0.75) 5 fewer per 1,000 (from
+2 fewer to 7 fewer)
+44OO Very low Important
+Invasive pneumococcal disease 32/32,815 (0.1%) 75/30,952 (0.2%) RR 0.45 (0.21–0.98) 1 fewer per 1,000 (from
+0 fewer to 2 fewer)
+44OO Very low Important
+Definition of abbreviations: CI 5 confidence interval; RR = relative risk.
+Comparison: Pneumococcal vaccination versus no pneumococcal vaccination. Data from References 50–66.
+* Inconsistency: We downgraded for inconsistency because our metaanalysis of the 10 randomized trials found a severe amount of heterogeneity (I2 5 70%, P 5
+0.0004). In addition, visual inspection of the relative risks on the Forrest plot from our metaanalysis revealed five studies with a relative benefit, four studies with little or
+no relative benefit, and one study with relative harm. † Indirectness: The performance measure is intended for patients who are aged 65 years or older and recovering from community-acquired pneumonia, but the
+evidence presented here is from adults of all ages who were not recovering from an infection. We downgraded for indirectness of the population because some data
+suggest that the pneumococcal vaccine may be less effective among the elderly, patients with comorbidity, and patients who are currently or were recently infected. ‡ Imprecision: We did not downgrade for imprecision because we already downgraded for inconsistency, which is partially related to the wide CI of the relative effect.
+We also note that the absolute effects are small and compatible with a small benefit (absolute risk reduction of 0.7% for the upper limit of the confidence interval). x Inconsistency: Visual inspection of the Forrest plot from our metaanalysis revealed seven studies with a relative benefit, five studies with little or no relative benefit,
+and two studies with relative harm. In addition, we found a large amount of heterogeneity (I2 5 74%, P , 0.00001).
+k Inconsistency: We downgraded for inconsistency because our metaanalysis of the 12 randomized trials found a moderate amount of heterogeneity (I2 5 49%, P 5
+0.03). In addition, visual inspection of the relative risks on the Forrest plot from our metaanalysis revealed six studies with a relative benefit, three studies with little or no
+relative benefit, and three studies with relative harm.
+TABLE 2. EVIDENCE TABLE FOR THE SMOKING CESSATION PERFORMANCE MEASURE
+Quality Assessment
+No. of studies Design Limitations Inconsistency Indirectness Imprecision Other considerations
+Quit rate 10 Randomized trials No serious limitations No serious inconsistency No serious indirectness* Serious† None
+Summary of Findings
+No. of Patients Effect
+Smoking cessation advice Control Relative (95% CI) Absolute Quality Importance
+Quit rate 427/2,679 (15.9%) 362/2,317 (15.6%) RR 1.05 (0.90–1.22) 8 more per 1,000 (from
+12 fewer to 31 more)
+444O Moderate Critical
+For definition of abbreviations, see Table 1.
+Comparator: Inpatient-only smoking cessation counseling versus no counseling. Data from References 67–76.
+* The quit rate is a surrogate for many patient-important outcomes. However, it is a well-established, reliable surrogate. Therefore, the evidence was not downgraded
+for indirectness of the comparator. † Slight imprecision: Assuming that a 1% absolute risk reduction in quit rate would prompt most clinicians to provide smoking cessation counseling (threshold number
+needed to treat 5 100), the upper and lower limits of the CIs indicate opposite clinical decisions.
+1456 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 183 2011
+intervention separately) (30), and three observational studies
+found no improvement in clinical outcomes (20, 21, 31).
+Our systematic review targeted evidence related to the
+current performance measure (antibiotics within 6 hours). The
+review did not identify any studies that met our inclusion criteria
+(i.e., enrolled patients with CAP, compared an initial antibiotic
+dose within 6 hours to a later antibiotic dose, and measured
+patient-important outcomes); therefore, we extracted data from
+studies that described the relationship of an outcome to the duration until the initial antibiotic dose, over a range of durations.
+We identified three such retrospective cohort studies (Figure E1).
+Metaanalyses were not performed because some studies did
+not report event data. However, the studies found that the
+administration of an initial antibiotic dose within 6 hours was
+associated with a lower likelihood of having a prolonged
+hospital stay (RR, 0.31; 95% CI, 0.19–0.48 [32]) (Table 3). It
+was also associated with decreased mortality (adjusted OR,
+0.84; 95% CI, 0.73–0.95 [33] and adjusted OR, 0.93; 95% CI,
+0.85–1.02 [18]), although the latter study was not statistically
+significant.
+The quality of the evidence supporting the performance
+measure (a recommendation to begin antibiotics within 6 hours)
+depended upon the outcome (Table 3). For mortality, there was
+very low-quality evidence: two observational studies with
+a dose–response gradient, but a serious risk of bias and
+imprecise estimates. For the incidence of a prolonged hospital
+stay, there was low-quality evidence: an observational study
+with a large effect but serious risk of bias.
+Guideline-Compliant Antibiotics
+The antibiotic selection performance measure determines the
+proportion of adult patients with CAP who received an initial
+antibiotic regimen consistent with current guidelines during the
+first 24 hours of their hospitalization (1). Acceptable regimens
+are listed in the Specification Manual for National Hospital
+Quality Measures (1) and are consistent with the 2007 Infectious Disease Society of America (IDSA)/American Thoracic Society (ATS) guidelines for CAP (34).
+Our systematic review identified two retrospective cohort
+studies that met our inclusion criteria (i.e., enrolled patients
+with CAP, compared antibiotic regimens that were consistent
+with the 2007 IDSA/ATS guidelines to regimens that were not,
+and measured patient-important outcomes). Given both the
+paucity of data and the fact that the 2007 IDSA/ATS guidelines
+and the 2001 ATS guidelines (35) recommend similar antibiotic
+regimens, we broadened our selection criteria and repeated the
+systematic review. We selected studies that compared antibiotic
+regimens that were consistent with either the 2007 IDSA/ATS
+guidelines or the 2001 ATS guidelines to regimens that were
+not. Our repeat systematic review identified six observational
+studies (Figure E1) (36–41).
+Metaanalyses were not performed because several studies
+did not report event data. However, the studies consistently
+found that a guideline-compliant antibiotic regimen was associated with decreased mortality: RR, 0.45; 95% CI, 0.35–0.60
+(36); adjusted OR, 0.54; 95% CI, 0.47–0.61 (37); adjusted OR,
+0.69; 95% CI, 0.25–1.94 (38); adjusted OR, 0.37; 95% CI, 0.15–
+0.95 (39); adjusted RR, 0.43, P 5 0.04 (40); and adjusted OR,
+0.18; 95% CI, 0.06–0.5 (41) (Table 4).
+The quality of evidence supporting the performance measure
+(a recommendation to use a guideline-consistent antibiotic
+regimen) was moderate (Table 4). There were multiple observational studies that were strengthened by a large effect.
+Influenza Vaccination
+The influenza vaccination performance measure determines the
+proportion of patients, aged 50 years and older, hospitalized
+with CAP during the months of October through March, who
+TABLE 3. EVIDENCE TABLES FOR THE ANTIBIOTIC TIMING PERFORMANCE MEASURE
+Quality Assessment
+No. of Studies Design Limitations Inconsistency Indirectness Imprecision Other Considerations
+Mortality 2 Observational
+studies
+Serious limitations* No serious
+inconsistency
+No serious
+indirectness†
+Serious‡ Dose–response
+gradientx
+Incidence of a prolonged
+length of stay (. 9 d)
+1 Observational
+studies
+Serious limitations* No serious
+inconsistency
+No serious
+indirectness†
+No serious
+imprecision
+Strong association**
+Summary of Findings
+No. of Patients Effect
+Intervention Control Relative (95% CI) Absolute Quality Importance
+Mortality 1,243/10,719 (11.6%)k 412/3,052 (13.5%)k Not pooled{ Not pooled{ 444O Very low Critical
+Incidence of a prolonged
+length of stay (. 9 d)
+69/136 (50.7%) 335/473 (70.8%) RR 0.31
+(0.19 to 0.48)
+489 fewer per 1,000 (from
+368 fewer to 574 fewer)
+44OO Low Important
+Definition of abbreviations: CI 5 confidence interval; OR 5 odds ratio; RR = relative risk.
+Comparison: Antibiotics initiated within 6 hours versus antibiotics initiated later. Data from References 18, 32, 33.
+* Early antibiotic therapy may be a marker of a more aggressive approach to initial care. Thus, cointerventions, rather than antibiotics within 6 hours, may be
+responsible for the effects measured. † Indirectness: The performance measure is for all adults, but the studies were primarily conducted in patients more than 65 years old. Nevertheless, we did not
+downgrade the quality of evidence for indirectness because we could think of no reason that advanced age would mislead us about the true impact of early antibiotic
+therapy. ‡ Imprecision: Assuming that a 1% absolute risk reduction in mortality would prompt most clinicians to administer the first antibiotic dose within 6 hours (threshold
+number needed to treat 5 100), the upper and lower limits of the CIs in both studies indicate opposite clinical decisions. x Dose–response gradient: Both studies found that earlier antibiotic administration was associated with lower mortality over a range of approximately 2 to 8 hours.
+k Only one of the studies (33) reported event data, which are shown.
+{ A metaanalysis was not conducted because event data were not reported by one of the studies. The relative effects of the individual studies included an adjusted OR,
+0.93; 95% CI, 0.85–1.02 (18) and an adjusted OR, 0.84; CI, 0.73–0.95 (33).
+** The incidence of a prolonged length of stay if antibiotics are administered within 6 hours is less than half the incidence if antibiotics are administered later.
+Pulmonary Perspective 1457
+were screened for influenza vaccine status and then vaccinated
+before discharge, if indicated (1). Our systematic review identified 26 randomized trials that met our inclusion criteria (i.e.,
+compared influenza vaccination to no influenza and measured
+patient-important outcomes) (Figure E1). Metaanalyses of
+these trials found that influenza vaccination decreased the
+incidence of both laboratory-confirmed cases of symptomatic
+influenza (RR, 0.30; 95% CI, 0.22–0.40) and influenza-like
+illnesses (RR, 0.74; 95% CI, 0.67–0.82) (Table 4). Our findings
+are consistent with previous metaanalyses (42–44).
+The quality of evidence supporting the performance measure
+(a recommendation for influenza vaccination) varied according
+to the outcome (Table 5). For laboratory-confirmed cases of
+symptomatic influenza, the quality of evidence was high because
+there were numerous randomized trials with a large effect. For
+influenza-like illnesses, the quality of evidence was moderate
+because the randomized trials had inconsistent results (most
+trials found a benefit, but several found no effect).
+DISCUSSION
+The purpose of our study was to systematically evaluate the
+evidence underlying performance measures. Our results suggest
+that the estimated effect usually favors the intervention that is
+TABLE 4. EVIDENCE TABLE FOR THE GUIDELINE-COMPLIANT ANTIBIOTIC REGIMEN PERFORMANCE MEASURE
+Quality Assessment
+No. of Studies Design Limitations Inconsistency Indirectness Imprecision Other Considerations
+Mortality 6 Observational
+studies
+No serious
+limitations
+No serious
+inconsistency
+No serious
+indirectness*
+No serious
+imprecision†
+Strong association‡
+Summary of Findings
+No. of Patients Effect
+Guideline-Compliant Antibiotics Control Relative (95% CI) Absolute Quality Importance
+Mortality Not pooledx Not pooledx Not pooledx Not pooledx 444O Moderate Critical
+For definition of abbreviations, see Table 3.
+Comparison: Guideline-compliant antibiotic regimen versus a non–guideline-compliant antibiotic regimen. Data from references 36–41.
+* The performance measure is intended for all adults with community-acquired pneumonia. However, one of the studies (36) looked only at elderly patients. We did
+not downgrade for indirectness of the population because the results were similar among the studies, suggesting that the age of the population had little impact on the
+results. † Only one of the six studies had imprecision (38); therefore, we did not downgrade for imprecision.
+‡ Five of the six studies estimated that guideline-compliant antimicrobial therapy was associated with an adjusted mortality that was less than half that associated with
+noncompliant therapy; therefore, we upgraded for a large magnitude of effect. x A metaanalysis was not performed because event data were not reported by several studies. The relative effects of the individual studies included an RR, 0.45; 95%
+CI, 0.35–0.60 (36); adjusted OR, 0.54; 95% CI, 0.47–0.61 (37); adjusted OR, 0.69; 95% CI, 0.25–1.94 (38); adjusted OR, 0.37; CI, 0.15–0.95 (39), adjusted RR, 0.43;
+P 5 0.04 (40); and adjusted OR, 0.18; 95% CI, 0.06–0.5 (41).
+TABLE 5. EVIDENCE TABLE FOR THE INFLUENZA VACCINATION PERFORMANCE MEASURE
+Quality Assessment
+No of studies Design Limitations Inconsistency Indirectness Imprecision Other Considerations
+Laboratory-confirmed
+cases of symptomatic
+influenza
+14 Randomized trials No serious
+limitations
+No serious
+inconsistency
+No serious
+indirectness*
+No serious
+imprecision
+Strong association†
+Influenza-like illness 19 Randomized trials No serious
+limitations
+Serious‡ No serious
+indirectness*
+No serious
+imprecision
+None
+Summary of Findings
+No. of Patients Effect
+Influenzae Vaccination Control Relative (95% CI) Absolute Quality Importance
+Laboratory-confirmed
+cases of symptomatic
+influenza
+397/1,6422 (2.4%) 625/15,620 (4%) RR 0.30 (0.22–0.4) 28 fewer per 1,000 (from
+24 fewer to 31 fewer)
+4444 High Critical
+Influenza-like illness 5,168/30,754 (16.8%) 3,357/15,268 (22%) RR 0.74 (0.67–0.82) 57 fewer per 1,000 (from
+40 fewer to 75 fewer)
+444O Moderate Important
+For definition of abbreviations, see Table 1.
+Question: Influenzae vaccination versus either no influenza vaccination or placebo. Data from References 78–102.
+* The performance measure is intended for patients who are aged 50 years or older, but the evidence presented here is from adults of all ages. We did not downgrade
+for indirectness of the population because a metaanalyses of randomized trials demonstrated effectiveness of the influenza vaccination among elderly patients. † Large effect: Our metaanalysis of 14 randomized trials found that the incidence of influenza was less than half among patients who received the influenza vaccine,
+compared with those who did not. ‡ Inconsistency: Visual inspection of the relative risks on the Forrest plot from our metaanalysis revealed 14 trials with a relative benefit and 5 trials with little or no
+relative benefit. In addition, our metaanalysis of the 19 randomized trials found a large amount of heterogeneity (I2 5 82%, P , 0.00001).
+1458 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 183 2011
+recommended by the performance measure, but the evidence is
+frequently not high quality. This implies that there is uncertainty about the balance of desirable and undesirable effects of
+the intervention. We believe that when such uncertainty exists,
+there should be other compelling factors that favor the intervention if it is going to be recommended by a performance measure (3,
+45). These factors may include patient values and preferences as
+they pertain to the intervention and outcomes as well as resource
+use (3, 4). It is possible that these factors implicitly influence the
+development of performance measures, but we suggest that they
+be stated explicitly and transparently for those who are being
+evaluated on the basis of the performance measures.
+We chose the Joint Commission and the Centers for
+Medicaid and Medicare Services’ performance measures for
+CAP as an illustrative set of performance measures (1). We
+believe that recommendations for influenza vaccination and
+guideline-compliant antibiotics are reasonable performance
+measures. Influenza vaccination has a large effect and is
+supported by high-quality evidence (Table 5), whereas the use
+of a guideline-compliant antibiotic regimen also has a large
+effect and is supported by moderate-quality evidence (Table 4).
+Although it would be ideal if the guideline-compliant antibiotic
+performance measure was supported by high-quality evidence,
+any uncertainty that exists about the ratio of desirable and
+undesirable effects seems to be superseded by the potential for
+major patient-important benefits, the implicit distribution of
+values and preferences, and the limited resource requirements.
+Specifically, the potential desirable effects of administering
+guideline-compliant antibiotics (decrease in mortality) far exceeds both the potential undesirable effects (antibiotic side
+effects) and the resource requirements (cost of the antibiotic) if
+administered to appropriate patients. Thus, it is likely that most
+patients would choose to receive guideline-compliant antibiotics.
+In contrast to the recommendations for influenza vaccination
+and guideline-compliant antibiotics, we believe that the rationale for the recommendations for pneumococcal vaccination,
+antibiotics within 6 hours, blood cultures, and one-step inpatient
+smoking cessation counseling is elusive and either reconsideration or further description by the sponsoring organizations is
+warranted.
+With respect to the recommendation for pneumococcal
+vaccination, the finding that pneumococcal vaccination decreases pneumococcal pneumonia and invasive pneumococcal
+disease is supported by very low-quality evidence, suggesting
+uncertainty about the presence and magnitude of the estimated
+effect. Even if pneumococcal vaccination is beneficial, the
+magnitude by which pneumococcal vaccination decreases pneumococcal pneumonia and invasive pneumococcal disease is
+probably extremely small due to the low baseline risk. Based
+on randomized trials, this absolute risk reduction may be as low
+as 0.1 to 0.6% (Table 1). Patients, clinicians, and healthcare
+organizations may reasonably decide that the small benefits of
+pneumococcal vaccination do not outweigh its burdens and
+costs. It can be argued that the benefits may be larger among the
+elderly patients for whom the performance measure is intended,
+because they are at the highest risk for complications from
+pneumococcal infection. However, this assumes that pneumococcal vaccination is effective in elderly patients who are
+recovering from CAP, which cannot be confirmed due to
+conflicting data (8–10, 12, 15, 16).
+With respect to the recommendation for antibiotics within 6
+hours of hospital arrival, the relevant evidence is low or very
+low quality depending on the outcome, meaning that we have
+little confidence in the direction and magnitude of the estimated
+effects. Thus, the balance of potential desirable effects (decreased mortality, decreased likelihood of a prolonged hospital
+stay) and undesirable effects (increased misdiagnosis, inappropriate antibiotic use) is uncertain. It seems likely that early
+antibiotics are beneficial to some patients (e.g., patients with
+sepsis due to CAP), but not others (e.g., patients whose
+diagnosis is uncertain). This argues against the use of antibiotics
+within 6 hours as a performance measure, because interventions
+recommended by performance measures should routinely benefit the vast majority of the patients for whom the performance
+measure is intended.
+With respect to the recommendation to draw blood cultures
+from patients admitted to an ICU, the evidence for performing
+blood cultures in patients with CAP is very low quality. This
+means that there is uncertainty about the presence and magnitude of the estimated benefits of blood cultures. It may be argued
+that blood cultures should be performed because positive blood
+cultures frequently affect empiric therapy (1). However, citing
+the impact of positive blood cultures overestimates the importance of performing a blood culture, because relatively few blood
+cultures are positive even among ICU patients (46). It also
+assumes that most changes in empiric therapy represent optimization of therapy, which may be incorrect (47). The possibility
+that clinical benefits are associated with performing blood
+cultures and that these benefits are not due to the optimization
+of antimicrobial therapy suggests that performing blood cultures
+is merely a surrogate for other interventions that improve outcomes (e.g., more aggressive or protocol-guided care).
+With respect to the recommendation for inpatient smoking
+cessation counseling, we found moderate-quality evidence
+suggesting that inpatient smoking cessation counseling alone
+does not improve the smoking quit rate (Table 2). However,
+high-quality evidence has been reported that indicates that
+inpatient smoking cessation counseling improves the smoking
+quit rate if it is followed by at least 1 month of outpatient
+smoking cessation therapy (19). We recognize the importance
+of smoking cessation, but believe that this performance measure
+may be improved by making it a recommendation for inpatient
+smoking cessation counseling followed by outpatient therapy or,
+at least, documentation of the intention to continue the
+counseling as an outpatient. It can be argued that inpatient
+counseling is a prerequisite for the outpatient intervention and
+it therefore qualifies as performance measure (sine qua non),
+but this argument is weakened by the lack of evidence that
+enough patients will complete the outpatient counseling to
+make the inpatient efforts worthwhile.
+Our study has the following strengths. We selected an
+updated list of performance measures, conducted systematic
+reviews of the evidence, and used the GRADE strategy to
+appraise the evidence. GRADE is an approach that focuses on
+transparency in the evaluation of the quality of evidence,
+considers the same factors that influence the appropriateness
+of a performance measure, and is based on widely validated
+factors that can lead to systematic errors and factors that are
+used to evaluate a cause and effect relationship (48, 49).
+There are also some limitations to our study. We did not use
+a multidisciplinary approach or a rigorous guideline development process to evaluate the performance measures. However,
+we believe that our methods were transparent and that our
+findings are reproducible. In addition, we selected performance
+measures related to CAP only and not other performance
+measures. Given the paucity of attention paid to the importance
+of developing performance measures supported by high-quality
+evidence or, in the presence of lower-quality evidence, supported by other compelling factors that favor the intervention,
+our study is probably representative and would remain important even if the issues identified in this study are less prevalent
+among performance measures for other diseases.
+Pulmonary Perspective 1459
+In summary, our study suggests that the evidence supporting
+performance measures is frequently not of high quality. This
+implies that there is uncertainty about the balance of the
+desirable and undesirable consequences of the interventions
+being recommended by performance measures. With respect to
+our illustrative performance measures for CAP from the Joint
+Commission and Centers for Medicare and Medicaid Services,
+we believe that two of the performance measures (recommendations for influenza vaccination and guideline-compliant
+antibiotics) are reasonable performance measures, but four
+(recommendations for pneumococcal vaccination, antibiotics
+within 6 hours, blood cultures, and one-step smoking cessation
+counseling) require further explanation or reconsideration.
+Author Disclosure: K.C.W. is a full-time employee of UpToDate/Wolters Kluwer.
+H.S. does not have a financial relationship with a commercial entity that has an
+interest in the subject of this manuscript.
+References
+1. Specification Manual for National Hospital Quality Measures. Version 3.1a.
+[accessed 2010 Sept 6]. Available from: http://www.jointcommission.
+org/specifications_manual_for_national_hospital_inpatient_quality_
+measures/
+2. Principles Respecting Joint Commission Core Performance Measurement Activities. [accessed 2010 Sept 6] Available from: http://www.
+jointcommission.org/assets/1/18/Attach_A_Principles_Review.pdf
+3. Guyatt GH, Oxman AD, Kunz R, Vist GE, Falck-Ytter Y, Schunemann
+HJ. Rating quality of evidence and strength of recommendations:
+what is ‘‘quality of evidence’’ and why is it important to clinicians?
+BMJ 2008;336:995–998.
+4. Schunemann HJ, Hill SR, Kakad M, Bellamy R, Uyeki TM, Hayden
+FG, Yazdanpanah Y, Beigel J, Chotpitayasunondh T, Del Mar C,
+et al. WHO rapid advice guidelines for pharmacological management of sporadic infection with avian influenza A (H5N1) virus.
+Lancet Infect Dis 2007;7:21–31.
+5. Review Manager (RevMan) [Computer program]. Version 5.0. Copenhagen: The Nordic Cochrane Centre, The Cochrane Collaboration; 2008.
+6. Schunemann HJ, Vist GE, Jaeschke R, Kunz R, Cook DJ, Guyatt GH.
+Grading recommendations. In: Guyatt G, Rennie D, Meade MO,
+Cook DJ, editors. Users’ guides to the medical literature. 2nd ed.
+New York: McGraw-Hill; 2008. pp. 679–701.
+7. GRADEpro. [Computer program]. Version 3.2 for Windows. Jan
+Brozek, Andrew Oxman, Holger Schu¨nemann, 2008.
+8. Moberley S, Holden J, Tatham DP, Andrews RM. Vaccines for
+preventing pneumococcal infection in adults. Cochrane Database
+Syst Rev 2008;1:CD000422.
+9. Huss A, Scott P, Stuck AE, Trotter C, Egger M. Efficacy of pneumococcal vaccination in adults: a meta-analysis. CMAJ 2009;180:48–58.
+10. Fine MJ, Smith MA, Carson CA, Meffe F, Sankey SS, Weissfeld LA,
+Detsky AS, Kapoor WN. Efficacy of pneumococcal vaccination in
+adults: a meta-analysis of randomized controlled trials. Arch Intern
+Med 1994;154:2666–2677.
+11. Cornu C, Yzebe D, Leophonte P, Gaillat J, Boissel JP, Cucherat M.
+Efficacy of pneumococcal polysaccharide vaccine in immunocompetent adults: a meta-analysis of randomized trials. Vaccine 2001;19:
+4780–4790.
+12. Moore RA, Wiffen PJ, Lipsky BA. Are the pneumococcal polysaccharide vaccines effective? Meta-analysis of the prospective trials. BMC
+Fam Pract 2000;1:1.
+13. Hutchison BG, Oxman AD, Shannon HS, Lloyd S, Altmayer CA,
+Thomas K. Clinical effectiveness of pneumococcal vaccine: metaanalysis. Can Fam Physician 1999;45:2381–2393.
+14. Conaty S, Watson L, Dinnes J, Waugh N. The effectiveness of
+pneumococcal polysaccharide vaccines in adults: a systematic review
+of observational studies and comparison with results of randomized
+controlled trials. Vaccine 2004;22:3214–3224.
+15. Honkanen PO, Keistenen T, Miettenen L, Herva E, Sankilampi U, Laara
+E, Leinonen M, Kivela SL, Makela PH. Incremental effectiveness of
+pneumococcal vaccine on simultaneously administered influenza
+vaccine in preventing pneumonia and pneumococcal pneumonia
+among persons aged 65 years or older. Vaccine 1999;17:2493–2500.
+16. Onyemelukwe GC, Leinoen M, Makela H, Greenwood BM. Response
+to pneumococcal vaccination in normal and post-infected Nigerians.
+J Infect 1985;11:139.
+17. Dedier J, Singer DE, Chang Y, Moore M, Atlas SJ. Processes of care,
+illness severity, and outcomes in the management of communityacquired pneumonia at academic hospitals. Arch Intern Med 2001;
+161:2099–2104.
+18. Meehan TP, Fine MJ, Krumholz HM, Scinto JD, Galusha DH, Mockalis
+JT, Weber GF, Petrillo MK, Houck PM, Fine JM. Quality of care,
+process, and outcomes in elderly patients with pneumonia. JAMA
+1997;278:2080–2084.
+19. Rigotti N, Munafo MR, Stead LF. Interventions for smoking cessation
+in hospitalized patients. Cochrane Database Syst Rev 2007;3:
+CD001837.
+20. Barlow G, Nathwani D, Williams F, Ogston S, Winter J, Jones M, Slane
+P, Myers E, Sullivan F, Stevens N, et al. Reducing door-to-antibiotic
+time in community-acquired pneumonia: controlled before-and-after
+evaluation and cost-effectiveness analysis. Thorax 2007;62:67.
+21. Kanwar M, Brar N, Khatib R, Fakih MG. Misdiagnosis of community-acquired pneumonia and inappropriate utilization of antibiotics: side effects of the 4-h antibiotic administration rule. Chest
+2007;131:1865.
+22. Metersky ML, Sweeney TA, Getzow MB, Siddiqui F, Nsa W, Bratzler
+DW. Antibiotic timing and diagnostic uncertainty in Medicare
+patients with pneumonia: is it reasonable to expect all patients to
+receive antibiotics within 4 hours. Chest 2006;130:16–21.
+23. Wachter RM, Flanders SA, Fee C, Pronovost PJ. Public reporting of
+antibiotic timing in patients with pneumonia: lessons from a flawed
+performance measure. Ann Intern Med 2008;149:29–32.
+24. Welker JA, Huston M, McCue JD. Antibiotic timing and errors in
+diagnosing pneumonia. Arch Intern Med 2008;168:351–356.
+25. Pines JM, Hollander JE, Lee H, Everett WW, Uscher-Pines L, Metlay
+JP. Emergency department operational changes in response to payfor-performance and antibiotic timing in pneumonia. Acad Emerg
+Med 2007;14:545.
+26. Drake DE, Cohen A, Cohn J. National hospital antibiotic timing
+measures for pneumonia and antibiotic overuse. Qual Manag Health
+Care 2007;16:113.
+27. Nicks BA, Manthey DE, Fitch MT. The Centers for Medicare and
+Medicaid Services (CMS) community-acquired pneumonia core
+measures lead to unnecessary antibiotic administration by emergency physicians. Acad Emerg Med 2009;16:184.
+28. Waterer GW, Kessler LA, Wunderink RG. Delayed administration of
+antibiotics and atypical presentation is community-acquired pneumonia. Chest 2006;130:11.
+29. Houck PM, Bratzler DW, Niederman M, Bartlett JG. Pneumonia
+treatment process and quality. Arch Intern Med 2002;162:843.
+30. McGarvey RN, Harper JJ. Pneumonia mortality reduction and quality
+improvement in a community hospital. QRB Qual Rev Bull 1993;19:
+124.
+31. Bruns AH, Oosterheert JJ, Hustinx WN, Gaillard CA, Hak E,
+Hoepelman AI. Time for first antibiotic dose is not predictive for
+the early clinical failure of moderate-severe community-acquired
+pneumonia. Eur J Clin Microbiol Infect Dis 2009;28:913.
+32. Battleman DS, Callahan M, Thaler HT. Rapid antibiotic delivery
+and appropriate antibiotic selection reduce length of hospital stay of
+patients with community-acquired pneumonia: link between quality of
+care and resource utilization. Arch Intern Med 2002;162:682–688.
+33. Houck PM, Bratzler DW, Nsa W, Ma A, Bartlett JG. Timing of
+antibiotic administration and outcomes for Medicare patients hospitalized with community-acquired pneumonia. Arch Intern Med 2004;
+164:637–644.
+34. Mandell LA, Wunderink RG, Anzueta A, Bartlett JG, Campbell GD,
+Dean NC, Dowell SF, File TM Jr, Musher DM, Niederman MS, et al.
+Infectious Diseases Society of America, American Thoracic Society
+consensus guidelines on the management of community-acquired
+pneumonia in adults. Clin Infect Dis 2007;44:S27–S72.
+35. Niederman MS, Mandell LA, Anzueto A, Bass JB, Broughton WA,
+Campbell GD, Dean N, File T, Fine MJ, Gross PA, et al. Guidelines
+for the management of adults with community-acquired pneumonia.
+Am J Respir Crit Care Med 2001;163:1730–1754.
+36. Arnold FW, LaJoie AS, Brock GN, Peyrani P, Rello J, Menendez R,
+Lopardo G, Torres A, Rossi P, Ramirez JA. Improving outcomes in
+elderly patients with community-acquired pneumonia by adhering
+to national guidelines: community-acquired pneumonia organization
+international cohort study results. Arch Intern Med 2009;169:1515–
+1524.
+37. McCabe C, Kirschner C, Zhang H, Daley J, Fisman DN. Guidelineconcordant therapy and reduced mortality and length of stay in
+1460 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 183 2011
+adults with community-acquired pneumonia: playing by the rules.
+Arch Intern Med 2009;169:1525–1531.
+38. Dambrava PG, Torres A, Valles X, Mensa J, Marcos MA, Penarroja G,
+Camps M, Estruch R, Sanchez M, Menendez R, et al. Adherence to
+guidelines’ empirical antibiotic recommendations and communityacquired pneumonia outcome. Eur Respir J 2008;32:892–901.
+39. Mortensen EM, Restrepo MI, Anzueto A, Pugh JA. Antibiotic therapy
+and 48-hour mortality for patients with pneumonia. Am J Med 2006;
+119:859–864.
+40. Frei CR, Restrepo MI, Mortensen EM, Burgess DS. Impact of
+guideline-concordant empiric antibiotic therapy in communityacquired pneumonia. Am J Med 2006;119:865–871.
+41. Mortensen EM, Restrepo M, Anzueto A, Pugh J. Effects of guidelineconcordant antimicrobial therapy on mortality among patients with
+community-acquired pneumonia. Am J Med 2004;117:726–731.
+42. Villari P, Manzoli L, Boccia A. Methodological quality of studies and
+patient age as major sources of variation in efficacy estimates of
+influenza vaccination in healthy adults: a meta-analysis. Vaccine
+2004;22:3475–3486.
+43. Jefferson TO, Rivetti D, Di Pietrantonj C, Rivetti A, Demicheli V.
+Vaccines for preventing influenza in healthy adults. Cochrane
+Database Syst Rev 2007;2:CD001269.
+44. Rivetti D, Jefferson T, Thomas R, Rudin M, Rivetti A, Di Pietrantonj C,
+Demicheli V. Vaccines for preventing influenza in the elderly.
+Cochrane Database Syst Rev 2006;CD004876.
+45. Schunemann HJ, Jaeschke R, Cook DJ, Bria WF, El-Solh AA, Ernst
+A, Fahy BF, Gould MK, Horan KL, Krishnan JA. An official ATS
+statement: grading the quality of evidence and strength or recommendations in ATS guidelines and recommendations. Am J Respir
+Crit Care Med 2006;174:605–614.
+46. Metersky ML, Ma A, Bratzler DW, Houck PM. Predicting bacteremia
+in patients with community-acquired pneumonia. Am J Respir Crit
+Care Med 2004;169:342–347.
+47. Campbell SG, Marrie TJ, Antsey R, Dickinson G, Ackroyd-Stolarz S.
+The contribution of blood cultures to the clinical management of
+adult patients admitted to the hospital with community-acquired
+pneumonia: a prospective observational study. Chest 2003;123:1142–
+1150.
+48. Atkins D, Best D, Briss PA, Eccles M, Falck-Ytter Y, Flottorp S, Guyatt
+GH, Harbour RT, Haugh MC, Henry D, et al. Grading quality of
+evidence and strength of recommendations. BMJ 2004;328:1490.
+49. Ward AC. The role of causal criteria in causal inferences: BradfordHill’s ‘‘aspects of association.’’ Epidemiol Perspect Innov 2009;6:2.
+50. Alfageme I, Vazquez R, Reyes N, Munoz J, Fernandez A, Hernandez
+M, Merino M, Perez J, Lima J. Clinical efficacy of anti-pneumococcal
+vaccination in patients with COPD. Thorax 2006;61:189–195.
+51. Austrian R. Surveillance of pneumococcal infection for field trials of
+polyvalent pneumococcal vaccines. Bethesda, MD: National Institute of Allergy and Infectious Diseases; 1980. pp. 184–194.
+52. Austrian R, Douglas RM, Schiffman G, Coetzee AM, Koornhof HJ,
+Hayden-Smith S, Reid RD. Prevention of pneumococcal pneumonia
+by vaccination. Trans Assoc Am Physicians 1976;89:184–194.
+53. Davis AL, Aranda CP, Schiffman G, Christianson LC. Pneumococcal
+infection and immunologic response to pneumococcal vaccine in
+chronic obstructive pulmonary disease: a pilot study. Chest 1987;92:204.
+54. French N, Nakiyingi J, Carpenter LM, Lugada E, Watera C, Moi K,
+Moore M, Antvelink D, Mulder D, Janoff EN, et al. 23-valent
+pneumococcal polysaccharide vaccine in HIV-1-infected Ugandan
+adults: double-blind, randomised and placebo controlled trial. Lancet
+2000;355:2106–2111.
+55. Gaillat J, Zmirou D, Mallaret MR, Rouhan D, Bru JP, Stahl JP,
+Delormas P, Micoud M. Clinical trial of an antipneumococcal
+vaccine in elderly subjects living in institutions. Rev Epidemiol Sante
+Publique 1985;33:437–444.
+56. Honkanen PO, Keistinen T, Miettinen L, Herva E, Sankilampi U,
+Laara E, Leinonen M, Kivela SL, Makela PH. Incremental effectiveness of pneumococcal vaccine on simultaneously administered
+influenza vaccine in preventing pneumonia and pneumococcal
+pneumonia among persons aged 65 years or older. Vaccine 1999;
+17:2493–2500.
+57. Kaufman P. Pneumonia in old age; active immunization against
+pneumonia with pneumococcal polysaccharide; results of a six year
+study. Arch Intern Med 1947;79:518.
+58. Klastersky J, Mommen P, Cantraine F, Safary A. Placebo controlled
+pneumococcal immunization in patients with bronchogenic carcinoma. Eur J Cancer Clin Oncol 1986;22:807–813.
+59. Koivula I, Sten M, Leinonen M, Makela PH. Clinical efficacy of
+pneumococcal vaccine in the elderly: a randomized, single-blind
+population-based trial. Am J Med 1997;103:281–290.
+60. Leech JA, Gervais A, Ruben FL. Efficacy of pneumococcal vaccine in
+severe chronic obstructive pulmonary disease. CMAJ 1987;136:361–
+365.
+61. Ortqvist A, Hedlund J, Burman LA, Elbel E, Hofer M, Leinonen M,
+Lindblad I, Sundelof B, Kalin M. Randomized trial of 23-valent
+pneumococcal capsular polysaccharide vaccine in prevention of
+pneumonia in middle-aged and elderly people. Swedish Pneumococcal Vaccination Study Group. Lancet 1998;351:399–403.
+62. Riley ID, Tarr PI, Andrews M, Pfeiffer M, Howard R, Challands P,
+Jennison G. Immunization with a polyvalent pneumococcal vaccine:
+reduction of adult respiratory mortality in a New Guinea Highlands
+community. Lancet 1977;1:1338–1341.
+63. Simberkoff MS, Cross AP, Al-Ibrahim M, Baltch AL, Geiseler PH,
+Nadler J, Richmond AS, Smith RP, Schiffman G, Shepard DS, et al.
+Efficacy of pneumococcal vaccine in high-risk patients: results of
+a Veterans Administration Cooperative Study. N Engl J Med 1986;
+315:1318–1327.
+64. Smit P, Oberholzer D, Hayden-Smith S, Koornhof HJ, Hilleman MR.
+Protective efficacy of pneumococcal polysaccharide vaccines. JAMA
+1977;238:2613–2616.
+65. Steentoft J, Konradsen HB, Hilskov J, Gislason G, Andersen JR. Response to pneumococcal vaccine in chronic obstructive lung diseasethe effect of ongoing, systematic steroid treatment. Vaccine 2006;24:
+1408–1412.
+66. Zhogolev SD, Mosiaquin VD, Demidovich VA, Mel’nichenko PI,
+Ogarkov PI. Efficacy of pneumococcal vaccine in military units.
+Zh Mikrobiol Epidemiol Immunobiol 2003;2:36–42.
+67. Bolman C, de Vries H, van Breukelen G. A minimal-contact intervention for cardiac inpatients: long-term effects on smoking
+cessation. Prev Med 2002;35:181–192.
+68. Chouinard MC, Robichaud-Ekstrand S. The effectiveness of a nursing
+inpatient smoking cessation program in individuals with cardiovascular disease. Nurs Res 2005;54:243–254.
+69. Croghan GA, Croghan IT, Frost MA, Sloan JA, Novotny PJ, Nelson
+MA. Smoking cessation interventions and post-operative outcomes
+in esophageal and lung cancer patients. Society for Research on
+Nicotine and Tobacco 11th Annual Meeting, 20–23 March, Prague,
+Czech Republic. 2005:139.
+70. Hajek P, Taylor TZ, Mills P. Brief intervention during hospital admission to help patients to give up smoking after myocardial infarction and bypass surgery: randomized controlled trial. BMJ 2002;
+324:87–89.
+71. Hennrikus DJ, Lando HA, McCarty MC, Klevan D, Holtan N,
+Huebsch JA, Jestus S, Pentel PR, Pine D, Sullivan S, et al. The
+TEAM project: the effectiveness of smoking cessation intervention
+in hospital patients. Prev Med 2005;40:249–258.
+72. Molyneux A, Lewis S, Leivers U, Anderton A, Antioniak M,
+Brackenridge A, Nilsson F, McNeill A, West R, Moxham J, et al.
+Clinical trial comparing nicotine replacement therapy (NRT) plus
+brief counseling alone, and minimal intervention on smoking cessation
+in hospital patients. Thorax 2003;58:484–488.
+73. Nagle AL, Hensley MJ, Schofield MJ, Koschel AJ. A randomized
+controlled trial to evaluate the efficacy of a nurse-provided intervention for hospitalized smokers. Aust N Z J Public Health 2005;
+29:285–291.
+74. Pelletier JG, Moisan JT. Smoking cessation for hospitalized patients:
+a quasi-experimental study in Quebec. Can J Public Health 1998;89:
+264–269.
+75. Pederson LL, Wanklin JM, Lefcoe NM. The effects of counseling on
+smoking cessation among patients hospitalized with chronic obstructive pulmonary disease: a randomized clinical trial. Int J Addict 1991;
+26:107–119.
+76. Griebel B, Wewers ME, Baker CA. The effectiveness of a nursemanaged minimal smoking-cessation intervention among hospitalized patients with cancer. Oncol Nurs Forum 1998;25:897–902.
+77. Bridges CB, Thompson WW, Meltzer MI, Reeve GR, Talamonti
+WJ, Cox NJ, Lilac HA, Hall H, Klimov A, Fukada K. Effectiveness
+and cost-benefit of influenza vaccination of healthy working adults:
+a randomized controlled trial. JAMA 2000;284:1655–1663.
+78. Couch RB, Quarles JM, Cate TR, Zahradnik. Clinical trials with live,
+cold-resortment influenza virus vaccines. In: Kendal AP, Patriarca
+PA, editors. Options for the control of influenza. Proceedings of
+a Viratek-UCLA symposium (Keystone, CO, 1985). UCLA sympoPulmonary Perspective 1461
+sia on molecular and cellular biology. New York: Alan R. Liss; 1986.
+pp. 223–241.
+79. Eddy TS, Davies NA. The effect of vaccine on a close epidemic of
+Hong Kong influenza. S Afr Med J 1970;44:214–216.
+80. Edmondson KW, Graham DS, Warburton MF. A clinical trial of
+influenza vaccine in Canberra. Med J Aust 1970;2:6–13.
+81. Edwards KM, Dupont WD, Westrich MK, Plummer WD Jr, Palmer PS,
+Wright PF. A randomized controlled trial of cold-adapted and inactivated vaccines for the prevention of influenza A disease. J Infect Dis
+1994;169:68–76.
+82. Hammond ML, Ferris AA, Faine S, McAvan T. Effective protection
+against influenza after vaccination with subunit vaccine. Med J Aust
+1978;1:301–303.
+83. Hoskins TW, Davies JR, Allchin A, Miller CL, Pollock TM. Controlled
+trial of inactivated influenza vaccine containing the a-Hong Kong
+strain during an outbreak of influenza due to the a-England-42-72
+strain. Lancet 1973;2:116–120.
+84. Keitel WA, Cate TR, Couch RB, Huggins LL, Hess KR. Efficacy of
+repeated annual immunization with inactivated influenza virus
+vaccines over a five year period. Vaccine 1997;15:1114–1122.
+85. Leibovitz A, Coultrip RL, Kilbourne ED, Legters LJ, Smith CD, Chin
+J, Schulman JL. Correlated studies of a recombinant influenza-virus
+vaccine: IV. Protection against naturally occurring influenza in
+military trainees. J Infect Dis 1971;124:481–487.
+86. Mair HJ, Sansome DA, Tillett HE. A controlled trial of inactivated
+monovalent influenza A vaccines in general practice. J Hyg (Lond)
+1974;73:317–327.
+87. Maynard JE, Dull HB, Hanson ML, Feltz ET, Berger R, Hammes L.
+Evaluation of monovalent and polyvalent influenza vaccines during
+an epidemic of type A2 and B influenza. Am J Epidemiol 1968;87:
+148–157.
+88. Mixeu MA, Vespa GN, Forleo-Neto E, Toniolo-Neto J, Alves PM.
+Impact of influenza vaccination on civilian aircrew illness and
+absenteeism. Aviat Space Environ Med 2002;73:876–880.
+89. Mogabgab WJ, Leiderman E. Immunogenicity of 1967 polyvalent and
+1968 Hong Kong influenza vaccines. JAMA 1970;211:1672–1676.
+90. Monto AS, Miller FD, Maassab HF. Evaluation of an attenuated, coldrecombinant influenza B virus vaccine. J Infect Dis 1982;145:57–64.
+91. Nichol KL, Lind A, Margolis KL, Murdoch M, McFadden R,
+Hauge M, Magnan S, Drake M. The effectiveness of vaccination
+against influenza in healthy working adults. N Engl J Med 1995;
+333:889–893.
+92. Nichol KL, Mendelman PM, Mallon KP, Jackson LA, Gorse GJ,
+Belshe RB, Glezen WP, Wittes J. Effectiveness of live, attenuated
+intranasal influenza virus vaccine in healthy, working adults: a randomized controlled trial. JAMA 1999;282:137–144.
+93. Powers DC, Smith GE, Anderson EL, Kennedy DJ, Hackett CS,
+Wilkinson BE, Volvovitz F, Belshe RB, Treanor JJ. Influenza A
+virus vaccines containing purified recombinant H3 hemagglutinin
+are well tolerated and induce protective immune responses in
+healthy adults. J Infect Dis 1995;171:1595–1599.
+94. Rytel MW, Jackson LJ, Niebojewski RA, Haagensen JL, Rosenkranz
+MA. Field trial of live attenuated influenza A/B (‘‘Alice’’/R-75)
+vaccine. Am J Epidemiol 1977;105:49–55.
+95. Slepuskin AN, Bobyleva TK, Russina AE, Vitkina BS, Ellengorn NS,
+Zdanov VM. Evaluation of the effectiveness of large-scale vaccination against influenza in the USSR. Bull World Health Organ 1967;
+36:385–395.
+96. Tannock GA, Bryce DA, Hensley MJ, Saunders NA, Gillett RS,
+Kennedy WS. Responses to one or two of a deoxycholate subunit influenza vaccine in a primed population. Vaccine 1984;2:
+100–106.
+97. Waldman RH, Coggins WJ. Influenza immunization: field trial on
+a university campus. J Infect Dis 1972;126:242–248.
+98. Waldman RH, Bond JO, Levitt LP, Hartwig ED, Prather EC, Baratta
+RL, Neill JS, Small PA Jr. An evaluation of influenza immunization:
+influence of route of administration and vaccine strain. Bull World
+Health Organ 1969;41:543–548.
+99. Waldman RH, Mann JJ, Small PA Jr. Immunization against influenza:
+prevention of illness in man by aerosolized inactivated vaccine.
+JAMA 1969;207:520–524.
+100. Weingarten S, Staniloff H, Ault M, Miles P, Bamberger M, Myer RD.
+Do hospital employees benefit for the influenza vaccine? A placebocontrolled clinical trial. J Gen Intern Med 1988;3:32–37.
+101. Wilde JA, McMillan JA, Serwint J, Butta J, O’Riordan MA, Steinhoff
+MC. Effectiveness of influenza vaccine in health care professionals:
+a randomized trial. JAMA 1999;281:908–913.
+102. Williams MC, Davignon L, McDonald JC, Pavilanis PV, Boudreault A,
+Clayton AJ. Trials of aqueous killed influenza vaccine in Canada,
+1968-69. Bull World Health Organ 1973;49:333–340.
+1462 AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE VOL 183 2011

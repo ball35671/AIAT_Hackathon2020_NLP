@@ -1,0 +1,857 @@
+﻿ARTICLE
+Vaccine Effectiveness Against Laboratory-Confirmed
+Influenza in Children 6 to 59 Months of Age During
+the 2003–2004 and 2004 –2005 Influenza Seasons
+Katherine W. Eisenberg, BAa, Peter G. Szilagyi, MD, MPHb, Gerry Fairbrother, PhD, MPHc
+, Marie R. Griffin, MD, MPHd,e, Mary Staat, MD, MPHf
+,
+Laura P. Shone, DrPH, MSWb,g, Geoffrey A. Weinberg, MDb, Caroline B. Hall, MDb,h, Katherine A. Poehling, MD, MPHi,j,
+Kathryn M. Edwards, MDk, Geraldine Lofthus, PhDh, Susan G. Fisher, PhDa, Carolyn B. Bridges, MDl
+, Marika K. Iwane, PhD, MPHl
+, and the New
+Vaccine Surveillance Network
+Departments of a
+Community and Preventive Medicine, bPediatrics, and hMedicine, School of Medicine and Dentistry, and gDepartment of Clinical Nursing, School of
+Nursing, University of Rochester, Rochester, New York; c
+Health Policy and Clinical Effectiveness Division and f
+Division of Infectious Diseases, Cincinnati Children’s Hospital
+Medical Center, Cincinnati, Ohio; Departments of dPreventive Medicine, e
+Medicine, and k
+Pediatrics, Vanderbilt University Medical Center, Nashville, Tennessee;
+Departments of i
+Pediatrics and j
+Epidemiology and Prevention, Wake Forest University Medical Center, Winston-Salem, North Carolina; l
+National Center for Immunization
+and Respiratory Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia
+Financial Disclosure: Dr Griffin received research support from MedImmune. Dr Weinberg received research support from MedImmune and Astellas and acted as a consultant for MedImmune. Dr Edwards
+received research support from Sanofi Pasteur, MedImmune, VaxGen, Merck, Wyeth, and Novartis and acted as a consultant for MedImmune and Wyeth.
+What’s Known on This Subject
+Because of recent changes in vaccination recommendations, many more young children are now receiving vaccinations to protect against influenza. However, influenza
+vaccine effectiveness has not been well characterized in young children and can vary
+from season to season.
+What This Study Adds
+We estimated the effectiveness of vaccination against laboratory-confirmed influenza
+disease in 2 influenza seasons. Our results suggested that, even in an influenza season
+with a suboptimal vaccine match, one half of influenza-related visits could be prevented
+with recommended vaccination.
+ABSTRACT
+OBJECTIVE. The goal was to estimate the effectiveness of influenza vaccination against
+laboratory-confirmed influenza during the 2003–2004 and 2004 –2005 influenza
+seasons in children 6 to 59 months of age.
+METHODS. We conducted a case-control study with children with medically attended,
+acute respiratory infections who received care in an inpatient, emergency department, or outpatient clinic setting during 2 consecutive influenza seasons. All children
+residing in Monroe County, New York, Davidson County, Tennessee, or Hamilton
+County, Ohio, were enrolled prospectively at the time of acute illness and had
+nasal/throat swabs tested for influenza with cultures and/or polymerase chain reaction assays. Children with laboratory-confirmed influenza were case subjects and
+children who tested negative for influenza were control subjects. Child vaccination
+records from the parent and the child’s physician were used to determine and to
+validate influenza vaccination status. Influenza vaccine effectiveness was calculated
+as (1  adjusted odds ratio)  100.
+RESULTS. We enrolled 288 case subjects and 744 control subjects during the 2003–2004
+season and 197 case subjects and 1305 control subjects during the 2004 –2005
+season. Six percent and 19% of all study children were fully vaccinated according to
+immunization guidelines in the respective seasons. Full vaccination was associated
+with significantly fewer influenza-related inpatient, emergency department, or outpatient clinic visits in 2004 –2005 (vaccine effectiveness: 57%) but not in 2003–2004
+(vaccine effectiveness: 44%). Partial vaccination was not effective in either season.
+CONCLUSIONS. Receipt of all recommended doses of influenza vaccine was associated with
+halving of laboratory-confirmed influenza-related medical visits among children 6 to 59
+months of age in 1 of 2 study years, despite suboptimal matches between the vaccine
+and circulating influenza strains in both years. Pediatrics 2008;122:911–919
+I
+NFLUENZA INFECTIONS CAUSE a substantial, often unrecognized, burden of disease
+in young children.1 This annual burden includes an estimated 0.7 to 0.9 hospitalizations, 50 to 95 outpatient visits, 6 to 27 emergency department (ED) visits, and 30 to 90 courses of antibiotics per
+1000 children 5 years of age.1–3 Rates of influenza-related hospitalizations, acute otitis media, and pneumonia are
+particularly high in children 2 years of age.1,3–6
+www.pediatrics.org/cgi/doi/10.1542/
+peds.2007-3304
+doi:10.1542/peds.2007-3304
+The contents of this article are solely the
+responsibility of the authors and do not
+necessarily represent the official views of
+the Centers for Disease Control and
+Prevention.
+Key Words
+children, vaccine effectiveness, laboratoryconfirmed, influenza
+Abbreviations
+ED— emergency department
+ACIP—Advisory Committee on
+Immunization Practices
+VE—vaccine effectiveness
+NVSN—New Vaccine Surveillance Network
+ARI—acute respiratory illness
+RT—reverse transcription
+PCR—polymerase chain reaction
+CI— confidence interval
+aOR—adjusted odds ratio
+Accepted for publication Feb 20, 2008
+Address correspondence to Katherine W.
+Eisenberg, BA, Department of Community and
+Preventive Medicine, University of Rochester
+School of Medicine and Dentistry, 601
+Elmwood Ave, Box 644, Rochester, NY 14642.
+E-mail: katherineeisenberg@urmc.rochester.
+edu
+PEDIATRICS (ISSN Numbers: Print, 0031-4005;
+Online, 1098-4275). Copyright © 2008 by the
+American Academy of Pediatrics
+PEDIATRICS Volume 122, Number 5, November 2008 911
+Downloaded from pediatrics.aappublications.org at Purdue University Libraries on April 13, 2015
+Recommendations for seasonal influenza vaccination
+by the Advisory Committee on Immunization Practices
+(ACIP) were recently expanded for young children. Vaccination of all 6- to 23-month-old children was encouraged for the 2002–2003 and 2003–2004 influenza seasons,7 and vaccination was formally recommended for
+this age group beginning with the 2004 –2005 season.8
+This influenza vaccine recommendation was expanded to
+include all children 6 to 59 months of age beginning with
+the 2006 –2007 season.9 However, few studies have estimated vaccine effectiveness (VE) in young children.10–13
+Because influenza vaccination rates may vary according to
+age and geographic location14 and because the vaccine
+match varies according to season, it is important to assess
+influenza VE across settings and seasons.
+Some previous studies were limited in that they used
+non–laboratory-confirmed outcomes such as influenzalike illness or school attendance, which would result in
+lower estimates of VE, or were conducted during only 1
+influenza season.10–12,15 In this study, we report on VE
+over 2 influenza seasons among children 6 to 59 months
+of age by using data from an ongoing population-based
+surveillance system, the New Vaccine Surveillance Network (NVSN), to identify laboratory-confirmed influenza cases in 3 different geographic regions.1 This geographic diversity allows for a more-robust estimate of VE
+than would be possible with data from a single location.
+The primary objective of our study was to determine the
+effectiveness of trivalent inactivated influenza vaccine
+(no live attenuated vaccine was used because of age)
+against laboratory-confirmed influenza disease in each
+of 2 consecutive influenza seasons.
+METHODS
+Inpatient Population
+A prospective, population-based study of hospitalizations attributable to laboratory-confirmed influenza was
+performed in counties that encompass Nashville, Tennessee, Rochester, New York, and Cincinnati, Ohio, during the 2003–2004 and 2004 –2005 influenza seasons.
+Each site conducted surveillance at sufficient hospitals to
+capture 95% of hospitalizations attributable to acute
+respiratory illness (ARI) or fever among children residing in the respective county. More-detailed information
+on site selection, visit rates, and other characteristics of
+the NVSN were described previously.1
+Study nurses enrolled children within 48 hours after
+admission to surveillance hospitals Sunday through Thursday in the 2003–2004 influenza season and 7 days per
+week during the 2004 –2005 season. Eligible children were
+county residents, 5 years of age, with an admission diagnosis of ARI or fever. Study nurses prescreened admitted
+children according to presenting complaints. If ARI or fever
+was present, then the child’s medical record was reviewed
+to determine age and county of residence. An attempt was
+made to enroll every child determined to be eligible. All
+eligible children were recruited before laboratory determination of their influenza status.
+ARI was defined on the basis of a presenting complaint of cough, earache, fever (identified through medical documentation or parental report), nasal congestion/runny nose, shortness of breath/rapid or shallow
+breathing, sore throat, vomiting after cough, or wheezing. Children with fever and neutropenia associated
+with chemotherapy, children hospitalized in the previous 4 days or transferred from another surveillance hospital, newborns who had never been discharged from
+the hospital, and children with symptom duration of
+14 days (2003–2004 influenza season only) were excluded. The symptom duration requirement was initially
+included because the likelihood of viral detection decreases with time.16 It was later removed because it had
+minimal impact on enrollment.
+Outpatient Population
+Prospective surveillance for laboratory-confirmed influenza among county residents 5 years of age who presented to selected EDs and outpatient primary care practices with symptoms of ARI or fever was conducted
+during the 2003–2004 influenza season in Nashville,
+Tennessee (3 primary care practices and 1 pediatric ED,
+with 30% of county pediatric ED visits), Rochester, New
+York (4 practices and 1 pediatric ED, with 60% of visits),
+and Cincinnati, Ohio (1 practice and the single pediatric
+ED, with 95% of visits). During the 2004 –2005 influenza season, ED surveillance was conducted in both
+pediatrics EDs in Rochester (95% of visits) and the
+pediatric ED in Cincinnati, and clinic surveillance was
+performed in Nashville (3 practices) and Rochester (6
+practices). Children were enrolled 1 or 2 days per week
+in primary care practices and 3 or 4 days per week in
+EDs, with days and shifts being rotated systematically
+(across all 7 days in EDs and 5– 6 days in clinics), to
+obtain a representative sample. If multiple eligible
+children were available concurrently in an outpatient
+practice or ED, then study nurses approached eligible
+children in the order in which they checked in.
+In both influenza seasons, ED and outpatient surveillance began the first week after 2 positive tests for respiratory syncytial virus or influenza virus were identified in local clinical or research laboratories in 2
+consecutive weeks. Surveillance ended after 1 or no
+positive tests were detected in those laboratories in 2
+consecutive weeks. Study nurses systematically enrolled
+approximately 6 to 8 children per setting per surveillance day at each study site in clinics and EDs, using the
+same inclusion and exclusion criteria and enrollment
+procedure as used for inpatient surveillance. The study
+was approved by the institutional review boards at the 3
+study sites, the participating surveillance hospitals, and
+the Centers for Disease Control and Prevention.
+Study Period
+For this study, we defined each influenza season on the
+basis of the dates on which surveillance started and
+ended. The dates and duration of each season varied
+according to site. The 2003–2004 influenza season
+started in November at all 3 geographic locations and
+lasted 2 months in Nashville, 3 months in Rochester, and
+5 months in Cincinnati. In Nashville, the 2004 –2005
+912 EISENBERG et al
+Downloaded from pediatrics.aappublications.org at Purdue University Libraries on April 13, 2015
+influenza season started in November and lasted 5
+months; in Rochester and Cincinnati, the 2004 –2005
+season started in December and lasted 4 months.
+Demographic and Clinical Information
+A standardized interview was administered to each patient’s parent or guardian, to obtain demographic information and medical and social history. Demographic information included age, gender, and insurance type (private,
+public, or none). Underlying medical conditions for which
+influenza vaccination was routinely recommended during
+the 2 influenza seasons7 were ascertained through parental
+report and chart review. These underlying medical conditions included asthma, cancer, diabetes mellitus, heart disease, immunodeficiency, kidney disease, sickle cell disease,
+cystic fibrosis, and chronic lung disease. Neurologic conditions were not included in the list of conditions for which
+influenza vaccination was recommended until the 2005–
+2006 influenza season.17
+Virological Testing
+Nasal and throat swabs were obtained from each enrolled child and specimens were tested for influenza at
+each site’s local research laboratory, using viral culture
+and reverse transcription (RT)-polymerase chain reaction (PCR) assays, as described previously, with the exception that each site tested its subject samples locally
+under a common protocol, rather than batch-shipping
+samples to the Centers for Disease Control and Prevention.6,18,19 Interlaboratory quality assurance testing was
+performed through annual analysis of prepared panels of
+serial dilutions of live influenza A and B viruses, as well
+as serial dilutions of prepared influenza A and B RNA
+extracts. The identity of all quality assurance panel specimens was masked, such that the analyses were performed blindly. All 3 sites accurately identified live influenza A and B viruses in culture and in RT-PCR assays
+after RNA extraction, and they also identified prepared
+viral RNA extracts (G.A.W., unpublished data, February
+1, 2008). The Centers for Disease Control and Prevention served as an external validation source for influenza
+identification.
+Case and Control Subject Identification
+Inpatient case subjects were identified on the basis of 1
+positive viral culture or 2 positive RT-PCR assays and
+outpatient case subjects on the basis of 2 positive RTPCR assays, because PCR was more sensitive than culture19 and resources were limited for viral cultures with
+outpatient samples. Children whose specimens tested
+positive for influenza constituted the case subjects as of
+the date of their first symptoms, as determined through
+parental report. Children whose specimens tested negative for influenza viruses served as control subjects.
+Influenza Vaccination Status
+A child’s influenza vaccination status at the time of the
+ARI visit was determined through an initial telephone
+call or fax to the child’s primary care practice and subsequent extraction from the child’s primary care medical
+record. Influenza vaccinations recorded on vaccination
+cards were counted if the cards were provided by the
+parent or guardian at the time of the ARI visit. Children
+were classified as being fully vaccinated if they were
+vaccinated according to the ACIP guidelines for each
+season and received (1) 2 vaccine doses in the current
+influenza season that were administered 24 days apart,
+with the second dose given 14 days before ARI onset,
+or (2) 1 vaccine dose in a previous influenza season
+and 1 dose in the current season, administered 14 days
+before ARI onset. Children were classified as being partially vaccinated if they received (1) only 1 of 2 recommended vaccine doses during the current season, 14
+days before ARI onset, or (2) 2 vaccine doses during the
+current season, with the second dose administered
+within 14 days before ARI onset or 24 days after the
+first dose. The 24-day window was based on the recommended 4-week interval between the first and second
+influenza vaccine doses.20 Doses given 5 days earlier
+than 4 weeks apart are to be repeated, which gives an
+effective interval between doses of 24 days. Children
+were classified as being unvaccinated for a given season
+if they were not vaccinated in the study season or if they
+received the first of 2 recommended influenza vaccine
+doses within 14 days before ARI onset during the study
+season. It should be noted that, beginning in the 2007–
+2008 season, children who received only 1 of 2 recommended vaccine doses during a previous season and 1
+dose during the current season would not be considered
+fully vaccinated under ACIP guidelines.21
+Statistical Analyses
+All analyses were conducted separately for the 2 influenza seasons. Conditional logistic regression was used to
+model the association between influenza vaccination
+and laboratory-confirmed influenza-related medical visits, after adjustment for possible confounders. Control
+subjects were matched to case subjects with respect to
+geographic location (Nashville, Rochester, or Cincinnati), visit setting (ED/inpatient or clinic), and 2-week
+period (based on the date of enrollment for control
+subjects and the date of influenza symptom onset for
+case subjects). Enrolled children who had multiple visits
+captured by NVSN surveillance in a given season were
+included in the analysis at the visit at which they received a laboratory-confirmed influenza diagnosis or at
+their last visit of the season, if they had negative test
+results for influenza at all visits. We assumed that enrolled children had not had a medical visit attributable to
+influenza before enrollment in a given season.
+VE values and 95% confidence intervals (CIs) were
+estimated on the basis of adjusted odds ratios (aORs) by
+using the formula VE  (1  aOR)  100. Fully vaccinated children and partially vaccinated children were
+compared with unvaccinated children. Vaccination status was included as complete, partial, or no vaccination.
+Other covariates included in the models were age (in
+months), insurance status (public/none versus private),
+and underlying medical condition (1 versus none). The
+simple, conditional, logistic model had 80% power to
+detect a minimal VE for complete vaccination (compared
+PEDIATRICS Volume 122, Number 5, November 2008 913
+Downloaded from pediatrics.aappublications.org at Purdue University Libraries on April 13, 2015
+with no vaccination) of 45% in the first season and 35%
+in the second seasons, based on the numbers of case
+subjects and control subjects, the rate of complete vaccination among control subjects, and the degree of concordance in vaccination status within matched groups.22
+Stratified VE estimates were calculated according to
+age at visit (6 –23 months or 24 –59 months), high-risk
+status (presence of an underlying medical condition for
+which vaccination was recommended), and visit setting
+(inpatient/ED or outpatient). VE estimates were also
+calculated with the analysis being limited to subjects
+who were not vaccinated and those who received 2
+influenza doses in the current season with the appropriate intervals between doses and before ARI onset. We
+compared nonenrolled eligible children with enrolled
+children with respect to age (6 –23 months or 24 –59
+months), gender, and ARI visit setting by using Fisher’s
+exact tests. Analyses were performed by using Intercooled Stata 8.2 (Stata, College Station, TX) and SAS
+9.1.3 (SAS Institute, Cary, NC).
+RESULTS
+Study Population
+2003–2004 Influenza Season
+In the 2003–2004 influenza season, the NVSN enrolled
+1033 (83.5%) of 1237 eligible children 6 to 59 months of
+age through hospital admissions, EDs, and outpatient
+clinics. Sixty-one children (6%; 5 case subjects and 56
+control subjects) were excluded because of missing data
+on influenza vaccination status, leaving a study population of 972 children. Thirteen of the 972 children included in the analysis had multiple visits, for a total of
+986 captured visits. Enrolled children did not differ from
+nonenrolled children with respect to gender (P  .163)
+or age (P  .644), but a larger proportion of nonenrolled
+(52.5%) than enrolled (35.9%) children were screened
+during an outpatient visit (P  .001).
+2004–2005 Influenza Season
+In the 2004 –2005 influenza season, 1581 (90.0%) of 1757
+eligible children were enrolled in the NVSN from all 3
+patient care settings. Seventy-nine children (5%; 7 case
+subjects and 72 control subjects) were excluded because of
+missing data on influenza vaccination status, leaving a
+study population of 1502 children. Thirty-three children
+had multiple visits, for a total of 1535 captured visits.
+Enrolled children did not differ from nonenrolled children with respect to gender (P  .523), but they did differ
+with respect to age and visit setting. Nonenrolled children
+were older (55.7% in the older age group) than were
+enrolled children (42.4%; P  .001), and a larger proportion of nonenrolled (86.4%) than enrolled (48.5%) children were screened during an outpatient visit (P  .001).
+Characteristics of Case and Control Patients
+Table 1 describes the demographic characteristics and
+vaccination status for case subjects and control subjects
+in each season. In both age groups, the proportion of
+fully vaccinated children was higher in 2004 –2005 than
+in 2003–2004 (P  .001). In the 2003–2004 season,
+control subjects tended to be younger than case subjects,
+TABLE 1 Characteristics of Influenza-Positive Case Subjects and Influenza-Negative Control Subjects According to Influenza Season
+(N  2474)
+Characteristics n (%)
+2003–2004 Influenza Season 2004–2005 Influenza Season
+Case (N  228) Control (N  744) P Case (N  197) Control (N  1305) P
+Age group .002 .491
+6–23 mo 106 (46.5) 432 (58.1) 109 (55.3) 756 (57.9)
+24–59 mo 122 (53.5) 312 (41.9) 88 (44.7) 549 (42.1)
+Vaccination status .001 .028
+Fully vaccinated 8 (3.5) 54 (7.3) 24 (12.2) 263 (20.2)
+Partially vaccinated 22 (9.7) 134 (18.0) 43 (21.8) 272 (20.8)
+Unvaccinated 198 (86.8) 556 (74.7) 130 (66.0) 770 (59.0)
+Male gender 120 (52.6) 414 (55.7) .424 121 (61.4) 690 (52.9) .025
+Insurance type .920 .405
+Private 69 (30.3) 229 (30.8) 61 (31.0) 466 (35.7)
+Public 149 (65.4) 486 (65.3) 130 (66.0) 790 (60.5)
+None 10 (4.4) 28 (3.8) 5 (2.5) 46 (3.5)
+Unknown 0 (0.0) 1 (0.1) 1 (0.5) 3 (0.2)
+ARI visit setting .142 .243
+Inpatient 42 (18.4) 154 (20.7) 35 (17.8) 294 (22.5)
+ED 110 (48.3) 304 (40.9) 54 (27.4) 367 (28.1)
+Outpatient 76 (33.3) 286 (38.4) 108 (54.8) 644 (49.4)
+Geographic area .001 .001
+Cincinnati 66 (29.0) 351 (47.2) 38 (19.3) 437 (33.5)
+Nashville 92 (40.4) 112 (15.1) 76 (38.6) 446 (34.2)
+Rochester 70 (30.7) 281 (37.8) 83 (42.1) 422 (32.3)
+High-risk conditiona 59 (25.9) 242 (32.5) .057 50 (25.4) 359 (27.5) .532
+a High-risk conditions included asthma, cancer, diabetes mellitus, heart disease, immunodeficiency, kidney disease, sickle cell disease, cystic fibrosis, and chronic lung disease.
+914 EISENBERG et al
+Downloaded from pediatrics.aappublications.org at Purdue University Libraries on April 13, 2015
+with 46.5% of case subjects in the 6- to 23-month age
+group, compared with 58.1% of control subjects (P 
+.002). The median ages for case subjects were 25 months
+and 21 months in the 2003–2004 and 2004 –2005 seasons, respectively, whereas the median ages for control
+subjects were 20 months in both seasons.
+In the 2004 –2005 season only, a larger proportion of
+case subjects than control subjects were male. The distribution of case subjects and control subjects across the
+3 surveillance counties varied substantially, reflecting
+the geographic variability of influenza outbreaks. Children with influenza-associated illness accounted for a
+low of 8% of all ARI visits (38 of 475 visits) during the
+2004 –2005 season in Cincinnati, compared with a high
+of 45% of all study participants (92 of 204 visits) during
+the 2003–2004 season in Nashville. Children in both
+seasons were more likely than their counterparts to have
+been fully vaccinated if they were in the younger age
+group, had private insurance, or had an underlying medical condition (Table 2).
+Vaccine Effectiveness
+2003–2004 Influenza Season
+Among children 6 to 59 months of age, neither full nor
+partial vaccination was associated with a significant reduction in influenza-related visits, compared with those
+who were unvaccinated at the time of the visit (Table 3).
+One eligible control subject was not included in the
+regression models because of lack of an appropriate
+matched case subject. VE estimates varied between age
+subgroups, but neither age group experienced a significant reduction in influenza visits, compared with unvaccinated children. When children missing vaccination information were included in the analysis as unvaccinated,
+the VE estimate for 6- to 59-month-old children
+changed from 28% to 27% (95% CI: 82% to 71%).
+When the analysis was limited to children who received
+2 doses in the current season, compared with children who
+were unvaccinated, the VE estimate changed to 59% (95%
+CI: 165% to 90%) among 6- to 59-month-old children
+and 21% (95% CI: 225% to 81%) among 6- to 23-
+month-old children. There were insufficient numbers of
+children 24 to 59 months of age who were fully vaccinated
+according to this definition for this analysis.
+Figures 1 and 2 show VE estimates for fully vaccinated children, compared with unvaccinated children,
+stratified according to high-risk status and visit setting
+(inpatient/ED or outpatient), respectively. Only the
+high-risk stratum demonstrated a significant reduction
+in influenza-related medical visits, compared with unvaccinated children, for full vaccination (VE: 89%; 95%
+CI: 2%–99%). None of the strata had significant VE for
+partial vaccination (data not shown). Figures 1 and 2
+also demonstrate the wide CIs for the VE estimates.
+2004–2005 Influenza Season
+VE estimates for fully vaccinated versus unvaccinated
+children 6 to 59 months of age and for each age subgroup were 60%, with statistically significant results
+for both age groups and all ages combined. Partial vacTABLE 2 Influenza Vaccination Status of Influenza-Positive Case Subjects and Influenza-Negative Control Subjects According to Child
+Characteristics and Influenza Season
+Characteristics n (%)
+2003–2004 Influenza Season 2004–2005 Influenza Season
+Full Vaccination
+(N  62)
+Partial Vaccination
+(N  156)
+No Vaccination
+(N  754)
+P Full Vaccination
+(N  287)
+Partial Vaccination
+(N  315)
+No Vaccination
+(N  900)
+P
+Age group .001 .001
+6–23 mo 36 (58.1) 107 (68.6) 395 (52.4) 185 (64.5) 264 (83.8) 416 (46.2)
+24–59 mo 26 (41.9) 49 (31.4) 359 (47.6) 102 (35.5) 51 (16.2) 484 (53.8)
+Gender .876 .529
+Male 36 (58.1) 85 (54.5) 413 (54.8) 163 (56.8) 165 (52.4) 483 (53.7)
+Female 26 (41.9) 71 (45.5) 341 (45.2) 124 (43.2) 150 (47.6) 417 (46.3)
+Insurance type .007 .001
+Private 33 (53.2) 49 (31.4) 216 (28.7) 153 (53.3) 105 (33.3) 269 (29.9)
+Public 28 (45.2) 103 (66.0) 504 (66.8) 130 (45.3) 195 (61.9) 595 (66.1)
+None 1 (1.6) 4 (2.6) 33 (4.4) 3 (1.1) 14 (4.4) 34 (3.8)
+Unknown 0 (0.0) 0 (0.0) 1 (0.1) 1 (0.4) 1 (0.3) 2 (0.2)
+ARI visit setting .004 .001
+Inpatient 19 (30.7) 21 (13.5) 156 (20.7) 71 (24.7) 66 (21.0) 192 (21.3)
+ED 25 (40.3) 59 (37.8) 330 (43.8) 54 (18.8) 79 (25.1) 288 (32.0)
+Outpatient 18 (29.0) 76 (48.7) 268 (35.5) 162 (56.5) 170 (54.0) 420 (46.7)
+Geographic area .001 .001
+Cincinnati 24 (38.7) 49 (31.4) 344 (45.6) 67 (23.3) 87 (27.6) 321 (35.7)
+Nashville 8 (12.9) 28 (18.0) 168 (22.3) 105 (36.6) 107 (34.0) 310 (34.4)
+Rochester 30 (48.4) 79 (50.6) 242 (32.1) 115 (40.1) 121 (38.4) 269 (29.9)
+High-risk conditiona .001 .001
+Yes 29 (46.8) 63 (40.4) 209 (27.7) 108 (37.6) 82 (26.0) 219 (24.3)
+No 33 (53.2) 93 (59.6) 545 (72.3) 179 (62.4) 233 (74.0) 681 (75.7)
+a High-risk conditions included asthma, cancer, diabetes mellitus, heart disease, immune deficiency, kidney disease, sickle cell disease, cystic fibrosis, and chronic lung disease.
+PEDIATRICS Volume 122, Number 5, November 2008 915
+Downloaded from pediatrics.aappublications.org at Purdue University Libraries on April 13, 2015
+cination was not associated with significant reduction in
+influenza rates for all ages or for either age group (Table
+3). One eligible case subject and 8 control subjects were
+not included in the regression models because of lack of
+an appropriate matched group. When children with
+missing vaccination information were included in the
+analysis as unvaccinated, the VE estimate for 6- to 59-
+month-old children changed from 57% to 53% (95%
+CI: 23%– 82%). When the analysis was limited to children who received 2 doses in the current season, compared with children who were unvaccinated, the VE
+estimates were virtually unchanged for the 6- to 59-
+month and 6- to 23-month age groups (data not shown).
+There were insufficient numbers of children 24 to 59
+months of age who were fully vaccinated according to
+this definition for this analysis.
+Among fully vaccinated children with and without
+underlying medical conditions, full immunization, compared with no immunization, was associated with an
+65% reduction in influenza visits; results were statistically significant for children who were (VE: 67%; 95%
+CI: 13%– 88%) and were not (VE: 65%; 95% CI: 16%–
+76%) at high risk (Fig 1). VE estimates for fully vaccinated children stratified according to visit setting were
+close to 60% (and statistically significant) for both inpatient/ED and outpatient settings (Fig 2). Partial vaccinaFIGURE 1
+VE in multivariate, conditional, logistic regression analyses estimating laboratory-confirmed influenza-related visits according to risk status for fully vaccinated children and
+unvaccinated children, with adjustment for age (in months) and insurance type, according to influenza season. High-risk conditions included asthma, cancer, diabetes mellitus,
+heart disease, immunodeficiency, kidney disease, sickle cell disease, cystic fibrosis, and
+chronic lung disease.
+FIGURE 2
+VE in multivariate, conditional, logistic regression analyses estimating laboratory-confirmed influenza-related visits according to visit setting for fully vaccinated children and
+unvaccinated children, with adjustment for age (in months) and insurance type, according to influenza season. High-risk conditions included asthma, cancer, diabetes mellitus,
+heart disease, immunodeficiency, kidney disease, sickle cell disease, cystic fibrosis, and
+chronic lung disease.
+TABLE 3 VE in Conditional Logistic Regression Analyses Estimating Laboratory-Confirmed Influenza-Related Visits According to Vaccination
+Status, Age Group, and Influenza Season
+Vaccination Status Age 6–59 mo Age 6–23 mo Age 24–59 mo
+aOR (95% CI) VE, Estimate
+(95% CI), %
+aOR (95% CI) VE, Estimate
+(95% CI), %
+aOR (95% CI) VE, Estimate
+(95% CI), %
+2003–2004 N  971 N  537 N  434
+Fully vaccinateda 0.56 (0.22–1.42) 44 (42 to 78) 0.72 (0.23–2.30) 28 (130 to 77) 0.34 (0.06–2.06) 66 (106 to 94)
+Partially vaccinateda 0.57 (0.32–1.03) 43 (3 to 68) 0.58 (0.27–1.22) 42 (22 to 73) 0.67 (0.22–2.09) 33 (109 to 78)
+Ageb 1.01 (1.00–1.03)c 1.05 (1.00–1.11) 0.98 (0.96–1.01)
+Public/no insuranced 1.05 (0.70–1.59) 1.00 (0.55–1.83) 1.02 (0.54–1.91)
+Underlying medical condition 0.84 (0.55–1.29) 1.18 (0.62–2.25) 0.62 (0.34–1.13)
+2004–2005 N  1493 N  860 N  633
+Fully vaccinateda 0.43 (0.26–0.72)c 57 (28–74) 0.45 (0.23–0.87)e 55 (13–77) 0.37 (0.16–0.84)e 63 (16–84)
+Partially vaccinateda 0.89 (0.59–1.35) 11 (35 to 41) 1.03 (0.62–1.70) 3 (70 to 38) 0.62 (0.25–1.53) 38 (53 to 75)
+Ageb 1.00 (0.99–1.02) 1.03 (0.99–1.08) 1.00 (0.98–1.03)
+Public/no insuranced 1.43 (0.99–2.06)c 1.86 (1.07–3.22)e 1.23 (0.73–2.07)
+Underlying medical condition 1.03 (0.70–1.51) 0.97 (0.55–1.72) 1.10 (0.63–1.93)
+Control subjects were frequency matched to case subjects with respect to site (Cincinnati, Nashville, or Rochester), visit setting (inpatient/ED or clinic), and date of enrollment (control subjects) or
+date of influenza symptom onset (case subjects).
+a Reference is the unvaccinated group.
+b Unit increase for each additional month of age.
+c P  .01.
+d Reference is private insurance.
+e P  .05.
+916 EISENBERG et al
+Downloaded from pediatrics.aappublications.org at Purdue University Libraries on April 13, 2015
+tion was not associated with a significant reduction in
+influenza-related inpatient/ED or outpatient visits (data
+not shown).
+DISCUSSION
+Overall Findings
+We used prospective, laboratory-confirmed, surveillance
+data from 3 geographically distinct, urban counties in
+the United States to estimate the effectiveness of the
+trivalent inactivated influenza vaccine for children during the 2003–2004 and 2004 –2005 influenza seasons.
+We found that fully vaccinated children 6 to 59 months
+of age had 44% and 57% fewer influenza-related medical visits, compared with unvaccinated children in the
+respective seasons, although only the estimate from the
+2004 –2005 influenza season was statistically significant.
+During the 2004 –2005 season, the VE for fully vaccinated children was 55% among 6- to 23-month-old
+children, the age group recommended for routine vaccination that season. Partially vaccinated children did
+not experience a decrease in influenza rate, compared
+with unvaccinated children. Our data provide support
+for the current influenza vaccine recommendations for
+all children 6 to 59 months of age and underscore the
+importance of the 2 doses of influenza vaccine in the first
+year in which a young child is vaccinated.
+There were too few fully vaccinated children in the
+2003–2004 season (only 62 children) to allow conclusions about VE, but VE estimates for full vaccination in
+the 2004 –2005 season were consistent across strata. This
+similarity in the VE estimates across strata is of note
+because of the implication that, in the 2004 –2005 influenza season, full influenza vaccination seemed equally
+effective in preventing influenza morbidity across this
+age group, with a large range in terms of risk of severe
+influenza and host vulnerability.1
+Our study contributes to the existing VE literature by
+estimating VE across influenza seasons and patient care
+settings, using case subjects with laboratory-confirmed
+influenza. An additional advantage of our study design is
+the ability to determine VE rapidly and efficiently by
+using influenza-negative children, identified during ongoing surveillance by the NVSN for influenza disease
+burden, as control subjects.
+VE According to Age Group
+Although our VE estimates for the 2003–2004 influenza
+season seemed to differ substantially according to age,
+these results were not statistically significant and we
+cannot conclude that there was a true difference between age groups. The 44% VE estimate for children 6 to
+59 months of age reflects a combination of the relatively
+high VE estimate (66%) for the older age group and the
+lack of effectiveness in the younger group. Our VE estimates for the 2004 –2005 influenza season do not suggest any difference in VE according to age group.
+Match Between Circulating and Vaccine Influenza Strains
+The match between circulating influenza strains and
+strains included in the vaccine was considered suboptimal for both of these influenza seasons. In the 2003–
+2004 season, only 11% of influenza A virus specimens,
+which accounted for 99% of circulating strains, were
+similar to a strain included in the vaccine, based on US
+virological surveillance, and the season began earlier and
+was associated with more pediatric deaths than usual.23
+The 2004 –2005 influenza season was less severe and the
+vaccine was a better match to circulating strains than in
+2003–2004, but still only 36% of virus isolates were
+antigenically well matched to vaccine strains.24 This difference in the match between circulating and vaccine
+strains between seasons may account for the higher VE
+estimates in 2004 –2005, although differences in age distributions and proportions vaccinated also might have
+played a role. Characterization of a limited number of
+isolates from the 3 study counties agreed with the US
+data. The seasonal and geographic variations in the proportions of children with influenza in our data reflect the
+variable nature of influenza epidemics. These variations
+demonstrate the importance of considering multiple
+sites and seasons in influenza VE analyses.
+Other VE Estimates in Young Children
+Our finding of no influenza VE in young children differs
+from 3 previous studies of trivalent inactivated influenza
+vaccine during the 2003–2004 influenza season, although all of the studies, including ours, found no VE for
+partially vaccinated children. For fully vaccinated children 6 to 23 months of age, Ritzwoller et al11 found 49%
+VE in preventing outpatient office and ED visits (92% of
+visits were office visits) for pneumonia and influenza,
+and Shuler et al10 found 52% VE in preventing office
+visits for laboratory-confirmed influenza. Allison et al12
+found higher VE among fully vaccinated, 6- to 21-
+month-old children, that is, 69% in preventing influenza-like illness office visits and 87% in preventing pneumonia/influenza office visits; these higher VE estimates
+may be related to the exclusion of children with chronic
+medical conditions. However, another study found VE
+for live attenuated vaccine, but not for trivalent inactivated vaccine, among older children during the 2003–
+2004 season.25
+There are a number of possible explanations for the
+differences between the studies that found VE and our
+results, including power limitations, geographic differences, the choice of comparison populations, and the
+proportions of fully vaccinated children in the study
+populations who received 2 vaccine doses in the current
+season. The small numbers of case subjects overall and
+low vaccination rates in the 2003–2004 season (before
+the recommendation for routine vaccination of 6-23-
+month-old children) limited our power to detect VE
+during that season. In particular, our study did not have
+sufficient power to estimate influenza VE among 6- to
+23-month-old children with office visits, the group most
+comparable to the other study populations. Despite limited power, when we restricted our analysis to children
+who received 2 vaccine doses in the current season and
+children who were unvaccinated, our VE estimates for
+children 6 to 59 months of age increased from 44% to
+59%. This finding is consistent with data that suggest
+PEDIATRICS Volume 122, Number 5, November 2008 917
+Downloaded from pediatrics.aappublications.org at Purdue University Libraries on April 13, 2015
+that young children who receive 1 dose in the previous
+season and 1 in the current season may not be as well
+protected as those who receive 2 doses in the current
+season.26
+We studied different geographic regions, compared
+with the other studies of young children, 2 of which
+were conducted in Colorado11,12 and 1 in Georgia,10 and
+influenza attack rates might have differed according to
+location. If a larger proportion of cases in the regions we
+studied were caused by the influenza A drift variant,
+then we would expect to see lower VE than in the other
+studies.
+Our comparison population, that is, influenza-negative children with ARIs, also might account for our finding of lack of VE, if there were differences in the likelihood of being included in NVSN surveillance activities
+according to vaccination status. For example, it is possible that parents who know their children have been
+vaccinated against influenza are less likely to seek care.
+However, it is even more likely that the propensity to
+seek vaccination is related to the propensity to seek
+medical care in general, and children who are vaccinated
+may be more likely to be seen in outpatient, ED, or even
+inpatient settings because of unmeasured propensity to
+seek medical care. We were not able to assess factors that
+would make children more likely to be exposed to influenza virus, such as day care attendance or number of
+siblings, or the family threshold to seek medical care. By
+using influenza-negative children who were receiving
+medical care and were enrolled in the same study as a
+comparison group, however, we controlled in large part
+for the propensity to seek care that can cause confounding in observational VE studies. All of the studies that
+estimated VE in young children during the 2003–2004
+influenza season accounted for the propensity to seek
+medical care to some degree, but inclusion of only children with ARIs may be a more stringent control than
+those used in the other studies.
+A disadvantage of using influenza-negative children
+with ARIs as control subjects is that the comparison
+population can change from season to season, depending on the viruses that are cocirculating during the influenza season. However, we do not think that fluctuations in the comparison population would compromise
+the accuracy of VE estimates calculated by using influenza-negative children with ARIs as a comparison
+group, because influenza vaccine uptake levels should
+be similar for children with different types of non–influenza-associated ARIs.
+We found 55% VE among children 6 to 23 months of
+age, 63% VE among children 24 to 59 months of age,
+and 57% VE among children 6 to 59 months of age
+during the 2004 –2005 influenza season. We know of no
+other published reports of VE in these age groups for the
+2004 –2005 season, but the VE of trivalent inactivated
+influenza vaccine in healthy adults was estimated at
+66%, despite the dissimilarity between circulating and
+vaccine influenza strains.27 Lewis et al28 conservatively
+estimated that, if one half of US children 6 to 59 months
+of age were fully vaccinated in a year with 50% VE, then
+the direct benefit would be the prevention of 2250
+hospitalizations and 270 000 to 650 000 outpatient visits
+for influenza-attributable illnesses.
+Limitations
+Because of the relatively small number of cases in both
+seasons, we combined inpatient and ED visits to reflect
+more-severe influenza disease; however, it is possible
+that VE differs for these settings, and larger studies with
+many more cases of influenza would be needed to evaluate this issue. Missing vaccination data were unlikely to
+have affected the results. The participation rate was
+lower for outpatients than for inpatients in both years
+but, given the similarity of VE estimates across patient
+care settings, this disparity was unlikely to have affected
+our results. Similarly, although children in the older age
+group were less likely to be enrolled in the 2004 –2005
+season, VE estimates were similar across age groups for
+that season.
+Children were not selected at random to receive
+vaccination; therefore, there were differences in the
+populations of children who did and did not receive
+vaccination. Most significantly, children with underlying medical conditions were more likely to be vaccinated. This was not likely to be a significant source of
+confounding in VE estimates in our study, because adjustment for the presence of an underlying medical condition in multivariate modeling or inclusion of any other
+covariate did not change the estimates substantially.
+There were differences in the age distributions between
+case subjects and control subjects, which we addressed
+by adjusting for age (in months) and conducting analyses stratified according to age. However, the possibility of
+residual confounding remains.
+CONCLUSIONS
+US children 6 to 59 months of age experience a substantial number of hospitalizations, ED visits, and outpatient
+visits for influenza each year. Our results suggest that,
+even in an influenza season (2004 –2005) with a suboptimal vaccine match, more than one half of these visits
+could be prevented with recommended influenza vaccination. Partial vaccination did not seem to be effective.
+These results offer additional evidence in support of
+recommendations for vaccinating children against influenza, and they highlight the importance of children
+receiving the recommended number of influenza vaccinations.
+ACKNOWLEDGMENTS
+Dr Poehling received support from the Robert Wood
+Johnson Generalist Physician Faculty Scholar Program
+and the National Institutes of Health (grant K23
+AI065805). Dr Edwards received support from the National Institutes of Health (grant NIH-NIAID NO1 AI25462) and the Centers for Disease Control and Prevention (grant CDC 200-2002-00732 and grant CDC UO1
+IP000022).
+We thank A. Curns, C. Brown, R. Seither, J. Copeland, F. Walker, and L. Finelli, Centers for Disease Control and Prevention (Atlanta, GA); D. Kent, A. Clay, E.
+918 EISENBERG et al
+Downloaded from pediatrics.aappublications.org at Purdue University Libraries on April 13, 2015
+Keckley, A. Khan, P. Sacket, N. Crowder, Y. Tang, A.
+Blackman, J. Peters, J. Doersam, and N. Whitehead,
+Vanderbilt University Medical Center (Nashville, TN); Y.
+Zhu, R. Hornung, S. Sexton, and M. Holloway, Cincinnati Children’s Hospital Medical Center (Cincinnati,
+OH); C. Freundlich, University of Rochester School of
+Medicine and Dentistry (Rochester, NY); and all of the
+study nurses for their work in support of this research.
+REFERENCES
+1. Poehling KA, Edwards KM, Weinberg GA, et al. The underrecognized burden of influenza in young children. N Engl J Med.
+2006;355(1):31– 40
+2. Neuzil KM, Mellen BG, Wright PF, Mitchel EF, Griffin MR. The
+effect of influenza on hospitalizations, outpatient visits, and
+courses of antibiotics in children. N Engl J Med. 2000;342(4):
+225–231
+3. Coffin SE, Zaoutis TE, Rosenquist ABW, et al. Incidence, complications, and risk factors for prolonged stay in children hospitalized with community-acquired influenza. Pediatrics. 2007;
+119(4):740 –748
+4. Izurieta HS, Thompson WW, Kramarz P, et al. Influenza and
+the rates of hospitalization for respiratory disease among infants and young children. N Engl J Med. 2000;342(4):232–239
+5. Neuzil KM, Zhu Y, Griffin MR, et al. Burden of interpandemic
+influenza in children younger than 5 years: a 25-year prospective study. J Infect Dis. 2002;185(2):147–152
+6. Iwane MK, Edwards KM, Szilagyi PG, et al. Population-based
+surveillance for hospitalizations associated with respiratory
+syncytial virus, influenza virus, and parainfluenza viruses
+among young children. Pediatrics. 2004;113(6):1758 –1764
+7. Bridges CB, Harper SA, Fukuda K, et al. Prevention and control
+of influenza: recommendations of the Advisory Committee on
+Immunization Practices (ACIP). MMWR Recomm Rep. 2003;
+52(RR-8):1–34
+8. Harper SA, Fukuda K, Uyeki TM, et al. Prevention and control
+of influenza: recommendations of the Advisory Committee on
+Immunization Practices (ACIP). MMWR Recomm Rep. 2004;
+53(RR-6):1– 40
+9. Advisory Committee on Immunization Practices, Smith NM, Bresee JS, et al. Prevention and control of influenza: recommendations of the Advisory Committee on Immunization Practices
+(ACIP). MMWR Recomm Rep. 2006;55(RR-10):1–42
+10. Shuler CM, Iwamoto M, Bridges CB, et al. Vaccine effectiveness against medically attended, laboratory-confirmed influenza among children aged 6 to 59 months, 2003–2004. Pediatrics. 2007;119(3). Available at: www.pediatrics.org/cgi/
+content/full/119/3/e587
+11. Ritzwoller DP, Bridges CB, Shetterly S, Yamasaki K, Kolczak
+M, France EK. Effectiveness of the 2003–2004 influenza vaccine among children 6 months to 8 years of age, with 1 vs 2
+doses. Pediatrics. 2005;116(1):153–159
+12. Allison MA, Daley MF, Crane LA, et al. Influenza vaccine
+effectiveness in healthy 6- to 21-month-old children during
+the 2003–2004 season. J Pediatr. 2006;149(6):755–762
+13. Hoberman A, Greenberg DP, Paradise JL, et al. Effectiveness of
+inactivated influenza vaccine in preventing acute otitis media
+in young children: a randomized controlled trial. JAMA. 2003;
+290(12):1608 –1616
+14. Zangwill KM, Belshe RB. Safety and efficacy of trivalent inactivated influenza vaccine in young children: a summary for the
+new era of routine vaccination. Pediatr Infect Dis J. 2004;23(3):
+189 –197
+15. Halloran ME, Longini IM Jr, Gaglani MJ, et al. Estimating
+efficacy of trivalent, cold-adapted, influenza virus vaccine
+(CAIV-T) against influenza A (H1N1) and B using surveillance
+cultures. Am J Epidemiol. 2003;158(4):305–311
+16. Frank AL, Taber LH, Wells CR, Wells JM, Glezen WP, Paredes
+A. Patterns of shedding of myxoviruses and paramyxoviruses
+in children. J Infect Dis. 1981;144(5):433– 441
+17. Harper SA, Fukuda K, Uyeki TM, Cox NJ, Bridges CB, Advisory
+Committee on Immunization Practices (ACIP), Centers for Disease Control and Prevention (CDC). Prevention and control of
+influenza: recommendations of the Advisory Committee on
+Immunization Practices (ACIP). MMWR Recomm Rep. 2005;
+54(RR-8):1– 40
+18. Erdman DD, Weinberg GA, Edwards KM, et al. GeneScan
+reverse transcription-PCR assay for detection of six common
+respiratory viruses in young children hospitalized with acute
+respiratory illness. J Clin Microbiol. 2003;41(9):4298 – 4303
+19. Weinberg GA, Erdman DD, Edwards KM, et al. Superiority of
+reverse-transcription polymerase chain reaction to conventional viral culture in the diagnosis of acute respiratory infections in children. J Infect Dis. 2004;189(4):706 –710
+20. Kroger AT, Atkinson WL, Marcuse EK, Pickering LK, Advisory
+Committee on Immunization Practices (ACIP), Centers for Disease Control and Prevention (CDC). General recommendations on immunization: recommendations of the Advisory
+Committee on Immunization Practices (ACIP). MMWR Recomm
+Rep. 2006;55(RR-15):1– 48
+21. Fiore AE, Shay DK, Haber P, et al. Prevention and control of
+influenza: recommendations of the Advisory Committee on
+Immunization Practices (ACIP), 2007. MMWR Recomm Rep.
+2007;56(RR-6):1–54
+22. Dupont WD, Plummer WD. PS power and sample size program
+available for free on the Internet. Control Clin Trials. 2007;
+18(3):274
+23. Centers for Disease Control and Prevention. Update: influenza
+activity: United States and worldwide, 2003– 04 season, and
+composition of the 2004 – 05 influenza vaccine. MMWR Morb
+Mortal Wkly Rep. 2004;53(25):547–552
+24. Centers for Disease Control and Prevention. Update: influenza
+activity: United States and worldwide, 2004 – 05 season.
+MMWR Morb Mortal Wkly Rep. 2005;54(25):631– 634
+25. Piedra P, Gaglani M, Kozinetz C, et al. Trivalent live attenuated
+intranasal influenza vaccine administered during the
+2003–2004 influenza type A (H3N2) outbreak provided immediate, direct, and indirect protection in children. Pediatrics.
+2007;120(3). Available at: www.pediatrics.org/cgi/content/
+full/120/3/e553
+26. Englund JA, Walter EB, Gbadebo A, Monto AS, Zhu Y, Neuzil
+KM. Immunization with trivalent inactivated influenza vaccine
+in partially immunized toddlers. Pediatrics. 2006;118(3). Available at: www.pediatrics.org/cgi/content/full/118/3/e579
+27. Ohmit S, Victor J, Rotthoff J, et al. Prevention of antigenically
+drifted influenza by inactivated and live attenuated vaccines.
+N Engl J Med. 2006;355(24):2513–2522
+28. Lewis EN, Griffin MR, Szilagyi PG, Zhu Y, Edwards KM, Poehling KA. Childhood influenza: number needed to vaccinate to
+prevent 1 hospitalization or outpatient visit. Pediatrics. 2007;
+120(3):467– 472
+PEDIATRICS Volume 122, Number 5, November 2008 919
+Downloaded from pediatrics.aappublications.org at Purdue University Libraries on April 13, 2015
+DOI: 10.1542/peds.2007-3304
+Pediatrics 2008;122;911
+Bridges and Marika K. Iwane
+Poehling, Kathryn M. Edwards, Geraldine Lofthus, Susan G. Fisher, Carolyn B.
+Staat, Laura P. Shone, Geoffrey A. Weinberg, Caroline B. Hall, Katherine A.
+Katherine W. Eisenberg, Peter G. Szilagyi, Gerry Fairbrother, Marie R. Griffin, Mary
+59 Months of Age During the 2003−2004 and 2004−2005 Influenza Seasons
+Vaccine Effectiveness Against Laboratory-Confirmed Influenza in Children 6 to
+ Services
+Updated Information &
+ml
+http://pediatrics.aappublications.org/content/122/5/911.full.ht
+including high resolution figures, can be found at:
+References
+ml#ref-list-1
+http://pediatrics.aappublications.org/content/122/5/911.full.ht
+at:
+This article cites 25 articles, 9 of which can be accessed free
+Citations
+ml#related-urls
+http://pediatrics.aappublications.org/content/122/5/911.full.ht
+This article has been cited by 13 HighWire-hosted articles:
+Subspecialty Collections
+munization_sub
+http://pediatrics.aappublications.org/cgi/collection/vaccine:im
+Vaccine/Immunization
+sub
+http://pediatrics.aappublications.org/cgi/collection/influenza_
+Influenza
+diseases_sub
+http://pediatrics.aappublications.org/cgi/collection/infectious_
+Infectious Diseases
+the following collection(s):
+This article, along with others on similar topics, appears in
+Permissions & Licensing
+ml
+http://pediatrics.aappublications.org/site/misc/Permissions.xht
+tables) or in its entirety can be found online at:
+Information about reproducing this article in parts (figures,
+ Reprints
+http://pediatrics.aappublications.org/site/misc/reprints.xhtml
+Information about ordering reprints can be found online:
+rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275.
+Grove Village, Illinois, 60007. Copyright © 2008 by the American Academy of Pediatrics. All
+and trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published,
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly
+Downloaded from pediatrics.aappublications.org at Purdue University Libraries on April 13, 2015
+DOI: 10.1542/peds.2007-3304
+Pediatrics 2008;122;911
+Bridges and Marika K. Iwane
+Poehling, Kathryn M. Edwards, Geraldine Lofthus, Susan G. Fisher, Carolyn B.
+Staat, Laura P. Shone, Geoffrey A. Weinberg, Caroline B. Hall, Katherine A.
+Katherine W. Eisenberg, Peter G. Szilagyi, Gerry Fairbrother, Marie R. Griffin, Mary
+59 Months of Age During the 2003−2004 and 2004−2005 Influenza Seasons
+Vaccine Effectiveness Against Laboratory-Confirmed Influenza in Children 6 to
+http://pediatrics.aappublications.org/content/122/5/911.full.html
+located on the World Wide Web at:
+The online version of this article, along with updated information and services, is
+of Pediatrics. All rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275.
+Boulevard, Elk Grove Village, Illinois, 60007. Copyright © 2008 by the American Academy
+published, and trademarked by the American Academy of Pediatrics, 141 Northwest Point
+publication, it has been published continuously since 1948. PEDIATRICS is owned,
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly
+Downloaded from pediatrics.aappublications.org at Purdue University Libraries on April 13, 2015

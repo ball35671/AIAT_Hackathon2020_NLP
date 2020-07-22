@@ -1,0 +1,768 @@
+Transtheoretical Model-Chronic Disease Care
+for Obesity in Primary Care: A Randomized
+Trial
+Everett Logue,* Karen Sutton,† David Jarjoura,‡ William Smucker,* Kristin Baughman,§ and
+Cynthia Capers¶
+Abstract
+LOGUE, EVERETT, KAREN SUTTON, DAVID
+JARJOURA, WILLIAM SMUCKER, KRISTIN
+BAUGHMAN, AND CYNTHIA CAPERS.
+Transtheoretical model-chronic disease care for obesity in
+primary care: a randomized trial. Obes Res. 2005;13:
+917–927.
+Objective: To compare health benefits achieved in a transtheoretical model-chronic disease (TM-CD) minimal intervention for obesity vs. augmented usual care (AUC).
+Research Method and Procedures: This was a 2-year,
+randomized clinical trial with overweight or obese men and
+women from 15 primary care sites. AUC (n  336) included
+dietary and exercise advice, prescriptions, and three 24-hour
+dietary recalls every 6 months. TM-CD care (n  329)
+included AUC elements plus “stage of change” (SOC) assessments for five target behaviors every other month,
+mailed SOC and target behavior–matched workbooks, and
+monthly telephone calls from a weight-loss advisor. Weight
+change was the primary outcome.
+Results: Repeated measures models under the missing at
+random assumption yielded nonsignificant adjusted differences between the AUC and TM-CD groups for weight
+change, waist circumference, energy intake or expenditure,
+blood pressure, and blood lipids. The pattern of change over
+time suggested that TM-CD participants were trying harder
+to impact target behaviors during the first 6 to 12 months of
+the trial but relapsed afterward. Sixty percent of trial participants maintained their baseline weights for 18 to 24
+months.
+Discussion: A combination of mailed patient materials and
+monthly telephone calls based on the transtheoretical model
+and some elements of chronic disease care is not powerful
+enough, relative to AUC, to alter target behaviors among
+overweight primary care patients in an obesogenic environment. AUC may be sufficient to maintain weights among
+at-risk primary care patients.
+Key words: weight management, chronic disease, cognitive-behavioral therapy, treatment, randomized controlled trial
+Introduction
+Obesity is epidemic in the general population because of
+a widespread polygenetic susceptibility interacting with an
+obesogenic environment that encourages excess energy intake and discourages energy expenditure (1–3). Thus, almost all middle-aged primary care patients, particularly
+among disadvantaged groups, have excess adipose tissue
+and have one or more obesity-related chronic diseases such
+as hypertension, hyperlipidemia, diabetes, osteoarthritis,
+asthma, lower back pain, or heart disease (4,5). Cognitive
+behavioral obesity interventions that are linked to primary
+care should reinforce public health efforts against the epidemic; however, an area of controversy is the minimum
+length and intensity of a primary care intervention that will
+maintain healthier patient behaviors in an obesogenic environment that will persist for many years (6,7). An openended series of weekly face-to-face contacts between a
+patient and a provider may be an expensive treatment modality for payers with other priorities. Thus, some research
+has focused on very brief physician counseling (8). Group
+visits, telephone calls, mail contacts, e-mail or Internet
+Received for review May 17, 2004.
+Accepted in final form March 2, 2005.
+The costs of publication of this article were defrayed, in part, by the payment of page
+charges. This article must, therefore, be hereby marked “advertisement” in accordance with
+18 U.S.C. Section 1734 solely to indicate this fact.
+*Department of Family Practice, Summa Health System, Akron, Ohio; †Department of
+Psychology, Oberlin College, Oberlin, Ohio; ‡Office of Biostatistics, Northeastern Ohio
+Universities College of Medicine, Rootstown, OH; §Louis Stokes Veteran Affairs Medical
+Center, Brecksville, Ohio; and ¶College of Nursing, University of Akron, Akron, Ohio.
+Address correspondence to Everett Logue, Department of Family Practice, Summa Health
+System, 525 East Market Street, Suite 290, Akron, OH 44309-2090.
+E-mail: logueE@summa-health.org
+Copyright © 2005 NAASO
+OBESITY RESEARCH Vol. 13 No. 5 May 2005 917
+contacts, or referrals to the best commercial programs are
+feasible alternatives to multiple face-to-face visits with a
+clinician, but it is not clear which mix of treatment modalities is best for which patients (9).
+We were interested in an intervention that would be
+compatible with traditional primary care practice, which is
+still more focused on “acute problems” than optimal chronic
+disease care (7). We did not want to perturb the physician,
+the office staff, the flow of patients (four or five per hour),
+or the flow of revenue, but we felt it was important to
+maintain some linkage between primary care and the intervention because of comorbidity issues, because primary
+care is where most patients enter the health system, and
+because of our belief that better management of obesity in
+primary care settings could prevent more serious sequelae
+and reduce aggregate health care costs (10). Because counseling resources are limited, and triage was a familiar concept, we wanted to match patients and treatments. We also
+wanted to be patient-centered in the sense of providing
+appropriate types of information and counseling to a heterogeneous population of patients with a wide distribution of
+“readiness” for changing key dietary and exercise behaviors. Finally, we wanted the intervention to have a strong
+cognitive and behavioral grounding and to be “organized
+and proactive,” because occasional advice to “eat less and
+exercise more” did not seem to be particularly effective. A
+primary care linked mail and telephone intervention based
+on the transtheoretical model (TM)1 and some elements of
+chronic disease (CD) care seemed to meet most of our a
+priori criteria (7,11).
+In this paper, we report the results from the Reasonable
+Eating and Activity to Change Health (REACH) trial—a
+randomized clinical trial of an obesity intervention derived
+from the TM and a chronic disease care paradigm (TM-CD)
+(12). The focus of the REACH trial was small changes in
+multiple target behaviors that should lead to small weight
+changes that are sustainable over time. The primary hypothesis driving the REACH trial was that, after 100 weeks of
+treatment, the TM-CD intervention patients would experience a greater decrease in body weight compared with
+augmented usual care (AUC) patients. Similar secondary
+hypotheses addressed changes in low-density lipoprotein
+(LDL)-cholesterol, energy consumption, and energy expenditure. Anxiety and depression were expected to retard stage
+progression, behavior change, and weight loss. A companion observational study suggested that the elapsed time in
+the action or maintenance stages of change is a strong
+predictor of weight loss in primary care patients and documented that the majority of REACH trial participants started
+the trial in a preaction stage for one or more behaviors,
+which is a prerequisite for applying the TM (13).
+Research Methods and Procedures
+Study Design
+The study was a 24-month randomized, parallel-group
+trial conducted at 15 primary care practices in northeastern
+Ohio between July 1998 and December 2002. Assessments
+were scheduled at 0 (baseline), 6, 12, 18, and 24 months.
+The initial sample size (540) was chosen to provide a power
+of 0.90 to detect a difference of 4.5 kg (about a 5% weight
+loss difference) between the TM-CD and AUC groups with
+a two-tailed type I error probability of 0.05 and a 20%
+dropout rate (14 –17). The impact of alternative values for
+the SD and correlation of weight measurements was considered in the sample size calculations (15). The trial also
+had 0.90 power to detect small to moderate TM-CD vs.
+AUC differences in blood lipids (5%), energy intake (85
+kcal/d), and energy expenditure (200 kcal/wk). The original
+design called for equal numbers of male and female patients
+and African-American patients to be in proportion to their
+representation in Summit County and the nation (12%).
+Supplemental grant funds secured in the second year of the
+trial allowed African-American enrollment to double
+(27%).
+General recruitment stalled at 500 patients in the latter
+half of 1999 while we were waiting for the approval of
+additional “single project assurances” that would allow us to
+enroll participants at sites with larger proportions of African-American patients. After the approvals were granted,
+recruitment continued until the end of 2000. Recruiting
+eligible men and African Americans was more difficult than
+recruiting eligible white women. Enrollment was closed
+when 665 patients were enrolled.
+Study Participants
+Participants were recruited when they inquired about the
+study after either talking to their physician or reading study
+brochures, posters, or letters that were mailed to potential
+participants identified by primary care physicians. Waiting
+room brochures and posters, general newspaper articles, and
+announcements at churches with African-American congregations were used to raise community awareness of the
+study. All participants were required to be patients in one of
+the primary care practices that were affiliated with the
+study. All participants provided written informed consent
+according to a procedure approved by three institutional
+review boards. Representatives of the private practices
+signed single project assurances. Men and women, 40 to 69
+years of age, with elevated BMI (27 kg/m2
+) or elevated
+waist-to-hip ratios (WHR; 0.950 for men or 0.800 for
+women) were eligible for the study. Exclusion criteria were
+no access to a telephone, difficulty understanding eighth1 Nonstandard abbreviations: TM, transtheoretical model; CD, chronic disease; REACH,
+Reasonable Eating and Activity to Change Health; AUC, augmented usual care; SOC, stage
+of change; WLA, weight loss advisor; CI, confidence interval; MAR, missing at random.
+Transtheoretical Model and Chronic Care for Obesity, Logue et al.
+918 OBESITY RESEARCH Vol. 13 No. 5 May 2005
+grade level spoken or written English, pregnancy, lactation,
+6 months postpartum, or use of a wheel chair for mobility.
+Primary care physicians excluded high-risk patients with
+severe heart or lung disease.
+Randomization
+After the informed consent process was completed, and
+baseline data were collected, participants were randomized
+by opening an envelope with a set of ordered tickets indicating “TM-CD” or “Traditional” care. The (NEOUCOM)
+Office of Biostatistics prepared the ordered randomization
+tickets using permuted blocks of 10. A separate randomization sequence was used for each primary care practice site.
+Participants and research staff at each practice were blind to
+the assignment of patients while obtaining baseline measures, because assignment envelopes were not opened until
+the end of the visit. “Stage of change” (SOC) scores and
+Primary Care Evaluation of Mental Disorders (PRIME-MD)
+scores were obtained for the intervention group after randomization (see below).
+AUC Group
+Participants assigned to the AUC group were asked to
+provide anthropometric, dietary, and exercise data every 6
+months, which is consistent with behavioral self-monitoring
+principles. After each semiannual dietary and exercise assessment, a registered dietitian also provided 10 minutes of
+counseling based on either the USDA Food Guide Pyramid
+(Dietary Guidelines for Americans) or a Soul Food Guide
+Pyramid. The dietitian prepared written dietary and exercise
+prescriptions based on the information from the dietary and
+exercise recalls. Patients were advised to discuss their lipid
+and blood pressure values with their primary care physician.
+Patients in both the AUC and TM-CD groups were paid $25
+for completing each postbaseline assessment.
+TM-CD Group
+Participants assigned to the TM-CD group had the same
+basic care as the AUC group. Patients randomized to both
+the AUC and TM-CD groups had anthrometric, dietary, and
+physical activity assessments every 6 months and brief (10
+minutes) advice based on general dietetic practice (Dietary
+Guidelines for Americans) and a standard prescription (reduce calories, increase fruit and vegetables, reduce fat,
+increase activity and exercise).
+In addition, the TM-CD group was formally evaluated for
+anxiety, depression, and binge eating disorder every 6
+months, and they completed an SOC assessment for five
+target behaviors every 2 months (18,19). The target behaviors were increased exercise, increased usual activity, increased dietary portion control, decreased dietary fat, and
+increased fruits and vegetables. Patients in an action stage at
+baseline were not excluded.
+Mood disorder case-finding is consistent with good
+chronic disease care. These disorders are prevalent in primary care populations, and they can complicate the selfmanagement of other chronic diseases such as diabetes or
+obesity. We selected the short PRIME-MD instrument because it facilitated valid case-finding for depression, anxiety, and (binge) eating disorder, which seem to affect a
+subset of patients who volunteer for weight management
+programs (18). We felt that it was unethical to conduct
+mood disorder case-finding in the AUC group without informing the primary care physicians of the results; therefore, we restricted the case-finding to the TM-CD group.
+Patients were mailed stage- and behavior-matched workbooks that corresponded to their most recent SOC profile.
+TM-CD patients also received brief monthly telephone calls
+from a weight loss advisor (WLA) who was trained to apply
+the processes of change that corresponded to the patient’s
+SOC profile. The WLAs had access to a set of public
+domain patient handouts and other materials (menu suggestions, mall walking maps, descriptions of local walking
+trails) that could be mailed to TM-CD patients when they
+requested additional information. Primary care physicians
+had the option of receiving a report indicating when a
+TM-CD patient was “positive” for depression or anxiety.
+Physicians received periodic reports summarizing
+TM-CD patient progress with respect to the five target
+behaviors. A part-time pharmaceutical representative was
+trained to provide academic detailing to physicians on the
+use of the SOC profiles, the processes of change, and how
+to use a small double-sided SOC flip chart when counseling
+patients in the examination room. We expected that primary
+care physicians would address obesity issues only after all
+“acute” concerns had been dealt with, when the patient
+brought up the issue, or at infrequent (one, two, or three
+times per year) chronic disease visits (diabetes check-up).
+Chart reviews at baseline and 12 and 24 months suggested
+a low level of physician attention to dietary, exercise, or
+weight issues before (15% of charts) and during (6% of
+charts) the trial.
+Monthly WLA telephone calls averaged 15 minutes per
+call. TM-CD participants were taught behavioral techniques
+consistent with Prochaska’s description of the relationship
+between the “processes of change” and the “stages of
+change” for the target behaviors. Self-monitoring of the
+target behaviors was recommended for patients in action or
+maintenance, but self-monitoring records were not reviewed
+by the physician or the WLA. Daily self-weighing was not
+recommended because daily weight changes were expected
+to be small. We assumed that small daily weight changes
+could be either motivating or discouraging depending on
+expectations and the behavioral context.
+Implementation of the WLA telephone protocol was
+monitored by the project psychologist (KS), who periodically debriefed the WLAs and advised them how to interact
+Transtheoretical Model and Chronic Care for Obesity, Logue et al.
+OBESITY RESEARCH Vol. 13 No. 5 May 2005 919
+with problematic patients. Patients were assigned to one of
+three WLAs, but personnel issues (vacation, illness, maternity leave) necessitated WLA cross-coverage for the telephone calls. However, the WLAs documented key aspects
+of each patient encounter in an Access database, which
+provided some continuity of care. The database was consulted before and during each WLA telephone call to help
+the WLA remember each patient’s current SOC profile and
+other issues. Use of the WLA database to support a counseling encounter, relying on periodic proactive patient contacts, allowing the patients some latitude in selecting the
+target behaviors to focus on, and accommodating the entire
+SOC distribution are consistent with Wagner’s chronic disease care model (7).
+Outcome Measures
+The main outcome measure was weight, which was measured every 6 months for 24 months at primary care physician offices using a standardized calibrated scale. Other
+biological risk measurements included waist girths, blood
+lipids (from a central laboratory), and blood pressures.
+Measurements with an important behavioral and cognitive
+component were estimates of daily energy intake from three
+(NDS-R) software-driven dietary recalls and total energy
+expenditure per kilogram per day from a metabolic equivalent-coded 7-day physical activity recall (20,21). Psychosocial measurements included scales for self-efficacy, social
+support, and decisional balance for healthy eating and exercise, the SF-12 subscales for general physical and mental
+health, and a social desirability scale (22–28). The primary
+outcome measure was TM-CD vs. AUC body weight
+change from baseline at or near the end of the 24-month
+follow-up.
+Primary care records were abstracted once a year. Chart
+weights were substituted for measured weights when the
+latter were missing. Seventy percent of the participants had
+a measured weight from the 18- or 24-month follow-up
+visit. Eighty-eight percent of participants had either a measured or chart weight at or close to the 18- or 24-month
+measurement period. Pearson correlations between measured and chart weights averaged 0.99 (over repeated measures). Weight data (measured or chart) were equally available from both treatment groups at follow-up months 6, 12,
+and 24. At month 18, there were significantly more weight
+values available for the TM-CD group (85% vs. 78%; 2 
+5.6).
+Statistical Analysis
+Differences between the treatment groups at baseline
+were analyzed using 95% confidence intervals (CIs). The
+primary hypothesis test focused on the final weight change
+from baseline to month 24 (or month 18 if the month 24
+value was missing). An intention-to-treat analysis including
+all randomized participants was performed using linear
+models and linear mixed (repeated-measures) models (Proc
+GLM and Proc Mixed, SAS version 8.2; SAS Institute,
+Cary, NC) using baseline variables, unstructured covariance
+matrices, and a missing at random (MAR) assumption. The
+MAR assumption is that the dropout pattern for missing
+repeated measures is random conditional on all known
+(observed) values of the repeated measures and baseline
+variables (29,30). Use of the MAR assumption is more
+likely to yield unbiased parameter estimates than “analysis
+of complete data” (31). In a sensitivity analysis considering
+the 12% of patients with missing weights for month 18 or
+24, we used baseline weight as a substitute (32). Subgroup
+analyses allowed for the possibility of synergistic or antagonistic effects.
+Results
+Participant Follow-up
+Figure 1 shows the proportion of participants in each
+study group (AUC or TM-CD) with a measured weight
+(53.9% to 79.6%) and other information at the four folFigure 1: Participant follow-up by study group.
+Transtheoretical Model and Chronic Care for Obesity, Logue et al.
+920 OBESITY RESEARCH Vol. 13 No. 5 May 2005
+low-up assessments. Figure 1 also shows the proportion
+with a measured weight or a chart weight (78.0% to 92.1%)
+when the latter was substituted for a missing measured
+weight. The majority of missing values occurred because
+participants declined further participation when an effort
+was made to schedule a follow-up appointment. Three patients died (two probable heart attacks and one automobile
+accident) during follow-up. After reviewing the circumstances of death, the local Institutional Review Board
+judged that these deaths were unrelated to trial participation.
+Participant Characteristics
+Characteristics of participants at baseline are shown in
+Table 1. All 95% CIs on differences between the AUC and
+TM-CD groups at baseline included zero. According to their
+BMIs, 20% of participants were overweight, 34% had Class
+I obesity, 23% had Class II obesity, and 23% had Class III
+obesity. Ninety-five percent of the participants reported
+prior weight loss attempts, 81% reported that their physician
+had previously advised them to lose weight, and 47% had
+prior experience with a commercial weight loss program.
+Since their early twenties, 28% reported that they had
+gained an average of 36.3 lb (16.5 kg), 50% reported that
+they had gained an average of 71.1 lb (32.3 kg), and 15%
+reported that they had gained an average of 118.7 lb (54.0
+kg).
+Final Weight Change
+The mean weight change from baseline for the TM-CD
+group to the end of follow-up was 0.39 kg (SE  0.38;
+95% CI  1.1, 0.4). The mean weight change for the
+AUC group was 0.16 kg (SE  0.42; 95% CI  1.0,
+0.7). The difference of 0.23 kg greater weight loss in the
+TM-CD group was not significant (p  0.50) and had a 95%
+Table 1. Baseline characteristics of participants by randomization group
+Variables
+Frequency (%)
+AUC group
+(n  336)
+TM-CD group
+(n  329)
+95% CI on difference
+(AUC—TM-CD)
+Age group (years)
+40 to 49 129 (38) 139 (42) (11, 3.6)
+50 to 59 141 (42) 138 (42) (7.5, 7.5)
+60 to 69 66 (20) 52 (16) (2.0, 9.6)
+Men 110 (33) 97 (30) (3.8, 10)
+African Americans 87 (27) 88 (28) (7.5, 5.8)
+BMI group (kg/m2
+)
+25 to 29.9 73 (22) 59 (18) (2.3, 9.8)
+30 to 34.5 107 (32) 119 (37) (12, 2.9)
+35 to 39.0 82 (24) 69 (21) (2.9, 9.8)
+40.0 74 (22) 79 (24) (8.4, 4.4)
+Hypertension 151 (48) 138 (44) (4.5, 11)
+Elevated blood cholesterol 115 (38) 107 (36) (5.5, 8.9)
+(Osteo)arthritis 103 (33) 106 (35) (8.6, 5.5)
+Stomach problems 57 (19) 73 (25) (11, 0.8)
+Diabetes 51 (17) 41 (14) (2.5, 8.0)
+Prior/current psychotropic medication 79 (24) 85 (26) (8.9, 4.2)
+Prior attempts to lose weight 303 (94) 306 (97) (7.0, 1.4)
+Physician said to lose weight 262 (83) 246 (79) (3.3, 9.7)
+Prior commercial program 155 (48) 147 (47) (6.1, 9.0)
+Weight gain since 21 to 25 years of age (lb)
+10 to 49 89 (28) 87 (28) (6.7, 6.8)
+50 to 99 158 (50) 155 (49) (7.7, 7.5)
+100 to 149 49 (15) 47 (15) (5.0, 5.6)
+Transtheoretical Model and Chronic Care for Obesity, Logue et al.
+OBESITY RESEARCH Vol. 13 No. 5 May 2005 921
+CI of 1.4, 0.9. The difference after adjusting for baseline
+weight and other covariates was highly similar at 0.22 kg
+greater weight loss in the TM-CD group. For the final
+weight analysis, 70% of patients made their final visits; for
+another 18% of patients, medical chart weights were obtained for the same period (within 1 month of the 18- to
+24-month range). The chart weights correlated 0.99 with
+measured weights when both were available. A sensitivity
+analysis of these results substituted baseline weights for the
+12% with missing final weights data, i.e., no change was
+substituted for these 12%. This gave highly similar results,
+with a 0.21 kg greater weight loss in the TM-CD group. The
+mean change from baseline for both groups combined was
+0.29 kg (95% CI  0.9, 0.3).
+Repeated Measures on Weight
+From Figure 2, a familiar pattern of early weight loss and
+regain appeared. In comparing early change (6 and 12
+months) with late change (18 and 24 months) in the two
+groups, no significant difference was found (p  0.17), even
+though the TM-CD group appeared to lose 0.5 kg (SE 
+0.4) more weight in the early period than the AUC group.
+Combining the two groups, this early loss and regain pattern
+(within-group change) was highly significant (p  0.0001).
+Figure 2 shows estimates of mean weight change by intervention group and data wave from the mixed repeatedmeasures model.
+Figure 3 shows estimates of mean waist girth change by
+intervention group and data wave. The overall waist girth
+comparison of AUC and -CD groups was not significant
+(p  0.57). A significant (p  0.0001) decrease of 1.7  0.4
+cm was found (for both groups combined) at 24 months.
+Change in Energy Intake and Expenditure
+An analysis of mean change in energy intake and energy
+expenditure by intervention group and data wave was completed. The overall AUC vs. TM-CD comparison of energy
+intake was not significant (p  0.69). As in the waist girth
+analysis with both groups combined, the energy intake
+analysis revealed a significant (p  0.0001) mean decrease
+at month 24 (250 kcal/d). This decrease was consistent
+throughout the 6- to 24-month measurements. The overall
+AUC vs. TM-CD comparison of energy expenditure was not
+Figure 2: Mean weight change by intervention group.
+Transtheoretical Model and Chronic Care for Obesity, Logue et al.
+922 OBESITY RESEARCH Vol. 13 No. 5 May 2005
+significant (p  0.31). At month 24, the increase in energy
+expenditure was significant (2 kcal/kg per day) for both
+groups combined (p  0.04).
+Exercise Minutes
+Figure 4 shows estimates of the mean change in selfreported exercise minutes per week. The overall AUC vs.
+TM-CD comparison was significant (p  0.008). The estimate of the mean difference between the AUC and TM-CD
+groups was 31.5  12 additional minutes per week in the
+TM-CD group across all measurements. The difference was
+consistent from 6 to 24 months.
+Lipids, Blood Pressure, and Interactions
+Similar analyses of repeated blood lipid and blood pressure data yielded similar results. There were no significant
+lipid or blood pressure differences between the AUC and
+TM-CD groups during follow-up. Mixed repeated measures
+models of weight, waist girth, energy intake, energy expenditure, exercise minutes, lipids, or blood pressure with additional cross-product terms for intervention group  sex,
+group  BMI, group  ethnicity, and group  data wave
+provided no support for the existence of statistical interactions. Thus, it seems that our general results are not modified by the patient’s sex, ethnicity, baseline BMI group, or
+follow-up period.
+Discussion
+The estimate of the 18- to 24-month weight change
+difference between the TM-CD and AUC groups was not
+statistically different from zero, and the 95% CI had a
+narrow range of 1.1 kg on either side of a 0.23 difference in
+favor of TM-CD. Thus, the data do not support our a priori
+hypothesis that overweight and obese primary care patients
+would lose more weight if they were exposed to the TM-CD
+intervention (plus AUC) vs. AUC alone. In other words, the
+data suggest that the combination of elements in the AUC
+was largely equivalent to the combination of elements of
+AUC plus TM-CD care. Analysis of other outcomes such as
+waist girth, energy intake, energy expenditure, blood lipids,
+and blood pressure was generally consistent with the weight
+change analysis. The one exception was the results for the
+weekly exercise minutes variable, which were more consistent with the hypothesized superiority of the TM-CD intervention. It is not clear whether misreporting biased the
+positive result for exercise minutes, but such an explanation
+suggests that we should have found similar biases for other
+self-reported behaviors such as energy intake. Moreover,
+social desirability scores were not associated with exercise
+minutes or other trial outcomes. WLAs were instructed to
+periodically bring up the subject of exercise, even when the
+patient did not choose to do so, because we believed that
+Figure 3: Mean change in waist girths by intervention group.
+Transtheoretical Model and Chronic Care for Obesity, Logue et al.
+OBESITY RESEARCH Vol. 13 No. 5 May 2005 923
+many patients in our obesogenic environment focus exclusively on their diets, avoid the exercise issue, and thereby
+sabotage their longer-term weight loss effort.
+Calibrated scales and chart weights that correlated 0.99
+suggest adequate protection against measurement bias.
+Through random assignment, the two groups were highly
+similar at baseline. Relatively complete follow-up (88%)
+and the statistical methods used to deal with missing data
+suggest that biased follow-up does not explain the results.
+The statistical analysis also allowed for the possibility of
+interactions between the intervention and sex, ethnicity, and
+BMI group, but no evidence of these interactions was found.
+Finally, the sample size produced very precise estimates of
+effect size with narrow CIs.
+One explanation of the results includes poor WLA adherence to the SOC protocol; i.e., WLA adherence to the
+SOC protocol remained an issue despite their extensive
+training through role-playing and periodic debriefings with
+the trial psychologist. According to the WLA database, the
+WLAs used stage appropriate processes of change during
+47% of the telephone encounters. This reflects the fact that
+WLAs did not document their use of a process of change
+when “no barrier to change” was reported. Given that 60%
+of the participants had stable weights between months 6 and
+24, a significant proportion of patients may have been
+underreporting “barriers” to additional weight loss. Thus,
+the WLAs had fewer opportunities than anticipated to apply
+stage-appropriate processes of change, because many patients may have denied that there was an issue.
+Taking the broadest view, we note that the participants in
+the REACH trial were at high risk for additional weight
+gain, yet they maintained their weight for 24 months, while
+significantly (p  0.0001) decreasing their waist girths by 2
+cm and significantly decreasing (p  0.0001) energy intake
+by 250 kcal/d. Thus, weight maintenance in 60% of overweight or obese primary care patients may be accomplished
+by reviewing and/or renewing a standard dietary and exercise prescription that is informed by a brief anthropometric
+examination, sets of three dietary recalls, and a physical
+activity questionnaire every 6 months. The relative stability
+of REACH patient weights may be particularly important
+because weight regain, even after a major weight loss
+(10% of baseline), is a recognized problem limiting the
+effectiveness of most behavioral interventions (33).
+There have been no prior attempts to apply the TM and a
+CD paradigm to multiple target behaviors conducive of
+weight loss through periodic telephone calls from a weight
+loss advisor (34). Reliance on a telephone WLA is appealing because of the limited patient-clinician encounter time
+available in traditional acute problem– oriented primary
+care. Also, patients do not have to take the time to travel to
+the physician’s office and wait for a clinician or a group
+visit. However, our data suggest that once-a-month telephone weight loss advice with a strong theoretical basis may
+Figure 4: Mean changes in exercise minutes per week by intervention group.
+Transtheoretical Model and Chronic Care for Obesity, Logue et al.
+924 OBESITY RESEARCH Vol. 13 No. 5 May 2005
+not be effective, given the strength of the obesogenic environment. Other telephone counseling trials have had positive results, but those trials also had weekly or biweekly
+contact with participants (35). It is not clear that simply
+increasing the frequency of telephone calls is the best strategy, given the available treatment alternatives (36).
+At least 18 randomized trials have reported interventions
+targeting one or more weight loss–related behaviors; however, the evidence supporting the value of TM theory for
+weight management from these trials is mixed (8,37–53).
+Over one-half of the trials reported no additional effect from
+the intervention on a least one weight-related outcome at the
+end of follow-up (8,37,39,41,42,44,46 – 48,50,53). Two trials reported nonsignificant findings for 12-month weight
+change (44,50).
+Four recent non-TM trials suggest that modest interventions are likely to produce modest weight losses (5% to
+10%) in an obesogenic environment (54 –57). Womble et al.
+(57) compared a commercial Internet intervention to an
+intervention with the Lifestyle, Exercise, Attitudes, Relationships, Nutrition (LEARN) weight control manual, 11
+brief blood pressure and weight assessment visits, and 4
+visits with a psychologist. Jeffery et al. (55) compared a
+proactive 10-lesson telephone and mail-based intervention,
+a similar proactive mail-based intervention, and a usual
+managed care intervention. Ashley et al. (54) compared 26
+group visits with a dietitian using the Lifestyle, Exercise,
+Attitudes, Relationships, Nutrition (LEARN) manual, 26
+group visits with a dietitian plus meal replacement (Slimfast), and 26 visits to a primary care physician or a nurse
+plus meal replacement. Finally, Wadden et al. (56) compared counseling by a nutritionist or psychiatrist plus DLfenfluramine and phentermine.
+Heshka et al. (58) described their recent 24-month randomized trial comparing self-help to a commercial weight
+loss program. They reported small significant weight loss
+differences (2.9 vs. 0.2 kg) that favored the commercial
+program. However, an important feature of this commercial
+program was weekly weigh-ins, an element of care that was
+specifically excluded from the REACH trial protocol. The
+U.S. Preventive Services Task Force defines the intensity of
+obesity counseling in terms of the frequency of provider–
+patient contacts in the first 3 months of treatment (59).
+Monthly contact was described as “moderate” intensity, and
+those trials with more than monthly contact were more
+likely to be successful (59). Thus, given the evidence assembled by the U.S. Preventive Services Task Force since
+the REACH trial was designed, it now seems disingenuous
+to argue that minimal behavioral counseling directed at
+portion control (dietary energy restriction) can be an effective long-term treatment for obesity (33). The argument
+turns on the operational difference between intensive (once
+or twice a week) and minimal (once a month to once a year).
+Standard behavior therapy, which is recommended by the
+NIH obesity treatment guidelines, involves the application
+of the principles of self-monitoring, contracting, modeling,
+reinforcement, and environmental control to weight loss–
+related behaviors— often in weekly meetings that continue
+for 6 months or longer. Weight loss in these intensive
+programs can approach 10% of initial body weight. However, when the meeting frequency is reduced to save costs,
+the lost weight tends to return. Thus, research has focused
+on alternatives to weekly group meetings, such as periodic
+telephone calls or Internet encounters. The design for the
+REACH trial was motivated by the apparent need for an
+alternative to 26 to 52 weekly group meetings in a medical
+specialty center setting.
+Therefore, our interest was in telephone weight loss advising based on the TM and a CD paradigm. Our longitudinal data on the elapsed time in the action stages and
+weight loss support the concept of SOC (13). However, the
+comparisons of the weight change data between the AUC
+and TM-CD groups also suggest that some fundamental
+behavioral elements such as weekly telephone weigh-ins or
+weekly review of pedometer and portion control logs may
+have been missing from the TM-CD intervention (60). Finally, the link between the clinical intervention and public
+health programs could be strengthened. Primary care patients with different levels of obesity and clinical or social
+issues should be able to choose from a variety of clinical
+programs and formats—all of which are supported by compatible public health programs and initiatives.
+Acknowledgments
+We thank Yen-Pin Chiang, PhD, Project Officer for the
+Agency for Healthcare Research and Quality; Keding Hua
+for statistical programming; Margaret Reitenbach for administrative support; and the physicians and patients from
+the study practices for their time and efforts. The study was
+supported by Agency for Healthcare Research and Quality
+and the National Institute of Diabetes, Digestive, and Kidney Diseases Grants 1 R01 HS08803– 01A2 to 5 R01
+HS08803– 04 and 3 R01 HS08803– 02S1 to 3 R01
+HS08803– 04S and by consecutive Nutrition and Exercise
+Studies grants (1998 to 2002) from the Summa Health
+System Foundation. REACH trial results were presented at
+the American Academy of Family Physicians, National
+Research Network’s Convocation of Practices, “Improving
+Patient Care through Healthy Behaviors Research,” Arlington, VA, March 20 to 23, 2003.
+References
+1. French SA, Story M, Jeffery RW. Environmental influences
+on eating and physical activity. Annu Rev Public Health.
+2001;22:309 –35.
+2. Blundell JE, Cooling J. Routes to obesity: phenotypes, food
+choices and activity. Br J Nutr. 2000;83(Suppl 1):S33– 8.
+Transtheoretical Model and Chronic Care for Obesity, Logue et al.
+OBESITY RESEARCH Vol. 13 No. 5 May 2005 925
+3. Mokdad AH, Bowman BA, Ford ES, Vinicor F, Marks JS,
+Koplan JP. The continuing epidemics of obesity and diabetes
+in the United States. JAMA. 2001;286:1195–200.
+4. Noel M, Hickner J, Ettenhofer T, Gauthier B. The high
+prevalence of obesity in Michigan primary care practices. An
+UPRNet study. Upper Peninsula Research Network. J Fam
+Pract. 1998;47:39 – 43.
+5. Clark JM, Brancati FL. The challenge of obesity-related
+chronic diseases. J Gen Intern Med. 2000;15:828 –9.
+6. Pignone MP, Ammerman A, Fernandez L, et al. Counseling to promote a healthy diet in adults. A summary of the
+evidence for the U.S. Preventive Services Task Force. Am J
+Prev Med. 2003;24:75–92.
+7. Wagner EH, Austin BT, Von Korff M. Organizing care
+for patients with chronic illness. Milbank Q. 1996;74:511–
+44.
+8. Norris SL, Grothaus LC, Buchner DM, Pratt M. Effectiveness of physician-based assessment and counseling for exercise in a staff model HMO. Prev Med. 2000;30:513–23.
+9. Calfas KJ, Sallis JF, Zabinski MF, et al. Preliminary evaluation of a multicomponent program for nutrition and physical
+activity change in primary care: PACE for adults. Prev Med.
+2002;34:153– 61.
+10. Colditz GA. Economic costs of obesity and inactivity. Med
+Sci Sports Exerc. 1999;31(11 Suppl):S663–7.
+11. Prochaska JO, Redding CA, Evers KE. The transtheoretical
+model and stage of change. In: Glanz K, Lewis FM, Rimer
+BK, eds. Health Behavior and Health Education: Theory,
+Research, and Practice. San Francisco, CA: Jossey-Bass;
+1997:60 – 84.
+12. Logue E, Sutton K, Jarjoura D, Smucker W. Obesity management in primary care: assessment of readiness to change
+among 284 family practice patients. J Am Board Fam Pract.
+2000;13:164 –71.
+13. Logue E, Jarjoura D, Sutton K, Smucker W, Baughman
+K, Capers C. Longitudinal relationship between elapsed time
+in the action stages of change and weight loss. Obes Res.
+2004;12:1499 –508.
+14. Laird NM, Wang F. Estimating rates of change in randomized clinical trials. Control Clin Trials. 1990;11:405–19.
+15. Rochon J. Sample size calculations for two-group repeated
+measures experiments. Biometrics. 1991;47:1383–98.
+16. Laird N, Donnelly C, Ware J. Longitudinal studies with
+continuous responses. Stat Methods Med Res. 1992;1:225–
+47.
+17. Longford N. Random coefficient models. In: Arming G,
+Clogg C, Sobel M, eds. Handbook of Statistical Modeling for
+the Social and Behavioral Sciences. New York: Plenum; 1995,
+pp. 519 –78.
+18. Spitzer RL, Kroenke K, Williams JB. Validation and utility
+of a self-report version of PRIME-MD: the PHQ primary care
+study. Primary Care Evaluation of Mental Disorders. Patient
+Health Questionnaire. JAMA. 1999;282:1737– 44.
+19. Sutton K, Logue E, Jarjoura D, Baughman K, Smucker
+W, Capers C. Assessing dietary and exercise stage of change
+to optimize weight loss interventions. Obes Res. 2003;11:641–
+52.
+20. Buzzard IM, Faucett CL, Jeffery RW, et al. Monitoring
+dietary change in a low-fat diet intervention study: advantages
+of using 24-hour dietary recalls vs food records. J Am Diet
+Assoc. 1996;96:574 –9.
+21. Richardson MT, Ainsworth BE, Jacobs DR, Leon AS.
+Validation of the Stanford 7-day recall to assess habitual
+physical activity. Ann Epidemiol. 2001;11:145–53.
+22. Baughman K, Logue E, Sutton K, Capers C, Jarjoura D,
+Smucker W. Biopsychosocial characteristics of overweight
+and obese primary care patients: do psychosocial and behavior
+factors mediate sociodemographic effects? Prev Med. 2003;
+37:129 –37.
+23. Marcus BH, Selby VC, Niaura RS, Rossi JS. Self-efficacy
+and the stages of exercise behavior change. Res Q Exerc Sport.
+1992;63:60 – 6.
+24. Clark MM, Abrams DB, Niaura RS, et al. Self-efficacy in
+weight management. J Consult Clin Psychol. 1991;59:739 –
+44.
+25. Sallis JF, Grossman RM, Pinski RB, Patterson TL, Nader
+PR. The development of scales to measure social support for
+diet and exercise behaviors. Prev Med. 1987;16:825–36.
+26. Marcus BH, Rakowski W, Rossi JS. Assessing motivational
+readiness and decision making for exercise. Health Psychol.
+1992;11:257– 61.
+27. Ware J Jr, Kosinski M, Keller SD. A 12-item short-form
+health survey: construction of scales and preliminary tests of
+reliability and validity. Med Care. 1996;34:220 –33.
+28. Marlowe D, Crowne DP. Social desirability and response to
+perceived situational demands. J Consult Clinl Psychol. 1961;
+25:109 –15.
+29. Little RJ. Methods for handling missing values in clinical
+trials. J Rheumatol. 1999;26:1654 – 6.
+30. Little RJ, Raghunathan T. On summary measures analysis
+of the linear mixed effects model for repeated measures when
+data are not missing completely at random. Stat Med. 1999;
+18:2465–78.
+31. Gadbury GL, Coffey CS, Allison DB. Modern statistical
+methods for handling missing repeated measurements in obesity trial data: beyond LOCF. Obes Rev. 2003;4:175– 84.
+32. Ware JH. Interpreting incomplete data in studies of diet and
+weight loss. N Engl J Med. 2003;348:2136 –7.
+33. Perri MG, Corsica JA. Improving the maintenance of weight
+loss in behavioral treatment of obesity. In: Wadden TA,
+Stunkard AJ, eds. Handbook of Obesity Treatment. New York:
+Guilford Press; 2002:357–79.
+34. van Binsbergen JJ, Delaney BC, van Weel C. Nutrition in
+primary care: scope and relevance of output from the Cochrane Collaboration. Am J Clin Nutr 2003;77(4 Suppl):1083S–
+8S.
+35. Castro CM, King AC. Telephone-assisted counseling for
+physical activity. Exerc Sport Sci Rev. 2002;30:64 – 8.
+36. Pinto BM, Lynn H, Marcus BH, DePue J, Goldstein MG.
+Physician-based activity counseling: intervention effects on
+mediators of motivational readiness for physical activity. Ann
+Behav Med. 2001;23:2–10.
+37. ACT Trial Group. Effects of physical activity counseling in
+primary care: the Activity Counseling Trial: a randomized
+controlled trial. JAMA 2001;286:677– 87.
+Transtheoretical Model and Chronic Care for Obesity, Logue et al.
+926 OBESITY RESEARCH Vol. 13 No. 5 May 2005
+38. Bock BC, Marcus BH, Pinto BM, Forsyth LH. Maintenance
+of physical activity following an individualized motivationally
+tailored intervention. Ann Behav Med. 2001;23:79 – 87.
+39. Bull FC, Jamrozik K, Blanksby BA. Tailored advice on
+exercise— does it make a difference? Am J Prev Med. 1999;
+16:230 –9.
+40. Dallow CB, Anderson J. Using self-efficacy and a transtheoretical model to develop a physical activity intervention for
+obese women. Am J Health Promot. 2003;17:373– 81.
+41. Finckenor M, Byrd-Bredbenner C. Nutrition intervention
+group program based on preaction-stage-oriented change processes of the transtheoretical model promotes long-term reduction in dietary fat intake. J Am Diet Assoc. 2000;100:335– 42.
+42. Greene GW, Rossi SR. Stages of change for reducing dietary
+fat intake over 18 months. J Am Diet Assoc. 1998;98:529 –34.
+43. Havas S, Anliker J, Damron D, Langenberg P, Ballesteros
+M, Feldman R. Final results of the Maryland WIC 5-A-Day
+Promotion Program. Am J Public Health. 1998;88:1161–7.
+44. Jones H, Edwards L, Vallis TM, et al. Changes in diabetes
+self-care behaviors make a difference in glycemic control: the
+Diabetes Stages of Change (DiSC) study. Diabetes Care.
+2003;26:732–7.
+45. Kirk AF, Higgins LA, Hughes AR, et al. A randomized,
+controlled trial to study the effect of exercise consultation on
+the promotion of physical activity in people with type 2
+diabetes: a pilot study. Diabet Med. 2001;18:877– 82.
+46. Naylor PJ, Simmonds G, Riddoch C, Velleman G, Turton
+P. Comparison of stage-matched and unmatched interventions
+to promote exercise behaviour in the primary care setting.
+Health Educ Res. 1999;14:653– 66.
+47. Peterson TR, Aldana SG. Improving exercise behavior: an
+application of the stages of change model in a worksite setting.
+Am J Health Promot. 1999;13:229 –32.
+48. Pinto BM, Friedman R, Marcus BH, Kelley H, Tennstedt
+S, Gillman MW. Effects of a computer-based, telephonecounseling system on physical activity. Am J Prev Med. 2002;
+23:113–20.
+49. Purath J, Miller AM, McCabe G, Wilbur J. A brief intervention to increase physical activity in sedentary working
+women. Can J Nurs Res. 2004;36:76 –91.
+50. Steptoe A, Doherty S, Rink E, Kerry S, Kendrick T, Hilton
+S. Behavioural counselling in general practice for the promotion of healthy behaviour among adults at increased risk of
+coronary heart disease: randomised trial. BMJ. 1999;319:
+943– 8.
+51. Steptoe A, Perkins-Porras L, McKay C, Rink E, Hilton S,
+Cappuccio FP. Behavioural counselling to increase consumption of fruit and vegetables in low income adults: randomized
+trial. BMJ. 2003;326:855– 60.
+52. Strecher V, Wang C, Derry H, Wildenhaus K, Johnson C.
+Tailored interventions for multiple risk behaviors. Health
+Educ Res. 2002;17:619 –26.
+53. van der Veen J, Carel Bakx C. Stage-matched nutrition
+guidance for patients at elevated risk for cardiovascular disease: a randomized intervention study in family practice. J
+Fam Pract. 2002;51:751– 8.
+54. Ashley JM, St Jeor ST, Schrage JP, et al. Weight control
+in the physician’s office. Arch Intern Med. 2001;161:1599 –
+604.
+55. Jeffery RW, Sherwood NE, Brelje K, et al. Mail and phone
+interventions for weight loss in a managed-care setting:
+Weigh-To-Be one-year outcomes. Int J Obes Relat Metab
+Disord. 2003;27:1584 –92.
+56. Wadden TA, Berkowitz RI, Vogt RA, Steen SN, Stunkard
+AJ, Foster GD. Lifestyle modification in the pharmacologic
+treatment of obesity: a pilot investigation of a potential primary care approach. Obes Res. 1997;5:218 –26.
+57. Womble LG, Wadden TA, McGuckin BG, Sargent SL,
+Rothman RA, Krauthamer-Ewing ES. A randomized controlled trial of a commercial internet weight loss program.
+Obes Res. 2004;12:1011– 8.
+58. Heshka S, Anderson JW, Atkinson RL, et al. Weight loss
+with self-help compared with a structured commercial program: a randomized trial. JAMA. 2003;289:1792– 8.
+59. McTigue KM, Harris R, Hemphill B, et al. Screening and
+interventions for obesity in adults: summary of the evidence
+for the U.S. Preventive Services Task Force. Ann Intern Med.
+2003;139:933– 49.
+60. Jeffery RW. How can health behavior theory be made more
+useful for intervention research? Int J Behav Nutr Phys Act.
+2004;1:10 – 4.
+Transtheoretical Model and Chronic Care for Obesity, Logue et al.
+OBESITY RESEARCH Vol. 13 No. 5 May 2005 927

@@ -1,0 +1,631 @@
+﻿Vaccine 29 (2011) 1569–1575
+Contents lists available at ScienceDirect
+Vaccine
+journal homepage: www.elsevier.com/locate/vaccine
+Influenza A (H1N1) 2009 two-dose immunization of US children: An
+observer-blinded, randomized, placebo-controlled trial
+Eric Plennevauxa, Mark Blatter b, Matthew J. Cornishc, Kerry Go d, Daniel Kirby d, Mostafa Wali e,
+Mary-Kate Reeves-Hoché d, Martine Denis a,∗
+a Clinical Development Department, sanofi pasteur, 1541 Avenue Marcel Mérieux, 69280 Marcy l’Etoile, Lyon, France
+b Primary Physicians Research, Pittsburgh, PA, USA
+c Utah Valley Pediatrics, Orem, UT, USA
+d Research and Development Department, sanofi pasteur, Swiftwater, PA, USA
+e Global Pharmacovigilance and Epidemiology, sanofi pasteur, Swiftwater, PA, USA
+article info
+Article history:
+Received 15 November 2010
+Received in revised form
+14 December 2010
+Accepted 20 December 2010
+Available online 8 January 2011
+Keywords:
+Pandemic influenza
+Vaccine
+Clinical trial
+Children
+H1N1
+abstract
+The goal of this pediatric clinical trial was to assess the safety and immunogenicity of two different doses
+of a monovalent inactivated pandemic (H1N1) 2009 vaccine in US children aged 6 months to 9 years of
+age. Randomized, observer-blinded, US multicenter phase 2 study assessing 2 doses of vaccine given 21
+days apart in 474 children aged 6–35 months or 3–9 years. Children in each age group were randomly
+assigned to receive either a pandemic (H1N1) 2009 vaccine containing 7.5 or 15 g of hemagglutinin (HA)
+or placebo in a 4:4:1 ratio. Primary outcome was hemagglutination inhibition (HI) antibody responses
+21 days following each vaccination. Safety was monitored throughout the study. The first dose of either
+A H1N1 vaccine formulation was more immunogenic in children older than 3 years than in younger children. 45–50% of children aged 6–35 months and 69–75% of children aged 3–9 year-old attained HI titers
+of ≥1:40. A second dose of A H1N1 vaccine further increased HI antibody responses with seroprotection and seroconversion rates reaching 90–99% in both age groups. Interestingly, the pandemic (H1N1)
+2009 vaccine formulations elicited similar rates of solicited and unsolicited injection site and systemic
+reactions as the placebo. The data therefore demonstrate the high level immunogenicity in infants and
+children of an (H1N1) 2009 influenza vaccine displaying a safety and reactogenicity profile similar to
+placebo.
+© 2011 Elsevier Ltd. All rights reserved.
+1. Introduction
+In April 2009, a novel influenza A (H1N1) virus was identified in humans in Mexico and the United States and was followed
+by rapid global spread, resulting in the World Health Organization (WHO) declaration of an influenza pandemic in June [1].
+Between June and September 2009, while the first pandemic wave
+occurred and peaked in the Southern Hemisphere (SH) winter
+[2,3], the novel strain continued to circulate in the Northern Hemisphere (NH), causing higher than normal levels of influenza activity
+for the season [4]. With the onset of the 2009–2010 NH annual
+influenza season, influenza activity increased starting in September
+Abbreviations: AE, adverse event; GMT, geometric mean titer; HA, hemagglutinin; HI, hemagglutination inhibition; HPLC, high performance liquid chromatography; NOCI, new onset of chronic illness; SAE, serious adverse effect; SRID, single
+radial immunodiffusion.
+∗ Corresponding author. Tel.: +33 671395324.
+E-mail address: martine.denis@sanofipasteur.com (M. Denis).
+in North America and Europe. This increase occurred much earlier
+than observed during previous years with widespread activity in
+almost all areas [5,6]. Data from the US confirmed that virtually all
+influenza-positive respiratory specimens were the 2009 pandemic
+influenza A (H1N1) virus [6].
+Epidemiological data reported at the ACIP meeting in February 2010 [7] showed that in the United States between April
+and December 2009, the rate of laboratory-confirmed 2009 H1N1
+influenza-associated hospitalizations in children aged 0–4 years
+was 7.1 per 10,000 compared to 3.2 per 10,000 for children
+5–17 years and 2.7–3.4 per 10,000 for adults. Mortality rates for
+laboratory-confirmed 2009 H1N1 infection were reported to be
+0.49 per 100,000 in US children 0–4 years, and 0.50 per 100,000
+in the 5–24 year age group. The majority of hospitalized patients,
+and those with severe outcomes had underlying medical conditions
+[6–8].
+Children at least 6 months of age were identified as one of
+the five initial target groups for pandemic influenza vaccination
+in the US. The Advisory Committee on Immunization Practices
+(ACIP) recommendation for this segment of the population up to
+0264-410X/$ – see front matter © 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.vaccine.2010.12.116
+1570 E. Plennevaux et al. / Vaccine 29 (2011) 1569–1575
+9 years of age was to vaccinate using a two-dose regimen [9].
+Previously, we reported preliminary safety and immunogenicity
+results after a single injection of pandemic influenza A (H1N1) 2009
+monovalent vaccine given to children aged 6 months to 9 years,
+and in adults including elderly [10]. We found that one injection
+was highly immunogenic and well tolerated in adults and elderly,
+with seroprotection rates of 93–100%. A single injection, although
+immunogenic in children <9 years, did not raise sufficiently high HI
+antibody titers to satisfy the immunogenicity criteria for licensure
+set by the US Food and Drug Administration (FDA). The hypothesis that a second dose of vaccine would augment HI responses
+in children under the age of 9 years was supported by immunogenicity data obtained in studies of seasonal influenza vaccination,
+where 2 administrations of the product were shown to be required
+for inducing optimal responses in previously unexposed children
+[11]. Here we report safety and immunogenicity results obtained
+after the completion of two-dose pandemic A influenza (H1N1)
+vaccination schedule in children aged 6 months to 9 years.
+2. Materials and methods
+We enrolled and randomized 229 children aged 6–35 months
+and 245 children aged 3–9 years (i.e., children up to 1 day before
+their 3 or 10 years birthday respectively) to receive two injections of
+one of two H1N1 vaccine doses [7.5 g hemagglutinin (HA), 15 g
+HA)] or placebo 21 days apart in an observer-blinded, placebocontrolled, multicenter Phase 2 trial. The study was reviewed by
+the US Center for Biologics Evaluation & Research, US Food and
+Drug Administration (CBER/FDA) and approved by the Western
+Institutional Review Board (Olympia, WA, US) before enrollment.
+The clinical trial was conducted in accordance with the Declaration
+of Helsinki, Good Clinical Practice (as defined by the International
+Conference on Harmonization) and federal regulations. Before
+enrollment parents of all participants provided written informed
+consent and children over 7 years of age gave their assent.
+The study was registered with ClinicalTrials.gov
+(NCT00952419).
+Healthy children aged 6 months to 9 years were eligible. The
+main exclusion criteria were: known or suspected influenza infection since March 2009; any vaccination in the previous 4 weeks or
+planned within 6 weeks following the first trial vaccination; hypersensitivity to any vaccine component or life threatening reaction
+to a vaccine containing the same substances; known or suspected
+immunodeficiency; recent history (<6 months) of immunosuppressive therapy or long-term systemic corticosteroid therapy; known
+HIV, hepatitis B or C infection; receipt of blood or blood-derived
+products in the previous 3 months, and febrile or acute illness on
+the day of enrollment. Contact with a person infected with pandemic influenza A (H1N1) was not an exclusion criterion. As the trial
+was organised in August 2009, study participants did not receive
+the seasonal influenza vaccine of the 2009/2010 season prior to
+enrolment in the trial. Information pertaining to history of previous influenza vaccination was collected by the investigator from all
+participants. Both documented histories and parent’s reports were
+taken into account.
+We randomly assigned children to one of three study groups
+(7.5 g HA, 15 g HA, placebo) using randomization lists. Scratch
+off randomization lists stratified by age group (6–35 months
+and 3–9 years) and trial center were generated by the sponsor’s
+biostatistics department using block-permutation. Participants
+received two intramuscular (IM) injections 21 days apart in an
+observer-blinded manner (i.e., study staff members who were not
+involved in any other aspect of the study prepared the assigned
+vaccine or placebo and performed the vaccinations).
+The investigational vaccine was an inactivated split-virion
+preparation of the New York Medical College (NYMC) X-179A reassortant of the A/California/07/2009 (H1N1) strain and the PR8/8/34
+strain, distributed by the US Centers for Disease Control and Prevention (CDC). Seed virus was propagated in embryonated chicken
+eggs, inactivated and split according to the process used to produce
+a seasonal influenza vaccine licensed in the US for persons aged
+>6 months (Fluzone®, sanofi pasteur, Swiftwater, PA). Vaccine was
+supplied as single-dose vials without preservative for 6–35 montholds and multi-dose vials containing 0.01% thimerosal preservative
+for 3–9 year-olds. In the absence of calibration reagents required for
+the single radial immunodiffusion assay (SRID) at the time of clinical lot manufacturing, potency was assessed by high performance
+liquid chromatography (HPLC). Hemagglutinin (HA) content was
+quantified again by SRID when the pandemic (H1N1) 2009 reagents
+became available. By SRID, the assigned 7.5 and 15 g HA vaccines
+contained 11 and 24 g HA per 0.5 ml, respectively. As with seasonal influenza vaccines, the volumes injected were 0.25 ml (6–35
+months) and 0.5 ml (3–9 years). Intramuscular injections were performed in the thigh (infants aged <1 year) or the deltoid region.
+Serum samples were collected before and 21 days after each
+vaccination for hemagglutination inhibition (HI) antibody titration against the vaccine strain using the standard HI assay with
+turkey erythrocytes [12]. Each sample was tested in duplicate, with
+the geometric mean of the two results recorded as the final titer
+expressed as the reciprocal dilution. Assays were performed at
+the sponsor’s central clinical immunology laboratory (Swiftwater,
+PA) under blinded conditions. Immunogenicity data were summarized using geometric mean titer (GMT), geometric mean titer ratio
+(GMTR), seroprotection rate (defined as % of subjects with titers
+≥1: 40), seroconversion rate (defined as % of subjects with a prevaccination titer <1:10 and a post-vaccination titer ≥1:40, or with a
+pre-vaccination titer ≥1:10 and ≥4-fold increase after vaccination)
+[13].
+Participants remained under observation for at least 30 min
+after each vaccination. Adverse events (AEs) occurring during this
+period were reported as immediate adverse events. Parents or legal
+guardians noted body temperature and any solicited reactions in
+safety diaries every day for 7 days after each injection. Diaries
+solicited the following injection site reactions: pain (children
+≥2 years) or tenderness (children <2 years), erythema, swelling,
+induration or ecchymosis, and the following systemic reactions:
+fever, headache, malaise, myalgia and shivering (children ≥2 years)
+or fever, vomiting, abnormal crying, drowsiness, loss of appetite,
+and irritability (children <2 years). All other (unsolicited) adverse
+events occurring within 21 days after each vaccination were also
+recorded in the subject diaries and were judged to be either
+related or unrelated to vaccination by the investigator. Therefore
+for reporting the safety results (Table 3), the subjects were divided
+by age into 3 groups (6–23 months, 24–35 months, and 3–9 years).
+Adverse events judged by the investigator to be a new onset of
+a chronic illness (NOCI) were to be reported separately. Serious
+adverse events (SAEs), including adverse events of special interest
+(i.e., anaphylaxis, Guillain–Barré syndrome, Bell’s palsy, optic neuritis, convulsions or syncope) were reported throughout the study
+(until Day 201 after first vaccination) using the standard procedure
+of immediate initial notification and follow-up reporting.
+In view of the public health priority of the A influenza (H1N1)
+2009 pandemic, no formal calculation of sample size was performed. The sample size was chosen pragmatically by balancing
+the need for robust estimates of vaccine safety and immunogenicity
+against the need to complete the trial as rapidly as possible. Analyses were descriptive, with no statistically powered hypotheses.
+The planned overall study cohort (N = 450) provides a probability
+of approximately 95% of observing any AE with a true incidence
+of 0.66%. In each group of 100 subjects, there is a probability of
+E. Plennevaux et al. / Vaccine 29 (2011) 1569–1575 1571
+474 Children enrolled and randomized
+7.5µg group
+215 provided D0 blood samples
+215 Vaccinated on D0
+(105 aged 6-35m;
+ 110 aged 3-9y)
+15µg group
+208 provided D0 blood samples
+208 Vaccinated on D0
+ (98 aged 6-35m;
+ 110 aged 3-9y)
+Placebo group
+51 provided D0 blood samples
+51 Vaccinated on D0
+ (26 aged 6-35m;
+ 25 aged 3-9y)
+209 Vaccinated on D21
+210 provided D21 blood samples
+200 Vaccinated on D21
+200 provided D21 blood samples
+51 Vaccinated on D21
+ 51 provided D21 blood samples
+203 provided D42 blood samples 192 provided D42 blood samples 51 provided D42 blood samples
+6 discontinued
+(3 for non-compliance,
+1 voluntary withdrawal,
+2 for adverse events)
+10 discontinued
+(7 for non-compliance,
+3 voluntary withdrawal)
+Fig. 1. Participant flow chart.
+approximately 95% of observing any AE with a true incidence of
+3%. For each endpoint, 95% confidence intervals (CI) were calculated using the normal approximation for quantitative data and
+the exact binomial distribution (Clopper–Pearson method) for proportions. Geometric mean titers and 95% confidence intervals (CI)
+were calculated by the use of the mean, and lower and upper limits
+of the 96% CI of log-transformed titers. The statistical analysis were
+performed by a statistician who was aware of the treatment assignment, not involved in any other aspect of the study, and was the
+only person to have unmasked access to the data. Immunogenicity
+analyses were performed on the per protocol set. Safety analyses
+were performed on all vaccinated participants, with data analyzed
+according to the vaccine received.
+3. Results
+Between 6 August and 13 August 2009, 474 children were
+enrolled and vaccinated with H1N1 vaccine or placebo (Fig. 1). Of
+these, 460 received a second injection 21 days after the first vaccination and 458 attended the Day 42 visit. Blood samples were
+obtained from all children who attended the Day 21 visit, while 446
+out of 458 children provided a blood sample on Day 42. A total of
+467 subjects were contacted at the Day 201 follow-up time point.
+Two participants, both 7 year-old girls, in the 7.5 g HA vaccine
+group had influenza-like illness 17 and 18 days after the first vaccination and were withdrawn from the study by the investigator
+prior to the second vaccination. Laboratory virology testing was not
+performed for these 2 subjects but a sibling was diagnosed with
+H1N1 influenza within a week before both events started. Since
+H1N1 infection could not be excluded, both subjects were excluded
+from the per protocol population. These AEs were considered to be
+unrelated to the vaccine by the investigator.
+Study populations in each age group are shown in Table 1. In
+the 6–35 month and 3–9 year age groups 45% (104/229) and 55%
+(135/245) were known to have received seasonal influenza vaccine
+for the 2008–09 season, respectively. None were known to have
+been in contact with a pandemic H1N1 case prior to enrollment.
+Antibodies against the pandemic (H1N1) 2009 strain were
+detected before vaccination in 7/202 (3%) of children aged 6–35
+months, and 18/213 (8%) of children aged 3–9 years, and in most of
+these cases (all 7 younger children, and 13/18 older children) titers
+were ≥40.
+After the first vaccination with either dose of H1N1 vaccine,
+titers increased approximately 3- to 5-fold in younger children and
+Table 1
+Study population size and age distribution at enrollment.
+Age group Vaccine group
+H1N1 vaccine Placebo All
+7.5 g HAa 15 g HAa
+6–35 months N subjects enrolled/planned 105/100 98/100 26/25 229/225
+Mean age, months (SD) 21.2 (8.1) 22.0 (8.9) 18.2 (9.2) 21.2 (8.7)
+% Male 50 54 62 53
+3–9 years N subjects enrolled/planned 110/100 110/100 25/25 245/225
+Mean age, years (SD) 6.4 (2.1) 6.5 (2.1) 6.0 (1.8) 6.4 (2.0)
+% Male 47 51 44 49
+SD, standard deviation
+a Infants 6–35 months received the HA content in a volume of 0.25 ml per vaccination and children from 3 to 9 years received the HA content in a volume of 0.5 ml per
+vaccination.
+1572 E. Plennevaux et al. / Vaccine 29 (2011) 1569–1575
+Table 2
+HI antibody response against H1N1 influenza virus 21 days after the first and second injections of H1N1 vaccine or placebo.
+Criteria Age and vaccine group
+6–35 months 3–9 years
+7.5 g HA 15 g HA Placebo 7.5 g HA 15 g HA Placebo
+(N = 92) (N = 87) (N = 23) (N = 98) (N = 91) (N = 24)
+Pre-vaccination
+GMT (95%CI) 6 (5–7) 6 (5–6) 5 (5–5) 6 (5–7) 6 (5–6) 12 (6–23)
+First injection
+Seroprotection D21, % (95%CI) 47 (36–57) 48 (40–61) 0 (0–15) 65 (55–75) 75 (65–83) 21 (7–42)
+Seroconversion D21/D0, % (95%CI) 46 (35–56) 48 (37–59) 0 (0–15) 63 (53–73) 75 (65–83) 0 (0–14)
+GMT (95%CI) 33.3 (23.8–46.5) 45.1 (32.8–62.0) 5.08 (4.92–5.24) 74.8 (53.5–105) 104 (77.1–140) 12.1 (6.53–22.3)
+GMTR D21/D0 (95%CI) 3.33 (2.54–4.35) 4.45 (3.42–5.81) 1.00 (1.00–1.00) 6.82 (5.09–9.15) 9.86 (7.46–13.0) 0.972 (0.794–1.19)
+Second injection
+Seroprotection D42, % (95%CI) 91 (84–96) 99 (94–100) 4 (0–22) 97 (91–99) 99 (94–100) 25 (10–47)
+Seroconversion D42/D0, % (95%CI) 90 (82–95) 99 (94–100) 4 (0–22) 96 (90–99) 99 (94–100) 8 (1–27)
+GMT (95%CI) 368 (271–500) 586 (451–763) 5.64 (4.39–7.24) 459 (348–605) 586 (454–756) 14.3 (7.02–29.3)
+GMTR D42/D21 (95%CI) 9.69 (7.64–12.3) 12.3 (9.70–15.5) 1.09 (0.907–1.32) 5.90 (4.65–7.49) 5.57 (4.56–6.81) 1.21 (1.04–1.40)
+GMTR D42/D0 (95%CI) 32.2 (24.1–43.1) 54.6 (42.3–70.4) 1.09 (0.907–1.32) 40.3 (30.5–53.2) 55.0 (42.7–70.7) 1.17 (0.895–1.53)
+Seroprotection: number and proportion (%) with titers ≥40; seroconversion: number and proportion (%) with either a titer Day 0 titer <10 on and a Day 21 titer ≥40, or a Day
+0 titer ≥10 and ≥4-fold rise by Day 21; GMT: geometric mean titer; GMTR: geometric mean of post- to pre-vaccination titer ratios; N: number of participants; CI confidence
+interval; D: Day.
+6- to 10-fold in the 3–9 year group. The first vaccination was sufficient to induce seroprotective antibody titers (HI titers ≥ 40) in
+45–50% of younger children and 65–75% of older children.
+As measured on Day 42, the second vaccination (Day 21) elicited
+a further 10- to 12-fold increase in titers in younger children and
+5- to 6-fold increase in titers in older children (Table 2) and is illustrated in the reverse cumulative distribution curves shown inFig. 2a
+and b. Immune responses after completion of the two dose schedule were comparable in both age groups with seroprotection rates
+of 91–99% in each vaccine and age group and GMTs of 368–586.
+Previously reported exploratory analyses had shown that the
+administration of seasonal influenza vaccine to children in the
+past five years had no effect on baseline GMTs and seroprotection
+rates appeared lower in those vaccinated than unvaccinated [10].
+Additionally, numbers were too small for meaningful analysis of
+other factors that might affect baseline immune responses such as
+influenza infection in 2009 or contact with persons infected with
+the pandemic (H1N1) 2009 virus.
+After two injections of either vaccine, immune responses satisfied the criteria set by the FDA: namely, in both age groups, the
+lower limit of the 95% confidence intervals of the seroprotection
+rates exceeded 70% and those of the seroconversion rates exceeded
+40% [13].
+In the placebo group, three children seroconverted during the
+study (two older children and one younger child), bringing the seroprotection rate for the placebo group to 4% in younger children and
+25% in older children.
+No immediate unsolicited adverse reactions, vaccine-related
+SAEs, adverse events of special interest, or new onset of chronic
+illness occurred after either vaccination. Two unrelated SAEs
+(furuncle and humerus fracture) and one unrelated NOCI (seasonal
+allergies) were reported within 42 days after the first vaccination.
+The proportion of children experiencing solicited reactions
+within 7 days after at least one of the two injections are reported
+separately for children 6–23 months, 24–35 months, and 3–9 years
+and summarized in Table 3. Mild to moderate pain or tenderness,
+followed by erythema, were the most common injection site reactions observed for vaccine or placebo recipients in all subject ages.
+The most commonly reported systemic reactions were irritability in children aged 6–23 months and malaise and myalgia in the
+older age groups. Fever was reported in a maximum of 13% (1/8)
+children across all age and vaccine groups, with no indication of
+increased frequency in subjects receiving the vaccine compared
+to placebo recipients. Considering reactogenicity of the first and
+second injections separately, reaction rates were lower after the
+second injection than after the first (data not shown).
+The proportion of subjects in each age and vaccine group experiencing unsolicited adverse events within 21 days after at least
+one of the two injections ranged from 42% to 55% (Table 4). In
+most cases, these were considered not to be vaccine related by the
+investigator. Severe unsolicited events were detected at a maxi7.5 µg HA, D0 7.5 µg HA, D21 7.5 µg HA, D42
+15 µg HA, D0 15 µg HA, D21 15 µg HA, D42
+Placebo, D0 Placebo, D21 Placebo, D42
+Subjects (%)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Titers (1/dil)
+1 10 100 1000 10000 100000
+7.5 µg HA, D0 7.5 µg HA, D21 7.5 µg HA, D42
+15 µg HA, D0 15 µg HA, D21 15 µg HA, D42
+Placebo, D0 Placebo, D21 Placebo, D42
+Subjects (%)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Titers (1/dil)
+1 10 100 1000 10000 100000
+a
+b
+Fig. 2. Reverse cumulative distribution of HI antibody titer against H1N1 influenza
+before and 21 days after a single injection of H1N1 vaccine or placebo in infants
+6–35 months (a) and in children 3–9 years (b). Vertical lines indicate the 1:40 titer
+associated with seroprotection.
+E. Plennevaux et al. / Vaccine 29 (2011) 1569–1575 1573
+Table 3
+Percent of participants in each age group with solicited reactions within 7 days after either the first or the second injection.
+7.5 g HA 15 g HA Placebo
+Any grade Grade 3 Any grade Grade 3 Any grade Grade 3
+6–23 Months N = 61 N = 56 N = 18
+Injection site reactions 54 (41–67) 2 (0–9) 42 (29–56) 2 (0–10) 61 (36–83) 0 (0–19)
+Tenderness 46 (33–59) 0 (0–6) 36 (24–50) 2 (0–10) 56 (31–79) 0 (0–19)
+Erythema 31 (20–44) 0 (0–6) 13 (5–25) 0 (0–7) 17 (4–41) 0 (0–19)
+Swelling 10 (4–20) 0 (0–6) 11 (4–22) 0 (0–7) 6 (0–27) 0 (0–19)
+Induration 10 (4–20) 0 (0–6) 9 (3–20) 0 (0–7) 6 (0–27) 0 (0–19)
+Ecchymosis 7 (2–16) 2 (0–9) 7 (2–18) 0 (0–7) 0 (0–19) 0 (0–19)
+Systemic reactions 51 (38–64) 5 (1–14) 58 (44–71) 7 (2–18) 61 (36–83) 0 (0–19)
+Fever 10 (4–20) 0 (0–6) 11 (4–22) 2 (0–10) 6 (0–27) 0 (0–19)
+Vomiting 5 (1–14) 0 (0–6) 11 (4–22) 5 (1–15) 0 (0–19) 0 (0–19)
+Abnormal crying 33 (21–46) 5 (1–14) 25 (15–39) 4 (0–13) 39 (17–64) 0 (0–19)
+Drowsiness 18 (9–30) 0 (0–6) 20 (10–33) 2 (0–10) 17 (4–41) 0 (0–19)
+Lost Appetite 16 (8–28) 0 (0–6) 25 (15–39) 2 (0–10) 22 (6–48) 0 (0–19)
+Irritability 43 (30–56) 0 (0–6) 46 (32–59) 4 (0–13) 50 (26–74) 0 (0–19)
+24–35 Months N = 44 N = 42 N = 8
+Injection site reactions 45 (30–61) 0 (0–8) 48 (32–64) 5 (1–16) 63 (24–91) 0 (0–37)
+Pain 41 (26–57) 0 (0–8) 46 (31–63) 5 (1–16) 38 (9–76) 0 (0–37)
+Erythema 14 (5–29) 0 (0–8) 29 (16–45) 0 (0–8) 38 (9–76) 0 (0–37)
+Swelling 2 (0–13) 0 (0–8) 10 (3–23) 0 (0–8) 0 (0–37) 0 (0–37)
+Induration 5 (1–16) 0 (0–8) 14 (5–29) 0 (0–8) 13 (0–53) 0 (0–37)
+Ecchymosis 7 (1–19) 0 (0–8) 14 (5–29) 0 (0–8) 25 (3–65) 0 (0–37)
+Systemic reactions 33 (20–50) 2 (0–13) 31 (18–47) 5 (1–16) 38 (9–76) 13 (0–53)
+Fever 10 (3–23) 2 (0–13) 5 (1–16) 2 (0–13) 13 (0–53) 13 (0–53)
+Headache 2 (0–13) 0 (0–8) 5 (1–17) 0 (0–9) 13 (0–53) 0 (0–37)
+Malaise 24 (12–39) 2 (0–13) 22 (11–38) 2 (0–13) 38 (9–76) 0 (0–37)
+Myalgia 10 (3–23) 0 (0–8) 12 (4–26) 0 (0–9) 25 (3–65) 0 (0–37)
+Shivering 2 (0–13) 0 (0–8) 2 (0–13) 0 (0–9) 0 (0–37) 0 (0–37)
+3–9 years N = 114 N = 106 N = 25
+Injection site reactions 61 (52–70) 3 (1–7) 57 (47–66) 3 (1–8) 64 (43–82) 0 (0–14)
+Pain 55 (46–65) 2 (0–6) 52 (42–62) 0 (0–3) 64 (43–82) 0 (0–14)
+Erythema 17 (10–25) 1 (0–5) 14 (8–23) 1 (0–5) 8 (1–26) 0 (0–14)
+Swelling 7 (3–13) 1 (0–5) 11 (5–18) 3 (1–8) 4 (0–20) 0 (0–14)
+Induration 10 (5–17) 1 (0–5) 8 (3–15) 0 (0–3) 16 (5–36) 0 (0–14)
+Ecchymosis 11 (6–19) 0 (0–3) 11 (5–18) 0 (0–3) 8 (1–26) 0 (0–14)
+Systemic reactions 45 (35–54) 4 (1–10) 37 (27–47) 7 (3–13) 48 (28–69) 8 (1–26)
+Fever 5 (2–11) 1 (0–5) 6 (2–12) 3 (1–8) 8 (1–26) 4 (0–20)
+Headache 20 (13–29) 0 (0–3) 18 (11–27) 4 (1–10) 28 (12–49) 0 (0–14)
+Malaise 25 (18–34) 3 (1–7) 23 (15–32) 6 (2–12) 40 (21–61) 4 (0–20)
+Myalgia 28 (20–37) 2 (0–6) 17 (11–26) 0 (0–3) 12 (3–31) 0 (0–14)
+Shivering 1 (0–5) 1 (0–5) 8 (3–15) 2 (0–7) 8 (1–26) 0 (0–14)
+Data are the percentage of participants with reactions of any severity grade and percentage with reactions rated as severity grade 3 on at least one day. Grade 3 reactions
+defined as: pain = incapactitating, preventing usual activities; tenderness = infant cries when injected limb is moved/reduced limb movement; erythema, swelling, induration
+or ecchymosis ≥5 cm; fever >39.5 ◦C/103.1 ◦F for infants aged 6–23 months, or >39.0 ◦C/102.1 ◦F for children aged 2–9 years; vomiting ≥6 episodes/24 h or parenteral hydration
+required; abnormal crying >3 h; drowsiness = sleeping most of the time/difficult to wake up; loss of appetite = refused ≥3 meals or refused most meals; irritability = infant
+inconsolable; headache, malaise, myalgia or shivering = significant, prevents daily activities. Numbers in parentheses are 95% confidence intervals. N: number of participants
+with available data
+mum rate of 8% and occurred with similar frequency in the vaccine
+and placebo groups.
+4. Discussion
+Two injections of the licensed inactivated, subvirion, monovalent pandemic influenza A (H1N1) vaccine given 21 days apart were
+highly immunogenic in children 6 months of age and older. Seroprotection and seroconversion rates elicited after two injections
+of either the 7.5 g HA or 15 g HA vaccine formulation satisfied the US FDA’s immunogenicity requirements [13]. In children
+younger than 10 years, the seroprotection rates observed after two
+doses were similar to those seen in adults after a single injection
+of the same vaccine (93–100%) [10]. Comparable results have been
+reported in studies of other pandemic influenza A (H1N1) inactivated vaccines [14–21]. The level of immune responses observed
+in 6–35 month-olds and 3–9 year-olds converged following the
+second vaccination. These results confirm the benefit of a second
+vaccination in this young population and suggest that the benefit
+decreases with age.
+Because of the urgent need to develop an A/influenza (H1N1)
+2009 vaccine in the face of an ongoing pandemic, and in the
+absence of specific SRID reagents, sanofi pasteur like other manufacturers, used high performance liquid chromatography (HPLC)
+to estimate the quantity of HA in the vaccine lots used for clinical
+testing. Follow-up SRID testing when the reagents became available
+showed that the vaccine formulated at 15 g by HPLC contained
+24 g HA. The high immunogenicity of this formulation provides
+assurance that vaccine lots formulated at 15 g by SRID would also
+be highly immunogenic.
+As noted in our preliminary report, pre-existing antibodies able
+to inhibit the 2009 H1N1 virus were detected in very few children, but in most of these baseline-seropositive cases, the titer was
+higher than 40, and therefore could be considered to be seroprotected prior to vaccination. The most plausible explanation for this
+observation is that these few children had been recently infected
+with the pandemic (H1N1) 2009 virus, of which a proportion may
+have been asymptomatic. The results of a seroepidemiological
+study conducted in England showed that ten times more children
+were infected during the first wave of the 2009 pandemic than were
+identified by clinical surveillance [22].
+1574 E. Plennevaux et al. / Vaccine 29 (2011) 1569–1575
+Table 4
+Rates of subjects experiencing at least one unsolicited adverse event within 21 days of either vaccination by Medical Dictionary for Regulatory Activities system organ class.a
+System organ class Age and vaccine group
+6–35 months 3–9 years
+7.5 g HA
+(N = 105) n (%)
+subjects
+15 g HA
+(N = 98) n (%)
+subjects
+Placebo
+(N = 26) n (%)
+subjects
+7.5 g HA
+(N = 114) n (%)
+subjects
+15 g HA
+(N = 106) n (%)
+subjects
+Placebo
+(N = 25) n (%)
+subjects
+Any event 58 (55) 53 (54) 11 (42) 48 (42) 44 (42) 12 (48)
+Any severe event 6 (6) 5 (5) 0 (0) 6 (5) 7 (7) 2 (8)
+Eye disorders 2 (2) 3 (3) 0 (0) 1 (1) 2 (2) 1 (4)
+Gastrointestinal disorders 14 (13) 9 (9) 4 (15) 5 (4) 14 (13) 4 (16)
+General disorders and
+administration site
+conditions
+14 (13) 10 (10) 3 (12) 9 (8) 9 (9) 1 (4)
+Immune system disorders 0 (0) 0 (0) 0 (0) 3 (3) 1 (1) 1 (4)
+Infections and infestations 22 (21) 14 (14) 7 (27) 21 (18) 19 (18) 5 (20)
+Injury, poisoning and
+procedural complications
+2 (2) 7 (7) 1 (4) 3 (3) 4 (4) 1 (4)
+Musculoskeletal and
+connective tissue disorders
+0 (0) 0 (0) 0 (0) 5 (4) 6 (6) 1 (4)
+Nervous system disorders 1 (1) 2 (2) 1 (4) 7 (6) 4 (4) 0 (0)
+Psychiatric disorders 3 (3) 1 (1) 0 (0) 2 (2) 1 (1) 1 (4)
+Respiratory, thoracic and
+mediastinal disorders
+32 (31) 22 (22) 5 (19) 18 (16) 17 (16) 4 (16)
+Skin and subcutaneous tissue
+disorders
+7 (7) 8 (8) 1 (4) 2 (2) 3 (3) 0 (0)
+a Only classes of events characterized by a rate ≥2% in at least one group are presented.
+There was no marked difference in the reactogenicity between
+the H1N1 influenza vaccination and the placebo control. In particular, similar solicited reaction rates occurred in each of the three
+groups. For instance there was no indication of an increased rate
+of fever, pain or irritability after administration of the vaccine
+compared to placebo. Since inactivated seasonal influenza vaccines have been licensed for several decades, placebo controlled
+arms are rarely included in influenza vaccine clinical trials. Similarly, with the exception of a study conducted in China [14],
+published pediatric studies of other (H1N1) 2009 candidate vaccines did not report comparisons to a placebo group [15–21].
+Healthy children from 3 years of age were enrolled in the Chinese trial. Safety monitoring included observation of immediate
+adverse events for 30 min after vaccination, collection of solicited
+adverse events in a diary card for a period of 3 days after vaccination, and reporting of unsolicited adverse events throughout
+the study. The proportion of children 3 to <12 years of age
+reporting at least one adverse event in the 3-day period following any vaccination was found to range between 12.5% in the
+placebo group and 33.0% in the 30 g unadjuvanted split inactivated H1N1 formulation. Contrary to our observations, these results
+showed an increased rate of symptoms in subjects receiving vaccine
+compared to placebo. The authors also reported a higher incidence of severe adverse events in the vaccine group compared
+to the placebo group (0.6% vs. 0.1%). Overall these results differed from ours both in terms of comparison between vaccine
+and placebo groups and in terms of overall frequency of adverse
+events.
+Another pediatric trial conducted in Mexico investigated
+the reactogenicity of inactivated seasonal influenza vaccine as
+compared with a placebo. In that study, Pedroza et al. [23]
+measured rates of events over a 5-day period after vaccination and obtained results more comparable to those of our
+study. For instance, pain was detected in 23–33% of subjects and malaise in up to 16% of children. Solicited adverse
+events reported after each vaccination were similar between
+the vaccine and placebo groups. The authors also reported
+that a second dose appeared safe and provided enhanced
+immune responses indicative of protection in this at risk population.
+5. Conclusions
+Two formulations of an A influenza (H1N1) 2009 vaccine were
+highly immunogenic in infants and children from 6 months to 9
+years of age. The results of this study confirm that two doses of
+vaccine at dosages consistent with seasonal vaccines, namely 7.5
+and 15 g of HA are needed to elicit antibody titers corresponding
+to protective levels against the pandemic influenza A (H1N1) virus
+in children >6 months. A clear benefit of a second dose of vaccine
+in further elevating HI titers was seen in all age groups. The safety
+and reactogenicity of the pandemic (H1N1) 2009 vaccine, at either
+dose, were acceptable and similar to placebo after both the first and
+second vaccinations. The safety results observed were similar to
+those seen historically with seasonal inactivated trivalent influenza
+vaccines.
+Acknowledgments
+Authors’ contributions: MD, MKRH, and EP designed the trials. All authors reviewed and approved the trials. EP, DK and
+MW carried out the clinical trial. MB was the coordinating investigator. MB and MJC participated in the recruitment of study
+subjects. MD, MKRH and EP, KG, MW interpreted the study results.
+All authors contributed to the critical review and revision of
+the manuscript and saw and approved the final version of the
+manuscript.
+Potential conflicts of interests: MD, MKRH, and EP, DK, KG, and
+MW are employed by sanofi pasteur. MB has a research relationship
+with sanofi pasteur, Novartis, MSD, CSL, MedImmune and Wyeth
+and has served on Speaker’s Bureaus for sanofi pasteur and GlaxoSmithKline.
+The study was registered with ClinicalTrials.gov
+(NCT00952419).
+Financial support: This project was funded in whole with Federal
+funds from the Office of the Assistant Secretary for Preparedness
+and Response, Biomedical Advanced Research and Development
+Authority, under Contract No. HHSO100200900121C.
+The authors are grateful to the following for their contributions
+to the study: the clinical and project team members at sanofi pasteur, in particular A. Shedd, E. Yau, J. Hoffner, K. Heard, B. Levron,
+E. Plennevaux et al. / Vaccine 29 (2011) 1569–1575 1575
+S. Singer, M. Baxter, A. O’Neil, J. Lathey, J. Kramer, J. Rivera, D. Francis, A. Strickland, Y. Rodriguez, K. Fries, B. Hu, J. Haines, A. Rosas,
+Y. Kazachkov, W. Yarnall, and K. McKinney; the principal investigators and their teams: Drs Andrews, Chu, Cornish, Cunha, Daly, Davis,
+Devenport, Herrington, Hollingsworth, Jeanfreau, Levin, Moskow,
+Ohnmacht, Rosen, Seger, and Wittmer. This manuscript was prepared with the assistance of Grandville Marsh and Frederick R.
+Vogel at sanofi pasteur, Lyon France.
+The views expressed in written conference materials or publications and by speakers and moderators at HHS-sponsored
+conferences, do not necessarily reflect the official policies of the
+Department of Health and Human Services; nor does mention
+of trade names, commercial practices, or organizations imply
+endorsement by the U.S. Government.
+References
+[1] World Health Organization. New influenza A (H1N1) virus: global epidemiological situation, June 2009. Wkly Epidemiol Rec 2009;84(25):249–60.
+[2] Bishop JF, Murnane MP, Owen R. Australia’s winter with the 2009 pandemic
+influenza A (H1N1) virus. N Engl J Med 2009;361(27):2591–4.
+[3] Gomez J, Munayco C, Arrasco J, Suarez L, Laguna-Torres V, Aguilar P, et al. Pandemic influenza in a southern hemisphere setting: the experience in Peru from
+May to September, 2009. Euro Surveill 2009;14.(42).
+[4] Update: influenza activity – United States, April–August 2009. MMWR Morb
+Mortal Wkly Rep 2009;58(36):1009–12.
+[5] World Health Organization. WHO. Pandemic (H1N1) 2009 – update 76. World
+Health Organization. 30-11-2009.
+[6] Update: influenza activity – United States, August 30–October 31, 2009.MMWR
+Morb Mortal Wkly Rep 2009;58(44):1236–41.
+[7] Finelli L, Brammer L, Kniss K, et al. Influenza epidemiology and surveillance. US
+Centers for Disease Control and Prevention; 2010, 3-11-2010.
+[8] O’Riordan S, BartonM, Yau Y, Read SE, Allen U, Tran D. Risk factors and outcomes
+among children admitted to hospital with pandemic H1N1 influenza. CMAJ
+2009;182(1):39–44.
+[9] Use of influenza A (H1N1) 2009 monovalent vaccine: recommendations of the
+Advisory Committee on Immunization Practices (ACIP), 2009. MMWR Recomm
+Rep 2009;58(RR-10):1–8.
+[10] Plennevaux E, Sheldon E, Blatter M, Reeves-Hoche MK, Denis M. Immune
+response after a single vaccination against 2009 influenza A H1N1 in USA:
+a preliminary report of two randomised controlled phase 2 trials. Lancet
+2009;375(9708):41–8.
+[11] Prevention and control of seasonal influenza with vaccines: recommendations
+of the advisory committee on immunization practices (ACIP), 2009. MMWR
+Recomm Rep 2009;58(RR-08):1–52.
+[12] World Health Organization.WHOmanual on animal diagnosis and surveillance.
+World Health Organization; 2009, 21-11-2009.
+[13] CBER/FDA. Regulatory considerations regarding the use of novel influenza A
+(H1N1) virus vaccines. United States Food and Drug Administration; 2009, 30-
+9-2009.
+[14] Liang XF,Wang HQ,Wang JZ, Fang H-H,Wu J, Zhu F-C, et al. Safety and immunogenicity of 2009 pandemic influenza A H1N1 vaccines in China: a multicentre,
+double-blind, randomised, placebo-controlled trial. Lancet 2010;375:56–66.
+[15] Zhu FC, Wang H, Fang HH, Yang JG, Lin XJ, Liang X-F, et al. A novel influenza A
+(H1N1) vaccine in various age groups. N Engl J Med 2009;361(25):2414–23.
+[16] Nolan T, McVernon J, Skeljo M, Richmond P, Wadia U, Lambert S, et al. Immunogenicity of a monovalent 2009 influenza A(H1N1) vaccine in infants and
+children: a randomized trial. JAMA 2010;303(1):37–46.
+[17] Carmona A, Omenaca F, Tejedor JC, Merino JM, Vaman T, Dieussaert I, et al.
+Immunogenicity and safety of AS03-adjuvanted 2009 influenza A H1N1 vaccine
+in children 6–35 months. Vaccine 2010;28(36):5837–44.
+[18] Oh CE, Lee J, Kang JH, Hong Y-J, Kim Y-K, Cheong H-J, et al. Safety and immunogenicity of an inactivated split-virus influenza A/H1N1 vaccine in healthy
+children from 6 months to <18 years of age: a prospective, open-label, multicenter trial. Vaccine 2010;28(36):5857–63.
+[19] Lu CY, Shao PL, Chang LY, Huang Y-C, Chiu C-H, Hsieh Y-C, et al. Immunogenicity
+and safety of a monovalent vaccine for the 2009 pandemic influenza virus A
+(H1N1) in children and adolescents. Vaccine 2010;28(36):5864–70.
+[20] Arguedas A, Soley C, Lindert K. Responses to 2009 H1N1 vaccine in children 3
+to 17 years of age. N Engl J Med 2010;362(4):370–2.
+[21] Waddington CS, Walker WT, Oeser C, Reiner A, John T, Wilkins S, et al.
+Safety and immunogenicity of AS03B adjuvanted split virion versus nonadjuvanted whole virion H1N1 influenza vaccine in UK children aged 6
+months–12 years: open label, randomised, parallel group, multicentre study.
+BMJ 2010;340:c2649.
+[22] Miller E, Hoschler K, Hardelid P, Stanford E, Andrews N, Zambon M. Incidence
+of 2009 pandemic influenza A H1N1 infection in England: a cross-sectional
+serological study. Lancet 2010;375(9720):1100–8.
+[23] Pedroza A, Huerta JG, Garcia ML, Rojas A, López-Martínez I, Penagos M, et al.
+The safety and immunogenicity of influenza vaccine in children with asthma
+in Mexico. Int J Infect Dis 2009;13(4):469–75.

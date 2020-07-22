@@ -1,0 +1,1153 @@
+﻿ARTICLE
+Safety, Efficacy, and Effectiveness of Cold-Adapted
+Influenza Vaccine-Trivalent Against CommunityAcquired, Culture-Confirmed Influenza in Young
+Children Attending Day Care
+Timo Vesikari, MDa, Douglas M. Fleming, MB, ChB, PhDb, Javier F. Aristegui, MDc
+, Andre Vertruyen, MDd, Shai Ashkenazi, MDe,
+Ruth Rappaport, PhDf
+, Jonathan Skinner, PhDf
+, Melanie K. Saville, MB, BSg, William C. Gruber, MDf
+, Bruce D. Forrest, MDf
+, for the CAIV-T
+Pediatric Day Care Clinical Trial Network
+a
+Tampere University Medical School, Tampere, Finland; bNorthfield Health Centre, Birmingham, United Kingdom; c
+Hospital de Basurto, Bilbao, Spain; dSt Vincentius
+Hospital, Antwerp, Belgium; e
+Schneider Children’s Hospital, Petah Tikva, Israel; f
+Wyeth Vaccines Research, Pearl River, New York; gWyeth Vaccines Research, Taplow,
+United Kingdom
+Financial Disclosure: Drs Vesikari and Fleming have received consultancy fees from pharmaceutical manufacturers and have been supported to attend meetings all in relation to influenza vaccination,
+treatment, and surveillance. Dr Skinner was employed by Wyeth as a statistician during the reporting of this trial and the development of this manuscript. Dr Gruber is an employee of Wyeth Vaccines
+Research, which has a commercial interest in the development of FluMist (CAIV-T) in partnership with MedImmune. Dr Forrest was a paid employee of Wyeth Pharmaceuticals at the time this work was
+performed.
+ABSTRACT
+OBJECTIVE. The goal was to evaluate the safety, tolerability, and efficacy of an investigational, refrigerator-stable formulation of live attenuated influenza vaccine
+(cold-adapted influenza vaccine-trivalent) against culture-confirmed influenza,
+acute otitis media, and effectiveness outcomes in young children in day care over
+2 consecutive influenza seasons.
+METHODS. Children 6 to 36 months of age who were attending day care were
+assigned randomly in year 1 to receive 2 doses of vaccine or placebo intranasally,
+35  7 days apart. In year 2, subjects received 1 dose of the same treatment as in
+year 1.
+RESULTS. A total of 1616 subjects (vaccine: 951 subjects; placebo: 665 subjects) in
+year 1 and 1090 subjects (vaccine: 640 subjects; placebo: 450 subjects) in year 2
+were able to be evaluated for efficacy. The mean age at first vaccination was 23.4
+ 7.9 months. In year 1, the overall efficacy of the vaccine against influenza
+subtypes similar to the vaccine was 85.4%; efficacy was 91.8% against A/H1N1
+and 72.6% against B. In year 2, the overall efficacy was 88.7%; efficacy was 90.0%
+against H1N1, 90.3% against A/H3N2, and 81.7% against B. Efficacy against all
+episodes of acute otitis media associated with culture-confirmed influenza was
+90.6% in year 1 and 97.0% in year 2. Runny nose or nasal discharge after dose 1
+in year 1 was the only reactogenicity event that was significantly more frequent
+with cold-adapted influenza vaccine-trivalent (82.3%) than placebo (75.4%).
+CONCLUSIONS. Cold-adapted influenza vaccine-trivalent was well tolerated and effective in preventing culture-confirmed influenza illness in children as young as 6
+months of age who attended day care.
+www.pediatrics.org/cgi/doi/10.1542/
+peds.2006-0725
+doi:10.1542/peds.2006-0725
+Key Words
+influenza, cold-adapted influenza vaccinetrivalent, children
+Abbreviations
+AE—adverse event
+AOM—acute otitis media
+CAIV-T— cold-adapted influenza vaccinetrivalent
+CI— confidence interval
+LAIV—live attenuated influenza vaccine
+PCR—polymerase chain reaction
+PP—per protocol
+TIV—trivalent influenza vaccine
+Accepted for publication Aug 24, 2006
+Address correspondence to Timo Vesikari, MD,
+Tampere University Medical School/FM3,
+Biokatu 10, 33520 Tampere, Finland. E-mail:
+timo.vesikari@uta.fi
+PEDIATRICS (ISSN Numbers: Print, 0031-4005;
+Online, 1098-4275). Copyright © 2006 by the
+American Academy of Pediatrics
+2298 VESIKARI et al
+I
+NFLUENZA IS A major cause of serious respiratory illness and acute otitis media (AOM) in young children
+and is associated with significant public health and socioeconomic burdens through excess hospitalizations,
+clinic and outpatient visits, antibiotic prescriptions, and
+lost parental workdays.1–6 Influenza-associated hospitalization rates for children 2 years of age are comparable
+to those seen for elderly persons and adults at high risk
+for complications of influenza.7–13 During an influenza
+season, up to 33% of emergency department visits for
+children 12 months of age8 and 20% of excess hospitalizations for children 3 years of age12 have been
+attributed to influenza infection.
+High influenza attack rates and the propensity to shed
+larger amounts of influenza virus for longer periods than
+older children and adults indicate that young children
+are significant reservoirs of influenza in the community.14–17 Children attending day care frequently experience the highest influenza attack rates2,18; however, influenza is underdiagnosed frequently in this age group.19
+Routine immunization of young children may provide
+communitywide benefits by reducing the transmission
+of influenza to susceptible populations, decreasing the
+overall community disease burden, and reducing the
+overall economic burden of influenza.20,21
+Inactivated trivalent influenza vaccine (TIV) is recommended in the United States for use in children 6
+months to 5 years of age.22 Few efficacy studies using
+TIV in young children have been published. Estimates of
+TIV efficacy against influenza illness range from 12% to
+83% and vary according to age, circulating influenza
+virus strains, level of disease burden, and other variables.23 Variability in TIV efficacy and effectiveness
+against AOM has also been observed.23–27
+The frozen formulation of live attenuated influenza
+vaccine (LAIV) (FluMist; MedImmune, Gaithersburg,
+MD) was approved in the United States in 2003 for
+healthy persons 5 to 49 years of age. A new, refrigeratorstable formulation of LAIV, referred to as cold-adapted
+influenza vaccine-trivalent (CAIV-T), is currently in development. The clinical trial described here evaluated
+the safety, tolerability, and efficacy of CAIV-T against
+culture-confirmed influenza, during 2 consecutive influenza seasons, in children 6 to 36 months of age who
+were attending day care. Vaccine efficacy against AOM
+and certain effectiveness outcomes were also determined.
+METHODS
+Design
+This prospective, randomized, double-blind, placebocontrolled, multicenter trial was conducted over 2 consecutive influenza seasons at 70 clinical centers located
+in Belgium, Finland, Israel, Spain, and the United Kingdom, between October 2, 2000, and May 31, 2002. The
+study was conducted in accordance with the principles
+of Good Clinical Practice and the Declaration of Helsinki.
+The study protocol and all subsequent amendments
+were approved by the human ethics committees, institutional review boards, and any regional or national
+ethics committees at participating centers.
+Participants
+Eligible subjects were children who were 6 to 36
+months of age at the time of enrollment and who were
+in good health, as determined by medical history and
+physical examination. Children were required to be attending day care for a minimum of 12 hours/week.
+Eligibility to participate in the second year of the trial
+required continued good health and completion of the
+primary dosing series and surveillance in year 1. Written
+informed consent was obtained from the parent or
+guardian of each child. Exclusion criteria for both years
+included any serious chronic disease, Down syndrome or
+other cytogenetic disorders, immunosuppression or a
+household member with immunosuppression, receipt of
+immunoglobulin in the previous 6-month period, receipt of any investigational vaccine or agent 1 month
+before enrollment or any influenza treatment within the
+2 weeks before enrollment, documented history of hypersensitivity to egg or egg protein, clinically confirmed
+respiratory illness with wheezing within 2 weeks before
+enrollment, receipt of aspirin within 2 weeks before
+enrollment, receipt of any live virus vaccine within 1
+month before enrollment, and previous influenza vaccination (year 1) or off-protocol influenza vaccination
+(year 2).
+Vaccine and Placebo
+CAIV-T was manufactured and release-tested by Wyeth
+Vaccines Research (Marietta, PA) and consisted of 3
+cold-adapted, attenuated, reassortant strains, representing the hemagglutinin and neuraminidase antigens of
+the A/New Caledonia/20/99 (H1N1), A/Sydney/05/97
+(H3N2), and B/Yamanashi/166/98 influenza strains for
+the first year of the study and the hemagglutinin and
+neuraminidase antigens of the A/New Caledonia/20/99
+(H1N1), A/Panama/2007/99 (H3N2), and B/Victoria/
+504/2000 influenza strains for the second year of the
+study. Each 0.2-mL dose of CAIV-T was formulated to
+contain 107 median tissue culture dose (or equivalent
+fluorescent units in year 2) of each of the 6:2 influenza
+reassortant virus strains. After manufacture, the vaccine
+was stored frozen and then shipped to the study sites at
+2°C to 8°C, at which temperature it was stored until just
+before administration.
+The hemagglutinin and neuraminidase antigens of
+the wild-type influenza strains used to generate the type
+A/H1N1 and type B vaccine reassortants for the year 1
+CAIV-T formulation were antigenically representative of
+virus recommended by the World Health Organization
+PEDIATRICS Volume 118, Number 6, December 2006 2299
+for the 2000/2001 influenza season in the Northern
+Hemisphere. Because of industrywide technical problems encountered in the production of the recommended H3N2 A/Panama/2007/99 (A/Moscow/10/99-
+like) vaccine strain,28 a decision was made to use the
+H3N2 vaccine strain (A/Sydney/05/97) recommended
+for the previous 1999/2000 season in the year 1 CAIV-T
+formulation. This decision was based on the antigenic
+similarity of the hemagglutinin antigen with that of
+A/Panama/2007/99, the circulation of A/Sydney/05/97-
+like viruses before the 2000/2001 season,29 and previous
+clinical trials with a frozen formulation of CAIV-T that
+demonstrated both cross-reactive antibody development
+(as measured with a hemagglutinin-inhibiting antibody
+assay) and efficacy against mismatched influenza
+A/H3N2 virus.30 The A/Sydney/05/97 antigens matched
+the antigens used in commercial TIV for that season. The
+vaccine composition for year 2 consisted of vaccine
+strains that were antigenically representative of the
+World Health Organization 2001/2002 Northern Hemisphere composition recommendations.31 Placebo consisted of sterile physiologic saline solution manufactured
+by Wyeth Vaccines Research.
+In year 1, subjects were assigned randomly to receive
+a primary series of 2 doses of either CAIV-T or placebo,
+in a 3:2 ratio, 35  7 days apart. In year 2, all subjects
+received a single dose of either CAIV-T or placebo according to their year 1 treatment assignments. In both
+years, study subjects, their parents or guardians, and the
+clinical personnel were unaware of the treatment being
+administered. CAIV-T and placebo were supplied in single-dose, identically packaged sprayers labeled with the
+codes to which subjects were assigned. The total singledose volume of 0.2 mL (0.1 mL into each nostril) of
+vaccine or placebo was administered intranasally with
+the spray applicator intended for commercial use. The
+first dose of the primary series was administered on
+study day 0, after informed consent had been obtained.
+Surveillance for Influenza Illness
+Surveillance for influenza-like illness was based on regular telephone contacts, clinic visits, or home visits (as
+applicable). In both years, contact started 11 days after
+receipt of the first study dose (day 0) and continued
+weekly through completion of the first (May 31, 2001)
+or second (May 31, 2002) season surveillance period.
+A nasal swab sample was required if subjects exhibited fever (rectal temperature of 38°C or axillary temperature of 37.5°C), wheezing, shortness of breath,
+pulmonary congestion, pneumonia, or ear infection
+(suspected or diagnosed AOM). A nasal swab sample
+was also required if subjects showed 2 of the following:
+runny nose or nasal congestion (rhinorrhea), sore throat
+(pharyngitis), cough, muscle aches, chills, headache, irritability, decreased activity, or vomiting. A viral culture
+was also obtained at the investigators’ discretion.
+Nasal specimens were cultured in Madin-Darby canine kidney monolayer cultures, and typing was determined by immunostaining positive cultures with influenza type A-specific and type B-specific monoclonal
+antibodies. Nasal specimens were cultured and typed in
+the Department of Virology at the University of Turku
+(Turku, Finland). Positive specimens were shipped to
+Wyeth Vaccines Research (Pearl River, NY) for additional identification. Subtype identification and antigenic characterization were performed for 78.3% of all
+influenza-positive isolates in year 1, by the Centers for
+Disease Control and Prevention (Atlanta, GA), with serologic techniques. In year 2, identification assays, including polymerase chain reaction (PCR) assays and sequencing of HA1 gene fragments, were performed by
+Wyeth Vaccines Research with methods similar to those
+described previously for H3N2 and B viruses.32,33 In the
+second season, wild-type B/Hong Kong/1351/02 strain
+cocirculated32,34 and was associated with difficulties in
+serotyping. PCR analyses and HA1 sequencing methods
+were used for subtype identification and antigenic characterization of 99.0% of all influenza-positive isolates in
+year 2, whereas only 87.6% of isolates were identifiable
+with serologic testing. All strain-specific efficacy analyses
+in year 2 were based on PCR analyses, with serotyping
+confirmation when possible. Influenza-positive specimens obtained within 28 days after any vaccine dose
+were tested to determine whether they were CAIV-Tlike or wild-type (community acquired).
+AOM
+An ear examination was performed if the subject developed symptoms suggesting AOM. AOM was defined as a
+visually abnormal tympanic membrane (with regard to
+color, position, and/or mobility) suggesting an effusion
+in the middle ear cavity, concomitant with 1 of the
+following signs and/or symptoms of acute infection: fever (rectal temperature of 38°C or axillary temperature
+of 37.5°C), earache, irritability, diarrhea, vomiting,
+acute otorrhea not caused by external otitis, or other
+symptoms of respiratory infection.35,36 An episode of febrile otitis media was defined as an episode of AOM in a
+child with a documented fever (rectal temperature of
+38°C or axillary temperature of 37.5°C), and an episode of influenza-associated AOM was defined as an
+episode of AOM in a child with a positive culture for
+influenza virus. An episode of AOM in a study participant was included in the efficacy analysis if it complied
+with the definition of AOM given above, occurred 15
+days after receipt of the first dose of vaccine or placebo,
+and occurred during the period in which influenza virus
+was isolated in each country.
+Effectiveness Outcomes
+The ability of CAIV-T, relative to placebo, to reduce the
+burden of respiratory illness in children attending day
+2300 VESIKARI et al
+care was determined by evaluating the reduction in the
+following predefined end points during the influenza
+season: (1) the incidence of a parent or guardian taking
+time off from paid work at least once to care for the child
+during the current influenza-like illness, (2) the total
+number of days of paid work missed for parents or
+guardians, (3) the total number of days missed from day
+care as a result of influenza-like illness, (4) the incidence
+of 1 outpatient or emergency department visit because
+of acute febrile and/or respiratory illness, (5) the incidence of 1 prescription of antibiotics as a result of
+influenza-like illness, and (6) the number of days of
+treatment with an antibiotic prescribed as a result of the
+influenza-like illness.
+Safety Assessment
+After each study vaccination, parents and legal guardians were asked to record information on a diary card
+regarding axillary or rectal temperature, runny nose/
+nasal congestion, sore throat, cough, vomiting, activity
+level, appetite, irritability, headache, chills, muscle pain,
+and the use of antipyretic medications (for prophylaxis
+or treatment), as well as any unscheduled physician
+visits and medications, for 11 consecutive days, including the day of vaccination (day 0). An adverse event
+(AE) was defined as any clinically significant event, including but not limited to (1) events that required any
+prescription or nonprescription medication within 11
+days after vaccination, (2) events that required an unscheduled health care provider visit and/or health care
+provider consultation within 11 days after vaccination,
+(3) events that resulted in study termination, or (4) any
+other clinically significant event that occurred at any
+time during the course of the study. Serious AEs, including hospitalizations, were monitored and collected
+through the end of the influenza season in each year of
+the study.
+Statistical Analyses
+Sample size estimates were based on assumed attack
+rates of culture-confirmed influenza in the placebo and
+CAIV-T groups of 12% and 3%, respectively (as observed in a previous trial of LAIV in older children30) and
+a subject discontinuation rate of 25%. A sample size of
+1100 children that were able to be evaluated (with 3:2
+randomization) permitted 90% power that the lower
+limit of the 95% confidence interval (CI) of efficacy over
+the first season would be 45%. The planned sample
+size for this study provided 80% power to detect frequency differences between the CAIV-T and placebo
+groups ranging from 4.3% to 8.2%.
+The randomization schedule was generated by Wyeth
+Vaccines Research. Study product for year 1 was labeled
+with 1 of 5 letter codes, namely, A, H, or M (CAIV-T) or
+B or K (placebo). Each subject was assigned the next
+sequential number by the study site investigator and
+received study product for the treatment assigned to that
+subject number, according to a preprinted randomization allocation list provided to the study site by Wyeth
+Vaccines Research. The number sequence was concealed
+until interventions were assigned. Two efficacy populations were defined for both seasons, that is, the intentto-treat population (all subjects who received 1 dose of
+study vaccine or placebo in year 1 or who received a
+single dose of study vaccine or placebo at the start of year
+2) and the per-protocol (PP) population (subjects who
+received both vaccinations, or a single vaccination in
+year 2, to which they were assigned; who received no
+live viral vaccine within 28 days of any study vaccination; and who had no major protocol violations).
+The primary efficacy end point was the efficacy of a
+primary series of 2 doses of CAIV-T, relative to placebo,
+against culture-confirmed influenza caused by subtypes
+antigenically similar to those contained in the vaccine in
+the first season. Secondary efficacy end points included
+the efficacy of 2 doses of CAIV-T against culture-confirmed influenza caused by any community-acquired
+subtypes in season 1; efficacy of CAIV-T against cultureconfirmed influenza caused by subtypes antigenically
+similar to those contained in the vaccine and against any
+subtype in year 2; efficacy against all episodes of AOM,
+febrile AOM (first and all episodes), and influenza-associated AOM (first and all episodes) in both years; and
+improvement in effectiveness outcomes.
+Vaccine efficacy was estimated as vaccine efficacy 
+1  (C/NC)/(P/NP), where NC is the number of subjects
+who received CAIV-T, C is the number of CAIV-T subjects who were case subjects, NP is the number of
+subjects who received placebo, and P is the number of
+placebo subjects who were case subjects. For these estimates, conditional on the total number of cases, 95% CIs
+were obtained from the binomial distribution. For the
+purpose of estimating efficacy, only the first episode of
+each kind of illness for each subject was taken into
+account, unless otherwise indicated.
+An episode of AOM was defined as one in which 30
+days had passed since the onset of the previous episode.
+Estimates of efficacy (with 95% CIs) of CAIV-T, relative
+to placebo, against first episodes of AOM associated with
+a positive culture for influenza virus antigenically similar
+to virus contained in the vaccine and AOM associated
+with fever were calculated for the PP population. Estimates of efficacy of CAIV-T, relative to placebo, against
+all episodes of AOM, all febrile AOM, and all influenzaassociated AOM were based on the hazard ratio estimated from the Andersen-Gill model for multiplicative
+hazards of recurrent events, with treatment as the only
+effect.
+For effectiveness end points, relative effectiveness
+was defined in the same manner as for vaccine efficacy
+against influenza, that is, relative effectiveness  1 
+IC/IP, where IC and IP are incidence rates for CAIV-T and
+PEDIATRICS Volume 118, Number 6, December 2006 2301
+placebo, respectively, in the PP population. For the variables that were not defined as incidence variables, the
+rates IC and IP were defined as the quotient of the total
+number of days of missed work or days of antibiotic
+treatment, as appropriate, divided by the total number of
+days of surveillance. CIs at the 95% level for relative
+effectiveness were computed from the binomial distribution, as for vaccine efficacy.
+Because the circulation of influenza and its resulting
+impact on the community vary according to region, the
+analyses of efficacy for effectiveness end points were
+conducted with events that occurred during the influenza season of each country, for more accurate assessment of the true impact of the vaccine on these end
+points. The influenza season within each country was
+defined as the period from the time of isolation of the
+first wild-type influenza-positive culture among study
+participants after vaccination through the time of the last
+identification of an influenza-positive culture in that
+country.
+All subjects who received any dose of study vaccine
+were included in the analysis of safety. For the analysis
+of safety according to dose, subjects were analyzed according to the vaccine that they actually received (as
+treated), CAIV-T or placebo. For analyses of the safety
+population that included 1 dose, subjects who received
+1 dose of CAIV-T were classified as “CAIV-T” and
+subjects who received only placebo were classified as
+“placebo.” For AEs within 11 days after vaccination, the
+incidence rates for each body system and for each event
+for the 2 treatment groups were compared by using
+Fisher’s exact test (2-sided). For the summary of reactogenicity events, P values were obtained by using Fisher’s
+exact test. Mild, moderate, and severe fevers were defined with axillary temperatures of 37.5°C, 38.6°C,
+and 40.0°C, respectively. These cutoff points were considered equivalent to rectal temperatures of 38.0°C,
+39.1°C, and 40.0°C, respectively. Subjects whose
+temperature was measured orally were analyzed with
+the same fever cutoff points as for rectal temperature
+measurements. Subjects whose temperature was measured aurally or whose method of measurement was
+unknown were analyzed with the most conservative
+fever cutoff points (ie, those for axillary temperature
+measurements). These conversions were similar to those
+used in a previously published efficacy trial of LAIV.37
+RESULTS
+Subjects
+Enrollment began on October 2, 2000, before the start of
+the first influenza season, and was completed on November 18, 2000. A total of 1784 subjects, at 70 sites,
+prospectively underwent random assignment to 1 of 2
+study groups, in a 3:2 ratio (CAIV-T/placebo). All doses
+of CAIV-T or placebo in the primary series were administered by December 29, 2000. Participant flow, including withdrawals and reasons for exclusion from the efficacy analysis during year 1, is summarized in Fig 1.
+A total of 1735 subjects (97.3%) completed year 1; of
+the 49 subjects (2.7%) who withdrew during year 1,
+most did so at parental request (1.2%) or were lost to
+FIGURE 1
+Participant flow, including reasons for withdrawal and exclusion fromthe PP analysis in year 1. ITT indicates intentto
+treat. a Subjects might have been excluded for 1 reason. b In year 2, 1119 subjects who had received both doses of
+study vaccine or placebo received a single dose of the
+same treatment they had received in year 1.
+2302 VESIKARI et al
+follow-up monitoring (1.0%). Four subjects (2 in the
+CAIV-T group and 2 in the placebo group) withdrew
+during year 1 because of AEs; 3 of these AEs were judged
+to be not related to study medication, and 1 (idiopathic
+thrombocytopenic purpura in a placebo recipient) was
+judged to be probably not related to study medication.
+In year 2, 1119 subjects, at 62 sites, who completed
+year 1 successfully (ie, received both doses of study
+vaccine according to the protocol) received a single dose
+of the same treatment they had received in year 1.
+Clinical supply of CAIV-T for year 2 was not available
+until the end of November in 2001; all vaccine doses in
+year 2 were administered between December 3 and December 21, 2001. A total of 1112 subjects (99.4%) completed the study; 7 subjects (1 in the CAIV-T group and
+6 in the placebo group) were lost to follow-up monitoring during year 2. No subjects withdrew from the study
+in year 2 because of AEs. An additional 22 subjects (17 in
+the CAIV-T group and 5 in the placebo group) were
+excluded from the PP efficacy analysis in year 2 because
+of major protocol violations.
+A total of 1616 subjects (90.6%), including 951
+CAIV-T recipients (89.8%) and 665 placebo recipients
+(91.7%), were included in the primary analysis of efficacy in season 1 (2000/2001). Baseline demographic
+characteristics for the PP efficacy population are presented in Table 1. A total of 4210 nasal swabs were
+collected during 4717 illness visits in season 1, and conclusive culture results (whether positive or negative for
+influenza) were obtained for 98.7% of the swabs. Fiftysix samples failed to yield results, primarily because of
+culture contamination by fungus or other agents. During
+the first season, an average of 2.34 and 2.38 swabs per
+subject were collected from CAIV-T and placebo recipients, respectively. In season 2, 1537 nasal swabs were
+collected during 1651 illness visits; conclusive results
+were obtained for 98.4% of swabs, of which 12.8% were
+determined to be positive for influenza. Swab rates in
+season 2 were 1.33 and 1.44 swabs per subject for
+CAIV-T and placebo recipients, respectively.
+Culture-Confirmed Influenza
+Influenza strains that were circulating in the community
+during the 2 seasons are summarized in Table 2. During
+the first season, all circulating influenza strains matched
+the vaccine strains, and most illnesses were caused by
+influenza A/H1N1 and influenza B strains. During the
+second season (2001/2002), a variety of influenza strains
+were circulating in the community, with clinical disease
+being caused by all 3 of the vaccine-like strains of influenza (A/H1N1, A/H3N2, and B). In addition, illness was
+caused by 2 influenza B strains that emerged from a
+different influenza B lineage and were antigenically distinct from the influenza B vaccine virus.
+Vaccine efficacy against culture-confirmed influenza
+is summarized in Table 3. In year 1, the overall efficacy
+of CAIV-T against community-acquired subtypes of influenza virus antigenically similar to those in the vaccine
+was 85.4% (95% CI: 74.3%–92.2%), with efficacy for
+individual vaccine strains of 91.8% (95% CI: 80.8%–
+97.1%) against A/New Caledonia/20/99-like (H1N1) viruses and 72.6% (95% CI: 38.6%– 88.9%) against B/
+Sichuan/379/99-like viruses. In year 1, only 1 case of
+A/Panama/2007/99-like (H3N2) virus was detected in a
+placebo recipient; therefore, efficacy could not be assessed. The vaccine also provided similar protection in
+year 1 against all wild-type influenza strains, regardless
+of antigenic similarity to the vaccine, with efficacy of
+85.9% (95% CI: 76.4%–92.0%). In a posthoc analysis,
+efficacy against any antigenically similar strain was
+90.8% (95% CI: 69.6%–98.2%) and 83.6% (95% CI:
+66.9%–92.6%) for subjects 12 to 23 months and 24
+TABLE 1 Demographic Characteristics of Subjects in Years 1 and 2 (PP Efficacy Population)
+Year 1 Year 2
+CAIV-T
+(n  951)
+Placebo
+(n  665)
+Total
+(n  1616)
+CAIV-T
+(n  640)
+Placebo
+(n  450)
+Total
+(n  1090)
+Gender, n (%)
+Girls 455 (47.8) 328 (49.3) 783 (48.5) 299 (46.7) 231 (51.3) 530 (48.6)
+Boys 496 (52.2) 337 (50.7) 833 (51.5) 341 (53.3) 219 (48.7) 560 (51.4)
+Ethnic origin, n (%)
+White 918 (96.5) 644 (96.8) 1562 (96.7) 623 (97.3) 440 (97.8) 1063 (97.5)
+Black 8 (0.8) 4 (0.6) 12 (0.7) 7 (1.1) 2 (0.4) 9 (0.8)
+Other 25 (2.6) 17 (2.6) 42 (2.6) 10 (1.6) 8 (1.8) 18 (1.7)
+Age at first vaccination in year 1, mo
+Mean  SD 23.3  8.0 23.5  7.8 23.4  7.9 23.5  7.9 23.7  7.8 23.6  7.9
+Median 24.3 24.7 24.5 24.6 25.1 24.7
+Range 6.0–35.9 6.0–35.9 6.0–35.9 6.0–35.9 6.0–35.9 6.0–35.9
+Age according to subgroup, n (%)
+6 to 12 mo 110 (11.6) 64 (9.6) 174 (10.8) ND ND ND
+12 to 23 mo 351 (36.9) 247 (37.1) 598 (37.0) ND ND ND
+24 mo 490 (52.5) 354 (53.2) 844 (52.2) ND ND ND
+ND indicates not determined.
+PEDIATRICS Volume 118, Number 6, December 2006 2303
+months of age, respectively. For subjects 6 to 12
+months of age, the numbers of influenza cases were too
+small (2 CAIV-T recipients and 5 placebo recipients) to
+allow reliable evaluation of efficacy against antigenically
+similar strains; however, significant efficacy was demonstrated against any influenza strain in this age group
+(83.4%; 95% CI: 12.7%–98.3%).
+In year 2, CAIV-T demonstrated protective efficacy
+similar to that in year 1, including against the A/New
+Caledonia/20/99-like virus, against which subjects had
+received 2 doses in year 1. In year 2, efficacy against
+influenza illness caused by influenza strains antigenically similar to those in the vaccine was 88.7% (95% CI:
+82.0%–93.2%). In contrast to year 1, circulation of wildtype A/H3N2 influenza virus was more prevalent in year
+2, as evidenced by the high attack rate among placebo
+recipients. In year 2, efficacy of CAIV-T against each of
+the individual vaccine strains was found to be 90.0%
+(95% CI: 56.3%–98.9%), 90.3% (95% CI: 82.9%–
+94.9%), and 81.7% (95% CI: 53.7%–93.9%) for the
+H1N1 A/New Caledonia/20/99-like viruses, H3N2
+A/Panama/2007/99-like viruses, and B/Victoria/504/00-
+like viruses, respectively.
+Influenza seasons according to country began as early
+as December 1, 2000 (Israel), and ended as late as May
+31, 2001 (Spain), in year 1. In year 2, influenza seasons
+began on December 14, 2001 (Spain), and ended on
+April 18, 2002 (Finland and Israel). Table 4 summarizes
+efficacy against culture-confirmed influenza in both seasons according to country. In year 1, statistically significant efficacy against influenza strains antigenically similar to those in the vaccine was observed on a country
+basis in Israel, Finland, and the United Kingdom. Each of
+these countries had a placebo attack rate of 16%. In
+Belgium and Spain, much lower attack rates were observed, and vaccine efficacy could not be determined.
+In the second season (2001/2002), a much more significant influenza epidemic occurred, with high placebo
+attack rates of 30% being seen in Belgium, Israel, and
+Spain and with substantial attack rates also being observed in Finland (16.3%) and the United Kingdom
+(18.6%). Statistically significant efficacy was observed in
+all countries in year 2. Overall, strain-specific attack
+rates were 3.1% (A/H1N1), 22.4% (A/H3N2), and 7.3%
+(B). In year 2, all A/H1N1 and A/H3N2 virus isolates
+were identified as antigenically similar to the vaccine.
+However, only 29 (62%) of 47 influenza B isolates were
+identified as antigenically similar to the vaccine; 17
+(36%) were identified as antigenically not similar to the
+vaccine, and the antigenic relatedness of 1 remaining
+isolate (from a CAIV-T recipient) could not be determined. Twelve (67%) of these 18 isolates came from
+children in Israel, and most were B/Hong Kong/1351/
+02-like. The emergence of these divergent strains was
+reflected in a lower efficacy estimate against any community-acquired strains, particularly in Israel. The attack
+rates for these 17 identified divergent strains were 1.1%
+and 2.2% in CAIV-T and placebo recipients, respectively;
+however, efficacy did not achieve statistical significance
+(50.8%; 95% CI: 43.0% to 84.1%).
+AOM
+Efficacy of CAIV-T against all AOM end points is summarized in Table 5. The efficacy of CAIV-T against all
+episodes of influenza-associated AOM was high (90.6%
+and 97.0% reduction in incidence in years 1 and 2,
+respectively). However, no difference between groups in
+the incidence of all episodes of AOM, first episode of
+febrile AOM, or all episodes of febrile AOM in either year
+was seen.
+Effectiveness Outcomes
+Effectiveness of CAIV-T against socioeconomic end
+points was most apparent in year 2, when the overall
+placebo attack rate for influenza was 30.9%. CAIV-T was
+effective against all socioeconomic end points in year 2
+and effective against some in year 1, despite the lower
+influenza attack rate in placebo recipients (Table 6).
+During season 2 (2001/2002), CAIV-T reduced significantly the need for a parent or guardian to take time off
+from work by 45.1%, days of work lost by 47.5%, days
+of missed day care by 36.3%, and days of antibiotic use
+for influenza illness by 24.0%. Furthermore, the results
+demonstrated the substantial effect of vaccination with
+CAIV-T on severe disease, as reflected by a 35.1% reduction in the number of subjects with 1 emergency
+department visit during the second season.
+Safety Evaluation
+Reactogenicity events are summarized in Table 7. Runny
+nose or nasal discharge was observed in a marginally but
+statistically significantly greater proportion of CAIV-T
+recipients (82.3%), compared with placebo recipients
+(75.4%), after the first dose in year 1 (P  0.001). No
+TABLE 2 Strains of Community-Acquired Influenza Virus
+Circulating Wild-Type
+Influenza Strains
+Antigenically Matched
+to Vaccine Strains
+Year 1 (2000/2001)
+A/New Caledonia/20/99-like (H1N1) Yes
+A/Panama/2007/99-like (H3N2) Yes
+B/Sichuan/379/99-likea Yes
+Year 2 (2001/2002)
+A/New Caledonia/20/99-like (H1N1) Yes
+A/Panama/2007/99-like (H3N2) Yes
+B/Hong Kong/330/01-like Nob
+B/Hong Kong/1351/02-like Nob
+B/Victoria/504/00-like Yes
+a The Centers for Disease Control and Prevention reported that the B/Yamanashi/168/99 vaccine strain used inthe year 1 CAIV-T formulation produced hightiters of cross-reacting antibody
+for the World Health Organization-recommended B/Sichuan/379/99-like virus.49
+b The B/Hong Kong/330/01-like and B/Hong Kong/1351/02-like isolates were members of the
+B/Victoria/2/87 lineage, a virus lineage that is antigenically distinct from the B/Yamagata/16/88
+lineage, of which the B/Victoria/504/00 vaccine strain is a member.
+2304 VESIKARI et al
+TABLE 3 Efficacy of CAIV-T Against Culture-Confirmed Influenza Illness According to Influenza Strain
+Year 1 Year 2
+CAIV-T Placebo Efficacy, %
+(95% CI)c
+CAIV-T Placebo Efficacy, %
+(95% CI) No. of
+Subjectsa
+No. With
+Influenza
+Illness (%)b
+No. of
+Subjects
+No. With
+Influenza
+Illness (%)
+No. of
+Subjects
+No. With
+Influenza
+Illness (%)
+No. of
+Subjects
+No. With
+Influenza
+Illness (%)
+Community-acquired subtypes antigenically
+similar to vaccined
+ITT population
+Any straine 1059 19 (1.8) 725 79 (10.9) 83.5 (72.6–90.6) 658 22 (3.3) 461 140 (30.4) 89.0 (82.7–93.3)
+PP population
+Any strainf 951 15 (1.6) 665 72 (10.8) 85.4 (74.3–92.2) 640 21 (3.3) 450 131 (29.1) 88.7 (82.0–93.2)
+A/H1N1 951 6 (0.6) 665 51 (7.7) 91.8 (80.8–97.1) 640 2 (0.3) 450 14 (3.1) 90.0 (56.3–98.9)
+A/H3N2 951 0 (0) 665 1 (0.2) ND 640 14 (2.2) 450 101 (22.4) 90.3 (82.9–94.9)
+B 951 9 (0.9) 665 23 (3.5) 72.6 (38.6–88.9) 640 6 (0.9)f 450 23 (5.1) 81.7 (53.7–93.9)
+Any community-acquired subtypes
+ITT population
+Any strain 1059 23 (2.2) 725 97 (13.4) 83.8 (74.2–90.2) 658 31 (4.7) 461 148 (32.1) 85.3 (78.3–90.4)
+PP population
+Any strainf 951 18 (1.9) 665 89 (13.4) 85.9 (76.3–92.0) 640 28 (4.4) 450 139 (30.9) 85.8 (78.6–90.9)
+A/H1N1 951 6 (0.6) 665 60 (9.0) 93.0 (83.9–97.5) 640 2 (0.3) 450 14 (3.1) 90.0 (56.3–98.9)
+A/H3N2 951 1 (0.1) 665 5 (0.8) ND 640 14 (2.2) 450 101 (22.4) 90.3 (82.9–94.9)
+Any other A typeg 951 1 (0.1) 665 3 (0.5) ND 640 0 (0.0) 450 0 (0.0) ND
+B 951 10 (1.1) 665 25 (3.8) 72.0 (39.7–88.0) 640 14 (2.2)h 450 33 (7.3) 70.2 (42.7–85.3)
+ITT indicates intent to treat; ND, not determined.
+a Number of subjects in analysis.
+b Number of subjects with culture-confirmed influenza illness.
+c Exact CI, conditioned on the total number of cases.
+d The following strains isolated in this study were considered antigenically similar to those in the vaccine: year 1: A/New Caledonia/20/99-like (H1N1), A/Panama/2007/99-like (H3N2), and B/Sichuan/379/99-like; year 2: A/New Caledonia/20/99-like (H1N1),
+A/Panama/2007/99-like (H3N2), and B/Victoria/504/00-like.
+e Primary efficacy end point.
+f Overall efficacy was determined on the basis of the first occurrence of culture-confirmed influenza in an individual. Multiple episodes of influenza in the same individual were captured as separate illnesses in the evaluation of efficacy against individual strains.
+g Influenza A isolates that could not be typed more specifically.
+h Of 14 B isolates obtained from CAIV-T recipients in year 2, 6 were identified as antigenically similar to vaccine, 7 were identified as antigenically not similar to vaccine, and the antigenic relatedness of 1 isolate could not be determined.
+PEDIATRICS Volume 118, Number 6, December 2006 2305
+TABLE 4 Efficacy of CAIV-T Against Culture-Confirmed Influenza Illness According to Country (PP Efficacy Population)
+Year 1 Year 2
+CAIV-T Placebo Efficacy, %
+(95% CI)c
+CAIV-T Placebo Efficacy, %
+(95% CI) No. of
+Subjectsa
+No. With
+Influenza
+Illness (%)b
+No. of
+Subjects
+No. With
+Influenza
+Illness (%)
+No. of
+Subjects
+No. With
+Influenza
+Illness (%)
+No. of
+Subjects
+No. With
+Influenza
+Illness (%)
+Subtypes antigenically similar to vaccined
+Belgium 170 1 (0.6) 121 5 (4.1) 85.8 (27.2 to 99.7) 119 3 (2.5) 91 32 (35.2) 92.8 (77.1 to 98.6)
+Finland 257 4 (1.6) 173 24 (13.9) 88.8 (67.3 to 97.2) 136 0 (0.0) 86 14 (16.3) 100.0 (80.9 to 100.0)
+Israel 220 6 (2.7) 158 22 (13.9) 80.4 (50.2 to 93.5) 184 8 (4.3) 130 36 (27.7) 84.3 (65.6 to 93.7)
+Spain 167 2 (1.2) 117 6 (5.1) 76.6 (30.6 to 97.7) 136 8 (5.9) 100 41 (41.0) 85.7 (69.0 to 94.2)
+United Kingdom 137 2 (1.5) 96 15 (15.6) 90.7 (59.8 to 99.0) 65 2 (3.1) 43 8 (18.6) 83.5 (17.1 to 98.3)
+Any subtypes
+Belgium 170 2 (1.2) 121 6 (5.0) 76.3 (32.7 to 97.7) 119 3 (2.5) 91 34 (37.4) 93.3 (78.5 to 98.7)
+Finland 257 4 (1.6) 173 28 (16.2) 90.4 (72.5 to 97.5) 136 0 (0.0) 86 14 (16.3) 100.0 (80.9 to 100.0)
+Israel 220 6 (2.7) 158 25 (15.8) 82.8 (57.0 to 94.2) 184 15 (8.2) 130 41 (31.5) 74.2 (52.3 to 86.7)
+Spain 167 4 (2.4) 117 13 (11.1) 78.4 (30.2 to 94.9) 136 8 (5.9) 100 42 (42.0) 86.0 (69.8 to 94.3)
+United Kingdom 137 2 (1.5) 96 17 (17.7) 91.8 (65.3 to 99.1) 65 2 (3.1) 43 8 (18.6) 83.5 (17.1 to 98.3)
+a Number of subjects in analysis.
+b Number of subjects with culture-confirmed influenza illness.
+c Exact CI, conditioned on the total number of cases.
+d The following strains isolated in this study were considered antigenically similar to those in the vaccine: year 1: A/New Caledonia/20/99-like (H1N1), A/Panama/2007/99-like (H3N2), and B/Sichuan/379/99-like; year 2: A/New Caledonia/20/99-like (H1N1),
+A/Panama/2007/99-like (H3N2), and B/Victoria/504/00-like.
+2306 VESIKARI et al
+TABLE 5 Efficacy of CAIV-T Against AOM, Febrile AOM, and AOM Associated With Influenza Illness Antigenically Similar to the Vaccine (PP Efficacy Population)
+Year 1 Year 2
+CAIV-T Placebo Efficacy, %
+(95% CI)c
+CAIV-T Placebo Efficacy, %
+(95% CI) No. of
+Subjectsa
+No. of
+Episodes (%)b
+No. of
+Subjects
+No. of
+Episodes (%)
+No. of
+Subjects
+No. of
+Episodes (%)
+No. of
+Subjects
+No. of
+Episodes (%)
+AOM (all episodes) 951 274 (28.8) 664 199 (30.0) 4.8 (15.7 to 21.7) 639 90 (14.1) 450 60 (13.3) 6.4 (52.0 to 25.5)
+Febrile AOM (first episode) 951 159 (16.7) 664 116 (17.5) 4.3 (22.7 to 25.1) 639 41 (6.4) 450 38 (8.4) 24.0 (21.4 to 52.3)
+Febrile AOM (all episodes) 951 184 (19.3) 664 129 (19.4) 1.1 (25.9 to 22.3) 639 45 (7.0) 450 41 (9.1) 22.8 (20.9 to 50.7)
+Influenza-associated AOM (first episode) 951 3 (0.3) 664 22 (3.3) 90.5 (68.3 to 98.2) 639 1 (0.2) 450 23 (5.1) 96.9 (81.1 to 99.9)
+Influenza-associated AOM (all episodes) 951 3 (0.3) 664 22 (3.3) 90.6 (68.7 to 97.2) 639 1 (0.2) 450 23 (5.1) 97.0 (77.6 to 99.6)
+a Number of subjects in the calculation.
+b Number of episodes of the indicated illness.
+c For all episodes, the estimate and CI were computed from the Andersen-Gill model with treatment as the only effect. For first episodes, the estimate and CI were computed from the proportions of cases, as for influenza.
+TABLE 6 Effectiveness of CAIV-T for Socioeconomic End Points (PP Efficacy Population)
+Year 1 Year 2
+CAIV-T Placebo Efficacy, %
+(95% CI)c
+CAIV-T Placebo Efficacy, %
+(95% CI) No. of
+Subjects or
+Total da
+No. of
+Incidents or
+Event d (%)b
+No. of
+Subjects or
+Total d
+No. of
+Incidents or
+Event d (%)
+No. of Subjects
+or Total d
+No. of
+Incidents or
+Event d (%)
+No. of
+Subjects or
+Total d
+No. of
+Incidents or
+Event d (%)
+Parent or guardian taking time off work 951 247 (26.0) 664 203 (30.6) 15.0 (2.8 to 29.7) 640 82 (12.8) 450 105 (23.3) 45.1 (26.0 to 59.4)
+Paid work missed, d 105 024 805 (0.8) 73 093 695 (1.0) 19.4 (10.6 to 27.3) 61 992 235 (0.4) 43 933 317 (0.7) 47.5 (37.6 to 55.8)
+Day care missed, d 104 884 1749 (1.7) 73 023 1435 (2.0) 15.1 (8.9 to 20.9) 61 768 883 (1.4) 43 842 984 (2.2) 36.3 (30.2 to 41.9)
+Having 1 outpatient or emergency department visit 951 361 (38.0) 664 292 (44.0) 13.7 (1.1 to 26.2) 640 84 (13.1) 450 91 (20.2) 35.1 (11.7 to 52.3)
+Having 1 antibiotic prescription 951 376 (39.5) 664 261 (39.3) 0.6 (18.2 to 14.3) 640 148 (23.1) 450 145 (32.2) 28.2 (9.1 to 43.3)
+Duration of treatment with antibiotic, d 104 375 3739 (3.6) 73 112 2711 (3.7) 3.4 (1.5 to 8.1) 61 915 1428 (2.3) 43 933 1333 (3.0) 24.0 (18.0 to 29.5)
+1 medication taken for “flu” illness 951 482 (50.7) 664 361 (54.4) 6.8 (7.1 to 18.8) 640 264 (41.3) 450 247 (54.9) 24.8 (10.2 to 37.1)
+a Number of subjects or total number of surveillance days in calculation.
+b Number of incidents or number of days with event.
+c Exact CI, conditioned on the total number of incidents or number of days.
+PEDIATRICS Volume 118, Number 6, December 2006 2307
+other significant differences in reactogenicity events after any dose in either year were observed, although the
+CAIV-T group had greater incidence of headache (15.0%
+vs 8.9%; P  .070) and fever of 37.5°C (32.0% vs
+27.8%; P  .098) after the first dose in year 1. For
+children 24 months of age, chills were reported less
+frequently by CAIV-T recipients than placebo recipients
+after dose 1 in year 1 (0% vs 16.7%; P  .029), and
+runny nose or nasal discharge was more frequent in
+CAIV-T recipients after dose 2 (81.3% vs 74.6%; P 
+.035). No other significant differences in reactogenicity
+events in children 24 months of age were observed.
+Similar proportions of subjects in the CAIV-T (36.4%)
+and placebo (35.4%) groups (P  .688) reported 1 AE
+within 11 days after the first vaccination in year 1, and
+the proportions reporting AEs within each body system
+were also similar. AEs reported most frequently among
+CAIV-T and placebo recipients after the first study dose
+included fever (8.7% and 7.2%, respectively), rhinitis
+(8.2% and 8.0%), cough (6.4% and 7.9%), otitis media
+(5.8% and 4.0%), and upper respiratory tract infection
+(4.3% and 4.6%). The AEs reported most frequently
+after dose 1 among CAIV-T and placebo recipients 6 to
+12 months of age were diarrhea (5.6% and 2.9%,
+respectively), bronchospasm (0% and 5.7%), cough
+(5.6% and 4.3%), rhinitis (9.6% and 4.3%), upper respiratory tract infection (9.6% and 7.1%), fever (15.2%
+and 11.4%), and otitis media (9.6% and 5.7%). Similar
+AE profiles were observed within 11 days after the second vaccination in year 1 and the single vaccination in
+year 2. With the exception of bronchospasm after the
+second vaccination (P  .016), there were no statistically
+significant differences in the proportions of subjects in
+each treatment group who experienced each of these
+events (all P  .10). Lower respiratory tract illnesses
+reported as AEs were infrequent and were similar between treatment groups after the first (pneumonia: 3
+CAIV-T recipients and 2 placebo recipients; bronchitis: 5
+CAIV-T recipients and 5 placebo recipients; bronchiolitis:
+4 CAIV-T recipients and 2 placebo recipients; bronchospasm: 7 CAIV-T recipients and 11 placebo recipients)
+and second (pneumonia: 6 CAIV-T recipients and 4 placebo recipients; bronchitis: 13 CAIV-T recipients and 15
+placebo recipients; bronchiolitis: 2 CAIV-T recipients and
+4 placebo recipients; bronchospasm: 8 CAIV-T recipients
+and 7 placebo recipients; LRI: 1 CAIV-T recipient and 0
+placebo recipients) vaccine doses.
+Lower respiratory tract illnesses reported as serious
+AEs from receipt of the first dose of study medication
+through the end of the first influenza surveillance period
+were also similar between treatment groups (pneumonia: 11 CAIV-T recipients and 9 placebo recipients; bronchitis: 3 CAIV-T recipients and 1 placebo recipient; bronchospasm: 2 CAIV-T recipients and 2 placebo recipients;
+bronchiolitis: 1 CAIV-T recipient and 2 placebo recipients). In subjects 6 to 12 months of age, lower respiratory tract infections reported as serious AEs were
+pneumonia (2 CAIV-T recipients and 1 placebo recipiTABLE 7 Reactogenicity Events Reported Within the First 11 Days After Each Dose of CAIV-T or Placebo
+Year 1 Year 2 Dose
+Dose 1 Dose 2
+No. (%) Pb No. (%) Pb No. (%) Pb
+CAIV-T
+(n  222–1021)a
+Placebo
+(n  163–682)
+CAIV-T
+(n  242–905)
+Placebo
+(n  162–608)
+CAIV-T
+(n  569–631)
+Placebo
+(n  387–437)
+Fever of 37.5°Cc 294 (32.0) 167 (27.8) .098 257 (31.2) 180 (32.5) .637 133 (22.6) 86 (21.8) .815
+Fever of 38.6°Cc 65 (7.3) 42 (7.3) 1.000 89 (11.0) 58 (10.8) .929 48 (8.4) 29 (7.5) .631
+Fever of 40.0°Cc 8 (0.9) 2 (0.4) .332 4 (0.5) 3 (0.6) 1.000 2 (0.3) 5 (1.3) .125
+Runny nose or nasal discharge 840 (82.3) 514 (75.4) .001 659 (72.8) 428 (70.4) .322 423 (67.0) 268 (61.3) .059
+Sore throatd 98 (11.2) 72 (11.8) .741 92 (11.4) 65 (11.9) .796 72 (12.0) 56 (13.2) .566
+Cough 541 (56.1) 373 (56.9) .759 498 (56.7) 334 (55.9) .789 306 (48.6) 196 (45.3) .288
+Vomiting 153 (16.6) 109 (17.2) .731 112 (13.6) 77 (13.6) 1.000 65 (10.6) 47 (11.1) .839
+Decreased activity 224 (24.1) 132 (20.6) .111 202 (24.0) 140 (24.6) .849 124 (20.4) 80 (18.8) .579
+Decreased appetite 358 (37.7) 234 (36.4) .598 293 (34.2) 196 (33.7) .865 174 (28.3) 117 (27.5) .779
+Irritability 371 (40.1) 242 (38.1) .460 266 (31.5) 178 (31.5) 1.000 139 (23.1) 100 (24.1) .708
+Headached 36 (15.0) 15 (8.9) .070 28 (11.2) 20 (11.9) .876 NR NR NR
+Chills 16 (7.0) 19 (11.2) .155 23 (9.3) 15 (8.9) 1.000 NR NR NR
+Muscle pain 22 (9.9) 12 (7.4) .468 19 (7.9) 11 (6.8) .847 NR NR NR
+Prophylactic antipyretic therapy 146 (17.8) 105 (18.4) .832 138 (17.6) 99 (19.1) .509 91 (15.8) 49 (12.3) .137
+Antipyretic treatment 224 (26.7) 134 (23.5) .191 213 (26.8) 147 (28.5) .486 112 (19.7) 69 (17.6) .450
+Any evente 933 (97.1) 596 (96.8) .764 764 (95.5) 504 (95.3) .894 500 (80.5) 338 (79.0) .583
+NR indicates not recorded.
+a n represents the number of subjects with known values.
+b Two-sided Fisher exact test.
+c Axillary temperature (equivalent fever cutoff points were used for temperatures obtained orally or rectally).
+d Not all children were old enough to verbalize this symptom.
+e Does not include the administration of fever medication.
+2308 VESIKARI et al
+ent), bronchitis (2 CAIV-T recipients and 0 placebo recipients), and bronchospasm (1 CAIV-T recipient and 0
+placebo recipients). Serious AEs judged to be possibly,
+probably, or definitely related to study vaccination were
+reported for 9 CAIV-T recipients (pneumonia and AOM,
+2 recipients; bronchopneumonia, 2 recipients; pneumonia, 1 recipient; bronchiolitis, 1 recipient; bronchitis and
+AOM, 1 recipient; idiopathic thrombocytopenic purpura,
+1 recipient; and fever, acute respiratory tract infection,
+dehydration, and AOM, 1 recipient) and 5 placebo recipients (1 each for pneumonia and constipation; cough,
+wheeze, and lung consolidation; pneumonia; idiopathic
+thrombocytopenic purpura; and hypersensitivity, erythema, and periorbital edema). There were no statistically significant differences in serious AEs between treatment groups during the second influenza surveillance
+period. Six lower respiratory tract illnesses were reported, all among CAIV-T recipients (5 cases of pneumonia and 1 of bronchospasm). Two cases of pneumonia
+were judged to be possibly, probably, or definitely related to study vaccination. A total of 4 subjects (2
+CAIV-T recipients and 2 placebo recipients) were withdrawn from the study because of AEs. No deaths occurred during the study period.
+DISCUSSION
+In the current trial, vaccination of children 6 to 36
+months of age (mean age: 23 months) with CAIV-T over
+2 consecutive influenza seasons was safe, well tolerated,
+and highly efficacious against culture-confirmed influenza illness. The frozen formulation of LAIV was studied
+previously over 2 seasons by using similar nasal swab
+criteria and was shown to be highly effective in year 1
+against vaccine-matched A/H3N2 virus (95%; 95% CI:
+88%–97%) and B virus (91%; 95% CI: 79%–96%) and
+in year 2 against a mismatched A/H3N2 virus (86%;
+95% CI: 75%–92%).30,37 Children in that study had a
+mean age of 40 months, and few children 2 years of
+age were enrolled. Data from the current trial demonstrated high efficacy rates in children with a mean age of
+23 months.
+This study demonstrated the efficacy of CAIV-T
+against all 3 A/H1, A/H3, and B strains circulating in the
+same season. Because Centers for Disease Control and
+Prevention subtyping and full antigenic characterization
+of isolates were unsuccessful for 22% of isolates in year
+1, influenza viruses that could not be matched to vaccine
+antigen in that year might have been a mixture of vaccine-like and unmatched viruses. PCR assays in year 2
+allowed subtyping and antigenic characterization of
+99% of isolates and therefore dramatically improved the
+ability to distinguish isolates as vaccine-like or unmatched. The efficacy against a related but drifted influenza B virus in the second season was not surprising,
+given previous observations with the frozen formulation
+of CAIV-T among older children,30 which demonstrated
+protection between strains of considerably less antigenic
+similarity. In the current trial, the point estimates of
+efficacy against antigenically similar influenza B strains
+in years 1 and 2 were lower than those for influenza A
+strains. However, because the CIs for these point estimates overlapped, conclusions regarding relative efficacy against matched A or B strains could not be drawn.
+In the current trial, 36% of influenza B isolates in year 2
+were not antigenically similar to the vaccine strain; although the point estimate of efficacy against these unmatched B viruses was 50.8%, this did not achieve statistical significance.
+In previous trials, the 2-dose primary series of LAIV
+was administered at intervals of 60  14 days.37 In the
+current study, doses were planned to be given at a
+reduced interval of 35  7 days. Despite an actual mean
+dosing interval of 33 days in a much younger population, vaccine efficacy was high and comparable to that
+reported among older children.
+In this trial, CAIV-T demonstrated a high level of
+efficacy against episodes of AOM that were associated
+with a positive influenza nasal swab. This was not surprising, given the high efficacy against culture-confirmed influenza. For this trial, a case definition for AOM
+that had been published previously and was used in
+previous trials involving other pediatric vaccines in this
+age range35,36 was used. As also seen in clinical trials with
+pneumococcal conjugate vaccine35 and TIV,26 CAIV-T
+was not able to reduce significantly all episodes of AOM
+from any cause during the influenza season. TIV was
+shown to reduce AOM rates for children attending day
+care,24,38 but a study conducted in younger children did
+not support those findings.26 Influenza viruses might
+represent a smaller fraction of the pathogens associated
+with AOM in younger children, limiting the impact of
+influenza vaccine in preventing this illness.
+The impact of CAIV-T vaccination on effectiveness
+outcomes was most apparent when influenza attack
+rates for children were high. Vaccine effectiveness was
+statistically significant for all parameters measured in the
+second year of the trial. In that year, CAIV-T reduced
+significantly the proportion of households with a parent
+taking time off from work to care for a child, the number
+of days lost from day care, the number of days of parental work loss, the number of antibiotic prescriptions written, the number of days of antibiotic use, the use of
+outpatient clinics and emergency departments, and the
+use of nonprescription medications for respiratory illness. Vaccinating children had effects on equivalent parameters that were comparable to those of directly immunizing healthy adults with CAIV-T.39 Although this
+study was not designed to address the community impact of vaccinating children, other studies showed that
+vaccinating school-aged children decreases significantly
+health care utilization and school and work days
+missed.40–43 In addition, an economic analysis of LAIV
+PEDIATRICS Volume 118, Number 6, December 2006 2309
+vaccination of children 15 to 71 months of age demonstrated that vaccination is cost-effective from societal
+and third-party payer perspectives and that the greatest
+benefits occur when children are vaccinated in a group
+setting and when only 1 dose is required for protection.44
+With respect to safety and tolerability events reported
+by parents or legal guardians that occurred in the first 11
+days after each dose, CAIV-T, when administered to this
+much-younger pediatric population, had fewer significant reactogenicity and tolerability findings than reported for older children.30,37 Although previous reports
+indicated statistically significant increases of fever, runny
+nose or nasal congestion, abdominal pain, and vomiting
+among CAIV-T recipients, only runny nose or nasal congestion achieved statistical significance in this trial of
+younger children and only in the first year, after the first
+dose. No statistically significant increases in rates of fever
+were observed for placebo or CAIV-T recipients after any
+dose in either year.
+Furthermore, no significant safety events were observed in the 2 study groups during the influenza season.
+A large-scale clinical trial showed an increase in asthma
+episodes in children 18 to 35 months of age who were
+given the frozen formulation of CAIV-T.45 No such observations were found in this clinical trial; however, this
+trial was not powered to detect small differences in such
+events among CAIV-T versus placebo recipients. In a
+large study of children 6 to 59 months of age who were
+assigned randomly to receive CAIV-T or TIV, there was a
+small but significant increase in medically significant
+wheezing in previously unvaccinated children 6 to 23
+months of age who received CAIV-T.46 However, in a
+similar study in children 6 to 71 months of age with a
+history of recurrent respiratory tract infections, there
+was no difference between treatment groups in the incidence of wheezing.47 Similar findings were seen in a
+trial comparing TIV and CAIV-T in children and adolescents 6 to 17 years of age with asthma; there was no
+difference between treatment groups in pulmonary outcomes, including asthma exacerbations.48
+This clinical trial of an intranasally delivered liquid
+formulation of LAIV in children 6 to 36 months of
+age demonstrated conclusively efficacy against cultureconfirmed influenza illness over 2 consecutive seasons,
+including efficacy against all 3 vaccine-like influenza
+viruses. Significant vaccine effectiveness was also observed. Other than a previously observed increase in
+runny nose or nasal congestion, no significant tolerability or safety findings were observed. CAIV-T represents a
+valuable public health intervention for reducing influenza illness in young children.
+ACKNOWLEDGMENTS
+This work was supported by MedImmune and Wyeth
+Vaccine Research.
+The CAIV-T Pediatric Day Care Clinical Trial Network
+was as follows: United Kingdom: I. Jones, S. Ahmed,
+Scottish Centre for Infection and Environmental Health,
+Glasgow; E. R. Moxon, John Radcliffe Hospital, Oxford;
+A. Finn, Sheffield Children’s Hospital, Sheffield; C. P.
+Fletcher, Woolwell Medical Centre, Woolwell; J. Rudge,
+Bridgehouse Medical Centre, Stratford-on-Avon; B.
+Bodalia, Gables Medical Centre, Coventry; B. Crichton,
+Hobs Moat Medical Centre, Solihull; A. M. George, Staploe Medical Centre, Soham; S. Barnard, Newnham
+Walk Surgery, Cambridge; K. Young, St Mary’s Surgery,
+Ely; A. Graham, Yaxley Group Practice, Yaxley; A. D.
+Bremner, Rutherglen Health Centre, Glasgow; M. D.
+Blagden, Avondale Surgery, Chesterfield; M. R. Newby,
+Eaton Socon Health Centre, Eaton Socon; A. T. S.
+Wright, Hathaway Surgery, Chippenham; D. M. Fleming, Northfield Health Center, Birmingham; M. Saville,
+H. Smith, Wyeth Vaccines Research, Taplow; Spain: F.
+Moraga, Hospital Vall d’Hebron, Barcelona; I. Hidalgo
+Vicario, C. S. Barrio del Pilar, Madrid; J. Ruiz Contreras,
+Hospital 12 Octubre Materno-Infantil, Madrid; J. F. Aristegui, Hospital de Basurto, Bilbao; Belgium: C. Abrassart, J.-P. Wackenier, Huy; P. Aerssens, Hasselt; G. Hendrickx, Marie Ziekenhuis N. Limburg, Lommel; S.
+Bastaits, Bruxelles; P. Bauche, Liege; M. Van de Weyer,
+Braine L’Alleud; M.-T. Van Damme, Kinderdagverblif
+“de Sijsjes,” Houthalen; K. Mathe, Bruxelles; B. Orban
+Dejong, Jodoigne; B. Delwart, Plancemont; R. Jadoul,
+Dinant; O. Bauraind, M. Michel, Clinique Saint Pierre,
+Ottignies; P. Dacier, Libramont; M. T. Deurinck, Leuven;
+H. Geussens, Sint Jozefkliniek Vilvoorde, Vilvroorde; M.
+Goor, Tournai; B. Haufroid, Aywaille; T. Hecquet, B.
+Lambelin, Bruxelles; C. Macours-Verelst, Hasselt; A.
+Krygier, Jette; L. Reginster, Seraing; J. P. Van Biervliet,
+Algemeen Ziekenhuis St Jan, Brugge; J. Hoyoux, Herstal; A. Vertruyen, St Vincentius Hospitaal, Antwerp;
+Israel: A. Rachmel, C. Mintzer-Ophir, Petach Tikva; I.
+Levy, Tel Aviv; G. Livni, Shaari-Tikva; D. Inbar, G. Diamond, H.-C. Yishai, Bnei-Beraq; Y. Senecky, Natanyia;
+R. Weis, Clalit Sick Fund, Kubbutz Gazit; D. Steinmetz,
+Timrat Clinic, Timrat; B. Chazan, Kibbutz Beit-Zera,
+Emak Hayarden; Y. Schlesinger, Sharai Zedek Medical
+Centre, Jerusalem; A. Yarom, T. Itai, D. Paz, Jerusalem;
+C. Goodman, Clalit Sick Fund, Jerusalem; J. Urbach,
+Maccabi Sick Fund, Effrat; J. Armon, Clalit Sick Fund,
+Effrat; Y. Shaag, Ramot Medical Centre, Jerusalem; H.
+Tabenkin, Hemek Medical Center, Afula; S. Ivry, Clalit
+Sick Fund, Kibbutz Ein-Harod Meuhad; S. Eilat-Tsanani,
+Givat Ela; S. Ashkenazi, Schneider Children’s Hospital,
+Petah Tikva; Finland: T. Vesikari, A. Karvonen, University of Tampere Medical School, Vaccine Research Center; T. Korhonen, Tampere Clinic, Tampere; K. Edelman,
+Turku Clinic; M. Espo, H. Khary, K. Isoherranen, A.
+Sarajuuri, Espoo Clinic; J. Majuri, T. Karppa, Lahti Clinic; P. Riikonen, L. Panula, Pori Clinic; S. Parry, Jyva¨ skyla¨
+Clinic; United States: G. Palladino, S. M. Cheng, R. Rap2310 VESIKARI et al
+paport, J. Skinner, W. C. Gruber, B. D. Forrest, Wyeth
+Vaccines Research, Pearl River, NY.
+We thank the participating children and their parents,
+the study nurses and coordinators, the clinical testing
+laboratory staff members, the clinical research associates,
+and the scientists at Wyeth and MedImmune. We thank
+Raija Vainionpa¨ a, PhD, and her staff at the University of
+Turku (Turku, Finland) for performing influenza culture
+confirmation and subtyping of several thousands of clinical specimens obtained during the course of the trial and
+Alexander Klimov, PhD, and his staff at the Centers for
+Disease Control and Prevention (Atlanta, GA) for donating their time and effort to serotype numerous influenza
+isolates. We also thank Iksung Cho, MS, Robert Walker,
+MD, and Edward M. Connor, MD, for their critical review of the manuscript and Catherine Grillo, MS, and
+Janet Stead, BM, BS, for providing medical writing and
+editorial assistance.
+REFERENCES
+1. Heikkinen T, Ziegler T, Peltola V, et al. Incidence of influenza in
+Finnish children. Pediatr Infect Dis J. 2003;22(suppl):S204 –S206
+2. Principi N, Esposito S. Are we ready for universal influenza
+vaccination in paediatrics? Lancet Infect Dis. 2004;4:75– 83
+3. Loughlin J, Poulios N, Napalkov P, Wegmuller Y, Monto AS. A
+study of influenza and influenza-related complications among
+children in a large US health insurance plan database. Pharmacoeconomics. 2003;21:273–283
+4. Heikkinen T, Silvennoinen H, Peltola V, et al. Burden of influenza in children in the community. J Infect Dis. 2004;190:
+1369 –1373
+5. O’Brien MA, Uyeki TM, Shay DK, et al. Incidence of outpatient
+visits and hospitalizations related to influenza in infants and
+young children. Pediatrics. 2004;113:585–593
+6. Principi N, Esposito S, Marchisio P, Gasparini R, Crovari P.
+Socioeconomic impact of influenza on healthy children and
+their families. Pediatr Infect Dis J. 2003;22(suppl):S207–S210
+7. Weigl JA, Puppe W, Schmitt HJ. The incidence of influenzaassociated hospitalizations in children in Germany. Epidemiol
+Infect. 2002;129:525–533
+8. Ploin D, Liberas S, Thouvenot D, et al. Influenza burden in
+children newborn to eleven months of age in a pediatric emergency department during the peak of an influenza epidemic.
+Pediatr Infect Dis J. 2003;22(suppl):S218 –S222
+9. Centers for Disease Control and Prevention. Surveillance for
+laboratory-confirmed, influenza-associated hospitalizations:
+Colorado, 2004 – 05 influenza season. MMWR Morb Mortal Wkly
+Rep. 2005;54:535–537
+10. Chiu SS, Lau YL, Chan KH, Wong WH, Peiris JS. Influenzarelated hospitalizations among children in Hong Kong. N Engl
+J Med. 2002;347:2097–2103
+11. Izurieta HS, Thompson WW, Kramarz P, et al. Influenza and
+the rates of hospitalization for respiratory disease among infants and young children. N Engl J Med. 2000;342:232–239
+12. Neuzil KM, Mellen BG, Wright PF, Mitchel EF Jr, Griffin MR.
+The effect of influenza on hospitalizations, outpatient visits,
+and courses of antibiotics in children. N Engl J Med. 2000;342:
+225–231
+13. Peltola V, Ziegler T, Ruuskanen O. Influenza A and B virus
+infections in children. Clin Infect Dis. 2003;36:299 –305
+14. Reichert TA, Sugaya N, Fedson DS, et al. The Japanese experience with vaccinating schoolchildren against influenza.
+N Engl J Med. 2001;344:889 – 896
+15. Vesikari T, Karvonen A, Korhonen T, et al. A randomized,
+double-blind study of the safety, transmissibility and phenotypic and genotypic stability of cold-adapted influenza virus
+vaccine. Pediatr Infect Dis J. 2006;25:590 –595
+16. Neuzil KM, Zhu Y, Griffin MR, et al. Burden of interpandemic
+influenza in children younger than 5 years: a 25-year prospective study. J Infect Dis. 2002;185:147–152
+17. Aymard M, Valette M, Luciani J. Burden of influenza in
+children: preliminary data from a pilot survey network on
+community diseases. Pediatr Infect Dis J. 2003;22(suppl):
+S211–S214
+18. Hurwitz ES, Haber M, Chang A, et al. Effectiveness of influenza
+vaccination of day care children in reducing influenza-related
+morbidity among household contacts. JAMA. 2000;284:
+1677–1682
+19. Poehling KA, Edwards KM, Weinberg GA, et al. The underrecognized burden of influenza in young children. N Engl J Med.
+2006;355:31– 40
+20. Weycker D, Edelsberg J, Halloran ME, et al. Population-wide
+benefits of routine vaccination of children against influenza.
+Vaccine. 2005;23:1284 –1293
+21. Piedra PA, Gaglani MJ, Kozinetz CA, et al. Herd immunity in
+adults against influenza-related illnesses with use of the trivalent-live attenuated influenza vaccine (CAIV-T) in children.
+Vaccine. 2005;23:1540 –1548
+22. Smith NM, Breese JS, Shay DK, et al. Prevention and control of
+influenza: recommendations of the Advisory Committee on
+Immunization Practices (ACIP). MMWR Recomm Rep. 2006;
+55(RR-10):1– 42
+23. Zangwill KM, Belshe RB. Safety and efficacy of trivalent inactivated influenza vaccine in young children: a summary for the
+new era of routine vaccination. Pediatr Infect Dis J. 2004;23:
+189 –197
+24. Heikkinen T, Ruuskanen O, Waris M, et al. Influenza vaccination in the prevention of acute otitis media in children. Am J
+Dis Child. 1991;145:445– 448
+25. Hurwitz ES, Haber M, Chang A, et al. Studies of the 1996 –1997
+inactivated influenza vaccine among children attending day
+care: immunologic response, protection against infection, and
+clinical effectiveness. J Infect Dis. 2000;182:1218 –1221
+26. Hoberman A, Greenberg DP, Paradise JL, et al. Effectiveness of
+inactivated influenza vaccine in preventing acute otitis media
+in young children: a randomized controlled trial. JAMA. 2003;
+290:1608 –1616
+27. Jefferson T, Smith S, Demicheli V, et al. Assessment of the
+efficacy and effectiveness of influenza vaccines in healthy
+children: systematic review. Lancet. 2005;365:773–780
+28. Centers for Disease Control and Prevention. Delayed supply of
+influenza vaccine and adjunct ACIP influenza vaccine recommendations for the 2000 – 01 influenza season. MMWR Morb
+Mortal Wkly Rep. 2000;49:619 – 622
+29. World Health Organization. Recommended composition of influenza virus vaccines for use in the 2000 –2001 season. Wkly
+Epidemiol Rec. 2000;75:61– 65
+30. Belshe RB, Gruber WC, Mendelman PM, et al. Efficacy of
+vaccination with live attenuated, cold-adapted, trivalent, intranasal influenza virus vaccine against a variant (A/Sydney) not
+contained in the vaccine. J Pediatr. 2000;136:168 –175
+31. World Health Organization. Recommended composition of influenza virus vaccines for use in the 2001–2002 season. Wkly
+Epidemiol Rec. 2001;76:58 – 61
+32. Chi XS, Bolar TV, Zhao P, Rappaport R, Cheng SM. Cocirculation and evolution of two lineages of influenza B viruses in
+Europe and Israel in the 2001–2002 season. J Clin Microbiol.
+2003;41:5770 –5773
+33. Chi XS, Bolar TV, Zhao P, et al. Molecular evolution of human
+PEDIATRICS Volume 118, Number 6, December 2006 2311
+influenza A/H3N2 virus in Asia and Europe from 2001 to 2003.
+J Clin Microbiol. 2005;43:6130 – 6132
+34. Puzelli S, Frezza F, Fabiani C, et al. Changes in the hemagglutinins and neuraminidases of human influenza B viruses isolated in Italy during the 2001– 02, 2002– 03, and 2003– 04
+seasons. J Med Virol. 2004;74:629 – 640
+35. Eskola J, Kilpi T, Palmu A, et al. Efficacy of a pneumococcal
+conjugate vaccine against acute otitis media. N Engl J Med.
+2001;344:403– 409
+36. Karma P, Palva T, Kouvalainen K, et al. Finnish approach to
+the treatment of acute otitis media: report of the Finnish Consensus Conference. Ann Otol Rhinol Laryngol Suppl. 1987;129:
+1–19
+37. Belshe RB, Mendelman PM, Treanor J, et al. The efficacy of live
+attenuated, cold-adapted, trivalent, intranasal influenza virus
+vaccine in children. N Engl J Med. 1998;338:1405–1412
+38. Clements DA, Langdon L, Bland C, Walter E. Influenza A
+vaccine decreases the incidence of otitis media in 6- to 30-
+month-old children in day care. Arch Pediatr Adolesc Med. 1995;
+149:1113–1117
+39. Nichol KL, Mendelman PM, Mallon KP, et al. Effectiveness of
+live, attenuated intranasal influenza virus vaccine in healthy,
+working adults: a randomized controlled trial. JAMA. 1999;
+282:137–144
+40. Gaglani MJ, Piedra PA, Herschler GB, et al. Direct and total
+effectiveness of the intranasal, live-attenuated, trivalent coldadapted influenza virus vaccine against the 2000 –2001 influenza A(H1N1) and B epidemic in healthy children. Arch Pediatr
+Adolesc Med. 2004;158:65–73
+41. King JC Jr, Cummings GE, Stoddard J, et al. A pilot study of the
+effectiveness of a school-based influenza vaccination program.
+Pediatrics. 2005;116(6). Available at: www.pediatrics.org/cgi/
+content/full/116/6/e868
+42. Piedra PA, Gaglani MJ, Riggs M, et al. Live attenuated influenza vaccine, trivalent, is safe in healthy children 18 months to
+4 years, 5 to 9 years, and 10 to 18 years of age in a communitybased, nonrandomized, open-label trial. Pediatrics. 2005;
+116(3). Available at: www.pediatrics.org/cgi/content/full/116/
+3/e397
+43. Wiggs-Stayner KS, Purdy TR, Go GN, et al. The impact of mass
+school immunization on school attendance. J Sch Nurs. 2006;
+22:219 –222
+44. Luce BR, Zangwill KM, Palmer CS, et al. Cost-effectiveness
+analysis of an intranasal influenza vaccine for the prevention
+of influenza in healthy children. Pediatrics. 2001;108(2). Available at: www.pediatrics.org/cgi/content/full/108/2/e24
+45. Bergen R, Black S, Shinefield H, et al. Safety of cold-adapted
+live attenuated influenza vaccine in a large cohort of children
+and adolescents. Pediatr Infect Dis J. 2004;23:138 –144
+46. Belshe R. Comparison of the efficacy and safety of coldadapted influenza vaccine, trivalent (CAIV-T) with trivalent
+inactivated influenza vaccine (TIV) in children 6 to 59 months
+of age. Presented at the Pediatric Academic Societies 2006 Annual
+Meeting; April 29 to May 2, 2006; San Francisco, CA
+47. Ashkenazi S, Vertruyen A, Arı´stegui J, et al. Superior relative
+efficacy of live attenuated influenza vaccine compared with
+inactivated influenza vaccine in young children with recurrent
+respiratory tract infections. Pediatr Infect Dis J. 2006;25:
+870 – 879
+48. Fleming D, Crovari P, Wahn U, et al. Comparison of the efficacy and safety of live attenuated cold-adapted influenza vaccine, trivalent with trivalent inactivated influenza virus vaccine in children and adolescents with asthma. Pediatr Infect Dis
+J. 2006;25:860 – 869
+49. Centers for Disease Control and Prevention. Influenza summary update, week ending April 21, 2001: week 16. Available at:
+www.cdc.gov/ncidod/diseases/flu/weeklyarchives2000-2001/
+weekly16.htm. Accessed October 21, 2005
+2312 VESIKARI et al

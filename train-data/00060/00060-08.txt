@@ -1,0 +1,564 @@
+Primary care
+Self management of oral anticoagulation: randomised trial
+D A Fitzmaurice, E T Murray, D McCahon, R Holder, J P Raftery, S Hussain, H Sandhar, FDRHobbs
+Abstract
+Objective To determine the clinical effectiveness of self
+management compared with routine care in patients on long
+term oral anticoagulants.
+Design Multicentre open randomised controlled trial.
+Setting Midlands region of the UK.
+Participants 617 patients aged over 18 and receiving warfarin
+randomised to intervention (n = 337) and routine care (n = 280)
+from 2470 invited; 193/337 (57%) completed the 12 month
+intervention.
+Intervention Intervention patients used a point of care device
+to measure international normalised ratio twice a week and a
+simple dosing chart to interpret their dose of warfarin.
+Main outcome measure Percentage of time spent within the
+therapeutic range of international normalised ratio.
+Results No significant differences were found in percentage of
+time in the therapeutic range between self managment and
+routine care (70% v 68%). Self managed patients with poor
+control before the study showed an improvement in control
+that was not seen in the routine care group. Nine patients
+(2.8/100 patient years) had serious adverse events in the self
+managed group, compared with seven (2.7/100 patient years)
+in the routine care arm (2
+(df = 1) = 0.02, P = 0.89).
+Conclusion With appropriate training, self management is safe
+and reliable for a sizeable proportion of patients receiving oral
+anticoagulation treatment. It may improve the time spent within
+the therapeutic range for patients with initially poor control.
+Trial registration ISRCTN 19313375.
+Introduction
+Increasing numbers of patients need oral anticoagulation
+treatment, so alternative management models are needed.1 2
+Around 950 000 people in the United Kingdom are taking
+warfarin,3–5 and the service load for monitoring anticoagulation
+is predicted to increase by a factor of five over the next decade.6
+The international normalised ratio (INR) measures the level
+of the anticoagulation induced clotting defect; the incidence of
+adverse events is related to the intensity of treatment.7 Point of
+care devices have been shown to be reliable for estimating INR.8
+Small observational and randomised studies, generally within
+private healthcare systems, suggest that point of care testing is an
+appropriate way to enable self management of oral anticoagulation by patients.9–11 However, these studies were small and in
+select populations, and the lack of robust trial data for systematic
+reviews has led to the conclusion that more data from large scale
+randomised controlled trials are needed.12–14 The UK is a
+challenging environment for trials of anticoagulation self
+management—clinical effectiveness and cost effectiveness are
+more difficult to demonstrate, as routine care within the NHS is
+better than routine care reported in previous self management
+studies in countries without socialised health care. Any new
+model of care will therefore have to show levels of control of
+greater than 60% of time within the therapeutic range of INR to
+be deemed safe and a greater than 10% superiority over routine
+care to be deemed superior.13 The advantages for healthcare
+policy of doing such trials in the UK are considerable, as the
+comparator population will represent realistic “best practice”
+anywhere, and the results of any trial would therefore be valid
+and generalisable.15–17
+This paper reports clinical outcomes of the first UK, and the
+largest worldwide, study of non-selected patients to investigate
+self management of oral anticoagulation. Cost effectiveness,
+quality of life, and training aspects18 are reported separately elsewhere.
+Methods
+We identified patients from primary care centres within the UK
+Midlands Research Consortium (MidReC). We purposively sampled centres to cover rural and suburban centres with a
+socioeconomic range of patients. We identified eligible patients
+from practice generated computer lists. These were patients aged
+18 or over, with a long term (greater than 12 months) indication
+for oral anticoagulation,19 who had taken warfarin for at least six
+months with a target INR of 2.5 or 3.5. Patient recruitment took
+place in three phases: 15 practices in phase 1 (April 2001), 15
+practices in phase 2 (September 2001), and 19 practices in phase
+3 (April 2002).
+Administrators verified computer lists to remove patients
+who had discontinued warfarin, moved away, or died. We asked
+general practitioners to remove only those patients they believed
+should be excluded from the trial on clinical or social grounds.
+Remaining patients were sent written invitations to participate in
+the study. Patients or carers (defined as someone who takes care
+of the patient but not employed to do so) who gave a positive
+response were invited to an information session in the patients’
+general practice.
+We allocated consenting patients to intervention or routine
+care by central telephone randomisation using a variable block
+sized random allocation. Phases 1 and 2 were randomised 1:1,
+whereas phase 3 was randomised 3:2 in favour of the
+intervention (agreed by the Trial Steering Committee) because
+of the initial dropout rate. We asked intervention patients to
+attend two training sessions.18 Trained anticoagulation nurses
+gave patients training at the practice. This covered the theory of
+anticoagulation, the INR, INR targets, how to measure and interpret INR, how to adjust dose, and quality control. Patients who
+did not attend training sessions were withdrawn and returned to
+routine care. After the training, patients considered capable of
+doing self management were given home testing equipment
+Cite this article as: BMJ, doi:10.1136/bmj.38618.580903.AE (published 10 October 2005)
+BMJ Online First bmj.com page 1 of 6
+ on 6 October 2019 by guest. Protected by copyright. http://www.bmj.com/ BMJ: first published as 10.1136/bmj.38618.580903.AE on 10 October 2005. Downloaded from 
+(Coaguchek S, Roche Diagnostics). Intervention patients
+managed their own anticoagulation for 12 months, testing INR
+every two weeks (one week after a dose change). They adjusted
+dosage by using a laminated dosing schedule based on a traffic
+light system, where green represented INR within target range
+(no dose adjustment), amber represented INR slightly high or
+low (minor dose adjustment dependent on stable dose), and red
+represented INR too high or too low (contact a healthcare professional). Patients were instructed to do internal quality control
+tests if they got an unusual INR result or started a new box of test
+strips. Intervention patients were reviewed at a practice based
+clinic every three months to assess progress and to do external
+quality assessment procedures.
+Patients not considered capable of self management were
+asked to return to routine care. Similarly, at the three month
+assessment patients not safely self managing (for example, using
+multiple finger pricks to obtain INR results) were returned to
+routine care. Other reasons for withdrawal were self withdrawal
+and serious adverse events. Routine care patients continued
+attending either hospital or practice based anticoagulant clinics.
+The primary outcome measure was therapeutic INR control
+determined by the percentage of time spent within the
+therapeutic range.20 We collected adverse event data from
+general practice records. We defined serious adverse events as
+those needing treatment or medical evaluation. An independent
+adverse event committee (comprising a neurologist, a haematologist, and a general practitioner) were responsible for classifying serious adverse events at the end of the trial.
+Patients withdrawn from the intervention completed the
+study off the assigned treatment, and we collected INR data and
+included them in the intention to treat analysis. Patients who
+reached a study end point (discontinued warfarin, withdrew consent, or died) or were lost to follow-up (moved away) had no further INR data collected.
+Study power and analysis plan
+We did analyses by intention to treat (all patients randomised to
+intervention group), on treatment (patients actually receiving
+intervention), and off treatment (intervention data from patients
+who discontinued the intervention early).
+For the primary outcome, if INR control in terms of percentage of time spent within the therapeutic range in both groups
+was equivalent at a level of 10%, with 5% significance and 80%
+power, we needed 261 patients in each group (total 522). For
+comparisons of percentage time in range we established a common dataset for all analyses, which included information on time
+in range in both the pre-study (six months before inclusion in
+study) and study periods.
+We used the paired t test and the Wilcoxon signed rank test
+for comparisons of patients’ quantitative results between the prestudy and study periods. We used the two sample t test and the
+Mann-Whitney test for quantitative comparisons between different groups of patients. For comparisons of proportions of
+patients the equivalent tests were McNemar’s test and the 2 test.
+The purpose of the non-parametric Wilcoxon and MannWhitney tests was to confirm the results of the t test, which, in
+broad terms, was the outcome in each case. Because of
+occasional missing data for individual comparisons, the degrees
+of freedom of some t tests varied slightly from those to be
+expected if all patients had supplied all items of data.
+Results
+In all, 2530 patients from 49 practices were eligible (mean
+51/practice, range 8-119). Total practice populations ranged
+from 2150 to 14500 patients (mean 7831/practice). Only 60
+(2%) patients were excluded by their general practitioner (mainly
+because of terminal illness), leaving 2470 patients who were
+invited to participate in the study, of whom 1888 (76%)
+responded; 1156 declined to participate, and 732 agreed to
+attend an information session to discuss participation in the trial.
+Of those who initially agreed to attend, 48 (7%) did not attend
+the information sessions and 45 (6%) were unwilling to provide
+informed consent. A further 22 (3%) were excluded by researchers (figure).
+Of patients initially agreeing to attend the information
+session, 617 (84%) gave written informed consent and were randomised to the intervention or routine care arm of the study
+(337 intervention, 280 routine care). The number of patients per
+practice randomised ranged from 2 to 35 (mean 13). Of all
+patients invited to take part in the study, 617/2470 (25%) were
+recruited (10-63% per practice). Significantly more men than
+women were invited to enter the study (1366 (55%) male v 1104
+(45%) female, P < 0.001) and randomised into the study (400
+(65%) male v 217 (35%) female, P < 0.001). The mean age of
+those invited to participate was 69 (range 18-95) compared with
+a mean of 65 for those recruited (range 18-87). Routine care
+patients were older than intervention patients (66 v 64,
+P = 0.015). In the intervention group, the mean age of those
+completing training was significantly lower than that of those
+initially randomised (61 v 64, P = 0.012).
+Clinical indications for warfarin in rank order were atrial
+fibrillation, mechanical prosthetic heart valves, recurrent pulmonary embolism or deep vein thrombosis, cardiomyopathy, and
+transient ischaemic attack or stroke. We found no significant differences between intervention and routine care in terms of coronary risk factors. Hypertension was the most widespread risk
+factor (143, 42% intervention v 136, 49% routine care), followed
+by hyperlipidaemia (84, 25% v 61, 22%).
+Of 337 patients randomised to intervention, 242 (72%)
+attended and successfully completed training. Ten (3%) did not
+attend training, 80 (24%) did not complete training, and five (1%)
+reached a study end point (three patients discontinued warfarin,
+one patient withdrew consent, and one patient died). Main
+reasons for not completing training were difficulties with obtaining a large enough blood sample or placing it correctly on to the
+test strip. Of the 242 patients who completed training, 193 (80%)
+completed the intervention. Thirty four (14%) patients did not
+complete the intervention, and 15 patients reached a study end
+point (seven discontinued warfarin, four died, and four moved
+away).
+In the routine care group, five patients had no data collected
+(one withdrew permission for data to be collected from the
+medical records, one discontinued warfarin, two died, and one
+began to self monitor immediately after randomisation). Twenty
+five patients reached a study end point (nine died, 14 discontinued warfarin, and two moved away). Of the 280 patients
+randomised to routine care, 250 (89%) completed 12 months.
+The mean frequency of testing before the study was 38.1
+(95% confidence interval 36 to 40.2) days in the intervention
+group and 37.9 (35.6 to 40.2) days in the routine care group.
+During the study period, the mean frequency of testing was 12.4
+(11.9 to 12.9) days in the intervention group and 37.9 (37.1 to
+40.1) days in the routine care group.
+Adverse events
+Intention to treat analysis
+We had 582.1 patient years of follow-up for the intention to treat
+analysis. The overall incidence of serious adverse events was 2.8/
+Primary care
+page 2 of 6 BMJ Online First bmj.com
+ on 6 October 2019 by guest. Protected by copyright. http://www.bmj.com/ BMJ: first published as 10.1136/bmj.38618.580903.AE on 10 October 2005. Downloaded from 
+100 patient years (16 events), comprising 2.8/100 patient years
+(nine events) in the intervention arm and 2.7/100 patient years
+(seven events) in routine care (2
+(df = 1) = 0.02, P = 0.89). The
+overall rate of serious bleeding was 1.5/100 patient years (1.6
+intervention v 1.5 routine care). The overall rate of serious
+thrombosis was 1.2/100 patient years (1.3 v 1.1) (table 1).
+Intervention: on-treatment analysis
+We had 214 patient years of follow-up for the on-treatment
+analysis. The incidence of serious adverse events was 1.8/100
+patient years (four events). The incidence of bleeding episodes
+was 0.45/100 patient years (one fatal gastrointestinal bleed), and
+the incidence of thrombotic events was 1.4/100 patient years
+(two thrombotic strokes and one transient ischaemic attack).
+Intervention: off-treatment analysis
+We had 103 patient years of follow-up for the off-treatment
+analysis. The incidence of serious adverse events was 4.83/100
+patient years (five events). The incidence of bleeding episodes
+was 3.86/100 patient years (four events, comprising one rectal
+bleed, one epistaxis, one cerebral haemorrhage, and one
+Assessed for eligibility (n=2530)
+Randomised (n=617)
+Agreed to attend information session
+(n=732)
+Excluded (n=1798):
+ Excluded by general practitioner (n=60)
+ Non-responders (n=582)
+ Declined to participate (n=1156)
+Excluded (n=115):
+ Excluded by researcher (n=22)
+ Declined (n=45)
+ Did not attend (n=48)
+Allocated to intervention (n=337)
+ Received allocated intervention (n=242)
+ Did not receive intervention (n=95)
+ Lost to follow-up (n=5) (3 discontinued
+ warfarin, 1 withdew consent, 1 died)
+ Withdrawn by researcher at training (n=15)
+ Patient withdrew at training (n=65)
+ Did not attend training (n=10)
+Allocated to routine care (n=280)
+ Received routine care (n=275)
+ Did not receive routine care (n=5)
+ Withdrew consent (n=1)
+ Discontinued warfarin (n=1)
+ Died (n=2)
+ Began self management (n=1)
+Discontinued intervention (n=45)
+ Withdrawn by researcher (n=5)
+ Patient withdrew (n=26)
+ Serious adverse event (n=3)
+ Discontinued warfarin (n=7)
+ Died (n=4)
+Lost to follow-up (n=4)
+ Moved away (n=4)
+Discontinued routine care (n=23)
+ Discontinued warfarin (n=14)
+ Died (n=9)
+Lost to follow-up (n=2)
+ Moved away (n=2)
+Analysed (n=337)
+Excluded from analysis (n=0)
+Analysed (n=275)
+Excluded from analysis (n=5)
+Flowchart of study
+Table 1 Serious adverse events in intervention and routine care groups
+Description of event
+Intervention: intention to
+treat (n=337)
+Intervention: on treatment
+(n=242)
+Intervention: off treatment
+(n=124)
+Routine care
+(n=280) Total (n=617)
+Cerebral haemorrhage 1* 0 1* 1* 2
+Thrombotic stroke 2 2 0 1 3
+Gastrointestinal bleed 1+1* 1* 1 2 4
+Transient ischaemic attack 1 1 0 0 1
+Pulmonary embolism 0 0 0 2 2
+Graft thrombosis 1 0 1 0 1
+Clot retention from haematuria 0 0 0 1 1
+Epistaxis 1 0 1 0 1
+Rectal bleed 1 0 1 0 1
+Total events 9 4 5 7 16
+Patient years 318 214 103 264 582
+Bleeding (per 100 patient years) 1.6 0.5 3.9 1.5 1.5
+Thrombotic events (per 100 patient years) 1.3 1.4 1.0 1.1 1.2
+*Fatal event.
+Primary care
+BMJ Online First bmj.com page 3 of 6
+ on 6 October 2019 by guest. Protected by copyright. http://www.bmj.com/ BMJ: first published as 10.1136/bmj.38618.580903.AE on 10 October 2005. Downloaded from 
+gastrointestinal bleed). The incidence of thrombotic events was
+0.97/100 patient years (one graft thrombosis).
+Therapeutic INR control
+In the intention to treat analysis, we found no significant
+differences mean percentage of time within the therapeutic
+range for INR between pre-study and study periods in either the
+intervention arm (t320 = 1.57, P = 0.12) or the routine care arm
+(t255 = − 0.37, P = 0.71) (table 2). INR control based on mean percentage of time within the therapeutic range during the study
+did not differ significantly between the intervention and routine
+care groups (70% v 68%; t575 = 1.35, P = 0.18).
+In the intention to treat patients, we found a significant
+difference in the percentage of time within the therapeutic range
+for INR in pre-study and study periods between patients with
+therapeutic targets of 2.5 and 3.5 in both groups. Intervention
+group: pre-study 74% versus 45% (t319 = 7.46, P < 0.001); study
+74% versus 55% (t319 = 7.48, P < 0.001). Routine care: pre-study
+72% versus 52% (t254 = 3.70, P < 0.001); study 71% versus 53%
+(t254 = 4.70, P < 0.001).
+In the intervention group patients with a target of 3.5, a significant improvement occurred between pre-study and study
+(45% v 55%; t65 = 2.77, P = 0.007). No significant difference
+occurred in intervention group patients with a target of 2.5 (73%
+v 74%; t254 = 0.29, P = 0.77) or the routine care patients with
+either a target of 2.5 (72% v 71%; t217 = − 0.44, P = 0.66) or a target of 3.5 (52% v 53%; t37 = 0.07, P = 0.94) (table 3).
+If we examine the distributions of percentage of time in
+range by centiles, patients in the intervention group who were
+poorly controlled at baseline (defined as time in range below the
+median) showed a significant increase from pre-study to study,
+whereas those in the routine care group did not. The magnitude
+of this improvement was approximately 20% (95% confidence
+interval 9% to 32%) for the 3.5 target group and around 15%
+(6% to 24%) for the 2.5 target group. In the routine care group a
+change of 3-5% occurred in both 2.5 and 3.5 target groups.
+We found no significant difference in the number of patients
+within their individual therapeutic range, based on the last INR
+result recorded within the study period (intervention 70% v routine care 72%) (table 4). We found a significant difference in
+point prevalence in the intervention group patients between
+those with a target of 2.5 and those with a target of 3.5 (73% v
+60%; P = 0.05).
+Finally, table 5 records the differences evident in tables 2, 3,
+and 4 between intervention and routine care patient groups. In
+every case but one no significant difference exists between results
+from the two groups. The only marginal exception is in the case
+of INR percentage time in range for the 2.5 therapeutic target
+group in the study phase of the trial. However, once adjustment
+is made for the difference in pre-study levels (recorded in the
+right hand column) a significant difference no longer exists. The
+significance of the effect of the intervention for the 3.5 therapeutic target group is inevitably reduced here because of the extra
+uncertainty included in the comparison.
+Discussion
+This study is the largest to evaluate the clinical effectiveness of
+patient self management of oral anticoagulation compared with
+routine care. Study recruitment was non-selective; the comparator provided good control of international normalised ratio
+(INR), both enhancing generalisability and reflecting real life.
+Overall, only 25% of eligible patients were randomised. A recent
+smaller Dutch clinic based study had a similar recruitment rate,16
+although a Spanish study managed to recruit nearly 50% of eligible patients.17 Whether the relatively low recruitment rate
+relates to the demands of self management or the fact that
+patients were being asked to participate in a trial is not clear. In
+Germany, where self managed anticoagulation is routine, up to
+80% of patients are able to self manage.21 This may reflect the
+reimbursement system as well as the motivation and ability of
+patients to do self management.
+Training
+Of those patients who were randomised to self management
+most (72%) were able to complete training, and 78% of those
+who started self management were able to complete 12 months.
+Self management is therefore a feasible model of care for an
+appreciable proportion of patients.
+Table 2 Percentage of time (95% confidence interval) within therapeutic range for international normalised ratio and number of patient years
+Patient group Pre-study Study Change Patient years
+Intervention total (n=337) 68 (64.3 to 70.7) 70 (68.1 to 72.4) 2.50 (−0.64 to 5.65) 318
+Routine care (n=280) 69 (65.2 to 72.1) 68 (65.2 to 70.6) −0.69 (−4.35 to 2.96) 264
+On treatment (n=242) 69 (65.2 to 72.6) 72 (69.5 to 73.7) 2.29 (−1.26 to 5.85) 214
+On-treatment dropouts (n=34) 61 (51.3 to 70.9) 61 (53.2 to 68.7) −0.13 (−10.4 to 10.2) 17
+Table 3 Percentage of time (95% confidence interval) within therapeutic range for international normalised ratio, by therapeutic target
+Patient group Pre-study Study Change P value
+Intervention, target 2.5 (n=255) 74 (70.7 to 77.2) 74 (72.3 to 76.6) 0.51 (−2.94 to 3.96) 0.77
+Intervention, target 3.5 (n=66) 45 (37.3 to 51.7) 55 (50.0 to 60.0) 10.21 (2.84 to 17.59) 0.007
+Routine care, target 2.5 (n=218) 72 (68.0 to 75.3) 71 (67.8 to 73.7) −0.88 (−4.78 to 3.02) 0.66
+Routine care, target 3.5 (n=38) 52 (42.2 to 62.1) 53 (45.3 to 60.0) 0.38 (−10.35 to 11.11) 0.94
+Table 4 Percentage (95% confidence interval) of patients within their individual therapeutic range for international normalised ratio, and number of patient
+years
+Patient group Pre-study Study Change Patient years
+Intervention, total (n=337) 73 (67.9 to 77.6) 70 (64.8 to 74.8) −4 (−10.6 to 2.7) 318
+Routine care (n=279) 75 (69.3 to 79.8) 72 (66.3 to 77.1) −4 (−11.6 to 2.6) 264
+On treatment (n=242) 76 (70.1 to 81.2) 72 (65.7 to 77.4) −4 (−11.1 to 3.6) 214
+On-treatment dropouts (n=34) 65 (46.4 to80.3) 56 (37.9 to72.8) −9 (−27.6 to 10.3) 17
+Primary care
+page 4 of 6 BMJ Online First bmj.com
+ on 6 October 2019 by guest. Protected by copyright. http://www.bmj.com/ BMJ: first published as 10.1136/bmj.38618.580903.AE on 10 October 2005. Downloaded from 
+The study population was younger than the invited
+population, and men were more likely to participate. Patients
+who completed the intervention were younger than those
+randomised. Around half of the study patients had atrial fibrillation as their primary indication for warfarin.
+Therapeutic control
+We found no overall significant differences between the study
+arms for the primary outcome measure. Therapeutic INR
+control was good in both arms; both groups spent around 70%
+of time within their therapeutic range, which is comparable to
+the Dutch study (68.6% in the self management group) and significantly better than the Spanish group (58.6%).16 17 In keeping
+with previous studies, patients with a target INR of 3.5
+(principally patients with mechanical heart valves) had poorer
+therapeutic control than those with a target INR of 2.5. Examining the change from pre-study to study for self managed patients
+separately for those with targets of 2.5 and 3.5 revealed that
+those with poorer control, as monitored by time in range,
+improved from pre-study to study. The improvement was
+approximately 15% in the 2.5 target group and 20% in the 3.5
+target group. This was not the case in the routine care group. Self
+management is thus an effective and safe model of care for
+patients who have been trained appropriately and may even represent the model of choice for patients who are poorly controlled in routine care.
+Routine care
+Patients in the routine care group were managed through a variety of different models, ranging from hospital outpatient clinics
+to primary care clinics. The therapeutic control seen compared
+favourably with previously published data.5 Adverse event rates
+also compared favourably with previously published international data; the overall adverse event rate was 2.8% compared
+with 7.3% in the Spanish study and approximately 4.5% in the
+Dutch study.16 17 22 The comparator to self management in this
+study was therefore robust.
+Limitations
+The study was limited, as are other studies, by the parameters set
+down for patients doing self management. Patients were asked to
+do an INR test every two weeks, with weekly testing
+recommended after a dose change. Although this makes
+comparison with routine care problematic, it reflects the reality
+of the current models of service provision. The three month
+clinical reviews generally worked well, but again there were a few
+patients who had difficulty attending these sessions.
+Only 25% of patients agreed to participate, but this probably
+reflects reluctance to participate in a trial and a high level of satisfaction with current services rather than a reluctance to self
+manage. A quarter of patients did not complete training,
+however, and a further fifth withdrew prematurely, which
+suggests that barriers to self management exist above and
+beyond those to taking part in research. The findings warrant
+further research before self monitoring is commissioned more
+widely in the UK (as in Germany), as demand from patients may
+be limited.
+Conclusions
+For an appreciable number of motivated patients on oral anticoagulation, self management is a safe and realisable alternative to
+existing models of care in healthcare systems with high quality
+routine anticoagulation management. This model of care is particularly effective for treating patients with poor INR control,
+who are a difficult population to manage and are at risk of
+adverse events. Now that self management for anticoagulation
+has been shown to be as safe and effective as routine care, it
+would be valid to test whether this reassurance alters patients’
+(and health professionals’) equipoise in considering whether to
+accept self management in this context.
+Contributors: DAF was the principal investigator, wrote the first draft, and is
+the guarantor. ETM was the project manager and contributed to drafting
+the report. DMC assisted with training patients and collecting data. RH was
+the study statistician. JPR provided health economic input and assisted with
+the trial design. SH assisted with data analysis. HS was the study IT officer
+and assisted with the production of data for analysis. FDRH contributed to
+study design and editing the report.
+Funding: The study was funded by the UK Medical Research Council (grant
+No G9900263). DAF was funded by an NHS career scientist award. ETM
+was funded by an MRC health services research fellowship.
+Competing interests: None declared.
+Ethical approval: Approved by the West Midlands research ethics committee and all relevant local research committees.
+1 Taylor F, Ramsey M, Voke J, Cohen H. GPs not prepared for monitoring anticoagulation. BMJ 1993;307:1493.
+2 Sudlow CM, Rodgers H, Kenny RA, Thomson RG. Service provision and use of anticoagulants in atrial fibrillation. BMJ 1995;311:558-61.
+3 Baglin T. Decentralised anticoagulant care. Clin Lab Haematol 1994;16:327-9.
+4 Rose P. Audit of anticoagulant therapy. J Clin Pathol 1996;49:5-9.
+5 Mediplus analysis of oral anticoagulant therapy (OAT). London: IMS Health, 1999. (Study
+number MP990207.)
+6 Sudlow M, Rodgers H, Kenny RA, Thomson R. Population based study of use of anticoagulants among patients with atrial fibrillation in the community. BMJ
+1997;314:1529-30.
+7 Cannegieter SC, Rosendaal FR, Wintzen AR, van der Meer FJM, Vandenbrouke JP,
+Briet E. Optimal anticoagulant therapy in patients with mechanical heart valves. N Engl
+J Med 1995;333:11-7.
+8 Murray ET, Fitzmaurice DA, Allan TF, Hobbs FDR. A primary care evaluation of three
+near patient coagulometers. J Clin Pathol 1999;52:842-5.
+9 Hasenkam JM, Kimose HH, Knudsen L, Gronnesby H, Halborg J, Christensen TD, et al.
+Self management of oral anticoagulation therapy after heart valve replacement. Eur J
+Cardiothorac Surg 1997;11:935-42.
+10 Sawicki PT. A structured teaching and self-management program for patients receiving
+oral anticoagulation: a randomized controlled trial. JAMA 1999;281:145-50.
+Table 5 Differences in results between intervention and routine care
+patients. Values are percentages (95% confidence intervals)
+Result, therapeutic target Pre-study Study Change
+INR percentage time in range −0.8
+(−5.6 to 4.0)
+2.4 (−1.2 to 6.0) 3.2 (−1.6 to 8.0)
+INR percentage time in range,
+target 2.5
+2.4 (−2.5 to 7.3) 3.8 (0.1 to 7.4) 1.4 (−3.6 to 6.6)
+INR percentage time in range,
+target 3.5
+−7.6
+(−19.7 to 4.5)
+2.2
+(−6.4 to 10.8)
+9.8
+(−3.0 to 22.7)
+INR point prevalence −1.9
+(−8.9 to 5.0)
+−1.7
+(−8.9 to 5.6)
+0.2
+(−9.8 to 10.2)
+INR=international normalised ratio.
+What is already known on this topic
+Self management for oral anticoagulation has been shown
+to be effective in highly selected populations within
+healthcare environments not comparable to the UK
+What this study adds
+Self management for oral anticoagulation is safe and
+effective for a sizeable minority of patients receiving
+warfarin
+For patients who have been appropriately trained, self
+management is as clinically effective as routine care
+provided by UK oral anticoagulation clinics
+Fewer patients than anticipated wished to self manage their
+oral anticoagulation
+Primary care
+BMJ Online First bmj.com page 5 of 6
+ on 6 October 2019 by guest. Protected by copyright. http://www.bmj.com/ BMJ: first published as 10.1136/bmj.38618.580903.AE on 10 October 2005. Downloaded from 
+11 Cromheecke ME, Levi M, Colly LP, de Mol BJM, Prins MH, Hutten B, et al. Oral anticoagulation self-management by a specialist anticoagulation clinic: a randomised
+cross-over comparison. Lancet 2000;356:97-102.
+12 Siebenhofer A, Berghold A, Sawicki PT. Systematic review of self-management of oral
+anticoagulation. Thromb Haemost 2004;91:225-32.
+13 Fitzmaurice DA, Machin SJ. Recommendations for patients undertaking self management of oral anticoagulation. BMJ 2001;323:985-9.
+14 Ansell J, Jacobson A, Levy J, Voller H, Hasenkam JM. Guidelines for implementation of
+patient self-testing and patient self-management of oral anticoagulation international
+consensus guidelines prepared by the International Self-Monitoring Association for
+Oral Anticoagulation. Int J Cardiol 2005;99:37-45.
+15 Fitzmaurice DA, Murray ET, Gee KM, Allan TF, Hobbs FDR. A randomised controlled
+trial of patient self-management of oral anticoagulation treatment compared with primary care management. J Clin Pathol 2002;55:845-9.
+16 Gadisseur AP, Breukink-Engbers WG, van der Meer FJ, van den Besselaar AM, Sturk A,
+Rosendaal FR. Comparison of the quality of oral anticoagulant therapy through
+patient self-management and management by specialized anticoagulation clinics in the
+Netherlands: a randomised clinical trial. Arch Int Med 2003;163:2639-46.
+17 Menedez-Jandula B, Souto JC, Oliver A, Montserat I, Quintana M, Gich I, et al.
+Comparing self-management of oral anticoagulant therapy with clinic management.
+Ann Intern Med 2005;142:1-10.
+18 Murray ET, Fitzmaurice DA, McCahon D, Fuller C, Sandhur H. Training for patients in
+a randomised controlled trial of self management of warfarin treatment. BMJ
+2004;328:437-8.
+19 British Committee for Standardisation in Haematology. Guidelines on oral
+anti-coagulation, 2nd edition. J Clin Pathol 1990;43:177-83.
+20 Rosendaal FR, Cannegieter SC, van der Meer FJM, Briet E. A method to determine the
+optimal intensity of oral anticoagulant therapy. Thromb Haem 1993;69:236-9.
+21 Morsdorf S, Erdlenbruch W, Taborski U, Schenk JF, Erdlenbruch K, Novotny-Reichert
+G, et al. Training of patients for self-management of oral anticoagulant therapy: standards, patient suitability, and clinical aspects. Semin Thromb Hemost 1999;25:109-15.
+22 Palareti G, Leali N, Coccheri S, Poggi M, Manotti C, D’Angelo A, et al. Bleeding complications of oral anticoagulant treatment: an inception-cohort, prospective collaborative
+study (ISCOAT). Lancet 1996;348:423-8.
+(Accepted 5 September 2005)
+doi 10.1136/bmj.38618.580903.AE
+Department of Primary Care, University of Birmingham, Birmingham B15 2TT
+D A Fitzmaurice professor of primary care
+E T Murray research fellow
+D McCahon research associate
+R Holder head of statistics
+S Hussain statistician
+H Sandhar IT officer
+F D R Hobbs head of department
+Health Services Management Centre, Birmingham B15 2RT
+J P Raftery professor of health economics
+Correspondence to: D A Fitzmaurice d.a.fitzmaurice@bham.ac.uk
+Primary care
+page 6 of 6 BMJ Online First bmj.com
+ on 6 October 2019 by guest. Protected by copyright. http://www.bmj.com/ BMJ: first published as 10.1136/bmj.38618.580903.AE on 10 October 2005. Downloaded from 

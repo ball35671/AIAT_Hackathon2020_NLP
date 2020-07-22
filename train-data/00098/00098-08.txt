@@ -1,0 +1,726 @@
+Avoiding serious infections associated with abdominal
+hysterectomy: A meta-analysis of antibiotic prophylaxis
+Robert Mittendorf, MD, DrPH: Michael P. Aronson, MD,b Robert E. Berry, MD,b
+Michelle A. Williams, SeD: Bruce Kupelnick, BA/ Alexandra Klrckstein,"
+Arthur L. Herbst, MD: and Thomas C. Chalmers, MDd
+Chicago, Illinois, Boston, Massachusetts, and Seattle, Washington
+OBJECTIVE: Our objective was to determine whether the use of preoperative antibiotics prevents serious
+infections associated with total abdominal hysterectomy.
+STUDY DESIGN: We identified 25 random ized controlled trials of antibiotic prophylaxis that used rigorous
+protocols. We performed meta-analyses and cumulative meta-analyses for all of the trials, and then we
+performed separate meta-analyses for cefazolin, metronidazole, and tinidazole.
+RESULTS: Overall, 21.1% (373 of 1768) of the patients who did not receive antibiotic prophylaxis had
+serious infections after abdominal hysterectomy. Among patients who received any antibiotics, we found
+that 9.0% (166/1836) had serious postoperative infections ; among those who received cefazolin,
+metronidazole, or tinidazole, 11.4% (70 of 615), 6.3% (17 of 269), and 5.0% (5 of 101), respectively, had
+serious postoperative morbidity. The differences in the prevalence of infection between women who
+received prophylaxis and women who did not receive prophy laxis were statistically significant (any
+antibiotics, p = 0.00001 ; cefazolin, p = 0.00021 ; metronidazole, p = 0.015; and tinidazole, p = 0.034).
+CONCLUSION: Because preoperative antibiotics are highly effective in the prevention of serious
+infections associated with total abdominal hysterectomy, we believe they should be used routinely. In
+addition, we believe that the use of controls who receive no treatment is no longer justified in trials of
+antibiotic prophylaxis for total abdominal hysterectomy. (AM J OBSTET GVNECOL 1993;169:1119-24.)
+Key words: Meta-analysis, antibiotic prophylaxis, tot al abdominal hysterectomy, cefazolin,
+metronidazole, tinidazole
+The use of antibiotic prophylaxis for selected patients
+underg oing cesarean section or for any patient undergoing a vaginal hystere ctomy has becom e a standard of
+care in obstetrics and gynecology.' It is therefore noteworthy that despite reports on > 30 randomized controlled trial s in the world's medical literature, there is
+still no conse nsus on the efficacy of antibiotic prophylaxis for elective total abdominal hyster ectomy for benign indications. In fact, of the major gynecology textbooks published in the United Sta tes, only Dro egemueller's' considers antibiotic prophylaxis for total
+From the Department ofObstetrcis and Gynecology, The University of
+Chicago, Chicago Lying-in Hospital: the Department of Obstetrics
+and Gynecology, Tufts University School of Medicine and New
+England Medical Center Hospitals/ the Department of Epidemiology,
+School of Public Health, University of Washingt on, Seattle,' and the
+Technology Assessment Group, Harvard School of Public Health:"
+Supported by National Institute of Env ironmental Health Sciences
+National Research Service Award No. 5T32 ES07069 and by the
+Dr. George W. Mitchell, J r., Society.
+Received for publication March 22, 1993; revised May 10, 1993;
+accepted May 19, 1993.
+Reprint requests: Robert Mittendorf, MD, Department of Obstetrics
+and Gynecology, Chicago Lying-in Hospital, MC2050, 5841 South
+Ma ryland Ave ., Chicago, lL 60637.
+Copyright © 1993 by Mosby-Year Book, Inc.
+0002-9378/ 93 $1.00 + .20 6/1/48733
+abdominal hysterectomy to be a standard of care on the
+basis of cost-benefit analysis.
+Becau se of the numerous randomized controlled trials that have already been performed, an extensive
+database exists for studying this question. A traditional
+literature review of these data offers a qualitative impression of efficacy, but in our view the preferable
+approach is meta-an alysis- a statistical method for
+combining data from individual studies to obtain a
+quantitative estimate of overall effect. In this article we
+present such an analysis with the intent of determining
+the role of preoperative antibiotics in the prevention of
+serious infectious mo rbidity associated with total abdominal hysterectomy.
+Methods
+We reviewed all Engli sh-language randomized controlled trials published since 1971 (no trials on our
+topic were found before that year) that evaluated the
+efficacy of prophylactic perioperative antibiotics in the
+reduction of serious infectious morbidity in elective
+total abdominal hysterectomy. Serious infectious morbidity was defin ed as one or more of the following: (1)
+an abdom inal wound infection, (2) wound discharge or
+abscess , (3) pelvic cellulitis, (4) pelvic abscess, (5) vagi1119
+1120 Mittendorfet al.
+nal cuff abscess, (6) postoperative pelvic inflammatory
+disease, and (7) postoperative septicemia. Although
+data on febrile morbidity and nosocomial urinary tract
+infection were included in most randomized controlled
+trials, we chose to exclude that information because in
+our opinion it was not germane to this meta-analysis.
+The various studies, which included private and
+clinic patients in community and university hospitals
+from several countries, were collected by means of a
+MEDLARS computer-assisted literature search after
+which a search of review articles and bibliographies was
+conducted. After a review ofthe various study protocols,
+we assigned a quality score to each of the randomized
+controlled trials." To control bias, our scoring system
+emphasized the comparison of a priori standards.
+The studies included in this meta-analysis met the
+following criteria: (I) The antibiotic-treatment and the
+control regimens were assigned at random; (2) the
+outcome was evaluated prospectively in relation to the
+serious infectious morbidity; (3) one of the study groups
+was placed on a control regimen. Each trial was counted
+onl y once for the meta-analysis. However, in five trials
+two different antibiotic regimens were compared with
+the control.
+The outcome we sought in all studies was the presence or absence of postoperative infection. Thus the
+results were dichotomous (yes or no), and in each study
+the rates were compared between the experimental
+(antibiotic) and the control (usually a placebo) groups.
+Many methods and reporting units are available to
+the meta-analyst interested in combining such data.
+Some use the fixed effects model such as that of Mantei
+and Haenszel' and Yusuf et al.S, whereas others use the
+random-effects models of Cochran" and Dersimonian
+and Laird." We employed both methods to detect differences," although we preferred the random-effects
+model.
+The results of the accumulated fourfold tables can be
+reported as risk ratios, log-odds ratios, or risk (percentage) differences. Again, we preferred the log-odds
+method. The results of our meta-analysis are thus
+presented as the random effects , log-odds ratio, and
+accompanying two-sided p and Z values are reported.
+An important principle of all meta-analyses is that each
+study is treated as a unit of observation, and the
+estimates and variances of each study are considered.
+The software that we used calculates the meta-analytic results by both the random and fixed-effects models, the former having a more conservative result when
+heterogeneity ofthe data exists ." When the results differ
+according to method and units, the differences are
+mentioned in the text. Differences between the methods become clinically important only when the numbers
+of studies are small, the summation fourfold table
+contains occasional zeros, and there is some heterogeNovember 1993
+Am J Obstet Gynecol
+neity of the results. All of those factors applied to our
+three meta-analyses of individual drug effects, but none
+of them applied when all of the trials were combined.
+The technique of cumulative meta-analysis is important in this and most "retrospective" meta-analyses
+because the year in which any demonstrated effect
+became statistically significant is of interest. In this
+technique, a new meta-analysis is performed every time
+a new trial is reported. Trends may be as important in
+interpretation of the data as the year in which various
+levels of statistical significant are achieved."
+Results
+Twenty-five trials'":" met the criteria for inclusion in
+this meta-analysis and provided outcome data in an
+extractable format. Six additional trials met the initial
+criteria for inclusion but did not present extractable,
+serious infectious morbidity data for abdominal hysterectornies .i"?" Cefazolin was evaluated against a placebo
+in seven ofthe 25 acceptable studies, metronidazole was
+evaluated in five trials, and tinidazole (a nitroimidazole
+that has been used in Europe) was evaluated in three
+studies. Mezlocillin, cefoxitin, and cephradine were
+each used in two trials . The following antibiotics were
+used in one trial each: cephaloridine, penicillin, cotrimoxazole, cephalothin, carbenicillin, cefoperazone,
+cefamandole, ampicillin-sulbactam, ampicillin-metronidazole, and clindamycin. In five of the studies two
+different antibiotics were tested against a placebo, and
+in one study two different doses of the same drug were
+used. Thus 31 separate drug-placebo comparisons occurred in 25 trials. The mean quality score of the
+protocols for the 25 randomized controlled trials that
+we included in our meta-analysis was 0.39 (95% confidence interval 0.35 to 0.44; range 0.17 to 0.63). In 20
+of the trials, preoperative antibiotics were given
+parenterally. In three of the trials, preoperative drugs
+were given by mouth (tinidazole in two studies and
+metronidazole in one study) , and metronidazole was
+given as an intravaginal suppository in two other control trials. Fig. I shows the odds ratio and 95% confidence interval for the combined studies. The point
+estimate of the odds ratio failed to show a protective
+effect of prophylactic antibiotics in only three studies.
+Thirteen of the trials whose point estimates showed a
+protective effect for preoperative antibiotics reached
+statistical significance. It is clear that prophylactic antibiotics lower the frequency of serious infection rates.
+The graph of the cumulative meta-analysis data indicates that the effect has been statistically significant
+since the first reported trial in 1972 .
+Three or more randomized controlled trials compared the effects of three drugs - cefazolin, metronidazole, and tinidazole-with a control. In all instances
+(Fig. 2 [cefazolin], Fig. 3 [metronidazole], and Fig. 4
+Volume 169, Number 5
+Am J Obstet Gynecol
+Mittendorf et al. 1121
+100
+,p -o I, ,H
+---;-.-:
+~:
+...........
+;.......;.
+;......;
+:--e+
+:--++
+:~
+:~, ...... , .....
+....,.
+: --+7
+; -+:-
+:~,.....,
+:......:
+;---:
+:.....: :~:
+: :
+' '
+, , ,+I :
++:
+z -7.511
+Odds Ratio 95% CI
+0.1 1 10
+161
+261
+32(
+42<
+5CJ:i
+545
+6S::
+8lE
+97E
+101
+144<
+1511
+1621
+1712
+lBOC
+190E
+194!:
+1981
+2081
+219<
+229<
+240C
+251E
+2655
+272E
+2824
+292S
+303E
+;:
+3604
+100 0.01
+:-~-+-:
+: .;-.r--: ----'-+--'-
+~:
+Odds Ratio 95% CI
+0.1 1 10
+,
+, , ,
+: '
+:-~: ,
+: ~~
+: -T+-+- :-~:
+168
+93
+59
+1021--;'-~>+--T----;"-+
+80
+47
+104
+163
+160
+371--;.-...;-+-----;..-+--;...-
+429
+69 -+-+--..--!-+-I 110
+91
+88
+106
+39
+36
+100
+1121---+---
+100
+107
+116
+143
+671--'--~+......~---11---'~
+98
+105
+107
+203
+199
+166
+0.01
+#Pts
+Overall
+Study Year
+1 Allen 1972
+2 Ohm 1975
+3 Mathews 1977
+4 Jennings 1978
+5 Holman 1978
+6 Roberts 1978
+7 Appelbaum 1978
+8 Grossman-cef 1979
+9 Grossman-pen 1979
+10Adno 1979
+11Polk 1980
+12 Itskovitz 1980
+13Stage 1982
+14Duff 1982
+15Walker 1982
+16Vincelette 1982
+17Gall-cefop 1983
+18GaJI-cefam 1983
+19Hemsell 1983
+20 Kauppila 1983
+21 Houang-sul 1983
+22 Houang-met 1984
+23 Gonen-cef-3 1985
+24 Gonan-cef-6 1985
+25 Crosthwaite 1985
+26 Evaldson 1986
+27 Hakim-cef 1986
+28 Hakim-mez 1986
+29 Davey-mez 1988
+30Davey-cephr 1988
+31Munck 1989
+Favors Treatment Favors Control Favors Treatment Favors Control
+Fig. 1. All antibiotic-prophylaxis studies combined. Odds ratios for occurrence of serious infection
+after hysterectomy, DerSimonian and Laird random-effects model. In left-hand graph point estimates
+and 95% confidence intervals are given for each individual study with pooled result at bottom. On right
+side same data are presented as cumulative meta-analyses.
+I I I
+I I I
+1... I I ,
+I I I
+le:;: I I I
+I
+I I I , I
+34!: I
+I
+41~ 0
+0
+84:: I •I
+95S ++to I
+10:: , I
+.............. I I r I 0 I
+, I I I I I I
+20 I I .......... I I I
+I I. I I I I I
+I I I I I , I
+I I I I , I I
+I I I I I I I
+I I I I 2f =0100( 21 , I I zr -3.~ I
+I I I
+I I I I , , I I
+I I I I I I I I
+100
+CI
+10
+Odds Ratio 95%
+100 0.01 0.1 1
+Odds Ratio 95% CI
+0.1 1 10 .... I I I I I I
+I I I I I
+I I I 0 I r 0 I I
+I I I I I I
+I 0 I I I r
+I I I I
+I I I I I r
+I 0 I 0 I I
+I I I r I 0 0 I I
+I 0 , t I
+I I 0 I
+I I
+I r r I
+I I 0
+I I I
+I I
+I I
+I :. ,
+I
+I I
+I I
+I I
+I I I
+I I I
+0 I , I I
+I I I
+I I I
+I I , I
+I I I I
+I I I
+I I I I
+I I I I I I
+I I I I I I
+102
+80
+163
+69
+429
+116
+143
+105
+0,01
+#PIs
+1207
+Study Year
+1 Jennings 1978
+2 Holman 1978
+3 Grossman-<:ef 1979
+4 Itskovitz 1980
+5 Polk 1980
+6 Gonen-cef-3 1985
+7 Gonen-cef-6 1985
+8 Hakim-<:ef 1986
+Overall
+Favors Treatment Favors Control Favors Treatment Favors Control
+Fig. 2. Cefazolin studies only. Odds ratios for occurrence of serious infection after hysterectomy.
+DerSimonian and Laird random-effects model. Same as in Fig. I except that only studies that evaluate
+cefazolin are included.
+1122 Mittendorfet al. November 1993
+Am J Obstet Gynecol
+100
+Odds Ratio 95% CI
+0.1 1 10
+.." I I I I I I I
+1 I I , I I I
+I I I 1 I I I
+1 I 1 I I I
+I I I I I I I
+I 1 I I I I I
+9:: I I I I I
+I I I I I 1 I
+I I I I I 1 ,
+~9€ I I I , I I I
+I I , , I I I
+I I I I I I I
+1C I I I I I 1 I
+, I I , I , I I I I I 1 I I
+I I , , I I I 1
+1 I I I I I I
+1 I I I I I I 1
+I 1 I I I I , 1 1 I I I I I , , , 1 I I I I I
+I I I I
+2f = OiOl!
+I , I I Z T·2.4~ I I
+I I I I
+I I I I I I I I
+I I I I I I I I
+2
+4
+5
+100 0.Q1
+Odds Ratio 95% CI
+OJ 1 10
+I I I I I I I
+I I I I I I I
+I I 1 I I I
+1 1 1 I 1
+I I I I I I
+I 1 1 I I I
+I I 1
+I I I I I I
+I I I I I I
+I I I I I I
+1 I I I 1 I
+, I I I 1 I
+1 I I I , I
+I I
+I I I I I I
+1 I I I , I
+I I
+, I I ·1 I I
+I I I I I , I I I 1 I I
+I I , I I 1 I
+I I I I I I I
+I I I I I I 1
+I I I I I
+I I 1 I I , I
+I I I 1 I I I
+517
+104
+88
+106
+112
+107
+0.01
+Study Year #Pts
+1 Appelbaum 1978
+2 Walker 1982
+3 Vinoelette 1982
+4 Kauppila 1983
+5 Houang-met 1984
+Overall
+Favors Treatment Favors Control Favors Treatment Favors Control
+Fig. 3. Metronidazole studies only. Odds ratios for occurrence of serious infection after hysterectomy,
+DerSimonian and Laird random-effects model. Same as in Fig. I except that only studies that evaluate
+metronidazole are included.
+1 Adno 1979 37
+2 Crosthwaite 1985 67
+I I 1 I 1 I I 1
+1 I 1 I I I I I
+I I ..L I I I 1
+3 I I I
+1 I I I I I I
+I I I I I I I
+04 I 1 I I
+1 I 1 I I I I
+I I 1 1 1 1 1
+02 I I I
+• I I I I
+I 1 I I I I I
+I I I I I I I
+1 I 1 I I I I
+1 I I 1 I I I
+I 1 I 1 1 I I
+1 I
+d-2.1~ P=O:034 I I
+1 1 I 1
+1 I I I I I , I
+1 I I I I , I I
+100
+Odds Ratio 95% CI
+0.1 1 10
+2
+100 0.Q1
+Odds Ratio 95% CI
+0.1 1 10
+I I I I I I I I
+I I I I I I I I , I ..L I I I I I
+I I I
+I I I I I I 1
+I , I 1 1 I I
+I I I
+I , I I , I I
+1 , I , , I I
+I I I I I I I
+I I I I I I I
+I I I , I I I
+I I I I I I 1
+I I I I I 1 I
+I I 1 I I , I
+I I 1 I I 1 I
+I I
+• I I I I
+1 1 I I 1 I I
+I I I I I I 1
+98
+202
+0.01
+#Pts
+1986
+Year
+Overall
+Study
+3 Evaldson
+Favors Treatment Favors Control Favors Treatment Favors Control
+Fig. 4. Tinidazole studies only. Odds ratios for occurrence of serious infection after hysterectomy,
+DerSimonian and Laird random-effects model. Same as in Fig. I except that only studies that evaluate
+tinidazole are included.
+[tinidazole]), the antibiotic protected against infection
+with statistical significance, but the year in which the
+effect became statistically significant varied according to
+the technique used, for reasons discussed in the Methods section. It should also be emphasized that the
+numbers of events in these studies are small, and, as in
+the case of tinidazole, changing one seriously morbid
+patient from the therapeutic group to the control
+group could change the conclusion.
+Among all of the controls in the 25 separate randomized controlled trials included in the meta-analysis,
+21.1 % (373 of 1768) had serious postoperative
+morbidity; among patients who received any antibiotic
+prophylaxis, only 9.0% (166 of 1836) had serious infections. Among patients who received cefazolin in randomized controlled trials, 11.4% (70 of 615) had serious
+postoperative morbidity, and serious infection deve'loped in 6.3% (17 of 269) of patients who received
+prophylactic metronidazole. Of all of the patients who
+received tinidazole, 5.0% (5 of 101) had serious postoperative morbidity.
+Comment
+Our cumulative meta-analyses have shown that antibiotics are highly protective against serious infectious
+morbidity associated with total abdominal hysterectomy. Overall, antibiotic prophylaxis can prevent more
+than one half (9.0% versus 21.1%) of the serious infectious morbidity experienced by women who undergo
+this surgical procedure. Although controversy may still
+exist concerning the benefits of one antibiotic versus
+another, we believe that the question of antibiotic prophylaxis for this indication has been answered by this
+meta-analysis.
+Volume 169, Number 5
+AmJ Obstet Gynecol
+Why has there been such controversy over the use of
+antibiotic prophylaxis, and why has there been such a
+long delay in recognizing the efficacy of antibiotic
+prophylaxis for abdominal hysterectomy? First, trials
+are often performed simultaneously. Thus the published results of one controlled trial cannot exert influence on the design of another concurrent trial. Moreover, even when trials are not running simultaneously,
+there is a median 3-year delay between initiation of a
+study and the publication of its results. For example,
+because five of the randomized controlled trials that
+used cefazolin were published between 1978 and 1980,
+when the inappropriateness of a no-treatment control
+group became clear, it was not possible for any of the
+prinicpal investigators to have been aware of that fact.
+The latest study that compares the outcome of patients
+who received cefazolin with a group of controls who
+received no treatment was published in 1986.
+Naturally, those who test the efficacy of antibiotics in
+the prevention ofserious infection after total abdominal
+hysterectomy are obligated to review the available results of past trials before deciding whether to conduct
+another study. Moreover, to help ensure that a study
+has adequate power to minimize the occurrence of a
+type II error (an error in which the researcher fails to
+establish the benefits of antibiotic prophylaxis when, in
+fact, there is a benefit), it is necessary to determine the
+adequacy of sample sizes before conducting a randomized controlled trial. Of the 25 trials included in this
+meta-analysis, we found that only seven protocols provided evidence that sample sizes had been calculated,
+and to our knowledge none of the protocols considered
+past trials when the numbers of patients necessary for
+inclusion in their trials were determined.
+Second, despite the usefulness of meta-analysis, some
+investigators object to pooling the results of both statistically significant and statistically nonsignificant trials.
+Opponents of pooling cite differing definitions of drug
+regimens and end points and inherent differences in
+patients and hospitals that exist between the various
+randomized controlled trials . Although 15 different
+antibiotics and three different modes of administration
+(parenteral, oral, or intravaginal) were used in our
+meta-analysis, all were intended to decrease the risk of
+serious infectious morbidity after total abdominal hysterectomy. In our opinion, all 25 of the randomized
+controlled trials included in our meta-analysis were
+sufficiently alike in both definition of end points and
+regimen so that pooling did not violate statistical principles. If the results of the various studies had been
+pooled at an earlier date, the inappropriateness of
+controls who received no treatment would have been
+discovered in 1980 for cefazolin, in 1984 for metronidazole, and in 1986 for tinidazole.
+Third, some clinicians may have rejected the concluMittendorf et al. 1123
+sions of the statistically significant randomized controlled trials because of doubts concerning their quality.
+As we have already reported, the average quality score
+of the protocols for the 25 randomized controlled trials
+that we included in our meta-analysis was 0.39 (95%
+confidence interval 0.35 to 0.44, range 0.17 to 0.63). By
+comparison, the mean quality score for > 300 miscellaneous randomized controlled trials was found to be
+0.42 .41 Thus in terms of this comparison there is no
+reason to believe that the protocols used for studies that
+assess the value of prophylaxis in total abdominal hysterectomy are of statistically significantly lower quality
+than are the protocols used for certain other clinical
+trials.
+In conclusion, we believe that randomized controlled
+trials of antibiotic prophylaxis in abdominal hysterectomy that use controls who received no treatment are
+no longerjustified. Our meta-analysis has shown that at
+least three drugs- cefazolin, metronidazole, and tinidazole-are effective in the prevention of serious infectious morbidity associated with this surgical procedure.
+Future randomized controlled trials conducted to find
+other efficacious prophylactic antibiotics should use one
+of these three drugs as a control. In our opinion,
+however, a more useful study would be one that compares metronidazole with cefazolin. To determine
+whether metronidazole is 50% more effective than cefazolin in preventing serious infectious morbidity, the
+study would require 518 subjects in each of the two
+treatment arms to achieve = 0.20 (80% power) and
+a. = 0.05 (two tailed).
+REFERENCES
+I. Sweet RL, Gibbs RS. Infectious disease of the female
+genital tract. 2nd ed. Baltimore: Williams & Wilkins, 1990:
+460-73.
+2. Droegemueller W. Preoperative management. In: Herbst
+AL, Mishell DR Jr, Stenchever MA, eds. Comprehensive
+gynecology. 2nd cd. St. Louis : Mosby-Year Book, 1992:
+729-32.
+3. Chalmers TC, Smith H, Blackburn B, et al. A method for
+assessing the quality of a randomized control triaL Controlled Clin Trials 1981;2:31-49.
+4. Mantel N, Haenszel W. Statistical aspects of the analysis of
+data from retrospective studies of disease. J Nat! Cancer
+Inst 1959;22:719-48.
+5. Yusuf S, Peto R, Lewis J , Collins R, Sleight P. Beta
+blockade during and after myocardial infarction: an overview of the randomized trials . Prog Cardiovasc Dis 1985 ;
+27:3 35-71.
+6. Cochran WG. The combination of estimates from different
+experiments. Biometrics 1954; I0:101-29.
+7. DerSimonian R, Laird N. Meta-analysis in clinical trials .
+Controlled Clin Trials 1986;7:177-88.
+8. Berlin JA, Laird NM, Sacks HS, Chalmers TC. A comparison of statistical methods for combining event rates from
+clinical trials . Stat Med 1989;8:141-52.
+9. Lau J, Antman EM, Jimenez-Silva J, Kupelnick B, Mosteller F, Chalmers TC . Cumulative meta-analysis of therapeutic trials for myocradial infarction. N Engl J Med
+1992;327:248-54.
+10. Allen J L, Rampone JF, Wheeless CR. Use of a prophylactic
+1124 Mittendorf et al.
+anti biotic in elective major gynecologic ope rations. Ob stet
+Gyneco l 1972;39:218-24 .
+II. Ohm Mj, Galask RP. T he effect of antibiotic prophylax is
+on patient s undergoing vaginal operations . 1. The effect
+on morbidity. AM] OBSTET GYNECOL 1975;123:590-6.
+12. Mathews DO, Ross H, Cooper J. A doubl e-blind trial of
+single -dose chemoprophylaxis with co-trirnoxazole during
+total abdo minal hysterectomy. Br j Obstet Gynaecol 1977 ;
+84:894 -7.
+13. Appelbaum PC, Moodl ey J. Chatterton SA, Cowan DB,
+Africa CWo Metronidazole in the prop hylaxis and treatment of anaerobic infect ion . S Afr Med j 1978;54: 703-6.
+14. Holm an jF, McGowan jE, Thompson jD. Perioperative
+antibiotics in major electi ve gynecologic surgery. South
+Med ] 1978;71:417-20.
+15. j ennings RH. Prophylactic antibiotics in vaginal and abdominal hysterectomy. South Medj 1978;71:251-4.
+16. Roberts ]M, Homesley HD . Low-dose carbe nicillin prophylaxis for vaginal and abdominal hysterectomy. Obstet
+Cynecor 1978;52:83-7.
+17. Adn o j, Cassel R. The effect of prophylactic tinidazole on
+the anaerobic vaginal flora in patients under going gynaecological surgery. S Afr Med] 1979;56:565-8.
+18. Gro ssma n jH, Gre co TP, Minkin M], Adam s RL, Hierholzer \~J ]r, Andriole Yr. Prophylactic ant ibiotics in
+gynecologic surgery. Obst et Gynecol 1979;53:537-44.
+19. Polk BF, Ta ger IB, Sha piro M, Goren-White B, Gold stein
+P, Schoe nbaum SC. Random ised clinical trial of perioperative cefazolin in preventing infection after hysterectomy.
+Lan cet 1980;1:437-40 .
+20. Itskovitz ] , Brandes]M, Urbach], Fisher M. The effect of
+a short-term course of antibiotic prophylaxis on pati ents
+undergoing total abd ominal hysterectomy. Eur ] Obstet
+Gynecol Reprod Bioi 1980;22:101-7 .
+21. Stage AH, Glover DD, Vau ghan ]E. Low-dose cephradine
+prophylaxis in obstetric and gynecologic sur gery. ] Reprod Med 1982;27: 113-9.
+22. Vinceleue ] , Finkel stein F, Aoki FY, Ogilvie RI, Richards
+GK, Seymo ur I\J. Double-blind trial of periopera tive intravenous metronidazole prophylaxis for abdominal hysterectom y. Can Med Assoc ] 1982;127:119-23.
+23. Duff P. Antibiotic prophylaxis for abdominal hyster ectom y. Obstet Gynecol 1982;60:25-9.
+24. Walker EM, Gordon AJ, Warren RE, Hare MJ. Prophylactic single-d ose metron idazole before abdo mina l hysterectom y. Br] Obstet Gynaecol 1982;89:957-61.
+25. Gall SA, Hill G. Cefoperazone as a prop hylactic agent in
+abd ominal hysterectomy. Rev Infect Dis 1983;5[suppl I):
+S200-1.
+26. Houang ET, Watson C, Howell R, Chapman M. Amp icillin
+combined with sulbactam or metronidazole for single-dose
+chemop rophylaxis in major gynaeco logical surgery . .J Antirnicrob Chernother 1984;14:529- 35.
+November 1993
+AmJ Obstet Gynecol
+27. Gonen R, Hakim M, Samberg I, Levitan Z, Sharf M.
+Short-term prophylactic antibiotic for elective abdo minal
+hysterectomy: how shor t? Eur ] Obst et Gynecol Reprod
+Bioi 1985;20:229- 34.
+28. Crosthwaite AH, Hu rse AB, McDonald lA, Miles HM ,
+Pavillard ER. Single dose tinidazole prophylaxis in hyste rectomy. Aust N Z] Ob stet Gynaecol 1985;25:55-8.
+29. Evald son GR, Lindgren S, Malmborg AS, Nord CEo Singledose intravenous tinid azole prophylaxis in abdominal hysterectomy. Acta Ob stet Gyneco l Scand 1986 ;65:36 I-5.
+30. Hakim M, Gonen R, Levitan Z, Sharf M. Broad spectru m
+antibiotics as short term prophylaxis for elective abdominal hysterectomy: com pa rison of me zlocillin, cefazolin and
+pla cebo. Int ] Gynaecol Obstet 1986;24:157-60.
+3 1. Davey PG, Duncan 10, Edward 0 , Scott AC. Cost-benefit
+analysis of cephradine and mezl ocillin prophylaxis for
+abdominal and vaginal hysterectomy. Br] Obstet Gynaecol 1988;95:1170-7 .
+32. Hemsell DL, Reisch], Nobles B, Hemsell PG. Prevention
+of major infection afte r elective abdominal hysterectomy:
+individual determination required. AM] OBSTET GYNECOL
+1983;147 :520-8.
+33. Kauppila A, Rauti ainen H, Tuimala R. Prevention of
+posthysterecrorny infection with a com bination of preoperative vaginal 'and periop er ative intraven ous administration of metronidazole. Ann Chir GynaecoI1 983;72:214-7.
+34. Mun ck AM, Jensen HK . Preoperative clind amycin treat -
+ment and vaginal drain age in hysterectom y. Acta Obstet
+Gynecol Scand 1989;68:241-5.
+35. Popkin DR, Martin ez LA, Carswell GA. Metronidazole in
+the prophylaxis of anaerobic infecti ons in gynecol ogic
+surgery . Surgery 1983;93:180-4.
+36. Savage EW, Thadepalli H, Rambhatla K, Roy 1, Davidson
+EC Jr. Minocycline prophylaxis in elective hysterectomy.
+J Reprod Med 1984;29:81- 7.
+37. Chowdhury TA, Huq F, Ali S. Prophylactic administration
+of tinidazole in major gynaecological surgery . Asia Oceania J Ob stet Gynaecol 1984;10: 163-6.
+38. Kuhn RJ. Chemoprophylaxis with tinida zole in maj or
+gynaecological surgery. Aust N Z J Ob stet Gynaecol 1980;
+20:43-6.
+39. Wheel ess CR J r, DorseyJH, Wharton LRJr. An evalua tion
+of prophylactic doxycycline in hysterectomy patients.
+J Reprod Med 1978;21:146-50.
+40. Munck AM, Jensen HK. Preoperative clinda mycin treatment and vaginal drainage in hysterectomy. Acta Obs tet
+Gynecol Scand 1989 ;68:241-5.
+41. Reitm an 0 , Sacks HS, Chalmers TC. T echni cal quality
+assessment of randomized con trol trials (RCTs). Controlled Clin T rials 198 7;8:282.

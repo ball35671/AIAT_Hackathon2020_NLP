@@ -1,0 +1,688 @@
+﻿Gabapentin in neuropathic pain syndromes:
+a randomised, double-blind, placebo-controlled trial
+M.G. Serpella,*, Neuropathic Pain Study Group1b
+a
+University Department of Anaesthesia and Pain Management, Gartnavel General Hospital, 30 Shelly Court, Glasgow G12 0YN, Scotland, UK b
+UK and Republic of Ireland participating investigators, UK
+Received 10 April 2001; received in revised form 28 June 2002; accepted 8 July 2002
+Abstract
+A double-blind, randomised, placebo-controlled 8-week study was conducted to evaluate the efficacy and safety of gabapentin in the
+treatment of neuropathic pain, using doses up to 2400 mg/day. The study used a novel design that was symptom- rather than syndrome-based;
+an approach that aimed to reflect the realities of clinical practice. Participants had a wide range of neuropathic pain syndromes, with at least
+two of the following symptoms: allodynia, burning pain, shooting pain, or hyperalgesia. Patients were randomised to gabapentin ðn ¼ 153Þ or
+placebo ðn ¼ 152Þ. Gabapentin was given in three divided doses, initially titrated to 900 mg/day over 3 days, followed by two further
+increases, to a maximum of 2400 mg/day if required by the end of week 5. The primary outcome measure was changed in average daily pain
+diary score (baseline versus final week). Over the 8 week study, this score decreased (i.e. improved) by 1.5 (21%) in gabapentin treated
+patients and by 1.0 (14%) in placebo treated patients (P ¼ 0:048, rank-based analysis of covariance). Significant differences were shown in
+favour of gabapentin ðP , 0:05Þ for the Clinician and Patient Global Impression of Change, and some domains of the Short Form-McGill
+Pain Questionnaire. Improvements were also shown in patient-reported outcomes in quality of life, as seen by significant differences in
+favour of gabapentin in several domains of the Short-Form-36 Health Survey. Gabapentin was well tolerated and the majority of patients
+completed the study (79 versus 73% for placebo). The most common adverse events were mild to moderate dizziness and somnolence, most
+of which were transient and occurred during the titration phase. This study shows that gabapentin reduces pain and improves some quality-oflife measures in patients with a wide range of neuropathic pain syndromes. q 2002 International Association for the Study of Pain. Published
+by Elsevier Science B.V. All rights reserved.
+Keywords: Antiepileptic; Neuropathies; Neuropathic pain; Neuralgia; Neurontin/gabapentin; Quality of life/patient outcomes
+1. Introduction
+Neuropathic pain affects approximately 1% of the population of the UK, and is one of the most difficult types of
+pain to treat (Karlsten and Gordh, 1997). It can arise from a
+wide variety of causes, such as trauma, disease, infection, or
+it may be idiopathic in origin. Common examples of neuropathic pain include diabetic neuropathy, postherpetic neuralgia (PHN), nerve root pain due to degenerative spine
+disease, phantom limb pain following amputation, and
+neuropathic pain subsequent to severe trauma or surgery.
+Neuropathic pain is typically severe, slow to resolve, and
+extremely distressing. Like other forms of chronic pain, it
+can have a devastating impact on patients’ psychological
+health, social functioning, and other aspects of healthrelated quality of life (Guerje et al., 1998).
+Neuropathic pain usually responds poorly to the standard
+treatments described in the World Health Organization’s
+analgesics ladder, such as non-steroidal antiinflammatory
+drugs (NSAIDs) and opioids (Karlsten and Gordh, 1997).
+Antidepressants have been shown to be of benefit in diabetic
+neuropathy, with the best effects achieved with tricyclic
+antidepressants (TCAs) (McQuay and Moore, 1998).
+However, the adverse events of TCAs are frequently severe
+enough to lead to drug withdrawal (Karlsten and Gordh,
+1997), and no antidepressant is currently licensed for the
+treatment of neuropathic pain in the UK.
+Antiepileptics have also demonstrated efficacy in some
+types of neuropathic pain. Systematic reviews have reported
+carbamazepine to be of significant benefit in trigeminal
+neuralgia, diabetic neuropathy, and central neuropathic
+pain (McQuay et al., 1995; Sindrup and Jensen, 1999). In
+March 2000, the antiepileptic gabapentin became the first
+Pain 99 (2002) 557–566
+0304-3959/02/$20.00 q 2002 International Association for the Study of Pain. Published by Elsevier Science B.V. All rights reserved.
+PII: S0304-3959(02)00255-5
+www.elsevier.com/locate/pain
+1 See full listing under acknowledgements.
+* Corresponding author. Tel.: 144-141-211-2069; fax: 144-141-211-
+1806.
+E-mail address: mgserpell@altavista.net (M.G. Serpell).
+agent to be licensed in the UK for the treatment of all neuropathic pain conditions, based on evidence from large randomised trials in two types of neuropathic pain: diabetic
+neuropathy (Backonja et al., 1998) and PHN (Rowbotham
+et al., 1998; Rice and Maton, 2001).
+Case reports, pilot studies, and retrospective reviews also
+suggest efficacy for gabapentin in a variety of neuropathic
+pain syndromes (Wetzel and Connelly, 1997), including
+trigeminal neuralgia (Sist et al., 1997; Carrazana and
+Schachter, 1998; Valzania et al., 1998), complex regional
+pain syndromes (CRPS, Mellick et al., 1995; Mellick and
+Mellick, 1997), neuropathic pain associated with multiple
+sclerosis (Houtchens et al., 1997; Samkoff et al., 1997;
+Khan, 1998), neuropathic cancer pain (Caraceni et al.,
+1999), and other types of neuropathic pain (Rosenberg et
+al., 1997).
+We conducted a randomised, double-blind, placebocontrolled study to examine the safety and efficacy of gabapentin at doses of up to 2400 mg/day in a wide range of
+neuropathic pain syndromes. This study used a novel
+approach in which the inclusion criteria were based on the
+presence of specific symptoms, allowing patients with
+diverse neuropathic pains to participate in the study. This
+approach reflects not only the realities of clinical practice,
+but also the recent trend towards defining neuropathic pain
+in terms of common symptoms and mechanisms rather than
+as a group of disparate syndromes (Woolf and Mannion,
+1999).
+2. Methods
+2.1. Subjects
+This randomised, double-blind, placebo-controlled,
+parallel group, multicentre study in 35 hospital outpatient
+pain clinics in the UK and Republic of Ireland was
+conducted between June 1999 and February 2000.
+The aim of patient recruitment was to reflect common
+clinical conditions and practice in many chronic pain
+clinics. Patients were male or female, aged at least 18
+years, and of any race. All were required to have a definite
+diagnosis of neuropathic pain, made and confirmed by an
+experienced, practicing chronic pain specialist and based on
+clinical grounds of history, examination, and appropriate
+investigation of symptoms and signs expressed by the
+patient. All investigators utilised the definitions of diagnostic criteria documented in the International Association for
+the Study of Pain (IASP) Classification of Chronic Pain to
+support their clinical judgement (Merskey and Bogduk,
+1994). In addition to a definite diagnosis of neuropathic
+pain, all subjects were required to have at least two of the
+following non-specific symptoms, which are frequently seen
+but are not diagnostic of different underlying mechanisms of
+neuropathic pain: allodynia (pain from a non-noxious stimulus, e.g. touch), burning pain, shooting pain, or hyperalgesia
+(increased sensitivity to a noxious stimulus). These symptoms could be associated with any neuropathic pain
+syndrome, and were selected because two common signs
+of nerve dysfunction are allodynia and hyperalgesia (Boureau et al., 1990; Galer and Jensen, 1997; Bennett, 2001;
+Serra, 1999) and because patients commonly use ‘burning’
+or ‘shooting’, or similar words, to describe their pain. Allodynia and hyperalgesia were demonstrated and explained to
+the patient by physical examination and reinforced by a
+written definition.
+Patients had to complete at least 4 daily pain diaries
+during the 7 days prior to randomisation, yielding an average score $4 out of 11 over this period. Women were
+required to be non-pregnant (using barrier or hormonal
+contraception where appropriate), non-lactating, postmenopausal, or surgically sterilised.
+Exclusion criteria included: failure to respond to previous
+treatment with gabapentin at $900 mg/day or failure to
+respond to gabapentin at any dose level due to side effects;
+known creatinine clearance #60 ml/min or known renal
+impairment; clinically significant hepatic, respiratory,
+haematological illnesses or unstable cardiovascular disease;
+significant neurological or psychiatric disorders unrelated to
+causes of neuropathic pain, which, in the opinion of the
+investigator, might impair the assessment of pain; other
+severe pain that might impair the assessment of neuropathic
+pain; any other serious or unstable conditions that might
+compromise participation in the study; illicit drug or alcohol
+abuse within the past year.
+2.2. Study design
+Using a centrally held, computer generated randomisation list, patients were randomised sequentially to gabapentin or placebo in a 1:1 ratio, in block sizes of four.
+Gabapentin and placebo were provided in the form of identical capsules.
+The study included a 1-week baseline period, after which
+patients randomised to gabapentin entered a 5-week titration
+period, in which the initial dose for all patients was 900 mg/
+day (titrated up over 3 days). Patients who did not show at
+least 50% reduction in overall pain were increased to
+1800 mg/day, and again, where necessary, to 2400 mg/day
+(dose level changes were made at two weekly intervals).
+Patients received therapy for a total of 8 weeks (Fig. 1).
+Various specified drugs, physical therapies, and complementary remedies for the relief of neuropathic pain were
+prohibited prior to and during the study. Guanethidine or
+sympathetic blocks could not be used for the 3 months
+preceding the study or during the study; strong opioids,
+acupuncture, and homoeopathic remedies could not be
+used for 30 days prior to the study; a washout period of
+14 days prior to screening was required for benzodiazepines,
+skeletal muscle relaxants, steroids, capsaicin, mexiletine,
+dextromethorphan, NSAIDs (used for the treatment of
+neuropathic pain), and antiepileptics; and the use of trans558 M.G. Serpell et al. / Pain 99 (2002) 557–566
+cutaneous electrical nerve stimulation (TENS) machines
+was prohibited throughout the study.
+Patients were, however, allowed to continue on antidepressants (TCAs or selective serotonin reuptake inhibitors)
+if stable on treatment for 30 days preceding the study, but
+antidepressant treatment could not be started during the
+study. Existing treatment with aspirin (up to 300 mg/day)
+for cardiovascular prophylaxis and with NSAIDs for the
+treatment of conditions other than neuropathic pain was
+permitted, as were mild opioids (e.g. codeine phosphate,
+co-dydramol). Patients were permitted to take paracetamol
+(up to eight 500-mg tablets per day) or codeine/paracetamol
+(30 mg/500 mg) up to eight tablets per day as rescue medication.
+2.3. Efficacy outcomes
+The primary efficacy parameter was the change in mean
+weekly pain diary score from baseline to the final study
+week. On waking each morning, patients assessed the pain
+of the previous 24 h, using an 11-point Likert scale with 0 as
+‘no pain’ and 10 as ‘worst possible pain.’ Baseline score was
+the mean of the last 4–7 pain diary entries preceding visit 1.
+The final weekly mean pain score (end point) was the mean
+pain score from the last 7 days preceding visit 5, or the final
+7 days on study medication for patients who did not
+complete the study.
+Secondary efficacy parameters were the diary assessment of
+individual pain symptoms (allodynia, burning pain, shooting
+pain, and hyperalgesia), the Short Form-McGill Pain Questionnaire (SF-MPQ); the Clinician Global Impression of
+Change (CGIC); and Patient Global Impression of Change
+(PGIC). Quality of life was assessed using the Short Form36 (SF-36) Health Survey (Ware, 1993).
+Allodynia and hyperalgesia were measured by asking the
+patient to self-evaluate according to the definition (written
+and explained to all patients) and then respond by visual
+analogue scale (VAS) of 0–10.
+Patients were assessed every 2 weeks at scheduled visits
+or by telephone (Fig. 1) for reports of pain and adverse
+events (elicited by non-specific questioning). Data for the
+SF-MPQ, SF-36, CGIC, and PGIC were collected at week 7.
+The protocol was approved by the South and West Multicentre Research Ethics Committee; each centre’s Local
+Research Ethics Committee and patients provided written
+informed consent.
+2.4. Data analysis
+Patients were regarded as evaluable in the statistical analysis if, once randomised, they took at least one dose of study
+medication, and had both baseline and post-randomisation
+data available. Additionally, patients with baseline diary
+scores of ,2 for any symptom were excluded from analysis
+of that symptom. All statistical tests were two-sided and
+performed at a 5% significance level.
+The analysis of pain diary data, the primary efficacy variable, used analysis of covariance (ANCOVA), fitting treatment, geographic cluster (centre), and mean score from the
+final seven pre-treatment measurements as covariates. The
+primary analysis was based on a rank-based ANCOVA
+(Conover and Iman, 1982), since the planned analysis
+using raw data did not satisfy the required statistical
+assumptions and this situation could not be resolved by
+transformation.
+Secondary analyses were of change in mean pain scores
+from each week of treatment, weekly and final diary scores
+for the four individual symptoms, each analysed using the
+same model as in the primary analysis. The CGIC and PGIC
+and percentage of patients with a .50% reduction in mean
+overall pain scores were analysed using a Mantel–Haenszel
+Chi-square test (an extension of the Chi-squared test for
+comparing proportions in the presence of confounding
+factors), adjusting for centre (Fleiss, 1981). Centres recruiting relatively lower numbers of participants were grouped
+together for the purposes of the analyses. Changes in each
+domain score of the SF-MPQ and SF-36 were analysed
+using ANCOVA.
+In addition, an interaction test was performed to establish
+whether or not treatment effects differed among the various
+pain syndromes reported by this cohort. This required that
+data be grouped into five categories: back pain, CRPS, PHN,
+postsurgical pain, and other pain.
+3. Results
+3.1. Subjects
+Of 351 patients screened, 307 were randomised. Twentyfour of the screened patients did not meet the entry criteria,
+M.G. Serpell et al. / Pain 99 (2002) 557–566 559
+Fig. 1. Study design.
+and 20 were withdrawn for other reasons. Two randomised
+patients withdrew before receiving any medication and 305
+patients received active treatment (153 with gabapentin and
+152 with placebo) (Fig. 2). Patient characteristics at baseline
+are summarised in Table 1. The treatment groups were well
+matched at baseline in terms of age, sex, duration of disease,
+and previous drug treatment (Table 1).
+The numbers and percentages of patients suffering from
+different neuropathic syndromes are shown in Table 2. Of
+the four main symptoms of neuropathic pain, at baseline 211
+(69%) reported allodynia, 245 (80%) burning pain, 262 (86%)
+shooting pain, and 217 (71%) hyperalgesia. The four main
+symptoms were reported by 111 (36%) patients; 103 (34%)
+and 91 (30%) reported three and two symptoms, respectively.
+At week 5 (the end of the titration period), 101 patients
+were prescribed gabapentin 2400 mg/day; 19 were
+prescribed 1800 mg/day; and 27 were prescribed 900 mg/
+day (28 had been withdrawn by this point). In four gabapentin-treated patients the dosage was reduced during the
+study due to adverse events, and in one it was reduced due to
+adequate efficacy. The median duration of treatment was 57
+days for both treatments (range 3–70 days for gabapentin
+and 5–71 days for placebo).
+The most commonly reported concomitant medications
+during the study were paracetamol, 85 patients (28%);
+amitriptyline, 68 (22%); co-proxamol, 58 (19%); co-codamol, 51 (17%); co-dydramol, 30 (10%); dihydrocodeine, 20
+(7%); and paracetamol plus codeine, 20 (7%). Forty-five
+560 M.G. Serpell et al. / Pain 99 (2002) 557–566
+Fig. 2. Profile of patients at each phase of the study. * The majority of withdrawals due to “other” reasons involved withdrawal of consent or failure to return for
+a visit. † Two patients with drew after randomisation, but prior to receiving treatment.
+patients (15%) reported taking no additional medication for
+neuropathic pain. Six patients were reported as taking
+prohibited medications (carbamazepine, morphine, and
+sodium valproate) during the study. In two cases these
+continued at a steady dose throughout the study, but in
+four cases, they were started or stopped during the baseline
+or treatment evaluation periods and may have affected the
+estimates of efficacy.
+3.2. Efficacy outcomes
+3.2.1. Pain diary scores
+The primary efficacy variable, change in average daily
+pain score from baseline to the final week, showed significant differences between the gabapentin and placebo groups
+(Fig. 3). In gabapentin treated patients the mean pain diary
+score decreased by 1.5 (21%), from 7.1 to 5.6. In placebotreated patients it decreased by 1.0 (14%), from 7.3 to 6.3.
+There was a significant difference between the treatments
+(P ¼ 0:048, rank-based ANCOVA).
+Analysis of the mean pain scores on a week-by-week
+basis showed that the difference between the treatment
+groups was statistically significant at weeks 1, 3, 4, 5, and
+6 (P , 0:05 for weeks 1, 3, 5 and 6; P ¼ 0:01 for week 4).
+At weeks 7 and 8 the gabapentin scores remained constant
+and there was an improvement in the mean placebo scores,
+resulting in a non-significant difference.
+Tests for interaction of the treatment effect with baseline
+pain score and cluster were not significant, confirming the
+generalisability of the results across study centres and the
+range of baseline pain severity.
+3.2.2. Response rate
+Response to treatment was defined as a .50% reduction
+in mean pain score between baseline and the end of treatment. Patients withdrawing from the study due to lack of
+efficacy were classified as non-responders irrespective of the
+pain score. In the gabapentin-treated group, 21% of patients
+were classified as responders, compared with 14% of the
+placebo group ðP ¼ 0:16Þ.
+3.2.3. Individual pain symptoms
+At each weekly assessment, all four symptoms (allodynia,
+burning pain, shooting pain, and hyperalgesia) improved
+more in gabapentin-treated patients than in those on placebo
+(Fig. 4). There were significant differences in burning pain
+(weeks 1 and 3) and hyperalgesia (weeks 3, 4, 5, and 6).
+However, there was no significant difference in the lastobservation-carried-forward (LOCF) analysis. There were
+M.G. Serpell et al. / Pain 99 (2002) 557–566 561
+Table 1
+Patient characteristics at baseline
+Placebo (n ¼ 152) Gabapentin (n ¼ 153)
+Men, n (%) 78 (51.3) 63 (41.2)
+Women, n (%) 74 (48.7) 90 (58.8)
+Median age, years (range) 56.1 (20.3, 86.2) 57.7 (25.9, 88.4)
+Median duration of
+disease, years (range)
+4.4 (0, 27.7) 5.2 (0, 30.8)
+Pain ,3 months, n (%) 19 (12) 18 (12)
+Pain .5 years, n (%) 44 (29) 47 (31)
+Previous drugs tried, n (%)
+Not known 3 (2) 1 (1)
+0 1 (1) 3 (2)
+1 32 (21) 33 (22)
+2 59 (39) 43 (28)
+3 33 (22) 42 (27)
+4 12 (8) 15 (10)
+5 4 (3) 9 (6)
+6–10 7 (5) 7 (5)
+. 10 1 (1) 0 (0)
+Drug categories tried, n (%)
+Anticonvulsant 44 (29) 53 (35)
+Amitriptyline 95 (65) 101 (66)
+Mild analgesics 142 (93) 136 (89)
+Table 2
+Patients suffering from different neuropathic syndromes at baselinea
+Syndrome Number of patients (%)
+Complex regional pain syndrome 85 (28)
+Postherpetic neuralgia 43 (14)
+Radiculopathy 27 (9)
+Postlaminectomy 21 (7)
+Posttraumatic 10 (3)
+Poststroke 9 (3)
+Postinguinal hernia repair 8 (3)
+Thoracotomy 7 (2)
+Phantom limb 7 (2)
+Diabetic neuropathy 7 (2)
+Postmastectomy 4 (1)
+Trigeminal neuralgia 4 (1)
+Atypical facial pain 4 (1)
+Neuroma of peripheral nerve 3 (1)
+Other postsurgical pain 28 (9)
+Other neuropathic pain 38 (12)
+a Investigators used definitions of diagnostic criteria for neuropathic pain
+from the IASP classification of chronic pain (Merskey and Bogduk, 1994)
+to support their clinical judgement.
+Fig. 3. Weekly change from baseline in mean daily pain scores. *P # 0:05
+versus placebo, †
+P # 0:01 versus placebo Crank based ANCOVA.
+no interactions of treatment with baseline or centre.
+Response rates for individual symptoms were consistently
+higher in the gabapentin group than in the placebo group: 23
+versus 15% for allodynia; 32 versus 24% for shooting pain;
+23 versus 15% for burning pain; 26 versus 17% for hyperalgesia.
+3.2.4. Short Form-McGill Pain Questionnaire
+All parameters of the SF-MPQ improved during treatment. Greater improvement was seen in gabapentin-treated
+patients. The difference between gabapentin and placebo
+was statistically significant (P , 0:05, ANCOVA) for the
+sensory score and total score.
+3.2.5. Patient and CGIC
+At the end of treatment, 34% (48/141) of gabapentin-treated
+patients categorised their pain as very much or much
+improved, compared with 16% (22/138) of placebo-treated
+patients (P ¼ 0:03, Mantel–Haenszel). In the CGIC, investigators categorised 38% (53/142) of gabapentin-treated
+patients as very much or much improved, compared with
+18% (25/142) of placebo-treated patients (P ¼ 0:01,
+Mantel–Haenszel).
+3.2.6. Health-related quality of life questionnaire (SF-36)
+Two hundred ninety-seven patients completed the SF-36
+questionnaire at baseline, and 270 had evaluable SF-36
+results from the treatment period. Patients receiving gabapentin scored significantly higher for the bodily pain, social
+functioning, and role-emotional domains (P , 0:05,
+ANCOVA) than those receiving placebo (Fig. 5).
+3.2.7. Interaction test
+Data were grouped according to five major pain categories
+to allow an interaction test for assessment of differences in
+treatment effect according to type of pain. This test found no
+significant difference ðP ¼ 0:29Þ in treatment effect among
+the various pain syndromes analysed in this cohort.
+3.3. Safety
+The most commonly reported adverse events (reported by
+.5% of gabapentin-treated patients), are shown in Table 3.
+All reported occurrences of dizziness started during titration; 86% of occurrences were mild or moderate in intensity
+and 46% resolved prior to withdrawal. Ninety-one percent
+of cases of somnolence occurred during titration; 82% of
+reports were mild or moderate in intensity and 36% resolved
+prior to withdrawal.
+562 M.G. Serpell et al. / Pain 99 (2002) 557–566
+Fig. 4. (a) Allodynia: change from baseline. (b) Shooting pain: change from baseline. (c) Burning pain: change from baseline. *P , 0:05; †
+P , 0:01
+(ANCOVA). (d) Hyperalgesia: change from baseline. *P , 0:05. †
+P , 0:01 (ANCOVA).
+None of the serious, non-fatal adverse events that
+occurred were considered to be related to the study drug,
+except for one gabapentin-treated patient. This patient
+experienced a fainting episode, which resulted in a fractured
+wrist that was thought to be related to study medication.
+Overall, the percentage of withdrawals due to adverse
+events was similar (at 16%) in the two treatment groups
+(Table 3). Seven patients withdrew from gabapentin treatment because of dizziness, compared with five from
+placebo. Four patients withdrew from gabapentin and two
+from placebo because of somnolence. Two additional
+patients withdrew from gabapentin, reporting both dizziness
+and somnolence.
+4. Discussion
+This double-blind, randomised, placebo-controlled,
+multicentre study indicates that gabapentin at doses up to
+2400 mg/day reduces pain in patients with a wide range of
+neuropathic pain syndromes, selected on the basis of specific symptoms. There was no evidence that treatment effect
+differed according to pain syndrome. The primary outcome
+variable, mean pain diary score for the last 7 days of the
+M.G. Serpell et al. / Pain 99 (2002) 557–566 563
+Fig. 5. Summary of changes in domains of the Short Form-36 Health Survey. Scores represent mean change (SE) from baseline to final calculable score
+adjusted for specified covariates (baseline score and cluster/study centre). A positive change indicates improvement. *P , 0:05 versus placebo (Mantel–
+Haenszel).
+Table 3
+Summary of adverse events
+Adverse events Placebo (n ¼ 152) Gabapentin (n ¼ 153)
+All adverse events, n (%) 103 (67.8) 117 (76.5)
+Possibly/probably
+treatment related, n (%)
+56 (36.8) 88 (57.5)
+Deaths, n (%) 2 (1.3)a 0 (0)
+Serious, non-fatal adverse
+events, n (%)
+2 (1.3) 4 (2.6)
+Withdrawals
+Total due to adverse
+events, n (%)
+25 (16.4) 24 (15.7)
+Possibly/probably
+treatment related, n (%)
+17 (11.2) 20 (13.1)
+Adverse events occurring in .5% patients
+Dizziness, n (%) 12 (7.9) 37 (24.2)
+Somnolence, n (%) 8 (5.3) 22 (14.4)
+Infection, n (%) 19 (12.5) 14 (9.2)
+Headache, n (%) 21 (13.8) 14 (9.2)
+Nausea, n (%) 14 (9.2) 14 (9.2)
+Flu syndrome, n (%) 7 (4.6) 11 (7.2)
+Abdominal pain, n (%) 6 (3.9) 10 (6.5)
+Accidental injury, n (%) 8 (5.3) 9 (5.9)
+Diarrhoea, n (%) 6 (3.9) 8 (5.2)
+a Within 1 month after stopping study medication.
+study, decreased by 1.5 (21%) in gabapentin-treated
+patients, compared with 1.0 (14%) in placebo-treated
+patients (P ¼ 0:048, rank-based ANCOVA). There were
+also significant differences in the PGIC and CGIC, and in
+some domains of the SF-MPQ and SF-36.
+This demonstration of the beneficial effect of gabapentin
+in a population selected on the basis of symptoms, rather
+than syndromes, comes in the wake of three recent, large,
+placebo-controlled studies in specific neuropathic pain
+syndromes: PHN and painful diabetic neuropathy (Backonja
+et al., 1998; Rowbotham et al., 1998; Rice and Maton,
+2001). The first randomised, double-blind, placebocontrolled clinical trial in 165 patients in USA showed
+that gabapentin (up to 3600 mg/day) significantly reduced
+pain caused by diabetic neuropathy, as measured by daily
+pain diaries and a variety of other outcome measures (Backonja et al., 1998). Another double-blind, placebo-controlled
+trial in 229 patients also found that gabapentin (up to
+3600 mg/day) significantly reduced pain caused by PHN
+(Rowbotham et al., 1998). Most recently, a double-blind,
+placebo-controlled study in 334 patients in the UK and the
+Republic of Ireland has demonstrated the efficacy and safety
+of gabapentin in PHN at doses of 1800 and 2400 mg/day
+(Rice and Maton, 2001).
+To our knowledge, ours is the first large randomised,
+placebo-controlled trial in which the inclusion criteria
+were symptom-based. As a result, it included patients with
+a wide variety of neuropathic pain syndromes, representing
+the typical range of neuropathic pain disorders encountered
+in pain clinics. We also found, by interaction test analysis,
+that there were no differences in treatment effect among the
+various pain syndromes studied, with all types of pain showing responsiveness to gabapentin. Our study was also
+unusual in that it examined overall pain scores and scores
+for individual pain symptoms; a symptom-based analysis of
+neuropathic pain is increasingly regarded as important in the
+assessment of disease progression and treatment outcome
+(Woolf and Mannion, 1999). It has been demonstrated in
+humans that even a single disease entity such as PHN can
+produce at least two separate subsets of patients based on
+different symptoms and signs (Rowbotham and Fields,
+1996). These symptoms and signs are presumably due to
+different neural abnormalities and hence will respond to
+different mechanistic approaches (Serra, 1999).
+For ethical reasons, the study excluded patients who had
+previously failed to respond to gabapentin at $900 mg/day
+or to gabapentin at any dose due to side effects. Although no
+data are available for the number of gabapentin non-responders, it could not have been very large (only 24 of 351
+patients screened did not meet the entry criteria), suggesting
+this was unlikely to affect the overall evaluation of the efficacy of gabapentin. In addition, excluding patients already
+known to be non-responders to a proposed treatment regimen reflects the reality of clinical practice.
+All four symptoms (allodynia, burning pain, shooting
+pain, and hyperalgesia) showed a consistently greater
+improvement in gabapentin-treated patients than in those
+on placebo (Fig. 4), although the difference was only statistically significant for burning pain (visits 1, 3, and 4) and
+hyperalgesia (visits 3, 4, 5, and 6). While, for each pain
+symptom, the percentage of responders was higher in the
+gabapentin group than in the placebo group, there is no
+evidence from this study to indicate that gabapentin is
+more beneficial in one pain symptom than another.
+In an open-labelled series of 18 patients with mixed
+neuropathic pain, gabapentin demonstrated significantly
+better improvement in paroxysmal pain versus ongoing
+pain and in certain signs such as dynamic versus static
+mechanical allodynia (Attal et al., 1998). Thus, evidence
+that specific symptoms and signs should be evaluated is
+beginning to emerge, as these symptoms and signs may
+respond differently to treatment.
+Due to the design of the study, it is not possible to draw
+any conclusions regarding a dose–response effect of gabapentin. In practice, the majority of patients (101 of 126)
+were titrated up to the maximum dose of 2400 mg/day
+after 4 weeks. Most patients tolerated gabapentin well
+enough to allow titration up to 2400 mg; only four gabapentin-treated patients required dose reduction during the study
+due to adverse events.
+However, it is important to note that the clinical benefits
+of gabapentin were apparent early in treatment, before the
+dose had been titrated up to the maximal level. The effect on
+overall pain was significant during the first week, while all
+patients in the gabapentin-treatment group received only
+900 mg/day. There was also a statistically significant effect
+on overall pain at weeks 3 and 4, before any of the patients
+had been titrated up to 2400 mg/day. This confirms the efficacy of gabapentin within the licensed dose range (up to
+1800 mg/day in the UK). One reason pain scores did not
+further improve after week 6 may be that patients might
+have become more active toward the end of the study.
+This is supported by the improvements in SF-36 scores in
+the areas of social functioning and emotions, both at home
+and at work.
+Although the reduction in mean pain scores and the
+response rates obtained with gabapentin in this study were
+modest, the refractory nature of the pain and its duration
+should be borne in mind. Previously, 66% of patients had
+tried amitriptyline and 32% had tried antiepileptics. A mean
+baseline pain score of 7.2 (indicating severe pain) suggests
+that these standard treatments for neuropathic pain were not
+particularly successful in this population. In addition, 22%
+of patients continued to take a stable dose of amitriptyline
+throughout the study. A recent editorial highlights the fact
+that some patients can rate the global impression of change
+in pain as ‘much improved’ with changes in pain VAS of as
+little as 0.5 because improvement is measured in other
+domains, e.g. sleep and function (Rowbotham, 2001).
+The efficacy of treatments for neuropathic pain can be
+measured not only in terms of the amount of pain the patient
+experiences, but also in terms of their overall physical and
+564 M.G. Serpell et al. / Pain 99 (2002) 557–566
+emotional well-being (quality of life). Neuropathic pain is
+known to reduce quality of life, including mood and physical and social functioning (Haythornthwaite and BenrudLarson, 2000). This study used a validated instrument, the
+SF-36 Health Survey, to measure quality of life. Gabapentin-treated patients scored significantly better than placebotreated patients for all eight domains. For three of the
+domains (bodily pain, social functioning, and role
+emotional), the difference was statistically significant. The
+beneficial effect of gabapentin on the social functioning and
+role emotional subscores is of particular interest, as the
+questions included in these domains focus on patients’ ability to take part in everyday activities at work and at home.
+Gabapentin was well tolerated in this study. The most
+common adverse events, which were more frequent in gabapentin-treated patients, were dizziness and somnolence.
+These events were usually mild to moderate in intensity,
+occurred early during treatment, and tended to resolve
+with continued treatment. The titration rate for this study
+was slower than in other trials, (Backonja et al., 1998;
+Rowbotham et al., 1998) which may partially explain the
+low rate of withdrawals due to adverse events. For some
+patients, gabapentin may offer advantages in terms of tolerability compared with TCAs or antiepileptics.
+Gabapentin is currently the only agent licensed specifically for neuropathic pain in the UK, and offers clinicians a
+new useful option in the management of this group of disorders. This study supports the evidence from studies in PHN
+and painful diabetic neuropathy (Backonja et al., 1998;
+Rowbotham et al., 1998), and provides further evidence of
+the clinical utility of gabapentin, with significant beneficial
+effects on overall pain scores and quality of life. With slow
+titration to a dose of 2400 mg/day, the clinical benefits of
+gabapentin in this study were not compromised by side
+effects.
+Perhaps as important as the efficacy outcome in this
+study, however, is its innovative design. It aimed to reflect
+the real-life management of neuropathic pain by including
+patients with a broad spectrum of both common and uncommon neuropathic pain syndromes, included on the basis of
+their symptomatology. Traditionally, neuropathic pain is
+classified on the basis of the aetiology of the insult to the
+nervous system or the anatomical distribution of the pain.
+This may be useful for differential diagnosis, epidemiological studies, or for treatment aimed at modifying the progression of the underlying diseases. However, it offers no
+framework for clinical management of the pain (Woolf
+and Mannion, 1999). Moreover, not all cases of neuropathic
+pain fall into precise diagnostic categories.
+In the future, it may be possible to identify the mechanisms responsible for pain in a particular individual, and to
+tailor treatment to match the specific mechanisms. In the
+meantime, there is a clear clinical requirement for treatments that are effective not only in individual syndromes,
+but also across the broader range of neuropathic pain
+syndromes encountered in everyday clinical practice.
+Acknowledgements
+This multicentre research project was fully funded by
+Parke-Davis and monitored by a contract research organisation, Imro Tramarko Ltd, as well as by Parke-Davis personnel.
+The authors thank S.-J. Bibby (clinical trials coordinator,
+Parke-Davis) and S. Maton (biometrics manager, ParkeDavis) for their assistance in study design, execution, and
+analysis. We also thank the investigators who recruited
+patients for the study and collected all the patient data.
+Principal investigators for the participating centres include:
+Dr F.D.O. Babatola, Manor Hospital; Dr G. Batchelor,
+Pilgrim Hospital NHS Trust; Dr M. Bone, Leicester General
+Hospital; Dr J.C. Burnell, Kettering General; Dr F. Campbell, University Hospital Nottingham; Dr G. Cavill, Wonsbeck Hospital; Dr F. Chambers, Mater Hospital; Dr S.W.
+Conian, Frenchay Hospital; Dr R. Davies, East Glamorgan
+General Hospital; Dr D. Eastwood, Arrowe Park Hospital;
+Dr P. Griffiths, Royal Cornwall Hospital; Dr D.R. Haines,
+Hull Royal Infirmary; Dr D. Harley, Chesterfield Royal
+Hospital; Dr D. Kapur, Royal Victoria Infirmary; Dr J.
+MacLeod, Birmingham City Hospital; Dr K. Markham,
+Frimley Park Hospital; Dr. P Mathew, Queen Elizabeth
+Hospital; Dr E. O’Sullivan, Stepping Hill Hospital; Dr C.
+Power, Tallaght Hospital; Dr P. Rogers, Queen Alexandra
+Hospital; Dr M. Serpell, Gartnavel General Hospital; Dr J.
+Skinner, Ipswich District General Hospital; Dr R. Summerfield, Royal Hampshire Hospital; Dr M. Taylor, Derriford
+Hospital; Dr P. Toomey, York District Hospital; Dr P.
+Ventham, Poole General Hospital; Dr A.P. Vickers, Lancaster Acute Hospitals NHS Trust; Dr T. Webb, Glan Clwyd
+District General Hospital; Dr N. Padfield, St. Thomas’
+Hospital; Dr P. Houlton, St. Peters Hospital; Dr P. Collins,
+Musgrove Park Hospital; Dr B. Hoggart, Solihull Hospital;
+Dr S. Tordoff, Northampton District General; Dr J. Gallagher, St. Bartholomew’s Hospital.
+M.G.S. received a consultancy fee from Parke-Davis for
+his independent help and advice on this project. Research
+personnel involved in this project were also compensated by
+Parke-Davis, receiving fees commensurate with the amount
+of time spent conducting the study.
+References
+Attal N, Brasseur L, Parker F, Chauvin M, Bouhassira D. Effects of gabapentin on the different components of peripheral and central neuropathic pain syndromes: a pilot study. Eur Neurol 1998;40:191–200.
+Backonja M, Beydoun A, Edwards KR, Schwartz SL, Fonseca V, Hes M,
+LaMoreaux L, Garofalo E. Gabapentin for the symptomatic treatment
+of painful neuropathy in patients with diabetes mellitus: a randomized
+controlled trial. J Am Med Assoc 1998;280:1831–1836.
+Bennett M. The LANSS Pain Scale: the Leeds assessment of neuropathic
+symptoms and signs. Pain 2001;92:147–157.
+Boureau F, Doubrere JF, Luu M. Study of verbal description in neuropathic
+pain. Pain 1990;42:145–152.
+Caraceni A, Zecca E, Martini C, De Conno F. Gabapentin as an adjuvant to
+M.G. Serpell et al. / Pain 99 (2002) 557–566 565
+opioid analgesia for neuropathic cancer pain. J Pain Symptom Manage
+1999;17:441–445.
+Carrazana EJ, Schachter SC. Alternative uses of lamotrigine and gabapentin in the treatment of trigeminal neuralgia [letter; comment]. Neurology 1998;50:1192.
+Conover WJ, Iman RL. Analysis of covariance using the rank transformation. Biometrics 1982;38:715–724.
+Fleiss JL. Statistical methods for rates and proportions, . 2nd ed.. New
+York, NY: Wiley, 1981.
+Galer BS, Jensen MP. Development and preliminary validation of a pain
+measure specific to neuropathic pain. The neuropathic pain scale.
+Neurology 1997;48:332–338.
+Guerje O, Von Korff Simon GE, Gater R. Persistent pain and well-being. A
+World Health Organization study in primary care. J Am Med Assoc
+1998;280:147–151.
+Haythornthwaite JA, Benrud-Larson LM. Psychological aspects of neuropathic pain. Clin J Pain 2000;16:S101–S105.
+Houtchens MK, Richert JR, Sami A, Rose JW. Open label gabapentin
+treatment for pain in multiple sclerosis. Multiple Sclerosis
+1997;3:250–253.
+Karlsten R, Gordh T. How do drugs relieve neurogenic pain? Drugs Aging
+1997;11:398–412.
+Khan OA. Gabapentin relieves trigeminal neuralgia in multiple sclerosis
+patients. Neurology 1998;51:611–614.
+McQuay HJ, Moore RA. An evidence-based resource for pain relief, .
+Oxford: Oxford University Press, 1998.
+McQuay H, Carroll D, Jadad AR, Wiffen P, Moore A. Anticonvulsant drugs
+for management of pain: a systematic review. BMJ 1995;311:1047–
+1052.
+Mellick GA, Mellick LB. Reflex sympathetic dystrophy treated with gabapentin. Arch Phys Med Rehabil 1997;78:98–105.
+Mellick GA, Mellicy LB, Mellick LB. Gabapentin in the management of
+reflex sympathetic dystrophy [letter]. J Pain Symptom Manage
+1995;10:265–266.
+Merskey H, Bogduk N, editors. Classification of chronic pain. Descriptions
+of chronic pain syndromes and definitions of pain terms 2nd ed.. Seattle,
+WA: IASP Press, 1994.
+Rice ASC, Maton S. Postherpetic neuralgia study group. Gabapentin in
+postherpetic neuralgia: a randomised double-blind placebo-controlled
+study. Pain 2001;94:215–224.
+Rosenberg JM, Harrell C, Ristic H, Werner RA, de Rosayro AM. The effect
+of gabapentin on neuropathic pain. Clin J Pain 1997;13:251–255.
+Rowbotham MC. What is a ‘clinically meaningful’ reduction in pain? Pain
+2001;94:131–132.
+Rowbotham MC, Fields HL. The relationship of pain, allodynia and thermal sensation in post-herpetic neuralgia. Brain 1996;119:347–354.
+Rowbotham M, Harden N, Stacey B, Bernstein P, Magnus-Miller L. Gabapentin for the treatment of postherpetic neuralgia: a randomized
+controlled trial. J Am Med Assoc 1998;280:1837–1842.
+Samkoff LM, Daras M, Tuchman AJ, Koppel BS. Amelioration of refractory dysesthetic limb pain in multiple sclerosis by gabapentin. Neurology 1997;49:304–305.
+Serra J. Overview of neuropathic pain syndromes. Acta Neurol Scand Suppl
+1999;173:7–11.
+Sindrup SH, Jensen TS. Efficacy of pharmacological treatments of neuropathic pain: an update and effect related to mechanism of drug action.
+Pain 1999;83:389–400.
+Sist T, Filadora V, Miner M, Lema M. Gabapentin for idiopathic trigeminal
+neuralgia: report of two cases. Neurology 1997;48:1467.
+Valzania F, Strafella AP, Nassetti SA, Tropeani A, Tassinari CA. Gabapentin in idiopathic trigeminal neuralgia. Neurology 1998;50(Suppl. 4)
+Abstract 379 P06.012.
+Ware JEJ. SF-36 Health Survey: manual and interpretation guide, . Boston,
+MA: The Health Institute, New England Medical Center, 1993.
+Wetzel CH, Connelly JF. Use of gabapentin in pain management. Ann
+Pharmacother 1997;31:1082–1083.
+Woolf CJ, Mannion RJ. Neuropathic pain: aetiology, symptoms, mechanisms, and management. Lancet 1999;353:1959–1964.
+566 M.G. Serpell et al. / Pain 99 (2002) 557–566

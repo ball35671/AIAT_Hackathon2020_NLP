@@ -1,0 +1,779 @@
+﻿Effectiveness of the 2003–2004 Influenza Vaccine Among Children
+6 Months to 8 Years of Age, With 1 vs 2 Doses
+Debra P. Ritzwoller, PhD*; Carolyn Buxton Bridges, MD‡; Susan Shetterly, MS*; Kristi Yamasaki, PharmD*;
+Margarette Kolczak, PhD‡; and Eric K. France, MD, MSPH*§
+ABSTRACT. Objective. To evaluate the effectiveness
+of 1 and 2 doses of the 2003–2004 influenza vaccine in
+preventing medically attended influenza-like illness
+(ILI) among children 6 to 23 months and 6 months to 8
+years of age.
+Design and Methods. Outpatient and emergency department visits and immunization records were used to
+conduct a retrospective cohort study among children 6
+months to 8 years of age. ILI and pneumonia and influenza (P&I) outcomes were defined on the basis of International Classification of Diseases, Ninth Revision,
+codes. Influenza vaccine effectiveness (VE) was calculated as (1  hazard rate ratio)  100.
+Results. A total of 29 726 children were included in
+the analyses; 17.3% were 6 to 23 months of age. By November 19, 2003, the start of peak influenza activity, 7.5%
+and 9.9% of children 6 months to 8 years were fully or
+partially vaccinated against influenza, respectively. For
+fully vaccinated children 6 to 23 months of age, VE
+against ILI and P&I was 25% and 49%, respectively. No
+statistically significant reduction in ILI or P&I rates was
+observed for partially vaccinated children 6 to 23 months
+of age (3% and 22%, respectively). For fully vaccinated
+children 6 months to 8 years of age, VE against ILI and
+P&I was 23% and 51%, respectively. For partial vaccination, VE was significant only for P&I (23%).
+Conclusions. Despite a suboptimal match between
+the influenza vaccine and predominant circulating
+strains, influenza vaccination provided substantial protection for fully vaccinated children and possibly some
+protection for partially vaccinated children <9 years of
+age. These findings support vaccinating targeted children even when the vaccine match is suboptimal, and
+they highlight the need to vaccinate previously unvaccinated children with 2 doses for optimal protection. Pediatrics 2005;116:153–159; influenza, vaccine effectiveness,
+pediatrics, unvaccinated.
+ABBREVIATIONS. ILI, influenza-like illness; P&I, pneumonia and
+influenza; HRR, hazard rate ratio; VE, vaccine effectiveness;
+ICD-9, International Classification of Diseases, Ninth Revision; RSV,
+respiratory syncytial virus; KPCO, Kaiser Permanente Colorado;
+TCH, the Children’s Hospital; CI, confidence interval; ACIP, Advisory Committee on Immunization Practices.
+I
+nfluenza-related illnesses result in the hospitalization of 1 to 2 children per 1000 children 5
+years of age annually in the United States, with
+children 2 years of age being at particularly high
+risk.1–4 Beginning in 2004 –2005, yearly influenza
+vaccination was recommended for all children 6 to 23
+months of age and for out-of-home caregivers and
+household contacts of children 2 years of age; influenza vaccination of children 6 months of age
+with certain medical conditions has been recommended for many years.5 Concerns about logistic
+challenges in vaccinating millions of US children
+during the autumn and early winter months have
+been raised, particularly considering that children
+9 years of age who have not been vaccinated previously against influenza are recommended to receive 2 doses of inactivated influenza vaccine 1
+month apart for the first year.6–8 Therefore, many
+children 6 to 23 months of age would need 2 doses of
+vaccine the first year of vaccination for optimal protection. Limited data are available on the effectiveness of 1 vs 2 doses of vaccine among children 9
+years of age; the recommendation for the age cutoff
+was based principally on serologic data.9 In addition,
+few studies have assessed the effectiveness of the
+inactivated influenza vaccine among children 6 to 23
+months of age during years with and without an
+optimal antigenic match between the vaccine and
+circulating strains.10,11 The overlap in circulation of
+influenza, respiratory syncytial virus (RSV), and
+other viruses and low vaccination rates have limited
+the ability of previous studies to evaluate the effectiveness of the influenza vaccine against non–laboratory-confirmed outcomes.1,2,10–12
+The 2003–2004 influenza season in Colorado was
+unusual in 2 particular respects. First, influenza activity started earlier than usual (November 1, 2003, to
+January 17, 2004) and overlapped little with RSV
+activity (December 13, 2003, to April 17, 2004).13,14
+Because of the distinct times for these disease entities, International Classification of Diseases, Ninth Revision (ICD-9) respiratory diagnoses were much more
+likely to be influenza-related during November and
+December of 2003. Second, the predominant circulating influenza A virus strain was antigenically different from the vaccine strain. Using the electronic medical records and immunization tracking system of
+From the *Clinical Research Unit and §Department of Preventive Medicine,
+Kaiser Permanente Colorado, Denver, Colorado; and ‡National Immunization Program, Centers for Disease Control and Prevention, Atlanta, Georgia.
+Accepted for publication Mar 15, 2005.
+doi:10.1542/peds.2005-0049
+These data were presented in part to the Advisory Committee on Immunization Practices; June 23, 2004; Atlanta, GA.
+No conflict of interest declared.
+Reprint requests to (D.P.R.) Clinical Research Unit, Kaiser Permanente
+Colorado, 580 Mohawk Dr, Boulder, CO 80302. E-mail: debra.ritzwoller
+@kp.org
+PEDIATRICS (ISSN 0031 4005). Copyright © 2005 by the American Academy of Pediatrics.
+PEDIATRICS Vol. 116 No. 1 July 2005 153 Downloaded from pediatrics.aappublications.org at Nanyang Technological University on June 4, 2015
+Kaiser Permanente Colorado (KPCO), we sought to
+capitalize on the unusual, early, 2003–2004 influenza
+season to provide estimates of vaccine effectiveness
+(VE) among children. The primary objective of this
+study was to evaluate the effectiveness of influenza
+vaccine in preventing medically attended influenzalike illness (ILI) among children 6 to 23 months of
+age enrolled in KPCO during the 2003–2004 influenza season and the combined 6-month to 8-year age
+group. We examined VE for both partially vaccinated and fully vaccinated children, allowing for
+varying vaccination status over time for a given child
+depending on when shots were completed and the
+lag time needed for immunity.
+METHODS
+Study Population
+Children 6 months through 8 years of age on October 1, 2003,
+who lived in the Denver/Boulder metropolitan area and were
+enrolled continuously in KPCO from October 1, 2003, through
+December 2003 were eligible for inclusion in the study population.
+The Denver/Boulder metropolitan market area of KPCO has
+380 000 members. To ensure that children were using KPCO as
+their primary source of health care, enrolled children were required to have had 1 health care visit to the health maintenance
+organization in the past 8 months for 1-year-old children, 12
+months for 1- to 2-year-old children, 2 years for 2- to 4-year-old
+children, and 2.5 years for 5- to 8-year-old children. Overall, 29 726
+children were included in the analyses.
+Vaccination Status
+For many years, KPCO has identified members at high risk for
+influenza and encouraged influenza vaccinations. The KPCO Immunization Task Force recommended that all children 6 to 23
+months of age, in addition to the other high-risk groups, be
+immunized with the influenza vaccine beginning in the 2002–2003
+influenza season, before the full recommendation made by the
+Advisory Committee on Immunization Practices (ACIP). In addition to high-risk members, KPCO identified proactively and sent
+mailings to families with children 6 to 23 months of age, to
+encourage influenza vaccination. The influenza vaccination status
+of the cohort for years 2002 and 2003 was determined with the
+KPCO Immunization Tracking System. Immunizations completed
+during clinic visits were entered into the KPCO electronic medical
+record by health care providers in the pediatrics, family medicine,
+primary care, urgent care, and trauma departments and then
+transferred immediately to the Immunization Tracking System.
+Large numbers of influenza shots were also provided during
+designated influenza clinics organized during the autumn. Pediatric vaccinations given during influenza clinics were entered
+from consent forms directly into the electronic medical record. The
+accuracy and timeliness of this system are high priorities, because
+the system is the final repository of all immunization data and
+generates all vaccine reports used by KPCO. Full vaccination
+status was defined as having 2 influenza shots a minimum of 14
+days before the ILI event date. Children vaccinated in the prior
+year had to have only 1 shot completed in the autumn of 2003 to
+meet the full vaccination definition. Children were considered
+partially vaccinated if they had only 1 influenza shot in the autumn of 2003 at least 14 days before the ILI event and no prior
+vaccination recorded in the previous year. Children vaccinated
+only in the previous year were considered unvaccinated.
+Presence of Chronic Medical Conditions
+To adjust for variations in health status and the prevalence of
+chronic conditions that could influence the likelihood of having a
+medically attended ILI during the period of observation, KPCO’s
+asthma and diabetes registries, as well as a pharmacy-based risk
+adjustment system called RxRisk, were used to identify patients
+with 1 relevant condition.15–18 The RxRisk system is a clinically
+validated algorithm that classifies children into chronic disease
+categories on the basis of drug prescriptions filled.19 Conditions
+deemed relevant for inclusion in the final models to be used for
+comorbidity adjustment included allergic rhinitis, asthma, diabetes mellitus, history of gastrointestinal disorders, cognitive or
+behavioral health disorders, and an aggregate category denoting a
+history of malignancy, liver or renal disease, and transplants.
+Underlying cardiac disease was not included in the model because
+0.05% of the study population was identified as having this
+condition.
+Respiratory Illness Outcomes
+The primary outcomes were ILI and pneumonia and influenza
+(P&I) outpatient and emergency department visits; data on inpatient
+visits were not available at the time of this analysis. Outcomes were
+defined with ICD-9 codes validated in prior studies.2–4,20 The extracted ambulatory care data from the KPCO medical office visit also
+included the patient’s recorded temperature at the time of the visit.
+The ILI outcome included all ICD-9-defined diagnosis codes noted in
+Appendix 1, and the P&I outcome included ICD-9 codes 480 to 482
+and 485 to 487.
+Study Period
+To minimize misclassification attributable to non–influenzarelated respiratory ILI, the outcome period was defined as November 19 through December 7, 2003, the peak weeks of influenza
+activity based on surveillance data from the Children’s Hospital
+(TCH) Department of Epidemiology and Pathology, the Colorado
+Department of Public Health and Environment-sponsored Influenza Surveillance Program, and the Centers for Disease Control
+and Prevention-sponsored Bioterrorism Surveillance Demonstration Program.13,14,21 The primary data source used to define this
+period was the laboratory isolate data derived from the TCH
+Department of Epidemiology and Pathology. This source of data
+represents a subset of all laboratory isolates of confirmed influenza cases collected and reported by the Colorado Department of
+Public Health and Environment, but these data are specific to
+children in the Denver metropolitan area and TCH is the primary
+contract hospital for KPCO pediatric patients. We chose the peak
+period of November 19 through December 7 for the following
+reasons: laboratory-confirmed cases increased from 50 during the
+week ending November 8 to 200 during the week ending November 15, total cases reported by TCH peaked at 350 during the
+week ending November 22, and the number of reported cases of
+influenza fell below 100 by December 13, whereas the number of
+cases of RSV was increasing. During the period of November 19
+through December 7, TCH reported 15 positive tests each for
+RSV, parainfluenza, rhinoviruses, and pertussis.
+Statistical Analyses
+The association between influenza vaccination and subsequent
+medically attended ILI events was modeled with Cox proportional-hazards models.22,23 Survival analyses were used to account for
+changes in vaccination status during the period of interest; influenza vaccination status was a time-varying variable. Time to event
+used a count of days elapsed since the start of the selected time
+interval. The proportional-hazards assumption was tested by using interaction terms for fully and partially vaccinated variables
+with time. Both interaction terms were nonsignificant (P  .10).
+When multiple ILI visits were found for a child, only the first ILI
+was modeled. The limited time frame for these analyses (19 days)
+made multiple events very rare. The vast majority of children had no
+ILI event (N  27 375 [92.1%], an additional 2105 children (7.1%) had
+only 1 ILI event, and 1 ILI event occurred for only 246 children in
+this sample (1%). Rates of ILIs among vaccinated and unvaccinated
+children could be modeled with multiple ILI events by using Poisson
+regression models. Preliminary models for this sample compared
+vaccination associations with ILI outcomes from Poisson regression
+and survival analyses. These comparison models produced very
+similar results in the estimated magnitude of association between
+vaccination status and ILI outcomes. We selected survival analysis
+for all remaining analyses because these models could account more
+readily for daily changes in vaccination status through the use of
+time-varying variables.
+We estimated models for all children 6 months to 8 years of age.
+Given the recent ACIP recommendations, we also estimated separate models for children 6 to 23 months of age. In addition to
+estimating the hazard rate ratio (HRR) of an ILI outcome according to vaccination status, we also expanded the models to include
+154 2003–2004 PEDIATRIC INFLUENZA VACCINE EFFECTIVENESS Downloaded from pediatrics.aappublications.org at Nanyang Technological University on June 4, 2015
+age, gender, and dichotomous comorbidity flags denoting the
+presence of a chronic condition and to assess their contribution to
+having a medically attended ILI. Separate models were also estimated for all children 6 months to 8 years of age that were
+identified in KPCO’s asthma disease management registry. Influenza VE was estimated to be (1  HRR)  100.
+RESULTS
+Vaccination Status and Prevalence of Chronic Medical
+Conditions
+Table 1 describes the distribution of the population
+according to age, vaccination status, and prevalence of
+chronic conditions for the study population. At the
+beginning of the study period, estimates of full and
+partial vaccination coverage for children 6 to 23 months
+of age were 7.3% and 19.6%, respectively, and those for
+children 2 to 8 years of age were 7.5% and 7.9%. By the
+end of the study period, children 6 to 23 months of age
+had the highest rates of full or partial vaccine immunization, with rates of 14.6% and 27.0%, respectively.
+Among all ages, 28.8% were either partially or fully
+vaccinated by December 7, 2003. Live attenuated influenza vaccine is not approved for children 5 years of
+age; therefore, no patients 5 years of age received live
+attenuated influenza vaccine. During the time period of
+these analyses, only 46 children 5 to 8 years of age
+received a dose of live attenuated influenza vaccine
+(0.8% of all patients who received any vaccination).
+Asthma was the most prevalent chronic condition in
+the study cohort (7.5%). A total of 5.5% of 6- to 23-
+month-old children and 0.8% of 2- to 8-year-old children had a history of being dispensed a gastroprotective agent such as cimetidine or ranitidine.
+Examination of medical records for a subset of these
+children suggested that these products were prescribed
+in this cohort for the treatment of reflux disease. A
+history of allergic rhinitis was present in 0.9% of cases.
+Other comorbidities were present in 0.3% of cases.
+Source of ILI Events
+A total of 2351 children (7.9%) had an ILI event
+during the study period, across all pediatric age categories. Approximately 92% of these events were
+derived from outpatient visits at a KPCO facility. The
+remaining events originated from emergency department visits. Of patients 6 to 23 months of age, 774
+(15.1% of the population) had an ILI visit. Less than
+3% of the total population had a P&I visit, with 221 of
+these events involving children 6 to 23 months of age
+(4.3% of the 6- to 23-month-old population). A
+slightly higher proportion of these P&I events, 9.5%,
+were derived from emergency department visits.
+Estimates of VE
+The results of the Cox proportional-hazards models for the broad ILI outcome and the narrower P&I
+outcome for children 6 months to 8 years of age are
+described in Table 2. For the ILI outcome, models
+with only vaccination status indicators demonstrated
+a significant protective effect, with a HRR of 0.85
+(95% confidence interval [CI]: 0.73– 0.99) and VE of
+15% for all children 6 months to 8 years of age. With
+adjustment for age, gender, and chronic conditions,
+the fully vaccinated HRR was more protective (HRR:
+0.77; 95% CI: 0.66 – 0.90), corresponding to a VE estimate of 23%. For the P&I outcome, this finding was
+even more pronounced for the fully vaccinated, with
+estimated HRR values of 0.56 (95% CI: 0.42– 0.76; VE:
+44%) for the univariate model and 0.49 (95% CI: 0.36 –
+0.67; VE: 51%) for the fully adjusted model. In the
+adjusted model for the P&I outcome, a protective effect
+was also demonstrated among partially vaccinated
+members (HRR: 0.77; 95% CI: 0.62– 0.95; VE: 23%).
+Age was inversely associated with both the ILI and
+P&I outcomes: patients 6 to 11 months of age were 4
+to 5 times more likely to present with an ILI, compared with 7- and 8-year-old patients. Asthma, allergic rhinitis, and a history of receiving a prescription
+for a gastroprotective agent all had HRR values of
+1 and were statistically significant for the broad ILI
+outcome. These findings suggested that patients with
+a history of these conditions were more likely to
+present with an ILI outcome.
+VE model estimates for children 6 to 23 months of
+age are shown in Table 3. The less-specific ILI uniTABLE 1. Distribution of Vaccination Status, Gender, and Prevalence of Chronic Conditions
+Distribution, %
+6–23 mo
+(N  5139)
+2–8 y
+(N  24 587)
+All Ages
+(N  29 726)
+Vaccination status on Nov 19
+Fully vaccinated 7.3 7.5 7.5
+Partially vaccinated 19.6 7.9 9.9
+Unvaccinated 73.1 84.6 82.6
+Vaccination status on Dec 7
+Fully vaccinated 14.6 11.7 12.2
+Partially vaccinated 27.0 14.4 16.6
+Unvaccinated 58.4 73.9 71.2
+Gender
+Female 49.0 49.3 49.2
+Male 51.0 50.7 50.8
+Chronic conditions
+Allergic rhinitis 0.1 1.1 0.9
+Asthma 2.1 8.6 7.5
+Diabetes mellitus 0 0.1 0.1
+History of mental health problem 0 0.3 0.2
+Liver disorder, malignancy, transplant 0.3 0.2 0.2
+Gastrointestinal disorder 5.5 0.8 1.6
+ARTICLES 155 Downloaded from pediatrics.aappublications.org at Nanyang Technological University on June 4, 2015
+variate model showed a significant protective VE of
+34% (HRR: 0.66; 95% CI: 0.50 – 0.88). The adjusted
+HRR estimate, although similar in magnitude to the
+all-age model, did not reach statistical significance in
+this smaller sample (HRR: 0.75; 95% CI: 0.56 –1.00). A
+significant protective effect against P&I for fully vaccinated patients was found in both unadjusted (HRR:
+0.53; 95% CI: 0.30 – 0.93; VE: 47%) and adjusted (HRR:
+0.51; 95% CI: 0.29 – 0.91; VE: 49%) models. For the
+less-specific ILI outcome, both age (in months) and
+the presence of a gastrointestinal comorbidity were
+associated significantly with an ILI visit. Patients at
+younger ages (HRR: 0.66) and those with a history of
+receiving a prescription for a gastrointestinal illness
+(HRR: 1.39) were more likely to have an ambulatory
+encounter for ILI. None of the chronic condition
+variables was found to be associated statistically
+with a medically attended P&I.
+A subanalysis was performed with a sample of
+2229 children 6 months to 8 years of age who were
+identified in the asthma registry. Two hundred (9%)
+experienced an ILI event and 70 (3%) experienced a
+P&I event; 28% were fully vaccinated and 18% were
+partially vaccinated by December 7, 2003. Estimates
+derived from univariate and multivariate adjusted
+models for fully vaccinated children did not demonstrate a protective effect of vaccination against ILI
+(unadjusted HRR: 0.93; 95% CI: 0.67–1.30; adjusted
+HRR: 0.95; 95% CI: 0.68 –1.33). However, a significant
+protective effect against P&I for fully vaccinated patients was found in both unadjusted (HRR: 0.30; 95%
+CI: 0.13– 0.69) and adjusted (HRR: 0.32; 95% CI: 0.14 –
+0.74) models, with VE estimated to be 70% and 68%,
+respectively. No protective effect of partial vaccination was found (adjusted HRR: 1.02; 95% CI: 0.55–
+1.89).
+DISCUSSION
+To our knowledge, this study is the largest study
+evaluating the effectiveness of influenza vaccine
+among children 6 to 23 months of age and the effectiveness of 1 vs 2 doses among children 6 months to
+8 years of age. Our findings suggest that both doses
+are needed for previously unvaccinated children 6
+TABLE 2. Cox Proportional-Hazard Models: Ages 6 Months to 8 Years
+ILI Outcome, 2351 ILI Events (N  29 726) P&I Codes, 809 P&I Events (N  29 726)
+Univariate Model,
+HRR (95% CI)
+Adjusting for
+Gender, Age,
+and Prior Illness,
+HRR (95% CI)
+VE, %* Univariate Model,
+HRR (95% CI)
+Adjusting for
+Gender, Age,
+and Prior Illness,
+HRR (95% CI)
+VE, %*
+Fully vaccinated 0.85 (0.73–0.99)† 0.77 (0.66–0.90)‡ 23 0.56 (0.42–0.76)§ 0.49 (0.36–0.67)‡ 51
+Partially vaccinated 1.17 (1.04–1.31)§ 0.93 (0.82–1.04) 7 0.89 (0.73–1.10) 0.77 (0.62–0.95)† 23
+Female gender 0.99 (0.92–1.08) 0.98 (0.85–1.13)
+Age
+6–11 mo 5.32 (4.51–6.27)‡ 3.97 (2.86–5.50)‡
+12–23 mo 3.68 (3.16–4.27)‡ 4.27 (3.25–5.61)‡
+2–4 y 2.34 (2.05–2.68)‡ 3.43 (2.70–4.35)‡
+5–6 y 1.32 (1.13–1.54)‡ 1.51 (1.14–1.99)§
+7–8 y Referent Referent
+Chronic conditions
+Asthma 1.44 (1.24–1.67)§ 1.44 (1.12–1.85)§
+Diabetes mellitus 1.85 (0.60–5.75) 
+Allergic rhinitis 2.35 (1.64–3.37)‡ 3.20 (1.83–5.60)‡
+Gastrointestinal disorder 1.40 (1.10–1.76)§ 1.40 (0.91–2.16)
+History of mental health 0.60 (0.15–2.39) 
+Liver or renal disorder, malignancy,
+transplant
+0.37 (0.09–1.47) 1.23 (0.31–4.92)
+* VE percent is estimated as (1  adjusted HRR)  100.
+† P  .05.
+‡ P  .001.
+§ P  .01.
+ Not in model; small number of illnesses, with limited variability according to outcome.
+TABLE 3. Cox Proportional-Hazards Models, Ages 6 to 23 Months
+ILI Outcome, 774 ILI Events (N  5139) P&I Codes, 221 P&I Events (N  5139)
+Univariate Model,
+HRR (95% CI)
+Adjusting for
+Gender, Age,
+and Prior Illness,
+HRR (95% CI)
+VE, %* Univariate Model,
+HRR (95% CI)
+Adjusting for
+Gender, Age,
+and Prior Illness,
+HRR (95% CI)
+VE, %*
+Fully vaccinated 0.66 (0.50–0.88)† 0.75 (0.56–1.00) 25 0.53 (0.30–0.93)‡ 0.51 (0.29–0.91)‡ 49
+Partially vaccinated 1.11 (0.94–1.30) 1.03 (0.88–1.21) 3 0.79 (0.57–1.10) 0.78 (0.56–1.09) 22
+Female gender 1.05 (0.91–1.20) 0.92 (0.71–1.20)
+Age (per month) 0.66 (0.56–0.79)§ 1.07 (0.77–1.47)
+Asthma 1.38 (0.87–2.19) 1.13 (0.46–2.75)
+Gastrointestinal disorder 1.39 (1.06–1.81)‡ 1.62 (0.99–2.64)
+* VE percent is estimated as (1  adjusted HRR)  100.
+† P  .01.
+‡ P  .05.
+§ P  .001.
+156 2003–2004 PEDIATRIC INFLUENZA VACCINE EFFECTIVENESS Downloaded from pediatrics.aappublications.org at Nanyang Technological University on June 4, 2015
+months to 8 years of age, to provide maximal protection against influenza. In addition, despite the
+suboptimal antigenic match between the influenza
+vaccine and the circulating virus strain in the autumn of 2003, influenza vaccination was found to be
+effective in preventing medically attended ILIs
+among children 6 to 23 months of age, as well as all
+children 6 months to 8 years of age.
+The estimates found in this study are consistent
+with the findings of other studies of influenza VE
+against medically attended ILI among children.
+Many of the previously published estimates of the
+efficacy of inactivated trivalent influenza vaccine
+among young children were based on randomized
+control trials with an end point of laboratory-confirmed influenza.10,20,24–27 In a recent review article,
+Zangwill and Belshe27 identified 7 studies, all randomized controlled trials, that reported efficacy data
+associated with the trivalent inactivated influenza
+vaccine for children 9 years of age. The authors
+pooled data from 5 of the studies that included children 9 years of age and estimated efficacy to be
+63%. However, for studies with children 5 years
+of age, reported efficacies ranged from 12% to 83%.
+In a study evaluating data for children 6 to 23
+months of age by Hoberman et al,10 efficacy ranged
+from 66% in the first year, when the attack rate was
+high, to 7% (not statistically significant) in the second study year, when the attack rate was low. In a
+study assessing the 1996 –1997 trivalent inactivated
+influenza vaccine among children attending day
+care, Hurwitz et al11 found VE estimates of 45%
+associated with the reduction in laboratory-confirmed cases of influenza A and 31% for influenza B.
+Several smaller studies demonstrated VE in the presence of a suboptimal match between the circulating
+influenza virus strain and the vaccine strain. In an
+examination of 137 patients with moderate/severe
+asthma during the 1992–1993 influenza season, when a
+drifted strain predominated, Sugaya et al28 found VE
+estimates of 67.5%. Three other studies24,25,29 also reviewed by Zangwill and Belshe27 demonstrated reduced protection against heterotypic influenza strains,
+although the VE estimates overlapped with those from
+studies conducted during years in which the circulating and virus strains were well matched.
+This study showed relatively high vaccination rates
+and demonstrated the effect of proactive recommendations for influenza vaccinations for all children 9
+years of age. Although ACIP’s explicit recommendations do not include vaccination for all children 2
+years of age, studies suggested that the vaccination of
+school-aged children can reduce the spread of influenza in the community.30,31 Given the recent influenza
+vaccine shortages, and before broader recommendations are made, findings from vaccination studies with
+school-aged children, like the one currently underway
+in Texas, and benefits of the universal vaccination program in Ontario, Canada, should be evaluated to inform policymakers regarding to the societal benefits of
+vaccinating all school-aged children.32
+Our study found that a large proportion of young
+children had been given a gastroprotective agent (5.5%)
+and use of such medications was associated significantly with an ILI visit. Reflux is more common among
+infants with a history of prematurity, a condition that
+was not controlled for directly in our analyses and that
+is associated with increased health services utilization.
+Although little research is available describing the direct association between medical visits for ILI and use
+of gastroprotective agents, some children diagnosed as
+having chronic cough or asthma might have reflux and
+intermittent aspiration.33 A recently published study
+examining the association between the use of acidsuppressing drugs and the occurrence of communityacquired pneumonia among adults found that the current use of gastric acid-suppressing therapy was
+associated with an increased risk of community-acquired pneumonia.34 Additional research is needed to
+understand more clearly whether reflux or the use of
+acid-suppressing therapy is associated with an increased risk of medically attended respiratory illness
+among young children.
+Asthma was the predominant childhood disease in
+this sample, and influenza vaccination had been recommended for asthmatic children by the ACIP for
+many years. For children identified in KPCO’s
+asthma registry, our study found a large, significant,
+protective effect for the P&I outcome and a small
+nonsignificant estimate of a protective effect for the
+broader ILI outcome. Children were identified in
+KPCO’s asthma disease registry if they had either 1
+prescription for a -receptor agonist (eg, albuterol or
+salmeterol) or 1 inpatient or outpatient diagnosis of
+asthma (ICD-9 code 493). No adjustment for asthma
+severity was made. This is particularly important
+because children with severe asthma are more likely
+to be vaccinated against influenza and they are more
+likely to have respiratory illness episodes than are
+children with mild asthma.15,16 Therefore, any study
+using non–influenza laboratory-confirmed outcomes
+among asthmatic children is likely to underestimate
+the true VE. Our non–laboratory-confirmed outcomes might have had more misclassification among
+asthmatic patients than among otherwise healthy
+children because of other causes of respiratory symptoms in this subgroup. This misclassification might
+have been worse for the broad ILI outcome, which
+would explain in part the lack of a significant protective effect for this outcome. However, we cannot
+rule out coding bias related to physician knowledge
+of vaccination status, which might have strengthened the protective effect for the P&I outcome. In the
+literature, results remain mixed for studies examining influenza VE in preventing ILI among asthmatics.35–38 Despite the current need for additional studies, the safety of the vaccine among asthmatic
+patients, the evidence that influenza infection leads
+to asthma exacerbation, and the results of our study
+all support vaccination for this group.
+Our findings confirm the advantage of full (2 shots)
+versus partial (1 shot) vaccination in protecting against
+influenza among previously unvaccinated children 9
+years of age and particularly among children 6 to 23
+months of age. It is possible that the protective effect of
+partial vaccination for all children 6 months to 8 years
+of age found in the P&I outcome model is subject to
+limitations in interpretation, because vaccination status
+ARTICLES 157 Downloaded from pediatrics.aappublications.org at Nanyang Technological University on June 4, 2015
+data were captured only over a 2-year period. Specifically, a child 2 years of age who received an influenza
+vaccination in 2003 but not 2002 was denoted as partially vaccinated. Some subset of these children might
+have received an influenza vaccination in 2001 or earlier and therefore should have been assigned the status
+of fully vaccinated. However, it is very unlikely that
+this type of misclassification is an issue for children 6 to
+23 months of age, as included in these analyses. This
+misclassification, if it occurred, would have overestimated the effect among older, partially vaccinated children by including fully vaccinated patients in the same
+group and, if corrected, could only strengthen the recommendation that 2 shots are needed for VE.
+This study has several limitations. It relied on administrative data, and the respiratory outcomes were
+not laboratory confirmed. We used a very short observation period of only 19 days. However, the lack
+of substantial overlap in RSV and influenza activity
+during the study period minimized the misclassification of illness. Also, because this was an observational study, vaccination status was not randomized.
+Therefore, irrespective of the adjustment variables
+used, selection bias may exist with respect to which
+patients obtained vaccination. However, the size of
+the population, the ability to adjust for the presence
+of underlying illness, and supporting virologic surveillance data to define precisely the period of peak
+influenza activity are important strengths of this
+study. In addition, there is a very low likelihood that
+we did not record all sources of utilization associated
+with KPCO children seeking care for ILI. Data used
+in these analyses included all utilization derived
+from KPCO medical office encounters, including all
+after-hours and urgent care visits, as well as all utilization that took place in emergency departments,
+including TCH (the only children’s hospital in the
+Denver metropolitan area). In addition, the recording of emergency department cases should account
+for the majority of patients admitted subsequently as
+inpatients for treatment for more severe disease.
+The early occurrence of the 2003–2004 influenza
+season, coupled with intense media coverage of pediatric morbidity and death in the later weeks of the
+outbreak, could have generated significant variation
+in the coding of cases by KPCO physicians. For example, physicians might be more likely to code influenza in the later weeks of the outbreak and viral
+infection not otherwise specified, fever, or cough in
+the earlier weeks. We limited our study to a 19-day
+period that represented the peak weeks of influenza
+activity; influenza first appeared in early November
+and abated in early January 2004.13 Limiting our
+analysis to the peak weeks would minimize the coding misclassification by clinicians that could be expected during the first and last days of the seasonal
+influenza epidemic. Finally, it is possible that physicians assigning visit diagnoses might have been less
+likely to code influenza for vaccinated children, although the widespread publicity regarding the suboptimal antigenic match and vaccine failures likely
+would have lessened this potential coding bias.
+However, it is unlikely that a child presenting with
+fever, cough, or other upper respiratory tract illness
+symptoms would have an ICD-9 diagnosis code
+other than those used for defining an ILI (Appendix
+1) and therefore would not be identified in our study.
+CONCLUSIONS
+Influenza vaccine was shown to prevent medically
+attended ILI among children 6 to 23 months of age, as
+well as older children, even with a suboptimal match.
+This study provides supportive data regarding the benefits of vaccination for children and the need for 2 doses
+among previously unvaccinated young children 9
+years of age. The logistics of instituting the influenza
+vaccine recommendations for young children pose a
+formidable challenge to private and public health care
+systems. Additional strategies for fully vaccinating children before the onset of influenza activity should be
+evaluated.
+APPENDIX 1. ILI AND P&I Definitions
+ILI Definition P&I
+Definition
+Code Description
+038 Septicemia
+078.89 Other specified diseases
+attributable to viruses
+079.99 Viral infection, NOS
+460 Acute nasopharyngitis
+462 Acute pharyngitis, NOS
+463 Acute tonsillitis
+464.0 Acute laryngitis, without
+obstruction
+464.10 Tracheitis without
+obstruction
+464.11 Acute tracheitis with
+obstruction
+464.20 Laryngotracheitis without
+obstruction
+464.21 Laryngotracheitis with
+obstruction
+464.4 Croup
+465.0 Acute laryngopharyngitis
+465.8 URI, other multiple sites
+465.9 Acute URI, NOS
+466.0 Acute bronchitis
+466.1 Acute bronchiolitis
+480.8 * Viral pneumonia, NEC
+480.9 * Viral pneumonia
+481.0 * Pneumococcal pneumonia
+482.2 * Pneumonia attributable to
+Hemophilus influenzae
+485 * Bronchopneumonia
+organism
+486 * Pneumonia, organism
+NOS
+487.0 * Influenza with
+pneumonia
+487.1 * Influenza with other
+respiratory
+manifestations
+487.8 * Influenza with other
+manifestations
+490 Bronchitis, NOS
+780.31 Febrile convulsions
+493, in combination with
+fever, ICD-9 code
+780.6, or temperature
+of 100.4°C at visit
+Asthma (frequency with
+fever)
+786.07, 786.1, 786.2, in
+combination with
+fever, ICD-9 code
+780.6, or temperature
+of 100.4°C at visit
+Wheezing, stridor, cough
+(frequency with fever)
+NOS indicates not otherwise specified; NEC, not elsewhere classified; URI, upper respiratory infection.
+* Included in the P&I definition.
+158 2003–2004 PEDIATRIC INFLUENZA VACCINE EFFECTIVENESS Downloaded from pediatrics.aappublications.org at Nanyang Technological University on June 4, 2015
+ACKNOWLEDGMENTS
+We acknowledge the funding contributions of the Centers for
+Disease Control and Prevention (contract 254-2004-M-06362,
+CFDA 93.283) and the Kaiser Permanente Colorado Clinical Research Unit.
+REFERENCES
+1. Neuzil KM, Mellen BG, Wright PF, Mitchel EF Jr, Griffin MR. The effect
+of influenza on hospitalization, outpatient visits, and courses of antibiotics in children. N Engl J Med. 2000;342:225–231
+2. Izurieta HS, Thompson WW, Kramarz P, et al. Influenza and rates of
+hospitalization for respiratory disease among infants and young children. N Engl J Med. 2000;342:232–239
+3. O’Brien MA, Uyeki TM, Shay DK, et al. Incidence of outpatient visits
+and hospitalizations related to influenza in infants and young children.
+Pediatrics. 2004;113:585–593
+4. Iwane MK, Edwards KM, Szilagyi PG, et al. New Vaccine Surveillance
+Network: population-based surveillance for hospitalizations associated
+with respiratory syncytial virus, influenza virus, and parainfluenza
+viruses among young children. Pediatrics. 2004;113:1758 –1764
+5. Centers for Disease Control and Prevention. Prevention and control of
+influenza: recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep. 2004;53(RR-6):1– 40
+6. Humiston SG, Szilagyi PG, Iwane MK, et al. The feasibility of universal
+influenza vaccination for infants and toddlers. Arch Pediatr Adolesc Med.
+2004;158:867– 874
+7. Glazner JE, Beaty BL, Pearson KA, Berman S. The cost of giving childhood vaccinations: differences among provider types. Pediatrics. 2004;
+113:1582–1587
+8. Szilagyi PG, Iwane MK, Schaffer S, et al. Potential burden of universal
+influenza vaccination of young children on visits to primary care practices. Pediatrics. 2003;112:821– 828
+9. La Montagne JR, Noble GR, Quinnan GV, et al. Summary of clinical
+trials of inactivated influenza vaccine, 1978. Rev Infect Dis. 1983;5:
+723–736
+10. Hoberman A, Greenberg DP, Paradise JL, et al. Effectiveness of inactivated influenza vaccine in preventing acute otitis media in young
+children: a randomized controlled trial. JAMA. 2003;290:1608 –1616
+11. Hurwitz ES, Haber M, Chang A, et al. Studies of the 1996 –1997 inactivated influenza vaccine among children attending day care: immunologic response, protection against infection, and clinical effectiveness.
+J Infect Dis. 2000;182:1218 –1221
+12. Clements DA, Langdon L, Bland C, Walter E. Influenza A vaccine
+decreases the incidence of otitis media in 6- to 30-month-old children in
+day care. Arch Pediatr Adolesc Med. 1995;149:1113–1117
+13. Colorado Department of Public Health and Environment. Summary of
+2003–2004 influenza season: reported cases of laboratory confirmed
+influenza. Available at: www.cdphe.state.co.us/dc/Influenza/
+labchart0304.pdf. Accessed May 17, 2005
+14. Children’s Hospital (Denver, CO). Contagious comments “bug watch.”
+Available at: www.thechildrenshospital.org/pro/publications/
+bug.pdf. Accessed June 15, 2004
+15. Kramarz P, DeStefano F, Gargiullo PM, et al. Influenza vaccination in
+children with asthma in health maintenance organizations: Vaccine
+Safety Datalink Team. Vaccine. 2000;18:2288 –2294
+16. Kramarz P, Destefano F, Gargiullo PM, et al. Does influenza vaccination
+prevent asthma exacerbations in children? J Pediatr. 2001;138:306 –310
+17. Hak E, Verheij TJ, Grobbee DE, Nichol KL, Hoes AW. Confounding by
+indication in non-experimental evaluation of vaccine effectiveness: the
+example of prevention of influenza complications. J Epidemiol Community Health. 2002;56:951–955
+18. Hak E, Wei F, Nordin J, Mullooly J, Poblete S, Nichol KL. Development
+and validation of a clinical prediction rule for hospitalization due to
+pneumonia or influenza or death during influenza epidemics among
+community-dwelling elderly persons. J Infect Dis. 2004;189:450 – 458
+19. Fishman PA, Shay DK. Development and estimation of a pediatric
+chronic disease score using automated pharmacy data. Med Care. 1999;
+37:847– 883
+20. Neuzil KM, Dupont WD, Wright PF, Edwards KM. Efficacy of inactivated and cold-adapted vaccines against influenza A infection, 1985 to
+1990: the pediatric experience. Pediatr Infect Dis J. 2001;20:733–740
+21. Yih WK, Caldwell B, Harmon R, et al. The National Bioterrorism Syndromic Surveillance Demonstration Program. MMWR Morb Mortal Wkly
+Rep. 2004;53(suppl):43– 46
+22. Cox DR. Regression models and life tables (with discussion). J R Stat Soc
+Ser B. 1972;34:187–220
+23. Hosmer DW, Lemeshow S. Applied Survival Analysis: Regression Modeling of Time to Event Data. New York, NY: John Wiley & Sons; 1999
+24. Gruber WC, Taber LH, Glezen P, et al. Live attenuated and inactivated
+influenza vaccine in school-age children. Am J Dis Child. 1990;144:
+595– 600
+25. Clover RD, Crawford S, Glezen WP, et al. Comparison of heterotypic
+protection against influenza A/Taiwan/86 (H1N1) by attenuated and
+inactivated vaccines to A/Chile/83-like viruses. J Infect Dis. 1991;163:
+300 –304
+26. Heikkinen T, Tuuskanen O, Waris M, et al. Influenza vaccination in the
+prevention of acute otitis media in children. Am J Dis Child. 1991;145:
+445– 448
+27. Zangwill KM, Belshe BR. Safety and efficacy of trivalent inactivated
+influenza vaccine in young children: a summary for the new era of
+routine vaccination. Pediatr Infect Dis J. 2004;23:189 –200
+28. Sugaya N, Nerome K, Ishida M, Matsumoto M, Mitamura K, Nirasawa
+M. Efficacy of inactivated vaccine in preventing antigenically drifted
+influenza type A and well-matched type B. JAMA. 1994;272:1122–1126
+29. Piedra PA, Glezen WP. Influenza in children: epidemiology, immunity,
+and vaccines. Semin Pediatr Infect Dis. 1991;2:140 –146
+30. Reichert TA, Sugaya N, Fedson DS, et al. The Japanese experience with
+vaccinating school children against influenza. N Engl J Med. 2001;344:
+889 – 896
+31. Monto AS, Davenport FM, Napier JA, Francis T Jr. Modification of an
+outbreak of influenza in Tecumseh, Michigan, by vaccination of schoolchildren. J Infect Dis. 1970;122:16 –25
+32. Glezen WP. New vaccines for old diseases: trivalent cold-adapted influenza vaccine. Pediatr Ann. 2004;33:545–550
+33. Thomson F, Masters IB, Chang AB. Persistent cough in children and the
+overuse of medications. J Paediatr Child Health. 2002;38:578 –581
+34. Laheij RJ, Sturkenboom MC, Hassing RJ, Dieleman J, Stricker BH,
+Jansen JB. Risk of community-acquired pneumonia and use of gastric
+acid-suppressive drugs. JAMA. 2004;292:1955–1960
+35. Cates CJ, Jefferson TO, Bara AI, Rowe BH. Vaccines for preventing
+influenza in people with asthma. Cochrane Database Syst Rev. 2004;(2):
+CD000364
+36. Christy C, Aligne CA, Auinger P, Pulcino T, Weitzman M. Effectiveness
+of influenza vaccine for the prevention of asthma exacerbations. Arch
+Dis Child. 2004;89:734 –735
+37. Bueving HJ, Bernsen RM, de Jongste JC, et al. Influenza vaccination in
+children with asthma: randomized double-blind placebo-controlled
+trial. Am J Respir Crit Care Med. 2004;169:488 – 493
+38. Smits AJ, Hak E, Stalman WA, van Essen GA, Hoes AW, Verheij
+TJ. Clinical effectiveness of conventional influenza vaccination in asthmatic children. Epidemiol Infect. 2002;128:205–211
+ARTICLES 159 Downloaded from pediatrics.aappublications.org at Nanyang Technological University on June 4, 2015
+DOI: 10.1542/peds.2005-0049
+Pediatrics 2005;116;153
+Margarette Kolczak and Eric K. France
+Debra P. Ritzwoller, Carolyn Buxton Bridges, Susan Shetterly, Kristi Yamasaki,
+Years of Age, With 1 vs 2 Doses
+Effectiveness of the 2003−2004 Influenza Vaccine Among Children 6 Months to 8
+ Services
+Updated Information &
+ml
+http://pediatrics.aappublications.org/content/116/1/153.full.ht
+including high resolution figures, can be found at:
+References
+ml#ref-list-1
+http://pediatrics.aappublications.org/content/116/1/153.full.ht
+at:
+This article cites 35 articles, 9 of which can be accessed free
+Citations
+ml#related-urls
+http://pediatrics.aappublications.org/content/116/1/153.full.ht
+This article has been cited by 28 HighWire-hosted articles:
+Subspecialty Collections
+sub
+http://pediatrics.aappublications.org/cgi/collection/influenza_
+Influenza
+diseases_sub
+http://pediatrics.aappublications.org/cgi/collection/infectious_
+Infectious Diseases
+the following collection(s):
+This article, along with others on similar topics, appears in
+Permissions & Licensing
+ml
+http://pediatrics.aappublications.org/site/misc/Permissions.xht
+tables) or in its entirety can be found online at:
+Information about reproducing this article in parts (figures,
+ Reprints
+http://pediatrics.aappublications.org/site/misc/reprints.xhtml
+Information about ordering reprints can be found online:
+rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275.
+Grove Village, Illinois, 60007. Copyright © 2005 by the American Academy of Pediatrics. All
+and trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published,
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly
+Downloaded from pediatrics.aappublications.org at Nanyang Technological University on June 4, 2015
+DOI: 10.1542/peds.2005-0049
+Pediatrics 2005;116;153
+Margarette Kolczak and Eric K. France
+Debra P. Ritzwoller, Carolyn Buxton Bridges, Susan Shetterly, Kristi Yamasaki,
+Years of Age, With 1 vs 2 Doses
+Effectiveness of the 2003−2004 Influenza Vaccine Among Children 6 Months to 8
+http://pediatrics.aappublications.org/content/116/1/153.full.html
+located on the World Wide Web at:
+The online version of this article, along with updated information and services, is
+of Pediatrics. All rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275.
+Boulevard, Elk Grove Village, Illinois, 60007. Copyright © 2005 by the American Academy
+published, and trademarked by the American Academy of Pediatrics, 141 Northwest Point
+publication, it has been published continuously since 1948. PEDIATRICS is owned,
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly
+Downloaded from pediatrics.aappublications.org at Nanyang Technological University on June 4, 2015

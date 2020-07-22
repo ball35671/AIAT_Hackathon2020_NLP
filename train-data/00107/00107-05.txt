@@ -1,0 +1,922 @@
+﻿Specialized psychosocial treatment plus treatment as
+usual (TAU) versus TAU for patients with cannabis
+use disorder and psychosis: the CapOpus
+randomized trial
+C. R. Hjorthøj1
+*, A. Fohlmann1
+, A.-M. Larsen1
+, C. Gluud2
+, M. Arendt3 and M. Nordentoft1
+1 Copenhagen University Hospital, Mental Health Centre Copenhagen, Research Unit, Copenhagen NV, Denmark
+2 Copenhagen Trial Unit, Department 33.44, Rigshospitalet, Copenhagen Ø, Denmark
+3 Unit for Psychiatric Research, Aalborg Psychiatric Hospital, Aarhus University Hospital, Denmark
+Background. Cannabis abuse in psychotic patients is associated with rehospitalizations, reduced adherence and
+increased symptom severity. Previous psychosocial interventions have been ineffective in cannabis use, possibly
+because of low sample sizes and short interventions. We investigated whether adding CapOpus to treatment as usual
+(TAU) reduces cannabis use in patients with cannabis use disorder and psychosis.
+Method. A total of 103 patients with psychosis and cannabis use disorder were centrally randomized to 6 months of
+CapOpus plus TAU (n=52) or TAU (n=51). CapOpus consisted mainly of motivational interviewing and cognitive
+behaviour therapy (CBT). TAU was targeted primarily at the psychotic disorder. The primary outcome was selfreported days with cannabis use in the preceding month.
+Results. Pre-randomization cannabis use frequency was 14.9 [95% confidence interval (CI) 12.7–17.1] days/month.
+Post-treatment, the ratio of days/month with cannabis use in CapOpus versus TAU was 0.76 (95% CI 0.38–1.50)
+(p=0.42), and 0.80 (95% CI 0.21–3.10) (p=0.75) at the 4-month follow-up. From 46.4 (95% CI 36.4–56.3) monthly joints
+pre-randomization, consumption fell to 27.3 (95% CI 12.6–41.9) joints in CapOpus and 48.2 (95% CI 31.8–64.6) in
+TAU (p=0.06). Follow-up amounts were 28.4 (95% CI 13.5–43.2) and 41.6 (95% CI 25.2–58.0) joints (p=0.23). Several
+subgroup analyses suggested benefits of CapOpus.
+Conclusions. CapOpus did not reduce the frequency, but possibly the amount, of cannabis use. This is similar to the
+findings of previous trials in this population. Implementation of CapOpus-type interventions is thus not warranted at
+present but subgroup analyses call for further trials.
+Received 24 May 2012 ; Revised 15 August 2012 ; Accepted 23 August 2012 ; First published online 8 October 2012
+Key words : Cannabis, dual diagnosis, psychosis, randomized clinical trial, schizophrenia.
+Introduction
+Cannabis abuse is highly prevalent in patients with
+psychosis, with on average 11% of patients having
+current abuse of cannabis and 19% having abused
+cannabis during the past year (Green et al. 2005). In
+comparison, around 1.5% of Americans are estimated
+to have diagnosable cannabis abuse or dependence
+(Compton et al. 2004). Cannabis use in patients with
+psychosis is associated with reduced adherence to
+antipsychotic treatment (Olfson et al. 2000; Kamali
+et al. 2006), and increased psychotic relapses (Hides
+et al. 2006), psychotic symptoms (van Os et al. 2002;
+Grech et al. 2005) and number of hospitalizations
+(Caspari, 1999). Although evidence regarding the impact of cannabis on negative symptoms and cognition
+is unclear (Bersani et al. 2002; Yu¨ cel et al. 2012), experimental studies have shown that intravenous delta9-tetrahydrocannabinol (THC) acutely and negatively
+affects these domains in patients with psychosis
+(D’Souza et al. 2005; Leeson et al. 2012). For these reasons, treating cannabis use disorders may improve
+prognosis for patients with psychosis.
+Trials on cognitive behaviour therapy (CBT), motivational interviewing, psycho-education and treatment as usual (TAU) have generally failed to show
+efficacy of any intervention over others for treating
+cannabis use disorders (Cleary et al. 2008; Hjorthøj
+et al. 2009). Most trials have been relatively short
+* Address for correspondence : C. R. Hjorthøj, Ph.D., M.Sc.,
+Copenhagen University Hospital, Mental Health Centre Copenhagen,
+Research Unit, Bispebjerg Bakke 23, Building 13A, DK-2400
+Copenhagen NV, Denmark.
+(Email : Carsten.Rygaard.Hjorthoej@regionh.dk)
+Psychological Medicine (2013), 43, 1499–1510. f Cambridge University Press 2012
+doi:10.1017/S0033291712002255
+ORIGINAL ARTICLE
+interventions (1–10 sessions) with short follow-ups,
+and with risk of bias and random errors due to small
+sample sizes, incomplete allocation concealment and
+analyses not being intention-to-treat. Only two trials
+have focused exclusively on cannabis (Edwards et al.
+2006; Bonsack et al. 2011). Trials with lower risk of
+bias have generally not reported separate results for
+cannabis use (Hjorthøj et al. 2009) and often found
+significant intervention effects of motivational interviewing, CBT, or their combination (Jerrell & Ridgely,
+1995; Barrowclough et al. 2001; Kavanagh et al. 2004;
+Bellack et al. 2006; Kemp et al. 2007). It remains unknown whether the lack of efficacy in trials reporting
+separate outcomes for cannabis is due to poorer quality of these trials or to the interventions being more
+effective for other substances. It was thus important to
+initiate a trial targeted directly at cannabis abuse, attempting to replicate the successful findings in studies
+that did not report on cannabis separately. This entailed setting up an intervention with more sessions
+than in previous studies because shorter interventions
+may be insufficient for dual diagnosis patients to
+change their substance use. It also entailed recruiting a
+sufficient number of participants to achieve statistical
+power to detect intervention effects, and minimizing
+potential sources of bias that may have been present in
+previous trials.
+We aimed to compare 6 months of CapOpus, consisting mainly of motivational interviewing and CBT
+aimed at cannabis-related problems, plus TAU versus
+TAU alone. Our primary hypothesis was that
+CapOpus added to TAU would be more effective in
+reducing the number of days with cannabis use in the
+previous month compared with TAU alone. Our secondary hypothesis was that CapOpus added to TAU
+would also improve psychopathology, cognitive
+functioning, quality of life and similar areas compared
+with TAU alone.
+Method
+The trial was a 6-month, parallel-group, observerblinded superiority trial comparing CapOpus plus
+TAU with TAU alone, including patients from
+September 2007 to December 2010 in Copenhagen,
+Denmark.
+Participants
+Patients were referred from Danish Early Psychosis
+Intervention Services (Opus teams; Petersen et al.
+2005), Community Mental Health Centres (CMHCs;
+Nordentoft et al. 1996), Assertive Community
+Treatment (ACT) teams (Vendsborg et al. 1999), and
+psychiatric wards. Inclusion criteria were: ICD-10
+schizophrenia spectrum psychosis (F2); cannabis use
+disorder (F12); age 18–35 years (chosen so as to yield
+more homogeneous groups for the planned group
+sessions; a combination of slow influx of patients and
+interested participants just outside the inclusion age
+range led us to modify this after 5 months of inclusion
+and include patients aged 17–42 years); residence in
+the Copenhagen area; not requiring an interpreter;
+and the ability and willingness to give informed consent. We allowed dependence to other substances if
+participants themselves designated cannabis as their
+primary substance of abuse. The diagnosis of schizophrenia spectrum psychosis was usually established
+by the referring agent, and in cases of doubt was established by the Schedules for Clinical Assessment in
+Neuropsychiatry (SCAN) interview (Wing et al. 1990).
+After complete description of the trial to the participants, written informed consent was obtained before
+randomization.
+Randomization and masking
+Computerized central randomization (1: 1) was performed by the Copenhagen Trial Unit, stratified by
+intensity of cannabis use (0–14 or 15–30 days in the
+past month) and type of TAU (see below). The block
+size varied between 6, 8 and 10, and was known only
+to the Copenhagen Trial Unit. The outcome assessor
+was kept blind to allocation by asking participants not
+to divulge the allocation, staff names, etc. The assessor
+registered a guess of the intervention group at both
+follow-up interviews, and these were ultimately compared to the actual intervention received by participants. The value of k between allocation and guess
+was 0.33 (p=0.004) post-treatment and 0.22 (p=0.03)
+at follow-up. Fourteen patients or case managers accidentally broke the blind, with a tendency towards
+higher risk of unblinding in the CapOpus group (19%
+v. 8%, p=0.09). Blinding was maintained throughout
+data entry and management, analysis, manuscript
+preparation and drafting of conclusions; after data
+collection was completed, the investigators received a
+randomization code from the data manager of the
+Copenhagen Trial Unit detailing whether patients had
+been allocated to group 0 or group 1. Only once the
+manuscript and conclusions had been approved by all
+authors were the CapOpus investigators informed by
+the data manager which of the two groups was the
+experimental group.
+Interventions
+CapOpus
+CapOpus was an add-on intervention to TAU, which
+all patients received. Full details are given in the
+1500 C. R. Hjorthøj et al.
+design paper (Hjorthøj et al. 2008) and full protocol
+(www.capopus.dk). The intervention was based on
+the EPPIC manual, and was similar to the Midas trial
+(Hinton et al. 2002; Barrowclough et al. 2010).
+CapOpus lasted 6 months from first contact with
+CapOpus consultants. One or two weekly individual
+sessions were offered in the first month, depending on
+the participants’ wishes (two sessions were actively
+encouraged to those whom CapOpus consultants
+deemed to be more troubled by their cannabis use or
+psychosis). One weekly session was offered during the
+remaining 5 months. The intervention was fully manual based, starting with motivational interviewing to
+enhance alliance and motivation, and shifting to CBT
+as patients became motivated to change their cannabis
+use. Returning to motivational interviewing was often
+required. Emphasis was placed on analysing the advantages and disadvantages of continued use, and instructions in the development of personal strategies
+in relation to craving trigger situations. The sessions
+could take place in CapOpus offices, at the patient’s
+home or treatment facility, and typically, an assertive
+approach was applied to get the patients to attend (e.g.
+home visits). Addiction consultants were trained and
+experienced in motivational interviewing and CBT.
+One consultant was a psychologist (handling 71% of
+participants), one a master student of psychology, and
+one an occupational therapist. The consultants met
+several times a month and shared experiences, and
+received both internal and external supervision.
+Meetings with TAU case managers and families were
+sought at a predefined schedule. Patients were offered
+complimentary food regardless of cannabis use, in an
+effort to increase adherence. The uptake of this was
+minimal and was deemed to have influenced the
+consultant–participant alliance in a maximum of six
+participants. Case load was intended to be 1: 10 but
+was usually between 1: 6 and 1: 7. Weekly group
+sessions were planned but never implemented, as too
+few patients wanted to participate in them.
+TAU
+TAU consisted of the treatment available to patients
+had they not participated in the trial, provided by staff
+not employed by CapOpus. TAU was carried out in
+Opus, CMHCs or ACT teams (Nordentoft et al. 1996;
+Vendsborg et al. 1999; Petersen et al. 2005). No explicit
+manual exists regarding co-occurring cannabis use
+disorder in TAU. Instead, these facilities primarily
+target the psychotic disorder using both antipsychotic
+medication and methods such as CBT (but generally
+not targeted at substance use). Case load is approximately 1: 10 in Opus and ACT teams and 1: 20 to 1: 30
+in CMHCs, not all of whom participated in the trial.
+We did not register use of antipsychotic medication,
+but previous investigations have shown that approximately 60% of patients in TAU in Denmark are given
+antipsychotic medication (Petersen et al. 2005). Most
+patients already received TAU at inclusion, and we
+facilitated referral for the rest. TAU did not end after
+the 6-month trial duration.
+Measurements
+Patients were interviewed three times by a trained
+assessor blind to treatment allocation. The first interview was pre-randomization. For the CapOpus group,
+the second interview was scheduled 6 months after the
+first contact with the CapOpus consultant. This variation in time since inclusion was replicated in the TAU
+group by flagging TAU participants included around
+the same time as the CapOpus participants as ready
+for interview. This second interview is referred to as
+‘post-treatment’. The third interview was scheduled
+4 months later and is referred to as ‘ follow-up’. If the
+post-treatment interview was not conducted within
+4 months, attempts were still made to conduct the
+follow-up interview. Interviews could take place at
+CapOpus, the participant’s home or a treatment
+facility. As a last resort, interviews could be conducted
+by telephone and questionnaires sent by post. Interviews could be split in two over a week, or partial
+interviews could be conducted on prioritized outcomes.
+Most data were collected at all three interviews. The
+primary outcome was the self-reported number of
+days with cannabis use in the past month, with recall
+assisted by Timeline Follow-Back (TLFB; Sobell &
+Sobell, 1992). This also allowed for quantification of
+the number of ‘ standard joints’ in the past month. We
+defined a standard joint as containing 0.5 g of cannabis
+resin, and multiplied this by 1.5 for more potent types
+of cannabis. TLFB-assisted self-report is a highly valid
+measure of cannabis consumption even in this patient
+group, perhaps even better than blood samples when
+going beyond 30 days (Hjorthøj et al. 2012a, b).
+Baseline information on other abuse diagnoses was
+collected using the SCAN. Secondary outcomes were
+the Positive and Negative Syndrome Scale (PANSS;
+Kay et al. 1987), Global Assessment of Functioning
+(Endicott et al. 1976), the World Health Organization (WHO, 2000) Disability Assessment Schedule,
+EuroQol’s Quality of Life Interview (EQ-5D; Brooks,
+1996; Halling Hastrup et al. 2011), the Manchester
+Short Assessment of Quality of Life (MANSA; Priebe
+et al. 1999), the Brief Assessment of Cognition in
+Schizophrenia (BACS) – symbol coding (Keefe et al.
+2004), Trail Making Tests A and B (Bowie & Harvey,
+2006), the Continuous Performance Test – Identical
+The CapOpus randomized trial 1501
+Pairs (Cornblatt, 1989), the Hopkins Verbal Learning
+Test (Brandt, 1991), Neuropsychological Assessment
+Battery mazes (Stern & White, 2003), and the Danish
+adaptation of the National Adult Reading Test
+(Nelson & O’Connell, 1978). The Client Satisfaction
+Questionnaire (CSQ) was administered post-treatment
+(Larsen et al. 1979). Outcome measures on health-care
+utilization will be published separately.
+Sample size
+With a=0.05 (two-sided) and power=0.9, we calculated a priori that to detect a statistically significant
+difference at either interview point of 5 days of
+cannabis use (S.D.=5.0), we needed 2r22 patients.
+Assuming 37% attrition (Petersen et al. 2005), 2r35
+patients were needed. To perform subgroup analyses,
+we attempted to include 2r60 to 2r70 patients, but
+slow inclusion of patients forced us to cease inclusion
+after the 103rd patient was recruited. Early analyses of
+patients were performed for conference presentation
+purposes once before inclusion ended, with the explicit determination that these results would not lead
+to decisions regarding early stopping, as this may introduce bias and random errors.
+Approval
+The study was approved by the local ethics committee
+(H-D-2007-0028) and the Danish Data Protection Agency
+(2007-41-0616), and registered at ClinicalTrials.gov
+(NCT00484302).
+Data management and statistics
+Data were entered into the database twice and discrepancies corrected according to unambiguously
+designed case-record forms. The primary outcome
+was analysed using multi-level, mixed-effects repeated-measures Poisson regression, yielding both
+timergroup interaction terms and between-group
+comparisons at each assessment point expressed as
+incidence rate ratios (IRRs; the ratio of days with
+cannabis use). Continuous outcome measures were
+analysed using linear mixed models (LMMs), with
+unstructured variance repeated measurements. We
+also performed LMM analyses for the primary outcome to obtain estimated marginal means (a measure
+of absolute rather than relative difference). Both of
+these models include baseline values in their estimation of treatment effects. Abstinence was analysed
+using logistic regression and satisfaction with treatment using linear regression. Analyses were intentionto-treat, analysing all patients as randomized. Missing
+outcome data were handled by log-likelihood-based
+measures in the multilevel Poisson model and the
+LMM, and by multiple imputations in other analyses.
+We conducted sensitivity analyses assuming either
+last observation carried forward or an increase in
+cannabis consumption. All tests of significance were
+two-sided. We specified a priori that we would perform subgroup analyses, but not on which subgroups.
+The subgroups we chose were deemed likely to influence the efficacy of a psychosocial intervention.
+Analyses were performed using Stata/SE 11.2 (Stata
+Corporation, USA).
+Results
+Participants
+Participant flow is depicted in Fig. 1. Patients were
+randomized to CapOpus plus TAU (n=52) or TAU
+alone (n=51). Table 1 shows that there were no indications of skewed distribution of cannabis consumption or other baseline characteristics between
+intervention groups. Post-treatment interviews were
+carried out by telephone and letter for three patients in
+CapOpus and two in TAU (p=0.66). At follow-up,
+three interviews in each group (p=0.98) were carried
+out by telephone and letter.
+Attrition
+Mean (S.D.) time between baseline and the post-treatment interview was 9.3 (1.4) months, and 14.9 (2.1)
+months between baseline and follow-up. Neither differed between interventions (p=0.59 and p=0.97).
+Thirty-eight patients (73.1%) in CapOpus and 30
+(58.9%) in TAU completed the post-treatment interview (p=0.13). For the follow-up interview, completion proportions were 37 (71.2%) in CapOpus and
+31 (60.8%) in TAU (p=0.27). There were no indications
+of skewed attrition in terms of baseline cannabis use,
+sociodemographic factors or any baseline scores.
+Effect of intervention on cannabis consumption
+The primary outcome, the number of cannabis-using
+days in the past month, is presented in Table 2 as IRRs
+(ratio of days) for the CapOpus group compared with
+the TAU group, showing no significant differences
+post-treatment or at follow-up. The absolute consumption of cannabis is shown in Fig. 2 as estimated
+marginal means and confidence intervals (CIs) from
+the LMM. The ratio of cannabis-using days in
+CapOpus versus TAU was 0.76 (95% CI 0.38–1.50)
+(p=0.42) post-treatment and 0.80 (95% CI 0.21–3.10)
+(p=0.75) at follow-up. CapOpus participants smoked
+20.9 (95% CI –1.0 to 42.9) fewer joints post-treatment
+per month than TAU participants (p=0.06), whereas
+the difference was 13.3 (95% CI –8.5 to 35.1) (p=0.23)
+1502 C. R. Hjorthøj et al.
+at follow-up. There were no differential effects according to which addiction consultant had treated
+patients in the CapOpus group (p>0.20). Multiple
+imputation logistic regression analyses revealed that
+post-treatment and follow-up odds of abstinence from
+cannabis did not differ significantly between CapOpus
+and TAU participants [odds ratio (OR) 1.31, 95% CI
+0.47–3.64, p=0.61 and OR 0.64, 95% CI 0.25–1.68,
+p=0.37 respectively]. This was confirmed in observed
+cases and all sensitivity analyses. LMM analyses did
+not reveal any difference on plasma concentrations of
+THC between interventions (data not shown).
+Effect on cannabis consumption in subgroups
+Table 2 shows IRRs for cannabis-using days in the
+preceding month for patients receiving CapOpus
+versus patients receiving TAU, stratified into subgroups. Table 3 shows, within the same subgroups,
+LMM-estimated marginal means within the two interventions on standard joints during the preceding
+month. Although the IRRs between interventions were
+not significant for any subgroups based on the baseline amount of cannabis used, post-treatment marginal
+means of monthly standard joints were significantly
+lower in CapOpus than in TAU for two such subgroups; among those not abstinent at baseline, participants in the CapOpus group had used 26.1 (95% CI
+3.5–48.7) fewer standard joints in the preceding
+months than patients in the TAU group (p=0.02). At
+follow-up, the difference was reduced to 18.2 (95% CI
+–5.7 to 42.1) (p=0.14). In the subgroup of patients
+who had used cannabis at least 15 days during the
+month prior to the baseline assessment (a separate
+Participants referred to CapOpus (n=129)
+Interviewed for baseline assessment
+(n=103)
+Randomised to CapOpus plus treatment as
+usual (n=52)
+Post-treatment interview (n=38)
+Four-month follow-up interview
+(n=37)
+Four-month follow-up interview
+(n=31)
+Post-treatment interview (n=30)
+Randomised to treatment as usual (n=51)
+Excluded (n=26)
+Not meeting inclusion criteria (n=4)
+Referred but never showed up (n=6)
+Not interested (n=16)
+Lost to follow-up (n=21)
+Repeatedly missed
+appointments (n=6)
+Refused interview (n=4)
+No contact established (n=11)
+Lost to follow-up (n=20)
+Repeatedly missed
+appointments (n=5)
+Refused interview (n=5)
+No contact established (n=10)
+Lost to follow-up (n=15)
+Repeatedly missed
+appointments (n=8)
+Refused interview (n=3)
+No contact established (n=4)
+Lost to follow-up (n=14)
+Repeatedly missed
+appointments (n=9)
+No contact established (n=5)
+Fig. 1. Trial flow chart.
+The CapOpus randomized trial 1503
+randomization stratum), the difference post-treatment
+was 30.7 (95% CI –0.6 to 62.0) (p=0.05) in favour of
+CapOpus.
+There seemed to be a strong intervention effect in
+the youngest quartile of patients (age 17–21 years).
+These CapOpus participants reduced their number of
+cannabis-using days post-treatment by a third, and
+their number of monthly joints by half. Young TAU
+participants increased their cannabis use to nearly
+daily consumption and 40% more joints. At follow-up,
+these differences were no longer significant. A similar
+tendency was observed for patients with the earliest
+onset of cannabis abuse (age f14 years, p=0.05, data
+not shown).
+Unemployed patients in CapOpus more than
+halved their number of post-treatment monthly joints
+whereas unemployed patients in TAU did not alter
+their consumption (p=0.03).
+Effect of intervention on other outcomes
+There were no significant intervention effects on other
+outcomes such as PANSS scores, cognitive tests and
+quality of life. The difference in marginal means posttreatment in TAU compared with CapOpus on overall
+PANSS scores was x0.7 (95% CI x7.9 to 6.6), p=0.86;
+for the positive symptoms PANSS subscale the difference was 1.3 (95% CI x1.1 to 3.7), p=0.29; on the
+negative symptoms subscale the difference was x1.1
+(95% CI x3.7 to 1.6), p=0.44. On quality of life as
+measured by MANSA, the difference was 2.2 (95% CI
+x1.9 to 6.2), p=0.29. Among cognitive tests, the one
+Table 1. Baseline characteristics
+CapOpus (n=52) TAU (n=51)
+Cannabis using days past month, mean (S.D.) 14.5 (11.1) 15.4 (11.5)
+Standard joints past month, mean (S.D.) 45.7 (48.2) 47.1 (55.2)
+Age (years), mean (S.D.) 26.6 (6.3) 27.1 (6.3)
+Age at onset of cannabis abuse* (years), mean (S.D.) 17.2 (3.8) 17.6 (4.8)
+Years since onset of cannabis abuse*, mean (S.D.) 9.3 (5.8) 9.5 (6.8)
+Abuse or dependence on other substances**, n (%) 13 (56.5) 10 (43.5)
+Born in Denmark*, n (%) 43 (82.7) 46 (92.0)
+Male, n (%) 38 (73.1) 40 (78.4)
+Diagnosis, n (%)
+Schizophrenia 31 (59.6) 22 (43.1)
+Schizotypal disorder 13 (25.0) 19 (37.3)
+Other/unclear diagnosis 8 (15.4) 10 (19.6)
+Type of TAU, n (%)
+Opus 24 (46.2) 23 (45.1)
+ACT 9 (17.3) 8 (15.7)
+CMHC 19 (36.5) 20 (39.2)
+Employment status, n (%)
+Employed 5 (9.6) 2 (3.9)
+Student 7 (13.5) 8 (15.7)
+Unemployed or retired 40 (76.9) 41 (80.4)
+Completed education, n (%)
+Public school 31 (59.6) 26 (51.0)
+Vocational training 8 (15.4) 10 (19.6)
+High school 11 (21.2) 12 (23.5)
+University 2 (3.9) 3 (5.9)
+PANSS score, mean (S.D.)
+Total score*** 75.1 (18.1) 76.6 (18.4)
+Positive scale score*** 18.6 (6.1) 18.5 (6.1)
+Negative scale score*** 17.6 (7.0) 19.0 (6.7)
+General scale score*** 38.9 (9.0) 39.2 (9.4)
+TAU, Treatment as usual; Opus, Opus teams for early detection and treatment of young people with psychosis (not an
+acronym) ; ACT, Assertive Community Treatment ; CMHC, Community Mental Health Centre ; PANSS, Positive and Negative
+Syndrome Scale for Schizophrenia, S.D., standard deviation.
+Because of missing data, some comparisons are based on *102, **61 or ***100 patients.
+1504 C. R. Hjorthøj et al.
+that came closest to a difference between groups was
+the Trail Making Test Part B (difference
+x11.6 s, 95%
+CI
+x25.9 to 2.7,
+p
+=0.11), with all other
+p values
+>0.37.
+There seemed to be no harmful effects defined as increases in cannabis use or psychopathology. In multiple imputation linear regression analyses, the
+standardized
+b coefficient of CSQ satisfaction with
+treatment was 0.64 in favour of CapOpus (
+p
+<0.001).
+Adherence
+CapOpus sessions usually lasted 1 h, but could be
+shorter or longer according to the participants’ wishes.
+Twenty-four sessions were planned and on average 16
+were achieved. Ten sessions per patient were carried
+out as home visits. Three patients (5.8%) attended
+zero sessions, and 77% had at least eight sessions
+of CapOpus. Adherence varied with consultant (p=0.02); one consultant who saw 71% of patients had
+9.9 fewer sessions per patient than one consultant who
+saw 15% of patients. The importance of this seems to
+be negligible as there was no indication of a time-bystaff interaction (p=0.79). Most case managers delivering TAU to CapOpus patients participated in the
+planned meetings. The involvement of families was
+largely unsuccessful, with 73% of patients more or less
+completely refusing family involvement, and only
+19% having at least four meetings with the family.
+Data on TAU were obtained from service registers for
+97 individuals, revealing nearly identical TAU usage
+in the two groups. CapOpus participants received a
+mean (
+S
+.
+D.) of 15.3 (11.8) TAU sessions, compared with
+15.6 (11.9) in TAU alone (
+p
+=0.89).
+Discussion
+Adding CapOpus to TAU did not significantly reduce
+the number of days with cannabis use, but there was a
+tendency to reduce the number of monthly joints,
+compared with TAU alone. Certain subgroups seemed
+to have reduced their cannabis use when receiving
+CapOpus, including those not abstinent at baseline,
+younger participants and unemployed participants.
+Previous trials have not published intervention effects
+within subgroups. Because of multiple-comparison
+issues potentially leading to type I errors, our subgroup results should only be used for generating new
+hypotheses. Future trials should define which subgroups to explore a priori, to reduce risk of type I errors
+due to data-mining.
+Participants receiving CapOpus were significantly
+more satisfied with the intervention than those receiving TAU, indicating that the intervention was acceptable to patients but that satisfaction does not
+Table 2.
+necessarily imply clinical improvement.
+Ratio of number of days (incidence rate ratios) of days with cannabis use in the CapOpus group compared to treatment as usual (TAU)
+Subgroups
+Baseline
+Post -treatment Follow-up
+p (grouprtime) IRR (95% CI) IRR (95% CI) p (CapOpus v. TAU) IRR (95% CI) p (CapOpus v. TAU)
+All patients (n=103) 0.94 (0.85–1.04) 0.76 (0.38–1.50) 0.42 0.80 (0.21–3.10) 0.75 0.25
+Not abstinent at baseline (n=91) 0.94 (0.85–1.04) 0.66 (0.32–1.37) 0.26 0.64 (0.15–2.74) 0.55 0.14
+Age <14 years at baseline (n=54) 1.00 (0.79–1.26) 1.52 (0.39–5.90) 0.54 2.68 (0.18–39.93) 0.48 0.71
+Age o15 years at baseline (n=49) 0.98 (0.87–1.09) 0.65 (0.35–1.20) 0.17 0.62 (0.19–2.08) 0.44 0.14
+Male (n=78) 1.00 (0.88–1.12) 0.75 (0.32–1.73) 0.50 0.57 (0.11–3.01) 0.51 0.80
+Female (n=25) 0.78 (0.65–0.94) 0.74 (0.24–2.24) 0.59 1.52 (0.17–13.90) 0.71 0.04
+Age 17–21 years (n=21) 1.07 (0.87–1.32) 0.39 (0.17–0.89) 0.03 0.46 (0.10–2.23) 0.34 0.002
+Age 22–30 years (n=55) 0.96 (0.81–1.07) 0.91 (0.34–2.47) 0.86 1.25 (0.17–9.08) 0.83 0.29
+Age 31–42 years (n=27) 0.83 (0.68–1.02) 1.10 (0.22–5.59) 0.90 0.29 (0.01–7.51) 0.46 0.01
+Unemployed (n=81) 0.99 (0.89–1.11) 0.61 (0.29–1.27) 0.18 0.58 (0.14–2.49) 0.46 0.04
+Employed/student (n=22) 0.76 (0.58–0.98) 1.91 (0.37–9.86) 0.44 3.37 (0.13–89.69) 0.47 0.42
+IRR, Incidence rate ratio ; CI, confidence interval.
+The CapOpus randomized trial 1505
+Our main results are comparable with previous
+trials, including the tendencies towards reductions in
+amount but not frequency of substance use (Hjorthøj
+et al. 2009; Barrowclough et al. 2010; Bonsack et al.
+2011). Our trial was larger, lasted longer or achieved
+more therapeutic sessions than most trials identified in
+a systematic review, which may explain why we tend
+to find more evidence of an effect at least on the
+number of monthly joints (Baker et al. 2006; Edwards
+et al. 2006; Martino et al. 2006).
+This lack of efficacy may several possible explanations. Patients may perceive cannabis as having
+positive effects that outweigh its negative consequences, such as self-medication for negative symptoms, anxiety, sleeplessness and social dysfunction
+(Schofield et al. 2006). Furthermore, the psychological
+and physical dependence could be too strong to overcome without a pharmacological agent. Patients both
+in TAU and CapOpus may have benefited from the
+research interviews, potentially diluting the efficacy of
+CapOpus over TAU. Although cognitive deficits in
+psychosis may limit the applicability of CBT and motivational interviewing (Heinrichs & Zakzanis, 1998),
+these approaches do seem to work for general substance use disorders in this population (Hjorthøj et al.
+2009). Furthermore, there was a tendency towards
+fewer monthly joints post-treatment in the CapOpus
+group, possibly indicating a successful harm reduction. The significant reduction of post-treatment
+joints in CapOpus for those who had not already
+stopped using cannabis on their own at baseline indicates that inclusion of ‘ self-curers’ may have diluted
+the efficacy of CapOpus.
+Strengths and weaknesses
+Our trial holds important strengths. We used centralized randomization, which reduces selection bias,
+improves comparability between intervention groups
+and ensures allocation concealment. We used a
+manual-based intervention implemented in a very
+similar manner to what would be feasible outside a
+randomized trial. Although neither treatment staff nor
+patients could be blinded, all other stages of the trial
+were blinded, including observer-rated assessments,
+data management, analysis, drafting the manuscript
+and drawing conclusions.
+Our trial also has certain limitations. Because
+patients were referred, they may have been selected
+among those most willing to change their cannabis
+consumption. We did not obtain data on readiness
+to change, and cannot exclude this potential bias.
+It is thus not certain that our results can be generalized
+to patients at the pre-contemplation stage according to the Stages-of-Change model (Prochaska &
+DiClemente, 1992). Future trials should try to explicitly
+include such patients, for example by approaching
+consecutively admitted patients.
+CapOpus addiction consultants carried out fidelity
+self-ratings following sessions, shared experiences
+with each other and were involved in internal and
+external supervision. The fidelity measure used was
+not, however, truly quantifiable, and future trials
+should take more care in registering fidelity, as lack of
+fidelity to the treatment manual may be a cause of lack
+of effect in the psychosocial intervention trials.
+Participants and addiction consultants were not
+blind to allocation, and we cannot exclude collateral
+intervention bias, although no evidence of this was
+apparent when comparing TAU in the two intervention groups. Furthermore, outcome assessment
+and all other tasks were carried out blinded, minimizing the risk of reporting bias. The outcome
+assessor was better at guessing the allocated intervention than would be expected by chance, but with k
+values indicating that this was only modestly so.
+p=0.69 p=0.33 p=0.52 p=0.89 p=0.06 p=0.23
+0 10 20 30 40 50 60 70
+Standard joints last month
+0 5 10 15 20
+Days last month with cannabis use
+Post treatment
+Follow up
+Baseline
+Baseline
+Post treatment
+Follow up
+CapOpus+TAU TAU
+Fig. 2. Main results of the CapOpus trial as estimated marginal means. TAU, Treatment as usual.
+1506 C. R. Hjorthøj et al.
+We chose to register these guesses because this was
+the recommendation at the time according to the
+original Consolidated Standards of Reporting Trials
+(CONSORT) statement, although it was consequently
+advised against in the latest update to CONSORT
+(Schulz et al. 2010
+a
+,
+b). As explained in the latest revision of the CONSORT statement, outcome of such
+guesses could just as well be attributable to efficacy,
+etc.
+Although we stopped inclusion earlier than 120
+patients, power is above the 80% used in our samplesize calculation, which required 2r35 patients. The
+observed between-group difference was lower than
+the 5 days specified in the sample-size calculation, and
+it is doubtful whether this difference is clinically relevant and should be used to guide power in future
+trials. The lack of group sessions and less than optimal
+adherence to the CapOpus intervention may have influenced the efficacy of CapOpus negatively, but is
+probably how patients would behave if CapOpus was
+implemented. If future trials become more successful
+at achieving these non-individual aspects, this may
+improve intervention efficacy. Furthermore, because
+TAU case managers could have patients in both interventions, a degree of contamination may have occurred so that elements of CapOpus became available
+in TAU as well.
+Our trial had 34% attrition, which is comparable to
+other trials (Petersen et al. 2005). Attrition seemed to
+be non-differential. Time from inclusion to the posttreatment interview was a mean of 9.3 months,
+reflecting delays in participants starting the intervention, cancellations and no-shows from the posttreatment interview. We achieved similar follow-up
+times in the TAU group, which we believe has guarded against biases. We cannot exclude the possibility,
+however, that this may have introduced biases or
+random errors that could have both over- and underestimated intervention effects.
+The contents of TAU regarding cannabis use disorders is not manual based, and some compensation
+may have occurred for participants randomized to
+TAU, that is case managers increasing their focus on
+the problem beyond their normal approach. We did
+not observe a difference in frequency of TAU sessions
+in the two interventions. Cannabis use was largely
+unchanged over time in TAU, indicating that even if a
+change in focus did occur, it was not successful.
+Implications and future research
+Psychosocial interventions seem to be insufficient for
+reducing the frequency of cannabis use among
+patients with psychosis. In the spirit of harm reTable 3
+duction, it may be better to add CapOpus to TAU but
+Number of joints in the preceding month by treatment group and over time in the trial
+Subgroups
+Baseline Post –treatment Follow-up
+p (grouprtime) CapOpus TAU CapOpus TAU p CapOpus TAU p
+All patients (n=103) 45.7 (31.6–59.7) 47.1 (32.9–61.3) 27.2 (12.5–41.9) 48.3 (31.8–64.8) 0.06 28.2 (13.1–43.2) 41.8 (25.2–58.4) 0.23 0.36
+Not abstinent at baseline (n=91) 51.6 (36.5–66.7) 53.4 (38.1–68.6) 23.9 (8.7–39.2) 50.0 (33.3–66.7) 0.02 27.7 (11.7–43.7) 45.8 (28.1–63.6) 0.14 0.21
+Age <14 at baseline (n=54) 12.3 (6.4–18.2) 10.5 (4.4–16.6) 24.1 (5.3–42.9) 24.7 (0–50.4) 0.97 13.6 (0.2–27.0) 22.8 (5.8–39.8) 0.41 0.52
+Age o15 at baseline (n=49) 84.6 (64.4–104.7) 85.1 (65.3–104.9) 30.2 (7.5–52.9) 60.9 (39.4–82.4) 0.05 41.8 (16.5–67.2) 54.9 (30.2–79.6) 0.47 0.22
+Male (n=78) 43.4 (28.2–58.6) 42.0 (27.2–56.8) 30.6 (11.6–49.6) 48.3 (27.5–69.1) 0.22 25.2 (7.0–43.4) 45.1 (25.7–64.6) 0.14 0.36
+Female (n=25) 51.9 (18.7–85.0) 65.6 (28.2–103.0) 22.8 (4.0–41.6) 50.0 (27.9–72.1) 0.07 32.9 (8.5–57.3) 26.6 (0–55.9) 0.75 0.12
+Age 17–21 years (n=21) 53.4 (17.5–89.3) 51.8 (14.2–89.4) 29.7 (6.5–52.9) 73.4 (47.0–99.8) 0.02 27.1 (0–62.3) 47.6 (7.1–88.1) 0.45 0.06
+Age 22–30 years (n=55) 40.9 (23.5–58.2) 44.1 (26.5–61.7) 34.1 (12.1–56.1) 48.0 (22.0–74.0) 0.42 32.6 (11.1–54.1) 42.3 (17.2–67.4) 0.56 0.87
+Age 31–42 years (n=27) 49.5 (18.1–80.8) 49.4 (19.2–79.6) 20.9 (0–44.2) 30.6 (8.3–52.9) 0.55 14.7 (0–39.0) 30.5 (7.7–53.2) 0.35 0.67
+Unemployed (n=81) 52.8 (36.2–69.3) 51.9 (35.5–68.3) 25.6 (9.5–41.7) 51.9 (33.9–69.9) 0.03 30.1 (12.1–48.1) 48.4 (29.0–67.9) 0.18 0.21
+Employed/student (n=22) 22.0 (0–44.3) 27.4 (3.0–51.8) 31.6 (0–68.1) 37.0 0–79.2) 0.85 20.5 (0–43.1) 19.2 (0–45.8) 0.94 0.80
+TAU, Treatment as usual.
+Values given as estimated marginal mean (95 % confidence interval).
+The CapOpus randomized trial 1507
+research should be taken a step further. Open-label
+and randomized trials in patients without psychosis
+have shown the efficacy of buspirone and perhaps
+dronabinol, entacapone and lithium (Weinstein &
+Gorelick, 2011). Combining pharmacological and
+psychosocial interventions may yield a more pronounced treatment effect. Such combination trials on
+dual-diagnosis patients are an obvious choice for future research and could focus on some of the subgroups in which we may have found significant
+intervention effects. Such trials may benefit from exploring ways to include group sessions and familybased interventions.
+Acknowledgements
+We thank our co-workers at the Research Unit of the
+Mental Health Centre Copenhagen for critical comments to the manuscript. We are also very grateful to
+the trial participants.
+This work was supported by the Lundbeck
+Foundation, the Municipality of Copenhagen, the
+Egmont Foundation, the Health Insurance Foundation,
+the Ministry of Social Welfare, Aase and Ejnar
+Danielsen’s Foundation and the Wørzner Foundation.
+The funding bodies of the trial had no influence on the
+design, analysis, interpretation, drafting of the manuscript, decision to publish, or any other areas other than
+funding.
+Declaration of Interest
+None.
+References
+Baker A, Bucci S, Lewin TJ, Kay-Lambkin F, Constable PM,
+Carr VJ (2006). Cognitive-behavioural therapy for
+substance use disorders in people with psychotic
+disorders : randomised controlled trial. British Journal of
+Psychiatry 188, 439–448.
+Barrowclough C, Haddock G, Tarrier N, Lewis SW, Moring
+J, O’Brien R, Schofield N, McGovern J (2001).
+Randomized controlled trial of motivational interviewing,
+cognitive behavior therapy, and family intervention for
+patients with comorbid schizophrenia and substance use
+disorders. American Journal of Psychiatry 158, 1706–1713.
+Barrowclough C, Haddock G, Wykes T, Beardmore R,
+Conrod P, Craig T, Davies L, Dunn G, Eisner E, Lewis S,
+Moring J, Steel C, Tarrier N (2010). Integrated
+motivational interviewing and cognitive behavioural
+therapy for people with psychosis and comorbid substance
+misuse: randomised controlled trial. British Medical Journal
+341, c6325.
+Bellack AS, Bennett ME, Gearon JS, Brown CH, Yang Y
+(2006). A randomized clinical trial of a new behavioral
+treatment for drug abuse in people with severe and
+persistent mental illness. Archives of General Psychiatry 63,
+426–432.
+Bersani G, Orlandi V, Gherardelli S, Pancheri P (2002).
+Cannabis and neurological soft signs in schizophrenia :
+absence of relationship and influence on psychopathology.
+Psychopathology 35, 289–295.
+Bonsack C, Gibellini MS, Favrod J, Montagrin Y, Besson J,
+Bovet P, Conus P (2011). Motivational intervention to
+reduce cannabis use in young people with psychosis : a
+randomized controlled trial. Psychotherapy and
+Psychosomatics 80, 287–297.
+Bowie CR, Harvey PD (2006). Administration and
+interpretation of the Trail Making Test. Nature Protocols 1,
+2277–2281.
+Brandt J (1991). The Hopkins verbal learning test :
+development of a new memory test with six equivalent
+forms. Clinical Neuropsychologist 5, 125–142.
+Brooks R (1996). EuroQol : the current state of play. Health
+Policy 37, 53–72.
+Caspari D (1999). Cannabis and schizophrenia : results of a
+follow-up study. European Archives of Psychiatry and Clinical
+Neuroscience 249, 45–49.
+Cleary M, Hunt G, Matheson S, Siegfried N, Walter G
+(2008). Psychosocial interventions for people with
+both severe mental illness and substance misuse.
+Cochrane Database of Systematic Reviews. Issue 1,
+Art. No. CD001088.
+Compton WM, Grant BF, Colliver JD, Glantz MD,
+Stinson FS (2004). Prevalence of marijuana use disorders
+in the United States. Journal of the American Medical
+Association 291, 2114–2121.
+Cornblatt BA, Lenzenweger MF, Erlenmeyer-Kimling L
+(1989). The continuous performance test, identical pairs
+version : II. Contrasting attentional profiles in
+schizophrenic and depressed patients. Psychiatry Research
+29, 65–85.
+D’Souza DC, Abi-Saab WM, Madonick S,
+Forselius-Bielen K, Doersch A, Braley G,
+Gueorguieva R, Cooper TB, Krystal JH (2005).
+Delta-9-tetrahydrocannabinol effects in schizophrenia :
+implications for cognition, psychosis, and addiction.
+Biological Psychiatry 57, 594–608.
+Edwards J, Elkins K, Hinton M, Harrigan SM, Donovan K,
+Athanasopoulos O, McGorry PD (2006). Randomized
+controlled trial of a cannabis-focused intervention for
+young people with first-episode psychosis. Acta
+Psychiatrica Scandinavica 114, 109–117.
+Endicott J, Spitzer RL, Fleiss JL, Cohen J (1976). The global
+assessment scale. A procedure for measuring overall
+severity of psychiatric disturbance. Archives of General
+Psychiatry 33, 766–771.
+Grech A, van Os J, Jones PB, Lewis SW, Murray RM (2005).
+Cannabis use and outcome of recent onset psychosis.
+European Psychiatry 20, 349–353.
+Green B, Young R, Kavanagh D (2005). Cannabis use and
+misuse prevalence among people with psychosis. British
+Journal of Psychiatry 187, 306–313.
+Halling Hastrup L, Nordentoft M, Hjorthøj C,
+Gyrd-Hansen D (2011). Does the EQ-5D measure quality
+1508 C. R. Hjorthøj et al.
+of life in schizophrenia ? Journal of Mental Health Policy and
+Economics 14, 187–196.
+Heinrichs RW, Zakzanis KK (1998). Neurocognitive deficit
+in schizophrenia : a quantitative review of the evidence.
+Neuropsychology 12, 426–445.
+Hides L, Dawe S, Kavanagh DJ, Young RM (2006).
+Psychotic symptom and cannabis relapse in recent-onset
+psychosis. Prospective study. British Journal of Psychiatry
+189, 137–143.
+Hinton M, Elkins K, Edwards J (2002). Cannabis and
+Psychosis: An Early Psychosis Treatment Manual. EPPIC:
+Melbourne.
+Hjorthøj C, Fohlmann A, Larsen A-M, Madsen MT,
+Vesterager L, Gluud C, Arendt MC, Nordentoft M (2008).
+Design paper : The CapOpus trial : a randomized, parallelgroup, observer-blinded clinical trial of specialized
+addiction treatment versus treatment as usual for young
+patients with cannabis abuse and psychosis. Trials 9, 42.
+Hjorthøj C, Fohlmann A, Nordentoft M (2009). Treatment of
+cannabis use disorders in people with schizophrenia
+spectrum disorders – a systematic review. Addictive
+Behaviors 34, 520–525.
+Hjorthøj CR, Fohlmann A, Larsen AM, Arendt M,
+Nordentoft M (2012a). Correlations and agreement
+between delta-9-tetrahydrocannabinol (THC) in blood
+plasma and timeline follow-back (TLFB)-assisted selfreported use of cannabis of patients with cannabis use
+disorder and psychotic illness attending the CapOpus
+randomized clinical trial. Addiction 107, 1123–1131.
+Hjorthøj CR, Hjorthøj AR, Nordentoft M (2012b).
+Validity of Timeline Follow-Back for self-reported use of
+cannabis and other illicit substances – systematic review
+and meta-analysis. Addictive Behaviors 37, 225–233.
+Hjorthøj CR, Vesterager L, Nordentoft M (2012c). Test-retest
+reliability of the Danish Adult Reading Test in patients
+with comorbid psychosis and cannabis-use disorder.
+Nordic Journal of Psychiatry. Published online 24 May 2012.
+doi :10.3109/08039488.2012.691544.
+Jerrell JM, Ridgely MS (1995). Comparative effectiveness of
+three approaches to serving people with severe mental
+illness and substance abuse disorders. Journal of Nervous
+and Mental Disease 183, 566–576.
+Kamali M, Kelly BD, Clarke M, Browne S, Gervin M,
+Kinsella A, Lane A, Larkin C, O’Callaghan E (2006). A
+prospective evaluation of adherence to medication in first
+episode schizophrenia. European Psychiatry 21, 29–33.
+Kavanagh DJ, Young R, White A, Saunders JB, Wallis J,
+Shockley N, Jenner L, Clair A (2004). A brief motivational
+intervention for substance misuse in recent-onset
+psychosis. Drug and Alcohol Review 23, 151–155.
+Kay SR, Fiszbein A, Opler LA (1987). The positive and
+negative syndrome scale (PANSS) for schizophrenia.
+Schizophrenia Bulletin 13, 261–276.
+Keefe RSE, Goldberg TE, Harvey PD, Gold JM, Poe MP,
+Coughenour L (2004). The Brief Assessment of Cognition
+in Schizophrenia : reliability, sensitivity, and comparison
+with a standard neurocognitive battery. Schizophrenia
+Research 68, 283–297.
+Kemp R, Harris A, Vurel E, Sitharthan T (2007). Stop
+Using Stuff : trial of a drug and alcohol intervention
+for young people with comorbid mental illness and
+drug and alcohol problems. Australasian Psychiatry 15,
+490–493.
+Larsen DL, Attkisson CC, Hargreaves WA, Nguyen TD
+(1979). Assessment of client/patient satisfaction :
+development of a general scale. Evaluation and Program
+Planning 2, 197–207.
+Leeson VC, Harrison I, Ron MA, Barnes TRE, Joyce EM
+(2012). The effect of cannabis use and cognitive
+reserve on age at onset and psychosis outcomes in
+first-episode schizophrenia. Schizophrenia Bulletin 38,
+873–880.
+Martino S, Carroll KM, Nich C, Rounsaville BJ (2006). A
+randomized controlled pilot study of motivational
+interviewing for patients with psychotic and drug use
+disorders. Addiction 101, 1479–1492.
+Nelson HE, O’Connell A (1978). Dementia : the estimation of
+premorbid intelligence levels using the New Adult
+Reading Test. Cortex 14, 234–244.
+Nordentoft M, Knudsen HC, Jessen-Petersen B,
+Krasnik A, Sælan H, Treufeldt P, Wetcher B (1996).
+CCPP – Copenhagen Community Psychiatric Project.
+Implementation of community mental health centres in
+Copenhagen : effects of service utilization, social
+integration, quality of life and positive and negative
+symptoms. Social Psychiatry and Psychiatric Epidemiology 31,
+336–344.
+Olfson M, Mechanic D, Hansell S, Boyer CA, Walkup J,
+Weiden PJ (2000). Predicting medication noncompliance
+after hospital discharge among patients with
+schizophrenia. Psychiatric Services 51, 216–222.
+Petersen L, Jeppesen P, Thorup A, Abel MB,
+Ohlenschlaeger J, Christensen TO, Krarup G,
+Jorgensen P, Nordentoft M (2005). A randomised
+multicentre trial of integrated versus standard treatment
+for patients with a first episode of psychotic illness. British
+Medical Journal 331, 602.
+Priebe S, Huxley P, Knight S, Evans S (1999). Application
+and results of the Manchester Short Assessment of Quality
+of Life (MANSA). International Journal of Social Psychiatry
+45, 7–12.
+Prochaska JO, DiClemente CC (1992). Stages of change in
+the modification of problem behaviors. Progress in Behavior
+Modification 28, 183–218.
+Schofield D, Tennant C, Nash L, Degenhardt L, Cornish A,
+Hobbs C, Brennan G (2006). Reasons for cannabis use in
+psychosis. Australian and New Zealand Journal of Psychiatry
+40, 570–574.
+Schulz KF, Altman DG, Moher D (2010a). CONSORT 2010
+statement : updated guidelines for reporting
+parallel group randomised trials. British Medical Journal
+340, c332.
+Schulz KF, Altman DG, Moher D, Fergusson D (2010b).
+CONSORT 2010 changes and testing blindness in RCTs.
+Lancet 375, 1144–1146.
+Sobell LC, Sobell MB (1992). Timeline follow-back : a
+technique for assessing self-reported alcohol consumption.
+In Measuring Alcohol Consumption : Psychosocial
+and Biological Methods (ed. R. Z. Litten and J. Allen),
+pp. 41–72. Humana Press: New Jersey.
+The CapOpus randomized trial 1509
+Stern R, White T (2003). Neuropsychological Assessment
+Battery. Psychological Assessment Resources,
+Inc.: Lutz, FL.
+van Os J, Bak M, Hanssen M, Bijl RV, de Graaf R, Verdoux
+H (2002). Cannabis use and psychosis : a longitudinal
+population-based study. American Journal of Epidemiology
+156, 319–327.
+Vendsborg P, Nordentoft M, Hvenegaard A,
+Søgaard J (1999). Assertive Community
+Treatment [in Danish]. Institut for Sundhedsvæsen :
+Copenhagen.
+Weinstein AM, Gorelick DA (2011). Pharmacological
+treatment of cannabis dependence. Current Pharmaceutical
+Design 17, 1351–1358.
+WHO (2000). World Health Organization Disability Assessment
+Schedule (WHODAS II). World Health Organization :
+Geneva.
+Wing JK, Babor T, Brugha T, Burke J, Cooper JE, Giel R,
+Jablenski A, Regier D, Sartorius N (1990). SCAN.
+Schedules for Clinical Assessment in Neuropsychiatry.
+Archives of General Psychiatry 47, 589–593.
+Yu¨ cel M, Bora E, Lubman DI, Solowij N, Brewer WJ,
+Cotton SM, Conus P, Takagi MJ, Fornito A, Wood SJ,
+McGorry PD, Pantelis C (2012). The impact of cannabis
+use on cognitive functioning in patients with
+schizophrenia : a meta-analysis of existing findings and
+new data in a first-episode sample. Schizophrenia Bulletin
+38, 316–330.
+1510 C. R. Hjorthøj et al.
+Copyright of Psychological Medicine is the property of Cambridge University Press and its
+content may not be copied or emailed to multiple sites or posted to a listserv without the
+copyright holder's express written permission. However, users may print, download, or email
+articles for individual use.

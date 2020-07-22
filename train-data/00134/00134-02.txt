@@ -1,0 +1,758 @@
+﻿ORIGINAL ARTICLE
+A study of rasburicase for the management of hyperuricemia in
+pediatric patients with newly diagnosed hematologic malignancies
+at high risk for tumor lysis syndrome
+Akira Kikuchi Æ Hisato Kigasawa Æ Masahito Tsurusawa Æ Keisei Kawa Æ
+Atsushi Kikuta Æ Masahiro Tsuchida Æ Yoshihisa Nagatoshi Æ Keiko Asami Æ
+Keizo Horibe Æ Atsushi Makimoto Æ Ichiro Tsukimoto
+Received: 24 February 2009 / Revised: 20 July 2009 / Accepted: 27 July 2009 / Published online: 22 August 2009
+ The Japanese Society of Hematology 2009
+Abstract Tumor lysis syndrome (TLS), including
+hyperuricemia, is a frequent serious complication in
+patients with hematologic malignancies. This study in
+Japanese patients evaluated the efficacy, safety, and pharmacokinetic profile of rasburicase in pediatric patients with
+hematologic malignancies. Patients aged\18 years at high
+risk for TLS, with newly diagnosed hematologic malignancies, were randomized to intravenous rasburicase
+0.15 mg/kg/day (n = 15) or 0.20 mg/kg/day (n = 15) for
+5 days. Chemotherapy was started 4–24 h after the first
+rasburicase dose. Response was defined as a reduction in
+plasma uric acid to B6.5 mg/dL (patients\13 years) or
+B7.5 mg/dL (patients C13 years) by 48 h after the first
+administration, lasting until 24 h after the final administration. Response rates were 93.3 and 100% with rasburicase 0.15 and 0.20 mg/kg/day, respectively. Uric acid
+levels declined rapidly within 4 h of starting rasburicase
+administration in both groups. Most adverse events were
+related to the underlying chemotherapy regimens. Two
+hypersensitivity reactions, including grade 1/2 pruritus,
+were considered to be related to rasburicase. Rasburicase is
+effective and well tolerated for the management of
+hyperuricemia in Japanese pediatric patients at high risk of
+developing TLS.
+A. Kikuchi
+Division of Hematology/Oncology,
+Saitama Children’s Medical Center, Saitama, Japan
+A. Kikuchi (&)
+Department of Pediatrics, Graduate School of Medicine,
+The University of Tokyo, 7-3-1 Hongo Bunkyo-ku,
+Tokyo 113-8655, Japan
+e-mail: akikuchi-tky@umin.ac.jp
+H. Kigasawa
+Department of Hemato-oncology/Regeneration Medicine,
+Kanagawa Children’s Medical Center, Yokohama, Japan
+M. Tsurusawa
+Department of Pediatrics, Aichi Medical University Hospital,
+Aichi, Japan
+K. Kawa
+Department of Hematology/Oncology,
+Osaka Medical Center and Research Institute for Maternal
+and Child Health, Osaka, Japan
+A. Kikuta
+Department of Pediatrics, Fukushima Medical University
+Hospital, Fukushima, Japan
+M. Tsuchida
+Department of Pediatrics, Ibaraki Children’s Hospital,
+Mito, Japan
+Y. Nagatoshi
+Department of Pediatrics, National Kyushu Cancer Center,
+Fukuoka, Japan
+K. Asami
+Department of Pediatrics, Niigata Cancer Center Hospital,
+Niigata, Japan
+K. Horibe
+Department of Pediatrics, National Hospital Organization,
+Nagoya Medical Center, Nagoya, Japan
+A. Makimoto
+Department of Pediatrics, National Cancer Center Hospital,
+Tokyo, Japan
+I. Tsukimoto
+Children’s Center, Saiseikai Yokohamasi Tobu Hospital,
+Yokohama, Japan
+123
+Int J Hematol (2009) 90:492–500
+DOI 10.1007/s12185-009-0402-6
+Keywords Hematologic malignancies  Hyperuricemia 
+Pediatric  Rasburicase  Tumor lysis syndrome (TLS)
+1 Introduction
+Patients with hematologic malignancies are usually treated
+with aggressive chemotherapy regimens that result in the
+rapid destruction of tumor cells and the release of purine
+metabolites into the circulation [1]. This may lead to the
+development of tumor lysis syndrome (TLS), which is
+characterized by severe hyperuricemia, hyperphosphatemia, hyperkalemia, and hypocalcemia [2, 3]. Moreover, as
+a consequence of hyperuricemia, crystals of uric acid may
+form in the renal tubules and distal collecting system,
+leading to renal insufficiency and acute renal failure [4].
+Patients with malignancies that have a high proliferation
+rate or a large tumor burden, such as acute lymphoblastic
+leukemia or Burkitt’s lymphoma, have a particularly high
+risk of developing TLS. The metabolic disturbances
+resulting from TLS may lead to acute renal failure and
+rapidly become life threatening in pediatric patients.
+Appropriate management for metabolic abnormalities in
+these patients is therefore essential in order to reduce the
+risk of developing acute renal failure [5–7].
+The current treatment of hyperuricemia in Japan
+includes urinary alkalinization, hydration, and allopurinol.
+Allopurinol inhibits xanthine oxidase and thus prevents the
+formation of uric acid and controls plasma uric acid levels
+during purine catabolism [4]. Allopurinol, however, cannot
+reduce the level of pre-existing uric acid and causes
+increases in serum levels of xanthine and hypoxanthine,
+which may lead to xanthine nephropathy [8, 9]. In addition,
+urinary alkalinization can cause renal precipitation of calcium phosphate [4].
+Rasburicase is a recombinant form of the endogenous
+enzyme urate oxidase. It is produced following the proteolytic hydrolysis of Aspergillus flavus urate oxidase, which
+permits the formation of oligodeoxynucleotide probes that
+are used to obtain DNA fragments from Aspergillus flavus
+cDNA and genomic libraries [10]. Rasburicase is approved
+for the prevention and treatment of hyperuricemia in
+children with leukemia or lymphoma in the USA and the
+EU. This agent oxidizes uric acid, converting it to allantoin, a substance that is approximately 5–10 times more
+soluble than uric acid and is easily excreted in the urine [8].
+Rasburicase is administered intravenously, making it more
+convenient to administer to patients with chemotherapyassociated gastrointestinal toxicities than the oral drug
+allopurinol. Moreover, rasburicase can reduce pre-existing
+uric acid levels [11].
+In a US open-label, randomized study in 52 children
+with leukemia or lymphoma at high risk for TLS,
+administration of rasburicase (0.20 mg/kg/day) for
+5–7 days during induction chemotherapy achieved significantly more rapid control of uric acid and lower levels of
+plasma uric acid than allopurinol (300 mg/m2
+/day) for
+5–7 days [12]. This led the investigators to conclude
+that rasburicase is a safe and an effective alternative to
+allopurinol during initial chemotherapy in pediatric
+patients.
+The aim of this study was to investigate the efficacy,
+safety, and pharmacokinetic profile of rasburicase as a
+single agent in Japanese pediatric patients with hematologic malignancies at high risk for TLS. In particular, the
+safety of rasburicase administered before chemotherapy
+was evaluated in this patient population.
+2 Materials and methods
+2.1 Study design and patients
+This was a multicenter, open-label, randomized, parallelgroup study of repeated doses of rasburicase in Japanese
+pediatric patients with newly diagnosed hematologic
+malignancies at high risk of developing TLS.
+The study protocol was approved by the institutional
+review boards of all participating centers. Written informed
+consent was obtained from the legally authorized representative of each patient before randomization to one of
+two doses of rasburicase (0.15 or 0.20 mg/kg).
+Japanese pediatric patients (aged\18 years) were eligible for study entry if they had newly diagnosed hematologic
+malignancies with hyperuricemia (uric acid [7.5 mg/dL for
+patients aged C13 years; uric acid [6.5 mg/dL for patients
+aged \13 years) or newly diagnosed hematologic malignancies presenting with a high tumor burden, regardless of
+uric acid level [defined as non-Hodgkin’s lymphoma (NHL)
+stage IV; NHL stage III with at least one lymph node or mass
+[5 cm in diameter or lactate dehydrogenase (LDH) three or
+more times the upper limit of normal (ULN)]; or acute leukemia with a white blood cell (WBC) count C50,000/mm3
+and LDH three or more times ULN. Patients were required to
+have a performance status of 3 or less on the Eastern Cooperative Oncology Group (ECOG) scale (or 30 or more on the
+Lansky score) and a minimum life expectancy of 45 days.
+Patients received induction chemotherapy between 4 and
+24 h after the first administration of rasburicase.
+Exclusion criteria included the administration of allopurinol within 72 h before the start of rasburicase administration; known history of severe allergy and/or severe
+asthma; low birth weight (\2,500 g) or gestational age
+(\37 weeks); previous therapy with urate oxidase; known
+positive tests for hepatitis B surface antigen, hepatitis C
+virus antibodies, or HIV-1 or HIV-2 antibodies; severe
+Rasburicase for tumor lysis syndrome 493
+123
+disorders of the liver or kidney [alanine aminotransferase
+(ALT) levels more than five times ULN, total bilirubin
+more than three times ULN, creatinine more than three
+times ULN]; or uncontrollable infection (including viral
+infection). The enzymatic conversion of uric acid to
+allantoin by rasburicase produces hydrogen peroxide [13].
+This can lead to methemoglobinemia and hemolysis in
+certain ‘‘at-risk’’ populations such as those with glucose-6-
+phosphate dehydrogenase (G6PD) deficiency, and hence
+G6PD deficiency contraindicates the use of rasburicase.
+Therefore, patients with a known family history of G6PD
+deficiency, and known history of methemoglobinemia and
+hemolysis, were also excluded.
+Randomization was performed centrally, and patients
+were stratified by baseline weight (\10 or C10 kg) until 15
+patients had been enrolled in each dose group. To ensure
+the exact evaluation of pharmacokinetics, at least 10
+patients weighing C10 kg were included in each dose
+group. The protocol did not require that a minimum
+number of patients weighing \10 kg should be enrolled.
+2.2 Treatment
+Rasburicase (SR29142) was supplied by sanofi-aventis
+(Tokyo, Japan). Patients were randomized to one of two
+dose groups of rasburicase (0.15 or 0.20 mg/kg). Rasburicase 0.20 mg/kg has been approved in 50 countries
+worldwide, but in the USA, the doses of rasburicase 0.15
+and 0.20 mg/kg have been approved. Given that the efficacy of rasburicase 0.15 and 0.20 mg/kg was recently
+demonstrated in a previous study in adult Japanese patients
+[14], both these doses were selected for use in this pediatric
+trial. Rasburicase was administered intravenously for
+30 min once daily for 5 consecutive days.
+Chemotherapy, including cytoreductive corticosteroids,
+was started 4–24 h after the first dose of rasburicase.
+Separate lines were used for administration of chemotherapy and infusion of rasburicase to prevent drug–drug
+interactions. When this was not possible, the line was
+flushed with isotonic saline (C15 mL) before and after
+infusion of rasburicase. Other anti-hyperuricemic agents
+(e.g. allopurinol) or treatment with sodium bicarbonate
+for urine alkalization were not permitted until the final
+blood sampling for plasma uric acid was completed on
+day 6.
+2.3 Efficacy assessments
+The primary efficacy endpoint was response rate (RR), as
+determined by assays of plasma uric acid concentration.
+Treatment was considered to be successful and the patient
+considered to be a responder if the plasma uric acid level
+decreased to B7.5 mg/dL in patients aged C13 years or
+B6.5 mg/dL in patients aged \13 years by 48 h after the
+start of the first rasburicase administration, and lasting until
+24 h after the start of the final rasburicase administration
+(day 5).
+Secondary endpoints included plasma uric acid concentration and change in concentration from baseline. The
+rate of plasma uric acid inhibition over time versus baseline
+was also evaluated at 4 and 48 h after the first rasburicase
+administration and at 24 h after the last rasburicase
+administration. The rate of uric acid inhibition (%) was
+calculated as the concentration of plasma uric acid at
+baseline minus the concentration of plasma uric acid at
+each timepoint divided by the concentration at baseline
+multiplied by 100. Blood samples were collected for the
+plasma uric acid levels B10 min before and 4 h (±10 min)
+after the first rasburicase administration on day 1; samples
+were also collected before rasburicase administration
+(±10 min) on days 2–5, and 24 h (±10 min) after the last
+rasburicase administration on day 6.
+2.4 Safety assessments
+Safety was assessed by clinical observations (including
+vital signs), standard laboratory tests, and the occurrence of
+adverse events (AEs). AEs were summarized by type of
+event and toxicity grade according to the National Cancer
+Institute Common Terminology Criteria for Adverse
+Events version 3.0 (translated into Japanese by the Japan
+Clinical Oncology Group/Japan Society of Clinical
+Oncology). These events were classified by each investigator as either rasburicase-related or other (related to
+underlying hematologic malignancies or chemotherapy).
+Rasburicase-related AEs were defined as all events
+excluding events due to the underlying disease or chemotherapy. Renal function (creatinine, potassium, phosphorus,
+and calcium levels) was also assessed at baseline (7 days
+before starting the first administration of rasburicase), and
+on day 3, 5, 8, 15, 22, 29, and 36.
+2.5 Evaluation of anti-rasburicase antibodies
+To evaluate the relationship between hypersensitivity
+reactions and the appearance of anti-rasburicase antibodies,
+the antibodies were assessed by qualitative enzyme-linked
+immunosorbent assay (ELISA) at baseline and on day 29.
+The results were expressed qualitatively due to the lack of
+immunopurified reference human antibody directed against
+rasburicase, with the conventional properties of antibodies
+utilized to detect antibodies directed against rasuburicase.
+The range of anti-human immunoglobulin calibration was
+between 0 and 1,000 ng/mL and plasma samples from
+healthy volunteers were used as reference controls. Plasma
+collected from healthy volunteers was assayed by ELISA
+494 A. Kikuchi et al.
+123
+to determine background interference in the detection of
+anti-rasburicase immunoglobulin. If the samples were
+positive for anti-rasburicase antibodies on day 29, then
+further blood samples were collected from the patient at
+6 months (±2 weeks) and every 6 months (±2 weeks)
+thereafter until the sample was negative. Samples that were
+antibody positive were analyzed for inhibition of rasburicase uricolytic activity. Anti-S. cerevisiae protein (SCP)
+antibodies were also assessed by ELISA at baseline.
+2.6 Pharmacokinetics
+The pharmacokinetic assay was performed in 10 patients
+(weight C10 kg) in each dose group at the following 10
+timepoints: Day 1, before rasburicase administration
+(within 10 min of the start of administration), at the end
+of the first administration (within 10 min following
+completion of administration), 4 and 8 h (±10 min) after
+the start of administration; day 2, before rasburicase
+administration (within 10 min of the start of administration); and day 5, before rasburicase administration (within
+10 min of the start of administration), at the end of
+administration, 4, 8, and 24 h (±10 min) after the last
+administration. A total sample of 10 mL from each
+patient was immediately centrifuged at \4C and then
+frozen until assay. Frozen samples were sent to the laboratories (SBI-BIO, Paris, France), where they were
+assayed concomitantly.
+The following pharmacokinetic parameters were determined: area under the rasburicase plasma concentration–
+time curve from 0 to 24 h (AUC0–24) on days 1 and 5;
+minimum rasburicase plasma concentration observed
+before treatment administration during repeated dosing
+(Cmin) on days 1 and 5; plasma concentration of rasburicase at the end of infusion (Ceoi) on days 1 and 5; terminal
+half-life (t1/2z) on day 5; and accumulation ratio for
+AUC0–24 and Ceoi (defined as the ratio of day 5 to day 1 for
+AUC0–24 and Ceoi). Rasburicase plasma concentrations
+were determined by ELISA.
+2.7 Statistical analysis
+All patients who received at least one dose of rasburicase
+were evaluated for efficacy and safety. The RR, with 95%
+exact binomial confidence intervals (CIs), was calculated
+as the number of responding patients divided by the
+number of evaluable patients multiplied by 100. Patients
+who failed to complete days 1–5 of treatment, for reasons
+other than hyperuricemia, were considered as nonevaluable for RR. Descriptive statistics were used to summarize uric acid concentrations, and change from baseline
+and the rate of plasma uric acid concentration decline
+over time.
+For the purposes of the statistical analysis, the study had
+a planned sample size of 30 patients, i.e. 15 in each dose
+group (0.15 and 0.20 mg/kg). Assuming that the true RR
+would be 95% in each dose group, the probability of at
+least one failure among 15 patients treated with each dose
+of rasburicase would be 79%, with an expected lower 95%
+CI of 71%. Based on a sample size of 15 patients per dose
+group, it could therefore be concluded with 95% confidence that the true RR would be at least 71%.
+Pharmacokinetic parameters for rasburicase were
+determined using WinNonlin Professional Edition software
+(version 3.3 Pharsight Corp, Mountain View, CA, USA)
+using a noncompartmental method. To assess drug accumulation from day 1 to day 5, the parameters AUC0–24 and
+Ceoi were analyzed using the linear mixed-effects model:
+Log parameter ð Þ¼ dose þ day þ dose  day
+þ patient dose ð Þþ error
+Fixed-effect terms included dose (0.15 and 0.20 mg/kg),
+day (1 and 5), and the interaction term dose by day. The
+random-effect term was patient within dose. The model
+was estimated using generalized least squares (GLS) with
+restricted maximum likelihood (REML) estimates of
+random effects, using SAS PROC MIXED.
+The 95% CIs for the variance estimates were computed
+using the simple chi-squared method for within-patient
+variance, the Modified Large Sample procedure for
+between-patient variance, and the Graybill–Wang procedure for the total-patient variance [15].
+3 Results
+3.1 Patients
+Between June 2005 and April 2006, 31 patients were
+enrolled and 30 patients were subsequently randomized
+and treated (rasburicase 0.15 mg/kg, n = 15; rasburicase
+0.20 mg/kg, n = 15). One enrolled patient was not randomized to treatment because of an ineligible ALT level.
+This patient was excluded from the efficacy and safety
+analyses.
+Patient baseline characteristics were similar between the
+rasburicase dose groups (Table 1). The median age was
+8.8 years, and over half of the patients (53.3%) were aged
+between 6 and 12 years. Overall median weight was
+30.8 kg, and one patient weighed \10 kg. Most patients
+had an ECOG performance status of 0 (40%) or 1 (40%). A
+total of 43.3% of patients were hyperuricemic, and 73.3%
+of patients had acute leukemia. All patients were classified
+as high risk for TLS in accordance with the inclusion criteria (i.e. had a newly diagnosed hematologic malignancy
+with hyperuricemia or a high tumor burden).
+Rasburicase for tumor lysis syndrome 495
+123
+3.2 Administration of rasburicase
+Twenty-nine of 30 patients completed days 1–5 of treatment; one patient in the rasburicase 0.20 mg/kg group
+withdrew from the study on day 1 after the first administration of rasburicase due to the lack of WBC count at
+baseline. Another patient (0.15 mg/kg group) completed
+5 days of treatment but withdrew from the study on day 8
+to avoid life-threatening complications due to three concomitant grade 4 AEs (cerebral hemorrhage, brain edema,
+and brain herniation). Fifteen patients in the 0.15 mg/kg
+group and 14 patients in the 0.20 mg/kg group were
+therefore evaluable for response.
+3.3 Efficacy
+The overall RR for all patients was 96.6% (95% CI 82.2–
+99.9%) (Table 2). The RR was slightly higher in the rasburicase 0.20 mg/kg group than in the 0.15 mg/kg group
+(100% [95% CI 76.8–100.0%] vs. 93.3% [95% CI 68.1–
+99.8%]).
+RRs for patients with hyperuricemia at baseline were
+87.5 and 100.0% in the rasburicase 0.15 and 0.20 mg/kg
+groups, respectively (Table 2).
+Mean plasma uric acid concentrations by dose of rasburicase over time are presented in Fig. 1. Rasburicase
+produced a rapid decrease in plasma uric acid concentrations in both dose groups. Uric acid levels remained low
+throughout treatment in all patients except one nonresponder in the 0.15 mg/kg group. Uric acid levels
+declined rapidly within 4 h of the first rasburicase dose in
+both dose groups and remained low up to 120 h after the
+first administration of rasburicase (Fig. 1). Mean plasma
+uric acid concentrations were reduced by 84.8% (95% CI
+76.7–92.9%) and 92.9% (95% CI 88.7–97.0%) compared
+with baseline at 4 h after the first rasburicase administration for the 0.15 and 0.20 mg/kg groups, respectively.
+Reductions in the level of plasma uric acid were similar
+between the two groups at 24 h after the last administration
+of rasburicase on day 6 (approximately 88%).
+3.4 Safety
+Owing to the severity of the underlying disease, all patients
+experienced at least one grade 3/4 AE, regardless of rasburicase treatment. The most common grade 3/4 AEs were
+leukopenia (86.7% of patients), neutropenia (83.3%),
+lymphocytopenia (80.0%), and increased ALT levels
+Table 1 Baseline
+characteristics of randomized
+patients
+ECOG Eastern Cooperative
+Oncology Group
+a Defined as uric acid[7.5 mg/
+dL in patients C13 years or uric
+acid[6.5 mg/dL in patients
+\13 years at baseline
+Rasburicase Total (n = 30)
+0.15 mg/kg (n = 15) 0.20 mg/kg (n = 15)
+Age (years)
+Median 11 7 9
+Range 1–17 0–16 0–17
+Age group, n (%)
+\2 years 1 (6.7) 1 (6.7) 2 (6.7)
+2–5 years 2 (13.3) 4 (26.7) 6 (20.0)
+6–12 years 7 (46.7) 9 (60.0) 16 (53.3)
+13–17 years 5 (33.3) 1 (6.7) 6 (20.0)
+Male/female, n (%) 9/6 (60.0/40.0) 10/5 (66.7/33.3) 19/11 (63.3/36.7)
+Weight (kg)
+Median 44.7 25.5 30.8
+Range 10.2–70.3 5.7–49.7 5.7–70.3
+ECOG performance status, n (%)
+0 7 (46.7) 5 (33.3) 12 (40.0)
+1 5 (33.3) 7 (46.7) 12 (40.0)
+2 0 (0.0) 3 (20.0) 3 (10.0)
+3 3 (20.0) 0 (0.0) 3 (10.0)
+Hyperuricemic, n (%)a
+Yes 8 (53.3) 5 (33.3) 13 (43.3)
+No 7 (46.7) 10 (66.7) 17 (56.7)
+Diagnosis, n (%)
+Malignant lymphoma 6 (40.0) 2 (13.3) 8 (26.7)
+Acute leukemia 9 (60.0) 13 (86.7) 22 (73.3)
+496 A. Kikuchi et al.
+123
+(70.0%). All of these AEs occurred with a similar frequency in both dose groups, with the exception of neutropenia (rasburicase 0.15 mg/kg, 93.3%; rasburicase
+0.20 mg/kg, 73.3%). The majority of AEs reported during
+the study period were judged by the investigators to be
+related to the underlying malignancies and/or chemotherapy. There was no difference in the safety profiles of rasburicase 0.15 mg/kg/day for 5 days and rasburicase 0.20
+mg/kg/day for 5 days.
+The three grade 4 AEs (cerebral hemorrhage, brain
+edema, and brain herniation) experienced by one patient in
+the rasburicase 0.15 mg/kg group who withdrew from the
+study on day 8, were judged by the investigators to be
+unrelated to rasburicase treatment. The patient died after
+withdrawal from the study. No other deaths were reported
+during the study.
+Drug-related AEs occurred in six patients (n = 4 in the
+rasburicase 0.15 mg/kg group; n = 2 in the 0.20 mg/kg
+group). One patient in the rasburicase 0.20 mg/kg group
+experienced grade 3/4 hemolysis; the patient did not have
+G6PD deficiency. The risk of rasburicase-induced hemolysis, possibly leading to hemolytic anemia and methemoglobinemia, is greater in patients with G6PD deficiency
+because of the accumulation of hydrogen peroxide [13].
+However, rare cases of rasburicase-induced methemoglobinemia have been reported in patients without G6PD
+deficiency [12, 16]. Two rasburicase-related AEs occurred
+after the administration of rasburicase but before the start
+of chemotherapy (grade 1/2 hypersensitivity in the rasburicase 0.15 mg/kg group and grade 3/4 anemia in the
+rasburicase 0.15 mg/kg group).
+Hypersensitivity reactions (all grades) were reported in
+8 patients (53.3%) in the 0.15 mg/kg group and 12 patients
+(80.0%) in the 0.20 mg/kg group. Grade 3/4 events were
+only reported in two patients in the 0.15 mg/kg group: one
+patient completely recovered from the hypersensitivity
+reaction by day 6, although the other patient experienced
+persistent drug hypersensitivity until day 32. However,
+these grade 3/4 hypersensitivity reactions were judged to
+be unrelated to rasburicase. Only two AEs (hypersensitivity
+[grade 1/2] and hemoglobin decreased [grade 1/2]),
+observed before chemotherapy, were considered to be
+related to rasburicase. Anti-rasburicase antibodies or antiSCP antibodies were not observed in any patients with
+hypersensitivity reactions.
+A slight decrease in serum creatinine levels from baseline was observed. The mean values (±standard deviation)
+of serum creatinine were 52.3 lmol (±22.6) at baseline,
+43.6 lmol (±16.3) on day 3, and 33.5 lmol (±11.5) on
+Table 2 Summary of efficacy
+CI confidence interval
+a Measured on day 1, 4 h after
+administration of rasburicase.
+The rate of uric acid inhibition
+(%) was calculated as follows:
+(plasma uric acid concentration
+at baseline – plasma uric acid
+concentration at each timepoint)
+divided by (plasma uric acid
+concentration at baseline)
+multiplied by 100
+Rasburicase dose Total
+0.15 mg/kg 0.20 mg/kg
+Number of evaluable patients 15 14 29
+Responders, n (%) [95% CI] 14 (93.3) [68.1–99.8%] 14 (100) [76.8–100%] 28 (96.6) [82.2–99.9%]
+Hyperuricemic
+Evaluable patients, n 8 5 13
+Responders, n (%) 7 (87.5) 5 (100) 12 (92.3)
+Nonhyperuricemic
+Evaluable patients, n 7 9 16
+Responders, n (%) 7 (100) 9 (100) 16 (100)
+Inhibitory rate (%)a
+Evaluable patients, n 15 14 29
+Mean [95% CI] 84.8 [76.7–92.9] 92.9 [88.7–97.0] 88.7 [84.1–93.3]
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Baseline 4 24 48
+Time (hours)
+Uric acid concentration (mg/dL)
+72 96 120
+Rasburicase 0.15 mg/kg
+Rasburicase 0.20 mg/kg
+Fig. 1 Mean plasma uric acid concentration by dose over time.
+Patients aged \18 years with newly diagnosed hematologic malignancies with hyperuricemia, or newly diagnosed hematologic malignancies presenting with a high tumor burden regardless of uric acid
+level, were randomly allocated (based on stratification by weight [\10
+or C10 kg]) to receive rasburicase (SR29142) administered at either
+0.15 or 0.20 mg/kg/day for 5 days, followed by chemotherapy
+starting from 4 to 24 h after the first infusion of rasburicase
+Rasburicase for tumor lysis syndrome 497
+123
+day 36 for the 0.15 mg/kg rasburicase group; and
+44.4 lmol (±19.1) at baseline, 36.7 lmol (±11.8) on day
+3, and 27.1 lmol (±7.1) on day 36 for the 0.20 mg/kg
+group. No clinically significant changes were observed for
+the other renal function parameters (potassium, phosphorous, and calcium) during the study period.
+3.5 Antibodies
+Anti-SCP antibodies were detected in one patient before
+administration of rasburicase 0.20 mg/kg. Anti-rasburicase antibodies were detected in another patient in this
+group on day 29 and the patient tested negative for
+antibodies 6 months after the first administration. Neither
+patient experienced a hypersensitivity reaction during the
+study.
+3.6 Pharmacokinetics
+Blood samples to determine plasma concentrations of rasburicase were collected from 20 patients, 10 in each dose
+group. One patient in the 0.20 mg/kg dose group was
+excluded due to only two samples having been collected on
+day 1 of the study. Therefore, 19 patients were evaluable
+for AUC0–24 on day 1 and Cmin, Ceoi, AUC0–24, and t1/2z on
+day 5.
+The pharmacokinetic profile of rasburicase is summarized in Table 3. Increase in exposure to rasburicase over
+days 1–5, as measured by AUC0–24 and Ceoi, was dose
+proportional. For the 1.33-fold increase in dose from 0.15
+to 0.20 mg/kg, AUC0–24 increased 1.13-fold and 1.30-fold
+on days 1 and 5, respectively, while Ceoi increased 1.21-
+fold and 1.23-fold on days 1 and 5, respectively.
+Rasburicase accumulated slightly on day 5, as assessed
+by AUC0–24 and Ceoi. The accumulation ratios of AUC0–24
+and Ceoi (defined as the ratio of day 5 to day 1 for AUC0–24
+and Ceoi) were 1.13 (95% CI 1.02–1.25) and 1.17 (95% CI
+1.09–1.27), respectively, indicating slight accumulation.
+Mean t1/2z was comparable for both dose groups.
+4 Discussion
+The data from this study show that administration of rasburicase 0.15 or 0.20 mg/kg before the start of chemotherapy is well tolerated in Japanese pediatric patients with
+acute leukemia or non-Hodgkin’s lymphoma. A rapid
+reduction in plasma uric acid levels to B7.5 mg/dL in
+patients C13 years or B6.5 mg/dL in patients \13 years
+within 48 h after the start of the first rasburicase administration occurred and lasted until 24 h after the last rasburicase administration on day 5 in 28 of 29 patients
+(96.6%). Moreover, 12 of 13 patients with hyperuricemia
+at baseline responded to treatment. A high overall RR of
+96.6% was observed, indicating the efficacy of rasburicase
+for both the prophylaxis and treatment of hyperuricemia in
+pediatric patients receiving chemotherapy.
+Notably, all evaluable patients in the rasburicase
+0.20 mg/kg group achieved a response and only one
+evaluable patient in the 0.15 mg/kg group did not respond.
+In addition, there was a greater reduction in plasma uric
+acid concentrations from baseline at 4 h with the higher
+dose of rasburicase (92.9 vs. 84.8%), further demonstrating
+the greater efficacy of the rasburicase 0.20 mg/kg dose.
+These findings add further credence to the results of the
+randomized US study conducted by Goldman et al. [12],
+Table 3 Pharmacokinetic parameters after once-daily intravenous administration of rasburicase over 30 min (5-day treatment)
+Rasburicase dose group (mg/kg) Day 1 Day 5
+AUC0–24 (ng h/mL) Ceoi (ng/mL) AUC0–24 (ng h/mL) Ceoi (ng/mL) tz (h) Cmin (ng/mL)
+0.15
+n 10 10 10 10 10 10
+Mean (SD) 28,200 (7,270) 2,160 (512) 29,700 (6,460) 2,490 (373) 11.6 (5.0) 536 (218)
+CV (%) 26 24 22 15 43 41
+0.20a
+n 9a 10 9a 9a 9a 9a
+Mean (SD) 31,500 (4,540) 2,580 (432) 38,100 (5,640) 3,050 (383) 11.2 (3.1) 780 (335)
+CV (%) 14 17 15 13 27 43
+a One patient in the rasburicase 0.20 mg/kg dose group had only two pharmacokinetic samples taken on day 1 because the patient withdrew from
+the study due to a low white blood cell count on day 1 after the first administration of rasburicase
+AUC0–24 area under the rasburicase plasma concentration–time curve from 0 to 24 h, Ceoi plasma concentration of rasburicase at the end of
+infusion, Cmin minimum rasburicase plasma concentration, CV coefficients of variation, GM geometric mean, SD standard deviation, t1/2z,
+terminal half-life
+498 A. Kikuchi et al.
+123
+which demonstrated more rapid control of uric acid and a
+lower plasma uric acid concentration during the first 96 h of
+therapy with rasburicase 0.20 mg/kg/day compared with
+5–7 days of treatment with allopurinol in pediatric patients
+with high risk for TLS. In addition, several single-arm
+studies conducted in Europe, North America, Australia, and
+Asia have evaluated the 0.20 mg/kg dose of rasburicase for
+up to 7 days in pediatric and adult patients with high risk for
+TLS [17–21]. In line with our findings and those of
+Goldman et al. [12], these studies also reported numerically
+greater response rates (based on normalization of uric acid
+concentration) of 97–100% with rasburicase 0.20 mg/kg.
+This is the first report to comprehensively assess rasburicase-related AEs occurring before the start of chemotherapy in pediatric patients. The majority of AEs reported
+during the treatment period were judged to be related to the
+underlying malignancies or chemotherapy by the investigators, with a low incidence of rasburicase-related AEs.
+Only two rasburicase-related AEs, including one hypersensitivity reaction, were observed before the start of
+chemotherapy in the rasburicase 0.15 mg/kg group. Most
+rasburicase-related AEs observed after the start of chemotherapy had a similar profile to those related to the
+underlying malignancies or chemotherapy. Patients who
+receive chemotherapy for hematologic malignancies are
+often exposed to risk of renal dysfunction. In the present
+study, renal parameters such as serum creatinine were not
+aggravated until completion of chemotherapy, suggesting
+that rasburicase might preserve renal function during
+induction chemotherapy.
+Interestingly, new guidelines regarding the management
+of patients at risk of developing TLS and its prevention
+have recently been published [22]. Prevention strategies,
+including hydration and prophylactic rasburicase in highrisk patients, hydration plus allopurinol or rasburicase for
+intermediate-risk patients, and close monitoring for lowrisk patients, are advised [22]. In addition, the guidelines
+advise aggressive hydration and diuresis plus allopurinol or
+rasburicase for hyperuricemia as primary management of
+established TLS.
+An observational study has shown that treatment with
+rasburicase according to this new guideline is effective in
+preventing and controlling hyperuricemia and TLS in
+children with hematologic malignancies [23]. The study
+reported that the duration of rasburicase treatment should
+be tailored to the duration and intensity of tumor cell lysis
+in the patient by closely monitoring clinical chemistry. The
+superiority of rasburicase in comparison with allopurinol
+for the prophylaxis and treatment of hyperuricemia in
+children with leukemia and lymphoma has been demonstrated [24]. Rasburicase, administered at a dose of 0.20
+mg/kg for 5 consecutive days, resulted in a rapid and significant decrease in uric acid levels after 4 h [24], in line
+with the findings reported in the current study. Rasburicase
+was also a more potent and more rapid uricolytic agent than
+allopurinol.
+As rasburicase is a recombinant protein, antibodies can
+be produced against this agent. However, the clinical
+implication of such anti-rasburicase antibodies is unknown.
+In this trial, anti-rasburicase antibody production was
+reported in one patient on day 29, however, this patient did
+not experience a hypersensitivity reaction during the study.
+None of the patients had any anti-rasburicase antibodies on
+day 8. In previous studies in which rasburicase was
+administered to patients with cancer, although a small
+number of patients were shown to have anti-rasburicase
+antibodies, production of the antibody was not associated
+with the clinical status of the patients or the occurrence of
+AEs, including hypersensitivity reactions [25]. Goldman
+et al. [12] reported no cases of rasburicase antibody production in the US pediatric study using rasburicase
+0.20 mg/kg, whereas Pui et al. [26] reported antibody
+production in 17 of 121 children and young adults treated
+with rasburicase 0.15 or 0.20 mg/kg. Other studies evaluating rasburicase did not assess rasburicase antibody production [18–21]. The production of anti-SCP antibody was
+also reported in one patient before the first administration
+of rasburicase. In this patient, a hypersensitivity reaction
+was not experienced during this study. This suggests that
+there was no correlation between the presence of anti-rasburicase or anti-SCP antibodies and the occurrence of
+hypersensitivity reactions in this study. However, because
+of the limited number of patients with antibody production
+in the current study, further studies are required in order to
+confirm this finding.
+The pharmacokinetic data obtained in this study support
+the premise of dose proportionality of rasburicase, with only
+slight drug accumulation during 5 days of treatment. These
+data are consistent with the known pharmacokinetic profile
+of rasburicase in Western populations [26], suggesting that
+there is no ethnic variation in terms of the pharmacokinetic
+profile of rasburicase. Based on the results presented here, a
+daily rasburicase dose of 0.20 mg/kg might be recommended, particularly for patients who are more seriously ill
+and at high risk of developing TLS. However, as only a
+small sample size was studied in the present study and no
+comparator or placebo arm was included for comparison,
+further studies are needed to confirm the optimal dose of
+rasburicase for patients in different risk categories.
+In conclusion, this study provides further evidence that
+rasburicase is highly effective in the control of hyperuricemia, a component of TLS, in pediatric patients undergoing chemotherapy for non-Hodgkin’s lymphoma or acute
+leukemia. The study also demonstrates that rasburicase is
+safe and well tolerated when administered before the start
+of chemotherapy in this group of patients.
+Rasburicase for tumor lysis syndrome 499
+123
+Acknowledgments We thank the following additional investigators: Shoichi Koizumi, M.D., Ph.D. (Department of Pediatrics,
+Kanazawa University Hospital); Akira Ohara, M.D. (Department of
+Blood Transfusion, Toho University Omori Medical Center); Yoshihiro Komada, M.D., Ph.D. (Institute of Molecular and Experimental
+Medicine, Mie University Hospital); Takashi Kaneko, M.D.
+(Department of Hematology/Oncology, Tokyo Metropolitan Kiyose
+Children’s Hospital). Members of the Efficacy and Safety Evaluation
+Committee: Fumio Bessho, M.D. (Kyorin University Hospital); Shuki
+Mizutani, M.D. (Tokyo Medical and Dental University Hospital);
+Hideo Mugishima, M.D. (Nihon University Itabashi Hospital). Other
+participating institutions: Nippon Medical School Hospital; National
+Center for Child Health and Development; Tohoku University Hospital, Saga Medical School Hospital; Shizuoka Children’s Hospital;
+National Hospital Organization Hokkaido Cancer Center; Hiroshima
+University Hospital. Editorial support provided by sanofi-aventis.
+References
+1. Ronco C, Inguaggiato P, Bordonia V, De Cal M, Bonello M,
+Andrikos E, et al. Rasburicase therapy in acute hyperuricemia
+and renal dysfunction. Contrib Nephrol. 2005;147:115–23.
+2. Jones DP, Stapleton FB, Kalwinsky D, McKay CP, Kellie SJ, Pui
+CH. Renal dysfunction and hyperuricemia at presentation and
+relapse of acute lymphoblastic leukemia. Med Pediatr Oncol.
+1990;18:283–6.
+3. Arrambide K, Toto RD. Tumor lysis syndrome. Semin Nephrol.
+1993;13:273–80.
+4. Davidson MB, Thakkar S, Hix JK, Bhandarkar ND, Wong A,
+Schreiber MJ. Pathophysiology, clinical consequences, and
+treatment of tumor lysis syndrome. Am J Med. 2004;116:546–54.
+5. Cohen LF, Balow JE, Magrath IT, Poplack DG, Ziegler JL. Acute
+tumor lysis syndrome. A review of 37 patients with Burkitt’s
+lymphoma. Am J Med. 1980;68:486–91.
+6. Stapleton FB, Strother DR, Roy S, Wyatt RJ, McKay CP, Murphy
+SB. Acute renal failure at onset of therapy for advanced stage
+Burkitt lymphoma and B cell acute lymphoblastic lymphoma.
+Pediatrics. 1988;82:863–9.
+7. Bowman WP, Shuster JJ, Cook B, Griffin T, Behm F, Pullen J,
+et al. Improved survival for children with B-cell acute lymphoblastic leukemia and stage IV small noncleaved-cell lymphoma: a
+pediatric oncology group study. J Clin Oncol. 1996;14:1252–61.
+8. Cheson BD, Dutcher BS. Managing malignancy-associated
+hyperuricemia with rasburicase. J Support Oncol. 2005;3:117–24.
+9. Sood AR, Burry LD, Cheng DK. Clarifying the role of rasburicase
+in tumor lysis syndrome. Pharmacotherapy. 2007;27:111–21.
+10. Legoux R, Delpech B, Dumont X, Guillemot J-C, Ramond P,
+Shire D, et al. Cloning and expression in Escherichia coli of the
+gene encoding Aspergillus flavus urate oxidase. J Biol Chem.
+1992;267:8565–70.
+11. Oldfield V, Perry CM. Spotlight on rasburicase in anticancer
+therapy-induced hyperuricemia. BioDrugs. 2006;20:197–9.
+12. Goldman SC, Holcenberg JS, Finklestein JZ, Hutchinson R,
+Kreissman S, Johnson FL, et al. A randomized comparison
+between rasburicase and allopurinol in children with lymphoma
+or leukemia at high risk for tumor lysis. Blood. 2001;97:2998–
+3003.
+13. Bessmertny O, Robitaille LM, Cairo MS. Rasburicase: a new
+approach for preventing and/or treating tumor lysis syndrome.
+Curr Pharm Des. 2005;11:4177–85.
+14. Ishizawa K, Ogura M, Hamaguchi M, Hotta T, Ohnishi K, Sasaki
+T, et al. Safety and efficacy of rasburicase (SR29142) in a Japanese phase II study. Cancer Sci. 2008 Dec 14. [Epub ahead of
+print].
+15. Graybill FA, Wang C. Confidence intervals on nonnegative linear
+combinations of variances. J Am Stat Assoc. 1980;75:869–73.
+16. Kizer N, Martinez E, Powell M. Report of two cases of rasburicase-induced methemoglobinemia. Leuk Lymphoma.
+2006;47:2648–50.
+17. Pui CH, Jeha S, Irwin D, Camitta B. Recombinant urate oxidase
+(rasburicase) in the prevention and treatment of malignancyassociated hyperuricemia in pediatric and adult patients: results
+of a compassionate-use trial. Leukemia. 2001;15:1505–9.
+18. Bosly A, Sonet A, Pinkerton CR, McCowage G, Bron D, Sanz
+MA, et al. Rasburicase (recombinant urate oxidase) for the
+management of hyperuricemia in patients with cancer: report of
+an international compassionate use study. Cancer. 2003;98:1048–
+54.
+19. Jeha S, Kantarjian H, Irwin D, Shen V, Shenoy S, Blaney S, et al.
+Efficacy and safety of rasburicase, a recombinant urate oxidase
+(ElitekTM), in the management of malignancy-associated hyperuricemia in pediatric and adult patients: final results of a multicenter compassionate use trial. Leukemia. 2005;19:34–8.
+20. Shin HY, Kang HJ, Park ES, Choi HS, Ahn HS, Kim SY, et al.
+Recombinant urate oxidase (rasburicase) for the treatment of
+hyperuricemia in pediatric patients with hematologic malignancies: results of a compassionate prospective multicenter study in
+Korea. Pediatr Blood Cancer. 2006;46:439–45.
+21. Wang L-Y, Shih LY, Chang H, Jou ST, Lin KH, Yeh TC, et al.
+Recombinant urate oxidase (rasburicase) for the prevention and
+treatment of tumor lysis syndrome in patients with hematologic
+malignancies. Acta Haematol. 2006;115:35–8.
+22. Coiffier B, Altman A, Pui CH, Younes A, Cairo MS. Guidelines
+for the management of pediatric and adult tumor lysis syndrome:
+an evidence-based review. J Clin Oncol. 2008;26:2767–78.
+23. Bertrand Y, Mechinaud F, Brethon B, Mialou V, Auvrignon A,
+Nelken B, et al. for SFCE (Socie´te´ Franc¸aise de Lutte contre les
+Cancers et Leuce´mies de l’Enfant et de l’Adolescent) recommendations for the management of tumor lysis syndrome (TLS)
+with rasburicase: an observational survey. J Pediatr Hematol
+Oncol. 2008;30:267–71.
+24. Re´nyi I, Ba´rdi E, Udvardi E, Kova´cs G, Bartyik K, Kajta´r P, et al.
+Prevention and treatment of hyperuricemia with rasburicase in
+children with leukemia and non-Hodgkin’s lymphoma. Pathol
+Oncol Res. 2007;13:57–62.
+25. Pui CH. Rasburicase: a potent uricolytic agent. Expert Opin
+Pharmacother. 2002;3:433–42.
+26. Pui CH, Mahmoud HH, Wiley JM, Woods GM, Leverger G,
+Camitta B, et al. Recombinant urate oxidase for the prophylaxis
+or treatment of hyperuricemia in patients with leukemia or lymphoma. J Clin Oncol. 2001;19:697–704.
+500 A. Kikuchi et al.
+123

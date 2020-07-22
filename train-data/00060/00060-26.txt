@@ -1,0 +1,258 @@
+Objective
+Self-testing to determine the international normalized ratio improves management with warfarin and reduces the risks of adverse events. Self-testing usually begins several weeks after hospital dismissal after valve replacement. We aimed to compare the in-hospital initiation of international normalized ratio self-testing with usual care in mechanical heart valve recipients.
+
+Methods
+A total of 200 adult mechanical heart valve recipients were randomly assigned to in-hospital international normalized ratio self-testing instruction or usual care. Instruction for self-testing patients began on the fourth postoperative day. The patients were followed up for 3 months to compare the number of international normalized ratio tests, percentage of time in the therapeutic range, and adverse events.
+
+Results
+The baseline characteristics were similar between the 2 groups. During the first 3 postoperative months, the usual-care group underwent an average of 10 international normalized ratio tests, and the self-testing group completed 14 international normalized ratio tests. The mean ± SD percentage of international normalized ratio tests within the therapeutic range was 45% ± 22% for the usual-care group and 52% ± 22% for the self-testing group (P = .05). Within 90 days after dismissal, transient ischemic attack occurred in 1 patient in the usual-care group and 2 patients in the self-testing group. Bleeding complications occurred in 3 patients in the usual-care group and 5 patients in the self-testing group.
+
+Conclusions
+Management of anticoagulation with warfarin after mechanical valve replacement is improved with self-testing, even during the early postoperative phase when international normalized ratio testing is performed frequently. Although the incidence of adverse events was similar in the 2 groups, better control of the international normalized ratio would be expected to improve outcome in large populations of patients.
+
+Previous article in issueNext article in issue
+Abbreviation and Acronym
+INRinternational normalized ratio
+CTSNet classification
+235.3.4
+Patients who actively participate in their health maintenance have improved clinical outcomes associated with chronic oral anticoagulation. The risk of bleeding after heart valve replacement is directly proportional to the intensity of the anticoagulant therapy1 and the amount of time the international normalized ratio (INR) is greater than the therapeutic target range.2 Allowing patients to self-test increases the number of INR measurements, which improves the amount of time their INR is within the therapeutic range.3 Previous studies have shown that monitoring chronic anticoagulation in this fashion decreases thromboembolic and hemorrhagic complications4, 5 and improves survival6 after mechanical heart valve replacement.
+
+The first few months after heart valve replacement carry the greatest risks of adverse events because of fluctuations in the INR that can result from acclimation to adjusted-dose medication and changes in activity and diet.7, 8, 9, 10 Also, the INR results might be inconsistent because of testing at different laboratories.11 However, INR self-testing is not routinely offered in many areas. Also, when available, initiation is often deferred for several weeks after hospital dismissal, and education can require 1 month to complete.12
+
+We have previously showed that inpatient INR self-testing instruction in the immediate postoperative period is feasible.13 The aim of the present study was to compare the outcomes of patients with mechanical heart valves who initiated INR self-testing in the hospital and continued self-testing after dismissal versus the outcomes of patients who received oral anticoagulation monitored by a physician in the usual manner. We hypothesized that early adoption of INR self-testing after mechanical heart valve replacement would increase the number of INR tests performed and, therefore, improve the percentage of time the INR was within the therapeutic range. Also, we monitored adverse events, including thromboembolism and bleeding.
+
+Methods
+We studied 200 patients who had mechanical heart valve prostheses implanted at Mayo Clinic (Rochester, Minn) from June 2007 to January 2009. During the study period, 1384 adult patients (> 17 years) underwent valve replacement, and 421 (30%) of these had mechanical valves inserted. The only exclusion criteria were disabilities or poor English language skills that would preclude instruction and education for self-testing. The Mayo Clinic institutional review board approved the protocol, which was registered at ClinicalTrials.gov (identifier NCT00703963). All patients provided written informed consent.
+
+After enrollment, the patients were randomly assigned to a self-testing group or a usual-care group. We had previously developed a structured education program for early postoperative INR self-testing.13 The 4 components of the educational program include an overview of INR self-testing and the coagulometer and the proper methods for sampling using a finger stick, the use of the coagulometer, and recording the test results. The INRatio coagulometer (HemoSense, San Jose, Calif), a US Food and Drug Administration–approved diagnostic point-of-care system, was provided to each patient in the self-testing group.
+
+At our clinic, all recipients of the mechanical heart valves receive formal education on warfarin anticoagulation, which includes an instructional class, a video, and an informational booklet. This usual-care education was provided to patients in both groups. For the self-testing group, INR testing instruction was initiated as soon after surgery as the patients' clinical status allowed and was completed before hospital dismissal.
+
+The protocol for anticoagulation after mechanical valve implantation includes the use of unfractionated heparin infusion, beginning either the night of the first postoperative day or the morning of the second postoperative day. Patients continued to receive heparin until the INR was within the goal therapeutic range. Warfarin therapy was begun the first postoperative day, and the goal INR therapeutic range was set in accordance with established guidelines.14
+
+All patients were followed up for 3 months after dismissal. Once the patients were discharged from the hospital, decisions about the dosing of warfarin were made by the patients' primary physicians. The self-testing patients were instructed to perform a self-test once a week, even if a test had not been ordered by their primary physician. To keep a record of their INR values, the patients of both groups used the telephone to access and then input their INR values into a Health Insurance Portability and Accountability Act–compliant automated computer system. In addition, the patients of both groups kept a written record of each INR result. The INR values of the self-testing group were then transmitted automatically by facsimile to their primary physician, and the patients would then telephone their physician for warfarin dosing instructions. The need for other INR self-tests, in addition to the standard weekly test, was at the discretion of the primary physician. For the usual-care group, the frequency of INR testing and alterations to the dose of warfarin were completely at the discretion of the primary physician. Once the study was completed, the patients were asked to complete a study-specific survey.
+
+Statistical Analysis
+The power for our study was calculated by anticipating a 10% difference between the groups in the percentage of tests within the therapeutic range, with a standard deviation of 25%. Using a 2-sample t test, 82 patients per group provided 90% power to detect the difference. To allow for possible patient withdrawals, the sample size was set at 100 patients per group.
+
+The categorical variables are reported as numbers and percentages. Continuous variables are reported as the mean ± SD or medians and ranges. The total time a patient spent within the therapeutic range was calculated by summing the time within the therapeutic range between 2 adjacent tests. The baseline categorical variables were compared between the self-test and usual-care groups using the χ2 test. The baseline continuous variables, percentage of INR tests within the therapeutic range, and percentage of time within the therapeutic range were compared using 2-sample t tests or the Wilcoxon rank sum test. All tests were 2-sided, and the alpha level was set at .05 for statistical significance.
+
+Financial support for a dedicated study coordinator was provided by Sorin Group (Milan, Italy). The design of the study; collection, analysis, and interpretation of the data; writing of the report; and making the decision to submit for publication were in no way influenced by Sorin Group.
+
+Results
+The flow of patients through the study is shown in Figure 1. From June 2007 until January 2009, 302 consecutive patients were offered enrollment in the study, and 200 agreed to participate. Of the 102 patients who declined, 59 (58%) were not interested in participating, 32 (31%) were more comfortable having their INR tested by a laboratory or in a physician's office, 10 (9%) were “overwhelmed” by the circumstances surrounding their cardiac operation, and 1 patient already used self-testing for INR management and did not want to risk enrollment in the usual-care group.
+
+
+Download high-res image (319KB)Download full-size image
+Figure 1. Flow chart.
+
+Random assignment of the study participants resulted in equivalent groups of 100 patients (Table 1). The median age was 53 years in the usual-care group and 55 years in the self-testing group. Warfarin had been used or was currently being used by 38 of the self-testing patients and 34 of the usual-care patients, and 1 patient in each group had had previous experience with INR self-testing. Of the 100 self-testing patients, 13 were diabetic and used self-testing for glycemic control. Most patients had had a single valve replaced, most of which were in the aortic position (Table 1). The number of patients with concomitant coronary revascularization and the median length of hospital stay were similar between the 2 groups. No mortality occurred in either group during the follow-up period.
+
+Table 1. Baseline demographic and operative characteristics
+
+Characteristic	Self-testing group (n = 100)	Usual-care group (n = 100)
+Age (y)		
+ Median	55	53
+ Range	18-79	19-84
+Men	67	60
+Previous warfarin use	38	34
+Hypertension	11	13
+Type 1 diabetes mellitus	13	7
+NYHA classification		
+ I	24	17
+ II	35	36
+ III	33	38
+ IV	8	9
+LVEF (%)	58.6 ± 0.1	59.2 ± 0.1
+Previous experience with INR self-testing	1	1
+Valves replaced		
+ Aortic	60	68
+ Mitral	20	17
+ Tricuspid	4	3
+ Pulmonary	1	1
+ Double valve	14	8
+ Aortic and mitral	4	4
+ Aortic and pulmonary	3	3
+ Aortic and tricuspid	3	
+ Mitral and pulmonary	2	1
+ Mitral and tricuspid	1	
+ Pulmonary and tricuspid	1	
+ Triple valve	1	3
+ Aortic, mitral, and pulmonary	1	
+ Aortic, mitral, and tricuspid		3
+Concomitant coronary revascularization	13	12
+Hospital stay (d)		
+ Median	6	6
+ Range	3-70	4-36
+Data presented as median and range, number of patients, or mean ± SD. NYHA, New York Heart Association; LVEF, left ventricular ejection fraction; INR, international normalized ratio.
+
+
+The clinical status of the patients dictated when self-testing instruction was initiated. For most patients, self-testing instruction began the third postoperative day. The mean number of teaching sessions per patient was 2.6 ± 1.2. On average, the total amount of time spent teaching a patient how to self-test was 59 ± 18 minutes. Before hospital dismissal, all patients in the self-testing group were able to demonstrate their ability to use the coagulometer and record the result. A total of 21 patients, 14 in the self-testing group and 7 in the usual-care group, withdrew from the study after enrollment (Figure 1).
+
+The mean number of INR tests performed by the 86 remaining patients in the self-testing group was 14 ± 9. In contrast, the 93 patients remaining in the usual-care group had a mean of 10 ± 6 INR tests (P < .001). For the entire 3 months, the mean percentage of INR tests within the therapeutic range was 52% ± 22% for the self-testing group and 45% ± 22% for the usual-care group (P = .05). The percentage of INR tests within the therapeutic range improved during the follow-up period for the self-testing group but not for the usual-care group (Figure 2, A). For the entire 3 months, the mean percentage of time the patients spent within the therapeutic range was 53% ± 27% for the self-testing group and 48% ± 25% for the usual-care group (P = .20). When examined by month, however, the percentage of time spent within the therapeutic range increased for the self-testing patients (Figure 2, B). In the third month, the mean percentage of time the INR self-testing patients spent within the therapeutic range was 59% ± 32% and that for the usual-care group was 40% ± 38% (P = .01).
+
+
+Download high-res image (125KB)Download full-size image
+Figure 2. International normalized ratio (INR) test results in therapeutic range. A, Mean percentage of INR tests within therapeutic range in self-testing group (n = 86, light bars) and usual-care group (n = 93, dark bars). B, Mean percentage of time spent in therapeutic range in self-testing group (n = 86, light bars) and usual-care group (n = 93, dark bars).
+
+Nine patients in the self-testing group had an adverse event after hospital discharge (Table 2). In both patients experiencing a transient ischemic attack, the INR was within the therapeutic range, and both patients had complete resolution of their symptoms. The magnetic resonance imaging findings of these 2 patients were normal. Two patients underwent chest tube thoracostomy for drainage of a hemothorax. Both patients were within the therapeutic range at the diagnosis of hemothorax. One patient was found to have a subdural hematoma after evaluation for new onset of severe headaches. Initially, the subdural hematoma was managed conservatively, and her INR was kept within the therapeutic range (2.5-3.5). The hematoma enlarged on subsequent computed tomography scans, and decompressive craniotomy was performed. Two patients had pericardial effusion that presented as chest pain, and both patients underwent a single pericardiocentesis without recurrence. One patient had an INR of 2.5 (goal, 2-3) at presentation, and the other had an INR of 1.9 (goal, 2-3) at presentation. One patient with pulmonary embolism had a subtherapeutic INR of 1.7 at presentation (goal, 2-3). The embolism was treated by ensuring tighter INR control by the patient's primary physician.
+
+Table 2. Adverse events occurring within the first 90 days after hospital dismissal
+
+Adverse event	Self-testing group (n = 86)	Usual-care group (n = 93)
+Patients (n)	Interval after discharge (d)	Patients (n)	Interval after discharge (d)
+TIA	2	7, 14	1∗	44
+Possible TIA			1	33
+Temporary visual change			2	14, 18
+Hemothorax	2	4, 8		
+Evacuation of subdural hematoma	1	60		
+Bloody pericardial effusion	2	8, 23	1	4
+Pulmonary embolism	1	21		
+Bleeding after shaving			1	NA
+Epistaxis			1	NA
+Bleeding scalp	1	NA		
+TIA, Transient ischemic attack; NA, not available.
+
+
+∗
+Amaurosis fugax.
+
+Seven patients in the usual-care group reported an adverse event after hospital discharge (Table 2). Neurologic symptoms were reported by 4 of these patients; magnetic resonance imaging showed normal results in 3 of the 4. An incidental right-sided cavernous malformation of the cerebellum was noted on magnetic resonance imaging in the fourth patient, who reported transient facial numbness and had had a possible transient ischemic attack. The bleeding risk from this malformation was considered low, and routine anticoagulation was continued. One of these patients reported symptoms suggestive of amaurosis fugax and was found to have a subtherapeutic INR level at the event. Bleeding complications were reported by the remaining 3 patients. One patient with a hemorrhagic pericardial effusion returned to the hospital 4 days after discharge with new chest pain, and the INR was found to be 8. The INR was corrected, and the patient's symptoms resolved with pericardiocentesis. The other 2 patients were within the therapeutic range when superficial bleeding occurred, which was controlled with application of pressure.
+
+The study-specific surveys were returned by 78 self-testing patients and 84 usual-care patients. Of the self-testing respondents, 64 (82%) agreed that they had recovered enough when self-testing instruction was initiated. Only 5 patients (6.4%) had not thought they were ready to self-test at hospital discharge. At 3 months after hospital discharge, 74 self-testing patients (95%) felt excellent or very good about self-testing their INR. In contrast, only 52 patients (62%) in the usual-care group were comfortable with the method by which their INR was monitored. Only 1 self-testing patient required more than 30 minutes to complete an INR test, and 64 usual-care patients (76.2%) reported that an INR test took 30 minutes or more (Figure 3). Of the 84 patients in the usual-care group, 61 (72.6%) indicated they would prefer self-testing to having their INR determined at a medical laboratory or doctor's office, and 33 (39.3%) stated they would definitely begin INR self-testing once the study was completed. Despite being in the self-testing group, 37 patients (47.4%) were asked by their primary physician to have at least 1 INR test at a conventional laboratory, in addition to self-testing.
+
+
+Download high-res image (63KB)Download full-size image
+Figure 3. Typical time required to obtain international normalized ratio (INR) result. Total time included transportation, having blood drawn, and waiting for test results. Self-testing group (n = 78) indicated by light bars; usual-care group (n = 84), dark bars.
+
+Discussion
+The results from the present randomized controlled trial have demonstrated that recipients of mechanical heart valves are able to learn INR self-testing while convalescing in the hospital. The patients are then able to initiate INR self-testing immediately after being discharged from the hospital. In the present study, INR self-testing was associated with more INR tests within the therapeutic range, a greater percentage of time spent within the therapeutic range during the third postoperative month, and no greater rate of complications compared with the patients receiving usual care.
+
+Although anticoagulation monitoring using point-of-care devices has been available for more than 20 years, it has not been widely used in the United States. It has been estimated that 60% of dedicated anticoagulation clinics in this country prohibit INR self-testing for enrolled patients and that fewer than 1% of patients receiving care at anticoagulation clinics use self-testing to obtain INR results.15 In contrast, some centers in Europe have enrollment as great as 85%,16 in part because it is viewed as more cost-effective.17 In the present study, only 2 physicians requested that their patients not be allowed to self-test, suggesting that many physicians in the United States would be accepting of INR self-testing.
+
+A potential barrier to implementing INR self-testing is the cost of the education and equipment. An in-hospital program for INR self-testing decreases the subsequent time and cost to patients and providers for training. In July 2002, the Centers for Medicare and Medicaid Services began coverage for home INR monitoring, and many insurance companies have followed suit. Although Medicare stipulates that patients undergo an educational program on anticoagulation management and the use of a device before its use at home, regulations also state that patients must receive anticoagulation therapy for at least 3 months before using home INR monitoring. We believe, however, that early initiation of self-testing is worthwhile for patients with mechanical valves because early introduction of the technology will increase the number of patients who ultimately use self-testing. Furthermore, in the early postoperative period, patients and families are attentive and able to learn management of their heart disease and the prosthetic valve.
+
+In the present study, patients were instructed in self-testing, not self-management. With self-testing, the patient uses a portable coagulometer to analyze the INR from a drop of blood obtained by finger stick, but the healthcare provider decides the dosing adjustments. In contrast, self-management implies that the patient performs the blood analysis and then decides on any dosage adjustment according to the displayed INR value. Self-management requires additional training and oversight that is best coordinated by the referring cardiologist or primary physician. We anticipate that many patients who begin self-testing early postoperatively will later transition to self-management. The quality of chronic oral anticoagulation management achieved with self-testing has been shown to be equivalent to that with self-management, and both appear to be superior to usual care.18
+
+The number of adverse events was similar between our 2 study groups, and the adverse events often occurred even though the INR was in the therapeutic range. However, fewer neurologic events occurred among the self-testing patients. Also, during the initial 3-month period, the number of in-range INR tests continued to improve in the self-testing group, but the number of in-range tests in the usual-care group remained relatively constant. It is possible that INR self-testing more than once per week would further improve the time in the therapeutic range, but this hypothesis has not yet been tested. After heart valve replacement with a mechanical prosthesis, the peak incidence of thromboembolism occurs during the first 3 months, after which the per-annum incidence of thromboembolism remains relatively constant.7, 10 This observation probably reflects the lack of endothelialization of the newly implanted prosthetic materials; thus, increasing the number of INR tests within the therapeutic range early after heart valve replacement should decrease the number of thromboembolic events.
+
+Even if the adverse event rates are similar between self-testing and usual care, patients might still prefer to self-test. It has been shown that INR self-management improves patients' quality of life.19, 20 More INR tests were performed in the self-testing group than in the usual-care group, which could provide better control of the INR in large patient populations. Performing an INR self-test a few more times might actually be less burdensome, considering the time needed to perform a self-test compared with the time required for a conventional INR test. Other health maintenance areas have shown that decreased waiting periods, travel time, and travel costs generate greater patient satisfaction.15, 16, 21 Also, collaborating with a physician using the telephone is particularly valued by patients in rural areas or those whose health or social circumstances make visits to the hospital difficult.22
+
+The present study had several limitations. Because the adverse event rate after mechanical heart valve implantation is greatest early after surgery, we chose a relatively short follow-up period. The study patients will need to be prospectively observed to determine the long-term prevalence of continued self-testing, crossing over by members of the usual-care group to self-testing, and the frequency of adverse events. Our study population included only adults; however, self-testing has also proved effective in a pediatric population.23 The present study was monocentric with dedicated study personnel, and similar studies are needed to validate the results.
+
+Conclusions
+The recipients of mechanical heart valves who are taught INR self-testing before hospital dismissal are able to self-test immediately after hospital dismissal. Early INR self-testing promoted a greater percentage of INR tests within the goal therapeutic range compared with usual care. Although the overall number of reported adverse events was similar, the self-testing patients had fewer neurologic events. Most primary physicians were accepting of self-testing, but almost one half still requested that an occasional conventional INR test be performed, in addition to the self-testing. Self-testing patients reported being more comfortable with how their INR was monitored, and the difference in time needed to obtain an INR value using self-testing versus usual care was striking.
+
+References
+1
+J.N. Saour, J.O. Sieck, L.A. Mamo, A.S. Gallus
+Trial of different intensities of anticoagulation in patients with prosthetic heart valves
+N Engl J Med, 322 (1990), pp. 428-432
+CrossRefView Record in ScopusGoogle Scholar
+2
+G.P. Samsa, D.B. Matchar
+Relationship between test frequency and outcomes of anticoagulation: a literature review and commentary with implications for the design of randomized trials of patient self-management
+J Thromb Thrombolysis, 9 (2000), pp. 283-292
+View Record in ScopusGoogle Scholar
+3
+F. Ryan, S. Byrne, S. O'Shea
+Randomized controlled trial of supervised patient self-testing of warfarin therapy using an internet-based expert system
+J Thromb Haemost, 7 (2009), pp. 1284-1290
+CrossRefView Record in ScopusGoogle Scholar
+4
+D. Horstkotte, C. Piper
+Improvement of oral anticoagulation therapy by INR self-management
+J Heart Valve Dis, 13 (2004), pp. 335-338
+View Record in ScopusGoogle Scholar
+5
+T. Eitz, S. Schenk, D. Fritzsche, A. Bairaktaris, O. Wagner, H. Koertke, et al.
+International normalized ratio self-management lowers the risk of thromboembolic events after prosthetic heart valve replacement
+Ann Thorac Surg, 85 (2008), pp. 949-954
+View Record in ScopusGoogle Scholar
+6
+H. Koertke, A. Zittermann, O. Wagner, R. Koerfer
+Self-management of oral anticoagulation therapy improves long-term survival in patients with mechanical heart valve replacement
+Ann Thorac Surg, 83 (2007), pp. 24-29
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+7
+S.C. Cannegieter, F.R. Rosendaal, E. Briet
+Thromboembolic and bleeding complications in patients with mechanical heart valve prostheses
+Circulation, 89 (1994), pp. 635-641
+View Record in ScopusGoogle Scholar
+8
+P. Laffort, R. Roudaut, X. Roques, S. Lafitte, C. Deville, J. Bonnet, et al.
+Early and long-term (1-year) effects of the association of aspirin and oral anticoagulant on thrombi and morbidity after replacement of the mitral valve with the St. Jude medical prosthesis: a clinical and transesophageal echocardiographic study
+J Am Coll Cardiol, 35 (2000), pp. 739-746
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+9
+R.W. Emery, C.C. Krogh, K.V. Arom, A.M. Emery, K. Benyo-Albrecht, L.D. Joyce, et al.
+The St. Jude medical cardiac valve prosthesis: a 25-year experience with single valve replacement
+Ann Thorac Surg, 79 (2005), pp. 776-782
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+10
+T.A. Orszulak, H.V. Schaff, J.R. Pluth, G.K. Danielson, F.J. Puga, D.M. Ilstrup, et al.
+The risk of stroke in the early postoperative period following mitral valve replacement
+Eur J Cardiothorac Surg, 9 (1995), pp. 615-619
+View Record in ScopusGoogle Scholar
+11
+J. Ansell, J. Hirsh, E. Hylek, A. Jacobson, M. Crowther, G. Palareti
+American College of Chest Physicians. Pharmacology and management of the vitamin K antagonists: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines (8th edition)
+Chest, 133 (2008), pp. 160S-198S
+ArticleDownload PDFCrossRefGoogle Scholar
+12
+T.D. Christensen, N.T. Andersen, J. Attermann, V.E. Hjortdal, M. Maegaard, J.M. Hasenkam
+Mechanical heart valve patients can manage oral anticoagulant therapy themselves
+Eur J Cardiothorac Surg, 23 (2003), pp. 292-298
+CrossRefView Record in ScopusGoogle Scholar
+13
+J.L. Thompson, T.M. Sundt, M.E. Sarano, P.J. Santrach, H.V. Schaff
+In-patient international normalized ratio self-testing instruction after mechanical heart valve implantation
+Ann Thorac Surg, 85 (2008), pp. 2046-2050
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+14
+American College of Cardiology/American Heart Association Task Force on Practice Guidelines; Society of Cardiovascular Anesthesiologists; Society for Cardiovascular Angiography and Interventions; Society of Thoracic Surgeons, Bonow RO, Carabello BA, Kanu C, de Leon AC Jr, Faxon DP, Freed MD, et al. ACC/AHA 2006 guidelines for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (writing committee to revise the 1998 Guidelines for the Management of Patients With Valvular Heart Disease): developed in collaboration with the Society of Cardiovascular Anesthesiologists: endorsed by the Society for Cardiovascular Angiography and Interventions and the Society of Thoracic Surgeons. Circulation 2006;114:e84-231. Errata in: Circulation 2010;121:e443; Circulation 2007;115:e409.
+Google Scholar
+15
+A.K. Wittkowsky, C.M. Sekreta, E.A. Nutescu, J. Ansell
+Barriers to patient self-testing of prothrombin time: national survey of anticoagulation practitioners
+Pharmacotherapy, 25 (2005), pp. 265-269
+CrossRefView Record in ScopusGoogle Scholar
+16
+R. Koerfer, N. Reiss, H. Koertke
+International normalized ratio patient self-management for mechanical valves: is it safe enough?
+Curr Opin Cardiol, 24 (2009), pp. 130-135
+View Record in ScopusGoogle Scholar
+17
+U. Taborski, F.J. Wittstamm, A. Bernardo
+Cost-effectiveness of self-managed anticoagulant therapy in Germany
+Semin Thromb Hemost, 25 (1999), pp. 103-107
+CrossRefGoogle Scholar
+18
+C. Gardiner, K. Williams, I. Longair, I.J. Mackie, S.J. Machin, H. Cohen
+A randomised control trial of patient self-management of oral anticoagulation compared with patient self-testing
+Br J Haematol, 132 (2006), pp. 598-603
+CrossRefView Record in ScopusGoogle Scholar
+19
+M.A. Soliman Hamad, E. van Eekelen, T. van Agt, A.H. van Straten
+Self-management program improves anticoagulation control and quality of life: a prospective randomized study
+Eur J Cardiothorac Surg, 35 (2009), pp. 265-269
+CrossRefView Record in ScopusGoogle Scholar
+20
+A.P. Gadisseur, A.A. Kaptein, W.G. Breukink-Engbers, F.J. van der Meer, F.R. Rosendaal
+Patient self-management of oral anticoagulant care vs. management by specialized anticoagulation clinics: positive effects on quality of life
+J Thromb Haemost, 2 (2004), pp. 584-591
+View Record in ScopusGoogle Scholar
+21
+H. Kortke, R. Korfer
+International normalized ratio self-management after mechanical heart valve replacement: is an early start advantageous?
+Ann Thorac Surg, 72 (2001), pp. 44-48
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+22
+J. Car, A. Sheikh
+Telephone consultations
+BMJ, 326 (2003), pp. 966-969
+View Record in ScopusGoogle Scholar
+23
+M.J. Bradbury, G. Taylor, P. Short, M.D. Williams
+A comparative study of anticoagulant control in patients on long-term warfarin using home and hospital monitoring of the international normalised ratio
+Arch Dis Child, 93 (2008), pp. 303-306

@@ -1,0 +1,707 @@
+﻿ORIGINAL
+ARTICLES
+INFLUENZA VACCINE EFFECTIVENESS IN HEALTHY 6- TO 21-MONTH-OLD
+CHILDREN DURING THE 2003-2004 SEASON
+MANDY A. ALLISON, MD, MATTHEW F. DALEY, MD, LORI A. CRANE, PHD, MPH, JENNIFER BARROW, MSPH, BRENDA L. BEATY, MSPH,
+NORMA ALLRED, MSN, PHD, STEPHEN BERMAN, MD, AND ALLISON KEMPE, MD, MPH
+Objective To assess the clinical effectiveness of influenza vaccine in preventing influenza-like illness (ILI) office visits.
+Study design We analyzed billing and immunization registry data for healthy 6- to 21-month-olds from 5 Denver, Colorado
+pediatric practices (n  5193). ILI and pneumonia/influenza (a subset of ILI) were defined from International Classification
+of Diseases, Ninth Revision, Clinical Modification codes for office visits occurring during peak influenza season. Partially
+vaccinated (PV) and fully vaccinated (FV) patients were defined as having 1 shot and 2 shots, respectively, more than 14 days
+before the first ILI visit. The likelihood of an ILI visit was determined using a Cox proportional hazards model accounting for
+patient characteristics, practice site, and immunization status.
+Results A total of 28% of the patients had an ILI office visit, and 5% had a pneumonia/influenza visit. Hazard ratios (HRs)
+for FV versus UV were 0.31 (95% confidence interval [CI]  0.3 to 0.4) for ILI and 0.13 (95% CI  0.1 to 0.2) for
+pneumonia/influenza, corresponding to a vaccine effectiveness (1 – HR  100) of 69% for ILI and 87% for pneumonia/
+influenza. The corresponding HRs for PV versus UV were 1.0 (95% CI  0.9 to 1.2) and 1.1 (95% CI  0.8 to 1.5).
+Conclusions Although 2 doses of vaccine were 69% effective against ILI office visits
+and 87% effective against pneumonia/influenza office visits, 1 dose did not prevent office
+visits during the 2003-2004 influenza season. (J Pediatr 2006;149:755-62)
+I
+nfluenza causes significant morbidity and mortality in children and places a substantial
+burden on their families and the health care system every year. The burden of illness
+due to influenza is highest for children with chronic health problems and young
+children.1-4 For children under age 24 months, estimates of annual hospitalization rates
+range from 0.6 to 4 per 1000.3,5-7 In children under age 5 years, illness due to influenza
+leads to 6 to 15 extra outpatient visits and 3 to 9 extra courses of antibiotics per 100
+children annually, with the highest rates in children under age 3 years.5 Based on the
+impact of influenza in children under age 24 months and the risk– benefit ratio of the
+vaccine, in 2004 the Advisory Committee on Immunization Practices (ACIP) recommended universal vaccination against influenza for 6- to 23-month-old children,2 a
+recommendation that was subsequently endorsed by the American Academy of Pediatrics.8 For previously unimmunized children under age 9 years, 2 doses of vaccine are
+recommended to achieve adequate immune response.8
+Although immunization of all healthy 6- to 23-month-old children is recommended, evidence is mixed regarding the efficacy and clinical effectiveness of the inactivated influenza vaccine in this age group. Immunogenicity is defined as the vaccine’s ability
+to cause a rise in protective antibody titers. Vaccine efficacy describes the vaccine’s ability to
+prevent laboratory-confirmed infection in a controlled setting. Vaccine effectiveness generally refers to a vaccine’s ability to prevent clinically significant illness. Although 2 doses of
+ACIP Advisory Committee on Immunization
+Practices
+CDC Centers for Disease Control and Prevention
+CDPHE Colorado Department of Public Health and
+Environment
+CPT Current Procedural Terminology
+FV Fully vaccinated
+HMO Health maintenance organization
+HR Hazard ratio
+ICD-9-CM International Classification of Diseases, Ninth
+Revision, Clinical Modification
+ILI Influenza-like illness
+PV Partially vaccinated
+RSV Respiratory synctial virus
+UV Unvaccinated
+See editorial, p 737
+From the Departments of Pediatrics and
+Preventive Medicine and Biometrics and
+the Colorado Health Outcomes Program,
+University of Colorado at Denver and
+Health Sciences Center, Denver, CO; the
+Children’s Outcomes Research Program,
+Children’s Hospital, Denver, CO; and the
+National Immunization Program, Centers
+for Disease Control and Prevention, Atlanta, GA.
+Funding for this project was provided by a
+cooperative agreement with the Centers
+for Disease Control and Prevention (CDC)
+through the Association of American Medical Colleges (AAMC) (grant MM-0752-04/
+04). The contents of this report are solely
+the responsibility of the authors and do not
+necessarily represent the official views of
+the CDC or the AAMC. Dr. Allison was
+also supported by a National Research Service Award (grant T32 HP10006).
+Submitted for publication Nov 19, 2005;
+last revision received Mar 15, 2006; accepted Jun 16, 2006.
+Reprint requests: Mandy A. Allison, MD,
+University of Utah, Division of General Pediatrics, 50 North Medical Drive 2A200
+SOM, Salt Lake City, UT 84132.
+E-mail: mandy.allison@hsc.utah.edu.
+0022-3476/$ - see front matter
+Copyright © 2006 Mosby Inc. All rights
+reserved.
+10.1016/j.jpeds.2006.06.036
+755
+inactivated influenza vaccine are known to be immunogenic in
+6- to 23-month-old children based on the rise in antibody
+titers after vaccine administration,9-12 few studies have assessed efficacy based on laboratory-confirmed infection.12-14
+The data regarding clinical effectiveness in young children are
+even more limited. Ritzwoller et al15 examined influenza
+vaccine effectiveness in 6- to 23-month-old children based on
+prevention of influenza-like illness (ILI).
+Studies of influenza vaccine effectiveness are limited by
+using ILI rather than laboratory-confirmed influenza as the
+outcome. Because the clinical manifestations of influenza
+infection are similar to the manifestations of other respiratory
+pathogens, ILI may not measure infection specifically caused
+by influenza if it is being measured at a time at which other
+respiratory pathogens are common.16,17 Despite this limitation of effectiveness data, such studies are important, because
+they evaluate the performance of the influenza vaccine in a
+real-world setting and reflect the impact of influenza vaccination programs on the health care delivery system.
+Because little is known about the clinical effectiveness
+of the influenza vaccine in the youngest age group, particularly in non-health maintenance organization (HMO) settings, we assessed the effectiveness of the vaccine in preventing office visits for ILI during the 2003-2004 influenza season
+in Colorado. The objectives of this study were to describe
+influenza immunization rates and timing of immunizations in
+healthy 6- to 21-month-old children and to assess the effectiveness of 1 and 2 doses of influenza vaccine in preventing
+outpatient office visits for ILI.
+METHODS
+Study Setting and Population
+The study protocol was reviewed and approved by the
+Colorado Multiple Institutional Review Board and the Institutional Review Board of the Centers for Disease Control and
+Prevention (CDC). This study was conducted as part of a
+randomized controlled trial of registry-based reminder recall
+in 5 private pediatric practices in Denver, Colorado from
+September 1, 2003 through February 29, 2004.18 All practices
+encouraged influenza immunization for all healthy 6- to 23-
+month-old children during the 2003-2004 season, but
+roughly half of the children received a recall letter as part of
+the randomized controlled trial. The practices use a regional
+immunization registry and share a common computerized
+billing system, as described by Kempe et al.18
+The study population comprised all children age 6 to
+21 months as of September 1, 2003 who were regular
+patients in the 5 practices, based on having had an office
+visit in the previous 18 months and having a record in the
+registry and billing database. Children 22 and 23 months
+old were excluded at the practices’ request, because those
+children would have been older than 23 months during the
+influenza season, and the practices were concerned that
+insurers would not reimburse for the vaccination of children older than 23 months. In light of the new ACIP
+recommendation to vaccinate healthy 6- to 23-montholds,2 we specifically focused on healthy children by excluding children with a chronic medical condition that
+would increase the risk of experiencing clinically significant
+illness due to influenza. International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM)
+codes19 obtained from office billing data before the study
+period were used to identify and exclude children with
+chronic conditions, as described previously.20 Children
+were also excluded if their families were known to have
+moved to a different practice not participating in the study.
+If more than 1 child per family was in the 6-to 21-month
+age group, then a single child per family was randomly
+selected for the study.
+Data Sources
+The primary data sources were a computerized billing
+database and an internet-based immunization registry used to
+determine outpatient office visits and immunization status.
+The billing database includes sex, age, and dates of office visits
+with associated ICD-9-CM codes and Current Procedural
+Terminology (CPT) codes.21 Staff members at the 5 pediatric
+practices are advised to enter immunization information into
+the registry within 24 hours of vaccine administration. As
+described previously, a quality assessment review of the registry at the 5 pediatric practices showed a completeness rate of
+97.4% (percent of children in the practices included in the
+registry) and an error rate of 7.2% (immunization not recorded or recorded incorrectly in the registry).18 Immunization status was determined using data in the registry and the
+billing database. Information regarding the study population’s
+demographic characteristics was collected through telephone
+surveys conducted as part of another study, the methodology
+of which has been described previously.18
+Definitions
+TIMING OF THE RESPIRATORY ILLNESS SEASON. The timing
+of the influenza season was determined using data from the
+Colorado Department of Public Health and Environment
+(CDPHE) supplemented by data from the Department of
+Epidemiology at Children’s Hospital, Denver. Laboratoryconfirmed influenza cases reported to the CDPHE increased
+rapidly from 0 beginning on approximately November 1,
+2003, peaked at almost 3000 cases during the first week of
+December 2003, and decreased to fewer than 500 cases during
+the first week of January 2004.22 Therefore, we defined the
+study period for influenza season as November 1, 2003 to
+December 31, 2003. This period corresponds to the time
+during which influenza A was the primary pathogen found
+among all positive laboratory studies for respiratory illness at
+Children’s Hospital, Denver.23
+The timing of the respiratory synctial virus (RSV) season
+was determined using surveillance data from the CDC and
+Children’s Hospital, Denver. According to the CDC, RSV
+activity in the western United States began on December 27,
+756 Allison et al The Journal of Pediatrics • December 2006
+2003 and continued through April 3, 2004.24 Children’s
+Hospital laboratory data show that confirmed cases of RSV
+were slightly more common than confirmed cases of influenza
+(21 cases of RSV vs 16 cases of influenza) during the week of
+December 27, 2003.23 Because the RSV and influenza seasons began to overlap at the end of December, we chose
+December 31, 2003 as the end date for the influenza season.
+OUTCOME MEASURES. The primary outcome measure was
+incidence of outpatient visits for ILI or pneumonia and influenza, a subset of ILI, during the influenza season of November 1, 2003 to December 31, 2003. The diagnoses and
+associated ICD-9-CM codes used to define ILI and pneumonia/influenza are given in the Appendix (available at
+www.jpeds.com). These diagnoses were similar to those used
+to define ILI in previous clinical studies.1,7,15,25 Because a
+child can contract influenza A only once during a season, if a
+child had more than 1 office visit for ILI or pneumonia/
+influenza during the study period, then only the first visit was
+included in the analysis. Using the first office visit presumes
+that the first visit was for illness due to influenza A and that
+subsequent visits were for follow-up or for illnesses caused by
+other pathogens.
+IMMUNIZATION STATUS. Immunization data from the 2002-
+2003 and 2003-2004 seasons were used to define immunization status. Children were unvaccinated (UV) if they had not
+received at least 1 vaccine dose during the 2003-2004 season
+more than 14 days before their first office visit for ILI.
+Because immunity wanes in the year after vaccination, the
+ACIP recommends annual vaccination with the current influenza vaccine;2,26,27 therefore, a child who had received 1 or
+more doses during the 2002-2003 vaccine season but no dose
+during the 2003-2004 season more than 14 days before his or
+her first office visit for ILI was considered to be UV. A child
+was partially vaccinated (PV) if he or she had received only 1
+dose during the 2003-2004 season (and none during the
+previous season) more than 14 days before their first ILI visit.
+Children were fully vaccinated (FV) if they had received 2
+doses (with at least 1 of the doses during the current season)
+more than 14 days before the first ILI visit. In this case, a dose
+received in 2002-2003 counted toward being FV, based on
+evidence that a dose given during the previous season could
+prime for an adequate immune response after another dose in
+the current season.10 Because vaccinations could be received
+during the study period of November 1, 2003 to December
+31, 2003, an individual child’s immunization status could
+change from UV to PV to FV for this analysis.
+Data Analysis
+Rates and timing of immunization were reported using
+descriptive statistics. Office visit data from September 1, 2003
+to October 31, 2003 and from January 1, 2004 to February 29,
+2004, outside the influenza season, were used to define children’s office utilization patterns. Children with 3 or more
+visits (75th percentile or above) were denoted as “high utilizers.” Bivariate analysis was used to determine whether the
+incidence of ILI differed by utilization pattern, practice site,
+or receipt of a recall letter (as part of the randomized controlled trial). Variables found to be associated with ILI in the
+bivariate analysis were included in the Cox proportional hazards model. The Cox proportional hazards model was used to
+calculate hazard ratios (HRs), a type of rate ratio estimate,
+and to test for the association between immunization status
+and occurrence of ILI or pneumonia/influenza while controlling for possible confounders, including age and sex.28 Immunization status was a time-varying covariate, because an
+individual child’s immunization status could change during
+the study period. The first office visit for ILI or pneumonia/
+influenza occurring between November 1, 2003 and December 31, 2003 was the outcome variable or event. For each day
+on which an event occurred, this time-dependent model compared the immunization status of children who experienced
+an event that day with the immunization status of children
+who had not experienced an event to date. Vaccine effectiveness was defined as 1 - HR. Log-log survivor functions were
+plotted to ensure that the proportional hazards assumptions
+were met.
+We examined whether vaccine effectiveness against office visits for ILI differed between FV children who had
+received both vaccine doses during the 2003-2004 season and
+FV children who had received 1 of their doses the previous
+(2002-2003) season, by repeating the Cox proportional hazards model analysis stratified by receipt of a vaccine dose the
+previous season. One model included children who had received a vaccine dose during the 2002-2003 season, and
+another model included children who had not received a
+vaccine dose during the 2002-2003 season.
+To test the plausibility of our vaccine effectiveness results, we repeated our analysis using office visit data from
+January 1, 2004 through February 29, 2004. We hypothesized
+that the influenza vaccine would not be effective (ie, the HR
+comparing FV children with UV children would be close to
+1), because the illnesses occurring this period were much more
+likely to be caused by such pathogens as RSV than by influenza. The repeat vaccine effectiveness analysis used the same
+Cox model as the original analysis, except the outcome variable was an office visit for ILI or pneumonia/influenza occurring between November 1, 2004 and February 29, 2004
+rather than between November 1, 2003 and December 31,
+2003. The SAS system for Windows, version 9.1 (SAS Institute Inc, Cary, NC), was used for all data analyses.
+RESULTS
+Subject Characteristics
+Of the total study population (n  5193), 50% were
+male, with a mean age of 15.5 months as of November 1,
+2003; 28% had an office visit for ILI and 5% had an office visit
+for pneumonia/influenza between November 1, 2003 and
+December 31, 2003. For the repeat analysis during RSV
+season, 23% had an office visit for ILI and 1% had an office
+Influenza Vaccine Effectiveness In Healthy 6- to 21-Month-Old Children During The 2003-2004 Season 757
+visit for pneumonia/influenza between January 1, 2004 and
+February 29, 2004. As described previously, most children
+were white non-Hispanic (76%) and privately insured (87%),
+with well-educated (83% with at least some college) and
+married (87%) parents.18
+Timing of the Influenza Season
+The Figure shows the onset and peak of the 2003-2004
+influenza season in Colorado based on laboratory-confirmed
+cases reported to the CDPHE. The Figure also shows the
+number of office visits for ILI in the study population during
+the same time period. The first peak corresponds with our
+definition of the influenza season as extending from November 1, 2003 through December 31, 2003. The timing of
+influenza in the study population mirrors the pattern for the
+state, with the number of cases increasing beginning on
+November 1, peaking by December 1 through December 6,
+and decreasing to baseline by December 31, 2003. The second, smaller peak shown in the Figure corresponds to the
+RSV season.
+Immunization Rates and Timing of Immunization
+The influenza vaccine was available at all 5 study practices by the beginning of October 2003. Fifteen percent of the
+study population (n  773) had received at least 1 vaccine
+dose during the previous season. By March 1, 2004, 40% (n 
+2087) had received 2 doses of vaccine or were FV. (This could
+include 1 dose from the previous season.) Twenty percent (n
+ 1040) had received only 1 dose of vaccine during the
+2003-2004 season (and none during the previous season) or
+were PV. Forty percent (n  2066) had not received any doses
+during the 2003-2004 season or were UV. The UV group
+included 178 children (8.6%) who had received a vaccine the
+previous season. Most immunizations were received between
+November 1, 2003 and January 1, 2004. Only 5.8% (n  303)
+of the children were FV before November 1, 2003, whereas
+36.3% (n  1884) were FV by January 1, 2004.
+Influenza Vaccine Effectiveness
+BIVARIATE ANALYSIS. Because high utilizers and practice site
+were associated with the incidence of ILI (P  .0001), these
+variables were included in the Cox proportional hazards
+model. Receipt of a recall letter was not related to ILI (P 
+.3) and so was not included in the model.
+COX PROPORTIONAL HAZARDS MODEL. Table I shows the
+HRs for having an office visit for ILI or pneumonia/influenza
+for each of the explanatory variables while controlling for the
+other explanatory variables. Age was not associated with ILI,
+although males were slightly more likely to have an office visit
+for ILI than females. Children at sites 2 and 5 were more
+likely to have an office visit resulting in an ILI diagnosis than
+children at sites 1, 3, and 4. High utilizers were much more
+likely to have an office visit for ILI than non– high utilizers.
+The HR comparing FV children with UV children was 0.31
+(95% confidence interval [CI]  0.26 to 0.36), indicating that
+the FV children were much less likely to have an office visit
+for ILI. This HR corresponds with a vaccine effectiveness of
+69%. PV children were equally as likely to have an office visit
+for ILI as UV children (HR  1.03; 95% CI  0.91 to 1.17).
+Age was not associated with pneumonia/influenza, although
+males were slightly more likely to have a visit for pneumonia/
+influenza than females. Children at site 2 were least likely to
+have a visit resulting in a pneumonia/influenza diagnosis, and
+children at sites 3, 4, and 5 were more likely to have a
+pneumonia/influenza diagnosis than children at the other
+sites. High utilizers were much more likely to have an office
+visit for pneumonia/influenza than non– high utilizers. The
+HR comparing FV children with UV children was 0.13 (95%
+CI  0.08 to 0.22), indicating that the FV children were
+much less likely to have an office visit for pneumonia/influenza. This HR corresponds with a vaccine effectiveness of
+87%. PV children were equally as likely as UV children to
+have an office visit for pneumonia/influenza (HR  1.10;
+95% CI  0.82 to 1.47).
+The stratified analysis revealed that for those children
+who had received 1 of their vaccine doses during the previous
+season, the HR for ILI comparing FV and UV was 0.38 (95%
+CI  0.28 to 0.51). For children who had not received a
+vaccine dose during the previous season, the HR for ILI
+Figure. A, Number of laboratory-confirmed cases of influenza in
+Colorado reported to the CDPHE during the 2003-2004 season. B,
+Number of ILI visits in the study population from September 14, 2003
+through February 29, 2004.
+758 Allison et al The Journal of Pediatrics • December 2006
+comparing FV and UV was 0.18 (95% CI  0.14 to 0.23).
+These HRs correspond with a vaccine effectiveness of 62% for
+FV children who had received 1 of their vaccine doses during
+the previous season and 82% for FV children who had received both of their vaccine doses during the 2003-2004
+season.
+REPEAT ANALYSIS DURING RSV SEASON. Table II gives the
+results of the repeat analysis. The HR comparing FV children
+and UV children was 1.93 (95% CI  1.65 to 2.26), indicating that FV children were more likely than UV children to
+have an office visit for ILI between January 1, 2004 and
+February 29, 2004.
+DISCUSSION
+Immunization with 2 doses of influenza vaccine is recommended for all 6- to 23-month-old children;2,8 however,
+more data are needed regarding the efficacy and clinical
+effectiveness of the vaccine in this population.7,14 This study
+evaluated the clinical effectiveness of the influenza vaccine
+specifically in the 6- to 21-month-old population. We found
+that 2 doses of vaccine were 69% effective in preventing office
+visits for ILI and 87% effective in preventing office visits for
+pneumonia/influenza, a subset of ILI. One dose of vaccine
+was not effective in preventing office visits for ILI or pneumonia/influenza.
+The inactivated influenza vaccine’s efficacy based on
+reduction of laboratory-confirmed influenza cases has been
+assessed and yielded a broad range of results depending on
+the study design and the influenza season. From a 5-year
+randomized controlled trial studying 1 dose of vaccine in 1-
+to 16-year-old children, Neuzil et al29,30 reported an overall efficacy of 77% (95% CI  20% to 93%) to 91% (95%
+CI  64% to 98%) in preventing culture-positive illness
+depending on the year and virus strain. Only a randomized
+controlled trial by Hoberman et al12 specifically studied 6-
+to 23-month-olds and found an efficacy of 66% (95% CI 
+34% to 82%) for 2 doses during an epidemic year; however,
+the efficacy was –7% (95% CI  –247% to 67%)in a
+nonepidemic year.
+The clinical effectiveness of the influenza vaccine based
+on reduction of ILI has been evaluated previously in children
+age 0 to 15 years also with mixed results depending on the
+patient population, number of vaccine doses, influenza season,
+method of ascertaining cases, and definition of ILI. Estimates
+of effectiveness ranged from not effective to approximately
+85% effective.15,31-33 Only 2 studies included a sufficient
+number of young children to permit a separate analysis. Kawai
+et al32 found that 2 doses of vaccine were 78.5% (P  .01)
+effective against ILI in children under age 3 years. In a
+retrospective cohort study conducted within a single large
+HMO during the 2003-2004 season in Colorado, Ritzwoller
+et al15 found that 2 doses of vaccine had an effectiveness of
+25% against ILI and 49% against pneumonia and influenza
+and that 1 dose of vaccine was not effective (3% against ILI
+and 22% against pneumonia/influenza, with both 95% CIs
+crossing 1).
+Table I. Cox proportional hazards model for office visits for ILI and pneumonia/influenza from November 1,
+2003 to December 31, 2003
+ILI 1446 events (n  5193) Pneumonia/influenza 246 events (n  5193)
+HR 95% CI
+Effectiveness
+(1  HR)  100 HR 95% CI
+Effectiveness
+(1  HR)  100
+Male 1.14 1.03–1.27 1.11 0.86–1.43
+Age (per month) 0.99 0.98–1.00 1.02 0.99–1.05
+Site
+Site 1 1.00 Referent 1.00 Referent
+Site 2 1.32 1.13–1.54 0.23 0.11–0.48
+Site 3 1.12 0.96–1.31 2.45 1.73–3.48
+Site 4 1.11 0.93–1.34 2.02 1.34–3.04
+Site 5 1.87 1.59–2.19 2.02 1.34–3.04
+High utilization 3.04 2.71–3.40 2.72 2.07–3.57
+FV versus UV 0.31 0.26–0.36 69% 0.13 0.08–0.22 87%
+PV versus UV 1.03 0.91–1.17 1.10 0.82–1.47
+Table II. Results of analysis during the RSV season:
+Cox proportional hazards model for office visits for
+ILI from January 1, 2004 to February 29, 2004
+ILI 1232 events (n  5193)
+HR 95% CI
+Male 1.04 0.93–1.16
+Age (per month) 1.01 1.00–1.02
+Site
+Site 1 1.00 Referent
+Site 2 1.42 1.21–1.67
+Site 3 1.26 1.05–1.50
+Site 4 1.04 0.86–1.27
+Site 5 1.18 0.98–1.42
+High utilization 6.86 5.95–7.92
+FV versus UV 2.96 2.51–3.49
+PV versus UV 2.63 2.18–3.18
+Influenza Vaccine Effectiveness In Healthy 6- to 21-Month-Old Children During The 2003-2004 Season 759
+The substantial variation in the results of clinical effectiveness studies may be explained by several factors, particularly the specificity of the case definition. The specificity of
+ILI for influenza has been assessed in studies of mostly adult
+subjects. Estimates of specificity ranged from 35% to 71% in
+these studies comparing the clinical definition of fever and
+cough with viral culture during different influenza seasons.34-36 The specificity of ILI for influenza is affected by the
+severity and timing of the season and whether other pathogens, such as RSV, are circulating at the same
+time.12,15,30,37,38 For seasons in which there is substantial
+separation of influenza and RSV, assessing clinical effectiveness using encounter data is much more likely to yield meaningful results. Because ILI is more likely to represent illness
+due to influenza during early and severe influenza seasons, the
+unique 2003-2004 influenza season allowed us to examine
+how immunization with the influenza vaccine affected health
+care utilization without the problem of interference from
+other respiratory pathogens.
+The study of Ritzwoller et al15 is similar in design to
+our study, yet their results suggest lower vaccine effectiveness. We used the same diagnostic codes; however, we
+counted ILI from November 1, 2003 to December 31,
+2003, and Ritzwoller et al counted illness from November
+19, 2003 through December 7, 2003. The longer time
+period allowed us to examine more cases of ILI and pneumonia/influenza, but these cases may be less specific for
+influenza. Lower specificity for influenza would be expected to decrease vaccine effectiveness, so this difference
+does not appear to explain our higher effectiveness estimates. Although their analysis controlled for chronic illness, their inclusion of children with chronic illness may
+have lowered their effectiveness estimates compared with
+ours, because children with chronic illness may be more
+likely to seek care for any respiratory illness and thus may
+have been more likely to receive an ILI diagnosis. In our
+study, ILI was defined based only on office visits; Ritzwoller et al included hospital emergency department visits
+as well as office visits. This would bias our results only if
+immunized children are more likely than unimmunized
+children to visit an emergency department rather than their
+primary care physician for ILI. Finally, because the outcome in both studies was health care encounters rather
+than laboratory-confirmed influenza, the estimates of vaccine effectiveness depend on the health care–seeking behavior of the patient population, which may have differed
+between our patient population using private practices and
+the Ritzwoller et al population enrolled in a HMO.
+The results of the repeat analysis from January 1, 2004
+to February 29, 2004 suggest that our estimate of vaccine
+effectiveness during influenza season is plausible; however,
+the finding that vaccination appeared to be a risk factor for
+office visits after influenza season raises more questions. We
+suspect that this latter finding may be related to differences in
+parental behavior. Parents who ensure that their children are
+immunized may be more likely to use the health care system.
+If the vaccine was effective against influenza, then these
+children may not have needed care during the influenza
+season, but their parents may have been more likely to seek
+care for noninfluenza illness, including RSV, occurring later.
+Although we attempted to control for utilization behavior in
+our analysis, our definition of utilization may not have adequately captured all differences in health care–seeking behaviors between groups.
+Our study has several limitations. Most importantly,
+billing codes were used to define cases, and we do not have
+laboratory data to confirm that these were cases of influenza
+rather than another respiratory or febrile illness. As described
+earlier, using ILI to represent influenza infection has limitations that are partially mitigated by the characteristics of the
+respiratory season in this study. In addition, the study population comprised children with a moderate to high socioeconomic status, which may limit generalizability to other
+populations.
+Our study has some important strengths. A large sample size with sufficient immunization rates allowed us to
+adequately assess differences in effectiveness between 0, 1,
+and 2 doses of vaccine. We used data from a single season, the
+2003-2004 season, which was unique because it was earlier
+and more severe than usual. Previous studies have demonstrated that estimates of vaccine efficacy and effectiveness are
+more precise in severe seasons because of higher attack
+rate.12,29 The early season increased the specificity of the
+clinical outcome of ILI for influenza because influenza and
+RSV overlapped only slightly.
+Our data have important implications for practitioners. Our finding that 1 dose of vaccine does not appear to
+be effective suggests that efforts to immunize 6- to 23-
+month-old children should start early, because most children in this age group will require 2 doses of vaccine to
+achieve full immunity. Health care providers must have
+systems in place to ensure delivery of 2 doses; for example,
+providers who are arranging immunization clinics should
+plan to have at least 2 clinics 1 month apart before November. Providers could also use a system that would
+automatically reschedule the second dose at the time of the
+first dose or use a recall system for those who fail to return
+for the second dose.
+Given the logistical difficulty of immunizing 6- to 23-
+month-old children with 2 doses of vaccine before the onset
+of the influenza season, researchers have examined whether
+young children could be given their first dose of influenza
+vaccine in the spring. Englund et al10 recently reported that
+previously unimmunized 6- to 23-month-old children who
+were given their first dose of inactivated influenza vaccine in
+the spring and their second dose in the fall had a similar
+antibody response as children who were given both influenza
+vaccine doses in the fall. As in our study, the study of Englund
+et al was conducted during the 2003-2004 season, in which
+the vaccine components were the same as the previous (2002-
+2003) season. Although we found that 2 doses given in
+separate seasons appeared to be less effective than 2 doses
+760 Allison et al The Journal of Pediatrics • December 2006
+given in the same season, both our study and the study of
+Englund et al found that a single dose of vaccine does not
+provide adequate protection against influenza in previously
+unimmunized children. These data suggest that further evaluation of a spring–fall influenza vaccination schedule for
+young children is warranted.
+Our data demonstrate that 2 doses of influenza vaccine reduce health care utilization due to ILI, and our
+effectiveness estimate for 2 doses of vaccine is comparable
+with the effectiveness of influenza vaccine in adults as well
+as the effectiveness of other recommended childhood vaccines.2,39,40 These data lend support to the recommendation for universal immunization against influenza in 6- to
+23-month-old children.
+REFERENCES
+1. Izurieta HS, Thompson WW, Kramarz P, Shay DK, Davis RL,
+DeStefano F, et al. Influenza and the rates of hospitalization for respiratory
+disease among infants and young children. N Engl J Med 2000;342:232-9.
+2. Harper SA, Fukuda K, Uyeki TM, Cox NJ, Bridges CB. Prevention
+and control of influenza: recommendations of the Advisory Committee on
+Immunization Practices (ACIP). MMWR Recomm Rep 2004;53:1-40.
+3. Iwane MK, Edwards KM, Szilagyi PG, Walker FJ, Griffin MR,
+Weinberg GA, et al. Population-based surveillance for hospitalizations associated with respiratory syncytial virus, influenza virus, and parainfluenza
+viruses among young children. Pediatrics 2004;113:1758-64.
+4. Neuzil KM, Wright PF, Mitchel EF Jr, Griffin MR. The burden of
+influenza illness in children with asthma and other chronic medical conditions. J Pediatr 2000;137:856-64.
+5. Neuzil KM, Mellen BG, Wright PF, Mitchel EF Jr, Griffin MR. The
+effect of influenza on hospitalizations, outpatient visits, and courses of
+antibiotics in children. N Engl J Med 2000;342:225-31.
+6. Neuzil KM, Zhu Y, Griffin MR, Edwards KM, Thompson JM,
+Tollefson SJ, et al. Burden of interpandemic influenza in children younger
+than 5 years: a 25-year prospective study. J Infect Dis 2002;185:147-52.
+7. O’Brien MA, Uyeki TM, Shay DK, Thompson WW, Kleinman K,
+McAdam A, et al. Incidence of outpatient visits and hospitalizations related
+to influenza in infants and young children. Pediatrics 2004;113:585-93.
+8. American Academy of Pediatrics Committee on Infectious Diseases.
+Recommendations for influenza immunization of children. Pediatrics
+2004;113:1441-7.
+9. Boyer KM, Cherry JD, Wright PF, Lerman SJ, Gross PA, Foy HM, et
+al. Clinical reactions and serologic responses in healthy children aged 6 to 35
+months after two-dose regimens of inactivated A/New Jersey/76 influenza
+virus vaccines. J Infect Dis 1977;136(Suppl):S579-83.
+10. Englund JA, Walter EB, Fairchok MP, Monto AS, Neuzil KM. A
+comparison of 2 influenza vaccine schedules in 6- to 23-month-old children.
+Pediatrics 2005;115:1039-47.
+11. Gonzalez M, Pirez MC, Ward E, Dibarboure H, Garcia A, Picolet H.
+Safety and immunogenicity of a paediatric presentation of an influenza
+vaccine. Arch Dis Child 2000;83:488-91.
+12. Hoberman A, Greenberg DP, Paradise JL, Rockette HE, Lave JR,
+Kearny DH, et al. Effectiveness of inactivated influenza vaccine in preventing
+acute otitis media in young children: a randomized controlled trial. JAMA
+2003;290:1608-16.
+13. Zangwill KM, Belshe RB. Safety and efficacy of trivalent inactivated
+influenza vaccine in young children: a summary for the new era of routine
+vaccination. Pediatr Infect Dis J 2004;23:189-97.
+14. Jefferson T, Smith S, Demicheli V, Harnden A, Rivetti A, Di Pietrantonj C. Assessment of the efficacy and effectiveness of influenza vaccines in
+healthy children: systematic review. Lancet 2005;365:773-80.
+15. Ritzwoller DP, Bridges CB, Shetterly S, Yamasaki K, Kolczak M,
+France EK. Effectiveness of the 2003-2004 influenza vaccine among
+children 6 months to 8 years of age, with 1 versus 2 doses. Pediatrics
+2005;116:153-9.
+16. Navarro-Mari JM, Perez-Ruiz M, Cantudo-Munoz P, Petit-Gancedo
+C, Jimenez-Valera M, Rosa-Fraile M. Influenza-like illness criteria were
+poorly related to laboratory-confirmed influenza in a sentinel surveillance
+study. J Clin Epidemiol 2005;58:275-9.
+17. Principi N, Esposito S, Gasparini R, Marchisio P, Crovari P. Burden
+of influenza in healthy children and their households. Arch Dis Child
+2004;89:1002-7.
+18. Kempe A, Daley MF, Barrow J, Allred N, Hester N, Beaty BL, et al.
+Implementation of universal influenza immunization recommendations for
+healthy young children: results of a randomized, controlled trial with registrybased recall. Pediatrics 2005;115:146-54.
+19. US Department of Health and Human Services. The international
+classification of diseases, 9th revision, clinical modification. Washington,
+DC: US Government Printing Office; 2002.
+20. Daley MF, Barrow J, Pearson K, Crane LA, Gao D, Stevenson JM, et
+al. Identification and recall of children with chronic medical conditions for
+influenza vaccination. Pediatrics 2004;113:e26-33.
+21. American Medical Association. Current procedural terminology: CPT
+2002 standard edition. Chicago, IL: American Medical Association; 2002.
+22. Colorado Department of Public Health and Environment. Summary of
+the 2003-04 influenza season. Available at http://www.cdphe.state.co.us/dc/
+Influenza/summary_0304%20.html. Accessed September 21, 2005.
+23. Robinson C. Contagious comments: bug watch. Available at http://
+www.thechildrenshospital.org/pro/publications/. Accessed November 15, 2005.
+24. Centers for Disease Control and Prevention (CDC). Respiratory syncytial virus activity: United States, 2003-2004. MMWR Morb Mortal Wkly
+Rep 2004;53:1159-60.
+25. Black SB, Shinefield HR, France EK, Fireman BH, Platt ST, Shay D.
+Effectiveness of influenza vaccine during pregnancy in preventing hospitalizations and outpatient visits for respiratory illness in pregnant women and
+their infants. Am J Perinatol 2004;21:333-9.
+26. Cate TR, Couch RB, Parker D, Baxter B. Reactogenicity, immunogenicity, and antibody persistence in adults given inactivated influenza virus
+vaccines: 1978. Rev Infect Dis 1983;5:737-47.
+27. Kunzel W, Glathe H, Engelmann H, Van Hoecke C. Kinetics of
+humoral antibody response to trivalent inactivated split influenza vaccine in
+subjects previously vaccinated or vaccinated for the first time. Vaccine
+1996;14:1108-10.
+28. Allison PA. Survival analysis using the SAS system: a practical guide.
+Cary, NC: SAS Institute, Inc; 1995.
+29. Neuzil KM, Dupont WD, Wright PF, Edwards KM. Efficacy of
+inactivated and cold-adapted vaccines against influenza A infection, 1985 to
+1990: the pediatric experience. Pediatr Infect Dis J 2001;20:733-40.
+30. Edwards KM, Dupont WD, Westrich MK, Plummer WD Jr, Palmer
+PS, Wright PF. A randomized controlled trial of cold-adapted and inactivated vaccines for the prevention of influenza A disease. J Infect Dis
+1994;169:68-76.
+31. Smits AJ, Hak E, Stalman WA, van Essen GA, Hoes AW, Verheij TJ.
+Clinical effectiveness of conventional influenza vaccination in asthmatic
+children. Epidemiol Infect 2002;128:205-11.
+32. Kawai N, Ikematsu H, Iwaki N, Satoh I, Kawashima T, Tsuchimoto
+T, et al. A prospective, internet-based study of the effectiveness and safety
+of influenza vaccination in the 2001-2002 influenza season. Vaccine
+2003;21:4507-13.
+33. Hurwitz ES, Haber M, Chang A, Shope T, Teo ST, Giesick JS, et al.
+Studies of the 1996-1997 inactivated influenza vaccine among children
+attending day care: immunologic response, protection against infection, and
+clinical effectiveness. J Infect Dis 2000;182:1218-21.
+34. Ruest A, Michaud S, Deslandes S, Frost EH. Comparison of the
+Directigen flu AB test, the QuickVue influenza test, and clinical case
+definition to viral culture and reverse transcription-PCR for rapid diagnosis
+of influenza virus infection. J Clin Microbiol 2003;41:3487-93.
+35. Boivin G, Hardy I, Tellier G, Maziade J. Predicting influenza infections during epidemics with use of a clinical case definition. Clin Infect Dis
+2000;31:1166-9.
+Influenza Vaccine Effectiveness In Healthy 6- to 21-Month-Old Children During The 2003-2004 Season 761
+36. Monto AS, Gravenstein S, Elliott M, Colopy M, Schweinle J. Clinical
+signs and symptoms predicting influenza infection. Arch Intern Med
+2000;160:3243-7.
+37. Orenstein WA, Bernier RH, Hinman AR. Assessing vaccine efficacy in
+the field: further observations. Epidemiol Rev 1988;10:212-41.
+38. Maeda T, Shintani Y, Nakano K, Terashima K, Yamada Y. Failure of
+inactivated influenza A vaccine to protect healthy children age 6-24 months.
+Pediatr Int 2004;46:122-5.
+39. Centers for Disease Control and Prevention. Pertussis vaccination: use
+of acellular pertussis vaccines among infants and young children. Recommendations of the Advisory Committee on Immunization Practices (ACIP).
+MMWR Morb Mortal Wkly Rep 1997;46:RR-7.
+40. Centers for Disease Control and Prevention. Preventing pneumococcal
+disease among infants and young children: recommendations of the Advisory
+Committee on Immunization Practices (ACIP). MMWR Morb Mortal
+Wkly Rep 2000;49:RR-9.
+Fifty years ago in The Journal of Pediatrics
+THE RELATIONSHIP OF PARANATAL EXPERIENCES TO OXYGEN SATURATION IN NEWBORN INFANTS.
+Pennoyer MM, Graham FJ, Hartmann AF, Jones B, Mccoy EL, Swarm PA, et al. J Pediatr 1956;49:685-98
+This study evaluated the effects of obstetrical variables on oxygen saturation at delivery and at 10, 30, and 60 minutes
+of life. The methodology involved the then newly developed spectrophotometric determination of oxygen saturation
+using cord and then capillary blood samples. The researchers compared duration and depth of anesthesia, and fetal and
+delivery complications, and they reported that cord saturations were higher in infants delivered following pudendal blocks
+compared with inhalation or caudal blocks. The cord oxygen saturation varied from 10% to 90% with the most frequent
+values between 60% and 69%, and capillary values between 80% and 90% at 10 minutes in their 232 vaginally delivered
+infants. Their cord blood gas saturations were 61% (46%-70%) in their uncomplicated deliveries including those with
+prenatal complications, compared with 54% in the infants with delivery complications, including the use of fundal
+pressure, breech presentation, and prematurity. The mean saturation at 10 minutes was approximately 81%, and they also
+reported that 29% of their prenatal complicated infants and 37% of the delivery complicated infants failed to achieve
+saturations of 90% by 1 hour compared with 21% of the uncomplicated group. They noted that the presence of prenatal
+complications alone did not lower the oxygen saturations at birth.
+Fifty years later, we are still trying to determine the normal values for oxygen saturation at delivery and within the first
+10 minutes of life, albeit using pulse oximeters. It is indeed impressive that Pennoyer et al using their techniques reported
+values on more infants than any of the most recent studies using oximeter values following delivery. Recent studies have
+reported that the oxygen saturation determined by pulse oximetry (SpO2) at 1 minute was 63% to 70% with a gradual
+increase to 90% by 8 to 15 minutes.
+We are now in the midst of the debate as to whether we should use oxygen, room air, or some blended value in
+between for the resuscitation of newborn infants with difficulty at birth. It is important to remember that cord SpO2
+values are normally approximately 50% to 55% in the noncompromised infant and increase to 90% by approximately 10
+minutes of age. The best available current information indicates that the majority of term infants with asphyxia can be
+safely and effectively initially resuscitated with room air, and that such an approach is associated with higher Apgar
+scores, a shorter interval to initiate sustained breathing, and a lower mortality. The observations of Pennoyer et al
+combined with those of more recent studies provide potential guidelines for the use of oxygen during resuscitation for
+those infants whose oxygen saturations are significantly below the established limits of SpO2 during the first 10 to 15
+minutes of life. It is astonishing how relevant and useful these observations remain 50 years later.
+Neil N. Finer, MD
+Division of Neonatology,
+University of California San Diego,
+San Diego, CA
+10.1016/j.jpeds.2006.07.003
+762 Allison et al The Journal of Pediatrics • December 2006
+Appendix. ICD-9 codes and diagnoses used to
+define influenza-like illness and pneumonia/influenza
+ICD-9 Code Diagnosis
+038 Septicemia
+460 Acute nasopharyngitis
+461 Acute sinusitis
+462 Acute pharyngitis, NOS
+463 Acute tonsillitis
+464.0 Acute laryngitis without obstruction
+464.1, 464.2 Acute tracheitis/laryngotracheitis
+464.4 Croup
+465 Acute laryngopharyngitis; URI, other multiple
+sites; Acute URI, NOS
+466 Acute bronchitis, bronchiolitis
+480* Viral pneumonia
+481* Pneumococcal pneumonia
+482* Other bacterial pneumonia
+483* Pneumonia due to other specified organism
+484* Pneumonia in infectious diseases classified
+elsewhere
+485* Bronchopneumonia, organism unspecified
+486* Pneumonia, organism unspecified
+487* Influenza
+490 Bronchitis, NOS
+780.31 Febrile seizures
+493  780.6 Asthma  fever
+786.07  780.6 Wheezing  fever
+786.1  780.6 Stridor  fever
+786.2  780.6 Cough  fever
+NOS  not otherwise specified; URI  upper respiratory infection.
+*Codes used to define pneumonia/influenza.
+Influenza Vaccine Effectiveness In Healthy 6- to 21-Month-Old Children During The 2003-2004 Season 762.e1

@@ -1,0 +1,782 @@
+Vaccine 31 (2013) 1438–1446
+Contents lists available at SciVerse ScienceDirect
+Vaccine
+journal h om epage: www.elsevier.com/locate/vaccine
+A population based cohort study to assess the safety of pandemic influenza
+vaccine Focetria® in Emilia-Romagna region, Italy—Part Two
+Maria Luisa Moroa,∗,1, Lucia Nobilioa,1, Claudio Voci b,1, Simona Di Mario b,1, Silvia Candelac,1,
+Nicola Magrini b,1, for the SaFoH1N1 working group
+a Agenzia Sanitaria e Sociale Regionale dell’Emilia-Romagna, Area di Programma Rischio Infettivo, Viale A. Moro 21, 40127 Bologna, Italy b CeVEAS, Azienda USL di Modena, World Health Organization Collaborating Centre for Evidence-based Research Synthesis and Guideline Development in Reproductive Health, Viale
+Muratori 201, 4100 Modena, Italy c Servizio di Epidemiologia, Dipartimento di Sanità Pubblica, Azienda USL di Reggio Emilia, Via Amendola 2, 42122 Reggio Emilia, Italy
+a r t i c l e i n f o
+Article history:
+Received 28 February 2012
+Received in revised form 27 July 2012
+Accepted 30 July 2012
+Available online 10 August 2012
+Keywords:
+H1N1 pandemic vaccine
+Vaccine safety
+Record linkage
+Italy
+a b s t r a c t
+Introduction: A two phases post authorization safety and effectiveness study of individuals vaccinated
+with the MF59-adjuvanted A/H1N1 influenza vaccine, Focetria® (Novartis Vaccines & Diagnostics, Siena,
+Italy), was conducted in Emilia-Romagna region, Italy during the 2009 A/H1N1 influenza pandemic. The
+second phase study aim was to detect short- and long-term adverse events of special interest (AESIs)
+following vaccination, and to measure vaccine effectiveness in term of hospital admissions.
+Study design and method: A population-based cohort study using record linkage of automated healthcare databases is described. Focetria® was administered to 127,522 subjects between October 2009 and
+February 2010. Vaccinated subjects were generally less healthy than unvaccinated ones. Propensity to
+be vaccinated was calculated for each subject, and vaccinated and unvaccinated subjects were matched
+accordingly (103,642 subjects in each group). AESIs were validated against clinical records.
+Results: In the overall (pre-matching) cohort, a total of 504 short-term incident AESIs (28 in 127,522
+vaccinated and 476 in 3,967,917 unvaccinated subjects) were registered (unadjusted OR: 1.8; 95% CI:
+1.2, 2.7). No fatalities were recorded. In the matched cohort, a total of 26 short-term incident AESIs
+(11 in the vaccinated and 15 in the unvaccinated group) were registered, with no differences between
+groups (OR: 0.7; 95% CI: 0.3, 1.6). Most frequent short-term incident AESIs were convulsions (4 out of
+11), and demyelinating diseases (3 out of 11). In the long-term a total of 121 incident AESIs (60 in the
+vaccinated and 61 in the unvaccinated group) were registered, with no differences between groups (OR:
+1.0; 95% CI: 0.7, 1.4). Most common long-term incident AESIs were demyelinating diseases (21 out of
+60), and vasculitis (13 out of 60). Vaccine effectiveness was not assessed as the majority of subjects were
+vaccinated at the end of the pandemic peak and few cases (<0.1%) had laboratory confirmation.
+Conclusions: This population-based cohort study using automated databases suggests that Focetria® is
+not associated with an increase in AESIs.
+© 2012 Elsevier Ltd. All rights reserved.
+1. Introduction
+In April 2009, a novel influenza A/H1N1 virus affecting humans
+[1] was identified in the US [2] and in Mexico [3] and spread
+Abbreviations: AE, adverse event; AEFI, adverse event following immunization;
+AESI, adverse event of special interest; EMA, European Medicines Agency; GBS,
+Guillain Barré Syndrome; ILI, influenza-like-illness; LHA, local health authority; VE,
+vaccine efficacy.
+ Trial registration (www.clinicaltrials.gov): NCT01101074.
+∗ Corresponding author. Tel.: +39 051 527 7139; fax: +39 051 527 7053.
+E-mail address: mlmoro@regione.emilia-romagna.it (M.L. Moro). 1 Members ofthe SafFoH1N1 (Safety of Focetria H1N1 vaccine) working group are
+listed in Appendix A.
+thereafter throughout the world causing an influenza pandemic
+according to World Health Organization criteria [4,5].
+Interpretation of the epidemic data was controversial, with
+ECDC defining the pandemic wave as “less severe than any of the
+20th century pandemics” [6–11]. Nevertheless there was some
+alarm in Europe, and health authorities acted for prompt implementation of an immunization campaign primarily targeting ‘at
+risk’ individuals.
+Monovalent adjuvanted and non-adjuvanted pandemic
+influenza vaccines were developed based on WHO recommendations [12]. In Italy the only vaccine available was the
+MF59-adjuvanted, monovalent H1N1 vaccine Focetria® (Novartis
+Vaccines and Diagnostics, Siena, Italy).
+According to clinical data submitted for registration, and the
+clinical experience gathered using the MF59 in elderly, the safety
+0264-410X/$ – see front matter © 2012 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.vaccine.2012.07.090
+Moro ML et al. / Vaccine 31 (2013) 1438–1446 1439
+profile of Focetria® resembled those of the already approved seasonal influenza vaccines although local reactions were reported
+to be more frequent [13,14]. The European Medicines Agency
+(EMA) recommended monitoring the vaccine in a post authorization safety study [15]. Thus, the Emilia-Romagna Regional
+Health Authority set a large population-based cohort study which
+objective was to assess the short- (from day 1 to 6 weeks postvaccination) and long-term safety (from day 1 to 7–11 months
+post-vaccination) and effectiveness of Focetria® vaccine. This study
+followed a first short-term active surveillance study aimed at performing a “real time” safety assessment, conducted in the province
+of Reggio Emilia and described in a companion paper [16].
+2. Methods and materials
+2.1. Setting
+The study, based on record linkage, was conducted in the
+Emilia-Romagna region (a northern Italian region with 4.4 million
+inhabitants), where several comprehensive automated administrative databases are available at regional level [17].
+Characteristics of Focetria®, and the recommendations for its
+use and administration have been previously described [16]. The
+vaccination campaign lasted from October 15, 2009 to February
+28, 2010. Swab testing for laboratory confirmation of influenza
+was done according to the Regional Guidelines (Table 1 on-line).
+All samples were sent to two regional reference laboratories and
+results were centrally collected by the Regional Health Authority.
+2.2. Study design and population
+This was a retrospective cohort study primarily aimed at
+assessing safety of Focetria®. Effectiveness was also assessed
+according to EMA request. All vaccinated and unvaccinated subjects resident in the region and not pregnant throughout the study
+period were included and compared (overall pre-matching cohort).
+As vaccination was indicated for at risk population, vaccinated subjects were more likely to present co-morbidities than unvaccinated
+ones; thus the two groups were matched 1:1 (matched cohort)
+using a propensity score (see below) to be vaccinated (Fig. 1).
+2.3. Outcomes
+2.3.1. Short- and long-term safety
+Vaccinated and unvaccinated subjects with Adverse Events of
+Special Interest (AESIs) were identified in the regional hospital
+discharge database using ICD9 codes: number of AESIs was the
+outcome of interest, i.e. each person could experience more than
+one AESI. Short-term AESIs were events requiring hospitalization
+within 6 weeks post-vaccination, and according to the EMA list
+[15] modified based on the VAESCO report [18], included: Guillain Barré syndrome (GBS), other paralytic syndromes, encephalitis
+and encephalomyelitis, acute transverse myelitis, optic neuritis, demyelinating disease, vasculitis, immune thrombocytopenia,
+Bell’s palsy, autoimmune hepatitis, convulsion, anaphylaxis, sudden death from unknown cause. AESIs based on a discharge
+diagnosis following immunization in absence of a comparable primary discharge diagnosis in the previous 3 years were defined as
+“incident cases” and were differentiated from “non-incident cases”
+(presence of a comparable primary discharge diagnosis in the previous 3 years).
+Long-term incident AESIs (same list as short-term AESIs,
+excluding sudden deaths, anaphylaxis and convulsion) were also
+assessed, identifying all events occurring from October 15, 2009
+to September 30, 2010 (from day 1 to between 7 and 11 months
+post-vaccination). Long-term non-incident AESIs were not
+recorded. Short- and long-term AESIs in the matched cohort were
+validated. Validation was carried out in each hospitals where
+the subjects were hospitalized for the AESIs recorded by the
+clinician working in the Health Care Management Unit. He/she
+was unaware of exposure and compared the primary discharge
+diagnosis identified in the SDO database with the clinical information available in the data-warehouses (i.e. hospital discharge letter,
+primary discharge diagnosis, and/or results of X-rays/laboratory
+tests performed).
+Safety outcomes of interest were:
+• short-term (incident and non-incident cases) and long-term
+(incident) AESIs requiring hospitalization in the overall (prematching) cohort (regardless of validation).
+• short-term (incident, non-incident cases) and long-term (incident) AESIs requiring hospitalization in the matched cohort
+(validated cases).
+2.3.2. Effectiveness
+Effectiveness was assessed, as requested by EMA, in the matched
+cohort using data on hospitalizations from October 29, 2009 (14
+days post-first-vaccination) through March 31, 2010 for any hospital admissions (primary or concomitant ICD-9-CM 480-487,
+518.8) for pneumonia, influenza-like-illness (ILI), or respiratory
+insufficiency with laboratory-confirmed influenza A/H1N1 2009
+(throughout the pandemic). In an exploratory analysis, the same
+types of hospitalizations were considered regardless of laboratory
+confirmation. Due to the overall low number of swabs performed
+according to the Regional policy on swab testing (Table 1 online), data on laboratory-confirmed cases of A/H1N1 2009 infection
+regardless of hospitalization were also analyzed.
+2.4. Data sources
+The following automated databases were used: hospital discharge, ambulatory medical/diagnostic visit and/or therapy, drug
+prescription at community level, vaccination database. Even in
+absence of a formal validation process regarding the specific outcomes under study, databases are considered to be almost complete
+as reporting is obligatory to reimburse costs from the national
+health system. Moreover, regional databases have been extensively
+used for purpose of surveillance and in record linkage studies
+[19–21].
+In addition, databases of two reference laboratories for A/H1N1
+2009 testing were linked to the vaccinated and unvaccinated
+datasets.
+2.5. Data analysis
+Vaccine safety was assessed starting from October 15, 2009
+(day 1 being the day the first dose of vaccine was administered); the same date was used as day 1 for selecting the controls.
+Fourteen days post-vaccination was considered as the time
+when the vaccine became protective and used to assess vaccine
+effectiveness.
+2.5.1. Co-morbidity
+For each subject, a co-morbidity pattern was defined, based on
+hospital discharges, drug prescriptions and clinical visits in the
+preceding three years (Table 2 on-line). Co-morbid conditions considered, assessed using the regional databases, were autoimmune
+diseases, cardiovascular disorders, diabetes, hepatic disorders,
+gastrointestinal disorders, neoplasm, renal disorders, respiratory disorders, transplant recipients, nervous system disorders,
+endocrine disorders, immunocompromised, cortisone treatment.
+1440 Moro ML et al. / Vaccine 31 (2013) 1438–1446
+Fig. 1. Study population flow.
+The number of co-morbid conditions (0, 1, and 2 or more) and not
+the type of co-morbidities was considered in the matching procedure.
+2.5.2. Propensity score
+Using logistic regression, propensity to be vaccinated was estimated for each subject in the overall (pre-matching) cohort and a
+propensity score (ranging from 0 to 1) was assigned. The higher
+the score the more complex the case assessed. The propensity
+score, rounded to the 4th decimal number, was used as a matching criterion for all safety and effectiveness outcomes, to correct
+for case mix [22]. Variables included in the propensity score were
+patient’s age and sex, residency, public health expenditure (for hospital admissions, drugs, laboratory tests, and ambulatory visits),
+co-morbidities, previous hospitalizations and number of ATC drugs
+assumed in the previous year. List of variables included in the
+propensity score and their frequency in the overall (pre-matching)
+cohort are reported in Table 2 on-line.
+2.5.3. Statistical analysis
+The SAS System, release 9.1 for Windows, was used for the
+statistical analysis. Unadjusted logistic regression (GENMOD
+procedure) was performed for assessing effectiveness and safety.
+Subject vaccination status was the independent variable, hospitalizations due to AESI were the dependent variable used for safety
+assessment while hospitalizations due to ILI, pneumonia, and
+respiratory insufficiency were the dependent variables used for
+effectiveness assessment. Matched status was considered in the
+model. To assess vaccine effectiveness, multivariate logistic regression analysis with double adjustment procedure was planned and
+performed [23,24]. The variables used in the multivariate model
+were the same as those in the propensity score model, except for
+the followings differences: the number of co-morbidities used
+in the propensity score model was replaced with the complete
+co-morbidity pattern; continuous variables related to previous
+hospitalizations, used in the propensity score model, were used
+as categorical variables (0, 1, ≥2). For all outcomes in the models
+described above, 95% confidence intervals (95% CI) – Wald type –
+of the odds ratio (OR) were calculated.
+2.6. Study funding and responsibilities
+The study, funded by Novartis Vaccines and Diagnostics to
+the Regional Health Directorate, was subsequently commissioned
+to the Reggio Emilia Local Health Authority (LHA) for the active
+surveillance phase [16] and to the Emilia-Romagna Regional Health
+Moro ML et al. / Vaccine 31 (2013) 1438–1446 1441
+Table 1
+Characteristics of the overall (pre-matching) cohort, by age group, high co-morbidity score and high expenditure for individual health care (based on data of the year 2008).
+Age group Age distribution Co-morbidity ≥2 Expenditure for health ≥75◦ percentile
+N (%) vaccinated N (%) unvaccinated N (%) vaccinated N (%) unvaccinated N (%) vaccinated N (%) unvaccinated
+0–5 months 0 (0.0) 31,876 (0.8) 0 (0.0) 10 (0.0) 0 (0.0) 0 (0.0)
+6–23 months 2114 (1.7) 60,369 (1.5) 41 (1.9) 144 (0.2) 765 (36.2) 10,107 (16.7)
+2–8 years 8071 (6.3) 253,184 (6.4) 476 (5.9) 1252 (0.5) 1990 (24.7) 15,364 (6.1)
+9–17 years 6588 (5.2) 292,452 (7.4) 499 (7.6) 1555 (0.5) 1619 (24.6) 14,239 (4.9)
+18–44 years 32,302 (25.3) 1,305,578 (32.9) 3439 (10.6) 16,064 (1.2) 10,753 (33.3) 160,518 (12.3)
+45–60 years 53,794 (42.2) 863,327 (21.8) 11,064 (20.6) 33,379 (3.9) 27,528 (51.2) 170,799 (19.8)
+>60 years 24,653 (19.3) 1,161,131 (29.3) 7811 (31.7) 167,924 (14.5) 17,066 (69.2) 593,386 (51.1)
+Total 127,522 3,967,917 23,330 (18.3) 220,328 (5.6) 59,721 (46.8) 964,413 (24.3)
+Agency for the record linkage phase. The study protocol, ClinicalTrials.gov number NCT01101074 [25], was approved by the
+independent ethics committees of the provinces involved. A Scientific Committee and an external Advisory Board were appointed
+(member listed at the end of the paper). Data collection, analysis
+and drafting of the report were entirely under the responsibility of
+the Emilia-Romagna Regional Health Agency.
+3. Results
+3.1. Characteristics of the overall (pre-matching) and matched
+cohort
+Of the 4,095,439 residents in Emilia-Romagna region, 127,522
+received Focetria® and 3,967,917 were unvaccinated (overall prematching cohort). Vaccinated subjects were mainly adolescents
+and non-elderly adults (ages 18–60 years) (67.5%); only 19.3% were
+>60 years old. Fifty eightpercent ofthose vaccinatedhadatleast one
+co-morbidity, the most frequent being respiratory disorders (8.4%),
+cardiovascular disorders (5.4%), diabetes (5.2%), neoplasm (4.1%),
+and nervous system disorders (3.5%), thus belonging to one of the
+chronic illness classes for which vaccination was recommended.
+Table 1 compares vaccinated with unvaccinated subjects in the
+region by the presence of co-morbidity (2 or more) and by healthcare expenditure (≥75 percentile) according to age group: 46.8%
+of vaccinated subjects were in the higher percentiles of individual
+healthcare expenditure, compared with 24.3% in the unvaccinated,
+and 18.3% of the vaccinated had 2 or more co-morbidities, compared with 5.6% of the unvaccinated.
+After matching on propensity score [22]the two cohorts became
+balanced overall for individual health care expenditure and previous history of hospitalizations; however, the distribution of the
+vaccinated subjects was more dispersed and skewed at the upper
+end for these variables. A control was identified for 81.3% of the
+vaccinated subjects; thus the matched cohort included 103,642
+vaccinated and 103,642 unvaccinated subjects. The 23,880 vaccinated subjects excluded from the matched analysis were mainly
+children and adolescents with more than one co-morbidity that
+were in the higher percentiles of the propensity score, and in the
+highest quartile of individual health care expenditure.
+3.2. Vaccine safety
+Overall (pre-matching) cohort: 41 AESIs (28 incident and 13
+non-incident) in the vaccinated group (127,522 subjects) and 625
+AESIs (476 incident and 149 non-incident) in the unvaccinated
+group (3,967,917 subjects), regardless of subsequent validation,
+were registered within 6 weeks post-vaccination (Table 2a). Most
+common short-term incidentAESIs were convulsions, autoimmune
+hepatitis and demyelinating diseases; most common long-term
+incident AESIs were other paralytic syndromes, demyelinating diseases, and autoimmune hepatitis (Table 2b). The unadjusted risk of
+short- and long-term incident AESIs was higher among vaccinated
+subjects (unadjusted OR: 1.8; 95% CI: 1.2, 2.7 and unadjusted OR:
+1.4, 95% CI: 1.2, 1.7 respectively). No fatalities were recorded during
+the 6-week post-vaccination period in the unmatched cohort.
+Matched cohort: 16 AESIs (11 incident and 5 non-incident
+cases) in the vaccinated group (103,642 subjects) and 16 AESIs
+(15 incident and 1 non-incident cases) in the unvaccinated group
+(103,642 subjects) were registered and validated within 6 week
+post-vaccination period (Table 3). Given the low number of events,
+only unadjusted logistic regression was performed and prevalent
+cases (i.e. incident plus non-incident cases) were also compared.
+Short-term AESIs among vaccinated and unvaccinated subjects
+were comparable both in terms of prevalent (OR: 1.0; 95% CI: 0.5,
+2.0) and incident AESIs (OR: 0.7; 95% CI: 0.3, 1.6) (Tables 4 and 5).
+Even when considering long-term safety, no significant risk was
+found in the vaccinated subjects (OR: 1.0; 95% CI: 0.7, 1.4) (Table 5).
+Table 2a
+Short term AESIs (incident and non-incident) in the overall (pre-matching) cohort, by age group, regardless of validation.
+Age group Short term AESIs
+Vaccinated subjects N = 127,522 Unvaccinated subjects N = 3,967,917
+Incident cases N
+(per 100,000)
+Non-incident cases
+N (per 100,000)
+Incident cases N
+(per 100,000)
+Non-incident cases
+N (per 100,000)
+0–5 months – – 4(12.6) 0(0. 0)
+6–23 months 2(94.6) 2(94.6) 24(39.8) 1(1.7)
+2–8 years 3(37.2) 3(37.2) 43(17.0) 20(7.9)
+9–17 years 4(60.7) 1(15.2) 17(5.8) 11(3.8)
+18–44 years 5(15.5) 2(6.2) 106(8.1) 39(3.0)
+45–60 years 8(14.9) 5(9.3) 86(10.0) 31(3.6)
+>60 years 6(24.3) 0(0.0) 196(16.9) 47(4.0)
+Total 28(22.0) 13(10.2) 476(12.0) 149(3.8)
+AESIs: adverse events of special interest; incident cases: absence of a comparable primary discharge diagnosis recorded in the hospital discharge database for the 3 years
+preceding day 1; non-incident cases: presence of a comparable primary discharge diagnosis recorded in the hospital discharge database for the 3 years preceding day 1; short
+term: from day 1 post-vaccination to 6 weeks post-vaccination.
+1442 Moro ML et al. / Vaccine 31 (2013) 1438–1446
+Table 2b
+Short and long term AESIs incidence (per 100,000) in the overall (pre-matching) cohort, by type of AESI.
+Incident AESIs per 100,000
+Short term Long term
+Vaccinated
+subjects
+N = 127,522
+Unvaccinated
+subjects
+N = 3,967,917
+Vaccinated
+subjects
+N = 127,522
+Unvaccinated
+subjects
+N = 3,967,917
+Guillan Barrè syndrome 0.0 0.3 3.1 2.7
+Other paralytic syndromes 0.8 2.1 19.6 12.2
+Encephalitis and encephalomyelitis 0.8 0.2 0.8 1.9
+Acute transverse myelitis 0.0 0.0 0.0 0.4
+Optic neuritis 0.0 0.5 1.6 2.9
+Bell’s palsy 0.0 0.4 2.3 2.8
+Demyelinating disease 3.9 1.3 18.8 10.2
+Convulsion 7.8 2.9 NA NA
+Anaphilaxis 0.8 0.2 NA NA
+Autoimmune hepatitis 4.7 1.5 16.5 8.9
+Sudden death, cause unknown 0.0 0.0 NA NA
+Vasculitis 0.8 1.7 14.1 11.3
+Immune thrombocytopenia 2.3 0.7 8.6 7.1
+AESIs: adverse events of special interest; incident cases: absence of a comparable primary discharge diagnosis recorded in the hospital discharge database for the 3 years
+preceding day 1; non-incident cases: presence of a comparable primary discharge diagnosis recorded in the hospital discharge database for the 3 years preceding day 1; NA:
+not assessed. Convulsions, anaphilaxis and sudden deaths were only assessed in the short term, as for the study protocol; short term: from day 1 post-vaccination to 6 weeks
+post-vaccination; long term: from day 1 to September 30, 2010 (between 7 and 11 months post-vaccination).
+Table 3
+Short term AESIs (incident and non-incident cases) in the matched cohort, by age group.
+Age group Short term AESIs
+Vaccinated subjects N = 103,642 Unvaccinated subjects N = 103,642
+Subjects N Incident cases N
+(per 100,000)
+Non-incident cases
+N (per 100,000)
+Subjects N Incident cases N
+(per 100,000)
+Non-incident cases
+N (per 100,000)
+6–23 months 1786 1 (56.0) 0 (0.0) 2081 1(48.0) 0(0.0)
+2–8 years 6043 3 (49.6) 0 (0.0) 5842 1(17.1) 0(0.0)
+9–17 years 4618 1 (21.6) 0 (0.0) 4582 0(0.0) 0(0.0)
+18–44 years 26,816 1 (3.7) 2 (7.5) 27,130 5(18.4) 1(3.7)
+45–60 years 44,330 3 (6.8) 3 (6.8) 45,976 6(13.0) 0(0.0)
+>Years 20,049 2 (10.0) 0 (0.0) 18,031 2(11.1) 0(0.0)
+Total 103,642 11 (10.6) 5 (4.8) 103,642 15(14.5) 1(1.0)
+AESIs: adverse events of special interest; incident cases: absence of a comparable primary discharge diagnosis recorded in the hospital discharge database for the 3 years
+preceding day 1; non-incident cases: presence of a comparable primary discharge diagnosis recorded in the hospital discharge database for the 3 years preceding day 1; short
+term: from day 1 post-vaccination to 6 weeks post-vaccination.
+The following comparisons were conducted to evaluate the
+impact of having excluded 23,880 vaccinated subjects during the
+matching procedure: incidence of AESIs among vaccinated subjects
+included in the matched cohort was 10.6 per 100,000 (11 events in
+103,642 subjects) whereas incidence of AESIS among vaccinated
+subjects excluded from the matched cohort was 37.7 per 100,000
+(9 events – four convulsions, two other paralytic syndromes, one
+demyelinating disease, one autoimmune hepatitis, and one anaphylaxis – in 23,880 subjects). The two populations (vaccinated
+subjects included and excluded from the matching cohort) were
+not comparable for baseline characteristics, since the latter were
+more frequently affected by co-morbidities and had the highest
+propensity score to be vaccinated. Therefore, incidence of AESIs in
+the overall (pre-matching) cohort of vaccinated subjects (15.7 per
+100,000; 20 events in 127,522 subjects) was compared with incidence of AESIs in unvaccinated subjects included in the matched
+cohort (14.5 per 100,000; 15 events in 103,642 subjects) as these
+populations were more comparable in term of co-morbidity and
+Table 4
+Short term prevalenta AESIs in the matched cohort (odds ratio by unadjusted logistic regression), by type of AESI.
+AESI Vaccinated N = 103,642 Unvaccinated N = 103,642 OR (95% CI) P-value
+Guillan Barré syndrome 0 1
+Other paralytic syndromes 2 0
+Encephalitis and encephalomyelitis 1 2 0.5 (0.0, 5.1) 0.6
+Bell’s palsy 0 2
+Demyelinating disease 6 3 2.0 (0.5, 8.0) 0.3
+Convulsion 4 3 1.3 (0.3, 6.0) 0.7
+Autoimmune hepatitis 1 1 1.0 (0.0, 3.2) 1.0
+Vasculitis 1 3 0.3 (0.0, 3.2) 0.3
+Immune thrombocytopenia 1 1 1.0 (0.1, 16.0) 1.0
+ANY AESI 16 16 1.0 (0.5, 2.0) 1.0
+AESIs: adverse events of special interest; short term: from day 1 post-vaccination to 6 weeks post-vaccination.
+a Prevalent: sum of incident (absence of a comparable primary discharge diagnosis recorded in the hospital discharge database for the 3 years preceding day 1) and
+non-incident cases (presence of a comparable primary discharge diagnosis recorded in the hospital discharge database for the 3 years preceding day 1).
+Moro ML et al. / Vaccine 31 (2013) 1438–1446 1443
+Table 5
+Short and long term incident AESIs in the matched cohort (odds ratio by unadjusted logistic regression), by type of AESI.
+AESI Short term AESIs Long term AESIs
+Vaccinated
+103,642
+Unvaccinated
+103,642
+OR (95% CI) P-value Vaccinated
+103,642
+Unvaccinated
+103,642
+OR (95% CI) P-value
+Guillan Barré Syndrome 0 1 – – 2 2 1.0 (0.1, 7.1) 1.0
+Other paralytic syndromes 0 0 – – 10 11 0.9 (0.4, 2.1) 0.8
+Encephalitis and Encephalomyelitis 1 2 0.5 (0.0, 5.5) 0.6 1 2 0.5 (0.0, 5.5) 0.6
+Acute transverse myelitis 0 0 – – 0 1 – –
+Optic neuritis 0 0 – – 2 2 1.0 (0. 1, 7.1) 1.0
+Bell’s Palsy 0 2 – – 2 4 0.5 (0.1, 2.7) 0.4
+Demyelinating disease 3 2 1.5 (0.2, 9.0) 0.7 21 18 1.2 (0.6, 2.2) 0.6
+Convulsion 4 3 1.3 (0.3, 6.0) 0.7 NA NA – –
+Autoimmune hepatitis 1 1 1.0 (0.0, 3.2) 1.0 3 0 – –
+Vasculitis 1 3 0.3 (0.0, 3.2) 0.3 13 14 0.9 (0.4, 2.0) 0.8
+Immune thrombocytopenia 1 1 1.0 (0.1, 16.0) 1.0 6 7 0.9 (0.3, 2.5) 0.8
+ANY AESI 11 15 0.7 (0.3, 1.6) 0.4 60 61 1.0 (0.7, 1.4) 0.9
+AESIs: adverse events of special interest; incident cases: absence of a comparable primary discharge diagnosis recorded in the hospital discharge database for the 3 years
+preceding day 1; short term: from day 1 post-vaccination to 6 weeks post-vaccination; long term: from day 1 to September 30, 2010 (between 7 and 11 months postvaccination); NA: not assessed. Convulsions, anaphilaxis and sudden deaths were only assessed in the short term, as for the study protocol.
+propensity score to be vaccinated. No statistically significant difference between the two groups was detected.
+3.3. Vaccine effectiveness
+In the overall (pre-matching) cohort, 2949 swabs were performed: 63 among vaccinated (0.1%) and 2886 among unvaccinated
+(0.1%) subjects. Only one vaccinated subject hospitalized with
+a diagnosis of ILI, pneumonia or respiratory insufficiency had
+laboratory-confirmed A/H1N1 2009 influenza (vaccine failure). In
+the matched cohort analysis, no laboratory-confirmed A/H1N1
+2009 hospitalizations were identified.
+In the matched cohort hospitalizations due to ILI, pneumonia
+or respiratory insufficiency regardless of laboratory-confirmation
+were more frequent in the vaccinated than in the unvaccinated
+subjects: 219 hospitalizations were recorded in the vaccinated
+(0.2%) compared to 121 hospitalizations in the unvaccinated (0.1%).
+Adjusted OR (double adjustment procedure) was 1.4 (95% CI: 1.1,
+1.8). As the matching procedure was not perfectly successful in balancing the two groups of vaccinated and unvaccinated subjects, risk
+of being admitted according to vaccination status in the time period
+preceding the vaccination campaign was calculated and used as
+control:the vaccinated/unvaccinated OR observed for the 5 months
+prior to the A/H1N1 vaccination campaign was higher (adjusted
+OR with double adjustment: 2.6; 95% CI: 1.9, 3.5) than the vaccinated/unvaccinated OR observed during the vaccination campaign.
+4. Discussion
+Most illnesses caused by the pandemic virus in the Northern
+Hemisphere were mild [26,27]. Nevertheless, given the alarming
+reports coming from the Southern Hemisphere [6–9], and the experience with the outbreaks of avian influenza virus [28,29], fear of
+severe influenza pandemic was common in Europe and warranted
+prompt vaccination. In light of the evolution towards a less severe
+influenza pandemic, the assessment of the vaccine safety became
+even more relevant.
+This regional retrospective cohort study showed that the rate
+of short- and long-term AESIs in the overall (pre-matching)
+cohort was increased in the vaccinated population (unadjusted
+OR: 1.8; 95% CI: 1.2, 2.7 and OR: 1.4; 95% CI: 1.2, 1.7, respectively). This observation was probably due to an imbalance in
+baseline characteristics between vaccinated and unvaccinated subjects (Table 1): vaccinated people were at higher risk of hospital
+admission and adverse events due to underlying chronic diseases. After matching on propensity score, incidence of short- and
+long-term AESIs did not differ between vaccinated and unvaccinated subjects (OR: 0.7; 95% CI: 0.3, 1.6 and OR: 1.0; 95%
+CI: 0.7, 1.4, respectively). These results confirm that controlling and checking for underlying co-morbidity is important when
+considering safety following vaccination [22,23]. Our findings are
+consistent with other studies on pandemic influenza vaccines. In
+the Netherlands, the national pharmacovigilance system did not
+detect an increased risk of adverse events following immunization
+(AEFIs) with Focetria® [30]. In Italy, the Italian Pharmacovigilance Adverse Event Spontaneous Reporting System received 1330
+reports of adverse events (AEs) temporally related with the pandemic influenza: 87.4% AEs reports were classified non serious,
+6.8% serious, and 0.2% were fatal. Overall, no increased risk was
+detected [31]. Analysis of AEs after receipt of the Influenza A/H1N1
+2009 monovalent inactivated vaccine reported to the Vaccine
+Adverse Event Reporting System in US, showed that the most frequent diagnoses were GBS, convulsions, and cranial neuropathy
+[32].
+Unlike the above-described studies based solely on a pharmacovigilance system, our conclusions are based on a more robust and
+informative record linkage study involving a relatively large number ofpeople.Another study basedonrecordlinkage was conducted
+in Sweden on 2 million people to assess the risk of neurological and autoimmune disorders after vaccination with Pandemrix®
+(GlaxoSmithKline). The study detected a slight increase among
+vaccinees for Bell’s palsy (hazard ratio, HR: 1.2; 95% CI: 1.1, 1.5)
+and paraesthesia (HR: 1.1; 95% CI: 1.0, 1.2), while the risk for
+GBS, multiple sclerosis, type I diabetes or rheumatoid arthritis
+remained unchanged [33]. Unlike the Swedish study, according to
+background rates of AESIs in Emilia-Romagna region (Table 3 online), our population was not large enough to detect changes in
+the incidence of GBS and Bell’s palsy, whereas it was sufficient to
+detect changes in AESIs as frequent as 3–4 per 100,000 [34,35]
+like paralytic syndromes other than Guillain Barré, demyelinating disease, convulsions, anaphilaxis, autoimmune hepatitis and
+vasculitis. Case control studies can be more appropriate for rare
+AESIs such as GBS. A European study, using a database of 50 million individuals, identified 104 subjects with GBS: no association
+with the pandemic influenza vaccines used (mainly Pandemrix®
+and Focetria®) was detected, even after correction for concurrent
+seasonal influenza vaccination [36]. A limitation of our study is
+that, unlike the latter, we were not able to correct our data for
+concurrent seasonal influenza vaccination. In Italy, general practitioners administer the seasonal influenza vaccination, and no
+accurate registration system exists for this type of vaccination in
+Emilia-Romagna.
+1444 Moro ML et al. / Vaccine 31 (2013) 1438–1446
+0
+20.000
+40.000
+60.000
+80.000
+100.000
+120.000
+140.000
+160.000
+2009-43
+2009-45
+2009-47
+2009-49
+2009-51
+2010-0
+2010-2
+2010-4
+2010-6
+2010-8
+2010-10
+2010-12
+2010-14
+2010-16
+2010-18
+2010-20
+2010-22
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+All Vaccinated subjects
+Vaccinated Subjects with Chronic conditions
+Incidence of ILI / 1000
+29 Oct 29 Nov
+Fig. 2. Cumulative number of vaccinated subject past day 15 and incidence of influenza like illness (ILI) per 1000 subjects in the Emilia-Romagna region, Influenza season
+2009/2010.
+Nevertheless, additional information emerged from our study:
+convulsions were the most frequent short-term incident AESI registered in the overall pre-matching cohort (7.8 per 100,000). After
+matching, no significant difference in the incidence of convulsions between vaccinated and unvaccinated subjects was detected.
+The association between influenza vaccine and convulsions is
+debatable [32,37]: a study conducted in UK using the General
+Practice Research Database (3 million patient records) identified
+2366 children who had convulsions following the administration
+of Pandemrix® or Celvapan® [37]. Compared with pre-determined
+risk period, there was no increased risk of convulsion after either
+seasonal or pandemic influenza vaccine. Nevertheless, the authors
+reported an increased risk in the first few days after the second
+dose of vaccine, consistent with findings of increased fever after
+vaccination.
+One strength of our study is the fact that a well-defined list
+of outcomes was measured: given the severity of the conditions
+assessed, it is unlikely that subjects with the outcome of interest
+would be undetected. Moreover, by using a matching procedure
+based on propensity score to be vaccinated, the comparability for
+known confounding factors among the two observed cohorts has
+increased; residual confounding is, however, still a possibility.
+However, caution should be used when interpreting our data.
+The matching procedure leads to the exclusion, due to lack of
+comparable matched unvaccinated subjects, of almost 20% of the
+vaccinated population. Those were more likely to be younger, with
+more than one co-morbidity, with a higher propensity score, and
+in the highest quartile of individual healthcare spending. Thus
+it is possible that in this population subset, AESIs could have
+been detected more frequently that in the matched population.
+However, when controlling for AESI incidence in the unmatched
+vaccinated cohort, no significant differences were detected in
+comparison to the matched unvaccinated cohort, therefore we
+can reasonably exclude the occurrence of selection bias. Moreover, among the vaccinated subjects excluded, the AESIs more
+frequently detected were convulsions in young subjects with previous episodes of convulsion (prevalent convulsions); based on
+WHO criteria [32] it is unlikely that episodes of convulsions following vaccination in children with previous febrile seizures are
+causally related to the vaccine. Another limitation of the study is
+that, even if all efforts were made to ensure comparability between
+the two groups, subjects in the vaccinated and unvaccinated groups
+were not perfectly comparable. Moreover, data were obtained from
+regional databases and not using an ad hoc collection procedure. A
+retrospective validation process was used to increase the reliability
+of the diagnoses, however, some degree of misclassification cannot be excluded. Finally, the pandemic vaccination peak partially
+overlapped with the seasonal influenza vaccination, thus we could
+not exclude some kind of distortion when assessing the pandemic
+vaccine safety and effectiveness.
+With respect to vaccine effectiveness, no conclusions can be
+drawnbased onthis study. First of all,the vaccinationpeak occurred
+after the pandemic peak, thus decreasing the possibility of detecting any effect of the vaccination (Fig. 2). In addition, the majority
+of people with more than one co-morbidity received the vaccine,
+making it difficultto identify a corresponding unvaccinated subject
+presenting the same degree of co-morbidities as the vaccinee. On
+the other hand, the limited sample of swabs performed (<0.1% in
+vaccinated and unvaccinated subjects) and the fact that the recommended indications changed over time, prevented the assessment
+of the real burden of influenza in the observed population. Moreover, only hospital discharge data were used: since the majority
+of the influenza cases occurred among young adults who are less
+likely to be admitted to hospital, it is possible that our study missed
+a large part of influenza cases. In addition, cases admitted were
+probably the sicker ones with more frequent co-morbidities, thus
+any measure of association would have been biased. The difficulty
+of assessing the pandemic influenza vaccine effectiveness, given
+the low vaccination coverage in Italy (around 4%) and the lower
+than expected incidence and severity of the disease, have also been
+discussed in another Italian study [38].
+Similarly to our study, a Danish cohort study showed no effect
+of the adjuvanted monovalent influenza vaccine Pandemrix® in
+reducing hospital admissions [39]. In the Netherlands, a matched
+case–control study in individuals at risk of complications showed
+that during the 2009 influenza pandemic breakthrough, infections
+were frequent and that Focetria® vaccine’s efficacy (VE) in preventing influenza-related hospitalization was modest(VE: 49%; 95% CI:
+16, 69) [40]. On the other hand, a recent health technology assessment study on H1N1 pandemic flu vaccine effectiveness, showed
+that the majority of hospitalized cases with respiratory symptoms
+during the influenza pandemic were unvaccinated [41].
+Moro ML et al. / Vaccine 31 (2013) 1438–1446 1445
+In conclusion, this study shows that the use of automated
+databases is useful to monitor safety signals when introducing a
+new vaccine. For rare AEs, however, it is relevant to verify that the
+database is large enough, using background rates of AESIs [35]. The
+study findings suggest that Focetria® was not associated with an
+increased risk of AESIs in the population of Emilia-Romagna.
+Acknowledgments
+We are grateful to the members of the Advisory Board for
+their help and support. We also thank Eleonora Verdini, and Stefano Sforza (Sistema informativo sanità e politiche sociali, Regional
+Health Authority) Alba Carola Finarelli, Maria Grazia Pascucci, and
+Erika Massimiliani (Sanità Pubblica, Regional Health Authority), for
+providing data from regional databases; Maria Luisa Tanzi (Dipartimento di Sanità Pubblica, Università di Parma) and Vittorio Sambri
+(Unità Operativa Microbiologia, Azienda Ospedaliera Universitaria
+Bologna Policlinico Sant’Orsola Malpighi, Bologna) for providing
+data on laboratory testing.
+Contributors: The works related to study protocol, concept and
+general design were taken care of by Novartis Vaccines and Diagnostics. Authors Nicola Magrini and Maria Luisa Moro teamed with
+Lucia Nobilio and Claudio Voci to do data collection, statistical
+design and analysis related to this work and this quartet combined
+with Silvia Candela and Simona Di Mario for data interpretation
+works. Nicola Magrini, Maria Luisa Moro and Simona Di Mario
+carried out drafting of the manuscript. However, all the authors
+contributed in different ways,they unanimously approved the final
+manuscript. Conflicts of interest statement: The study was funded
+by Novartis Vaccines and Diagnostics who were responsible for the
+protocol development and general design. Novartis Vaccines had
+no role in the statistical analysis plan, data analysis, or drafting of
+the manuscript.
+Appendix A. SafFoH1N1 (Safety of Focetria H1N1 vaccine)
+working group
+Investigators
+Emilia-Romagna Regional Health Agency: Maria Luisa Moro (principal investigator of the Regional study), Lucia Nobilio.
+Servizio di Epidemiologia, Dipartimento di Sanità Pubblica, Reggio
+Emilia LHA: Serena Broccoli, Silvia Candela (principal investigator
+of the Reggio Emilia study), Silvio Cavuto, Sara Pergolizzi, Pietro
+Ragni.
+NHS CeVEAS, World Health Organization Collaborating Centre
+for Evidence-based Research Synthesis and Guideline Development
+in Reproductive Health, Modena LHA: Simona Di Mario, Nicola
+Magrini (scientific committee chairman), Claudio Voci.
+Novartis Vaccines SafFoH1N1 study research team
+Giovanni Della Cioppa, Valentina Dragosevic, Nicola Groth,
+Maria Lattanzi, Laura Taddei.
+Scientific committee
+Giovanni Apolone (IRCCS Arcispedale S. Maria Nuova, Reggio
+Emilia); Silvia Candela (Servizio di Epidemiologia, Dipartimento
+di Sanità Pubblica, Reggio Emilia LHA); Marta Luisa Ciofi degli
+Atti (Centro nazionale di epidemiologia, sorveglianza e promozione della salute, Istituto Superiore di Sanità, Rome); Roberto
+Grilli (Emilia-Romagna Regional Health Agency, Bologna); Nicola
+Magrini (NHS CeVEAS, World Health Organization Collaborating Centre for Evidence-based Research Synthesis and Guideline
+Development in Reproductive Health, Modena LHA); Salvatore
+Mannino (Azienda Ospedaliera Ospedali Riuniti “Villa SofiaCervello”, Palermo); Maria Luisa Moro (Emilia-Romagna Regional
+Health Agency, Bologna), Daniela Riccò (Reggio Emilia LHA).
+Advisory board
+Silvio Garattini – Mario Negri Institute, Milan; Giovanni Rezza
+– ISS, Rome; Pierluigi Macini – Emilia-Romagna Regional Health
+Authority, Bologna.
+Appendix B. Supplementary data
+Supplementary data associated with this article can be
+found, in the online version, at http://dx.doi.org/10.1016/
+j.vaccine.2012.07.090.
+References
+[1] Qu Y, Zhang R, Cui P, Song G, Duan Z, Lei F. Evolutionary genomics of the
+pandemic 2009 H1N1 influenza viruses (pH1N 1v). Virol J 2011;8:250.
+[2] Centers for Disease Control and Prevention. Swine influenza A (H1N1)infection
+in two children––southern California, March–April 2009. MMWR Morb Mortal
+Wkly Rep 2009;58:400–2.
+[3] Centers for Disease Control and Prevention. Outbreak of swine-origin influenza
+A (H1N1) virus infection––Mexico, March–April 2009. MMWR Morb Mortal
+Wkly Rep 2009;58:467–70.
+[4] World Health Organization. Guidelines for Pharmacological Management
+of Pandemic Influenza A(H1N1) 2009 and other Influenza viruses. World
+Health Organization, Geneva. Revised February 2010. Part I Recommendations. Available at: http://www.who.int/csr/resources/publications/
+swineflu/h1n1 guidelines pharmaceutical mngt.pdf [last accessed 06.06.12].
+[5] World Health Organization.WHO Guidance document Pandemic influenza preparedness and response. Geneva: World Health Organization; 2010. Available
+at: http://whqlibdoc.who.int/publications/2009/9789241547680 eng.pdf (last
+accessed 06.06.12).
+[6] Libster R, Bugna J, Coviello S, Hijano DR, Dunaiewsky M, Reynoso N, et al. Pediatric hospitalizations associated with 2009 pandemic influenza A (H1N1) in
+Argentina. N Engl J Med 2010;362:45–55.
+[7] Jain S, Kamimoto L, Bramley AM, Schmitz AM, Benoit SR, Louie J, et al. Hospitalized patients with 2009 H1N1 influenza in the United States, April–June 2009.
+N Engl J Med 2009;361:1935–44.
+[8] Domínguez-Cherit G, Lapinsky SE, Macias AE, Pinto R, Espinosa-Perez L, de la
+Torre A, et al. Critically Ill patients with 2009 influenza A(H1N1) in Mexico.
+JAMA 2009;302:1880–7.
+[9] Louie JK,Acosta M, Jamieson DJ, Honein MA, California Pandemic (H1N1)Working Group. Severe 2009 H1N1 influenza in pregnant and postpartum women
+in California. N Engl J Med 2010;362:27–35.
+[10] ECDC. Revised pandemic 2009 planning assumptions for Europe. 16
+September 2009. Available at: http://ecdc.europa.eu/en/activities/sciadvice/
+Lists/ECDC%20Reviews/ECDC DispForm.aspx?List=512ff74f%2D77d4%2D4ad8
+%2Db6d6%2Dbf0f23083f30&ID=650 (last accessed 06.06.12).
+[11] ECDC. Planning Assumptions for the First Wave of Pandemic A (H1N1) 2009
+in Europe.29 July 2009. Available at: http://ecdc.europa.eu/en/healthtopics/
+Documents/0908 InfluenzaA H1N1 Planning Assumptions for the First Wave
+of Pandemic A(H1N1) 2009 in Europe.pdf (last accessed 06.06.12).
+[12] Salisbury D, Ramsey M (Eds.), Pandemic influenza A(H1N1)v 2009 (swine
+flu). Chapter 23a. Immunisation against infectious disease, 3rd edition. 2006.
+DH, London. Date of last chapter update 21 October 2009. Available at:
+http://www.dh.gov.uk/prod consum dh/groups/dh digitalassets/@dh/@en/
+documents/digitalasset/dh 107408.pdf (last accessed 06.06.12).
+[13] BaldoV, BaldovinT, FloreaniA, CarraroAM, TrivelloR, FamilyMedicine Group of
+Pianiga. MF59-adjuvanted influenza vaccine confers superior immunogenicity
+in adult subjects (18–60 years of age) with chronic diseases who are at risk of
+post-influenza complications. Vaccine 2007;25:3955–61.
+[14] Clark TW, Pareek M, Hoschler K, Dillon H, Nicholson KG, Groth N, et al. Trial of
+2009 influenza A (H1N1) monovalent MF59-adjuvanted vaccine. N Engl J Med
+2009;361:2424–35.
+[15] European Medicines Agency. CHMP Recommendations for the Pharmacovigilance Plan as part of the Risk Management Plan to be submitted with the Marketing Authorisation Application for a Pandemic
+Influenza Vaccine. London 2009. http://www.ema.europa.eu/docs/en GB/
+document library/Report/2010/01/WC500051739.pdf(last accessed06.06.12).
+[16] Candela S, Pergolizzi S, Ragni P, Cavuto S, Nobilio L, Di Mario S, et al. An
+early (3–6 weeks) active surveillance study to assess the safety of a pandemic
+influenza vaccine Focetria® in a Province of Emilia-Romagna Region, Italy—Part
+one. Vaccine 2013;31:1431–7.
+[17] Regional health authority informative system website, available at:
+https://siseps.regione.emilia-romagna.it/flussi/servlet/fv/AdapterHTTP
+1446 Moro ML et al. / Vaccine 31 (2013) 1438–1446
+?ACTION NAME=cmsNavigate&CODMENU=ROOT&NEW SESSION=TRUE [in
+Italian] (last accessed 06.06.12).
+[18] VAESCO. Armonizing vaccine safety in Europe. Background rates. Available at:
+http://vaesco.net/vaesco/results/BGR-2010.html (last accessed 06.06.12).
+[19] GagliottiC,ButtazziR, Sforza S,MoroML, Emilia-RomagnaAntibioticResistance
+Study Group. Resistance to fluoroquinolones and treatment failure/shortterm relapse of community-acquired urinary tract infections caused by
+Escherichia coli. J Infect 2008;57:179–84.
+[20] Gagliotti C, Nobilio L, Moro ML, Emilia-Romagna Antibiotic Resistance Study
+Group. Emergence of ciprofloxacin resistance in Escherichia coli isolates from
+outpatient urine samples. Clin Microbiol Infect 2007;13:328–31.
+[21] Maio V, Yuen E, Rabinowitz C, Louis D, Jimbo M, et al. Using pharmacy data to
+identify those with chronic conditions in Emilia Romagna, Italy. J Health Serv
+Res Policy 2005;10:232–8.
+[22] Stürmer T, Rothman KJ, Avorn J, Glynn RJ. Treatment effects in the presence of
+unmeasured confounding: dealing with observations in the tails of the propensity score distribution—a simulation study. Am J Epidemiol 2010;172:843–54.
+[23] Schneeweiss S, Patrick AR, Stürmer T, Brookhart MA, Avorn J, Maclure M,
+et al. Increasing levels of restriction in pharmacoepidemiologic database
+studies of elderly and comparison with randomized trial results. Med Care
+2007;45:S131–42.
+[24] Billmeier SE, Ayanian JZ, Zaslavsky AM, Nerenz DR, Jaklitsch MT, Rogers SO.
+Predictors and outcomes of limited resection for early-stage non-small cell
+lung cancer. J Natl Cancer Inst 2011;103:1621–9.
+[25] ClinicalTrails.Gov. Observational safety and effectiveness study of adjuvanted
+Swine Origin A (H1N1) Pandemic Subunit Egg Derived Vaccine. Available at:
+http://clinicaltrials.gov/ct2/show/NCT01101074?term=NCT01101074&rank=1
+(last accessed 06.06.12).
+[26] Clark NM, Lynch 3rd JP. Influenza: epidemiology, clinical features, therapy, and
+prevention. Semin Respir Crit Care Med 2011;32:373–92.
+[27] World Health Organization. Clinical management of human infection
+with pandemic (H1N1) 2009: revised guidance November 2009. Available at: http://www.who.int/csr/resources/publications/swineflu/clinical
+management h1n1.pdf (last accessed 06.06.12).
+[28] Writing Committee of the Second World Health Organization Consultation
+on Clinical Aspects of Human Infection with Avian Influenza A (H5N1) Virus,
+Abdel-Ghafar AN, Chotpitayasunondh T, Gao Z, Hayden FG, Nguyen DH, de Jong
+MD, et al. Update on avian influenza A (H5N1) virus infection in humans. N Engl
+J Med 2008;358:261–73.
+[29] World Health Organization. H5N1 avian influenza: Timeline of major
+events, 12 September 2011. Available at: http://www.who.int/influenza/
+human animal interface/avian influenza/H5N1 avian influenza update.pdf
+(last accessed 06.06.12).
+[30] van Puijenbroek EP, Broos N, van Grootheest K. Monitoring adverse events of
+the vaccination campaign against influenza A (H1N1) in the Netherlands. Drug
+Saf 2010;33:1097–108.
+[31] Parretta E, Ianniello B, Ferrazin F, Rossi F, Capuano A. Italian post-marketing
+surveillance for adverse event reports after MF59-adjuvanted H1N1v vaccination. Vaccine 2011;29:3708–13.
+[32] Williams SE, Pahud BA, Vellozzi C, Donofrio PD, Dekker CL, Halsey N, et al.
+Causality assessment of serious neurologic adverse events following 2009
+H1N1 vaccination. Vaccine 2011;29:8302–8.
+[33] Bardage C, Persson I, Ortqvist A, Bergman U, Ludvigsson JF, Granath F.
+Neurological and autoimmune disorders after vaccination against pandemic
+influenza A (H1N1) with a monovalent adjuvanted vaccine: population
+based cohort study in Stockholm Sweden. BMJ 2011 Oct 12;343:d5956,
+http://dx.doi.org/10.1136/bmj.d5956.
+[34] Jacobson RM, Adegbenro A, Pankratz VS, Poland GA. Adverse events and
+vaccination-the lack of power and predictability of infrequent events in prelicensure study. Vaccine 2001;19:2428–33.
+[35] Black S, Eskola J, Siegrist CA, Halsey N, Macdonald N, Law B, et al. Importance of background rates of disease in assessment of vaccine safety
+during mass immunisation with pandemic H1N1 influenza vaccines. Lancet
+2009;374:2115–22.
+[36] Dieleman J, Romio S, Johansen K, Weibel D, Bonhoeffer J, Sturkenboom
+M, et al. Guillain-Barre syndrome and adjuvanted pandemic influenza A
+(H1N1) 2009 vaccine: multinational case–control study in Europe. BMJ
+2011;343(July):d3908, http://dx.doi.org/10.1136/bmj.d3908.
+[37] Stowe J,Andrews N, Bryan P, Seabroke S,Miller E. Risk of convulsions in children
+after monovalent H1N1 (2009) and trivalent influenza vaccines: a database
+study. Vaccine 2011;29:9467–72.
+[38] Italian Multicenter Study Group for Drug and Vaccine Safety in Children.
+Effectiveness and safety of the A-H1N1 vaccine in children: a hospital-based
+case–control study. BMJ Open 2011;1(January (2)):e000167.
+[39] Emborg HD, Krause TG, Hviid A, Simonsen J, Mølbak K. Effectiveness of vaccine
+against pandemic influenza A/H1N1 among people with underlying chronic
+diseases: cohort study, Denmark, 2009–10. BMJ 2011;344:d7901.
+[40] Steens A, Wijnans EG, Dieleman JP, Sturkenboom MC, van der Sande MA, van
+der Hoek W. Effectiveness of a MF-59TM-adjuvanted pandemic influenza vaccine to prevent 2009 A/H1N1 influenza-related hospitalisation; a matched
+case–control study. BMC Infect Dis 2011;11:196.
+[41] Simpson CR, Ritchie LD, Robertson C, SheikhA, McMenamin J.Vaccine effectiveness in pandemic influenza—primary care reporting (VIPER): an observational
+study to assess the effectiveness of the pandemic influenza A (H1N1)v vaccine.
+Health Technol Assess 2010;14:313–46.

@@ -1,0 +1,504 @@
+﻿Safety and Feasibility of Recombinant Factor VIIa for Acute
+Intracerebral Hemorrhage
+Stephan A. Mayer, MD; Nikolai C. Brun MD, PhD; Joseph Broderick, MD; Stephen Davis, MD;
+Michael N. Diringer, MD; Brett E. Skolnick, PhD; Thorsten Steiner, MD;
+for the Europe/AustralAsia NovoSeven ICH Trial Investigators
+Background and Purpose—Hematoma growth occurs in 38% of intracerebral hemorrhage (ICH) patients scanned by
+computed tomography (CT) within 3 hours of onset. Activated recombinant factor VII (rFVIIa) promotes hemostasis at
+sites of vascular injury and may minimize hematoma growth after ICH.
+Methods—In this randomized, double-blind, placebo-controlled, dose-escalation trial, 48 subjects with ICH diagnosed
+within 3 hours of onset were treated with placebo (n12) or rFVIIa (10, 20, 40, 80, 120, or 160 g/kg; n6 per group).
+The primary endpoint was the frequency of adverse events (AEs). Safety assessments included serial electrocardiography (ECG), troponin I and coagulation testing, lower extremity Doppler ultrasonography, and calculation of
+edema:ICH volume ratios.
+Results—Mean age was 61 years (range, 30 to 93) and 57% were male. At admission, mean National Institutes of Health
+Stroke Scale (NIHSS) score was 14 (range, 1 to 26), median Glasgow Coma Scale score was 14 (range, 6 to 15), and
+mean ICH volume was 21 mL (range, 1 to 151). Mean time from onset to treatment was 181 minutes (range, 120 to 265).
+Twelve serious AEs occurred, including 5 deaths (mortality 11%). Six AEs were considered possibly treatment-related,
+including rash, vomiting, fever, ECG T-wave inversion, and 2 cases of deep vein thrombosis (placebo and 20-g/kg
+groups). No myocardial ischemia, consumption coagulopathy, or dose-related increase in edema:ICH volume occurred.
+Conclusion—This small phase II trial evaluated a wide range of rFVIIa doses in acute ICH and raised no major safety
+concerns. Larger studies are justified to determine whether rFVIIa can safely and effectively limit ICH growth. (Stroke.
+2005;36:74-79.)
+Key Words: cerebral hemorrhage  coagulation  emergency medical services  fibrinolysis  stroke
+I
+ntracerebral hemorrhage (ICH) is the deadliest, most disabling, and least treatable form of stroke. Approximately
+40% of patients die within 1 month of ICH onset, and
+two-thirds of survivors never regain functional independence.1 Although guidelines for supportive care exist,1 there
+is currently no treatment that has been shown in a randomized
+controlled trial to improve outcome after ICH.
+Hematoma volume is a critical determinant of mortality
+and functional outcome after ICH,2,3 and early hematoma
+growth may be an important cause of early neurological
+deterioration. Prospective and retrospective studies indicate
+that substantial hematoma enlargement occurs in up to 38%
+of ICH patients initially scanned within 3 hours of onset, and
+in 16% of those scanned between 3 and 6 hours, even in the
+absence of coagulopathy.4 –7 The only prospective study of
+this phenomenon revealed a 33% increase in ICH volume
+in 26% of patients at 1 hour, and in an additional 12%
+between 1 and 20 hours.4 Early hematoma growth appears to
+be a dynamic process, with continued bleeding or rebleeding
+occurring at multiple sites over several hours.8
+Intervention with ultra-early hemostatic therapy in the
+emergency setting could potentially improve outcome after
+ICH by arresting ongoing bleeding and minimizing hematoma growth. Recombinant factor VIIa (rFVIIa) is currently
+approved to treat bleeding in hemophilia patients with inhibitors to factors VIII or IX, and is approved in Europe for the
+Received July 6, 2004; accepted July 22, 2004.
+From the Departments of Neurology and Neurosurgery (S.M.), Columbia University College of Physicians and Surgeons, New York, NY; Novo
+Nordisk A/S (N.B.), Bagsvaerd, Denmark; the University of Cincinnati Medical Center (J.B.), Cincinnati, Ohio; Royal Melbourne Hospital (S.D.),
+University of Melbourne, Melbourne, Australia; Washington University School of Medicine (M.D.), St. Louis, Mo; Novo Nordisk (B.S.), Princeton, NY;
+and the University of Heidelberg (T.S.), Heidelberg, Germany.
+S.M. developed the original concept for this study and wrote the trial protocol, with input from the authors, who comprise the trial steering committee
+(SC). The SC was responsible for scientific supervision of the trial, had full access to the data, and takes responsibility for the integrity of the data and
+data analysis. The SC was responsible for the data analysis and interpretation and for drafting the manuscript. Before trial initiation, the sponsor (Novo
+Nordisk) agreed to present and publish the results regardless of outcome. All members of the SC received consulting fees as compensation for time
+devoted to the project, except N.B. and B.S., who are employees of Novo Nordisk. S.M., M.D., and T.S. have received speaking honoraria from Novo
+Nordisk.
+Correspondence to Dr Stephan A. Mayer, Neurological Institute, 710 West 168th Street, Box 39, New York, NY 10032. E-mail sam14@columbia.edu
+© 2004 American Heart Association, Inc.
+Stroke is available at http://www.strokeaha.org DOI: 10.1161/01.STR.0000149628.80251.b8
+Downloaded from http://stroke.ahajournals.org/ 74 by guest on November 15, 2015
+treatment of factor VII deficiency and Glanzmann thrombasthenia. After vascular damage and local initiation of the
+coagulation cascade, rFVIIa enhances thrombin generation on
+the surface of activated platelets, leading to the formation of
+a stable, lysis-resistant plug at the site of vessel injury.9
+rFVIIa has been successfully used to control intracranial
+hemorrhage in patients with hemophilia or other coagulation
+disorders,10,11 and can arrest intraoperative bleeding and
+reverse coagulopathies in patients undergoing neurosurgical
+procedures.12 rFVIIa has also been reported to prevent or
+minimize refractory bleeding in noncoagulopathic patients.13,14 Although thromboembolic complications related to
+rFVIIa administration have occurred, with 400 000 doses
+administered for a growing number of clinical uses, the
+frequency of serious adverse events (SAEs) remains 1%.15
+We report data from a randomized, double-blind, placebocontrolled, dose-escalation study designed to evaluate the
+safety and feasibility of rFVIIa treatment for acute ICH.
+Subjects and Methods
+Subjects
+Adult patients (18 years and older) with spontaneous ICH documented by computed tomography (CT) scan within 3 hours of
+symptom onset were eligible for enrollment. Exclusion criteria
+included: deep coma (Glasgow Coma Scale [GCS] 3 to 5) at time of
+admission; surgical hematoma evacuation planned or performed
+within 24 hours of admission; secondary ICH related to aneurysm,
+arteriovenous malformations, trauma, tumor, infarction, dural sinus
+thrombosis, known oral anticoagulant use, coagulopathy, or thrombocytopenia; any history or acute evidence of thrombotic, hypercoagulable, or vaso-occlusive disease; acute sepsis or crush injury;
+pregnancy; known malignant disease or alcohol abuse; previous
+disability (baseline modified Rankin Scale [mRS] score 2); known
+or suspected allergy to the trial product; and participation in
+another trial.
+Informed Consent
+The study protocol was approved by local ethics committees in
+participating countries. Informed consent was obtained before any
+study-related activity. In accordance with local regulations, consent
+could be waived or obtained from a legally acceptable representative
+if the patient lacked capacity to provide consent. Patients were
+required to provide consent on regaining consciousness; those
+declining were withdrawn.
+Study Design and Procedures
+The study was conducted between August 2001 and October 2002 at
+14 trial centers in Australia,2 Germany,1 Italy,1 Singapore,3 Spain,4
+Taiwan,2 and the United Kingdom.1 Forty-eight patients were
+enrolled in 6 sequential dose tiers (n8 per tier) and randomly
+allocated to receive placebo or rFVIIa (NovoSeven; Novo Nordisk
+A/S, Bagsvaerd, Denmark). A randomization schedule was generated and as patients were recruited, they were allocated to the next
+available randomization number within the dose tier, which indicated
+whether the patient was to receive placebo or rFVIIa. Within each
+dose tier, 2 subjects received placebo and 6 received rFVIIa (10, 20,
+40, 80, 120, or 160 g/kg). On completion of each dose tier,
+enrollment was stopped until an independent data and safety monitoring board reviewed all SAEs, CT images, and other clinical and
+laboratory data, and approved progression to the next dose.
+rFVIIa or placebo (a freeze-dried powder in single-use vials) was
+reconstituted with sterile water and administered as a single intravenous slow bolus injection within 1 hour of the baseline CT scan, and
+not later than 4 hours after symptom onset. Follow-up CT scans were
+performed 1 hour after the baseline scan, and 24 and 72 hours after
+dosing. Blood samples drawn at admission and 1 and 24 hours after
+dosing were centrally analyzed for coagulation parameters (International Normalized Ratio [INR], activated partial thromboplastin time
+[aPTT], D-dimers, antithrombin III [AT-III], fibrinogen, prothrombin fragments 12, and factor VII coagulant activity [FVII:C]) and
+standard hematology and blood chemistry measurements. Clinical
+Figure 1. Percent change in ICH volume from baseline to 24
+hours in individual patients, by treatment group. A dose-related
+treatment effect is not evident.
+TABLE 1. Overview of Adverse Events
+Dose (g/kg) No. of Pts AEs SAEs DVT*
+ECG
+Changes*
+Excessive Brain
+Edema† Deaths
+Placebo 11 64 3 1 0 1 2
+10 6 24 0 0 0 2 0
+20 6 15 1 1 1 0 0
+40 6 51 2 0 2 1 1
+80 6 30 1 0 0 0 0
+120 6 29 1 0 0 0 1
+160 6 39 4 0 0 0 1
+Total 47 252 12 2 3 4 5
+AEs indicates adverse events; DVT, deep vein thrombosis; ECG, electrocardiography; SAEs, serious
+adverse events; No. of Pts, number of patients.
+*Detected by routine screening at 24 or 72 hours (ECG) or 72 hours (lower extremity Doppler). ECG
+changes refers to abnormal and clinically significant findings.
+†Defined as an edema:ICH volume ratio 2.5 at 72 hours.
+Mayer et al Safety and Feasibility of Factor VIIa for ICH 75
+Downloaded from http://stroke.ahajournals.org/ by guest on November 15, 2015
+assessments were performed daily until day 5, at day 15 (or
+discharge if earlier), and at day 90. Neurological deterioration was
+assessed using the GCS and National Institute of Health Stroke
+Scale; day 15 and day 90 assessments included the mRS, Extended
+Glasgow Outcome Scale, and Barthel Index.
+CT Image Analysis
+CT data were transmitted to a centralized imaging laboratory
+(Bio-Imaging Technologies Inc) and analyzed in random sequence
+using Analyze software (Mayo Clinic) by 2 independent, neuroradiologists blinded to treatment. ICH, intraventricular hemorrhage
+(IVH), and edema volumes were calculated using a semi-automated
+process by tracing the perimeter of appropriate high- and lowattenuation zones and calculating lesion areas for each slice multiplied by slice thickness to yield lesion volumes. Edema volumes
+were calculated by subtracting ICH volume from the combined ICH
+plus edema volume.
+Endpoints
+The primary endpoint was the frequency of adverse events (AEs) that
+were possibly or probably related to treatment. AEs were assessed
+until day 15 or discharge if earlier, and SAEs until completion of the
+trial (day 90). Predefined safety endpoints included evidence of: (1)
+myocardial ischemia; (2) deep vein thrombosis (DVT) or pulmonary
+embolism (PE); (3) cerebral artery or vein thrombosis; (4) consumption coagulopathy; and (5) excessive or unusual perihematomal brain
+edema (edema:ICH volume ratio 2.5 at 72 hours). Planned safety
+assessments included electrocardiography and measurements of
+serum troponin I levels at baseline and 24 hours, coagulation testing
+at baseline, 1 hour, and 24 hours, and lower extremity Doppler
+ultrasonography at 72 hours.
+Secondary endpoints included percent and absolute changes in
+ICH, IVH, and total hemorrhage (ICHIVH) volume between
+baseline and 24 hours; the proportion of patients with ICH growth
+(33% or 12.5 mL increase from baseline); in-hospital neurological
+deterioration (decrease of 2 points in the GCS, or increase of 4
+points in the National Institute of Health Stroke Scale) between day
+0 and 5; and the proportion of patients who were dead, alive with
+minimal or no disability (Barthel Index, 95 to 100; Extended
+Glasgow Outcome Scale, 8; mRS, 0 to 2), or alive and functionally
+independent (Barthel Index, 60 to 100; Extended Glasgow Outcome
+Scale, 5 to 8; mRS, 0 to 3) at 90 days.
+Statistical Analysis
+Statistical analyses were performed according to the principle of
+intention-to-treat. The safety evaluation included all patients who
+received the trial product and did not withdraw consent. Interobserver reliability of ICH and edema volume measurements was
+assessed by calculating mean differences and intraclass correlation
+coefficients between the 2 blinded readers. Differences in ICH
+volume and coagulation parameters were compared between different rFVIIa dose groups and placebo using analysis of covariance
+(ANCOVA). Point estimates and 2-sided 95% confidence intervals
+for mean differences between the dose groups were calculated as
+appropriate. Significance was set at P0.05 for all analyses.
+Figure 2. Mean factor VII:C activity at baseline, 1 and 24 hours
+after dosing, by treatment group. A dose–response relationship
+is evident (P0.0005 at 1 hour compared with placebo,
+ANCOVA). At 1 hour, between-group differences (U/mL) from
+placebo and were significant for the 80 (11.3; 95% CI, 4.1 to
+18.5), 120 (12.5; 95% CI, 5.3 to 19.7), and 160 (30.5; 95% CI,
+23.6 to 37.3) g/kg doses.
+Figure 3. Edema–ICH volume ratios, by treatment group. No
+dose–response relationship is evident (P0.90 at 24 hours and
+P0.79 at 72 hours, compared with placebo, ANCOVA).
+TABLE 2. Thrombotic or Possibly Treatment-Related Adverse Events
+Subject No.
+Dose Group,
+g/kg Complication Severity
+Relationship to
+Trial Drug
+102 Placebo Popliteal vein DVT at 72 hours Serious Possible
+1503 10 Pruritic rash Mild Possible
+1103 20 Vomiting Mild Possible
+2301 20 Fever Mild Possible
+2501 20 ECG T wave inversion detected at 24 hours, CK-MB–negative Moderate Possible
+2501 20 Peroneal vein DVT at 72 hours Mild Possible
+1506 40 ECG T wave inversion detected at 24 and 72 hours, troponin I-negative Moderate Unlikely
+2302 40 Rehospitalized for unstable angina 29 days after treatment Serious Unlikely
+CK-MB indicates creatine kinase MB fraction; DVT, deep vein thrombosis; ECG, electrocardiogram; LBBB, left bundle branch block;
+LAD, left axis deviation; NR, not rated as an adverse event.
+76 Stroke January 2005
+Downloaded from http://stroke.ahajournals.org/ by guest on November 15, 2015
+Results
+Forty-eight patients were randomized to treatment. One
+patient originally included with waiver of informed consent
+subsequently withdrew and was excluded from the analysis.
+Mean age was 6115 years (range, 30 to 93); 57% were
+male; 60% were white; and 40% were Asian. At admission,
+mean National Institute of Health Stroke Scale score was
+147 (range, 1 to 26), median GCS score was 14 (range, 6 to
+15), and mean blood pressure was 175/95 mm Hg.
+Mean time from symptom onset to baseline CT was
+11232 minutes (range, 57 to 173); in 57% (27/47) the
+baseline CT was performed within 2 hours of onset. Mean
+time from baseline CT to trial product administration was
+6928 minutes (range, 17 to 166); the target interval of
+CT-to-treatment of 1 hour was attained in 49% (23/47) of
+cases. Mean time from ICH onset to treatment was 18136
+minutes (range, 120 to 265); the target interval of treatment
+within 4 hours of onset was attained in 96% (45/47) of cases.
+Mean ICH volume at baseline was 2124 mL (range, 1 to
+151). Hemorrhages were located in the putamen (40% of
+patients), thalamus (32%), lobar regions (19%), pons or
+midbrain (6%), and cerebellum (2%). Twenty-one patients
+(45%) had IVH. Although there was considerable variability
+in baseline ICH volume between the treatment groups, these
+differences were not significant (Table I, available online
+only at http://www.strokeaha.org).
+The overall frequency of ICH growth was 17% at 1 hour
+and 19% at 24 hours (Table II, available online only at
+http://www.strokeaha.org). Percent changes in ICH volume
+between baseline and 24 hours did not differ between groups
+(Figure 1). Analysis of total hemorrhage volumes
+(ICHIVH) yielded similar results (data not shown). Overall,
+the neurological scales showed nonsignificant trends toward
+improvement between baseline and 90 days, with no significant differences between groups (Table II). Mean difference
+(and SD) of paired reader measurements was 1.57 mL
+(3.83) for all measurements (intraclass correlation coefficient,
+0.99).
+Forty-seven patients experienced 252 AEs, of which 12
+were SAEs (Table 1). No noticeable differences in the types,
+frequency, or severity of AEs were observed between dose
+groups. The most common AEs were fever (n19), headache
+(n14), urinary tract infection (n12), hypertension (n11),
+and constipation (n11). There were 5 thromboembolic or
+ischemic and 6 potentially treatment-related AEs (Table 2).
+Among the prespecified safety endpoints, there were 2 cases
+of DVT detected at 72 hours, and 2 instances of clinically
+significant new-onset electrocardiography changes without
+troponin I elevation; there were no instances of PE, cerebral
+infarction, venous thrombosis, consumption coagulopathy, or
+clinical deterioration caused by unusual or excessive brain
+edema.
+Ten patients experienced 12 SAEs, including ICH-related
+neurological deterioration (n6), subsequent detection of an
+arteriovenous malformation that required surgery, delayed
+unstable angina, pneumonia, urosepsis, dyspnea, and aforementioned DVT (each n1). Two of the 11 placebo-treated
+patients and 3 of 36 rFVIIa-treated patients died during the
+90-day trial period (11% mortality). All deaths occurred
+within 7 days of admission; in each case, ICH was identified
+as the primary cause of death.
+No significant differences in coagulation parameters were
+observed in patients given rFVIIa compared with placebo
+(data not shown), with 2 exceptions: at 1 hour, INR values
+were suppressed 0.6 at all doses (P0.003, ANCOVA),
+and FVII:C activity showed an appropriate dose-related
+increase (P0.0005, ANCOVA; Figure 2). These changes
+had fully resolved at 24 hours. There was no significant
+dose-related effect of rFVIIa on edema:ICH volume ratio
+(Figure 3). Four patients were rated as having excessive brain
+edema (edema:ICH ratio 2.5) at 72 hours; none of these
+cases was associated with symptomatic deterioration.
+Discussion
+In this study, we administered a wide range of doses of
+rFVIIa to 48 patients with acute ICH. Although rFVIIa has a
+good safety profile in patients with hemophilia and other
+bleeding disorders, experience with this agent in older,
+noncoagulopathic patients with risk factors for cardiovascular
+disease has been limited. Accordingly, our main concern was
+detection of treatment-related thromboembolic or
+coagulation-related AEs. rFVIIa was generally well-tolerated,
+and only 6 possible treatment-related AEs occurred, including
+2 cases of DVT (in the placebo and 20-g/kg groups). A
+parallel study of 40 ICH patients that tested a lower range of
+doses has demonstrated a similar safety profile.16
+For hemostatic therapy to effectively inhibit ongoing
+bleeding, early treatment is essential.8 In the prospective
+study by Brott et al that demonstrated a 38% frequency of
+ICH growth in patients initially scanned within 3 hours,
+enlargement had already occurred 1 hour after the baseline
+scan in two-thirds of cases.4 By extrapolating Brott’s data,
+even if a hemostatic agent works perfectly, one might expect
+a growth rate as high as 26% with a mean CT-to-needle time
+of 60 minutes, or 17% if this interval is 30 minutes.8 In the
+current study, mean time from symptom onset to treatment
+was 181 minutes, and the mean “CT-to-needle” time was 69
+minutes. In ongoing studies, we have modified the trial
+protocol to minimize unnecessary treatment delays related to
+the baseline assessment and randomization process.
+A wide range of rFVIIa doses have been found to effectively inhibit bleeding in a variety of conditions, emphasizing
+the need for dose-finding studies in ICH.17 In this study,
+patients were enrolled in dose tiers in an ascending manner.
+The lowest dose in this study of 10 g/kg was used because
+the first signs of effect of rFVIIa on measured laboratory
+parameters occur at this dose in healthy volunteers.18 The
+highest dose used was 160 g/kg because this dose has been
+shown to be safe in healthy volunteers and hemophilic
+patients.17,18
+Only 6 of 252 AEs (2.4%) were considered possibly or
+probably treatment-related by the local investigator. Of these,
+3 were potentially thromboembolic: 2 instances of DVT
+detected at 72 hours (placebo, 20 g/kg), and 1 instance of
+T-wave inversion on electrocardiography at 24 hours, which
+did not meet enzyme criteria for myocardial infarction. There
+were 12 SAEs overall, including one of the aforementioned
+cases of DVT, and a patient in the 20-g/kg dose group in
+Mayer et al Safety and Feasibility of Factor VIIa for ICH 77
+Downloaded from http://stroke.ahajournals.org/ by guest on November 15, 2015
+whom unstable angina developed 29 days after randomization, which was judged as unlikely to be related to treatment.
+The other 10 SAEs were nonthromboembolic in nature,
+consistent with the natural history of ICH, and deemed
+unlikely to be related to treatment.
+Thrombin has been hypothesized as edema-generating.19
+To evaluate whether rFVIIa exacerbated perihematoma
+edema, edema-to-ICH volume ratios were compared between
+dose groups. Although visual inspection suggests a trend
+toward lower edema-to-ICH ratios at higher doses, we found
+no significant differences (Figure 3). We also found no
+evidence of subclinical activation of systemic coagulation,
+which is in accordance with findings in patients with hemophilia15,20 and in warfarin-treated normal volunteers.18
+FVII:C activity, which measures in vivo biological activity
+of rFVIIa, showed a dose-response effect at 1 hour that
+completely resolved by 24 hours, consistent with the 2.6-hour
+half-life of rFVIIa.21 The magnitude of these elevations were
+equivalent to those observed in patients with hemophilia20
+and anticoagulated normal subjects18 given similar doses.
+The overall frequency of ICH growth in our study, defined
+as a 33% or 12.5-mL increase from baseline, was 20% at 24
+hours, which is lower than the 38% frequency found in
+Brott’s prospective study. Two retrospective studies of ICH
+patients scanned within 3 hours of onset reported frequencies
+of ICH growth of 18% and 36%.5,7 The comparatively low
+rate of ICH growth observed in our study might be related to
+random sample variation, as suggested by the fact that ICH
+growth occurred in only 1 of 11 placebo-treated patients.
+There were no significant differences in percent change in
+ICH volume between placebo and the dose groups tested, but
+the number of patients in each group was too small to allow
+meaningful comparisons.
+In summary, acute treatment of ICH patients with rFVIIa is
+feasible and in this small phase II study was safe across a
+wide range of doses. A large (n400) multicenter trial of
+similar design comparing 40, 80, and 160 g/kg rFVIIa with
+placebo is currently underway to determine whether this
+treatment can effectively limit ICH growth. Given the current
+lack of effective medical and surgical therapies for ICH, our
+findings indicate that larger studies investigating the potential
+efficacy of rFVIIa for limiting early expansion are justified.
+Appendix: Trial Personnel
+Steering Committee
+Stephan A. Mayer, MD, New York, NY (Chairman); Joseph Broderick, MD, Cincinnati, Ohio; Nikolai C. Brun, MD, PhD, Bagsvaerd,
+Denmark (non-voting); Steven Davis, MD, Melbourne, Australia;
+Michael N. Diringer, MD, St Louis, Mo; Brett E. Skolnick, PhD,
+Princeton, NJ (non-voting); Thorsten Steiner, MD, Heidelberg,
+Germany.
+Sponsor
+Novo Nordisk, A/S, Bagsvaerd, Denmark.
+Statistician
+Kamilla Begtrup, PhD, Bagsvaerd, Denmark.
+Data and Safety Monitoring Board
+Thomas G. Brott, MD, Jacksonville, Fla (Chairman); Kjell Asplund,
+Stockholm, Sweden; Thomas P. Bleck, MD, Charlottesville, Va;
+Miguel Escobar, Houston, Tex; Inge Scharrer, Frankfurt, Germany.
+Neuroradiologists
+Robert Zimmerman, New York, NY; Joseph Maldjian, MD,
+Winston-Salem, NC.
+Contract Research Organization
+Quintiles Transnational, Inc, Arancha Lopez, Global Project
+Manager.
+Site Investigators (number of subjects enrolled)
+Dr Thorsten Steiner, Heielberg, Germany (9); Dr Angel
+Chamorro, Barcelona, Spain (7); Dr Puay-Yong Ng, Singapore
+(6); Dr Timothy Lee, Singapore (6); Dr James Barrett, Merseyside, UK (3); Dr Shinn-Zong Lin, Taipei, Taiwan (3); Dr Geoffrey
+Donnan, Heidelberg West, Australia (3); Dr Jose´ Alvarez Sabin,
+Barcelona, Spain (2); Dr Stephen Davis, Melbourne, Australia
+(2); Dr Giuseppe Miceli, Pavila, Italy (1); Dr Antoni Davalos,
+Girona, Spain (1); Dr Yung-Kwang Tu, Taipei, Taiwan (1); Dr
+John Thomas, Singapore (1).
+Acknowledgments
+The authors thank Drs Ulla Hedner and Elisabeth Erhardtsen for
+critical early input regarding trial design; Drs Robert Zimmerman
+and Joseph A. Maldjian for performing the radiological assessment;
+and Drs Thomas Brott and Thomas Bleck for providing key input at
+the inception of this trial. Funding for this trial was provided by
+Novo Nordisk A/S, Bagsvaerd, Denmark.
+References
+1. Broderick JP, Adams HP, Jr., Barsan W, Feinberg W, Feldmann E, Grotta
+J, Kase C, Krieger D, Mayberg M, Tilley B, Zabramski JM, Zuccarello
+M. Guidelines for the management of spontaneous intracerebral hemorrhage: a statement for healthcare professionals from a special writing
+group of the Stroke Council, Am Heart Association. Stroke. 1999;30:
+905–915.
+2. Broderick JP, Brott TG, Duldner JE, Tomsick T, Huster G. Volume of
+intracerebral hemorrhage. A powerful and easy-to-use predictor of 30-day
+mortality. Stroke. 1993;24:987–993.
+3. Hemphill JC 3rd, Bonovich DC, Besmertis L, Manley GT, Johnston SC.
+The ICH score: a simple, reliable grading scale for intracerebral hemorrhage. Stroke. 2001;32:891– 897.
+4. Brott T, Broderick J, Kothari R, Barsan W, Tomsick T, Sauerbeck L,
+Spilker J, Duldner J, Khoury J. Early hemorrhage growth in patients with
+intracerebral hemorrhage. Stroke. 1997;28:1–5.
+5. Fujii Y, Tanaka R, Takeuchi S, Koike T, Minakawa T, Sasaki O.
+Hematoma enlargement in spontaneous intracerebral hemorrhage. J Neurosurg. 1994;80:51–57.
+6. Fujitsu K, Muramoto M, Ikeda Y, Inada Y, Kim I, Kuwabara T. Indications for surgical treatment of putaminal hemorrhage. Comparative
+study based on serial CT and time-course analysis. J Neurosurg. 1990;
+73:518 –525.
+7. Kazui S, Naritomi H, Yamamoto H, Sawada T, Yamaguchi T.
+Enlargement of spontaneous intracerebral hemorrhage. Incidence and
+time course. Stroke. 1996;27:1783–1787.
+8. Mayer SA. Ultra-early hemostatic therapy for intracerebral hemorrhage.
+Stroke. 2003;34:224 –229.
+9. Monroe DM, Hoffman M, Oliver JA, Roberts HR. Platelet activity of
+high-dose factor VIIa is independent of tissue factor. Br J Haematol.
+1997;99:542–547.
+10. Fewel ME, Park P. The emerging role of recombinant-activated factor VII
+in neurocritical care. Neurocrit Care. 2004;1:19 –30.
+11. Arkin S, Cooper HA, Hutter JJ, Miller S, Schmidt ML, Seibel NL,
+Shapiro A, Warrier I. Activated recombinant human coagulation factor
+VII therapy for intracranial hemorrhage in patients with hemophilia A or
+B with inhibitors. Results of the NovoSeven emergency-use program.
+Haemostasis. 1998;28:93–98.
+12. Park P, Fewel ME, Garton HJ, Thompson BG, Hoff JT. Recombinant
+activated factor VII for the rapid correction of coagulopathy in nonhemophilic neurosurgical patients. Neurosurgery. 2003;53:34 –39.
+13. Friederich PW, Henny CP, Messelink EJ, Geerdink MG, Keller T, Kurth
+KH, Buller HR, Levi M. Effect of recombinant activated factor VII on
+perioperative blood loss in patients undergoing retropubic prostatectomy:
+78 Stroke January 2005
+Downloaded from http://stroke.ahajournals.org/ by guest on November 15, 2015
+a double-blind placebo-controlled randomised trial. Lancet. 2003;361:
+201–205.
+14. O’Neill PA, Bluth M, Gloster ES, Wali D, Priovolos S, DiMaio TM,
+Essex DW, Catanese CA, Strauss RA. Successful use of recombinant
+activated factor VII for trauma-associated hemorrhage in a patient
+without preexisting coagulopathy. J Trauma. 2002;52:400 – 405.
+15. Roberts HR, Monroe DM 3rd, Hoffman M. Safety profile of recombinant
+factor VIIa. Semin Hematol. 2004;41(Suppl 1):101–108.
+16. Mayer SA, Brun N, Davis S, Broderick J, Diringer MN, Steiner T, for the
+US NovoSeven ICH Trial Investigators. Safety and preliminary efficacy
+of recombinant coagulation factor VIIa in acute intracerebral hemorrhage:
+US Phase 2A Study. Stroke. 2004;35:332 [Abstract].
+17. Hedner U. Dosing and monitoring NovoSeven treatment. Haemostasis.
+1996;26(suppl 1):102–108.
+18. Erhardtsen E, Nony P, Dechavanne M, Ffrench P, Boissel JP, Hedner U.
+The effect of recombinant factor VIIa (NovoSeven) in healthy volunteers
+receiving acenocoumarol to an International Normalized Ratio above 2.0.
+Blood Coagul Fibrinolysis. 1998;9:741–748.
+19. Lee KR, Colon GP, Betz AL, Keep RF, Kim S, Hoff JT. Edema from
+intracerebral hemorrhage: the role of thrombin. J Neurosurg. 1996;84:
+91–96.
+20. Macik BG, Lindley CM, Lusher J, Sawyer WT, Bloom AL, Harrison JF,
+Baird-Cox K, Birch K, Glazer S, Roberts HR. Safety and initial clinical
+efficacy of three dose levels of recombinant activated factor VII (rFVIIa):
+results of a phase I study. Blood Coagul Fibrinolysis. 1993;4:521–527.
+21. Lindley CM, Sawyer WT, Macik BG, Lusher J, Harrison JF, Baird-Cox
+K, Birch K, Glazer S, Roberts HR. Pharmacokinetics and pharmacodynamics of recombinant factor VIIa. Clin Pharmacol Ther. 1994;55:
+638 – 648.
+Mayer et al Safety and Feasibility of Factor VIIa for ICH 79
+Downloaded from http://stroke.ahajournals.org/ by guest on November 15, 2015
+for the Europe/AustralAsia NovoSeven ICH Trial Investigators
+Brett E. Skolnick and Thorsten Steiner
+Stephan A. Mayer, Nikolai C. Brun, Joseph Broderick, Stephen Davis, Michael N. Diringer,
+Safety and Feasibility of Recombinant Factor VIIa for Acute Intracerebral Hemorrhage
+Print ISSN: 0039-2499. Online ISSN: 1524-4628
+Copyright © 2004 American Heart Association, Inc. All rights reserved.
+Stroke is published by the American Heart Association, 7272 Greenville Avenue, Dallas, TX 75231
+doi: 10.1161/01.STR.0000149628.80251.b8
+Stroke. 2005;36:74-79; originally published online November 29, 2004;
+http://stroke.ahajournals.org/content/36/1/74
+World Wide Web at:
+The online version of this article, along with updated information and services, is located on the
+
+http://stroke.ahajournals.org//subscriptions/
+Subscriptions: Information about subscribing to Stroke is online at:
+
+http://www.lww.com/reprints
+Reprints: Information about reprints can be found online at:
+
+process is available in the Permissions and Rights Question and Answer document.
+Request Permissions in the middle column of the Web page under Services. Further information about this
+Once the online version of the published article for which permission is being requested is located, click
+in Stroke can be obtained via RightsLink, a service of the Copyright Clearance Center, not the Editorial Office.
+Permissions: Requests for permissions to reproduce figures, tables, or portions of articles originally published
+Downloaded from http://stroke.ahajournals.org/ by guest on November 15, 2015

@@ -1,0 +1,1312 @@
+﻿ORIGINAL ARTICLE
+Comparison of the Effectiveness of Amitriptyline and
+Gabapentin on Chronic Neuropathic Pain in Persons
+With Spinal Cord Injury
+Diana H. Rintala, PhD, Sally Ann Holmes, MD, Daisy Courtade, MA, Richard Neil Fiess,
+Luz Viviana Tastard, MD, Paul G. Loubser, MD
+ABSTRACT. Rintala DH, Holmes SA, Courtade D, Fiess
+RN, Tastard LV, Loubser PG. Comparison of the effectiveness
+of amitriptyline and gabapentin on chronic neuropathic pain in
+persons with spinal cord injury. Arch Phys Med Rehabil 2007;
+88:1547-60.
+Objective: To test the hypotheses that both amitriptyline and
+gabapentin are more effective in relieving neuropathic pain
+than an active placebo, diphenhydramine.
+Design: Randomized, controlled, double blind, triple crossover 8-week trial.
+Setting: Veterans Affairs medical center.
+Participants: Community dwelling adults with spinal cord
+injury (N38) were recruited by telephone, letters, and flyers.
+Intervention: Eight-week trial each of amitriptyline, gabapentin, and diphenhydramine.
+Main Outcome Measures: Pain intensity measured with a
+10-cm visual analog scale (VAS) and an 11-point (0 –10)
+numeric rating scale (NRS) and depressive symptomatology
+measured with the Center for Epidemiologic Studies Depression ScaleShort Form (CESD-SF).
+Results: Baseline VAS scores for participants with low
+(10) CESD-SF scores was 4.61 and for those with high
+scores (10) it was 7.41. At week 8, in participants with high
+baseline CESD-SF scores, amitriptyline (mean, 4.21) was more
+effective than diphenhydramine (mean, 6.67; P.035), and
+there was a nonsignificant trend suggesting that amitriptyline
+may be more effective than gabapentin (mean, 6.68; P.061).
+Gabapentin was no more effective than diphenhydramine
+(P.97). There was no significant difference among the medications for those with lower CESD-SF scores. Results could
+not be attributed to dropout rates, order or dose of medications,
+amount of medication taken for breakthrough pain, or side
+effects.
+Conclusions: Amitriptyline is more efficacious in relieving
+neuropathic pain than diphenhydramine at or below the level of
+spinal cord injury in people who have considerable depressive
+symptomatology.
+Key Words: Amitriptyline; Depression; Diphenhydramine;
+Pain, intractable; Rehabilitation; Spinal cord injuries.
+© 2007 by the American Congress of Rehabilitation Medicine and the American Academy of Physical Medicine and
+Rehabilitation
+PERSONS WITH SPINAL CORD injury (SCI) frequently
+have chronic pain; estimates put the numbers from 65% to
+81%.1-10 Neuropathic pain at or below the level of the injury is
+a particularly intractable type of pain experienced by an estimated 29% to 75% of persons with SCI.2,11-15 The prevalence
+of chronic neuropathic pain varies, based on time since injury2,13,14,16 and by whether the pain is at or below the level of
+injury.2,13,14,17 For example, Siddall et al2,13,14 reported an
+approximate 38% prevalence of at-level pain at 2 weeks and 6
+months postinjury and a prevalence of 41% at 5 years. The
+prevalence of below-level pain was 14% at 2 weeks, 19% at 6
+months, and 34% at 5 years.
+Chronic pain is associated with depressive symptomatology
+in participants with SCI. Higher levels of depressive symptoms
+are related to (1) having chronic pain compared with not having
+chronic pain,7,18 (2) greater pain intensity,19,20 (3) more painful
+days a month,18 (4) more hours of daily pain,18 and pain
+interference with daily activities.21
+Various treatments for chronic neuropathic pain have included
+increased activity levels, provision of psychosocial support, management of concomitant health problems, electric stimulation,
+nerve blocks, surgery, use— or stopping use— of chemicals
+including nicotine, cannabis, alcohol, caffeine, herbs, and prescription medications (antidepressants [eg, amitriptyline], anticonvulsants [eg, carbamazepine, gabapentin], narcotic drugs
+[eg, morphine, codeine]).22 These treatments are often ineffective and have undesirable side effects.23
+Amitriptyline (Elavil) is a tricyclic antidepressant that has
+been associated with significant analgesia in different animal
+models,24 including neuropathy and deafferentation-induced
+autotomy.25 It has been a drug of choice for treating pain in
+people with SCI, but to our knowledge, only a few studies have
+described the effect of amitriptyline on chronic pain syndromes
+in the SCI population. These include several surveys26-29 and a
+randomized controlled trial (RCT).30
+Gabapentin (Neurontin) is an anticonvulsant. RCTs of gabapentin for postherpetic neuralgia31 and painful neuropathy in
+patients with diabetes mellitus32 found the medication to be
+effective and to have tolerable side effects. Preclinical studies
+in rat models with SCI indicated that gabapentin reduced
+allodynia,33 reduced paw withdrawal to mechanic and thermal
+stimuli,34 and ameliorated changes in spontaneous exploratory
+activity.35 There have been several studies of the effectiveness
+of gabapentin on pain in participants with SCI, including
+surveys,26-29 retrospective studies,36,37 uncontrolled open-label
+trials,38,39 and RCTs.40,41
+From the Michael E. DeBakey Veterans Affairs Medical Center, Houston, TX
+(Rintala, Holmes, Courtade, Fiess, Tastard); Department of Physical Medicine and
+Rehabilitation, Baylor College of Medicine, Houston, TX (Rintala, Holmes, Courtade, Fiess, Tastard); and Bayshore Medical Center, Pasadena, TX (Loubser).
+Presented to the American Pain Society, May 2006, San Antonio, TX, and the
+American Association of Spinal Cord Injury Psychologists and Social Workers,
+September 2006, Las Vegas, NV.
+Supported by the Department of Veterans Affairs, Veterans Health Administration,
+Rehabilitation Research and Development Service (grant no. B2573R).
+No commercial party having a direct financial interest in the results of the research
+supporting this article has or will confer a benefit upon the author(s) or upon any
+organization with which the author(s) is/are associated.
+Reprint requests to Diana H. Rintala, PhD, MEDVAMC (153), 2002 Holcombe
+Blvd, Houston, TX 77030, e-mail: drintala@bcm.tmc.edu.
+0003-9993/07/8812-00263$32.00/0
+doi:10.1016/j.apmr.2007.07.038
+1547
+Arch Phys Med Rehabil Vol 88, December 2007
+In light of our previous work,7,18 and the works of others19-21
+that have highlighted the prevalence of depressive symptomatology in conjunction with chronic pain in the SCI population,
+we conducted a clinical trial to directly compare the effectiveness of an antidepressant (amitriptyline) and an anticonvulsant
+(gabapentin) with an active control substance, diphenhydramine (Benadryl). We used an active control to maintain the
+double blind, placebo-controlled design. Our hypotheses were
+that in participants with SCI: (1) amitriptyline will be more
+effective than diphenhydramine in relieving chronic neuropathic pain at or below the level of injury; (2) gabapentin will
+be more effective than diphenhydramine in relieving chronic
+neuropathic pain at or below the level of injury; and (3)
+amitriptyline will differentially affect pain, depending on the
+baseline level of depressive symptomatology.
+Although we did not state it as an a priori hypothesis,
+because there was no previous evidence comparing the 2, we
+expected gabapentin to be more effective than amitriptyline,
+based on the limited evidence available when we designed the
+study.
+METHODS
+Study Design
+We used a randomized, controlled, double blind, triplecrossover design to compare the effectiveness and safety of
+gabapentin and amitriptyline with an active control medication,
+diphenhydramine, for the relief of chronic neuropathic pain at
+and/or below the level of injury in people with SCI. We used
+a crossover design to control for the effect of individual differences in the perception and reporting of pain. We began a
+baseline week after all medications being used for pain control
+at time of entry to the study were discontinued. During the
+baseline week, participants were instructed not to take any pain
+medications except the medication for breakthrough pain that
+we provided. Mercadante et al42 define breakthrough pain as
+“transitory exacerbation of pain that occurs in addition to
+otherwise stable persistent pain.”
+At the end of the baseline week, eligible participants were
+randomized into 1 of 6 groups. The groups differed only in
+regard to the order in which the participants would receive the
+3 study medications. The groups were: (1) gabapentin-amitriptyline-diphenhydramine (GAD), (2) GDA, (3) AGD, (4) ADG,
+(5) DGA, and (6) DAG. For each consecutive set of 6 participants, 1 was assigned to each of the 6 groups. The order of this
+assignment within the sets of 6 was based on a table of random
+numbers, and varied from set to set. Each study drug was
+administered for 9 weeks. During each of the 3 medication
+phases, the daily dose of medication was gradually increased in
+the first 4 weeks. Daily dosage was kept constant to the extent
+possible for weeks 5 through 8; however, if side effects became
+too severe, dosages or the number of doses a day were decreased. The medication was gradually decreased and then
+discontinued during the ninth week. The tenth week of each
+medication phase was a washout week similar to the baseline
+week. Participants were instructed not to take any pain medications other than those we provided at any time during the
+study.
+Participant Recruitment
+From November 2001 to April 2004, participants were recruited primarily from lists of persons with SCI who had
+participated in previous research studies and had given permission to be contacted for future studies, and through word of
+mouth. Inclusion criteria were: (1) 18 to 70 years of age, (2)
+with an SCI at any level and any degree of completeness, (3)
+the SCI occurred at least 12 months before entering the study,
+(4) at least 1 chronic (6mo) pain component characteristic of
+neuropathic pain, (5) at least 1 neuropathic pain component
+rated as at least 5 on a 0 to 10 scale when initially contacted
+about participating, and (6) lived within 160km (100 miles) of
+the Michael E. DeBakey Veterans Affairs Medical Center
+(MEDVAMC).
+Exclusion criteria were: (1) evidence of significant cardiac
+conduction disturbance, (2) history of seizures, (3) evidence of
+liver dysfunction indicative of an infectious process or hepaticellular injury, (4) evidence of renal insufficiency, (5) taking
+any contraindicated medications such as maximum acid output
+(MAO) inhibitors, (6) current or recent substance abuse problem, (7) evidence of a previous allergic reaction to any of the
+study medications, (8) evidence of a serious psychologic disorder that would prevent giving informed consent or hinder
+one’s ability to follow through with the study based on the
+attending physician’s clinical judgment, (9) evidence of psychologic or psychosomatic chronic pain based on clinical judgment (no one was excluded based on this criterion), and (10)
+pregnancy.
+In planning this study, we based our required sample size
+calculation on an RCT by Rowbotham et al31 of the use of
+gabapentin to treat neuropathic pain after herpes zoster. At the
+time we designed this study, there were no published RCTs of
+gabapentin to treat neuropathic pain in persons with SCI. A
+parallel arm design, rather than a crossover design, was used in
+the Rowbotham study. The sample size requirement for a
+parallel study would be 31 participants in each group in order
+to detect a difference as large as 1.8 on the visual analog scale
+(VAS). Our planned sample size for each of the 6 assignment
+groups was based on the formula n*
+[n(1 – ICC)]/2, where n
+is the sample size needed for each group in an equivalent 3-arm
+parallel study and ICC is the intraclass correlation coefficient.43
+Thus, using data from Rowbotham, n*
+[31(1–.55)]/27. Because there were 6 randomly assigned sequence groups we
+estimated that we would need 42 (67) participants to complete all 3 arms of the study.
+Procedure
+The Institutional Review Board for Human Subject Research
+for Baylor College of Medicine and Affiliated Hospitals approved all procedures. After prescreening by telephone, potential candidates were invited to the MEDVAMC SCI outpatient
+clinic to provide their written informed consent and establish
+their eligibility. A research assistant (RNF) administered several questionnaires concerning pain, daily activities, and the
+participants’ well being (see the Measures section). The candidates’ vital signs were obtained and their medical records
+reviewed to identify any contraindications for participating in
+the study. The following were verified for each participant
+within a 6-month window prior to study entry: complete blood
+count, electrolyte panel, liver function studies, and electrocardiogram (ECG). Women of childbearing potential were given a
+serum pregnancy test.
+A physician reviewed the results of all tests and interviewed
+candidates to assess whether they had chronic neuropathic pain
+at and/or below the level of injury. Identification of pain as
+being neuropathic depended on (1) the location of pain with
+respect to the level of injury (at or below the level of injury),
+(2) its qualitative nature (burning, stinging, or stabbing), (3) its
+pattern (diffuse, nonradicular), and (4) what worsens the pain
+(eg, movement, certain activities, spasticity). If a participant
+had more than 1 pain site, 1 site of neuropathic pain at and/or
+below the level of injury was specified as the pain site of
+1548 COMPARING AMITRIPTYLINE AND GABAPENTIN, Rintala
+Arch Phys Med Rehabil Vol 88, December 2007
+interest for the study. Eligible candidates were randomized as
+described in the study design section.
+Participants were evaluated on 8 occasions in the clinic and
+on 9 occasions in their homes during the 31 weeks they were
+in the study. After their eligibility was established, the participants were evaluated at the end of the baseline week and at
+weeks 2, 4, 8, and 10 during each of the 3 medication phases.
+Beginning in January 2003, we began evaluating participants at
+the end of week 6 to better ensure their safety and compliance.
+During each visit, the research assistant again administered
+questionnaires regarding pain at the specified study site, daily
+activities, and subjective well-being, took vital signs, and obtained information about medication intake, side effects, and
+adverse events, if any. The study coordinator (DC) provided
+the medications and instructions for the next study period, and
+also set each participant’s next clinic appointment. Participants
+were paid $50 for each clinic visit and $25 for each home visit.
+The payments covered the costs of transportation, arranging for
+an attendant, childcare, or other incurred expenses. The first
+visit lasted approximately 1 hour and all subsequent visits
+lasted approximately 30 minutes. In addition to the clinic and
+home visits every 1 to 4 weeks, the research assistant contacted
+the participants by telephone once or twice a week. During
+these contacts, the research assistant obtained the participants’
+numeric pain ratings, as well as information about medication
+usage, side effects, and adverse events since the last contact.
+These interviews lasted approximately 5 to 10 minutes.
+Medications
+Participants were provided tablets containing a combination
+of 5mg of oxycodone and 325mg of acetaminophen for breakthrough pain in packets of 8 tablets, 1 packet for each day of the
+study, from the beginning of the baseline week through the
+washout week after the third medication (maximum, 217d;
+1736 tablets). Participants were instructed to take the tablets
+only if necessary and to start a new packet each day. They were
+told to leave any remaining tablets for that day in the packet so
+that we could monitor the amount of breakthrough medication
+used each day.
+The maximum doses in this study were 50mg, 3 times daily
+for amitriptyline and 1200mg, 3 times daily for gabapentin. We
+chose these dosages because they are widely accepted by
+practitioners as the standards for treating neuropathic pain in
+persons with SCI.44 Smaller dosages of amitriptyline may have
+been effective, however. For example, Max et al45 found that
+105mg of amitriptyline was equally effective in depressed and
+nondepressed patients with diabetic neuropathic pain. In our
+study, amitriptyline was provided in 3 daily doses rather than 1
+dose at bedtime because gabapentin was taken 3 times daily
+and we wanted to keep the treatments as similar as possible.
+Table 1 shows the daily maximum dose schedules for amitriptyline and gabapentin. Lower doses were taken if necessary due
+to unacceptable side effects or if pain relief was achieved.
+During week 9 of each medication phase, the daily dose of the
+study medication was gradually decreased (table 1). We considered a 1-week washout period after each medication was
+discontinued to be sufficient to avoid carry-over effects, because gabapentin has a half-life of 6 to 8 hours and amitriptyline has a half-life of 24 to 70 hours.
+Our control medication, diphenhydramine, is an antihistamine. Its maximum individual dose was 25mg, 3 times daily,
+and that dose was kept constant for the entire 9-week phase.
+Participants received 1 dose a day for the first 3 days, 2 doses
+a day for the next 2 days, and 3 a day thereafter through week
+8. During week 9 they received 2 doses a day for 2 days and 1
+dose a day for 2 days, to gradually discontinue the medication.
+We used diphenhydramine as the control medication because it
+is not a pain reliever but does have some side effects, such as
+drowsiness and dry mouth, which are similar to side effects of
+the other 2 medications. This fact helped maintain the double
+blind design. The half-life of diphenhydramine is 3 to 12 hours.
+All 3 medications were prepared by a commercial compounding pharmacy and placed in identical capsules according
+to the dosing schedule. Inactive filler, sodium bicarbonate, was
+used for 1 or 2 doses a day while gradually increasing or
+decreasing the total daily dose (see table 1). They were packaged in blister packs, which were labeled with the day and the
+Table 1: Daily Maximum Dose Schedule for Gabapentin and Amitriptyline
+Week Day
+Gabapentin Amitriptyline
+Morning Afternoon Evening Morning Afternoon Evening
+0 7 to 0 Baseline week: no study medication except breakthrough medication
+1 1–3 IC IC 300 IC IC 25
+1 4–5 300 IC 300 25 IC 25
+1 6–7 300 300 300 25 25 25
+2 8–14 600 600 600 25 25 50
+3 15–21 800 800 800 25 50 50
+4 22–28 1200 1200 1200 50 50 50
+5–8 29–56 1200 1200 1200 50 50 50
+9 57 800 800 800 50 25 50
+9 58 600 600 600 25 25 50
+9 59 400 400 400 25 25 25
+9 60 300 300 300 25 IC 25
+9 61 100 100 100 IC IC 25
+9 62 100 IC 100 IC IC IC
+9 63 IC IC 100 IC IC IC
+10 64–70 Washout week: no study medication except breakthrough medication
+NOTE. Values are in milligrams. Inactive capsules contained sodium bicarbonate as filler.
+Abbreviation: IC, inactive capsule.
+COMPARING AMITRIPTYLINE AND GABAPENTIN, Rintala 1549
+Arch Phys Med Rehabil Vol 88, December 2007
+time for each dose to be taken. We used labeled blister packaging to facilitate adherence to the dosing schedule.
+Measures
+Demographic and injury-related information was obtained
+from questionnaires and medical records and included age, sex,
+race and ethnicity, marital status, whether the participant was a
+military veteran, age at onset of SCI, time since onset, and level
+and completeness of the injury.
+The VAS is a 10cm line anchored on the left with the words
+“no pain” and on the right with “worst possible pain.”46 A
+participant draws a mark across the line at a point representing
+the severity of his/her pain. The distance from the left end to
+the participant’s mark is the VAS pain intensity score. Huskisson46 and other researchers have found the VAS to be reliable
+and valid. The VAS was obtained at each visit to the clinic or
+to the home. For participants who were unable to accurately
+draw a line across the appropriate point on the VAS (ie,
+persons with tetraplegia), the research assistant slowly moved
+the pen along the VAS line until the participant indicated that
+the pen was at the correct point. The research assistant then
+drew the line across the VAS at that point.
+The numeric rating scale (NRS) is a simple 0 to 10 rating
+scale. Only the 2 ends are designated by words (0, no pain; 10,
+worst possible pain). It is similar to the VAS, but can be used
+during a telephone contact. Downie et al47 found that a similar
+11-point scale was more sensitive than a 4-point descriptive
+scale and was more easily understood than the VAS. We used
+the NRS at intake, during each telephone call, and at each clinic
+and home visit. We used it in addition to the VAS because we
+wanted to assess pain intensity during telephone contacts. NRS
+ratings could thus be obtained more frequently than VAS
+ratings. Weekly averages of the NRS obtained by phone and/or
+in person are likely to be more stable than single ratings. An
+additional advantage in using both the NRS and VAS is that by
+using 2 methods of obtaining the data, the study conclusions
+are strengthened if similar effects are indicated.
+The Center for Epidemiologic Studies Depression ScaleShort
+Form (CESD-SF) is a 10-item, self-report scale designed to measure symptoms of depression in the general population.48 Each
+item is rated on a 0 to 3 scale according to how often the person
+experienced certain feelings (eg, depression and hopefulness) in
+the past week (1d, 1–2d, 3– 4d, 5–7d). Scores for positive
+feelings are reversed. It has good predictive accuracy (.97)
+compared with the original 20-item CES-D.49 The CESD-SF was
+found by the developers to have a test-retest correlation of r equal
+to .71.48 The CESD-SF was administered at baseline and at weeks
+4, 8, and 10 of each medication phase. The Cronbach  was .80 in
+this study.
+Side-effects checklist. During each telephone contact, clinic
+visit, and home visit, participants were asked if they had
+experienced any of 17 possible side effects. The list included
+common and serious side effects for each medication. Participants were also encouraged to report any other side effects they
+experienced that were not on the list.
+Medication costs. The cost of amitriptyline and gabapentin
+at the maximum dosing for 1 month at the schedule used in this
+study was obtained from the MEDVAMC pharmacy department in January 2007.
+Data Analysis
+Descriptive analyses were performed on all study variables. Means, medians, standard deviations, and ranges were
+obtained for continuous variables and number and percentage were obtained for categoric variables. All NRS ratings
+were averaged for each participant for each week. CESD-SF
+scores were recoded into 2 groups: less depressive symptomatology (CESD-SF score 10) and more depressive symptomatology (CESD-SF score 10). This cutpoint was recommended by the developers of the short-form of the CES-D.48
+Side effects were tallied for each medication arm. Differences
+between participants who completed all 3 phases (completers)
+and those who did not (noncompleters) were assessed with t
+tests for continuous variables and chi-square tests for categoric
+variables.
+The primary outcome variable was the final pain rating
+(pain on average for week 8 for each medication) as measured by the VAS. We did a repeated-measures analysis of
+variance (ANOVA) to compare the effectiveness of the 3
+medications. Because amitriptyline is an antidepressant, the
+analysis was repeated with the dichotomous depressive symptomatology variable (CESD-SF scores 10 or 10) as a between-subjects factor. We did a similar analysis using the week
+8 NRS average score. We calculated the change in average pain
+intensity as measured by the VAS and the percentage change
+from baseline to week 8 of each medication. The proportion of
+participants whose pain intensity decreased at least 30% was
+calculated for each medication within the 2 depressive symptomatology groups. A change of 30% or better is considered to
+be a minimal clinically important difference.50
+We determined the dropout rates across time for each medication. A dropout was defined as a participant who was unable
+to complete at least the first 8 weeks of a given medication
+phase. A participant could drop out of the entire study or could
+drop out of a particular medication phase because of intolerable
+side effects, then after a washout week, begin the next scheduled medication phase. The effect of dropping out was assessed
+by comparing VAS data for those who completed all 3 phases
+of the study with all available data at baseline and weeks 2, 4,
+and 8 for each medication. The effect of the order in which the
+medications were taken was assessed with separate 1-way
+ANOVAs for each medication for the VAS score at week 8.
+Similarly, we compared the percentage of the maximum dose
+of the 3 medications taken during weeks 2, 4, and 8. The
+amount of breakthrough medication taken during the 3 medication phases was compared within the 2 depressive symptomatology groups by using nonparametric Friedman tests because
+the distribution was highly skewed.
+Finally, we calculated the 1-month costs for 50mg of amitriptyline taken 3 times a day and 1200mg of gabapentin taken
+3 times a day. We calculated an efficacy factor by dividing the
+percentage change in average pain intensity by the cost for 1
+month. Separate calculations were conducted for the 2 depressive symptomatology groups.
+RESULTS
+Participants and Profile of the Study
+Figure 1 shows the study’s flowchart. People excluded from
+the study included: 3 who had elevated liver enzymes, 1 who
+had an abnormal ECG, 1 who was already taking higher doses
+of the study medications than the maximum allowed in this
+study, 1 who was allergic to 1 of the study medications, 1 with
+a recent history of drug abuse, and 1 who did not have chronic
+neuropathic pain. One person died from unrelated causes before being randomized. One person was excluded because his
+laboratory findings were outdated and he was unable to have
+them updated before the end of recruitment. Of the 38 participants randomized, 22 (58%) completed all 3 phases of the
+medication regimen. A total of 26 participants completed the
+gabapentin phase, 28 completed the amitriptyline phase, and 25
+1550 COMPARING AMITRIPTYLINE AND GABAPENTIN, Rintala
+Arch Phys Med Rehabil Vol 88, December 2007
+completed the diphenhydramine phase. Five persons attempted
+all 3 phases, but had to crossover to the next medication early
+in at least 1 phase because of unacceptable side effects.
+Tables 2 and 3 show the continuous and categorical variables
+of the study sample. More than one third of the participants had
+high CESD-SF scores (10). The mean for pain intensity on
+average during the baseline week fell in the moderate range
+while the mean for worst pain at both intake and during the
+baseline week was in the severe intensity range.51 There was no
+significant difference between the completers and the noncompleters on any of the variables listed in tables 2 and 3.
+Effectiveness of the Medications
+Mean VAS ratings for pain on average during week 8 for all
+22 completers were: amitriptyline, 3.462.09; gabapentin,
+4.852.86; and diphenhydramine, 5.112.54. A repeatedmeasures ANOVA indicated a main effect of medication
+(F4.61, P.016). Follow-up paired t tests with Bonferroni
+adjustment for multiple comparisons indicated that average
+pain intensity in week 8 with amitriptyline therapy was significantly lower than with gabapentin therapy (t2.32, P.03;
+effect size, Cohen d.55), or diphenhydramine therapy (t2.76,
+P.012; Cohen d.71). There was no significant difference between gabapentin and diphenhydramine therapy.
+A similar repeated-measures ANOVA was performed in
+which the dichotomous depressive symptomatology variable
+was entered as a between-subjects factor. The main effect of
+medication was significant (F5.48, P.008), as was the
+main effect of the depressive symptomatology variable
+(F8.48, P.008). The interaction term was not significant,
+indicating that the pattern of relative effects among the 3
+medications is similar in the high and low CESD-SF groups.
+Figure 2 shows the means and error bars (2 standard
+errors) for the VAS scores for each of the 3 medications
+within the high and low CESD-SF groups. When follow-up
+paired t tests were performed separately for the high (n8)
+and low (n14) CESD-SF participants, pain intensity during amitriptyline therapy (mean, 4.211.95) was significantly lower than during diphenhydramine therapy (mean,
+6.681.88) within the high CESD-SF group only (t2.61,
+P.035). Additionally, when the effect of amitriptyline and
+gabapentin therapy on pain intensity was compared within
+the high CESD-SF group, there was a nonsignificant trend
+toward lower pain intensity during amitriptyline therapy
+Consented (N=50)
+Not Randomized (n=12)
+Reasons:
+8 ineligible, 2 withdrew,
+1 died before randomization,
+1 lab results unattainable
+Randomized (n=38)
+Randomized to
+Group 2 – GDA
+(n=6)
+Randomized to
+Group 1 – GAD
+(n=7)
+Randomized to
+Group 4 – ADG
+(n=6)
+Randomized to
+Group 3 – AGD
+(n=6)
+Randomized to
+Group 5 – DGA
+(n=7)
+Randomized to
+Group 6 – DAG
+(n=6)
+Gabapentin:
+1 withdrew due
+to adverse effects
+1 crossed over early
+due to adverse effects
+Crossed over to
+amitriptyline (n=6):
+1 withdrew due to
+adverse effects
+1 withdrew due to
+medical problems
+1 crossed over early
+due to adverse effects
+Crossed over to
+diphenhydramine
+(n=4):
+No withdrawals
+Diphenhydramine:
+No withdrawals or
+early crossovers
+Gabapentin:
+1 crossed over early
+due to adverse
+effects
+Amitriptyline:
+1 withdrew due
+to adverse effects
+1 withdrew due to
+medical problems
+Crossed over to
+gabapentin (n=4):
+1 withdrew due
+to medical problems
+Amitriptyline:
+1 withdrew after
+completing all of this
+arm due to moving
+out of state
+Diphenhydramine:
+2 lost to contact
+2 early crossover
+due to adverse
+effects
+Crossed over to
+gabapentin (n=5):
+1 early crossover
+due to adverse
+effects
+Crossed over to
+amitriptyline (n=6):
+1 early crossover
+due to adverse
+effects, no outcome
+data available
+Crossed over to
+diphenhydramine
+(n=5):
+1 withdrew due
+to medical problems
+Crossed over to
+diphenhydramine
+(n=6):
+1 withdrawn due to
+protocol violation
+Attempted all 3 arms
+including early
+crossover (n=4)
+Completed all
+3 arms (n=3)
+Crossed over to
+amitriptyline (n=5):
+No withdrawals
+Crossed over to
+diphenhydramine
+(n=3):
+No withdrawals
+Crossed over to
+gabapentin (n=4):
+No withdrawals
+Crossed over to
+amitriptyline (n=5):
+No withdrawals
+Crossed over to
+gabapentin (n=6):
+1 withdrew due to
+adverse effects, no
+outcome data
+available
+Attempted all 3 arms
+including early
+crossover (n=5)
+Completed all
+3 arms (n=4)
+No early crossovers
+Completed all
+3 arms (n=3)
+Attempted all 3
+arms including early
+crossover (n=6)
+Completed all
+3 arms (n=5)
+No early crossovers
+Completed all
+3 arms (n=4)
+Attempted all 3 arms
+including early
+crossover (n=5)
+Completed all
+3 arms (n=3)
+Fig 1. Profile of the study. There were 6 random assignment groups that differed only with respect to the order in which the medications
+were received. Twenty-two completed all 3 phases; 26 completed the gabapentin phase, 28 the amitriptyline phase, and 25 the diphenhydramine phase. Abbreviations: A, amitriptyline; D, diphenhydramine; G, gabapentin.
+COMPARING AMITRIPTYLINE AND GABAPENTIN, Rintala 1551
+Arch Phys Med Rehabil Vol 88, December 2007
+(t2.23, P.061). There was no significant difference in
+pain intensity among the 3 medications in the low CESD-SF
+group.
+Results for pain intensity at its worst during week 8 were similar to
+those for pain intensity on average during week 8. Means for worst
+pain intensity (n22) were: amitriptyline, 5.682.39; gabapentin,
+7.222.38; and diphenhydramine, 7.052.09. In a repeatedmeasures ANOVA in which the CESD-SF variable was entered
+as a between-subjects factor, the main effect for medication
+(F5.7, P.007) and the depressive symptomatology variable
+(F14.41, P.001) were both significant, but the interaction
+was not.
+Figures 3 and 4 show the longitudinal results for the VAS
+and the NRS. Week 0 refers to the pain intensity rating just
+before each medication was started. For the first medication,
+this was the baseline rating. For the second and third medications, it was the rating at the end of week 10 (end of washout)
+of the previous medication. There was no significant difference
+in the week 0 VAS pain ratings among the 3 medications,
+whether they were analyzed with the CESD-SF variable as a
+covariate (main effect of medication, F.77, P.472; main
+effect of CESD-SF group, F11.85, P.003; interaction,
+F.40, P.671) or not (effect of medication, F.85, P.437).
+In both figures (VAS and NRS), with 1 exception in the high
+CESD-SF group at week 2 for VAS, pain intensity during
+amitriptyline therapy was consistently lower (but not always
+significantly) than during therapy with either of the other 2
+medications at weeks 2 through 8 for both the high and low
+CESD-SF groups.
+Figure 5 shows the decrease in average pain from baseline to
+week 8 of each medication for the high and low CESD-SF
+groups. In both groups, the decrease was greater during the
+amitriptyline phase; however, the differences in pain intensity
+among the medications was significant only in the high
+CESD-SF group (F4.02, P.042). Figure 6 shows the mean
+percentage change from baseline for each medication within
+each depressive symptomatology group. Amitriptyline had the
+greatest percentage of change from baseline in both CESD-SF
+groups; however, the differences among the medications was
+not significant in either group, but there was a nonsignificant
+trend in the high CESD-SF group (F3.2, P.072). Among
+the participants in the low CESD-SF group, the percentages
+with at least a 30% decrease from baseline in pain intensity
+were 50% with amitriptyline, 42.9% with gabapentin, and
+35.7% diphenhydramine. Among participants in the high
+CESD-SF group, the percentages were 62.5, 12.5, and 25,
+respectively.
+Table 2: Characteristics of the Sample for Continuous Variables
+Characteristics
+Completers
+(n22)
+Noncompleters
+(n16)
+Age (y)
+Mean  SD 42.612.6 38.912.6
+Median 42.5 34
+Range 22–65 19–59
+Age at onset (y)
+Mean  SD 29.911.1 30.710.7
+Median 27.3 29.4
+Range 16–56 17–53
+Time since onset (y)
+Mean  SD 12.610.5 8.27.2
+Median 7.5 5
+Range 1–33 1–21
+Duration of pain (y)
+Mean  SD 7.37.7 8.07.1
+Median 5 5
+Range 1–30 1–21
+Intake pain intensity at
+its worst
+Mean  SD 8.31.6 8.41.4
+Median 8 8.5
+Range 6–10 5–10
+Pain intensity on
+average baseline
+week
+Mean  SD 5.62.2 6.62.3
+Median 6 6
+Range 0.4–9.6 3–10
+Pain intensity at its
+worst baseline week
+Mean  SD 7.82.2 8.32.1
+Median 8.2 9.2
+Range 0.6–9.9 2–10
+No. of oxycodoneacetaminophen
+tablets taken during
+baseline week
+Mean  SD 16.917 22.317.2
+Median 12.5 22
+Range 0–54 0–45
+Baseline CESD-SF
+Mean  SD 7.26.2 86.1
+Median 5.5 7.5
+Range 0–24 0–22
+Abbreviation: SD, standard deviation.
+Table 3: Characteristics of the Sample for Categorical Variables
+Characteristics
+Completers
+(n22)
+Noncompleters
+(n16)
+N% N %
+Sex
+Men 20 90.9 16 100.0
+Women 2 9.1 0 0.0
+Race and ethnicity
+White (non-Hispanic) 10 45.5 7 43.8
+Black 5 22.7 2 12.5
+Hispanic 7 31.8 7 43.8
+Marital status
+Married 5 22.7 4 25.0
+Not married 17 77.3 12 75.0
+Military veteran
+Yes 8 36.4 6 37.5
+No 14 63.6 10 62.5
+Level and completeness
+of SCI
+Tetraplegia (AIS grade
+A, B, or C) 12 54.5 8 50.0
+Paraplegia (AIS grade
+A, B, or C) 7 31.8 5 31.3
+Any level (AIS grade D) 3 13.6 3 18.8
+Baseline depressive
+symptomatology
+CESD-SF score 10 8 36.4 4* 28.6
+CESD-SF score 10 14 63.6 10* 71.4
+Abbreviation: AIS, American Spinal Injury Association Impairment
+Scale.
+*Baseline CESD-SF scores were not available for 2 noncompleters.
+1552 COMPARING AMITRIPTYLINE AND GABAPENTIN, Rintala
+Arch Phys Med Rehabil Vol 88, December 2007
+Figure 7 shows the CESD-SF scores across time. There was
+no significant difference among the 3 medications at any given
+time point and no significant change in CESD-SF scores across
+time for any medication.
+Dropout Rate and Its Effect on Pain Intensity Ratings
+Figure 8 displays the percentage of the 38 participants who
+dropped out across time during each medication phase. There
+was no significant difference in dropout rate among the medications. Four persons withdrew or crossed over early due to
+medical problems not thought to be study related: urinary tract
+infection, autonomic dysreflexia, onset of diabetes, and pneumonia (see fig 1). Two people quit for unknown reasons before
+completing their first medication. One person was withdrawn
+because he twice claimed that he had lost his breakthrough
+medication and a study physician considered this to be excessive. That person then obtained a nonstudy pain medication
+from his primary care physician, which was a protocol violation.
+Because some participants attempted 1 or 2 medication
+phases but not all 3, and/or withdrew early from 1 or more of
+the phases, mean VAS scores for all participants with data for
+any medication at any measurement point (ie, 2, 4, and 8wk)
+were calculated using all available data; the scores are shown
+in figures 9, 10, and 11. There was almost no difference
+between the pain intensity ratings for those who completed at
+least 8 weeks of all 3 phases of the study (completers, n22)
+and the total number (from 25 to 29 participants) who had data
+for a particular medication at a particular time point. This
+suggests a minimal effect of dropouts on the findings regarding
+pain intensity.
+Order and Dose of Medication
+Figure 12 shows the VAS mean scores of the 22 completers
+for average pain during week 8 by the 6 random assignment
+groups. Amitriptyline had the lowest mean ratings in 5 of the 6
+groups. A repeated-measures ANOVA with group assignment
+entered as a covariate revealed a significant main effect of
+medication (F3.41, P.045), no effect of group assignment
+(F.21, P.956), and no interaction effect (F.42, P.929).
+At any given measurement point (2, 4, or 8wk), the majority
+of participants (85%–97% [from 25 to 30]) who were receiving
+a given medication at a given time point were able to tolerate
+the maximum dose of whichever medication they were receiving. It should be noted, however, that participants who withdrew from a particular phase of the study before a given time
+Fig 2. Means and error bars (2 standard error) of VAS ratings of
+pain intensity on average during week 8 of each medication by the
+22 participants who completed all 3 phases of the study (completers) within the depressive symptomatology groups.
+Fig 3. Mean pain intensity ratings on the VAS across time for each
+study medication within the depressive symptomatology groups.
+Fig 4. Mean pain intensity ratings on the NRS across time for each
+study medication within the depressive symptomatology groups.
+Fig 5. Mean decrease in average pain intensity ratings on the VAS
+from baseline to week 8 of each medication within the depressive
+symptomatology groups.
+COMPARING AMITRIPTYLINE AND GABAPENTIN, Rintala 1553
+Arch Phys Med Rehabil Vol 88, December 2007
+point because of intolerable side effects were not included in
+the analyses for that particular medication for that or for later
+time points. For the 22 completers, there was no significant
+difference in the percentage of the maximum dose received
+among the 3 medications. For example, at week 8, on average,
+they received 94% of the maximum dose of amitriptyline, 91%
+of the maximum dose of gabapentin, and 95% of the maximum
+dose of diphenhydramine.
+Breakthrough Medication
+Figure 13 shows the number of tablets of breakthrough
+medication taken during week 8 for each medication within the
+2 CESD-SF groups. For all 3 medications, regardless of the
+CESD-SF group, at least 50% of the participants who completed the study received no breakthrough medication during
+week 8. The majority of the other participants received no more
+than an average of 2 tablets a day (ie, 14/wk). Nonparametric
+Friedman tests revealed no significant difference in ranks for the
+low CESD-SF group (amitriptyline, 1.73; gabapentin, 2.23; diphenhydramine, 2.04; 2 test2.69; P.261), the high CESD-SF
+group (amitriptyline, 2.13; gabapentin, 1.88; diphenhydramine, 2;
+2 test.38, P.827), or the 2 groups combined (amitriptyline,
+1.88; gabapentin, 2.1; diphenhydramine, 2.02; 2 test.79,
+P.673).
+Side Effects
+The side effects reported by the participants throughout each
+medication phase are listed in table 4 for the completers and
+table 5 for the noncompleters. The side effects checklist was
+completed 210 times by the completers during amitriptyline
+therapy, 201 times during gabapentin therapy, and 205 times
+during diphenhydramine therapy. We divided the number of
+times a given side effect was reported during therapy with a
+certain medication by the number of reports for that medication. For example, dry mouth was reported 134 times out of the
+210 reports, or 62.5% of the time during amitriptyline therapy.
+Dry mouth was by far the most frequent complaint, with 21 of
+22 completers reporting having had it at least once. Among the
+completers during amitriptyline therapy, 5 side effects— dry
+mouth, constipation, difficulty emptying the bowel, nausea, and
+difficulty emptying the bladder—were significantly more frequently reported than during therapy with the other 2 medications. Not surprisingly, increased spasticity was reported significantly less often during gabapentin therapy than with the
+other 2 medications. Gabapentin reduces spasticity in persons
+Fig 7. Mean CESD-SF scores across time for each medication within
+the depressive symptomatology groups.
+Fig 6. Mean percent change in average pain intensity ratings on the
+VAS from baseline to week 8 of each medication within depressive
+symptomatology groups.
+Fig 8. Dropout rate across time for each medication.
+Fig 9. Average pain intensity ratings on the VAS during amitriptyline treatment by the 22 completers and by all available ratings for
+amitriptyline at each time point. Sample sizes for the “All” points
+varied depending on dropout and early withdrawal rates.
+1554 COMPARING AMITRIPTYLINE AND GABAPENTIN, Rintala
+Arch Phys Med Rehabil Vol 88, December 2007
+with SCI.52,53 Spasticity was not listed on the side effects
+checklist but was mentioned frequently when the participants
+were asked about other side effects. For the noncompleters, dry
+mouth, drowsiness, and fatigue were more frequently reported
+during amitriptyline therapy.
+It is important to identify possible adverse side effects that
+were so intolerable that in spite of dose reductions, participants
+withdrew or crossed over early to the next medication. This
+happened 4 times during the amitriptyline phase. Complaints
+included (1) light-headedness, drowsiness, pain in the lower
+abdomen, flushing, rapid heart beat, and chills (week 1); (2)
+allodynia and pins and needles feeling in extremities (week 4);
+(3) suicide ideation (week 1); and (4) drowsiness, dizziness,
+and falling out of a wheelchair (week 1). Withdrawal because
+of possible side effects occurred 5 times during the gabapentin
+phase: (1) shortness of breath (week 1); (2) dizziness, fatigue,
+and nausea (week 4); (3) increased spasticity and pain (week
+6); (4) fatigue, drowsiness, constipation, and dry mouth (week
+3); and (5) severe itching (week 1). Possible side effects caused
+an early crossover twice during the diphenhydramine phase: (1)
+palpitations (first dose) and (2) fatigue, dizziness, and drowsiness (week 7).
+Cost of Medication
+At the MEDVAMC as of January 25, 2007, the monthly
+(30d) cost of taking 50mg of amitriptyline, 3 times a day was
+$1.76 ($.020/tablet) and for taking 1200mg of gabapentin
+(400mg tablets, $.117/tablet, or $.351/dose) 3 times a day it
+was $31.59. Costs in the private sector vary, but are likely to be
+much higher. For the group with less depressive symptomatology, which had a 31.5% change in average pain intensity while
+receiving amitriptyline, the efficacy factor (percentage change/
+cost for a month) was 17.90. This means that for every dollar
+spent, there was a decrease in pain of nearly 18%. For gabapentin in the low CESD-SF group, the efficacy factor was .44.
+The efficacy factors for the high CESD-SF group were 23.07
+for amitriptyline and .36 for gabapentin.
+Fig 10. Average pain intensity ratings on the VAS during gabapentin treatment by the 22 completers and by all available ratings for
+gabapentin at each time point. Sample sizes for the “All” points
+varied depending on dropout and early withdrawal rates.
+Fig 11. Average pain intensity ratings on the VAS during diphenhydramine treatment by the 22 completers and by all available
+ratings for diphenhydramine at each time point. Sample sizes for
+the “All” points varied depending on dropout and early withdrawal
+rates.
+Fig 12. Average pain intensity ratings on the VAS for week 8 by the
+order in which each medication was received according to randomly assigned group.
+Fig 13. Frequency distribution of the number of oxycodoneacetaminophen tablets taken for breakthrough pain during week 8
+for each medication within the depressive symptomatology groups.
+COMPARING AMITRIPTYLINE AND GABAPENTIN, Rintala 1555
+Arch Phys Med Rehabil Vol 88, December 2007
+DISCUSSION
+To our knowledge, this is the first head-to-head, randomized,
+controlled, double blind, triple crossover comparison of the
+effectiveness of amitriptyline and gabapentin in the treatment
+of neuropathic pain at or below the level of injury in persons
+with SCI. Contrary to previous findings reported in the literature, we found amitriptyline to be effective in relieving pain. In
+this study, amitriptyline was even more effective than gabapentin, which other studies40,41 have shown to be effective. Our
+results could not be attributed to the effects of dropout rates,
+the order in which the medications were taken, the dosage of
+the medications, amount of medication taken for breakthrough
+pain, or the number of side effects. The effectiveness of amitriptyline was greatest in participants who had many depressive
+symptoms at baseline; they had more than a 3-point decrease
+on a scale of 0 to 10. Amitriptyline was the most effective
+medication even among those with fewer depressive symptoms
+at baseline; they had an average decrease in pain intensity of
+more than 1.5 points, but the difference between the medications was not statistically significant. Most participants experienced a clinically meaningful decrease (ie, 30% of baseline) in pain when taking amitriptyline. Not only was it more
+effective than gabapentin, the monthly cost for amitriptyline is
+far less than it is for gabapentin.
+There has been considerable research into the effects of
+pharmacologic agents on chronic pain after SCI. Studies that
+focused on amitriptyline and gabapentin are briefly reviewed
+here.
+Table 4: Reported Side Effects for Each 8-Week Medication Phase for Completers
+Side Effects
+Amitriptyline Percentage of
+Side-Effect Reports (n210)
+Gabapentin Percentage of
+Side-Effect Reports (n201)
+Diphenhydramine Percentage of
+Side-Effect Reports (n205) 2
+Dry mouth 63.8 38.8 42.4 30.28*
+Drowsiness 27.1 22.9 23.9 1.10
+Fatigue 20.5 22.4 14.6 4.30
+Constipation 29.2 10.9 12.7 28.74*
+Increased spasticity 11.0 6.0 15.1 8.91†
+Dizziness 8.1 11.5 7.3 2.46
+Difficulty emptying bowel 11.4 5.0 5.9 7.35†
+Nausea 9.0 6.5 2.9 6.76†
+Edema 5.7 5.5 5.4 0.25
+Itching 5.7 3.5 6.8 2.32
+Difficulty emptying bladder 5.2 1.0 1.5 8.87†
+Low blood pressure 2.4 3.0 1.5 1.08
+Uncoordinated muscles 2.9 3.0 0.5 3.92
+Vomiting 2.9 1.5 0.5 3.69
+Abnormal heart rhythms 1.4 0.5 2.4 2.66
+Skin rash 0.0 1.5 1.0 2.94
+Weight gain 0.5 0.5 0.0 1.00
+Seizure 0.0 0.0 0.0 NA
+Abbreviation: NA, not applicable.
+*P.001; †
+P.05.
+Table 5: Reported Side Effects for Each 8-Week Medication Phase for Noncompleters
+Side Effects
+Amitriptyline Percentage of
+Side-Effect Reports (n67)
+Gabapentin Percentage of
+Side-Effect Reports (n57)
+Diphenhydramine Percentage of
+Side-Effect Reports (n43) 2
+Dry mouth 58.2 33.3 16.3 20.51*
+Drowsiness 35.8 12.3 18.6 10.26†
+Fatigue 32.8 14.0 27.9 6.02‡
+Constipation 33.3 15.8 20.9 5.47
+Increased spasticity 16.4 8.8 2.3 5.88
+Dizziness 13.4 12.3 16.3 0.34
+Difficulty emptying bowel 10.4 8.8 4.7 1.16
+Nausea 10.6 14.0 11.6 0.35
+Edema 0.0 8.8 0.0 9.95
+Itching 3.0 8.8 7.0 1.93
+Difficulty emptying bladder 0.0 1.8 2.3 1.40
+Low blood pressure 1.5 0.0 2.3 1.20
+Uncoordinated muscles 3.0 7.0 0.0 3.57
+Vomiting 0.0 0.0 2.3 2.88
+Abnormal heart rhythms 1.5 1.8 2.3 0.10
+Skin rash 1.5 0.0 0.0 1.50
+Weight gain 1.5 0.0 0.0 1.52
+Seizure 0.0 0.0 0.0 NA
+*P.001; †
+P.01; ‡
+P.05.
+1556 COMPARING AMITRIPTYLINE AND GABAPENTIN, Rintala
+Arch Phys Med Rehabil Vol 88, December 2007
+Amitriptyline
+Survey studies. Survey studies in which the respondents
+evaluated the effectiveness of amitriptyline to reduce pain in
+general found amitriptyline to be relatively ineffective. Warms
+et al26 reported survey responses from 2 separate samples. On
+average, the helpfulness of amitriptyline was rated as 2.08 and
+2.06 on a scale of 1 (not at all helpful) to 5 (extremely helpful).
+Widerström-Noga and Turk27 reported the results of a postal
+survey in which three fourths of those who used unspecified
+antidepressants indicated that there was no effect on pain, or
+that their pain worsened. Cardenas and Jensen28 reported that
+the average rating for amitriptyline was 2.9 on a scale of 0 (no
+relief) to 10 (complete relief). We29 have reported that the
+success of amitriptyline in relieving pain in veterans with SCI
+was rated as 3.22 on a scale of 0 (no relief) to 5 (total relief).
+Although the results varied to some extent among the survey
+studies, in all of them amitriptyline was not perceived as being
+very effective, on average, for pain relief in the SCI population.
+Randomized controlled trial. Cardenas et al30 conducted
+the first randomized controlled trial of the effectiveness of
+amitriptyline in relieving pain in persons with SCI. They used
+a parallel group design with 44 participants randomly assigned
+to receive amitriptyline (maximum of 125mg once a day), and
+40 assigned to receive an active control, benztropine mesylate
+(Cogentin) (0.5mg once a day). Benztropine mesylate was
+selected because it causes side effects similar to those caused
+by amitriptyline. Randomization was stratified according to
+depressive symptomatology (20-item CES-D49 score of 15 vs
+16) to control for baseline depressive symptomatology. The
+participants had a variety of pain types, including SCI pain
+(pain below the level of injury), transition zone pain (pain at
+the level of injury), radicular pain, visceral pain, mechanical
+spine pain, and overuse pain. There was no significant difference between the groups in the primary outcome measure of a
+rating of pain intensity on a numeric scale of 0 (no pain) to 10
+(pain as bad as could be) during week 6 of the trial after
+controlling for baseline pain intensity ratings. Cardenas concluded that amitriptyline was not efficacious in relieving pain
+or improving the quality of life of participants with SCI.
+The question arises as to why our results differ from those of
+the study of amitriptyline by Cardenas and colleagues. Differences between that study and our study include the fact that
+they used a parallel group design rather than a crossover
+design. The advantage of a crossover design is that each person
+is his/her own control, which accounts for possible individual
+differences. Cardenas included participants with different pain
+types rather than limiting participation to people with neuropathic pain at and/or below the level of injury, as we did in this
+study. They did a post hoc analysis with a subset of participants
+who had at- or below-level pain, but they included only a small
+number of people (15 in the amitriptyline group, 17 in the
+placebo); consequently, its statistical power was reduced. The
+maximum dose of amitriptyline in their study was 125mg once
+a day, with the median dose taken at week 6 (their end point)
+being 50mg per day. This suggests that some of their participants were unable to tolerate the maximum dose when taken
+once a day. Others may not have reached the maximum dose,
+however, because of pain relief at a lower dose. In our study,
+the maximum and median doses at week 8 (our end point) were
+150mg a day taken as 50mg, 3 times a day. Perhaps receiving
+several smaller doses of amitriptyline throughout the day results in increased effectiveness and/or a reduction in unwanted
+side effects, thus permitting a larger total dose a day. Another
+difference was that the 2 studies used different active control
+medications. Cardenas used benztropine mesylate, a drug often
+used to treat symptoms of Parkinson’s disease, and we used
+diphenhydramine, which is an antihistamine. To what extent
+this could have had an impact on the results is unknown.
+Gabapentin
+Survey studies. In the surveys by Warms26 and Cardenas
+and Jensen,28 gabapentin was rated somewhat better than amitriptyline but it was not reported to be very effective. In the
+Warms’ samples, the helpfulness of gabapentin was rated as
+3.21 and 2.9, respectively, on a scale of 1 (not at all helpful) to
+5 (extremely helpful), compared with 2.08 and 2.06 for amitriptyline. In the survey by Cardenas,28 the efficacy of gabapentin was rated as 3.32, on average on a scale of 0 (no relief)
+to 10 (complete relief), compared with 2.9 for amitriptyline. In
+the survey by Widerström-Noga and Turk,27 one third of those
+who used anticonvulsants reported there was no effect, compared with three fourths for those who used antidepressants. In
+our survey,29 the effectiveness of gabapentin (2.89/5) was rated
+lower than amitriptyline (3.22).
+Retrospective studies. In a retrospective chart review, To
+et al36 found that 58% of people with SCI who received
+gabapentin for neuropathic pain (maximum dose, 4800mg/d)
+had some improvement. The mean pain intensity score decreased by nearly 5 points from baseline to the 6-month follow-up on a 10cm VAS. Putzke et al37 retrospectively contacted persons with traumatic SCI who had been in a trial of
+gabapentin as an analgesic. At 6 months, 22% had discontinued
+use because of unacceptable side effects. Fifty-two percent had
+experienced at least a 2-point decrease in pain intensity, on a
+scale of 0 to 10. Three years later, 91% of those contacted still
+experienced a benefit from the gabapentin; however, their pain
+intensity scores had risen. Doses of gabapentin ranged from
+300mg to 3600mg a day at the follow-up contacts.
+Open-label, uncontrolled studies. Attal et al38 conducted a
+pilot study to assess the effects of gabapentin on peripheral and
+central neuropathic pain syndromes. The maximum dose of
+gabapentin was 2400mg a day. Gabapentin significantly reduced spontaneous pain, especially paroxysmal pain, by the
+end of week 6. There was no difference in the effects of
+gabapentin between participants who had central pain and
+those who had peripheral pain. Ahn et al39 evaluated the effect
+of gabapentin on intractable neuropathic pain in persons with
+SCI, with the maximum dose at 1800mg a day. They had
+significant reductions in pain and sleep interference from baseline to the end of 8 weeks. The majority had at least a 2-point
+decrease in pain intensity, on a scale of 0 to 10. The effects of
+gabapentin were evident by week 2, and by week 4, pain and
+sleep interference reached a plateau.
+Randomized controlled trials. Tai et al40 conducted a prospective, randomized, double blind, crossover trial of the effects of
+gabapentin on neuropathic pain in participants with SCI. Seven
+(50%) of the 14 persons enrolled completed the study. Participants
+were assigned to receive either gabapentin (maximum dose,
+1800mg/d) or a placebo for 4 weeks, and then to receive the
+alternate medication for 4 weeks after a 2-week washout period.
+Effects were assessed with the Neuropathic Pain Scale (NPS),
+which evaluates 10 aspects of pain.54 The rating for “unpleasant
+feeling” was significantly lower at the end of week 4 during the
+gabapentin phase than during the placebo phase and there was
+a tendency for lower “pain intensity” and “burning sensation”
+during the gabapentin phase. Levendoglu et al41 also conducted
+a prospective, randomized, double-blind, crossover study to
+determine the efficacy of gabapentin to treat chronic neuropathic pain in 20 people with paraplegia. Participants were
+randomly assigned to which medication they would receive for
+the first 8 weeks; after a 2-week washout period they received
+COMPARING AMITRIPTYLINE AND GABAPENTIN, Rintala 1557
+Arch Phys Med Rehabil Vol 88, December 2007
+the alternate medication for 8 weeks. The maximum dose of
+gabapentin was 3600mg a day. The NPS was used to assess
+effectiveness. Gabapentin provided significantly more relief
+than placebo for “pain intensity,” “sharp,” “hot,” “unpleasantness,” “deep pain,” and “surface pain.” Percentage of pain
+relief ranged from 53% to 62% during the gabapentin phase
+and 8% to 13% during the placebo phase.
+Gabapentin is being increasingly prescribed for pain in SCI
+because the results of the aforementioned open-label and RCTs
+have ostensibly demonstrated an analgesic effect. Why, then, did
+we find gabapentin to be no more effective than diphenhydramine
+and less effective than amitriptyline? Although the open-label,
+nonrandomized studies38,39 of gabapentin for chronic pain after
+SCI have demonstrated analgesic efficacy, the impact of these
+results is weakened by their flawed (open-label) study design.
+With regard to the 2 RCTs of gabapentin, it is more difficult to
+pinpoint relevant possible reasons for the differences in our findings. One possibility is that neither Tai40 nor Levendoglu41 and
+colleagues used an active control, but used an inert placebo.
+Because of the common side effects of gabapentin, it may have
+made it relatively easy for their participants to determine whether
+they were on gabapentin or placebo at a given point in time.
+Furthermore, the numbers of participants in both of those studies,
+as well as this study, are not large, ranging from 7 completers in
+the Tai study,40 to 20 in the Levendoglu study,41 to 22 in this
+study. None of these small groups may be representative of the
+overall SCI population with neuropathic pain.
+Notably, none of the other studies except Cardenas et al30
+examined the specific effects of depressive symptomatology in
+modulating the response to the study medication. Cardenas did not
+find that pretreatment CES-D scores were related to their outcome
+variables. The added effectiveness of amitriptyline we found for
+persons with depressive symptomatology is not surprising given
+that it is an antidepressant. It is well known that depression and
+pain often go hand in hand.19,20 In previous research,7 we found
+that persons with SCI and chronic pain had significantly higher
+average scores (12 vs 7) on the 20-item CES-D than those without
+chronic pain. In a study of veterans with SCI,18 we found that 44%
+of the participants had scores that fell above the cutoff for depressive symptomatology on the CESD-SF. Furthermore, depressive
+symptomatology correlated significantly with average pain intensity (r.33), worst pain intensity (r.24), hours per day with pain
+(r.18), and days with pain in the past month (r.18). It is
+puzzling why, in this study, there was a difference in effect of the
+amitriptyline based on baseline CESD-SF scores, yet there was no
+significant change in CESD-SF scores across time in either the
+high or low CESD-SF groups. Perhaps the dose of amitriptyline
+(150mg/d), which is below the usual dose given specifically for
+depression, was not sufficient to substantially reduce depressive
+symptomatology. The small sample size also may have had an
+impact on this finding.
+Study Limitations
+This study has several limitations. The number of participants (N38) was much smaller than the 54 people we planned
+for, and only 22 completed all 3 phases of the study, compared
+with the 42 we estimated we would need. Despite this limitation, however, we did find a significant difference between the
+use of amitriptyline and diphenhydramine in the high
+CESD-SF group. In a larger study, the difference in effect on
+pain between gabapentin and diphenhydramine may be statistically significant. The small number of completers precluded
+us from conducting the planned ANOVA while controlling for
+numerous factors such as sequence of medications, dose of
+medication, and amount of medication taken for breakthrough
+pain. These factors had to be examined individually and, fortunately, did not appear to influence the main outcome measures of pain intensity. The baseline period of 1 week may have
+been too short to adequately establish reliable baseline pain
+levels. People may enter a study at a time when their pain is at
+its worst. Thus, regression toward the mean could occur during
+the intervention stage.
+Another limitation of the study is that all measures were
+based on self-reports. Some more objective measure of pain
+relief would have been preferable, as would have been the use
+of additional standardized pain measures such as the NPS54 and
+Brief Pain Inventory.55 It would have been better to administer
+the VAS at week 6 when the study began. A 4-week gap
+between measurement points was too long and may have
+contributed to the dropout rate. Finally, it was not possible to
+schedule data collection contacts at the same time of day
+throughout a person’s participation, thus, we did not account
+for diurnal fluctuations of pain. These limitations may have
+affected the validity of the findings. A larger study in the future
+may yield different results.
+CONCLUSIONS
+Based on our results from this study, amitriptyline is efficacious
+and relatively economic in relieving neuropathic pain at and/or
+below the level of injury in participants with SCI who have
+considerable depressive symptomatology. Their pain, however,
+was not completely eliminated, even in those participants for
+whom amitriptyline was effective. In combination with the results
+of the survey data regarding amitriptyline reviewed above, it is
+clear that more effective treatments are needed. It is also important
+to remember that amitriptyline has considerable side effects, some
+of which can be serious, particularly in the SCI population—as
+reflected by this study’s exclusion criteria. Amitriptyline exhibits
+strong anticholinergic activity, cardiovascular effects including
+orthostatic hypotension, changes in heart rhythm and conduction,
+and a lowering of the seizure threshold. It should not be given to
+persons receiving MAO inhibitors. Furthermore, close monitoring
+is essential, particularly when treatment is started and when the
+dosage is increased. It is possible that combinations of treatments,
+both pharmacologic and nonpharmacologic, may be more effective than any 1 treatment alone. Furthermore, as our understanding
+of the mechanisms of neuropathic pain in the SCI population
+increases, new treatments may be developed; they will need to be
+carefully evaluated. Finally, when treating persons with SCI for
+pain, it is critical that the standard of care include assessment and
+treatment of depressive symptomatology as well as of the pain.
+References
+1. Siddall PJ, Loeser JD. Pain following spinal cord injury. Spinal
+Cord 2001;39:63-73.
+2. Siddall PJ, McClelland JM, Rutkowski SB, Cousins MJ. A longitudinal study of the prevalence and characteristics of pain in the
+first 5 years following spinal cord injury. Pain 2003;103:249-57.
+3. Widerström-Noga EG, Felipe-Cuervo E, Broton JG, Duncan RC,
+Yezierski RP. Perceived difficulty in dealing with consequences
+of spinal cord injury. Arch Phys Med Rehabil 1999;80:580-6.
+4. Widerström-Noga EG, Felipe-Cuervo E, Yezierski RP. Relationships among clinical characteristics of chronic pain after spinal
+cord injury. Arch Phys Med Rehabil 2001;82:1191-7.
+5. Turner JA, Cardenas DD, Warms CA, McClellan CB. Chronic
+pain associated with spinal cord injuries: a community survey.
+Arch Phys Med Rehabil 2001;82:501-9.
+6. Finnerup NB, Johannesen IL, Sindrup SH, Bach FW, Jensen TS.
+Pain and dysesthesia in patients with spinal cord injury: a postal
+survey. Spinal Cord 2001;39:256-62.
+7. Rintala DH, Loubser PG, Castro J, Hart KA, Fuhrer MJ. Chronic
+pain in a community-based sample of men with spinal cord injury:
+1558 COMPARING AMITRIPTYLINE AND GABAPENTIN, Rintala
+Arch Phys Med Rehabil Vol 88, December 2007
+prevalence, severity, and relationship with impairment, disability,
+handicap, and subjective well-being. Arch Phys Med Rehabil
+1998;79:604-14.
+8. Rintala DH, Holmes SA, Fiess RN, Courtade D, Loubser PG.
+Prevalence and characteristics of chronic pain in veterans with
+spinal cord injury. J Rehabil Res Dev 2005;42:573-84.
+9. Ravenscroft A, Ahmed YS, Burnside IG. Chronic pain after SCI.
+A patient survey. Spinal Cord 2000;38:611-4.
+10. Fenollosa P, Pallares J, Cervera J, et al. Chronic pain in the spinal
+cord injured: statistical approach and pharmacological treatment.
+Paraplegia 1993;31:722-9.
+11. Werhagen L, Budh CN, Hultling C, Molander C. Neuropathic pain
+after traumatic spinal cord injury—relations to gender, spinal
+level, completeness, and age at the time of injury. Spinal Cord
+2004;42:665-73.
+12. Norrbrink Budh C, Lund I, Ertzgaard P, et al. Pain in a Swedish
+spinal cord injury population. Clin Rehabil 2003;17:685-90.
+13. Siddall PJ, Taylor DA, McClelland JM, Rutkowski SB, Cousins MJ. Pain report and the relationship of pain to physical
+factors in the first 6 months following spinal cord injury. Pain
+1999;81:187-97.
+14. Siddall PJ, Taylor DA, Cousins MJ. Classification of pain following spinal cord injury. Spinal Cord 1997;35:69-75.
+15. Levi R, Hultling C, Nash MS, Seiger A. The Stockholm spinal
+cord injury study: 1. Medical problems in a regional SCI population. Paraplegia 1995;33:308-15.
+16. New PW, Lim TC, Hill ST, Brown DJ. A survey of pain during
+rehabilitation after acute spinal cord injury. Spinal Cord 1997;35:
+658-63.
+17. Cardenas DD, Turner JA, Warms CA, Marshall HM. Classification of chronic pain associated with spinal cord injuries. Arch
+Phys Med Rehabil 2002;83:1708-14.
+18. Rintala DH, Holmes SA, Loubser PG, Courtade D, Fiess RN. Pain
+and depression in veterans with spinal cord injury [abstract].
+J Spinal Cord Med 2002;25:S26.
+19. Kennedy P, Frankel H, Gardner B, Nuseibeh I. Factors associated
+with acute and chronic pain following traumatic spinal cord injuries. Spinal Cord 1997;35:814-7.
+20. Cairns DM, Adkins RH, Scott MD. Pain and depression in acute
+traumatic spinal cord injury: origins of chronic problematic pain?
+Arch Phys Med Rehabil 1996;77:329-35.
+21. Richards JS, Meredith RL, Nepomuceno C, Fine PR, Bennett G.
+Psycho-social aspects of chronic pain in spinal cord injury. Pain
+1980;8:355-66.
+22. Ragnarsson KT. Management of pain in persons with spinal cord
+injury. J Spinal Cord Med 1997;20:186-99.
+23. Delcker A, Wilhelm H, Timmann D, Diener HC. Side effects from
+increased doses of carbamazepine on neuropsychological and
+posturographic parameters of humans. Eur Neuropsychopharmacol 1997;7:213-8.
+24. Casas J, Gibert-Rahola J, Chover AJ, Mico JA. Test-dependent
+relationship of the antidepressant and analgesic effects of amitriptyline. Methods Find Exp Clin Pharmacol 1995;17:583-8.
+25. Abad F, Feria M, Boada J. Chronic amitriptyline decreases autotomy following dorsal rhizotomy in rats. Neurosci Lett 1989;99:
+187-90.
+26. Warms CA, Turner JA, Marshall HM, Cardenas DD. Treatments
+for chronic pain associated with spinal cord injuries: many are
+tried, few are helpful. Clin J Pain 2002;18:154-63.
+27. Widerström-Noga EG, Turk DC. Types and effectiveness of treatments used by people with chronic pain associated with spinal
+cord injuries: influence of pain and psychosocial characteristics.
+Spinal Cord 2003;41:600-9.
+28. Cardenas DD, Jensen MP. Treatments for chronic pain in persons
+with spinal cord injury: a survey study. J Spinal Cord Med
+2006;29:109-17.
+29. Rintala DH, Holmes SA, Loubser PG, Courtade D, Fiess RN. Pain
+in veterans with spinal cord injury [abstract]. In: Proceedings of
+the Third National Department of Veteran Affairs Rehabilitation
+Research and Development Conference Rehabilitation Research
+for the Twenty-First Century: The New Challenges; 2002 Feb
+10-12; Arlington (VA). p 37-8.
+30. Cardenas DD, Warms CA, Turner JA, Marshall H, Brooke MM,
+Loeser JD. Efficacy of amitriptyline for relief of pain in spinal
+cord injury: results of a randomized controlled trial. Pain 2002;
+96:365-73.
+31. Rowbotham M, Harden N, Stacey B, Bernstein P, Magnus-Miller
+L. Gabapentin for the treatment of postherpetic neuralgia: a randomized controlled trial. JAMA 1998;280:1837-42.
+32. Backonja M, Beydoun A, Edwards KR, et al. Gabapentin for the
+symptomatic treatment of painful neuropathy in patients with
+diabetes mellitus: a randomized controlled trial. JAMA 1998;280:
+1831-6.
+33. Hao JX, Xu XJ, Urban L, Wiesenfeld-Hallin Z. Repeated
+administration of systemic gabapentin alleviates allodynia-like
+behaviors in spinally injured rats. Neurosci Lett 2000;280:
+211-4.
+34. Hulsebosch CE, Xu GY, Perez-Polo JR, Westlund KN, Taylor CP,
+McAdoo DJ. Rodent model of chronic central pain after spinal
+cord contusion injury and effects of gabapentin. J Neurotrauma
+2000;17:1205-17.
+35. Mills CD, Grady JJ, Hulsebosch CE. Changes in exploratory
+behavior as a measure of chronic central pain following spinal
+cord injury. J Neurotrauma 2001;18:1091-1105.
+36. To TP, Lim TC, Hill ST, et al. Gabapentin for neuropathic pain
+following spinal cord injury. Spinal Cord 2002;40:282-5.
+37. Putzke JD, Richards JS, Kezar L, Hicken BL, Ness TJ. Long-term
+use of gabapentin for treatment of pain after traumatic spinal cord
+injury. Clin J Pain 2002;18:116-21.
+38. Attal N, Brasseur L, Parker F, Chauvin M, Bouhassira D. Effects
+of gabapentin on the different components of peripheral and
+central neuropathic pain syndromes: a pilot study. Eur Neurol
+1998;40:191-200.
+39. Ahn SH, Park HW, Lee BS, et al. Gabapentin effect on neuropathic pain compared among patients with spinal cord injury and
+different durations of symptoms. Spine 2003;28:341-6.
+40. Tai Q, Kirshblum S, Chen B, Millis S, Johnston M, DeLisa JA.
+Gabapentin in the treatment of neuropathic pain after spinal cord
+injury: a prospective, randomized, double-blind, crossover trial.
+J Spinal Cord Med 2002;25:100-5.
+41. Levendoglu F, Ogun CO, Ozerbil O, Ogun TC, Ugurlu H. Gabapentin is a first line drug for the treatment of neuropathic pain in
+spinal cord injury. Spine 2004;29:743-51.
+42. Mercadante S, Radbruch L, Caraceni A, et al. Episodic (breakthrough) pain: consensus conference of an expert working group
+of the European Association for Palliative Care. Cancer 2002;94:
+832-9.
+43. Fleiss JL. The design and analysis of clinical experiments. New
+York: John Wiley; 1986.
+44. Grady KM, Severn AM. Key topics in chronic pain. Oxford: Bios
+Scientific Publishers; 1997.
+45. Max MB, Lynch SA, Muir J, Shoaf SE, Smoller B, Dubner R.
+Effects of desipramine, amitriptyline, and fluoxetine on pain in
+diabetic neuropathy. N Engl J Med 1992;326:1250-6.
+46. Huskisson EC. Visual analogue scales. In: Melzack R, editor.
+Pain measurement and assessment. New York: Raven Pr; 1983.
+p 33-7.
+47. Downie WW, Leatham PA, Rhind VM, Wright V, Branco JA,
+Anderson JA. Studies with pain rating scales. Ann Rheum Dis
+1978;37:378-81.
+48. Andresen EM, Malmgren JA, Carter WB, Patrick DL. Screening
+for depression in well older adults: evaluation of a short form of
+COMPARING AMITRIPTYLINE AND GABAPENTIN, Rintala 1559
+Arch Phys Med Rehabil Vol 88, December 2007
+the CES-D (Center for Epidemiologic Studies Depression Scale).
+Am J Prev Med 1994;10:77-84.
+49. Radloff LS. The CES-D scale: a self-report depression scale for
+research in the general population. Appl Psychol Meas 1977;1:
+385-401.
+50. Jordan K, Dunn KM, Lewis M, Croft P. A minimal clinically
+important difference was derived for the Roland-Morris Disability
+Questionnaire for low back pain. J Clin Epidemiol 2006;59:45-52.
+51. Jensen MP, Smith DG, Ehde DM, Robinson LR. Pain site and the
+effects of amputation pain: further clarification of the meaning of
+mild, moderate, and severe pain. Pain 2001;91:317-22.
+52. Gruenthal M, Mueller M, Olson WL, Priebe MM, Sherwood AM,
+Olson WH. Gabapentin for the treatment of spasticity in patients
+with spinal cord injury. Spinal Cord 1997;35:686-9.
+53. Priebe MM, Sherwood AM, Graves DE, Mueller M, Olson WH.
+Effectiveness of gabapentin in controlling spasticity: a quantitative study. Spinal Cord 1997;35:171-5.
+54. Galer BS, Jensen MP. Development and preliminary validation of
+a pain measure specific to neuropathic pain: the Neuropathic Pain
+Scale. Neurology 1997;48:332-8.
+55. Cleeland CS, Ryan KM. Pain assessment: global use of the Brief
+Pain Inventory. Ann Acad Med Singapore 1994;23:129-38.
+1560 COMPARING AMITRIPTYLINE AND GABAPENTIN, Rintala
+Arch Phys Med Rehabil Vol 88, December 2007

@@ -1,0 +1,1066 @@
+﻿Accepted Manuscript
+Title: Oral Chinese herbal medicine for post-herpetic
+neuralgia: a systematic review and meta-analysis of
+randomized controlled trials
+Authors: Haiying Liang, Meaghan E Coyle, Kaiyi Wang,
+Anthony Lin Zhang, Xinfeng Guo, Hongyi Li, Charlie
+Changli Xue, Chuanjian Lu
+PII: S1876-3820(17)30005-7
+DOI: http://dx.doi.org/doi:10.1016/j.eujim.2017.01.005
+Reference: EUJIM 638
+To appear in:
+Received date: 9-10-2016
+Revised date: 11-1-2017
+Accepted date: 12-1-2017
+Please cite this article as: Liang Haiying, Coyle Meaghan E, Wang Kaiyi, Zhang
+Anthony Lin, Guo Xinfeng, Li Hongyi, Xue Charlie Changli, Lu Chuanjian.Oral
+Chinese herbal medicine for post-herpetic neuralgia: a systematic review and metaanalysis of randomized controlled trials.European Journal of Integrative Medicine
+http://dx.doi.org/10.1016/j.eujim.2017.01.005
+This is a PDF file of an unedited manuscript that has been accepted for publication.
+As a service to our customers we are providing this early version of the manuscript.
+The manuscript will undergo copyediting, typesetting, and review of the resulting proof
+before it is published in its final form. Please note that during the production process
+errors may be discovered which could affect the content, and all legal disclaimers that
+apply to the journal pertain.
+1
+Oral Chinese herbal medicine for post-herpetic neuralgia: a systematic review
+and meta-analysis of randomized controlled trials
+Short title: Oral Chinese herbal medicine for PHN
+Haiying Liang a,c,d
+, Meaghan E Coyle b
+, Kaiyi Wang b
+, Anthony Lin Zhang b
+, Xinfeng Guo a,c,d, Hongyi Li
+a,c,d
+, Charlie Changli Xue a,b,d
+, Chuanjian Lu a,b,c,d
+a Evidence-based Medicine and Clinical Research Serve Group, Guangdong Provincial Hospital of
+Chinese Medicine, No. 111 Dade Road, Yuexiu District, Guangzhou 510120, China
+b China-Australia International Research Centre for Chinese Medicine, School of Health and
+Biomedical Sciences, RMIT University, PO Box 71, Bundoora, Victoria 3083, Australia
+c The 2nd Clinical College of Guangzhou University of Chinese Medicine, No. 111 Dade Road, Yuexiu
+District, Guangzhou 510120, China
+d Guangdong Provincial Academy of Chinese Medical Sciences, No. 111 Dade Road, Yuexiu District,
+Guangzhou 510120, China
+Co-corresponding authors:
+Prof Chuanjian Lu
+Tel: +86 13822250116
+Fax: +8620 81867705
+E-mail: luchuanjian888@vip.sina.com
+Address: Guangdong Provincial Hospital of Chinese Medicine, No. 111 Dade Road, Yuexiu District,
+Guangzhou 510120, China
+Prof Charlie Changli Xue
+2
+Tel: +613 9925 7360
+Fax: +613 9925 6539
+E-mail: charlie.xue@rmit.edu.au
+Address: China-Australia International Research Centre for Chinese Medicine & School of Health and
+Biomedical Sciences, RMIT University, PO Box 71, Bundoora, VIC 3083, Australia
+Email address and fax number of each author:
+Haiying Liang: shevalhy@126.com, +8620 81867705
+Meaghan E Coyle: meaghan.coyle@rmit.edu.au, +61 3 9925 7178
+Kaiyi Wang: s3416856@student.rmit.edu.au, +61 3 9925 7178
+Anthony Lin Zhang: tony.zhang@rmit.edu.au, +61 3 9925 7178
+Xinfeng Guo: guoxinfeng@139.com, +8620 81867705
+Hongyi Li: lihongyich@126.com, +8620 81867705
+Charlie Changli Xue: charlie.xue@rmit.edu.au, +61 3 9925 7178
+Chuanjian Lu: luchuanjian888@vip.sina.com, +8620 81867705
+3
+Abstract
+Introduction: Post-herpetic neuralgia (PHN) is a common complication of herpes zoster. Pain
+medications have shown benefit, however many patients do not achieve adequate pain relief. Oral
+Chinese herbal medicine (CHM) has been used for people with PHN but its benefit is unclear. This
+review examined the efficacy and safety of oral CHM alone or as add-on therapy for PHN.
+Methods: Nine English and Chinese databases were searched from their inceptions to March 2016.
+Randomized controlled trials (RCTs) evaluating oral CHM for PHN were included. Methodological
+quality was assessed using the Cochrane Collaboration’s risk of bias tool. Data were analysed using
+Review Manager software.
+Results: Twelve RCTs involving 853 participants were included with low to moderate quality based
+on risk of bias assessment. Oral CHM as an add-on intervention to pharmacotherapy improved visual
+analogue scale (VAS) pain score (MD -1.88 cm [-3.34 to -0.42], I2=98%), and scores on the Hamilton
+Rating Scale for Depression (HAM-D) (MD -2.45 points [-3.70 to -1.20], I2=13%) compared with
+pharmacotherapy alone. Significant changes from baseline were seen for all groups. No severe
+adverse events were reported.
+Conclusions: These findings suggested that oral CHM in addition to pharmacotherapy may be
+beneficial for patients with PHN. Oral CHM alone or combined with pharmacotherapy appeared to
+be safe. More high quality trials with rigorous research methods are needed.
+Keywords
+Postherpetic Neuralgia; Chinese Herbal Drugs; Pain; Review, Systematic; Meta-Analysis
+1. Introduction
+Post-herpetic neuralgia (PHN) is a common complication of herpes zoster (HZ), affecting between 10
+and 20% of people over 50 years of age [1]. The incidence rises with advancing age, and has been
+reported to be nearly 80% in people 80 years or older [2]. Pain may be present continuously or 
+4
+intermittently, and is usually limited to the same dermatome in which the herpes zoster rash
+occurred [3]. Pathological changes of both central nervous system and peripheral nervous system
+may contribute to the neuralgia [4-6]. Pain is described as burning, aching, throbbing, lancing or
+electric-shock like [7] and can be associated with other symptoms such as sleep disturbance, loss of
+appetite, weight loss, and depression [8].
+The impact of PHN is significant [4], due to decreased quality of life, and increased costs associated
+with the treatments [9]. People with PHN experience worse general wellbeing than those without
+PHN. The impact of chronic pain on mental health is considerable, with up to 43% of people suffered
+from chronic pain were reported with moderate levels of anxiety or depression [10]. Health care
+utilisation in people with PHN is also high, with an average of 11.9 visits to general practitioners to
+manage pain [11].
+Clinical practice guidelines for PHN [12] and chronic pain (which include specific reference to PHN)
+[13-15] recommend tricyclic antidepressants (TCAs), gabapentin, and pregabalin as first line
+treatment for PHN. Variation exists in additional first line treatments and second line therapies, and
+include opioid analgesics, tramadol and topical lidocaine. All medications have been shown to be
+effective, however the individual response varies considerably. Between 40 and 50% of people with
+PHN do not respond to any treatment [16], and many people taking multiple medications continue
+to experience pain most or all of the time [17]. Many of the guideline recommended
+pharmacotherapies used in the included studies have established safety profiles and known adverse
+events (AEs). For example, sedation, dry mouth, blurred vision, weight gain and urinary retention
+were reported with TCAs; dizziness, sedation and peripheral edema were seen with anticonvulsants
+(gabapentin and pregabalin); and nausea, vomiting, constipation, sedation, dizziness, seizures and
+postural hypotension were common with tramadol [4].
+5
+Effective pain relief is difficult to attain for patients and clinicians, and is an area of unmet clinical
+need [8]. Some authors have included a minimum threshold for clinically important pain of three on
+a 10-point scale [18, 19]. Dubinsky et al [12] considered that a reduction in VAS or Likert scale to
+below four, or by 50%, was adequate pain relief. Currently, no minimal clinically important
+difference (MCID) has been defined for PHN.
+Chinese herbal medicine (CHM) has a long history of use in China. CHM has been used to treat a
+range of pain related conditions, and has been evaluated in a Cochrane systematic review of
+neuropathic pain [20]. In people with diabetic peripheral neuropathy, CHM produced greater global
+improvements in pain and numbness than conventional medicine [20], although the review authors
+noted the poor methodological quality of included studies and lack of objective outcome measures.
+One systematic review evaluating Chinese medicine (CM) for PHN was identified in Chinese
+databases [21]. It showed that the CM group had a better improvement in VAS score than the
+pharmacotherapy group (WMD -1.73 points, 95% CI -2.12 to -1.35, I2=0%). However, the details of
+interventions in both groups weren't specified. The results were not able to be interpreted in a
+meaningful way. This review aims to evaluate the efficacy and safety of oral CHM for PHN in
+randomised controlled trials (RCTs).
+2. Methods
+2.1 Data sources and search strategy
+Nine electronic databases were searched from inceptions to February 2014, and an update search
+was conducted in March 2016. English databases included PubMed, which was used to search
+MEDLINE, Cumulative Index of Nursing and Allied Health Literature (CINAHL), Cochrane Central
+Register of Controlled Trials (CENTRAL), Embase, Allied and Complementary Medicine Database 
+6
+(AMED) and Chinese databases included China BioMedical Literature (CBM), China National
+Knowledge Infrastructure (CNKI), the Chongqing VIP Chinese Scientific Journal database (CQVIP) and
+WanFang database. As PHN is a sequela of herpes zoster, search terms for both conditions were
+used. Search terms included neuralgia, postherpetic; PHN; post-herpetic pain; postherpetic pain;
+herpes zoster, varicellovirus, shingles, and variants. Search terms for Chinese herbal medicine
+included Traditional Chinese Medicine; Chinese Drugs, Plants; Plants, Medicinal; Herbs; and variants.
+Search terms for study designs included randomized controlled trial, controlled clinical trial, placebo,
+drug therapy, and variants. Both subject heading and keyword searches were conducted. Terms
+were also searched in the titles and abstracts. No restrictions were applied. The search was part of a
+comprehensive search for PHN with CM interventions, which included CHM, acupuncture,
+moxibustion, and other therapies of CM. This approach was aimed to ensure the largest sample of
+CHM was included.
+2.2 Study selection criteria
+The definition of PHN is still controversial. There have been many definitions of PHN reported in the
+literature, including pain at four weeks, six weeks, eight weeks, twelve weeks and six months after
+the resolution of the rash [3]. To date, no consensus definition of PHN has been reached [8]. Two
+clinical practice guidelines for HZ have proposed differing definitions, with the German Dermatology
+Society defining PHN as pain persisting for longer than four weeks [22], and Dworkin et al [4]
+proposing PHN is pain persisting for at least 120 days after rash onset. The definition proposed by
+Dworkin and Portenoy [23] of pain persisting three or more months after resolution of the rash is
+generally used for diagnosis and in research.
+As the pharmacological management of PHN is the same irrespective of PHN duration, PHN defined
+as pain persisting for one month or more after the resolution of the rash [22] was used as a 
+7
+diagnostic criteria for participants in the studies. Inclusion criteria were randomised controlled trials
+(RCTs) of oral CHM in adults with PHN. Interventions included oral CHM with or without
+pharmacotherapy. Studies were eligible for inclusion where the comparators were treatments
+recommended in international guidelines for PHN [12] or neuropathic pain [13-15], placebo or no
+treatment/waitlist control. Studies which used another form of Chinese medicine as the comparator
+were excluded, as were studies of acute stage herpes zoster, neuropathic pain, and PHN in patients
+under 18 years old, immunocompromised patients, and pregnant or breastfeeding females. The
+primary outcome was pain severity, measured on visual analogue scale (VAS) or other scales.
+Secondary outcomes included health related quality of life (HRQoL) measured using the disease
+specific questionnaires Zoster Brief Pain Inventory or Initial Zoster Impact Questionnaire [18], or
+other wellbeing questionnaires eg the MOS 36-item short-form health survey (SF-36), EuroQol 5
+Dimension questionnaire (EQ-5D), Hamilton Rating Scale for Depression (HAM-D); and adverse
+events.
+2.3 Data selection and extraction
+Identified citations were exported to Endnote reference management software for duplicate
+removal and further review. Titles and abstracts were screened initially to exclude irrelevant articles,
+and where this could not be determined from the title and abstract, the full text was retrieved. Once
+eligibility was confirmed, data extraction of study characteristics, intervention and comparator
+details, results and adverse events were entered into EpiData Version 3.1 software.
+2.4 Quality assessment and statistical analyses
+Methodological quality was assessed using the Cochrane Collaboration’s risk of bias tool [24].
+Assessment of risk of bias for individual studies was done at the study level. Information gathered
+from risk of bias assessment was used for sub-group analyses where possible. Two researchers 
+8
+independently assessed the risk of bias (H. Liang and K. Wang). If disagreement was seen in the
+assessment it was resolved by discussion with a third researcher (M.E. Coyle).
+Study results were entered into Review Manager Software (version 5.3), provide by the Cochrane
+Collaboration, for further analysis and meta-analysis where possible. Results were presented as
+mean difference (MD) or risk ratio (RR) with 95% confidence intervals (CI), and analyses were
+performed using a random effects model. Heterogeneity was considered substantial where the I2
+statistic was greater than 50% with a p value of less than 0.10 in the Chi square test for
+heterogeneity. Sub-group analyses were planned according to comparators, duration of treatment
+and risk of bias assessment for sequence generation. Where 10 or more studies were included in
+one meta-analysis, we planned to visually assess funnel plot symmetry.
+3. Results
+3.1 Description of Studies
+The comprehensive search of Chinese and English language databases and other sources identified
+37,717 related citations, of which 17,440 citations remained after duplicates were removed. After
+screening titles and abstracts, 12,653 articles were excluded, with 4,787 studies requiring full text
+review. Fourteen (14) RCTs of Chinese herbal medicine for PHN were identified. One RCT used
+intravenous CHM as the intervention, and the other used topical CHM. Both studies were excluded
+from this review, resulting in 12 RCTs eligible for inclusion [25-36]. Figure 1 presents the details of
+the study selection process.
+All studies were conducted in China and were identified from the Chinese databases. In total, 853
+participants were included in these studies, with 460 receiving CHM and 393 receiving guideline
+recommended pain treatments. The majority (10 studies) were conducted in outpatient hospital 
+9
+departments. The number of male participants (426) was similar to the number of females (427).
+Sample sizes of studies ranged from 40 [32] to 112 [30]. The majority of studies defined a clear
+timeframe for PHN, either one month [25-29, 31, 35] or three months [33, 34, 36] after the
+resolution of rash. Two articles [30, 32] stated the definition of PHN as pain persisting after the rash
+healed. Since the duration of PHN in both studies was over one month, both were considered
+eligible. Duration of treatment ranged from 10 to 30 days. Three studies reported follow-up
+assessment, at 1, 2, and 4 weeks [36], 4 weeks [27] and 3 months [26].
+Ten studies were two-arm RCTs [25-33, 36], and two studies were multiple-arm trials [34, 35]. One
+study included two intervention arms, with one using CHM alone and the other using oral CHM plus
+pharmacotherapy (CHM as add-on therapy) [34]. The other was a multiple-arm RCT [35], with two
+CHM arms (one CHM alone and one CHM as add-on therapy) and one arm which combined CHM
+with acupuncture (not included in analysis). Most of the RCTs administered CHM as a decoction,
+with one using patent CHM (Liu Shen Wan – pills). Formulas developed by researchers were
+commonly used, thus there was no overlap in formulas across studies. Chinese medicine syndrome
+differentiation was indicated in one study [27] as an inclusion criterion to guide treatment, which
+used pattern/syndrome of qi stagnation and blood stasis. The most frequently used herbs in the
+included RCTs were dang gui, yan hu suo, chai hu, chuan xiong, tao ren, hong hua, huang qi, and gan
+cao (see Table 1).
+Four studies compared oral CHM alone with pharmacotherapy [25, 27, 32, 36], while six studies
+compared oral CHM plus pharmacotherapy with the same pharmacotherapy [26, 28-31, 33]. Two
+studies included two treatment arms, one of oral CHM alone and one of oral CHM as add-on therapy
+[34, 35]. Comparators included TCAs alone [27, 28] or with other treatments [25, 26, 30, 32, 36],
+tramadol alone [29], TCAs with tramadol [31], and anticonvulsants alone [33, 34] or with other 
+10
+treatments [35]. Other treatments used with guideline recommended treatments were mainly
+vitamins B1 or B12 or derivatives. Study characteristics are presented in Table 2 & 3.
+3.2 Risk of Bias assessment
+In most aspects, risk of bias is unclear in the included studies (see Figure 2). One study mentioned
+random number was generated by computer [31], and another study mentioned using a random
+number table [36], both studies were assessed as low risk for sequence generation. None of the
+studies provided the details of the method of allocation concealment and were all assessed as
+unclear risk. Considering none of the studies stated double-dummy and the blinding could be easily
+broken by different forms between interventions (CHM formula decoctions) and comparators
+(pharmaceutical pills and/or injection), all studies were assessed as high risk for blinding method of
+participants and personnel. None of the studies mentioned the blinding method of outcome
+assessors and were assessed as unclear risk. Three studies were assessed as low risk for incomplete
+outcome data, as they all reported no dropout or withdraw [31-33]. The other studies had unclear
+risk, for the reason that there was no mention of dropout or withdraw. None of the studies provided
+any information of trial registration and protocol, and they were assessed as unclear risk in selective
+outcome reporting. Since none of the analyses included ten or more RCTs, publication bias was not
+assessed.
+3.3 Outcome Measures
+3.3.1 Pain score
+All included studies reporting VAS used an 0 to 10 cm scale. For oral CHM alone, two studies
+reported pain score on VAS at end of treatment [27, 35], which was not statistically different to
+pharmacotherapy (MD -0.30 cm, 95% CI -1.12 to 0.52, I2 = 0%). One study evaluated pain
+improvement on a 10-point numerical rating scale (NRS), with higher scores indicating more severe 
+11
+pain [36]. The result favoured oral CHM alone, with NRS score reduced by 0.79 points (95% CI -1.25
+to -0.33) at one week after the end of treatment (EoT) and 0.85 points (95% CI -1.24 to -0.46) at four
+weeks post EoT.
+Five studies measured pain score with oral CHM as an add-on therapy [26, 28, 29, 33, 35]. Oral CHM
+plus pharmacotherapy reduced VAS score by 1.88 cm (95% CI -3.34 to -0.42, I2=98%) compared to
+pharmacotherapy alone (see Figure 3). Considerable statistical heterogeneity was detected, so
+subgroup analyses were conducted. Subgroup analysis was performed according to the duration of
+treatment (see Figure 3). Trials with 4-week treatment duration favoured oral CHM as add-on
+therapy with no statistical heterogeneity (MD -1.09 cm, 95% CI -1.37 to -0.81, I
+2 = 0%). Patients who
+received oral CHM as add-on therapy for less than 4 weeks didn’t show a significant improvement
+(MD -2.85cm, 95% CI -6.65 to 0.96, I2 = 99%) and heterogeneity was considerable. Subgroup analysis
+was planned according to types of CHM formulae. Studies which used investigator developed
+formulae were the same studies as those which used a treatment duration of 4 weeks, and studies
+which used traditional formulae were the same as those which used a treatment duration less than 4
+weeks.
+Further analysis was carried out according to definition of PHN (one month or more after resolution
+of the rash) (Figure 4). Positive effects on pain relief were seen with oral CHM as add-on therapy,
+with no statistical heterogeneity (MD -1.01 cm, 95% CI -1.22 to -0.80, I2=0%). One study which used a
+definition of PHN of three months or more after resolution of the rash [33], also achieved a
+significant improvement on pain relief (MD -4.79 cm, 95% CI -5.27 to -4.31) when compared to
+pharmacotherapy.
+12
+Within group analysis was performed to assess the change in pain score between baseline and EoT,
+and to determine whether the end of treatment scores met suggested thresholds for clinically
+meaningful pain/adequate pain relief (see Table 4). The means of mean scores of all groups (oral
+CHM alone, oral CHM as add-on therapy, and pharmacotherapy) were similar at baseline. All groups
+showed significant reductions in pain score between baseline and EoT. The largest change within
+groups was seen in people who received oral CHM as add-on therapy (reduction of 5.78 cm [95% CI -
+6.31 to -5.24]), followed by oral CHM alone (MD -4.97 cm, 95% CI -5.64 to -4.30), and
+pharmacotherapy (MD -3.93 cm, 95% CI -5.45 to -2.40). Considerable heterogeneity was seen in the
+pharmacotherapy group. Possible reasons may include different kinds of guideline recommended
+medications used as comparators, duration of PHN, or duration of treatment. No heterogeneity was
+seen in results for oral CHM alone, suggesting that despite different formulas being used the overall
+treatment effect was consistent. At end of treatment, the mean of mean scores for all three groups
+were below the threshold of four out of 10 for clinically significant pain, as suggested by Dubinsky et
+al [12]. However, only oral CHM alone and as add-on therapy met the threshold of three out of 10
+for clinically significant pain as suggested by Coplan et al [18] and Oxman et al [19].
+3.3.2 Hamilton Rating Scale for Depression (HAM-D)
+Three studies reported on the outcome HAM-D, with two using the 17-item version [26, 28] and one
+not specifying which version of HAM-D was used [27]. In the studies which reported on the 17-item
+HAM-D, one used doxepin alone [28], while the other used doxepin in combination with vitamin B1
+and adenosylcobalamin (a derivative of vitamin B12) [26]. The result favoured oral CHM as add-on
+therapy (MD -2.45 points, 95% CI -3.70 to -1.20, I2=13%) when compared to pharmacotherapy (see
+Figure 5). The study which didn’t specify the version of HAM-D used oral CHM alone [27]. Compared
+to amitriptyline, no improvement was seen at the end of treatment (MD -1.49 points, 95% CI -3.23
+to 0.25).
+13
+3.3.3 Other health related quality of life outcomes
+One study which used oral CHM alone reported HRQoL on the Dermatology Life Quality Index (DLQI),
+Pittsburgh Sleep Quality Index (PSQI), as well as self-rating depression scale (SDS) [36]. Oral CHM
+alone significantly improved DLQI by 4.10 points (95% CI -5.49 to -2.71) at one week post EoT and
+0.89 points (95% CI -1.16 to -0.62) at four weeks post EoT when compared to pharmacotherapy. The
+result showed a significant improvement on PSQI at one week post EoT (MD -2.50 points, 95% CI -
+3.18 to -1.82) and four weeks post EoT (MD -2.21 points, 95% CI -2.66 to -1.76) for patients who
+received oral CHM therapy. There was also a significant reduction on SDS for oral CHM by 6.44
+points (95% CI -8.89 to -3.99) at one week post EoT and 6.12 points (95% CI -8.01 to -4.23) at four
+weeks post EoT.
+3.3.4 Adverse Events
+Five studies which compared oral CHM alone to pharmacotherapy reported on adverse events [25,
+27, 32, 34, 35], and one study did not [36]. One study reported that no adverse events occurred [34].
+The others reported a total of 12 adverse events in the intervention groups, including five cases of
+diarrhoea, three cases of discomfort associated with medicine taste, two cases of upper abdominal
+discomfort, and one case each of nausea and vomiting. Sixty-eight adverse events were reported in
+the control groups, which included drowsiness (16 cases), dry mouth (15), constipation (9),
+drowsiness, blurred vision plus sweating (9), poor appetite plus dizziness (9), nausea plus acid reflux
+(3), difficult urination (3), dizziness (2) and one case each of sweating and orthostatic hypotension.
+Causality was assessed in one study [25]. This study indicated that in the intervention group nausea
+and vomiting were certainly related to oral CHM, and upper abdominal discomfort was likely related
+to oral CHM. In the control group, dry mouth, drowsiness, sweating and two cases of dizziness were
+certainly related to pharmacotherapy (which included amitriptyline, vitamin B1 and B12, and 
+14
+paracetamol plus codeine), while one case each of dizziness and orthostatic hypotension were likely
+related to pharmacotherapy. No severe adverse events were reported.
+Seven out of the eight trials using oral CHM as add-on therapy reported on adverse events [26, 28,
+30, 31, 33-35], with three of them reporting no adverse events occurred [30, 33, 34]. There were 18
+adverse events in the intervention group and 16 in the pharmacotherapy group. Adverse events
+included poor appetite and dizziness (intervention group: 8 cases, control group: 9 cases), mild
+dizziness (intervention group: 1, control group: 3), nausea and acid reflux (intervention group: 3,
+control group: 3), and mild nausea (intervention group: 2, control group: 1). Two cases of
+gastrointestinal reactions, and one case each of nausea plus vomiting and mild diarrhoea occurred in
+the intervention group. No causality assessment was conducted for these adverse events. No severe
+adverse events were reported.
+4. Discussion
+This systematic review showed that oral CHM as an add-on therapy to pharmacotherapy had better
+outcomes for PHN, based on VAS pain score and HAM-D, when compared to pharmacotherapy
+alone. The result favoured oral CHM as an add-on therapy, with a reduction of VAS score by 1.88cm.
+One single study showed a greater improvement for patients who received oral CHM alone on NRS,
+another scale for pain assessment. Oral CHM, either being used alone or as add-on therapy, reduced
+mean of mean pain scores to below 3/10 at the end of treatment. This result can be considered as
+clinically adequate pain relief, and may benefit patients, since higher pain score has been associated
+with lower QoL with greater negative impact on activities of daily living [18].
+As high heterogeneity was seen in the meta analyses for pain score, subgroup analyses were
+conducted according to the duration of treatment, types of CHM formulae, and definition of PHN. 
+15
+But considerable statistical heterogeneity was still detected. From visual inspection of the forest plot,
+it appears that one study (MX Zhang et al, 2014) [33] is contributing to the high heterogeneity. First,
+this study had pain score in the control group much higher than the others at the end of treatment.
+Second, it was the only one to use the definition of PHN three or more months after resolution of
+the rash. These two aspects indicate that the condition or severity of PHN from this study may be
+different from the other studies. The longer PHN duration may mean there is less effect with
+pharmacotherapy. If this study is excluded from the analysis, the heterogeneity reduces to 0%.
+Patients receiving oral CHM as an add-on therapy for four weeks obtained a significant improvement
+in pain compared with those who received treatment for less than four weeks. This suggests that
+longer duration of treatment is needed to achieve meaningful pain relief for people with PHN. Trials
+of short duration are not uncommon in PHN, with most trials of pharmacotherapy in neuropathic
+pain being less than 12 weeks [14]. Finnerup et al [37] recommend that trials of 12 weeks or more
+are needed in the future; this recommendation is not limited to pharmacotherapy. Considerable
+heterogeneity seen in the subgroup analysis for duration of treatment less than four weeks may be
+due to the variation of duration, ranging from two to three weeks. While CHM for four weeks
+produced greater short-term reduction in pain score than pharmacotherapy, the long term effects
+are unknown.
+Since there is no MCID defined for PHN yet, a minimum threshold for clinically important pain may
+be one approach to evaluate the treatment effects. All three groups met the threshold of four out of
+10 for clinically important pain relief [12] at end of treatment, but only oral CHM alone and as addon therapy were below the three out of 10 threshold for clinically important pain [18, 19]. This
+finding indicates oral CHM therapy may have an important role in improving pain scores for patients
+of PHN.
+16
+As well as neurological changes and concomitant disease, it is essential to assess psychosocial status
+of PHN [7]. DLQI, PSQI and SDS were assessed in one study which compared oral CHM alone with
+pharmacotherapy. The result favoured oral CHM therapy in these three outcomes. This may indicate
+that oral CHM therapy can improve outcomes related to quality of life, but as only one study
+contributed this data the reliability remains unclear. HAM-D was evaluated in three included RCTs.
+One study which used oral CHM alone didn’t improve HAM-D scores more than pharmacotherapy.
+Two studies reported on the 17-item HAM-D, finding oral CHM as add-on therapy was significantly
+effective when compared to pharmacotherapy. There is promising evidence that oral CHM as add-on
+therapy may improve patients’ symptoms of depression. This is an important finding, as PHN, and
+chronic pain more broadly, has been known to have a large negative impact on mood and mental
+well-being [10]. The reasons why oral CHM as add-on therapy produced a statistically significant
+result on HAM-D when oral CHM alone did not are unclear. Possible reasons may include the add-on
+effect when CHM was combined with pharmacotherapy, differences in comparators used, variants
+of the outcome measure itself, or may be a product of small numbers of studies and participants in
+these analysis. Further research is needed to clarify the potential benefit of CHM compared with
+TCAs and other guideline recommended treatments.
+Based on included studies, oral CHM therapy was safe for PHN and well-tolerated. Adverse events
+reported in the intervention groups where oral CHM was used alone were much fewer than those in
+the pharmacotherapy group. Diarrhoea was the most common AE in the treatment group when oral
+CHM was used alone. Other discomforts were more likely related to the medicine taste. All these
+AEs didn’t have much impact on participants and were resolved as the trials went on. The number of
+adverse events that occurred in trials using oral CHM as an add-on therapy was similar to the
+pharmacotherapy group. The AEs such as dizziness and nausea are known to be common in the 
+17
+pharmacotherapies. Even though no causality was assessed, the AEs were considered to be
+associated with pharmacotherapies. None of the symptoms were considered severe, and resolved
+with time. No patient dropped out because of adverse events.
+In Chinese medicine (CM), patients suffering from pain in the acute stage of herpes zoster or in PHN
+usually manifest with the syndrome of qi stagnation and blood stasis [38]. The treatment principle is
+to activate qi and blood circulation and remove blood stasis. Seven of the eight most frequently used
+herbs (dang gui, yan hu suo, chai hu, chuan xiong, tao ren, hong hua, and huang qi), have the
+function of promoting qi and blood circulation, an important therapeutic aim with Chinese medicine
+treatment of pain. The inclusion of gan cao as one of the most frequently used herbs was not
+surprising, as one of its main functions is to harmonize ingredients in a formula. With the exception
+of huang qi, the most frequently reported herbs are all included in the formulas Xue fu zhu yu tang
+combined with Jin ling zi san, which are recommended for treating the syndrome of qi stagnation
+and blood stasis in acute stage of herpes zoster or in PHN [38]. This suggests that there was clinical
+homogeneity in the treatment principles in included studies, with similar effects seen.
+In order to examine the potential mechanisms of key herbs, experimental studies were reviewed to
+identify relevant actions. Several studies showed mechanisms that may be relevant to post-herpetic
+neuralgia and/or chronic pain. Ligustilide is a major component of dang gui and reported to have
+anti-inflammatory and anti-nociceptive effects [39]. Certain kinds of alkaloids, which are the main
+chemical constituents of yan hu suo, were found to elicit profound effects on the dopaminergic
+system in the central nervous system and play an important role in regulating nociception [40]. The
+ethanol extract of chai hu was reported to have a similar effect of analgesia when compared with
+rotundine [41]. The extract of chuan xiong was reported to have significant effects on reducing
+neuropathic pain and protecting nerve system in rats [42]. Persicae semen extract (PSE), which is one 
+18
+main extract of tao ren, was found to lower blood viscosity and inhibit thrombosis [43].
+Hydroxysafflor yellow A (HSYA), as one of the main active component of hong hua, was indicated to
+have anti-inflammatory function through regulating inflammation-related factors [44]. Topical gels of
+hong hua were reported to have effects on regulating inflammation and relieving pain [45]. Analgesic
+and anti-inflammatory effects were demonstrated for astragalus hamosus (HAAH) in animal models
+[46], which showed that huang qi could have an important function in treating pain and
+inflammatory conditions. These experimental evidences support that the herbs which were most
+frequently used in the included studies have important clinical functions in treating PHN.
+Limitations of this review should be considered since methodological shortfalls were seen in the
+included studies. Only two trials mentioned the details of random sequence generation, and none
+reported on allocation concealment. Blinding of participants and personnel was not performed in
+any of the studies. Sample sizes were small and no calculation of sample sizes could be found in all
+the studies. Previous studies showed that subjective outcomes such as VAS pain scale could be easily
+influenced by placebo effect (lack of or unclear double-blinding studies) [47], which probably yielded
+larger estimates of intervention effects [48, 49]. Therefore, the result of this review should be
+interpreted with caution. The methodological shortfalls are likely to influence the reliability of the
+conclusion. The potential benefits of oral CHM for PHN need to be further evaluated through
+rigorously designed and adequately powered clinical trials which use proper randomisation and
+allocation concealment. Blinding should be applied on participants, personnel, and outcome
+assessors where possible.
+As all the included studies were conducted in China, it remains unclear whether the finding would be
+influenced by inclusion of studies published outside of China. No studies conducted outside of China 
+19
+met the inclusion criteria, which is another limitation of this review. In addition, the grey literature
+was not searched, which gives room to publication bias influencing the study.
+5. Conclusions
+Oral CHM as an add-on therapy appeared to be effective in treating PHN by improving VAS pain
+score and HAM-D. Oral CHM used alone or combined with pharmacotherapy produces significant
+reductions in mean pain scores from baseline to end of treatment. Future trials should address
+methodological shortcomings identified including group allocation and blinding. Overall, oral CHM
+appeared to be safe, and may be beneficial for patients of PHN.
+20
+Contributions of authors
+H. Liang and M.E. Coyle conceptualised the paper. K. Wang conducted the initial database searches,
+and H. Liang and M.E. Coyle conducted the update searches. H. Liang and M.E. Coyle assessed
+studies for inclusion, extracted and analysed the data, and drafted the manuscript. H. Liang and K.
+Wang assessed the risk of bias for the included studies. All the authors contributed to the
+interpretation of findings, revised the manuscript, and approved the final version of the manuscript.
+Funding Source
+The project is jointly supported by the China-Australia International Research Centre for Chinese
+Medicine (CAIRCCM) - a joint initiative of RMIT University, Australia and the Guangdong Provincial
+Academy of Chinese Medical Sciences, China. It is also supported by International Science &
+Technology Cooperation Program funded by Ministry of Science & Technology of China [No.
+2012DFA31760] and International Science and Technology Cooperation Project of TCM funded by
+State Administration of TCM, China [No. 1601500000027(11)].
+Conflict of Interest
+The authors declare that there is no conflict of interest regarding the publication of this paper.
+Acknowledgements
+The authors wish to acknowledge Ms Liang (Melody) Zhang who assisted with study screening and
+data extraction, and Ms Suzi Mansu who assisted with English database searches.
+21
+Appendix
+Search Strategies
+English Databases
+#1: Neuralgia OR Postherpetic OR PHN OR post-herpetic pain OR postherpetic pain OR herpes zoster
+OR zona OR shingles OR Zoster OR Varicellovirus OR Herpesvirus 3, Human OR HHV-3
+#2: Traditional Chinese Medicine OR Chinese Traditional Medicine OR Chinese Herbal Drugs OR
+Chinese Drugs, Plant OR Medicine, Traditional OR Ethnopharmacology OR Ethnomedicine OR
+Ethnobotany OR Medicine, Kampo OR Kanpo OR TCM OR T.C.M. OR Medicine, Ayurvedic OR
+Phytotherapy OR Herbology OR Plants, Medicinal OR Plant Preparations OR Plant Extracts OR
+Plants, Medicine OR Materia Medica OR Single Prescription OR Herbs OR Chinese Medicine Herb
+OR Herbal Medicine OR Acupuncture OR Meridians OR Electroacupuncture OR Moxibustion OR
+Auriculotherapy OR plum blossom OR acupressure OR ear acupuncture OR ear acupressure OR
+acupuncture, ear OR acupuncture therapy OR moxa OR laser acupuncture OR seven star needle
+OR acupuncture analgesia OR acupuncture points OR electro-acupuncture OR electro acupuncture
+OR TENS OR transcutaneous nerve stimulation OR transcutaneous electric nerve stimulation OR
+transcutaneous electrical nerve stimulation OR electro-stimulation OR electro stimulation OR
+pharmacopuncture OR point injection OR catgut embedding OR Tai Ji OR Tai chi OR Breathing
+exercises OR Qi gong OR Qigong OR Chi Kung OR Tuina OR anmo Tuina OR Chinese massage OR
+cupping OR guasha OR blood letting OR bloodletting OR diet therapy OR therapy, diet OR
+therapies, diet OR phlebotomy
+#3: randomized controlled trial OR controlled clinical trial OR randomized OR placebo OR drug
+therapy OR randomly OR trial OR groups OR Systematic OR cohort studies OR case-control studies
+OR comparative study OR risk factors OR cohort OR compared OR groups OR case control OR
+multivariate OR case series
+#4: #1 AND #2 AND #3
+Chinese Databases (search by using simplified Chinese character)
+#1: Pao Zhen (Herpes) OR She Chuan Chuang (Herpes zoster) OR Bai She Chan Yao (Herpes zoster)
+OR Chan Yao (Herpes zoster) OR Chan Yao Chuang (Herpes zoster) OR Chan Yao Huo Dan (Herpes
+zoster) OR Chan Yao Huo Long (Herpes zoster) OR Chan Yao Long (Herpes zoster) OR Chuan Yao
+Long (Herpes zoster) OR Feng Chi Chuang Yi (Herpes zoster) OR Huo Dai Chuang (Herpes zoster)
+OR Huo Dan (Herpes zoster) OR Huo Dan Chuang (Herpes zoster) OR Huo Liao Chuang (Herpes
+zoster) OR Huo Yao Chuang (Herpes zoster) OR Huo Yao Dai Du (Herpes zoster) OR Pu Xing Zhen
+(Herpes zoster) OR She Chan Chuang (Herpes zoster) OR She Chan Dan (Herpes zoster) OR She
+Chan Hu Dai (Herpes zoster) OR She Dan (Herpes zoster) OR She Ke Chuang (Herpes zoster) OR
+She Pan Chuang (Herpes zoster) OR She Xing Dan (Herpes zoster) OR Shen She (Herpes zoster)
+OR Zhen Dai Chuang (Herpes zoster) OR Zhi Zhu Chuang (Herpes zoster) OR Chan Yao Dan
+(Herpes zoster) OR She Xing Dan (Herpes zoster) OR She Dan Yu Hou Tong (Postherpetic
+neuralgia)
+#2: Zhong Yi (Traditional Chinese Medicine) OR Zhong Yi Liao Fa (Chinese Medicine) OR Zhong Yi Zhi
+Fa (Treatment of Chinese Medicine) OR Zhong Xi Yi (Chinese and Western Medicine) OR Zhong Xi
+Yao (Chinese and Western Medicine) OR Cao Yao (Herbal Medicine) OR Zhong Cao Yao (Chinese
+Herbal Medicine) OR Zhong Yao (Chinese Medicine) OR Zhong Cheng Yao (Chinese patent
+medicine) OR Zhong Yao Liao Fa (Treatment of Chinese Medicine) OR Bian Zheng (Syndrome
+differentiation) OR Bian Bing Lun Zhi (Treatment based condition differentiation) OR Bian Zheng
+Lun Zhi (Treatment based on syndrome differentiation) OR Bian Zheng Shi Zhi (Treatment based
+on syndrome differentiation) OR Han Fang (Kampo) OR Zu Guo Yi Xue (Chinese Medicine) OR Min
+Zu Yi Yao (Ethnomedicine) OR Chuan Tong Yi Xue (Traditional Medicine) OR Chuan Tong Yi Yao
+(Traditional Medicine) OR Chuan Tong Zhi Liao (Traditional treatment) OR Zhong Guo Chuan Tong
+Yi Xue (Traditional Chinese Medicine) OR Ti Dai Yi Xue (Alternative Medicine) OR Ti Dai Zhi Liao 
+22
+(Alternative treatment) OR Zhi Wu Yao (Phytomedicine) OR Xun Xi (Fumigation and washing
+therapy) OR Yao Yu (Medicated bath) OR Mu Zu (Foot bath) OR Zu Yu (Foot bath) OR Guan Chang
+(Enema) OR Yun Fa (Hot compress) OR Yao Yun (Hot medicinal compress) OR Yun Yao (Hot
+medicinal compress) OR Re Yun (Hot compress) OR Re Fu (Hot dressing) OR Fu Qi (Dressing on
+navel) OR Yao Zhen (Medicinal pillow) OR Yao Hong (Medicinal baking) OR Zhen Ci (Acupuncture)
+OR Jiu (Moxibustion) OR Zhen Fa (Acupuncture) OR Ci Fa (Acupuncture) OR Ti Zhen (Acupuncture)
+OR Fu (Abdominal acupuncture) OR Wen Zhen (Warm Needling) OR Huo Zhen (Fire needling) OR
+Dian Zhen (Electronic acupuncture) OR Dian Ci Zhen (Electromagnetic acupuncture) OR Mei Hua
+Zhen (Plum-blossom needle) OR Shui Zhen (Acupuncture point injection) OR Xue Wei Zhu She
+(Acupuncture point injection) OR Jing Luo Zhu She (Meridian injection) OR Xue Wei An Ya
+(Acupressure) OR Xue Wei An Mo (Acupoint massage) OR Zhi Ya Xue Wei (Acupressure) OR Er Ya
+(Ear acupressure) OR Er Zhen (Ear acupuncture) OR Er Xue (Ear point) OR Er Dou (Ear acupressure)
+OR Mai Cang Liao Fa (Embedding therapy) OR Mai Xian (Catgut embedding) OR Wai Zhi (Topical
+therapy) OR Tui Na (Tuina) OR An Mo (Massage) OR Ba Guan (Cupping) OR Yao Guan (Medicinal
+cupping) OR Tui Guan (Movable cupping) OR Shan Guan (Quick cupping) OR Dian Guan (Electronic
+cupping) OR Huo Guan (Fire cupping) OR Bian Shi (Stone needle) OR Bian Shu (Stone needle) OR
+Bian Fa (Stone needle) OR Gua Sha (Scraping therapy) OR Gua Cuo (Scraping therapy) OR Tiao Zhi
+(Pricking therapy) OR Ge Zhi (Cutting therapy) OR Fa Pao (Blister therapy) OR Dao Yin (Guiding
+therapy) OR Tu Na (Breathing therapy) OR Qi Gong (Qigong) OR Tai Ji (Tai Chi) OR Ba Duan Jin
+(Baduanjin exercise) OR Ci Jing (Meridian pricking) OR Ci Xue (Blood pricking) OR Fang Xue
+(Bloodletting) OR San Leng Zhen (Three-edged needling)
+#3: Xi Tong Ping Jia (Systematic review) OR meta OR Hui Cui Fen Xi (Meta-analysis) OR Xi Tong Fen Xi
+(Systematic analysis) OR Zong Shu (review) OR Jin Zhan (Progress) OR Gai Kuang (General
+Situation) OR Xian Zhuang (Present Situation) OR Jin Kuang (Recent situation) OR Lin Chuang Guan
+Cha (Clinical observation) OR Lin Chuang Ping Gu (Clinical evaluation) OR Lin Chuang Shi Yan
+(Clinical trials) OR Lin Chuang Xiao Guo (Clinical efficacy) OR Lin Chuang Yan Jiu (Clinical study) OR
+Liao Xiao (Efficacy) OR Ping Jia Yan Jiu (Evaluation study) OR Qian Zhan Xing (Prospective) OR Sui
+Fang (Follow-up) OR Dui Bi Yan Jiu (Comparative study study) OR Duo Zhong Xin (Multicenter) OR
+Sui Ji (Randomization) OR Dui Zhao (Control) OR Bing Li Bao Gao (Case report) OR Bing Li Yan Jiu
+(Case study) OR Bing Li Fen Xi (Case analysis) OR Bing Li Bao Dao (Case report)
+#4: #1 AND #2 AND #3
+23
+References
+1. Gerard Mick and Guy Hans, Postherpetic neuralgia in Europe: The scale of the problem and
+outlook for the future, Journal of Clinical Gerontology & Geriatrics. 4 (2013) 102-108.
+2. M. C. Rowbotham and K. L. Petersen, Zoster-associated pain and neural dysfunction, Pain.
+93(1) (2001) 1-5.
+3. M. Tontodonati, T. Ursini, E. Polilli, et al., Post-herpetic neuralgia, Int J Gen Med. 5 (2012)
+861-71.
+4. R. H. Dworkin, R. W. Johnson, J. Breuer, et al., Recommendations for the management of
+herpes zoster, Clin Infect Dis. 44 Suppl 1 (2007) S1-26.
+5. A. L. Oaklander, K. Romans, S. Horasek, et al., Unilateral postherpetic neuralgia is associated
+with bilateral sensory neuron damage, Ann Neurol. 44(5) (1998) 789-95.
+6. M. C. Rowbotham, G. Yosipovitch, M. K. Connolly, et al., Cutaneous innervation density in
+the allodynic form of postherpetic neuralgia, Neurobiol Dis. 3(3) (1996) 205-14.
+7. R. W. Johnson and T. L. Whitton, Management of herpes zoster (shingles) and postherpetic
+neuralgia, Expert Opin Pharmacother. 5(3) (2004) 551-9.
+8. RW Johnson, Zoster-associated pain: What is known, who is at risk and how can it be
+managed, Herpes. 14(Supplement 2) (2007) 30A-34A.
+9. A. Volpi, G. Gross, J. Hercogova, et al., Current management of herpes zoster: the European
+view, Am J Clin Dermatol. 6(5) (2005) 317-25.
+10. A. Gater, M. Uhart, R. McCool, et al., The humanistic, economic and societal burden of
+herpes zoster in Europe: a critical review, BMC Public Health. 15 (2015) 193.
+11. L. E. Gialloreti, M. Merito, P. Pezzotti, et al., Epidemiology and economic burden of herpes
+zoster and post-herpetic neuralgia in Italy: a retrospective, population-based study, BMC
+Infect Dis. 10 (2010) 230.
+12. R. M. Dubinsky, H. Kabbani, Z. El-Chami, et al., Practice parameter: treatment of
+postherpetic neuralgia: an evidence-based report of the Quality Standards Subcommittee of
+the American Academy of Neurology, Neurology. 63(6) (2004) 959-65.
+13. N. Attal, G. Cruccu, R. Baron, et al., EFNS guidelines on the pharmacological treatment of
+neuropathic pain: 2010 revision, Eur J Neurol. 17(9) (2010) 1113-e88.
+14. R. H. Dworkin, A. B. O'Connor, J. Audette, et al., Recommendations for the pharmacological
+management of neuropathic pain: an overview and literature update, Mayo Clin Proc. 85(3
+Suppl) (2010) S3-14.
+15. D. Moulin, A. Boulanger, A. J. Clark, et al., Pharmacological management of chronic
+neuropathic pain: revised consensus statement from the Canadian Pain Society, Pain Res
+Manag. 19(6) (2014) 328-35.
+16. M. C. Rowbotham and S. P. Leong, How to reduce the incidence of neuropathic pain:
+sentinel node biopsy for diagnosis of metastatic malignant melanoma, Pain. 152(12) (2011)
+2681-2.
+17. M. Serpell, A. Gater, S. Carroll, et al., Burden of post-herpetic neuralgia in a sample of UK
+residents aged 50 years or older: findings from the Zoster Quality of Life (ZQOL) study,
+Health Qual Life Outcomes. 12 (2014) 92.
+18. P. M. Coplan, K. Schmader, A. Nikas, et al., Development of a measure of the burden of pain
+due to herpes zoster and postherpetic neuralgia for prevention trials: adaptation of the brief
+pain inventory, J Pain. 5(6) (2004) 344-56.
+19. M. N. Oxman, M. J. Levin, G. R. Johnson, et al., A vaccine to prevent herpes zoster and
+postherpetic neuralgia in older adults, N Engl J Med. 352(22) (2005) 2271-84.
+20. W. Chen, Y. Zhang, X. Li, et al., Chinese herbal medicine for diabetic peripheral neuropathy,
+Cochrane Database Syst Rev. 10 (2013) CD007796.
+24
+21. Q. Fu, J. Wang, G. S. Tao, et al., Efficacy of Traditional Chinese Medicine on herpes zoster
+( meta analysis), Journal of Diseases Monitor & Control. 08(03) (2014) 133-135.
+22. G. Gross, H. Schofer, S. Wassilew, et al., Herpes zoster guideline of the German Dermatology
+Society (DDG), J Clin Virol. 26(3) (2003) 277-89; discussion 291-3.
+23. R. H. Dworkin and R. K. Portenoy, Pain and its persistence in herpes zoster, Pain. 67(2-3)
+(1996) 241-51.
+24. J. P. T. Higgins, S. Green, and editors, Cochrane Handbook for Systematic Reviews of
+Interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration, 2011, in
+Available from www.cochrane-handbook.org,2011.
+25. X. C. Long, M. F. Long, S. H. Zhao, et al., Observation of the clinical efficacy on 42 cases of
+post-herpetic neuralgia treated with self-prepared Jieyu Qingdu Power, World Journal of
+Integrated Traditional and Western Medicine. 08(11) (2013) 1142-1144.
+26. J. Cheng, Quyuzhentong Decoction jiajian analgesic treatment of Post-herpetic neuralgia
+clinical observation. Hubei University of Chinese Medicine,2009.
+27. Y. F. Fang and A. M. Liu, Observation of the clinical efficacy on 30 cases of Post-herpetic
+neuralgia treated with Shu Gan Huo Xue Zhi Tong Fang, Journal of New Chinese Medicine.
+41(11) (2009) 56-57.
+28. J. D. Zha, The clinical observation of Shen Tong Zhu Yu Tang combined with doxepin on the
+Post-herpetic neuralgia. Hubei university of Chinese Medicine,2013.
+29. Q. H. Zhang, Clinical observation of "Yiqi Huoxue Huatan Decoction" in treating Postherpetic
+neuralgia, Shanghai Journal of Traditional Chinese Medicine. 45(12) (2011) 61-62.
+30. J. H. Zhao, Observation of the clinical efficacy on Post-herpetic neuralgia treated with
+integrative medicine, The Journal of Medical Theory and Practice. 26(05) (2013) 619-620.
+31. C. Q. Sun, W. W. Wen, S. L. Chen, et al., Efficacy of Traditional Chinese Medicine combined
+with Western Medicine on treating Postherpetic neuralgia, Chin J Dermato Venerol Integ
+Trad W Me. 11(02) (2012) 98-99.
+32. J. Xu and W. X. Chen, Observation of the clinical efficacy on 20 cases of Post-herpetic
+neuralgia treated with Qu Tong Fang compared with 20 cases treated with Western
+Medicine, Zhejiang Journal of Traditional Chinese Medicine. (05) (2000) 21.
+33. M. X. Zhang, H. T. Wang, and S. H. Sun, Clinical observation of Xue Fu Zhu Yu Tang
+combined with gabapentin in treating on 34 cases of Postherpetic neuralgia, Chinese
+Medicine Modern Distance Education of China. 12(04) (2014) 47-48.
+34. P. M. Feng and L. Chen, Postherpetic neuralgia and clinic role of Liushen Pills, Chinese
+Traditional Patent Medicine. 30(06) (2008) 799-801.
+35. J. M. Liang, Clinical study on treatment protocol optimization of Post-herpetic neuralgia.
+Shandong University of Traditional Chinese Medicine,2011.
+36. B.H. Zhang, Clinical observation on the method of modified promoting qi activating blood
+dredging in the collaterals to stop pain on the postherpetic neuralgia, Journal of Clinical and
+Experimental Medicine. 14(07) (2015) 550-553.
+37. N. B. Finnerup, N. Attal, S. Haroutounian, et al., Pharmacotherapy for neuropathic pain in
+adults: a systematic review and meta-analysis, Lancet Neurol. 14(2) (2015) 162-73.
+38. China Association of Chinese Medicine, Guidelines for Diagnosis and Treatment of Common
+Diseases of Dermatology in Traditional Chinese Medicine. China Press of Traditional Chinese
+Medicine: Beijing,2012, 35-37.
+39. B. Qian, F. Li, L. X. Zhao, et al., Ligustilide Ameliorates Inflammatory Pain and Inhibits TLR4
+Upregulation in Spinal Astrocytes Following Complete Freund's Adjuvant Peripheral Injection,
+Cell Mol Neurobiol. 36(1) (2016) 143-9.
+40. X. B. Yang, X. W. Yang, and J. X. Liu, [Study on material base of corydalis rhizoma], Zhongguo
+Zhong Yao Za Zhi. 39(1) (2014) 20-7.
+25
+41. W. J. Tang, X. H. Lu, D. X. Zhou, et al., Study on analgesic effect of Bupleurum, Hunan Journal
+of Traditional Chinese Medicine. 19(04) (2003) 52-53.
+42. W. Xie, W. H. Zhao, L. Yu, et al., Study of effects and mechanism of extract of Rhizoma a
+Chuanxiong on radicular neuralgia in rats with cervical spondylotic radiculopathy, Journal of
+Guangdong College of Pharmacy. (05) (2008) 496-499.
+43. M. Yi, J. Y. Xu, E. W. Hao, et al., Antithrombotic Mechanism of Persicae Semen Extract in
+Blood Stasis Rats, Chinese Journal of Experimental Traditional Medical Formulae. (01) (2016)
+125-128.
+44. S. Yue, Y. Tang, S. Li, et al., Chemical and biological properties of quinochalcone C-glycosides
+from the florets of Carthamus tinctorius, Molecules. 18(12) (2013) 15220-54.
+45. C. Shu, Y. Y. Zhang, X. Y. Lin, et al., Experimental study on of anti-inflammatory and analgesic
+effects of gels of the Florets of Carthamus tinctorius, Chinese Journal of Experimental
+Traditional Medical Formulae. 15(01) (2009) 72-73.
+46. A. Shojaii, M. Motaghinejad, S. Norouzi, et al., Evaluation of Anti-inflammatory and Analgesic
+Activity of the Extract and Fractions of Astragalus hamosus in Animal Models, Iran J Pharm
+Res. 14(1) (2015) 263-9.
+47. RB Haynes, DL Sackett, GH Guyatt, et al., Clinical Epidemiology: How to Do Clinical Practice
+Research, third ed, Lippincott, Williams and Wilkins, Philadelphia, 2005, pp. 220-222.
+48. J. Savovic, H. E. Jones, D. G. Altman, et al., Influence of reported study design characteristics
+on intervention effect estimates from randomized, controlled trials, Ann Intern Med. 157(6)
+(2012) 429-38.
+49. K. F. Schulz, I. Chalmers, R. J. Hayes, et al., Empirical evidence of bias. Dimensions of
+methodological quality associated with estimates of treatment effects in controlled trials,
+JAMA. 273(5) (1995) 408-12.
+26
+Figure captions
+FIGURE 1: Flow chart of the study selection process
+FIGURE 2: Summary of risk of bias assessment for included studies
+FIGURE 3. Forest plot of CHM as add-on therapy versus pharmacotherapy: VAS pain score (subgroup
+for duration of treatment)
+FIGURE 4. Forest plot of CHM as add-on therapy versus pharmacotherapy: VAS pain score (subgroup
+for definition of PHN - one month or more after resolution of the rash).
+FIGURE 5. Forest plot of CHM as add-on therapy versus pharmacotherapy: HAM-D (17-item version)
+27
+TABLE 1: Herbs most frequently used in the included studies
+Most commonly used herbs No. of Studies Scientific name
+Dang gui 9 Angelica sinensis (Oliv.) Diels
+Yan hu suo 8 Corydalis yanhusuo W.T. Wang
+Chai hu 6 Bupleurum spp
+Chuan xiong 6 Ligusticum chuangxiong Hort.
+Tao ren 6 Prunus spp
+Hong hua 6 Carthamus tinctorius L.
+Huang qi 6 Astragalus membranaceus spp
+Gan cao 6 Glycyrrhiza spp
+28
+TABLE 2: Characteristics of included studies
+First author,
+publication
+year
+Country,
+setting
+Diagnosis
+(definition of
+PHN)
+Duration of
+treatment
+Number of
+participant
+s
+randomize
+d/assessed
+Age (mean ±SD
+or range);
+Gender
+(M/F) Intervention Control
+(pharmacotherapy)
+CHM alone
+Fang YF et al,
+2009 [27]
+China,
+outpatient
+s
+1 month 4 weeks
+I: 30/30
+C: 28/28
+I: 62.87 ± 2.57
+C: 61.25 ± 2.32
+I: 14/16
+C: 13/15
+Shu Gan Huo Xue Zhi Tong Fang
+(decoction) Amitriptyline
+Long XC, 2013
+[25]
+China,
+outpatient
+s
+1 month NS
+I: 42/42
+C: 42/42
+I: 64 (NS)
+C: 67 (NS)
+I: 22/20
+C: 24/18
+Jie Yu Qing Du San (decoction)
+Amitriptyline,
+vitamin B1, vitamin
+B12, paracetamol
+and codeine
+Xu J et al, 2000
+[32]
+China, NS
+Pain persisting
+after the rash
+healed, and the
+duration of
+PHN > one
+month
+2-4 weeks
+I: 20/20
+C: 20/20
+I: 62.45 (NS)
+C: 59.75 (NS)
+I: 13/7
+C: 11/9
+Qu Tong Fang (decoction)
+Doxepin,
+fursultiamine,
+vitamin B12
+Zhang BH,
+2015 [36]
+Chian,
+outpatient
+s
+3 months 4 weeks
+I: 42/42
+C: 42/42
+I: 64.30 ± 8.10
+C: 65.50 ± 8.30
+I: 19/23
+C: 17/25
+Huo Xue Tong Luo Zhi Tong
+Tang (decoction)
+Doxepin,
+mecobalamin,
+vitamin B1
+CHM as add on therapy
+Cheng J, 2009
+[26]
+China,
+outpatient
+s
+1 month 4 weeks I: 35/35 I: 65.51 ± 4.23 I: 18/17 Qu Yu Zhen Tong Tang
+(decoction) plus doxepin,
+vitamin B1, adenosylcobalamin
+Doxepin, vitamin B1,
+adenosylcobalamin
+29
+C: 31/31 C: 60.56±3.39 C: 15/16
+Sun CQ et al,
+2012 [31]
+China,
+outpatient
+s
+1 month 10 days
+I: 30/30
+C: 30/30
+I: 61.27 ± 13.08
+C: 59.07 ± 11.86
+I: 12/18
+C: 14/16
+Huo Xue Li Qi Tong Luo Fang
+(decoction) plus amitriptyline,
+tramadol hydrochloride
+sustained-release tablets,
+fursultiamine, mecobalamin
+Amitriptyline,
+tramadol
+hydrochloride
+sustained-release
+tablets,
+fursultiamine,
+mecobalamin
+Zha JD, 2013
+[28]
+China,
+outpatient
+s
+1 month 3 weeks
+I: 31/31
+C: 31/31
+I: 58.26 ± 5.62
+C: 59.84 ± 4.39
+I: 17/14
+C: 16/15
+Shen Tong Zhu Yu Tang
+(decoction) plus doxepin Doxepin
+Zhang MX et
+al, 2014 [33]
+China,
+outpatient
+s
+3 months 14 days
+I: 34/34
+C: 34/34
+Total: 58.17 ±
+10.8
+Total:
+38/30
+Xue Fu Zhu Yu Tang (decoction)
+plus gabapentin Gabapentin
+Zhang QH,
+2011 [29]
+China,
+outpatient
+s
+1 month 4 weeks
+I: 30/30
+C: 30/30
+I: 35-82
+C: 33-78
+I: 16/14
+C: 12/18
+Yi Qi Huo Xue Hua Tan Tang
+(decoction) plus tramadol
+hydrochloride tablets
+Tramadol
+hydrochloride tablets
+Zhao JH, 2013
+[30]
+China,
+outpatient
+s
+Pain persisting
+after the rash
+healed, and the
+duration of
+PHN > one
+month
+10-30 days
+I: 56/56
+C: 56/56
+Total: 38-76 Total:
+55/57
+Qu Tong Tang (decoction) plus
+doxepin, vitamin B1, vitamin
+B12
+Doxepin, vitamin B1,
+vitamin B12
+Multiple-arm studies with one arm of oral CHM as add-on therapy (I1) and one arm of oral CHM alone (I2)
+Feng PM et al,
+2008 [34]
+China, NS 3 months 15 days
+I1: 24/24
+I2: 19/19
+C: 22/22
+I1: 57.56 ± 3.39
+I2: 55.73 ± 5.21
+C: 56.57 ± 4.23
+I1: 12/12
+I2: 9/10
+C: 11/11
+I1: Liu Shen Wan (pill) plus
+carbamazepine
+Carbamazepine
+I2: Liu Shen Wan (pill)
+30
+Liang JM, 2011
+[35]
+China,
+outpatient
+s
+1 month 4 weeks
+I1: 35/35
+I2: 32/32
+C: 27/27
+I1: 56.49 ± 9.07
+I2: 57.31 ± 8.35
+C: 56.48 ± 7.79
+I1: 17/18
+I2: 17/15
+C: 14/13
+I1: Si Zhong Jin Gou Tang
+(decoction) plus
+carbamazepine, indomethacin,
+dipyridamole
+Carbamazepine,
+indomethacin,
+dipyridamole I2: Si Zhong Jin Gou Tang
+(decoction)
+Note: CHM: Chinese Herbal Medicine; M: Male; F: Female; I: Intervention; C: Control; 1 month: pain persisting one month/30 days or more from resolution
+of rash; 3 months: pain persisting three months/90 days or more from resolution of rash; NS: not specified
+31
+TABLE 3: Characteristics of included studies
+First author,
+publication year Formulae name Ingredients of the formulae
+CHM alone
+Fang YF et al,
+2009 [27]
+Shu Gan Huo Xue Zhi
+Tong Fang
+(decoction)
+Huang qi (Astragalus membranaceus spp), Tai zi shen (Pseudostellaria heterophylla ( Miq. ) Pax ex Paxet Hoffm.), Zi cao
+(Arnebia euchroma (Royle) Johnst.), Chai hu (Bupleurum chinense DC.), Dang gui (Angelica sinensis (Oliv.) Diels)
+Long XC, 2013
+[25]
+Jie Yu Qing Du San
+(decoction)
+Cang zhu (Atractylodes spp), Xiang fu (Cyperus rotundus L.), Shen qu (Massa medicata fermentata), Chuan xiong
+(Ligusticum chuangxiong Hort.), Zhi zi (Gardenia jasminoides Ellis), Huang lian (Coptis spp), Huang bai (Phellodendron
+chinense Schneid.), Xia ku cao (Prunella vulgaris L.), Bai shao (Paeonia lactiflora Pall.), Gan cao (Glycyrrhiza spp), Di long
+(Pheretima spp), Si gua luo (Luffa cylindrica (L.) Roem.), Huang qi (Astragalus membranaceus spp), Yan hu suo (Corydalis
+yanhusuo W.T. Wang), Tai zi shen (Pseudostellaria heterophylla (Miq.) Pax ex Pax et Hoffm.)
+Xu J et al, 2000
+[32]
+Qu Tong Fang
+(decoction)
+Dang gui (Angelica sinensis (Oliv.) Diels), Ru xiang (Boswellia spp), Mo yao (Commiphora spp), Xiang fu (Cyperus
+rotundus L.), Yu jin (Curcuma spp), Chai hu (Bupleurum spp), Yan hu suo (Corydalis yanhusuo W.T. Wang), Chi shao
+(Paeonia spp), Chuan lian zi (Melia toosendan Sieb. et Zucc.), Sheng Di huang (Rehmannia glutinosa Libosch.), Xuan
+shen (Scrophularia ningpoensis Hemsl.), Dan shen (Salvia miltiorrhiza Bge.), Tian men dong (Asparagus cochinchinensis
+(Lour.) Merr.), Huang qi (Astragalus membranaceus spp), Zhen zhu mu (1. Hyriopsis cumingii (Lea) 2. Cristaria plicata
+(Leach) 3. Pteria martensii (Dunker) )
+Zhang BH, 2015
+[36]
+Huo Xue Tong Luo
+Zhi Tong Tang
+(decoction)
+Dan shen (Salvia miltiorrhiza Bge.), Tao ren (Prunus spp), Huang qi (Astragalus membranaceus spp), Chuan xiong
+(Ligusticum chuangxiong Hort.), Tai zi shen (Pseudostellaria heterophylla (Miq.) Pax ex Pax et Hoffm.), Quan xie (Buthus
+martensii Karsch), Ru xiang (Boswellia spp), Yan hu suo (Corydalis yanhusuo W.T. Wang), Chuan lian zi (Melia toosendan
+Sieb. et Zucc.)
+CHM as add on therapy
+Cheng J, 2009
+[26]
+Qu Yu Zhen Tong
+Tang (decoction)
+Dang shen (Codonopsis spp), Huang qi (Astragalus membranaceus spp), Bai zhu (Atractylodes macrocephala Koidz.), Bai
+shao (Paeonia lactiflora Pall.), Dang gui (Angelica sinensis (Oliv.) Diels), Shu di huang (Rehmannia glutinosa Libosch.),
+Dan shen (Salvia miltiorrhiza Bge.), Hong hua (Carthamus tinctorius L.), Chai hu (Bupleurum spp), Yan hu suo (Corydalis
+yanhusuo W.T. Wang), Ru xiang (Boswellia spp), Tian ma (Gastrodia elata Bl.), Gou teng (Uncaria spp), Fu shen (Poria
+cocos (Schw.) Wolf), He huan pi (Albizia julibrissin Durazz.), Gan cao (Glycyrrhiza spp)
+32
+Sun CQ et al,
+2012 [31]
+Huo Xue Li Qi Tong
+Luo Fang (decoction)
+Chai hu (Bupleurum spp), Yan hu suo (Corydalis yanhusuo W.T. Wang), Xu chang qing (Cynanchum paniculatum (Bge.)
+Kitag.), Qin jiao (Gentiana spp), Tao ren (Prunus spp), Hong hua (Carthamus tinctorius L.), Yu jin (Curcuma spp), Dan
+shen (Salvia miltiorrhiza Bge.), Dang gui (Angelica sinensis (Oliv.) Diels)
+Zha JD, 2013 [28]
+Shen Tong Zhu Yu
+Tang (decoction)
+Qin jiao (Gentiana spp), Chuan xiong (Ligusticum chuangxiong Hort.), Tao ren (Prunus spp), Hong hua (Carthamus
+tinctorius L.), Gan cao (Glycyrrhiza spp), Qiang huo (Notopterygium spp), Mo yao (Commiphora spp), Dang gui (Angelica
+sinensis (Oliv.) Diels), Wu Ling Zhi (Faeces Trogopterpri), Xiang fu (Cyperus rotundus L.), Niu xi (Achyranthes bidentata
+Bl.), Di long (Pheretima spp)
+Zhang MX et al,
+2014 [33]
+Xue Fu Zhu Yu Tang
+(decoction)
+Dang gui (Angelica sinensis (Oliv.) Diels), Chuan xiong (Ligusticum chuangxiong Hort.), Tao ren (Prunus spp), Chi shao
+(Paeonia spp), Hong hua (Carthamus tinctorius L.), Niu xi (Achyranthes bidentata Bl.), Chai hu (Bupleurum spp), Jie geng
+(Platycodon grandiflorum (Jacq.) A. DC.), Zhi ke (Citrus aurantium L.), Sheng Di huang (Rehmannia glutinosa Libosch.),
+Gan cao (Glycyrrhiza spp), Quan xie (Buthus martensii Karsch)
+Zhang QH, 2011
+[29]
+Yi Qi Huo Xue Hua
+Tan Tang (decoction)
+Huang qi (Astragalus membranaceus spp), Chai hu (Bupleurum spp), Dang gui (Angelica sinensis (Oliv.) Diels), Chi shao
+(Paeonia spp), Bai shao (Paeonia lactiflora Pall.), Tao ren (Prunus spp), Hong hua (Carthamus tinctorius L.), Yan hu suo
+(Corydalis yanhusuo W.T. Wang), Yu jin (Curcuma spp), Chen pi (Citrus reticulata Blanco), Ban xia (Pinellia ternata
+(Thunb.) Breit. ), Zhi ke (Citrus aurantium L.), Bai zhu (Atractylodes macrocephala Koidz.), Mu li (Ostrea spp), Gan cao
+(Glycyrrhiza spp)
+Zhao JH, 2013
+[30]
+Qu Tong Tang
+(decoction)
+Tao ren (Prunus spp), Hong hua (Carthamus tinctorius L.), Yu jin (Curcuma spp), Dang gui (Angelica sinensis (Oliv.) Diels),
+Chi shao (Paeonia spp), Chuan xiong (Ligusticum chuangxiong Hort.), Yan hu suo (Corydalis yanhusuo W.T. Wang), Da
+qing ye (Isatis indigotica Fort.), Ban lan gen (Isatis indigotica Fort.), Quan xie (Buthus martensii Karsch), Wu gong
+(Scolopendra subspinipes mutilans L. Koch)
+Multiple-arm studies with one arm of oral CHM as add-on therapy and one arm of oral CHM alone
+Feng PM et al,
+2008 [34]
+Liu Shen Wan (pill) Niu huang (Bos taurus domesticus Gmelin), She xiang (Moschus spp), Bing pian (Borneol), Chan su (Bufo spp), Zhen zhu
+(1. Pteria martensii (Dunker) 2. Hyriopsis cumingii (Lea) 3. Cristaria plicata (Leach) ), Xiong huang (Arsenic disulfide)
+Liang JM, 2011
+[35]
+Si Zhong Jin Gou
+Tang (decoction)
+Ling ci shi (Ferroferric oxide), Dai zhe shi (Ferric oxide), Mu li (Ostrea spp), Shi jue ming (Haliotis spp), Ren dong teng
+(Lonicera japonica Thunb.), Ji xue teng (Spatholobus suberectus Dunn), Gou teng (Uncaria spp), Dang gui (Angelica
+sinensis (Oliv.) Diels), Chuan xiong (Ligusticum chuangxiong Hort.), Bai shao (Paeonia lactiflora Pall.), Jiang can (1.
+Bombyx mori Linnaeus. 2. Beauveria bassiana (Bals.) ), Yi yi ren (Coix lacryma-jobi L. var. mayuen (Roman.) Stapf), Gan
+cao (Glycyrrhiza spp)
+33
+Note: CHM: Chinese Herbal Medicine
+34
+TABLE 4. Within groups analysis between baseline and EoT: VAS pain score
+Comparison Oral CHM alone Oral CHM as add-on therapy Pharmacotherapy
+Baseline mean of mean scores 7.16 cm 7.55 cm 7.37 cm
+EoT mean of mean scores 2.21 cm 1.84 cm 3.40 cm
+Significant within groups difference
+(baseline vs EoT)?
+Yes
+MD -4.97 cm [-5.64, -
+4.30], I2=0%
+Yes
+MD -5.78 cm [-6.31, -5.24],
+I
+2=71%
+Yes
+MD -3.93 [-5.45, -
+2.40], I2=95%
+Was the mean of mean EoT scores less
+than 4/10?^ Yes Yes Yes
+Was the mean of mean EoT scores less
+than 3/10?* Yes Yes No
+Note: EoT: end of treatment; NA: not available; * proposed by Coplan et al 2004 [18], Oxman et al 2005 [19]; ^ proposed by Dubinsky et al 2004 [12]

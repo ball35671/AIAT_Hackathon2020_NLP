@@ -1,0 +1,580 @@
+﻿Phlebology (1992) 7:108-113
+© 1992 The Venous Forum of the Royal Society
+of Medicine and Societas Phlebologica Scandinavica
+Original Article
+A Randomized Trial of Biofilm Dressing for Venous Leg Ulcers
+J. M. Smith", C. J. Dore", A. Charlerf and J. D. Lewis'
+PHLEBOLOGY
+'Department of Vascular Surgery, Northwick Park Hospital, and 2Section of Medical Statistics, Clinical Research Centre,
+Northwick Park Hospital, Watford Road, Harrow, Middlesex HAl 3Ul, UK
+ABSTRACT
+Objective: Comparison of Biofilm dressing with Jelonet
+and Betadine in the treatment of venous leg ulcers.
+Design: Randomized parallel-group controlled trial,
+stratified by initial maximum ulcer diameter of 2-4 ern
+or >4 em,
+Setting: Community.
+Patients: Five hundred and twenty-nine patients were
+assessed and 200 patients with clinical evidence of
+venous leg ulceration and initial ulcer diameter >2 em
+were recruited to the trial. Patients with appreciable
+arterial disease (ratio of ankle to brachial systolic
+pressure <0.75) were excluded.
+Interventions: Ulcers were treated with either Biofilm (a
+hydrocolloid dressing) or Betadine and Jelonet in the
+community for 4 months or until the ulcer healed, if
+sooner. All patients wore standardized graduated compression.
+Main outcome measures: Time to complete healing of
+the ulcer, subjective assessment of pain and total cost of
+treatment.
+Results: Healing was more rapid in patients using Biofilm
+dressing (relative risk 1.16, 95% confidence interval
+0.8-1.8), but not significantly so p = 0.48. Patients'
+subjective pain scores after 1 month of treatment
+indicated there was significantly less pain experienced by
+patientstreated with Biofilm (p =0.02). The total cost of
+treatment (including dressings and nursing time) was
+similar for Biofilm and Betadine for small ulcers «6cm)
+but Biofilm cost three times as much for larger ulcers.
+Correspondence and offprintrequest to: MrJ . D. Lewis, Department of
+Vascular Surgery, Northwick Park Hospital, Watford Road, Harrow,
+Middlesex HAl 3UJ, UK.
+Conclusion: Provided that standardized graduated compression was used, the primary dressing did not significantly affect the time to complete healing of the ulcer.
+Keywords: Dressings; Venous leg ulcers
+Introduction
+The prevalence of active leg ulceration in Scotland is
+0.15% and the overall prevalence of the chronic condition is estimated as 1% (1]. The majority of patients
+with leg ulcers are treated in the community, 62% of
+those identified by the Harrow District Leg Ulcer
+Survey never having attended a hospital [2]. Ninetyeight per cent of all district nurse case loads include
+patients with leg ulcers [3]. On average there are 7.7 leg
+ulcer patients per nurse, 45% ofthese patients requiring
+dres~ing changes more than three times a week [3J. A
+multitude of different dressings are used, applied in
+numerous ways.
+Many new dressings are available for the treatment of
+leg ulcers [4], but there have been few well-controlled
+trials assessing their efficacy. These new dressings tend
+to be more expensive than the traditional ones,
+manufacturers justifying this by claims of improved
+wound healing and consequent reduction in treatment
+time. We performed a randomized controlled trial in the
+community comparing one of the new hydrocolloid
+dressings (Biofilm, Clinimed) with Jelonet (Smith and
+Nephew) and Betadine in patients with venous ulceration of the leg. Jelonet and Betadine was chosen for the
+109
+Statistical Methods
+Results
+Recruitment took 21 months, beginning on 23 January
+1987. Five hundred and twenty-nine patients were
+assessed; 200 were recruited to the trial and 329 were
+excluded for the reasons given in Table 1.
+Table 2 describes selected baseline characteristics of
+the 200 patients. The bacterial contamination found is
+consistent with the findings of others [11Jexcept for the
+lower numbers of haemolytic streptococcus. This was
+due to patients' prior exclusion from the trial because
+their clinical presentation was of sufficient concern as to
+require immediate treatment.
+Number
+911
+M
+611
+:U
+2h
+25
+II
+7
+fl
+4
+3
+321}
+The time to ulcer healing was used as the dependent
+variable in a Cox proportional hazards model; this was
+fitted using the program BMDP2L [8]. All possible
+subsets model fitting was performed using the procedures of Kuk [9]. An additional criterion was that
+each covariate in the best model must be significant at
+the 1% level using the likelihood ratio test. Relative
+risks, i.e. ratios of hazards, were calculated; a relative
+risk of 1 indicates a variable has no effect. either
+beneficial or detrimental, on the time to complete ulcer
+healing. Model assumptions of proportional hazards
+were checked using the methods described by Christensen [10].
+The five-point scales used to assess patients' ulcer
+pain and dressing comfort were analysed using a twoway analysis of variance. The association between the
+treatment received and whether the ulcer had healed
+was examined using Fisher's exact test.
+A healing rate was obtained for each ulcer by calculating the decrease in ulcer area during the first month on
+trial, expressed as the area of ulcer healed per day. The
+Mann-Whitney V-test was used to assess whether there
+was a difference in the median healing rate on each
+treatment in each strata.
+Reason for exclusion
+Table I. Leg ulcer patients excluded from the trial
+Ulcer diameter <2 em
+Ankle pressure index <11.75
+No ulcer/eczema/ulcer on heels or toes only
+Rheumatoid arthritis
+Refused to join trial/unable 10 give consent
+Diabetes
+LymJphoedema/CCF
+Infection requiring immediate antibiotics
+Unable 10 wcar compression
+History of iodine allergy
+Carcinoma in ulcer
+Total
+Methods
+8iofilm Dressing for Venous Leg Ulcers
+COntrol group because it was the standard dressing in use
+for .Ieg ulcers throughout the district, is cheap and
+available on prescription.
+p.rior to commencement, approval for the study was
+glV~n by the local ethics committee. A detailed explanahon of the trial was given to all potential participants
+~nd their verbal consent obtained. All GPs were
+Informed of their patients' involvement.
+Two hundred patients with venous leg ulceration
+assessed by continuous-wave ultrasound and photoplethysmography (PPG) [5] were randomly allocated to
+each treatment group, stratified by initial maximum
+ulcer diameter 2-4 em and >4 em, using a block length
+of 4 within each strata. Patients with diabetes, rheumatoid arthritis, infected ulcers requiring treatment that
+pr~cl~ded dressings being left in situ, known intolerance
+to lodme or neurological disease causing trophic impairment were excluded, as were patients with a resting
+brachial/ankle systolic pressure <0.75 [5]. All patients
+Were initially assessed in the hospital Outpatient
+De~artment vascular/venous clinic by one of two state
+~eglstered nurses responsible for coordinating the trial
+In the community. Patients returned to the hospital
+monthly for treatment and assessment for 4 months, or
+until the ulcer healed, if sooner. All other dressings
+Were carried out by the district nurses. All patients who
+met the inclusion criteria were admitted.
+On admission to the trial the size of each ulcer was
+recorded by tracing its outline onto acetate and then
+~ea~uring the area in square centimetres by planimeter.
+racings of each ulcer were made three times and the
+average recorded. Ulcer area was measured monthly
+thereafter. In patients with bilateral ulceration, data
+Were recorded for the right leg only. Blood pressure was
+recorded and ulcers were swabbed for bacteriological
+ass~ssment on admission and at monthly intervals.
+Patients' ulcer pain and dressing comfort were assessed
+on a five-point scale at monthly intervals (1, no pain at
+all; 5, worst pain imaginable; and 1, very comfortable:
+5, uncomfortable).
+The procedure for application of new dressings was as
+follows. Ulcers were cleansed with sterile isotonic saline.
+In the control group, dressings were cut to fit exactly the
+Shape of the ulcer and an absorbent pad placed over. In
+th.e Biofilm group, excavated ulcers were filled with
+Blofilmpowder until level with the ulcer margins, before
+applying the Biofilm dressing, ensuring at least a 2 ern
+Overlap all round. The form of compression used was
+standardized to two layers of shaped Tubigrip or a
+yenosan 2002stocking in both treatment groups. providIng linear graduated compression to improve venous
+function as described in previous work [6.7). Patients in
+the Biofilm group were allowed to remove their compression and bath OF shower with the dressing in place.
+This was not possible with the control group.
+110
+Table 2. Baseline characteristics of the patients. Values are mean (SO) unless stated otherwise
+J. M. Smith er al,
+Characteristic Initial maximum ulcer diameter
+2-4cm >4cm
+Biofilm Betadine Biofilm Betadine
+(n=64) (n=62) (n=35) (n=39)
+Age [years) 74 (12) 72 (13) 76 (8) 73 (11)
+Diastolic blood pressure (mmHg) 83 (16) 80 (12) 86 (14) 82 (15)
+Body mass index (kg m·2J 28 (7) 27 (7) 27 (6) 30 (8)
+PPG superficial vein involvement In (%)J 23 (36) 20 (33) 12 (36) 12 (31)
+PPG deep vein involvement (n (%)J 33 (54) 29 (48) 13 (39) 23 (59)
+Ankle pressure index <0.9(n (%» 5 (8) 3 (5) 3 (9) 6 (IS)
+Venosan stocking worn (n (%» 45 (70) 48 (77) 22 (63) 27 (69)
+Fixed ankle joint (n (%)J 12 (19) 12 (19) 7 (20) 10 (26)
+Previous venous leg ulcers (n (%») 43 (67) 34 (55) 21 (60) 24 (62)
+Initial ulcer area (cm2 median (lOR)] 3.1 2.6 13.3 17.6
+(2-5) (2-4) (9-27) (9-38)
+Months since onset of present ulcer (median (lOR») 5 3 14 17
+(~9) (2-10) (2-45) (6-58)
+Bacteria present at initial assessment
+Pseudomonas In (%») I (2) 2 (3) 3 (9) 10 (26)
+SlaphyIDcOCCU.~ aureu.~ In (%») 36 (57) 24 (41) 20 (59) 17 (45)
+Haemolytic streptococcus In (%)J 3 (5) 2 (3) I (3) 6 (16)
+Other organisms In (%)] 25 (40) 27 (47) 16 (47) 22 (58)
+None found In (%)J 12 (19) 11 (19) 3 (9) I (3)
+lOR. Interquartile range.
+Percentages calculated using all recorded data.
+Table 3. Reasons for drop-out or withdrawal
+Ulcer diameter
+2-4 em >4cm Total
+Biofilm Betadine Biofilm Betadine
+Refused/unable to continue treatment 9 4 3 7 23
+Acute infection () 1 I II 13
+Admission to hospital 5 5 2 () 12
+Allergic reaction suspected 6 2 () 0 8
+Died () 2 () 0 2
+Moved out of area I () 0 I 2
+Total 21 14 6 19 60
+% of those recruited 33 23 17 49 30
+Five patients did not receive their randomly allocated
+treatment because of clerical errors. Two patients
+received Biofilm instead of Betadine and three patients
+received Betadine instead of Biofilm. Statistical analysis
+was performed on the basis of treatment received, since
+this was not a blind study and it was thought unlikely
+that these five patients would bias the results.
+One hundred and forty patients (70% ) completed the
+trial. The reasons for the drop-out or withdrawal of the
+remaining 60 patients (30%) are shown in Table 3. The
+patients thought to be showing allergic reactions were
+patch tested under the supervision of a consultant
+dermatologist and allergy was not confirmed. Patients
+with ulcers >4 cm in the Betadine group were with-
+Initial ulcer diameter
+Biofilm Betadine Biofilm Betadine
+------------------------
+20 40 100 120 140
+,.........
+-- BIoIUm, smallulcers
+._....... Betadine,smallulcers
+.._............ Blolilm. largeulcers
+----.- Betadine.largeulcers
+60 80
+time(days)
+Fig. J. Estimated survival function for ulcers treated with: Biofilm 2-4
+cm in initial diameter. small; Betadine 2-4 em, small; Biofilm >4 em,
+large; Betadine >4 em, large. The survival function is calculated
+assuming that patients in both groups within a strata have the mean
+values for initial ulcer area, months since onset of ulceration. age. and
+deep vein involvement.
+1.0
+0.9
+I!! 0.8
+0.7
+0.6
+0.5 o
+.~ 0.4 1:: 1°·3
+0.2
+0.1
+o.o4-...,Qi..,l!:==:;:::::=..---,,..----r--,---"""'T'"-----,
+o
+III
+significant interaction between treatment and ulcer area
+(p =0.37), i.e. the effect oftreatment did not depend on
+the initial ulcer area.
+Figure 1 shows the estimated survival function for
+ulcers in the Biofilm and Betadine groups in each strata,
+i.e. the proportion of healed ulcers at each point in the
+trial including available information from patients withdrawn.
+Healing rate was assessed for the first month of
+treatment in 151 patients (Table 6). This information
+was not available for patients who had dropped out,
+withdrawn or did not attend for their first assessment.
+Healing rate tended to be more rapid with Biofilm than
+control dressing in ulcers >4 em, although this did not
+reach significance at the 5% level, p = 0.09. There was
+no significant difference in healing rates for ulcer 2-4 cm
+(p = 0.40).
+Pain and dressing comfort were assessed for the first
+month of treatment in 123 patients (Table 6). This
+information was not available for patients who dropped
+out or healed. There was a significant effect of treatment, with less pain for Biofilm for both small and large
+ulcers (p = 0.(2). There was a significant effect of ulcer
+size with more pain for large ulcers (p<O.OOI). There
+was no significant effect of treatment on the comfort
+scores (p = 0.14) but there was a significant effect of
+ulcer size, with the large ulcers tending to be less
+comfortable (p = 0.(2). The analysis of pain and
+comfort scores was repeated, including those variables
+found to be significantly related to time to complete
+healing as covariates. The covariates were not significant and the conclusions did not change.
+Table 7 gives an estimate of the cost of treating an
+ulcer over the 4-month trial period. There is little
+difference between the costs of the two dressings when
+the ulcer is small, i.e. with a initial maximum diameter
+of <6 cm. For the larger ulcers the cost of treatment
+with Biotilm is three times more expensive than Jelonetl
+1.58-2.33
+1.17-1.56
+1.12-1.59
+1.19--2.7M
+0.77-1.77
+>4cm
+12 4
+17 16
+6 19
+35 39
+34 JO
+p=0.02
+Relative 95% confidence
+risk Interval
+43
+5
+14
+2-4 cm
+64 62
+59 69
+p=1I.27
+Biofilm Dressing for Venous Leg Ulcers
+drawn because of acute infections occurring significantly more often (Fisher's exact test, p = 0.004)
+pr~ucing the highest withdrawal rate in this group.
+. B!ofilm and control dressings were not found to be
+~Ign!ficantly different (p =0.27) in healing ulcers 2-4 cm
+~. diameter (Table 4). In the larger ulcers, 34% of the
+h iofilm group compared with 10% of the control group
+.eal~d in less than 4 months (p = 0.02). There was a
+slgna~cant interaction (p = 0.006) between treatment
+and .slze; Biofilm improved healing in large ulcers, but
+not 10 small ulcers.
+. Four variables were found to be associated with the
+~me to ulcer healing (p<0.01) using the proportional
+azards model. These were: initial ulcer area, ulcer
+durat~on, age, and deep vein involvement. The type of
+~tocklOg worn did not significantly affect time to healang.It can be seen in Table 2that patients with ulcers >4
+em treated with Betadine tended to have a poorer
+P~ognosis than the comparable group treated with
+~Iofilm, having larger initial ulcer area, longer duration
+sance. onset and more deep vein involvement. The
+~elatlve risk of an ulcer healing for those on Biofilm is
+.16 (95% confidence interval 0.77-1.77), i.e. an ulcer
+~as I. ~6 times as likely to heal during the 4 months of
+e trial if the patient was using Biofilm dressing
+C?mpared with Betadine, this relative risk not being
+S!gnaficantly different from 1 (p = 0.48). The relative
+~sks attributable to the four variables associated with
+Ime to healing are given in Table 5. There was no
+------------------
+Variable
+Healed 3M
+~ot healed, completed trial 5
+or healed. withdrawn 21
+Total
+% healed
+FiSher's exact test
+------------------
+ble 4. Number of ulcers that healed at the end of the study months)
+Table 5. Relative risks and confidence intervals obtained from
+proportional hazards model
+------------------------
+------------------
+Ulcer area. cmz (halving initial area) 1.92
+Duration of ulceration months 1.35
+(halVing initial onset) .
+Age in years (JO.year decrease) 1.34
+No PPG deep vein involvement I.MO
+B'lofilm treatment 1.16
+-----------------------
+112
+Table 6. Healing rate, pain and dressing comfort after the first month of treatment
+J. M. Smith et al.
+n
+Median healing rate (cmvday)
+IQR
+Mann-Whitney U-test
+n
+Moderate/severe pain, n (%)
+Very/fairly comfortable. n (%)
+Initial ulcer diameter
+2-4cm >4cm
+Biofilm Betadine Biofilm Betadine
+50 52 25 24
+0.056 0.062 0.184 0.017
+0.027-0.085 0.039-0.086 0.115-0.338 0.001-0.267
+p=O.40 p=O.09
+34 36 27 26
+6 (18) 16 (44) 12 (44) 14 (54)
+26 (76) 26 (72) 17 (63) 12 (46)
+IQR. interquartile range.
+Table 7. Community dressing charges
+Initial ulcer diameter
+<6cm ~6cm
+n
+Total number of changes (median)
+Interquartile range
+Total time of changes, min (median)
+Interquartile range
+Total cost of dressings (£)
+Total cost of dressings and nursing time (£)
+Biofilm
+82
+14.5
+8.0-28.5
+114
+55-182
+32.81
+48.96
+Betadine
+77
+18.0
+9.0-30.0
+144
+60-287
+18.55
+38.95
+Biofilm
+17
+70.0
+31.8-80.5
+598
+264-856
+441.91
+526.63
+Betadine
+24
+64.5
+27.Q-87.5
+814
+321-1295
+68.43
+183.75
+Betadine dressing. This cost difference will be partially
+offset by the lower frequency of dressing changes
+required as the ulcer begins healing and the change to
+small Biofilm dressings when the maximum diameter of
+the ulcer falls below 6 em.
+During March 1989 the 43 patients who were still
+receiving treatment at the end of their 4 months in the
+trial were followed-up. Of the 40 patients who could be
+contacted, the ulcer had healed in 25 (63%). Only eight
+patients continued to receive the same treatment after
+the end of the trial (88% healed). Twenty patients were
+changed to Bactroban because of persistent growth of
+Staphylococcus aureus (60% healed) and a further 14
+were changed to other treatments (43% healed).
+Discussion
+Biofilm was not found to be significantly different from
+Jelonet and Betadine in the time taken for complete
+ulcer healing. The significant reduction in pain experienced by the Biofilm group is a well documented benefit
+of hydrocolloid dressings over more traditional ones
+[12-15]. The total cost of treatment over the 4-month
+duration of the trial was similar for both treatments for
+small ulcers, but for large ulcers Biofilm costs about
+three times as much as Jelonet and Betadine. There are
+a number of convenience advantages for Biofilm dressing. Patients using Biofilm could have a bath or shower
+and there were less withdrawals in the large Biofilm
+group, suggesting greater patient acceptability. Biofilm
+is easier to apply than conventional dressings, thus
+reducing the time taken for dressing changes and the
+cost of the district nurse's time.
+The type of stocking worn (Venosan 2002 or two
+layers of shaped Tubigrip) did not significantly affect the
+time to complete ulcer healing. Previous work [7) has
+shown that both types of stocking produce a similar
+degree of graduated compression.
+The bacteria present at the start of the study did not
+significantly influence the time to complete ulcer healing. Eriksson (11) found that healing seamed to be
+independent of the bacteria present in the ulcers.
+However, we also observed that the bacteria present in
+Biofilm Dressing for Venous Leg Ulcers
+the ulcer change from month to month. For example, in
+those patients with S. aureus present at either their first
+or !a~t visit, in only 59% was it found on both occasions.
+This IS In agreement with Ormiston et al. [17]who found
+no consistent trend towards eradication of particular
+pathogens irrespective of treatment or response of
+ulcers.
+Many trials assessing treatments for venous ulcers are
+of Poor quality. Sample sizes are often small [18,19] and
+the length of follow-up unrealistically short [18,20]. We
+re~mmend that the sample size should be at least 100
+patIents and follow-up 6 months. Many studies use
+~ross-over designs [17,19,21], which are only suitable
+or Chronic, stable conditions that cannot be cured.
+Some studies fail to distinguish between the number of
+Ulcers and the number of patients [19] although it is
+~nrealistic to consider different ulcers on the same
+IndiVidual as independent observations. Others fail to
+apply standardized graduated compression [19] or have
+no concurrent control group [22].
+~he simple analysis of the proportion of ulcers healed
+~~nng the 4 months of the trial (Table 4) suggests that
+lofilm treatment improved healing for large ulcers.
+H?wever, even though treatment allocation was randomized and stratified by initial ulcer diameter, there was
+some imbalance between the treatment groups in variables found to be related to prognosis (Table 2). The
+proportional hazards model adjusts the treatment companson to make allowance for these imbalances in
+Pfogno.stic variables. This form of analysis also includes
+a 1 avatlable information from patients who are with-
+~awn, drop out or where the ulcer fails to heal during
+t e 4 months of the trial. The proportional hazards
+~odel did not find any significant difference (p = 0.48)
+.etween Biofilm and Jelonet, and there was no sugges-
+~Ion that Biofilm was better for large ulcers (test for
+Interaction between initial ulcer diameter and treat-
+~ent, p = 0.31). Time to complete healing is the most
+Important outcome variable in leg ulcer trials.
+The variables found to be related to prognosis can be
+~se~ to construct a prognostic index [16]. The prognostic Index can be used in future clinical trials to stratify
+patients into high, medium and low risk groups, before
+randomly assigning treatments. This would ensure that
+comparable groups are used to assess any effect of
+treatment.
+Approximately 1% of the population suffer from
+chronic leg ulceration [1]. Prevalence increases with
+age, so that 2% of those aged over 85 years have active
+ul~ration. About one-quarter of recurrent ulcers are
+actIve at any point in time, so approximately 8% of
+~ose aged over 85 years experience chronic ulceration.
+emographic predictions suggest a 40% increase in the
+number of people aged over 85 years by the year 2000
+[23] so there is an urgent requirement for well-condueted trials evaluating treatments.
+113
+Acknowledgments. We should like to thank the study
+nurse coordinators, J. V. Cornwall, SRN and W. Jones,
+SRN, Clinimed Ltd for the financial support of
+W. Jones, the community nurses who helped with the
+study, and O. Waldron for typing the manuscript.
+References
+1. Callam M. Prevalence of chronic leg ulceration and severe
+chronic venous disease in Western countries. Phlebology
+1992;7(supp 1):6-12.
+2. Cornwall JV, Dore CJ, Lewis JD. Leg ulcers: epidemiology and
+aetiology. Br J Surg 1986;73:693-6.
+3. Anonymous. Your data on leg ulcers. J Dist Nursing 1987;
+March:4-6.
+4. Meredith K, Gray E. Dressed to heal. J Dist Nursing 1988;
+September:8-lO.
+5. Cornwall JV. Diagnosis of leg ulcers. J. Dist Nursing 1985;
+September:4-6,11.
+6. Jones NAG, Webb PJ, Rees RI, Kakker VV. A physiological
+study of elastic compression stockings in venous disorders of the
+leg. Br J Surg 1980;67:569-72.
+7. Cornwall JV, Dore CJ, Lewis JD. Graduated compression and its
+relation to venous refilling time. Br Med J 1987;295:1087-90.
+8. Dixon WJ, Brown MB, Engelman L, Hill MA, Jennrich Rl.
+BMDP statistical software manual, Vols I and 2. Berkeley:University of California Press, 1988.
+9. Kuk AYC. All subsets regression in a proportional hazards
+model. Biometrika 1984;71:587-92.
+10. Christensen E. Multivariate survival analysis using Cox's regression model. Hepatology 1987;7:1346-58.
+11. Eriksson G. Bacterial growth in venous leg ulsers - its clinical
+significance in the healing process. In: Ryan TJ, editor. An
+environment for healing: the role of occlusion. London: Royal
+Society of Medicine, 1984:45-9.
+12. Friedman 51, Su DWP. Management of leg ulcers with hydrocolloid occlusive dressing. Arch DermatoI1984;120: 1329-36.
+13. Bale S. Dressing leg ulcers. J Dist Nursing 1987; March:9-13.
+14. Blitz H, Kiessling M, Kreysel HW. Comparison of hydrocolloid
+dressing and saline gauge in the treatment of skin graft donor
+sites, In: Ryan TJ. editor. An environment for healing: the role of
+occlusion. London: Royal Society of Medicine, 1984:125-8.
+15. Kikta MJ. Schuler 11, Meyer JP. A prospective, randomised trial
+of Unna's boots versus hydroactive dressing in the treatment of
+venous stasis ulcers. J Vase Surg 1988;7:478-83.
+16. Skene AI. Smith JM, Dore CJ, Charlett A. Lewis JD. Venous leg
+ulcers: a prognostic index to predict time to healing. Br Med J. In
+press.
+17. Ormiston MC, Seymour MTJ, Venn GE, Cohen RI. Fox JA.
+Controlled trial of lodosorb in chronic venous ulcers. Br Med J
+1985;291 :3()~10.
+Ill. Roelens P. Double-blind placebo-controlled study with topical
+2% Ketanserin ointment in the treatment of venous ulcers.
+Dermatologica 1989;178:9~102.
+19. Thomas S, Tucker CA. Sorbsan in management of leg ulcers.
+Pharm J 1989;243:706-9.
+20. Stewart AJ, Leaper DJ. Treatment of leg ulcers in the community: a comparative trial of Scherisorb and Iodosorb. Phlebology
+19117;2:115-21.
+21. Winter A, Cameron S. Healing in comfort. J Dist Nursing
+I990;June:5-6.
+22. Blair SO, Wright DDI, Backhouse CM, Riddle E, McCollum
+eN. Sustained compression and healing of chronic venous ulcers.
+Br Med J 1988;297:1159-61.
+23. Bosanquet N. Costs of venous ulcers: from maintenance therapy
+to investment programmes. Phlebology 1992;7(suppl 1):44-6.
+Received for publication 29.4.92
+Accepted 22.6.92

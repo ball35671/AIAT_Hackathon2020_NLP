@@ -1,0 +1,935 @@
+Efficacy and safety of duloxetine for treatment of fibromyalgia
+in patients with or without major depressive disorder: Results
+from a 6-month, randomized, double-blind, placebo-controlled,
+fixed-dose trial q
+I. Jon Russell a
+, Philip J. Mease b
+, Timothy R. Smith c
+, Daniel K. Kajdasz d
+,
+Madelaine M. Wohlreich d
+, Michael J. Detke d,e,f, Daniel J. Walker d
+,
+Amy S. Chappell d,e,*, Lesley M. Arnold g
+a University of Texas Health Science Center, San Antonio, TX, USA b Swedish Medical Center and University of Washington School of Medicine, Seattle, WA, USA c
+Mercy Health Research, St. Louis, MO, USA dLilly Research Laboratories, Eli Lilly and Company, Indianapolis, IN 46285, USA e
+Indiana University School of Medicine, Indianapolis, IN, USA f
+Harvard Medical School, Boston, MA, USA g University of Cincinnati College of Medicine, Cincinnati, OH, USA
+Received 25 July 2007; received in revised form 20 February 2008; accepted 21 February 2008
+Abstract
+The primary objectives of this study were to assess the efficacy and safety of duloxetine for reducing pain severity in fibromyalgia
+patients with or without current major depressive disorder. This was a 6-month, multicenter, randomized, double-blind, placebocontrolled study. In total, 520 patients meeting American College of Rheumatology criteria for fibromyalgia were randomly
+assigned to duloxetine (20 mg/day, 60 mg/day, or 120 mg/day) or placebo, administered once daily, for 6 months (after 3 months,
+the duloxetine 20-mg/day group titrated to 60 mg/day). The co-primary outcome measures were the Brief Pain Inventory (BPI) average pain severity score and Patient Global Impressions of Improvement (PGI-I) score. Safety was assessed via treatment-emergent
+adverse events, and changes in vital sign, laboratory, and ECG measures. Compared with placebo-treated patients, those patients
+treated with duloxetine 120 mg/day improved significantly more on the co-primary outcome measures at 3 months (change in BPI
+score [2.31 vs 1.39, P < 0.001] and PGI-I [2.89 vs 3.39, P = 0.004]) and at 6 months (change in BPI [2.26 vs 1.43, P = 0.003]
+and PGI-I [2.93 vs 3.37, P = 0.012]). Compared with placebo, treatment with duloxetine 60 mg/day also significantly improved the
+co-primary measures at 3 months and BPI at 6 months. Duloxetine was efficacious in patients both with and without major depressive disorder. There were no clinically significant differences between treatment groups in changes in vital signs, laboratory measures,
+or ECG measures. Study results demonstrated that duloxetine at doses of 60 mg/day and 120 mg/day appears to be safe and efficacious in patients with fibromyalgia.
+ 2008 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+Keywords: Fibromyalgia; Duloxetine; Efficacy and safety; Randomized clinical trial
+0304-3959/$34.00  2008 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+doi:10.1016/j.pain.2008.02.024
+q Clinical Trial Registry Number: NCT00190866, at www.clinicaltrials.gov. * Corresponding author. Address: Lilly Research Laboratories, Lilly Corporate Center, Indianapolis, IN 46285, USA. Tel.: +1 317 277 3846; fax:
++1 317 276 6026.
+E-mail address: aschappell@lilly.com (A.S. Chappell).
+www.elsevier.com/locate/pain
+Pain 136 (2008) 432–444
+1. Introduction
+Fibromyalgia affects about 2% of the US general
+population and is characterized by chronic, widespread
+pain [42,43]. The American College of Rheumatology
+criteria for fibromyalgia include widespread pain for at
+least 3 months and pain on palpation in 11 of the 18 tender-point sites [26,44]. Moreover, a variety of other
+symptoms such as fatigue, headache, and sleep disturbance often accompany the widespread pain [44]. Mood
+disorders are also common, with 25–40% of patients
+with fibromyalgia reporting current major depressive
+disorder (MDD) [1,2].
+Although the underlying mechanisms responsible for
+fibromyalgia are not well understood, dysfunction of
+central serotonin and norepinephrine systems may play
+a key role. Both serotonin and norepinephrine have
+been implicated in the mediation of endogenous pain
+mechanisms via the descending inhibitory pain pathways [3,6,28]. Dysfunction in these systems could be
+involved in central sensitization and in hyperexcitability
+of the spinal cord and supraspinal pain-transmitting
+pathways [3,6,28,31,32,45]. Duloxetine hydrochloride,
+a selective serotonin and norepinephrine reuptake inhibitor that is relatively balanced in its affinity for serotonin
+and norepinephrine reuptake transporters, is approved
+by the Food and Drug Administration (FDA) for the
+treatment of MDD [10,11] and generalized anxiety disorder [20,24], and for the management of diabetic
+peripheral neuropathic pain [29,39]. Two 12-week, double-blind, placebo-controlled studies provided support
+that duloxetine was efficacious in the reduction of pain
+and well-tolerated in patients with fibromyalgia. In the
+first study [1], duloxetine 60 mg twice a day (BID) was
+well-tolerated; however, the improvement associated
+with duloxetine treatment was not statistically significant on the primary pain measure in the overall study
+population, but was significant in the female subpopulation, which comprised 89% of the overall study population. The second study [2], which included only women,
+found that both 60 mg once a day (QD) and 60 mg BID
+were efficacious on pain and nearly all other efficacy
+measures, including health outcome assessments. In
+both studies, duloxetine was equally efficacious in
+female patients with or without MDD.
+Based on the evidence that duloxetine 60 mg QD and
+60 mg BID were well-tolerated and efficacious in the
+treatment of fibromyalgia, we conducted another randomized, double-blind, placebo-controlled trial to further assess the efficacy and safety of duloxetine at
+20 mg/day, 60 mg/day, and 120 mg/day, administered
+once daily for 6 months in women and men with fibromyalgia with or without comorbid MDD. This was
+the first study of duloxetine for fibromyalgia of this
+duration. Furthermore, in addition to evaluating the
+efficacy of duloxetine on change in pain severity, a
+co-primary measure to determine the effect of duloxetine
+on global improvement was included. The study also
+included secondary measures of fatigue, mood,
+tender-point threshold, health-related quality of life,
+and functional impairment.
+2. Methods
+2.1. Overview
+The study was conducted in 38 outpatient research centers
+in the USA and Puerto Rico between June 2005 and June 2007.
+Each clinical study site’s Institutional Review Board approved
+the protocol, which was developed in accordance with the ethical standards of Good Clinical Practice (GCP) and the Declaration of Helsinki. Patients provided written informed consent
+before participation in any study-related procedures. Patients
+were identified by physician referral or advertisement for a
+fibromyalgia medication trial.
+2.2. Entry criteria
+Female and male outpatients at least 18 years of age
+who met criteria for fibromyalgia as defined by the American College of Rheumatology were recruited for this study.
+Patients were required to have a score P4 on the average
+pain severity item (in the past 24 h) of the Brief Pain Inventory (BPI-modified short form) [8] at screening and at baseline. Patients with or without current MDD were included
+and evaluated for the presence of psychiatric disorders using
+the Mini International Neuropsychiatric Interview (MINI)
+[35]. Training was provided to psychiatrists, psychologists,
+or individuals with at least 6 months of experience in the
+administration of psychiatric scales at site start-up meetings
+either in person or remotely via video conferencing. Each
+site was also supplied with a CD-ROM containing training
+for the completion of the MINI and other efficacy, health
+outcome, and safety measures.
+Exclusion criteria included any current primary psychiatric
+diagnosis other than MDD; pain symptoms unrelated to fibromyalgia that could interfere with interpretation of outcome
+measures; regional pain syndromes; multiple surgeries or failed
+back syndrome; a confirmed current or previous diagnosis of
+rheumatoid arthritis, inflammatory arthritis, or other autoimmune disease; unstable medical or psychiatric disorders; severe
+liver disease; current pregnancy or breast-feeding; or a history
+of substance abuse within the past year. Patients who were
+judged by the investigator to be treatment-refractory or whose
+response might be compromised by disability compensation
+issues in the opinion of the investigator were also excluded.
+Prior to randomization, patients were required to discontinue any medications that might interfere with the evaluation
+of pain improvement, including analgesics (with the exception
+of up to 325 mg/day of aspirin for cardiac prophylaxis and
+acetaminophen up to 2 g/day for pain), antidepressants, anticonvulsants, or other medications taken for fibromyalgia or
+pain. Sedating antihistamines and episodic use (up to 40 total
+days of use during the 6 months of treatment) of chloral
+hydrate, zolpidem, zolpiclone, and zaleplon were allowed to
+facilitate sleep. Patients were encouraged not to initiate or alter
+I.J. Russell et al. / Pain 136 (2008) 432–444 433
+non-conventional/alternative therapies such as acupuncture,
+biofeedback, or cognitive-behavioral therapy for the duration
+of the study.
+2.3. Study design
+This was a randomized, double-blind, placebo-controlled,
+multicenter, parallel group study of patients with a diagnosis
+of fibromyalgia with or without current MDD. There was a
+1-week screening phase, which was followed by 3-month (15
+weeks) double-blind, randomized treatment with duloxetine
+(20 mg/day, 60 mg/day, or 120 mg/day) or placebo once daily,
+for evaluation of the primary endpoint. All remaining patients
+continued for an additional 13 weeks of double-blind, placebocontrolled treatment. In this paper, 6-month treatment refers
+to the entire 28 weeks of double-blind treatment (secondary
+endpoint). All patients completing the 6-month, double-blind
+treatment phase were eligible to enter an additional 28 weeks
+of treatment (this will not be reported here). A 2-week taper
+occurred at the end of the additional 28 weeks or for patients
+who discontinued after receiving at least 2 weeks of treatment.
+Patients were randomly assigned in a 1:2:2:2 ratio to once
+daily duloxetine 20 mg/day, 60 mg/day, 120 mg/day, or placebo, respectively. Patients randomly assigned to duloxetine
+60 mg/day were started at 30 mg/day for 1 week, then titrated
+to 60 mg/day. Patients randomly assigned to 120 mg/day were
+started at 30 mg/day for 1 week, then titrated to 60 mg/day for
+1 week, and then to 120 mg/day. Patients randomly assigned to
+duloxetine 20 mg/day had their dose blindly increased to
+60 mg/day after 3 months on study drug when they entered
+the second half of the 6-month, double-blind treatment phase
+(20/60 mg/day). The 20-mg/day dosage was included to help
+establish the minimally effective duloxetine dose. Assignment
+to treatment groups was determined by a computer-generated
+random sequence and each stratum (depressed and nondepressed) was randomly assigned within sites to achieve a relative balance across treatments.
+During the taper phase, those who had received duloxetine
+60 mg/day experienced dosage reduction to 30 mg/day for 1
+week and then received placebo for a second week. The dosage
+of patients who had received duloxetine 120 mg/day was
+reduced to 60 mg/day for 1 week, then 30 mg/day for a second
+week. Patients who had received duloxetine 20 mg/day or placebo received placebo for the entire 2-week taper phase.
+2.4. Outcome measures
+The co-primary outcome measures were the average pain
+severity item of the BPI-modified short form [8] that measures
+average pain severity during the past 24 h on a scale from 0 (no
+pain) to 10 (pain as bad as you can imagine) and the Patient
+Global Impression of Improvement (PGI-I) scale [18] ranging
+from 1 (very much better) to 7 (very much worse). The
+response rate, defined as a P50% reduction in the average pain
+score from baseline to endpoint, was determined at both 3
+months and 6 months. The number needed to treat (NNT)
+was based on the 50% response rates at 3 months and at 6
+months. NNT was calculated as 1 divided by the absolute risk
+reduction (ARR) where the ARR was the difference between
+the duloxetine and placebo response rates. The numbers were
+then rounded up to the nearest whole number.
+Secondary efficacy measures included the Fibromyalgia
+Impact Questionnaire (FIQ) [5], Clinical Global Impressions-Severity (CGI-S) [18], tender-point pain assessments
+using the Fischer dolorimeter (Pain Diagnostics and Thermography, Great Neck, NY) [13], including mean tenderpoint pressure pain thresholds, the Multidimensional Fatigue
+Inventory (MFI) [36], the 17-item Hamilton Depression Rating Scale (HAMD17) [19], the Sheehan Disability Scale
+(SDS) [34], the 36-item Short-Form Health Survey (SF-36)
+[38], and the EuroQoL Questionnaire-5 Dimensions (EQ5D) [23].
+The safety of duloxetine was assessed through collection of
+spontaneously reported adverse events, vital signs, and weight
+that were recorded at baseline and each visit through study
+completion. An adverse event was considered treatment-emergent if it was new or a worsening of a pre-existing symptom
+upon initiation of treatment compared with the event reported
+at baseline. Adverse events were coded using the Medical Dictionary for Regulatory Activities (MedDRA) version 9.1.
+Centralized electrocardiograms (ECGs) and laboratory
+tests (hematology and clinical chemistry) were conducted at
+screening, at several visits throughout the study periods, and
+at endpoint. Urinalysis and a drug screen were undertaken
+during the screening phase for the evaluation of inclusion/
+exclusion criteria.
+2.5. Statistical analyses
+The a priori-defined primary objective of the study was to
+determine whether duloxetine 120 mg/day provided significant
+improvement compared with placebo in both co-primary outcomes at the 3-month endpoint. The study was designed to
+enroll 140 patients each in the duloxetine 120 mg/day and placebo groups so as to have at least 85% power to detect a treatment group difference of 1.2 points between duloxetine
+120 mg/day and placebo in the change in the average pain
+severity score from baseline to endpoint, and at least 80%
+power to detect a difference in the PGI-I at endpoint of 0.68
+in the same two groups for the same treatment period. Overall
+Type I error regarding the multiple comparisons associated
+with the co-primary endpoints, multiple doses of duloxetine,
+and multiple timepoints for assessment was maintained at
+the 0.05 level through implementation of a gatekeeper strategy
+[41].
+Secondary outcomes were included to provide additional
+assessments of duloxetine’s efficacy in treating fibromyalgia
+and to provide a better understanding of duloxetine’s potential
+effect on other symptom domains associated with fibromyalgia. As such, multiplicity adjustments were not conducted for
+the secondary outcomes.
+All analyses were conducted on an intent-to-treat basis
+unless otherwise specified. All randomly assigned patients were
+included in the safety analyses, and all patients with a baseline
+and at least one post-baseline measurement were included in
+the efficacy analyses. For continuous efficacy variables, with
+the exception of the PGI-I scores, treatment group differences
+in change from baseline to endpoint were examined using an
+analysis of covariance (ANCOVA) model with treatment and
+investigator as main effects and the baseline score as the covariate. Endpoint was defined as each patient’s last observation
+within the respective 3- and 6-month treatment periods. The
+434 I.J. Russell et al. / Pain 136 (2008) 432–444
+PGI-I scores at endpoint were analyzed using an ANCOVA
+model with treatment and investigator as fixed effects, with
+the PGI-Severity (PGI-S) score [18] at baseline as a covariate.
+The PGI-S scale is a patient-rated measure of illness severity
+which is similar to the CGI-S, and that reflects the patient’s
+impression of his/her illness severity at a given point in time.
+Pairwise comparisons between treatment groups were based
+on evaluating the difference in type II least-squares mean (LS
+mean) from the above ANCOVA models. Treatment-by-investigator interactions were evaluated, but the interaction term was
+not included in the ANCOVA model, irrespective of its statistical significance. Analysis of subgroups based on age, race, sex,
+and MDD status at baseline were conducted using similar
+ANCOVA models, with the addition of terms for the subgroup
+effect and treatment-by-subgroup interaction. Treatment effects
+between subgroups were considered to differ significantly when
+the treatment-by-subgroup interaction P-value was 60.10.
+To assess the robustness of the co-primary endpoints, a
+similar ANCOVA analysis in which the baseline observation
+was carried forward (BOCF) for all patients discontinuing
+early was implemented post hoc for the BPI average pain
+score. Similarly, for the PGI-I, mean scores at endpoint were
+reassessed with all discontinuing patients assigned an endpoint
+PGI-I score of 4, corresponding to ‘‘no change”. These analyses assume no treatment benefit or deficit for patients who did
+not complete the 3- or 6-month acute treatment phases in the
+respective 3- and 6-month analyses.
+Demographic and baseline disease characteristics and
+changes from baseline to endpoint in ECG parameters, vital
+signs, and weight were evaluated using a main effects analysis
+of variance (ANOVA) model containing terms for treatment
+and investigator. Unless otherwise specified, ‘‘baseline” refers
+to the last non-missing observation at or before the randomization visit, and ‘‘endpoint” refers to the last non-missing
+observation in the period of analysis (3 months or 6 months).
+Categorical outcomes were compared between treatment
+groups using Fisher’s exact test. Treatment effects were evaluated based on a two-sided significance level of 0.05 and interaction effects at a significance level of 0.10. Throughout this
+article, the term ‘‘significant” indicates statistical significance.
+A gatekeeper strategy [41] was employed for sequentially testing secondary hypotheses and was ordered based on regulatory
+requirements and considerations at the time of study design. If
+the primary hypotheses were statistically significant at the 0.05
+two-sided level, the first secondary gatekeeper hypothesis was
+tested. If this comparison was statistically significant at the
+0.05 two-sided level, subsequent secondary hypotheses were
+tested in sequence until a null hypothesis in the sequence failed
+to be rejected. The sequential testing was conducted in the following order: the comparison between duloxetine 60 mg/day
+and placebo on the change from baseline to endpoint on the average pain severity score and the endpoint of the PGI-I (3-month
+comparison); the comparison between duloxetine 120 mg/day
+and placebo on the change from baseline to endpoint on the average pain severity score and the endpoint of PGI-I (6-month comparison); the comparison between duloxetine 60 mg/day and
+placebo on the change from baseline to endpoint on the average
+pain severity score and the endpoint of PGI-I (6-month comparison); the comparison between duloxetine 120 mg/day and placebo on the change from baseline to endpoint on the SDS total
+score (6-month comparison); the comparison between duloxetine 60 mg/day and placebo on the change from baseline to endpoint on the SDS total score (6-month comparison); the
+comparison between duloxetine 120 mg/day and placebo on
+the change from baseline to endpoint on the SDS total score
+(3-month comparison); and the comparison between duloxetine
+60 mg/day and placebo on the change from baseline to endpoint
+on the SDS total score (3-month comparison).
+Response profiles over time for efficacy measures were evaluated using a likelihood-based, mixed-effect repeated-measures
+model that contained categorical effects for treatment, visit,
+investigator, and treatment-by-visit interaction, as well as the
+continuous fixed covariates for baseline score and baselineby-visit interaction. Visitwise treatment group comparisons
+were based on the difference in LS means derived from type
+III sums of squares.
+Path analysis [30] was performed to quantify the amount of
+treatment benefit attributed to a direct analgesic effect as compared to the indirect effect on pain mediated through improvement in depressive symptoms. In this analysis, two regression
+models were employed to partition the overall treatment effect
+into direct and indirect components. Please see Arnold et al. [1]
+for statistical details of the methodology.
+3. Results
+3.1. Patient disposition
+A total of 1010 patients were screened to enroll 520
+patients who met the entry criteria and were randomly
+assigned to either duloxetine 20 mg/day (N = 79), duloxetine 60 mg/day (N = 150), duloxetine 120 mg/day
+(N = 147), or placebo (N = 144). The percentage of
+patients in each of the above treatment groups that completed the 3-month treatment phase was 63.3%, 64.7%,
+64.6%, and 58.3% (P = 0.645), respectively. The most
+frequently reported reasons for discontinuation were
+adverse events, lack of efficacy, and patient decision
+(Fig. 1). Overall, treatment groups did not significantly
+differ with respect to any specific reason for discontinuation. There was a numeric trend toward increasing
+rates of discontinuation due to adverse events (AEs)
+associated with increasing duloxetine dose (duloxetine
+120 mg/day [22.5%], duloxetine 60 mg/day [14.7%], duloxetine 20 mg/day [10.1%], placebo [11.8%]) with a statistically significantly higher rate of discontinuation due
+to AEs associated with the 120 mg/day group compared
+with the placebo group (P = 0.029). In contrast, a nonsignificant, inverse trend toward decreasing rates of discontinuation due to lack of efficacy was associated with
+increasing duloxetine dose [duloxetine 120 mg/day
+(4.1%), duloxetine 60 mg/day (7.3%), duloxetine
+20 mg/day (10.4%), placebo (8.9%)] was demonstrated.
+A total of 325 patients continued the study for 3
+months. This included 49 duloxetine 20 mg/day patients,
+whose dose was increased to duloxetine 60 mg/day for
+the final 3 months. A total of 278 patients (85.5% of
+those entering the additional 3 months) completed the
+6-month treatment phase. The percentage of patients
+I.J. Russell et al. / Pain 136 (2008) 432–444 435
+completing the entire 6 months of treatment was 57.0%
+(45/79) for the duloxetine 20/60 mg/day group, 54.7%
+(82/150) for the duloxetine 60 mg/day group, 53.7%
+(79/147) for the duloxetine 120 mg/day group, and
+50.0% (72/144) for the placebo group.
+3.2. Baseline clinical and demographic characteristics
+Most of the patients were women (94.8%), white
+(84.2%), and, on average, 51 years of age. There were
+no significant differences between treatment groups in
+Fig. 1. Patient flow diagram. *
+One patient treated with duloxetine 20 mg/day that completed the acute phase decided not to enter the continuation
+phase.
+436 I.J. Russell et al. / Pain 136 (2008) 432–444
+demographics or baseline disease characteristics
+(Table 1).
+3.3. Efficacy and health outcomes
+3.3.1. Three month treatment phase
+Unlike patients receiving duloxetine 20 mg/day,
+patients treated with duloxetine 60 mg/day and duloxetine 120 mg/day experienced significantly greater
+improvement in pain severity compared with placebotreated patients, as measured by the change from baseline in the average pain severity score (Table 2). The
+mean endpoint PGI-I score was significantly lower (better) in patients treated with duloxetine for each of the
+three doses compared with patients treated with
+placebo.
+Significant improvement in the average pain severity
+score (Fig. 2) and in the PGI-I score (Fig. 3) occurred
+as early as 1 week after starting treatment for both the
+duloxetine 60 mg/day and 120 mg/day treatment
+groups. In addition, duloxetine-treated patients showed
+similar improvement in the average pain severity score
+and PGI-I score compared with placebo regardless of
+the presence or absence of MDD at baseline (Table 2).
+For secondary measures, both duloxetine 60 mg/dayand duloxetine 120 mg/day-treated patients demonstrated significantly greater improvements compared
+with placebo-treated patients in the CGI-S score, FIQ
+total score, SF-36 mental component score, and some
+of the MFI domains, but did not achieve significance
+on the other secondary efficacy and health outcome
+measures (Table 2). In addition, the BOCF analysis
+for the average pain severity score demonstrated significant improvement in pain severity in the duloxetine
+120 mg/day (2.25, P < 0.001) and 60 mg/day (1.92,
+P = 0.027) groups but not in the 20 mg/day group
+(1.86, P = 0.102) compared with the placebo group
+(1.34). The PGI-I at endpoint assessments assuming
+a value of ‘no change’ for discontinuing patients were
+consistent with the above findings: duloxetine 120 mg/
+day (3.39, P = 0.004), 60 mg/day (3.40, P = 0.007), duloxetine 20 mg/day group (3.45, P = 0.052) compared
+with the placebo group (3.69).
+No significant treatment-by-investigator interactions
+were observed during either 3 months or 6 months of
+treatment for the average pain severity score, PGI-I
+score, SDS Global Functioning score, and those measures and timepoints relating to the primary and secondary gatekeeper objectives.
+Response rates, defined as a P50% improvement
+from baseline to the 3-month endpoint in the average
+pain severity score, were significantly greater for duloxetine 120 mg/day (40.1%; P = 0.003), but not for duloxetine 60 mg/day (34.0%; P = 0.067) or for duloxetine
+20 mg/day (32.5%; P = 0.200) compared with placebo
+(23.7%). Post hoc analyses also showed that response
+rates defined by P30% reduction from baseline to 3-
+month endpoint in the average pain severity score were
+significantly higher for duloxetine 120 mg/day (52.1%;
+P = 0.008) and for duloxetine 60 mg/day (50.7%;
+P = 0.016), but not for duloxetine 20 mg/day (46.8%;
+P = 0.147) compared with placebo (36.0%). The number
+needed to treat (95% CI) for duloxetine 20 mg/day,
+60 mg/day, and 120 mg/day was 12 (4.6, 1), 10 (4.8,
+1), and 7 (3.7, 18.1), respectively.
+The path analysis demonstrated that the direct analgesic effect of duloxetine 60 mg/day on the reduction
+in the average pain severity score accounted for 62.2%
+(P = 0.183) of the total treatment effect at 3 months.
+The indirect treatment effect through improvement in
+Table 1
+Baseline characteristics of patients
+Variable Duloxetine Placebo
+20 mg/day (N = 79) 60 mg/day (N = 150) 120 mg/day (N = 147) (N = 144)
+Women, n (%) 77 (97.5) 136 (90.7) 143 (97.3) 137 (95.1)
+Age, mean years (SD) 50.9 (11.4) 51.8 (10.6) 51.1 (10.8) 50.3 (10.9)
+Race, n (%)
+White 66 (83.5) 127 (84.7) 126 (85.7) 119 (82.6)
+African descent 4 (5.1) 3 (2.0) 4 (2.7) 5 (3.5)
+Hispanic 9 (11.4) 16 (10.7) 17 (11.6) 20 (13.9)
+Other 0 (0.0) 4 (2.7) 0 (0.0) 0 (0.0)
+MDD diagnosis, n (%) 22 (27.9) 35 (23.3) 34 (23.1) 35 (24.3)
+BPI average pain severity score, mean (SD) 6.8 (1.6) 6.5 (1.4) 6.4 (1.6) 6.6 (1.7)
+CGI-severity, mean (SD) 4.4 (0.9) 4.3 (0.8) 4.4 (0.8) 4.5 (0.9)
+FIQ total score, mean (SD) 54.0 (11.4) 51.7 (11.8) 51.7 (14.1) 53.0 (11.2)
+Mean tender-point threshold, mean (SD) 2.1 (0.7) 2.3 (1.0) 2.1 (0.9) 2.2 (0.8)
+HAMD17 total score, mean (SD) 10.6 (5.8) 9.9 (6.1) 9.9 (6.1) 10.6 (5.8)
+MDD patients 15.1 (4.9) 15.4 (5.8) 16.3 (4.4) 15.3 (4.5)
+Non-MDD patients 8.9 (5.1) 8.2 (5.1) 8.1 (5.2) 9.1 (5.3)
+Abbreviations: MDD, major depressive disorder; BPI, Brief Pain Inventory; CGI-Severity, Clinical Global Impressions-Severity; FIQ, Fibromyalgia
+Impact Questionnaire.No significant between-group differences were found.
+I.J. Russell et al. / Pain 136 (2008) 432–444 437
+depressive symptoms accounted for 37.8% (P = 0.017)
+of the total treatment effect. The direct effect of duloxetine 120 mg/day on the reduction in the average pain
+severity score accounted for 79.0% (P = 0.045) of the
+total treatment effect at 3 months. The indirect treatment effect through improvement in depressive symptoms accounted for 21.0% (P = NS) of the total
+treatment effect.
+The treatment-by-subgroup interactions on the average pain severity score for sex (P = 0.774), age
+Table 2
+Summary of primary and secondary efficacy outcomes: 3-month and 6-month treatment phases
+Variable Duloxetine Placebo
+20 mg/day (N = 79) 60 mg/day (N = 150) 120 mg/day (N = 147) (N = 144)
+LS mean change (SE) LS mean change (SE) LS mean change (SE) LS mean change (SE)
+3-Month double-blind treatment phase
+BPI average pain severity score
+Overall 1.92 (0.27) 1.99 (0.20)* 2.31 (0.20)*** 1.39 (0.20)
+With MDDa 2.45 (0.50) 2.49 (0.44) 2.69 (0.46) 1.60 (0.43)
+Without MDD 1.70 (0.32) 1.86 (0.24) 2.21 (0.24)** 1.30 (0.24)
+PGI-Ib
+Overall 2.85 (0.17)** 3.04 (0.13)* 2.89 (0.13)** 3.39 (0.13)
+With MDD 2.84 (0.31) 2.64 (0.27) 2.46 (0.28)* 3.28 (0.26)
+Without MDD 2.89 (0.22)* 3.15 (0.16) 3.02 (0.16)* 3.44 (0.16)
+FIQ total score 14.60 (1.83)* 15.41 (1.40)** 14.50 (1.38)* 10.05 (1.42)
+MFI general fatigue 1.73 (0.42) 2.20 (0.32) 2.34 (0.32) 1.88 (0.33)
+MFI physical fatigue 1.70 (0.42) 1.62 (0.32) 1.80 (0.32) 0.99 (0.33)
+MFI mental fatigue 1.64 (0.44) 2.38 (0.34)** 2.07 (0.33) 1.21 (0.34)
+MFI reduced motivation 0.32 (0.43) 1.41 (0.33)* 1.42 (0.33)* 0.32 (0.33)
+MFI reduced activity 1.82 (0.44)* 1.30 (0.34) 1.77 (0.33)** 0.61 (0.34)
+CGI-S 0.96 (0.12) 1.06 (0.10)** 1.10 (0.09)*** 0.70 (0.10)
+Mean tender-point threshold 0.51 (0.11) 0.52 (0.08) 0.42 (0.08) 0.33 (0.08)
+SDS global functioning 5.41 (0.86) 5.69 (0.66) 5.02 (0.66) 4.37 (0.68)
+EQ-5D 0.18 (0.03)* 0.18 (0.03) 0.16 (0.02) 0.09 (0.03)
+SF-36 mental component summary 2.44 (1.22) 5.18 (0.93)** 5.28 (0.92)** 1.78 (0.95)
+SF-36 physical component summary 4.87 (1.09) 4.64 (0.83) 4.07 (0.83) 3.60 (0.85)
+20/60 mg/day (N = 79) 60 mg/day (N = 150) 120 mg/day (N = 147) Placebo (N = 144)
+LS mean change (SE) LS mean change (SE) LS mean change (SE) LS mean change (SE)
+6-Month double-blind treatment phase
+BPI average pain severity score
+Overall 2.22 (0.28)* 1.98 (0.21)* 2.26 (0.21)** 1.43 (0.21)
+With MDD 2.58 (0.53) 2.35 (0.46) 2.56 (0.48)* 1.35 (0.45)
+Without MDD 2.16 (0.34) 1.93 (0.25) 2.20 (0.25)* 1.48 (0.25)
+PGI-Ib
+Overall 2.79 (0.17)** 3.08 (0.13) 2.93 (0.13)* 3.37 (0.13)
+With MDD 2.85 (0.33) 2.96 (0.29) 2.41 (0.30)* 3.28 (0.28)
+Without MDD 2.76 (0.22)* 3.07 (0.16) 3.04 (0.16) 3.37 (0.16)
+FIQ total score 14.77 (1.88) 12.28 (1.44) 13.86 (1.41) 10.42 (1.46)
+MFI general fatigue 1.79 (0.44) 1.83 (0.34) 2.12 (0.33) 1.69 (0.34)
+MFI physical fatigue 2.09 (0.42) 1.67 (0.32) 2.10 (0.32)* 1.10 (0.33)
+MFI mental fatigue 2.37 (0.44)* 2.29 (0.34)* 2.37 (0.33)** 1.14 (0.34)
+MFI reduced motivation 0.64 (0.43) 1.04 (0.33) 1.93 (0.33)*** 0.50 (0.34)
+MFI reduced activity 1.75 (0.45) 1.26 (0.35) 1.93 (0.34)* 0.77 (0.35)
+CGI-S 0.97 (0.13)* 1.07 (0.10)** 1.14 (0.10)*** 0.66 (0.10)
+Mean tender-point threshold 0.54 (0.12) 0.52 (0.09) 0.54 (0.09) 0.42 (0.09)
+SDS global functioning 5.63 (0.86) 5.38 (0.66) 5.23 (0.65) 4.85 (0.68)
+EQ-5D 0.20 (0.03)* 0.12 (0.03) 0.15 (0.02) 0.12 (0.03)
+SF-36 mental component summary 2.56 (1.28) 3.68 (0.97) 4.41 (0.97)* 1.75 (1.00)
+SF-36 physical component summary 4.82 (1.11) 4.94 (0.84) 4.43 (0.84) 4.01 (0.87)
+Abbreviations: LS, least-squares; SE, standard error; MDD, major depressive disorder; BPI, Brief Pain Inventory; CGI-S, Clinical Global
+Impressions-Severity; EQ-5D, EuroQoL Questionnaire-5 Dimensions; FIQ, Fibromyalgia Impact Questionnaire; MFI, Multidimensional Fatigue
+Inventory; PGI-I, Patient’s Global Impressions of Improvement; SDS, Sheehan Disability Scale; SF-36, The 36-item Short-Form Health Survey.
+a The percentage of patients with MDD was 24.2%. b The scores for PGI-I indicate LS mean at endpoint. * P 6 0.05. ** P 6 0.01. *** P 6 0.001 vs placebo.
+438 I.J. Russell et al. / Pain 136 (2008) 432–444
+(P = 0.581), and race (P = 0.374) were not significant.
+In men, the LS mean changes from baseline to endpoint
+during the 3-month treatment period were similar to the
+overall results although the number of men in each
+treatment group was small (duloxetine 120 mg/day
+[n = 4], 2.18; duloxetine 60 mg/day [n = 14], 2.17;
+duloxetine 20 mg/day [n = 2], 0.70; placebo [n = 7],
+0.68). The LS mean changes were similar between
+patients 65 years and younger (duloxetine 120 mg/day
+[n = 129], 2.39; duloxetine 60 mg/day [n = 129],
+2.03; duloxetine 20 mg/day [n = 68], 1.90; placebo
+[n = 131], 1.37) and patients older than 65 years (duloxetine 120 mg/day [n = 13], 1.07; duloxetine 60 mg/
+day [n = 15], 2.10; duloxetine 20 mg/day [n = 9],
+1.97; placebo [n = 8], 2.08). Similar results were
+found among racial groups.
+Post hoc evaluations of changes in HAMD17 total
+score in patients diagnosed with MDD at study entry
+found LS mean changes of 4.8 for placebo (n = 30),
+6.0 for duloxetine 20 mg/day (n = 22), 6.6 for duloxetine 60 mg/day (n = 30) and 7.8 for 120 mg/day
+(n = 29). Only the latter group demonstrated statistically significant improvement compared with placebo
+(P = 0.022).
+3.3.2. Six month treatment phase
+At the 6-month endpoint, patients treated with duloxetine 20/60 mg/day, duloxetine 60 mg/day, and duloxetine 120 mg/day all experienced significantly greater
+improvement in change from baseline in the average
+pain severity score compared with patients receiving placebo (Table 2). The mean endpoint PGI-I score was significantly lower (better) in the duloxetine 20/60 mg/day
+and duloxetine 120 mg/day groups, but not the duloxetine 60 mg/day group, compared with the placebo
+group. Duloxetine-treated patients showed similar
+improvement in the average pain severity score and
+PGI-I compared with placebo-treated patients regardless of whether they had comorbid MDD.
+For secondary measures, all the duloxetine treatment
+groups demonstrated significant improvement compared with the placebo group in the CGI-S and MFI
+mental fatigue domain. The other efficacy and health
+outcome measures that achieved significance in the duloxetine treatment groups compared with the placebo
+group included the MFI physical fatigue domain and
+EQ-5D (duloxetine 20/60 mg/day) and the MFI physical
+fatigue, reduced motivation, and reduced activity
+domains, as well as SF-36 mental component score (duloxetine 120 mg/day).
+Response rates, defined as a P50% improvement
+from baseline to the 6-month endpoint on the average
+pain score, were significantly greater for duloxetine 20/
+60 mg/day (36.4%; P = 0.025), duloxetine 60 mg/day
+(32.6%; P = 0.045), and duloxetine 120 mg/day (35.9%;
+P = 0.009) compared with placebo (21.6%). Post hoc
+analyses also showed that response rates defined by
+P30% reduction from baseline to 6-month endpoint in
+the average pain severity score were significantly higher
+for duloxetine 20/60 mg/day (51.9%; P = 0.045), but not
+for duloxetine 60 mg/day (47.2%; P = 0.118) or duloxetine 120 mg/day (49.3%; P = 0.054) compared with placebo (37.4%). The number needed to treat (95% CI) for
+duloxetine 20/60 mg/day, 60 mg/day, and 120 mg/day
+was 10 (4.7, 148.6), 7 (4.1, 26.6), and 7 (3.6, 42.7),
+respectively.
+The path analysis demonstrated that the direct analgesic effect of duloxetine 60 mg/day on the reduction
+in the average pain severity score accounted for 69.1%
+(P = 0.250) of the total treatment effect at 6 months.
+The indirect treatment effect through improvement in
+depressive symptoms accounted for 30.9% (P = NS) of
+the total treatment effect. The direct effect of duloxetine
+120 mg/day on the reduction in the average pain severity
+score accounted for 82.3% (P = 0.060) of the total treatment effect at 6 months. The indirect treatment effect
+Fig. 2. BPI average pain severity score: LS mean change from baseline
+to each visit: 6-month double-blind treatment phase. Abbreviations:
+LS, least-squares; MMRM, mixed-effect repeated-measures analysis;
+ANCOVA, analysis of covariance. *
+P 6 0.05, **P 6 0.01, ***P 6 0.001
+vs placebo.
+Fig. 3. PGI-I LS mean score at each visit: 6-month double-blind
+treatment phase. Abbreviations: LS, least-squares; MMRM, mixedeffect repeated-measures analysis; ANCOVA, analysis of covariance.
+*
+P 6 0.05, **P 6 0.01, ***P 6 0.001 vs placebo.
+I.J. Russell et al. / Pain 136 (2008) 432–444 439
+through improvement in depressive symptoms
+accounted for 17.7% (P = NS) of the total treatment
+effect.
+The treatment-by-subgroup interactions on the average pain severity score for sex (P = 0.353), age
+(P = 0.922), and race (P = 0.685) were not significant.
+In men, the LS mean changes from baseline to endpoint
+were similar to the overall results although the number
+of men in each treatment group was small (duloxetine
+120 mg/day [n = 4], 2.02; duloxetine 60 mg/day
+[n = 14], 2.41; duloxetine 20 mg/day [n = 1], 1.35; placebo [n = 7], 0.46). The LS mean changes were similar
+between patients 65 years and younger (duloxetine
+120 mg/day [n = 129], 2.29; duloxetine 60 mg/day
+[n = 129], 1.98; duloxetine 20/60 mg/day [n = 68],
+2.20; placebo [n = 131], 1.42) and older than 65 years
+(duloxetine 120 mg/day [n = 13], 1.91; duloxetine
+60 mg/day [n = 15], 2.31; duloxetine 20/60 mg/day
+[n = 9], 2.77; placebo [n = 8], 1.90). Similar results
+were found among racial groups.
+In patients diagnosed with MDD at study entry, LS
+mean changes in HAMD17 total score at 6 months were
+4.8 for placebo (n = 30), 5.2 for duloxetine 20/
+60 mg/day (n = 22), 6.9 for duloxetine 60 mg/day
+(n = 30) and 7.2 for 120 mg/day (n = 29). Treatment
+group differences were not statistically significant when
+compared with placebo.
+3.4. Safety and tolerability
+The safety and tolerability of the duloxetine groups
+were compared with the placebo group across the entire
+6-month treatment period. The proportions of patients
+who discontinued due to an adverse event during the
+6-month study period were significantly different across
+treatment groups: duloxetine 20/60 mg/day (11.4%),
+duloxetine 60 mg/day (15.3%), duloxetine 120 mg/day
+(27.2%), and placebo (13.2%, P = 0.005). Despite this
+global difference, there were no significant differences
+in the incidence of any specific adverse event among
+any of the duloxetine treatment groups as compared
+with the placebo group.
+Fifteen treatment-emergent adverse events occurred
+in at least one of the duloxetine groups at a frequency
+greater than 5% and twice the rate of the placebo group
+(Table 3), with nausea consistently reported as the most
+common treatment-emergent adverse event in all of the
+treatment groups. A total of 20 patients reported at least
+one serious adverse event. Serious adverse events were
+infrequent and did not demonstrate any pattern with
+respect to the system organ class designation. Only
+asthma (1 placebo patient and 1 duloxetine 60 mg/day
+patient) and suicidal ideation (1 placebo patient and 1
+duloxetine 120 mg/day patient) were reported by more
+than 1 patient during the 6-month study period.
+Mean changes in heart rate and supine systolic and
+diastolic blood pressure for the duloxetine treatment
+groups did not differ significantly from those for the placebo group, except for systolic blood pressure (duloxetine 60 mg/day, 3.0 mm Hg; placebo, 1.1 mm Hg,
+P = 0.019). A total of 10 patients met criteria for sustained elevation in blood pressure (supine diastolic
+blood pressure P90 mm Hg and an increase from baseline of P10 mm Hg for at least 3 consecutive visits, or
+supine systolic blood pressure P140 mm Hg and an
+increase from baseline of P10 mm Hg for at least 3 conTable 3
+Treatment-emergent adverse events during 6 months of therapya
+Adverse event, n (%) Duloxetine Placebo
+20/60 mg/day (N = 79) 60 mg/day (N = 150) 120 mg/day (N = 147) (N = 144)
+Nausea 18 (22.8) 36 (24.0)* 46 (31.3)*** 19 (13.2)
+Dry mouth 11 (13.9)* 20 (13.3)* 31 (21.1)*** 7 (4.9)
+Constipation 10 (12.7)* 15 (10.0) 30 (20.4)*** 6 (4.2)
+Somnolence 9 (11.4) 12 (8.0) 25 (17.0)*** 6 (4.2)
+Fatigue 9 (11.4) 21 (14.0)* 12 (8.2) 8 (5.6)
+Insomnia 6 (7.6) 14 (9.3) 21 (14.3)* 8 (5.6)
+Dizziness 5 (6.3) 16 (10.7) 17 (11.6) 8 (5.6)
+Decreased appetite 4 (5.1) 11 (7.3)** 12 (8.2)** 1 (0.7)
+Hyperhidrosis 5 (6.3)** 8 (5.3)** 11 (7.5)*** 0 (0.0)
+Cough 7 (8.9)* 6 (4.0) 5 (3.4) 2 (1.4)
+Pharyngolaryngeal pain 4 (5.1) 2 (1.3) 9 (6.1) 4 (2.8)
+Tremor 1 (1.3) 5 (3.3) 15 (10.2)*** 0 (0.0)
+Myalgia 4 (5.1) 6 (4.0) 6 (4.1) 1 (0.7)
+Rash 3 (3.8) 4 (2.7) 9 (6.1) 2 (1.4)
+Weight increased 2 (2.5) 6 (4.0) 9 (6.1)* 1 (0.7)
+a All events that occurred in P5% of duloxetine patients and twice the rate of placebo during the 6-month treatment phase. * P 6 0.05. ** P 6 0.01. *** P 6 0.001, compared with placebo.
+440 I.J. Russell et al. / Pain 136 (2008) 432–444
+secutive visits), including 6 (4.2%) on duloxetine 60 mg/
+day, 2 (1.4%) on duloxetine 120 mg/day, and 2 (1.4%)
+on placebo. Neither the incidence of sustained elevation
+in blood pressure nor the incidence of hypertension,
+reported as a spontaneous adverse event, differed significantly between any of the duloxetine groups when compared with the placebo group. The mean change in
+weight over the 6 months of therapy was less than
+1 kg for all of the treatment groups. Additionally, no
+significant differences occurred between the duloxetine
+groups and the placebo group in mean change from
+baseline to endpoint in the QTc interval or in the incidence of treatment-emergent abnormal ECG values
+including heart rate, QTcB, and QTcF.
+Statistically significant differences (all P < 0.05) were
+observed in mean change from baseline to endpoint
+between the duloxetine and placebo groups for some
+clinical laboratory values and included the following:
+alkaline phosphatase (Units/L) (duloxetine 20/60 mg/
+day, 3.13; duloxetine 60 mg/day, 2.58; placebo, 0.44);
+chloride (mmol/L) (duloxetine 20/60 mg/day, 0.49;
+duloxetine 60 mg/day, 0.17; duloxetine 120 mg/day,
+0.32; placebo, 0.41); cholesterol (mmol/L) (duloxetine
+60 mg/day, 0.03; duloxetine 120 mg/day, 0.04; placebo, 0.27); c-glutamyl transferase (Units/L) (duloxetine 20/60 mg/day, 2.15; placebo, 0.86); sodium
+(mmol/L) (duloxetine 20/60 mg/day, 0.66; placebo,
+0.07); eosinophils (tril/L) (duloxetine 120 mg/day, 0.02;
+placebo, 0.01); hematocrit (actual count) (duloxetine
+20/60 mg/day, 0.00; placebo, 0.01); hemoglobin
+(mmol/L) (duloxetine 20/60 mg/day, 0.16; duloxetine
+60 mg/day, 0.13; duloxetine 120 mg/day, 0.17; placebo, 0.25); mean cell hemoglobin (femtomole) (duloxetine 60 mg/day, 0.00; duloxetine 120 mg/day, 0.00;
+placebo, 0.02); mean cell volume (femtoliter) (duloxetine 120 mg/day, 0.66; placebo, 0.12); monocytes (bill/
+L) (duloxetine 20/60 mg/day, 0.05; placebo, 0.01); and
+platelet count (bill/L) (duloxetine 120 mg/day, 10.48;
+placebo, 1.10). However, these differences in mean
+changes between treatment groups were small and not
+considered to be clinically relevant. No significant differences in the percentage of patients exhibiting treatmentemergent abnormal chemistry or hematology analytes at
+any time were observed, with the exception of creatine
+kinase (higher levels) in the duloxetine 20/60 mg/day
+(15.3%, P = 0.038) and duloxetine 120 mg/day (13.6%,
+P = 0.036) treatment groups compared with the placebo
+group (5.7%). However, the mean change in creatine
+kinase levels was not significantly different between the
+active treatment groups and placebo.
+4. Discussion
+In this randomized, double-blind trial, both duloxetine 60 mg/day and 120 mg/day had significantly greater
+efficacy, compared with placebo, on reduction in pain
+severity after 3 months and 6 months of treatment in
+patients with fibromyalgia. Compared with placebo,
+duloxetine at both doses significantly reduced pain
+beginning in the first week of therapy. Global improvement, as assessed by the patient (PGI-I) and the clinician
+(CGI-S), was significantly improved after 3 months in
+the duloxetine groups and maintained through 6 months
+of treatment compared with the placebo group (except
+60 mg/day group for PGI-I). The FIQ total score and
+SF-36 mental component summary were significantly
+improved at 3 months in both duloxetine groups compared with the placebo group.
+The results of this study showing improvement in
+pain, FIQ scores, and patient-rated global improvement
+in fibromyalgia patients on duloxetine are similar to previously published results [1]. Improvement in mean tender-point threshold was not significantly different
+between duloxetine- and placebo-treated patients in this
+study, but was significantly improved at the 120 mg/day
+dosage, compared with placebo, in the two earlier duloxetine studies [1,2]. Significant improvement in tender-point threshold appears to be a difficult outcome
+to achieve [28]. Recent clinical trials of fibromyalgia
+have not included tender-point assessments as an efficacy measure [9,15,22,33,37], and the usefulness of the
+tender-point evaluation in clinical practice is the subject
+of debate [7,25].
+Fatigue is a common, disabling symptom reported by
+patients with fibromyalgia [27]. While duloxetine did not
+significantly improve the MFI general fatigue score
+compared with placebo at the 3-month or 6-month endpoints, all doses of duloxetine at the 6-month endpoint
+significantly improved the MFI mental fatigue domain
+compared with placebo. Because the mental fatigue
+domain consists of four questions relating to attention/concentration, it is possible that treatment with
+duloxetine may improve some of the cognitive dysfunction often reported by patients with fibromyalgia [27].
+Consistent with the previous duloxetine studies in
+fibromyalgia, patients experienced an improvement in
+pain regardless of the presence of MDD [1,2]. Both in
+prior studies and in the present study, path analysis
+showed that the majority of duloxetine’s effect on pain
+is direct rather than mediated through improvement in
+MDD symptoms. Whereas it is important to note that
+improvement in pain of duloxetine-treated patients with
+fibromyalgia was not dependent on mood improvement,
+the antidepressant effect of duloxetine may be quite relevant in this disorder where many patients have comorbid
+mood disorders. Additionally, effect sizes [21] for
+improvements in HAMD17 scores in patients with
+MDD who where randomized to duloxetine 60 mg/day
+or 120 mg/day, were 0.45 and 0.63 for the 3-month
+phase, respectively, and 0.42–0.53 for the 6-month treatment phase, respectively, which is indicative of a clinically significant antidepressant effect [4,12].
+I.J. Russell et al. / Pain 136 (2008) 432–444 441
+Unlike a previous study in fibromyalgia [1], male and
+female patients treated with duloxetine showed similar
+improvement in the average pain severity score after both
+3 months and 6 months of treatment. Consistent improvement was also found in patients <65 and P65 years of age
+and by race. The treatment-by-subgroup interactions for
+sex, age, and race were all not significant, a finding that
+supports the consistency of duloxetine’s effect across each
+of these subgroups when taking the positive within-group
+treatment effects into consideration.
+The duloxetine 20 mg/day dosage was included in this
+study to determine the ineffective or minimally effective
+dose for the treatment of fibromyalgia. The 20 mg dose
+did not significantly improve the average pain severity
+score compared with placebo, making it the highest ineffective dose in this study. A study of duloxetine in diabetic neuropathic pain using the same doses also
+established 20 mg as the highest ineffective dose [16].
+The safety and tolerability findings in this study were
+consistent with what has been found with duloxetine in
+other patient populations, including the previous fibromyalgia studies. The most common treatment-emergent
+adverse events, such as nausea, headache, and dry
+mouth, occurred almost entirely within the first 3
+months of the study. A pooled analysis of nearly
+24,000 duloxetine patients from 64 studies found that
+the large majority of the most commonly reported treatment-emergent adverse events occur early in treatment
+and were mild or moderate in severity [14]. Moreover,
+an analysis of eight pooled double-blind duloxetine
+studies found that the most common treatment-emergent adverse event, nausea, which presents in the first
+few weeks of treatment, tends to resolve within a few
+days to a week [17]. In support of the relatively benign
+cardiovascular findings in this study, a recent analysis
+of more than 8500 duloxetine-treated patients from 42
+placebo-controlled studies found no increased cardiovascular risk associated with this medication [40].
+Several limitations of this study should be considered.
+Although this is one of the longest trials of a medication
+treatment for fibromyalgia that has been published, the
+results may not generalize to treatment periods greater
+than 6 months. Additionally, the results of the study
+may not generalize to patients with excluded or unstable
+psychiatric or medical disorders, or comorbid pain disorders. No active comparator was included because this
+study was intended to confirm and extend the previous
+findings of safety and efficacy of duloxetine compared
+with placebo in the treatment of fibromyalgia. There
+may have been variability in whether patients were
+potentially treatment-refractory because the interpretation relied on the investigator’s judgment. The lack of
+significance between treatment groups in some safety
+measures could be attributed to the study not being sufficiently powered to detect these differences. Also,
+because this was a monotherapy medication trial,
+patients were required to discontinue medications used
+to treat fibromyalgia before enrollment, which may have
+deterred patients with more severe illness from enrolling.
+Finally, given the relatively large number of safety, tolerability and secondary efficacy assessments included in
+this trial, the presence or absence of statistical significance in these outcomes should be regarded as supportive or exploratory data and considered in conjunction
+with established levels of clinically significant improvement, wherever possible.
+This study provides further evidence that duloxetine at
+dosages of 60 mg/day and 120 mg/day for up to 6 months
+appears to be safe and efficacious in the treatment of fibromyalgia in patients with or without MDD. Because most
+published drug studies in fibromyalgia and other pain
+conditions are of 3 months’ duration or shorter, the finding of positive results at 6 months provides a more robust
+assessment of duloxetine’s efficacy.
+Acknowledgements
+This work was sponsored by Eli Lilly and Company
+and Boehringer Ingelheim GmbH. For potential conflict
+of interest relationships of different authors, please see
+Supplementary Materials. All authors accept full
+responsibility for the conduct of this trial, were given full
+access to all data from the trial, and participated in the
+decision to publish the data. The authors thank the
+many patients for their voluntary participation in this
+clinical trial, as well as the principal investigators including: Lesley Arnold MD, Andre Barkhuizen MD, Mira
+Baron MD, Elizabeth Barranco Santano MD, Patricia
+Buchanan MD, Maryann Colvard MD, Adnan Dahdul
+MD, Patricia Daly MD, Nizar El-Khalili MD, John
+Farrar MD, Frances Gallagher MD, Donald Garcia,
+Jr. MD, Gary Gerard MD, Jeffrey Gitt DO, David Hart
+MD, Rakesh Jain MD, Lissette Jimenez MD, Louis
+Kirby MD, James Knutson MD, Wendy Lee MD,
+Frank Maggiacomo DO, Philip Mease MD, Kenneth
+Miller MD, DJ Muniak MD, Russell Pet MD, Julie
+Poludniak MD, John Prater DO, H. Malin Prupas
+MD, Bruce Rankin DO, Robert Reade MD, Randall
+Ricardi MD, Grissel Rios MD, I. Jon Russell MD, Martin Schuster MD, Eric Sheldon MD, Timothy Smith
+MD, Cynthia Strout MD, Haydn Mikel Thomas MD,
+Bridget Walsh DO, and Richard Weinstein MD. We
+also thank Deborah D’Souza, PhD, for critical review
+of the manuscript, and Jessica Pitrelli, BA, and Tania
+Miles for formatting assistance.
+Appendix A. Supplementary data
+For potential conflict of interest relationships of different authors, please see Supplementary Materials.
+Supplementary data associated with this article can be
+442 I.J. Russell et al. / Pain 136 (2008) 432–444
+found, in the online version, at doi:10.1016/j.pain.
+2008.02.024.
+References
+[1] Arnold LM, Lu Y, Crofford LJ, Wohlreich M, Detke MJ, Iyengar
+S, et al. for the Duloxetine Fibromyalgia Trial Group. A doubleblind, multicenter trial comparing duloxetine with placebo in the
+treatment of fibromyalgia patients with or without major depressive disorder. Arthritis Rheum 2004;50:2974–84.
+[2] Arnold LM, Rosen A, Pritchett YL, D’Souza DN, Goldstein DJ,
+Iyengar S, et al. A randomized, double-blind, placebo-controlled
+trial of duloxetine in the treatment of women with fibromyalgia
+with or without major depressive disorder. Pain 2005;119:5–15.
+[3] Basbaum AI, Fields HL. Endogenous pain control systems:
+brainstem spinal pathways and endorphin circuitry. Annu Rev
+Neurosci 1984;7:309–38.
+[4] Bech P, Kajdasz DK, Porsdal V. Dose-response relationship of
+duloxetine in placebo-controlled clinical trials in patients with
+major depressive disorder. Psychopharmacology 2006;188:273–80.
+[5] Burckhardt CS, Clark SR, Bennett RM. The fibromyalgia impact
+questionnaire: development and validation. J Rheumatol
+1991;18:728–33.
+[6] Clark FM, Proudfit HK. The projections of noradrenergic
+neurons in the A5 catecholamine cell group to the spinal cord in
+the rat: anatomical evidence that A5 neurons modulate nociception. Brain Res 1993;616:200–10.
+[7] Clauw DJ, Crofford LJ. Chronic widespread pain and fibromyalgia: what we know, and what we need to know. Best Pract Res
+Clin Rheumatol 2003;17:685–701.
+[8] Cleeland CS, Ryan KM. Pain assessment: global use of the Brief
+Pain Inventory. Ann Acad Med Singapore 1994;23:129–38.
+[9] Crofford LJ, Rowbotham MC, Mease PJ, Russell IJ, Dworkin
+RH, Corbin AE, et al. and the Pregabalin 1008-105 Study Group.
+Pregabalin for the treatment of fibromyalgia syndrome: results of
+a randomized, double-blind, placebo-controlled trial. Arthritis
+Rheum 2005;52:1264–73.
+[10] Detke MJ, Lu Y, Goldstein DJ, Hayes JR, Demitrack MA.
+Duloxetine, 60 mg once daily, for major depressive disorder: a
+randomized double-blind placebo-controlled trial. J Clin Psychiatry 2002;63:308–15.
+[11] Detke MJ, Lu Y, Goldstein DJ, McNamara PK, Demitrack MA.
+Duloxetine 60 mg once daily dosing versus placebo in the acute
+treatment of major depression. J Psychiatr Res 2002;36:383–90.
+[12] Faries D, Herrera J, Rayamajhi J, DeBrota D, Demitrack M,
+Potter WZ. The responsiveness of the Hamilton Depression
+Rating Scale. J Psychiatr Res 2000;34:3–10.
+[13] Fischer AA. Pressure threshold meter: its use for quantification of
+tender spots. Arch Phys Med Rehabil 1986;67:836–8.
+[14] Gahimer J, Wernicke J, Yalcin I, Ossanna MJ, Wulster-Ratcliffe
+M, Viktrup L. A retrospective pooled analysis of duloxetine safety
+in 23,983 subjects. Curr Med Res Opin 2007;23:175–84.
+[15] Gendreau RM, Thorn MD, Gendreau JF, Kranzler JD, Ribeiro
+S, Gracely RH, et al. Efficacy of milnacipran in patients with
+fibromyalgia. J Rheumatol 2005;32:1975–85.
+[16] Goldstein DJ, Lu Y, Detke MJ, Lee TC, Iyengar S. Duloxetine vs.
+placebo in patients with painful diabetic neuropathy. Pain
+2005;116:109–18.
+[17] Greist J, McNamara RK, Mallinckrodt CH, Rayamajhi JN,
+Raskin J. Incidence and duration of antidepressant-induced
+nausea: duloxetine compared with paroxetine and fluoxetine. Clin
+Ther 2004;26:1446–55.
+[18] Guy W. ECDEU Assessment Manual for Psychopharmacology,
+Revised. Rockville (MD): US Department of Health, Education,
+and Welfare Public Health Service, Alcohol, Drug Abuse, and
+Mental Health Administration, National Institute of Mental
+Health, Psychopharmacology Research Branch, Division of
+Extramural Research Programs; 1976.
+[19] Hamilton M. A rating scale for depression. J Neurol Neurosurg
+Psychiatry 1960;23:56–62.
+[20] Hartford J, Kornstein S, Liebowitz M, Pigott T, Russell J, Detke
+M, et al. Duloxetine as an SNRI treatment for generalized anxiety
+disorder: results from a placebo and active-controlled trial. Int
+Clin Psychopharmacol 2007;22:167–74.
+[21] Hedges LV, Olkin I. Examination of a single effect size: parametric
+and nonparametric methods. In: Statistical methods for metaanalysis. Orlando, Florida: Academic Press Inc.; 1985. p. 75–106.
+[22] Holman AJ, Myers RR. A randomized, double-blind, placebocontrolled trial of pramipexole, a dopamine agonist, in patients
+with fibromyalgia receiving concomitant medications. Arthritis
+Rheum 2005;52:2495–505.
+[23] Kind P. The EuroQoL instrument: an index of health-related
+quality of life. In: Spilker B, editor. Quality of life and pharmacoeconomics in clinical trials. Philadelphia, PA: Lippincott-Raven
+Publishers; 1996. p. 191–201.
+[24] Koponen H, Allgulander C, Erickson J, Dunayevich E, Pritchett
+Y, Detke MJ, et al. Efficacy of duloxetine for the treatment of
+generalized anxiety disorder: implications for primary care physicians. Prim Care Companion J Clin Psychiatry 2007;9:100–7.
+[25] Mease PJ, Clauw DJ, Arnold LM, Goldenberg DL, Witter J,
+Williams DA, et al. Fibromyalgia syndrome. J Rheumatol
+2005;32:2270–7.
+[26] Mease P. Fibromyalgia syndrome: review of clinical presentation,
+pathogenesis, outcome measures, and treatment. J Rheumatol
+2007;32:6–21.
+[27] Mease P, Arnold LM, Bennett R, Boonen A, Buskila D, Carville
+S, et al. Fibromyalgia syndrome. J Rheumatol 2007;34:1415–25.
+[28] Millan MJ. Descending control of pain. Prog Neurobiol
+2002;66:355–474.
+[29] Raskin J, Pritchett YL, Wang F, D’Souza DN, Waninger AL,
+Iyengar S, et al. A double-blind, randomized multicenter trial
+comparing duloxetine with placebo in the management of diabetic
+peripheral neuropathic pain. Pain Med 2005;6:346–56.
+[30] Retherford RD, Choe MK. Statistical methods for causal
+analysis. New York (NY): John Wiley and Sons, Inc.; 1993.
+[31] Russell IJ, Vaeroy H, Javors M, Nyberg F. Cerebrospinal fluid
+biogenic amine metabolites in fibromyalgia/fibrositis syndrome
+and rheumatoid arthritis. Arthritis Rheum 1992;35:550–6.
+[32] Russell IJ, Michalek JE, Vipraio GA, Fletcher EM, Javors MA,
+Bowden CA. Platelet 3H-imipramine uptake receptor density and
+serum serotonin levels in patients with fibromyalgia/fibrositis
+syndrome. J Rheumatol 1992;19:104–9.
+[33] Sayar K, Aksu G, Ak I, Tosun M. Venlafaxine treatment of
+fibromyalgia. Ann Pharmacother 2003;37:1561–5.
+[34] Sheehan DV. The anxiety disease. New York, NY: Charles
+Scribner and Sons; 1983.
+[35] Sheehan DV, Lecrubier Y, Sheehan KH, Amorim P, Janavs J,
+Weiller E, et al. The Mini-International Neuropsychiatric Interview (MINI): the development and validation of a structured
+diagnostic psychiatric interview for DSM-IV and ICD-10. J Clin
+Psychiatry 1998;59:22–33.
+[36] Smets EM, Garssen B, Bonke B, De Haes JC. The Multidimensional Fatigue Inventory (MFI) psychometric qualities of an
+instrument to assess fatigue. J Psychosom Res 1995;39:315–25.
+[37] Vitton O, Gendreau M, Gendreau J, Kranzler J, Rao SG. A
+double-blind placebo-controlled trial of milnacipran in the treatment of fibromyalgia. Hum Psychopharmacol 2004;19:S27–35.
+[38] Ware JE, Snow KK, Kosinski M, Gandeck B. SF-36 health survey
+manual and interpretation guide. Boston (MA): The Health
+Institute, New England Medical Center; 1993.
+[39] Wernicke JF, Pritchett YL, D’Souza DN, Waninger AL, Tran
+P, Iyengar S, et al. A randomized controlled trial of duloxetine
+I.J. Russell et al. / Pain 136 (2008) 432–444 443
+in diabetic peripheral neuropathic pain. Neurology 2006;67:
+1411–20.
+[40] Wernicke JF, Lledo A, Raskin J, Kajdasz DK, Wang F. An
+evaluation of the cardiovascular safety profile of duloxetine: findings
+from 42 placebo-controlled studies. Drug Saf 2007;30:437–55.
+[41] Westfall PH, Krishen A. Optimally weighted, fixed sequence and
+gatekeeper multiple testing procedures. J Stat Plan Infer
+2001;99:25–40.
+[42] White KP, Harth M. Classification, epidemiology, and
+natural history of fibromyalgia. Curr Pain Headache Rep
+2001;5:320–9.
+[43] Wolfe F, Ross K, Anderson J, Russell IJ, Hebert L. The
+prevalence and characteristics of fibromyalgia in the general
+population. Arthritis Rheum 1995;38:19–28.
+[44] Wolfe F, Smythe HA, Yunus MB, Bennett RM, Bombardier C,
+Goldenberg DL, et al. The American College of Rheumatology
+1990 criteria for the classification of fibromyalgia. Report of the
+Multicenter Criteria Committee. Arthritis Rheum 1990;33:
+160–72.
+[45] Yunus MB, Dailey JW, Aldag JC, Masi AT, Jobe PC. Plasma
+tryptophan and other amino acids in primary fibromyalgia: a
+controlled study. J Rheumatol 1992;19:90–4.
+444 I.J. Russell et al. / Pain 136 (2008) 432–444

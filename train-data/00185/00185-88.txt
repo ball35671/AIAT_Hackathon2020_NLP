@@ -1,0 +1,592 @@
+﻿272 VOL 7 NO 4 DECEMBER 2004 COMMUNICABLE DISEASE AND PUBLIC HEALTH
+Outbreak of influenza A (H3N2) in a highlyvaccinated religious community:
+a retrospective cohort study
+S Nicholls, K Carroll, J Crofts, E Ben-Eliezer, J Paul, M Zambon, CA Joseph, NQ Verlander,
+NL Goddard, JM Watson
+Summary: An outbreak of influenza occurred at the end of the 2001-2 winter season in
+a highly-vaccinated, semi-enclosed, religious community. On the basis of retrospective
+self reporting, 43% met the case definition (151/350) and 81% (25/31) of throat swabs
+from cases were polymerase chain reaction (PCR) -positive for influenza A (H3N2). The
+risk of developing influenza in people aged 65 or more was lower than that of children
+aged 2 years and under (odds ratio 0.1, 95% confidence interval 0.02 to 0.38). The risk of
+developing symptoms of influenza was not significantly different between people who
+had been vaccinated in the United Kingdom and those who had not been vaccinated (OR
+1.14, CI 0.41 to 3.14). Chronic disease was an independent risk factor for developing
+symptoms of influenza (OR 1.9, CI 1 to 3.63). Timing of the outbreak, the age structure
+and mode of communal living may have influenced the efficacy of the influenza vaccine,
+which was well matched to circulating strains at the time of the outbreak. It is important
+to consider the diagnosis of influenza even in a highly-vaccinated community.
+Key words:
+cohort study
+highly-vaccinated
+immunisation
+influenza
+outbreak
+semi-enclosed
+community
+vaccine
+Commun Dis Public Health 2004; 7(4): 272-7
+S Nicholls
+Brighton and Hove City Primary Care Trust
+K Carroll
+East Sussex Brighton and Hove Health Authority
+J Crofts, CA Joseph, NQ Verlander, NL Goddard, JM Watson
+Communicable Disease Surveillance Centre,
+Health Protection Agency, Centre for Infections,
+London
+E Ben-Eliezer
+Address withheld
+J Paul
+Royal Sussex County Hospital, Brighton
+M Zambon
+Specialist Reference and Microbiology Division,
+Health Protection Agency, Centre for Infections, London
+Address for correspondence:
+Jonathan Crofts
+Respiratory Diseases Department
+Communicable Diseases Surveillance Centre
+Health Protection Agency, Centre for Infections,
+61 Colindale Avenue
+London NW9 5EQ
+tel: 020 8327 7649
+fax: 020 8200 7868
+email: jonathan.crofts@hpa.org.uk
+Introduction
+The explosive spread of influenza within closed
+communities is well documented1. An average
+attack rate of 43% was reported for nursing home
+outbreaks2
+ and attack rates in schools of 23-63%,
+in a navy ship of 42%, and in cruise ships of 2-6%
+have been reported3-7. There are also reports of
+outbreaks in closed communities that have been
+vaccinated against influenza, including military,
+nursing home, and school populations4,8-11.
+Influenza A (H3N2) infections generally
+produce more severe illness than influenza B or
+influenza A (HIN1)12. In adults, fever is the most
+prominent sign of infection and the commonest
+symptoms are cough, malaise, chills, and
+headache 12 . In children, the commonest
+manifestations are sudden onset of fever,
+headache, cough, and sore throat 12 . The
+complications of influenza are principally
+respiratory, but deaths may be associated with a
+wide range of underlying conditions 13. Attack
+rates are highest among children and teenagers,
+who are the most important group for the
+transmission of influenza in communities 1 .
+Mortality increases with age and is associated with
+chronic disease, which is the principal risk factor
+for severe influenza1.
+original reports
+COMMUNICABLE DISEASE AND PUBLIC HEALTH VOL 7 NO 4 DECEMBER 2004 273
+This paper describes an influenza A (H3N2)
+outbreak in a highly-vaccinated, semi-enclosed
+religious community in rural England. There were
+no reports of an increase in influenza-like illness in
+the local population outside the community, although
+there was mixing with visitors from sister
+communities in the United States (USA) and Australia
+and elsewhere. The outbreak occurred at the end of
+a quiet influenza season, in which weekly
+consultation rates with sentinel general practioners
+remained below baseline (less than 50 new episodes
+per 100,000 population)14. The influenza A (H3N2)
+viruses circulating in England during this season
+were well matched antigenically to the 2001-2 vaccine
+strain A/Panama/2007/9914.
+Background
+The outbreak of influenza-like illness occurred in a
+religious community in March 2002. The community
+had no records of a major outbreak of influenza-like
+illness and had a policy of vaccinating all members
+each year for the past 12 years. Over 90% of the
+community (from the age of six months and upwards)
+had been vaccinated against influenza during October
+2001. The total population of 380 included visitors
+from branch communities in the USA, Australia and
+elsewhere. The community was situated in an isolated
+rural location. People lived in large family units and
+attended communal mealtimes and prayer meetings.
+With the exception of teenagers, who attended the
+local college, most people worked or studied within
+the community. Most residents (77%; 269/350) spent
+less than one day per week outside the community. A
+total of 31 individuals had travelled outside the UK
+in the previous two months; the most common
+destination was the USA (84%; 26/31).
+The community members were generally healthy.
+Eighteen per cent (64/350) had a history of chronic
+disease, placing them in the at risk group for serious
+illness or death should they develop influenza, and
+for which vaccination is strongly recommended15.
+Only one smoker was noted.
+Methods
+Data collection
+A self-completion questionnaire was circulated to all
+residents of the community on 2 April 2002. Parents
+were asked to complete a form for each child. The
+questionnaire requested the following information:
+age, sex, travel outside the UK, place and time of flu
+vaccination, history of chronic illness, cigarette
+smoking, days spent outside the community, number
+of people sharing apartment, symptoms, and onset of
+illness. Information about the clinical complications,
+hospital admissions and mortality were obtained
+retrospectively from the community’s doctor.
+Case definition
+A case was defined as a person with a self-reported
+fever or chills with at least one of the following
+symptoms: cough, sore throat, or headache.
+Statistical analysis
+The software packages Epi Info 2000 and GLIM16 were
+used for all statistical analyses. The hypothesis that attack
+rates were inversely related to increasing age was
+analysed by the chi-squared test for linear trend. Logistic
+regression analysis was used to identify risk/protective
+factors for developing clinical symptoms of influenza. The
+best model was determined by backwards step wise
+elimination of non-significant variables.
+Vaccine efficacy was calculated using the formula:
+The 95% confidence interval for efficacy was calculated
+using Miettinen’s test based method17.
+Clinical virology
+Throat swabs and blood samples were collected from 39
+adult volunteers who had developed case defining
+symptoms during the four days before the outbreak team
+visit, 10 persons who were non-cases and five in whom it
+was unknown whether they had been cases or non-cases.
+Throat swabs were investigated by direct
+immunofluorescence (Light Diagnostics, Respiratory
+Panel 1 DFA) and by tissue culture. A selection of throat
+swabs was then referred for reverse transcriptase
+polymerase chain reaction (RT-PCR)18 testing for
+influenza. Paired sera from nine individuals and single
+sera from two individuals were tested by
+haemagglutination inhibition (HI). Sera were considered
+to show evidence of recent influenza infection if there
+was a four fold or greater rise in HI titre.
+Results
+Epidemiology
+The response rate for the questionnaire was 92% (350/
+380). Non-respondents were not followed up. Between
+10 March and 5 April 2002 there were 151 cases of illness
+conforming to the case definition (figure 1). The outbreak
+peaked on 20 March,five days before it was reported to
+the local public health authority. The first clinical
+specimens were taken on 26 March. The overall attack
+rate was 43% (151/351). Male and female patients had
+similar attack rates, 42% (66/157), and 44% (85/193)
+respectively. Among the cases that met the case definition
+the commonest symptoms reported (in addition to fever
+or chills) were cough, coryza, and headache (table 1).
+Attack rates were highest in the group aged less than 5
+years (61.5%) and decreased with age (chi-squared test
+for linear trend: p = 0.04) (table 2). No cases required
+admission to hospital. Five cases required antibiotics for
+lower respiratory tract complications.
+Risk/protective factors
+Most residents (94%; 329/350) had been vaccinated
+against influenza in the autumn of 2001. Of those
+vaccinated, 94% (309/329) had been vaccinated in the
+UK community’s own medical centre, with the same
+vaccine batch. The 20 individuals vaccinated outside
+the UK included 19 Americans, 17 of whom had been
+x 100 (AR in unvaccinated – AR in vaccinated)
+AR in unvaccinated
+original reports
+274 VOL 7 NO 4 DECEMBER 2004 COMMUNICABLE DISEASE AND PUBLIC HEALTH original reports
+vaccinated in three different US community medical
+centres. Out of the four vaccine batches used in the
+USA, three were the same product/manufacturer as
+the vaccine used in the UK for community members.
+The age structure of those vaccinated outside the UK
+was similar to the age structure of the patients
+vaccinated in the UK. All UK and US community
+members were vaccinated between 17 October and 7
+November. The attack rate was 43% (9/21) in
+individuals who had not been vaccinated, 45% (140/
+309) in those vaccinated in the UK and 10% (2/20) in
+those vaccinated elsewhere.
+Vaccine efficacy
+When the epidemiological case definition was used,
+vaccine efficacy in those vaccinated in the UK was –5.4%
+and 77% (95% confidence interval 53.2 to 88.4) in
+individuals vaccinated elsewhere, mostly the USA (table
+5). Small numbers prohibited the calculation of vaccine
+efficacy by age group.
+Logistic regression model
+The attack rate in patients aged 65 years and over was
+significantly lower than in those aged 5 years and under
+(odds ratio 0.1; 95% confidence interval 0.02 to 0.38) (table
+3). Vaccination in the UK was not protective against being
+a case. Based on the case definition, influenza vaccination
+outside the UK showed protection from being a case, and
+just reached significance (odds ratio, 0.17; 95% confidence
+interval 0.03 to 1.0; p = 0.016) in comparison with
+those not vaccinated. Cases with a history of chronic
+disease had a tendency towards a greater risk of being a
+case, which just reached significance (1.86, 1.0 to 3.63;
+p = 0.05). None of the other risk/protective factors were
+found to be independently associated with becoming a
+case.
+Clinical virology
+Thirty-six specimens tested by direct immunofluorescence were all negative. Four out of 17 specimens
+were culture positive for influenza A virus and one
+specimen that was culture negative for influenza virus
+yielded a rhinovirus. Influenza A viruses recovered from
+swabs were all A H3N2 Panama/2007/99-like viruses
+antigenically. Of the 36 throat swabs, 75% (27/36) were
+PCR positive for influenza A. All four patients with
+positive cultures for influenza and the one patient with
+positive culture for rhinovirus were also PCR positive
+for influenza virus.
+Serology
+Rising (HI) titres to influenza A (H3N2 Panama) were
+found in six out of nine paired sera available. All six
+patients were also PCR positive for influenza. For the
+three patients not showing rising titres, two were PCR
+positive. The first sera in the nine paired sera all had an
+HI titre to H3N2 Panama of less than eight, indicating a
+lack of protective immunity (an HI titre of 40 or higher).
+FIGURE 1 Epidemic curve for flu-like illness, religious community, by age group
+TABLE 1 Reported symptoms in patients with influenzalike illness (see case definitions)
+* 19 patients reported being fatigued or exhausted.
+Symptoms Number %
+Cough 137 39
+Coryza 134 38
+Headache 125 36
+Sore throat 96 28
+Muscle aches 85 24
+Other* 50 14
+COMMUNICABLE DISEASE AND PUBLIC HEALTH VOL 7 NO 4 DECEMBER 2004 275
+Laboratory confirmation of clinical cases
+Clinical specimens were obtained from 54 individuals (39
+cases, ten non-cases by the case definition, and five
+unknown). From this number, 25 (81%) out of 31 cases
+tested, were positive by PCR for influenza A H3N2. One
+non-case and one ‘unknown case’ also tested positive by
+PCR (table 4).
+The sensitivity and specificity of the case definition
+were calculated by using a positive laboratory result as
+the gold standard for confirming influenza infection.
+Sensitivity of case definition was 25/26 (96%). Specificity
+of case definition was 3/9 (33%).
+Discussion
+An outbreak of influenza with a high attack rate occurred
+in a semi-enclosed community despite high rates of prior
+immunisation with vaccines containing components
+closely related to the circulating influenza viruses.
+Vaccination seemed to have conferred little protection
+against clinical disease symptoms, although it may have
+protected against severe illness. In this outbreak, the
+highest attack rates were in children aged less than five
+years of age. An independent association with chronic
+disease was found, although this only just reached
+statistical significance.
+Influenza vaccination in the UK was not effective in
+preventing influenza as defined by the study’s case
+definition. The outbreak virus was antigenically related
+to the vaccine. This was a community of normal, healthy
+people. The age structure, however was younger than that
+of the surrounding area population: 40% compared to
+16% aged 15 years or under19. The outcome of the
+outbreak of influenza in this highly vaccinated
+community indicates the possibility of increased
+susceptibility. There are a number of possible
+interpretations of this. One is that factors specific to this
+community might have made this population more
+vulnerable to infection despite vaccination. It is likely that
+a semi-closed society would have limited exposure to wild
+type circulating influenza strains and therefore
+have lower levels of naturally acquired immunity
+(especially in young children). Subunit vaccine is
+not so immunogenic in young children/or those
+experiencing primary infection, which could account for
+the high attack rates seen in young children and in the
+community as a whole, which had a young age structure.
+In addition to having an increased susceptibility to
+infection, a semi-closed community such as this would
+also create conditions for increased exposure to infection
+once influenza had been introduced because of the
+community’s communal way of life. Although general
+advice was given about hand washing, disposal of tissues,
+and disinfection of communal areas, it was impracticable
+to exclude cases from communal mealtimes and prayer
+meetings.
+Finally, it is also possible that immunity may have
+waned after vaccination. This is supported to some degree
+by the fact that the first sera in the nine paired sera
+indicated a lack of protective immunity to H3N2 (an HI
+titre of less than 40). This may reflect the fact that
+vaccination was carried out six months previously with
+subunit vaccine. The phenomenon of waning immunity
+TABLE 2 Attack rate by age
+Chi-squared test for linear trend = 4.0 (df = 1), P = 0.04.
+Age group
+(years)
+Cases Not cases Attack rate
+(%)
+0-2 14 9 60.9
+3-4 10 6 62.5
+5-14 39 55 41.5
+15-44 52 67 43.7
+45-64 25 36 41.0
+65+ 11 26 29.7
+TABLE 3 Logistic regression analysis elimination of nonsignificant variables (all respondents)
+Risk/protective
+factor
+n (%) Odds
+ratio
+95%
+CI
+p
+value
+LL UL
+Questionnaires
+completed
+350 (100)
+Age group (yrs) 0.006
+0-2 14 1
+3-4 10 0.76 0.18 3.32
+5-14 39 0.3 0.1 0.89
+15-44 52 0.39 0.13 1.15
+45-64 25 0.29 0.93 0.89
+65+ 11 0.1 0.02 0.38
+Vaccine status 0.016
+Not vaccinated 21 1
+Vaccinated in UK 309 1.14 0.41 3.14
+Vaccinated
+elsewhere
+ 20 0.17 0.03 1.02
+Days spent
+outside
+community per
+week
+ 0.16
+Less than 1 day 269 1
+1-4 days 19 0.87 0.32 2.4
+5-7 days 33 0.45 0.19 1.04
+History of
+chronic illness
+ 0.049
+None reported 286 1
+Present 64 1.9 1 3.63
+original reports
+276 VOL 7 NO 4 DECEMBER 2004 COMMUNICABLE DISEASE AND PUBLIC HEALTH
+Category as
+defined by
+questionnaire
+Number PCR positive proportion total
+tested (%)
+Culture positive proportion
+of total tested (%)
+Serology positive proportion
+of total paired sera tested (%)
+Case 39 25/31 (81) 3/39 (8) 6/9 (67)
+Non-case 10 1/4 (25) 1/10 (9) None detected (0)
+Unknown 5 1/1 (100) 1/5 (20) None detected (0)
+Total 54 27/36 (75) 5/54 (13) 6/9 (67)
+after vaccination has been noted in outbreaks on cruise
+ships in North America20 also at the end of the winter
+season.
+Although vaccination did not seem to confer protection
+from clinical illness of influenza, it is possible that the
+outbreak would have been much more severe if the
+community had not been vaccinated. It is notable that
+in an outbreak of this size no one was admitted to hospital
+and the complication rate was only 3%. As few
+individuals who were not cases of influenza were
+sampled for virological confirmation, the attack rate of
+subclinical illness cannot be estimated. For every case of
+symptomatic influenza there may be as many as five
+asymptomatic cases21.
+The findings imply the possibility that vaccination
+in the UK had not been as effective compared with
+vaccination elsewhere. On inquiry, there had not been
+problems with the handling or storage of vaccine at the
+GP surgery or community’s medical centre, and the effect
+cannot be explained by differential timing of vaccination
+in the UK or USA or a difference in the vaccine product
+used in the two countries. There was also no difference
+in the age structure of the two vaccination groups. There
+were no known potency problems with UK vaccine
+during the 2001-2 winter season. It may be a chance
+finding owing to the small number of people vaccinated
+in the USA, or some other bias related to the
+characteristics of this group compared with the UK
+vaccinated group.
+The apparent failure of vaccination to prevent this
+outbreak is of concern. This community had high
+coverage with an appropriate vaccine, given at the start
+of the 2001-2 flu season. This raises the question about
+when is the most appropriate time to administer flu
+vaccination in the general population. Vaccination
+programmes normally take place from September to
+November and are planned to be carried out before the
+expected onset of influenza virus activity. However, the
+timing of influenza outbreaks is often unpredictable, in
+some years they occur very early in the autumn/winter
+when immunity levels in the vaccinated population may
+not have yet developed or very late in the winter, when
+immunity levels may have waned.
+Despite the large size of the study population and high
+response rate to the questionnaire (92%), symptoms were
+self reported, without objective confirmation of signs such
+as fever. Clinical specimens were taken from a sample of
+symptomatic volunteers to establish community
+diagnosis. The study could have been improved by
+systematically collecting information about other
+outcomes to assess vaccine efficacy, such as antibiotic
+prescribing or radiography for secondary complications.
+It is possible that by including fever in the case definition
+there is bias towards lower ascertainment in older age
+groups, which could partially contribute to our finding
+of a decreased attack rate in elderly people. A
+standardised case definition cannot take account of the
+fact that some signs, such as fever, are not evident in all
+cases.
+The results show some weakness in routine laboratory
+investigations for influenza. Direct immunofluorescence
+and cell culture performed poorly as diagnostic tests
+compared with PCR, which was not available at the local
+laboratory. The poor performance of the local laboratory
+diagnostics may have been due to suboptimal sampling
+with throat swabs alone compared with the more invasive
+but more productive method (in terms of viral yield) of
+taking nasopharyngeal aspirates. Comparison of PCR,
+serology, and culture results yielded no evidence of
+falsely negative PCR results.
+Diagnostic delay was an important feature of this
+outbreak since PCR results were only available three
+weeks after the peak of the outbreak. Effective therapy
+for influenza should be started within 48 hours22.
+Nevertheless 20 individuals were treated on the basis of
+clinical diagnosis with zanamivir, in line with
+TABLE 4 Laboratory confirmation of cases
+TABLE 5 Vaccine efficacy by place of vaccination
+Group Vaccinated Unvaccinated
+Cases Non-cases Cases Non-cases % efficacy 95% CI
+Vaccinated in the
+UK 140 169 9 12 -5.4 Not applicable
+Vaccinated
+elsewhere 2 18 9 12 76.7 53.2 to 88.4
+original reports
+COMMUNICABLE DISEASE AND PUBLIC HEALTH VOL 7 NO 4 DECEMBER 2004 277original reports
+5. Influenza A outbreak on a cruise ship. Canada Commun
+Dis Rep 1998; 24(2): 9-11.
+6. CDC. Influenza B outbreak on a cruise ship Northern Europe,
+2000. Morbidity and Mortality Weekly Report (MMWR) 2001; 50(80):
+137-40.
+7. Influenza on a cruise ship in the Mediterranean. Commun Dis
+Rep Wkly. June 1999, 9:(24) 209, 212.
+8. Drinka PJ, Gravenstein S, Krause P, Schilling M, Miller BA,
+Shult P. Outbreaks of influenza A and B in a highly immunized
+nursing home population. J Fam Pract 1997; 45(6): 509-14.
+9. Dindinaud G, Potiron G, Agius G, Ferron V, Burucoa C,
+Bourgoin A, et al. Influenza epidemic among a community of
+elderly people in spite of vaccination. Eur J Epidemiol 1993;
+667-70.
+10. Hoskins TW, Davies JR, Smith AJ. Assessment of inactivated
+influenza-A vaccine after three outbreaks of influenza A at
+Christ’s Hospital. Lancet 1979; 1: 33-5.
+11. Teare EL, Rawes JC, Chakraverty P, Noah ND, Webster D,
+Corcoran T. Failure of influenza vaccine to prevent two
+successive outbreaks of influenza A H1N1 in a school
+community. Br J Gen Pract1990; 40: 10-2.
+12. Nicholson KG. Human influenza. In: Textbook of Influenza.
+Ed. Nicholson KG, Webster RG, Hay AJ. Blackwell Science 1998.
+pp 219-64.
+13. Irwin DE, Weatherby LB, Huang WY, Rosenberg DM, Cook
+SF, Walker AM. Impact of patient characteristics on the risk
+of influenza/ILI-related complications. Health Serv Res 2001;
+1(1): 8.
+14. Crofts JP, Goddard NL, Joseph CA, Zambon M, Ellis J, Fleming
+DM,et al. Influenza surveillance in the United Kingdon:
+October 2001 to May 2002. Commun Dis Rep CDR Suppl 2002;
+12 (1): 1-7.
+15. Departments of Health. Immunisation against infectious
+disease London: HMSO, 1996.
+16. Francis B, Green M, Payne C, editors. The GLIM System
+Release 4 Manual 1993, Clarendon Press, Oxford.
+17. Miettinen OS. Estimability and estimation in case-referent
+studies. Am J Epidemiol 1976, 103: 226-35.
+18. Stockton J, Ellis JS, Saville M, Clewley J, Zambon MC.
+Multiplex PCR for the detection of influenza and RSV in
+respiratory specimens. J Clin Microbiol 1998; 36: 2990-5.
+19. East Sussex Brighton and Hove Health Authority. Annual
+public health report for director of public health, 1999.
+20. CDC. Update: outbreak of influenza A infection–Alaska and
+the Yukon Territory, July-August 1998.Morbidity and Mortality
+Weekly Report (MMWR)1998, 47: 685-8.
+21. Fox JP, Cooney MK, Hall CE, Foy MF. Influenza virus
+infections in Seattle families, 1975-79. II. Pattern of infection
+in invaded households and relation of age and prior antibody
+to occurrence of infection and related illness. Am J Epidemiol
+1982, 116: 228-42.
+22. Guidance on the use of oseltamivir, zanamivir and amantadine
+in the treatment of influenza. NICE Technology Appraisal
+Guidance No. 58. London: National Institute for Clinical
+Excellence, (2003).
+23. Flu key documents. Department of Health Website. [Cited
+24 January 2005.] Available on line at <http://www.dh.gov.uk/
+PolicyAndGuidance/HealthAndSocial
+CareTopics/Flu/FluGeneralInformation/fs/en>.
+24. Guidance on the use of oseltamivir and amantadine for the
+prophylaxis of influenza. NICE Technology Appraisal Guidance
+No. 67. London: National Institute for Clinical Excellence,
+2003.
+recommendations from the National Institute of Clinical
+Excellence (NICE) at the time.
+The outbreak attracted significant media attention and
+was investigated thoroughly despite initial negative DIF
+results and the vaccination status of the community. It is
+possible that a more general and diffuse epidemic was
+occurring in the local general population but was not
+recognised.
+In the UK, the current policy is to offer influenza
+vaccination to people over the age of 65 and those aged
+over six months in the at-risk groups for severe morbidity
+or mortality23. In the context of an influenza epidemic,
+neuraminidase inhibitor treatment is indicated for people
+over the age of 65 years and those over the age of 12 who
+belong to the at-risk groups for severe morbidity or
+mortality, who present within 48 hours of developing
+symptoms22. Oseltamivir is now licensed for the treatment
+of influenza A and B in people aged one year or over in
+the specified risk categories. Since September 2003,
+oseltamivir has also been recommended for the postexposure prophylaxis in at-risk individuals unprotected
+by vaccination, and also in at-risk individuals in
+residential care establishments regardless of vaccination
+status24. In this study, the highest attack rate was in the
+youngest age group and decreased with increasing age.
+With the new guidelines, oseltamivir would have been
+available to treat anyone in the risk categories in the
+younger age groups and also for post-exposure
+prophylaxis in similar risk categories for those over 13
+years old. If one of the rationales, however, of offering
+full treatment is to reduce transmission rates, this
+outbreak shows that, in some circumstances, it may be
+reasonable to consider prophylactic use of neuraminidase
+inhibitors for all residents in a closed institution,
+regardless of age, vaccination, or risk factor status.
+In conclusion, even in a community in which a very
+high proportion of people have been immunised against
+influenza, it remains important to consider the diagnosis
+of influenza infection in an outbreak of acute respiratory
+illness, including influenza-like illness.
+References
+1. Nguyen Van Tam J. Epidemiology of influenza. In: Textbook
+of Influenza. Nicholson KG, Webster, RG, Hay AJ Ed. Blackwell
+offerd: Science 1998: 189-190.
+2. Patriarca, PA, Arden, N, Koplan JP, Goodman, RA. Prevention
+and control of type A influenza infections in nursing homes:
+benefits and costs of four approaches using vaccination and
+amantadine. Ann Int Med 1987, 107: 732-40.
+3. Joseph C, Noah N, White J, Hoskins T. A review of outbreaks
+of infectious disease in schools in England and Wales 1979-
+88. Epidemiol Infect 1990, 105: 419-34.
+4. Earhart KC, Beadle C, Miller LK, Pruss MW, Gray GC,
+Ledbetter EK, et al. Outbreak of influenza in highly vaccinated
+crew of US Navy ship. Emerg Infect Dis 2001, 7:(3); 463-5.

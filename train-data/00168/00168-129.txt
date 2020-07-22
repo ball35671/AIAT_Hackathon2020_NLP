@@ -1,0 +1,577 @@
+Maternal Influenza Vaccine and Risks for Preterm or Small for
+Gestational Age Birth
+James D. Nordin, MD, MPH1
+, Elyse Olshen Kharbanda, MD, MPH1
+, Gabriela Vazquez Benitez, PhD1
+, Heather Lipkind, MD, MS2
+,
+Claudia Vellozzi, MD, MPH3
+, and Frank DeStefano, MD, MPH3
+, on behalf of the Vaccine Safety Datalink*
+Objective To study the impact of influenza vaccine administered to pregnant women during all trimesters on the
+rates of preterm and small for gestational age (SGA) births, evaluating both increased and decreased risk.
+Study design This retrospective observational matched cohort study involved 7 Vaccine Safety Datalink sites
+across the US for the 2004-05 through 2008-09 influenza seasons. Cohort eligibility and outcomes were determined
+from administrative, claims, medical records, and birth data. In propensity score– and vaccine exposure time–
+matched analyses, ORs for preterm and SGA births were calculated.
+Results Among 57 554 matched vaccinated and unvaccinated pregnant women, including 16 240 women in the
+first trimester, maternal vaccination was not associated with increased or decreased risk for preterm birth (OR for
+delivery at <37 weeks gestation, 0.97 [95% CI, 0.93-1.02]; for delivery at #32 weeks gestation, 0.98 [95% CI, 0.86-
+1.12]; and for delivery at #34 weeks gestation, 0.96 [95% CI, 0.88-1.04]) or SGA birth (OR for <5th percentile weight
+for gestational age, 1.02 [95% CI, 0.96-1.09], and for <10th percentile weight for gestational age, 1.00 [95% CI,
+0.96-1.04]). Similarly, first trimester vaccination was not associated with increased or decreased risk for preterm
+or SGA birth.
+Conclusion Receipt of trivalent inactivated influenza vaccine during pregnancy was not associated with
+increased or decreased risk of preterm or SGA birth. These findings support the safety of vaccinating pregnant
+women against influenza during the first, second, and third trimesters, and suggest that a nonspecific protective
+effect of the influenza vaccine for these outcomes does not exist. (J Pediatr 2014;164:1051-7).
+Numerous studies have evaluated the relationship between influenza vaccination during pregnancy and birth outcomes.1-10 This research has evaluated the safety of both the seasonal trivalent inactivated influenza vaccine
+(TIV)1,2,6,9 and the 2009 monovalent influenza A virus (H1N1) pandemic influenza vaccine.3,5,7,8,10 To date, no studies
+have detected an increased risk for preterm or small for gestational age (SGA) birth following maternal influenza vaccination;
+however, none of these studies has reported on a large cohort vaccinated during the first trimester.1-10
+Several reports have documented potential nonspecific protective effects of influenza vaccination during pregnancy,
+including decreased risk of preterm birth,3,7,9,10 beneficial effects on birth weight,1,6 or both.2,4,5 The H1N1 studies were started
+either late in or after the second wave of the pandemic, and thus exposure to the H1N1 virus was minimal.11 Therefore, any
+protective effect of maternal H1N1 vaccination on birth outcomes presumably would be related to a nonspecific response, independent of vaccine efficacy.
+Two studies of maternal TIV exposure showed improved birth outcomes after maternal vaccination during periods of influenza virus circulation.1,2 One of these studies was a randomized trial,1 and together the studies provide evidence of vaccine
+effectiveness.
+Two recently reported studies do not support the theory that maternal vaccination provides a nonspecific protective effect on
+birth outcomes. Using multiple strategies to control for potential confounding and bias, Pasternak et al8 found no effect of the
+H1N1 vaccine on preterm or SGA birth. Similarly, in a reanalysis of the Mother’s Gift Project, (a randomized trial of influenza
+vaccination of pregnant women in Bangladesh), Steinhoff et al1 found no effect of maternal influenza vaccination on preterm or
+low birth weight deliveries during periods when the influenza virus was not circulating.
+Using a large, geographically diverse cohort, our group is currently conducting
+a systematic study of TIV safety during pregnancy,12 and an absence of acute
+maternal or obstetric events after TIV vaccination in this cohort has been reported previously.13,14 The goals of the present study were to evaluate the possibility of increased or decreased risk of preterm and SGA births by trimester of
+maternal TIV vaccination.
+From the 1
+HealthPartners Institute for Education and
+Research, Minneapolis, MN; 2
+Department of Obstetrics
+and Gynecology, Yale University, New Haven, CT; and
+3
+Centers for Disease Control and Prevention, Atlanta, GA
+*A list of additional members of the Vaccine Safety
+Datalink is available at www.jpeds.com (Appendix).
+Supported by a subcontract with America’s Health Insurance Plans (under 200-2002-00732 from the Centers
+for Disease Control and Prevention). The findings and
+conclusions in this study are those of the authors and do
+not necessarily represent the official position of the
+Centers for Disease Control and Prevention. The authors
+declare no conflicts of interest.
+0022-3476/$ - see front matter. Copyright ª 2014 Elsevier Inc.
+All rights reserved. http://dx.doi.org/10.1016/j.jpeds.2014.01.037
+H1N1 Influenza A virus
+SGA Small for gestational age
+TIV Trivalent inactivated influenza vaccine
+VSD Vaccine Safety Datalink
+1051
+Methods
+In this retrospective observational cohort study, we assessed
+ORs for preterm and SGA births in propensity score–
+matched and vaccine exposure time–matched TIVvaccinated and unvaccinated pregnant women in the Vaccine
+Safety Datalink (VSD), as part of a larger study of TIV vaccine
+safety.12 The VSD is a collaboration between the Centers for
+Disease Control and Prevention’s Immunization Safety Office and several integrated health care systems across the
+US. The VSD evaluates vaccine safety issues using large standardized linked databases.15 This study was approved by the
+Institutional Review Boards at each participating site, as well
+as by the Centers for Disease Control and Prevention.
+Seven VSD sites contributed data for this study: Group
+Health Cooperative, HealthPartners Institute for Education
+and Research, Kaiser Permanente Colorado, Kaiser Permanente Northwest, Kaiser Permanente Northern California,
+Kaiser Permanente Southern California, and Marshfield
+Clinic Research Foundation.
+As described previously,12 pregnant women enrolled in the
+participating sites were identified using an algorithm developed and validated by Hornbrook et al16 and adapted for
+use in the VSD by Naleway et al.17 The algorithm uses a hierarchical approach to identify pregnancy episodes, pregnancy
+outcomes (ie, live birth, stillbirth, spontaneous abortion, or
+therapeutic abortion), and gestational age at pregnancy
+outcome, using claims and administrative data. The gestational age at delivery was then used to assign an estimated
+pregnancy start date, equivalent to the estimated last menstrual period.
+Pregnancies with a lapse in insurance enrollment from
+6 months before pregnancy start through the end of pregnancy were excluded from our analysis. Additional exclusion
+criteria were multiple gestation pregnancy, ectopic pregnancy, gestational trophoblastic disease, therapeutic abortion, pregnancy in which the outcome could not be
+determined from available data, and receipt of the live attenuated influenza virus vaccine while pregnant. Also excluded
+were women who received TIV within 2 weeks of their last
+menstrual period, owing to the estimated nature of the pregnancy start date, and women vaccinated in their last week of
+pregnancy, to ensure that postpartum administrations were
+not included. Women with no outpatient medical claims
+during pregnancy were excluded as well (Figure 1; available
+at www.jpeds.com).
+For the larger VSD study of TIV vaccination of pregnant
+women, those aged 14-49 years meeting the previously
+mentioned inclusion criteria who received TIV during the
+2002-03 through the 2008-09 influenza seasons were matched
+1:2 with replacement to unvaccinated women using a variable
+optimal matching algorithm.18 Match variables included age
+at pregnancy outcome (1 year), estimated pregnancy start
+date (30 days), and VSD site. From this larger sample, a
+smaller sample was drawn comprising all pregnancies during
+the 2004-05 through 2008-09 influenza seasons ending in a
+live birth, with birth data available, a birth weight of
+$500 g, and gestational age of $22 weeks. Women from
+the earlier seasons were excluded because they predate Advisory Committee on Immunization Practices recommendations for vaccination throughout pregnancy. This sample of
+pregnant women is referred to as the main cohort (Figure 1).
+The exact date of receipt of TIV was identified from the
+VSD vaccine files. Data sources for these files include vaccines
+captured through claims and site-based vaccine registries.
+Data on vaccination at nontraditional sites (eg, pharmacies)
+were available when manually entered by a health care provider based on patient report. Timing of vaccination was
+stratified by trimester,19 with first trimester defined as
+<14 weeks gestation, second trimester as 14 to <28 weeks,
+and third trimester as $28 weeks.
+Outcomes
+The 2 primary study outcomes were preterm birth and SGA
+birth. Gestational age and pregnancy start date were obtained
+from the clinical estimate of gestational age on the birth record.19 Preterm birth was defined as delivery before 37 weeks
+gestation. Very and moderately preterm births were defined
+as delivery at #32 and #34 weeks gestation, respectively.
+Weight-for-gestational age percentiles were obtained from
+Oken et al,20 who provide comprehensive reference values
+for distributions of birth weights at 22-44 completed weeks
+of gestation derived from broadly based nationwide data,
+stratified by sex. Using these standards, we defined 2 cutoffs
+for SGA birth, <10th and <5th percentiles.
+Covariates
+All data on relevant covariates or risk factors for preterm or
+SGA birth that were available in the VSD files were gathered.
+Preexisting conditions were identified from International
+Classification of Diseases, Ninth Revision, Clinical Modification codes recorded in electronic health care records at inpatient, outpatient, or emergency department visits for the
+period starting 6 months before conception through the
+end of the pregnancy (Table I; available at www.jpeds.
+com). Preexisting conditions included hypertension,
+diabetes, cardiovascular disease, and renal disease. Health
+care utilization was measured by receipt of medical care
+during the first trimester and the Kotelchuck Adequacy of
+Prenatal Care Utilization Index.21,22 Health care utilization
+measures were identified from electronic health care data.
+The number of hospitalizations during the first 2 trimesters
+was used as a proxy of complication during pregnancy.
+Infant race/ethnicity was identified from birth data and
+used as a proxy for maternal race/ethnicity. In the absence
+of socioeconomic data at the individual level, we used
+census tract poverty level, defined for each subject as the
+percentage of families in his or her census tract with annual
+income below 150% of the federal poverty level.23 When
+maternal address was missing, data on poverty were
+imputed using the expectation maximization algorithm.24
+This algorithm was based on a regression model that
+includes health care utilization covariates, demographic
+THE JOURNAL OF PEDIATRICS  www.jpeds.com Vol. 164, No. 5
+1052 Nordin et al
+variables, and preexisting conditions. Information on census
+tract was not available for 30 000 pregnancies (20%).
+Statistical Analyses
+Using methods similar to those of Pasternak et al,8 women
+were classified by whether TIV was available during each
+trimester of pregnancy. Potential dates for exposure to TIV
+varied by influenza season and thus were determined directly
+from TIV vaccination dates in the VSD vaccine data files. For
+each trimester, unvaccinated women who could have been
+exposed to influenza vaccination served as controls. To minimize confounding by indication, the analysis used a propensity score–matched cohort. When evaluating the risk for
+preterm delivery, women vaccinated after 31, 33, and 35
+completed weeks of gestation for the #32-, #34-, and
+<37-week prematurity evaluations, respectively (and the corresponding matched unexposed women), were deleted from
+the analysis. This equalized the exposure time when women
+could be vaccinated between groups. An exploratory analysis
+without equalization of vaccine exposure time between
+groups was conducted as well.
+For each pregnancy, influenza season, and trimester of potential vaccine exposure, a propensity score was estimated as
+the probability of being vaccinated given the aforementioned
+covariates, using a generalized additive model. All factors
+were entered as main effects, with age at delivery and calendar
+week of pregnancy beginning date as smooth variables.
+Model fit was evaluated by the c statistic. Individual matching
+was then done by trimester and season on propensity score
+with a 1:1 allocation, using the Parson algorithm.25
+Conditional logistic regression was used to estimate ORs
+with 95% CIs for the propensity score–matched cohort.
+From the 2004-05 through 2008-09 influenza seasons, at least
+1 component of TIV changed each year26; thus, ORs were
+explored for preterm delivery and SGA birth by influenza season. All analyses were done using SAS version 9.2 (SAS Institute, Cary, North Carolina).
+Results
+Across all sites, between June 1, 2002, and July 31, 2009, a total of 807 563 pregnancies among women aged 14-49 years
+were identified from the VSD data. After applying exclusions,
+the resultant main cohort comprised 150 089 pregnancies
+(92 440 unvaccinated and 57 649 vaccinated). In the propensity score–matched cohort, there were 57 554 each in the
+vaccinated and unvaccinated groups, with 16 240 matched
+pairs in the first trimester (Table II). In the propensity
+score–matched cohort, baseline covariate differences were
+minimal as compared with those observed in the full
+cohort (Table II). The c-statistic for the trimester influenza
+season propensity models ranged from 0.661 to 0.842.
+Outcomes
+SGA. In the propensity score–matched cohort, TIV
+vaccination was not associated with increased or
+decreased risk of SGA birth. Using a cutoff of <5th
+percentile, the OR for SGA after TIV vaccination in any
+trimester was 1.02 (95% CI, 0.96-1.09). With a cutoff of
+<10th percentile, the OR for SGA birth after TIV vaccination was 1.00 (95% CI, 0.96-1.04) (Table III). These
+findings were consistent in analyses stratified by
+trimester of TIV exposure (Figure 2). No increased risk
+for SGA delivery (<10th percentile) by influenza season
+was detected (Table IV).
+Preterm. In the propensity score–matched cohort, in primary analyses, when comparing cohorts with equivalent
+time to potential vaccination, TIV vaccination was not
+associated with increased or decreased risk for preterm delivery at the predetermined cutoffs. In this cohort, the ORs
+for delivery at #32 weeks, #34 weeks, and <37 weeks were
+0.98 (95% CI, 0.86-1.12), 0.96 (95% CI, 0.88-1.04), and
+0.97 (95% CI, 0.93-1.02), respectively. In the analyses stratified by trimester, no increased or decreased risk was
+observed in any trimester, including the first (Figure 2).
+No increased risk for preterm birth by influenza season
+were detected (Table IV).
+In an exploratory analysis conducted without restricting the cohorts to women with equivalent time to be
+vaccinated, vaccination was associated with decreased
+risk of preterm birth at <37 weeks gestation (OR, 0.93;
+95% CI, 0.88-0.97). All of the decrease in risk in this analysis was associated with vaccination during the third
+trimester.
+Discussion
+Our data show that receipt of TIV during pregnancy did not
+increase the risk of preterm or SGA birth during the first, second, or third trimester. The vaccine also appears to have no
+nonspecific protective effect for these outcomes. Our findings
+did not vary by trimester of vaccine exposure.
+The present study expands the available data on the safety
+of first trimester vaccination, including birth outcomes for
+more than 16 000 women who received TIV in the first
+trimester. Previous data on the safety of influenza vaccine
+during the first trimester for these outcomes are sparse. In
+2012, Pasternak et al8 investigated the safety of an adjuvanted
+H1N1 vaccine during pregnancy in Danish women using
+propensity score matching. Similar to this report, the authors
+found no significant differences in the rates of preterm and
+SGA deliveries between vaccinated and unvaccinated women.
+That Danish cohort included only 330 first trimester vaccine
+exposures, however.
+Along with the large sample size, a notable strength of
+the present study is the availability of birth data for
+capturing birth weight and gestational age. The validity of
+birth data for these variables has been well demonstrated.27-29 In a recent multisite study, gestational age in
+birth data was confirmed through medical record review
+in 94% of cases. Similarly, a birth weight of <2500 g was
+confirmed by medical record review for 99% of cases.29
+Thus, although some misclassification of birth outcomes
+May 2014 ORIGINAL ARTICLES
+Maternal Influenza Vaccine and Risks for Preterm or Small for Gestational Age Birth 1053
+was possible, it likely would not have biased our results to a
+significant degree.
+Kallen and Olausson10 suggested a nonspecific protective
+effect of influenza vaccination during pregnancy and found
+a decreased rate of preterm births in women vaccinated during the third trimester. In our cohort, in an exploratory analysis without equalization of exposure time, all of the apparent
+protective effect on preterm birth was associated with vaccination during the third trimester; however, no efficacy was
+expected, given that 70% of women vaccinated in their third
+trimester were no longer pregnant when the influenza virus
+circulated. The remaining third trimester vaccines averaged
+Table II. Baseline comparisons in the main and propensity score–matched cohorts between TIV-exposed and unexposed
+pregnant women with a live birth
+Characteristic
+Main cohort Propensity score–matched cohort
+TIV-exposed
+(n = 57 649), n (%)
+Unexposed
+(n = 92 434), n (%)* P value
+TIV-exposed
+(n = 57 554), n (%)
+Unexposed (n = 57 554),
+n (%) P value
+Gestational age at delivery, wk <.0001 .83
+<20 1829 (3.2) 2222 (3.5) 1819 (3.2) 1847 (3.2)
+20-34 40 772 (70.7) 55 742 (42.2) 40 727 (70.8) 40 765 (70.8)
+$35 15 048 (26.1) 22 470 (24.3) 15 008 (26.1) 14 942 (26.0)
+Race <.0001 .08
+Asian 8762 (15.2) 12 327 (13.4) 8749 (15.2) 8795 (15.3)
+Black/African American 2608 (4.5) 7734 (8.4) 2608 (4.5) 2744 (4.8)
+Hispanic 13 640 (23.7) 27 028 (29.2) 13 639 (23.7) 13 722 (23.8)
+Other 4119 (7.1) 7919 (8.6) 4117 (7.2) 4239 (7.4)
+White 28 520 (49.5) 37 426 (40.5) 28 441 (49.4) 28 054 (48.7)
+Trimester †
+First 16 264 (28.2) 16 240 (28.2) 16 240 (28.2)
+Second 24 969 (43.3) 24 921 (43.3) 24 921 (43.3)
+Third 16 416 (28.5) 16 393 (28.5) 16 393 (28.5)
+Influenza season <.0001 †
+2004-05 9783 (17.0) 16 500 (17.9) 9753 (17.0) 9753 (17.0)
+2005-06 9746 (16.9) 16 902 (18.3) 9729 (16.9) 9729 (16.9)
+2006-07 12 334 (21.4) 19 649 (21.3) 12 323 (21.4) 12 323 (21.4)
+2007-08 13 153 (22.8) 20 758 (22.5) 13 123 (22.8) 13 123 (22.8)
+2008-09 12 663 (21.9) 18 625 (20.2) 12 626 (21.9) 12 626 (21.9)
+Medical care in first trimester 51 765 (89.8) 79 631 (86.2) <.0001 51 670 (89.8) 51 681 (89.8) .91
+APCNU <.0001 .95
+Adequate/plus 39 745 (68.9) 61 968 (67.0) 39 667 (68.9) 39 701 (69.0)
+Intermediate 12 396 (21.5) 19 365 (21.0) 12 381 (21.5) 12 379 (21.5)
+Inadequate 5508 (9.6) 11 101 (12.0) 5506 (9.6) 5474 (9.5)
+Hospitalizations during first
+and second trimesters
+.13 .89
+0 51 874 (90.0) 82 914 (89.7) 51 799 (90.0) 51 762 (89.9)
+1 4623 (8.0) 7556 (8.2) 4609 (8.0) 4652 (8.1)
+2+ 1152 (2) 1964 (2.1) 1146 (2.0) 1140 (2.0)
+Preexisting comorbiditiesz
+Hypertension 5087 (8.8) 7530 (8.2) <.0001 5049 (8.8) 4972 (8.6) .42
+Diabetes 1333 (2.3) 1783 1.9 <.0001 1296 (2.3) 1274 (2.2) .66
+Heart disease 1158 (2.0) 1530 (1.7) <.0001 1134 (2.0) 1088 (1.9) .32
+Renal complication 1296 (2.2) 2050 (2.2) .70 1275 (2.2) 1330 (2.3) .28
+Poverty, %x 13.3 + 0.13 15.5 + 0.13 <.0001 13.0  0.11 13.0  0.11 .40
+APCNU, Kotelchuck Adequacy of Prenatal Care Utilization Index.
+*Matching variables.
+†Unexposed corresponds to unique pregnancies.
+zDiagnoses at inpatient, outpatient or emergency visits, from 6 months before conception through the end of the pregnancy.
+xPercent of families in census tract whose income is below 150% of the federal poverty level.
+Table III. Pregnancy outcomes among TIV-exposed and unexposed pregnant women in the propensity score–matched
+cohort
+Outcome TIV-exposed (n = 57 554), n (%) Unexposed (n = 57 554), n (%) OR (95% CI) P value
+SGA birth
+<10th percentile 4639 (8.1) 4642 (8.1) 1.00 (0.96-1.04) .97
+<5th percentile 2072 (3.6) 2033 (3.5) 1.02 (0.96-1.09) .54
+Preterm delivery
+<37 wk 3390 (6.5) 3478 (6.6) 0.97 (0.93-1.02) .27
+#34 wk 1067 (2.2) 1112 (2.2) 0.96 (0.88-1.04) .33
+#32 wk 439 (1.0) 447 (1.0) 0.98 (0.86-1.12) .79
+THE JOURNAL OF PEDIATRICS  www.jpeds.com Vol. 164, No. 5
+1054 Nordin et al
+only 7 days of exposure to influenza circulation. This demonstrates a common source of bias in observational studies of
+pregnancy.30,31
+In the present study, we used several analytical techniques to control for bias, including propensity matching,
+alignment of vaccinated and unvaccinated women by their
+pregnancy start date, and, in the analysis of preterm deliveries, restricting comparisons to women with equivalent
+time to be vaccinated. Most previous observational studies
+have not used all of these techniques.2-7,9,10 The propensity
+matching allowed us to compare risks after vaccination between cohorts that, based on available data, had an equal
+likelihood of being vaccinated.32 Alignment of pregnancy
+start date was also important, because, independent of
+vaccination status, the risks of adverse pregnancy outcomes
+vary by season.30 A recent British study found that winter
+delivery was associated with a 10% increased risk of prematurity.33 Because TIV vaccination is a seasonal exposure,
+observational studies that do not ensure similar pregnancy
+start dates in vaccinated and unvaccinated women would be
+prone to bias. In addition, to avoid secular trends in coding
+practices,34-36 the sample was stratified by influenza season
+before the propensity matching. This also allowed evaluation of potential risks associated with annual changes in
+vaccine formulation.
+Several limitations of this study should be noted. First, as
+with all observational studies, there was potential for residual
+confounding by indication. Adjustment for known baseline
+differences was achieved using propensity matching; however, it is likely that other unmeasured confounders differed between the vaccinated and unvaccinated women.37 For
+example, data were not available on smoking status, prepregnancy body mass index, parity, previous obstetric history,
+and marital status, and thus these variables could not be
+included in the propensity score. However, Dodds et al6 reported that in their cohort, where these covariates were available, they did not confound the relationship between
+maternal vaccination and birth outcomes.
+Second, data on whether women received TIV were obtained from validated, standardized databases that include
+Figure 2. Association between TIV vaccination and risk of preterm and SGA births by trimester of exposure.
+Table IV. Pregnancy outcomes in TIV-exposed and unexposed pregnant women by influenza season
+Influenza season TIV composition
+SGA birth, <10th percentile Preterm birth, <37 weeks
+TIV-exposed,
+n (%)
+Unexposed,
+n (%) OR (95% CI)
+TIV-exposed,
+n (%)
+Unexposed,
+n (%) OR (95% CI)
+2004-05 A/New Caledonia/20/99-like (H1N1)
+A/California/7/2004-like (H3N2)
+B/Shanghai/361/2002-like
+780 (8.0) 843 (8.6) 0.92 (0.83-1.02) 549 (6.0) 534 (5.9) 1.03 (0.91-1.16)
+2005-06 A/New Caledonia/20/99-like (H1N1)
+A/Fujian/411/2002-like (H3N2)
+B/Shanghai/361/2002-like
+791 (8.1) 747 (7.7) 1.06 (0.96-1.18) 517 (5.9) 584 (6.6) 0.88 (0.77-.99)
+2006-07 A/New Caledonia/20/99-like (H1N1)
+A/Wisconsin/67/2005-like (H3N2)
+B/Malaysia/2506/2004-like
+975 (7.9) 951 (7.7) 1.03 (0.94-1.13) 742 (6.6) 729 (6.5) 1.02 (0.92-1.13)
+2007-08 A/Solomon Islands/3/2006-like (H1N1)
+A/Wisconsin/67/2005-like (H3N2)
+B/Malaysia/2506/2004-like
+1054 (8.0) 1103 (8.4) 0.95 (0.87-1.04) 788 (6.6) 830 (7.0) 0.95 (0.86-1.05)
+2008-09 A/Brisbane/59/2007-like (H1N1)
+A/Brisbane/10/2007-like (H3N2)
+B/Florida/4/2006-like
+1039 (8.2) 998 (7.9) 1.04 (0.95-1.14) 794 (7.0) 801 (7.0) 0.99 (0.89-1.10)
+May 2014 ORIGINAL ARTICLES
+Maternal Influenza Vaccine and Risks for Preterm or Small for Gestational Age Birth 1055
+electronic medical record–based registries, supplemented
+with claims data,15 and women vaccinated at alternative sites
+might have been misclassified in our cohort. In a recent survey, >13% of women receiving TIV while pregnant during
+the 2010-2011 influenza season did so at a pharmacy, school,
+or workplace.38 Data on influenza vaccination of pregnant
+women at pharmacies, schools, and workplaces in previous
+seasons are not available; however, rates were likely lower
+in the period for this cohort.
+Third, the propensity score–matched cohort was a subsample of a previously sampled cohort. With each sampling comes
+the risk that the findings might not be generalizable to all pregnant women. Notably, the population included only women
+with stable insurance coverage, at least 1 outpatient medical
+visit during pregnancy, and available birth data; these women
+represented <20% of the pregnancies originally identified.
+Finally, this sample was limited to live births, and focused
+on 2 specific perinatal outcomes. Other important birth outcomes were not analyzed. Inclusion of stillbirths or evaluating risks for spontaneous abortion would require
+alternative analytical approaches and additional data not
+available for this large cohort at the time of this study. Nonetheless, it is reassuring that a recent study from Denmark
+found no association between H1N1 vaccination and stillbirths.39 Similarly, a recent case-control study from the
+VSD found that TIV did not increase the risk of early pregnancy loss in the 4 weeks after vaccination.40
+The present study adds to the body of scientific knowledge supporting the safety of influenza vaccination
+throughout pregnancy. In our large cohort, receipt of TIV
+during any trimester of pregnancy was not associated with
+increased or decreased risk of preterm or SGA birth. This
+study provides data on a substantial number of women
+vaccinated during the first trimester. These findings should
+reassure women and their health care providers regarding
+the safety of seasonal influenza vaccination during pregnancy for these common outcomes. Combined with other
+safety studies13,14 and with evidence of effectiveness for
+these outcomes of the vaccine during periods of influenza
+virus circulation,1,2 this study strongly supports the vaccination of pregnant women with influenza vaccine. Our analysis suggests no nonspecific protective effect of TIV for
+these outcomes. Future studies should continue to monitor
+influenza vaccine safety and risks for other important
+maternal and child health outcomes. n
+Submitted for publication Oct 4, 2013; last revision received Dec 3, 2013;
+accepted Jan 17, 2014.
+References
+1. Steinhoff MC, Omer SB, Roy E, El Arifeen S, Raqib R, Dodd C, et al.
+Neonatal outcomes after influenza immunization during pregnancy: a
+randomized controlled trial. CMAJ 2012;184:645-53.
+2. Omer SB, Goodman D, Steinhoff MC, Rochat R, Klugman KP, Stoll BJ,
+et al. Maternal influenza immunization and reduced likelihood of prematurity and small for gestational age births: a retrospective cohort
+study. PLoS Med 2011;8:e1000441.
+3. Richards JL, Hansen C, Bredfeldt C, Bednarczyk RA, Steinhoff MC, Adjaye-Gbewonyo D, et al. Neonatal outcomes after antenatal influenza immunization during the 2009 H1N1 influenza pandemic: impact on
+preterm birth, birth weight, and small for gestational age birth. Clin
+Infect Dis 2013;56:1216-22.
+4. Rubinstein F, Micone P, Bonotti A, Wainer V, Schwarcz A,
+Augustovski F, et al. Influenza A/H1N1 MF59 adjuvanted vaccine in
+pregnant women and adverse perinatal outcomes: multicentre study.
+BMJ 2013;346:f393.
+5. Fell DB, Sprague AE, Liu N, Yasseen AS III, Wen SW, Smith G, et al.
+H1N1 influenza vaccination during pregnancy and fetal and neonatal
+outcomes. Am J Public Health 2012;102:e33-40.
+6. Dodds L, Macdonald N, Scott J, Spencer A, Allen VM, McNeil S. The association between influenza vaccine in pregnancy and adverse neonatal
+outcomes. J Obstet Gynaecol Can 2012;34:714-20.
+7. Heikkinen T, Young J, van Beek E, Franke H, Verstraeten T, Weil JG,
+et al. Safety of MF59-adjuvanted A/H1N1 influenza vaccine in pregnancy: a comparative cohort study. Am J Obstet Gynecol 2012;207:
+177.e1-e8.
+8. Pasternak B, Svanstrom H, Molgaard-Nielsen D, Krause TG,
+Emborg HD, Melbye M, et al. Risk of adverse fetal outcomes following
+administration of a pandemic influenza A(H1N1) vaccine during pregnancy. JAMA 2012;308:165-74.
+9. Sheffield JS, Greer LG, Rogers VL, Roberts SW, Lytle H, McIntire DD,
+et al. Effect of influenza vaccination in the first trimester of pregnancy.
+Obstet Gynecol 2012;120:532-7.
+10. Kallen B, Olausson PO. Vaccination against H1N1 influenza with Pandemrix during pregnancy and delivery outcome: a Swedish register
+study. BJOG 2012;119:1583-90.
+11. World Health Organization. Flunet 2009-2010. Available from: http://
+www.who.int/influenza/gisrs_laboratory/flunet/en/. Accessed June
+25, 2013.
+12. Kharbanda E, Vazquez-Benitez G, Shi WX, Lipkind H, Naleway A,
+Molitor B, et al. Assessing the safety of influenza immunization during
+pregnancy: the Vaccine Safety Datalink. Am J Obstet Gynecol 2012;
+207:S47-51.
+13. Nordin JD, Kharbanda EO, Benitez GV, Nichol K, Lipkind H,
+Naleway A, et al. Maternal safety of trivalent inactivated influenza vaccine in pregnant women. Obstet Gynecol 2013;121:519-25.
+14. Kharbanda EO, Vazquez-Benitez G, Lipkind H, Naleway A, Lee G,
+Nordin JD. Inactivated influenza vaccine during pregnancy and risks
+for adverse obstetric events. Obstet Gynecol 2013;122:659-67.
+15. Baggs J, Gee J, Lewis E, Fowler G, Benson P, Lieu T, et al. The Vaccine
+Safety Datalink: a model for monitoring immunization safety. Pediatrics
+2011;127(Suppl 1):S45-53.
+16. Hornbrook MC, Whitlock EP, Berg CJ, Callaghan WM, Bachman DJ,
+Gold R, et al. Development of an algorithm to identify pregnancy episodes in an integrated health care delivery system. Health Serv Res
+2007;42:908-27.
+17. Naleway AL, Gold R, Kurosky S, Riedlinger K, Henninger ML,
+Nordin JD, et al. Identifying pregnancy episodes, outcomes, and
+mother–infant pairs in the Vaccine Safety Datalink. Vaccine 2013;31:
+2898-903.
+18. Bergstralh EJ, Kosanke JL, Jacobsen SJ. Software for optimal matching in
+observational studies. Epidemiology 1996;7:331-2.
+19. Ananth CV. Menstrual versus clinical estimate of gestational age
+dating in the United States: temporal trends and variability in indices
+of perinatal outcomes. Paediatr Perinat Epidemiol 2007;21(Suppl 2):
+22-30.
+20. Oken E, Kleinman KP, Rich-Edwards J, Gillman MW. A nearly continuous measure of birth weight for gestational age using a United States
+national reference. BMC Pediatr 2003;3:6.
+21. Kotelchuck M. An evaluation of the Kessner Adequacy of Prenatal Care
+Index and a proposed Adequacy of Prenatal Care Utilization Index. Am J
+Public Health 1994;84:1414-20.
+22. Kotelchuck M. The Adequacy of Prenatal Care Utilization Index: its US
+distribution and association with low birthweight. Am J Public Health
+1994;84:1486-9.
+THE JOURNAL OF PEDIATRICS  www.jpeds.com Vol. 164, No. 5
+1056 Nordin et al
+23. Minnesota Population Center. National Historical Geographic Information System, version 2.0. Available from: http://www.nhgis.org/. Accessed August 2, 2012.
+24. Little R, Rubin DB. Statistical analysis with missing data. 2nd ed. New
+York: Wiley; 2002.
+25. Parsons L. Using SAS software to perform a case-control match on propensity score in an observational study. In SAS SUGI 30, Paper 225-
+25. 2005.
+26. Centers for Disease Control and Prevention. Seasonal influenza: past
+weekly surveillance reports, October 9, 2012. Available from: http://
+www.cdc.gov/flu/weekly/pastreports.htm. Accessed April 14, 2013.
+27. Piper JM, Mitchel EF Jr, Snowden M, Hall C, Adams M,
+Taylor P. Validation of 1989 Tennessee birth certificates using
+maternal and newborn hospital records. Am J Epidemiol 1993;
+137:758-68.
+28. DiGiuseppe DL, Aron DC, Ranbom L, Harper DL, Rosenthal GE.
+Reliability of birth certificate data: a multi-hospital comparison
+to medical records information. Matern Child Health J 2002;6:
+169-79.
+29. Andrade SE, Scott PE, Davis RL, Li DK, Getahun D, Cheetham TC, et al.
+Validity of health plan and birth certificate data for pregnancy research.
+Pharmacoepidemiol Drug Saf 2013;22:7-15.
+30. Kallen B. The problem of confounding in studies of the effect of
+maternal drug use on pregnancy outcome. Obstet Gynecol Int 2012;
+2012:148616.
+31. O’Neill MS, Hertz-Piccioto I, Pastore LM, Weatherley BD. Have studies
+of urinary tract infection and preterm delivery used the most apprpriate
+methods? Paediatr Perinat Epidemiol 2003;17:226-33.
+32. Glynn RJ, Schneeweiss S, Sturmer T. Indications for propensity scores
+and review of their use in pharmacoepidemiology. Basic Clin Pharmacol
+Toxicol 2006;98:253-9.
+33. Lee SJ, Steer PJ, Filippi V. Seasonal patterns and preterm birth: a systematic review of the literature and an analysis in a London-based cohort.
+BJOG 2006;113:1280-8.
+34. Gee J, Naleway A, Shui I, Baggs J, Yin R, Li R, et al. Monitoring the safety
+of quadrivalent human papillomavirus vaccine: findings from the Vaccine Safety Datalink. Vaccine 2011;29:8279-84.
+35. Jacobsen SJ, Poland GA. Methods in vaccine effectiveness and safety
+studies: a critical need for vaccine confidence. Vaccine 2011;29:9573-4.
+36. Hechter RC, Qian L, Sy LS, Greene SK, Weintraub ES, Naleway AL, et al.
+Secular trends in diagnostic code density in electronic healthcare data
+from health care systems in the Vaccine Safety Datalink project. Vaccine
+2013;31:1080-5.
+37. Fireman B, Lee J, Lewis N, Bembom O, van der Laan M, Baxter R. Influenza vaccination and mortality: differentiating vaccine effects from bias.
+Am J Epidemiol 2009;170:650-6.
+38. Centers for Disease Control and Prevention. Influenza vaccination
+coverage among pregnant women—United States, 2010-11 influenza
+season. MMWR Morb Mortal Wkly Rep 2011;60:1078-82.
+39. Pasternak B, Svanstrom H, Molgaard-Nielsen D, Krause TG,
+Emborg HD, Melbye M, et al. Vaccination against pandemic A/H1N1
+2009 influenza in pregnancy and risk of fetal death: cohort study in
+Denmark. BMJ 2012;344:e2794.
+40. Irving SA, Kieke BA, Donahue JG, Mascola MA, Baggs J, DeStefano F,
+et al. Trivalent inactivated influenza vaccine and spontaneous abortion.
+Obstet Gynecol 2013;121:159-65.
+May 2014 ORIGINAL ARTICLES
+Maternal Influenza Vaccine and Risks for Preterm or Small for Gestational Age Birth 1057
+Appendix
+Additional members of the VSD include:
+Steve Jacobson, MD, PhD (Kaiser Permanente Department of Research and Evaluation, Pasadena, California),
+Nicola Klein, MD, MPH (Kaiser Permanente Vaccine Study
+Center, Oakland, California), Allison Naleway, PhD (Kaiser
+Permanente Northwest, Portland, Oregon), Simon Hambidge, MD, PhD (Institute for Health Research, Kaiser
+Permanente, Colorado), Michael Jackson, PhD, MPH
+(Group Health Cooperative, Seattle, Washington), James
+Donahue, DVM, PhD, MPH (Marshfield Clinic Research
+Institution, Marshfield, Wisconsin), Saad B Omer, MBBS,
+PhD, MPH (Center for Health Research-Southeast, Kaiser
+Permanente Georgia, Atlanta, Georgia), Grace Lee, MD,
+MPH (Department of Population Medicine, Harvard Pilgrim
+Health Care Institute and Harvard Medical School, Boston,
+Massachusetts).
+Table I. Diagnoses of preexisting medical conditions
+ICD-9-CM diagnoses Preexisting medical conditions
+093.x, 112.81, 130.3, 391.x, 393.x-398.x, 410.x-429.x, 648.5, 648.6,
+745.x-6.x, 747.1x-747.4x, and 759.82
+Heart disease (includes congenital defects and Marfan syndrome)
+250.x and 251.x Diabetes and endocrine (includes codes for diabetic neuropathy and
+polyneuropathy in diabetes)
+401.x-405.x Preexisting hypertension
+274.1, 580.x-591.x, 593.71-593.73, 593.9, 753.1, and 753.3 Renal disease
+ICD-9-CM, International Classification of Diseases, Ninth Revision, Clinical Modification.
+THE JOURNAL OF PEDIATRICS  www.jpeds.com Vol. 164, No. 5
+1057.e1 Nordin et al
+Figure 1. Flowchart of pregnancies identified, exclusions, and the final TIV-vaccinated and unvaccinated cohorts. LAIV, live
+attenuated influenza vaccine.
+May 2014 ORIGINAL ARTICLES
+Maternal Influenza Vaccine and Risks for Preterm or Small for Gestational Age Birth 1057.e2

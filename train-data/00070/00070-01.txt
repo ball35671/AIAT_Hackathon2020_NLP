@@ -1,0 +1,642 @@
+Transtheoretical Model-based multiple behavior intervention for weight
+management: Effectiveness on a population basis
+Sara S. Johnson a,⁎, Andrea L. Paiva a
+, Carol O. Cummins a
+, Janet L. Johnson a
+, Sharon J. Dyment a
+,
+Julie A. Wright b
+, James O. Prochaska c
+, Janice M. Prochaska a
+, Karen Sherman a
+a Pro-Change Behavior Systems, Inc., USA
+b Boston University Medical Center, USA
+c University of Rhode Island, USA
+Available online 23 October 2007
+Abstract
+Background. The increasing prevalence of overweight and obesity underscores the need for evidence-based, easily disseminable interventions
+for weight management that can be delivered on a population basis. The Transtheoretical Model (TTM) offers a promising theoretical framework
+for multiple behavior weight management interventions.
+Methods. Overweight or obese adults (BMI 25–39.9; n= 1277) were randomized to no-treatment control or home-based, stage-matched multiple
+behavior interventions for up to three behaviors related to weight management at 0, 3, 6, and 9 months. All participants were re-assessed at 6, 12, and
+24 months.
+Results. Significant treatment effects were found for healthy eating (47.5% versus 34.3%), exercise (44.90% versus 38.10%), managing
+emotional distress (49.7% versus 30.30%), and untreated fruit and vegetable intake (48.5% versus 39.0%) progressing to Action/Maintenance at
+24 months. The groups differed on weight lost at 24 months. Co-variation of behavior change occurred and was much more pronounced in the
+treatment group, where individuals progressing to Action/Maintenance for a single behavior were 2.5–5 times more likely to make progress on
+another behavior. The impact of the multiple behavior intervention was more than three times that of single behavior interventions.
+Conclusions. This study demonstrates the ability of TTM-based tailored feedback to improve healthy eating, exercise, managing emotional
+distress, and weight on a population basis. The treatment produced a high level of population impact that future multiple behavior interventions
+can seek to surpass.
+© 2007 Elsevier Inc. All rights reserved.
+Keywords: Multiple behavior interventions; Weight management; Transtheoretical Model; Co-variation of behavior change; Obesity; Physical activity; Nutrition
+Introduction
+The increasing prevalence of overweight and obesity is associated with significant public health consequences (Adams
+et al., 2006; CDC, 2006; Flegal et al. 2002). A number of
+intensive, clinic-based treatment options for the treatment of
+obesity are available. Riebe et al. (2003), for example, examined
+the efficacy of a multiple behavior group-based, 6-month program
+based on the Transtheoretical Model of Behavior Change (TTM)
+that intervened on physical activity, nutrition, and behavior
+change. The participants (n= 144) demonstrated significant reductions in weight, percent of calories from fat, and caloric intake,
+as well as increases in VO2max, at the end of treatment (Riebe
+et al., 2003). While participants maintained reductions in weight
+and caloric intake and increases in weekly exercise minutes at 24
+months, there was evidence of gradual loss of those improvements during the follow-up period. Furthermore, there were no
+differences on percent of calories from fat, and fruit and vegetable
+intake had declined from baseline (Riebe et al., 2005).
+Consumers have expressed a desire for alternatives to clinicbased weight management interventions (Sherwood et al., 1998).
+Experts in the field (e.g., Perri, 1998) are calling for effectiveness
+Available online at www.sciencedirect.com
+Preventive Medicine 46 (2008) 238–246
+www.elsevier.com/locate/ypmed
+⁎ Corresponding author. PO Box 755, West Kingston, RI 02892, USA.
+Fax: +1 401 874 4103.
+E-mail address: sjohnson@prochange.com (S.S. Johnson).
+0091-7435/$ - see front matter © 2007 Elsevier Inc. All rights reserved.
+doi:10.1016/j.ypmed.2007.09.010
+studies of innovative and cost-effective strategies to improve
+long-term outcomes of clinic-based weight management programs. Easily disseminable interventions with sustained effectiveness delivered outside of clinic or group settings are needed.
+Home-based interventions offer a promising alternative. Individualized interventions are important for those not prepared to
+change multiple behaviors that are essential to managing weight
+(USDHHS, 2005).
+Randomized trials of Internet-based weight management
+interventions (Tate et al., 2001, 2003) indicate that personalized
+guidance from counselors for those prepared to change can
+affect weight immediately post-treatment. Follow-up data, however, were unavailable to determine if the treatment effects were
+sustained. Glasgow et al. (2004) and Prochaska and Prochaska
+(in press) report that sustainable multiple behavior interventions
+are patient-centered, tailored, proactive, population-based, and
+ongoing.
+Success of multiple behavior interventions based on the
+Transtheoretical Model (TTM) that fulfill the guidelines set
+forth by Glasgow et al. (2004) and Blue and Black (2005) (e.g.,
+Prochaska et al., 2004; Prochaska et al., 2005) suggests that
+TTM offers a promising framework for multiple risk weight
+management interventions. The TTM is an integrative model of
+behavior change that incorporates process oriented variables to
+explain and predict how and when individuals change behaviors. In addition to the central organizing construct, stage of
+change, the TTM integrates several other behavior change
+constructs including decisional balance, processes of change,
+and self-efficacy (Prochaska et al., 2002). A randomized trial of
+TTM-based interventions for diabetes self-management indicated the intervention group was significantly more likely to
+move to Action and Maintenance (A/M) stages for selfmonitoring of blood glucose and healthy eating (Jones et al.,
+2003). Prochaska et al. (2004) reported that home-based, TTM
+interventions outperformed usual care for smoking cessation,
+sun exposure, and dietary fat reduction. A second study
+demonstrated that TTM interventions had significant effects at
+24 months on four behaviors: smoking, dietary fat, sun exposure,
+and mammography (Prochaska et al., 2005).Johnson et al. (2006)
+reported that, when paired with fully tailored interventions for
+lipid-lowering medication adherence, stage-matched interventions had significant effects on physical activity and dietary fat
+reduction.
+The purpose of this study was to conduct the first randomized
+effectiveness trial with a one-year extended follow-up to examine
+the impact of fully tailored, home-based, TTM-based multiple
+behavior interventions targeting behaviors essential to healthy
+weight management in a population of overweight and obese
+adults. This study is among the first to examine the co-variation
+of multiple behavior changes involved in healthy weight
+Fig. 1. Recruitment information.
+S.S. Johnson et al. / Preventive Medicine 46 (2008) 238–246 239
+management and the potential population impact of multiple
+behavior interventions for weight management.
+Methods
+Subjects
+A sample of 1277 were recruited nationwide and randomized to treatment or
+control, with n= 1101 from large employers; n= 126 from Centerwatch.com, a
+website with clinical trial listings; and n= 46 who were ineligible for another
+study. Of the sample, 58.5% were recruited using proactive calls, and 41.5%
+were recruited reactively by emails or ads. Recruitment among those eligible
+was 79.6% (see Fig. 1 and Table 1).
+Procedure
+Participants completed baseline assessments by phone. At 3, 6, 9, 12, and 24
+months, mail assessments were sent, followed by telephone for non-responders.
+This standard mixed-mode assessment has been used in a number of previous
+effectiveness studies of population-based interventions (e.g., Prochaska et al.,
+2005; Prochaska et al., 2004; Velicer and Prochaska, 1999). The 3 and 9 month
+assessments were for intervention purposes. A subsample (n= 202) completed
+objective measures of weight, physical activity, and food intake at baseline, 12,
+and 24 months. Fig. 2 presents the retention rates. All procedures were approved
+by the Institutional Review Board at Pro-Change Behavior Systems, Inc.
+Treatment group
+The treatment group (n= 628) received four series of individualized reports
+(3–6 pages) tailored on TTM constructs (stage of change, decisional balance,
+self-efficacy, and processes of change) based on assessments at baseline, 3, 6,
+and 9 months. Participants received computer-generated tailored reports for up
+to three behaviors at each timepoint: healthy eating (reducing dietary fat to
+30% of calories and calorie reduction of 500 calories per day); moderate
+exercise (working toward at least 30 minutes of moderate exercise on at least
+5 days per week); and managing emotional distress without eating (using
+healthy strategies rather than eating to cope). Individuals did not receive
+reports for behaviors for which they were in Maintenance. Baseline reports
+provided normative feedback (compared to peers in same stage who were
+successful). Follow-up reports provided normative and ipsative (compared to
+self) feedback. Intervention mailings were staggered based on readiness such
+that the reports for which individuals were more prepared to change were
+mailed first. In the event that a participant was in the same stage of change for
+two or more behaviors, the reports were mailed in the following order: healthy
+eating, exercise, managing emotional distress. The first report was mailed
+within a week of the assessment and was accompanied by a multiple-behavior,
+stage-based manual.
+Fig. 2. Retention rates for each time point.
+Table 1
+Screen out criteria
+Screen out criteria N
+Age (under 18 or over 75) 2
+Body mass index (below 25 or above 39.9) 375
+Heart attack in previous three months 2
+Angioplasty in previous three months 1
+Heart failure 4
+Surgery in previous three months 28
+Eating disorder 21
+Cancer 4
+Pregnant or nursing 12
+Participation in formal or commercial weight management program 46
+Not in a pre-action stage for healthy eating and/or exercise 213
+Total 708
+240 S.S. Johnson et al. / Preventive Medicine 46 (2008) 238–246
+Control group
+The no-treatment control group completed measures at baseline, 6, 12, and
+24 months.
+Measures
+Height and weight
+Height and weight (shoeless, in light street clothing) were self-reported.
+Self-reported weight correlated 0.99 with calibrated balance beam scale weight
+in the 202 participants with objective measures (collected separately by different
+research assistants). The mean difference between self-reported and measured
+weight at baseline was −1.64 (2.32) kg. This suggests highly accurate selfreport, as the difference represents only 1.8% of baseline weight. A two-way
+repeated measures ANOVA using treatment group as the independent variable
+demonstrated that there is no treatment group difference on under-reporting of
+weight, F(1,177) =.02, pN.05.
+Stage of change for exercise
+This reliable and valid measure (Sarkin et al., 2001) assessed readiness to
+engage in moderate exercise at least 30 minutes per day 5–7 days per week. The
+Godin Leisure-Time Exercise Questionnaire (GLTEQ; Godin and Shepard,
+1985) varied significantly by stage F(3,846) = 79.43, pb.001. All three items
+(strenuous, r(101)=.223, pb.05; moderate, r(101) =.222, pb.05; and mild,
+r(101)=.211, pb.05) correlated significantly to moderate/vigorous activity
+measured on the subsample using uni-axial Actigraph accelerometers.
+Stage of change for healthy eating
+Stage of change for healthy eating assessed readiness to reduce calories by
+500 a day and dietary fat to less than 30%. Subscale scores on a behavioral measure
+of eating (Johnson et al., 1999) varied significantly by stage (F(4,1254)= 43.29,
+pb.001), as did estimates of dietary fat consumption as measured by the Fred
+Hutchinson Food Frequency Questionnaire (FFQ) in the subsample completing
+objective measures. Those in Action and Maintenance had significantly lower fat
+intake (mean= 29%) than those in pre-action stages (i.e., Precontemplation,
+Contemplation, and Preparation) (mean= 35%), F(1,152)= 5.59, pb.05, η2
+=.04.
+Stage of change for managing emotional distress
+Stage of change for managing emotional distress assessed readiness to not
+rely on eating to cope with emotional distress. The 9-item Distress Eating Scale
+(α=.90; Johnson et al., 1999), varied significantly across the stages, F(4,693) =
+97.73, pb.001.
+Stage of change for fruit and vegetable intake
+Although an indirect intervention target, readiness to eat at least five servings
+per day of fruits and vegetables was assessed (LaForge et al., 1994; Cummins
+et al., 2006). Number of servings measured by the summation method in the FFQ
+varied significantly across stages at baseline, F(4,148)= 9.20, pb.001, η2
+=.20.
+Statistical analyses
+A 2× 4 factorial repeated measures design compared treatment and control
+groups at 0, 6, 12, and 24 months. Efficacy was assessed for primary (healthy eating
+and exercise) and secondary outcomes (managing emotional distress and weight).
+Multiple imputation (MI) (Rubin, 1987; Harel and Zhou, 2007) was used to
+estimate missing data for the 6, 12, and 24 month assessments. MI, which
+Schafer and Graham (2002) describe as the state of the art for missing value
+replacement, uses a simulation technique to replace each missing value with a
+set of plausible values, resulting in multiple complete data sets that differ only in
+the imputed values. For the current study, 10 datasets were imputed using
+Multivariate Imputation by Chained Equations (Van Buuren and Oudshoorn,
+2004), which is implemented by R package ‘mice’ version 1.16. The imputation
+model included baseline variables related to outcomes being imputed and to
+missingness. The complete data sets were analyzed using complete data
+methodology – in this case, Generalized Estimating Equations (GEE) examining
+repeated measures effects – and the results pooled by using SAS v9.1 PROC
+GENMOD and PROC MI, respectively. Statistical significance of the pooled
+results was evaluated using a t-test and degrees of freedom that take into account
+the uncertainty in the data and the uncertainty due to missing values. GEE allows
+analysis of longitudinal data for both continuous and categorical outcomes
+(Zeger and Liang, 1986). All GEEs, which were run with an unstructured
+variance matrix, used the control group as reference.
+Table 2
+Baseline demographic information
+Comparison Treatment Total
+Gender
+Male 50.8% (330) 54.4% (341) 52.6% (671)
+Female 49.2% (319) 45.6% (286) 47.4% (605)
+Ethnicity
+American Indian or
+Alaskan Native
+0.8% (5) 1.0% (6) 0.9% (11)
+Asian/Other Pacific Islander 0.8% (5) 1.1% (7) 0.9% (12)
+Black, not Hispanic 7.1% (46) 5.8% (36) 6.5% (82)
+Hispanic 8.4% (54) 5.6% (35) 7.0% (89)
+White, not Hispanic 78.0% (503) 80.2% (502) 79.1% (1005)
+Other 4.8% (31) 5.9% (37) 5.4% (68)
+Missing 0.2% (1) 0.5% (3) 0.3% (4)
+Income
+Under $25,000 4.1% (25) 4.4% (26) 4.2% (51)
+$25–50,000 28.5% (176) 23.6% (140) 26.1% (316)
+$50–75,000 35.5% (219) 31.4% (186) 33.5% (405)
+$75,000+ 31.9% (197) 40.6% (241) 36.2% (438)
+Children
+No 13.8% (89) 13.1% (82) 13.5% (171)
+Yes 86.2% (556) 86.9% (543) 86.5% (1099)
+Employment
+Full-time 85.8% (554) 86.1% (538) 85.9% (1092)
+Part-time 4.6% (30) 5.3% (33) 5.0% (63)
+Homemaker 3.6% (23) 2.7% (17) 3.1% (40)
+Retired 3.9% (25) 3.5% (22) 3.7% (47)
+Unemployed 0.6% (4) 0.6% (4) 0.6% (8)
+Unable to work 1.5% (10) 1.8% (11) 1.7% (21)
+Ever enrolled in formal
+weight management program
+No 74.4% (483) 71.8% (450) 73.1% (933)
+Yes 25.6% (450) 28.2% (177) 26.9% (343)
+Healthy eating
+Precontemplation 17.1% (110) 17.22% (107) 17.1% (217)
+Contemplation 8.2% (53) 10.1% (63) 9.1% (116)
+Preparation 62.8% (405) 61.5% (383) 62.1% (788)
+Action 6.0% (39) 5.1% (32) 5.6% (71)
+Maintenance 5.9% (38) 6.1% (38) 6.0% (76)
+Exercise
+Precontemplation 9.3% (58) 10.7% (65) 10.0% (123)
+Contemplation 12.1% (75) 12.7% (77) 12.4% (152)
+Preparation 35.6% (221) 35.9% (217) 35.7% (438)
+Action 10.8% (67) 11.1% (67) 10.9% (134)
+Maintenance 32.2% (200) 29.6% (179) 30.9% (379)
+Emotional distress
+Precontemplation 3.9% (14) 6.8% (23) 5.3% (37)
+Contemplation 11.0% (40) 11.5% (39) 11.3% (79)
+Preparation 48.9% (177) 48.7% (165) 48.8% (342)
+Action 9.9% (36) 12.7% (43) 11.3% (79)
+Maintenance 26.2% (95) 20.4% (69) 23.4% (164)
+Used Internet to manage
+weight
+No 81.8% (530) 82.9% (518) 82.3% (1048)
+Yes 18.2% (118) 17.1% (107) 17.7% (225)
+BMI (mean) 30.86 30.64 30.75
+Age (mean) 45.43 45.31 45.37
+Note. Due to missing demographic information, totals may not sum to the total
+sample.
+S.S. Johnson et al. / Preventive Medicine 46 (2008) 238–246 241
+Analyses included individuals in pre-action stages at baseline for each
+behavior with progressing to A/M defining treatment success. Individuals in
+Action or Maintenance at baseline were necessarily excluded as they were
+already at criteria for the behavioral outcomes. Since participants in the analyses
+were in pre-action at baseline, that time point was excluded from the GEE as the
+group effect is of most interest.
+Results
+Table 2 presents the demographics and baseline stage distributions for the two groups.
+Healthy eating outcomes (n= 1121)
+The treatment group had greater percentages than the control
+group progressing to A/M at 6 (43.9% versus 31.3%); 12
+(43.10% versus 35.2%); and 24 months (47.5% versus 34.3%)
+(Fig. 3). GEE revealed an overall group effect for all timepoints
+t(1,1119) = 5.02, pb.001, OR = 1.61 (95% CI: 1.33, 1.94).
+Exercise outcomes (n= 713)
+Among those in pre-action stages for exercise at baseline,
+there was a significant group effect t(1,711) = 2.25, pb.05,
+OR = 1.27 (95% CI: 1.03, 1.57) beginning at 6 months that was
+maintained over time. Among the treatment group, 43%, 37.7%,
+and 44.9% progressed to A/M at 6, 12, and 24 months, respectively, compared to 34.6%, 35.9%, and 38.1% of the control
+group (Fig. 4).
+Managing emotional distress outcomes (n= 458)
+The overall GEE showed a significant group effect that was
+maintained at all timepoints among those in pre-action stages at
+baseline, t(1,456) = 5.1, pb.001, OR = 1.89 (95% CI: 1.48,
+2.42). Significantly greater percentages of the treatment group
+achieved treatment success at 6 (44% versus 25.3%), 12 (45%
+versus 38.3%), and 24 months (49.7% versus 30.3%) (Fig. 5).
+Fig. 3. Healthy eating treatment success by group (multiple imputation) preaction at baseline sample. Red=treatment group, blue = control group.
+Fig. 4. Exercise treatment success by group (multiple imputation) pre-action at
+baseline sample. Red =treatment group, blue = control group.
+Fig. 5. Emotional distress treatment success by group (multiple imputation) preaction at baseline sample. Red =treatment group, blue = control group.
+Fig. 6. Fruit and vegetable treatment success by group (multiple imputation) preaction at baseline sample. Red =treatment group, blue = control group.
+242 S.S. Johnson et al. / Preventive Medicine 46 (2008) 238–246
+Fruit and vegetable outcomes (n= 858)
+Fig. 6 shows significantly greater percentages of the treatment group progressed to A/M for fruit and vegetable consumption at 6 (44.0% versus 31.4%), 12 (45.3% versus 39.6%),
+and 24 months (48.5% versus 39.0%). The overall group effect
+was significant at all timepoints, t(1,856) = 5.01, pb.0001,
+OR = 1.63 (95% CI: 1.34, 1.97).
+Weight outcomes
+Self-reported weight loss was evaluated separately for samples in pre-action for each primary outcome behavior (healthy
+eating or exercise) and for those in pre-action for both behaviors. Although not presented, the results for percent of
+weight loss are very similar (Johnson et al., 2007). The GEE
+analyses indicated that the differences between treatment
+groups among those in pre-action for healthy eating (n= 1121)
+or exercise (n= 713) were not significant when evaluated
+separately. Among individuals who were in a pre-action stage
+for both healthy eating and exercise (n= 617), however, the
+treatment group lost significantly more weight at final follow-up
+than the control group t(1,615) =−2.12, pb.05, d=.17 (Fig. 7).
+Among those in pre-action for healthy eating at baseline,
+27.4% of the treatment group versus 20.3% lost at least 5% of
+their weight at 24 months, a significant overall effect in the GEE
+analyses that increases over time t(1,1119) = 2.07, pb.05,
+OR = 1.22 (95% CI: 1.01, 1.48) Among those in pre-action at
+baseline for exercise, more participants from the treatment
+group (28.8%) lost 5% or more of initial weight than among
+those in the control group (19.4%), with increasing differences
+over time, t(1,711) = 1.96, p=.05, OR = 1.32 (95% CI: 0.99,
+1.75). There was also an overall group effect for those in preaction for both behaviors at baseline who received treatment t
+(1,615) = 2.05, pb.05, OR = 1.35 (95% CI: 1.01, 1.81) that
+increased over time (30% versus 18.6% losing 5% or more at
+24 months, Fig. 8).
+Co-variation of behavior change
+To determine if co-variation of behavior change occurred
+differentially in treatment and control groups, the likelihood of
+progressing to A/M for the target behaviors was evaluated by
+logistic regression analyses that provided odds ratios with 95%
+confidence intervals for each group. In all analyses, failing to
+progress was the referent category. While results are reported in
+one direction, the converse of each odds ratio is also true. The
+results in Table 3 indicate that among the treatment group, those
+progressing to A/M were 2.52–5.18 times more likely to progress on another behavior, as compared to 1.24–2.63 times
+more likely among those in the control group.
+Impact on multiple behaviors
+In multiple behavior interventions, measures for assessing
+impact must take into account the number of behaviors treated
+effectively and the participation rates in each of those
+behavioral interventions (Prochaska and Prochaska, in press).
+The following impact equation (Prochaska and Prochaska, in
+Fig. 7. Weight loss (kg) by group—healthy eating and exercise pre-action at
+baseline sample (multiple imputation). Red =treatment group, blue = control
+group.
+Fig. 8. Percent losing 5% or more of baseline body weight by group—healthy
+eating and exercise pre-action at baseline sample (multiple imputation). Red =
+treatment group, blue = control group.
+Table 3
+Predictors of progression to action/maintenance (A/M) for healthy eating,
+exercise, and managing emotional distress
+Behaviors TX OR CI (95%) COMP OR CI (95%)
+Healthy eating (HE)
+Exercise (EX)
+6 months 2.52⁎ 1.40–4.54 1.68 0.91–3.11
+12 months 2.63⁎ 1.39–4.97 2.28⁎ 1.25–4.17
+24 months 3.91⁎ 2.04–7.50 2.63⁎ 1.37–5.05
+Emotional distress (ED)
+6 months 3.57⁎ 1.71–7.43 1.40 0.60–3.23
+12 months 5.18⁎ 2.3–11.67 2.38⁎ 1.12–5.04
+24 months 3.04⁎ 1.27–7.32 1.44 0.58–3.56
+Exercise (EX)
+Emotional distress (ED)
+6 months 3.56⁎ 1.34–9.43 1.62 0.60–4.31
+12 months 2.80⁎ 1.01–7.75 1.24 0.50–3.05
+24 months 2.56 0.869–7.57 2.61 0.85–7.98
+⁎Significant at pb0.05.
+S.S. Johnson et al. / Preventive Medicine 46 (2008) 238–246 243
+press) was employed: I=Σ# of behaviors(n) (En×Pn), where E is
+the efficacy for each behavior and P is the proportion of at risk
+individuals participating in the intervention for each behavior.
+With participation rates on a population basis approaching 80%,
+the P is 70.72% for healthy eating, 46.56% for exercise, and
+28.72% for managing emotional distress. The efficacy rates are
+47.5%, 44.9%, and 49.7%, respectively. Therefore, the population impact is 68.8%, which equals approximately 0.7 behaviors
+changed per person. Thus, this multiple behavior intervention
+had three times the behavior change impact of treating just
+smoking, where previous population-based single behavior
+interventions had impacts of approximately 20% (Prochaska
+et al., 2004). The population impact of 70% may, however,
+underestimate the true impact. This estimate fails to take into
+account “untreated” behaviors on which the intervention had an
+effect, such as fruit and vegetable consumption. Including that
+behavior increases the total impact to 95.1%.
+Discussion
+Individualized stage-matched, multiple behavior interventions
+had significant effects on progression to Action/Maintenance for
+healthy eating, exercise, managing emotional distress, and weight
+among those most at risk (i.e., those in pre-action) one year postintervention. This is the first study to demonstrate the effectiveness of multiple behavior change home-based interventions
+targeting all of the behaviors involved in weight management in
+an overweight and obese sample. An unexpected and previously
+undocumented finding was that the intervention also impacted
+untreated fruit and vegetable consumption, a key health behavior.
+Significant and increasingly large differences occurred in the
+percent losing at least 5% of body weight, a change associated
+with clinical improvement in health indicators (Van Gaal et al.,
+2005; Wing et al., 1987). These findings are unique in that this
+was not primarily a reactively recruited clinic-based sample who
+had to be ready to change in order to participate, as is often seen in
+other trials (DPP Group, 1999; Look AHEAD Research Group,
+2007a,b), and participants received a relatively minimal intervention in their homes.While weight loss achieved here is slightly
+lower than in some previous studies (e.g., Tate et al., 2001, 2003;
+Heshka et al., 2003), the present project recruited individuals in all
+pre-action stages and not only those prepared to change. More
+importantly, the weight loss curves, like the behavior change
+curves, were diverging a year post-intervention, which is atypical
+in the weight literature (Ware, 2003). This type of sustained
+behavior change or weight loss is rarely measured (e.g., Tate et al.,
+2003).
+The target behaviors demonstrated significant treatment
+effects in the first six months and beyond. Unlike many clinicbased, intensive programs that have immediate treatment effects
+that taper over time when the intervention is removed, the
+significant treatment effects of this intervention for weight did
+not occur until 24 months. These results reflect that weight loss
+is not a behavior but rather an outcome of multiple behavior
+changes and that those in earlier stages may take longer to
+progress to Action on those behaviors. From a health perspective, the goal should be to first produce significant changes
+in multiple behaviors, with weight loss following over time.
+This treatment strategy maximizes health benefits, since healthy
+eating and exercise produce many health benefits in addition to
+those related to weight loss (Van Gaal et al., 2005).
+The intervention evaluated in the present study produced
+high level impacts of 68.8% on multiple behavior changes. To
+interpret impact estimates, it is useful to think of percent impact
+as an estimate of the total number of behaviors changed per
+person. In population-based smoking interventions, for example, the average number of changes per person is 1/5 of a
+behavior (Velicer and Prochaska, 1999). In this study, the
+average number of behaviors changed per person is nearly 3/4.
+Thus, multiple behavior interventions have the potential to have
+more than three times the impact of similar single behavior
+interventions.
+Finally, this research has important implications for understanding co-variation of behavior change in multiple-behavior
+interventions. Few, if any, previous studies have documented
+the effect changing one behavior can have on the potential to
+change another. Receiving treatment produced odds ratios from
+2.52 to 5.18 that taking action on one behavior would lead to
+taking action on a second behavior. Notably, simply changing a
+behavior does not have the same effect as evidenced by smaller
+odds ratios (1.24 to 2.63) among those in the control group.
+Multiple behavior interventions tailored to TTM constructs may
+have a unique potential to create synergistic effects on behavior
+change.
+Limitations of the study
+Questions may be raised about why the control group did as
+well as they did, a finding that has emerged in other populationbased intervention studies (e.g., Johnson et al., 2006; Evers
+et al., 2006). A leading hypothesis is that individuals assigned to
+the control group received much more than “usual care.” They
+receive three of the 5 A's (ask, assess, and arrange follow-up)
+(Fiore et al., 2000) that are viewed as constituting essential
+components of effective counseling. This combination of A's is
+likely to include active change ingredients, which is supported
+by the fact that proactive comparison groups consistently
+show more change than would be expected by secular trends.
+Prochaska et al. (2005) found that comparison groups that
+received minimal (only stage or outcome assessments) and
+masked surveys (stage assessment on behaviors to mask the
+focus of the study) showed significantly less change than a
+proactive assessment group that received the full battery of
+TTM assessments.
+Lack of objective measures on the entire population may be
+considered a limitation, but the collection of objective measures
+on a subsample demonstrates that self-reported data were highly
+correlated with objectively measured values. The correlation of
+self-reported and objectively measured weight in this case was
+0.99. The accelerometer data were significantly related to the
+Godin, the behavioral indicator of physical activity used for the
+entire sample and fat intake as measured by the FFQ decreased
+significantly in those in Action and Maintenance for healthy
+eating (Johnson et al., 2007).
+244 S.S. Johnson et al. / Preventive Medicine 46 (2008) 238–246
+There is differential dropout by treatment group at followup. This is likely due to the additional intervention contacts for
+the treatment group at 3 and 9 months. Additional contacts
+typically result in 5% fewer retained participants per time
+points. If dropout rates at the 6 and 12 month time points are
+compared, excluding the 3 and 9 month dropouts, there are no
+significant differences between the treatment and control
+groups. Additionally, there is no significant difference on
+dropout at 24 months. MI allows missing data to be modeled in
+a sophisticated manner referred to by Schafer and Graham
+(2002) as state of the art. More traditional analyses (e.g.,
+Random Effects Modeling employing ITT where missing
+weight values were set equal to baseline weight) as
+recommended by Ware (2003) resulted in remarkably similar
+outcomes with regard to weight (a significant effect on weight
+loss at 24 months, F(2,615) = 4.06, pb.05, with a significant
+difference at 24 months, t(615) = 2.03, pb.05, d=.16, and
+differences on percent losing 5% or more that approached
+significance (e.g., among those in a pre-action stage for both
+healthy eating and exercise, F(2,615) = 2.78, p= .06, d=.14).
+In summary, this study demonstrates the ability of theoretically driven, TTM-based tailored expert system feedback for
+multiple behaviors to improve healthy eating, exercise, managing emotional distress, and weight on a population basis and
+underscores the potential synergistic effects of multiple behavior
+interventions. In the interest of cost-effectiveness and ease of
+dissemination, future research on home-based, multiple behavior
+interventions should include an examination of whether similar
+effects can be obtained using alternative delivery options (e.g., the
+Internet, hand-held devices) and whether optimally tailoring
+interventions to leverage possible co-variation of behavior change
+(i.e., providing complete expert system feedback for a single
+behavior and more minimal feedback for additional behaviors)
+can have similar effects. Finally, the limits on multiple behavior
+interventions need to be pushed: How many behaviors can we
+effectively intervene upon simultaneously?
+Acknowledgments
+This research was supported by Grant Number R44 HL070549
+from the National Heart, Lung, and Blood Institute.
+Financial disclosures: The authors affiliated with Pro-Change
+Behavior Systems, Inc. are employees of said company, which is
+currently licensing the programs described herein. Janice
+Prochaska, Ph.D. is the company's President and CEO.
+References
+Adams, K.A., Schatzkin, A., Harris, T., et al., 2006. Overweight, obesity, and
+mortality in a large prospective cohort of persons 51–70 years old. N. Engl.
+J. Med. 355 (8), 763–778.
+Blue, C.L., Black, D.R., 2005. Synthesis of intervention research to modify
+physical activity and dietary behaviors. Res. Theory Nurs. Pract. 19 (1),
+25–61.
+CDC, 2006. State-specific prevalence of obesity among adults—United States.
+MMWR 55 (36), 985–988.
+Cummins, C.O., Johnson, J.L., Mauriello, L.M., Paiva, A., Dyment, S., 2006.
+Empirical support for the application of the Transtheoretical Model to fruit
+and vegetable consumption among college students. Paper presented at the
+134th Annual Meeting of the American Public Health Association: Boston,
+MA.
+DPP Group, Diabetes Prevention Program Research Group, 1999. Design and
+methods for a clinical trial in the prevention of type 2 diabetes. Diabetes
+Care 22 (4), 623–634.
+Evers, K.E., Prochaska, J.O., Johnson, J.L., Mauriello, L.M., Padula, J.A.,
+Prochaska, J.M., 2006. A randomized clinical trial of a population- and
+Transtheoretical Model based stress management intervention. Health Psychol.
+25 (4), 521–529.
+Fiore, M., Bailey, W.C., Cohen, S.J., et al., 2000. Treating Tobacco Use and
+Dependence. USDHHS: Public Health Service.
+Flegal, K.M., Carroll, M.D., Ogden, C.L., Johnson, C.L., 2002. Prevalence and
+trends in obesity among US adults, 1999–2000. JAMA 288 (14), 1723–1727.
+Harel, O., Zhou, X.U., 2007. Multiple imputation: review of theory,
+implementation and software. Stat. Med. 26, 3057–3077.
+Heshka, S., Anderson, J., Atkinson, R., et al., 2003. Weight loss with self-help
+compared with a structured commercial program. JAMA 289 (14), 1792–1798.
+Glasgow, R.E., Goldstein, M.G., Ockene, J.K., Pronk, N.P., 2004. Translating
+what we have learned into practice: principles and hypotheses for
+interventions addressing multiple behaviors in primary care. Am. J. Prev.
+Med. 27 (2S), 88–101.
+Godin, G., Shepard, R.J., 1985. A simple method to assess exercise behavior in
+the community. Can. J. Appl. Sport Sci. 10, 141–146.
+Johnson, S.S., Driskell, M.M., Johnson, J., et al., 2006. Transtheoretical Model
+intervention for adherence to lipid-lowering drugs. Dis. Manag. 9 (2),
+102–114.
+Johnson, S.S., Paiva, A., Johnson, J., et al., 2007. Final Progress Report:
+Individualized Expert Systems for Weight Management, Grant Number R44
+HL070549. Pro-Change Behavior Systems, Inc., West Kingston, RI.
+Jones, H., Edwards, L., Vallis, T.M., et al., 2003. Changes in diabetes self-care
+behaviors make a difference in glycemic control: the diabetes stages of
+change (DISC) study. Diabetes Care 26 (3), 732–737.
+LaForge, R.G., Greene, G.W., Prochaska, J.O., 1994. Psychosocial factors
+influencing low fruit and vegetable consumption. J. Behav. Med. 17 (4),
+361–374.
+Look AHEAD Research Group, 2007a. The look AHEAD study: a description of the
+lifestyle intervention and the evidence supporting it. Obesity 14 (5), 737–752.
+Look AHEAD Research Group, 2007b. Reduction in weight and cardiovascular
+disease risk factors in individuals with type 2 diabetes. Diabetes Care 30 (6),
+1374–1383.
+Perri, M.G., 1998. The maintenance of treatment effects in the long term
+management of obesity. Clin. Psychol. Sci. Prac. 5, 526–543.
+Prochaska, J.J., Prochaska, J.M., in press. Multiple risk behavior change: what
+most individuals need. Handbook of Health Behavior Change, Third edition.
+Springer Publishing.
+Prochaska, J.O., Redding, C.A., Evers, K., 2002. The Transtheoretical Model
+and stages of change, In: Glanz, K., Rimer, B.K., Lewis, F.M (Eds.), Health
+Behavior and Health Education: Theory, Research, and Practice, 3rd ed.
+Jossey-Bass, Inc., San Francisco, CA.
+Prochaska, J.O., Velicer, W.F., Rossi, J.S., Redding, C.A., Greene, G., Rossi, S.R.,
+Sun, X., Fava, J.L, Laforge, R., Plummer, B., 2004. Multiple risk expert system
+interventions: impact of simultaneous stage-matched expert system interventions for smoking, high-fat diet, and sun exposure in a population of parents.
+Health Psychol. 23 (5), 503–516.
+Prochaska, J.O., Velicer, W.F., Redding, C.A., et al., 2005. Stage-based expert
+systems to guide a population of primary care patients to quit smoking, eat
+healthier, prevent skin cancer and receive regular mammograms. Prev. Med.
+41, 406–416.
+Riebe, D., Greene, G., Ruggiero, L., Stillwell, K.M., Blissmer, B., Nigg, C.R.,
+Caldwell, M., 2003. Evaluation of a healthy-lifestyle approach to weight
+management. Prev. Med. 36, 45–54.
+Riebe, D., Blissmer, B., Greene, G., Caldwell, M., Ruggiero, L., Stillwell, K.M.,
+Nigg, C.R., 2005. Long-term maintenance of exercise and healthy eating
+behaviors in overweight adults. Prev. Med. 40, 769–778.
+Rubin, D.B., 1987. Multiple Imputation for Nonresponse in Surveys. John
+Wiley & Sons Inc., New York.
+Sarkin, J.A., Johnson, S.S., Prochaska, J.O., Prochaska, J.M., 2001. Applying
+S.S. Johnson et al. / Preventive Medicine 46 (2008) 238–246 245
+the Transtheoretical Model to regular moderate exercise in an overweight
+population: validation of a stages of change measure. Prev. Med. 33,
+462–469.
+Schafer, J.L., Graham, J.W., 2002. Missing data: our view of the state of the art.
+Psychol. methods 7 (2), 147–177.
+Sherwood, N.E., Morton, N., Jeffrey, R.W., French, S.A., Neumark-Sztainer, D.,
+Falkner, N.H., 1998. Consumer preferences in format and type of communitybased weight control programs. Am. J. Health Promot. 13, 12–18.
+Tate, D.F., Wing, R.R., Winett, R.A., 2001. Using Internet technology to deliver
+a behavioral weight loss program. JAMA 285 (9), 1172–1177.
+Tate, D.F., Jackvony, E.H., Wing, R.R., 2003. Effects of an Internet behavioral
+counseling on weight loss in adults at risk for type 2 diabetes. JAMA 289
+(14), 1833–1836.
+United States Department of Health and Human Services, 2005. Dietary Guidelines
+for Americans. Retrieved March 22, 2007 from www.healthierus.gov/
+dietaryguidelines.
+Van Buuren, S., Oudshoorn, C.G.M, 2004. Multivariate Imputation by
+Chained Equations, V1.1.0 for R. http://web.inter.nl.net/users/S.van.
+Buuren/mi/hmtl/mice.htm. Retrieved February 25, 2004 Ref Type: Electronic Citation.
+Van Gaal, L.F., Mertens, I.L., Ballaux, D., 2005. What is the relationship
+between risk factor reduction and degree of weight loss? Eur. Heart J.
+Suppl. 7, L21–L26.
+Velicer, W.F., Prochaska, J.O., 1999. An expert system intervention for smoking
+cessation. Patient Educ. Couns. 36, 119–129.
+Ware, J.H., 2003. Interpreting incomplete data in studies of diet and weight loss.
+N. Engl. J. Med. 348 (21), 2136–2137.
+Wing, R.R., Koeske, R., Epstein, L.H., Norwalk, M.P., Gooding, W., Becker, D.,
+1987. Long-term effects of modest weight loss in type 2 diabetic patients.
+Arch. Intern. Med. 147 (10), 1749–1753.
+Zeger, S.L., Liang, K.L., 1986. Longitudinal data analysis for discrete and
+continuous outcomes. Biometrics 42, 121–130.
+246 S.S. Johnson et al. / Preventive Medicine 46 (2008) 238–246

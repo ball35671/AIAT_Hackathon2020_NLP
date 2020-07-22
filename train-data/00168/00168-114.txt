@@ -1,0 +1,474 @@
+Vaccine 32 (2014) 1254–1258
+Contents lists available at ScienceDirect
+Vaccine
+jou rn al h om epage: www.elsevier.com/locate/vaccine
+Pandemic A/H1N1 influenza vaccination during pregnancy:
+A comparative study using the EFEMERIS database
+A.B. Beaua,∗, C. Hurault-Delaruea, S. Vidal b, C. Guitardc, C. Vayssière d, D. Petiot e,
+J.L. Montastruc a, C. Damase-Michel a, I. Lacroixa
+a Service de Pharmacologie Médicale, CHU Toulouse, Université de Toulouse, Inserm 1027, Toulouse, France b Caisse Primaire d’Assurance Maladie de la Haute-Garonne, CPAM, Toulouse, France c Service de Protection Maternelle et Infantile, Conseil Général de la Haute-Garonne, Toulouse, France d Centre de Diagnostic Anténatal, CDA, CHU Toulouse, Toulouse, France e Programme de Médicalisation des Systèmes d’Information; PMSI, CHU Toulouse, Toulouse, France
+a r t i c l e i n f o
+Article history:
+Received 16 July 2013
+Received in revised form
+17 December 2013
+Accepted 14 January 2014
+Available online 28 January 2014
+Keywords:
+Vaccination
+Influenza A(H1N1)
+Pregnancy
+EFEMERIS
+Adverse fetal outcomes
+a b s t r a c t
+Objective: To evaluate the risk of adverse pregnancy outcomes following A/H1N1 vaccination in pregnant
+women.
+Methods: This observational cohort study compared vaccinated and non-vaccinated pregnant women in
+EFEMERIS, a French prescription database including pregnant women. Women who ended their pregnancy in South Western France between October 21, 2009 and November 30, 2010 (the period of the
+French vaccination campaign) were included. Two non-vaccinated women were individually matched to
+each vaccinated woman by month and year of pregnancy onset. Conditional logistic regression and Cox
+proportional hazards regression were used to evaluate associations between each outcome (all-cause
+pregnancy loss, preterm delivery, small for gestational age (SGA) and neonatal pathology) and A/H1N1
+vaccination during pregnancy.
+Results: 1645 women of the 12,120 (13.6%) in the database who were administered A/H1N1 vaccine
+during pregnancy were compared to 3290 non-vaccinated women. Most were vaccinated in December
+2009 (61%) with a non-adjuvanted vaccine (93%). The risks of pregnancy loss (adjusted HR = 0.56; 95%
+CI = 0.31–1.01), of preterm birth (adjusted HR = 0.82; 95% CI = 0.64–1.06), and of neonatal pathology
+(adjusted OR = 0.70; 95% CI = 0.49–1.02) did not differ between the vaccinated and the non-vaccinated
+groups. The rate of SGA was lower in the vaccinated group than in the non-vaccinated group (0.5% vs.
+1.4%; adjusted OR = 0.36; 95% CI = 0.17–0.78).
+Conclusion: There was no significant association between adverse pregnancy outcomes and vaccination
+with a non-adjuvanted A/H1N1 vaccine during pregnancy.
+© 2014 Elsevier Ltd. All rights reserved.
+1. Introduction
+During the A/H1N1 pandemic of 2009–2010, pregnant women
+were at increased risk of severe illness, hospitalization, and complications, especially during the second and third trimesters [1–5].
+The World Health Organization (WHO) and Centers for Disease
+Control and Prevention (CDC) initiated a worldwide vaccination
+campaign in 2009 for populations most at risk of severe illness with
+the aim of minimizing the impact and spread of the A(H1N1)v09
+strain. Pregnant women were one of the main groups prioritized by
+the vaccination campaign [6]. Thus, during the A/H1N1 influenza
+outbreak in 2009, French health authority guidelines were to
+∗ Corresponding author. Tel.: +33 561145905.
+E-mail address: beau.a@chu-toulouse.fr (A.B. Beau).
+vaccinate all pregnant women with a non-adjuvanted vaccine
+during the second and third trimesters [7].
+The French vaccination campaign started on October 21, 2009.
+Vaccination was offered free of charge at vaccination centers,
+first to health care workers and those in various risk groups,
+and then to the entire population. A two-dose vaccination was
+planned but from the end of November 2009 just one dose was
+administered to most individuals. Five vaccines were available in
+France: the non-adjuvanted Panenza◦ (Sanofi Pasteur), the AS03-
+adjuvanted Pandemrix◦ (GlaxoSmithKline), the non-adjuvanted
+Celvapan◦ (Baxter), the MF59-adjuvanted Focetria◦ (Novartis
+Vaccines and Diagnostics) and the AF03-adjuvanted Humenza◦
+(Sanofi Pasteur).
+The French National Health Insurance Fund for SalariedWorkers
+(Caisse National de l’Assurance Maladie des Travailleurs Salariés;
+CNAMTS) centralized and recorded all vaccination data in order
+to manage and to monitor the campaign. During the A/H1N1
+0264-410X/$ – see front matter © 2014 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.vaccine.2014.01.021
+A.B. Beau et al. / Vaccine 32 (2014) 1254–1258 1255
+pandemic, vaccinationcenters were required to reportA/H1N1 vaccinations to the CNAMTS; consequently, the vaccination data are
+considered to be close to complete.
+Because of the emergency nature of the A/H1N1 vaccine production and of the vaccination centers used for this particular
+vaccination campaign, there was some mistrust in the general population about safety. Indeed, there was a lack of vaccination safety
+data. This led to a low rate of vaccination in general population and
+an even lower rate among pregnant women, despite the risks of
+influenza being well known for this subpopulation.
+Recent retrospective comparative studies, conducted after the
+A/H1N1 pandemic, have provided reassuring findings aboutthe use
+of A/H1N1 vaccines for pregnant woman. No increased risk of fetal
+death, adverse fetal outcomes or birth defects have been reported
+[8–19]. A small number of non-comparative studies have investigated the potential effects of a non-adjuvanted vaccine [20–22].
+The only comparative study was by Opperman et al. [23] including
+323 women exposed to a non-adjuvanted vaccine. Their findings
+did not indicate any increased risk of spontaneous abortion, major
+malformation or preterm birth.
+This first French retrolective comparative study was designed
+to evaluate the potential adverse effects of A/H1N1 vaccination,
+mainly with a non-adjuvanted vaccine, during pregnancy in France.
+2. Materials and methods
+This observational cohort study evaluated adverse pregnancy
+outcomes for pregnant women exposed or not exposed to an
+A/H1N1 vaccine. The study was based on EFEMERIS, a French prescription database including pregnant women, and on the CNAMTS
+vaccination database.
+2.1. Data collection
+EFEMERIS is a French database of prescriptions in the general
+population constructed to evaluate risks associated with drugs duringpregnancy. Data are fromfourdifferent sources. First,the French
+Health Insurance System (Caisse Primaire d’Assurance Maladie;
+CPAM) of Haute-Garonne (South Western France) records all the
+reimbursed drugs (name, ATC code, date of dispensation) that are
+prescribed and dispensed to patients under general state coverage.
+All drugs are classified according to the World Health Organization’s Anatomical Therapeutic Chemical classification [24]. Second,
+the Mother and Child Protection Center (Protection Maternelle
+et Infantile; PMI) records data from children’s certificates filled
+out during the compulsory medical examinations at ages 8 days,
+9 months and 2 years. These health certificates contain data
+about the health of both mother (maternal characteristics, some
+pathologies during pregnancy) and child (weight, size, APGAR
+score, neonatal pathologies, psychomotor development, congenital malformations). Third, the Antenatal Diagnosis Center (Centre
+de Diagnostic Anténatal; CDA) centralizes data corresponding to
+all the occurrences of major and minor malformations in the
+maternities of the region where therapeutic termination has been
+considered (cause and date of termination). Four, the French hospital medical information system (Programme de médicalisation des
+systèmes d’information; PMSI) provides the nature and date of termination (legal termination, stillbirth, and spontaneous abortion)
+from Toulouse university hospital center. The date of the start of
+pregnancy is transmitted by the CPAM. The date of birth is provided by the CPAM, CDA and PMSI. The mother and the outcome
+of her pregnancy (live birth or pregnancy loss) are linked with an
+anonymous irreversible identifier. More details about the design
+and features of EFEMERIS are presented elsewhere [25].
+Vaccination data (name of vaccine and date of vaccination) were
+recorded in the CNAMTS database rather than the CPAM database.
+Vaccination data were made anonymous using the same procedure as that used by CPAM, CDA, PMI and PMSI, and linked with
+the anonymous irreversible identifier to the EFEMERIS database to
+document the vaccination status of all pregnant women included
+in EFEMERIS. The French data protection agency (Commission
+Nationale des Informations et Libertés; CNIL) and the French institute on health data (Institut des données de santé; IDS) gave ethical
+approval for this specific study.
+2.2. Participants
+At the time of the study, 58,171 mother-outcome pairs with
+women who delivered in Haute-Garonne between July 1, 2004 and
+December 31, 2010 were recorded in EFEMERIS.
+A/H1N1 vaccination status for all the women in EFEMERIS
+cohort was provided by the CNAMTS with the name of the vaccine
+administered and the date of vaccination.
+Our study cohort was restricted to pregnancies ending between
+October 21, 2009 (the start of the vaccination campaign) and
+November 30, 2010 (9 months after the vaccination centers had
+closed), and that had started before January, 31 2010. For each
+mother-outcome pair exposed to A/H1N1 vaccine during pregnancy two mother-outcome pairs were randomly selected from
+among individuals in the study population who did not receive
+A/H1N1 vaccine during pregnancy but who were matched for
+month and year of the start of pregnancy. For the women who
+received more than one dose of vaccine, exposure was defined as
+the time of the first dose.
+2.3. Outcome measurements
+The main outcomes studied were all-cause pregnancy loss,
+preterm delivery, small size for gestational age (SGA) and neonatal
+pathology.
+All-cause pregnancy loss was defined as any loss occurring during pregnancy (legal and therapeutic termination, spontaneous
+abortion, stillbirth and ectopic pregnancy). A birth before 259 days
+of amenorrhea (37 completed weeks) was defined as a preterm
+delivery [26]. SGA was defined as any singleton with a birth weight
+< 2 standard deviations (SD) from the French reference weight
+mean, adjusted for gestational age and sex [27]. Neonatal pathologies (for example respiratory distress, pneumothorax, neonatal
+jaundice, metabolic disorders, or sepsis) were identified from the
+children’s health certificates established on the 8th day, as recorded
+by the physician during medical consultation; these records provided little detail about the conditions.
+2.4. Potential confounders
+Maternal characteristics considered to be time-constant potential confounders were maternal age (<25 years, 25–29 years,
+30–34 years, >=35 years), multiple births, presence of a longterm adverse health condition, preeclampsia, gestational diabetes,
+pregnancy-induced hypertension, number of different active substances prescribed during pregnancy, folic acid supplements
+during organogenesis, the use of teratogens during organogenesis
+(retinoids, antiepileptics, and antivitamin K), the use of neuraminidase inhibitors, and seasonal flu vaccination.
+2.5. Statistical analysis
+Continuous variables are expressed as means (±SD), and
+categorical variables as percentages. Quantitative variables or proportions were compared between the two groups (vaccinated and
+1256 A.B. Beau et al. / Vaccine 32 (2014) 1254–1258
+unexposed) using simple conditional logistic regression. When
+exposure was restricted to a shorter period than the whole pregnancy, percentages or proportions were calculated only for the
+completed matched-pairs.
+To evaluate the association between A/H1N1 vaccination and
+all-cause pregnancy loss and preterm delivery, Cox proportional
+hazards regressions were used. Survival analyses were used with
+time-dependent variable to take into account the time-dependent
+nature of exposure [28,29]. Cox proportional hazards regression
+was applied to estimate hazard ratios (HRs) with 95% confidence
+intervals (CIs), comparing the hazard rates of all-cause pregnancy
+loss and preterm delivery between vaccinated and unexposed
+women. Vaccination was treated as a binary time-dependent variable: a woman was considered “vaccinated” from the day of
+vaccination until delivery but “unexposed” prior to the vaccination
+or if she did not receive any dose of any A/H1N1 vaccine during
+pregnancy. The time metric used was gestational days. Analysis of
+the risk of preterm delivery was restricted to vaccination before 37
+completed weeks of amenorrhea.
+The associations between A/H1N1 vaccination and each of SGA
+and neonatal pathology were studied for live births, by conditional
+logistic regression analysis based on calculating unadjusted odds
+ratios (ORs), along with 95% CIs. All variables were considered as
+constant-time variables. For rare outcomes, exact conditional logistic regression was used. Analysis of the risk of neonatal pathology
+was also restricted to exposure during the third trimester of pregnancy.
+We identified confounders, using simple Cox proportional hazards regression or simple conditional logistic regression to evaluate
+the association between each potential confounder and each outcome. Only the variables meeting the Greenland entry criteria
+(P < 0.20) and that were clinically significant were selected for
+inclusion in the multivariable model [30]. Subsequently, we used
+conditional forward stepwise regression to calculate adjusted HRs
+or adjusted ORs, and their 95% CIs.
+Cases with missing data for any of the covariates were excluded
+from the multivariable analyses. All statistical tests were 2-tailed
+with P < 0.05 considered to indicate statistical significance. All analyses were performed using SAS version 9.2 (SAS Institute, Cary,
+NC).
+3. Results
+In the EFEMERIS cohort, 12,120 pregnancies ended between
+October 21, 2009 and November 30, 2010 and had started before
+January 31, 2010. A total of 1645 (13.6%) of these women were
+vaccinated with an A/H1N1 vaccine during pregnancy. These 1645
+vaccinated women were compared to 3290 unexposed women.
+Fifty-one per cent ofthem received two doses of vaccine. Thirty-five
+per cent received the first dose in November 2009, 61% in December
+2009 and 3%inJanuary 2010. Thenon-adjuvanted Panenza◦ was the
+vaccine dispensed to most of these pregnant women (93%). Eight
+per cent of the vaccinations were during the first trimester, 52%
+during the second and 40% during the third. Only 46 (3%) women
+were exposed to an A/H1N1 vaccine during organogenesis.
+Selected maternal characteristics, morbidities and drug use
+for A/H1N1 vaccinated and unexposed women are presented in
+Table 1. Women in the vaccinated group were less likely to be
+employees (48.9% vs. 63.7%) and more likely to have a high-level
+occupation (35.5% vs. 19.5%) than women in the unexposed group.
+There was no difference between A/H1N1 vaccinated women and
+unexposed women for obstetrical complications of pregnancy.
+Folic acid supplements were significantly more prescribed during
+organogenesis to the women of the A/H1N1 vaccinated group
+than unexposed group (27.4% vs. 18.5%; P < 0.0001). There was no
+difference between the two groups concerning the prescription
+of the neuraminidase inhibitors oseltamivir or zanamivir during
+pregnancy, and no difference for the prescription of a seasonal
+influenza vaccine during pregnancy.
+There was no significant difference for all-cause pregnancy
+loss between A/H1N1 vaccinated women and unexposed women
+(adjusted HR = 0.56, 95% CI = 0.31–1.01) (Table 2).
+There was no significant association between preterm delivery
+(adjusted HR = 0.82, 95% CI = 0.64–1.06) and A/H1N1 vaccination
+during pregnancy (Table 2), even if only singleton births were
+included in the analysis (adjusted HR = 0.93, 95% CI = 0.70–1.25).
+There was no significant difference for neonatal pathology between
+A/H1N1 vaccinated women and unexposed women (adjusted
+OR = 0.70, 95% CI = 0.49–1.02). This was also true for exposure only
+during the third trimester of pregnancy (Table 2).
+The proportion of infants born SGA was significantly smaller in
+the A/H1N1 vaccinated group than in the unexposed group (0.5%
+vs. 1.4%, OR = 0.36, 95% CI = 0.17–0.78) (Table 2).
+4. Discussion
+This study did not find any significant association between
+all-cause pregnancy termination, preterm delivery, or neonatal
+pathology andA/H1N1 vaccinationduringpregnancy.However,the
+rate of SGA was lower among A/H1N1 vaccinated than unexposed
+women.
+4.1. Comparison with other studies
+No A/H1N1 vaccine has been tested in an animal reproductive
+model [31]. Nevertheless, some clinical studies have investigated
+the potential adverse effects of A/H1N1 vaccination on the fetus
+and on newborn health. Pasternak et al. [8] conducted a study with
+330 women vaccinated with an AS03-adjuvanted A/H1N1 vaccine
+during the first trimester and about 6500 vaccinated during the
+second or third trimester. They found no increased risk of birth
+defects, preterm birth or SGA. Similarly, another large study in
+Sweden with 18,612 AS03-adjuvanted A/H1N1 vaccinated women
+led to the same conclusions; indeed, it even indicated lower rates
+of stillbirth, preterm birth and low birth weight among the vaccinated women [9]. In Germany, Oppermann et al. [23] studied the
+effect of A/H1N1 vaccination (mostly a non-adjuvanted vaccine)
+during pregnancy. They found no difference for the risk of spontaneous abortion, major malformation or preterm birth between
+323 vaccinated and 1329 non-vaccinated women. There have also
+been descriptive studies of the use of the non-adjuvanted A/H1N1
+vaccine during pregnancy in France. Omon et al. [20] described
+pregnancy outcomes among 569 women vaccinated with a nonadjuvanted influenza vaccine in South Western France. Similarly,
+the PREGVAXGRIP study [21] described pregnancy outcomes in a
+cohort of 2415 French pregnant women receiving a non-adjuvanted
+A/H1N1 vaccine. Neither descriptive study found any evidence
+for concern about potential adverse effects of A/H1N1 vaccination on pregnancy outcomes. The results of our comparative study
+reported here provide reassurance about the safety of using of a
+non-adjuvanted A/H1N1 vaccine during pregnancy.
+4.2. Strengths and limitations
+We present one of the first comparative studies on exposure to
+a non-adjuvanted A/H1N1 vaccine during pregnancy. The methodological strengths of the EFEMERIS database are substantial, and
+include the data being linked at the individual level. Information
+about the outcomes and medications are registered prospectively
+such that the possibility of recall bias is limited. The data contain
+A.B. Beau et al. / Vaccine 32 (2014) 1254–1258 1257
+Table 1
+Maternal characteristics, comorbidities and drug use for women vaccinated for A/H1N1 during pregnancy and matched non-vaccinated pregnant women in the EFEMERIS
+cohort (France; 2009–2010).
+Characteristics Vaccinated Non-vaccinateda P
+(n = 1645) (n = 3290)
+Maternal age at delivery in five categories <0.0001
+<25 years 116 (7.1%) 696 (21.2%)
+25–29 years 451 (27.4%) 912 (27.7%)
+30–34 years 675 (41.0%) 1018 (30.9%)
+>=35 years 403 (24.5%) 664 (20.2%)
+Maternal occupation <0.0001
+Employee 713/1458 (48.9%) 1442/2263 (63.7%)
+Mid-level occupation 179/1458 (12.3%) 305/2263 (13.5%)
+High-level occupation 517/1458 (35.5%) 442/2263 (19.5%)
+Other 49/1458 (3.4%) 74/2263 (3.3%)
+Multiple pregnancy 56/1633 (3.4%) 77/3152 (2.4%) 0.04
+Long-term adverse health condition 34 (2.1%) 81 (2.5%) 0.39
+Pre-eclampsia 12/1577 (0.8%) 23/3022 (0.8%) 0.95
+Gestational diabetes 49/1577 (3.1%) 114/3022 (3.8%) 0.15
+Hypertension 14/1577 (0.9%) 37/3022 (1.2%) 0.30
+Number of different active substances prescribedb 9.9 ± 6.2 10.0 ± 6.7 0.49
+Folic acid supplements during organogenesis 450 (27.4%) 607 (18.5%) <0.0001
+Antiepileptic use during organogenesis 4 (0.2%) 21 (0.6%) 0.08
+Retinoid use during organogenesis 2 (0.1%) 5 (0.2%) 0.79
+Teratogen substance use during organogenesisc 6 (0.4%) 27 (0.8%) 0.07
+Neuraminidase inhibitor use 3 (0.2%) 8 (0.2%) 0.67
+Seasonal flu vaccination 11 (0.7%) 15 (0.5%) 0.34
+Data are reported as n (%). Mean ± standard deviation.
+a Matched to vaccinated women according to month and year of the start of pregnancy. b Received during pregnancy. A/H1N1 vaccination excluded. c Including retinoids, antiepileptics, and antivitamin K.
+dates of start and end of pregnancy. Furthermore, for 73% of the
+infants, data from the follow-up at age nine months were available.
+Nevertheless, our study suffers some methodological insufficiencies, particularly as a consequence of its pharmacoepidemiological nature. Some other, unmeasured, confounders may have
+influenced the results despite our multivariable analysis. For example, potential confounders such as medical and obstetric histories,
+or pre-existing maternal pathologies, could not be evaluated. Data
+on smoking habits and alcohol consumption were available in children’s health certificates, butmay not be reliable, as is often the case
+in such studies. We were not able to adjust for influenza infection
+becausediagnoses ofinfluenza werenot available.Nevertheless, we
+could adjust for the prescription of an antiviral drug during pregnancy. We also had information about seasonal flu vaccination, but
+only 26 women were vaccinated; we chose to treat this confounder
+as a time constant-variable.
+The women’s occupation appeared to be significantly different
+between the two groups, and suggested a higher socioeconomicstatus for the vaccinated than non-vaccinated women. COFLUPREG,
+a French prospective study conducted in three tertiary maternity
+centers in Paris during the A/H1N1 pandemic, reported a similar
+finding [32]: about 63% of the pregnant women did not receive the
+A/H1N1 vaccine and the rate of vaccination was even lower among
+pregnant women with low socio-economic status. Due to missing
+data for occupation (25%) the variable was not introduced into any
+final multivariable model. Nevertheless, analysis using only the
+completed data did not result in any difference in the estimates
+(data not shown).
+A greater proportion of the vaccinated women than the
+non-vaccinated women received folic acid supplements during
+organogenesis. This may have reflected a difference in pregnancy
+monitoring between the two groups of women. Thus, the association between a lower rate of babies born SGA and A/H1N1
+vaccination during pregnancy might reflect of a difference of
+socioeconomic status between the two groups. This apparent positive effect of A/H1N1 vaccination on SGA may also have been
+secondary to a possible lower rate of maternal influenza infection
+in women who were vaccinated.
+The number of women vaccinated against A/H1N1 during
+organogenesis was small (n = 46), due to the French vaccination
+recommendations. Thus, it was not possible to assess the potential
+effects of such vaccination on congenital malformation.
+Table 2
+Association between A/H1N1 vaccination during pregnancy and pregnancy outcomes in the EFEMERIS cohort (France; 2009–2010).
+Outcomes Vaccinated (n = 1645) Non-vaccinated (n = 3290) Measure of association (95% CI)a
+No. with outcome/total no. (%) Crude Adjusted
+All-cause pregnancy lossb 13/1645 (0.8%) 159/3290 (4.8%) 0.59 (0.33–1.04) 0.56 (0.31–1.01)
+Preterm deliveryc 93/1522 (6.1%) 216/2890 (7.0%) 1.02 (0.80–1.30) 0.82 (0.64–1.06)
+Small for gestational aged 8/1501 (0.5%) 41/2885 (1.4%) 0.36 (0.17–0.78) 0.36 (0.17–0.78)
+Neonatal pathologye 68/1632 (4.2%) 189/3131 (6.0%) 0.68 (0.51–0.90) 0.70 (0.49–1.02)
+Neonatal pathology (third trimester exposure)e 22/662 (3.3%) 79/1301 (6.1%) 0.54 (0.33–0.87) 0.80 (0.45–1.44)
+a For pregnancy loss and preterm delivery outcomes, the reported measures of association are hazard ratios; for all other outcomes, the measures of association are odds
+ratios.
+b Adjusted for maternal age at delivery, exposure to folic acid and teratogens during organogenesis, and seasonal flu vaccination. c Adjusted for multiple births, preeclampsia and seasonal flu vaccination. d Only for singleton births, adjusted by definition by gestational age at delivery and infant sex. e Adjusted for preterm births.
+1258 A.B. Beau et al. / Vaccine 32 (2014) 1254–1258
+This study was powered to exclude only a minimum of a 1.45-
+fold increase in risk of all-cause pregnancy loss, a 1.40-fold increase
+in risk of neonatal pathology and preterm birth, and a 1.95-fold
+increase in risk of SGA. Due to the matching by month and year of
+the start of pregnancy, it was not possible to include more unexposed women per vaccinated woman and thus not possible to
+increase the study power.
+5. Conclusion
+The A/H1N1 vaccination rate among pregnant women in our
+region of France was relatively low (13.6%), probably because of
+concerns about the safety of the vaccines; this value is nevertheless similar to those in other European countries [8,33]. Our
+comparative study did not find any significant association between
+the risk of all-cause pregnancy termination, preterm delivery or
+neonatal pathology and non-adjuvanted A/H1N1 vaccination during pregnancy. These results confirm previous findings and provide
+reassurance about the safety of using a non-adjuvanted A/H1N1
+vaccine during pregnancy.
+Funding
+The EFEMERIS database was funded by the Agence Nationale
+de Sécurité du Médicament et des produits de santé (ANSM),
+the CNAMTS, the Mutuelle Générale de l’Education Nationale,
+the Clinical Research Hospital Program (PHRC) and the Unions
+régionales des Caisses d’Assurance Maladie. Additional funding
+has been received from the ANSM for the influenza medication
+study.
+Conflict of interest statement
+None.
+Acknowledgments
+We are grateful to the Caisse National de l’Assurance Maladie
+des Travailleurs Salariés (CNAMTS) for vaccination data collection.
+References
+[1] Mosby LG, Rasmussen SA, Jamieson DJ. 2009 pandemic influenza A (H1N1)
+in pregnancy: a systematic review of the literature. Am J Obstet Gynecol
+2011;205(1):10–8.
+[2] Louie JK, Acosta M, Jamieson DJ, Honein MA. Severe 2009 H1N1
+influenza in pregnant and postpartum women in California. N Engl J Med
+2010;362(1):27–35.
+[3] Schanzer DL, Langley JM, Tam TWS. Influenza-attributed hospitalization
+rates among pregnant women in Canada 1994–2000. J Obstet Gynaecol Can
+2007;29(8):622–9.
+[4] Jamieson DJ, Honein MA, Rasmussen SA, Williams JL, Swerdlow DL, Biggerstaff
+MS. H1N1 2009 influenza virus infection during pregnancy in the USA. Lancet
+2009;374(9688):451–8.
+[5] Martin A, Cox S, Jamieson DJ, Whiteman MK, Kulkarni A, Tepper NK. Respiratory Illness Hospitalizations Among PregnantWomen During Influenza Season,
+1998-2008. Matern Child Health J 2013;17(7):1325–31.
+[6] Centers for Disease Control and Prevention. CDC advisors make recommendations for use of vaccine against novel H1N1 [Internet]; 2009. Available from:
+http://www.cdc.gov/media/pressrel/2009/r090729b.htm.
+[7] Haut Comité de la Santé Publique. Recommandations sur les priorités sanitaires d’utilisation des vaccins pandémiques dirigés contre le virus grippal
+A (H1N1)v; 2009 [Internet] Available from: http://www.hcsp.fr/docspdf/
+avisrapports/hcspa20090907 H1N1.pdf.
+[8] Pasternak BSH. Risk of adverse fetal outcomes following administration of a pandemic influenza a(h1n1) vaccine during pregnancy. JAMA
+2012;308(2):165–74.
+[9] Källén B, Olausson P. Vaccination against H1N1 influenza with Pandemrix®
+during pregnancy and delivery outcome: a Swedish register study. BJOG: An
+Int J Obstet Gynaecol 2012;119(13):1583–90.
+[10] Pasternak B, Svanstrom H, Molgaard-Nielsen D, Krause TG, Emborg H-D,
+Melbye M, et al. Vaccination against pandemic A/H1N1 2009 influenza in pregnancy and risk of fetal death: cohort study in Denmark. BMJ 2012;344(may02
+1):e2794.
+[11] Håberg SE, Trogstad L, Gunnes N, Wilcox AJ, Gjessing HK, Samuelsen SO, et al.
+Risk of fetal death after pandemic influenza virus infection or vaccination. N
+Engl J Med 2013;368(4):333–40.
+[12] Heikkinen T, Young J, van Beek E, Franke H, Verstraeten T, Weil JG, et al. Safety
+of MF59-adjuvanted A/H1N1 influenza vaccine in pregnancy: a comparative
+cohort study. Am J Obstet Gynecol 2012;207(3):177.e1–8.
+[13] Fell DB, Sprague AE, Liu N, Yasseen AS, Wen S-W, Smith G, et al. H1N1 influenza
+vaccination during pregnancy and fetal and neonatal outcomes. Am J Public
+Health 2012;102(6):e33–40.
+[14] Sammon CJ, Snowball J, McGroganA, deVries CS. Evaluating the hazard offoetal
+death following H1N1 influenza vaccination; a population based Cohort Study
+in the UK GPRD. PLoS One 2012;7(12):e51734.
+[15] Rubinstein F, Micone P, Bonotti A, Wainer V, Schwarcz A, Augustovski F, et al.
+Influenza A/H1N1 MF59 adjuvanted vaccine in pregnant women and adverse
+perinatal outcomes: multicentre study. BMJ 2013;346(feb04 1), f393-f393.
+[16] Richards JL, Hansen C, Bredfeldt C, Bednarczyk RA, Steinhoff MC, AdjayeGbewonyo D, et al. Neonatal outcomes after antenatal influenza immunization
+during the 2009 H1N1 influenza pandemic: impact on preterm birth, birth
+weight, and small for gestational age birth. Clin Infect Dis 2013;56(9):1216–22.
+[17] Cantu J, Biggio J, Jauk V, Wetta L, Andrews W, Tita A. Selective uptake of
+influenza vaccine and pregnancy outcomes. J Matern Fetal Neonatal Med 2013.
+[18] Conlin AMS, Bukowinski AT, Sevick CJ, DeScisciolo C, Crum-Cianflone NF. Safety
+of the pandemic H1N1 influenza vaccine among pregnant U.S. military women
+and their newborns. Obstet Gynecol 2013;121(3):511–8.
+[19] Ludvigsson JF, Zugna D, Cnattingius S, Richiardi L, Ekbom A, Örtqvist Å, et al.
+Influenza H1N1 vaccination and adverse pregnancy outcome. Eur J Epidemiol
+2013;28(7):579–88.
+[20] Omon E, Damase-Michel C, Hurault-Delarue C, Lacroix I, Montastruc JL,
+Oustric S, et al. Non-adjuvanted 2009 influenza A (H1N1)v vaccine in pregnant women: the results of a French prospective descriptive study. Vaccine
+2011;29(52):9649–54.
+[21] Chavant F, Ingrand I, Jonville-Bera AP, Plazanet C, Gras-Champel V, Lagarce
+L, et al. The PREGVAXGRIP Study: a Cohort Study to assess foetal and neonatal consequences of in utero exposure to vaccination against A(H1N1)v2009
+influenza. Drug Saf 2013;36(6):455–65.
+[22] Lacroix I, Damase-Michel C, Kreft-Jais C, Castot A, Montastruc JL. 2009 H1N1
+influenza vaccines in pregnant women: the French pharmacovigilance survey.
+Vaccine 2011;29(7):1357–8.
+[23] Oppermann M, Fritzsche J, Weber-Schoendorfer C, Keller-Stanislawski B, Allignol A, Meister R, et al. A(H1N1)v2009: a controlled observational prospective
+cohort study on vaccine safety in pregnancy. Vaccine 2012;30(30):4445–52.
+[24] The Anatomical Therapeutic Chemical (ATC) classification 2011.
+(http://www.whocc.no/).
+[25] Lacroix I, Hurault C, Sarramon M, Guitard C, BerrebiA, Grau M, et al. Prescription
+of drugs during pregnancy: a study using EFEMERIS, the new French database.
+Eur J Clin Pharmacol 2009;65(8):839–46.
+[26] Beck S, Wojdyla D, Say L, Betran AP, Merialdi M, Requejo JH, et al. The worldwide incidence of preterm birth: a systematic review of maternal mortality and
+morbidity. Bull World Health Org 2010;88(1):31–8.
+[27] Salomon L-J, Bernard J-P, de Stavola B, Kenward M, Ville Y. Poids et taille de
+naissance: courbes et équations. J Gynecol Obstet Biol Reprod 2007;36(1):50–6.
+[28] Suissa S. Immortal time bias in pharmaco-epidemiology. Am J Epidemiol
+2008;167(4):492–9.
+[29] Xu R, Luo Y, Chambers C. Assessing the effect of vaccine on spontaneous abortion using time-dependent covariates Cox models. Pharmacoepidemiol Drug
+Saf 2012;21(8):844–50.
+[30] Greenland S. Modeling and variable selection in epidemiologic analysis. Am J
+Public Health 1989;79(3):340–9.
+[31] Briggs GG, Freeman RK, Yaffe SJ. Drugs in Pregnancy and Lactation: A Reference
+Guide to Fetal and Neonatal Risk. Lippincott Williams & Wilkins; 2011. p. 1728.
+[32] Freund R, Le Ray C, Charlier C, Avenell C, Truster V, Tréluyer J-M, et al. Determinants of non-vaccination against pandemic 2009 H1N1 influenza in pregnant
+women: a prospective cohort study. PLoS One 2011;6(6):e20900.
+[33] Walter D, Böhmer MM, Heiden Mad, Reiter S, Krause G, Wichmann O.
+Monitoring pandemic influenza A(H1N1) vaccination coverage in Germany
+2009/10—results from thirteen consecutive cross-sectional surveys. Vaccine
+2011;29(23):4008–12.

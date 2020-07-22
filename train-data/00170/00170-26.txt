@@ -1,0 +1,680 @@
+﻿Use of Safety Devices and the Prevention of Percutaneous Injuries Among Healthcare
+Workers • 
+Author(s): Victoria Valls , MD; M. Salud Lozano , RN; Remedios Yánez , RN;
+María José Martínez , RN; Francisco Pascual , MD; Joan Lloret , MD; Juan Antonio Ruiz , MD
+Source: Infection Control and Hospital Epidemiology, Vol. 28, No. 12 (December 2007), pp.
+1352-1360
+Published by: The University of Chicago Press on behalf of The Society for Healthcare Epidemiology
+of America
+Stable URL: http://www.jstor.org/stable/10.1086/523275 .
+Accessed: 14/05/2014 12:16
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+ .
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ .
+The University of Chicago Press and The Society for Healthcare Epidemiology of America are collaborating
+with JSTOR to digitize, preserve and extend access to Infection Control and Hospital Epidemiology.
+http://www.jstor.org
+This content downloaded from 195.78.109.107 on Wed, 14 May 2014 12:16:17 PM
+All use subject to JSTOR Terms and Conditions
+infection control and hospital epidemiology december 2007, vol. 28, no. 12
+original article
+Use of Safety Devices and the Prevention
+of Percutaneous Injuries Among Healthcare Workers
+Victoria Valls, MD; M. Salud Lozano, RN; Remedios Ya´nez, RN; Marı´a Jose´ Martı´nez, RN;
+Francisco Pascual, MD; Joan Lloret, MD; Juan Antonio Ruiz, MD
+objective. To study the effectiveness of safety devices intended to prevent percutaneous injuries.
+design. Quasi-experimental trial with before-and-after intervention evaluation.
+setting. A 350-bed general hospital that has had an ongoing educational program for the prevention of percutaneous injuries since
+January 2002.
+methods. In October 2005, we implemented a program for the use of engineered devices to prevent percutaneous injury in the emergency
+department and half of the hospital wards during the following procedures: intravascular catheterization, vacuum phlebotomy, blood-gas
+sampling, finger-stick blood sampling, and intramuscular and subcutaneous injections. The nurses in the wards that participated in the
+intervention received a 3-hour course on occupationally acquired bloodborne infections, and they had a 2-hour “hands-on” training session
+with the devices. We studied the percutaneous injury rate and the direct cost during the preintervention period (October 2004 through
+March 2005) and the intervention period (October 2005 through March 2006).
+results. We observed a 93% reduction in the relative risk of percutaneous injuries in areas where safety devices were used (14 vs 1
+percutaneous injury). Specifically, rates decreased from 18.3 injuries (95% confidence interval [CI], 5.9-43.2 injuries) to 0 injuries per
+100,000 patients in the emergency department ( ) and from 44.0 injuries (95% CI, 20.1-83.6 injuries) to 5.2 injuries (95% CI, 0.1- P p .002
+28.8 injuries) per 100,000 patient-days in hospital wards ( ). In the control wards of the hospital (ie, those where the intervention P p .007
+was not implemented), rates remained stable. The direct cost increase was i0.558 (US$0.753) per patient in the emergency department
+and i0.636 (US$0.858) per patient-day in the hospital wards.
+conclusion. Proper use of engineered devices to prevent percutaneous injury is a highly effective measure to prevent these injuries
+among healthcare workers. However, education and training are the keys to achieving the greatest preventative effect.
+Infect Control Hosp Epidemiol 2007; 28:1352-1360
+Servicio de Medicina Preventiva (V.V.), Direccio´ n de Enfermerı´a (M.S.L., R.Y., M.J.M.), y Direccio´ n Me´dica (F.P., J.L., J.A.R.), Hospital Virgen de la SaludElda, Elda, y Departamento de Salud Pu´ blica, Historia de la Ciencia y Ginecologı´a (V.V.), Universidad Miguel Herna´ndez, Campus de San Juan, San Juan
+de Alicante, Alicante, Spain.
+Received March 12, 2007; accepted July 6, 2007; electronically published November 1, 2007.
+ 2007 by The Society for Healthcare Epidemiology of America. All rights reserved. 0899-823X/2007/2812-0008$15.00. DOI: 10.1086/523275
+Percutaneous injuries are among the most common occupational accidents suffered by healthcare workers (HCWs),
+who thereby may be exposed to hepatitis B virus (HBV),
+hepatitis C virus (HCV), or human immunodeficiency virus
+(HIV). Most percutaneous exposures are needlestick injuries
+associated with the drawing of blood samples and the insertion of intravascular catheters.1-4 Accidents associated with
+these procedures pose the highest risk of transmission of
+bloodborne pathogens because they involve hollow-bore needles and a large quantity of blood.5 The inappropriate disposal
+of sharp devices also produces a considerable number of injuries to personnel other than HCWs, such as housekeeping
+staff and visitors.
+To decrease the risk of exposure, it is necessary to ensure
+adherence to standard precautions by means of changes in
+work practices.6-8 In addition, vaccination against HBV and
+HIV postexposure prophylaxis with antiretroviral drugs are
+complementary measures that prevent occupational infections.9-11 However, despite postexposure prophylaxis, occupational HIV infections still occur,12,13 and there is no effective
+postexposure prophylaxis to prevent HCV infection.14 In addition, occupational infection with emerging or less common
+pathogens is also possible.15-17 Even if infection does not result
+from a percutaneous injury, the injury can produce several
+kinds of psychological harm (eg, anxiety, depression, and/or
+stress)18,19 that considerably affect the HCW’s quality of life.
+Designing and implementing the use of devices with safety
+mechanisms intended to prevent percutaneous injuries is currently a key strategy for preventing percutaneous injuries,
+their consequences, and their collateral effects. In addition to
+This content downloaded from 195.78.109.107 on Wed, 14 May 2014 12:16:17 PM
+All use subject to JSTOR Terms and Conditions
+use of safety devices and prevention of percutaneous injuries 1353
+vacuum phlebotomy systems developed long ago, there are
+now needles, catheter introducers, and lancets that sheath or
+retract after use. The US Occupational Safety and Health
+Administration has strongly recommended that safety-engineered devices should replace conventional items if the safety
+devices reduce occupational risks.20 However, there is still
+controversy about the effectiveness of these “safer” and more
+expensive devices. Therefore, we designed a quasi-experimental trial with preintervention and intervention evaluation
+periods to study the effectiveness of properly used safetyengineered devices, compared with the use of conventional
+devices, and secondarily, to estimate the financial investment
+required to implement the use of these devices as a preliminary step before hospitalwide implementation.
+methods
+Setting
+Our institution (Hospital Virgen de la Salud-Elda; Alicante,
+Spain) is a 350-bed general hospital with 190 beds in surgical
+wards, 140 beds in medical and pediatric wards, and 20 beds
+in medical and surgical intensive care units. There are about
+1,000 workers in the hospital. Since January 2002, there has
+been an ongoing study of percutaneous injuries and an educational program for the prevention of percutaneous injuries. We prospectively evaluated and registered percutaneous
+injuries and their related factors by completing a uniform
+needlestick and sharp-object injury data sheet (Epi NetAC,
+Spanish Epi Net adapted version; Centers for Disease Control
+and Prevention).2 Vacuum phlebotomy systems without needle sheaths were the only safety-engineered device in use
+before the study begun. Table 1 summarizes the baseline data
+for percutaneous injuries at our institution, and Table 2 provides baseline injury rates.
+Study Design
+We conducted a quasi-experimental trial with preintervention
+and intervention evaluation periods, each lasting for 6
+months. We selected fall and winter months, to assure continuity among the employees involved in the study and to
+reduce interperiod variability of patients’ comorbid diseases
+and reasons for hospitalization. In addition, to maintain baseline rates according to standard working conditions, HCWs
+in the areas where the intervention was not implemented
+(hereafter, nonintervention wards) were not informed about
+the ongoing study.
+Intervention
+On October 1, 2005, we implemented the use safety-engineered devices in the emergency department, in the medical
+intensive care unit and, in half of the hospitalization wards.
+During the intervention period, there was a nurse in charge
+of the study in each study area.
+Study areas. On the basis of the type of activity (medical
+vs surgical assistance) and the baseline rate of percutaneous
+injuries in each area, we selected 2 surgical wards (general
+surgery and gynecology) and 2 medical wards (internal medicine and medical specialties) for the study. The medical intensive care unit was chosen instead of the surgical intensive
+care unit because the medical unit was larger.
+Educational activity. Nurses ( ) in the wards where N p 75
+the intervention was implemented (hereafter, intervention
+wards) received education about the devices to be tested and
+about ways to improve compliance in both the use of the
+devices and the reporting of injuries. The education consisted
+of a 3-hour slide review of the risk factors for and the epidemiology, consequences, and prevention of bloodborne infections. Thereafter, nurses participated in a 2-hour “handson” training experience. An additional 15 minutes of on-site
+training was carried out each time a new device was tested.
+Posters showing how to use the devices were put up in all
+nurse stations.
+Safety devices. A committee consisting of nurses and physicians selected devices for further testing on the basis of the
+device’s activation system, its potential simplicity of use, and
+its disposal method. For obtaining blood samples, we provided vacuum phlebotomy systems for both conventional
+blood-collection tubes and blood-culture collection tubes
+with a needle sheath (Eclipse, Becton-Dickinson; Surshield,
+Terumo). We provided vacuum phlebotomy systems with
+winged, steel, hooded needles (Saf-T E-Z Set; Becton-Dickinson) and vacuum phlebotomy systems with intravascularline adapters (Surshield; Terumo), the latter for use only in
+the emergency department. We also provided blood-gas syringes with a needle sheath (Provent Plus, Smiths; Preserts,
+Becton-Dickinson) and lancets with retractable, single-use
+puncture sticks (Genie, Becton-Dickinson; Surgilance One
+Step, Terumo). For intravascular catheterization, we provided
+catheters with safety-engineered introducer needles (Protective Plus, Smith; Versatus-S, Terumo; Insyte Autoguard, Becton-Dickinson). We also provided needles with sheaths for
+intramuscular and subcutaneous administration of drugs
+(Eclipse, Becton-Dickinson; Surshield, Terumo) and blunt
+needles to transfer medication from commercial containers
+to the syringes used to administer the medication (BectonDickinson). All devices were tested for the same amount of
+time. Nurses in the intervention areas were required to participate in the final process of selecting safety devices by completing an anonymous questionnaire about the functionality
+and simplicity of use of each device tested.
+Outcome Measures
+Our outcome measures were the number of percutaneous
+injuries that occurred and the number of devices used. Injury
+reporting was voluntary during the preintervention and intervention periods. However, the nurses in charge of the study
+carried out active surveillance and reporting of injuries during
+the intervention period.
+This content downloaded from 195.78.109.107 on Wed, 14 May 2014 12:16:17 PM
+All use subject to JSTOR Terms and Conditions
+1354 infection control and hospital epidemiology december 2007, vol. 28, no. 12
+table 1. Baseline Data on Percutaneous Injuries Occurring From
+October 2004 through September 2005
+Variable
+No. (%)
+of injuries
+Area where injury occurred
+Internal medicine ward 12 (15.8)
+Medical specialities ward 5 (6.6)
+Pediatric ward 2 (2.6)
+General surgery ward 3 (3.9)
+Obstetrics and gynecology wards 1 (1.3)
+Orthopedic and trauma wards 1 (1.3)
+Other surgery ward 3 (3.9)
+Postsurgery intensive care unit 6 (7.9)
+Medical intensive care unit 6 (7.9)
+Emergency department 11 (14.5)
+Operating room 18 (23.9)
+Autopsy and pathology departments 2 (2.6)
+Clinical laboratories 3 (3.9)
+Service and utility areas 3 (3.9)
+Job category of the person injured
+Physician
+Attending or staff physician 18 (23.7)
+Intern, resident, or fellow 5 (6.6)
+Nurse 39 (51.3)
+Nursing student 6 (7.9)
+Housekeeping staff 7 (9.2)
+Other 1 (1.3)
+Original purpose of item that caused injury
+Unknown 4 (5.3)
+Intramuscular or subcutaneous injection 18 (23.7)
+Heparin or saline flush 1 (1.3)
+IV injection or aspiration 7 (9.2)
+Connect IV line 1 (1.3)
+Insert IV line 6 (7.9)
+Obtain sample
+Venous blood 1 (1.3)
+Arterial blood 1 (1.3)
+Body fluid and/or tissue 4 (5.3)
+Finger stick or heel stick 14 (18.4)
+Suturing 7 (9.2)
+Cutting (surgery) 12 (15.8)
+Type of device
+Disposable syringe 10 (13.2)
+Prefilled cartridge syringe 3 (3.9)
+IV catheter-introducer needle 17 (22.4)
+Vacuum tube blood-collection needle 1 (1.3)
+Unattached hypodermic needle 7 (9.2)
+Other nonvascular catheter needle 7 (9.2)
+Lancet 16 (21.1)
+Suture needle 7 (9.2)
+Electrocautery device 1 (1.3)
+Scalpel 6 (7.9)
+Pickups, forceps, or hemostats 1 (1.3)
+Depth of injury
+Superficial: little or no bleeding 33 (43.4)
+Moderate: skin punctured, some bleeding 30 (39.5)
+Severe: deep stick and/or cut, profuse bleeding 13 (17.1)
+(Continued)
+table 1. (Continued)
+Variable
+No. (%)
+of injuries
+Injured person was the original user of the item
+Yes 65 (85.5)
+No 11 (14.5)
+When injury occurred
+During use 33 (43.4)
+During disassembly of device 2 (2.6)
+Between steps of multistep procedure 12 (15.8)
+While preparing instrument for reuse 2 (2.6)
+While recapping device 4 (5.3)
+Other time after use and before disposal 1 (1.3)
+While putting item into disposal container 1 (1.3)
+While device was left on disposal container 2 (2.6)
+While device was left in inappropriate place 19 (25.0)
+Type of contamination
+Blood 66 (86.8)
+Other body fluid 6 (7.9)
+Unknown 4 (4.3)
+Injured worker’s HBV vaccination status
+Vaccinated
+Fully 65 (85.5)
+Partially 8 (10.5)
+Unvaccinated 3 (3.9)
+Source patient
+Identified
+Yes 56 (73.7)
+No 20 (26.3)
+HBV infected
+Yesa 1 (1.3)
+No 52 (68.4)
+Unknown 23 (30.3)
+HCV infected
+Yesb 5 (6.6)
+No 52 (68.4)
+Unknown 19 (25.0)
+HIV infected
+Yesc 2 (2.6)
+No 55 (72.4)
+Unknown 19 (25.0)
+note. Data was collected for a 12-month period to facilitate interhospital
+comparison. HBV, hepatitis B virus; HCV, hepatitis C virus; HIV, human
+immunodeficiency virus; IV, intravenous.
+a Hepatitis B–surface-antigen positive.
+b Enzyme-linked immunosorbent assay (ELISA) and immunoblot assay positive for HCV antibody.
+c ELISA or Western blot assay positive for HIV antibody.
+To study the effectiveness of the intervention, we estimated
+the rate of percutaneous injuries for the preintervention and
+intervention periods. In the hospital wards, we estimated the
+percutaneous injury rate as the number of injuries per
+100,000 patient-days. In the emergency department, we estimated the percutaneous injury rate as the number of injuries
+per 100,000 patients. We calculated Taylor series 95% confidence intervals (CIs) for both rates.
+To evaluate the impact of the program on the hospital’s
+This content downloaded from 195.78.109.107 on Wed, 14 May 2014 12:16:17 PM
+All use subject to JSTOR Terms and Conditions
+use of safety devices and prevention of percutaneous injuries 1355
+table 2. Baseline Rates of Percutaneous Injury From October
+2004 through September 2005, According to Hospital Area
+Area
+No. of
+injuries Ratea
+Internal medicine wardb 12 28
+Medical specialities ward 5 23
+Pediatric ward 2 36
+General surgery wardb 3 26
+Obstetrics ward 0 0
+Gynecology wardb 1 25
+Orthopedic and trauma wards 1 11
+Other surgery ward 1 2 28
+Other surgery ward 2 1 17
+Postsurgery intensive care unit 6 487
+Medical intensive care unitb 6 175
+Emergency departmentb 11 20
+note. Rates are only for the emergency department and areas where
+patients were hospitalized; 26 injuries were not included because they occurred in the operating room, autopsy department, laboratories, or service
+and utility areas. Data was collected for a 12-month period to facilitate
+interhospital comparison.
+a Rates are no. of injuries per 100,000 patient-days, except for the emergency
+department, where the rate is no. of injuries per 100,000 patients.
+b Area where the intervention was later implemented.
+economic resources, we recorded the number of devices used.
+To obtain data for the preintervention period, we reviewed
+the orders for devices dispensed in the Economic Resources
+Department database. To obtain data for the intervention
+period, the nurses in charge of the study monitored and
+recorded the number of devices used each week. In the areas
+where safety-engineered devices were not in use, we reviewed
+and recorded the orders for devices dispensed in the Economic Resources Department database. To make the charges
+comparable, we used 2005 prices for both the preintervention
+period and the intervention period.
+Analysis
+We calculated the rate difference and the rate ratio between
+the preintervention period and the intervention period for
+the emergency department, for the intervention areas, and
+for the nonintervention areas. We used the test-based limits
+formula to estimate 95% CIs for the rate differences and rate
+ratios. We considered the observed differences to be statistically significant when the estimated mid-P exact test (1-
+tailed) value was less than .05. In the areas of the hospital
+where the program had significant effect, we calculated the
+preventive fraction for the intervention period. We used
+OpenEpi (open-source software) to compute epidemiologic
+comparisons.
+We calculated the direct cost of implementing the use safety
+devices for the prevention of percutaneous injuries by computing the absolute and the relative cost increase per patientday in the hospitalization wards and per patient in the emergency department.
+results
+Effectiveness of Safety-Engineered Devices
+During the intervention period, there was a remarkable decrease in the overall number of percutaneous injuries in the
+hospital areas where safety devices were used (14 injuries
+during the preintervention period, compared with 1 during
+the intervention period) (Figure). The sole injury occurred
+when a nurse working in a medical ward manipulated a gas
+syringe with an attached needle sheath to obtain a venous
+blood sample. The nurse had been vaccinated against HBV
+before the injury occurred, and the source patient tested negative for hepatitis B surface antigen, HCV, and HIV.
+Despite this accident, the average rate of percutaneous injury in the hospital wards that used safety devices dropped
+from a baseline rate of 44.0 injuries per 100,000 patient-days
+to a postintervention rate of 5.2 injuries per 100,000 patientdays ( ). The preventive fraction was estimated at P p .007
+88.3% (Table 3). In the emergency department, the rate of
+percutaneous injury dropped from 18.5 to 0.0 injuries per
+100,000 patients ( ), and the preventive fraction was P p .002
+estimated at 100%. On the other hand, the rate of percutaneous injuries in the nonintervention areas increased slightly
+from 40.7 to 48.8 injuries per 100,000 patient-days (P p
+.333) during the study.
+During the preintervention period, accidents most commonly occurred when nurses manipulated intravascular catheters ( ) or unattached needles ( ). No such ac- n p 6 n p 5
+cidents occurred after the introduction of safety-engineered
+devices. Specifically, the rates dropped from 45.7 injuries
+(95% confidence interval [CI], 16.7-99.5 injuries) to 0 injuries
+(95% CI, 0-24.3 injuries) per 100,000 intravascular catheters
+used ( ) and from 5.9 injuries (95% CI, 1.9-13.7 P p .005
+injuries) to 0 injuries (95% CI, 0-5.8 injuries) per 100,000
+unattached needles used ( ). P p .031
+Cost of Safety-Engineered Devices
+In the emergency department, the direct cost attributed to
+the use of safety devices was i14,383 (US$19,417). This was
+an increase of i0.558 (US$0.753) per patient, compared with
+the preintervention period. In the hospital wards, the direct
+cost was i12,101 (US$16,336), which was an increase of
+i0.636 (US$0.858) per patient-day (Table 4).
+Intravenous catheters with safety-engineered introducer
+needles accounted for the highest replacement costs. In the
+emergency department, the increase was i0.430 (US$0.580)
+per patient, whereas in the hospital wards, it was i0.305
+(US$0.412) per patient-day.
+discussion
+Our study shows that percutaneous injuries can be effectively
+prevented by proper use of safety-engineered devices. We
+achieved a 93% reduction in the relative risk of percutaneous
+This content downloaded from 195.78.109.107 on Wed, 14 May 2014 12:16:17 PM
+All use subject to JSTOR Terms and Conditions
+1356 infection control and hospital epidemiology december 2007, vol. 28, no. 12
+figure Number of percutaneous injuries in areas where the intervention was implemented and in areas where the intervention was
+not implemented. “Other areas” included day care, ambulatory care, operating room, laboratory, service areas, and utility areas.
+injuries, compared with the preintervention period when
+HCWs were using conventional devices.
+Initial reports that evaluated safety devices showed small
+preventative effects and high costs.21,22 These results had unfavorable effects on research to develop better devices with
+lower prices. However, since the publication of US Occupational Health and Safety Administration rules about bloodborne pathogen exposure,20 new devices have become available. In a recent report, Sohn et al.23 evaluated the effect of
+implementing the use of safety-engineered devices for intravenous delivery and insertion, blood collection, and intramuscular and subcutaneous injection. The authors observed
+a 61% overall relative risk reduction for formally reported
+percutaneous injury rates and a 62% relative risk reduction
+for self-reported percutaneous injury rates. Other authors
+have obtained similar results, although the interventions they
+have used are different.24-28 The higher efficacy observed in
+our study, compared with previous reports, can be explained
+by its broader objective. We not only provided safety-engineered devices but also provided education and training to
+help assure their proper use. We replaced conventional sharp
+medical devices with safety-engineered injury-prevention devices and provided blunt needles to transfer medication from
+commercial containers to the syringes used to administer the
+medication. Insulin injection systems (“insulin pens”) were
+the only nonsafety needle devices that HCWs were allowed
+to use. In addition, we specifically educated and trained our
+HCWs to improve their compliance in using these devices.
+Providing safety devices should not be considered an infallible solution, as most of these devices must be activated
+to provide a protective or preventive effect. Lack of activation
+is probably the most important cause of failure when a safetyengineered device is used. Lee et al.29 reported that most of
+the injuries caused by ineffective safety devices occurred because the device was not fully activated. Mendelson et al.30
+observed a 52% reduction in the relative risk for percutaneous
+injuries associated with introduction of safety-winged steel
+needles. In their study, injuries occurred when the user did
+not activate the safety mechanism (32% of injuries) or during
+improper activation of the mechanism (21%). Mendelson et
+al.30 also found that the safety device was activated on only
+83% of the sample devices examined during audits of disposal
+containers. Alvarado-Ramy et al.31 evaluated 14,261 phlebotomy devices that were found in 504 sharp-device disposal
+boxes audited at 10 US university-affiliated hospitals. Of
+these, 89% were devices with safety mechanisms. The authors
+observed that activation rates varied from 21% to 95%, according to device-specific features and the amount of HCW
+training and involvement in the device-selection process.
+Incorrect HCW behavior is a recognized risk factor for
+percutaneous injuries31,32 that is related not only to lack of
+knowledge but also to poor organizational climate and heavy
+This content downloaded from 195.78.109.107 on Wed, 14 May 2014 12:16:17 PM
+All use subject to JSTOR Terms and Conditions
+use of safety devices and prevention of percutaneous injuries 1357
+table 3. Rates of Percutaneous Injury During the Preintervention Period and the Intervention Period
+Variable
+Emergency
+department
+Hospital wards
+Intervention
+areas
+Nonintervention
+areas
+Preintervention period
+No. of percutaneous injuries 5 9 11
+No. of patientsa or patient-daysb 27,352a 20,440b 27,010b
+Rate of percutaneous injury during
+the preintervention period (95% CI) 18.2 (5.9 to 43.2) 44.0 (20.1 to 83.6) 40.7 (20.0 to 72.9)
+Intervention period
+No. of percutaneous injuries 0 1 13
+No. of patientsa or patient-daysb 26,111a 19,345b 26,645b
+Rate of percutaneous injury during
+the intervention period (95% CI) 0.0 ( to 14.1) 5.17 (0.1 to 28.8) 48.79 (26.0 to 83.4)
+Rate ratio (95% CI) Undefined 0.12 (0.015 to 0.93) 1.20 (0.54 to 2.67)
+Rate difference (95% CI) 18.5 (2.2 to 34.7) 3.9 (6.9 to 0.8) 0.8 (2.8 to 4.4)
+Preventive fraction during
+the intervention period 100% 88.2% (7.4% to 98.5%) …
+Pc .002 .007 .333
+note. CI, confidence interval. a Rates in the emergency department are expressed as the number of percutaneous injuries per 100,000 patients attended.
+b Rates in the hospital wards are expressed as the number of percutaneous injuries per 100,000 attended patient days.
+c Mid-p exact test (1-tailed).
+workloads at the HCW’s institution.33 Ganczak et al.34 detected fewer percutaneous injuries among nurses who received special training about HIV/AIDS. Specifically, the proportion of percutaneous injuries prevented increased from
+56% to 72% when guideline adherence was improved in addition to implementing the use of safety devices.35 Similarly,
+Rivers et al.36 observed that high quality training and a positive institutional safety climate might be predictors of good
+compliance.36 Therefore, to promote the success of our program, we invested great effort in educational activities directed at improving working behavior and adherence to preventive measures.
+Our study had some limitations. First, it was a before-andafter intervention with historical controls and no randomization. Randomization and concealment allocation allows for
+a balanced distribution of known and unknown prognostic
+variables. However, we tried to maintain control of possible
+prognostic variables involved in the study by selecting the
+same period of the year and by conducting the study in hospital areas with homogeneously distributed activities. To assure a proper sampling of percutaneous injuries, we designated a nurse to be in charge of detecting and reporting
+accidents that occurred in the intervention areas; a greater
+detection of injuries in intervention areas would have biased
+the efficacy of safety devices toward the null. Reporting compliance is influenced by factors such as the perceived severity
+of the potential transmitted disease, the perceived efficacy of
+reporting injuries, and the conviction that the source patient
+was not infected.34,37 Therefore, our educational activities also
+focused on the importance and usefulness of reporting the
+injuries. With respect to the analysis of data, we expressed
+rates of percutaneous injuries in terms of patient-days or
+patients attended, to control for possible imbalances in the
+estimated consumption of devices during the preintervention
+and postintervention periods. We observed that the number
+of devices used during the preintervention period was greater
+than that during the intervention period (147,440 vs 121,082
+devices), indicating the possibility of a greater risk of injury
+during the preintervention period. However, the reduction
+in the number of devices used was mainly accounted for by
+unattached hypodermic needles used for low-risk procedures.
+Blunt needles were used in place of unattached hypodermic
+needles in 75% of cases. In high-risk procedures, we observed
+an increase in the number of devices used for intravascular
+catheterization during the intervention period, compared
+with the preintervention period (13,110 vs 15,104 devices).
+Finally, our study was limited to a 6-month preintervention
+period and a 6-month postintervention period. Therefore, we
+could not assess the duration of the intervention’s efficacy.
+It is possible that after the study ended, there would be a
+slow return to standard routine care because of lack of surveillance (ie, the Hawthorne effect). We observed that after
+the study ended there were 4 percutaneous injuries in the
+intervention areas (3 in the emergency department and 1 in
+the hospital wards). Two of the accidents occurred during the
+recapping of insulin administration pens, devices that were
+not safety engineered and that carried a high risk of injury.38
+The other 2 accidents occurred prior to activation of the safety
+mechanism. Three of the 4 accidents occurred during the
+summer, a holiday period when our center hires HCWs with
+less experience.
+A secondary objective of our study was to estimate the
+This content downloaded from 195.78.109.107 on Wed, 14 May 2014 12:16:17 PM
+All use subject to JSTOR Terms and Conditions
+table 4. Comparison of Number and Cost of Devices Used During the Study Period
+Location, procedure or device
+Preintervention period Intervention period
+Difference in
+cost per patient,b
+i ($)
+No. of
+percutaneous
+injuries
+No. of
+devices
+used
+Cost
+per device,
+i ($)
+Cost
+per patient,a
+i ($)
+No. of
+percutaneous
+injuries
+No. of
+devices
+used
+Cost
+per device,
+i ($)
+Cost
+per patient,a
+i ($)
+Emergency department
+Phlebotomy 0 5,369 80 (108) 0.003 (0.004) 0 4,486 409 (552) 0.016 (0.022) 0.013 (0.018)
+Arterial blood sampling 0 1,750 667 (900) 0.024 (0.032) 0 2,100 1,428 (1,928) 0.055 (0.074) 0.030 (0.040)
+IV catheterization 2 8,072 2,591 (3,497) 0.095 (0.128) 0 9,790 13,706 (18,503) 0.525 (0.709) 0.430 (0.580)
+Unattached hypodermic needle 2 38,578 403 (544) 0.015 (0.020) 0 5,480 932 (1,258) 0.036 (0.049) 0.021 (0.028)
+Fingerstick 1 4,000 60 (81) 0.002 (0.003) 0 4,050 405 (547) 0.016 (0.022) 0.013 (0.017)
+Subcutaneous insulin administration 0 1,200 56 (76) 0.002 (0.003) 0 1,050 431 (582) 0.016 (0.022) 0.014 (0.019)
+Blunt needle … … … … 0 18,600 930 (1,255) 0.036 (0.049) 0.036 (0.049)
+Overall 5 58,970 3,857 (5,207) 0.141 (0.190) 0 45,556 18,240 (24,624) 0.699 (0.944) 0.558 (0.753)
+Hospital wards
+Phlebotomy 1 10,505 180 (243) 0.009 (0.012) 1 8,836 9,123 (1,232) 0.047 (0.063) 0.038 (0.051)
+Arterial blood sampling 0 1,829 697 (941) 0.034 (0.046) 0 1,676 1,140 (1,539) 0.059 (0.080) 0.025 (0.034)
+IV catheterization 4 5,048 1,620 (2,187) 0.079 (0.107) 0 5,314 7,440 (10,043) 0.385 (0.520) 0.305 (0.412)
+Unattached hypodermic needle 3 46,619 787 (1,062) 0.039 (0.053) 0 3,220 547 (739) 0.028 (0.038) -0.010 (-0.014)
+Fingerstick 1 17,400 261 (352) 0.013 (0.017) 0 15,170 1,517 (2,048) 0.078 (0.105) 0.066 (0.089)
+Subcutaneous insulin administration 0 7,070 332 (448) 0.016 (0.022) 0 6,410 2,628 (3,548) 0.136 (0.184) 0.120 (0.162)
+Blunt needle … … … … 0 35,900 1,795 (2,423) 0.093 (0.126) 0.093 (0.126)
+Overall 9 88,471 3,878 (5,235) 0.190 (0.256) 1 76,526 15,979 (21,572) 0.826 (1.115) 0.636 (0.859)
+note. Currency conversion: i1 p US$1.35. IV, intravenous.
+a In the emergency department, cost per patient refers to number of patients; in hospital wards, cost per patient refers to patient-days.
+b Comparison between the preintervention and intervention periods.
+This content downloaded from 195.78.109.107 on Wed, 14 May 2014 12:16:17 PM
+All use subject to JSTOR Terms and Conditions
+use of safety devices and prevention of percutaneous injuries 1359
+economic burden of hospitalwide implementation of the use
+of safety devices. Taking into account only direct costs, the
+replacement of conventional devices with safety-engineered
+devices required a 3-fold increase in the budget allocated to
+these materials. Safety-engineered devices are undoubtedly
+expensive; however, whether the cost was evaluated in terms
+of each patient attended or by patient-day, the investment
+was small: i0.69 (US$0.93) per patient attended in the emergency department and 0.83i (US$1.12) per patient-day in the
+hospital wards. In summary, our study shows that proper use
+of safety-engineered devices to prevent percutaneous injuries
+effectively prevents needlestick injuries. However, training
+and education must accompany any intervention.
+acknowledgments
+Financial support. This study was supported by funds from “Direccio´n General de Salud Pu´ blica de la Generalitat Valenciana”—“Comunidad Autonoma
+de Valencia”—Spain.
+Potential conflicts of interest. All authors report no conflicts of interest
+relevant to this article.
+Address reprint requests to Victoria Valls, MD, Hospital Virgen de la Salud–
+Elda, Departamento de Salud 18, Carretera Elda-Sax s/n, 03600 Elda, Alicante,
+Spain (Valls_vic@gva.es).
+references
+1. Panlilio AL, Orelien JG, Srivastava PU, Jagger J, Cohn RD, Cardo DM;
+NaSH Surveillance Group; EPINet Data Sharing Network. Estimate of
+the annual number of percutaneous injuries among hospital-based
+healthcare workers in the United States, 1997-1998. Infect Control Hosp
+Epidemiol 2004; 25:556-562.
+2. Hernandez Navarrete MJ, Campins Marti M, Martinez Sanchez EV, Ramos Perez F, Garcia de Codes Ilario A, Arribas Llorente JL; Grupo de
+Trabajo EPINETAC. Occupational exposures to blood and biological
+material in healthcare workers. EPINETAC Project 1996-2000 [in Spanish]. Med Clin (Barc) 2004; 122:81-86.
+3. Ippolito G, Puro V, Hepstonstall J, Jagger J, De Carli P, Petrosillo N.
+Occupational human immunodeficiency virus infection in health care
+workers: worldwide cases through September 1997. Clin Infect Dis 1999;
+28:365-383.
+4. Bi P, Tully PJ, Pearce S, Hiller JE. Occupational blood and body fluid
+exposure in an Australian teaching hospital. Epidemiol Infect 2006; 134:
+465-471.
+5. Centers for Diseases Control and Prevention. Case-control study of HIV
+seroconversion in health-care workers after percutaneous exposure to
+HIV-infected blood—France, United Kingdom, and United States, January 1988-August 1994. MMWR 1995; 44:929-933.
+6. Beekmann SE, Vaughn TE, McCoy KD, et al. Hospital bloodborne pathogens programs: program characteristics and blood and body fluid exposure rates. Infect Control Hosp Epidemiol 2001; 22:73-82.
+7. Trape-Cardoso M, Schenck P. Reducing percutaneous injuries at an academic health center: a 5-year review. Am J Infect Control 2004; 32:
+301-305.
+8. Vaughn TE, McCoy KD, Beekmann SE, Woolson RE, Torner JC, Doebbeling BN. Factors promoting consistent adherence to safe needle precautions among hospital workers. Infect Control Hosp Epidemiol 2004;
+25:548-555.
+9. Geberding JM. Management of occupational exposures to blood-borne
+viruses. N Engl J Med 1995; 332:444-451.
+10. US Public Health Service. Updated US Public Health Service guidelines
+for the management of occupational exposures to HBV, HCV, and HIV
+and recommendations for postexposure prophylaxis. MMWR Recomm
+Rep 2001; 50(RR-11):1-52.
+11. Panlilio AL, Cardo DM, Grohskopf LA, Heneine W, Ross CS. Updated
+US Public Health Service guidelines for the management of occupational
+exposures to HIV and recommendations for postexposure prophylaxis.
+MMWR Recomm Rep 2005; 54(RR-09):1-17.
+12. Do AN, Ciesielski CA, Metler RP, Hammett TA, Li J, Fleming PL. Occupationally acquired human immunodeficiency virus (HIV) infection:
+national case surveillance data during 20 years of the HIV epidemic in
+the United States. Infect Control Hosp Epidemiol 2003; 24:86-96.
+13. Tomkins S, Ncube F. Occupationally acquired HIV: international reports
+to December 2002. Euro Surveill 2005; 10:E050310.2.
+14. Yazdanpanah Y, De Carli G, Migueres B, et al. Risk factors for hepatitis
+C virus transmission to health care workers after occupational exposure:
+a European case-control study. Clin Infect Dis 2005; 41:1423-1430.
+15. Tarantola A, Abiteboul D, Rachline A. Infection risks following accidental
+exposure to blood or body fluids in health care workers: a review of
+pathogens transmitted in published cases. Am J Infect Control 2006; 34:
+367-375.
+16. Alweis RL, DiRosario K, Conidi G, Kain KC, Olans R, Tully JL. Serial
+nosocomial transmission of Plasmodium falciparum malaria from patient
+to nurse to patient. Infect Control Hosp Epidemiol 2004; 25:55-59.
+17. Wagner D, de With K, Huzly D, et al. Nosocomial acquisition of dengue.
+Emerg Infect Dis 2004; 10:1872-1873.
+18. Sohn JW, Kim BG, Kim SH, Han C. Mental health of healthcare workers
+who experience needlestick and sharps injuries. J Occup Health 2006;
+48:474-479.
+19. Lee JM, Botteman MF, Nicklasson L, Cobden D, Pashos CL. Needlestick
+injury in acute care nurses caring for patients with diabetes mellitus: a
+retrospective study. Curr Med Res Opin 2005; 21:741-747.
+20. Occupational exposure to bloodborne pathogens; needlestick and other
+sharps injuries; final rule. Occupational Safety and Health Administration
+(OSHA), Department of Labor. Final rule; request for comment on the
+Information Collection (Paperwork) Requirements. Fed Regist 2001; 66:
+5318-5325.
+21. Orenstein R, Reynolds L, Karabaic M, Lamb A, Markowitz SM, Wong
+ES. Do protective devices prevent needlestick injuries among health care
+workers? Am J Infect Control 1995; 23:344-351.
+22. Porta C, Handelman E, McGovern P. Needlestick injuries among health
+care workers: a literature review. AAOHN J 1999; 47:237-244.
+23. Sohn S, Eagan J, Sepkowitz KA, Zuccotti G. Effect of implementing
+safety-engineered devices on percutaneous injury epidemiology. Infect
+Control Hosp Epidemiol 2004; 25:536-542.
+24. Centers for Disease Control and Prevention. Evaluation of safety devices
+for preventing percutaneous injuries among health-care workers during
+phlebotomy procedures—Minneapolis-St. Paul, New York City, and San
+Francisco, 1993-1995. MMWR Morb Mortal Wkly Rep 1997; 46:21-25.
+25. Ippolito G, De Carli G, Puro V, et al. Device-specific risk of needlestick
+injury in Italian health care workers. JAMA 1994; 272:607-610.
+26. Rogues AM, Verdun-Esquer C, Buisson-Valles I, et al. Impact of safety
+devices for preventing percutaneous injuries related to phlebotomy procedures in health care workers. Am J Infect Control 2004; 32:441-444.
+27. Mendelson MH, Chen L, Bailey E, Finkelstein-Blond L, Kogan G. Evaluation of a safety IV catheter (IVC) (Becton Dickinson, Insyte Autoguard) final report. In: Program and abstracts of the 11th Annual Meeting
+of the Society for Healthcare Epidemiology of America (Toronto, Ontario, Canada). 2001.
+28. Azar-Cavanagh M, Burdt P, Green-McKenzie J. Effect of the introduction
+of an engineered sharps injury prevention device on the percutaneous
+injury rate in healthcare workers. Infect Control Hosp Epidemiol 2007;
+28:165-170.
+29. Lee JM, Botteman MF, Nicklasson L, Cobden D, Pashos CL. Needlestick
+injury in acute care nurses caring for patients with diabetes mellitus: a
+retrospective study. Curr Med Res Opin 2005; 21:741-747.
+30. Mendelson MH, Lin-Chen BY, Solomon R, Bailey E, Kogan G, Goldbold
+This content downloaded from 195.78.109.107 on Wed, 14 May 2014 12:16:17 PM
+All use subject to JSTOR Terms and Conditions
+1360 infection control and hospital epidemiology december 2007, vol. 28, no. 12
+J. Evaluation of a safety resheathable winged steel needle for prevention
+of percutaneous injuries associated with intravascular-access procedures
+among healthcare workers. Infect Control Hosp Epidemiol 2003; 24:
+105-112.
+31. Alvarado-Ramy F, Beltrami EM, Short LJ, et al. A comprehensive approach to percutaneous injury prevention during phlebotomy: results of
+a multicenter study, 1993-1995. Infect Control Hosp Epidemiol 2003; 24:
+97-104.
+32. Castella A, Vallino A, Argentero PA, Zotti CM. Preventability of percutaneous injuries in healthcare workers: a year-long survey in Italy. J
+Hosp Infect 2003; 55:290-294.
+33. Stone PW, Clarke SP, Cimiotti J, Correa-de-Araujo R. Nurses’ working
+conditions: implications for infections diseases. Emerg Infect Dis 2004;
+10:1984-1989.
+34. Ganczak M, Milona M, Szych Z. Nurses and occupational exposures to
+bloodborne viruses in Poland. Infect Control Hosp Epidemiol 2006; 27:
+175-180.
+35. Cullen BL, Genasi F, Symington I, et al. Potential for reported needlestick
+injury prevention among healthcare workers through safety device usage
+and improvement of guideline adherence: expert panel assessment. J
+Hosp Infect 2006; 63:445-451.
+36. Rivers DL, Aday LA, Frankowski RF, Felknor S, White D, Nichols B.
+Predictors of nurses’ acceptance of an intravenous catheter safety device.
+Nurs Res 2003; 52:249-255.
+37. Tabak N, Shiaabana AM, Shasha S. The health beliefs of hospital staff
+and the reporting of needlestick injury. J Clin Nurs 2006; 15:1228-1239.
+38. Pellissier G, Migueres B, Tarantola A, Abiteboul D, Lolom I, Bouvet E;
+the GERES Group. Risk of needlestick injuries by injection pens. J Hosp
+Infect 2006; 63:60-64.
+This content downloaded from 195.78.109.107 on Wed, 14 May 2014 12:16:17 PM
+All use subject to JSTOR Terms and Conditions

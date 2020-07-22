@@ -1,0 +1,508 @@
+Cell- and Egg-Derived Influenza Vaccine Efficacy • CID 2010:51 (1 November) • 997
+MAJOR ARTICLE
+Clinical Efficacy of Cell Culture–Derived
+and Egg-Derived Inactivated Subunit Influenza
+Vaccines in Healthy Adults
+Sharon Frey,1 Timo Vesikari,2 Agnieszka Szymczakiewicz-Multanowska,3 Maria Lattanzi,4 Allen Izu,5 Nicola Groth,4
+and Sandra Holmes5
+1
+Saint Louis University Medical School, St. Louis, Missouri; 2
+University of Tampere Medical School, Tampere, Finland; 3
+Monipol GmbH Contract
+Research & Medical Consultants, Krako´w, Poland; 4
+Novartis Vaccines and Diagnostics, Siena, Italy; and 5
+Novartis Vaccines and Diagnostics,
+Cambridge, Massachusetts
+(See the editorial commentary by Bernstein, on pages 1005–1006.)
+Background. More efficient methods are needed to manufacture influenza vaccines. This trial compared the
+efficacy of cell culture–derived influenza vaccine (CCIV) and egg-derived trivalent inactivated vaccine (TIV) with
+placebo against laboratory-confirmed influenza illness in healthy adults in the United States, Finland, and Poland
+during the 2007–2008 influenza season.
+Methods. A total of 11,404 study participants aged 18–49 years were randomized equally to receive CCIV
+(Optaflu; ), TIV (Agrippal; ), or placebo ( ). Each participant was observed during a n p 3828 n p 3676 n p 3900
+6-month study surveillance period. Nasal and throat swabs for virus isolation and characterization were collected
+from all patients with influenza-like illness. Vaccine immunogenicity was evaluated in a subset of 1045 participants.
+Results. Efficacy of CCIV and TIV against vaccine-like (83.8% [1-sided 97.5% confidence interval [CI] lower
+limit, 61.0%] and 78.4% [1-sided 97.5% CI lower limit, 52.1%], respectively) and all circulating influenza virus
+strains (69.5% [1-sided 97.5% CI lower limit, 55.0%] and 63.0% [1-sided 97.5% lower limit, 46.7%], respectively)
+exceeded the Center for Biologics Evaluation and Research efficacy criteria. Immunogenicity of both vaccines
+exceeded the Center for Biologics Evaluation and Research licensing criteria. Both vaccines were well tolerated,
+with similar safety profiles. Most solicited reactions were mild to moderate in severity and transient. No vaccinationrelated serious adverse events were reported; no withdrawals resulted from vaccine-related adverse events.
+Conclusions. Both CCIV and TIV were effective in preventing influenza caused by vaccine-like and by all
+circulating influenza virus strains, were well tolerated, and had good safety profiles. Both vaccines can be considered
+for annual influenza vaccination campaigns.
+Clinical trials registration. NCT00630331.
+Influenza virus infections are a major cause of respiratory illness, morbidity, and mortality in elderly people, very young people, and those with intercurrent
+disease [1, 2]. Vaccination remains the principal control
+for seasonal infections and is a core strategy in pandemic influenza preparedness. Seasonal influenza vaccines are typically produced from viruses propagated
+Received 5 February 2010; accepted 24 May 2010; electronically published 24
+September 2010.
+Reprints or correspondence: Dr Sharon E. Frey, Div of Infectious Diseases and
+Immunology, 1100 S Grand Blvd (DRC- Room 827), St Louis, MO 63104 ( freyse@
+slu.edu).
+Clinical Infectious Diseases 2010; 51(9):997–1004
+ 2010 by the Infectious Diseases Society of America. All rights reserved.
+1058-4838/2010/5109-0001$15.00
+DOI: 10.1086/656578
+in hen eggs. The supply of eggs is limited and obtaining them requires advance planning, potentially making rapid increase in production difficult in case of increased demand or a pandemic. The World Health Organization has recommended using established mammalian cell lines as alternative culture systems [3]. Cell
+culture propagation offers assured availability of substrate for virus growth, which could increase flexibility
+to meet shifts in demand [4, 5]. Three cell lines have
+shown promise for vaccine production, Madin Darby
+canine kidney (MDCK), Vero, and PER.C6. Vero cells
+are used to produce poliovirus, rabies, and rotavirus
+vaccines [6, 7]. A Vero cell–derived whole-cell H5N1
+influenza vaccine has been evaluated [8], and the
+PER.C6 line has been shown to yield influenza viral
+titers sufficient for vaccine production [9]. In 2007,
+Downloaded from https://academic.oup.com/cid/article-abstract/51/9/997/293487 by guest on 15 October 2019
+998 • CID 2010:51 (1 November) • Frey et al
+the European Medicines Agency approved an MDCK cell culture–derived influenza vaccine (CCIV) (Optaflu; Novartis Vaccines) [10, 11].
+Approximately 4000 doses of this CCIV have been administered to healthy adult and elderly individuals in 5 trials that
+evaluated the safety and immunogenicity, compared with Novartis Vaccines’ European (Agrippal) or American (Fluvirin)
+licensed trivalent inactivated vaccines (TIVs) [11–15]. CCIV
+was as immunogenic, safe, and well tolerated as the TIVs; all
+3 vaccine virus strains met European (Committee for Medicinal
+Products for Human Use) and United States (Center for Biologics Evaluation and Research [CBER]) immunogenicity criteria for licensing [16, 17].
+This trial (NCT00630331), conducted in healthy adults in
+the United States, Finland, and Poland during the 2007–2008
+influenza season, evaluated the clinical efficacy of CCIV (Optaflu) and TIV (Agrippal), compared with placebo, to prevent
+laboratory-confirmed influenza. To our knowledge, this was the
+largest randomized, placebo-controlled trial yet conducted to
+evaluate the efficacy of inactivated influenza vaccines against
+virus-confirmed influenza and the first to evaluate the efficacy
+of a trivalent CCIV.
+METHODS
+Study design and objectives. This randomized, placebo-controlled, observer-blind trial evaluated the efficacy, safety, and
+immunogenicity of influenza vaccination in healthy adults in
+the United States, Finland, and Poland during the 2007–2008
+influenza season. The ethics committee or institutional review
+board of each center approved the study. Healthy individuals
+were eligible if they could comply with study procedures. All
+gave written informed consent before enrollment. Major exclusion criteria included a health condition for which inactivated vaccine is recommended, employment prone to influenza
+transmission, influenza vaccination or laboratory-confirmed
+influenza within 6 months of enrollment, history of GuillainBarre´ syndrome, a temperature of 37.8C and/or acute illness
+within 3 days of enrollment, and pregnancy or breast-feeding.
+Female individuals of childbearing potential agreed to continue
+using a reliable birth control method. A urine pregnancy test
+was performed on female participants before vaccination. Individuals aged 18–49 years were randomized equally, with use
+of an interactive voice response system, to receive a single dose
+of CCIV, TIV, or placebo. Influenza surveillance began 21 days
+after vaccination. Each study participant was observed during the 6-month study surveillance period or for 6 months after vaccination, whichever was longer. Study duration was ∼9
+months.
+The primary objective was to demonstrate the efficacy, compared with placebo, of each study vaccine against confirmed
+influenza illness caused by virus strains antigenically similar to
+those of the vaccines. Secondary objectives included demonstration of vaccine efficacy against nonvaccine viruses and all
+circulating strains and the safety and tolerability of each vaccine.
+Influenza was defined as an episode of influenza-like illness (ie,
+fever [temperature, 37.8C] plus sore throat or cough), with
+subsequent laboratory confirmation of influenza virus. Seroprotection and seroconversion rates and antihemagglutinin geometric mean titers were determined on day 1 (baseline) and 3
+weeks after vaccination in the first 1045 participants enrolled
+at United States sites, who were randomized 8:25:2 to CCIV
+( ), TIV ( ), or placebo ( ) for immu- n p 240 n p 746 n p 59
+nogenicity analysis.
+Vaccines. CCIV and TIV (Novartis Vaccines and Diagnostics) contained 15 mg of hemagglutinin per 0.5-mL dose of each
+virus strain recommended for the 2007–2008 Northern Hemisphere influenza season: A/Solomon Islands/3/2006 (H1N1)–
+like, A/Wisconsin/67/2005 (H3N2)–like, and B/Malaysia/2506/
+2004–like. Vaccines and placebo (0.5 mL of phosphate-buffered
+saline) were administered in the deltoid muscle of the nondominant arm. Only the vaccine administrator had access to
+the randomization code.
+Reactogenicity and safety. Study participants were monitored for 30 min after vaccination for immediate reactions.
+Participants recorded the occurrence, duration, and severity of
+local injection site (ecchymosis, erythema, induration, swelling,
+and pain) and systemic (chills, malaise, myalgia, arthralgia, headache, sweating, fatigue, and fever [oral temperature, 37.8C])
+reactions for 7 days after vaccination. Solicited reactions were
+graded as follows: mild, no limitation of normal daily activities;
+moderate, some limitation; or severe, unable to perform normal
+daily activities. Unsolicited reactions were recorded for 21 days
+after vaccination; serious adverse events were monitored for
+the entire study.
+Influenza surveillance. Beginning 21 days after vaccination, participants reported influenza-like illness symptoms, defined as fever (temperature, 37.8C) plus sore throat or cough,
+as well as body aches, chills, headache, and runny or stuffy
+nose, to investigators. Active influenza-like illness surveillance
+was also conducted during weekly telephone calls from the call
+center. Participants reporting influenza-like illness symptoms
+underwent clinical evaluations; nasal and throat specimens were
+obtained for laboratory confirmation of influenza virus. Because peak shedding of virus may occur during the first 24–72
+h of illness [18], specimens were targeted for collection within
+24 h after symptom onset, with a window of 120 h.
+Laboratory methods. Combined nasal and throat specimens were evaluated for influenza virus (Covance) in RhMK
+cell culture and by polymerase chain reaction testing (ResPlex
+III Plus, Qiagen). Confirmation and subtyping of infected cells
+was performed by fluorescence staining with fluorescein isothiocyanate–conjugated antibody against type-specific influenza anDownloaded from https://academic.oup.com/cid/article-abstract/51/9/997/293487 by guest on 15 October 2019
+Cell- and Egg-Derived Influenza Vaccine Efficacy • CID 2010:51 (1 November) • 999
+Figure 1. Disposition of the study participants. CCIV, cell culture–derived influenza vaccine; TIF, egg-derived trivalent inactivated vaccine.
+tigens [19]. Further characterization of polymerase chain reaction–positive specimens was not possible.
+The hemagglutinin viral titers were performed on influenzapositive cultures using a standard erythrocyte assay [19]. The
+hemagglutinin titer was the highest dilution of virus to cause
+agglutination. All specimens with hemagglutinin titers 1:4
+were typed according to strain and evaluated for antigenic relatedness to vaccine strains at the Centers for Disease Control
+and Prevention. Isolates were considered to be vaccine matching if there was a 4-fold difference in the titer of the participant’s isolate and the vaccine strain against a reference antiserum. Nonvaccine strain isolates were characterized by an
+hemagglutination inhibition antibody titer 1:8 against specific reference strain antisera.
+Serum samples for immunogenicity evaluation were assessed
+by hemagglutination inhibition assays against egg-derived vaccine A/H1N1, A/H3N2, and B-strain antigens at the Novartis
+Vaccines Clinical Serology Laboratory. Serum samples were pretreated with receptor destroying enzyme to block nonspecific
+inhibitors [20] and tested at an initial dilution of 1:10. The
+hemagglutination inhibition titer was the highest dilution that
+showed complete inhibition of hemagglutination. Negative samples were assigned a titer of 1:5.
+Statistical analysis. Vaccinated study participants who were
+evaluable 21 days after vaccination were included in the efficacymodified intention-to-treat population. The efficacy per protocol
+population included those individuals who were evaluable during
+the individual 6-month surveillance period. The vaccine efficacy
+was estimated as (1 relative risk)  100, where relative risk
+was the ratio of the percentages of vaccine recipients with influenza to placebo recipients with influenza (Pvaccine/Pplacebo). Vaccine
+efficacy was assessed for significance versus placebo with use of
+simultaneous 100  (1  a) Sidak-corrected 1-sided confidence
+intervals (CIs) for the 2 relative risks, where . a p .025
+The study population size calculation of 11,700 individuals
+(3900 per group) was based on determining the vaccine efficacy
+for each vaccine compared with placebo separately. Comparison
+of the 2 vaccines was not planned. For a vaccine efficacy of
+70%, a projected confirmed influenza attack rate of 3%, and
+a 1-sided a of .0125, the power to reject the null hypotheses
+that the vaccine efficacy was 40% for each of the vaccines
+was 92%. To adjust for this double comparison, the Bonferroni
+method was used to estimate the power. The analyses were
+conducted using SAS software, version 9.1 (SAS Institute).
+Seroprotection and seroconversion rates, geometric mean titers on days 1 and 22, and geometric mean ratios of geometric
+mean titers on days 1 and 22 were calculated. Seroprotection
+rates met the CBER immunogenicity criteria if the lower limit
+of the 2-sided 95% CI for the percentage of seroprotected individuals was 70%. The seroconversion criterion was met if
+the lower limit of the 2-sided 95% CI for the percentage of
+seroconverted individuals was 40%. The 95% CIs were calculated using the Clopper-Pearson method.
+RESULTS
+Study participants. A total of 11,404 participants were randomized, 11,382 were vaccinated, and 10,844 (95%) completed
+the study (Figure 1). Overall, 560 participants withdrew from
+the study: 206 in the CCIV group, 166 in the TIV group, and
+188 in the placebo group. One participant in the CCIV group
+withdrew after an adverse event (head injuries), and 4 died, 2
+in the CCIV and 1 each in the TIV and placebo groups. None
+of these events was judged as related to study treatment. The
+most frequent reason for withdrawal was loss to follow-up,
+which occurred at a rate of 5% in the CCIV and 4% in the
+TIV and placebo groups. Less than 1% of the participants in
+each group withdrew for other reasons (eg, withdrawal of consent, inappropriate enrollment, protocol violation, and inability to classify). A total of 11,301 study participants who were
+vaccinated (3791, 3648, and 3862 in the CCIV, TIV, and placebo groups, respectively) were evaluable 21 days after vaccination and were included in the efficacy-modified intenDownloaded from https://academic.oup.com/cid/article-abstract/51/9/997/293487 by guest on 15 October 2019
+1000 • CID 2010:51 (1 November) • Frey et al
+Table 1. Cases of Influenza-Like Illness (ILI) Reported, Nasal and Pharyngeal Swabs Taken, and the Percentages of ILI Cases Confirmed as Influenza
+Variable
+CCIV
+(n p 3776)
+TIV
+(n p 3638)
+Placebo
+(n p 3843)
+All
+(n p 11,257)
+ILI cases 189 (5) 243 (7) 353 (9) 785 (7)
+Swabs taken
+Total 174 (92) 226 (93) 326 (92) 726 (92)
+Within 120 h 168/174 (97) 218/226 (96) 318/326 (98) 704/726 (97)
+Interval from ILI to swab, mean h  SDa 39.4  26.6 38.2  26.5 38.7  27.2 38.7  26.8
+Confirmed influenza cases 42/168 (25) 49/218 (22) 140/318 (44) 231/704 (33)
+NOTE. Data are no. or proportion (%) of participants, unless otherwise indicated. CCIV, cell culture–derived influenza vaccine;
+TIV, egg-derived trivalent inactivated vaccine; SD, standard deviation.
+a For interval from ILI to swab, 168, 218, 318, and 704 participants were included for CCIV, TIV, placebo, and all groups, respectively.
+Table 2. Vaccine Efficacy (VE) against Culture-Confirmed Influenza Caused by Vaccine-Like, Non–Vaccine-Like, and All Circulating
+Strains
+Strain
+Proportion (%) of participants with influenza VE, % (97.5% CI lower limit)a Pb
+CCIV TIV Placebo
+CCIV vs
+placebo
+TIV vs
+placebo
+CCIV vs
+placebo
+TIV vs
+placebo
+All circulating strainsc
+Overall 42/3776 (1.11) 49/3638 (1.35) 140/3843 (3.64) 69.5 (55.0) 63.0 (46.7) !.001 .003
+A/H1N1 6/3776 (0.16) 10/3638 (0.27) 57/3843 (1.48) 89.3 (73.0) 81.5 (60.9) !.001 !.001
+A/H3N2 6/3776 (0.16) 12/3638 (0.33) 25/3843 (0.65) 75.6 (35.1) 49.3 (9.0) .040 .53
+B 30/3776 (0.79) 27/3638 (0.74) 61/3843 (1.59) 49.9 (18.2) 53.2 (22.2) .37 .26
+Vaccine-like strains
+Overall 7/3776 (0.19) 9/3638 (0.25) 44/3843 (0.011) 83.8 (61.0) 78.4 (52.1) !.001 .004
+A/H1N1 5/3776 (0.13) 8/3638 (0.22) 43/3843 (0.011) 88.2 (67.4) 80.3 (54.7) !.001 .002
+A/H3N2 2/3776 (0.05) 1/3638 (0.03) 0/3843 (0) Not evaluabled Not evaluablea .999 .992
+B 0/3776 (0) 0/3638 (0) 1/3843 (0.03) 100.0 100.0 .394 .400
+Non–vaccine-like strains
+Overall 30/3776 (0.79) 29/3638 (0.80) 74/3843 (1.93) 58.7 (33.5) 58.6 (32.9) .078 .085
+A/H1N1 1/3776 (0.03) 0/3638 (0) 8/3843 (0.21) 87.3 (4.6) 100.0 (33.9) .104 .033
+A/H3N2 0/3776 (0) 2/3638 (0.05) 8/3843 (0.21) 100.0 (36.3) 73.6 (30.1) .030 .265
+B 29/3776 (0.0077) 27/3638 (0.0074) 59/3843 (0.0154) 50.0 (17.5) 51.7 (19.4) .376 .319
+NOTE. CCIV, cell culture–derived influenza vaccine; CI, confidence interval; NE, not evaluable; TIV, egg-derived trivalent inactivated vaccine.
+a VE p (1  relative risk)  100. Simultaneous 1-sided 97.5% CIs for the VE of each vaccine relative to placebo were based on Sidak-corrected score CIs
+for the 2 relative risks. b Adjusted P values from the score statistic with Sidak correction testing the null hypothesis that the VE of each vaccine relative to placebo 40% against
+the alternative hypothesis that the VE 140%. If the adjusted , then VE is significantly larger than 40%. This test procedure strongly controls the family- P ! .025
+wise error rate at 2.5%. c Five influenza cases in the CCIV group, 11 in the TIV group, and 22 in the placebo group were included in this category because influenza was confirmed
+by culture or polymerase chain reaction but the virus strain could not be characterized. d The VE against A/H3N2 was !0% (ie, not evaluable); 2 cases of A/H3N2 influenza occurred in the CCIV group and 1 in the TIV group, but none were reported
+in the placebo group.
+tion-to-treat population. The efficacy per protocol population
+included 11,257 participants in the CCIV ( ), TIV n p 3776
+( ), and placebo ( ) groups, respectively, who n p 3638 n p 3843
+were evaluable during the individual 6-month surveillance period. The demographic and baseline characteristics of the 3
+study groups were similar. The mean age was 32.7–33.0 years;
+44%–45% were male. White, Hispanic, and black persons represented 84%–85%, 8%, and 7% of the study participants, respectively; 13%–15% of participants had previously received
+influenza vaccinations.
+Efficacy. A total of 785 study participants in the CCIV
+(5%), TIV (7%), and placebo (9%) groups reported influenzalike illness symptoms during the surveillance period, with samples taken from 92% (Table 1). The mean interval from symptom onset to collection samples was ∼39 h; 96%–98% were
+obtained within the specified 120-h window, and influenza viDownloaded from https://academic.oup.com/cid/article-abstract/51/9/997/293487 by guest on 15 October 2019
+Table 3. Prevaccination and Postvaccination Seroprotection, Seroconversion, Geometric Mean Titer (GMT), and Geometric Mean Ratio (GMR) for the Cell Culture–Derived
+Influenza Vaccine (CCIV), Egg-Derived Trivalent Inactivated Vaccine (TIV), and Placebo Groups
+Variable
+CCIV
+(n p228)
+TIV
+(n p 695)
+Placebo
+(n p 55)
+A/H1N1 A/H3N2 B A/H1N1 A/H3N2 B A/H1N1 A/H3N2 B
+Prevaccination (day 1)
+Seroprotection, % (95% CI) 48 (42–55) 63 (57–69) 25 (20–31) 53 (49–57) 58 (54–61) 23 (20–27) 60 (46–73) 71 (57–82) 22 (12–35)
+GMT (95% CI) 34 (27–42) 48 (39–58) 14 (12–16) 35 (31–40) 41 (37–46) 13 (12–14) 37 (24–57) 56 (37–83) 12 (8.89–16)
+Postvaccination (day 22)
+Seroprotection, % (95% CI) 99 (97–100) 99 (98–100) 78 (72–83) 98 (97–99) 99 (98–100) 92 (90–94) 60 (46–73) 65 (51–78) 22 (12–35)
+Seroconversion, % (95% CI) 78 (72–83) 59 (53–66) 51 (45–58) 75 (71–78) 68 (64–71) 68 (65–72) 0 (0–6) 0 (0–6) 0 (0–6)
+GMT (95% CI) 566 (483–663) 332 (289–383) 72 (63–84) 499 (455–546) 357 (330–387) 120 (111–131) 36 (26–50) 53 (40–71) 12 (8.81–16)
+GMR (95% CI) 17 (13–21) 6.94 (5.68–8.46) 5.2 (4.31–6.28) 14 (12–16) 8.68 (7.74–9.73) 9.41 (8.45–10) 0.99 (0.62–1.56) 0.96 (0.64–1.44) 0.99 (0.68–1.46)
+NOTE. CI, confidence interval. Center for Biologics Evaluation and Research criteria for seroprotection (the lower limit of the 2-sided 95% CI for the percentage of seroprotected individuals
+70%) and
+seroconversion (the lower limit of the 2-sided 95% CI for the percentage of seroconverted individuals
+40%) rates for each strain for adults aged 18– 64 years were used in assessing immunogenicity. Seroprotection
+was defined as an hemagglutination inhibition (HI) titer
+40. Seroconversion rate was defined as seroconversion (negative prevaccination serum [HI titer !10] and postvaccination HI titer
+40) or significant increase
+(4-fold increase from nonnegative [
+10] prevaccination HI titer).
+Downloaded from https://academic.oup.com/cid/article-abstract/51/9/997/293487 by guest on 15 October 2019
+1002 • CID 2010:51 (1 November) • Frey et al
+Figure 2. Solicited local and systemic reactions in the 7 days after vaccination. CCIV, cell culture–derived influenza vaccine; TIF, egg-derived trivalent
+inactivated vaccine.
+rus was confirmed in 25% (CCIV), 22% (TIV), and 44% (placebo) of those influenza-like illness case samples.
+A total of 231 influenza cases were caused by all circulating
+strains (ie, vaccine-like, non–vaccine-like, and untyped), including 140 of 3843 in the placebo group, 42 of 3776 in the
+CCIV group, and 49 of 3638 in the TIV group (vaccine efficacy
+of 69.5% [1-sided 97.5% CI lower limit, 55.0%] and 63.0% [1-
+sided 97.5% CI lower limit, 46.7%], respectively). The placebo
+attack rate was 3.64% (Table 2). For all circulating strains, the
+vaccine efficacies against the A/H1N1 strains were 89.3% (1-
+sided 97.5% CI lower limit, 73.0%) for the CCIV and 81.5%
+(1-sided 97.5% CI lower limit, 60.9%) for the TIV groups, with
+efficacies of 75.6% (1-sided 97.5% CI lower limit, 35.1%) and
+49.3% (1-sided 97.5% CI lower limit, 9.0%) against A/H3N2
+strains and 49.9% (1-sided 97.5% CI lower limit, 18.2%) and
+53.2% (1-sided 97.5% CI lower limit, 22.2%) against B strains,
+respectively. B strains predominated among the nonvaccine
+strains, causing all but 1 of the 116 cases of confirmed B strain
+influenza.
+Overall, 60 influenza cases were caused by vaccine-like strains,
+including 44 of 3843 in the placebo group, 7 of 3776 in the CCIV
+group, and 9 of 3638 in the TIV group (Table 2). The overall
+vaccine efficacy was 83.8% (1-sided 97.5% CI lower limit,
+61.0%) for the CCIV and 78.4% (1-sided 97.5% CI lower limit,
+52.1%) for the TIV group. An A/H1N1 virus was isolated from
+56 of 60 cases, including 43 in the placebo group, 5 in the
+CCIV group (vaccine efficacy, 88.2%), and 8 in the TIV group
+(vaccine efficacy, 80.3%). Three cases were caused by vaccinelike H3N2 strains and only 1 by a vaccine-like B strain.
+There were 134 culture-confirmed influenza cases caused by
+non–vaccine-like strains, including 74 of 3843 in the placebo
+group, 30 of 3776 in the CCIV group, and 29 of 3638 in the
+TIV group, giving vaccine efficacies of 58.7% (1-sided 97.5%
+CI lower limit, 33.5%) for the CCIV and 58.6% (1-sided 97.5%
+CI lower limit, 32.9%) for the TIV group (Table 2). Again,
+most of these (115 cases; 85.8%) were caused by B strain viruses.
+The overall and anti-A/H1N1 vaccine efficacies of each vaccine were highly significant, compared with placebo, for all
+circulating and for vaccine-like strains, and the lower limits of
+the 1-sided 97.5% CIs for vaccine efficacy of the CCIV and
+TIV groups were well above the 40% predefined study objective
+and CBER efficacy criterion. Only 43 influenza cases were
+caused by A/H3N2, an attack rate of 0.65%, making reliable
+vaccine efficacy estimation difficult. The vaccine efficacy point
+estimate against influenza B was ∼50% despite a vaccine mismatch, but the 97.5% CI lower limit was !40%.
+Immunogenicity. Baseline seroprotection rates, seroconversion rates, and antihemagglutinin geometric mean titers did not
+differ among the study groups. Both vaccines were highly immunogenic, with postvaccination responses to type B slightly
+higher in the TIV group (Table 3). Seroprotection rates, seroconversion rates, and geometric mean ratios before to after
+vaccination for both vaccines and all 3 vaccine virus stains
+exceeded both European (Committee for Medicinal Products
+for Human Use) and United States (CBER) immunogenicity
+licensing criteria [16, 17].
+Reactogenicity and safety. The percentage of study participants reporting solicited reactions was similar in each group.
+Most reactions occurred within 2 days after vaccination and
+were transient in duration. The most frequent local reaction
+was injection site pain, reported by 30%, 24%, and 10% of
+participants in the CCIV, TIV, and placebo groups, respectively.
+Erythema was reported by 13% of participants in each vaccine
+group and by 10% given placebo (Figure 2). The most common
+Downloaded from https://academic.oup.com/cid/article-abstract/51/9/997/293487 by guest on 15 October 2019
+Cell- and Egg-Derived Influenza Vaccine Efficacy • CID 2010:51 (1 November) • 1003
+solicited systemic reactions were headache (15% in all groups),
+fatigue (10% in the CCIV and placebo groups and 11% in the
+TIV group), myalgia (12%, 10%, and 7% in the CCIV, TIV,
+and placebo groups, respectively), and malaise (8%, 7%, and
+6% in CCIV, TIV, and placebo groups, respectively) (Figure 2).
+Severe solicited reactions were reported in !1% of participants
+in any study group.
+Possibly or probably related unsolicited adverse events were
+reported by 1%–2% of study participants on days 1–7 and by
+!1% of participants from days 8–23; none were reported on
+days 23–181. Three participants in the CCIV group and 1 each
+in the TIV and placebo groups withdrew after adverse events
+that were not considered to be related to vaccination. Four
+deaths occurred, 2 in the CCIV group and 1 each in the TIV
+and the placebo groups (all of which were judged unrelated to
+the study vaccines). The remaining 127 serious adverse events
+(42 participants in the CCIV group, 35 in the TIV group, and
+38 in the placebo group) were determined by the investigator
+to be unrelated to the study vaccine. No individuals withdrew
+from the study because of a vaccine-related adverse event.
+DISCUSSION
+To our knowledge, this was the largest randomized, placebocontrolled trial yet conducted to evaluate the efficacy of inactivated influenza vaccines and the first to evaluate the efficacy
+of a vaccine produced using a continuous cell culture system.
+The study was designed to demonstrate the efficacy of CCIV
+and TIV separately against placebo, an approach taken to decrease the size of the required placebo group, thus reducing
+the number of participants potentially developing influenza.
+The total number of 785 (7%) of 11,257 participants who reported influenza-like illness symptoms was consistent with influenza surveillance data from Europe and the United States
+for the 2007–2008 influenza season [21, 22]. The vaccine efficacies of both CCIV and TIV against influenza caused by all
+circulating influenza strains and by vaccine-like strains were
+highly significant, compared with placebo, and both exceeded
+CBER vaccine efficacy criteria.
+The vaccine efficacies of both study vaccines against vaccinelike influenza virus strains were consistent with results obtained
+in healthy adults with conventional TIVs, which have been the
+standard for many years. A recent meta-analysis of 48 randomized trials involving 166,000 healthy adults found that the overall vaccine efficacy was 80% (95% CI, 56%–91%) against influenza when the vaccine matched the circulating strain and
+circulation was high but decreased to 50% (95% CI, 27%–
+65%) when it did not match [23]. In this study, the vaccinematched strains were nearly all A/H1N1. However, most influenza cases were caused by type B strains that were not vaccinelike, and the vaccine efficacy point estimate against these nonmatching B strains was ∼50%. This reduced the efficacy against
+all circulating strains. A large TIV trial conducted in Europe in
+the 2006–2007 influenza season using surveillance similar to
+ours found a comparable placebo attack rate of 3.2% and efficacy against culture-confirmed influenza of 66.9% (95% CI,
+51.9%–77.4%), compared with placebo, against vaccine-like
+strains and 61.6% (95% CI, 46.0%–72.8%) against any circulating strain [24].
+Both CCIV and TIV were well tolerated. Only mild-moderate
+injection site pain occurred more frequently in the CCIV group.
+The safety results were consistent with previous studies of this
+CCIV vaccine and with results observed in studies that compared
+another MDCK-propagated CCIV and TIV [11–15, 25–28].
+Both CCIV and TIV met all CBER immunogenicity criteria
+for all 3 viral strains. The influenza B strain seroprotection
+rates, seroconversion rates, and geometric mean titers were lower for the CCIV than the TIV group, but that was not reflected
+by any differences in the B strain efficacy results. The immunogenicity results were in line with other trials of vaccines
+propagated in MDCK cells and egg-derived controls [11–15,
+25–28].
+Influenza virus propagation in cell culture offers potential
+benefits, compared with propagation in eggs. Most cell stocks,
+including MDCK cells, can be stored frozen, and the supply
+needed for vaccine production can be generated quickly [29].
+Thus, the time between the choice of seasonal influenza virus
+strains and availability of vaccine might be shortened to allow
+a change in production and incorporate late emerging strains.
+Importantly, cell culture could assist in providing supplies of
+prepandemic and strain-specific pandemic vaccines more
+quickly than is possible with egg-based systems alone [30]. Cell
+culture avoids an egg allergy contraindication and, as a closed
+system, carries a reduced risk of microbial or chemical contamination. Finally, MDCK cells adapted to rapid growth in
+suspension media do not require microcarriers, enzyme treatment for subculture, or protein supplements to promote adhesion to a substrate [31].
+This study has shown that CCIV (Optaflu) and TIV (Agippal), which have been in routine use in the European Union
+and other countries, both exceeded efficacy and immunogenicity criteria as defined by regulatory authorities. Both CCIV
+and TIV can be considered for use in annual influenza vaccination campaigns.
+Acknowledgments
+Editorial support and writing assistance were provided by Delphine Goux
+(Novartis Vaccines) and Clement Weinberger, PhD.
+Financial support. Novartis Vaccines was the funding source and was
+involved in all stages of the study conduct and analysis.
+Potential conflicts of interest. M.L., A.I., N.G., and S.H. are employees
+of Novartis Vaccines and Diagnostics. T.V. has received consultancy fees
+from MedImmune and speaker fees from MedImmune, Novartis, and CruDownloaded from https://academic.oup.com/cid/article-abstract/51/9/997/293487 by guest on 15 October 2019
+1004 • CID 2010:51 (1 November) • Frey et al
+cell in relation to meetings on influenza vaccination. S.F. and A.S.-M.: no
+conflicts.
+References
+1. World Health Organization. Avian influenza: assessing the pandemic threat. http://www.who.int/csr/disease/influenza/H5N1-9reduit.pdf.
+Accessed 9 November 2009.
+2. Sprenger MJ, Mulder PG, Beyer WE, Van Strik R. Masurel N. Impact
+of influenza on mortality in relation to age and underlying disease,
+1967–1989. Int J Epidemiol 1993; 22:334–340.
+3. World Health Organization. Cell culture as a substrate for the production of influenza vaccines: memorandum from a WHO meeting.
+Bull World Health Organ 1995; 73:431–435.
+4. Audsley JM, Tannock GA. The role of cell culture vaccines in the control
+of the next influenza pandemic. Expert Opin Biol Ther 2004; 4:709–
+717.
+5. Merten OW, Hannoun C, Manuguerra JC, Ventre F, Petres S. Production of influenza virus in cell cultures for vaccine production. Adv
+Exp Med Biol 1996; 397:141–151.
+6. Montagnon BJ, Vincent-Falquet JC. Experience with the Vero cell line.
+Dev Biol Stand 1998; 93:119–123.
+7. Barrett PN, Mundt W, Kistner O, Howard MK. Vero cell platform in
+vaccine production: moving towards cell culture-based viral vaccines.
+Expert Rev Vaccines 2009; 8:607–618.
+8. Keitel WA, Dekker CL, Mink C, et al. Safety and immunogenicity of
+inactivated, Vero cell culture-derived whole virus influenza A/H5N1
+vaccine given alone or with aluminum hydroxide adjuvant in healthy
+adults. Vaccine 2009; 27:6642–6648.
+9. Koudstaal W, Hartgroves L, Havenga M, et al. Suitability of PER.C6
+cells to generate epidemic and pandemic influenza vaccine strains by
+reverse genetics. Vaccine 2009; 27:2588–2593.
+10. EMEA. Optaflu European Public Assessment Report. 2007. http://www
+.emea.europa.eu/humandocs/PDFs/EPAR/optaflu/H-758-en6.pdf. Accessed 9 November 2009.
+11. Doroshenko A, Halperin S. Trivalent MDCK cell culture-derived influenza vaccine Optaflu (Novartis Vaccines). Expert Rev Vaccines 2009; 28:
+679–688.
+12. Groth N, Montomoli E, Gentile C, Manini I, Bugarini R, Podda A. Safety,
+tolerability and immunogenicity of a mammalian cell-culture-derived
+influenza vaccine: a sequential Phase I and Phase II clinical trial. Vaccine
+2009; 27:786–791.
+13. Szymczakiewicz-Multanowska A, Groth N, Bugarini R, et al. Safety and
+immunogenicity of a novel influenza subunit vaccine produced in
+mammalian cell culture. J Infect Dis 2009; 200:841–848.
+14. Reisinger KS, Block SL, Izu A, Groth N, Holmes SJ. Subunit influenza
+vaccines produced from cell culture or in embryonated chicken eggs:
+comparison of safety, reactogenicity, and immunogenicity. J Infect Dis
+2009; 200:849–857.
+15. Ambrozaitis A, Groth N, Bugarini R, Sparacio V, Podda A, Lattanzi
+M. A novel mammalian cell-culture technique for consistent production of a well-tolerated and immunogenic trivalent subunit influenza
+vaccine. Vaccine 2009; 27:6022–6029.
+16. European Agency for the Evaluation of Medicinal Products European
+Committee for Medicinal Products for Human Use: note for guidance
+on harmonization of requirements for influenza vaccines 1997 (CPMP/
+BWP/214/96). http://www.emea.europa.eu/pdfs/human/bwp/021496en
+.pdf. Accessed 6 October 2009.
+17. US Food and Drug Administration, Center for Biologics Evaluation
+and Research. Guidance for industry: clinical data needed to support
+the licensure of seasonal inactivated influenza. http://www.fda.gov/
+BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/
+Guidances/Vaccines/ucm074794.htm. Accessed 21 November 2009.
+18. Bell D, Nicoll A, Fukuda K, Horby P, Monto A. Nonpharmaceutical
+interventions for pandemic influenza, international measures. World
+Health Organization Writing Group. Emerg Infect Dis 2006; 12:81–87.
+19. Cox NJ, Ziegler T. Influenza viruses. In: Murray PR, Barron EJ, Jorgensen JH, Pfaller MA, Yolken RH, eds. Manual of clinical microbiology. 8th ed. Washington, DC: ASM Press, 2003:1360–1365.
+20. Hierholzer JC, Suggs, MT, Hall EC. Standardized viral hemagglutination and hemagglutination inhibition tests, II: description and statistical evaluation. Appl Microbiol 1969; 18:824–833.
+21. Centers for Disease Control and Prevention. 2007–08 US Influenza
+Season Summary. http://www.cdc.gov/flu/weekly/weeklyarchives2007
+-2008/07-08summary.htm. Accessed 21 November 2009.
+22. WHO/Europe influenza surveillance. EuroFlu Weekly Electronic Bulletin. Influenza season 2007–2008: http://www.euroflu.org/cgi-files/
+bulletin_v2.cgi?seasonp2007&menupy. Accessed 21 November 2009.
+23. Demicheli V, Di Pietrantonj C, Jefferson T, Rivetti A, Rivetti D. Vaccines
+for preventing influenza in healthy adults. Cochrane Database Syst Rev
+2007; 2:CD001269.
+24. Beran J, Vesikari T, Wertzova V, et al. Efficacy of inactivated split-virus
+influenza vaccine against culture-confirmed influenza in healthy adults:
+a prospective, randomized, placebo-controlled trial. J Infect Dis 2009;
+200:1861–1869.
+25. Halperin SA, Smith B, Mabrouk T, et al. Safety and immunogenicity of
+a trivalent, inactivated, mammalian cell culture-derived influenza vaccine
+in healthy adults, seniors, and children. Vaccine 2002; 20:1240–1247.
+26. Palache AM, Brands R, Van Scharrenburg GJM. Immunogenicity and
+reactogenicity of influenza subunit vaccines produced in MDCK cells
+or fertilized chicken eggs. J Infect Dis 1997; 176(Suppl 1):S20–S23.
+27. Percheson PB, Tre´panier P, Dugre´ R, Mabrouk T. A phase 1 randomized
+controlled clinical trial to study the reactogenicity and immunogenicity
+of a new split influenza vaccine derived from a non-tumorigenic cell
+line. Dev Biol Stand 1999; 98:127–132.
+28. Palache AM, Scheepers HS, de Regt V, et al. Safety, reactogenicity and
+immunogenicity of Madin Darby Canine Kidney cell-derived inactivated influenza subunit vaccine: a meta-analysis of clinical studies. Dev
+Biol Stand 1999; 98:115–125.
+29. World Health Organization. Initiative for Vaccine Research. Use of cell
+lines for the production of influenza virus vaccines: an appraisal of
+technical, manufacturing and regulatory considerations. Geneva, Switzerland, 10 April 2007. http://www.who.int/vaccine_research/diseases/
+influenza/WHO_flu_cell_substrate_version3.pdf. Accessed 20 November 2009.
+30. Wright PF. Vaccine preparedness– are we ready for the next influenza
+pandemic? N Engl J Med 2008; 358:2540–2543.
+31. Doroshenko A, Halperin SA. Trivalent MDCK cell culture-derived influenza vaccine Optaflu (Novartis Vaccines). Expert Rev Vaccines 2009;
+8:679–688.
+Downloaded from https://academic.oup.com/cid/article-abstract/51/9/997/293487 by guest on 15 October 2019

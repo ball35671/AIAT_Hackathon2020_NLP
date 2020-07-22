@@ -1,0 +1,907 @@
+﻿The effectiveness of antipsychotic medications in patients who use or
+avoid illicit substances: Results from the CATIE study
+Marvin S. Swartz a,⁎, H. Ryan Wagner a
+, Jeffrey W. Swanson a
+, T. Scott Stroup b
+,
+Joseph P. McEvoy a
+, Fred Reimherr c
+, Del D. Miller f
+, Mark McGee d
+, Ahsan Khan g
+,
+Jose M. Canive h
+, Sonia M. Davis e
+, John K. Hsiao i
+, Jeffrey A. Lieberman j
+for the CATIE Investigators1
+a Department of Psychiatry and Behavioral Sciences, Duke University Medical Center, Durham NC, United States
+b Department of Psychiatry, School of Medicine, University of North Carolina at Chapel Hill, NC, United States c Department of Psychiatry, University of Utah Medical Center, Salt Lake City, UT, United States d Appalachian Behavioral Healthcare System, Athens OH, United States e Quintiles Inc., Research Triangle Park, NC, United States f Department of Psychiatry, University of Iowa School of Medicine, Iowa City, IA, United States g Psychiatric Research Institute, Wichita KS, United States h Department of Psychiatry, Albuquerque Veteran’s Administration Medical Center and the University of New Mexico,
+Albequerque, NM, United States i Division of Services and Intervention Research, National Institute of Mental Health, National Institutes of Health, Bethesda, United States
+j Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York State Psychiatric Institute,
+New York, United States
+Received 22 October 2007; received in revised form 15 November 2007; accepted 20 November 2007
+Available online 11 January 2008
+Abstract
+Objective: This double-blind study compared a second generation (atypical) antipsychotic drugs compared to a representative older
+agent for patients with schizophrenia who use or avoid illicit substances.
+Methods: Schizophrenic subjects were recruited at 57 U.S. sites and randomly assigned to olanzapine, perphenazine, quetiapine,
+risperidone or ziprasidone for up to 18 months. The primary aim of this analysis was to delineate differences between the overall
+effectiveness of these five treatments among patients who used or did not use illicit substances.
+Results: There were no significant differences between treatment groups in time to all-cause treatment discontinuation among
+patients who use illicit drugs (median 3.3 to 6.8 months). Among non-users time to treatment discontinuation was significantly
+longer for patients treated with olanzapine (median 13.0 months) than perphenazine ( 5.9 months), risperidone (5.6 months), or
+quetiapine (5.0 months); time to discontinuation for ziprasidone (4.3 months) was even shorter, although the latter difference was
+not significant. The difference between risperidone and quetiapine, although small, was significant. All remaining differences were
+non-significant. Similar results were found for discontinuation due to inefficacy. There were no differences between illicit users and
+non-users in symptom reduction and global improvement, after adjustment for differential duration of treatment. Differences in
+Available online at www.sciencedirect.com
+Schizophrenia Research 100 (2008) 39–52
+www.elsevier.com/locate/schres
+⁎ Corresponding author. Department of Psychiatry and Behavioral Sciences, Duke University School of Medicine, DUMC Box 3173, Durham, NC
+27710, United States. Tel.: +1 919 684 8676; fax: +1 919 681 7504.
+E-mail address: swart001@mc.duke.edu (M.S. Swartz). 1 The CATIE Investigators are listed in the Acknowledgements.
+0920-9964/$ - see front matter © 2007 Elsevier B.V. All rights reserved.
+doi:10.1016/j.schres.2007.11.034
+discontinuation results were attenuated by non-compliance, but the trends persisted after controlling for treatment compliance.
+Conclusions: Among patients with chronic schizophrenia who avoid use of illicit drugs, olanzapine was more effective than other
+antipsychotics as reflected by longer time to all-cause discontinuation, but illicit substance abuse attenuated this advantage,
+reinforcing the need for concurrent substance abuse treatment.
+© 2007 Elsevier B.V. All rights reserved.
+Keywords: Schizophrenia; Antipsychotics; Substance abuse; Dual disorders
+1. Introduction
+Substance abuse co-morbidity in schizophrenia is a
+powerful risk factor for a wide range of poor outcomes
+(Abram and Teplin, 1991; Cournos et al., 1991;
+Goodman et al., 2001; Haywood et al., 1995; Rosenberg
+et al., 2001; Swanson et al., 1997; Swartz et al., 1998;
+Swofford et al., 1996). Estimates of the prevalence of
+substance use co-morbidity range from a low of 10%–
+70% depending on diagnostic assessment methods
+(Blanchard et al., 2000; Cantor-Graae et al., 2001;
+Dixon, 1999; Goswami et al., 2004; Kavanagh et al.,
+2002; Kessler et al., 1997; McCreadie, 2002; Mueser
+et al., 1998; Regier et al., 1990; Salyers and Mueser,
+2001; Swartz et al., 2006a,b). Clinicians often assume
+that any level of substance abuse is likely to lead to
+adverse outcomes (Mueser et al., 1998), but receive little
+guidance about preferred antipsychotic treatment in this
+population. Several small-scale studies suggest second
+generation antipsychotics may reduce illicit substance
+use (Buckley, 1999; Drake et al., 2000; Green et al.,
+1999; Green, 2005; Littrell et al., 2001; Petrakis et al.,
+2006; Smelson et al., 2002; Tsuang et al., 2002), but
+there are no large representative community-based
+trials comparing treatment outcomes among users and
+non-users.
+This study employs data from the NIMH Clinical
+Antipsychotic Trials of Intervention Effectiveness
+(CATIE) project to compare the effects of olanzapine,
+perphenazine, quetiapine, risperidone and ziprasidone
+among users and non-users on time to treatment discontinuation (Davis et al., 2003; Keefe et al., 2003, 2006,
+2007; Lieberman et al., 2005; McEvoy et al., 2006;
+Rosenheck et al., 2006; Stroup et al., 2003, 2006; Swartz
+et al., 2003). Reports on the outcomes from CATIE to
+date, have found that patients in the initial randomization
+(Phase 1) on olanzapine had longer time to treatment
+discontinuation than some of the other drugs, but had
+greater side effect burden related to weight gain and
+related metabolic sequelae (Lieberman et al., 2005).
+None of the other three second generation drugs showed
+greater efficacy or tolerability than the first generation
+drug, perphenazine. All of the antipsychotic treatment
+groups had small but significant improvements in neurocognition and psychosocial functioning, but there was
+no difference among them (Keefe et al., 2007; Swartz
+et al., 2007).
+The primary objective of the current study was to
+examine the effect of illicit substance use on time to
+treatment discontinuation across treatment groups.
+Secondary objectives included examining subcategories
+of treatment discontinuation and psychopathology
+measures.
+2. Experimental design and methods
+2.1. Study design and measures
+The CATIE study was initiated by the National Institute of Mental Health (NIMH) to determine the comparative effectiveness of antipsychotic drugs. Its rationale, design and methods were previously described
+(Davis et al., 2003; Keefe et al., 2003; Stroup et al.,
+2003; Swartz et al., 2003) and treatment effects on discontinuation rates and symptoms have been reported
+(Lieberman et al., 2005; McEvoy et al., 2006; Stroup
+et al., 2006). The study was conducted between 1/01 and
+12/04 at 57 U.S. clinical sites (16 university clinics, 10
+state mental health agencies, 7 Veteran's Affairs Medical Centers, 6 private non-profit agencies, 4 private
+practice sites, and 14 mixed system sites). Patients were
+randomized to receive olanzapine, perphenazine, quetiapine, risperidone, or ziprasidone under double-blind
+conditions and followed for up to 18 months or until
+treatment was discontinued for any reason (Phase I).
+Patients whose assigned treatment was discontinued
+could receive other treatments in Phases Ib, II and III
+(McEvoy et al., 2006; Stroup et al., 2003, 2006).
+2.2. Participants
+Eligible patients were 18 to 65 years of age; had
+received a diagnosis of schizophrenia, as determined on
+the basis of the Structured Clinical Interview of the
+Diagnostic and Statistical Manual of Mental Disorders,
+fourth edition (First et al., 1996); and were able to take
+40 M.S. Swartz et al. / Schizophrenia Research 100 (2008) 39–52
+oral antipsychotic medication as determined by the
+study doctor. Patients were excluded if they had diagnosis of schizoaffective disorder, mental retardation or
+other cognitive disorders; had a history of serious adverse reactions to the proposed treatments; had had only
+one schizophrenic episode; had a history of treatment
+resistance, defined by persistence of severe symptoms
+despite adequate trials of one of the proposed treatments
+or prior treatment with clozapine; were pregnant or were
+breast-feeding; or had a serious and unstable medical
+condition.
+The study was approved by the institutional review
+board at each site, and written informed consent was
+obtained from the patients or their legal guardians.
+2.3. Interventions
+Identical-appearing capsules contained olanzapine
+(Zyprexa, Eli Lilly) (7.5 mg), quetiapine (Seroquel,
+AstraZeneca) (200 mg), risperidone (Risperdal, Janssen
+Pharmaceutica) (1.5 mg), or perphenazine (Trilafon,
+Schering-Plough) (8 mg) or (after January 2002) ziprasidone (Geodon, Pfizer) (40 mg). Patients with current
+tardive dyskinesia (TD) could enroll but a stratified
+randomization scheme prevented their assignment to
+treatment with perphenazine. The dose of the medications was flexible, ranging from one to four capsules
+daily, based upon the study doctor's judgment. Concomitant medications were permitted throughout the trial,
+except for additional antipsychotic agents. Patients had
+monthly visits with study doctors.
+2.4. Objectives and outcomes
+Preliminary inspection of time to discontinuation for
+any reason indicated that the time to discontinuation was
+foreshortened among patients using illicit substances and
+that the previously reported advantage of olanzapine on
+this measure (Lieberman et al., 2005) was attenuated
+among patients using illicit substances. In addition, relatively few patients were alcohol abusers only without
+using illicit substances. Patients who used or abused
+alcohol in many ways were more similar to non-substance users. On that basis, we sought to examine the
+effects of illicit substance use, excluding those solely
+using or abusing alcohol, on time to discontinuation
+across treatment groups. Secondary outcomes included
+three subcategories of time to discontinuation: discontinuation for inadequate therapeutic effects, intolerable
+side effects, or patient decision, as well as psychopathology outcomes assessed on the Positive and Negative
+Syndrome Scale (PANSS) (Kay et al., 1987), the clinical
+global impression of severity (CGI-S) (Guy, 1976) and
+episodes of hospitalization.
+Illicit drug use (including use or abuse/dependence)
+was assessed using multiple sources of information collected at the baseline visit and coded into two categories:
+1) non-users — subjects with no evidence of any current
+illicit drug use and 2) current illicit drug use (with or
+without serious impairment). A small group of patients
+who used only alcohol with no evidence of illicit substance use were included as illicit substance non-users.
+Several measures were combined to make these determinations: diagnostic assessment using the SCID (First
+et al., 1996); positive hair assay (RIAH) or positive
+urine screen for illicit drug use, self-reported drug use,
+clinician ratings of use on the initial screening inventory,
+clinician rating from the Alcohol or Drug Use Scale
+(Drake et al., 1990), and family report of a problem with
+alcohol or illicit drugs (Swartz et al., 2006a,b). The most
+common illicit drug used was marijuana, followed by
+cocaine and opiates. Polysubstance use was common.
+Additional measures include depressive symptoms
+(Addington et al., 1992) and insight or awareness of
+illness (McEvoy et al., 1989). Compliance with medication was computed by pill as the percent of the prescribed study drug taken at each visit; missing counts
+were imputed by averaging the lowest previous ratings.
+2.5. Statistical methods
+The study sample included the intent-to-treat population of randomized patients who received at least one
+dose of study medication (N= 1432). Analyses were
+conducted as previously described (Lieberman et al.,
+2005). Median time to discontinuation was estimated
+using Kaplan–Meier survival curves: Treatment group
+comparisons for time to discontinuation were carried out
+using Cox regression adjusting for baseline clinical
+exacerbation status, TD (where applicable) and treatment site. Sites with fewer than 15 respondents were
+combined according to the type health care system they
+represented. Due to the stratified study design, treatments were compared in a four-tiered approach, as follows: Two hundred thirty-one patients with tardive
+dyskinesia were excluded from random assignment to
+perphenzine, and ziprasidone was added after approximately 40% of the sample had been enrolled. Therefore,
+comparisons involving perphenazine were restricted to
+patients without TD, while ziprasidone comparisons
+were restricted to subjects enrolled after the addition of
+ziprasidone to the study. In the primary analysis step,
+comparisons among olanzapine, quetiapine, risperidone,
+and perphenazine were evaluated for non-TD patients
+M.S. Swartz et al. / Schizophrenia Research 100 (2008) 39–52 41
+using a 3 degree of freedom (df) test. Following a significant result, pair-wise comparisons among the three
+atypicals in an analysis which included TD patients
+were evaluated using closed (step-down) testing requiring a significance level of 0.05 or less. Pair-wise comparisons of each of the three atypicals against perphenzine were evaluated using a Hochberg adjustment for
+multiple comparisons. Ziprasidone was separately compared with the three atypicals and with perphenzine
+(with TD patients excluded) in a series of pair-wise
+comparisons, again using Hochberg adjustments (Hochberg, 1988) in analyses of patients enrolled after ziprasidone was added. To further explore the results of the
+primary analyses, a number of non-tiered exploratory
+analyses were restricted to bivariate comparisons contrasting olanzapine and the four remaining treatment
+groups controlling for a diagnosis of tardive dyskinesia
+(TD) and post-ziprasidone randomization.
+The effect of illicit substance use was tested for its
+association with time to discontinuation as a main effect,
+and for its interaction with the treatment groups. For the
+latter we investigated possible interactions between
+illicit substance use and the antipsychotic treatment
+groups using both a standard interaction model crossing
+treatment group with illicit status and a stratified approach based on two subgroups divided on the basis of
+use or non-use of illicit substances. The stratification
+approach avoided difficult to interpret multivariable
+interaction models.
+Change from baseline in PANSS and CGI status at
+end of phase visit were analyzed using analysis of
+covariance (ANCOVA) procedure using cross-sectional
+regression analyses for all intent-to-treat patients controlling for time-at-risk (duration of phase 1 treatment),
+baseline history of clinical exacerbation in the previous
+3 months, baseline level of the outcome measure, a
+diagnosis of TD, and post-ziprasidone randomization.
+An interaction term crossing treatment group (olanzapine versus other antipsychotic medications) with use of
+illicit substances was estimated to test for a possible
+differential effect of illicit substance use on clinical improvement among subjects randomized to olanzapine.
+3. Results
+3.1. Patient characteristics and dispositions
+For the current study 1432 patients were available for
+analysis. The baseline sociodemographic and clinical
+characteristics of the illicit drug user (N= 643) and nonuser (N= 789) samples in are shown in Table 1 and demonstrate significant differences on a number of demographic and clinical factors. Patients using illicit drugs
+were younger, more likely to be male and non-white
+(primarily African-American), had lower levels of education, and were more than twice as likely to have experienced a recent episode of homelessness. Among the
+illicit user group there were a few differences between
+illicit users and abusers: abusers were somewhat younger, more likely to be male, had slightly higher PANSS
+positive symptom scores, but there were no significant
+differences in compliance ratings or racial composition.
+Clinical histories reflected significantly less time in
+treatment among substance-using subjects, consistent
+with lower mean age, significantly more childhood
+antisocial symptoms, and slightly higher odds of having
+been diagnosed with major depression within the prior
+5 years.
+Baseline clinical status also indicated significantly
+more depressive symptoms as measured by the Calgary
+Depression Rating Scale (Addington et al., 1992) and a
+significantly greater proportion had a recent clinical
+exacerbation. The two groups did not differ on the
+PANSS total scale score, general psychopathology scale,
+or negative symptom scale, but substance-using patients
+did exhibit significantly higher PANSS positive symptoms scores.
+3.2. Treatment discontinuation
+When examined as a main effect in Cox regression
+models, illicit substance use was not a significant predictor of time to discontinuation (χ2
+1= 0.578; p=
+0.447), however, when an interaction term was added
+for treatment group and illicit use, they jointly predicted
+time to discontinuation (χ2
+3= 10.762; p= 0.013). Visual
+inspection of median time to discontinuation suggested
+a stratified approach comparing illicit substance users
+versus non-users across treatment groups would be more
+interpretable and informative.
+Fig. 1 depicts Kaplan–Meier survival curves for
+treatment groups stratified by illicit substance non-use
+versus use and demonstrates differences in time to discontinuation among non-users but little differences
+among non-users. As seen in Tables 2A and B from the
+stratified analyses, among non-users discontinuation rate
+was lower and time to all-cause discontinuation was
+significantly longer for olanzapine (discontinuation rate
+56%, median time 13.02 months) compared to quetiapine
+(discontinuation rate 81%, median time 5.02 months),
+risperidone (discontinuation rate 69%, median time
+5.57 months), perphenazine (discontinuation rate 74%,
+median time 5.89 months) but not ziprasidone (discontinuation rate 77%, median time 4.34 months). Among
+42 M.S. Swartz et al. / Schizophrenia Research 100 (2008) 39–52
+non-users there were significant differences in odds of
+discontinuation between olanzapine and quetiapine
+(hazard ratio (HR = 0.52, CI 0.40, 0.67, pb0.001), risperidone (HR = 0.70, CI 0.53, 0.92, p= 0.01) and perphenazine (HR = 0.59, CI 0.56, 1.08, p=b0.001), but
+not ziprasidone (HR = 0.78, CI 0.56, 1.08, p= 0.13).
+Odds of discontinuation were also significantly higher
+for subjects randomized to quetiapine relative to risperidone (HR = 1.35; CI 1.05, 1.73, p= 0.021). Rates of
+medication compliance were higher for non-users, but
+were not different across treatment groups.
+However, among illicit substance users, discontinuation rate and time to all-cause discontinuation were
+not different for olanzapine (discontinuation rate 74%,
+median time 6.75 months) compared to quetiapine
+(discontinuation rate 82% median time 4.36 months),
+risperidone (discontinuation rate 79% median time
+4.61 months), perphenazine (discontinuation rate 75%,
+median time 5.25 months), and ziprasidone (discontinuation rate 82%, median time 3.29 months). Hazard
+rates for olanzapine relative to the other four
+antipsychotics drugs were: quetiapine (HR = 0.90, CI
+0.67, 1.20, p= 0.47); risperidone (HR = 0.93, CI 0.70,
+1.24, p= 0.63); perphenazine (HR = 1.16, CI 0.84,
+1.60, p= 0.36); and ziprasidone (HR = 0.75, CI 0.53,
+1.07, p= 0.11). The contrast between quetiapine and
+Table 1
+Sample characteristics for patients with and without illicit substance use
+Statistic No illicit substance use Illicit substance use Probability
+(n= 789) (n= 643)
+Demographics
+Age (years) Mean ± SD 42.6 ± 10.9 38.1 ± 10.8 b0.0001
+Sex: b0.0001
+Male n (%) 541 (69) 521 (81)
+Female n (%) 248 (31) 122 (19)
+Race: b0.0001
+White n (%) 451 (57) 271 (42)
+Non-white n (%) 338 (43) 372 (58)
+Hispanic n (%) 103 (13) 62 (10) 0.0443
+Married or living with other n (%) 156 (20) 118 (18)
+Education (years) Mean ± SD) 12.3 ± 2.4 11.8 ± 2.0 0.0001
+Homeless — yes n (%) 16 (2) 35 (5) 0.0005
+Clinical history
+Years treatment Median (25%–75%) 17 (8–26) 14 (5–23) b0.0001
+Years since onset Median (25%–75%) 14 (6–24) 11 (4–22) 0.0003
+Childhood conduct symptoms Median (25%–75%) 0 (0–1) 1 (0–3) b0.0001
+Other diagnosis: past 5 years
+Major depression n (%) 191 (24) 206 (32) 0.001
+Alcohol dependence or abuse n (%) 82 (10) 268 (42) b0.0001
+Drug dependence or abuse n (%) 0 (0) 409 (64) b0.0001
+Any drug/alcohol diagnosis n (%) 82 (10) 447 (70) b0.0001
+Clinical status:
+CGI severity Mean ± SD 3.9 ± 1.0 4.0 ± 1.0 0.0297
+Calgary depression Median (25%–75%) 3 (1–7) 4 (1–8) 0.0011
+PANSS:
+Total Mean ± SD 75.0 ± 17.6 76.4 ± 17.6
+General psychopathology Mean ± SD 36.7 ± 9.2 37.4 ± 9.4
+Negative symptoms Mean ± SD 20.4 ± 6.4 19.9 ± 6.5
+Positive symptoms Mean ± SD 18.0 ± 5.6 19.1 ± 5.6 0.0002
+Recent exacerbation b3 months: n (%) 181 (23) 208 (32) b0.0001
+Recent victimization: n (%) 105 (13) 166 (26) b0.0001
+Insight into illness (ITAQ) Median (25%–75%) 21 (15–22) 21 (15–22)
+Compliance rating (pill count) Median (25%–75%) 94.5 (80.8–98.8) 89.3 (69.1–97.3) b0.0001
+Study status
+Completed 18 mo in Phase 1 n (%) 231 (29) 140 (22) 0.0013
+M.S. Swartz et al. / Schizophrenia Research 100 (2008) 39–52 43
+Fig. 1. Kaplan–Meier plots of time to treatment discontinuation for treatment.
+44 M.S. Swartz et al. / Schizophrenia Research 100 (2008) 39–52
+Fig. 1 (continued).
+M.S. Swartz et al. / Schizophrenia Research 100 (2008) 39–52 45
+risperidone also was not significant (HR = 1.04, CI
+0.78, 1.37, p= 0.79).
+In order to descriptively evaluate the odds of discontinuation due to inefficacy, tolerability or patient decision, odds of discontinuation for the olanzapine
+treatment group versus the remaining combined treatment groups were evaluated. Among non-users of illicit
+substances treated with olanzapine, hazard ratios were
+significantly reduced for discontinuation due to inefficacy (HR 0.34, CI 0.22, 0.53, pb0.0001), and patient
+decision (HR 0.54, CI 0.37, 0.78, pb0.001), but not for
+intolerability (HR 1.17, CI 0.79, 1.73, p= 0.439).
+Among users of illicit substances, the hazard ratio for
+discontinuation due to inefficacy, although almost twice
+the rate for non-users, was nonetheless, significantly
+reduced (HR 0.60, CI 0.39, 0.94, pb0.0252). Hazard
+ratios for discontinuation due to intolerability and
+patient decision did not differ significantly by treatment
+group among users.
+Differences in discontinuation rates for olanzapine
+versus other treatment groups combined are contrasted
+graphically among substance non-users and users in
+Fig. 2. Lower all-cause discontinuation rates are
+evident for olanzapine in the non-user group. In
+addition it appears that patient decision to discontinue
+treatment is higher among all substance use treatment
+groups and may also account for much of the increase
+in discontinuation rates among olanzapine substance
+users compared to non-users.
+3.3. PANSS and CGI efficacy measures
+In order to evaluate whether differences in time to
+discontinuation were mirrored by PANSS and CGI
+efficacy measures, Table 3 presents estimated changes in
+PANSS (and its subscales) and CGI ratings from baseline
+to the end of Phase 1, adjusted to duration of Phase 1
+treatment. Many studies consider a 20% reduction in
+PANSS total score to be clinically meaningful. The total
+PANSS score decreased modestly (approximately 7
+units, or roughly 10%), from baseline to the end of Phase
+1 for subjects randomized to olanzapine relative to the
+other treatment groups (generally a 0–3 unit decrease).
+Overall there were no differences between olanzapine
+substance users and non-users or between other treatment groups comparing substance users and non-user
+subgroups for duration-adjusted change from baseline.
+In particular, an ANCOVA test of interactions between
+treatment group and illicit substance use was not significant (data not shown). Similarly olanzapine illicit use
+and non-use treatment groups made greater improvements relative to other user and non-user treatment
+groups on PANSS subscales. CGI severity measurements decreased significantly from baseline to the end of
+Phase 1 among subjects randomized to olanzapine relative to other treatment groups, but as above, the decrease
+was not affected by illicit substance use (see Table 3).
+Together these findings suggest that psychopathology measures improved more for olanzapine treatment
+Table 2A
+Time to all-cause treatment discontinuation
+Condition: no illicit substance use
+Assessment Statistic OLAN QUET RISP PERF ZPR
+(n= 188) (n= 192) (n= 176) (n= 133) (n= 100)
+Modal dose (mg)/no. patients Mean 20.2/183 562.8/183 4.0/165 21.2/128 112.4/90
+Number discontinuing n(%) 105 (56) 156 (81) 121 (69) 99 (74) 77 (77)
+Kaplan–Meier Median 13.02 5.02 5.57 5.89 4.34
+Time to discontinuation (month) [(%95%CI] [8.14, a
+] [3.79, 6.21] [3.93, 7.57] [3.32, 6.50] [3.11, 7.04]
+Compliance percent (SE) 87.3(21.0) 82.0(27.5) 81.1(28.1) 83.0(26.7) 79.1(29.9)
+Condition: illicit substance use
+Assessment Statistic OLAN QUET RISP PERF ZPR
+(n= 142) (n= 137) (n= 157) (n= 124) (n= 83)
+Modal dose (mg) Mean 20.0/129 515.1/126 3.8/140 20.4/117 113.3/75
+Number discontinuing n(%) 105 (74) 113 (82) 124 (79) 93 (75) 68 (82)
+Kaplan–Meier Median 6.75 4.36 4.61 5.25 3.29
+Time to discontinuation (month) [(%95%CI] [4.57, 9.14] [3.54, 5.54] [3.36, 6.36] [4.00, 6.50] [2.75, 5.36]
+Compliance percent (SE) 78.7(28.7) 71.9(33.3) 75.9(29.2) 78.1(28.0) 75.7(31.4)
+a Upper bound confidence interval not estimable.
+46 M.S. Swartz et al. / Schizophrenia Research 100 (2008) 39–52
+groups, but comparably for substance users and nonusers, and that treatment discontinuation may have not
+been related to clinician-rated efficacy measures but
+rather factors such as patient decision to discontinue
+treatment.
+3.4. Adverse events
+In order to evaluate whether side effects and adverse
+events might account for differences in rates of treatment discontinuation among substance users and nonusers within treatment groups, we examined these reports across treatment groups contrasting any moderate
+or severe adverse events during treatment (data not
+shown). We compared treatment groups according to the
+presence or absence of substance use, using Poisson
+regression procedures. Patients with illicit substance use
+with few exceptions reported more side effects, but these
+increases did not significantly differ across treatment
+groups. In addition, neurological symptoms were not
+significantly affected by either illicit use, treatment
+group or by their interaction.
+Illicit substance use had no effect on several
+measures of weight gain, but as expected from
+previous reports olanzapine-treated subjects–whether
+using substances or not–had greater weight gain;
+including 28.8–31.5% of olanzapine-treated patients
+gaining greater than 7% of body weight or 6–7 lb
+during treatment (Lieberman et al., 2005; Stroup et al.,
+2006).
+Two hundred thirty subjects experienced at least one
+psychiatric hospitalization during Phase 1. Illicit substance users were more likely to be hospitalized (19.3%
+versus 13.4%, χ2= 8.99; p= 0.003) differences did not
+vary significantly across treatment groups and, as previously reported, olanzapine illicit substance users and
+non-users reported fewer hospitalizations (11% versus
+15–20%) (Lieberman et al., 2005).
+Table 2B
+Time to all-cause treatment discontinuation
+Condition: no illicit substance use
+Assessment Statistic OLAN QUET RISP PERF ZPR p-value a
+(n= 188) (n= 192) (n= 176) (n= 133) (n= 100)
+Cox models: HRb 0.52 0.7 0.59 0.78 b0.001
+OLAN [(%95%CI] [0.40, 0.67] [0.53, 0.92] [0.43, 0.81] [0.56, 1.08]
+p-value b0.001 0.010 0.001 0.134
+HR 1.35 1.16 1.12
+QUET [(%95%CI] [1.05, 1.73] [0.88, 1.54] [0.82, 1.53]
+p-value 0.021 0.288 0.464
+HR 0.87 1.02
+RISP [(%95%CI] [0.64, 1.17] [0.75, 1.40]
+p-value 0.354 0.877
+HR 1.05
+PERF [(%95%CI] [0.74, 1.49]
+p-value 0.79
+Condition: illicit substance use
+Assessment Statistic OLAN QUET RISP PERF ZPR p-value a
+(n= 142) (n= 137) (n= 157) (n= 124) (n= 83)
+Cox models: HR 0.9 0.93 1.16 0.75 0.827
+OLAN [(%95%CI] [0.67, 0.1.20] [0.70, 1.24] [0.75, 1.60] [0.53, 1.07]
+p-value 0.471 0.627 0.357 0.11
+HR 1.04 1.1 0.89
+QUET [(%95%CI] [0.79, 1.37] [0.80, 1.51] [0.63, 1.24]
+p-value 0.793 0.55 0.486
+HR 1.11 0.76
+RISP [(%95%CI] [0.81, 1.52] [0.0.53, 1.09]
+p-value 0.513 0.132
+HR 0.76
+PERF [(%95%CI] [0.53, 1.10]
+p-value 0.15
+a p-value column is the overall 3 degree of freedom test comparing olanzapine, quetiapine, risperidone and perphenazine for patients without TD. b Hazard ratios are obtained from analysis of four cohorts defined by the stratified randomization for TD patients and the addition of ziprasidone.
+M.S. Swartz et al. / Schizophrenia Research 100 (2008) 39–52 47
+3.5. Potential mediating factors
+As previously seen in Table 1, several sociodemographic and clinical characteristics distinguished illicit
+substance users from non-users and these differences
+could account for differences in time to discontinuation
+among patients randomized to olanzapine or other treatment groups. There were no differences in the distribution of illicit substance users across treatment groups
+that might account for the larger differences in treatment
+discontinuation between olanzapine and other treatment
+groups across the substance use and non-use groups. To
+test the possibility that other sociodemographic or clinical factors might account for differences in discontinuation rates across illicit substance user and non-user
+groups, a series of multivariable interaction models were
+Fig. 2. Discontinuation rates by cause of discontinuation.
+Table 3
+Efficacy measures at end of Phase 1—LS mean estimates of last observation carried forward differences from baseline, adjusted for average treatment
+duration
+Olan Quet Risp Perf Zip
+Units (SE) Units (SE) Units (SE) Units (SE) Units (SE)
+Positive and Negative Syndrome Scale (PANSS) Total Scale: a
+No use 7.44(1.19) 0.12(1.32) 2.46(1.57) 3.32(1.62) 0.34(1.85)
+Illicit substance use 7.56(1.53) 3.14(1.49) 3.03(1.51) 2.45(1.50) 1.07(1.95)
+PANSS Negative Symptom Scale:
+No use −1.57(.45) −0.41(.44) −0.51(.49) −2.27(.49) −0.46(.62)
+Illicit substance use −1.76(.59) −0.67(.53) −0.17(.54) −0.09(.49) 0.01(.57)
+PANSS Positive Symptom Scale:
+No use −2.28(.38) 0.34(.43) −0.96(.44) −1.16(.55) −0.06(.65)
+Illicit substance use −2.79(.43) −0.70(.53) −0.98(.51) −0.88(.53) −0.31(.72)
+PANSS General Psychopathology Scale:
+No use −3.58(.63) 0.19(.70) −0.99(.86) −0.89(.88) 0.74(.91)
+Illicit substance use −3.02(.79) −1.78(.79) −1.88(.76) −1.47(.81) 0.77(1.04)
+Clinical Global Impression-Severity Scale:
+No use −0.26(.08) 0.16(.08) −0.11(.09) −0.16(.10) 0.01(.12)
+Illicit substance use −0.53(.09) −0.12(.09) −0.03(.09) −0.10(.10) −0.04(.13)
+a Final Phase 1 measurement less baseline measurement.
+48 M.S. Swartz et al. / Schizophrenia Research 100 (2008) 39–52
+estimated to evaluate possible confounding and/or mediating effects of these sociodemographic or clinical
+factors. Time to discontinuation for all patients was regressed using Cox regression models examining the interaction between treatment groups and illicit substance
+use; controlling for clinical exacerbation and TD at
+baseline and ziprasidone cohort. Subjects randomized to
+olanzapine and using illicit substances were 1.40 times
+more likely to discontinue (HR = 1.400; 95%CI: 1.054–
+1.859; χ1
+2= 5.0402; p= 0.0201) relative to olanzapinetreated non-users. Each potential sociodemographic or
+clinical mediator was then tested for its putative mediating effect on the olanzapine/illicit substance use interaction. Attenuation of the significance of the olanzapine/
+substance use interaction term – a possible indicator of
+mediation – occurred only after the addition medication
+compliance ratings (HR = 1.154; 95% CI: 0.86–1.55;
+χ1
+2= 0.9064; p= 0.3411). The interaction was not substantively affected by the addition of any other covariate.
+4. Discussion
+Clinicians often need to attempt to optimize choice of
+an antipsychotic for a patient with a history of illicit
+substance use. Previous CATIE Phase 1 reports demonstrated that olanzapine had a longer time to all-cause
+treatment discontinuation than quetiapine or risperidone, but not perphenazine or ziprasidone. It has not
+been clear whether illicit drug use might affect these
+discontinuation rates and the current study offers
+evidence of a substantial effect. Somewhat surprisingly
+among illicit substance users there are no differences in
+time to all-cause discontinuation across treatment
+groups. Olanzapine, followed by perphenazine has the
+longest TTD (median of 6.7 and 5.3 months respectively) but neither is significantly longer than others
+(quetiapine 4.4, risperidone 4.6, and ziprasidone
+3.3 months). Among non-users, olanzapine's superiority in time to discontinuation is strengthened substantially and significantly for all but ziprasidone (olanzapine median 13.0 versus perphenazine 5.9, risperidone
+5.6, quetiapine 5.0 and ziprasidone 4.3 months respectively). The difference in medians between non-users
+and illicit drug users in the olanzapine group is
+6.3 months, while for other treatment groups the difference is a month or less. In results not shown we omitted
+illicit users without abuse and restricted the comparisons
+to illicit substance abusers versus non-users and the
+results were essentially unchanged.
+Results from PANSS and CGI efficacy measures adjusting for duration of treatment show that patients were
+making comparable gains whether they used illicit
+substances or not, suggesting that illicit substance-using
+patients were generally improving comparably to their
+non-using counterparts, but were less treatment adherent
+and discontinued treatment for idiosyncratic reasons.
+For example, among olanzapine illicit substance users
+versus non-users patient decision was a predominant
+cause of discontinuation among users compared to nonusers. These were patients who were rated to have discontinued treatment for idiosyncratic reasons unrelated
+to inefficacy or side effects in the opinion of the clinician, and these decisions may have also been related to
+the lower medication compliance seen in this group.
+This is also consistent with multivariable analyses that
+suggested that compliance at least partially mediated
+differences between illicit substance use and non-users
+in time to discontinuation for olanzapine. In addition, as
+a group substance users reported more side effects but
+this was not reflected in causes of discontinuation related to intolerability. As expected, olanzapine substance users and non-users experienced more weight
+gain than other treatment groups—suggesting that increased time to discontinuation with olanzapine still
+came at the cost of weight gain and was the lead cause of
+treatment discontinuation among the olanzapine treatment group overall (Lieberman et al., 2005).
+Why did illicit substance use attenuate the apparent
+superiority of olanzapine over the other treatments? Our
+analyses suggest that illicit drug users differ at baseline in
+many ways from non-users that may directly and indirectly affect treatment discontinuation: users were
+sicker at baseline, had less illness course stability, lived
+in more stressful social environments and during the
+course of the study were less treatment adherent. Lower
+treatment adherence appears to explain a significant
+proportion of the shorter time to discontinuation among
+illicit drug users, but these other characteristics no doubt
+contributed to shorter time to discontinuation. It could
+well be that these other attributes of users (living in
+stressful neighborhoods, interacting in criminogenic
+social networks, or other stressors) could also attenuate
+the benefits of medications. Alcohol use and abuse in
+the absence of illicit substance use had little effect on
+time to discontinuation, likely because these patients in
+the aggregate were older, more stable and more treatment compliant. Taken as a whole these results underscore the need for concurrent substance abuse treatment in order for patients to benefit from antipsychotic
+treatment.
+The differential impact of illicit use and non-use
+across treatment groups is more puzzling; intuitively, we
+expected to find uniform decreases in time to discontinuation among users compared to non-users, but the
+M.S. Swartz et al. / Schizophrenia Research 100 (2008) 39–52 49
+relative attenuation in time to discontinuation for olanzapine in users is far more substantial than for other
+treatments. An imbalance in illicit drug users across
+treatment groups could have been a partial explanation,
+but, in analyses not shown, users were evenly distributed across treatment groups. It is reasonable to conclude that among non-users, olanzapine achieves a more
+acceptable patient outcome for a longer period of time,
+as judged by time to all-cause discontinuation than the
+comparators at the dose ranges studied, but that illicit
+substance use, including non-compliance attenuated
+these differences. These results also suggest that the
+many clinical trials that exclude substance users may
+offer an incomplete picture of clinical effectiveness in
+real world populations.
+There are several limitations to these findings. We
+did not quantify levels of illicit substance use at baseline
+or follow-up so cannot assess the impact of levels of use.
+Nor do we account for involvement in substance abuse
+treatment over time, although too few patients in the trial
+were actively engaged in substance abuse treatment for
+this to have affected the results. It is also possible that
+these outcomes were not directly attributable to illicit
+substance use because substance use could serve as a
+proxy for a host of negative predictors of clinical course
+and outcome. A more definitive study of the effect of
+substance use on treatment outcomes would require a
+well powered randomized trial. Additional analyses
+examining whether any of the CATIE medications
+reduce substance use over time is forthcoming.
+Role of funding source
+This article was based on results from the Clinical Antipsychotic
+Trials of Intervention Effectiveness project, supported by the National
+Institute of Mental Health (NO1 MH90001). The NIMH was involved
+in the study design, data collection, analysis and interpretation of the
+data, in writing of the manuscript and decision to submit the paper for
+publication.
+Contributors
+Drs Swartz, Stroup, McEvoy, Lieberman, Hsiao and Davis
+designed the study and wrote the protocol.
+Drs. Swartz, Wagner and Swanson conducted the literature
+searches and analyses.
+Drs. Wagner, Swanson and Davis undertook the statistical
+analyses.
+Dr. Swartz wrote the first draft of the manuscript.
+All authors have contributed to and have approved the final
+manuscript.
+Conflict of interest
+Disclosures: Dr. Swartz reports having received research funding
+from Eli Lilly and Co., and consulting and educational fees from
+AstraZeneca Pharmaceuticals LP, Bristol-Myers Squibb, Eli Lilly and
+Co., and Pfizer Inc. Dr. Wagner has no disclosures. Dr. Swanson reports receiving research funding from Eli Lilly and Co and consultant
+fees form CNS Neurosciences. Dr. Stroup reports having received
+research funding from Eli Lilly and Co.; and consulting fees from
+Janssen Pharmaceutica Products, GlaxoSmithKline, and Bristol-Myers
+Squibb. Dr. Sonia M. Davis is an employee of Quintiles Inc.; she
+reports no additional funding. Dr. Rosenheck reports having received
+research funding from AstraZeneca Pharmaceuticals LP, Bristol-Myers
+Squibb, and Eli Lilly and Co.; and consulting fees from Bristol-Myers
+Squibb, Eli Lilly and Co., and Janssen Pharmaceutica Products. Dr.
+Reimherr and McGee report no additional funding. Dr. McEvoy
+reports having received research funding from AstraZeneca, Forest
+Research Institute, Eli Lilly and Co., Janssen Pharmaeutica, and Pfizer
+Inc.; consulting or advisory board fees from Pfizer Inc. and BristolMyers Squibb; and lecture fees from Janssen Pharmaceutica, and
+Bristol-Myers Squibb. Dr. Lieberman reports having received research
+funding from AstraZeneca Pharmaceuticals LP, Bristol-Myers Squibb,
+GlaxoSmithKline, Janssen Pharmaceutica Products, and Pfizer Inc.;
+and consulting and educational fees from AstraZeneca Pharmaceuticals LP, Bristol-Myers Squibb, Eli Lilly and Co., Forest Pharmaceutical Company, GlaxoSmithKline, Janssen Pharmaceutica Products,
+Novartis, Pfizer Inc., and Solvay.
+Acknowledgments
+This article was based on the results from the Clinical
+Antipsychotic Trials of Intervention Effectiveness project, supported
+by the National Institute of Mental Health (NO1 MH90001). The aim
+of this project is to examine the comparative effectiveness of
+antipsychotic drugs in conditions for which their use is clinically
+indicated, including schizophrenia and Alzheimer's disease. The
+project was carried out by principal investigators from the University
+of North Carolina, Duke University, the University of Southern
+California, the University of Rochester, and Yale University in
+association with Quintiles, Inc.; the program staff of the Division of
+Interventions and Services Research of the NIMH; and investigators
+from 56 sites in the United States (CATIE Study Investigators Group).
+AstraZeneca Pharmaceuticals LP, Bristol-Myers Squibb Company,
+Forest Pharmaceuticals, Inc., Janssen Pharmaceutica Products, L.P.,
+Eli Lilly and Company, Otsuka Pharmaceutical Co., Ltd., Pfizer Inc.,
+and Zenith Goldline Pharmaceuticals, Inc., provided medications for
+the studies. The Foundation of Hope of Raleigh, NC also supported
+this work.
+CATIE Study Investigators Group includes: Lawrence Adler, M.D.,
+Clinical Insights, Glen Burnie, MD; Mohammed Bari, M.D., Synergy
+Clinical Research, Chula Vista, CA; Irving Belz, M.D., Tri-County/
+MHMR, Conroe, TX; Raymond Bland, M.D., Southern Illinois
+University School of Medicine, Springfield, IL; Thomas Blocher,
+M.D., MHMRA of Harris County, Houston, TX; Brent Bolyard, M.D.,
+Cox North Hospital, Springfield, MO; Alan Buffenstein, M.D., The
+Queen's Medical Center, Honolulu, HI; John Burruss, M.D., Baylor
+College of Medicine, Houston, TX; Matthew Byerly, M.D., University
+of Texas Southwestern Medical Center at Dallas, Dallas, TX; Jose
+Canive, M.D., Albuquerque VA Medical Center, Albuquerque, NM;
+Stanley Caroff, M.D., Behavioral Health Service, Philadelphia, PA;
+Charles Casat, M.D., Behavioral Health Center, Charlotte, NC;
+Eugenio Chavez-Rice, M.D., El Paso Community MHMR Center, El
+Paso, TX; John Csernansky, M.D., Washington University School of
+Medicine, St. Louis, MO; Pedro Delgado, M.D., University Hospitals
+of Cleveland, Cleveland, OH; Richard Douyon, M.D., VA Medical
+Center, Miami, FL; Cyril D'Souza, M.D., Connecticut Mental Health
+Center, New Haven, CT; Ira Glick, M.D., Stanford University School of
+Medicine, Stanford, CA; Donald Goff, M.D., Massachusetts General
+Hospital, Boston, MA; Silvia Gratz, M.D., Eastern Pennsylvania
+Psychiatric Institute, Philadelphia, PA; George T. Grossberg, M.D., St.
+50 M.S. Swartz et al. / Schizophrenia Research 100 (2008) 39–52
+Louis University School of Medicine—Wohl Institute, St. Louis,
+MO; Mahlon Hale, M.D., New Britain General Hospital, New
+Britain, CT; Mark Hamner, M.D., Medical University of South
+Carolina and Veterans Affairs Medical Center, Charleston, SC;
+Richard Jaffe, M.D., Belmont Center for Comprehensive Treatment,
+Philadelphia, PA; Dilip Jeste, M.D., University of California—San
+Diego, VA Medical Center, San Diego, CA; Anita Kablinger, M.D.,
+Louisiana State University Health Sciences Center, Shreveport, LA;
+Ahsan Khan, M.D., University of Kansas School of Medicine,
+Wichita, KS; Steven Lamberti, M.D., University of Rochester
+Medical Center, Rochester, NY; Michael T. Levy, M.D., PC, Staten
+Island University Hospital, Staten Island, NY; Jeffrey Lieberman,
+M.D., University of North Carolina School of Medicine, Chapel Hill,
+NC; Gerald Maguire, M.D., University of California Irvine, Orange,
+CA; Theo Manschreck, M.D., Corrigan Mental Health Center, Fall
+River, MA; Joseph McEvoy, M.D., Duke University Medical Center,
+Durham, NC; Mark McGee, M.D., Appalachian Behavioral Healthcare, Athens, OH; Herbert Meltzer, M.D., Vanderbilt University
+Medical Center, Nashville, TN; Alexander Miller, M.D., University of
+Texas Health Science Center at San Antonio, San Antonio, TX; Del D.
+Miller, M.D., University of Iowa, Iowa City, IA; Henry Nasrallah,
+M.D., University of Cincinnati Medical Center, Cincinnati, OH;
+Charles Nemeroff, M.D., Ph.D., Emory University School of
+Medicine, Atlanta, GA; Stephen Olson, M.D., University of
+Minnesota Medical School, Minneapolis, MN; Gregory F. Oxenkrug,
+M.D., St. Elizabeth's Medical Center, Boston, MA; Jayendra Patel,
+M.D., University of Mass Health Care, Worcester, MA; Frederick
+Reimher, M.D., University of Utah Medical Center, Salt Lake City,
+UT; Silvana Riggio, M.D., Mount Sinai Medical Center—Bronx VA
+Medical Center, Bronx, NY; Samuel Risch, M.D., University of
+California—San Francisco, San Francisco, CA; Bruce Saltz, M.D.,
+Henderson Mental Health Center, Boca Raton, FL; Thomas
+Simpatico, M.D., Northwestern University, Chicago, IL; George
+Simpson, M.D., University of Southern California Medical Center,
+Los Angeles, CA; Michael Smith, M.D., Harbor—UCLA Medical
+Center, Torrance, CA; Roger Sommi, Pharm.D., University of
+Missouri, Kansas City, MO; Richard M. Steinbook, M.D., University
+of Miami School of Medicine, Miami, FL; Michael Stevens, M.D.,
+Valley Mental Health, Salt Lake City, UT; Andre Tapp, M.D., VA
+Puget Sound Health Care System, Tacoma, WA; Rafael Torres, M.D.,
+University of Mississippi, Jackson, MS; Peter Weiden, M.D., SUNY
+Downstate Medical Center, Brooklyn, NY; James Wolberg, M.D.,
+Mount Sinai Medical Center, New York, NY.
+References
+Abram, K., Teplin, L., 1991. Co-occurring disorders among mentally
+ill jail detainees: implications for public policy. Am. Psychol. 46,
+1036–1044.
+Addington, D., Addington, J., Maticka-Tyndale, E., Joyce, J., 1992.
+Reliability and validity of a depression rating scale for schizophrenics. Schizophr. Res. 6, 201–208.
+Blanchard, J.J., Brown, S.A., Horan, W.P., Sherwood, A.R., 2000.
+Substance use disorders in schizophrenia: review, integration, and
+a proposed model. Clin. Psychol. Rev. 20, 207–234.
+Buckley, P.F., 1999. New antipsychotic agents: emerging clinical
+profiles. J. Clin. Psychiatry 60, 12–17.
+Cantor-Graae, E., Nordstrom, L.G., McNeil, T.F., 2001. Substance
+abuse in schizophrenia: a review of the literature and a study of
+correlates in Sweden. Schizophr. Res. 48, 69–82.
+Cournos, F., Empfield, M., Horwath, E., McKinnon, K., Meyer, I.,
+Schrage, H., Currie, C., Agosin, B., 1991. HIV prevalence among
+patients admitted to two psychiatric hospitals. Am. J. Psychiatry
+148, 1225–1229.
+Davis, S.M., Koch, G.G., Davis, C.E., LaVange, L.M., 2003. Statistical approaches to effectiveness measurement and outcomedriven re-randomizations in the Clinical Antipsychotic Trials of
+Intervention Effectiveness (CATIE) studies. Schizophr. Bull. 29,
+73–80.
+Dixon, L., 1999. Dual diagnosis of substance abuse in schizophrenia:
+prevalence and impact on outcomes. Schizophr. Res. 35, S93–S100.
+Drake, R., Osher, F.C., Noordsy, D.L., Hurlbut, S.C., Teague, G.B.,
+Beaudett, M.S., 1990. Diagnosis of alcohol use disorders in schizophrenia. Schizophr. Bull. 16, 57–67.
+Drake, R.E., Xie, H., McHugo, G.J., Green, A.I., 2000. The effects of
+clozapine on alcohol and drug use disorders among patients with
+schizophrenia. Schizophr. Bull. 26, 441–449.
+First, M.B., Spitzer, R.L., Gibbon, M., Williams, J.B., 1996. Structured
+Clinical Interview for Axes I and II DSM-IV Disorders-Patient
+Edition (SCID-I/P). Biometrics Research Department, New York
+State Psychiatric Institute, New York.
+Goodman, L.A., Salyers, M.P., Mueser, K.T., Rosenberg, S.D., Swartz,
+M., Essock, S.M., Osher, F.C., Butterfield, M.I., Swanson, J.,
+2001. Recent victimization in women and men with severe mental
+illness: prevalence and correlates. J. Trauma. Stress 14, 615–632.
+Goswami, S., Mattoo, S.J., Basu, D., Singh, G., 2004. Substanceabusing schizophrenics: do they self-medicate? Am. J. Addict. 13,
+139–150.
+Green, A.I., 2005. Schizophrenia and comorbid substance use
+disorder: effects of antipsychotics. J. Clin. Psychiatry 66, 21–26.
+Green, A.I., Strous, R.D., Zimmet, S.V., Schildkraut, J.J., 1999.
+Clozapine for comorbid substance use disorder and schizophrenia:
+do patients with schizophrenia have a reward-deficiency syndrome
+that can be ameliorated by clozapine? Harv. Rev. Psychiatr. 6,
+287–296.
+Guy, W., 1976. ECDEU Assessment Manual for Psychopharmacology—Revised (DHEW Publ No. ADM 76-338). U.S. Department of Health, Education, and Welfare. Public Health Service,
+Alcohol, Drug Abuse, and Mental Health Administration, NIMH
+Psychopharmacology Research Branch, Division of Extramural
+Research Programs, Rockville, MD, pp. 218–222.
+Haywood, T.W., Kravitz, H.M., Grossman, L.S., Cavanaugh Jr., J.L.,
+Davis, J.M., Lewis, D.A., 1995. Predicting the ‘revolving door’
+phenomenon among patient with schizophrenic, schizoaffective,
+and affective disorders. Am. J. Psychiatry 151, 856–861.
+Hochberg, Y., 1988. A sharper Bonferroni procedure for multiple tests
+of significance. Biometrika 75, 800–802.
+Kavanagh, D.J., McGrath, J., Saunders, J.B., Dore, G., Clark, D.,
+2002. Substance misuse in patients with schizophrenia: epidemiology and management. Drugs 62, 743–755.
+Kay, S.R., Fiszbein, A., Opler, L.A., 1987. The positive and negative
+syndrome scale (PANSS) for schizophrenia. Schizophr. Bull. 13,
+261–276.
+Keefe, R.S., Mohs, R.C., Bilder, R.M., Harvey, P.D., Green, M.F.,
+Meltzer, H.Y., Gold, J.M., Sano, M., 2003. Neurocognitive
+assessment in the Clinical Antipsychotic Trials of Intervention
+Effectiveness (CATIE) project schizophrenia trial: development,
+methodology, and rationale. Schizophr. Bull. 29, 45–55.
+Keefe, R.S.E., Bilder, R.M., Harvey, P.D., Davis, S., Palmer, B.W.,
+Gold, J.M., Meltzer, H.Y., Green, M.F., Miller, D.D., Canive, J.M.,
+Adler, L.W., Manschreck, T., Swartz, M., Rosenheck, R., Perkins,
+D.O., Walker, T.M., Stroup, T.S., McEvoy, J.P., Lieberman, J.A.,
+2006. Baseline neurocognitive deficits in the CATIE Schizophrenia Trial. Neuropsychopharmacology 4, 1–14.
+M.S. Swartz et al. / Schizophrenia Research 100 (2008) 39–52 51
+Keefe, R.S.E., Bilder, R.M., Harvey, P.D., Davis, S.M., Palmer, B.,
+Gold, J.M., Meltzer, H.Y., Green, M.F., Capuno, G., Stroup, T.S.,
+McEvoy, J.P., Swartz, M.S., Rosenheck, R.A., Perkins, D.O.,
+Davis, C.E., Hsiao, J.K., Lieberman, J.A., for the CATIE Investigators and the Neurocognitive Working Group, 2007. Neurocognitive effects of antipsychotic medications in patients with chronic
+schizophrenia. Arch. Gen. Psychiatry 64, 633–647.
+Kessler, R.C., Crum, R.M., Warner, L.A., Nelson, C.B., Schulenberg,
+J., Anthony, J.C., 1997. Lifetime co-occurrence of DSM-III-R
+alcohol abuse and dependence with other psychiatric disorders in
+the National Comorbidity Survey. Arch. Gen. Psychiatry 54,
+313–321.
+Lieberman, J.A., Stroup, T.S., McEvoy, J.P., Swartz, M.S., Rosenheck,
+R.A., Perkins, D.O., Keefe, R.S.E., Davis, S.M., Davis, C.E.,
+Lebowitz, B.D., Severe, J., Hsiao, J.K., 2005. Effectiveness of
+antipsychotic drugs in patients with chronic schizophrenia. New
+Engl. J. Med. 353, 1209–1223.
+Littrell, K.H., Petty, R.G., Hilligoss, N.M., Peabody, C.D., Johnson,
+C.G., 2001. Olanzapine treatment for patients with schizophrenia
+and substance abuse. J. Subst. Abuse Treat. 21, 217–221.
+McCreadie, R.G., 2002. Use of drugs, alcohol and tobacco by people
+with schizophrenia: case-control study. Br. J. Psychiatry 181,
+321–325.
+McEvoy, J.P., Apperson, L.J., Appelbaum, P.S., Ortlip, P., Brecosky,
+J., Hammill, K., Geller, J.L., Roth, L., 1989. Insight in schizophrenia: its relationship to acute psychopathology. J. Nerv. Ment.
+Dis. 177, 43–47.
+McEvoy, J.P., Lieberman, J.A., Stroup, T.S., Davis, S.M., Rosenheck,
+R.A., Swartz, M.S., Perkins, D.O., Keefe, R.S.E., Davis, C.E.,
+Severe, J., Hsiao, J.K., for CATIE Investigators, 2006. Effectiveness of clozapine, quetiapine and risperidone in patients with
+chronic schizophrenia who failed prior atypical antipsychotic
+treatment. Am. J. Psychiatry 153, 600–610.
+Mueser, K.T., Drake, R.E., Wallach, M.A., 1998. Dual diagnosis: a
+review of etiological theories. Addict. Behav. 23, 717–734.
+Petrakis, I.L., Leslie, D., Finney, J.W., Rosenheck, R., 2006. Atypical
+antipsychotic medication and substance use-related outcomes in
+the treatment of schizophrenia. Am. J. Addict. 15, 44–49.
+Regier, D.A., Farmer, M.E., Rae, D.S., Locke, B.Z., Keith, S.J.,
+Judd, L.L., Goodwin, F.K., 1990. Comorbidity of mental disorders with alcohol and other drug abuse. Results from the Epidemiologic Catchment Area (ECA) Study. J. Am. Med. Assoc. 264,
+2511–2518.
+Rosenberg, S.D., Goodman, L.A., Osher, F.C., Swartz, M.S., Essock,
+S.M., Butterfield, M.I., Constantine, N.T., Wolford, G.L., Salyers,
+M.P., 2001. Prevalence of HIV, Hepatitis B and Hepatitis C in
+people with severe mental illness. Am. J. Public Health 91, 31–37.
+Rosenheck, R., Leslie, D., Sindelar, J., Miller, E.A., Stroup, S.,
+McEvoy, J., Davis, S., Davis, C.E., Keefe, R.S.E., Swartz, M.,
+Perkins, D., Hsiao, J.K., Lieberman, J., 2006. Cost-effectiveness of
+first and second generation antipsychotics in the treatment of
+chronic schizophrenia. Am. J. Psychiatry 163 (12), 2080–2089.
+Salyers, M.P., Mueser, K.T., 2001. Social functioning, psychopathology, and medication side effects in relation to substance use and
+abuse in schizophrenia. Schizophr. Res. 48, 109–123.
+Smelson, D.A., Losonczy, M.F., Davis, C.W., Kaune, M., Williams, J.,
+Ziedonis, D., 2002. Risperidone decreases craving and relapses in
+individuals with schizophrenia and cocaine dependence. Can. J.
+Psychiatry 47, 671–675.
+Stroup, T.S., McEvoy, J.P., Swartz, M.S., Byerly, M.J., Glick, I.D.,
+Canive, J.M., McGee, M.F., Simpson, G.M., Stevens, M.C.,
+Lieberman, J.A., 2003. The National Institute of Mental Health
+Clinical Antipsychotic Trials of Intervention Effectiveness
+(CATIE) project: schizophrenia trial design and protocol development. Schizophr. Bull. 29, 15–31.
+Stroup, T.S., Lieberman, J.A., McEvoy, J.P., Swartz, M.S., Davis,
+S.M., Rosenheck, R.A., Perkins, D.O., Keefe, R.S.E., Davis, C.E.,
+Severe, J., Hsiao, J.K., for the CATIE Investigators, 2006.
+Effectiveness of olanzapine, quetiapine, risperidone, and ziprasidone in patients with chronic schizophrenia after discontinuation of a previous atypical antipsychotic. Am. J. Psychiatry 163,
+611–622.
+Swanson, J., Estroff, S., Swartz, M., Borum, R., Lachicotte, W.,
+Zimmer, C., Wagner, R., 1997. Violence and severe mental disorder in clinical and community populations: the effects of psychotic symptoms, comorbidity, and lack of treatment. Psychiatry
+60, 1–22.
+Swartz, M.S., Swanson, J.W., Hiday, V.A., Borum, R., Wagner, H.R.,
+Burns, B.J., 1998. Violence and severe mental illness: the effects of
+substance abuse and nonadherence to medication. Am. J.
+Psychiatry 155, 226–231.
+Swartz, M.S., Perkins, D.O., Stroup, T.S., McEvoy, J.P., Nieri, J.M.,
+Haak, D.C., 2003. Assessing clinical and functional outcomes in
+the Clinical Antipsychotic Trials of Intervention Effectiveness
+(CATIE) Schizophrenia Trial. Schizophr. Bull. 29, 33–43.
+Swartz, M.S., Wagner, H.R., Swanson, J.W., Stroup, T.S., McEvoy,
+J.P., Canive, J.M., Miller, D.D., Reimherr, F., McGee, M., Khan,
+A., Van Dorn, R., Rosenheck, R.A., Lieberman, J.A., 2006a.
+Substance use in persons with schizophrenia: baseline prevalence
+and correlates from the NIMH CATIE study. J. Nerv. Ment. Dis.
+194, 164–172.
+Swartz, M.S., Wagner, H.R., Swanson, J.W., Stroup, T.S., McEvoy,
+J.P., McGee, M., Miller, D.D., Reimherr, F., Khan, A., Canive,
+J.M., Lieberman, J.A., 2006b. Substance use and psychosocial
+functioning in schizophrenia among new enrollees in the NIMH
+CATIE Study. Psychiatr. Serv. 57, 1110–1116.
+Swartz, M.S., Perkins, D.O., Stroup, T.S., Davis, S.M., Capuano, G.,
+Rosenheck, R.A., Reimherr, F., McGee, M.F., Keefe, R.S.E.,
+McEvoy, J.P., Lieberman, J.A., for the CATIE Investigators, 2007.
+Effects of antipsychotic medications on psychosocial functioning
+in patients with chronic schizophrenia: findings from the NIMH
+CATIE Study. Am. J. Psychiatry 164 (3), 428–436.
+Swofford, C.D., Kasckow, J.W., Scheller-Gilkey, G., Inderbitzin, L.B.,
+1996. Substance use: a powerful predictor of relapse in schizophrenia. Schizophr. Res. 20, 145–151.
+Tsuang, J.W., Eckman, T., Marder, S., Tucker, D., 2002. Can risperidone reduce cocaine use in substance abusing schizophrenic
+patients? J. Clin. Psychopharmacol. 22, 629–630.
+52 M.S. Swartz et al. / Schizophrenia Research 100 (2008) 39–52

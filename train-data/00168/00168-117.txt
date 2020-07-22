@@ -1,0 +1,539 @@
+1 2009 A/H1N1 influenza vaccination in pregnancy: uptake and pregnancy
+2 outcomes – a historical cohort study
+3Q1 Brian J Cleary a,b,
+*, Úna Rice c
+, Maeve Eogan d
+, Nehad Metwally e
+, Fionnuala McAuliffe f,g
+4 aPharmacy Department, Rotunda Hospital, Dublin 1, Ireland
+5 b School of Pharmacy, Royal College of Surgeons in Ireland, Dublin 2, Ireland
+6 c
+Pharmacy Department, Coombe Women and Infants University Hospital, Dublin 8, Ireland
+7 d Rotunda Hospital, Dublin 1, Ireland
+8 eDiscipline of Paediatrics, School of Medicine, Trinity College Dublin, Dublin 2, Ireland
+9 f
+National Maternity Hospital, Dublin 2, Ireland
+10 gDepartment of Obstetrics and Gynaecology, School of Medicine and Medical Science, University College Dublin, Dublin 4, Ireland
+A R T I C L E I N F O
+Article history:
+Received 28 January 2014
+Received in revised form 17 March 2014
+Accepted 8 April 2014
+Keywords:
+2009 A/H1N1 influenza
+Vaccine
+Pregnancy
+Uptake
+Congenital anomaly
+Perinatal death
+A B S T R A C T
+Objectives: To describe the uptake of 2009 A/H1N1 influenza vaccination among pregnant women and
+determine if vaccination was associated with adverse pregnancy outcomes.
+Study Design: A historical cohort study was performed using booking, delivery suite and neonatal unit
+discharge records from the Coombe Women and Infants University Hospital, Dublin, Ireland. Singleton
+deliveries to women pregnant before (December 2008–September 2009) and during the pandemic
+(December 2009–September 2010) were included.
+Information on vaccination status and type of vaccine was collected on admission to the delivery suite.
+Logistic regression analyses were used to determine maternal characteristics associated with
+vaccination. Pregnancy outcomes were compared for vaccinated and unvaccinated women, with
+adjustment for differing maternal characteristics. Outcomes included vaccination status, preterm birth,
+size for gestational age, neonatal intensive care admission, congenital anomalies and perinatal death.
+Results: Of 6894 women pregnant during the pandemic, 2996 [43.5%] reported vaccination at delivery. In
+the early weeks of the vaccination programme rates of over 70% were achieved. Of those vaccinated, 246
+[8.2%], 1709 [57.0%] and 1034 [34.5%] were vaccinated in the first, second and third trimesters
+respectively. Vaccination was less likely in younger age groups, those who were not in the professional/
+manager/employer socioeconomic group, women from Eastern Europe, Africa and Asia/Middle East,
+those who reported an unplanned pregnancy, women who booked late for antenatal care and recipients
+of publicly-funded obstetric care. Irish nationality was associated with reporting vaccination. There was
+no association between vaccination during pregnancy and adverse pregnancy outcomes. Women who
+were vaccinated were less likely to have a preterm delivery than unvaccinated women.
+Conclusion: 2009 A/H1N1 influenza vaccination uptake was influenced by maternal sociodemographic
+factors. High vaccination uptake can be achieved in a pandemic situation. Future public health campaigns
+should provide clear information on vaccination safety in pregnancy, ensure consistent vaccination
+recommendations from healthcare professionals and provide easy access to vaccination in order to
+optimise uptake rates in subgroups of the population who less likely to be vaccinated. There was no
+association between vaccination and adverse pregnancy outcomes.
+ã 2014 Published by Elsevier Ireland Ltd.
+11 Introduction
+12 Pandemic 2009A/H1N1 influenza infection appeared to increase
+13 the risk of severe maternal morbidity and mortality and was
+14 associated with adverse pregnancy outcomes [1–4], including
+15 perinatal death [1]. Previous pandemics also demonstrated the risk
+16 of serious adversematernal andfetaloutcomes [5].In order toreduce
+17 the risk of such adverse outcomes vaccinations against pandemic
+18 2009A/H1N1 influenza were licensed and recommended for use 19 during pregnancy [6]. In Ireland two vaccines were commercially
+20 available and recommended for use in the national immunisation
+21 campaign: Pandemrix1, an egg-derived vaccine containing thiomersal 22 and the AS03 adjuvant (DL-a-tocopherol, squalene and
+* Corresponding author at: Pharmacy Department, Rotunda Hospital, Dublin 1,
+Ireland. Tel.: +353 1 8727262.
+E-mail address: bcleary@rotunda.ie (B.J. Cleary).
+http://dx.doi.org/10.1016/j.ejogrb.2014.04.015
+0301-2115/ã 2014 Published by Elsevier Ireland Ltd.
+European Journal of Obstetrics & Gynecology and Reproductive Biology xxx (2014) xxx–xxx
+G Model
+EURO 8530 1–6
+Please cite this article in press as: Cleary BJ, et al. 2009 A/H1N1 influenza vaccination in pregnancy: uptake and pregnancy outcomes – a
+historical cohort study. Eur J Obstet Gynecol (2014), http://dx.doi.org/10.1016/j.ejogrb.2014.04.015
+Contents lists available at ScienceDirect
+European Journal of Obstetrics & Gynecology and
+Reproductive Biology
+journal homepage: www.elsevier.com/locate/ejogrb
+23 polysorbate); and Celvapan1, a cell-line-derived, thiomersal free,
+24 non-adjuvanted alternative.
+25 Seasonal influenza vaccines have been administered to pregnant
+26 women since the late 1950s [7], and the US Advisory Committee on 27 ImmunizationPractices (ACIP)has, since 2004,encouraged pregnant
+28 women to be vaccinated against seasonal influenza regardless of
+29 gestation [8]. Uptake rates of 2009A/H1N1 influenza vaccine varied
+30 internationally during the pandemic with studies reporting rates in
+31 pregnant women from as low as 4.7% to as high as 85% [9–11]. 32 Variations in international recommendations relating to the optimal
+33 timing of vaccination in pregnancy, the selection of non-adjuvanted
+34 vaccines for pregnant women and the need for seasonal influenza 35 vaccinationinpregnancyledtomediacommentaries, speculationon 36 vaccine safety and public anxiety.
+37 Available data support the use of the inactivated influenza 38 vaccine during all stages of pregnancy, particularly for women with
+39 medical conditions that may increase the risk of complications.
+40 Reassuring pharmacoepidemiological studies have indicated that
+41 2009A/H1N1 influenza vaccination is not associated with adverse
+42 pregnancy outcomes including fetal death, preterm birth and
+43 congenital anomalies [12–17]. Vaccination may have reduced the
+44 risk of influenza-related fetal death during the pandemic [12]. 45 It is important to study the determinants of vaccination uptake
+46 in pregnant women in a variety of settings, given the regional
+47 variations that have been previously reported [18]. It is also
+48 essential that extensive data are available on pregnancy outcomes
+49 after gestational vaccine exposure in order to inform decisions on 50 vaccination by pregnant women and health professionals,
+51 particularly during a pandemic situation. This study has two main
+52 objectives. The first objective is to describe the uptake and
+53 determinants of 2009A/H1N1 influenza vaccination in pregnant
+54 women during the pandemic. The second objective is to determine
+55 if there is an association between vaccination and adverse
+56 pregnancy outcomes.
+57 Materials and methods
+58 The Irish pandemic flu vaccination programme began in early
+59 November 2009 and ended on the 31st of March 2010 [19]. In the
+60 initial phase high risk groups, including pregnant women, were 61 offered prioritised access to the vaccine. Vaccination was offered in
+62 vaccination centres set up by the Health Service Executive, in
+63 vaccination clinics run by the maternity hospital to coincide with
+64 antenatal clinics and in primary care. Details of vaccination
+65 provider were not available for this study.
+66 All singleton deliveries during the study period were eligible for
+67 inclusion. Data on maternal characteristics, medical and obstetric
+68 history recorded at the antenatal booking interview and perinatal
+69 outcomes recorded in the delivery suite and neonatal intensive
+70 care unit were extracted from electronic hospital records at the
+71 Coombe Women and Infants University Hospital in Dublin
+72 (CWIUH). CWIUH is a tertiary referral maternity hospital serving
+73 a diverse urban/suburban catchment area and delivering approxi74 mately 12% of all Irish births. The majority of women (approxi75 mately 85%) receive antenatal care in the public system. Antenatal
+76 care may be delivered by an obstetric team within the hospital or it
+77 may involve combined care delivered by an obstetrician and a 78 primary care doctor. The hospital also offers midwifery-led
+79 antenatal care to low risk women.
+80 Data on vaccination status was recorded at delivery from the
+81 beginning of December 2009. The following questions were added
+82 to the delivery suite admission form:
+(1) 83 H1N1 vaccine this pregnancy? (Yes/No)
+(2) 84 When given (1st dose) (1st trimester, 2nd trimester, 3rd
+85 trimester).
+(3) 86 Vaccine used? (Celvapan 1 dose, Celvapan 2 doses, Pandemrix,
+87 unknown)
+88 Preterm and very preterm deliveries were defined as delivery
+89 prior to 37 and 32 weeks gestation respectively. Gestational age is
+90 routinely determined from the first day of the last menstrual
+91 period (LMP). The booking visit ultrasound scan estimate is used if
+92 there is uncertainty of the LMP date or if there is a discrepancy of
+more 93 than seven days between the LMP and ultrasound estimates.
+94 Birthweight is measured by a midwife or paediatrician on the
+95 delivery suite using electronic scales. Small for gestational age was 96 defined as a birthweight determined to be less than the 10th
+97 centile customised for maternal weight, height, gestation and
+98 infant sex [20]. Congenital anomalies were ascertained from
+99 electronic records of any anomalies identified by midwifery or 100 paediatric staff on the delivery suite or from congenital anomaly,
+101 body system or discharge diagnoses fields in the neonatal unit
+102 electronic discharge records.
+Descriptive 103 statistics were used as appropriate to describe
+maternal 104 characteristics of vaccinated and unvaccinated women.
+Univariable 105 logistic regression analyses were used to determine
+106 odds ratios and 95% confidence intervals for associations between
+maternal 107 characteristics and vaccination. Cases with missing data
+were 108 excluded from the logistic regression analyses. The levels of
+missing 109 data for each maternal characteristic and pregnancy
+110 outcome are indicated in Tables 1 and 2. 111 Pregnancy outcomes were compared between vaccine-exposed
+women 112 delivering between December 2009 and September 2010
+113 and two comparison groups. The first comparison group included
+women 114 delivering from the beginning of December 2009 to the
+115 end of September 2010 who reported that they had not been
+116 vaccinated at the time of delivery (unvaccinated group). The
+117 second comparison group included women delivering from the
+118 beginning of December 2008 to the end of September 2009,
+119 representing a time period prior to the mass vaccination
+120 programme and the main wave of the pandemic (prevaccination
+121 group). Univariable and multivariable logistic regression analyses
+were 122 used to generate unadjusted and adjusted odds ratios
+123 examining the association between vaccination and adverse
+124 perinatal outcomes. The multivariable analysis included adjustment 125 for age band at delivery, socioeconomic group, region,
+126 planning of pregnancy, booking gestation, public obstetric care and
+127 smoking in pregnancy.
+128 A separate univariable logistic regression analysis was carried
+129 out to determine if vaccination was associated with congenital
+130 anomalies after first trimester exposure with comparison to the
+131 unvaccinated group.
+132 The study was approved by the Hospital’s Research Ethics
+133 Committee on 16th May 2012 (Study No. 3–2012).
+134 Results
+135 Vaccine uptake
+Of 136 6894 women delivering between the beginning of December
+137 2009 and the end of the following September, 2996 women [43.5%]
+138 reported vaccination at delivery. The temporal distribution of
+139 vaccination during pregnancy is represented in Fig. 1. Vaccination
+140 in the first, second and third trimesters was reported by 246 [8.2%],
+141 1709 [57.0%] and 1034 [34.5%] vaccinated women, respectively.
+142 Celvapan1 was received by 1692 [56.5%] women, with approximately 143 half receiving a single dose and half receiving two. A single
+144 dose of Pandemrix1 was received by 698 [23.3%] women, with a 145 further 606 [20.2%] women unsure of the specific vaccine used.
+Maternal 146 characteristics of vaccinated and unvaccinated
+women 147 are outlined in Table 1. Compared with women in the
+2 B.J. Cleary et al. / European Journal of Obstetrics & Gynecology and Reproductive Biology 2 xxx (2014) xxx–xxx
+G Model
+EURO 8530 1–6
+Please cite this article in press as: Cleary BJ, et al. 2009 A/H1N1 influenza vaccination in pregnancy: uptake and pregnancy outcomes – a
+historical cohort study. Eur J Obstet Gynecol (2014), http://dx.doi.org/10.1016/j.ejogrb.2014.04.015
+148 25–29 age group, those between 30–39 years were more likely to
+149 report vaccination. Vaccination was most likely in the professional,
+150 manager and employer socioeconomic group compared to all other
+151 groupings. There were regional variations in vaccination uptake
+152 with women from Eastern Europe less likely to report vaccination
+153 than those from Western Europe (odds ratio 0.21, 95% Confidence
+154 Interval 0.17–0.25). Women from Africa and Asia/Middle East were 155 also less likely to report vaccination. Irish nationality was 156 associated with reporting vaccination (OR 2.25, 95% CI 2.01– 157 2.51). Women who reported an unplanned pregnancy were less
+158 likely to be vaccinated. Those booking after 20 weeks were less
+159 likely to be vaccinated (OR 0.49, 95% CI 0.39–0.62) compared to
+160 those booking between 12 and 20 weeks’ gestation. Women who
+161 received privately-funded obstetric care were more likely to report
+162 vaccination (OR 1.43, 95% CI 1.25–1.63).
+Maternal 163 and perinatal outcomes for the vaccinated and
+164 unvaccinated groups are compared in Table 2. Adverse perinatal
+165 outcomes did not appear to differ significantly between the
+166 vaccinated group and the two comparison groups. In the
+167 unadjusted analyses, vaccinated women were less likely to have
+168 an elective caesarean section than the unvaccinated group.
+169 Preterm birth (<37 and <32 weeks’ gestation) was also less likely
+170 in the vaccinated women compared to the unvaccinated group.
+171 This association was not found when the prevaccination group
+were 172 used for comparison. Adjustmentfor maternal characteristics
+173 that differed significantly between the vaccinated and unvaccinat174 ed groups including age, socioeconomic group, region, planning of
+175 pregnancy, booking gestation, funding of obstetric care and
+176 smoking with multivariable logistic regression analyses did not
+177 alter the results. The adjusted OR for the association between
+Table 1
+Maternal characteristics among vaccinated and unvaccinated pregnancies.
+N = 6894 Vaccinated n = 2996 [43.5%] Unvaccinated n = 3898 [56.5%] OR 95% CI
+Age at delivery 6894
+<20 years 97 [37.7] 160 [62.3] 0.92 0.70–1.21
+20–24 years 353 [40.3] 522 [59.7] 1.03 0.87–1.22
+25–29 years 686 [39.6] 1045 [60.4] 1 –
+30–34 years 1015 [44.9] 1248 [55.1] 1.24 1.09–1.41
+35–39 years 719 [48.8] 753 [51.2] 1.45 1.26–1.67
+>40 years 126 [42.6] 170 [57.4] 1.13 0.88–1.45
+Socioeconomic group 6888
+Home duties 481 [37.1] 815 [62.9] 0.61 0.52–0.70
+Professional/manager /employer 910 [49.3] 934 [50.7] 1 –
+Non-manual 1115 [44.2] 1406 [55.8] 0.81 0.72–0.92
+Manual 110 [34.4] 210 [65.6] 0.54 0.42–0.69
+Unemployed 240 [42.9] 319 [57.1] 0.77 0.64–0.93
+Non-classifiable 140 [40.2] 208 [59.8] 0.69 0.55–0.87
+Nationality – Irish 6838
+Yes 2352 [49.2] 2431 [50.8] 1 –
+No 618 [30.1] 1437 [69.9] 0.44 0.40–0.49
+Region 6838
+Western Europe 2460 [48.6] 2598 [51.4] 1 –
+Eastern Europe 144 [16.6] 724 [83.4] 0.21 0.17–0.25
+Africa 128 [39.1] 199 [60.9] 0.68 0.54–0.85
+South America 16 [50.0] 16 [50.0] 1.05 0.53–2.11
+North America 14 [53.8] 12 [46.2] 1.23 0.57–2.67
+Asia/Middle East 201 [39.4] 309 [60.6] 0.69 0.57–0.83
+Australia and New Zealand 7 [41.2] 10 [58.8] 0.74 0.28–1.94
+Married 6792
+Yes 1815 [43.4] 2365 [56.6] 1 –
+No 1140 [43.6] 1472 [56.4] 1.00 0.91–1.11
+Nulliparous 6894
+Yes 1248 [42.8] 1669 [57.2] 1 –
+No 1748 [44.0] 2229 [56.0] 1.04 0.95–1.15
+Planned pregnancy 6850
+Yes 2055 [44.6] 2557 [55.4] 1 –
+No 934 [41.7] 1304 [58.3] 0.89 0.80–0.99
+Booking gestation (weeks) 6832
+<12 weeks 1317 [46.9] 1493 [53.1] 1.18 1.06–1.30
+12–20 weeks 1547 [42.8] 2065 [57.2] 1 –
+>20 weeks 110 [26.8] 300 [73.2] 0.49 0.39–0.62
+Publicly-funded obstetric care 6894
+Yes 2444 [43.5] 3366 [57.9] 1 –
+No 552 [50.9] 532 [49.1] 1.43 1.25–1.63
+Smoked during pregnancya 6891
+No 2527 [43.6] 3270 [56.4] 1 –
+Yes 469 [42.9] 625 [57.1] 0.97 0.85–1.10
+OR – odds ratio; CI – confidence interval. a Smoking status ascertained at the antenatal booking interview.
+B.J. Cleary et al. / European Journal of Obstetrics & Gynecology and Reproductive Biology 2 xxx (2014) xxx–xxx 3
+G Model
+EURO 8530 1–6
+Please cite this article in press as: Cleary BJ, et al. 2009 A/H1N1 influenza vaccination in pregnancy: uptake and pregnancy outcomes – a
+historical cohort study. Eur J Obstet Gynecol (2014), http://dx.doi.org/10.1016/j.ejogrb.2014.04.015
+178 vaccination and preterm delivery before 37 and 32 weeks’ 179 gestation were 0.72, 95% CI 0.58–0.89 and 0.56, 95% CI 0.35– 180 0.90, when the vaccinated group were compared with the
+181 unvaccinated group.
+182 There were nine congenital anomalies among 246 pregnancies
+183 where women reported vaccination in the first trimester and 110
+184 among 3897 pregnancies in unvaccinated women (3.7% vs. 2.8%;
+185 OR 1.31, 95% CI 0.65–2.61). The congenital anomalies recorded for
+186 the nine neonates were: duplication of left ureter (history of
+187 duplicate kidneys in siblings), atrophic right kidney (maternal
+188 history of atrophic kidney also), unspecified chromosomal
+189 anomaly, mild pyelectasis on antenatal ultrasound, subcutaneous
+190 dermoid cyst, hydronephrosis on antenatal ultrasound, bilateral
+191 hydrocele, albinism and cardiomyopathy (maternal cardiomyopa192 thy also).
+193 Comment
+Main 194 findings
+195 This study demonstrated that 43.5% of women delivering
+196 between December 2009 and September 2010 had received at least
+197 one dose of pandemic 2009A/H1N1 influenza vaccine, with
+198 vaccination rates of over 70% in the weeks after the initiation of
+Fig. 1. Temporal distribution of reported vaccination uptake at delivery December 2009–September 2010.
+Table 2
+Maternal and perinatal outcomes among vaccinated and unvaccinated pregnancies.
+n = 13938 Vaccinated
+n = 2996
+Unvaccinated
+n = 3898
+Pre-vaccination
+n = 7044
+ORa 95% CI ORb 95% CI
+Mode of delivery 13938
+SVD 1768 [59.0] 2220 [57.0] 4105 [58.3] 1 – 1 –
+Elective LSCS 208 [6.9] 496 [12.7] 760 [10.8] 0.53 0.44–0.63 0.64 0.54–0.75
+Emergency LSCS 420 [14.0] 548 [14.1] 919 [13.0] 0.96 0.83–1.11 1.06 0.93–1.21
+Forceps 247 [8.2] 296 [7.6] 522 [7.4] 1.05 0.88–1.26 1.10 0.93–1.29
+Ventouse 353 [11.8] 338 [8.7] 738 [10.5] 1.31 1.12–1.54 1.11 0.97–1.28
+Preterm birth <37 weeks 13824 141 [4.7] 252 [6.5] 371 [5.3] 0.71 0.58–0.88 0.89 0.73–1.08
+Spontaneous birth <37 weeks 13824 73 [2.5] 127 [3.3] 198 [2.8] 0.74 0.55–0.99 0.86 0.66–1.13
+Very preterm birth <32 weeks 13824 26 [0.9] 60 [1.6] 73 [1.0] 0.56 0.35–0.89 0.84 0.53–1.31
+Spontaneous birth <32 weeks 13824 15 [0.5] 25 [0.6] 30 [0.4] 0.78 0.41–1.48 1.17 0.63–2.19
+Small for gestational age <10th centilec 13824 368 [12.4] 485 [12.6] 862 [12.3] 0.98 0.85–1.13 1.00 0.88–1.14
+Centiled
+Apgar score <3 at 1 min 13911 27 [0.9] 42 [1.1] 57 [0.8] 0.83 0.51–1.35 1.11 0.70–1.76
+Apgar score <7 at 5 min 13853 21 [0.7] 33 [0.9] 50 [0.7] 0.82 0.47–1.43 0.98 0.59–1.64
+Admitted to neonatal unit 13938 507 [16.9] 652 [16.7] 942 [13.4] 1.01 0.89–1.15 1.32 1.17–1.48
+Congenital anomaly 13938 66 [2.2] 110 [2.8] 181 [2.6] 0.78 0.57–1.05 0.85 0.64–1.14
+Perinatal deathd 13938 11 [0.4] 22 [0.6] 39 [0.6] 0.65 0.31–1.34 0.66 0.34–1.29
+OR – odds ratio; CI – confidence interval; SVD – spontaneous vaginal delivery; LSCS – lower segment caesarean section. a Vaccinated versus unvaccinated (unadjusted odds ratio). b Vaccinated versus pre-vaccination (unadjusted odds ratio). c Birth weight centiles were calculated using GROW-centile, a customised weight centile calculator. d Includes stillbirths and neonatal deaths. Stillbirth was defined as delivery of a baby showing no signs of life at or after 24 weeks gestation. Neonatal death was defined as
+the death of a baby within the first seven days of life.
+4 B.J. Cleary et al. / European Journal of Obstetrics & Gynecology and Reproductive Biology 2 xxx (2014) xxx–xxx
+G Model
+EURO 8530 1–6
+Please cite this article in press as: Cleary BJ, et al. 2009 A/H1N1 influenza vaccination in pregnancy: uptake and pregnancy outcomes – a
+historical cohort study. Eur J Obstet Gynecol (2014), http://dx.doi.org/10.1016/j.ejogrb.2014.04.015
+199 the vaccination programme. Of the women with known vaccine
+200 type, the majority [70.7%] received the cell-line-derived, thio201 mersal free, non-adjuvanted product Celvapan1. Women who
+202 were less likely to be vaccinated included those in younger age
+203 groups, those who were notin the professional/manager/employer
+204 socioeconomic group, women from Eastern Europe, Africa and
+205 Asia/Middle East, women who booked late for antenatal care,those
+206 who reported an unplanned pregnancy and those who received
+207 publicly-funded obstetric care. Vaccination was not associated
+208 with adverse pregnancy outcomes.
+209 Strengths and limitations
+210 This study was conducted in a large tertiary referral maternity
+211 hospital that delivers approximately 9000 babies annually. Data on 212 maternal characteristics, medical history, vaccination status and
+213 pregnancy outcomes were routinely collected by midwives using
+214 structured computer-guided and paper questionnaires. Data were 215 available on a diverse group of women from a broad range of socio216 economic groupings. Virtually all deliveries during the study
+217 period were included in the analysis, reducing the risk of selection
+218 bias. This study also provided information on both adjuvanted and
+219 unadjuvanted vaccines. The study results are likely to be general220 isable to women receiving antenatal care in similar hospital
+221 settings worldwide, though international variations in vaccine
+222 uptake are likely.
+223 This study was limited by the inclusion of only one maternity
+224 hospital. Current constraints imposed by the Irish Data Protec225 tion Act precluded a planned study including the three main
+226 Dublin maternity hospitals which deliver 4 in 10 Irish babies.
+227 Data were not available on the vaccination provider or the model
+228 of antenatal care. Pregnancy outcomes were ascertained after
+229 information on vaccination status was collected, this may have
+230 potentially led to biased assessment of outcomes, however there
+231 is no evidence to suggest that this occurred. The study was also
+232 limited by the constraint of ascertainment of vaccination status
+233 at delivery as this prevented any analysis of the relationship
+234 between vaccination and early pregnancy loss and also intro235 duced the risk of recall bias. Reliance on maternal self-report of
+236 vaccination status, vaccine used and timing of vaccination is a 237 potential limitation, however, the high profile nature of the
+238 pandemic vaccination recommendations meant that most
+239 women knew this information. Congenital anomalies were 240 ascertained from routine hospital records up to the time of
+241 hospital discharge. There was limited recording of clinical details
+242 of anomalies and it is possible that misclassification led to an 243 underestimation of congenital anomalies for all neonates.
+244 Although multivariable logistic regression was used to adjust
+245 for differing maternal characteristics between the comparison
+246 groups, it is possible that residual confounding remained. This
+247 residual confounding may have explained the apparent differ248 ences in the elective caesarean section rate between the
+249 vaccinated and unvaccinated groups.
+250 Interpretation
+251 There are a number of factors that may have an impact on 252 vaccination uptake rates in the pregnant population. Maternal
+253 characteristics associated with vaccination include working
+254 outside the home, being multiparous and having a higher level
+255 of education [21]. Other factors include the safety concerns of both
+256 patients and healthcare workers and also a lack of recommenda257 tion of vaccination by medical professionals [22]. A US survey of
+258 postpartum women, which reported a vaccination rate of 34%,
+259 indicated that the strongest determinants of vaccination were 260 awareness of vaccine safety and health professional
+261 recommendations [23]. Some studies identified that pandemic
+262 2009 A/H1N1 influenza vaccination was actually offered to a
+minority 263 of women during pregnancy [24,25]. Maternal comorbidities 264 have also been demonstrated to affect the likelihood
+265 of vaccination along with regional variations in uptake [18]. 266 Several similar studies in a variety of international settings have
+267 reported uptake rates in pregnancy below 15% [10,21,22,26]. 268 Vaccine availability issues early in the pandemic may have reduced
+269 uptake in some studies. Higher rates of 37–85% have been reported
+270 in other studies from the US and UK [27–29]. In a Dutch online
+271 survey with a 20.6% response rate, 63% of pregnant women 272 reported vaccination [30]. An EU survey reported that for pregnant
+women, 273 Ireland had the second highest vaccination coverage at
+274 32% after the Netherlands at 58% [31]. In line with the findings of
+275 this study, vaccination was much less likely in Eastern European
+276 countries. Low uptake of the vaccine in pregnancy has also been
+277 reported in an Australian study [32]. 278 The higher estimates from some patient surveys may be caused
+279 by sampling bias. Uptake rates will also vary between studies
+280 depending on the time period included. In this study, vaccination
+281 rates of up to 70% were achieved in women delivering in the weeks
+282 after the initiation of the vaccination campaign. These uptake rates
+may 283 be explained by clear public health messages given in
+284 antenatal clinics along with specific vaccination clinics run in the
+285 hospital to coincide with antenatal clinics. Vaccination was also
+286 available through national vaccination programmes run in the
+287 community by public health services.
+288 This study adds to previous findings of regional variations in
+289 vaccination uptake [18,31]. Maternal characteristics associated with
+290 not being vaccinated were similar in several international studies. A
+291 Canadian study also reported variations in vaccination rates related
+292 to maternal age, socio-economic status and late booking [33]. A
+293 French study had similar findings with higher vaccination rates in
+women who were 294 older, employed and born in France [34]. 295 Ressuring data are provided on the safety of pandemic 2009A/
+H1N1 296 influenza vaccination in pregnancy. Previous studies support
+297 the current findings of no association between pandemic 2009A/
+H1N1 298 influenza vaccination in pregnancy and adverse pregnancy
+299 outcomes including fetal death, preterm birth and congenital
+300 anomalies [12–17]. One previous study also noted an association
+301 between vaccination and a marginal risk reduction for caesarean 302 section [17]. 303 There was some evidence of a possible protective effect of
+304 vaccination with regard to preterm birth. The unadjusted and
+305 adjusted analyses indicated that preterm birth below 37 and 32
+weeks 306 ’ gestationwas less likely in the vaccinated group compared to
+307 theunvaccinated.Therewasnoevidenceof a significantdifference in
+308 pretermbirth rateswhen thevaccinated groupwere compared to the
+309 prevaccination group. Maternal 2009/H1N1 infection has been
+310 associatedwithpretermbirth,particularlywithinfectioninthe third
+311 trimester [4]. Confounding by unmeasured maternal characteristics
+may 312 explain this difference. Alternatively the association may be
+313 indicativeofaprotectiveeffectofvaccination, reducing febrileillness
+314 and associated preterm delivery. The protective effect of the vaccine
+may 315 have prevented preterm birth within the vaccinated group
+which 316 had preterm birth rates that were similar to rates in the
+317 prevaccination comparison group. A lower likelihood of preterm
+318 birth after pandemic 2009A/H1N1 influenza vaccination in preg319 nancy has previously been reported [16,35], though this finding was 320 not consistent across all studies [14,17].
+Women with 321 an underlying health condition are more likely to
+322 be vaccinated during pregnancy [18]. These underlying health
+323 conditions may predispose a proportion of the vaccinated group to
+324 adverse pregnancy outcomes, however, there was no evidence of
+325 an increased risk of adverse outcomes for the vaccinated group in
+326 this study.
+B.J. Cleary et al. / European Journal of Obstetrics & Gynecology and Reproductive Biology 2 xxx (2014) xxx–xxx 5
+G Model
+EURO 8530 1–6
+Please cite this article in press as: Cleary BJ, et al. 2009 A/H1N1 influenza vaccination in pregnancy: uptake and pregnancy outcomes – a
+historical cohort study. Eur J Obstet Gynecol (2014), http://dx.doi.org/10.1016/j.ejogrb.2014.04.015
+327 Conclusion
+328 This study demonstrates that high influenza vaccine uptake
+329 rates can be achieved for pregnant women in a pandemic
+330 situation. Future public health campaigns should provide clear
+331 information on vaccination safety in pregnancy, ensure consistent
+332 advice and vaccination recommendations from healthcare pro333 fessionals and provide easy access to vaccination e.g. through
+334 integration with antenatal care to optimise uptake rates in
+335 subgroups of the population who are less likely to be vaccinated.
+336 Reassuring data from geographically diverse locations on the
+337 relationship between maternal vaccination and pregnancy out338 comes will aid future vaccination campaigns. This wealth of safety
+339 data will attenuate public uncertainty about vaccine safety in
+340 pregnancy. The available data may also improve uptake rates in
+341 pregnant women in future pandemics.
+342 Disclosure of interests
+343 None of the researchers have any conflict of interest to declare.
+344 No contractual constraints on publishing were imposed by the
+345 funding bodies.
+346 Contribution to authorship
+347 BC proposed the study initially and was responsible for study
+348 design along with UR, ME and FM; BC, UR and NM were 349 responsible for acquisition and analysis of data; all authors were 350 involved in drafting the article, revising it and final approval for
+351 publication.
+352 Details of ethics approval
+353 The study was approved by the Hospital’s Research Ethics
+354 Committee on 16th May 2012 (Study No. 3–2012).
+355 Funding
+356 BC was funded by the charity Friends of the Coombe and the
+357 School of Pharmacy, Royal College of Surgeons in Ireland.
+358 Acknowledgements
+359 We would like to gratefully acknowledge the funders: the
+360 Friends of the Coombe and the School of Pharmacy, Royal College of
+361 Surgeons in Ireland; Dr. Chris Fitzpatrick and Ann Fergus for
+362 facilitating data collection; the Midwives and other staff who
+363 collected the data and Emma McNamee from the IT Departmentfor
+364 extracting the data.
+365 References
+[1] Critical illness due to 2009 A/H1N1 influenza in pregnant and postpartum 366 women: population based cohort study. BMJ. 2010;340:c1279.
+[2] Jamieson DJ, Honein MA, Rasmussen SA, et al. H1N1 2009 influenza virus
+367 infection during pregnancy in the USA. Lancet 2009;374(August 368 9688):451–8.
+[3] Rubinstein F, Micone P, Bonotti A, et al. Influenza A/H1N1 MF59 adjuvanted 369 vaccine in pregnant women and adverse perinatal outcomes: multicentre
+370 study. BMJ 2013;346:f393.
+[4] PierceM,KurinczukJJ, SparkP,Brocklehurst P,KnightM. Perinatal outcomes after
+371 maternal 2009/H1N1 infection: national cohort study. BMJ 2011;342:d3214.
+[5] Harris JW. Influenza occurring in pregnant women. J Am Med Assoc 1919;72 372 (14):978–80.
+[6] European Centre for Disease Prevention and Control. ECDC Health Informa373 tion. Q&A for health professionals on vaccines and vaccination in relation to 374 the 2009 influenza A(H1N1) pandemic. Stockholm 2009
+[7] Rasmussen SA, Kissin DM, Yeung LF, et al. Preparing for influenza after 2009
+375 H1N1: special considerations for pregnant women and newborns. Am J Obstet
+376 Gynecol 2011;204(6, Supplement):S13–20.
+[8] Harper SA, Fukuda K, Uyeki TM, Cox NJ, Bridges CB. Prevention and control of
+377 influenza. MMWR Prev Control 2004;53:1–40.
+[9] Goldfarb I, Panda B, Wylie B, Riley L. Uptake of influenza vaccine in pregnant 378 women during the 2009 H1N1 influenza pandemic. Am J Obstet Gynecol 2011; 379 204(6, Supplement):S112–5.
+[10] Perez-Rubio A, Eiros Bouza JM, Castrodeza Sanz JJ. Evaluation of the influenza a 380 H1N1 vaccination in Castilla and Leon regions Spain. Med Clin 2010;135 381 (12):543–5.
+[11] Conlin AM, Bukowinski AT, Sevick CJ, DeScisciolo C, Crum-Cianflone NF. Safety 382 of the pandemic H1N1 influenza vaccine among pregnant U.S. military women 383 and their newborns. Obstet Gynecol 2013;121(March, 3):511–8.
+[12] Håberg SE, Trogstad L, Gunnes N, et al. Risk of fetal death after pandemic 384 influenza virus infection or vaccination. N Engl J Med 2013;368(4):333–40.
+[13] Pasternak B, Svanström H, Mølgaard-Nielsen D, et al. Vaccination against 385 pandemic A/H1N1 2009 influenza in pregnancy and risk of fetal death: cohort
+386 study in Denmark. BMJ 2012;344: 2012-05-02 00:00.
+[14] Pasternak B, Svanstrom H, Molgaard-Nielsen D, et al. Risk of adverse fetal
+387 outcomes following administration of a pandemic influenza A(H1N1) vaccine
+388 during pregnancy. JAMA 2012;308(July, 2):165–74.
+[15] Oppermann M, Fritzsche J, Weber-Schoendorfer C, et al. A(H1N1)v2009: a 389 controlled observational prospective cohort study on vaccine safety in
+390 pregnancy. Vaccine 2012;30(30):4445–52.
+[16] Källén B, Olausson PO. Vaccination against H1N1 influenza with Pandemrix1
+391 during pregnancy and delivery outcome: a Swedish register study. BJOG Int J 392 Obstet Gynaecol 2012;119(13):1583–90.
+[17] Ludvigsson JF, Zugna D, Cnattingius S, et al. Influenza H1N1 vaccination and
+393 adverse pregnancy outcome. Eur J Epidemiol 2013;28(July, 7):579–88.
+[18] Sammon CJ, McGrogan A, Snowball J, de Vries CS. Pandemic influenza Q2
+394 vaccination during pregnancy: an investigation of vaccine uptake during the
+395 2009/10 pandemic vaccination campaign in Great Britain. Hum Vaccin
+396 Immunother 2013;9(January, 4).
+[19] Health Protection Surveillance Centre, National summary of influenza 397 Pandemic (H1N1) 2009 vaccination in Ireland- Provisional data Dublin: HPSC
+Available from 2012; http://www.webcitation.org/6EvNhEBjG.
+[20] GardosiJ, FrancisA. CustomisedWeightCentileCalculator– GROW-Centile. v6.4.
+398 Gestation Network. Available from: www.gestation.net [accessed 20.05.10].
+[21] Ozer A, Arikan DC, Kirecci E, Ekerbicer HC. Status of pandemic influenza 399 vaccination and factors affecting it in pregnant women in Kahramanmaras, an 400 eastern Mediterranean city of Turkey. PLoS One 2010;5(12).
+[22] White SW, Petersen RW, Quinlivan JA. Pandemic (H1N1) 2009 influenza 401 vaccine uptake in pregnant women entering the 2010 influenza season in
+Western 402 Australia. Med J Aust 2010;193(October, 7):405–7.
+[23] Dlugacz Y, Fleischer A, Carney MT, et al. 2009 H1N1 vaccination by pregnant 403 womenduringthe2009-10H1N1 influenzapandemic.Am JObstetGynecol2012; 404 206(4)339 e1-e8.
+[24] Yudin MH, Salaripour M, Sgro MD. Pregnant women’s knowledge of influenza 405 and the use and safety of the influenza vaccine during pregnancy. J Obstet
+406 Gynaecol Canada: JOGC 2009;31(2):120–5.
+[25] Panda B, Stiller R, Panda A. Influenza vaccination during pregnancy and factors
+407 for lacking compliance with current CDC guidelines. J Matern-fetal Neonatal
+Med 408 2011;24(3):402–6.
+[26] Sethi M, Pebody R. Health Protection Agency. Pandemic H1N1 (Swine) 409 influenza vaccine uptake amongst patient groups in primary care in England 410 2009/10. London: Department of Health; 2010.
+[27] Seasonal influenza and 2009 H1N1 influenza vaccination coverage among 411 pregnant women – 10 states, 2009–10 influenza season. MMWR Morb Mortal
+Wkly 412 Rep. 2010; December 3;59(47):1541–1545.
+[28] Goldfarb I, Panda B, Wylie B, Riley L. Uptake of influenza vaccine in pregnant 413 women during the H1N1 influenza pandemic. Am J Obstet Gynecol 2009; In
+414 press, Corrected Proof.
+[29] Yates L, Pierce M, Stephens S, et al. Influenza A/H1N1v in pregnancy: an 415 investigation of the characteristics and management of affected women and
+416 the relationship to pregnancy outcomes for mother and infant. Health Technol
+417 Assess 2010;14(34):109–82.
+[30] van Lier A, Steens A, Ferreira JA, van der Maas NA, de Melker HE. Acceptance of
+418 vaccination during pregnancy: experience with 2009 influenza A (H1N1) in
+419 the Netherlands. Vaccine 2012;30(April, 18):2892–9.
+[31] Mereckiene J, Cotter S, Weber J, et al. Influenza A (H1N1) pdm09 vaccination
+420 policies and coverage in Europe. Euro Surveill 2012;17(4).
+[32] Mak DB, Daly AM, Armstrong PK, Effler PV. Pandemic (H1N1) 2009
+421 influenza vaccination coverage in Western Australia. Med J Aust 2010;193 422 (7):401–4.
+[33] Liu N, Sprague AE, Yasseen AS, et al. Vaccination patterns in pregnant 423 women during the 2009 H1N1 influenza pandemic: a population-based 424 study in Ontario, Canada. Can J Public Health 2012;103(September– 425 October, 5):–e353–8.
+[34] Blondel B, Mahjoub N, Drewniak N, Launay O, Goffinet F. Failure of the
+426 vaccination campaign against A(H1N1) influenza in pregnant women in
+427 France: results from a national survey. Vaccine 2012;30(August 428 38):5661–5.
+[35] Fell DB, Sprague AE, Liu N, et al. H1N1 influenza vaccination during 429 pregnancy and fetal and neonatal outcomes. Am J Public Health 2012;102( 430 June, 6):e33–40.
+6 B.J. Cleary et al. / European Journal of Obstetrics & Gynecology and Reproductive Biology 2 xxx (2014) xxx–xxx
+G Model
+EURO 8530 1–6
+Please cite this article in press as: Cleary BJ, et al. 2009 A/H1N1 influenza vaccination in pregnancy: uptake and pregnancy outcomes – a
+historical cohort study. Eur J Obstet Gynecol (2014), http://dx.doi.org/10.1016/j.ejogrb.2014.04.015

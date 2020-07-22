@@ -1,0 +1,696 @@
+Please cite this article in press as: Rouleau I, et al. Risk factors associated with anaphylaxis and other allergic-like events
+following receipt of 2009 monovalent AS03-adjuvanted pandemic influenza vaccine in Quebec, Canada. Vaccine (2014),
+http://dx.doi.org/10.1016/j.vaccine.2014.04.059
+ARTICLE IN PRESS G Model
+JVAC-15340; No. of Pages8
+Vaccine xxx (2014) xxx–xxx
+Contents lists available at ScienceDirect
+Vaccine
+journ al h om epage: www.elsevier.com/locate/vaccine
+Risk factors associated with anaphylaxis and other allergic-like events
+following receipt of 2009 monovalent AS03-adjuvanted pandemic
+influenza vaccine in Quebec, Canada
+Isabelle Rouleaua, Gaston De Serres a,b,∗, Danuta M. Skowronski c, Jean Philippe Drolet a,
+Chantal Lemire d, Eveline Tothe, Monique Landrye
+a Centre hospitalier universitaire de Québec, Quebec City, Quebec, Canada b Institut national de santé publique du Québec, Quebec, Canada c British Columbia Centre for Disease Control, Vancouver, Canada d Centre hospitalier universitaire de Sherbrooke, Faculté de médecine et des sciences de la santé, Université de Sherbrooke, Sherbrooke, Québec, Canada e Ministère de la santé et des services sociaux du Québec, Montréal, Québec, Canada
+a r t i c l e i n f o
+Article history:
+Received 17 February 2014
+Received in revised form 4 April 2014
+Accepted 17 April 2014
+Available online xxx
+Keywords:
+Pandemic influenza
+Influenza vaccine
+Adverse effects
+Anaphylaxis
+Hypersensitivity
+Risk factors
+a b s t r a c t
+Introduction: In Quebec, Canada, receipt of the 2009 AS03-adjuvanted pandemic H1N1 vaccine was associated with increased risk of anaphylaxis and other allergic-like events (ALE), especially among women
+of childbearing age. In response to this safety signal, a case–control study was conducted to identify
+potential risk factors.
+Methods: A total of 435 ALE (50 anaphylaxis) occurring <24 h following pandemic vaccination were compared to 849 age-gender matched controls randomly selected from the provincial Pandemic Influenza
+Vaccination Registry. More than 60 potential risk factors were evaluated through phone interviews and
+included demographic information, medical history, medication use or acute respiratory illnesses (ARI)
+concurrent with vaccination and other risk factors associated with general allergy. Odds ratios (ORs) with
+95% confidence intervals were estimated with unconditional logistic regression.
+Results: Factors associated with increased risk of anaphylaxis included concurrent ARI (18% cases vs.
+4% controls, ORadj 7.67, 95%CI: 3.04–13.37), food allergy (26% cases vs. 4% controls, ORadj 3.84, 95%CI:
+1.51–9.74) and vaccination during the first four weeks of the campaign (66% cases vs. 50% controls, ORadj
+2.16, 95%CI: 1.10–4.25) whereas alcohol exposure (≥1 drink/week) was associated with reduced risk (29%
+cases vs. 42% controls, ORadj 0.26, 95%CI: 0.13–0.57). These factors were also significantly associated with
+any ALE but the strength of association was weaker. Allergy to components found in the vaccine (e.g.,
+egg, thimerosal) was infrequent and did not significantly differ between cases and controls.
+Conclusion: Increased anaphylaxis and other allergic-like events observed in association with AS03-
+adjuvanted pandemic H1N1 vaccine remain mostly unexplained despite extensive risk factor review.
+However, prior to mass vaccination with similar formulations this safety signal warrants further consideration and better understanding. In particular, the predominance among women of childbearing age
+may be a clue to underlying biological or hormonal influences on adverse immunological responses to
+vaccine.
+© 2014 Elsevier Ltd. All rights reserved.
+1. Introduction
+In 2009 in Quebec, Canada, the population was vaccinated in
+public health clinics mostly with an AS03-adjuvanted monovalent
+∗ Corresponding author at: Institut national de santé publique du Québec, 2400
+d’ Estimauville, Québec, Canada G1E 7G9. Tel.: +1 418 666 7000x274;
+fax: +1 418 666 2776.
+E-mail address: gaston.deserres@insq.qc.ca (G. De Serres).
+pandemic influenza A(H1N1)pdm09 vaccine (Arepanrix®, GlaxoSmithKline) By the end of the campaign, ∼4.4 million doses of
+AS03-adjuvanted vaccine had been administered and overall AEFI
+reporting rates for pandemic vaccines were 2–3 times greater than
+usually seen with non-adjuvanted seasonal trivalent inactivated
+vaccines (TIV) (51 vs. 19 cases per 100,000 doses) [1]. While general reporting was probably stimulated by the mass campaign and
+the use of a new adjuvanted product, there was a disproportionate
+reporting of allergic-like events (ALE). The rate of anaphylaxis alone
+reached 8 cases per million doses a 20-fold increase compared to
+http://dx.doi.org/10.1016/j.vaccine.2014.04.059
+0264-410X/© 2014 Elsevier Ltd. All rights reserved.
+Please cite this article in press as: Rouleau I, et al. Risk factors associated with anaphylaxis and other allergic-like events
+following receipt of 2009 monovalent AS03-adjuvanted pandemic influenza vaccine in Quebec, Canada. Vaccine (2014),
+http://dx.doi.org/10.1016/j.vaccine.2014.04.059
+ARTICLE IN PRESS G Model
+JVAC-15340; No. of Pages8
+2 I. Rouleau et al. / Vaccine xxx (2014) xxx–xxx
+the rate of 0.4 per million TIV doses reported during the previous
+6 seasons [1]. This differential increase in reporting suggested that
+anaphylaxis and other allergic-like events could not be explained
+by stimulated reporting alone. Since 2010–2011,the reporting rates
+for anaphylaxis and other allergic-like events observed with seasonal vaccine have returned to baseline levels (0.1–0.2 and 1.7–2.7
+per 100,000 doses, respectively), although seasonal trivalent vaccines used since 2010 contain no adjuvant but the same pandemic
+influenza strain and a greater amount of hemagluttinin (15 vs.
+3.75 g).
+Approximately 75% of ALE reports came from women (60% of
+which were of childbearing age) and dose-adjusted rates of anaphylaxis were four times higher in women than in men (11.5 vs.
+3.0 per million doses, respectively). Reports also came disproportionately from healthcare workers, who were twice as likely than
+other vaccinees to report an allergic-like event following pandemic
+vaccination. While 41% of cases reported a history of allergy to
+either food, drugs or respiratory allergens, clinical investigations
+conducted among nearly 100 reported cases showed that few, if
+any, were IgE-mediated [2,3].
+Research related to post-vaccination ALE has generally focused
+on vaccine constituents that may be associated with anaphylaxis
+(e.g., gelatin, egg proteins, latex, antibiotics) whereas host and
+environmental factors have rarely been studied [4,5]. Immunological mechanisms involved in anaphylaxis may be IgE-dependent
+(e.g., foods, venoms, medications, latex) or independent (e.g.,
+radiocontrast media (RCM), NSAIDs, Dextran) [6–8]. Direct, nonimmunologic, mast cell activation has also been demonstrated
+with alcohol, opiates, and RCM. Risk of anaphylaxis is affected
+by age, gender, concomitant diseases (e.g., pulmonary and cardiovascular disease, atopy), concurrent medication, or alcohol use
+[4–8]. Several other factors can amplify the severity of anaphylactic episodes (e.g., physical activity, acute infection, premenstrual
+status, ß-adrenergic blockers, and angiotensin-converting enzyme
+(ACE)inhibitors) and can interact synergistically [9].Whether these
+risk factors influence the risk of postvaccination ALE is unknown.
+The high reporting rate of anaphylaxis and other ALE following
+A(H1N1)pdm09 vaccination in Quebec led to concern for subsequent seasonal TIV containing the same pandemic viral antigen. An
+epidemiological investigation was mandated to better understand
+and quantify factors possibly contributing to vaccine-associated
+ALE. This matched case–control study assessed medical conditions, medications or other factors potentially associated with
+anaphylaxis and other ALE following monovalent AS03-adjuvanted
+influenza A(H1N1)pdm09 vaccine receipt.
+2. Methods
+2.1. Setting and study design
+This age–sex frequency matched case–control study was conducted between May 20 and July 20, 2010, approximately 5–8
+months after the pandemic vaccination campaign. The investigation was implemented through provisions of the Public Health Act
+and without requirement for ethics review [10].
+We identified allergic-like events following pandemic H1N1
+vaccination reported to the QuebecAdverse Event Surveillance System database (known as ESPRI) under diagnoses of “anaphylaxis”,
+oculorespiratory syndrome (ORS) or “allergy” (e.g., bronchospasm,
+oedema of the mouth/throat, facial/generalized oedema, urticaria
+or pruritic rashes). Details pertaining to the passive AEFI surveillance in Quebec have been previously described [2]. Deceased
+patients, those with symptom onset >24 h after vaccination, and
+the elderly aged ≥65 years (who were not prioritized for pandemic
+vaccination owing to impressions of lower risk and pre-existing
+antibody protection) were excluded.
+For each case, two controls were randomly selected from
+the Pandemic Influenza Vaccination Registry (PIVR) established
+to record every dose of pandemic vaccine administered in the
+province along with relevant patient identifiers and demographics, and additional key vaccine-related characteristics (lot number,
+etc.) [1]. As the female-to-male ratio among cases was 1:1 before
+14 years of age and 3:1 between 14 and 64 years, controls were
+frequency-matched by gender respecting the female-to-male ratio
+observed in the two age groups (<14 years or 14–64). We excluded
+controls who, upon recruitment, reported AS ≤24 h after vaccination or anaesthesia/paresthesia ≤72 h (due to another ongoing
+case–control study) [12]. Cases or controls unable to speak French
+or English were also excluded.
+2.2. Data collection and study variables
+Trained nurses conducted standardized phone questionnaires
+with all study participants or, for minors <14 years old, the child’s
+parents or legal guardians. Each sign and symptom required to
+apply the Brighton case definition of anaphylaxis and the ORS case
+definition of Canada’s National Advisory Committee on Immunization (NACI) were systematically queried. For cases and controls, we
+also collected demographics, personal and family medical conditions, obstetrical history (para, gravida, aborta), use of medication
+within 48 h of vaccination, the presence of an acute respiratory
+illness (ARI) at the time of vaccination (e.g., fever, respiratory
+infection, or influenza-like illness), reported allergy to potential
+allergenic components of the vaccine (i.e. eggs, fish, shellfish,
+thimerosal, latex), regular alcohol use and physical activity. Medications were classified according to first and second levels of the
+Anatomical Therapeutic Chemical (ATC) classification system [13].
+Alcohol exposure and obstetrical history were not assessed in children <14 years old.
+2.3. Case definitions
+Because of the overlap in clinical criteria required to meet the
+BCCD of anaphylaxis and the NACI definition of ORS, clinical case
+definitions were applied sequentially. Cases were first classified for
+anaphylaxis then were assessed for ORS. Cases that did not meet
+either definitions were left categorized as ALE.
+The Brighton Collaboration Case Definition (BCCD) was only
+applied to all reported ALE cases with symptom onset <1 h after
+vaccination [14], as anaphylaxis caused by an injectable antigen is
+expected to occur rapidly after administration. To classify remaining cases, we applied the NACI case definition of ORS defined
+as bilateral red eyes, and/or facial swelling, and/or respiratory
+symptoms (cough, wheeze, chest tightness, difficulty breathing,
+difficulty swallowing/throat tightness, hoarseness or sore throat)
+with onset ≤24 h after influenza vaccination [11]. To improve
+specificity, patients who experienced pruritic rashes, a symptom
+typically absent with ORS, were not eligible as ORS cases [15]. All
+remaining allergic-like events (ALE) were sub-classified either as
+“immediate” (i-ALE) if symptom onset was <4 h, or as “delayed”
+(d-ALE) if symptom onset was ≥4 h after vaccination [16].
+2.4. Statistical analyses
+Separate unconditional regression models were built for BCCDAnaphylaxis, NACI-ORS, i-ALE, d-ALE, and all allergic-like events.
+Respective odds ratios and 95%CI (OR [95%CI]) adjusted for sex
+and age group used for frequency-matching (<14 years/14–64
+years) were estimated for potential risk factors. Variables associated with the outcome at a significance threshold of p = 0.20 were
+Please cite this article in press as: Rouleau I, et al. Risk factors associated with anaphylaxis and other allergic-like events
+following receipt of 2009 monovalent AS03-adjuvanted pandemic influenza vaccine in Quebec, Canada. Vaccine (2014),
+http://dx.doi.org/10.1016/j.vaccine.2014.04.059
+ARTICLE IN PRESS G Model
+JVAC-15340; No. of Pages8
+I. Rouleau et al. / Vaccine xxx (2014) xxx–xxx 3
+considered for forward inclusion in multivariate models. The final
+models retainedfactors which were statistically associated withthe
+outcome (p < 0.05), and variables which induced >15% confounding
+in any of the previously included risk factors. The marginal contribution of each variable to the model was estimated with a logistic
+pseudo-partial correlation [17].
+3. Results
+3.1. Participation
+Among 753 reported allergic-like events (33 anaphylaxis, 263
+ORS, and 457 “allergy”), 144 (21%) were excluded due to age ≥65
+years (n = 58), symptom onset >24 h after vaccination (n = 95), or
+both (n = 9). Among the 591 eligible cases, 471 were reached (80%)
+and 36 declined participation (6%) including 22 cases reported as
+ORS (8%) and 14 of those reported as allergy (3%). Successful interviews were available for analysis in 435 (74%) cases reported with
+pandemic vaccines.
+Among the 1014 potential controls selected from the vaccination registry, 849 (84%) were reached: 136 (16%) declined
+participation, 12 (2%) were excluded for anaesthesia/paresthesia,
+and 12 (2%) were excluded because they reported an allergic-like
+event following pandemic vaccination (2% of women vs. 0.5% of
+men; p = 0.20). Participation rate among controls was 70% overall and 83% among those reached. Cases overall were similar to
+controls with respect to mean age (31 years, p = 0.40), but there
+were more women than men among anaphylaxis cases (94% vs.
+72%, p < .001), and cases of d-ALE were younger than controls (26
+vs. 31 years, p < .001).
+3.2. Standardized clinical presentation
+Among the 20 cases initially reported to public health as anaphylaxis, only 10 (50%) met the BCCD for anaphylaxis, but 40 other
+cases (4 initially reported as ORS and 36 as allergy) actually met
+the BCCD for a total of 50 BCCD-anaphylaxis cases (Table 1). Among
+them, 45 (90%) were classified at BCCD certainty Level 1 with ≥1
+major dermatologic/mucosal (urticaria 33%, angioedema 40% or
+both 27%) and ≥1 major respiratory manifestation (bronchospasm
+40%, airway oedema 67%, or evidence of tachypnea and cyanosis
+16%). The remaining 5 cases (10%) met BCCD certainty Level 2: all
+had major dermatologic/mucosal signs (urticaria 60%, angioedema
+20% or both 20%) but minor respiratory symptoms. Epinephrine
+was administered to 20 (40%) anaphylaxis cases, all of which met
+certainty Level 1, and 4 (9%) were hospitalized.
+The standardized NACI ORS definition was met by 177 cases
+including 116 of the 156 patients initially reported as ORS
+cases (74%), 8/20 reported as anaphylaxis (40%) and 53/259 of
+those reported as allergy (20%). Among the 177 NACI-ORS cases,
+12% (22) had all three components of ORS (bilateral conjunctivitis, facial oedema and respiratory symptoms), 23% had 2
+components of the definition (11% respiratory/oedema, 8% respiratory/conjunctivitis, and 5% oedema/conjunctivitis). The majority
+of cases (65%) reported only one component (47% respiratory, 13%
+oedema, 5% conjunctivitis).
+The remaining 208 cases were classified as i-ALE (n = 97) or dALE (n = 111) according on the delay to onset of symptoms. This
+includes 170 of the 259 (66%) cases initially reported as allergy,
+36/156 (23%) as ORS, and 2/20 (10%) as anaphylaxis. Both i-ALE and
+d-ALE frequently included urticaria (54% and 68%, respectively) and
+i-ALE more frequently involved respiratory symptoms (47%) and
+use of epinephrine (34%) than did d-ALE (24% and 2%). Many i-ALE
+cases reported symptoms in ≥2 organ systems (45%), but only 7%
+fulfilled the BCCD. Mean delay to onset for i-ALE cases 46 min after
+vaccination, d-ALE cases was 20 h.
+Anaphylaxis and ORS cases more often included respiratory
+symptoms (98% and 78%, respectively), than cases of i-ALE (47%),
+and d-ALE (24%). The majority of AS cases reported skin/mucosal
+symptoms (67%), although angioedema was more frequent among
+anaphylaxis cases (64% vs. 15–32% for other categories.)
+3.3. Risk factor assessment
+Univariate analyses included 63 potential risk factors, of which
+42 met the statistical threshold (p < 0.20) for inclusion in multivariate analyses (Table 2). After multivariate logistic regression,
+12 risk factors and 3 protective factors were retained in various
+models (Table 3). Cases classified as anaphylaxis, ORS, and i-ALE
+shared common risk factors, while d-ALE cases exhibited a slightly
+different subset of risks.
+Alcohol consumption (drinking ≥1 alcoholic beverage/week)
+comprised the largest proportion of explained deviance (12%),
+decreasing the risk of anaphylaxis (0.26 [0.13–0.57]), ORS (0.48
+[0.31–0.74]), i-ALE (0.45 [0.26–0.81]) or any event (OR = 0.46
+[0.33–.64]) (Table 3). There was no indication of a dose–response
+relationship and alcohol exposure on the day of immunization
+was not associated with AS (Table 2). Patients who were physically active (i.e. 5 h/week for 5–18 years, 3 h/week in adults)
+also had a reduced risk of ORS (0.49 [0.32–0.76]) and d-ALE
+(0.35 [0.21–0.59]).
+An ARI at the time of vaccination or in the previous week was
+the second most important variable, representing 11% of explained
+deviance. It was significantly associated with an increased risk
+of anaphylaxis (7.67 [3.04–13.37]), ORS (3.24 [1.65–6.38]), i-ALE
+(2.66 [1.19–5.94]), d-ALE (3.39 [1.69–6.83]) and any event (3.14
+[1.90–5.18]. Use of asthma inhalers (e.g., short-acting ß-adrenergic
+agonists, glucocorticoids) was also associated with an increased
+risk of any event (2.71 [1.37–5.38]), ORS (3.38 [1.50–762]) and iALE (4.33 [1.72–10.9]) but was not significant for anaphylaxis or
+d-ALE.
+Overall, 208 participants reported drug allergies and 57 (27%)
+reported this to >1 drug (34% of cases and 19% of controls, p = 0.02).
+Reported drug allergy was not associated with anaphylaxis but
+significantly increased the risk of ORS (2.02 [1.26–3.24]), i-ALE
+(1.91 [1.06–3.44]) and any event (1.58 [1.10–2.30]). Drug allergy
+had been diagnosed by an allergist in 28% of cases and 15%
+of controls (p = 0.03) who reported a drug allergy, and mostly
+implicated the following ATC classes: J01-antibiotics (6% vs. 2%),
+N02-Opiates and acetylsalicylic acid derivative analgesics (5%
+vs. 1%), or R05D-Opiate-based cough and cold preparations (4%
+vs. 0.1%). Allergy to sulfonamides was also frequently reported
+(5% vs. 3%).
+Patients reporting food allergies had a significantly increased
+risk of anaphylaxis (3.84 [1.51–9.74]), i-ALE (4.01 [1.89–8.51]) and
+any event (2.26 [1.31–3.91]). The most frequently implicated food
+was shellfish (6% of AS cases and 1% of controls). Egg allergy
+was reported by 13 (3%) all cases and 4 (<1%) controls and was
+only significant for i-ALE, although with wide confidence interval
+(10.87 [2.60–45.54]). Fish and latex allergy were reported by 2% of
+cases and <1% of controls, and 3% of cases reported an allergy to
+thimerosal.
+Vaccination in the first 4 weeks of the campaign increased the
+likelihood of anaphylaxis (2.16 [1.10–4.25]), ORS (2.71 [1.80–4.08])
+and any event (1.58 [1.17–2.14]), but not i-ALE or d-ALE. A significant(16%) proportion of participants vaccinated in weeks 1–4 were
+healthcare workers, a status independently associated with risk of
+any event (1.77 [1.08–2.89]).
+Please cite this article in press as: Rouleau I, et al. Risk factors associated with anaphylaxis and other allergic-like events
+following receipt of 2009 monovalent AS03-adjuvanted pandemic influenza vaccine in Quebec, Canada. Vaccine (2014),
+http://dx.doi.org/10.1016/j.vaccine.2014.04.059
+ARTICLE IN PRESS G Model
+JVAC-15340; No. of Pages8
+4 I. Rouleau et al. / Vaccine xxx (2014) xxx–xxx
+Table 1
+Characteristics and clinical presentation of cases by reclassified diagnoses based on standardized case definitions.
+Diagnosis based on standardized case definitions
+BCCD-anaphylaxis* NACI-ORS** i-ALE† d-ALE‡ All allergic-like events
+N = 50 N = 177 N = 97 N = 111 N = 435
+Diagnosis reported to public health
+Anaphylaxis 10(20) 8(5) 2(2) 0(0) 20(5)
+ORS 4(8) 116(66) 18(19) 18(16) 156(36)
+Other ALE 36(72) 53(30) 77(79) 93(84) 259(59)
+<4 h 36(72) 37(21) 77(79) 0(0) 150(34)
+≥4 h 0(0) 16(9) 0(0) 93(84) 109(25)
+Age group, in years
+<14 6(12) 39(22) 27(28) 48(43) 120(28)
+14–29 12(24) 30(17) 19(20) 14(13) 75(17)
+30–39 8(16) 27(15) 13(13) 20(18) 68(16)
+40–49 15(30) 42(24) 18(19) 13(12) 88(20)
+50–64 9(18) 39(22) 20(21) 16(14) 84(19)
+Female gender 47(94) 128(72) 76(78) 73(66) 324(75)
+Interval between vaccination and symptom onset
+<1 h 50(100) 66(37) 62(64) – 178(41)
+1–3 h – 32(18) 35(36) – 67(15)
+4–11 h – 37(21) – 35(32) 72(17)
+12–24 h – 42(24) – 73(68) 118(27)
+Mean 8 min 6.7 h 46 min 20.2 h 8.2 h
+Injection site reaction
+Pain or swelling 34(68) 95(54) 54(56) 58(52) 241(55)
+Injection site pruritic rash 6(12) 2(1) 20(21) 20(18) 48(11)
+Dermatologic/mucosal 50(100) 87(49) 64(66) 92(83) 293(67)
+Angioedema, non respiratory 32(64) 57(32) 19(20) 17(15) 125(29)
+Any pruritic rash 31(62) – 52(54) 75(68) 158(36)
+Red and/or itchy eyes 18(36) 55(31) 21(22) 18(16) 112(26)
+Injection site pruritic rash 6(12) 2(1) 20(21) 20(18) 48(11)
+Respiratory 49(98) 138(78) 46(47) 27(24) 260(60)
+Dyspnoea 36(72) 105(59) 23(24) 18(16) 182(41))
+Cough 17(36) 53(31) 6(6) 7(7) 83(20)
+Bronchospasm, wheezing 18(36) 51(29) 10(10) 10(9) 89(20)
+Sensation of throat closure 39(78) 75(44) 18(19) 11(11) 143(34)
+Oedema of airway (tongue, throat) 30(60) 40(23) 20(21) 10(9) 100(23)
+Hoarse voice 20(44) 50(30) 15(16) 11(10) 96(23)
+Cyanosis 13(29) 18(10) 10(10) 5(5) 46(11)
+Tachypnea 27(54) 62(36) 22(23) 14(13) 125(29)
+Cardiovascular 34(68) 75(42) 31(32) 15(14) 155(36)
+Tachycardia/Palpitations 27(56) 56(35) 18(20) 11(12) 112(28)
+Decreased level of consciousness 27(54) 48(28) 25(27) 8(8) 108(26)
+Loss of consciousness 7(14) 11(6) 2(2) 0(0) 20(5)
+Gastrointestinal 21(42) 45(25) 15(15) 9(8) 90(21)
+Abdominal pain or diarrhoea 17(34) 25(14) 13(13) 8(7) 63(14)
+Nausea or vomiting 21(42) 45(25) 15(15) 9(8) 90(21)
+Health services required
+Received epinephrine 26(52) 26(15) 11(34) 2(2) 65(15)
+Medical consultation 39(78) 103(58) 53(55) 54(49) 249(57)
+Hospitalization 4(9) 9(6) 3(4) 2(2) 18(5)
+* Cases meeting the Brighton Collaboration case definition of anaphylaxis, with onset of symptoms <1 h after vaccination [17]. ** Cases without a pruritic rash meeting the ORS definition of the National Advisory Committee on Immunization(NACI) of Canada [12]. † Cases reporting allergic symptoms not consistent with anaphylaxis or ORS with symptoms were subclassified as: cases with onset <4 h after vaccination (i-ALE). ‡ Cases reporting allergic symptoms not consistent with anaphylaxis or ORS with symptoms were subclassified as: cases with onset ≥4 h after vaccination(d-ALE).
+4. Discussion
+In Canada, passive AEFI surveillance during the 2009 monovalent AS03-adjuvanted pandemic A(H1N1)pdm09 vaccination
+campaign provided a signal of concern related to greater anaphylaxis and other allergic-like events reporting, disproportionately
+affecting women of childbearing age [2]. In this study, we followedup on that passive signal through active case–control investigation
+in order to elucidate possible risk factors. Despite an extensive
+list of factors explored, most of the reported anaphylaxis or ALE
+remains unexplained. Apart from female gender, already identified by passive surveillance, the only risk factors identified in the
+current study were prior ARI, reported drug or food (excl. egg)
+allergy, early vaccination during the first 4 weeks of the campaign,
+and use of asthma inhalers (e.g., short-acting ß-adrenergic agonists,
+glucocorticoids), whereas alcohol exposure and being physically
+active appeared protective. IgE-mediated allergies to vaccine components did not appear as a leading factor in the occurrence ofthese
+events, as cases were not more likely than controls to report allergy
+to trace amounts of allergenic components of the vaccine, such as
+eggs or fish, and few patients reported an allergy to thimerosal, also
+included in the vaccine.
+Higher rates of allergic-like events among women were
+reported by passive surveillance and, as for other AEFI, are
+Please cite this article in press as: Rouleau I, et al. Risk factors associated with anaphylaxis and other allergic-like events
+following receipt of 2009 monovalent AS03-adjuvanted pandemic influenza vaccine in Quebec, Canada. Vaccine (2014),
+http://dx.doi.org/10.1016/j.vaccine.2014.04.059
+ARTICLE IN PRESS G Model
+JVAC-15340; No. of Pages8
+I. Rouleau et al. / Vaccine xxx (2014) xxx–xxx 5
+Table 2
+Risk factors associated with diagnoses based on standard case definitions in univariate analysis meeting the significance threshold (p < 0.20) for inclusion in multivariate
+analyses (in grey).
+Controls BCCD-anaphylaxis* NACI-ORS** I-ALE† D-ALE‡ All allergic-like events
+N = 689n (%) N = 50n (%) N = 177n (%) N = 97 n (%) N = 111n (%) N = 435n (%) OR (95% CI) p-Value
+History of allergy
+Aeroallergens 110(16) 22(44) 64(36) 27(28) 28(25) 141(32) 2.53(1.89–3.39) <.0001
+Drug allergy 91(13) 20(40) 53(30) 26(27) 18(16) 117(27) 4.03(2.52–6.46) <.0001
+Food allergy 27(4) 13(26) 25(14) 16(16) 8(7) 62(14) 2.43(1.78–3.32) <.0001
+Personal history
+Rhinitis 74(11) 12(24) 36(20) 16(16) 19(17) 83(19) 1.93(1.37–2.73) 0.0002
+Eczema 102(15) 9(18) 31(18) 24(25) 22(20) 86(20) 1.43(1.04–1.97) 0.03
+Dermographism 6(1) 1(2) 3(2) 5(5) 2(2) 11(3) 2.96(1.08–8.07) 0.03
+Asthma 53(8) 14(28) 43(25) 20(21) 15(14) 92(21) 3.19(2.21–4.59) <.0001
+Other pulmonary diseases 16(2) 3(6) 11(6) 7(7) 2(2) 23(5) 2.29(1.19–4.40) 0.01
+Hypothyroidism 31(5) 6(12) 13(7) 14(14) 5(5) 38(9) 1.96(1.19–3.22) 0.01
+Autoimmune disease 12(2) 5(10) 3(2) 2(2) 1(1) 11(3) 1.39(0.60–3.19) 0.44
+Depression 47(7) 5(10) 30(17) 10(10) 12(11) 57(13) 2.01(1.32–3.04) 0.001
+Anxiety disorder 51(7) 10(20) 16(9) 8(8) 12(11) 46(11) 1.43(0.94–2.18) 0.10
+Past history of AEFI 37(5) 6(12) 13(7) 11(11) 3(3) 33(8) 1.38(0.84–2.25) 0.21
+Family history
+Asthma (F) 190(28) 20(40) 48(27) 38(39) 37(33) 143(33) 1.64(1.29–2.10) <.0001
+Allergy (F) 282(41) 30(60) 83(47) 49(51) 66(59) 228(52) 1.30(1.00–1.68) 0.05
+Hereditary diseases (F) 49(7) 8(16) 23(13) 11(11) 16(14) 58(13) 1.99(1.33–2.99) 0.0009
+Other diseases (F) 277(40) 24(48) 67(38) 30(31) 34(31) 155(36) 0.79(0.61–1.02) 0.06
+Medication use
+A02: Drugs for acid related
+disorders
+35(5) 6(12) 20(11) 8(8) 6(5) 40(9) 1.82(1.13–2.93) 0.01
+A12: Mineral supplements 76(11) 7(14) 16(9) 7(7) 2(2) 32(7) 0.58(0.37–0.90) 0.01
+B03: Antianemic
+preparations
+27(4) 2(4) 6(3) 2(2) 3(3) 10(2) 0.58(0.28–1.23) 0.16
+C10: Lipid modifying agents 60(9) 2(4) 10(6) 6(6) 3(3) 21(5) 0.40(0.21–0.75) 0.004
+J01: Antibiotics, systemic 4(1) 0(0) 1(1) 0(0) 3(3) 4(1) 3.46(0.63–19.06) 0.15
+M01: Antiinflammatory/antirheumatics
+58(8) 5(10) 6(3) 5(5) 8(7) 24(6) 0.58(0.35–0.96) 0.03
+N05: Psycholeptics 23(3) 5(10) 17(10) 2(2) 2(2) 26(6) 1.70(0.95–3.04) 0.08
+N06: Psychoanaleptics 50(7) 8(16) 18(10) 6(6) 11(10) 43(10) 1.39(0.90–2.13) 0.13
+R03: Drugs for obstructive
+airway disease
+15(2) 6(12) 23(13) 12(12) 6(5) 47(11) 4.22(2.29–7.78) <.0001
+R06: Antihistamines,
+systemic
+5(1) 4(8) 3(2) 5(5) 0(0) 12(3) 3.79(1.32–10.82) 0.01
+Women’s health
+Reproductive status
+Premenarcheal girls/boys 298(45) 6(12) 62(38) 347(37) 54(51) 454(42) 0.48(0.26–0.89) 0.02
+Postmenopausal 124(19) 8(16) 26(16) 11(12) 8(7) 177(16) 0.56(0.38–0.83) 0.003
+Postmenarcheal w/o horm.
+contraception
+186(28) 27(54) 57(35) 28(31) 30(28) 328(30) REF –
+Postmenarcheal w/horm.
+contraception
+56(8) 9(18) 20(12) 18(20) 15(14) 118(11) 1.45(0.95–2.21) 0.08
+Parity, mean 0.78 1.14 0.88 0.65 0.66 0.79 0.97(0.86–1.10) 0.65
+Aborta, mean 0.22 0.50 0.53 0.22 0.27 0.29 1.24(1.04–1.49) 0.02
+Ever been pregnant 281(41) 32(64) 85(48) 35(36) 39(35) 191(44) 1.02(0.74–1.41) 0.90
+Other factors
+Tobacco exposure(Yes/No) 84(12) 16(32) 29(16) 16(16) 15(14) 76(17) 1.48(1.05–2.11) 0.03
+Alcohol exposure (≥1
+drink/week)
+288(42) 12(24) 55(31) 28(29) 31(28) 126(29) 0.43(0.32–0.58) <.0001
+<1 drink/week 401(58) 38(76) 122(69) 69(71) 80(72) 309(71) REF
+1–2 drinks/week 143(21) 3(6) 24(14) 15(15) 14(13) 56(13) 0.39 (0.27–0.56)
+3–4 drinks/week 57(8) 4(8) 8(5) 7(7) 7(6) 26(6) 0.45 (0.27–0.75)
+5–6 drinks/week 42(6) 1(2) 14(8) 3(3) 3(3) 21(5) 0.49 (0.28–0.87)
+≥7 drinks/week 46(7) 9(5) 9(5) 3(3) 7(6) 23(5) 0.49 (0.29–0.85)
+Physically active (usually) 562(82) 31(62) 112(63) 72(74) 78(70) 293(67) 0.47(0.35–0.63) <.0001
+Healthcare worker 49(7) 10(20) 30(17) 10(10) 7(6) 57(13)
+Illness day of/week prior to
+immunization
+30(4) 9(18) 20(11) 13(13) 16(14) 58(13) 3.50(2.21–5.55) <.0001
+Vaccinated in weeks 1–4 of
+campaign
+341(50) 33(66) 126(71) 57(59) 65(59) 281(65) 2.04(1.57–2.64) <.0001
+* Cases meeting the Brighton Collaboration case definition of anaphylaxis, with onset of symptoms <1 h after vaccination [17]. ** Cases without a pruritic rash meeting the ORS definition of the National Advisory Committee on Immunization(NACI) of Canada [12]. † Cases reporting allergic symptoms not consistent with anaphylaxis or ORS with symptoms were subclassified as: cases with onset <4 h after vaccination (i-ALE). ‡ Cases reporting allergic symptoms not consistent with anaphylaxis or ORS with symptoms were subclassified as: cases with onset ≥4 h after vaccination(d-ALE). § Physically active was defined as being age <5, or 5 h/week in children 5–17, or 3 h/week in adults ≥18 years on average.
+Please cite this article in press as: Rouleau I, et al. Risk factors associated with anaphylaxis and other allergic-like events
+following receipt of 2009 monovalent AS03-adjuvanted pandemic influenza vaccine in Quebec, Canada. Vaccine (2014),
+http://dx.doi.org/10.1016/j.vaccine.2014.04.059
+ARTICLE IN PRESS G Model
+JVAC-15340; No. of Pages8
+6 I. Rouleau et al. / Vaccine xxx (2014) xxx–xxx
+Table 3
+Risk factors associated with diagnoses based on standard case definitions in multivariate unconditional logistic regression analyses adjusted for age group and gender.
+BCCD-anaphylaxis* NACI-ORS** I-ALE† D-ALE‡ All allergic-like
+events
+Semi-partial
+correlation
+OR (95%CI) OR (95%CI) OR (95%CI) OR (95%CI) OR (95%CI)
+History of allergy
+Aeroallergens 1.93(0.91–4.10) 1.78(1.12–2.84) 2.01(1.19–3.37) 1.73(1.21–2.46) 0.07
+Drug allergy 2.06(0.97–4.38) 2.02(1.26–3.24) 1.91(1.06–3.44) 1.58(1.10–2.30) 0.05
+Food allergy 3.84(1.51–9.74) 1.96(0.97–3.93) 4.01(1.89–8.51) 2.26(1.31–3.91) 0.07
+Personal medical condition
+Dermographism 5.81(1.52–22.21)
+Hypothyroidism 4.00(1.86–8.64)
+Family history
+Allergy 2.14(1.38–3.33) 1.47(1.12–1.93) 0.07
+Medication, by Anatomical Therapeutic Chemical (ATC) classification system
+M01:Anti-inflammatory 0.30(0.12–0.77)
+R03: Drugs for obstructive airway disease 3.38(1.50–7.62) 4.33(1.72–10.9) 2.71(1.37–5.38) 0.07
+A12: Mineral supplements 0.14(0.03–0.62)
+Women’s health
+Nulliparous 2.16(1.18–3.95)
+Other
+Consumption of alcohol 0.26(0.13–0.57) 0.48(0.31–0.74) 0.45(0.26–0.81) 0.46(0.33–0.64) 0.12
+Physically active 0.49(0.32–0.76) 0.35(0.21–0.59) 0.48(0.35–0.37) 0.10
+Healthcare worker 1.77(1.08–2.89) 0.05
+Sick week prior or day of 7.67(3.04–13.37) 3.24(1.65–6.38) 2.66(1.19–5.94) 3.39(1.69–6.83) 3.14(1.90–5.18) 0.11
+Vaccinated in weeks 1–4 2.16(1.10–4.25) 2.71(1.80–4.08) 1.58(1.17–2.14) 0.07
+* Cases meeting the Brighton Collaboration case definition of anaphylaxis, with onset of symptoms <1 h after vaccination [17]. ** Cases without a pruritic rash meeting the ORS definition of the National Advisory Committee on Immunization (NACI) of Canada [12]. † Cases reporting allergic symptoms not consistent with anaphylaxis or ORS with symptoms were subclassified as: cases with onset <4 h after vaccination (i-ALE). ‡ Cases reporting allergic symptoms not consistent with anaphylaxis or ORS with symptoms were subclassified as: cases with onset ≥4 h after vaccination (d-ALE). § P is greater than .05.
+sometimes attributed to differences in health-seeking and reporting behaviours [2,18]. Data from passive surveillance showed that
+rates remained statistically higher in women even after adjusting
+for doses administered to each gender, and could not be attributed
+to differences in vaccine uptake [2]. In our study, ALE were also
+more frequent in women than men randomly selected from the
+vaccination registry and contacted to be controls for this study
+(2% of women vs. 0.5% of men), suggesting that the predominance
+of women among ALE cases was not due to surveillance artefact.
+Biological sex differences may explain this risk difference. While
+speculative, the prevailing hypothesis is that sex hormones influence both innate and adaptative immune responses which results
+in both higher antibody response to influenza vaccination and a
+greater incidence of AEFI in postpubertal women [19–26]. Other
+hormonally-related conditions, such as being of reproductive age
+(post-menarchal and premenopausal), obstetrical history (gravida,
+para, aborta), hormonal contraception or hormone-replacement
+therapy or parity were associated with ALE in univariate analyses
+but none remained significantly associated in final adjusted models. However, the effect of cyclic changes of endogenous hormone
+levels on anaphylaxis or ALE risk could not be evaluated in this
+study, and may account for some of the increased risk observed
+among women.
+Anaphylaxis and other allergic-like events were reported by
+healthcare workers at higher rates compared to the general population. Despite representing only 7% of all vaccinated individuals,
+15% of cases were healthcare workers of which 13% were woman
+[1]. Healthcare workers were mostly (>90%) immunized during the
+first three weeks of the campaign with a limited number of vaccine
+lots, including lot 9A which was associated with a higher rate of
+anaphylaxis. Health care workers remained at higher risk despite
+adjustment for gender (matching), week of vaccination and vaccine lot. While there may be residual confounding, it is likely that
+healthcare workers report more adverse events than the general
+populationgiventheir greater awareness andbetter reportingpractices.
+An ARI preceding or concurrent with vaccination was the most
+important risk factor we identified. During a moderate-to-severe
+illness, vaccination is usually deferred to avoid superimposing or
+reporting an AEFI attributable to the underlying illness. In Quebec
+as elsewhere in Canada, 2009 pandemic vaccination commenced
+just before or concurrent with the peak of the pandemic, when the
+risk of contracting influenza was relatively high [1]. Patients with
+ARI may have therefore decided to be immunized despite illness
+and thereafter separating infection-from vaccine-induced symptomatology (onset or exacerbation) would be challenging. ORS in
+particular shares features with allergy but also with viral infection, and ARI reporting was highest in association with that entity.
+Conversely, influenza and other viral or bacterial infections may
+induce urticaria and infections have been shown to potentiate anaphylaxis, although their impact in the initiation or amplification of
+AEFI is unknown [27–29].
+Alcohol exposure most explained the variability in all regression models but the direction of effect was protective rather than
+increasing the risk as expected. Alcohol is typically considered to
+increase anaphylaxis risk in food allergy as it increases the absorptionoffood allergens, butmay also affect recognitionof anaphylaxis
+triggers or directly activate mast cells [7,27]. For other allergens,
+the impact of alcohol intake on risk has not been established.
+In this study, alcohol was associated with reduced rather than
+increased ALE risk, which may be explained by the immunosuppressive effects of alcohol, and the impairment it causes to the
+migration of neutrophils to the site of injury, as well as the altered
+function of lymphocytes and cytokine production [30,31]. Excess
+alcohol consumption, which was uncommon in our population, has
+been associated with feminizing effects in men [32]. The relationship between alcohol intake, female reproductive hormone cycles,
+and other potential risk factors has not been established but may
+Please cite this article in press as: Rouleau I, et al. Risk factors associated with anaphylaxis and other allergic-like events
+following receipt of 2009 monovalent AS03-adjuvanted pandemic influenza vaccine in Quebec, Canada. Vaccine (2014),
+http://dx.doi.org/10.1016/j.vaccine.2014.04.059
+ARTICLE IN PRESS G Model
+JVAC-15340; No. of Pages8
+I. Rouleau et al. / Vaccine xxx (2014) xxx–xxx 7
+interplay to mediate this association. Because of social desirability biases, alcohol exposure is difficult to assess, especially through
+interviews [33]. However, social desirability mostly affects heavy
+drinkers (>7 drinks/week in women and >14/week in men) who
+represented only 4% of cases, a proportion similar to that observed
+in controls (3.5%), and in the Quebec population [34].
+Identifying risk factors for anaphylaxis or allergic-like events
+is difficult. These events may be caused by several mechanisms
+that may be triggered by the vaccine, or may be coincidental and
+unrelated to vaccination. Pooling all cases is likely to obscure significant associations between a given risk factor and a specific disease.
+We used standardized syndromic case definitions with the hope of
+regrouping cases with similar disease, but found little to no differences in risk factors between our syndromic categories. Despite
+being more standardized, our syndromic case definitions overlapped and did not equate to a single pathophysiology or a specific
+confirmed diagnosis. In most cases, it is not possible to distinguish
+ALE due to vaccination vs. other causes on clinical grounds, nor is
+it possible to identify IgE-mediated reactions from those which are
+not, although their risk factors are likely different. In the absence of
+biological markers confirming a diagnosis or a pathophysiological
+mechanism, pooling of cases by syndrome will limit our capacity
+to identify risk factors.
+Our study has other limitations. Cases were identified through
+passive AEFI surveillance and subject to significant underreporting,
+either by omission or lack of familiarity with reporting practices.
+Reported cases likely represent the most severe or clinicallysignificant events, which may not be representative of all ALE, and
+factors associated with this risk could partly be associated with
+severity rather than occurrence. Also, interviews were conducted
+5–8months following vaccination whichmayhavehamperedrecall
+in both cases and controls resulting in bias towards the null. However, most of the risk factors assessed can be considered “stable
+or permanent” conditions (e.g., history of medically-diagnosed
+allergies, or asthma) which should be less affected by recall.
+Also, for most individuals, pandemic vaccination was a salient
+event reducing the impact of recall on our estimates. Differential recall bias could explain differences in transient risk factors,
+such as history of respiratory illness and use of medication in
+the days preceding vaccination, which would overestimate their
+respective effects. The biggest concern applied to any study of
+vaccine safety is the inability to discern contemporaneous from
+causally-related associations, particularly in this instance given the
+clinical overlap in viral – (e.g., ARI) vs. vaccine-induced allergic
+presentations.
+In summary, increased anaphylaxis and other allergic-like
+events observed in association with AS03-adjuvanted pandemic
+H1N1 vaccine remain mostly unexplained despite extensive risk
+factor review. These findings do not alter the overall risk–benefit
+balance or lead to change in current immunization practices,
+but generated etiological hypotheses which should be tested in
+properly designed confirmatory studies. However, prior to mass
+vaccination with similar formulations, this safety signal warrants
+further consideration and better understanding.
+Authors contributions
+Gaston De Serres and Isabelle Rouleau had full access to all
+the data in the study and take responsibility for the integrity of
+the data and the accuracy of the data analysis. Eveline Toth and
+Monique Landry were involved in the acquisition of data. Isabelle
+Rouleau performed the statistical analyses. Isabelle Rouleau, Gaston De Serres, Jean-Philippe Drolet, Chantal Lemire and Danuta M.
+Skowronski were involved in the interpretation of data. Isabelle
+Rouleau drafted the manuscript. All authors carried out critical
+revision of the manuscript for important intellectual content. Gaston De Serres supervised the work.
+References
+[1] Auger D, Bourdages J, Dubuque J, Hudon N, Markowski F, Toth E. Bilan de la
+Direction générale de la santé publlique de la vaccination contre la grippe
+pandémique A(H1N1) du 22 octobre au 18 décembre 2009. Ministère de la
+Santé et des Services sociaux du Québec. Gouvernement du Québec; 2011.
+[2] Rouleau I, De Serres G, Drolet JP, Skowronski DM, Ouakki M, Toth E,
+et al. Increased risk of anaphylaxis following administration of 2009 AS03-
+adjuvanted monovalent pandemic A/H1N1 (H1N1 pdm09) vaccine. Vaccine
+2013;31:5989–96.
+[3] Rouleau I, De Serres G, Drolet JP, Banerjee D, Lemire C, Moore A, et al. Allergic
+symptoms after pandemic influenza vaccination rarely mediated by vaccinespecific IgE. J Allergy Clin Immunol 2012;130:1423–6.
+[4] Freitas DR, Moura E, Araujo G, Cardoso A, Scheidt P, Ferraz E, et al. Investigation of an outbreak of hypersensitivity-type reactions during the 2004
+national measles-mumps-rubella vaccination campaign in Brazil. Vaccine
+2013;31:950–4.
+[5] Hwang SM, ChoeKW, Cho SH, Yoon SJ, Park DE,Kang JS, et al. The adverse events
+of influenza A (H1N1) vaccination and its risk factors in healthcare personnel
+in 18 military healthcare units in Korea. Jpn J Infect Dis 2011;64:183–9.
+[6] Simons FE, Ardusso LR, Bilo MB, Dimov V, Ebisawa M, El-Gamal YM, et al.
+2012 Update: World Allergy Organization Guidelines for the assessment
+and management of anaphylaxis. Curr Opin Allergy Clin Immunol 2012;12:
+389–99.
+[7] Simons FE, Ardusso LR, Bilo MB, El-Gamal YM, Ledford DK, Ring J, et al. World
+allergy organization guidelines for the assessment and management of anaphylaxis. World Allergy Organ J 2011;4:13–37.
+[8] Simons FE, Ardusso LR, Dimov V, Ebisawa M, El-Gamal YM, Lockey RF, et al.
+World allergy organization anaphylaxis guidelines: 2013 update of the evidence base. Int Arch Allergy Immunol 2013;162:193–204.
+[9] Lee S, Hess EP, Nestler DM, Bellamkonda Athmaram VR, Bellolio MF, Decker
+WW, et al. Antihypertensive medication use is associated with increased organ
+system involvement and hospitalization in emergency department patients
+with anaphylaxis. J Allergy Clin Immunol 2013;131:1103–8.
+[10] Gouvernement du Québec. Loi sur la santé publique (L.R.Q., chapitre S-2.2, mis
+à jour le 1er mars 2005); 2001.
+[11] National Advisory Committee on Immunization. Canadian Immunization
+Guide. 7th edition Ottawa: Public Health Agency of Canada; 2006.
+[12] Lacroix K, Rouleau I, Dupré N, Benoît M, Ouakki M, Skowronski D, et al. Anesthesia/paresthesia following immunization with an adjuvanted monovalent
+pandemic influenza vaccine: results of an epidemiological investigation in
+Quebec, Canada. In: American Academy of Neurology 2011 Annual Meeting.
+2011.
+[13] WHO Collaborating Centre for Drug Statistics Methodology. Guidelines for ATC
+classification and DDD assignment 2013. Oslo: WHO Collaborating Centre for
+Drug Statistics Methodology; 2012.
+[14] Rüggeberg JU, Gold MS, Bayas JM, Blum MD, Bonhoeffer J, Friedlander S, et al.
+Anaphylaxis: case definition and guidelines for data collection, analysis, and
+presentation of immunization safety data. Vaccine 2007;25:5675–84.
+[15] De Serres G, Grenier J-L, Toth E, Ménard S, Roussel R, Tremblay M, et al. The clinical spectrum of the oculo-respiratory syndrome after influenza vaccination.
+Vaccine 2003;21:2354–61.
+[16] Kelso JM. Adverse reactions to vaccines for infectious disease. In: Adkinson
+NF, Middleton E, editors. Middleton’s allergy: principles & practice. 7th ed.
+Philadelphia, PA: Mosby/Elsevier; 2009.
+[17] Thompson D. Ranking predictors in logistic regression. In: MWSUG 2009, Proceedings, Midwest SAS Users Group, Inc., Paper D10-2009. 2009.
+[18] Robb H, Fausone CA, Rudy DR, McArthur S. Side effects from influenza
+vaccination: differences between returned and random surveys. Mil Med
+1996;161:29–32.
+[19] Cook IF. Sexual dimorphism of humoral immunity with human vaccines. Vaccine 2008;26:3551–5.
+[20] Engler RJ, Nelson MR, Klote MM, VanRaden MJ, Huang CY, Cox NJ, et al. Half- vs
+full-dose trivalent inactivated influenza vaccine (2004–2005): age, dose, and
+sex effects on immune responses. Arch Intern Med 2008;168:2405–14.
+[21] Edwards KM, Burns VE, Reynolds T, Carroll D, Drayson M, Ring C. Acute stress
+exposure prior to influenza vaccination enhances antibody response in women.
+Brain Behav Immun 2006;20:159–68.
+[22] Edwards KM, Burns VE, Allen LM, McPhee JS, Bosch JA, Carroll D, et al. Eccentric
+exercise as an adjuvantto influenza vaccination in humans. Brain Behav Immun
+2007;21:209–17.
+[23] Hui SL, Chu LW, Peiris JS, Chan KH, Chu D, Tsui W. Immune response to
+influenza vaccination in community-dwelling Chinese elderly persons. Vaccine
+2006;24:5371–80.
+[24] Couch RB, Winokur P, Brady R, Belshe R, Chen WH, Cate TR, et al. Safety and
+immunogenicity of a high dosage trivalent influenza vaccine among elderly
+subjects. Vaccine 2007;25:7656–63.
+[25] Goronzy JJ, Fulbright JW, Crowson CS, Poland GA, O’Fallon WM, Weyand CM.
+Value of immunological markers in predicting responsiveness to influenza vaccination in elderly individuals. J Virol 2001;75:12182–7.
+[26] Cook IF, Barr I, Hartel G, Pond D, Hampson AW. Reactogenicity and
+immunogenicity of an inactivated influenza vaccine administered by
+Please cite this article in press as: Rouleau I, et al. Risk factors associated with anaphylaxis and other allergic-like events
+following receipt of 2009 monovalent AS03-adjuvanted pandemic influenza vaccine in Quebec, Canada. Vaccine (2014),
+http://dx.doi.org/10.1016/j.vaccine.2014.04.059
+ARTICLE IN PRESS G Model
+JVAC-15340; No. of Pages8
+8 I. Rouleau et al. / Vaccine xxx (2014) xxx–xxx
+intramuscular or subcutaneous injection in elderly adults. Vaccine 2006;24:
+2395–402.
+[27] Wolbing F, Fischer J, Koberle M, Kaesler S, Biedermann T. About the role and
+underlying mechanisms of cofactors in anaphylaxis. Allergy 2013;68:1085–92.
+[28] Rosenberg M, Tram C, Kuper A, Daneman N. Rash associated with pandemic
+(H1N1) influenza. Can Med Assoc J 2010;182:E146.
+[29] Fretzayas A, Moustaki M, Kotzia D, Nicolaidou P. Rash an uncommon but existing feature of H1N1 influenza among children. Influenza Other Respir Viruses
+2011;5:223–4.
+[30] Romeo J, Warnberg J, Nova E, Diaz LE, Gomez-Martinez S, Marcos A. Moderate alcohol consumption and the immune system: a review. Br J Nutr
+2007;98(Suppl. 1):S111–5.
+[31] Kovacs EJ, Messingham KA. Influence of alcohol and gender on immune
+response. Alcohol Res Health: J Natl Inst Alcohol Abuse Alcohol
+2002;26:257–63.
+[32] Cates JR, Shafer A, Diehl SJ, Deal AM. Evaluating a county-sponsored social
+marketing campaign to increase mothers’ initiation of HPV vaccine for their
+pre-teen daughters in a primarily rural area. Soc Mar Q 2011;17:4–26.
+[33] Davis CG, Thake J, Vilhena N. Social desirability biases in self-reported alcohol
+consumption and harms. Addict Behav 2010;35:302–11.
+[34] Éduc Alcool. Les Québécois et l’alcool 2012. Québec: Éduc Alcool; 2012.
+p. 70.

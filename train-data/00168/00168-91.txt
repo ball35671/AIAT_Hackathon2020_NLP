@@ -1,0 +1,339 @@
+American Journal of Epidemiology
+Copyright © 2000 by The Johns Hopkins University School of Hygiene and Public Health
+All rights reserved
+674
+Vol. 152, No. 7
+Printed in U.S.A.
+Influenza and Cardiac Arrest Siscovick et al.
+Influenza Vaccination and the Risk of Primary Cardiac Arrest
+David S. Siscovick,1,2 T. E. Raghunathan,3 Danyu Lin,4 Sheila Weinmann,1 Patrick Arbogast,4 Rozenn N.
+Lemaitre,1 Bruce M. Psaty,1,2 Russell Alexander,2,5 and Leonard A. Cobb1
+Influenza epidemics are associated with an excess of mortality not only from respiratory diseases but also
+from other causes, and cardiovascular mortality increases abruptly during influenza epidemics, with little
+evidence of a lag period. In a population-based case-control study, the authors examined whether influenza
+vaccination was associated with a reduced risk of out-of-hospital primary cardiac arrest (PCA), a major
+contributor to cardiovascular mortality in the community. Cases of PCA (n = 342) without prior heart disease or
+life-threatening comorbidity that occurred in King County, Washington, were identified from paramedic incident
+reports from October 1988 to July 1994. Demographically similar controls (n = 549) were identified from the
+community by using random digit dialing. Spouses of subjects were interviewed to assess treatment with
+influenza vaccine during the previous year and other risk factors. After adjustment for demographic, clinical, and
+behavioral risk factors, influenza vaccination was associated with a reduced risk of PCA (odds ratio = 0.51, 95
+percent confidence interval: 0.33, 0.79). The authors suggest that while the association of influenza vaccination
+with a reduced risk of PCA is consistent with cohort studies of influenza vaccination and total mortality, further
+studies are needed to determine whether the observed association reflects protection or selection. Am J
+Epidemiol 2000;152:674–7.
+cardiac arrest; influenza; vaccination
+Received for publication August 12, 1999, and accepted for publication January 12, 2000.
+Abbreviations: CI, confidence interval; PCA, primary cardiac
+arrest. 1 Cardiovascular Health Research Unit, Department of Medicine,
+University of Washington, Seattle, WA. 2 Department of Epidemiology, University of Washington, Seattle,
+WA.3 Institute for Social Research, University of Michigan, Ann Arbor,
+MI.4 Department of Biostatistics, University of Washington, Seattle, WA.
+5 Seattle-King County Health Department , Seattle, WA.
+Reprint requests to Dr. David S. Siscovick, Cardiovascular Health
+Research Unit, 1730 Minor Ave, Suite 1360, Seattle, WA 98101 (email: dsisk@u.washington.edu).
+Influenza epidemics are associated with excess morbidity
+and mortality, not only from respiratory diseases but also
+from other causes (1–4), and influenza vaccination is recommended to prevent these clinical outcomes (5). The contribution of influenza to clinical events, including clinical
+cardiovascular diseases, frequently is not recognized (6, 7).
+The number of deaths attributable to influenza but assigned
+another cause far exceeds the number of deaths registered as
+related to influenza (8). In a meta-analysis of 20 cohort studies among the elderly, the pooled estimate of influenza vaccine efficacy for preventing death was 68 percent (95 percent confidence interval (CI): 56 percent, 76 percent) (9).
+Previous studies did not examined whether influenza vaccination is associated with reduced cardiovascular mortality.
+Because cardiovascular mortality increases abruptly during
+influenza epidemics, with little evidence of a lag period, we
+analyzed data from a population-based case-control study to
+determine whether influenza vaccination during the previous year was associated with a reduced risk of primary cardiac arrest (PCA), a major contributor to cardiovascular
+mortality in the community.
+MATERIALS AND METHODS
+Study setting
+Details of the study design and data collection are presented elsewhere (10). Briefly, from paramedic incident
+reports, cases of out-of-hospital PCA attended by paramedics
+in King County, Washington, from October 1988 to July 1994
+were identified. PCA cases were defined by the occurrence of
+a sudden pulseless condition and the absence of evidence of a
+noncardiac condition as the cause of cardiac arrest (11). In
+addition to emergency service incidence reports, we reviewed
+death certificates, medical examiner reports, and autopsy
+reports, when available, to confirm the absence of evidence of
+a noncardiac condition, such as pneumonia, asthma, or respiratory failure, as the cause of cardiac arrest. As expected,
+medical examiner reports with or without autopsy reports
+were available for only 23 percent of the cases.
+Selection of cases and controls
+We excluded PCA cases if they had had prior clinically
+recognized heart disease, such as angina pectoris, myocardial infarction, coronary bypass surgery and graft, angioDownloaded from https://academic.oup.com/aje/article-abstract/152/7/674/75235 by guest on 15 October 2019
+Influenza and Cardiac Arrest 675
+Am J Epidemiol Vol. 152, No. 7, 2000
+plasty, congestive heart failure, arrhythmias, cardiomyopathy, congenital or valvular disease, or life-threatening
+comorbidities, such as cancer or end-stage lung, liver, or
+renal disease. Since we relied on information from surrogate
+respondents to assess previous exposures, we further
+restricted the PCA cases to patients who were married and
+were aged 25–74 years. The spouses of 360 (86 percent) of
+the 418 eligible cases agreed to participate in an in-person
+interview. The mean age of the cases was 59 years, 80 percent were male, 94 percent were White, and 61 percent had
+at least a high school education.
+For each PCA case, one to two controls, matched for age
+(within 7 years) and sex, were selected from the community
+by using random digit dialing (12). Potential controls who
+had had previous clinically recognized heart disease or lifethreatening comorbidity or who were not married were
+excluded from the study. The spouses of 576 (71 percent) of
+the 816 eligible controls identified by random digit dialing
+participated in the in-person interview.
+Data collection
+Data on the subjects’ vaccination status were collected
+from both case and control spouses by using a standardized
+questionnaire. For each subject, information was collected
+on whether the subject had received an influenza vaccination during the previous 12 months and, if so, when the vaccination had been given. We did not collect information on
+whether the subject had received influenza vaccination during the years prior to that period.
+The interview also covered other risk factors for PCA,
+including age, sex, race, weight, and height; physiciandiagnosed diabetes mellitus, hypertension, and hypercholesterolemia; cigarette smoking; physical activity; alcohol and
+caffeine consumption; dietary intake of saturated fat and n3 fatty acids from seafood; family history of myocardial
+infarction or sudden death in a first-degree relative; education; employment; and general health status (10).
+To assess the reliability of spouse reports, we interviewed
+56 survivors of PCA and their spouses and 531 controls and
+their spouses independently (13). There was excellent agreement between the influenza vaccination reports of spouses
+and those obtained from subjects themselves (for cases,
+kappa  1.0, 95 percent CI: 1.0, 1.0; and for controls,
+kappa  0.88, 95 percent CI: 0.85, 0.93). The agreement for
+other risk factors was good to excellent (13).
+Statistical analysis
+We used conditional logistic regression to assess the
+association of influenza vaccination during the previous
+year with the risk of PCA after adjustment for potential confounding factors. We also explored whether the association
+varied according to the presence of other risk factors.
+Eighteen cases and 32 controls were excluded from the
+analyses due to missing data on influenza vaccination status.
+The effect of missing data on covariates was examined
+through the approach of multiple imputation (14), and the
+missing data had little effect on the findings.
+RESULTS
+Controls who were vaccinated were older; were more
+likely to have had hypertension, diabetes, and a family history of myocardial infarction or sudden death; and were
+more likely to be a former smoker, but were less likely to be
+male and currently employed than were controls who were
+not vaccinated (table 1). Vaccinated controls also expended
+more kilocalories in physical activity, weighed less, and
+consumed less caffeine than did unvaccinated controls. On
+the other hand, the prevalences of current smoking, good-toexcellent reported health status, and higher educational
+attainment (for both controls and their spouses) and the
+amount of alcohol consumed were similar among vaccinated and unvaccinated controls.
+The prevalence of influenza vaccination during the previous year was lower among the cases of PCA than among the
+controls (23 vs. 32 percent, respectively) (table 2). After
+adjustment for the matching variables (age and gender) and
+current smoking, former smoking, hypertension, diabetes,
+weight, height, family history, educational attainment,
+employment status, habitual physical activity, fat intake, and
+general health status, influenza vaccination during the previous year was associated with a reduced risk of primary
+cardiac arrest (odds ratio  0.51, 95 percent CI: 0.33, 0.79).
+Further adjustment for alcohol and caffeine consumption, n3 polyunsaturated fatty acid intake, and race altered the findings only slightly.
+There was little evidence that the association between
+influenza vaccination and the risk of PCA varied among
+TABLE 1. Clinical characteristics associated with influenza
+vaccination, King County, Washington, October 1988 to July
+1994
+Age (years (mean) (SD§))
+Male (%)
+Current smoker (%)
+Former smoker (%)
+Hypertension (%)
+Diabetes mellitus (%)
+Family history (%)
+Weight (pounds¶ (mean) (SD))
+Health status ≥ good (%)
+Education > high school (%)
+Spouse education > high school (%)
+Employed (%)
+Physical activity (kcal/week (mean)
+(SD))
+Fat intake scale score (mean (SD))
+Dietary n-3 intake (mean g/month
+(SD))
+Alcohol consumption (mean g/day
+(SD))
+Caffeine consumption (mean
+mg/day (SD))
+Clinical
+characteristic†
+Influenza
+vaccination‡
+Yes
+(n = 174)
+No
+(n = 375)
+63 (9)
+71
+9
+49
+34
+6
+45
+175 (35)
+94
+78
+76
+48
+1,431 (1,415)
+21 (4)
+6 (6)
+11 (15)
+283 (300)
+56* (10)
+82*
+11
+40*
+20*
+2*
+37
+179 (34)
+96
+77
+74
+74
+1,234 (1,691)
+21 (4)
+5 (5)
+11 (20)
+352 (447)
+* p < 0.05.
+† There were missing values for smoking (n = 2), hypertension
+(n = 6), diabetes mellitus (n = 2), family history (n = 3), weight (n =
+44), and fat intake scale (n = 22).
+‡ During prior year among controls.
+§ SD, standard deviation.
+¶ 1 pound = 0.454 kg.
+Downloaded from https://academic.oup.com/aje/article-abstract/152/7/674/75235 by guest on 15 October 2019
+676 Siscovick et al.
+Am J Epidemiol Vol. 152, No. 7, 2000
+subjects with other risk factors, including older age, male
+gender, cigarette smoking, hypertension, diabetes, low educational attainment, unemployed status, and fair or poor
+health status (data not shown), although the statistical power
+to assess potential interactions between vaccination and
+other risk factors was limited.
+DISCUSSION
+Several limitations need to be considered when interpreting
+these findings. Treatment with influenza vaccination during
+the previous year was assessed through spouse reports, and
+medical records were not available to validate these reports.
+However, the reliability of spouse reports was excellent for
+both cases and controls. Additionally, we did not assess
+influenza vaccination in previous years, and, therefore, we
+could not assess the impact of previous vaccinations.
+We sought to minimize potential confounding in both the
+design and the analysis of the study data, but it remains possible that uncontrolled confounding accounted for our findings. For example, if influenza vaccination was associated
+with unmeasured differences in health care or health behaviors that reduce the risk of PCA, these differences might
+account for our findings. Nevertheless, given the available
+information on potential confounders and the magnitude of
+the observed effect, we suggest that it is unlikely that uncontrolled confounding accounted for the finding.
+The focus of our study was on persons who experienced
+PCA as their incident clinical cardiac event, in part to minimize potential confounding from previous heart disease. For
+this reason, we restricted our study population to persons
+without previous clinically recognized heart disease and
+life-threatening comorbidity. On the other hand, persons at
+risk for incident clinical coronary heart disease because of
+older age, diabetes mellitus, and other risk factors were
+included in the study population. For these reasons, our
+findings do not address whether influenza vaccination is
+associated with a reduced risk of PCA among patients with
+clinically recognized heart disease or major comorbidity.
+To our knowledge, this is the first study to examine the
+association of previous influenza vaccination with the risk
+of primary cardiac arrest. However, the magnitude of the
+risk reduction observed herein is consistent with a metaanalysis of studies that examined the effect of influenza vaccination on total mortality (9). Additionally, a populationbased study demonstrated an association between recent
+acute respiratory tract infection and the risk of acute
+myocardial infarction (15).
+Finally, there are plausible mechanisms related to both the
+respiratory and systemic effects of influenza for a possible
+association (16). For example, influenza impairs pulmonary
+function and, thus, may reduce myocardial oxygen supply,
+and it also results in systemic effects, such as fever and tachycardia, that increase myocardial oxygen demand (17).
+Additionally, influenza may influence risk through the
+inflammatory response to the infection, either systemically
+through an effect on inflammatory markers or locally through
+changes in the heart, such as subclinical myocarditis (18).
+For now, additional epidemiologic studies, particularly
+among older populations and other persons at risk for PCA,
+are needed to explore further whether the observed association of influenza vaccination with a reduced risk of PCA
+reflects selection or protection. If confirmed in other studies
+and other populations, the association is likely to have
+important implications for clinical care and public health,
+given the magnitude of the effect and the contribution of
+PCA to coronary heart disease mortality, particularly among
+high-risk populations.
+ACKNOWLEDGMENTS
+Supported by grants from the National Heart, Lung, and
+Blood Institute (HL-41993), the University of Washington
+Clinical Nutrition Research Unit (DK-35816), and the
+Medic One Foundation, Seattle, Washington.
+Presented in part at the 4th International Conference on
+Preventive Cardiology, Montreal, Quebec, Canada, March
+1997.
+REFERENCES
+1. Collins SD. Excess mortality from causes other than influenza
+and pneumonia during influenza epidemics. Public Health Rep
+1932;47:2159–79.
+2. Eickhoff TC, Sherman IL, Serfling RE. Observations on
+excess mortality associated with epidemic influenza. JAMA
+1961;176:776–82.
+3. Housworth J, Langmuir AD. Excess mortality from epidemic
+influenza. Am J Epidemiol 1974;100:40–8.
+4. Alling DW, Blackwelder WC, Stuart-Harris CH. A study of
+excess mortality during influenza epidemics in the United
+States, 1968–1976. Am J Epidemiol 1981;113:30–43.
+5. Nichol KL, Margolis KL, Wuorenma J, et al. The efficacy and
+cost effectiveness of vaccination against influenza among
+elderly persons living in the community. N Engl J Med 1994;
+331:778–84.
+6. Bainton D, Jones GR, Hole D. Influenza and ischaemic heart
+disease—a possible trigger for acute myocardial infarction. Int
+J Epidemiol 1978;7:231–9.
+7. Nicholson KG. Impact of influenza and respiratory syncytial
+virus on mortality in England and Wales from January 1975 to
+December 1990. Epidemiol Infect 1996;116:51–63.
+8. Curwen M, Dunnell K, Ashley J. Hidden influenza deaths:
+TABLE 2. Influenza vaccination during the previous year and
+risk of primary cardiac arrest, King County, Washington,
+October 1988 to July 1994*
+Yes
+No
+Influenza
+vaccination
+Cases (%)
+(n = 342)
+Controls (%)
+(n = 549)
+23
+77
+32
+68
+* Odds ratio = 0.51, 95% CI: 0.33, 0.79. Adjusted for matching
+factors (age and gender), current smoking, former smoking, hypertension, diabetes, weight, height, habitual physical activity, saturated fat intake, family history of myocardial infarction or sudden death,
+educational attainment, employment, and general health status.
+Downloaded from https://academic.oup.com/aje/article-abstract/152/7/674/75235 by guest on 15 October 2019
+Influenza and Cardiac Arrest 677
+Am J Epidemiol Vol. 152, No. 7, 2000
+1989–90. Popul Trends 1990;61:31–3.
+9. Gross PA, Hermogenes AW, Sacks HS, et al. The efficacy of
+influenza vaccine in elderly persons. A meta-analysis and
+review of the literature. Ann Intern Med 1995;123:518–27.
+10. Siscovick DS, Raghunathan TE, King I, et al. Dietary intake
+and cell membrane levels of long chain n-3 polyunsaturated
+fatty acids and the risk of primary cardiac arrest. JAMA 1995;
+274:1363–7.
+11. Siscovick DS. Challenges in cardiac arrest research: data collection to assess outcomes. Ann Emerg Med 1993;22:92–8.
+12. Cummings KM. Random digit dialing: a sampling technique
+for telephone surveys. Public Opin Q 1979;43:233–4
+13. Friedlander Y, Siscovick DS, Weinmann S, et al. Family history as a risk factor for primary cardiac arrest. Circulation
+1998;97:155–60.
+14. Raghunathan TE, Siscovick DS. A multiple imputation analysis of a case-control study of the risk of sudden cardiac death
+among pharmacologically-treated hypertensives. Appl Stat
+1996;45:335–52.
+15. Meier CR, Jick SS, Derby LE. Acute respiratory-tract infections and risk of first-time acute myocardial infarction. Lancet
+1998;351:1467–71.
+16. Nieminen MS, Mattila K, Valtonen V. Infection and inflammation as risk factors for myocardial infarction. Eur Heart J 1993;
+14:12–16.
+17. Glezen WP. Serious morbidity and mortality associated with
+influenza epidemics. Epidemiol Rev 1982;4:25–44.
+18. Libby P, Egan D, Skarlatos S. Roles of infectious agents in atherosclerosis and restenosis: an assessment of the evidence and
+need for future research. Circulation 1997;96:4096–4103.
+Downloaded from https://academic.oup.com/aje/article-abstract/152/7/674/75235 by guest on 15 October 2019

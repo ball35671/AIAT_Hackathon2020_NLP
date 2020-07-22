@@ -1,0 +1,758 @@
+﻿Efficacy of melatonin in the treatment of endometriosis: A phase II,
+randomized, double-blind, placebo-controlled trial
+André Schwertner a,1
+, Claudia C. Conceição dos Santos a,b,1
+, Gislene Dalferth Costa a,b
+, Alícia Deitos a,b
+,
+Andressa de Souza b
+, Izabel Cristina Custodio de Souza a,b
+, Iraci L.S. Torres b,c
+,
+João Sabino L. da Cunha Filho b
+, Wolnei Caumo a,b,c,d,⇑
+a Laboratory of Pain & Neuromodulation at Hospital de Clínicas de Porto Alegre (HCPA)/Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, Brazil b Post Graduate Program in Medical Sciences, School of Medicine, UFRGS, Porto Alegre, Brazil
+c Pharmacology Department, Instituto de Ciências Básicas da Saúde, UFRGS, Porto Alegre, Brazil
+d Pain and Palliative Care Service at the HCPA, UFRGS, Porto Alegre, Brazil
+Sponsorships or competing interests that may be relevant to content are disclosed at the end of this article.
+article info
+Article history:
+Received 11 September 2012
+Received in revised form 7 February 2013
+Accepted 22 February 2013
+Keywords:
+Melatonin
+Endometriosis
+BDNF
+Pelvic pain
+Clinical trial
+abstract
+Endometriosis-associated chronic pelvic pain (EACPP) presents with an intense inflammatory reaction.
+Melatonin has emerged as an important analgesic, antioxidant, and antiinflammatory agent. This trial
+investigates the effects of melatonin compared with a placebo on EACPP, brain-derived neurotrophic factor (BDNF) level, and sleep quality. Forty females, aged 18 to 45 years, were randomized into the placebo
+(n = 20) or melatonin (10 mg) (n = 20) treatment groups for a period of 8 weeks. There was a significant
+interaction (time vs group) regarding the main outcomes of the pain scores as indexed by the visual analogue scale on daily pain, dysmenorrhea, dysuria, and dyschezia (analysis of variance, P < 0.01 for all analyses). Post hoc analysis showed that compared with placebo, the treatment reduced daily pain scores by
+39.80% (95% confidence interval [CI] 12.88–43.01%) and dysmenorrhea by 38.01% (95% CI 15.96–49.15%).
+Melatonin improved sleep quality, reduced the risk of using an analgesic by 80%, and reduced BNDF levels
+independently of its effect on pain. This study provides additional evidence regarding the analgesic
+effects of melatonin on EACPP and melatonin’s ability to improve sleep quality. Additionally, the study
+revealed that melatonin modulates the secretion of BDNF and pain through distinct mechanisms.
+ 2013 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+1. Introduction
+Chronic pelvic pain (CPP) is defined as a nonmalignant pain perceived in the structures related to the pelvis that is constant or
+recurring over a period of 6 months [21]. A population study demonstrated a 3.8% occurrence rate [67]; however, in infertility populations, this rate can be as high as 40% [50].
+Endometriosis is strongly associated with CPP. Endometriosis
+lesions produce pain by compressing or infiltrating the nerves near
+the lesions [54]. The presence of nerve growth factors in lesions is
+correlated with hyperalgesia [54]. Nerve growth factor is also
+responsible for the growth of sympathetic and sensory neurons
+of ectopic endometrial growths [54]. C-fiber nociceptors these
+neurons are activated by noxious events, such as inflammation;
+not only do they convey information to the central nervous system
+(afferent function), but they can release substance P, calcitonin
+gene-related peptide, tachykinins, nitric oxide, and other factors
+into the local environment (efferent functions). Once activated, C
+fibers can become sensitized; efferent activity also increases the local vascular permeability and the ‘‘neurogenic inflammation’’ [55].
+Although the full pathophysiology of CPP remains unknown,
+cumulative evidence suggests that peripheral and central sensitization result in an amplification of sensory impulses [63]. It has
+been suggested that estrogen increases brain-derived neurotrophic
+factor (BDNF) during the estrous cycle [7], and BDNF has received
+attention as a neuromediator of hyperalgesia and spinal central
+sensitization in pain states [17,28]. In an experimental study, BDNF
+enhanced the potentiation of N-methyl-D-aspartate receptors in
+dorsal spinal horn neurons, increasing the neurons’ excitability
+[25]. In another experiment, the neurotoxin mycotoxin 3-
+nitropropionic acid also increased the BDNF and neuronal excitability [57]; however, melatonin reversed this effect. These results
+seem mixed, as in intact cells, others have found that melatonin
+increases the BDNF level [35,45]. Thus, we postulate that in chronic
+0304-3959/$36.00  2013 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.pain.2013.02.025
+⇑ Corresponding author. Address: Laboratory of Pain & Neuromodulation,
+Hospital de Clínicas de Porto Alegre at UFRGS, Rua Ramiro Barcelos 2350, CEP
+90035-003 Bairro, Rio Branco, Porto Alegre, RS, Brazil. Tel.: +55 51 3359 8083; fax:
++55 51 3359 8083.
+E-mail address: caumo@cpovo.net (W. Caumo). 1 These authors are both first authors.
+www.elsevier.com/locate/pain
+PAIN
+154 (2013) 874–881
+pain, melatonin may reduce the activity of the neurotrophic factors, particularly BDNF, that play an important role in the pathogenesis of chronic pain.
+Despite therapeutic advances, the options available for the
+treatment of endometriosis have a limited impact on the course
+of the disease and produce unsatisfactory results while causing
+poorly tolerated adverse effects [8]. It is important to investigate
+other therapeutic options, such as melatonin, which has been
+shown to have a beneficial effect in experimental models of endometriosis [65]. Mounting evidence indicates that melatonin should
+be tested in this setting, considering its analgesic, antioxidant
+[27,32], and antiinflammatory effects. In fact, the antinociceptive
+effect of melatonin has been demonstrated in animal models of
+acute pain [20,39], inflammatory pain [5,6,19], and neuropathic
+pain [60]. In the few studies conducted with humans, doses of 3–
+10 mg of melatonin have been used [2,11,12,66].
+Overall, these data prompted us to investigate whether melatonin can be used as a therapeutic agent in endometriosis. In this
+context, we tested the hypothesis that melatonin would be more
+effective than a placebo for the treatment of endometriosis-associated CPP (EACPP). We also tested whether melatonin would change
+the levels of BDNF and whether it would be more effective than a
+placebo in improving sleep quality.
+2. Methods
+The Methods and Results sections are reported according to the
+CONSORT (Consolidated Standards of Reporting Trials) guidelines
+[52].
+2.1. Design overview, setting, and participants
+All patients provided written informed consent before participating in this randomized, double-blind, 2-group parallel, clinical
+trial, which was approved by the Research Ethics Committee at
+the Hospital de Clínicas de Porto Alegre (Institutional Review Board
+IRB 0000921) in accordance with the Declaration of Helsinki (Resolution 196/96 of the National Health Council). We recruited 40
+patients complaining of pelvic pain, who were between 18 and
+45 years old, from the gynecology outpatient clinic at the Hospital
+de Clínicas de Porto Alegre and by newspaper publicity. We
+defined chronic pelvic pain and/or dyspareunia as a moderate-tosevere pain intensity lasting for more than 6 months [22], eliciting
+pain scores on a categorical scale (0 to 10) equal to or higher than 4
+and requiring regular analgesic use [46]. All patients had an endometriosis diagnosis confirmed by laparoscopic surgery in a pelvic
+pain investigation by the same investigator (J.S.L.C.). The endometriosis stages included the following: stage 1 (only a few endometrial implants, mostly found in the cul-de-sac and pelvic area);
+stage 2 (at least one of the ovaries had endometriosis); stage 3
+(usually both ovaries, as well as the uterus, had endometriosis);
+and stage 4 (endometriosis that was prominent in the abdominal
+cavity and may affect many surrounding organs). Nongynecologic
+causes of pelvic pain were excluded in all patients using history,
+physical examination, and laboratory examinations when appropriate. We excluded patients with diagnosed malignancies, uterine
+myomas, ovarian cysts, inflammatory pelvic disease, and pregnancy. Patients with a history of neurologic or oncologic disease,
+ischemic heart disease, kidney or hepatic insufficiency, or a regular
+intake of antidepressants or anticonvulsants that could not be discontinued at least 15 days before the start of the study were not included. Additionally, no patients were included who had a history
+of alcohol or substance abuse in the past 6 months or who were
+undergoing hormonal therapy or had irregular cycles. All of these
+conditions could interfere with marker levels or disease symptom
+measurements.
+2.2. Sample size justification
+The number of patients in each study group was determined by
+previous clinical trials [23]. An a priori estimate indicated that a total sample size of 36 patients divided into 2 balanced treatment
+groups (n = 18) was needed to detect a 1.3-cm reduction (average
+SD 1.2 cm) in pain intensity associated with melatonin or placebo
+at power and a levels of 0.8 and 0.01, respectively [16,53]; such a
+reduction would be clinically relevant and comparable to other
+pharmacological interventions. To account for multiple outcomes
+and attrition, we increased the sample size to 40 patients, 20 per
+group. For these calculations, we assumed that this remission
+was clinically relevant.
+2.3. Randomization and masking
+We used a fixed block size of 4 to ensure that equal numbers of
+participants were randomized into the 2 groups. Before the recruitment phase, envelopes containing the protocol materials were
+prepared. Each envelope was sealed and numbered sequentially
+and contained an allocated treatment. After the participant agreed
+to participate in the trial, the envelope in the sequence was opened
+by the nurse who administered the medications. During the entire
+protocol timeline, 2 investigators who were not involved in patient
+evaluations were responsible for the blinding and randomization
+procedures. Other individuals who were involved in patient care
+were unaware of the treatment group to which the patients
+belonged.
+2.4. Interventions
+All patients began the treatment at the onset of the menstrual cycle. Over an 8-week period (56 days), the following oral medications
+were taken at bedtime by the 2 groups: 10-mg melatonin tablets
+(Sigma Chemical, Munich, Germany, provided batch-by-batch certificates of analysis authenticating the purity of each batch) or a placebo with identical characteristics. The capsules were manufactured
+in such a way that the placebo and active treatment appeared to be
+identical. To measure adherence to medication use, we employed
+the following strategies: (1) a researcher counted the number of tablets consumed each week during the study period; (2) the patients
+were asked to record a diary entry if they failed to use the medication; and (3) eligible patients were strongly encouraged to remain
+on the medication throughout the 8 weeks, during which time they
+were assessed weekly in a visit to the clinical center. Regardless of
+their decision to continue or discontinue medication at this stage,
+the patients continued to be assessed during the study period.
+2.5. Supplementary analgesic use
+All of the patients were permitted to use supplementary analgesic medication (acetaminophen, ibuprofen, codeine, or tramadol)
+to relieve their pain if necessary. Patients were allowed to take
+750 mg of acetaminophen up to 4 times per day (QID) and
+200 mg of ibuprofen at maximum QID as a rescue analgesic. If their
+pain persisted, patients were permitted to use 60 mg of codeine up
+to QID or tramadol 3 times per day. The patients were asked to record their analgesic intake during the treatment period in their
+pain diaries, and these diaries were reviewed during each treatment section. The total analgesic dose taken during treatment
+was considered for the analysis.
+2.6. Instruments and assessments
+All of the psychological tests used in this study had been
+validated for the Brazilian population [31,33]. Two independent
+A. Schwertner et al. / PAIN
+154 (2013) 874–881 875
+medical examiners who were blind to the group assignments were
+trained to administer the pain scales and to conduct the psychological tests. The baseline depressive symptoms of the patients were
+assessed using the Hamilton Depression Scale [31], and sleep quality was assessed using the Pittsburgh Sleep Quality Index [10]. Psychiatric disorders were evaluated with the Structured Clinical
+Interview for DSM-IV (Diagnostic and Statistical Manual of Mental
+Disorders, 4th edition) Axis I Disorders [40], and anxiety was measured using the refined version of the Rash analysis of the StateTrait Anxiety Inventory [33]. Demographic data and medical
+comorbidities were assessed using a standardized questionnaire;
+patients were asked about any changes that occurred during treatment, such as changes in mood, sleepiness, dizziness, headaches, or
+allergic reactions.
+2.7. Outcomes
+The primary outcome was pain, as assessed by the pain score
+diaries (global pain in the last 24 hours, painful menstrual periods
+[dysmenorrhea], or discomfort during intercourse [dyspareunia]),
+the amount of analgesics used weekly throughout the treatment
+period, and the level of BDNF. Secondary outcomes were discomfort during urination (dysuria) or defecation (dyschezia), and sleep
+quality. The outcomes are described below.
+2.7.1. Assessment of pain and sleep
+(a) Pain intensity was measured by a 10-cm visual analogue
+scale (VAS). The VAS scores ranged from no pain (0) to worst
+possible pain (10 cm). The time of the worst pain during the
+last 24 hours was recorded daily in the patients’ diaries.
+They were asked to answer the following questions using
+the pain VAS: (1) Considering your chronic pelvic pain in
+normal period – how intense was your worst pain during
+the last 24 hours?; (2) Considering the changes in pain at
+the onset of menstrual bleeding – How intense was your
+pain during your menstrual period?; (3) How intense was
+your pain during intercourse?; (4) How intense was your
+pain during defecation?; and (5) How intense was your pain
+during urination? To improve patient compliance, an evaluator checked their pain records weekly. Pain scores during
+menstruation were assessed for 7 days at a time.
+(b) Diary entries recording analgesic intake (acetaminophen,
+nonsteroidal antiinflammatory drugs [NSAIDs], or opioids)
+were reviewed during each treatment section. The total
+analgesic dose taken during treatment was considered for
+analysis.
+(c) Sleep quality during the study period was assessed daily by
+the 10-cm visual analogue sleep quality scale (VASQS). VASQS scores ranged from worst possible (0) to best possible
+(10 cm) sleep, and using the VASQS, the patients answered
+the following question in their sleep diaries: (a) How well
+did you sleep last night?
+(d) Laboratory outcomes included serum levels of BDNF. Samples of blood were collected at 2 time points: at baseline
+and at the end of treatment. The blood samples were centrifuged in plastic tubes for 10 minutes at 4500g at 4C, and
+serum was stored at 80C for hormone assay. Serum BDNF
+was determined by enzyme-linked immunosorbent assay
+(ELISA) using a ChemiKine BDNF Sandwich ELISA Kit,
+CYT306 (Chemicon/Millipore, Billerica, MA, USA). The lower
+detection limit of the kit is 7.8 pg/mL for BDNF. We analyzed
+the effects of age in our model.
+2.8. Statistical analysis
+Figs. 1 and 3 T-tests for independent samples were used to analyze the continuous variables, and the categorical variables were
+Fig. 1. Flow chart showing recruitment and progress through the study. WHO, World Health Organization; SF-12, Short-Form 12 health survey; PSQ, Pittsburgh Sleep
+Questionnaire; SCID, Structured Clinical Interview for DSM-IV (Diagnostic and Statistical Manual of Mental Disorders, 4th edition); VAS, visual analogue scale.
+876 A. Schwertner et al. / PAIN
+154 (2013) 874–881
+assessed by v2 or Fisher’s exact tests. We averaged the daily values
+recorded in the pain and sleep diary to generate one value for each
+of the 8 weeks of treatment. After first checking the assumptions of
+normality for the outcome measures (VAS pain scores and VASQS
+sleep quality scores) using skewness and kurtosis tests, we
+conducted a group analysis by running a mixed analysis of variance
+model in which the independent variables were time, experimental group (melatonin and placebo), the interaction between time
+and experimental group, and the subject identification. If appropriate, we then performed Bonferroni test for post hoc multiple
+comparisons to identify the differences between the groups at each
+time point and used a paired t-test to assess the effects of the
+variables on each experimental group. Stepwise multiple linear
+regression analysis was conducted, with the VAS pain scores as
+the dependent variable and the experimental group (melatonin
+and placebo) and sleep quality the previous night as independent
+variables.
+We also calculated adjusted mean differences, which were defined as the relative changes in the melatonin group compared to
+the placebo group. This measurement was used to describe the
+melatonin treatment efficacy, which was calculated as the adjusted
+mean difference divided by the adjusted mean placebo group and
+expressed as a percentage (%). The 95% confidence intervals (CI)
+and associated P-values were also calculated. We considered all
+of the randomized patients as part of the analysis, using the intention-to-treat method, with the last observation carried forward.
+The data were analyzed using SPSS version 18.0 (SPSS, Chicago, IL).
+3. Results
+3.1. Patient characteristics
+The clinical and demographic characteristics of the patients are
+shown in Table 1. Twenty patients were allocated to the placebo
+group, and 20 were allocated to the melatonin group. Thirty-six
+patients completed the study; 3 patients in the melatonin group
+and one in the placebo group withdrew due to treatment inefficacy. Baseline characteristics were similar across the melatonin
+and placebo groups (all P values >0.05) (Table 1). We did not
+observe serious or moderate side effects from the treatment.
+3.2. Analysis of the main outcome: efficacy with regard to pain scores
+(highest pain level during the last 24 hours and dysmenorrhea),
+analgesic use, and BDNF
+The melatonin group had significantly lower pain VAS scores
+(P < 0.001) than the placebo-treated group (Table 2), and the interaction between time and treatment group was significant (P = 0.02)
+(Fig. 2A). The melatonin group, compared to the placebo group,
+demonstrated a mean pain reduction of 39.30% (Table 2). The melatonin group had significantly lower pain scores (P < 0.001) than
+the placebo-treated group during menstruation (Table 2), and
+again, the interaction between time and treatment group was significant (P 6 0.001) for these VAS scores (Fig. 2B).
+Analgesic use during the treatment period occurred in 42.2% of
+patients in the placebo group and in 22.9% of patients in the melatonin group. The relative risk for using analgesics at least 3 times
+a week during the 8 weeks of treatment was 1.80 (95% CI 1.61–
+2.08); that is, the placebo-treated group was 80% more likely to require additional analgesics. Of the analgesics used in the placebo
+group, acetaminophen was used by 66.7% of the patients, codeine
+or tramadol by 60%, and NSAIDs by 60% (the same patient may
+have used more than one analgesic). In the melatonin group,
+Fig. 2. (A) Weekly mean pain levels (as assessed by visual analogue scale [VAS]) at
+baseline week (W) zero to W8, in the 2 experimental groups for the question:
+Considering your chronic pelvic pain in normal period – how intense was your
+worst pain during the last 24 hours? (B) Considering the changes in pain at the
+onset of menstrual bleeding – How intense was your pain during your menstrual
+period? The error bars indicate the standard error of the mean. Asterisks (⁄
+)
+positioned above the bars indicate significant differences (P < 0.01) at those time
+points between the placebo and melatonin groups. All comparisons were performed
+by a mixed analysis of variance model, followed by the Bonferroni correction for
+post hoc multiple comparisons.
+Fig. 3. Mean serum brain-derived neurotrophic factor (BDNF) at baseline week (W)
+zero and W8, in the 2 experimental groups. The error bars indicate the SEM.
+Asterisks (⁄
+) positioned above the symbols indicate significant differences (P < 0.01)
+at those time points between the placebo and melatonin groups compared using
+the t-test for independent samples.
+A. Schwertner et al. / PAIN
+154 (2013) 874–881 877
+33.3% used acetaminophen, 40% used tramadol or codeine, and 35%
+used NSAIDs. There was a significant reduction in the analgesic
+doses for patients receiving melatonin treatment compared to
+those receiving placebo (P < 0.01).
+One important issue is whether the BDNF level reduction is secondary to pain improvement or whether it is a primary effect of the
+intervention. To address this important issue, we conducted an
+additional regression model in which we controlled BDNF-level
+changes for cumulative pain scores during the treatment period.
+The adjusted mean BDNF level for the placebo group was 25.64
+(9.65) vs 20.46 (4.93) for the melatonin group, with a mean difference of 5.94 (95% CI 2.07–9.82); this difference was significant at
+the P < 0.001 level. This model revealed that the effect of the pain
+score was not statistically significant. However, the interaction
+between group and pain VAS scores was significant (P < 0.001),
+suggesting that the variability in the pain VAS score is dependent
+on the effects of the treatment group on the main outcome (BDNF
+levels). Additionally, when we performed a stratified analysis by
+treatment group, the effect of pain was not statistically significant
+in the melatonin group, but was significant in the placebo group
+(Table 3). This result suggests that the effect of treatment on the
+BDNF level is not dependent on the pain level.
+3.3. Secondary outcomes: evacuation pain, dysuria, and sleep quality
+There was a significant interaction between time and treatment
+group (P < 0.01) for pain VAS scores during evacuation and dysuria.
+The melatonin group recorded significantly lower pain scores (for
+both outcomes P < 0.01) compared to the placebo group (Table 2).
+There was a significant interaction between time and treatment
+group (P < 0.001) for the previous night’s sleep quality VASQS
+scores. Patients in the melatonin group reported a significantly better sleep quality (P < 0.001) than the placebo group (Table 2).
+When compared with the placebo, melatonin produced a mean
+improvement of 42% in how patients felt when they awoke
+(Table 2).
+4. Discussion
+This study demonstrated that melatonin produced a reduction
+in EACPP compared to placebo that was not only statistically significant but may also be clinically relevant. In addition, this study
+showed that melatonin treatment was associated with improved
+sleep quality and reduced BDNF levels. This finding suggests that
+melatonin has a direct effect on pain pathways or on the levels
+of signaling chemicals that regulate pain. Furthermore, the present
+findings showed that the effect of melatonin on BDNF level is independent of its effect on pain.
+These findings concur with the results of previous studies in animals in which melatonin caused the regression and atrophy of
+endometriotic lesions [29]. However, to the best of our knowledge,
+this is the first investigation that extends this literature to provide
+additional evidence of the impact of melatonin on EACPP. Melatonin
+Table 1
+Characteristics of the study sample. Values are given as the mean (SD) or frequency
+(n = 40).
+Placebo
+(n = 20)
+Melatonin
+(n = 20)
+P-value
+Age (years) 37.63
+(±5.5)
+36.76
+(±6.4)
+.86
+Education (years) 10.7
+(±3.51)
+11.0
+(±1.87)
+.72
+Smoking, n (%) 1 (5.0%) 5 (25.0%) .08
+Clinical comorbidity 7 (35.0%) 6 (30.0%) .94
+Hypertension 0 (0.0%) 3 (15.0%) .06
+Hypothyroidism 2 (10.0%) 1 (5.0%) .61
+Asthma 2 (10.0%) 0 (0.0%) .17
+Other 3 (15.0%) 2 (10.0%) .49
+Endometriosis stage
+I 3 (15%) 2 (10%)
+II 3 (15%) 4 (20%)
+III 9 (45%) 7 (35%)
+IV 5(25%) 7 (35%) .63
+Global pain on visual analogue scale 6.89 (±2.1) 6.46 (±2.6) .73
+Menstrual pain on visual analogue
+scale
+8.00 (±2.0) 7.32 (±2.5) .30
+Pittsburgh Sleep Questionnaire 15.6 (±7.6) 19.0 (±5.9) .15
+Hamilton Depression Scale 18.4 (±8.4) 16.3
+(±10.7)
+.51
+Psychiatric disease (SCID-I) 11 (55.0%) 12 (60.0%) .34
+Depression 7 (35.0%) 6 (30.0%) .94
+Anxiety 11 (55.0%) 9 (45.0%) .78
+Daily use of analgesics 16 (80.0%) 15 (75.0%) .73
+Acetaminophen/dipirone 12 (60.0%) 7 (35.0%) .25
+NSAID 9 (45.0%) 10 (50.0%) .37
+Opioid 2 (10.0%) 3 (15.0%) .49
+SCID-I, Structured Clinical Interview for DSM-IV (Diagnostic and Statistical Manual of
+Mental Disorders, 4th edition) Axis I disorders; NSAID, nonsteroidal antiinflammatory drug.
+Table 2
+Treatment effect on the outcomes during the treatment period (8 weeks) (n = 40).
+Pain reported on visual analogue scale
+Treatment Adjusted mean (SD) Adjusted mean
+difference (95% CI) a
+Relative change %
+(95% CI) b
+P-value
+Primary outcomes
+Worst pain during the last 24 hours (daily) Placebo (n = 20) 4.58 (1.46)
+Melatonin (n = 20) 2.78 (1.35) 1.80 (0.59-1.97) 39.30 (12.88-43.01) < 0.001
+Pain during menstrual period
+(dysmenorrhea)
+Placebo (n = 20) 6.84 (2.38)
+Melatonin (n = 20) 4.24 (2.61) 2.6 (0.38-1.71) 38.01 (15.96-49.15) < 0.001
+Pain during intercourse Placebo (n = 20) 6.08 (1.42)
+Melatonin (n = 20) 4.68 (1.51) 1.40 (0.42-1.49) 23.02 (6.90-24.50) < 0.001
+Secondary outcomes
+Pain during evacuation Placebo (n = 20) 6.30 (1.64)
+Melatonin (n = 20) 4.12 (0.97) 2.18 (1.25-2.30) 34.60 (19.84-36.50) < 0.0001
+Pain during urination Placebo (n = 20) 6.33 (1.31)
+Melatonin (n = 20) 5.35 (0.69) 1.13 (0.41-1.75) 27.65 (6.47-133.00) <0.001
+How well did you sleep last night – on
+visual analogue sleep quality scale (VASQS)
+Placebo (n = 20) 4.98 (1.51)
+Melatonin (n = 20) 6.08 (1.42) 1.1 (0.11-1.39) 22.08 (2.20-27.91) < 0.02
+CI, confidence interval.
+a Mixed analysis of variance model. Mean difference groups. b Relative change = adjusted mean difference/adjusted placebo mean  100%.
+878 A. Schwertner et al. / PAIN
+154 (2013) 874–881
+was observed to have a clinically relevant effect on all parameters
+used to assess pain, including a reduction in daily pain, dysmenorrhea, dyspareunia, dysuria, and dyschezia (Table 2), as well an 80%
+reduction in analgesic use. Overall, the magnitude of the effect on
+reported pain was >35%. This result is important because a placebo
+effect has been well documented in studies of pain control [59]. For
+example, Koninckx et al. [36] reported a 30% reduction in pain
+severity associated with placebo, even in women with deep endometriosis. Novel treatments for the symptoms of endometriosis
+should therefore demonstrate superiority relative to placebo to verify their efficacy.
+Additionally, the present study corroborates evidence from
+previous randomized clinical trials in which melatonin performed
+substantially better than a placebo in treating fibromyalgia [3,14]
+and acute postoperative pain [30,31]. This finding has biological
+plausibility because the antinociceptive effect of melatonin is
+known to involve the activation of supraspinal sites and the inhibition of ‘‘spinal windup’’ [44]. In addition, experimental evidence
+suggests that the analgesic effects of melatonin are mediated by
+opioids [38] and by gamma-aminobutyric acid ([GABA]ergic) systems [64]. Moreover, melatonin produces marked antiinflammatory effects on peripheral sites by inhibiting the release of
+proinflammatory cytokines [15]. Additionally, its effect on EACPP
+may be explained by diverse mechanisms, including hormonal
+pathways, because it is known that endometriosis is an estrogen-dependent chronic inflammatory gynecological disease. Thus,
+melatonin may, at least in part, decrease the luteinizing hormone
+surge, thereby blocking ovulation and progression into the luteal
+phase, and increase progesterone without affecting follicle-stimulating hormone or estrogen levels [41]. Melatonin also inhibits
+steroidogenesis by altering cyclic adenosine monophosphate levels through direct action on the theca or granulosa cells of the follicles [9,56]. Additionally, the treatment of rats with melatonin
+resulted in reduced plasma levels of luteinizing hormone and 17
+beta-estradiol and promoted differential regulation of the estrogen, progesterone, and androgen receptors in the reproductive
+tissues [13].
+A previous study found that estradiol-dependent estrogen
+receptor (ER) activation was prevented in cells by treatment with
+melatonin. Neither the nuclear localization of the ER nor the binding of estradiol to the ER is affected by melatonin [49]. Thus, it is
+possible that the effect of estrogen may occur through 2 distinct
+ER subtypes, ERa and ERb, which are widely distributed in the central nervous system, in astrocytes and in interneurons. Astrocytes
+enhance the synthesis of astroglial-derived neurotrophic factors
+and inflammatory mediators, such as cytokines and cycloxygenase-2, which, at least in part, maintain the maladaptive plasticity
+implicated in EACPP. The inflammatory response involves the
+hormonal and neuronal mechanisms by which the brain regulates
+the function of the immune system and cytokines, allowing the immune system to regulate the brain. Although it has been reported
+that BDNF is involved in inflammatory reactions [34,58] and that
+its production is increased in response to proinflammatory cytokines, our findings support the notion that BDNF levels may constitute a neurobiological mechanism underlying EACPP. This
+hypothesis is supported by our finding that the BDNF level was
+linked with the pain level in the placebo group but not in the
+melatonin group [37,42]. Thus, the melatonin-induced reduction
+in this neurotrophin may be explained by other mechanisms; for
+example, an antiinflammatory mechanism, or perhaps, an interaction with gonadal hormones could be involved.
+The effect of melatonin on the BDNF level can be explained by
+estrogen levels, which regulate the increase in BDNF mRNA in
+areas associated with nociceptive sensory processing, such as the
+hippocampus, cerebral cortex, and spinal cord [4]. The relationship
+between BDNF level and pain may indirectly confirm the role of the
+regulatory effect of estrogen on the sensitization of the central nervous system centers associated with nociceptive sensory processing. Furthermore, estrogen regulates opioid receptor density in
+several pain-related areas (periaqueductal gray, parabrachial nucleus); the density of opioid receptors is significantly lower in
+female rats during proestrus (higher plasma estrogen) compared
+with the diestrus and metestrus phases [18].
+Because BDNF levels can serve as a molecular ‘‘sensor’’ of the
+global levels of neuronal activity, it has been suggested that the
+induction of BDNF expression in response to increases in the level
+of neuronal activity may dampen cortical excitability by promoting
+the development and/or strengthening of inhibitory synapses in local circuits [26,51]. Overall, these findings show that the melatonin
+effect may interrupt a response associated with a maladaptive neuroplasticity process orchestrated by neuronal, endocrinal, and immune mechanisms that can amplify sensory pain signals to the
+neural pain matrix [24]. Macrophage-derived productions, such
+as the production of tumor necrosis factor, interleukin (IL)-1b,
+and IL-12, integrate this cascade of responses [1].
+Another possible explanation for our findings is the involvement of melatonin in regulating circadian rhythms, which would
+make melatonin a potentially valuable means for targeting the
+pathophysiologic mechanisms underlying EACPP. Although melatonin is approved as a sleep aid, it also has a variety of other
+beneficial effects that may account for its potential role in the
+treatment of EACPP. Obviously, pain relief is a major goal, but
+the additional treatment of restless sleep and sleep disturbances
+may lead to a further decrease in pain [30]. However, in recent randomized clinical trials, we demonstrated that melatonin’s effect on
+pain is independent of improvements in sleep quality [62]. It had
+been demonstrated that the antinociceptive effects of melatonin
+involve effects [38] on the gamma-aminobutyric acid and opioid
+systems [64]. Moreover, melatonin produces marked antiinflammatory effects on peripheral sites by inhibiting the release of
+proinflammatory cytokines [43].
+The strengths of the study include the comparison of an active
+treatment vs a placebo in a double-blind design, and the use of
+multiple efficacy and safety measures based on previous trial
+Table 3
+Multivariate linear regression of the pain reported compared with BDNF level, treatment group and daily pain VAS scores (n = 40).
+Parameter b T P-value 95% CI
+Dependent variable: serum BDNF after 8 weeks of treatment
+Cumulative worst pain score on VAS dairy (mean of 8 weeks) 0.07 0.09 0.92 1.54 to 1.40
+Placebo  (cumulative pain score on VAS dairy) vs
+Melatonin  (cumulative pain score on VAS dairy) 2.60 3.14 <0.001 0.90 to 4.33
+Interaction 20.46 10.69 <0.001 16.55 to 24
+Cumulative pain score on VAS dairy  (Placebo) 2.23 2.33 <0.01 0.25 to 5.02
+Cumulative pain score on VAS dairy  (Melatonin) 0.16 0.26 0.79 1.59 to 1.18
+BDNF, brain-derived neurotrophic factor; VAS, visual analogue scale; CI, confidence interval.
+Linear regression model – Adjusted R2 = 0.24.
+A. Schwertner et al. / PAIN
+154 (2013) 874–881 879
+experience. Despite the knowledge of a substantial placebo effect,
+there remains a scarcity of placebo-controlled studies of medications for the treatment of endometriosis pain [47,48]. This study
+therefore represents an important contribution to evidence-based
+prescribing. We conducted this trial according to CONSORT guidelines, and given that we used the Delphi List (a list of criteria for the
+quality assessment of randomized controlled trials), our trial can
+be considered to be of strong quality because all 8 items in this
+scale can be positively scored in our randomized controlled trial
+[61]. Although the homogeneity of this study population is methodologically advantageous, the issue of external validity arises.
+Thus, additional research with a larger number of patients is
+needed to more widely assess the potential benefits of melatonin
+in various clinical settings, and future studies are required before
+definitive conclusions regarding melatonin and pain treatment
+can be made. Several issues concerning the design of our study
+must be addressed. First, a potential limitation is the short treatment duration, as it would have been difficult to justify a prolonged placebo treatment period in patients experiencing chronic
+pain. Second, the influence of pelvic floor musculature in pelvic
+pain that is usually assessed by digital palpation during pelvic
+examinations was not directly measured. Instead, it was assessed
+indirectly using pain scores associated with various events (ie, pain
+during urination, sexual intercourse, and defecation). Third, we did
+not assess changes in menses, which could have been altered due
+to melatonin effect on ovarian steroidogenesis. Finally, although
+several strategies were used to prevent patients and evaluator
+team from unblinding, formal assessment for awareness of the
+allocation (either active or placebo) was not performed. However,
+our objective surrogates less prone to bias (ie, serum BDNF, analgesics requirements) were consistent with pain scores, hence, unblinding is unlikely to have influenced the direction of our conclusions.
+In conclusion, in this 8-week, randomized, double-blind,
+placebo-controlled study, the oral consumption of 10 mg/day of
+melatonin was associated with significant improvements in EACPP
+and other efficacy measures. Melatonin reduced pain scores, lowered analgesic use, and improved sleep quality. Our results also
+suggested that melatonin modulates the secretion of BDNF by a
+mechanism that is distinct from the one underlying its analgesic
+effect. Overall, melatonin may represent an effective and well-tolerated treatment for the painful symptoms of endometriosis.
+Conflict of interest statement
+The authors declare that there are no financial or other relationships that might lead to conflicts of interest in any of the following
+arrangements: financial relationship to the work, employees of a
+company, consultants for a company, stockholders of the company,
+members of a speakers’ bureau, or any other form of financial
+support.
+Acknowledgements
+This research was supported by grants and material support
+from the following Brazilian agencies: Committee for the Development of Higher Education Personnel – CAPES – PNPD/CAPES
+(grants to I.C.C. Souza; A. Deitos) and material support; National
+Council for Scientific and Technological Development – CNPq
+(grants to Dr. I.L.S. Torres, Dr. W. Caumo); Postgraduate Program
+in Medical Sciences at the School of Medicine of the Federal University of Rio Grande do Sul (material support).
+Postgraduate Research Group at the Hospital de Clínicas de Porto Alegre (material support); Foundation for Support of Research at
+Rio Grande do Sul (FAPERGS) (grant to A. Schwertner).
+References
+[1] Abbas AK, Lichtman AH, Pillai S. Cellular and molecular
+immunology. Philadelphia: Elsevier Saunders; 2012.
+[2] Acil M, Basgul E, Celiker V, Karagoz AH, Demir B, Aypar U. Perioperative effects
+of melatonin and midazolam premedication on sedation, orientation, anxiety
+scores and psychomotor performance. Eur J Anaesthesiol 2004;21:553–7.
+[3] Acuna-Castroviejo D, Escames G, Reiter RJ. Melatonin therapy in fibromyalgia. J
+Pineal Res 2006;40:98–9.
+[4] Allen AL, McCarson KE. Estrogen increases nociception-evoked brain-derived
+neurotrophic factor gene expression in the female rat. Neuroendocrinology
+2005;81:193–9.
+[5] Ambriz-Tututi M, Granados-Soto V. Oral and spinal melatonin reduces tactile
+allodynia in rats via activation of MT2 and opioid receptors. PAIN
+2007;132:273–80.
+[6] Arreola-Espino R, Urquiza-Marin H, Ambriz-Tututi M, Araiza-Saldana CI,
+Caram-Salas NL, Rocha-Gonzalez HI, Mixcoatl-Zecuatl T, Granados-Soto V.
+Melatonin reduces formalin-induced nociception and tactile allodynia in
+diabetic rats. Eur J Pharmacol 2007;577:203–10.
+[7] Blurton-Jones M, Kuan PN, Tuszynski MH. Anatomical evidence for
+transsynaptic influences of estrogen on brain-derived neurotrophic factor
+expression. J Comp Neurol 2004;468:347–60.
+[8] Brown J, Kives S, Akhtar M. Progestagens and anti-progestagens for pain
+associated with endometriosis. Cochrane Database Syst Rev 2012;3:CD002122.
+[9] Brzezinski A, Seibel MM, Lynch HJ, Deng MH, Wurtman RJ. Melatonin in
+human preovulatory follicular fluid. J Clin Endocrinol Metab 1987;64:865–7.
+[10] Buysse DJ, Reynolds 3rd CF, Monk TH, Berman SR, Kupfer DJ. The pittsburgh
+sleep quality index: a new instrument for psychiatric practice and research.
+Psychiatry Res 1989;28:193–213.
+[11] Caumo W, Levandovski R, Hidalgo MP. Preoperative anxiolytic effect of
+melatonin and clonidine on postoperative pain and morphine consumption in
+patients undergoing abdominal hysterectomy: a double-blind, randomized,
+placebo-controlled study. J Pain 2009;10:100–8.
+[12] Caumo W, Torres F, Moreira Jr NL, Auzani JA, Monteiro CA, Londero G, Ribeiro
+DF, Hidalgo MP. The clinical impact of preoperative melatonin on
+postoperative outcomes in patients undergoing abdominal hysterectomy.
+Anesth Analg 2007;105:1263–71.
+[13] Chuffa LG, Seiva FR, Favaro WJ, Teixeira GR, Amorim JP, Mendes LO, Fioruci BA,
+Pinheiro PF, Fernandes AA, Franci JA, Delella FK, Martinez M, Martinez FE.
+Melatonin reduces LH, 17 beta-estradiol and induces differential regulation of
+sex steroid receptors in reproductive tissues during rat ovulation. Reprod Biol
+Endocrinol 2011;9:108.
+[14] Citera G, Arias MA, Maldonado-Cocco JA, Lazaro MA, Rosemffet MG, Brusco LI,
+Scheines EJ, Cardinalli DP. The effect of melatonin in patients with
+fibromyalgia: a pilot study. Clin Rheumatol 2000;19:9–13.
+[15] Cuzzocrea S, Tan DX, Costantino G, Mazzon E, Caputi AP, Reiter RJ. The
+protective role of endogenous melatonin in carrageenan-induced pleurisy in
+the rat. FASEB J 1999;13:1930–8.
+[16] Dao TT, Lavigne GJ, Feine JS, Tanguay R, Lund JP. Power and sample size
+calculations for clinical trials of myofascial pain of jaw muscles. J Dent Res
+1991;70:118–22.
+[17] Delafoy L, Gelot A, Ardid D, Eschalier A, Bertrand C, Doherty AM, Diop L.
+Interactive involvement of brain derived neurotrophic factor, nerve growth
+factor, and calcitonin gene related peptide in colonic hypersensitivity in the
+rat. Gut 2006;55:940–5.
+[18] Duncan KA, Murphy A. Sex-linked differences in mu opiate receptor
+expression in the rat brain. In: Proceedings of the 11th world congress on
+pain. Sydney, Australia: International Association for the Study of, Pain, 2005.
+p. 191.
+[19] El-Shenawy SM, Abdel-Salam OM, Baiuomy AR, El-Batran S, Arbid MS. Studies
+on the anti-inflammatory and anti-nociceptive effects of melatonin in the rat.
+Pharmacol Res 2002;46:235–43.
+[20] Elmegeed GA, Baiuomy AR, Abdel-Salam OM. Evaluation of the antiinflammatory and anti-nociceptive activities of novel synthesized melatonin
+analogues. Eur J Med Chem 2007;42:1285–92.
+[21] Fall M, Baranowski AP, Fowler CJ, Lepinard V, Malone-Lee JG, Messelink EJ,
+Oberpenning F, Osborne JL, Schumacher S. EAU guidelines on chronic pelvic
+pain. Eur Urol 2004;46:681–9.
+[22] Fedele L, Bianchi S, Zanconato G, Bergamini V, Berlanda N, Carmignani L. Longterm follow-up after conservative surgery for bladder endometriosis. Fertil
+Steril 2005;83:1729–33.
+[23] Ga H, Choi JH, Park CH, Yoon HJ. Dry needling of trigger points with and
+without paraspinal needling in myofascial pain syndromes in elderly patients.
+J Altern Complement Med 2007;13:617–24.
+[24] Garcia RA, Afeche SC, Scialfa JH, Do Amaral FG, dos Santos SH, Lima FB, Young
+ME, Cipolla-Neto J. Insulin modulates norepinephrine-mediated melatonin
+synthesis in cultured rat pineal gland. Life Sci 2008;82:108–14.
+[25] Geng SJ, Liao FF, Dang WH, Ding X, Liu XD, Cai J, Han JS, Wan Y, Xing GG.
+Contribution of the spinal cord BDNF to the development of neuropathic pain
+by activation of the NR2B-containing NMDA receptors in rats with spinal
+nerve ligation. Exp Neurol 2010;222:256–66.
+[26] Genoud C, Knott GW, Sakata K, Lu B, Welker E. Altered synapse formation in
+the adult somatosensory cortex of brain-derived neurotrophic factor
+heterozygote mice. J Neurosci 2004;24:2394–400.
+880 A. Schwertner et al. / PAIN
+154 (2013) 874–881
+[27] Gitto E, Pellegrino S, Gitto P, Barberi I, Reiter RJ. Oxidative stress of the
+newborn in the pre- and postnatal period and the clinical utility of melatonin. J
+Pineal Res 2009;46:128–39.
+[28] Groth R, Aanonsen L. Spinal brain-derived neurotrophic factor (BDNF)
+produces hyperalgesia in normal mice while antisense directed against
+either BDNF or trkB, prevent inflammation-induced hyperalgesia. PAIN
+2002;100:171–81.
+[29] Guney M, Oral B, Karahan N, Mungan T. Regression of endometrial explants in
+a rat model of endometriosis treated with melatonin. Fertil Steril
+2008;89:934–42.
+[30] Haack M, Scott-Sutherland J, Santangelo G, Simpson NS, Sethna N, Mullington
+JM. Pain sensitivity and modulation in primary insomnia. Eur J Pain
+2011;16:522–33.
+[31] Hamilton M. A rating scale for depression. J Neurol Neurosurg Psychiatry
+1960;23:56–62.
+[32] Imai A, Suzuki N. Topical non-barrier agents for postoperative adhesion
+prevention in animal models. Eur J Obstet Gynecol Reprod Biol
+2010;149:131–5.
+[33] Kaipper MB, Chachamovich E, Hidalgo MP, Torres IL, Caumo W. Evaluation of
+the structure of brazilian state-trait anxiety inventory using a Rasch
+psychometric approach. J Psychosom Res 2010;68:223–33.
+[34] Kerschensteiner M, Gallmeier E, Behrens L, Leal VV, Misgeld T, Klinkert WE,
+Kolbeck R, Hoppe E, Oropeza-Wekerle RL, Bartke I, Stadelmann C, Lassmann
+H, Wekerle H, Hohlfeld R. Activated human T cells, B cells, and monocytes
+produce brain-derived neurotrophic factor in vitro and in inflammatory brain
+lesions: a neuroprotective role of inflammation? J Exp Med 1999;189:
+865–70.
+[35] Kong X, Li X, Cai Z, Yang N, Liu Y, Shu J, Pan L, Zuo P. Melatonin regulates the
+viability and differentiation of rat midbrain neural stem cells. Cell Mol
+Neurobiol 2008;28:569–79.
+[36] Koninckx PR, Craessaerts M, Timmerman D, Cornillie F, Kennedy S. Anti-TNFalpha treatment for deep endometriosis-associated pain: a randomized
+placebo-controlled trial. Hum Reprod 2008;23:2017–23.
+[37] Kuipers SD, Bramham CR. Brain-derived neurotrophic factor mechanisms and
+function in adult synaptic plasticity: new insights and implications for
+therapy. Curr Opin Drug Discov Devel 2006;9:580–6.
+[38] Laurido C, Pelissie T, Soto-Moyano R, Valladares L, Flores F, Hernandez A. Effect
+of melatonin on rat spinal cord nociceptive transmission. Neuroreport
+2002;13:89–91.
+[39] Li SR, Wang T, Wang R, Dai X, Chen Q, Li RD. Melatonin enhances
+antinociceptive effects of delta-, but not mu-opioid agonist in mice. Brain
+Res 2005;1043:132–8.
+[40] Lobbestael J, Leurgans M, Arntz A. Inter-rater reliability of the Structured
+Clinical Interview for DSM-IV Axis I disorders (SCID I) and Axis II disorders
+(SCID II). Clin Psychol Psychother 2011;18:75–9.
+[41] Macchi MM, Bruce JN. Human pineal physiology and functional significance of
+melatonin. Front Neuroendocrinol 2004;25:177–95.
+[42] Martinowich K, Manji H, Lu B. New insights into BDNF function in depression
+and anxiety. Nat Neurosci 2007;10:1089–93.
+[43] Mauriz JL, Collado PS, Veneroso C, Reiter RJ, Gonzalez-Gallego J. A review of the
+molecular aspects of melatonin’s anti-inflammatory actions: recent insights
+and new perspectives. J Pineal Res 2012. http://dx.doi.org/10.1111/j.1600-
+079X.2012.01014.x.
+[44] Morgan PJ, Barrett P, Howell HE, Helliwell R. Melatonin receptors: localization,
+molecular pharmacology and physiological significance. Neurochem Int
+1994;24:101–46.
+[45] Niles LP, Armstrong KJ, Rincon Castro LM, Dao CV, Sharma R, McMillan CR,
+Doering LC, Kirkham DL. Neural stem cells express melatonin receptors and
+neurotrophic factors: colocalization of the MT1 receptor with neuronal and
+glial markers. BMC Neurosci 2004;5:41.
+[46] Palos GR, Mendoza TR, Mobley GM, Cantor SB, Cleeland CS. Asking the
+community about cutpoints used to describe mild, moderate, and severe pain.
+J Pain 2006;7:49–56.
+[47] Prentice A, Deary AJ, Bland E. Progestagens and anti-progestagens for pain
+associated with endometriosis. Cochrane Database Syst Rev
+2000;2:CD002122.
+[48] Prentice A, Deary AJ, Goldbeck-Wood S, Farquhar C, Smith SK. Gonadotrophinreleasing hormone analogues for pain associated with endometriosis.
+Cochrane Database Syst Rev 2000;2:CD000346.
+[49] Rato AG, Pedrero JG, Martinez MA, del Rio B, Lazo PS, Ramos S. Melatonin
+blocks the activation of estrogen receptor for DNA binding. FASEB J
+1999;13:857–68.
+[50] Reiter RC. A profile of women with chronic pelvic pain. Clin Obstet Gynecol
+1990;33:130–6.
+[51] Rutherford LC, DeWan A, Lauer HM, Turrigiano GG. Brain-derived neurotrophic
+factor mediates the activity-dependent regulation of inhibition in neocortical
+cultures. J Neurosci 1997;17:4527–35.
+[52] Schulz KF, Altman DG, Moher D. The CONSORT Group. CONSORT. Statement:
+updated guidelines for reporting parallel group randomised trials. Trials
+2010;2010(11):1–8.
+[53] Skre I, Onstad S, Torgersen S, Kringlen E. High interrater reliability for the
+Structured Clinical Interview for DSM-III-R Axis I (SCID-I). Acta Psychiatr
+Scand 1991;84:167–73.
+[54] Stratton P, Berkley KJ. Chronic pelvic pain and endometriosis: translational
+evidence of the relationship and implications. Hum Reprod Update
+2011;17:327–46.
+[55] Szolcsanyi J. Forty years in capsaicin research for sensory pharmacology and
+physiology. Neuropeptides 2004;38:377–84.
+[56] Tamura H, Nakamura Y, Takiguchi S, Kashida S, Yamagata Y, Sugino N, Kato H.
+Melatonin directly suppresses steroid production by preovulatory follicles in
+the cyclic hamster. J Pineal Res 1998;25:135–41.
+[57] Tasset I, Aguera E, Olmo-Camacho R, Escribano B, Sanchez-Lopez F, Delgado
+MJ, Cruz AH, Gascon F, Luque E, Pena J, Jimena IM, Tunez I. Melatonin improves
+3-nitropropionic acid induced behavioral alterations and neurotrophic factors
+levels. Prog Neuropsychopharmacol Biol Psychiatry 2011;35:1944–9.
+[58] Toma H, Winston JH, Micci MA, Li H, Hellmich HL, Pasricha PJ. Characterization
+of the neurotrophic response to acute pancreatitis. Pancreas 2002;25:31–8.
+[59] Turner JA, Deyo RA, Loeser JD, Von Korff M, Fordyce WE. The importance of
+placebo effects in pain treatment and research. JAMA 1994;271:1609–14.
+[60] Ulugol A, Dokmeci D, Guray G, Sapolyo N, Ozyigit F, Tamer M.
+Antihyperalgesic, but not antiallodynic, effect of melatonin in nerve-injured
+neuropathic mice: possible involvements of the L-arginine-NO pathway and
+opioid system. Life Sci 2006;78:1592–7.
+[61] Verhagen AP, de Vet HC, de Bie RA, Kessels AG, Boers M, Bouter LM, Knipschild
+PG. The Delphi list: a criteria list for quality assessment of randomized clinical
+trials for conducting systematic reviews developed by Delphi consensus. J Clin
+Epidemiol 1998;51:1235–41.
+[62] Vidor LP, Torres IL, de Souza IC, Fregni F, Caumo W. Analgesic and sedative
+effects of melatonin in temporomandibular disorders: a double-blind,
+randomized, parallel-group, placebo-controlled study. J Pain Symptom
+Manage 2012. http://dx.doi.org/10.1016/j.jpainsymman.2012.08.019. pii:
+S0885-3924(12)00500-3 [Epub ahead of print].
+[63] Woolf CJ, Salter MW. Neuronal plasticity: increasing the gain in pain. Science
+2000;288:1765–9.
+[64] Wu FS, Yang YC, Tsai JJ. Noncompetitive inhibition of the glycine receptormediated current by melatonin in cultured neurons. Brain Res
+2000;881:208–11.
+[65] Yildirim G, Attar R, Ozkan F, Kumbak B, Ficicioglu C, Yesildaglar N. The effects
+of letrozole and melatonin on surgically induced endometriosis in a rat model:
+a preliminary study. Fertil Steril 2010;93:1787–92.
+[66] Zhdanova IV, Wurtman RJ, Regan MM, Taylor JA, Shi JP, Leclair OU. Melatonin
+treatment for age-related insomnia. J Clin Endocrinol Metab
+2001;86:4727–30.
+[67] Zondervan KT, Yudkin PL, Vessey MP, Jenkinson CP, Dawes MG, Barlow DH,
+Kennedy SH. The community prevalence of chronic pelvic pain in women and
+associated illness behaviour. Br J Gen Pract 2001;51:541–7.
+A. Schwertner et al. / PAIN
+154 (2013) 874–881 881

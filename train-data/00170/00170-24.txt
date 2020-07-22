@@ -1,0 +1,575 @@
+﻿Clinical performance of a new blood control peripheral intravenous
+catheter: A prospective, randomized, controlled study
+Laura E. Seiberlich MS (Clinical Research Manager) a
+, Vanessa Keay BN, RN (Registered
+Nurse) b
+, Stephane Kallos MD (Research Associate) c
+, Tiffany Junghans BA (Research
+Coordinator) c
+, Eddy Lang MD, CCFP-EM (Academic and Clinical Department Head for
+Emergency Medicine) c
+, Andrew D. McRae MD, PhD, FRCPC (Clinician-Scientist and
+Research Director) c,
+*
+a Smiths Medical, ASD, Inc., 1265 Grey Fox Road, St. Paul, MN 55112, USA
+b Department of Emergency Medicine, Foothills Medical Centre, 1403 29 Street NW, Calgary, Alberta, Canada T2N 2T9
+c Department of Emergency Medicine, University of Calgary and Alberta Health Services, 1403 29 Street NW, Calgary, Alberta, Canada T2N 2T9
+ARTICLE INFO
+Article history:
+Received 23 April 2015
+Received in revised form 18 August 2015
+Accepted 20 August 2015
+Keywords:
+Emergency nursing
+Peripheral intravenous catheters
+Blood exposure
+Mucocutaneous exposure
+Blood control
+Safety valved catheter
+Closed system
+Needlestick injury reduction
+ABSTRACT
+Introduction: The performance of a new safety peripheral intravenous catheter (PIVC) that contains a
+blood control feature in the hub (blood control) was compared against the current hospital standard without
+blood control (standard).
+Methods: In this prospective, non-blinded trial, patients were randomized 1:1 to receive either device.
+Insertions were performed and rated by emergency room nurses. Primary endpoints included clinical
+acceptability, incidence of blood leakage, and risk of blood exposure. Secondary endpoints were digital
+compression, insertion success, and usability.
+Results: 15 clinicians performed 152 PIVC insertions (73 blood control, 79 standard). Clinical acceptability of the blood control device (100%) was non-inferior to the standard (98.7%) (p < 0.0001). The blood
+control device had a lower incidence of blood leakage (14.1% vs 68.4%), was superior in eliminating the
+risk of blood exposure (93.9% vs 19.1%) and the need for digital compression (95.3% vs 19.1%), while maintaining non-inferior insertion success rates (95.9% vs 93.7%) and usability ratings (p < 0.0001).
+Discussion: In comparison with the hospital-standard, the new safety PIVC with integrated blood control
+valve had similar clinical acceptability ratings yet demonstrated superior advantages to both clinicians
+and patients to decrease blood leakage and the clinician’s risk of blood exposure, during the insertion
+process.
+© 2015 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+1. Introduction
+The peripheral intravenous catheter (PIVC) is the most commonly used device for gaining vascular access in the clinical setting.
+Nearly 300 million PIVCs are used in United States hospitals alone
+each year (Maki, 2008; Maki et al., 2006). Use of PIVCs places health
+care workers at risk for exposure to blood and possible transmission of a number of pathogens, including hepatitis B and C and
+human immunodeficiency virus (HIV). Exposure may occur because
+of needlestick injuries (NSIs) and/or blood that is back-flowing
+through the open end of the catheter hub.
+The incidence and need for reduction of NSIs among providers
+inserting PIVCs have been a subject of study globally (Elmiyeh et al.,
+2004; Mallin and Sinclair, 2003; Porta et al., 1999; Saia et al., 2010;
+Sharma et al., 2010; Yang and Mullan, 2011). Comparatively, less
+attention has been paid to accidental mucocutaneous blood exposure, and the impact of risks in in curred through such exposures,
+that can occur through catheter leakage, backflow at the hub, or
+splatter that originates when needle-safety mechanisms are activated during PIVC insertion. One study assessing the safety of PIVCs
+found that blood exposure occurred in 10%–27% of all PIVC insertions – either on the clinician’s skin, gloves, mask or clothes or on
+the surrounding environment (Prunet et al., 2008). Another study
+demonstrated that the very small droplets of blood (<1 nL) from PIVC
+spatter confer negligible risk of transmittable diseases such as hepatitis B and C and HIV (Wittmann et al., 2013). However, results from
+a conflicting study indicated that spatter contamination, along with
+“oozing” of blood from the device, deposits particles that could
+* Corresponding author. Department of Emergency Medicine, Foothills Medical
+Centre, Rm C231, 1403 29 St NW, Calgary, AB, Canada T2N 2T9. Tel.: +1 403 210 8835;
+fax: 403 944 2419.
+E-mail address: amcrae@ucalgary.ca (A.D. McRae).
+http://dx.doi.org/10.1016/j.ienj.2015.08.005
+1755-599X/© 2015 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/
+4.0/).
+International Emergency Nursing ■■ (2015) ■■–■■
+ARTICLE IN PRESS
+Please cite this article in press as: Laura E. Seiberlich, et al., Clinical performance of a new blood control peripheral intravenous catheter: A prospective, randomized, controlled
+study, International Emergency Nursing (2015), doi: 10.1016/j.ienj.2015.08.005
+Contents lists available at ScienceDirect
+International Emergency Nursing
+journal homepage: www.elsevier.com/locate/aaen
+potentially cause transmission of blood-borne viruses (Roff et al.,
+2014). Regardless of these contradictory conclusions, investigators of both studies emphasized the importance of instituting
+improvements for reducing mucocutaneous blood exposures among
+health care workers during PIVC insertions.
+Both risk of NSIs and blood exposure have the potential to be greatly
+reduced, if not eliminated, with the advent of improved PIVC technology. For PIVCs with blood control, there are three main categories
+of devices: active, passive, and closed systems. The closed system, or
+integrated closed intravenous catheter systems (CICS), includes a preattached stabilization platform and extension set, and represents the
+most expensive of the blood control devices. The “active” safety blood
+control catheters are less expensive and do not include a preattached extension set. These devices have a safety mechanism within
+the catheter itself that must be activated by the clinician for the needle
+guard to lock over the introducer needle, as well as an integrated blood
+control valvewithin the catheter hub. The “passive” safety blood control
+devices are generally the least expensive blood control device, also
+do not have a pre-attached extension set, and the safety mechanism
+engages during the normal use of the product.
+Recently, three studies have been published evaluating the ease
+of insertion and the effectiveness of both active and passive safety
+catheters in reducing staff’s risk of accidental needlestick, in reducing the occurrence of abnormal blood reflux, and in reducing
+staff exposure to patients’ blood (Onia et al., 2011; Prunet et al.,
+2008; Tamura et al., 2014). However, no such studies have been
+published evaluating a new active safety catheter that also contains a blood control feature in the catheter hub, and no studies
+have examined PIVC usage in an emergency department (ED) setting.
+Therefore, the purpose of this study was to assess the clinical performance of a new blood control catheter compared with the current
+hospital standard in ED patients requiring PIVC insertion. Primary
+outcomes of the study were to assess device acceptability ratings,
+incidence of blood leakage, and risk of blood exposure, and the
+secondary outcomes evaluated use of digital compression during
+the insertion process, PIVC insertion success rates, and clinical
+usability.
+2. Methods
+2.1. Study design and devices
+This was a prospective, non-blinded, randomized, controlled,
+single-center post-market study conducted in the ED of Alberta Health
+Services’ Foothills Medical Centre in Calgary, Alberta, Canada. Subject
+insertions were randomized 1:1 by participating clinicians to either
+the blood control device or to the standard-of-care control. The study
+was reviewed and approved by the hospital’s Research Ethics Board
+(REB) andmade publicly available on clinicaltrials.gov (NCT02119351)
+prior to subject recruitment. All insertions were performed per hospital requirements following standard precautions.
+The blood control device for the study was the ViaValve® Safety
+I.V. Catheter (Smiths Medical, St. Paul, MN), and the standard device
+was the ProtectIV® Safety I.V. Catheter (Smiths Medical, St. Paul, MN),
+the current standard of care for the hospital. Clinicians participating in the study used the straight hub version of the standard device
+during the study to appropriately compare with the blood control
+device performance; however, the primary configuration used at the
+hospital outside of the study was the standard winged product. Both
+study devices are active safety PIVCs, and the functional difference between the 2 products is that the blood control device includes
+a valve that is designed to restrict blood flow back out of the catheter hub upon initial venepuncture. The blood control device also
+contains a window within the introducer needle of the 20–24 G sizes
+for early confirmation of vessel entry.
+2.2. Study population
+Licensed ED nurses at least 18 years of age inserting at least 2
+PIVCs per week for a minimum of 3 months were eligible for study
+inclusion. All eligible individuals in the ED were asked to participate in the study. Those interested and eligible provided informed
+consent and baseline demographic information about their medical
+and PIVC insertion experience. After being trained on the protocol
+and blood control device, the clinicians performed 20 practice insertions into vein pad models before beginning study insertions on
+subjects.
+All patients who were indicated to receive a PIVC and were willing
+and able to sign an informed consent were eligible for enrollment
+as a study subject. Indicated use of a PIVC was defined as: the need
+to gain access to a vein or artery to sample blood, monitor blood
+pressure, or administer intravenous fluids as part of treatment.
+2.3. Data collection
+Study clinicians collected and recorded all data. After obtaining subject informed consent, baseline demographic information
+was collected, and the subject was then randomized to receive either
+the blood control or standard device. For each PIVC insertion attempted, the study clinicians were allowed a total of 3 venepuncture
+attempts to gain vascular access. Data collection about the PIVC insertion continued until PIVC removal for all successful insertions
+(if possible) or stopped at the time an insertion failure status was
+reached. Study subjects were able to have 1 or more PIVCs inserted by 1 or more clinicians, depending upon the subject’s medical
+needs and participating clinicians’ availability.
+For each successful PIVC insertion, clinicians answered questions regarding clinical acceptability, blood exposure risk, blood
+leakage, use of digital compression, insertion success, securement, and clinical usability (ease of use) of the assigned PIVC. Once
+a clinician completed all study insertions, an overall assessment of
+the performance of both PIVCs was collected. Data were also collected for clinician or subject withdrawal, adverse events related
+to the PIVC insertion, and deviations from the clinical protocol.
+2.4. Statistical analysis
+The primary endpoints were clinical acceptability, incidence of
+blood leakage, and risk of blood exposure. Secondary endpoints included the need for digital compression, insertion success, and
+clinical usability. For all of the primary and secondary endpoints
+except the measurement of blood leakage, clinicians indicated their
+agreement with provided statements using a 6-point Likert scale
+and were grouped into 2 categories of Agree (Strongly Agree, Agree,
+and Somewhat Agree) and Disagree (Somewhat Disagree, Disagree, and Strongly Disagree).
+The unit of observation was the insertion of an intravenous catheter. The study was initially designed to enroll 30 clinicians, with
+each clinician performing a total of 10 insertions, 5 with each device
+(300 insertions total). The sample size was based on the primary
+outcome of clinical acceptability and the planned non-inferiority
+comparison of the blood control device to the standard device, with
+a non-inferiority margin of 15%, 90% power, at a one-sided alpha
+of 0.05, and an anticipated acceptability rating of 95% (Blackwelder,
+1982). With 10 observations per clinician, a modest intra-clinician
+correlation of 0.2, and a low attrition rate (5%), a total of 300 insertions were planned. However, because of clinician availability,
+15 clinicians were targeted to perform a maximum of 20 insertions each, with a target of at least 150 insertions total.
+Statistical analyses were performed using SAS, version 9.2 (SAS
+Institute, Cary, NC). Study subject data were summarized using descriptive statistics. Two-sided 95% confidence intervals were
+ARTICLE IN PRESS
+Please cite this article in press as: Laura E. Seiberlich, et al., Clinical performance of a new blood control peripheral intravenous catheter: A prospective, randomized, controlled
+study, International Emergency Nursing (2015), doi: 10.1016/j.ienj.2015.08.005
+2 L.E. Seiberlich et al./International Emergency Nursing ■■ (2015) ■■–■■
+calculated for event-rate differences between the standard and blood
+control devices. For inferential assessments between the two groups,
+Fisher’s exact test was used for binary variables, and a t-test was
+used for continuous variables. A p-value of <0.05 was considered
+statistically significant. As there were multiple observations per clinician and to account for potential correlations within clinicians,
+generalized estimating equations (GEE) with the exchangeable correlation structure for within-clinician correlations were used.
+3. Results
+A total of 15 ED nurses and 150 subjects were enrolled in the
+study. Two clinicians withdrew before performing any insertions,
+and 1 subject withdrew from the study after the initial attempt to
+place the assigned PIVC was unsuccessful. Tables 1 and 2 provide
+descriptive summary statistics of the demographic data for participating clinicians and subjects, respectively. Two of the
+participating subjects received 2 insertions, bringing the total number
+of study insertions to 152. There were a total of 4 PIVC-related
+adverse events reported during the study. All events were hematomas, 2 for each catheter type, and both resolved with observation.
+A total of 73 insertions were attempted or successfully placed
+using the blood control device and 79 using the standard device.
+Despite the complete range of sizes made available (14–24 g), the
+device sizes selected for insertion were primarily the 18 g × 1¼″
+(46/73 blood control and 41/79 standard insertions) and 20 g × 1¼″
+(27/73 blood control and 33/79 standard insertions). There were 4
+standard device insertions where an 18 g was used for the first venepuncture and 20 g for the second, and one 14 g × 1¼″ standard
+device was also used. As the setting was the ED, the indwell times
+were either of short duration (mean approximately 2 hours) or
+unknown due to patients being moved to an inpatient status. Table 3
+provides additional summary statistics for the PIVC insertion data
+for both devices, including insertion technique, vessel adequacy, insertion location, number of venipunctures per subject, and catheter
+dislodgement during needle withdrawal.
+3.1. Clinical acceptability
+Clinicians rated the clinical acceptability of each PIVC insertion
+with the statement, “The PIVC was clinically acceptable for the
+purpose of intravenous or arterial insertion.” Table 4 presents the
+summary statistics by device and the results of the statistical comparisons of superiority of the blood control PIVC compared to the
+standard device for the pre-specified endpoints. The clinical acceptability of the blood control device was statistically noninferior to the standard, with 72/72 of the evaluable blood control
+insertions (100%) and 76/77 standard insertions (98.7%) receiving
+a clinical acceptability rating of somewhat agree or above (noninferiority margin = 15%; p < 0.0001). The predominant response was
+“strongly agree” – 64/72 for the blood control device (88.9%) and
+67/77 for the standard device (87.0%). There was 1 rating of somewhat disagree, which was reported from use of the standard catheter.
+A test for superiority of the blood control device to the standard
+device for clinical acceptability was performed and was not
+significant.
+3.2. Blood exposure
+Clinicians reported blood leakage through a yes/no response to
+the question, “During the process of catheter insertion, withdrawal of the needle and connection of the Luer, did you observe blood
+leaking from the catheter hub?” Of the 152 total insertions, 62 instances of blood leakage were reported, 10 using the blood control
+device (14.1%) and 52 using the standard device (68.4%) (Table 4).
+The results demonstrated that the blood control device was superior to the standard device in preventing blood leakage (p < 0.0001).
+In addition to reporting blood leakage, clinicians assessed overall
+blood exposure risk of each insertion by providing a Likert-scale rated
+Table 1
+Clinician demographics summary.
+Characteristic N = 13 clinicians
+Age (year)
+Mean (SD) 35.8 (7.3)
+Median (min, max) 34.0 (25.0, 51.0)
+Gender
+Female 9/13 (69.2%)
+Male 4/13 (30.8%)
+Number of years inserting IV catheters
+Mean (SD) 10.5 (5.3)
+Median (min, max) 9.2 (3.3, 20.3)
+Average number of IV catheter insertions each week
+Mean (SD) 18.1 (12.2)
+Median (min, max) 10.0 (10.0, 40.0)
+Normally use digital compression for preventing
+blood leakage
+No 1/13 (7.7%)
+Yes 12/13 (92.3%)
+Table 2
+Patient demographic summary.
+Characteristic N = 150 subjects
+Age (year)
+Mean (SD) 46.2 (18.0)
+Median (min, max) 44.2 (17.8, 98.6)
+Gender
+Female 89/150 (59.3%)
+Male 61/150 (40.7%)
+BMI (kg/m2)
+Mean (SD) 25.9 (5.2)
+Median (min, max) 25.1 (14.4, 44.5)
+PIVC insertion indication
+Sample blood 138/150 (92.0%)
+Monitor blood pressure 2/150 (1.3%)
+Fluid infusion 90/150 (60.0%)
+Medication administration 74/150 (49.3%)
+Table 3
+PIVC insertion summary.
+Measure Blood control
+N = evaluable
+insertions
+Standard
+N = evaluable
+insertions
+Type of approach used for insertion N = 67 N = 75
+One handed 42/67 (62.7%) 31/75 (41.3%)
+Two handed 25/67 (37.3%) 44/75 (58.7%)
+Assess the overall vessel adequacy N = 72 N = 78
+Clearly visible and easily palpable 51/72 (70.8%) 41/78 (52.6%)
+Visible and palpable 10/72 (12.6%) 11/78 (14.1%)
+Barely visible and palpable 9/72 (12.5%) 18/78 (23.1%)
+Visible but not palpable 1/72 (1.4%) 1/78 (1.3%)
+Neither visible nor palpable 1/72 (1.4%) 7/78 (9.0%)
+Final location of the IV catheter N = 69 N = 76
+Right/left hand 10/69 (14.5%) 14/76 (18.4%)
+Right/left forearm 32/69 (46.4%) 41/76 (53.9%)
+Right/left antecubital fossa 24/69 (34.8%) 17/76 (22.4%)
+Other 3/69 (4.3%) 4/76 (5.3%)
+Number of venipunctures per subject N = 73 N = 79
+1 66/73 (90.4%) 65/79 (82.3%)
+2 7/73 (9.6%) 12/79 (15.2%)
+3 or 4 0/73 (0.0%) 2/79 (2.5%)
+Catheter dislodge from vessel during
+withdrawal
+N = 69 N = 71
+No 69/69 (100%) 69/71 (97.2%)
+Yes 0/73 (0.0%) 2/71 (2.8%)
+ARTICLE IN PRESS
+Please cite this article in press as: Laura E. Seiberlich, et al., Clinical performance of a new blood control peripheral intravenous catheter: A prospective, randomized, controlled
+study, International Emergency Nursing (2015), doi: 10.1016/j.ienj.2015.08.005
+L.E. Seiberlich et al./International Emergency Nursing ■■ (2015) ■■–■■ 3
+response to the question, “During the process of catheter insertion, withdrawal of the needle and connection of the Luer, the PIVC
+eliminated the risk of blood exposure.” For the blood control device,
+60 of the 64 evaluable insertions (93.8%) were rated “somewhat
+agree” or above, compared with 13 of 68 evaluable insertions (19.1%)
+for the standard device (p < 0.0001) (Table 4). The results demonstrated that the blood control device was superior to the standard
+device in eliminating the perceived risk of blood exposure during
+the catheter insertion process (Fig. 1).
+3.3. Need for digital compression
+Digital compression was assessed by providing a Likert-scale rated
+response to the question, “During the process of catheter insertion, withdrawal of the needle and connection of the Luer, the PIVC
+eliminated the need for digital compression to prevent blood leakage
+from the catheter hub”. For the blood control device, 61 of the 64
+(95.3%) evaluable insertions were rated “somewhat agree” or above,
+compared with 13 of the 68 (19.1%) evaluable insertions from the
+standard device (p < 0.0001) (Table 4). The results demonstrated that
+the blood control device was superior to the standard device in eliminating the clinician’s need to use digital compression during catheter
+insertion (Fig. 1).
+3.4. Insertion success
+Insertion success was defined as the ability of the clinician to
+successfully place the PIVC in the subject with ≤3 venepunctures
+total (maximum of 2 attempts and 1 successful insertion). For the
+blood control device, 70 of the 73 insertions (95.9%) were reported as successful, compared with 72 of the 79 insertions for the
+standard device (93.7%) (Table 4). Of the successful insertions, the
+blood control device had 2 instances where 2 venipunctures were
+required for successful placement, whereas the standard device had
+9 instances requiring 2 venepunctures and 1 requiring 3
+venepunctures. The overall “first stick” success rate of the blood
+control device was 90.4% compared with 81.0% for the standard
+device or 1.06 and 1.15 venepunctures per successful insertion, respectfully. In examining the first stick success rates by device size,
+the 18 g rate was 93.5% (43/46) and 90.2% (37/41) respectively for
+the blood control and standard devices; whereas the 20 g was 85.2%
+(23/27) and 75.8% (25/33). While the results successfully demonstrated that the insertion success rate of the blood control device
+is non-inferior to that of the standard device (non-inferiority
+margin = 15%; p = 0.0003), the blood control device did not demonstrate superiority (p = 0.7209).
+3.5. Clinical usability and overall assessment
+Clinical usability was a term encompassing a number of statements that assessed performance parameters of the PIVCs after each
+insertion. Clinicians submitted Likert-scale rated responses to 7 clinical usability questions. Table 5 presents the summary statistics by
+device for the percent of clinicians who agreed (strongly agree, agree,
+somewhat agree) and disagreed (somewhat disagree, disagree,
+strongly disagree) with the statements. Eleven of the 13 clinicians
+also completed an overall assessment of the performance of both
+devices. Overall, the clinical usability ratings were positive for both
+devices. Clinicians stated that the blood control device would have
+the same or better likelihood of insertion success as the standard
+device, and all clinicians agreed that they would recommend use
+of the blood control device over other catheters they have used. Both
+devices were rated overall as clinically acceptable by all clinicians.
+4. Discussion
+This study demonstrates the ability of a new blood control catheter to decrease the observed blood leakage and risk of blood
+exposure to both clinicians and patients, while maintaining the same
+level of performance and clinical acceptability as the catheter type
+currently being used as the hospital standard of care. Reducing the
+amount of blood exposure observed during the insertion process
+is beneficial for both the clinicians, in terms of potential bloodborne
+pathogens, but also to the patients’ comfort or level of anxiety if
+having to observe blood leakage. Although not evaluated in this study,
+first stick success may also impact patient comfort or satisfaction,
+Table 4
+Endpoint analyses.
+Outcome measured Blood control device
+N = evaluable
+insertions
+Standard device
+N = evaluable
+insertions
+Clinical acceptability (insertions
+rated clinically acceptablea)
+N = 72 N = 77
+Number rated clinically
+acceptable (%)
+72 (100%) 76 (98.7%)
+95% CI (non-inferiority p-value) 95.0, 100.0 (p < 0.0001) 93.0, 100.0
+Blood leakage events (reports of
+blood leaking from catheter hub)
+N = 71 N = 76
+Number of blood leakage
+events (%)
+10 (14.1%) 52 (68.4%)
+95% CI (superiority p-value) 7.0, 24.4 (p < 0.0001) 56.7, 78.6
+Blood exposure risk reduction
+(insertions with agreement that
+blood exposure risk was
+eliminateda)
+N = 64 N = 68
+Number of blood leakage
+events (%)
+60 (93.8%) 13 (19.1%)
+95% CI (superiority p-value) 84.8, 98.3 (p < 0.0001) 10.6, 30.5
+Digital compression (insertions
+with agreement that need for
+digital compression was
+eliminateda)
+N = 64 N = 68
+Number of blood leakage
+events (%)
+61 (95.3%) 13 (19.1%)
+95% CI (superiority p-value) 86.9, 99.0 (p < 0.0001) 10.6, 30.5
+Insertion success (ability of
+clinician to successfully place the
+PIVC in the subject with three or
+fewer venipunctures total)
+N = 73 N = 79
+Number of successful
+insertions (%)
+70 (95.9%) 74 (93.7%)
+95% CI (non-inferiority p-value) 88.5, 99.1 (p = 0.0003) 85.8, 97.9
+a Defined as all responses rated “somewhat agree,” “agree,” or “strongly agree”.
+14.10%
+93.90% 95.30%
+68.40%
+19.10%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Blood Leakage Events Eliminated Risk of
+Blood Exposure
+Eliminated Need for
+Digital Compression
+Blood Control Device
+Standard Device
+19.10%
+Fig. 1. Benefits observed from the blood control device.
+ARTICLE IN PRESS
+Please cite this article in press as: Laura E. Seiberlich, et al., Clinical performance of a new blood control peripheral intravenous catheter: A prospective, randomized, controlled
+study, International Emergency Nursing (2015), doi: 10.1016/j.ienj.2015.08.005
+4 L.E. Seiberlich et al./International Emergency Nursing ■■ (2015) ■■–■■
+as both pain and anxiety have been previously described being
+associated with peripheral IV cannula insertion (Deguzman et al.,
+2012; McNaughton et al., 2009; Winfield et al., 2013). Differences
+in first stick success rates were primarily observed between the 20 g
+devices, and the blood control 20 g device has the window for early
+blood visualization.
+Although the blood control device demonstrated superiority in
+reducing the number of observed blood leakage events, more blood
+leakage events were reported using both products than was initially anticipated. Requiring clinicians to switch from a winged
+product to a catheter with a straight hub likely elevated the blood
+leakage incidence due to a change in the technique for how the catheter hub is held during the insertion process. Despite changing back
+and forth between two devices and switching to a product without
+wings, the first stick success rate of 1.06 for the blood control device
+was lower than the standard device and the US national average
+of 2.2 sticks per successful insertion per patient (LaRue, 2000).
+Some users also reported not using digital compression with the
+standard device, a technique that is necessary to prevent blood
+leakage in standard devices. However, despite using the compression in that group, blood leakage was still observed. Having a blood
+control feature allows clinicians to modify their insertion technique, freeing up their second hand to focus on becoming more
+efficient with completing the cannula insertion and securement.
+In addition, it was noted that the Luer connection forces were
+different between the two devices in order to pass through the valve
+of the blood control catheter. Additional practice insertions requiring Luer connection, as well as consistently using the same device
+for consecutive insertions rather than switching between two devices
+for randomization, may lead to an even lower rate of blood exposure with the blood control device.
+4.1. Limitations
+There were some limitations to the study that could have affected the results. Because the clinicians were able to contribute to
+the endpoint multiple times, overall ratings of each device could
+have been skewed. The general estimating equation (GEE) analysis was performed to take into account the correlation among
+observations from each clinician. In addition, the number of insertions performed by each clinician varied from nurse to nurse. This
+lack of uniformity in the number of product uses could have introduced variability in the overall ratings; for example, it is possible
+that those performing the greatest insertions could have become
+more comfortable with the device, prompting more positive ratings.
+Also, the study was designed to collect data from 30 clinicians performing 300 insertions but was completed and analyzed with 15
+clinicians and 152 insertions due to clinician availability. Finally, the
+fact that the study could not be designed as a double-blind investigation lent some inherent, albeit unavoidable, clinician bias to the
+results.
+5. Conclusion
+The blood control PIVC achieved a clinically meaningful reduction in blood leakage and blood exposure events with similar overall
+acceptability to standard PIVCs. This offers ED nurses an important reduction in the risk of occupational blood-borne illness
+exposure.
+Additional research comparing performance of multiple blood
+control PIVCs in a clinical setting would help differentiate performance between the available products; however, the insertion
+technique for each device is different and would be challenging to
+evaluate in a randomized non-biased design.
+Acknowledgements
+The authors would like to thank all study participants and ED
+nurses who participated in the study. The authors would like to specifically acknowledge Peggy Pereda and Wei Cao at Regulatory and
+Clinical Research Institute, Inc. for their statistical planning, analysis, and expertise and Smiths Medical for funding the study.
+Conflict of interest
+This study was designed and funded by Smiths Medical, the manufacturer of both the blood control and standard PIVCs that were
+evaluated. The data were collected by emergency nurses who did
+not have any affiliation with the study Sponsor, and the statistical
+analyses were also performed independently by Regulatory and Clinical Research Institute, Inc. The co-author, Laura Seiberlich, is an
+employee of the study Sponsor; all other authors have no financial conflicts to report.
+References
+Blackwelder, W.C., 1982. Proving the null hypothesis in clinical trials. Controlled
+Clinical Trials. 3, 345–353.
+Deguzman, Z.C., O’Mara, S.K., Sulo, S., Haines, T., Blackburn, L., Corazza, J., 2012.
+Bacteriostatic normal saline compared with buffered 1% lidocaine when injected
+intradermally as a local anesthetic to reduce pain during intravenous catheter
+insertion. Journal of Perianesthesia Nursing. 27 (6), 399–407.
+Elmiyeh, B., Whitaker, I.S., James, M.J., Chahal, C.A., Galea, A., Alshafi, K., 2004.
+Needle-stick injuries in the National Health Service: a culture of silence. Journal
+of the Royal Society of Medicine. 97, 326–327.
+LaRue, G.D., 2000. Efficacy of ultrasonography in peripheral venous cannulation.
+Journal of Infusion Nursing. 23, 29–34.
+Maki, D.G., 2008. Improving the safety of peripheral intravenous catheters. BMJ
+(Clinical Research Ed.). 337, 122–123.
+Maki, D.G., Kluger, D.M., Crnich, C.J., 2006. The risk of bloodstream infection in adults
+with different intravascular devices: a systematic review of 200 published
+prospective studies. Mayo Clinic Proceedings. Mayo Clinic. 81, 1159–1171.
+Mallin, A.R., Sinclair, D., 2003. Needlestick injuries and potential body fluid exposure
+in the emergency department. Canadian Journal of Emergency Medicine. 5 (1),
+36–37.
+Table 5
+Clinical usability of the standard and blood control PIVCs.
+Clinical usabilitya Blood control device Standard device
+% Agree (strongly,
+agree, somewhat)
+% Disagree (somewhat,
+disagree, strongly)
+% Agree (strongly,
+agree, somewhat)
+% Disagree (somewhat,
+disagree, strongly)
+Blood flashback easily seen 100% (62, 9, 0) 0% (0, 0,0) 98.7% (48,23, 4) 1.3% (0,0, 1)
+Needle and catheter easily advanced 95.8% (57,10, 1) 4.2% (2, 1,0) 97.3% (51,19, 3) 2.7% (0,1, 1)
+Needle easily withdrawn 98.6% (53,15, 1) 1.4% (0, 0,1) 98.7% (52,18, 4) 1.3% (0,0, 1)
+Risk of needlestick injury reduced by needle retraction mechanism 98.6% (57,10, 3) 1.4% (1, 0,0) 85.5% (41,18, 5) 4.5% (0,0,11)
+Connection between catheter hub and Luer easily performed 88.7% (38,18, 7) 11.3% (2 ,5,1) 86.7% (41,13,12) 13.3% (4,4, 2)
+Clinically acceptable flushing of the IV catheter 98.6% (62, 8, 0) 1.4% (0, 1,0) 98.7% (58,14, 2) 1.3% (0,0, 1)
+Catheter easily secured to patient 98.6% (39,20,10) 1.4% (0, 1,0) 97.3% (50,19, 4) 2.7% (2.0, 0)
+a Insertions evaluated ‘unable to rate’ by the clinicians were excluded from the analysis.
+ARTICLE IN PRESS
+Please cite this article in press as: Laura E. Seiberlich, et al., Clinical performance of a new blood control peripheral intravenous catheter: A prospective, randomized, controlled
+study, International Emergency Nursing (2015), doi: 10.1016/j.ienj.2015.08.005
+L.E. Seiberlich et al./International Emergency Nursing ■■ (2015) ■■–■■ 5
+McNaughton, C., Zhou, C., Robert, L., Storrow, A., Kennedy, R., 2009. A randomized,
+crossover comparison of injected buffered lidocaine, lidocaine cream, and no
+analgesia for peripheral intravenous cannula insertion. Annals of Emergency
+Medicine. 54 (2), 214–220.
+Onia, R., Eshun-Wilson, I., Arce, C., Ellis, C., Parvu, V., Hassman, D., et al., 2011.
+Evaluation of a new safety peripheral IV catheter designed to reduce
+mucocutaneous blood exposure. Current Medical Research and Opinion. 27 (7),
+1339–1346.
+Porta, C., Handelman, E., McGovern, P., 1999. Needlestick injuries among health care
+workers. A literature review. AAOHN Journal : Official Journal of the American
+Association of Occupational Health Nurses 47 (6), 237–244.
+Prunet, B., Meaudre, E., Montcriol, A., Asencio, Y., Bordes, J., Lacroix, G., et al., 2008.
+A prospective randomized trial of two safety peripheral intravenous catheters.
+Anesthesia and Analgesia. 107 (1), 155–158.
+Roff, M., Basu, S., Adisesh, A., 2014. Do active safety-needle devices cause spatter
+contamination? The Journal of Hospital Infection. 86 (3), 221–223.
+Saia, M., Hofmann, F., Sharman, J., Abiteboul, D., Campins, M., Burkowitz, J., et al.,
+2010. Needlestick injuries: incidence and cost in the United States, United
+Kingdom, Germany, France, Italy and Spain. Biomedical International. 1, 41–
+49.
+Sharma, R., Rasania, S.K., Verma, A., Singh, S., 2010. Study of prevalence and response
+to needle stick injuries among health care workers in a tertiary care hospital in
+Delhi, India. Indian Journal of Community Medicine : Official Publication of Indian
+Association of Preventive & Social Medicine. 35 (1), 74–77.
+Tamura, N., Abe, S., Hagimoto, K., Kondo, A., Matsuo, A., Ozawa, Y., et al., 2014.
+Unfavorable peripheral intravenous catheter replacements can be reduced using
+an integrated closed intravenous catheter system. The Journal of Vascular Access.
+15 (4), 257–263.
+Winfield, C., Knicely, C., Jensen, C., Taylor, S., Thomas, K., Conaway, M., et al., 2013.
+What is the least painful method of anesthetizing a peripheral IV site? Journal
+of Perianesthesia Nursing. 28 (4), 217–222.
+Wittmann, A., Köver, J., Kralj, N., Gasthaus, K., Tosch, M., Hofmann, F., 2013.
+Mucocutaneous blood contact: blood release behavior of safety peripheral
+intravenous catheters. American Journal of Infection Control. 41, 1214–1217.
+Yang, L., Mullan, B. (2011) Reducing needle stick injuries in healthcare occupations:
+an integrative review of the literature. ISRN Nursing.
+ARTICLE IN PRESS
+Please cite this article in press as: Laura E. Seiberlich, et al., Clinical performance of a new blood control peripheral intravenous catheter: A prospective, randomized, controlled
+study, International Emergency Nursing (2015), doi: 10.1016/j.ienj.2015.08.005
+6 L.E. Seiberlich et al./International Emergency Nursing ■■ (2015) ■■–■■

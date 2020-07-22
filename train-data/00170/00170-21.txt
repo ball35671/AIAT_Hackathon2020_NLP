@@ -1,0 +1,186 @@
+﻿425
+Health care workers are continually exposed to a
+number of potentially dangerous bloodborne
+pathogens in the workplace. Needlesticks have long
+been identified as being capable of transmitting more
+than 20 different pathogens, including HIV and hepatitis B and C.1 In November 1999, the Occupational
+Safety and Health Administration issued a revised
+directive to ensure uniform inspection procedures to
+better enforce the Bloodborne Pathogen Standard, an
+update of the previous directive on inspection uniformity contained within it.2 This standard was signed
+into law Nov 6, 2000, and became effective April 18,
+2001.3 The Occupational Safety and Health
+Administration has also created a Web site
+(http://www.osha-slc.gov/needlesticks/index.html) with
+the latest information on needlestick injuries, including
+current research, legislation, and news releases.4
+An 800-plus bed hospital serving a major metropolitan population in Texas implemented hospital-wide
+safety syringes and needleless-intravenous systems in
+all of its departments except in cases in which the use
+of traditional needled devices are unavoidable. This
+transition occurred in 1997 during a 6-month period.
+Accident reports of sharps injuries from the hospital’s
+Occupational Health Clinic were used to calculate the
+incidence rate 3 years before and 3 years after implementation to compare the effectiveness of these safety
+measures. The intent of the analysis was to evaluate
+sharps injuries occurring to all health care and ancillary workers to determine whether the engineering
+controls were effective in reducing needlestick injuries.
+METHODS
+The retrospective data were composed of injury
+reports from employees who reported an occupational
+injury to the hospital’s Occupational Health Clinic
+between Jan 1, 1994, and Dec 31, 1999.
+Confounders
+Confounding variables that may have influenced
+analysis included the effect of educational inservices
+attended by some or all health care workers during any
+time of the study period, knowledge of correct device
+usage, and the variability of under-reporting among
+occupations.5 One of the confounders present throughout the postintervention phase was the availability of
+traditional needled devices.
+Data Analysis
+The injury reports were used to stratify injuries by
+year and to calculate annual incidence rates before and
+after implementation of the safety measures for comparison. The data were screened to include only health
+care workers who had direct patient contact or ancillary workers who may have been in areas where medical procedures had taken place.6 However, according
+to the insurance criteria for this particular hospital,
+physicians were not included in the full-time equivalent
+Assessing the effect of long-term
+availability of engineering controls on
+needlestick injuries among health care
+workers: A 3-year preimplementation
+and postimplementation comparison
+Siddharta G. Reddy, MPHa
+Robert J. Emery, DrPH, CHP, CIH, CSP, RBPb,c
+Houston, Texas
+From the Houston Center for Quality of Care & Utilization Studies,
+VA Medical Centera
+; the University of Texas Houston Health
+Science Centerb; and the University of Texas-Houston School of
+Public Health.c
+Reprint requests: Siddharta G. Reddy, MPH, Houston Center for
+Quality of Care & Utilization Studies, VA Medical Center (152),
+2002 Holcombe Blvd, Houston, TX 77030.
+Am J Infect Control 2001;29:425-7.
+17/47/118404
+doi:10.1067/mic.2001.118404
+AJIC
+426 Reddy and Emery December 2001
+(FTE) database under analysis and were therefore
+excluded from incidence rate calculations made on the
+basis of the FTE.
+Statistical significance was measured with the χ2
+test, which compared the pooled annual injuries before
+and after implementation of the safety measures.7 A χ2
+test for trend was also performed to analyze change in
+the annual injury incidence rate. Significance was measured at α = 0.05. Analysis was performed on a widely
+available software package (SPSS release 10.0; SPSS
+Inc, Chicago, Ill).
+RESULTS
+The database contained 550 entries related to sharp
+injuries during the 6-year period. We excluded entries
+such as injuries to physicians and those who did not
+indicate occupation, leaving 533 injuries. Injuries
+caused by devices were classified according to those
+resulting from needles, glass, medical devices, and
+unidentifiable sources. The χ2 analysis of pooled injury
+rates before and after implementation of the safety
+devices yielded a significant reduction of injury rates
+between the 2 periods (χ2 = 40.5, df = 1, P < .0001). The
+Table shows the injury incidence rates resulting from
+needle-related devices. A χ2 test for trend to determine
+whether a decreasing rate of injury during the 6 years
+took place resulted in a score of 63.1 (df = 5, P < .0001).
+An analysis of risk comparing occupations and departments could not be accomplished because of insufficient information of at-risk individuals within each of
+those categories. The FTE data were only available as a
+total number of employees each year in the hospital.
+Nevertheless, the manner in which the departments are
+separated allows for patient-care staff to be included in
+nearly all departments, which allowed overall incidence rate calculations. A close examination of the
+trend (Figure) reveals a decline in the years preceding
+implementation of the safety devices. According to the
+hospital, during 1995 an extensive inservice was begun
+to educate all hospital employees on the importance of
+needlestick safety and bloodborne pathogens. This type
+of program has been previously demonstrated to
+Figure. Needle-related injury incidence rate.
+Table. Needle-related injury incidence rate*
+Full-time Cochran’s χ2 Pearson’s χ2
+:
+Intervention Reported equivalent Incidence rate (df = 1) test for trend
+period Year needle-related injuries employees (per 100 FTE) (before vs after) (df = 5) (annually)
+Before
+1994 100 945 10.6%
+1995 102 989 10.3%
+1996 69 1077 6.4% 41.6 64.3
+After
+1997 74 1176 6.3% P < .0001 P < .0001
+1998 66 1308 5.0%
+1999 63 1508 4.2%
+*Excludes physicians.
+AJIC
+Volume 29, Number 6 Reddy and Emery 427
+decrease such injuries.8 It was not apparent which device
+(traditional or safety) was the cause of injury in every
+report since that information was not specifically asked.
+This was an important limitation that prevented accurate
+comparison of the safety devices with traditional devices
+and required the assumption that implementation of the
+safety devices was responsible for fewer injuries.
+DISCUSSION
+Although the results showed a significant decrease in
+the annual injury incidence in both the comparison of
+preintervention and postintervention periods and in a
+test for trend, one should be cautious in his or her
+interpretation. For example, during the course of the
+postimplementation period, traditional needle syringes
+and traditional intravenous catheter systems still existed, effectively presenting workers with a choice.
+Another important limitation of this study, as with
+most retrospective analyses, was the quality and consistency of information available. First, there were no
+specific questions on the injury report form regarding
+the device used, procedure being performed, or parties
+involved in the injury. Instead, an area was provided for
+a brief description of what occurred. The mandatory
+inclusion of these fields in the database would have
+made analysis of injuries more accurate. This illustrates the need for more extensive recordkeeping since
+it was not known what device was involved in more
+than 58% of injuries, who was at fault in 23% of
+injuries, or which procedure was performed in 23% of
+injuries. Such information is now mandatory with the
+passage of Texas and federal legislation on recording
+injuries that occur to health care workers in a sharps
+injury log, in addition to making safety needle devices
+available to nearly all health care workers.9 To calculate
+incidence rates, FTE data were only available as a total
+count for each year of analysis rather than for each
+occupation and/or department. This allowed an estimation of an average incidence for each year, but occupation- and department-specific rates would have been
+more informative for customizing safety planning and
+allocation of resources.
+References
+1. Association for Professionals in Infection Control and
+Epidemiology. APIC position paper: prevention of device-mediated bloodborne infections to health care workers. Am J Infect
+Control 1998;26(6):578-80.
+2. Occupational Safety and Health Administration. Enforcement
+procedures for the occupational exposure to bloodborne
+pathogens (instruction). OSHA Directives CPL 2-2.44D (1999).
+3. Occupational Safety and Health Administration Web site.
+Prevention is the best medicine: OSHA announces outreach effort
+on needlestick prevention [national news relase]. USDL: 01-140.
+Available at http://www.osha.gov/media/oshnews/may01/national20010509.html. Accessed May 2000.
+4. Occupational Safety and Health Administration Web site.
+Needlestick injuries. Available at http://www.osha-slc.gov/SLTC/
+needlestick/index.html. Accessed April 2000.
+5. L’Ecuyer PB, Schwab EO, Iademarco E, Barr N, Aton EA, Fraser
+VJ. Randomized prospective study of the impact of needleless
+intravenous systems on needlestick injury rates. Infect Control
+Hosp Epidemiol 1996;17(12):803-8.
+6. Albertoni F, Ippolito G, Petrosillo N, Sommella L, Di Nardo V,
+Ricci C, et al. Needlestick injury in hospital personnel: a multicenter survey from central Italy. Infect Control Hosp Epidemiol
+1992;13(9):540-4.
+7. Gartner K. Impact of a needleless intravenous system in a university hospital. Am J Infect Control 1992;20(2):75-9.
+8. Becker MH, Janz NK, Band J, Bartley J, Snyder MB, Gaynes RP.
+Noncompliance with Universal Precautions policy: why do physicians and nurses recap needles? Am J Infect Control
+1990;18(4):232-9.
+9. Communicable Disease Prevention and Control Act. Texas Health
+and Safety law. Chapter 81, subchapter H. Bloodborne pathogen
+exposure plan (September 1999).
